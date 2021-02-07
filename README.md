@@ -46,7 +46,8 @@ Data sources featured in this repository include:
 *    StatsBomb season-on-season aggregated player performance data scraped from FBref;
 *    StrataBet Chance shooting data;
 *    TransferMarket player bio and fiscal data scraped using the FCrStats webscraper (pull request submitted);
-*    Understat shooting and meta data including player xG values.
+*    Understat shooting and meta data including player xG values; and
+*    Wyscout Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?). See his paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
 
 ## Data Visualisation and Tableau 
 For Tableau dashboards produced using the data engineered in the notebooks in this repository, please see my Tableau Public profile: [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster). 
