@@ -9,7 +9,7 @@ Please note, all work produced in this repository is mine and/or credited to the
 
 I accidentally deleted the previous README for this repository without backup so whilst this notice remains, I am currently rewriting it to include the full list of data sources, libraries and webscrapers, and favourite papers and learning materials.
 
-For data analysis, see the notebooks subfolder, in which the workflow is divided into the following:
+For code, see the notebooks subfolder, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
