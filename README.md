@@ -5,10 +5,21 @@ This repository contains all the football analytics projects by [Edd Webster](ht
   <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
 </p>
 
-## About this Repository 
-Please note, all work produced in this repository is mine and/or credited to the publicly produced code used and is in no way related to the work and analysis I produce for my employers.
 
 I recently accidentally deleted what was quite a well written and cited README file for this repository, unfortunately without backup. Whilst this notice remains, I am currently rewriting it to include the full list with links of: data sources, libraries & webscrapers, and favourite papers and learning materials, all of which include links to credited sources. This should be done shortly - 07/02/2021.
+
+## About this Repository and Author
+Please note, all work produced in this repository is mine and/or credited to the publicly produced code used and is in no way related to the work and analysis I produce for my employers.
+
+For more information about this repository and the author, I'm available through all the following channels:
+*    [eddwebster.com](https://www.eddwebster.com/);
+*    edd.j.webster@gmail.com;
+*    [@eddwebster](https://www.twitter.com/eddwebster);
+*    [linkedin.com/in/eddwebster](https://www.linkedin.com/in/eddwebster/);
+*    [github/eddwebster](https://github.com/eddwebster/);
+*    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster);
+*    [kaggle.com/eddwebster](https://www.kaggle.com/eddwebster); and
+*    [hackerrank.com/eddwebster](https://www.hackerrank.com/eddwebster).
 
 ## Notebooks
 For code, see the notebooks subfolder, in which the workflow is divided into the following:
@@ -45,13 +56,11 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 *    StrataBet Chance dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterStrataBetChanceAnalysisandDashboards/StrataBetChanceShotMapDashboard?:language=es&:display_count=y&:origin=viz_share_link)]; and
 *    Opta [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics) dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterOptaMCFCAnalyticsPL1112AnalysisandDashboards/OptaPlayerDemographicsDashboard?:language=es&:display_count=y&:origin=viz_share_link)].
 
-## Contact
-For more information about this repository and the author, I'm available through all the following channels:
-*    [eddwebster.com](https://www.eddwebster.com/);
-*    edd.j.webster@gmail.com;
-*    [@eddwebster](https://www.twitter.com/eddwebster);
-*    [linkedin.com/in/eddwebster](https://www.linkedin.com/in/eddwebster/);
-*    [github/eddwebster](https://github.com/eddwebster/);
-*    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster);
-*    [kaggle.com/eddwebster](https://www.kaggle.com/eddwebster); and
-*    [hackerrank.com/eddwebster](https://www.hackerrank.com/eddwebster).
+## Libaries
+[TO REWRITE]
+
+## Learning Resources
+[TO REWRITE]
+
+## Papers and Blog Posts
+[TO REWRITE]
