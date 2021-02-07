@@ -7,6 +7,8 @@ This repository contains all the football analytics projects by [Edd Webster](ht
 
 Please note, all work produced in this repository is mine and/or credited to the publicly produced code used and is in no way related to the work and analysis I produce for my employers.
 
+I accidentally deleted the previous README for this repository so whilst this notice remains, I am currently rewriting this readme to include the full list of data sources, libraries and webscrapers, and favourite papers and learning materials.
+
 For data analysis, see the notebooks subfolder, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
