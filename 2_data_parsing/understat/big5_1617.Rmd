@@ -1,0 +1,86 @@
+---
+title: "Scrape understat"
+---
+
+
+```{r setup}
+library(tidyverse)
+library(understatr)
+options(dplyr.summarise.inform = FALSE)
+
+leagues_meta <- understatr::get_leagues_meta()
+
+leagues_meta
+```
+
+The R package [understatr](https://github.com/ewenme/understatr) provides a handy function
+`get_match_shots`. However, to make use of it, we have to get a list of match IDs.
+
+So, let's create a `fetch_matches` function that takes a league's page URL (as provided in `leagues_meta`)
+and returns the matches for that league and season.
+
+```{r, message=FALSE}
+library(rvest)
+
+extract_json <- function(html, varname) {
+  # Extract a JSON variable from the raw html
+  html %>% 
+    html_nodes("script") %>% 
+    html_text(trim = TRUE) %>% 
+    keep(str_detect, varname) %>% 
+    str_extract("(?<=JSON.parse\\(').*(?='\\))") %>% 
+    stringi::stri_unescape_unicode() %>% 
+    jsonlite::fromJSON()
+}
+
+unnest_df <- function(df, name) {
+  # Hack to convert list/nested dfs to a single df while keeping sane column 
+  # names
+  if (!is.data.frame(df)) {
+    return(tibble(!!name := df))
+  }
+  
+  tbl <- as_tibble(df)
+  colnames(tbl) <- str_c(name, "_", colnames(tbl))
+  
+  tbl
+}
+
+fetch_matches <- function(league_url) {
+  # Fetch a dataframe of matches for an individual league/season's page
+  league_url %>% 
+    read_html() %>% 
+    extract_json("datesData") %>% 
+    imap_dfc(unnest_df) %>% 
+    rename(match_id = id) %>% 
+    type_convert()
+}
+
+# For example
+fetch_matches("https://understat.com/league/EPL/2016")
+```
+
+```{r, message=FALSE}
+matches <- 
+  leagues_meta %>% 
+  filter(year == 2016,
+         !league_name %in% c("RFPL")) %>% 
+  mutate(matches = map(url, slowly(fetch_matches))) %>% 
+  unnest(matches)
+
+matches
+```
+
+```{r, message=FALSE}
+shots <-
+  matches %>% 
+  filter(datetime < lubridate::today()) %>% 
+  pull(match_id) %>% 
+  map_dfr(slowly(possibly(understatr::get_match_shots, tibble())))
+
+shots %>% 
+  left_join(matches, by = c("match_id")) %>%
+
+setwd("~/Downloads")
+write_csv(shots, "big5_shots_1617.csv")
+```
