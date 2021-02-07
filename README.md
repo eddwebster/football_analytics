@@ -1,5 +1,5 @@
 # Edd Webster Football Analytics
-This repository contains all the football analytics projects by [Edd Webster](https://twitter.com/eddwebster).
+This repository is a public space for the football analytics projects by [Edd Webster](https://twitter.com/eddwebster).
 
 <p align="center">
   <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
