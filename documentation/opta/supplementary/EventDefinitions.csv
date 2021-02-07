@@ -1,0 +1,66 @@
+id,name,1,0
+1,Pass,a successful pass ie the pass accurately made it from one player to another without any interception,an unsuccessful pass ie the pass is wayward and does not make it to the other player or is intercepted
+2,Offside Pass,,
+3,Take On,a player successfully dribbling the ball past the opponent and retaining possession afterwards,a player attempting to dribble past an opposing but being unsuccessful eg tackled or losing possession
+4,Free kick,the player who was fouled ie the player who 'won' the foul,the player who committed the foul
+5,Out,the team that gains possession by virtue of the opposite team putting the ball out of play,the team & player that gave away possession of the ball by being the last player to touch the ball before it went out of play
+6,Corner,the team that wins the corner by virtue of the opposite team putting the ball out of play,the team & player that gave away possession of the ball by being the last player to touch the ball before it went out of play
+7,Tackle,the tackling player both winning the tackle and then retaining possession of the ball afterwards (or the ball goes out of play),the tackling player winning the tackle but not gaining possession of the ball
+8,Interception,,
+9,Turnover,,
+10,Save,a successful save ie the shot was prevented from going into the goal,an unsuccessful save ie the shot led to a goal
+11,Claim,a successful catch by the goalkeeper,an unsuccessful catch ie the ball was dropped or fumbled
+12,Clearance,a clearance resulting in the team keeping possession of the ball,a clearance where the team lose possession of the ball
+13,Miss,,
+14,Post,,
+15,Attempt Saved,,
+16,Goal,,
+17,Card,,
+18,Player off,,
+19,Player on,,
+20,Player retired,,
+21,Player returns,,
+22,Player becomes goalkeeper,,
+23,Goalkeeper becomes player,,
+24,Condition change,,
+25,Official change,,
+26,Possession,,
+27,Start delay,,
+28,End delay,,
+29,Temporary stop,,
+30,End,,
+31,Picked an orange,,
+32,Start,,
+33,Start/End canceling,,
+34,Team set up,,
+35,Player changed position,,
+36,Player changed Jersey number,,
+37,Collection End,,
+38,Temp_Goal,,
+39,Temp_Attempt,,
+40,Formation change,,
+41,Punch,,
+42,Good skill,,
+43,Deleted event,,
+44,Aerial,the player who successfully won the duel ie gained possession from it,the player who lost the duel ie did not win possession of the ball
+45,Challenge,,
+46,Postponed,,
+47,Rescinded card,,
+48,Provisional lineup,,
+49,Ball recovery,,
+50,Dispossessed,,
+51,Error,,
+52,Keeper pick-up,,
+53,Cross not claimed,,
+54,Smother,,
+55,Offside provoked,,
+56,Shield ball oop,,
+57,Foul throw in,,
+58,Shot faced,,
+59,Keeper Sweeper,,
+60,Chance Missed,the ball simply hit the player unintentionally,player unsuccessfully controlled the ball
+61,Ball touch,the ball simply hit the player unintentionally,player unsuccessfully controlled the ball
+62,Event placeholder,,
+63,Temp_Save,,
+64,Resume,,
+65,Contentious referee decision,,
