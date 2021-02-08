@@ -61,7 +61,7 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 [TO REWRITE]
 
 ## Learning Resources
-[TO REWRITE]
+*    Tableau for Sport by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://thevideoanalyst.com/tableau-sport/)] - completely free tutorials for using football data in Tableau
 
 ## Papers and Blog Posts
 [TO REWRITE]
