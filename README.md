@@ -44,6 +44,7 @@ Data sources featured in this repository include:
 *    SkillCorner broadcast Tracking data;
 *    StatsBomb Open Event data;
 *    StatsBomb season-on-season aggregated player performance data scraped from FBref;
+*    Stats Perform CPL Event data [[link](https://drive.google.com/drive/u/0/folders/1ktlkt6f6Ujami53YCS-Lbc9BGGL8BaYA)]
 *    StrataBet Chance shooting data;
 *    TransferMarket player bio and fiscal data scraped using the FCrStats webscraper (pull request submitted);
 *    Understat shooting and meta data including player xG values; and
