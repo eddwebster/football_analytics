@@ -50,7 +50,7 @@ Data sources featured in this repository include:
 *    Understat shooting and meta data including player xG values; and
 *    Wyscout Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?). See his paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
 *    Reference data:
-     -    League-wide xT values from the 2017-18 Premier League season (12x8 grid) by Karun's Singh [[link](https://twitter.com/karun1710/)]
+     -    League-wide xT values from the 2017-18 Premier League season (12x8 grid) by [Karun Singh](https://twitter.com/karun1710/) [[link](https://karun.in/blog/data/open_xt_12x8_v1.json)]
      -    Zones on a pitch for Tableau visualisation by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://drive.google.com/drive/folders/1Se0DFtsjQWmnt-G9Ihn_w8EQE4EZiblD)]
 
 ## Data Visualisation and Tableau 
