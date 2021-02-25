@@ -62,10 +62,37 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 *    Opta [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics) dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterOptaMCFCAnalyticsPL1112AnalysisandDashboards/OptaPlayerDemographicsDashboard?:language=es&:display_count=y&:origin=viz_share_link)].
 
 ## Libaries
-[TO REWRITE]
+*    [`socceraction`](https://github.com/ML-KULeuven/socceraction) - a python library for valuing the individual actions performed by soccer players. Includes an Expected Threat (xT) implementation. From [Tom Decroos](https://twitter.com/TomDecroos) et. al.
+*    [`statsbombpy`](https://github.com/statsbomb/statsbombpy) - a python library written by Francisco Goitia to access StatsBomb data.
+*    [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer) - a python library for visualising soccer event data. Also by [Tom Decroos](https://twitter.com/TomDecroos).
+*    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) - Soccer visualization library in R from [Ben Torvaney](https://twitter.com/Torvaney)
+*    [`statsbomb-data-parser`](https://github.com/imrankhan17/statsbomb-parser) - a python library to convert StatsBomb's JSON data into CSV format.
 
 ## Learning Resources
-*    Tableau for Sport by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://thevideoanalyst.com/tableau-sport/)] - completely free tutorials for using football data in Tableau
+*    Friends of Tracking YouTube channel [[link](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)] and Mathematical Modelling of Football course by Uppsala University [[link](https://uppsala.instructure.com/courses/28112)]. The GitHub repo with all code featured can be found at the following [[link](https://github.com/Friends-of-Tracking-Data-FoTD)];
+*    Tableau for Sport by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://thevideoanalyst.com/tableau-sport/)] - completely free tutorials for using football data in Tableau;
+*    Tableau Football User Group [[link](https://usergroups.tableau.com/footballtableauusergroup)]
 
-## Papers and Blog Posts
-[TO REWRITE]
+## Papers
+*    [A	 Framework	 for	 Tactical	 Analysis	 and	...](http://nessis.org/nessis11/rudd.pdf) by [Sarah Rudd](https://twitter.com/srudd_ok)
+*    [An Extension of the Pythagorean Expectation ...](https://www.soccermetrics.net/wp-content/uploads/2013/08/football-pythagorean-article.pdf)** by [Howard Hamilton](https://twitter.com/soccermetrics)
+*    [Large-Scale Analysis of Soccer Matches ...](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20141211131038/Large-Scale-Analysis-of-Soccer-Matches-using-Spatiotemporal-Tracking-Data-Paper.pdf) by Alina Bialkowski et. al
+*    [Spatio-Temporal Analysis of Team Sports – A Survey](https://arxiv.org/pdf/1602.06994.pdf) by Joachim Gudmundsson and Michael Horton
+*    [Physics-Based	Modeling	of	Pass	Probabilities	in	Soccer](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1621.pdf) by [Will Spearman](https://twitter.com/the_spearman) et. al.
+*    [Data-Driven	Ghosting	using	Deep	Imitation	Learning](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1671-2.pdf) by [Hoang	M. Le](https://twitter.com/HoangMinhLe),	Peter	Carr,	Yisong	Yue,	and	[Patrick	Lucey](https://twitter.com/patricklucey)
+*    [Beyond Expected Goals](http://www.sloansportsconference.com/wp-content/uploads/2018/02/2002.pdf) by [Spearman](https://twitter.com/the_spearman)
+*    [Not All Passes Are Created Equal: ...](https://dl.acm.org/doi/pdf/10.1145/3097983.3098051) by [Paul Power](https://twitter.com/counterattack9) et. all
+*    [Wide Open Spaces: ...](http://www.sloansportsconference.com/wp-content/uploads/2018/03/1003.pdf) by [Javier Fernandez](https://twitter.com/JaviOnData) and [Luke Bornn](https://twitter.com/LukeBornn)
+*    [Decomposing	the	Immeasurable	Sport: ...](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Decomposing-the-Immeasurable-Sport.pdf) by [Fernandez](https://twitter.com/JaviOnData), [Bornn](https://twitter.com/LukeBornn), and [Dan Cervone](https://twitter.com/dcervone0)
+*    [Modelling the Collective Movement of Football Players](http://uu.diva-portal.org/smash/get/diva2:1365788/FULLTEXT01.pdf) by [Francisco José Peralta Alguacil](https://twitter.com/PeraltaFran23)
+*    [Player Vectors: Characterizing Soccer Players’ Playing Style ...](https://tomdecroos.github.io/reports/ecml19_tomd.pdf) by [Tom Decroos](https://twitter.com/TomDecroos) and [Jesse Davis](https://twitter.com/jessejdavis1)
+*    [Actions Speak Louder than Goals: ...](https://arxiv.org/pdf/1802.07127.pdf) by [Tom Decroos](https://twitter.com/TomDecroos), [Lotte Bransen](https://twitter.com/LotteBransen), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
+*    [Dynamic Analysis of Team Strategy in Professional Footbal](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf) by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko)
+*    [Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf) by [Sam Gregory](https://twitter.com/GregorydSam)
+*    [SoccerMap: A Deep Learning Architecture for ...](https://arxiv.org/pdf/2010.10202.pdf) by [Javier Fernandez](https://twitter.com/JaviOnData) and [Luke Bornn](https://twitter.com/LukeBornn)
+*    [A new look into Off-ball Scoring Opportunity: ...](https://sportstomorrow.fcbarcelona.com/wp-content/uploads/2020/11/A_new_look_into_Off-ball_Scoring_Opportunity_taking_into_account_the_continuous_nature_of_the_game.pdf) by [Hugo M. R. Rios-Neto](https://twitter.com/hugoriosneto), Wagner Meira Jr., Pedro O. S. Vaz-de-Melo
+
+## Learning Resources
+*    The Numbers Game](https://www.amazon.com/Numbers-Game-Everything-About-Soccer/dp/0143124560) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6)
+*    [Football Hackers](https://www.amazon.com/Football-Hackers-Science-Data-Revolution-ebook/dp/B07NQM3YGK) by [Christoph Biermann](https://twitter.com/chbiermann)
+*    [Soccermatics](https://www.amazon.co.uk/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [David Sumpter](https://twitter.com/Soccermatics)
