@@ -75,7 +75,7 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 
 ## Papers
 *    [A	 Framework	 for	 Tactical	 Analysis	 and	...](http://nessis.org/nessis11/rudd.pdf) by [Sarah Rudd](https://twitter.com/srudd_ok)
-*    [An Extension of the Pythagorean Expectation ...](https://www.soccermetrics.net/wp-content/uploads/2013/08/football-pythagorean-article.pdf)** by [Howard Hamilton](https://twitter.com/soccermetrics)
+*    [An Extension of the Pythagorean Expectation ...](https://www.soccermetrics.net/wp-content/uploads/2013/08/football-pythagorean-article.pdf) by [Howard Hamilton](https://twitter.com/soccermetrics)
 *    [Large-Scale Analysis of Soccer Matches ...](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20141211131038/Large-Scale-Analysis-of-Soccer-Matches-using-Spatiotemporal-Tracking-Data-Paper.pdf) by Alina Bialkowski et. al
 *    [Spatio-Temporal Analysis of Team Sports – A Survey](https://arxiv.org/pdf/1602.06994.pdf) by Joachim Gudmundsson and Michael Horton
 *    [Physics-Based	Modeling	of	Pass	Probabilities	in	Soccer](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1621.pdf) by [Will Spearman](https://twitter.com/the_spearman) et. al.
@@ -93,6 +93,6 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 *    [A new look into Off-ball Scoring Opportunity: ...](https://sportstomorrow.fcbarcelona.com/wp-content/uploads/2020/11/A_new_look_into_Off-ball_Scoring_Opportunity_taking_into_account_the_continuous_nature_of_the_game.pdf) by [Hugo M. R. Rios-Neto](https://twitter.com/hugoriosneto), Wagner Meira Jr., Pedro O. S. Vaz-de-Melo
 
 ## Learning Resources
-*    The Numbers Game](https://www.amazon.com/Numbers-Game-Everything-About-Soccer/dp/0143124560) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6)
+*    [The Numbers Game](https://www.amazon.com/Numbers-Game-Everything-About-Soccer/dp/0143124560) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6)
 *    [Football Hackers](https://www.amazon.com/Football-Hackers-Science-Data-Revolution-ebook/dp/B07NQM3YGK) by [Christoph Biermann](https://twitter.com/chbiermann)
 *    [Soccermatics](https://www.amazon.co.uk/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [David Sumpter](https://twitter.com/Soccermatics)
