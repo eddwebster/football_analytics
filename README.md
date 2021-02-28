@@ -80,7 +80,12 @@ Data sources featured in this repository include:
 
 ## GitHub repos
 *    [Google Research Football](https://github.com/google-research/football)
+*    [LaurieOnTracking](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) by [Laurie Shaw](https://twitter.com/EightyFivePoint) - Python code for working with Metrica tracking data.
+*    [occermatricsForPython](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython) by [David Sumpter](https://twitter.com/Soccermatics): This repo is dedicated for people getting started with Python using the concepts derived from the book Soccermatics (Sumpter 2016)
+*    [FoundationsInR](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR) by [Sudarshan Golaladesikan](https://twitter.com/suds_g) - getting started with R using the StatsBomb dataset.
+*    [analytics-handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    [football-crunching](https://github.com/rjtavares/football-crunching) by Ricardo Tavares (@rtavares). Accompanying Medium posts [[link](https://medium.com/football-crunching)]
+*    [soccermatics](https://github.com/JoGall/soccermatics) by Joe Gallagher (R)
 
 ## Videos
 For a YouTube playlist of over 800 Sports Analytics / Data Science video that I put together for my own viewing, see [[link](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo)]. For a Tableau in football specific playlist, see [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
@@ -141,7 +146,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Football Data Science](http://business-analytic.co.uk/blog/home-page/) by Dr. Garry Gelade (@GarryGelade)
 *    [Football Philosophy](http://footballphilosophy.org/) by Joost van der Leij
 *    [Football Science](https://www.footballscience.net/) by Michael C. Rumpf
-*    [The Futebolist[(https://medium.com/@thefutebolist) by [Ashwin Raman](https://twitter.com/AshwinRaman_)
+*    [The Futebolist](https://medium.com/@thefutebolist) by [Ashwin Raman](https://twitter.com/AshwinRaman_)
 *    [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/)
 *    [Hudl](https://www.hudl.com/blog/)
 *    [James W Grayson](https://jameswgrayson.wordpress.com/) by James W Grayson (@JamesWGrayson)
@@ -232,6 +237,32 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 ## Other resources lists
 *    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    [Awesome Soccer Analytics]](https://github.com/matiasmascioto/awesome-soccer-analytics)
+
+## Career Advice
+*    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) by Sam Gregory (@GregorydSam)
+*    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by Sam Gregory (@GregorydSam)
+*    [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) by Sam Gregory (@GregorydSam)
+*    [ow to become a football data scientist – Friends of Tracking](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, Javier Fernández, Suds Gopaladesikan, Fran Peralta, and David Sumpter
+*    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by The Video Analyst
+*    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by David Sumpter (@Soccermatics) for Barca Innovation Hub
+*    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0)
+
+## Career Advice
+*    The Video Analyst: https://thevideoanalyst.com/jobs/
+*    Opta: https://www.optasports.com/about/work-for-opta/
+*    Stats Perform Job Opportunities: https://www.statsperform.com/stats-careers/ and https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy
+*    Statsbomb: https://statsbomb.com/careers/
+*    Wyscout: https://wyscout.com/careers/#job-openings and careers@wyscout.com
+*    Hudl: https://www.hudl.com/jobs#jobs
+*    Metrica Sports: https://apply.workable.com/metrica-sports/
+*    Second Spectrum: https://www.secondspectrum.com/careers/opportunities.html
+*    SciSports: https://www.scisports.com/jobs/
+*    Football Radar: https://www.footballradar.com/careers/
+*    Genius Sports: https://www.geniussports.com/careers and https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123
+*    Gracenote: https://www.gracenote.com/company/careers/ and https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville
+*    Global Sports: https://www.globalsportsjobs.com/jobs
+*    Smart Odds: https://www.smartodds.co.uk/Careers/Vacancies
+*    FutbolJobs: https://futboljobs.com/en/search-football-jobs/
 
 ## Miscellaneous
 *    [Awesome Footbal](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets.
