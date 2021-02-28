@@ -241,10 +241,6 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Football Analyst Community Rankings dashboard](https://public.tableau.com/profile/grecian#!/vizhome/FootballAnalystCommunityRankings/Dashboard1) by Neil Charles
 *    [Football/soccer data analysts with publicly available work](https://docs.google.com/spreadsheets/d/1wjMVOpupmcF4hEG7PO4lY6l2mKsldGsnkyAULQwyAp8/edit?usp=sharing)
 
-## Other resources lists
-*    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
-*    [Awesome Soccer Analytics]](https://github.com/matiasmascioto/awesome-soccer-analytics)
-
 ## Career Advice
 *    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) by Sam Gregory (@GregorydSam)
 *    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by Sam Gregory (@GregorydSam)
@@ -298,3 +294,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [FIFA EPTS (Electronic Performance and Tracking Systems)](https://football-technology.fifa.com/en/media-tiles/epts/)
 *    [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport)
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf)
+
+## Other football analytics resources lists
+*    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
+*    [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics)
