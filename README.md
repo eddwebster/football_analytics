@@ -106,6 +106,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Measurables Podcast](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW) by [Brendan Kent](https://twitter.com/brendankent)
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=M6xgCGtdTjiy0wEl1e2CJw)
 *    [smarterscout: The Why in Analytics](https://open.spotify.com/show/2QP4KXajJ5xOfW1ny78nAf?si=NQAf_4XtSFeQXAZi1bbupQ) by Dan Altman
+*    [StatsBomb](https://open.spotify.com/show/2EgxEas2CUsGpuH5AGWnAO?si=yvTrhRLGSBm7XanWZnd7lA)
 *    [Target Scouting](https://open.spotify.com/show/2SJENgKp4BrmeufJPKC2TH?si=hq4tXC3sSKGkej4VU8w40w) by Luke Griffin
 *    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA)
 *    [Three At The Back](https://open.spotify.com/show/4NbunP2podS7hIPD2BVlYF?si=OFwVjOucQP6LWZmnGmGqjg) by Opta Pro
@@ -115,6 +116,48 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 [TO UPDATE]
 
 ## Blogs
+*    2+2=11 by Will Gürpinar-Morgan (@WillTGM) 
+*    5 Added Minutes by Omar Chaudhuri (@OmarChaudhuri)
+*    8 Yards 8 Feet by Simon Lock (@8Yards8Feet)
+*    Analytics FC
+*    Attacking Center-back by JP Quinn (@AttackingCB)
+*    Carey Analytics by Mark Carey (@MarkCarey93)
+*    DeepxG: Thom Lawrence (@lemonwatcher) of StatBomb’s original blog. Last updated November 29 2017.
+*    Differentgame by Paul Riley (@footballfactman)
+*    EFL Numbers by EFL Numbers (@eflnumbers)
+*    EightyFivePoints by Laurie Shaw (@EightyFivePoint)
+*    Experimental 361 by Ben Mayhew (@experimental361)
+*    FC Python by FC Python (@FC_Python)
+*    Football Crunching by Ricardo Tavares (@rjtavares)
+*    Football Data Science by Dr. Garry Gelade (@GarryGelade)
+*    Football Philosophy by Joost van der Leij
+*    Football Science by Michael C. Rumpf
+*    G.C. Analytics by Gareth Cooper (@ThatGarateyjc)
+*    Hudl
+*    James W Grayson by James W Grayson (@JamesWGrayson)
+*    Karun Singh by Karun Singh (@karun1710) 
+*    kwiatkowski.io by Marek Kwiatkowski (@statlurker)
+*    LukeBornn.com by Luke Bornn (@LukeBornn)
+*    Mackay Analytics by Nils Mackay (@NilsMackay)
+*    Mackinaw Stats (O+) by Mackinaw Stats (@MackinawStats)
+*    North Yard Analytics by Dan Altman (@NYASports)
+*    OptaPro
+*    patricklucey.com by Patrick Lucey (@patricklucey)
+*    Penal.lt/y by Martom Eastwood (@penaltyblog)
+*    Proform AFC by Proform Analytics (@ProformAFC) - Mladen Sormaz (@Mladen_Sormaz) and Dan Nichol (@D4N_)
+*    SaddlersStats
+*    StatDNA (last updated 01/06/2011 before Arsenal bought the company)
+*    StatsBomb
+*    Stats and snakeoil by Ben Torvaney (@Torvaney , formally @stats_snakeoil)
+*    The Last Man Analytics (F+) by The Last Man Anayltics (@TLMAnalytics) – Ciaran Grant (@Ciaran_Grant)
+*    The Power of Goals by . A football statistics blog that makes good use of Opta data to analyse and predict match outcomes.
+*    Total Football Analysis by Total Football Analysis (@TotalAnalysis)
+*    winningwithanalytics.com by Bill Gerrard (@bill_gerrard_)
+*    Wooly Jumpers for Goal Posts by The Woolster (@The_Woolster)
+*    Wyscout
+
+
+## Blog posts
 *    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
 *    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney)
 *    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher)
