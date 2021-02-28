@@ -276,7 +276,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 ## Jobs
 *    [The Video Analyst](https://thevideoanalyst.com/jobs/)
 *    [Opta](https://www.optasports.com/about/work-for-opta/)
-*    [Stats Perform Job Opportunities](https://www.statsperform.com/stats-careers/ and https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy
+*    [Stats Perform Job Opportunities](https://www.statsperform.com/stats-careers/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
 *    [Statsbomb](https://statsbomb.com/careers/)
 *    [Wyscout](https://wyscout.com/careers/#job-openings and careers@wyscout.com)
 *    [Hudl](https://www.hudl.com/jobs#jobs)
@@ -284,8 +284,8 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Second Spectrum](https://www.secondspectrum.com/careers/opportunities.html)
 *    [SciSports](https://www.scisports.com/jobs/)
 *    [Football Radar](https://www.footballradar.com/careers/)
-*    [Genius Sports](https://www.geniussports.com/careers and https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123)
-*    [Gracenote](https://www.gracenote.com/company/careers/ and https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville)
+*    [Genius Sports](https://www.geniussports.com/careers) and [link](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123)
+*    [Gracenote](https://www.gracenote.com/company/careers/) and [link](https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville)
 *    [Global Sports](https://www.globalsportsjobs.com/jobs)
 *    [Smart Odds](https://www.smartodds.co.uk/Careers/Vacancies)
 *    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/)
