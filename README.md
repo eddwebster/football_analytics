@@ -41,22 +41,22 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 Due to the 100mb file size limitation in GitHub, all engineered datasets prepared in this repository have been exported and made publicly available to view and download in Google Drive. Please see the following [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. However, all code in this repository should enable you to scrape, parse, and engineer the datasets used in the data analysis and visualisation.
 
 Data sources featured in this repository include:
-*    DAVIES estimated player evaluation data by Sam Goldberg for American Soccer Analysis;
-*    ELO club rankings;
-*    FIFA 15-21 player rating data;
+*    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) for [American Soccer Analysis](https://www.americansocceranalysis.com/);
+*    [ELO club rankings](http://clubelo.com/);
+*    [FIFA 15-21 player rating data](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset) scraped from [SoFIFA](https://sofifa.com/) by Stefano Leone;
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
-*    [Last Row Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) by Ricardo Tavares;
+*    [Last Row Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) by [Ricardo Tavares](https://twitter.com/rjtavares);
 *    [Metrica Sports Tracking data](https://github.com/metrica-sports/sample-data);
-*    Opta Sports match-by-match aggregated player performance data for the 11/12 season and F24 Event data for a 11/12 match of Manchester City vs. Bolton Wanders as part of the [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics) initiative;
-*    Signality Tracking data;
+*    Opta Sports match-by-match aggregated player performance data for the 11/12 season and F24 Event data for a 11/12 match of Manchester City vs. Bolton Wanders [[link](#mcfcanalytics)] as part of the [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics) initiative;
+*    [Signality Tracking data](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/12GetSignalityAPI.py). Password to download the data available from the Slack group [link](http://mathematicalm-fhj6138.slack.com). For access, contact Novosom Salvador [Twitter](@novosomsalvador) and rsalvadords@gmail.com, or feel free to contact myself;
 *    [SkillCorner broadcast Tracking data](https://github.com/SkillCorner/opendata);
 *    [StatsBomb Open Event data](https://github.com/statsbomb/open-data);
-*    StatsBomb season-on-season aggregated player performance data scraped from FBref using [Parth Athale](https://twitter.com/ParthAthale)'s [FBref webscraper](https://github.com/parth1902/Scrape-FBref-data), in turn ;
+*    [StatsBomb](https://statsbomb.com/) season-on-season aggregated player performance data scraped via [FBref](https://fbref.com/en/) using [Parth Athale](https://twitter.com/ParthAthale)'s [FBref webscraper](https://github.com/parth1902/Scrape-FBref-data), in turn ;
 *    [Stats Perform CPL Event data](https://drive.google.com/drive/u/0/folders/1ktlkt6f6Ujami53YCS-Lbc9BGGL8BaYA)
-*    StrataBet Chance shooting data;
-*    TransferMarket player bio and fiscal data scraped using the FCrStats webscraper (pull request submitted);
-*    Understat shooting and meta data including player xG values; and
-*    Wyscout Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?). See his paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
+*    [StrataData]() from [StrataBet](http://www.stratagem.co/) Chance shooting data;
+*    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data scraped using the FCrStats webscraper (pull request submitted);
+*    [Understat](https://understat.com/) shooting and meta data including player xG values; and
+*    Wyscout Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
 *    Reference data:
      -    League-wide xT values from the 2017-18 Premier League season (12x8 grid) by [Karun Singh](https://twitter.com/karun1710/) [[link](https://karun.in/blog/data/open_xt_12x8_v1.json)]
      -    EPV grid by [Laurie Shaw](https://twitter.com/EightyFivePoint) [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking/blob/master/EPV_grid.csv)]
@@ -92,11 +92,14 @@ Data sources featured in this repository include:
 *    [LaurieOnTracking](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) by [Laurie Shaw](https://twitter.com/EightyFivePoint) - Python code for working with Metrica tracking data;
 *    [SoccermatricsForPython](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython) by [David Sumpter](https://twitter.com/Soccermatics): This repo is dedicated for people getting started with Python using the concepts derived from the book Soccermatics (Sumpter 2016);
 *    [FoundationsInR](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR) by [Sudarshan Golaladesikan](https://twitter.com/suds_g) - getting started with R using the StatsBomb dataset;
+*    [Exploring spatio-temporal soccer events using public event data](https://github.com/Friends-of-Tracking-Data-FoTD/mapping-match-events-in-Python) by Luca Pappalardo, Alessio Rossi, and Paolo Cintia. See the paper: [A public data set of spatio-temporal match events in soccer competitions](https://doi.org/10.1038/s41597-019-0247-7);
+*    [Valuing actions in football](https://github.com/SciSports-Labs/fot-valuing-actions) by Lotte Bransen and Jan Van Haaren of SciSports;
 *    [analytics-handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    [soccer_analytics](https://github.com/CleKraus/soccer_analytics) by CleKraus - a Python project trying to facilitate and being a starting point for analytics projects in soccer including EDA of Event data, goal kick analysis, passing analysis,m xG modelling, and an introduction to Tracking data;
 *    [Expected Goals Thesis](https://github.com/andrewRowlinson/expected-goals-thesis) by [Andrew Rowlinson](https://twitter.com/numberstorm)
 *    [Pass-Flow](https://github.com/opengoalapp/Pass-Flow) - create animated flow velocity fields using passing data by Open Goal App;
-*    [football-crunching](https://github.com/rjtavares/football-crunching) by Ricardo Tavares (@rtavares). Accompanying Medium posts [[link](https://medium.com/football-crunching)]; and
+*    [passing-networks-in-python](https://github.com/Friends-of-Tracking-Data-FoTD/passing-networks-in-python) - repository for building customizable passing networks with Matplotlib as part of the "Friends of Tracking" series. The code is prepared to use both eventing (StatsBomb) and tracking data (Metrica Sports);
+*    [football-crunching](https://github.com/rjtavares/football-crunching) by Ricardo Tavares. Accompanying Medium posts [[link](https://medium.com/football-crunching)]; and
 *    [soccermatics](https://github.com/JoGall/soccermatics) by Joe Gallagher (R).
 
 ## Papers (from most recent to oldest)
