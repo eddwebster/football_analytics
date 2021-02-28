@@ -61,11 +61,13 @@ Data sources featured in this repository include:
      -    League-wide xT values from the 2017-18 Premier League season (12x8 grid) by [Karun Singh](https://twitter.com/karun1710/) [[link](https://karun.in/blog/data/open_xt_12x8_v1.json)]
      -    Zones on a pitch for Tableau visualisation by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://drive.google.com/drive/folders/1Se0DFtsjQWmnt-G9Ihn_w8EQE4EZiblD)]
 
-## Learning Resources
+## Tutorials
 *    Friends of Tracking YouTube channel [[link](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)] and Mathematical Modelling of Football course by Uppsala University [[link](https://uppsala.instructure.com/courses/28112)]. The GitHub repo with all code featured can be found at the following [[link](https://github.com/Friends-of-Tracking-Data-FoTD)];
 *    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    Tableau Football User Group [[link](https://usergroups.tableau.com/footballtableauusergroup)]
 *    Tableau for Sport by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://thevideoanalyst.com/tableau-sport/)] - completely free tutorials for using football data in Tableau;
+*    [McKay Johns YouTube channel](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg);
+*    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06).
 
 ## Libaries
 *    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) - a soccer visualisation library in R from [Ben Torvaney](https://twitter.com/Torvaney);
@@ -139,6 +141,7 @@ Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202.pdf)
 *    [2+2=11](https://2plus2equals11.com/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM)
 *    [5 Added Minutes](https://5addedminutes.com/) by [Omar Chaudhuri](https://twitter.com/OmarChaudhuri)
 *    [8 Yards 8 Feet](https://8yards8feet.wordpress.com/author/simonlock1993/) by [Simon Lock](https://twitter.com/8Yards8Feet)
+*    [All Things Football](https://allthingsfootballonline.blogspot.com/)
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/)
 *    [Analytics FC](https://attackingcentreback.wordpress.com/)
 *    [Attacking Center-back](https://attackingcentreback.wordpress.com/) by [JP Quinn](https://twitter.com/AttackingCB)
@@ -146,35 +149,38 @@ Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202.pdf)
 *    [Carey Analytics](https://careyanalytics.wordpress.com/) by [Mark Carey](https://twitter.com/MarkCarey93)
 *    [DeepxG](https://deepxg.com/) by [Thom Lawrence](https://twitter.com/lemonwatcher). Last updated November 29 2017.
 *    [Differentgame](https://differentgame.wordpress.com/) by [Paul Riley](https://twitter.com/footballfactman)
-*    [EFL Numbers](https://eflnumbers.wordpress.com/) by EFL Numbers (@eflnumbers)
-*    [EightyFivePoints](http://eightyfivepoints.blogspot.com/) by Laurie Shaw (@EightyFivePoint)
-*    [Experimental 361](https://experimental361.com/) by Ben Mayhew (@experimental361)
-*    [FC Python](https://fcpython.com/category/blog) by FC Python (@FC_Python)
+*    [The Economics of Sport](http://www.sportseconomics.org/)
+*    [EFL Numbers](https://eflnumbers.wordpress.com/) by [EFL Numbers](https://twitter.com/eflnumbers)
+*    [EightyFivePoints](http://eightyfivepoints.blogspot.com/) by [Laurie Shaw](https://twitter.com/EightyFivePoint)
+*    [Experimental 361](https://experimental361.com/) by [Ben Mayhew](https://twitter.com/experimental361)
+*    [FC Python](https://fcpython.com/category/blog) by [FC Python](https://twitter.com/FC_Python)
 *    [FiveThirtyEight Sports](https://fivethirtyeight.com/sports/)
-*    [Football Crunching](https://medium.com/football-crunching) by Ricardo Tavares (@rjtavares)
-*    [Football Data Science](http://business-analytic.co.uk/blog/home-page/) by Dr. Garry Gelade (@GarryGelade)
+*    [Football Crunching](https://medium.com/football-crunching) by [Ricardo Tavares](https://twitter.com/rjtavares)
+*    [Football Data Science](http://business-analytic.co.uk/blog/home-page/) by [Dr. Garry Gelade](https://twitter.com/GarryGelade)
 *    [Football Philosophy](http://footballphilosophy.org/) by Joost van der Leij
 *    [Football Science](https://www.footballscience.net/) by Michael C. Rumpf
 *    [Football Whispers](https://www.footballwhispers.com/)
 *    [The Futebolist](https://medium.com/@thefutebolist) by [Ashwin Raman](https://twitter.com/AshwinRaman_)
 *    [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/)
+*    [Hockey Graphs](https://hockey-graphs.com/)
 *    [Hudl](https://www.hudl.com/blog/)
-*    [James W Grayson](https://jameswgrayson.wordpress.com/) by James W Grayson (@JamesWGrayson)
-*    [Karun Singh](https://karun.in/blog/) by Karun Singh (@karun1710) 
-*    [kwiatkowski.io](https://www.kwiatkowski.io/) by Marek Kwiatkowski (@statlurker)
-*    [LukeBornn.com](http://www.lukebornn.com/) by Luke Bornn (@LukeBornn)
-*    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by Nils Mackay (@NilsMackay)
+*    [James W Grayson](https://jameswgrayson.wordpress.com/) by [James W Grayson](https://twitter.com/JamesWGrayson)
+*    [Karun Singh](https://karun.in/blog/) by [Karun Singh](https://twitter.com/karun1710) 
+*    [kwiatkowski.io](https://www.kwiatkowski.io/) by [Marek Kwiatkowski](https://twitter.com/statlurker)
+*    [LukeBornn.com](http://www.lukebornn.com/) by [Luke Bornn](https://twitter.com/LukeBornn)
+*    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by [Nils Mackay](https://twitter.com/NilsMackay)
 *    [Mackinaw Stats](https://mackayanalytics.nl/) by [Mackinaw Stats](https://twitter.com/mackinawstats)
 *    [MRKT Insights](https://mrktinsights.com/index.php/blog/)
-*    [North Yard Analytics](https://www.northyardanalytics.com/blog/) by Dan Altman (@NYASports)
+*    [Ninad Barbadikar Medium blog](https://ninad06.medium.com/) by [Ninad Barbadikar](https://twitter.com/ninadb_06)
+*    [North Yard Analytics](https://www.northyardanalytics.com/blog/) by [Dan Altman](https://twitter.com/NYAsports)
 *    Opta Pro - old blogs removed by available using Wayback Machine
-*    [patricklucey.com](http://patricklucey.com/index.html) by Patrick Lucey (@patricklucey)
+*    [patricklucey.com](http://patricklucey.com/index.html) by [Patrick Lucey](https://twitter.com/patricklucey)
 *    [Penal.lt/y](http://pena.lt/y/) by Martom Eastwood (@penaltyblog)
 *    [Piotr Wawrzynów – Football Analysis](https://wawrzynow.wordpress.com/) by [Piotr Wawrzynów](https://twitter.com/pwawrzynow)
 *    [Proform AFC](https://proformanalytics.wordpress.com/) by [Proform Analytics](https://twitter.com/ProformAFC) ([Mladen Sormaz](https://twitter.com/Mladen_Sormaz) and [Dan Nichol](https://twitter.com/D4N__))
 *    [SaddlersStats](https://www.saddlersstats.co.uk/)
 *    [SciSports](https://www.scisports.com/)
-*    [Soccermatics](https://www.soccermetrics.net/blog) by David Sumpter
+*    [Soccermatics Medium blog](https://www.soccermetrics.net/blog) by [David Sumpter](https://www.soccermetrics.net/blog)
 *    [StatDNA](https://web.archive.org/web/20110707064735/https:/blog.statdna.com/) (last updated 01/06/2011 before Arsenal bought the company)
 *    [StatsBomb](https://statsbomb.com/articles/)
 *    [Stats Perform](https://www.statsperform.com/resources/)
@@ -188,33 +194,47 @@ Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202.pdf)
 *    [Zonal Marking](http://www.zonalmarking.net/)
 
 ## Blog posts
-*    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen)
-*    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney)
-*    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher)
-*    [Pass Footedness in the Premier League](https://statsbomb.com/2019/04/pass-footedness-in-the-premier-league/) by [James Yorke](https://twitter.com/jair1970)
-- [Messi Walks Better Than Most Players Run](https://fivethirtyeight.com/features/messi-walks-better-than-most-players-run/) by [Bobby Gardiner](https://twitter.com/BobbyGardiner)
-*    [Game of Throw-Ins](https://www.americansocceranalysis.com/home/2018/11/27/game-of-throw-ins) by [Eliot McKinley](https://twitter.com/etmckinley)
-*    [Expected Threat](https://karun.in/blog/expected-threat.html) by [Karun Singh](https://twitter.com/karun1710)
-*    [Passing Out at the Back](https://www.statsperform.com/resource/passing-out-at-the-back/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM)
-*    [The 10 Commandments of Football Analytics](https://theathletic.co.uk/1692489/2020/03/23/the-10-commandments-of-football-analytics/) by [Tom Worville](https://twitter.com/Worville)
-*    [Breaking Down Set Pieces ...](https://statsbomb.com/2019/05/breaking-down-set-pieces-picks-packs-stacks-and-more/) by [Euan Dewar](https://twitter.com/EuanDewar)
-*    [Data Based Coaching: ...](https://www.americansocceranalysis.com/home/2020/3/19/data-based-coaching-how-to-incorporate-data-driven-decisions-into-your-coaching-workflow) by [Kieran Doyle](https://twitter.com/KierDoyle)
-*    [Coaches Reward Goalscorers ...](https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt) by [McKinley](https://twitter.com/etmckinley) and [John Muller](https://twitter.com/johnspacemuller)
-
+*    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen);
+*    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney);
+*    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
+*    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by Sam Goldberg and Mike Imburgio;
+*    [Pass Footedness in the Premier League](https://statsbomb.com/2019/04/pass-footedness-in-the-premier-league/) by [James Yorke](https://twitter.com/jair1970);
+- [Messi Walks Better Than Most Players Run](https://fivethirtyeight.com/features/messi-walks-better-than-most-players-run/) by [Bobby Gardiner](https://twitter.com/BobbyGardiner);
+*    [Game of Throw-Ins](https://www.americansocceranalysis.com/home/2018/11/27/game-of-throw-ins) by [Eliot McKinley](https://twitter.com/etmckinley);
+*    [Expected Threat](https://karun.in/blog/expected-threat.html) by [Karun Singh](https://twitter.com/karun1710);
+*    [Lionel Messi’s ten stages of greatness](https://theathletic.co.uk/1880554/2020/08/07/lionel-messi-barcelona-la-liga-champions-league/) by Michael Cox and Tom Worville;
+*    [Passing Out at the Back](https://www.statsperform.com/resource/passing-out-at-the-back/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM);
+*    [The 10 Commandments of Football Analytics](https://theathletic.co.uk/1692489/2020/03/23/the-10-commandments-of-football-analytics/) by [Tom Worville](https://twitter.com/Worville);
+*    [Breaking Down Set Pieces: Picks, Packs, Stacks and More](https://statsbomb.com/2019/05/breaking-down-set-pieces-picks-packs-stacks-and-more/) by [Euan Dewar](https://twitter.com/EuanDewar);
+*    [Data Based Coaching: How to Incorporate Data-Driven Decision into Your Coaching Workflow](https://www.americansocceranalysis.com/home/2020/3/19/data-based-coaching-how-to-incorporate-data-driven-decisions-into-your-coaching-workflow) by [Kieran Doyle](https://twitter.com/KierDoyle); and
+*    [Coaches Reward Goalscorers. But Should They?](https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt) by [McKinley](https://twitter.com/etmckinley) and [John Muller](https://twitter.com/johnspacemuller).
 
 ## Videos
-For a YouTube playlist of over 800 Sports Analytics / Data Science video that I put together for my own viewing, see [[link](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo)]. For a Tableau in football specific playlist, see [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
+For a YouTube playlist of over 800 Sports Analytics / Data Science video that I put together for my own viewing, see [[link](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo)]. For a Tableau Football specific playlist, see [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
 *    Laurie Shaw's Metrica Sports Tracking data series for #FoT - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [measuring physical performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [valuing actions](https://www.youtube.com/watch?v=KXSLKwADXKI);
 *    StatsPerform AI in Sport series - [Overview](https://vimeo.com/473259469/3d56393c68), [AI in Basketball](), [AI In Soccer](https://vimeo.com/515977363/be3de09fc1), and [AI in Tennis]();
-*    [Tom Goodall's Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/)
-*    What Football Analytics can Teach Successful Organisation by Rasmus Ankersen (@RasmusAnkersen)
-*    Soccermatics: how maths explains football by David Sumpter (@Soccermatics)
-*    Changing the soccer transfer market with big data by Giels Brouwer
-*    How Stats Won Football: From Moneyball to FC Midtjylland – COPA90 Stories Documentary
-*    The Numbers Game: How Data Is Changing Football - FourFourTwo Documentary
-*    Christmas Lectures 2019: How to Get Lucky with Hannah Fry. Small segment with Tim Waskett (@StoneBakedGames)
-
+*    [Tom Goodall's Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/);
+*    [Data Robot Opening Remarks & Keynote: Making Better Decisions, Faster](https://www.datarobot.com/recordings/ai-experience-emea-on-demand/ai-experience-opening-remarks-keynote/watch/090a6990db580257e9e6046fc48ab035/) with [Brian Prestidge](https://twitter.com/brianprestidge);
+*    [Data Analytics in Soccer](https://www.youtube.com/watch?v=WukQprQGbcY) by Dan Fradley;
+*    [How Hammarby create the mathematically perfect pressing game](https://www.youtube.com/watch?v=s6bpn3Uox7M) by David Sumpter
+*    [Hudl Presents: Performance Analysis in 2020](https://www.hudl.com/elite/events/performance-analysis-2020/watch)
+*    [Self-Supervised Representations for Tracking Data](https://player.vimeo.com/video/398489039) by Karun Singh;
+*    [An American Analyst in London](https://www.youtube.com/watch?v=LA9-V6_ZIUg) at SSAC 2019 with StatsBomb CEO [Ted Knutson]() and Houston Rockets GM Daryl Morey;
+*    [Beyond the Baseline](https://www.youtube.com/watch?v=o9IjocHyBLE) by Marek Kwiatkowski (@statlurker);
+*    [Some Things Aren't Shots](https://www.youtube.com/watch?v=5j-Ij5_3Cs8) by Thom Lawrence (@lemonwatcher);
+*    [Beyond Save Percentage](https://www.youtube.com/watch?v=V9_20e2ut14&t=1s) by [Derrick Yam](https://twitter.com/YAMiAM9)
+*    [Expected goals demonstration](https://youtu.be/Ab4yngjjYME) by Sander Ijtsma
+*    [Goals change games](https://youtu.be/IvWT7iE1iUs) by [Garry Gelade](https://twitter.com/GarryGelade)
+*    [Expected goals](https://youtu.be/3rsDCxszCD0) by Dan Altman
+*    [What Football Analytics can Teach Successful Organisation](https://www.youtube.com/watch?v=Sy2vc9lW5r0) by [Rasmus Ankersen](https://twitter.com/RasmusAnkersen);
+*    [Soccermatics: how maths explains football](https://www.youtube.com/watch?v=Nv7JYtVbzvI) by [David Sumpter](https://twitter.com/Soccermatics)
+*    [Changing the soccer transfer market with big data](https://www.youtube.com/watch?v=UMeDP-lIBD8) by Giels Brouwer
+*    [How Stats Won Football: From Moneyball to FC Midtjylland](https://www.youtube.com/watch?v=s6UcNGzE8sU) – COPA90 Stories Documentary;
+*    [The Numbers Game: How Data Is Changing Football](https://www.youtube.com/watch?v=lLcXH_4rwr4) - FourFourTwo Documentary;
+*    [Christmas Lectures 2019: How to Get Lucky](https://youtu.be/_q4DrUHKC0Q?t=1666) with Hannah Fry. Small segment with [Tim Waskett](https://twitter.com/StoneBakedGames)
+*    [Jeff Stelling xG rant](https://facebook.com/SoccerAM/videos/1740454985978128/); and
+*    [Craig Burley xG rant](https://www.youtube.com/watch?v=JBWKGij9Y5A).
 
 ## YouTube Channels
 *    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with David Sumpter, Javier Fernández, Laurie Shawm, Suds Gopaladesikan, Pascal Bauer, and Fran Peralta
@@ -252,6 +272,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller)
 *    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent)
 *    [Stats Perform](https://www.statsperform.com/)
+*    [21st Club](https://www.21stclub.com/insight/)
 
 ## Podcasts (Spotify links used where available)
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/podcasts)
@@ -280,13 +301,14 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Football/soccer data analysts with publicly available work](https://docs.google.com/spreadsheets/d/1wjMVOpupmcF4hEG7PO4lY6l2mKsldGsnkyAULQwyAp8/edit?usp=sharing)
 
 ## Career Advice
-*    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) by Sam Gregory (@GregorydSam)
-*    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by Sam Gregory (@GregorydSam)
-*    [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) by Sam Gregory (@GregorydSam)
-*    [How to become a football data scientist – Friends of Tracking](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, Javier Fernández, Suds Gopaladesikan, Fran Peralta, and David Sumpter
-*    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by The Video Analyst
-*    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by David Sumpter for Barca Innovation Hub
-*    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0)
+*    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) by Sam Gregory (@GregorydSam);
+*    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by Sam Gregory (@GregorydSam);
+*    [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) by Sam Gregory (@GregorydSam);
+*    [How to become a football data scientist – Friends of Tracking](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, Javier Fernández, Suds Gopaladesikan, Fran Peralta, and David Sumpter;
+*    [HANIC Panel "How to get into Sports Analytics & Media + Analytics"](https://www.youtube.com/watch?v=oUVISEJaEMM) with Alison Lukan, Sarah Bailey, Harman Dayal, Asmae Toumi Mike Johnson, Alison Lukan;
+*    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by The Video Analyst;
+*    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by David Sumpter for Barca Innovation Hub;
+*    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0).
 
 ## Events and conferences
 *    [OptaPro Analytics Forum](https://www.optasportspro.com/events/)
