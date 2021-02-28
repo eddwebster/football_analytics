@@ -122,3 +122,11 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [The Numbers Game](https://www.amazon.com/Numbers-Game-Everything-About-Soccer/dp/0143124560) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6)
 *    [Football Hackers](https://www.amazon.com/Football-Hackers-Science-Data-Revolution-ebook/dp/B07NQM3YGK) by [Christoph Biermann](https://twitter.com/chbiermann)
 *    [Soccermatics](https://www.amazon.co.uk/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [David Sumpter](https://twitter.com/Soccermatics)
+*    Soccernomics by Simon Kuper and [Stefan Szymanski](https://twitter.com/sszy)
+*    Data Analytics in Football by [Daniel Memmert](https://twitter.com/DMemmert) and Dominik Raabe
+*    Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers (2013) by [Ben Alamar](https://twitter.com/bencalamar)
+*    Outside the Box by [Duncan Alexander](https://twitter.com/oilysailor)
+*    Moneyball: The Art of Winning an Unfair Games by Michael Lewis
+*    Zonal Marking: The Making of Modern European Football by [Michael Cox](https://twitter.com/Zonal_Marking)
+*    The Mixer: The Story of Premier League Tactics, from Route One to False Nines by [Michael Cox](https://twitter.com/Zonal_Marking)
+*    Inverting the Pyramid by [Jonathan Wilson](https://twitter.com/jonawils)
