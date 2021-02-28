@@ -8,7 +8,7 @@ This repository is a public space for the football analytics projects by [Edd We
 
 I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, created by all those that havecontributed to the football analytics community. This is currently in progress but not yet finished and could do with a bit of editing - 28/02/2021.
 
-## About this Repository and Author
+## About This Repository and Author
 Please note, all work produced in this repository is mine and/or credited to the publicly produced code and libraries used. and is in no way related to the work and analysis I produce for my employers.
 
 For more information about this repository and the author, I'm available through all the following channels:
@@ -64,8 +64,10 @@ Data sources featured in this repository include:
 
 ## Tutorials
 *    Friends of Tracking YouTube channel [[link](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)] and Mathematical Modelling of Football course by Uppsala University [[link](https://uppsala.instructure.com/courses/28112)]. The GitHub repo with all code featured can be found at the following [[link](https://github.com/Friends-of-Tracking-Data-FoTD)];
-*    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
-*    Tableau Football User Group [[link](https://usergroups.tableau.com/footballtableauusergroup)]
+*    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler);
+*    [FC Python](https://twitter.com/fc_python) tutorials [[link](https://fcpython.com/)];
+*    [FCrSTATS](https://github.com/FCrSTATS) tutorials [[link](http://fcrstats.com/tutorials.html)];
+*    Tableau Football User Group [[link](https://usergroups.tableau.com/footballtableauusergroup)];
 *    Tableau for Sport by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://thevideoanalyst.com/tableau-sport/)] - completely free tutorials for using football data in Tableau;
 *    [McKay Johns YouTube channel](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg);
 *    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06).
@@ -103,6 +105,8 @@ Data sources featured in this repository include:
 *    [soccermatics](https://github.com/JoGall/soccermatics) by Joe Gallagher (R).
 
 ## Papers (from most recent to oldest)
+The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
+
 *    [Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning](https://arxiv.org/pdf/2101.05388.pdf) (2021) by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg). See the [`nayra`](https://github.com/DonsetPG/narya) library for code;
 *    [Routine Inspection: A Playbook for Corner Kicks](https://www.springerprofessional.de/en/routine-inspection-a-playbook-for-corner-kicks/18671052) (2020) by [Laurie Shaw](https://twitter.com/EightyFivePoint) and Sudarshan 'Suds' Gopaladesikan. See accompanying presentation at NESSIS 2020 [[link](https://www.youtube.com/watch?v=yfPC1O_g-I8)];
 *    [SoccerMap: A Deep Learning Architecture for
@@ -198,7 +202,7 @@ Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202.pdf)
 *    [xG per Shot[(https://xgpershot.wordpress.com/) by [Parthe Athale](https://twitter.com/ParthAthale)
 *    [Zonal Marking](http://www.zonalmarking.net/)
 
-## Blog posts
+## Blog Posts
 *    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen);
 *    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney);
 *    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
@@ -303,7 +307,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Three At The Back](https://open.spotify.com/show/4NbunP2podS7hIPD2BVlYF?si=OFwVjOucQP6LWZmnGmGqjg) by Opta Pro
 *    [Zonal Marking](https://open.spotify.com/show/1o2ZogNQQmPKCntcdKnXPT)
 
-## Notable figures / Twitter Accounts
+## Notable Figures / Twitter Accounts
 *    [2020 Analytics Twitter Top 1,000 Power Rankings](https://github.com/anenglishgoat/analyticsTwitterInteractions/blob/main/AnalyticsTwitterPageRank.csv), calculated by [Will Thomson](https://twitter.com/AnEnglishGoat)
 *    [Football Analyst Community Rankings dashboard](https://public.tableau.com/profile/grecian#!/vizhome/FootballAnalystCommunityRankings/Dashboard1) by Neil Charles
 *    [Football/soccer data analysts with publicly available work](https://docs.google.com/spreadsheets/d/1wjMVOpupmcF4hEG7PO4lY6l2mKsldGsnkyAULQwyAp8/edit?usp=sharing)
@@ -318,7 +322,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by David Sumpter for Barca Innovation Hub;
 *    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0).
 
-## Events and conferences
+## Events and Conferences
 *    [OptaPro Analytics Forum](https://www.optasportspro.com/events/)
 *    [StatsBomb Conference](https://statsbomb.com/conference/)
 *    [Barça Sports Analytics Summit](https://barcainnovationhub.com/event/barca-sports-analytics-summit-2019/)
@@ -363,6 +367,6 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport)
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf)
 
-## Other football analytics resources lists
+## Other Football Analytics Resources Lists
 *    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics)
