@@ -273,8 +273,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Sportdata & Performance Forum](https://www.sportdataperformance.com/)
 *    [Sports Technology Symposium](https://www.fcbarcelona.com/club/sports-technology-symposium)
 
-
-## Career Advice
+## Jobs
 *    The Video Analyst: https://thevideoanalyst.com/jobs/
 *    Opta: https://www.optasports.com/about/work-for-opta/
 *    Stats Perform Job Opportunities: https://www.statsperform.com/stats-careers/ and https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy
