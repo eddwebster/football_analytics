@@ -93,7 +93,9 @@ Data sources featured in this repository include:
 
 ## GitHub repos
 *    [Google Research Football](https://github.com/google-research/football);
-*    [LaurieOnTracking](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) by [Laurie Shaw](https://twitter.com/EightyFivePoint) - Python code for working with Metrica tracking data;zm/Soccermatics): This repo is dedicated for people getting started with Python using the concepts derived from the book Soccermatics (Sumpter 2016);
+*    [Friends-of-Tracking-Data-FoTD](https://github.com/Friends-of-Tracking-Data-FoTD);
+*    [SoccermaticsForPython](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython) - repo by David Sumpter dedicated for people getting started with Python using the concepts derived from the book Soccermatics 
+*    [LaurieOnTracking](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) by [Laurie Shaw](https://twitter.com/EightyFivePoint) - Python code for working with Metrica tracking data;
 *    [FoundationsInR](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR) by [Sudarshan Golaladesikan](https://twitter.com/suds_g) - getting started with R using the StatsBomb dataset;
 *    [Exploring spatio-temporal soccer events using public event data](https://github.com/Friends-of-Tracking-Data-FoTD/mapping-match-events-in-Python) by Luca Pappalardo, Alessio Rossi, and Paolo Cintia. See the paper: [A public data set of spatio-temporal match events in soccer competitions](https://doi.org/10.1038/s41597-019-0247-7);
 *    [Valuing actions in football](https://github.com/SciSports-Labs/fot-valuing-actions) by Lotte Bransen and Jan Van Haaren of SciSports;
