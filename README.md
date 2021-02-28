@@ -6,7 +6,7 @@ This repository is a public space for the football analytics projects by [Edd We
 </p>
 
 
-I recently accidentally deleted what was quite a well written and cited README file for this repository, unfortunately without backup. Whilst this notice remains, I am currently rewriting it to include the full list with links of: data sources, libraries & webscrapers, and favourite papers and learning materials, all of which include links to credited sources. This should be done shortly - 07/02/2021.
+I recently accidentally deleted what was quite a well written and cited README file for this repository, unfortunately without backup. Whilst this notice remains, I am currently rewriting it to include the full list with links of: data sources, libraries & webscrapers, and favourite papers and learning materials, all of which include links to credited sources. This is currently in progress but not yet finished - 28/02/2021.
 
 ## About this Repository and Author
 Please note, all work produced in this repository is mine and/or credited to the publicly produced code and libraries used. and is in no way related to the work and analysis I produce for my employers.
