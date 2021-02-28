@@ -278,7 +278,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Opta](https://www.optasports.com/about/work-for-opta/)
 *    [Stats Perform Job Opportunities](https://www.statsperform.com/stats-careers/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
 *    [Statsbomb](https://statsbomb.com/careers/)
-*    [Wyscout](https://wyscout.com/careers/#job-openings and careers@wyscout.com)
+*    [Wyscout](https://wyscout.com/careers/#job-openings) and careers@wyscout.com
 *    [Hudl](https://www.hudl.com/jobs#jobs)
 *    [Metrica Sports](https://apply.workable.com/metrica-sports/)
 *    [Second Spectrum](https://www.secondspectrum.com/careers/opportunities.html)
