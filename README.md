@@ -88,6 +88,7 @@ Data sources featured in this repository include:
 *    [soccermatics](https://github.com/JoGall/soccermatics) by Joe Gallagher (R)
 
 ## Papers (from most recent to oldest)
+*    [Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning](https://arxiv.org/pdf/2101.05388.pdf) by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg)
 *    [Dynamic Analysis of Team Strategy in Professional Footbal](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf) (2020) by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko);
 *    [SoccerMap: A Deep Learning Architecture for
 Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202.pdf) by [Javier Fernández](https://twitter.com/JaviOnData) and [Luke Bornn](https://twitter.com/LukeBornn);
@@ -154,7 +155,8 @@ Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202.pdf)
 *    [kwiatkowski.io](https://www.kwiatkowski.io/) by Marek Kwiatkowski (@statlurker)
 *    [LukeBornn.com](http://www.lukebornn.com/) by Luke Bornn (@LukeBornn)
 *    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by Nils Mackay (@NilsMackay)
-*    [Mackinaw Stats](https://mackayanalytics.nl/) by Mackinaw Stats (@MackinawStats)
+*    [Mackinaw Stats](https://mackayanalytics.nl/) by [Mackinaw Stats](https://twitter.com/mackinawstats)
+*    [MRKT Insights](https://mrktinsights.com/index.php/blog/)
 *    [North Yard Analytics](https://www.northyardanalytics.com/blog/) by Dan Altman (@NYASports)
 *    Opta Pro - old blogs removed by available using Wayback Machine
 *    [patricklucey.com](http://patricklucey.com/index.html) by Patrick Lucey (@patricklucey)
@@ -253,6 +255,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [The Football Fanalytics Podacst](https://open.spotify.com/show/6JwWRPMaHfGicFBtl7nI3V?si=IwQ00tyTRPaBcW-0XLwS4w&nd=1)
 *    [Football Today](https://open.spotify.com/show/1WRaXZgVlksph0IjsTNBaG?si=0zyUX59sTKqCRnq92SEylQ&nd=1)
 *    [Laptop Gurus](https://open.spotify.com/show/3sPI2CtmRJeaShdqNjrGRH?si=1NRk7exnRWaNbqbDO0B72w)
+*    [MRKT Insights](https://open.spotify.com/show/3q32QkmAXwth5VJwU8uzWt?si=8_vyLb6WQd2wTJt5MxdBoA)
 *    [Measurables Podcast](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW) by [Brendan Kent](https://twitter.com/brendankent)
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=M6xgCGtdTjiy0wEl1e2CJw)
 *    [smarterscout: The Why in Analytics](https://open.spotify.com/show/2QP4KXajJ5xOfW1ny78nAf?si=NQAf_4XtSFeQXAZi1bbupQ) by Dan Altman
