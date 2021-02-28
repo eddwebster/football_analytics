@@ -251,7 +251,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) by Sam Gregory (@GregorydSam)
 *    [ow to become a football data scientist – Friends of Tracking](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, Javier Fernández, Suds Gopaladesikan, Fran Peralta, and David Sumpter
 *    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by The Video Analyst
-*    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by David Sumpter (@Soccermatics) for Barca Innovation Hub
+*    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by David Sumpter for Barca Innovation Hub
 *    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0)
 
 ## Events and conferences
@@ -268,7 +268,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Football Data International Forum](https://eniit.es/football-data-international-forum/)
 *    [Global Training Camp](http://gtc.analyticsinsport.com/)
 *    [Great Lakes Analytics Conference](https://www.uwsp.edu/cols/Pages/GLAC/analyticsconference.aspx)
-*    [MathSport International](http://www.mathsportinternational.com/
+*    [MathSport International](http://www.mathsportinternational.com/)
 *    [Sports Analytics World Series](https://www.analyticsinsport.com/)
 *    [Sportdata & Performance Forum](https://www.sportdataperformance.com/)
 *    [Sports Technology Symposium](https://www.fcbarcelona.com/club/sports-technology-symposium)
