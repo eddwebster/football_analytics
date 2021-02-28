@@ -93,6 +93,13 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    Laurie Shaw's Metrica Sports Tracking data series for #FoT - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [measuring physical performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [valuing actions](https://www.youtube.com/watch?v=KXSLKwADXKI);
 *    StatsPerform AI in Sport series - [Overview](https://vimeo.com/473259469/3d56393c68), [AI in Basketball](), [AI In Soccer](https://vimeo.com/515977363/be3de09fc1), and [AI in Tennis]();
 *    [Tom Goodall's Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/)
+*    What Football Analytics can Teach Successful Organisation by Rasmus Ankersen (@RasmusAnkersen)
+*    Soccermatics: how maths explains football by David Sumpter (@Soccermatics)
+*    Changing the soccer transfer market with big data by Giels Brouwer
+*    How Stats Won Football: From Moneyball to FC Midtjylland – COPA90 Stories Documentary
+*    The Numbers Game: How Data Is Changing Football - FourFourTwo Documentary
+*    Christmas Lectures 2019: How to Get Lucky with Hannah Fry. Small segment with Tim Waskett (@StoneBakedGames)
+
 
 ## YouTube Channels
 *    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with David Sumpter, Javier Fernández, Laurie Shawm, Suds Gopaladesikan, Pascal Bauer, and Fran Peralta
@@ -246,6 +253,26 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by The Video Analyst
 *    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by David Sumpter (@Soccermatics) for Barca Innovation Hub
 *    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0)
+
+## Events and conferences
+*    [OptaPro Analytics Forum](https://www.optasportspro.com/events/)
+*    [StatsBomb Conference](https://statsbomb.com/conference/)
+*    [BARÇA SPORTS ANALYTICS SUMMIT](https://barcainnovationhub.com/event/barca-sports-analytics-summit-2019/)
+*    [MIT Sloan Sports Analytics Conference](http://www.sloansportsconference.com/)
+*    [New England Symposium on Statistics in Sports (NESSIS](http://www.nessis.org/)
+*    [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html)
+*    [CASSIS](http://cascadiasports.com/)
+*    [Tactical Insights 2020 Conference at King Power Stadium](https://www.lcfc.com/tacticalinsights)
+*    [DFB Hackathon](https://www.dfb-akademie.de/hackathon-2-sts-akademie-eintracht/-/id-11009109)
+*    [PSG Sports Analytics Challenge](https://www.agorize.com/fr/challenges/xpsg?lang=en)
+*    [Football Data International Forum](https://eniit.es/football-data-international-forum/)
+*    [Global Training Camp](http://gtc.analyticsinsport.com/)
+*    [Great Lakes Analytics Conference](https://www.uwsp.edu/cols/Pages/GLAC/analyticsconference.aspx)
+*    [MathSport International](http://www.mathsportinternational.com/
+*    [Sports Analytics World Series](https://www.analyticsinsport.com/)
+*    [Sportdata & Performance Forum](https://www.sportdataperformance.com/)
+*    [Sports Technology Symposium](https://www.fcbarcelona.com/club/sports-technology-symposium)
+
 
 ## Career Advice
 *    The Video Analyst: https://thevideoanalyst.com/jobs/
