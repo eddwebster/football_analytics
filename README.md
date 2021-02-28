@@ -62,14 +62,18 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 *    Opta [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics) dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterOptaMCFCAnalyticsPL1112AnalysisandDashboards/OptaPlayerDemographicsDashboard?:language=es&:display_count=y&:origin=viz_share_link)].
 
 ## Libaries
-*    [`socceraction`](https://github.com/ML-KULeuven/socceraction) - a python library for valuing the individual actions performed by soccer players. Includes an Expected Threat (xT) implementation. From [Tom Decroos](https://twitter.com/TomDecroos) et. al.
-*    [`statsbombpy`](https://github.com/statsbomb/statsbombpy) - a python library written by Francisco Goitia to access StatsBomb data.
-*    [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer) - a python library for visualising soccer event data. Also by [Tom Decroos](https://twitter.com/TomDecroos).
+*    [`kloppy`](https://github.com/PySport/kloppy) - a Python package providing (de)serializers for soccer tracking- and event data, standardized data models, filters, and transformers designed to make working with different tracking- and event data like a breeze.
+*    [`socceraction`](https://github.com/ML-KULeuven/socceraction) - a Python library for valuing the individual actions performed by soccer players. Includes an Expected Threat (xT) implementation. From [Tom Decroos](https://twitter.com/TomDecroos) et. al.
+*    [`statsbombpy`](https://github.com/statsbomb/statsbombpy) - a Python library written by Francisco Goitia to access StatsBomb data.
+*    [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer) - a Python library for visualising soccer event data. Also by [Tom Decroos](https://twitter.com/TomDecroos).
+*    [`mplsoccer`](https://github.com/andrewRowlinson/mplsoccer) - a Python library for drawing soccer/football pitches in Matplotlib and loading StatsBomb open-data by [Andrew Rowlinson](https://twitter.com/numberstorm)
+*    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) - a Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats)
 *    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) - Soccer visualization library in R from [Ben Torvaney](https://twitter.com/Torvaney)
 *    [`statsbomb-data-parser`](https://github.com/imrankhan17/statsbomb-parser) - a python library to convert StatsBomb's JSON data into CSV format.
 
 ## Learning Resources
 *    Friends of Tracking YouTube channel [[link](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)] and Mathematical Modelling of Football course by Uppsala University [[link](https://uppsala.instructure.com/courses/28112)]. The GitHub repo with all code featured can be found at the following [[link](https://github.com/Friends-of-Tracking-Data-FoTD)];
+*    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    Tableau for Sport by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://thevideoanalyst.com/tableau-sport/)] - completely free tutorials for using football data in Tableau;
 *    Tableau Football User Group [[link](https://usergroups.tableau.com/footballtableauusergroup)]
 
@@ -113,48 +117,48 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Zonal Marking](https://open.spotify.com/show/1o2ZogNQQmPKCntcdKnXPT)
 
 ## GitHub repos
-[TO UPDATE]
+*    [Google Research Football](https://github.com/google-research/football)
 
 ## Blogs
-*    2+2=11 by Will Gürpinar-Morgan (@WillTGM) 
-*    5 Added Minutes by Omar Chaudhuri (@OmarChaudhuri)
-*    8 Yards 8 Feet by Simon Lock (@8Yards8Feet)
-*    Analytics FC
-*    Attacking Center-back by JP Quinn (@AttackingCB)
-*    Carey Analytics by Mark Carey (@MarkCarey93)
-*    DeepxG: Thom Lawrence (@lemonwatcher) of StatBomb’s original blog. Last updated November 29 2017.
-*    Differentgame by Paul Riley (@footballfactman)
-*    EFL Numbers by EFL Numbers (@eflnumbers)
-*    EightyFivePoints by Laurie Shaw (@EightyFivePoint)
-*    Experimental 361 by Ben Mayhew (@experimental361)
-*    FC Python by FC Python (@FC_Python)
-*    Football Crunching by Ricardo Tavares (@rjtavares)
-*    Football Data Science by Dr. Garry Gelade (@GarryGelade)
-*    Football Philosophy by Joost van der Leij
-*    Football Science by Michael C. Rumpf
-*    G.C. Analytics by Gareth Cooper (@ThatGarateyjc)
-*    Hudl
-*    James W Grayson by James W Grayson (@JamesWGrayson)
-*    Karun Singh by Karun Singh (@karun1710) 
-*    kwiatkowski.io by Marek Kwiatkowski (@statlurker)
-*    LukeBornn.com by Luke Bornn (@LukeBornn)
-*    Mackay Analytics by Nils Mackay (@NilsMackay)
-*    Mackinaw Stats (O+) by Mackinaw Stats (@MackinawStats)
-*    North Yard Analytics by Dan Altman (@NYASports)
-*    OptaPro
-*    patricklucey.com by Patrick Lucey (@patricklucey)
-*    Penal.lt/y by Martom Eastwood (@penaltyblog)
-*    Proform AFC by Proform Analytics (@ProformAFC) - Mladen Sormaz (@Mladen_Sormaz) and Dan Nichol (@D4N_)
-*    SaddlersStats
-*    StatDNA (last updated 01/06/2011 before Arsenal bought the company)
-*    StatsBomb
-*    Stats and snakeoil by Ben Torvaney (@Torvaney , formally @stats_snakeoil)
-*    The Last Man Analytics (F+) by The Last Man Anayltics (@TLMAnalytics) – Ciaran Grant (@Ciaran_Grant)
-*    The Power of Goals by . A football statistics blog that makes good use of Opta data to analyse and predict match outcomes.
-*    Total Football Analysis by Total Football Analysis (@TotalAnalysis)
-*    winningwithanalytics.com by Bill Gerrard (@bill_gerrard_)
-*    Wooly Jumpers for Goal Posts by The Woolster (@The_Woolster)
-*    Wyscout
+*    [21st Club](https://www.21stclub.com/insight/) - blog posts available in hard-copy form in their [Changing the Conversation](https://www.amazon.co.uk/Changing-Conversation-Presents-Collection-Boardrooms/) series
+*    [2+2=11](https://2plus2equals11.com/) by Will Gürpinar-Morgan (@WillTGM) 
+*    [5 Added Minutes](https://5addedminutes.com/) by Omar Chaudhuri (@OmarChaudhuri)
+*    [8 Yards 8 Feet](https://8yards8feet.wordpress.com/author/simonlock1993/) by Simon Lock (@8Yards8Feet)
+*    [Analytics FC](https://attackingcentreback.wordpress.com/)
+*    [Attacking Center-back](https://attackingcentreback.wordpress.com/) by JP Quinn (@AttackingCB)
+*    [Carey Analytics](https://careyanalytics.wordpress.com/) by Mark Carey (@MarkCarey93)
+*    [DeepxG]() by Thom Lawrence (@lemonwatcher). Last updated November 29 2017.
+*    [Differentgame](https://differentgame.wordpress.com/) by Paul Riley (@footballfactman)
+*    [EFL Numbers](https://eflnumbers.wordpress.com/) by EFL Numbers (@eflnumbers)
+*    [EightyFivePoints](http://eightyfivepoints.blogspot.com/) by Laurie Shaw (@EightyFivePoint)
+*    [Experimental 361](https://experimental361.com/) by Ben Mayhew (@experimental361)
+*    [FC Python](https://fcpython.com/category/blog) by FC Python (@FC_Python)
+*    [Football Crunching](https://medium.com/football-crunching) by Ricardo Tavares (@rjtavares)
+*    [Football Data Science](http://business-analytic.co.uk/blog/home-page/) by Dr. Garry Gelade (@GarryGelade)
+*    [Football Philosophy](http://footballphilosophy.org/) by Joost van der Leij
+*    [Football Science](https://www.footballscience.net/) by Michael C. Rumpf
+*    [Hudl](https://www.hudl.com/blog/)
+*    [James W Grayson](https://jameswgrayson.wordpress.com/) by James W Grayson (@JamesWGrayson)
+*    [Karun Singh](https://karun.in/blog/) by Karun Singh (@karun1710) 
+*    [kwiatkowski.io](https://www.kwiatkowski.io/) by Marek Kwiatkowski (@statlurker)
+*    [LukeBornn.com](http://www.lukebornn.com/) by Luke Bornn (@LukeBornn)
+*    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by Nils Mackay (@NilsMackay)
+*    [Mackinaw Stats](https://mackayanalytics.nl/) by Mackinaw Stats (@MackinawStats)
+*    [North Yard Analytics](https://www.northyardanalytics.com/blog/) by Dan Altman (@NYASports)
+*    Opta Pro - old blogs removed by available using Wayback Machine
+*    [patricklucey.com](http://patricklucey.com/index.html) by Patrick Lucey (@patricklucey)
+*    [Penal.lt/y](http://pena.lt/y/) by Martom Eastwood (@penaltyblog)
+*    [Proform AFC](https://proformanalytics.wordpress.com/) by Proform Analytics (@ProformAFC) - Mladen Sormaz (@Mladen_Sormaz) and Dan Nichol (@D4N_)
+*    [SaddlersStats](https://www.saddlersstats.co.uk/)
+*    [StatDNA](https://web.archive.org/web/20110707064735/https:/blog.statdna.com/) (last updated 01/06/2011 before Arsenal bought the company)
+*    [StatsBomb](https://statsbomb.com/articles/)
+*    [Stats Perform](https://www.statsperform.com/resources/)
+*    [Stats and snakeoil](http://www.statsandsnakeoil.com/) by Ben Torvaney (@Torvaney , formally @stats_snakeoil)
+*    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by The Last Man Anayltics (@TLMAnalytics) – Ciaran Grant (@Ciaran_Grant)
+*    [The Power of Goals](https://thepowerofgoals.blogspot.com/)
+*    [winningwithanalytics.com]() by Bill Gerrard (@bill_gerrard_)
+*    [Wooly Jumpers for Goal Posts](https://winningwithanalytics.com/) by The Woolster (@The_Woolster)
+*    [Wyscout](https://blog.wyscout.com/)
 
 
 ## Blog posts
@@ -207,6 +211,11 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Numbers Don't Lie: New Adventures in Counting and What Counts in Basketball Analytics](https://www.amazon.co.uk/Numbers-Dont-Lie-Adventures-Basketball/) by Yago Colás
 
 ## Newsletters
-*   [Grace on Football](https://onfootball.substack.com/) by [Grace Robertson](https://twitter.com/graceonfootball)
-*   [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller)
-*   [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent)
+*    [Grace on Football](https://onfootball.substack.com/) by [Grace Robertson](https://twitter.com/graceonfootball)
+*    [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller)
+*    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent)
+*    [Stats Perform](https://www.statsperform.com/)
+
+## Twitter Accounts
+*   [2020 Analytics Twitter Top 1,000 Power Rankings](https://github.com/anenglishgoat/analyticsTwitterInteractions/blob/main/AnalyticsTwitterPageRank.csv), calculated by [Will Thomson](https://twitter.com/AnEnglishGoat)
+*   [Football Analyst Community Rankings dashboard](https://public.tableau.com/profile/grecian#!/vizhome/FootballAnalystCommunityRankings/Dashboard1) by Neil Charles
