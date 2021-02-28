@@ -120,9 +120,9 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/)
 *    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (Spanish)
 *    [Double Pivot Podcast](https://open.spotify.com/show/4lBU3spHZaQWJyUcCUbkY8)
-*    [Differentgame - The Football Analytics Podcast](https://open.spotify.com/show/0EHSv20UxlqnOjaUNzdiGN?si=rc48L2eFRLCLXZyROU8GSw) by Paul Riley and Richard Shephard
+*    [Differentgame - The Football Analytics Podcast](https://open.spotify.com/show/0EHSv20UxlqnOjaUNzdiGN?si=rc48L2eFRLCLXZyROU8GSw) by [Paul Riley](https://twitter.com/footballfactman) and Richard Shephard
 *    [Expected Value](https://open.spotify.com/show/5xFeWbaaLFepY5n73SfWwr)
-*    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU) with Mike Lewis 
+*    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU) with [Mike Lewis](https://twitter.com/FanalyticsMike)
 *    [The Football Fanalytics Podacst](https://open.spotify.com/show/6JwWRPMaHfGicFBtl7nI3V?si=IwQ00tyTRPaBcW-0XLwS4w&nd=1)
 *    [Football Today](https://open.spotify.com/show/1WRaXZgVlksph0IjsTNBaG?si=0zyUX59sTKqCRnq92SEylQ&nd=1)
 *    [Laptop Gurus](https://open.spotify.com/show/3sPI2CtmRJeaShdqNjrGRH?si=1NRk7exnRWaNbqbDO0B72w)
@@ -167,22 +167,22 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [patricklucey.com](http://patricklucey.com/index.html) by Patrick Lucey (@patricklucey)
 *    [Penal.lt/y](http://pena.lt/y/) by Martom Eastwood (@penaltyblog)
 *    [Piotr Wawrzynów – Football Analysis](https://wawrzynow.wordpress.com/) by [Piotr Wawrzynów](https://twitter.com/pwawrzynow)
-*    [Proform AFC](https://proformanalytics.wordpress.com/) by Proform Analytics (@ProformAFC) - Mladen Sormaz (@Mladen_Sormaz) and Dan Nichol (@D4N_)
+*    [Proform AFC](https://proformanalytics.wordpress.com/) by [Proform Analytics](https://twitter.com/ProformAFC) ([Mladen Sormaz](https://twitter.com/Mladen_Sormaz) and [Dan Nichol](https://twitter.com/D4N__))
 *    [SaddlersStats](https://www.saddlersstats.co.uk/)
 *    [StatDNA](https://web.archive.org/web/20110707064735/https:/blog.statdna.com/) (last updated 01/06/2011 before Arsenal bought the company)
 *    [StatsBomb](https://statsbomb.com/articles/)
 *    [Stats Perform](https://www.statsperform.com/resources/)
-*    [Stats and snakeoil](http://www.statsandsnakeoil.com/) by Ben Torvaney (@Torvaney , formally @stats_snakeoil)
-*    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by The Last Man Anayltics (@TLMAnalytics) – Ciaran Grant (@Ciaran_Grant)
+*    [Stats and snakeoil](http://www.statsandsnakeoil.com/) by [Ben Torvaney](https://twitter.com/Torvaney)
+*    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant](https://twitter.com/Ciaran_Grant))
 *    [The Power of Goals](https://thepowerofgoals.blogspot.com/)
-*    [winningwithanalytics.com]() by Bill Gerrard (@bill_gerrard_)
-*    [Wooly Jumpers for Goal Posts](https://winningwithanalytics.com/) by The Woolster (@The_Woolster)
+*    [winningwithanalytics.com]() by [Bill Gerrard](https://twitter.com/bill_gerrard_)
+*    [Wooly Jumpers for Goal Posts](https://winningwithanalytics.com/) by [The Woolster](https://twitter.com/The_Woolster)
 *    [Wyscout](https://blog.wyscout.com/)
 *    [xG per Shot[(https://xgpershot.wordpress.com/) by [Parthe Athale](https://twitter.com/ParthAthale)
 
 
 ## Blog posts
-*    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
+*    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen)
 *    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney)
 *    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher)
 *    [Pass Footedness in the Premier League](https://statsbomb.com/2019/04/pass-footedness-in-the-premier-league/) by [James Yorke](https://twitter.com/jair1970)
@@ -222,6 +222,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Soccernomics](https://www.amazon.co.uk/Soccernomics-England-Germany-France-Finally/) by Simon Kuper and [Stefan Szymanski](https://twitter.com/sszy)
 *    [Mathletics: How Gamblers, Managers, and Sports Enthusiasts Use Mathematics in Baseball, Basketball, and Football](https://www.amazon.co.uk/Mathletics-Gamblers-Enthusiasts-Mathematics-Basketball/) by Wayne Winston
 *    [Data Analytics in Football](https://www.amazon.co.uk/Data-Analytics-Football-Daniel-Memmert/) by [Daniel Memmert](https://twitter.com/DMemmert) and Dominik Raabe
+*    [Changing the Conversation](https://www.amazon.co.uk/Changing-Conversation-Presents-Collection-Boardrooms/) series by 21st Club
 *    [Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers](https://www.amazon.co.uk/Sports-Analytics-Coaches-Managers-Decision/) by [Ben Alamar](https://twitter.com/bencalamar)
 *    [Outside the Box](https://www.amazon.co.uk/Outside-Box-Statistical-Journey-Football/) by [Duncan Alexander](https://twitter.com/oilysailor)
 *    [Zonal Marking: The Making of Modern European Football](https://www.amazon.co.uk/Zonal-Marking-Making-European-Football/) by [Michael Cox](https://twitter.com/Zonal_Marking)
