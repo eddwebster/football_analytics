@@ -81,7 +81,7 @@ Data sources featured in this repository include:
 ## GitHub repos
 *    [Google Research Football](https://github.com/google-research/football)
 *    [LaurieOnTracking](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) by [Laurie Shaw](https://twitter.com/EightyFivePoint) - Python code for working with Metrica tracking data.
-*    [occermatricsForPython](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython) by [David Sumpter](https://twitter.com/Soccermatics): This repo is dedicated for people getting started with Python using the concepts derived from the book Soccermatics (Sumpter 2016)
+*    [SoccermatricsForPython](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython) by [David Sumpter](https://twitter.com/Soccermatics): This repo is dedicated for people getting started with Python using the concepts derived from the book Soccermatics (Sumpter 2016)
 *    [FoundationsInR](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR) by [Sudarshan Golaladesikan](https://twitter.com/suds_g) - getting started with R using the StatsBomb dataset.
 *    [analytics-handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    [football-crunching](https://github.com/rjtavares/football-crunching) by Ricardo Tavares (@rtavares). Accompanying Medium posts [[link](https://medium.com/football-crunching)]
@@ -140,19 +140,23 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [2+2=11](https://2plus2equals11.com/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM)
 *    [5 Added Minutes](https://5addedminutes.com/) by [Omar Chaudhuri](https://twitter.com/OmarChaudhuri)
 *    [8 Yards 8 Feet](https://8yards8feet.wordpress.com/author/simonlock1993/) by [Simon Lock](https://twitter.com/8Yards8Feet)
+*    [American Soccer Analysis](https://www.americansocceranalysis.com/)
 *    [Analytics FC](https://attackingcentreback.wordpress.com/)
 *    [Attacking Center-back](https://attackingcentreback.wordpress.com/) by [JP Quinn](https://twitter.com/AttackingCB)
+*    [Barça Innovation Hub](https://barcainnovationhub.com/category/blog/)
 *    [Carey Analytics](https://careyanalytics.wordpress.com/) by [Mark Carey](https://twitter.com/MarkCarey93)
-*    [DeepxG]() by [Thom Lawrence](https://twitter.com/lemonwatcher). Last updated November 29 2017.
+*    [DeepxG](https://deepxg.com/) by [Thom Lawrence](https://twitter.com/lemonwatcher). Last updated November 29 2017.
 *    [Differentgame](https://differentgame.wordpress.com/) by [Paul Riley](https://twitter.com/footballfactman)
 *    [EFL Numbers](https://eflnumbers.wordpress.com/) by EFL Numbers (@eflnumbers)
 *    [EightyFivePoints](http://eightyfivepoints.blogspot.com/) by Laurie Shaw (@EightyFivePoint)
 *    [Experimental 361](https://experimental361.com/) by Ben Mayhew (@experimental361)
 *    [FC Python](https://fcpython.com/category/blog) by FC Python (@FC_Python)
+*    [FiveThirtyEight Sports](https://fivethirtyeight.com/sports/)
 *    [Football Crunching](https://medium.com/football-crunching) by Ricardo Tavares (@rjtavares)
 *    [Football Data Science](http://business-analytic.co.uk/blog/home-page/) by Dr. Garry Gelade (@GarryGelade)
 *    [Football Philosophy](http://footballphilosophy.org/) by Joost van der Leij
 *    [Football Science](https://www.footballscience.net/) by Michael C. Rumpf
+*    [Football Whispers](https://www.footballwhispers.com/)
 *    [The Futebolist](https://medium.com/@thefutebolist) by [Ashwin Raman](https://twitter.com/AshwinRaman_)
 *    [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/)
 *    [Hudl](https://www.hudl.com/blog/)
@@ -169,6 +173,8 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Piotr Wawrzynów – Football Analysis](https://wawrzynow.wordpress.com/) by [Piotr Wawrzynów](https://twitter.com/pwawrzynow)
 *    [Proform AFC](https://proformanalytics.wordpress.com/) by [Proform Analytics](https://twitter.com/ProformAFC) ([Mladen Sormaz](https://twitter.com/Mladen_Sormaz) and [Dan Nichol](https://twitter.com/D4N__))
 *    [SaddlersStats](https://www.saddlersstats.co.uk/)
+*    [SciSports](https://www.scisports.com/)
+*    [Soccermatics](https://www.soccermetrics.net/blog) by David Sumpter
 *    [StatDNA](https://web.archive.org/web/20110707064735/https:/blog.statdna.com/) (last updated 01/06/2011 before Arsenal bought the company)
 *    [StatsBomb](https://statsbomb.com/articles/)
 *    [Stats Perform](https://www.statsperform.com/resources/)
@@ -179,7 +185,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 *    [Wooly Jumpers for Goal Posts](https://winningwithanalytics.com/) by [The Woolster](https://twitter.com/The_Woolster)
 *    [Wyscout](https://blog.wyscout.com/)
 *    [xG per Shot[(https://xgpershot.wordpress.com/) by [Parthe Athale](https://twitter.com/ParthAthale)
-
+*    [Zonal Marking](http://www.zonalmarking.net/)
 
 ## Blog posts
 *    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen)
@@ -254,7 +260,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science video that I 
 ## Events and conferences
 *    [OptaPro Analytics Forum](https://www.optasportspro.com/events/)
 *    [StatsBomb Conference](https://statsbomb.com/conference/)
-*    [BARÇA SPORTS ANALYTICS SUMMIT](https://barcainnovationhub.com/event/barca-sports-analytics-summit-2019/)
+*    [Barça Sports Analytics Summit](https://barcainnovationhub.com/event/barca-sports-analytics-summit-2019/)
 *    [MIT Sloan Sports Analytics Conference](http://www.sloansportsconference.com/)
 *    [New England Symposium on Statistics in Sports (NESSIS](http://www.nessis.org/)
 *    [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html)
