@@ -1,12 +1,12 @@
 # Edd Webster Football Analytics
-This repository is a public space for the football analytics projects by [Edd Webster](https://twitter.com/eddwebster).
+This repository is a public space for the football analytics projects by [Edd Webster](https://twitter.com/eddwebster) and publicly available resources published by football analytics community.
 
 <p align="center">
   <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
 </p>
 
 
-I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, created by all those that havecontributed to the football analytics community. This is currently in progress but not yet finished and could do with a bit of editing - 28/02/2021.
+I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below - 28/02/2021.
 
 ## About This Repository and Author
 Please note, all work produced in this repository is mine and/or credited to the publicly produced code and libraries used. and is in no way related to the work and analysis I produce for my employers.
