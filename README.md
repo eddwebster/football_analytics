@@ -21,6 +21,19 @@ For more information about this repository and the author, I'm available through
 *    [kaggle.com/eddwebster](https://www.kaggle.com/eddwebster); and
 *    [hackerrank.com/eddwebster](https://www.hackerrank.com/eddwebster).
 
+## Contents:
+*    [Notebooks](#notebooks)
+*    [Data Visualisation and Tableau](#data--tableau)
+*    [Data Sources](#data--sources)
+*    [Data Websites](#data--websites)
+*    [Tutorials](#tutorials)
+*    [Tableau-Specific Resources](#tableau--resources)
+*    [Libaries (Python and R)](#libraries--r))
+*    [Events and Conferences](#events--conferences))
+*    [Jobs](#jobs))
+*    [Miscellaneous](#miscellaneous))
+*    [Other Football Analytics Resources Lists](#other--lists))
+
 ## Notebooks
 For code, see the notebooks subfolder, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
