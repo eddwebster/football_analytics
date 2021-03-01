@@ -212,7 +212,7 @@ Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202.pdf)
 *    [winningwithanalytics.com](https://winningwithanalytics.com/) by [Bill Gerrard](https://twitter.com/bill_gerrard_)
 *    [Wooly Jumpers for Goal Posts](https://winningwithanalytics.com/) by [The Woolster](https://twitter.com/The_Woolster)
 *    [Wyscout](https://blog.wyscout.com/)
-*    [xG per Shot[(https://xgpershot.wordpress.com/) by [Parthe Athale](https://twitter.com/ParthAthale)
+*    [xG per Shot](https://xgpershot.wordpress.com/) by [Parthe Athale](https://twitter.com/ParthAthale)
 *    [Zonal Marking](http://www.zonalmarking.net/)
 
 ## Blog Posts
