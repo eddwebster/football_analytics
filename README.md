@@ -28,11 +28,22 @@ For more information about this repository and the author, I'm available through
 *    [Data Websites](#data--websites)
 *    [Tutorials](#tutorials)
 *    [Tableau-Specific Resources](#tableau--resources)
-*    [Libaries (Python and R)](#libraries--r))
-*    [Events and Conferences](#events--conferences))
-*    [Jobs](#jobs))
-*    [Miscellaneous](#miscellaneous))
-*    [Other Football Analytics Resources Lists](#other--lists))
+*    [Libaries (Python and R)](#libraries--r)
+*    [GitHub repos (Python and R)](#githubs--r)
+*    [Papers (from most recent to oldest)](#papers--oldest)
+*    [Blogs](#blogs)
+*    [Blog Posts](#blog--posts)
+*    [Videos](#videos)
+*    [YouTube Channels](#youtube--channels)
+*    [Books](#books)
+*    [Newsletters](#newsletters)
+*    [Podcasts (Spotify links used where available)](#podcasts--available)
+*    [Notable Figures / Twitter Accounts](#notable--accounts)
+*    [Career Advice](#career-advice)
+*    [Events and Conferences](#events--conferences)
+*    [Jobs](#jobs)
+*    [Miscellaneous](#miscellaneous)
+*    [Other Football Analytics Resources Lists](#other--lists)
 
 ## Notebooks
 For code, see the notebooks subfolder, in which the workflow is divided into the following:
@@ -334,7 +345,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 ## Podcasts (Spotify links used where available)
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/podcasts);
 *    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/);
-*    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (Spanish);
+*    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (Spanish) by [Marcelo Gantman](https://twitter.com/marcelogantman) and Agustin Mario Gimenez;
 *    [Double Pivot Podcast](https://open.spotify.com/show/4lBU3spHZaQWJyUcCUbkY8);
 *    [Differentgame - The Football Analytics Podcast](https://open.spotify.com/show/0EHSv20UxlqnOjaUNzdiGN?si=rc48L2eFRLCLXZyROU8GSw) by [Paul Riley](https://twitter.com/footballfactman) and Richard Shephard;
 *    [Expected Value](https://open.spotify.com/show/5xFeWbaaLFepY5n73SfWwr);
