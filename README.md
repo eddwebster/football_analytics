@@ -92,7 +92,7 @@ Data sources featured in this repository include:
 ### Data Providers
 *    [DataFactory](http://www.datafactory.la/)
 *    [ELO club rankings](http://clubelo.com/)
-*    [FBref](https://fbref.com/en/) (StatsBomb data)
+*    [FBref](https://fbref.com/en/) (provider of [StatsBomb](https://statsbomb.com/data/) data)
 *    [InStat](https://instatsport.com/)
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home)
 *    [Opta Sports](https://www.optasports.com/)
@@ -101,7 +101,7 @@ Data sources featured in this repository include:
 *    [Sport radar](https://www.sportradar.com/)
 *    [STATS PERFORM](https://www.statsperform.com/)
 *    [StatsBomb](https://statsbomb.com/data/)
-*    [StrataBet](http://www.stratagem.co/)
+*    [StrataBet](http://www.stratagem.co/) (now defunct)
 *    [TransferMarket](https://www.transfermarkt.com/)
 *    [understat](https://understat.com/)
 *    [WhoScored?](https://www.whoscored.com/)
