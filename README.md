@@ -1,15 +1,15 @@
 # Edd Webster Football Analytics
-This repository is a public space for the football analytics projects by [Edd Webster](https://twitter.com/eddwebster) and publicly available resources published by football analytics community.
+This repository is a public space for the football analytics projects by [Edd Webster](https://twitter.com/eddwebster) and a list of publicly available resources published by the football analytics community.
 
 <p align="center">
   <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
 </p>
 
 
-I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below - 28/02/2021.
+I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below - 28/02/2021. If you can think of any resources that I've missed, feel free to create a pull request or send me a message.
 
 ## About This Repository and Author
-Please note, all work produced in this repository is mine and/or credited to the publicly produced code and libraries used. and is in no way related to the work and analysis I produce for my employers.
+Please note, all the work produced in this repository is mine and/or credited to the publicly produced code and libraries used, and is in no way related to the work and analysis I produce for my employers.
 
 For more information about this repository and the author, I'm available through all the following channels:
 *    [eddwebster.com](https://www.eddwebster.com/);
