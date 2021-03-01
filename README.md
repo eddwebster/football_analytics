@@ -93,11 +93,13 @@ Data sources featured in this repository include:
 *    [DataFactory](http://www.datafactory.la/)
 *    [FBref](https://fbref.com/en/) (StatsBomb data)
 *    [Opta Sports](https://www.optasports.com/)
+*    [smarterscout](https://smarterscout.com/)
 *    [SPORTLOGiQ](https://sportlogiq.com/en/)
 *    [Sport radar](https://www.sportradar.com/)
 *    [STATS PERFORM](https://www.statsperform.com/)
 *    [StatsBomb](https://statsbomb.com/data/)
 *    [understat](https://understat.com/)
+*    [WhoScored?](https://www.whoscored.com/)
 *    [Wyscout](https://wyscout.com/es/)
 
 ### Tracking
@@ -105,7 +107,6 @@ Data sources featured in this repository include:
 *    [Metrica Sports](https://metrica-sports.com/)
 *    [Signality](https://www.signality.com/)
 *    [SkillCorner](https://www.skillcorner.com/)
-*    [smarterscout](https://smarterscout.com/)
 *    [STATS SportVU](https://www.stats.com/sportvu-football/)
 *    [Kinexon](https://kinexon-sports.com/)
 *    [Oliver](https://tryoliver.com/)
