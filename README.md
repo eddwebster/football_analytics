@@ -91,20 +91,27 @@ Data sources featured in this repository include:
 
 ### Data Providers
 *    [DataFactory](http://www.datafactory.la/)
+*    [ELO club rankings](http://clubelo.com/)
 *    [FBref](https://fbref.com/en/) (StatsBomb data)
+*    [InStat](https://instatsport.com/)
+*    [KPMG Football Benchmark](https://footballbenchmark.com/home)
 *    [Opta Sports](https://www.optasports.com/)
 *    [smarterscout](https://smarterscout.com/)
-*    [SPORTLOGiQ](https://sportlogiq.com/en/)
+*    [Sportlogiq](https://sportlogiq.com/en/)
 *    [Sport radar](https://www.sportradar.com/)
 *    [STATS PERFORM](https://www.statsperform.com/)
 *    [StatsBomb](https://statsbomb.com/data/)
+*    [StrataBet](http://www.stratagem.co/)
+*    [TransferMarket](https://www.transfermarkt.com/)
 *    [understat](https://understat.com/)
 *    [WhoScored?](https://www.whoscored.com/)
 *    [Wyscout](https://wyscout.com/es/)
 
 ### Tracking
+*    [Catapult](https://www.catapultsports.com/)
 *    [ChyronHego](https://chyronhego.com/)
 *    [Metrica Sports](https://metrica-sports.com/)
+*    [Second Spectrum](https://www.secondspectrum.com/index.html)
 *    [Signality](https://www.signality.com/)
 *    [SkillCorner](https://www.skillcorner.com/)
 *    [STATS SportVU](https://www.stats.com/sportvu-football/)
@@ -286,6 +293,8 @@ Visually-Interpretable Analysis in Soccer](https://arxiv.org/pdf/2010.10202.pdf)
 *    [Zonal Marking](http://www.zonalmarking.net/)
 
 ## Blog Posts
+Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/GregorydSam)'s [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) piece.
+
 *    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen);
 *    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney);
 *    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
