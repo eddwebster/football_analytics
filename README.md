@@ -87,12 +87,42 @@ Data sources featured in this repository include:
      -    Zones on a pitch for Tableau visualisation by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://drive.google.com/drive/folders/1Se0DFtsjQWmnt-G9Ihn_w8EQE4EZiblD)]
      -    Alphabetic country codes [[link](https://en.wikipedia.org/wiki/Comparison_of_alphabetic_country_codes)]
 
-## Data Websites
-*    Opta
-*    smarterscout;
-*    StatsBomb;
-*    Wyscout; and
-*    Understat.
+## Data Companies
+
+### Data Providers
+*    [DataFactory](http://www.datafactory.la/)
+*    [FBref](https://fbref.com/en/) (StatsBomb data)
+*    [Opta Sports](https://www.optasports.com/)
+*    [SPORTLOGiQ](https://sportlogiq.com/en/)
+*    [Sport radar](https://www.sportradar.com/)
+*    [STATS PERFORM](https://www.statsperform.com/)
+*    [StatsBomb](https://statsbomb.com/data/)
+*    [understat](https://understat.com/)
+*    [Wyscout](https://wyscout.com/es/)
+
+### Tracking
+*    [ChyronHego](https://chyronhego.com/)
+*    [Metrica Sports](https://metrica-sports.com/)
+*    [Signality](https://www.signality.com/)
+*    [SkillCorner](https://www.skillcorner.com/)
+*    [smarterscout](https://smarterscout.com/)
+*    [STATS SportVU](https://www.stats.com/sportvu-football/)
+*    [Kinexon](https://kinexon-sports.com/)
+*    [Oliver](https://tryoliver.com/)
+
+### Video / Performance Analysis
+*    [Analytics FC](http://analyticsfc.co.uk/)
+*    [dataFootball](https://www.bdatafutbol.com/)
+*    [ERIC Sports](http://www.ericsports.net/)
+*    [Futbolytics](https://futbolytics.cl/)
+*    [hudl](https://www.hudl.com/)
+*    [LBi Dynasty](http://www.lbidynasty.com/)
+*    [LongoMatch](https://longomatch.com/es/)
+*    [MEDIACOACH](https://portal.mediacoach.es/)
+*    [nacsport](https://nacsport.com/)
+*    [Olocip](http://www.olocip.com/)
+*    [SICO](https://www.sicostats.com/)
+*    [Wise](http://app.wise4sports.com/home/)
 
 ## Tutorials
 *    Friends of Tracking YouTube channel [[link](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)] and Mathematical Modelling of Football course by Uppsala University [[link](https://uppsala.instructure.com/courses/28112)]. The GitHub repo with all code featured can be found at the following [[link](https://github.com/Friends-of-Tracking-Data-FoTD)];
@@ -127,6 +157,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer) - a Python library for visualising soccer event data by [Tom Decroos](https://twitter.com/TomDecroos);
 *    [`mplsoccer`](https://github.com/andrewRowlinson/mplsoccer) - a Python library for drawing soccer/football pitches in Matplotlib and loading StatsBomb open-data by [Andrew Rowlinson](https://twitter.com/numberstorm);
 *    [`nayra`](https://github.com/DonsetPG/narya) - API that allows you track soccer player from camera inputs, and evaluate them with an Expected Discounted Goal (EDG) Agent. See the [Evaluating Soccer Player](https://arxiv.org/pdf/2101.05388.pdf) paper by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg);
+*    [`PySport`](https://opensource.pysport.org/) including [`PySport Soccer`](https://opensource.pysport.org/?sports=Soccer) - collection of open-source sport packages including many of those mentioned in this section, by [Koen Vossen](https://twitter.com/mr_le_fox);
 *    [`PyWaffle`](https://github.com/petermckeeverPerform/PyWaffle) - an open source, MIT-licensed Python package for plotting waffle charts by Peter McKeever;
 *    [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) - Python library to scrape StatsBomb data via FBref by [Parthe Athale](https://twitter.com/ParthAthale), which in turn was updated from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL);
 *    [`statsbombapi`](https://github.com/Torvaney/statsbombapi) - a Python API wrapper and dataclasses for Statsbomb data;
