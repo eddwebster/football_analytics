@@ -16,10 +16,8 @@ For more information about this repository and the author, I'm available through
 *    edd.j.webster@gmail.com;
 *    [@eddwebster](https://www.twitter.com/eddwebster);
 *    [linkedin.com/in/eddwebster](https://www.linkedin.com/in/eddwebster/);
-*    [github/eddwebster](https://github.com/eddwebster/);
-*    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster);
-*    [kaggle.com/eddwebster](https://www.kaggle.com/eddwebster); and
-*    [hackerrank.com/eddwebster](https://www.hackerrank.com/eddwebster).
+*    [github/eddwebster](https://github.com/eddwebster/); and
+*    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
 
 ## Contents:
 *    [Notebooks](#notebooks)
