@@ -72,7 +72,7 @@ Data sources featured in this repository include:
 *    [FIFA 15-21 player rating data](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset) scraped from [SoFIFA](https://sofifa.com/) by Stefano Leone;
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
 *    [Last Row Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) by [Ricardo Tavares](https://twitter.com/rjtavares);
-*    [Metrica Sports Tracking data](https://github.com/metrica-sports/sample-data);
+*    [Metrica Sports sample Tracking and corresponding Event data](https://github.com/metrica-sports/sample-data);
 *    [Opta Sports](https://www.optasports.com/) match-by-match aggregated player performance data for the 11/12 season and F24 Event data for a 11/12 match of Manchester City vs. Bolton Wanders [[link](#mcfcanalytics)] as part of the [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics) initiative;
 *    [Signality Tracking data](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/12GetSignalityAPI.py). The password to download the data is not publicly available, but can be found in the Uppsala Mathematical Modelling of FootballSlack group [link](http://mathematicalm-fhj6138.slack.com). For access, contact Novosom Salvador [Twitter](@novosomsalvador) and rsalvadords@gmail.com, or feel free to contact myself. Note, that the 2nd half of the Hammarby-Örebro match is incomplete;
 *    [SkillCorner broadcast Tracking data](https://github.com/SkillCorner/opendata);
@@ -82,23 +82,46 @@ Data sources featured in this repository include:
 *    [StrataData]() from [StrataBet](http://www.stratagem.co/) Chance shooting data;
 *    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data scraped using the [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [[TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb)] for code with minor fixes to enable code to run);
 *    [Understat](https://understat.com/) shooting and meta data including player xG values, scraped using the [`understatr`](https://github.com/ewenme/understatr) R package; 
-*    Wyscout Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
+*    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
 *    Reference data:
      -    League-wide xT values from the 2017-18 Premier League season (12x8 grid) by [Karun Singh](https://twitter.com/karun1710/) [[link](https://karun.in/blog/data/open_xt_12x8_v1.json)]
      -    EPV grid by [Laurie Shaw](https://twitter.com/EightyFivePoint) [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking/blob/master/EPV_grid.csv)]
      -    Zones on a pitch for Tableau visualisation by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://drive.google.com/drive/folders/1Se0DFtsjQWmnt-G9Ihn_w8EQE4EZiblD)]
      -    Alphabetic country codes [[link](https://en.wikipedia.org/wiki/Comparison_of_alphabetic_country_codes)]
 
-### Data sources 
+### Data sources and datasets
 Various websites that provide a wealth of data relating to football, from detailed match statistics, injury records and transfers.
-*    http://www.football-lineups.com
-*    https://www.statbunker.com
-*    http://physioroom.com/
-*    http://www.myfootballfacts.com/
-*    http://clubelo.com/
-*    http://www.transferleague.co.uk
-*    http://www.transfermarkt.co.uk
-*    http://www.squawka.com
+
+*    [Awesome Footbal](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets.
+*    [Club Elo](http://clubelo.com/)
+*    [Data Hub Football data](https://datahub.io/collections/football) - a collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc.
+*    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and Mike Imburgio for [American Soccer Analysis](https://www.americansocceranalysis.com/);
+*    [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10) - 25k+ matches, players & teams attributes for European Professional Football
+*    [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017
+*    [FIFA 15-21 player rating data](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset) scraped from [SoFIFA](https://sofifa.com/) by Stefano Leone;
+*    [Football-Data.co.uk](https://www.football-data.co.uk/) - free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles
+*    [football.csv](https://footballcsv.github.io/) - Historical soccer results in CSV format
+*    [football.db](http://openfootball.github.io/) - A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets).
+*    [Football Lineups](http://www.football-lineups.com)
+*    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
+*    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
+*    [Metrica Sports Tracking data](https://github.com/metrica-sports/sample-data);
+*    [My Football Facts](http://www.myfootballfacts.com/)
+*    [Physio Room](http://physioroom.com/)
+*    [PlusMinusData](https://github.com/fmatano/PlusMinusData) - play by play data from espn.com and sofifa.com
+*    [Rec.Sport.Soccer Statistics Foundation](http://www.rsssf.com/nersssf.html) - Historical league tables and football results
+*    [RoboCup Soccer Simulator](http://oliver.obst.eu/data/RoboCupSimData/overview.html) - RoboCup Soccer Simulator Data
+*    [SkillCorner broadcast Tracking data](https://github.com/SkillCorner/opendata);
+*    [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/) - Dataset of elite soccer player movements and corresponding videos
+*    [Squawka](http://www.squawka.com)
+*    [StatsBomb Open Data](https://github.com/statsbomb/open-data) - Competitions and matches (with events)
+*    [Stat Bunker](https://www.statbunker.com)
+*    [Transfer League](http://www.transferleague.co.uk)
+*    [TransferMarkt](http://www.transfermarkt.co.uk)
+*    [wosostats](https://github.com/amj2012/wosostats) - Data about women's soccer from around the world.
+*    [Understat](https://understat.com/)
+*    [WhoScored?](https://www.whoscored.com/)
+*    [Wyscout public dataset of spatio-temporal match events in soccer competitions](https://figshare.com/collections/Soccer_match_event_dataset/4415000) - UEFA Euro Cup 2016 - La Liga, Serie A, Bundesliga, Premier League, Ligue 1, FIFA World Cup 2018
 
 ### Data Companies
 
@@ -117,7 +140,7 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [StrataBet](http://www.stratagem.co/) (now defunct)
 *    [TransferMarket](https://www.transfermarkt.com/)
 *    [understat](https://understat.com/)
-*    [WhoScored?](https://www.whoscored.com/)
+*    [WhoScored?](https://www.whoscored.com/) (provider of [Opta Sports](https://www.optasports.com/) data)
 *    [Wyscout](https://wyscout.com/es/)
 
 #### Tracking
@@ -501,6 +524,6 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport)
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf)
 
-## Other Football Analytics Resources Lists
+## Credits
 *    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto)
