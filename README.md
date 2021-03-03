@@ -310,6 +310,20 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Data Based Coaching: How to Incorporate Data-Driven Decision into Your Coaching Workflow](https://www.americansocceranalysis.com/home/2020/3/19/data-based-coaching-how-to-incorporate-data-driven-decisions-into-your-coaching-workflow) by [Kieran Doyle](https://twitter.com/KierDoyle); and
 *    [Coaches Reward Goalscorers. But Should They?](https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt) by [McKinley](https://twitter.com/etmckinley) and [John Muller](https://twitter.com/johnspacemuller).
 
+## Blog Posts
+*    [How data is pushing Twitter scouts and bloggers into football's big time](https://www.theguardian.com/football/2021/feb/27/how-data-is-pushing-twitter-scouts-and-bloggers-into-footballs-big-time) (27/02/2021) by [Paul MacInnes](https://twitter.com/PaulMac) in The Guardian
+*    [Revealed: expected goals being used in football's war against match-fixing](https://www.theguardian.com/football/2021/feb/13/expected-goals-being-used-in-football-war-against-match-fixing-data) (13/02/2021) by Sean Ingle for The Guardian
+*    ['What we do isn't rocket science': how Midtjylland started football's data revolution](https://www.theguardian.com/football/2020/oct/25/what-we-do-isnt-rocket-science-how-fc-midtjylland-started-footballs-data-revolution) (25/10/2020) by Sean Ingle for The Guardian
+*    [How analysts have used lockdown to unearth football’s next hidden gems](https://www.thetimes.co.uk/article/how-analysts-have-used-lockdown-to-unearth-footballs-next-hidden-gems-hmjn6fdf3) (17/07/2020) by Dan Clark in The Times
+*    [How Brentford flipped the script and staged a data revolution to become England’s smartest club](https://talksport.com/football/fa-cup/659667/brentford-data-revolution-england-smartest-club-championship-leicester-fa-cup/) (24/01/2020) by Sean Ingle for Talksport
+*    [How Data (and Some Breathtaking Soccer) Brought Liverpool to the Cusp of Glory](https://www.nytimes.com/2019/05/22/magazine/soccer-data-liverpool.html) (22/05/2019) by Bruce Schoenfeld for New York Times
+*    [Soccer's Moneyball Moment: How Enhanced Analytics Are Changing The Game](https://www.forbes.com/sites/robertkidd/2018/11/19/soccers-moneyball-moment-how-enhanced-analytics-are-changing-the-game/?sh=2033f6bf76b2) (19/11/2018) by Robert Kidd for Forbes
+*    [Expected goals and Big Football Data: the statistics revolution that is here to stay](https://www.theguardian.com/football/2017/mar/30/expected-goals-big-football-data-leicester-city-norwich) (03/03/2017) by [Paul MacInnes](https://twitter.com/PaulMac) in The Guardian
+*    [How computer analysts took over at Britain's top football clubs](https://www.theguardian.com/football/2014/mar/09/premier-league-football-clubs-computer-analysts-managers-data-winning) (09/03/2014) by Tim Lewis for The Observer
+*    [How data analysis helps football clubs make better signings](https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8) (01/11/2018) by 
+John Burn-Murdoch for The FT
+*    [A football revolution](https://www.ft.com/content/9471db52-97bb-11e0-9c37-00144feab49a) (17/07/2011) in The FT [pay wall]
+
 ## Videos
 For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I have collated into one single playlist for my own viewing, see [[link](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo)]. For Football-specific Data Science lectures and seminars, see [[link](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y)]. For a Tableau Football specific playlist, see [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
