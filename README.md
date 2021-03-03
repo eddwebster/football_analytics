@@ -128,6 +128,7 @@ Various websites that provide a wealth of data relating to football, from detail
 #### Data Providers
 *    [DataFactory](http://www.datafactory.la/)
 *    [InStat](https://instatsport.com/)
+*    [K-Sport](http://www.k-sport.tech/)
 *    [Opta Sports](https://www.optasports.com/)
 *    [smarterscout](https://smarterscout.com/)
 *    [Sportlogiq](https://sportlogiq.com/en/)
