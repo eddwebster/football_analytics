@@ -92,45 +92,44 @@ Data sources featured in this repository include:
 ### Data sources and datasets
 Various websites that provide a wealth of data relating to football, from detailed match statistics, injury records and transfers.
 
-*    [Awesome Footbal](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets.
-*    [Club Elo](http://clubelo.com/)
-*    [Data Hub Football data](https://datahub.io/collections/football) - a collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc.
+*    [Awesome Footbal](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
+*    [Club Elo](http://clubelo.com/) - European club rankings;
+*    [Data Hub Football data](https://datahub.io/collections/football) - a collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc.;
 *    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and Mike Imburgio for [American Soccer Analysis](https://www.americansocceranalysis.com/);
 *    [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10) - 25k+ matches, players & teams attributes for European Professional Football
-*    [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017
+*    [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017;
+*    [FBref](https://fbref.com/en/) (provider of [StatsBomb](https://statsbomb.com/data/) data);
 *    [FIFA 15-21 player rating data](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset) scraped from [SoFIFA](https://sofifa.com/) by Stefano Leone;
-*    [Football-Data.co.uk](https://www.football-data.co.uk/) - free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles
-*    [football.csv](https://footballcsv.github.io/) - Historical soccer results in CSV format
-*    [football.db](http://openfootball.github.io/) - A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets).
-*    [Football Lineups](http://www.football-lineups.com)
-*    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
+*    [Football-Data.co.uk](https://www.football-data.co.uk/) - free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles;
+*    [football.csv](https://footballcsv.github.io/) - Historical soccer results in CSV format;
+*    [football.db](http://openfootball.github.io/) - A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets);
+*    [Football Lineups](http://www.football-lineups.com);
+*    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/);
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
 *    [Metrica Sports Tracking data](https://github.com/metrica-sports/sample-data);
-*    [My Football Facts](http://www.myfootballfacts.com/)
-*    [Physio Room](http://physioroom.com/)
-*    [PlusMinusData](https://github.com/fmatano/PlusMinusData) - play by play data from espn.com and sofifa.com
-*    [Rec.Sport.Soccer Statistics Foundation](http://www.rsssf.com/nersssf.html) - Historical league tables and football results
-*    [RoboCup Soccer Simulator](http://oliver.obst.eu/data/RoboCupSimData/overview.html) - RoboCup Soccer Simulator Data
+*    [My Football Facts](http://www.myfootballfacts.com/);
+*    [Physio Room](http://physioroom.com/);
+*    [PlusMinusData](https://github.com/fmatano/PlusMinusData) - play by play data from espn.com and sofifa.com;
+*    [Rec.Sport.Soccer Statistics Foundation](http://www.rsssf.com/nersssf.html) - Historical league tables and football results;
+*    [RoboCup Soccer Simulator](http://oliver.obst.eu/data/RoboCupSimData/overview.html) - RoboCup Soccer Simulator Data;
 *    [SkillCorner broadcast Tracking data](https://github.com/SkillCorner/opendata);
 *    [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/) - Dataset of elite soccer player movements and corresponding videos
-*    [Squawka](http://www.squawka.com)
-*    [StatsBomb Open Data](https://github.com/statsbomb/open-data) - Competitions and matches (with events)
-*    [Stat Bunker](https://www.statbunker.com)
-*    [Transfer League](http://www.transferleague.co.uk)
-*    [TransferMarkt](http://www.transfermarkt.co.uk)
-*    [wosostats](https://github.com/amj2012/wosostats) - Data about women's soccer from around the world.
-*    [Understat](https://understat.com/)
-*    [WhoScored?](https://www.whoscored.com/)
-*    [Wyscout public dataset of spatio-temporal match events in soccer competitions](https://figshare.com/collections/Soccer_match_event_dataset/4415000) - UEFA Euro Cup 2016 - La Liga, Serie A, Bundesliga, Premier League, Ligue 1, FIFA World Cup 2018
+*    [Squawka](http://www.squawka.com);
+*    [StatsBomb Open Data](https://github.com/statsbomb/open-data) - Competitions and matches (with events);
+*    [Stat Bunker](https://www.statbunker.com);
+*    [Transfer League](http://www.transferleague.co.uk);
+*    [TransferMarkt](http://www.transfermarkt.co.uk);
+*    [Twelve Football](https://twelve.football/)
+*    [wosostats](https://github.com/amj2012/wosostats) - Data about women's soccer from around the world;
+*    [Understat](https://understat.com/);
+*    [WhoScored?](https://www.whoscored.com/); and
+*    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7)..
 
 ### Data Companies
 
 #### Data Providers
 *    [DataFactory](http://www.datafactory.la/)
-*    [ELO club rankings](http://clubelo.com/)
-*    [FBref](https://fbref.com/en/) (provider of [StatsBomb](https://statsbomb.com/data/) data)
 *    [InStat](https://instatsport.com/)
-*    [KPMG Football Benchmark](https://footballbenchmark.com/home)
 *    [Opta Sports](https://www.optasports.com/)
 *    [smarterscout](https://smarterscout.com/)
 *    [Sportlogiq](https://sportlogiq.com/en/)
