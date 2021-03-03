@@ -24,15 +24,13 @@ For more information about this repository and the author, I'm available through
 ## Contents:
 *    [Notebooks](#notebooks)
 *    [Data Visualisation and Tableau](#data--tableau)
-*    [Data Sources](#data--sources)
-*    [Data Websites](#data--websites)
+*    [Data](#data)
 *    [Tutorials](#tutorials)
-*    [Tableau-Specific Resources](#tableau--resources)
 *    [Libaries (Python and R)](#libraries--r)
 *    [GitHub repos (Python and R)](#githubs--r)
 *    [Papers](#papers--oldest)
 *    [Blogs](#blogs)
-*    [Blog Posts](#blog--posts)
+*    [News Articles](#news--articles)
 *    [Videos](#videos)
 *    [YouTube Channels](#youtube--channels)
 *    [Books](#books)
@@ -43,7 +41,7 @@ For more information about this repository and the author, I'm available through
 *    [Events and Conferences](#events--conferences)
 *    [Jobs](#jobs)
 *    [Miscellaneous](#miscellaneous)
-*    [Other Football Analytics Resources Lists](#other--lists)
+*    [Credits](#credits)
 
 ## Notebooks
 For code, see the notebooks subfolder, in which the workflow is divided into the following:
@@ -168,6 +166,8 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [Wise](http://app.wise4sports.com/home/)
 
 ## Tutorials
+
+### Python and R 
 *    Friends of Tracking YouTube channel [[link](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)] and Mathematical Modelling of Football course by Uppsala University [[link](https://uppsala.instructure.com/courses/28112)]. The GitHub repo with all code featured can be found at the following [[link](https://github.com/Friends-of-Tracking-Data-FoTD)];
 *    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler);
 *    [FC Python](https://twitter.com/fc_python) tutorials [[link](https://fcpython.com/)];
@@ -181,7 +181,7 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [Tech how-to: build your own Expected Goals model](https://www.scisports.com/tech-how-to-build-your-own-expected-goals-model/) by Jan Van Haaren and SciSports; and
 *    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06).
 
-## Tableau-Specific Resources
+### Tableau
 For a YouTube playlist of Tableau-football videos and tutorials that I have collated from various sources including the Tableau Football User Group, Rob Carroll, and Tom Goodall, see the following [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
 *    Tableau Football User Group [[link](https://usergroups.tableau.com/footballtableauusergroup)] - featuring Eva Murray, Oscar Hall, James Smith, Rob Carroll, Tom Goodall, Ravi Mistry,  Adam Cook, Hannah Roberts, Chris Baker, Rusty Parker, and Ruud van Elk;
