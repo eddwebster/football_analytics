@@ -6,7 +6,7 @@ This repository is a public space for the football analytics projects by [Edd We
 </p>
 
 
-I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below - 28/02/2021. If you can think of any resources that I've missed, feel free to create a pull request or send me a message. Credit to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler) and [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto) that I used to plug gaps in the list I had created once I decided to publish it.
+I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below - 28/02/2021. If you can think of any resources that I've missed, feel free to create a pull request or send me a message. Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), the [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Soccer Analytics 2020 Review](Soccer Analytics 2020 Review) by [Jan Van Haaren](https://twitter.com/janvanhaaren) that I used to plug gaps in the list I had created once I decided to publish it.
 
 ## About This Repository and Author
 Please note, all the work produced in this repository is mine and/or credited to the publicly produced code and libraries used, and is in no way related to the work and analysis I produce for my employers.
@@ -192,6 +192,8 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c)
 
 ## Libaries (Python and R)
+*    [`codeball`](https://github.com/metrica-sports/codeball/) - data driven tactical and video analysis of soccer games;
+*    [`Football Packing`](https://github.com/samirak93/Football-packing) - a Python package to calculate packing rate for a given pass in football by Samira Kumar. This is a variation of the metric created by Impect;
 *    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) - a soccer visualisation library in R from [Ben Torvaney](https://twitter.com/Torvaney);
 *    [`kloppy`](https://github.com/PySport/kloppy) - a Python package providing (de)serializers for soccer tracking- and event data, standardized data models, filters, and transformers designed to make working with different tracking- and event data like a breeze;
 *    [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer) - a Python library for visualising soccer event data by [Tom Decroos](https://twitter.com/TomDecroos);
@@ -205,7 +207,9 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [`statsbomb-parser`](https://github.com/imrankhan17/statsbomb-parser) - Python library to convert StatsBomb's JSON data into easy-to-use CSV format;
 *    [`socceraction`](https://github.com/ML-KULeuven/socceraction) - a Python library for valuing the individual actions performed by soccer players. Includes an Expected Threat (xT) implementation by Tom Decroos](https://twitter.com/TomDecroos) et. al.;
 *    [`soccermix`](https://github.com/ML-KULeuven/soccermix) - a soft clustering technique based on mixture models that decomposes event stream data into a number of prototypical actions of a specific type, location, and direction by Tom Deccoos and ML-KULeuven;
-*    [`soccerplot`](https://github.com/Slothfulwave612/soccerplots) -  a Python package that can be used for making visualizations for football analytics by Slothfulwave;
+*    [`soccer_xg`](https://github.com/ML-KULeuven/soccer_xg) - a Python package for training and analyzing expected goals (xG) models in football;
+*    [`soccerplots`](https://github.com/Slothfulwave612/soccerplots) -  a Python package that can be used for making visualizations for football analytics by Slothfulwave;
+*    [`sync.soccer`](https://github.com/huffyhenry/sync.soccer) - a Python package to synchronise football datasets, so that an event in one dataset is matched to the corresponding event or snapshot in the other by Marek Kwiatkowski. This repository contains an implementation that aligns Opta's (now STATS Perform's) F24 feeds to ChyronHego's Tracab files. More formats may be added in the future. See the following blog post for methodology [[link](https://kwiatkowski.io/sync.soccer)];
 *    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) - a Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats); and
 *    [`understatr`](https://github.com/ewenme/understatr) - a R package to scrape data from Understat.
 
@@ -294,6 +298,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [8 Yards 8 Feet](https://8yards8feet.wordpress.com/author/simonlock1993/) by [Simon Lock](https://twitter.com/8Yards8Feet)
 *    [All Things Football](https://allthingsfootballonline.blogspot.com/)
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/)
+*    [Analyse Football](https://analysefootball.com/) by Ravi Ramineni (last updated 06//04/2015)
 *    [Analytics FC](https://attackingcentreback.wordpress.com/)
 *    [Attacking Center-back](https://attackingcentreback.wordpress.com/) by [JP Quinn](https://twitter.com/AttackingCB)
 *    [Barça Innovation Hub](https://barcainnovationhub.com/category/blog/)
@@ -348,6 +353,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [How data is pushing Twitter scouts and bloggers into football's big time](https://www.theguardian.com/football/2021/feb/27/how-data-is-pushing-twitter-scouts-and-bloggers-into-footballs-big-time) (27/02/2021) by [Paul MacInnes](https://twitter.com/PaulMac) in The Guardian
 *    [Revealed: expected goals being used in football's war against match-fixing](https://www.theguardian.com/football/2021/feb/13/expected-goals-being-used-in-football-war-against-match-fixing-data) (13/02/2021) by Sean Ingle for The Guardian
 *    ['What we do isn't rocket science': how Midtjylland started football's data revolution](https://www.theguardian.com/football/2020/oct/25/what-we-do-isnt-rocket-science-how-fc-midtjylland-started-footballs-data-revolution) (25/10/2020) by Sean Ingle for The Guardian
+*    [How the volunteers of data website Transfermarkt became influential players at European top football clubs](https://www.ftm.nl/artikelen/transfermarkt-volunteers-european-football) (18/12/2020) by Pepihn Keppel and Tom Claessens
 *    [How analysts have used lockdown to unearth football’s next hidden gems](https://www.thetimes.co.uk/article/how-analysts-have-used-lockdown-to-unearth-footballs-next-hidden-gems-hmjn6fdf3) (17/07/2020) by Dan Clark in The Times
 *    [How Brentford flipped the script and staged a data revolution to become England’s smartest club](https://talksport.com/football/fa-cup/659667/brentford-data-revolution-england-smartest-club-championship-leicester-fa-cup/) (24/01/2020) by Sean Ingle for Talksport
 *    [How Data (and Some Breathtaking Soccer) Brought Liverpool to the Cusp of Glory](https://www.nytimes.com/2019/05/22/magazine/soccer-data-liverpool.html) (22/05/2019) by Bruce Schoenfeld for The New York Times
@@ -368,6 +374,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    Laurie Shaw's Metrica Sports Tracking data series for #FoT - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [measuring physical performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [valuing actions](https://www.youtube.com/watch?v=KXSLKwADXKI);
 *    StatsPerform AI in Sport series - [Overview](https://vimeo.com/473259469/3d56393c68), [AI in Basketball](), [AI In Soccer](https://vimeo.com/515977363/be3de09fc1), and [AI in Tennis]();
 *    [Google Research Football](https://www.youtube.com/watch?v=esQvSg2qeS0) by Piotr Stanczyk
+*    [Why Do Clubs Need to Embrace Analytics to Stay Competitive?](https://www.youtube.com/watch?v=kWBpxxxxLWQ) with Vosse de Boode, David Sumpter, Adrien Tarascon and Javier Fernández
 *    Marcelo Bielsa's infamous 'Spygate PowerPoint presentation of Derby County [[link](https://www.youtube.com/watch?v=9NW985SUUEU)];
 *    [Routine Inspection: Measuring Playbooks for Corner Kicks](https://www.youtube.com/watch?v=yfPC1O_g-I8) by Laurie Shaw and Sudarshan 'Suds' Gopaladsikan;
 *    [Tom Goodall's Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/);
@@ -428,12 +435,17 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [Numbers Don't Lie: New Adventures in Counting and What Counts in Basketball Analytics](https://www.amazon.co.uk/Numbers-Dont-Lie-Adventures-Basketball/) by Yago Colás
 
 ## Newsletters
-*    [Grace on Football](https://onfootball.substack.com/) by [Grace Robertson](https://twitter.com/graceonfootball)
-*    [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller)
-*    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent)
-*    [Stats Perform](https://www.statsperform.com/)
 *    [21st Club](https://www.21stclub.com/insight/)
+*    [Absolute Unit](https://absoluteunit.substack.com/)
+*    [Get Goalside!](https://getgoalside.substack.com/)
+*    [geom_mark](http://geommark.space/)
+*    [Grace on Football](https://onfootball.substack.com/) by [Grace Robertson](https://twitter.com/graceonfootball)
 *    [Looks Good on Paper](https://looksgoodonpaper.substack.com/) by [Felix Pate](https://twitter.com/lgopfelix)
+*    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent)
+*    [No Grass in the Clouds](https://nograssintheclouds.substack.com/)
+*    [Soccer Analytics Newsletter](https://socceranalytics.substack.com/)
+*    [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller)
+*    [Stats Perform](https://www.statsperform.com/)
 
 ## Podcasts (Spotify links used where available)
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/podcasts);
@@ -473,7 +485,9 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [HANIC Panel "How to get into Sports Analytics & Media + Analytics"](https://www.youtube.com/watch?v=oUVISEJaEMM) with Alison Lukan, Sarah Bailey, Harman Dayal, Asmae Toumi Mike Johnson, Alison Lukan;
 *    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by The Video Analyst;
 *    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by David Sumpter for Barca Innovation Hub;
-*    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0).
+*    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0); and
+*    [Tom Worville Twitter thread](https://twitter.com/Worville/status/1275732993819250688); and
+*    [Will Spearman's Twitter thread](https://twitter.com/the_spearman/status/1260713785138073604).
 
 ## Events and Conferences
 *    [OptaPro Analytics Forum](https://www.optasportspro.com/events/)
@@ -521,4 +535,4 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf)
 
 ## Credits
-Credit to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler) and [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto) that I used to plug gaps in the list I had created once I decided to publish it.
+Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), the [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Soccer Analytics 2020 Review](Soccer Analytics 2020 Review) by [Jan Van Haaren](https://twitter.com/janvanhaaren) that I used to plug gaps in the list I had created once I decided to publish it.
