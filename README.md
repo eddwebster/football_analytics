@@ -88,9 +88,9 @@ Data sources featured in this repository include:
 ### Data sources and datasets
 Various websites that provide a wealth of data relating to football, from detailed match statistics, injury records and transfers.
 
-*    [Awesome Footbal](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
+*    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
 *    [Club Elo](http://clubelo.com/) - European club rankings;
-*    [Data Hub Football data](https://datahub.io/collections/football) - a collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc.;
+*    [Data Hub Football data](https://datahub.io/collections/football)
 *    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and Mike Imburgio for [American Soccer Analysis](https://www.americansocceranalysis.com/);
 *    [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10) - 25k+ matches, players & teams attributes for European Professional Football
 *    [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017;
