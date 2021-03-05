@@ -360,6 +360,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [MRKT Insights](https://mrktinsights.com/index.php/blog/);
 *    [Ninad Barbadikar Medium blog](https://ninad06.medium.com/) by [Ninad Barbadikar](https://twitter.com/ninadb_06);
 *    [North Yard Analytics](https://www.northyardanalytics.com/blog/) by [Dan Altman](https://twitter.com/NYAsports);
+*    [openGoal](https://www.opengoalapp.com/) by [Charles William](https://twitter.com/openGoalCharles);
 *    Opta Pro - old blogs removed by available using Wayback Machine;
 *    [patricklucey.com](http://patricklucey.com/index.html) by [Patrick Lucey](https://twitter.com/patricklucey);
 *    [Penal.lt/y](http://pena.lt/y/) by [Martin Eastwood](https://twitter.com/penaltyblog);
