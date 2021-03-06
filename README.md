@@ -109,7 +109,7 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [Rec.Sport.Soccer Statistics Foundation](http://www.rsssf.com/nersssf.html) - Historical league tables and football results;
 *    [RoboCup Soccer Simulator](http://oliver.obst.eu/data/RoboCupSimData/overview.html) - RoboCup Soccer Simulator Data;
 *    [SkillCorner broadcast Tracking data](https://github.com/SkillCorner/opendata);
-*    [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/) - Dataset of elite soccer player movements and corresponding videos
+*    [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/) - dataset of elite soccer player movements and corresponding videos. See the accompanying paper [[link](http://home.ifi.uio.no/paalh/publications/files/mmsys2014-dataset.pdf);
 *    [Squawka](http://www.squawka.com);
 *    [StatsBomb Open Data](https://github.com/statsbomb/open-data) - Competitions and matches (with events);
 *    [Stat Bunker](https://www.statbunker.com);
@@ -304,7 +304,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 ### 2015
 *    [“Quality vs Quantity”: Improved Shot Prediction in Soccer using Strategic Features from Spatiotemporal Data](http://www.sloansportsconference.com/wp-content/uploads/2015/02/SSAC15-RP-Finalist-Quality-vs-Quantity.pdf) (2015) by Patrick Lucey, Alina Bialkowski, Mathew Monfort, Peter Carr, and Iain Matthews;
 *    [Quantifying Shot Quality in the NBA](http://www.sloansportsconference.com/wp-content/uploads/2014/02/2014-SSAC-Quantifying-Shot-Quality-in-the-NBA.pdf) by ; and 
-*    [Soccer video and player position dataset](http://home.ifi.uio.no/paalh/publications/files/mmsys2014-dataset.pdf) (2015) by S. A. Pettersen, D. Johansen, H. Johansen, V. Berg-Johansen, V. R. Gaddam, A. Mortensen, R. Langseth, C. Griwodz, H. K. Stensland, and P. Halvorsen.
+*    [Soccer video and player position dataset](http://home.ifi.uio.no/paalh/publications/files/mmsys2014-dataset.pdf) (2015) by S. A. Pettersen, D. Johansen, H. Johansen, V. Berg-Johansen, V. R. Gaddam, A. Mortensen, R. Langseth, C. Griwodz, H. K. Stensland, and P. Halvorsen. See the accompanying webpage [[link](https://datasets.simula.no/alfheim/)].
 
 ### 2014
 *    [Large-Scale Analysis of Soccer Matches using Spatiotemporal Tracking Data](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20141211131038/Large-Scale-Analysis-of-Soccer-Matches-using-Spatiotemporal-Tracking-Data-Paper.pdf) (2014) by Alina Bialkowski, Patrick Lucey, Peter Carr, Yisong Yue, Sridha Sridharan, and Iain Matthews.
