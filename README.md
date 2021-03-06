@@ -240,7 +240,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [`soccermatics`](https://github.com/JoGall/soccermatics) by Joe Gallagher (R).
 
 ## Papers (from most recent to oldest)
-The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
+Many of the papers are downloaded as PDFs in the [papers](https://github.com/eddwebster/football_analytics/tree/master/research/papers) subfolder, of the [research](https://github.com/eddwebster/football_analytics/tree/master/research) directory. The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
 
 *    [Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning](https://arxiv.org/pdf/2101.05388.pdf) (2021) by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg). See the [`nayra`](https://github.com/DonsetPG/narya) library for code;
 *    [Automatic Pass Annotation from Soccer Video Streams based on Object Detection and LSTM](https://arxiv.org/abs/2007.06475) (2020) by Danilo Sorano, Fabio Carrara, Paolo Cintia, Fabrizio Falchi and Luca Pappalardo;
