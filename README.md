@@ -287,7 +287,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [High-resolution shot capture reveals systematic biases and an improved method for shooter evaluation](https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/5ff4ad56b18b323042079f8e_An%20improved%20method%20for%20shooter%20evaluation.pdf) by Rachel Marty.
 
 ### 2017
-*    [Physics-Based	Modeling	of Pass	Probabilities	in	Soccer](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1621.pdf) (2017) by [Will Spearman](https://twitter.com/the_spearman) et. al.;
+*    [Physics-Based	Modeling	of Pass	Probabilities	in	Soccer](https://www.researchgate.net/publication/315166647_Physics-Based_Modeling_of_Pass_Probabilities_in_Soccer) (2017) by [Will Spearman](https://twitter.com/the_spearman), Austin Basye, Greg Dick, Ryan Hotovy, and Paul Pop;
 *    [Data-Driven	Ghosting	using	Deep	Imitation	Learning](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1671-2.pdf) (2017) by [Hoang	M. Le](https://twitter.com/HoangMinhLe),	Peter	Carr,	Yisong	Yue,	and	[Patrick	Lucey](https://twitter.com/patricklucey);
 *    [Valuing passes in football using ball event data](https://thesis.eur.nl/pub/41346/Bransen.pdf) (2017) by Michael van de Velden
 *    [“The Leicester City Fairytale?”: Utilizing New Soccer Analytics Tools to Compare Performance in the 15/16 & 16/17 EPL Seasons (2017)](https://statsweb-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/STATS_ResearchPaper_StrategyPlots.pdf?utm_source=lpruk&utm_medium=twitter&utm_campaign=football&utm_type=whitepaper) by Hector Ruiz, Paul Power, Xinyu Wei, and Patrick Lucey
