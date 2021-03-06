@@ -581,6 +581,13 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [Sports Analytics World Series](https://www.analyticsinsport.com/)
 *    [Sportdata & Performance Forum](https://www.sportdataperformance.com/)
 
+## Competitions
+Includes non-football competitions.
+
+*    [NFL Big Data Bowl](https://operations.nfl.com/gameday/analytics/big-data-bowl/) (American Football) - [2021](https://www.kaggle.com/c/nfl-big-data-bowl-2021) - annual
+*    [Big Data Cup](https://www.stathletes.com/big-data-cup/) (Hockey) - annual
+*    [Liverpool Analytics Challenge](https://soccermatics.medium.com/entries-for-the-liverpool-analytics-challenge-807f5eee12fd) (Football) - May 2020
+
 ## Jobs
 *    [The Video Analyst](https://thevideoanalyst.com/jobs/)
 *    [Opta](https://www.optasports.com/about/work-for-opta/)
@@ -599,7 +606,6 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/)
 
 ## Miscellaneous
-*    [Awesome Footbal](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets.
 *    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
 *    [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/)
 *    [Expected Goal literature](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit)
