@@ -291,9 +291,9 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [Data-Driven	Ghosting	using	Deep	Imitation	Learning](http://www.yisongyue.com/publications/ssac2017_ghosting.pdf) (2017) by [Hoang	M. Le](https://twitter.com/HoangMinhLe),	Peter	Carr,	Yisong	Yue,	and	[Patrick	Lucey](https://twitter.com/patricklucey);
 *    [Valuing passes in football using ball event data](https://thesis.eur.nl/pub/41346/Bransen.pdf) (2017) by Lotte Bransen;
 *    [“The Leicester City Fairytale?”: Utilizing New Soccer Analytics Tools to Compare Performance in the 15/16 & 16/17 EPL Seasons (2017)](https://statsweb-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/STATS_ResearchPaper_StrategyPlots.pdf?utm_source=lpruk&utm_medium=twitter&utm_campaign=football&utm_type=whitepaper) by Hector Ruiz, Paul Power, Xinyu Wei, and Patrick Lucey
-*    [Not all passes are created equal: objectively measuring the risk and reward of passes in soccer from tracking data](https://statsweb-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/STATS_DS_passes-created-equally.pdf) (2017) by Paul Power, Hector Ruiz, Xinyu Wei, and Patrick Lucey
+*    [Not all passes are created equal: objectively measuring the risk and reward of passes in soccer from tracking data](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1605.pdf) (2017) by Paul Power, Hector Ruiz, Xinyu Wei, and Patrick Lucey. See Paul Power's talk [[link](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3097983.3098051&file=power_tracking_data.mp4&download=true)] (downloadable MP4), and the 
 *    [Plus-Minus Player Ratings for Soccer](https://arxiv.org/pdf/1706.04943.pdf) (2017) by Tarak Kharrat, Javier Pena, and Ian McHale
-*    [An examination of expected goals and shot efficiency in soccer](https://www.redalyc.org/pdf/3010/301052437005.pdf) (2017) by Rathke; and
+*    [An examination of expected goals and shot efficiency in soccer](https://www.redalyc.org/pdf/3010/301052437005.pdf) (2017) by Rathke; and [[link](https://dl.acm.org/doi/10.1145/3097983.3098051)]; and
 *    [Predicting goal probabilities for possessions in football](https://www.math.vu.nl/~sbhulai/papers/paper-mackay.pdf) (2017) by Nils Mackay.
 
 ### 2016
