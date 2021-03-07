@@ -22,22 +22,21 @@ For more information about this repository and the author, I'm available through
 ## Contents:
 *    [Notebooks](#notebooks)
 *    [Data Visualisation and Tableau](#data--tableau)
-*    [Data](#data)
+*    [Data Sources](#data--sources)
 *    [Tutorials](#tutorials)
 *    [Libaries (Python and R)](#libraries--r)
 *    [GitHub repos (Python and R)](#githubs--r)
-*    [Papers](#papers--oldest)
-*    [Blogs](#blogs)
-*    [News Articles](#news--articles)
+*    [Papers](#papers)
+*    [Written Pieces](#written--pieces)
 *    [Videos](#videos)
-*    [YouTube Channels](#youtube--channels)
 *    [Books](#books)
-*    [Newsletters](#newsletters)
 *    [Podcasts](#podcasts--available)
 *    [Notable Figures / Twitter Accounts](#notable--accounts)
 *    [Career Advice](#career-advice)
 *    [Events and Conferences](#events--conferences)
+*    [Competitions](#competitions)
 *    [Jobs](#jobs)
+*    [Key Concepts](#key--concepts) (TBA)
 *    [Miscellaneous](#miscellaneous)
 *    [Credits](#credits)
 
@@ -85,7 +84,7 @@ Data sources featured in this repository include:
      -    Zones on a pitch for Tableau visualisation by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://drive.google.com/drive/folders/1Se0DFtsjQWmnt-G9Ihn_w8EQE4EZiblD)]
      -    Alphabetic country codes [[link](https://en.wikipedia.org/wiki/Comparison_of_alphabetic_country_codes)]
 
-### Data sources and datasets
+### All publicly available data sources and datasets
 Various websites that provide a wealth of data relating to football, from detailed match statistics, injury records and transfers.
 
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
@@ -241,7 +240,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [`football-crunching`](https://github.com/rjtavares/football-crunching) by Ricardo Tavares. Accompanying Medium posts [[link](https://medium.com/football-crunching)]; and
 *    [`soccermatics`](https://github.com/JoGall/soccermatics) by Joe Gallagher (R).
 
-## Papers (from most recent to oldest)
+## Papers
 The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
 
 ### 2021
@@ -254,6 +253,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [Cracking the Black Box: Distilling Deep Sports Analytics](https://arxiv.org/abs/2006.04551) (2020) by Xiangyu Sun, Jack Davis, Oliver Schulte and Guiliang Liu;
 *    [Deep Soccer Analytics: Learning an Action-Value Function for Evaluating Soccer Players](https://www.researchgate.net/profile/Guiliang_Liu/publication/343122623_Deep_soccer_analytics_learning_an_action-value_function_for_evaluating_soccer_players/links/5f1f24d2a6fdcc9626b9cb41/Deep-soccer-analytics-learning-an-action-value-function-for-evaluating-soccer-players.pdf) (2020) by Guiliang Liu, Yudong Luo, Oliver Schulte and Tarak Kharrat;
 *    [Game Plan: What AI can do for Football, and What Football can do for AI](https://arxiv.org/pdf/2011.09192.pdf) (2020) by Karl Tuyls, Shayegan Omidshafiei, Paul Muller, Zhe Wang, Jerome Connor, Daniel Hennes, Ian Graham, Will Spearman, Tim Waskett, and Dafydd Steele, Pauline Luc, Adria Recasens, Alexandre Galashov, Gregory Thornton, Romuald Elie, Pablo Sprechmann, Pol Moreno, Kris Cao, Marta Garnelo, Praneet Dutta, Michal Valko, Nicolas Heess, Alex Bridgland, Julien P´erolat, Bart De Vylder, Ali Eslami, Mark Rowland, Andrew Jaegle, Remi Munos, Trevor Back, Razia Ahamed, Simon Bouton, Nathalie Beauguerlange, Jackson Broshear, Thore Graepel, and Demis Hassabis;
+*    [Google Research Football: A Novel Reinforcement Learning Environment](https://arxiv.org/pdf/1907.11180.pdf) (2020) by Karol Kurach, Anton Raichuk, Piotr Stańczyk, Michał Zając, Olivier Bachem, Lasse Espeholt, Carlos Riquelme, Damien Vincent, Marcin Michalski, Olivier Bousquet, Sylvain Gelly. See the GitHub repo [[link](https://github.com/google-research/football)];
 *    [Group Activity Detection From Trajectory and Video Data in Soccer](https://arxiv.org/abs/2004.10299) (2020) by Ryan Sanford, Siavash Gorji, Luiz Hafemann, Bahareh Pourbabaee and Mehrsan Javan;
 *    [Interpretable Prediction of Goals in Soccer](https://tomdecroos.github.io/reports/interpret_vaep.pdf) (2020) by Tom Decroos and Jesse Davis;
 *    [Inverse Reinforcement Learning for Team Sports: Valuing Actions and Players](https://www.ijcai.org/Proceedings/2020/0464.pdf) (2020) by Yudong Luo, Oliver Schulte and Pascal Poupart. See the code [[link](https://github.com/miyunluo/IRL-icehockey)];
@@ -400,7 +400,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [StatsBomb](https://statsbomb.com/articles/);
 *    [Stats Perform](https://www.statsperform.com/resources/);
 *    [Stats and snakeoil](http://www.statsandsnakeoil.com/) by [Ben Torvaney](https://twitter.com/Torvaney);
-*    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant];(https://twitter.com/Ciaran_Grant));
+*    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant](https://twitter.com/Ciaran_Grant));
 *    [The Power of Goals](https://thepowerofgoals.blogspot.com/);
 *    [Training Ground Guru](https://trainingground.guru/). Check out their accompanying podcast [[link](https://open.spotify.com/show/1Kn9l6LifZ2AWmZri9XWHn)];
 *    [Tom Worville Medium blog](https://medium.com/@worville) by Tom Worville (last updated 14/08/2017). Tom now writes for The Athletic [[link](https://theathletic.co.uk/author/tom-worville/)];
@@ -678,6 +678,7 @@ Includes non-football competitions.
 
 *    [NFL Big Data Bowl](https://operations.nfl.com/gameday/analytics/big-data-bowl/) (American Football) - [2021](https://www.kaggle.com/c/nfl-big-data-bowl-2021) - annual
 *    [Big Data Cup](https://www.stathletes.com/big-data-cup/) (Hockey) - annual
+*    [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football) - October 2020
 *    [Liverpool Analytics Challenge](https://soccermatics.medium.com/entries-for-the-liverpool-analytics-challenge-807f5eee12fd) (Football) - May 2020
 
 ## Jobs
@@ -721,6 +722,18 @@ Includes non-football competitions.
 ### Player Similarity Analysis
 [TO ADD]
 
+### Player Comparison and Similarity Analysis
+[TO ADD]
+*    [Paul Power: How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM)
+
+### Reinforceement Learning for Football Simulation
+*    [Google Research Football: A Novel Reinforcement Learning Environment](https://arxiv.org/pdf/1907.11180.pdf) (2020) by Karol Kurach, Anton Raichuk, Piotr Stańczyk, Michał Zając, Olivier Bachem, Lasse Espeholt, Carlos Riquelme, Damien Vincent, Marcin Michalski, Olivier Bousquet, Sylvain Gelly;
+*    [`Google Research Football`](https://github.com/google-research/football) GitHub repo;
+*    [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football) Kaggle Competition (ended October 2020)
+*    [Karol Kurach - Google Research Football](https://www.youtube.com/watch?v=Va5dIxejqx0)
+*    [Karol Kurach (Google Brain) "Google Research Football: Learning to Play Football with Deep RL](https://www.youtube.com/watch?v=lsN5y2frNig)
+*    [Google Research Football](https://www.youtube.com/watch?v=esQvSg2qeS0) by Piotr Stanczyk;
+*    [Google's AI Plays Football…For Science!](https://www.youtube.com/watch?v=Uk9p4Kk98_g) by Two Minute Papers
 
 ## Miscellaneous
 *    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
