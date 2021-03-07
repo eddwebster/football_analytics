@@ -534,6 +534,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/podcasts);
 *    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/);
 *    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (Spanish) by [Marcelo Gantman](https://twitter.com/marcelogantman) and Agustin Mario Gimenez;
+*    [The Dan & Omar Show](https://open.spotify.com/show/0mT1mtMmydvs6fmrOF4GZD?si=Dv_Pm99kSd2HD603Wc1ZOg) with Daniel Geey and [Omar Chaudhuri](https://twitter.com/OmarChaudhuri)
 *    [Double Pivot Podcast](https://open.spotify.com/show/4lBU3spHZaQWJyUcCUbkY8);
 *    [Differentgame - The Football Analytics Podcast](https://open.spotify.com/show/0EHSv20UxlqnOjaUNzdiGN?si=rc48L2eFRLCLXZyROU8GSw) by [Paul Riley](https://twitter.com/footballfactman) and Richard Shephard;
 *    [Expected Value](https://open.spotify.com/show/5xFeWbaaLFepY5n73SfWwr);
@@ -545,6 +546,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [Looks Good on Paper podcast](https://open.spotify.com/show/7iJoF537QKPgDgQe7bblV2?si=QwiAfM2ZS0-Z4M74RESiKQ&nd=1) by [Felix Pate](https://twitter.com/lgopfelix);
 *    [MRKT Insights](https://open.spotify.com/show/3q32QkmAXwth5VJwU8uzWt?si=8_vyLb6WQd2wTJt5MxdBoA);
 *    [Measurables Podcast](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW) by [Brendan Kent](https://twitter.com/brendankent);
+*    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with Ron Yurko;
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=M6xgCGtdTjiy0wEl1e2CJw);
 *    [smarterscout: The Why in Analytics](https://open.spotify.com/show/2QP4KXajJ5xOfW1ny78nAf?si=NQAf_4XtSFeQXAZi1bbupQ) by Dan Altman;
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=hBYRN1GgSc2eSIDUMiwDfA&nd=1);
@@ -558,9 +560,10 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 ### Noteable Episodes (including non-football-data-specific podcasts)
 *    [The Football Collective Podcast](https://open.spotify.com/show/3fqNuhWi6hkagJ1U0UDJfe?si=e10JT2ACS86A3JXyO1AzGQ):
      +    [S3 E1 | Sarthak Mondal speaks to Laurie Shaw about the advent of Data Science in Football The Football Collective Podcast](https://open.spotify.com/episode/1gJXuovD1L6VMimN5BtukS?si=Y-Ot43T8TluU7UEiSvReyg)
-*    [UCN/USF Sport Management - Sports Business Podcast](https://soundcloud.com/user-736114890)
+*    [UCN/USF Sport Management - Sports Business Podcast](https://soundcloud.com/user-736114890):
      +    [Kenneth Cortsen talks to Laurie Shaw from Harvard University](https://soundcloud.com/user-736114890/sport-data-analytics-in-football-kenneth-cortsen-talks-to-laurie-shaw-harvard-university) 
-*    [Open Source Sports: Player Chemistry in Soccer](https://anchor.fm/open-source-sports/episodes/Player-Chemistry-in-Soccer-with-Lotte-Bransen-ejils5) with Lotte Bransen.
+*    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with Ron Yurko;
+     +    [Player Chemistry in Soccer](https://anchor.fm/open-source-sports/episodes/Player-Chemistry-in-Soccer-with-Lotte-Bransen-ejils5) with Lotte Bransen
 *    [Expected Value](https://open.spotify.com/show/5xFeWbaaLFepY5n73SfWwr?si=yn23mqUpQa-mvcL6CYWpgA)
      +    [Tyler Heaps](https://open.spotify.com/episode/3OQimhf73WILGLTKXnav2M?si=L3KjerEfRryp50MQv6fzXg)
      +    [Ben Mackriell](https://open.spotify.com/episode/0tVtnFljEX5Pkn7hSApPo7?si=ldLi3xi4TuehvpawJ7NQ0g)
@@ -570,22 +573,22 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
      +    [Mike Goodman](https://open.spotify.com/episode/4dCaPFQgb1nRdYv6TB0ckf?si=_5dbscy_QeOrOuOYvD1DMw)
      +    [NESSIS, Part 1 - Ron Yurko & Dani Chu](https://open.spotify.com/episode/3pRxs7LYPX4LP9jGcFXudz?si=V7G5JpJxRZiMhqlPwblrWQ)
      +    [NESSIS, Part 2 - Laurie Shaw & Sam Gregory](https://open.spotify.com/episode/42z1UFcfgpx17acCCg5rip?si=Pyu8gFJxRiej9fE15Gs89A)
-*    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA);
-     +    The Transfer Market & 21st Club withj Omar Chaudry - [Spotify](https://open.spotify.com/episode/4C21F4d5RedaQjYHCv451k?si=ca8BN8KaSdCwGUTaiaFEfw) and [YouTube]()
-     +    How Memphis Depay Used Data to Find His Next Club with Giels Brouwer - [Spotify](https://open.spotify.com/episode/0RpLcIdqdD81Z4vyVPgw5w?si=YFR38EX3QvOReG1xWEl7rw) and [YouTube](https://www.youtube.com/watch?v=wP7HH_ucwzo)
-     +    How Do Football Clubs Actually Use Statistics? - [Spotify]() and [YouTube](https://www.youtube.com/watch?v=ktk-ocn2AMo)
+*    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA):
+     +    The Transfer Market & 21st Club withj [Omar Chaudhuri](https://twitter.com/OmarChaudhuri) - [Spotify](https://open.spotify.com/episode/4C21F4d5RedaQjYHCv451k?si=ca8BN8KaSdCwGUTaiaFEfw) and [YouTube](https://www.youtube.com/watch?v=A5psEy_V8YM)
+     +    How Memphis Depay Used Data to Find His Next Club with [Giels Brouwer](https://twitter.com/Gielsbrouwer) - [Spotify](https://open.spotify.com/episode/0RpLcIdqdD81Z4vyVPgw5w?si=YFR38EX3QvOReG1xWEl7rw) and [YouTube](https://www.youtube.com/watch?v=wP7HH_ucwzo)
+     +    How Do Football Clubs Actually Use Statistics? - [YouTube](https://www.youtube.com/watch?v=ktk-ocn2AMo)
      +    JJ Bull: Tactical Analysis & Coaching Badges - [Spotify](https://open.spotify.com/episode/4vOxLy5WINc40ApWW8PvI1?si=C4URrqf_SyCPMg4QaUUM1A) and [YouTube](https://www.youtube.com/watch?v=cYThVZO3RJ0)
      +    A Day in the Life Of: A Football Recruitment Analyst - [Spotify](https://open.spotify.com/episode/6lkHrtOP9IsJkV6i1hyAhL?si=phub1dNLSgSK2pfBDQuB4w) and [YouTube](https://www.youtube.com/watch?v=dq6C2okqZm4)
      +    Liverpool: Pressing, xG Concerns, and Klopp’s Future - [Spotify](https://open.spotify.com/episode/4AqlZZ0deXtY9a2Wh6wGWw?si=_beiVWuFQyq3GzL2Ngt0jg) and [YouTube](https://www.youtube.com/watch?v=o4ED05PJQFI)
-     +    Understanding Stats in Football with Nikos Overheul - [Spotify](https://open.spotify.com/episode/1vI6Go2NhNVwZ9w5CaPDTo?si=ZT_cUwhAQaiSK_ddH57tjw) and [YouTube]()
+     +    Understanding Stats in Football with [Nikos Overheul](https://twitter.com/noverheul) - [Spotify](https://open.spotify.com/episode/1vI6Go2NhNVwZ9w5CaPDTo?si=ZT_cUwhAQaiSK_ddH57tjw) and [YouTube]()
      +    Steve Morison: Tactical Insight & Football Psychology - [Spotify](https://open.spotify.com/episode/5n5mng71oIDM69LzGRG09O?si=7sgzhL8AQMKPCepNPiBz5g) and [YouTube](https://www.youtube.com/watch?v=0d0zMg3tD-Q)
-     +    Football Tactics with Michael Cox (Zonal Marking) - [Spotify](https://open.spotify.com/episode/5rzLuewrS9q8ueQToqhhI2?si=7GO64KzOQ6ulkFaVAH7tRA) and [YouTube](https://www.youtube.com/watch?v=46FRcn11RFQ)
-     +    Football, Tactics & History with Jonathan Wilson - [Spotify](https://open.spotify.com/episode/2d072VAbRxGmwPFJDYimut?si=7Bha0Gf6QGqdqD4pPZXJFA) and [YouTube]()
+     +    Football Tactics with [Michael Cox](https://twitter.com/Zonal_Marking) (Zonal Marking) - [Spotify](https://open.spotify.com/episode/5rzLuewrS9q8ueQToqhhI2?si=7GO64KzOQ6ulkFaVAH7tRA) and [YouTube](https://www.youtube.com/watch?v=46FRcn11RFQ)
+     +    Football, Tactics & History with [Jonathan Wilson](https://twitter.com/jonawils) - [Spotify](https://open.spotify.com/episode/2d072VAbRxGmwPFJDYimut?si=7Bha0Gf6QGqdqD4pPZXJFA) and [YouTube]()
      +    The Future of Stats: xG, xA - [Spotify](https://open.spotify.com/episode/7fPpKZSt2o9SSNynayROwd?si=WxuV2PFCQ7yRdNSE-QOZ6g) and [YouTube](https://www.youtube.com/watch?v=sNCeA27sDvI)
-*    [Total Soccer Show](https://open.spotify.com/show/4bDhkcGQjbNqIGszh371y1?si=Bww9nrROTTmLT8AM__7NTg)
-     +    Soccer stats and analytics with Ted Knutson (@mixedknuts) (in which Ted explains Expected Goals to Daryl): https://www.youtube.com/watch?v=abPYPmgMPso
-     +    Mike L. Goodman (@TheM_L_G) talks USMNT tactical options, EPL trends, Expected Goals: https://www.youtube.com/watch?v=uxaQwMC0EYY
-     +    Everton Premier League preview: Mike L. Goodman (@TheM_L_G) talks Silva's style, Moise Kean, and replacing: https://www.youtube.com/watch?v=Fb94W2-THG0
+*    [Total Soccer Show](https://open.spotify.com/show/4bDhkcGQjbNqIGszh371y1?si=Bww9nrROTTmLT8AM__7NTg):
+     +    Soccer stats and analytics with Ted Knutson (@mixedknuts) (in which Ted explains Expected Goals to Daryl) - [YouTube](https://www.youtube.com/watch?v=abPYPmgMPso)
+     +    Mike L. Goodman (@TheM_L_G) talks USMNT tactical options, EPL trends, Expected Goals - [YouTube](https://www.youtube.com/watch?v=uxaQwMC0EYY)
+     +    Everton Premier League preview: Mike L. Goodman (@TheM_L_G) talks Silva's style, Moise Kean, and replacing - [YouTube](https://www.youtube.com/watch?v=Fb94W2-THG0)
 *    [The Totally Football Show](https://open.spotify.com/show/30pUHuXuSQBSf7EfZQuEvS?si=3NahWL3IR-CBAKdXzQ9cGA) with James Richardson
      +    [03/07/2019: Football Hackers](https://open.spotify.com/episode/00lwcYEV82Pz639PPadlCf?si=2SZQOpIySw-zSsN6wczQwA) with Christoph Biermann
 *    [Football Today](https://open.spotify.com/show/1WRaXZgVlksph0IjsTNBaG?si=0zyUX59sTKqCRnq92SEylQ&nd=1)
@@ -594,21 +597,22 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
      +    [Who Owns Football's Data](https://open.spotify.com/episode/5Cw5ovQ9qH3LEkOhawUXV7?si=jxLNeCXwTL6Z41o6xvDUzw)
      +    Can Data Save Manchester United? Featuring Tom Worville
      +    [Tony Bloom: The Betting Guru Running Brighton](https://open.spotify.com/episode/2N2EMqiyqEjwqdPM6zApIw?si=uhE9VWawSo6jPQfTaIeFCQ)
-*    [The Process](https://open.spotify.com/show/5H0uUcZGr6zw7AHRuLKP6D?si=7XUIxepzTYyVRS3fEwG7Lw) with James Allcott
+*    [The Process](https://open.spotify.com/show/5H0uUcZGr6zw7AHRuLKP6D?si=7XUIxepzTYyVRS3fEwG7Lw) with James Allcott:
      +    [#16 The Future of Football with Ted Knutson (StatsBomb)](https://open.spotify.com/episode/4KKWkT6tAn2puAe2IqOtLq?si=Br5HbR_lRvCsO5oFf0sqOw)
-*    Soccer Player Development Podcast
-     +    Episode 12 with Rasmus Ankersen (@RasmusAnkersen)
-*    Trademate Sports:
-     +    Ep 19: Freelance Football Writer talks Data Analysis, Liverpool & Betting with Andrew Beasley (@BassTunedToRed)
-•	Fanalytics
-     +    Getting Your Foot in the Door with Sean Steffen
-*    Football CFB Podcast
-     +    Football CFB with… Kieran Maguire
-*    Challengers Podcast
+*    Soccer Player Development Podcast:
+     +    Episode 12 with Rasmus Ankersen - [YouTube](https://www.youtube.com/watch?v=S0iHetgqQpE)
+*    [Trademate Sports](https://open.spotify.com/show/2LPzUrtsWvz5iSayEGeEQK?si=prrlKqiwQ7-bKIUtbemkeQ):
+     +    [Ep 19: Freelance Football Writer talks Data Analysis, Liverpool & Betting](https://open.spotify.com/episode/1wDpG7biQ5PxYfm45NNgaF?si=NwKrXzkKSVqzROhD-58Vsw) with Andrew Beasley
+*    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU?si=9v83huJIR-GUxAnKRyXLRA) with Mike Lewis:
+     +    [Getting Your Foot in the Door](https://soundcloud.com/fanalytics/sports-analytics-getting-your-foot-in-the-door) with Sean Steffen
+*   [Football CFB Podcast](https://open.spotify.com/show/2jTKOVU0uAND8DwprMPlC8?si=C-fBu4FHTaK9wuSgyniYjw):
+     +    [Daniel Geey](https://open.spotify.com/episode/0zKYxeZ3WFI1l2wihjFNoQ?si=VpgfDIviRXGRcsOUD1BMhQ)
+     +    [Football CFB with… Kieran Maguire](https://open.spotify.com/episode/1KvvfS84xGw4KFB2nwr9Fv?si=s2p3SQD3RbKy6pLqBYjimg)
+*    [Challengers Podcast](https://challengerspodcast.tumblr.com/):
      +    Expected goals (2016)
-*    [Where Others Won't]() by [Cody Royle](https://open.spotify.com/show/13w1hFUG3jzoA0IrmSlc4m?si=gmYlfec-RyibIf7fC6QMMQ)
+*    [Where Others Won't]() by [Cody Royle](https://open.spotify.com/show/13w1hFUG3jzoA0IrmSlc4m?si=gmYlfec-RyibIf7fC6QMMQ):
      +    [Rasmus Ankersen - Discovering Talent](https://open.spotify.com/episode/7lkkikNGL4F1cfZy1I4kPK?si=CYWpdhF9SFWr-v605Jb64w)   
-*    Explore Explain by Andy Kirk
+*    [Explore Explain](https://open.spotify.com/show/7khS5ikdwhW9kyE7GIcfdw?si=Wl1Nhh35RAehtJ_5w5p-Hw) with [Andy Kirk](https://twitter.com/visualisingdata):
      +    [S2E4 - Tom Worville](https://open.spotify.com/episode/7yqrJlGLbn1af9XSFbWPLK?si=SR0Ux69_SA-Uw-qW9cHNow)
 
 
@@ -626,7 +630,8 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [HANIC Panel "How to get into Sports Analytics & Media + Analytics"](https://www.youtube.com/watch?v=oUVISEJaEMM) with Alison Lukan, Sarah Bailey, Harman Dayal, Asmae Toumi Mike Johnson, Alison Lukan;
 *    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by The Video Analyst;
 *    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by David Sumpter for Barca Innovation Hub;
-*    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0); and
+*    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0);
+*    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU?si=9v83huJIR-GUxAnKRyXLRA) podcast with Mike Lewis - [Getting Your Foot in the Door](https://soundcloud.com/fanalytics/sports-analytics-getting-your-foot-in-the-door) with Sean Steffen;
 *    [Tom Worville Twitter thread](https://twitter.com/Worville/status/1275732993819250688); and
 *    [Will Spearman's Twitter thread](https://twitter.com/the_spearman/status/1260713785138073604).
 
