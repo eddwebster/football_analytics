@@ -88,6 +88,7 @@ Data sources featured in this repository include:
 Various websites that provide a wealth of data relating to football, from detailed match statistics, injury records and transfers.
 
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
+*    [Canadian Premiere League by Centre Circle Data](https://canpl.ca/centre-circle-data/);
 *    [Club Elo](http://clubelo.com/) - European club rankings;
 *    [Data Hub Football data](https://datahub.io/collections/football)
 *    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and Mike Imburgio for [American Soccer Analysis](https://www.americansocceranalysis.com/);
@@ -95,12 +96,16 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017;
 *    [FBref](https://fbref.com/en/) (provider of [StatsBomb](https://statsbomb.com/data/) data);
 *    [FIFA 15-21 player rating data](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset) scraped from [SoFIFA](https://sofifa.com/) by Stefano Leone;
+*    [FiveThirtyEight Club Ranking](https://projects.fivethirtyeight.com/global-club-soccer-rankings/) - Global Club Soccer Rankings. How 637 international club teams compare by Soccer Power Index;
 *    [FiveThirtyEight Soccer Predictions database](https://projects.fivethirtyeight.com/soccer-predictions/) - football prediction data
+*    [`FootballData`](https://github.com/jokecamp/FootballData) - "A hodgepodge of JSON and CSV Football data"
 *    [Football-Data.co.uk](https://www.football-data.co.uk/) - free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles;
-*    [football.csv](https://footballcsv.github.io/) - Historical soccer results in CSV format;
+*    [`footballcsv`](https://footballcsv.github.io/) - Historical soccer results in CSV format;
 *    [football.db](http://openfootball.github.io/) - A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets);
 *    [Football Lineups](http://www.football-lineups.com);
-*    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/);
+*    [Football xG](https://footballxg.com/)
+*    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) by Joe Kampschmidt;
+*    [International football results from 1872 to 2020](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) by Mart Jürisoo;
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
 *    [Metrica Sports Tracking data](https://github.com/metrica-sports/sample-data);
 *    [My Football Facts](http://www.myfootballfacts.com/);
@@ -110,6 +115,7 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [Rec.Sport.Soccer Statistics Foundation](http://www.rsssf.com/nersssf.html) - Historical league tables and football results;
 *    [RoboCup Soccer Simulator](http://oliver.obst.eu/data/RoboCupSimData/overview.html) - RoboCup Soccer Simulator Data;
 *    [SkillCorner broadcast Tracking data](https://github.com/SkillCorner/opendata);
+*    [SofaScore](https://www.sofascore.com/) - live scores, lineups, standings and basic teams, coaches and players data;
 *    [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/) - dataset of elite soccer player movements and corresponding videos. See the accompanying paper [[link](http://home.ifi.uio.no/paalh/publications/files/mmsys2014-dataset.pdf);
 *    [Squawka](http://www.squawka.com);
 *    [StatsBomb Open Data](https://github.com/statsbomb/open-data) - Competitions and matches (with events);
@@ -234,8 +240,10 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [`Exploring spatio-temporal soccer events using public event data`](https://github.com/Friends-of-Tracking-Data-FoTD/mapping-match-events-in-Python) by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See the paper: [A public data set of spatio-temporal match events in soccer competitions](https://doi.org/10.1038/s41597-019-0247-7);
 *    [`Valuing actions in football`](https://github.com/SciSports-Labs/fot-valuing-actions) by Lotte Bransen and Jan Van Haaren of SciSports;
 *    [`analytics-handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
-*    [`soccer_analytics`](https://github.com/CleKraus/soccer_analytics) by CleKraus - a Python project trying to facilitate and being a starting point for analytics projects in soccer including EDA of Event data, goal kick analysis, passing analysis,m xG modelling, and an introduction to Tracking data;
+*    [`soccer_analytics`](https://github.com/CleKraus/soccer_analytics) by CleKraus - a Python project trying to facilitate and being a starting point for analytics projects in soccer including EDA of Event data, goal kick analysis, passing analysis, xG modelling, and an introduction to Tracking data;
+*    [`soccerAnimate`](https://github.com/Dato-Futbol/soccerAnimate) - an R package to create 2D animations of soccer tracking data;
 *    [`Expected Goals Thesis`](https://github.com/andrewRowlinson/expected-goals-thesis) by [Andrew Rowlinson](https://twitter.com/numberstorm)
+*    [`footballcsv`](https://footballcsv.github.io/) - Historical soccer results in CSV format;
 *    [`Pass-Flow`](https://github.com/opengoalapp/Pass-Flow) - create animated flow velocity fields using passing data by Open Goal App;
 *    [`passing-networks-in-python`](https://github.com/Friends-of-Tracking-Data-FoTD/passing-networks-in-python) - repository for building customizable passing networks with Matplotlib as part of the "Friends of Tracking" series. The code is prepared to use both eventing (StatsBomb) and tracking data (Metrica Sports);
 *    [`football-crunching`](https://github.com/rjtavares/football-crunching) by Ricardo Tavares. Accompanying Medium posts [[link](https://medium.com/football-crunching)]; and
@@ -325,6 +333,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney);
 *    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
 *    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by Sam Goldberg and Mike Imburgio;
+*    [Using Data to Analyse Team Formations](https://eightyfivepoints.blogspot.com/2019/11/using-data-to-analyse-team-formations.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
 *    [Structure in football: putting formations into context](https://eightyfivepoints.blogspot.com/2020/12/structure-in-football-putting.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
 *    [Premier League Projections and New Expected Goals](https://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals) by Michael Caley
 *    [Pass Footedness in the Premier League](https://statsbomb.com/2019/04/pass-footedness-in-the-premier-league/) by [James Yorke](https://twitter.com/jair1970);
@@ -382,6 +391,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [LukeBornn.com](http://www.lukebornn.com/) by [Luke Bornn](https://twitter.com/LukeBornn);
 *    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by [Nils Mackay](https://twitter.com/NilsMackay);
 *    [Mackinaw Stats](https://mackayanalytics.nl/) by [Mackinaw Stats](https://twitter.com/mackinawstats);
+*    [Mark's Notebook](https://marksnotebook.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [MRKT Insights](https://mrktinsights.com/index.php/blog/);
 *    [Ninad Barbadikar Medium blog](https://ninad06.medium.com/) by [Ninad Barbadikar](https://twitter.com/ninadb_06);
 *    [North Yard Analytics](https://www.northyardanalytics.com/blog/) by [Dan Altman](https://twitter.com/NYAsports);
@@ -396,6 +406,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Sam Gregory Medium blog](https://medium.com/@GregorydSam);
 *    [SciSports](https://www.scisports.com/);
 *    [Soccermatics Medium blog](https://www.soccermetrics.net/blog) by [David Sumpter](https://www.soccermetrics.net/blog);
+*    [soccerNurds](https://soccernurds.com/blog/);
 *    [space space space](https://spacespacespaceletter.com/);
 *    [StatDNA](https://web.archive.org/web/20110707064735/https:/blog.statdna.com/) (last updated 01/06/2011 before Arsenal bought the company);
 *    [StatsBomb](https://statsbomb.com/articles/);
@@ -501,6 +512,9 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 ### Documentaries
 *    [The Numbers Game: How Data Is Changing Football](https://www.youtube.com/watch?v=lLcXH_4rwr4) - FourFourTwo Documentary;
 *    [How Stats Won Football: From Moneyball to FC Midtjylland](https://www.youtube.com/watch?v=s6UcNGzE8sU) – COPA90 Stories Documentary;
+
+### Match Highlights
+*    [Footballia](https://footballia.net/) - historical matches and highlights
 
 ### Others
 *    [Jeff Stelling xG rant](https://facebook.com/SoccerAM/videos/1740454985978128/); and
@@ -656,26 +670,26 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [Will Spearman's Twitter thread](https://twitter.com/the_spearman/status/1260713785138073604).
 
 ## Events and Conferences
-*    [OptaPro Analytics Forum](https://www.optasportspro.com/events/)
-*    [StatsBomb Conference](https://statsbomb.com/conference/)
-*    Barça [Sports Tomorrow](https://sportstomorrow.net/2020/en/virtual/), [Sports Analytics Summit](https://barcainnovationhub.com/event/barca-sports-analytics-summit-2019/), and [Sports Technology Symposium](https://www.fcbarcelona.com/club/sports-technology-symposium)
-*    [MIT Sloan Sports Analytics Conference](http://www.sloansportsconference.com/)
-*    [New England Symposium on Statistics in Sports (NESSIS](http://www.nessis.org/)
-*    [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html)
-*    [CASSIS](http://cascadiasports.com/)
-*    [Tactical Insights 2020 Conference at King Power Stadium](https://www.lcfc.com/tacticalinsights)
-*    [Workshop on Artificial Intelligence in Team Sports (AITS)](https://ai-teamsports.weebly.com/)
-*    [Workshop on Machine Learning and Data Mining for Sports Analytics](https://dtai.cs.kuleuven.be/events/MLSA20/)
-*    [International Workshop on Computer Vision in Sports](https://vap.aau.dk/cvsports/)
-*    [Google Sports Analytics Meetup.](https://www.youtube.com/playlist?list=PLN61gcz35HB7enamPi8bG4bFJNsBPYW27)
-*    [DFB Hackathon](https://www.dfb-akademie.de/hackathon-2-sts-akademie-eintracht/-/id-11009109)
-*    [PSG Sports Analytics Challenge](https://www.agorize.com/fr/challenges/xpsg?lang=en)
-*    [Football Data International Forum](https://eniit.es/football-data-international-forum/)
-*    [Global Training Camp](http://gtc.analyticsinsport.com/)
-*    [Great Lakes Analytics Conference](https://www.uwsp.edu/cols/Pages/GLAC/analyticsconference.aspx)
-*    [MathSport International](http://www.mathsportinternational.com/)
-*    [Sports Analytics World Series](https://www.analyticsinsport.com/)
-*    [Sportdata & Performance Forum](https://www.sportdataperformance.com/)
+*    [OptaPro Analytics Forum](https://www.optasportspro.com/events/);
+*    [StatsBomb Conference](https://statsbomb.com/conference/);
+*    Barça [Sports Tomorrow](https://sportstomorrow.net/2020/en/virtual/), [Sports Analytics Summit](https://barcainnovationhub.com/event/barca-sports-analytics-summit-2019/), and [Sports Technology Symposium](https://www.fcbarcelona.com/club/sports-technology-symposium);
+*    [MIT Sloan Sports Analytics Conference](http://www.sloansportsconference.com/);
+*    [New England Symposium on Statistics in Sports (NESSIS](http://www.nessis.org/);
+*    [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html);
+*    [CASSIS](http://cascadiasports.com/);
+*    [Tactical Insights 2020 Conference at King Power Stadium](https://www.lcfc.com/tacticalinsights);
+*    [Workshop on Artificial Intelligence in Team Sports (AITS)](https://ai-teamsports.weebly.com/);
+*    [Workshop on Machine Learning and Data Mining for Sports Analytics](https://dtai.cs.kuleuven.be/events/MLSA20/);
+*    [International Workshop on Computer Vision in Sports](https://vap.aau.dk/cvsports/);
+*    [Google Sports Analytics Meetup.](https://www.youtube.com/playlist?list=PLN61gcz35HB7enamPi8bG4bFJNsBPYW27);
+*    [DFB Hackathon](https://www.dfb-akademie.de/hackathon-2-sts-akademie-eintracht/-/id-11009109);
+*    [PSG Sports Analytics Challenge](https://www.agorize.com/fr/challenges/xpsg?lang=en);
+*    [Football Data International Forum](https://eniit.es/football-data-international-forum/);
+*    [Global Training Camp](http://gtc.analyticsinsport.com/);
+*    [Great Lakes Analytics Conference](https://www.uwsp.edu/cols/Pages/GLAC/analyticsconference.aspx);
+*    [MathSport International](http://www.mathsportinternational.com/);
+*    [Sports Analytics World Series](https://www.analyticsinsport.com/); and
+*    [Sportdata & Performance Forum](https://www.sportdataperformance.com/).
 
 ## Competitions
 Includes non-football competitions.
@@ -685,22 +699,28 @@ Includes non-football competitions.
 *    [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football) - October 2020
 *    [Liverpool Analytics Challenge](https://soccermatics.medium.com/entries-for-the-liverpool-analytics-challenge-807f5eee12fd) (Football) - May 2020
 
+## Courses
+*    [Mathematical Modelling of Football by Uppsala University](https://uppsala.instructure.com/courses/28112);
+*    [StatsBomb Academy](https://statsbomb.com/academy/); and
+*    [Barça Innovation Hub](https://barcainnovationhub.com/).
+
 ## Jobs
-*    [The Video Analyst](https://thevideoanalyst.com/jobs/)
-*    [Opta](https://www.optasports.com/about/work-for-opta/)
+*    [The Video Analyst](https://thevideoanalyst.com/jobs/) - Rob Carroll posts many of the jobs going in football on his own website. Make sure to also follow him on Twitter ([@thevideoanalyst](https://twitter.com/thevideoanalyst));
+*    [City Football Insights](https://twitter.com/CFG_Insights):
+*    [Opta](https://www.optasports.com/about/work-for-opta/);
 *    [Stats Perform Job Opportunities](https://www.statsperform.com/stats-careers/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
-*    [Statsbomb](https://statsbomb.com/careers/)
-*    [Wyscout](https://wyscout.com/careers/#job-openings) and careers@wyscout.com
-*    [Hudl](https://www.hudl.com/jobs#jobs)
-*    [Metrica Sports](https://apply.workable.com/metrica-sports/)
-*    [Second Spectrum](https://www.secondspectrum.com/careers/opportunities.html)
-*    [SciSports](https://www.scisports.com/jobs/)
-*    [Football Radar](https://www.footballradar.com/careers/)
-*    [Genius Sports](https://www.geniussports.com/careers) and [link](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123)
-*    [Gracenote](https://www.gracenote.com/company/careers/) and [link](https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville)
-*    [Global Sports](https://www.globalsportsjobs.com/jobs)
-*    [Smart Odds](https://www.smartodds.co.uk/Careers/Vacancies)
-*    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/)
+*    [Statsbomb](https://statsbomb.com/careers/);
+*    [Wyscout](https://wyscout.com/careers/#job-openings) and careers@wyscout.com;
+*    [Hudl](https://www.hudl.com/jobs#jobs);
+*    [Metrica Sports](https://apply.workable.com/metrica-sports/);
+*    [Second Spectrum](https://www.secondspectrum.com/careers/opportunities.html);
+*    [SciSports](https://www.scisports.com/jobs/);
+*    [Football Radar](https://www.footballradar.com/careers/);
+*    [Genius Sports](https://www.geniussports.com/careers) and [link](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123);
+*    [Gracenote](https://www.gracenote.com/company/careers/) and [link](https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville);
+*    [Global Sports](https://www.globalsportsjobs.com/jobs);
+*    [Smart Odds](https://www.smartodds.co.uk/Careers/Vacancies); and
+*    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/).
 
 ## Key Concepts
 
@@ -740,12 +760,11 @@ Includes non-football competitions.
 *    [Google's AI Plays Football…For Science!](https://www.youtube.com/watch?v=Uk9p4Kk98_g) by Two Minute Papers
 
 ## Miscellaneous
-*    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
-*    [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/)
-*    [Expected Goal literature](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit)
-*    [FIFA EPTS (Electronic Performance and Tracking Systems)](https://football-technology.fifa.com/en/media-tiles/epts/)
-*    [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport)
-*    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf)
+*    [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/);
+*    [Expected Goal literature](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit);
+*    [FIFA EPTS (Electronic Performance and Tracking Systems)](https://football-technology.fifa.com/en/media-tiles/epts/);
+*    [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport); and
+*    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf).
 
 ## Credits
 Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), the [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html) which were all used to plug gaps in the list once it was published.
