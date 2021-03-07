@@ -502,7 +502,8 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg)
 *    [Barça Innovation Hub](https://www.youtube.com/channel/UC58nLq78KZGqxfSNFNRCgsQ) (English and Spanish)
 *    [Mark Glickman](https://www.youtube.com/channel/UC-gtC2WYRAr_4eYRIUb4ovg) – for NESSIS talks, uploaded to his personal channel. Old talks are available on his [Metacafe channel](https://www.metacafe.com/channels/Mark%20Glickman/). See the official website [[link](http://www.nessis.org/)]
-*    [42 Analytics](https://www.youtube.com/user/42analytics) – for SSAC conferences 
+*    [42 Analytics](https://www.youtube.com/user/42analytics) – for SSAC conferences
+*    [CMU Statistics](https://www.youtube.com/channel/UCu8Pv6IJsbQdGzRlZ5OipUg)
 *    [StatsBomb](https://www.youtube.com/channel/UCmZ2ArreL9muPvH49Gaw0Bw)
 *    [Opta](https://www.youtube.com/user/optasports) - including Opta Pro Forum talks
 *    [STATS Insights](https://www.youtube.com/user/BloombergSports)
