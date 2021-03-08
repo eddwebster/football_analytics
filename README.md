@@ -336,11 +336,12 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by Sam Goldberg and Mike Imburgio;
 *    [Using Data to Analyse Team Formations](https://eightyfivepoints.blogspot.com/2019/11/using-data-to-analyse-team-formations.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
 *    [Structure in football: putting formations into context](https://eightyfivepoints.blogspot.com/2020/12/structure-in-football-putting.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
+*    [Inside Arsenal’s Attack: In-Depth Analysis Of Arteta’s Problems & Possible Solutions](https://worldfootballindex.com/2021/01/arsenal-attack-in-depth-analysis-arteta-tactics-problems-solutions/) by Ashwin Raman;
 *    [Premier League Projections and New Expected Goals](https://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals) by Michael Caley
 *    [Pass Footedness in the Premier League](https://statsbomb.com/2019/04/pass-footedness-in-the-premier-league/) by [James Yorke](https://twitter.com/jair1970);
 *    [Messi Walks Better Than Most Players Run](https://fivethirtyeight.com/features/messi-walks-better-than-most-players-run/) by [Bobby Gardiner](https://twitter.com/BobbyGardiner);
-*    [Soccer Analytics 101](https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by Kevin Minkus
-*    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller)
+*    [Soccer Analytics 101](https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by Kevin Minkus;
+*    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller);
 *    [Valuing On-the-Ball Actions in Soccer: A Critical Comparison of xT and VAEP](https://dtai.cs.kuleuven.be/sports/blog/valuing-on-the-ball-actions-in-soccer-a-critical-comparison-of-xt-and-vaep) by Jesse Davis, Tom Decroos, Pieter Robberechts, Maaike Van Roy;
 *    [Game of Throw-Ins](https://www.americansocceranalysis.com/home/2018/11/27/game-of-throw-ins) by [Eliot McKinley](https://twitter.com/etmckinley);
 *    [Expected Threat](https://karun.in/blog/expected-threat.html) by [Karun Singh](https://twitter.com/karun1710). Check out also as an unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1361695899131387909.html)] Karun's Twitter thread for the many resources out there around this topic, including: [Episode 19 of The Football Fanalytics Podcast](https://open.spotify.com/episode/0HvcNPxg8Ux6zJB2nGp3VK?si=AOkxcH3KTue4jeEIA6kpWw&nd=1), Karun's StatsBomb conference presentation [[link](https://www.youtube.com/watch?v=mE3sUVCIwfA)] and slides [[link](https://docs.google.com/presentation/d/1tu603CdONhI17AZTrd3mdf1UAf7k-rHwwCLSU_tCx6g/edit#slide=id.p)], [Rob Hickman](https://twitter.com/robwhickman)'s StatsBomb conference presentation where he extended xT to take defensive risk into account [[link](https://twitter.com/robwhickman)], [Last Row View](https://twitter.com/lastrowview) ([Ricardo Tavares](https://twitter.com/rjtavares))'s blog post for evaluating off-the-ball player movements by combining xT and tracking data, and Karun's xT values as a 12x8 grid to download as a JSON file [[link](https://t.co/IoZdCa2BbX?amp=1)];
@@ -352,6 +353,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Coaches Reward Goalscorers. But Should They?](https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt) by [Eliot McKinley](https://twitter.com/etmckinley) and [John Muller](https://twitter.com/johnspacemuller).
 
 ### Blogs and Data Analytics Websites
+*    [11tegen11](https://11tegen11.com/)
 *    [21st Club](https://www.21stclub.com/insight/) - blog posts available in hard-copy form in their [Changing the Conversation](https://www.amazon.co.uk/Changing-Conversation-Presents-Collection-Boardrooms/) series;
 *    [2+2=11](https://2plus2equals11.com/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM);
 *    [5 Added Minutes](https://5addedminutes.com/) by [Omar Chaudhuri](https://twitter.com/OmarChaudhuri) (last updated 03/09/2016);
@@ -618,12 +620,16 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
      +    [Who Owns Football's Data](https://open.spotify.com/episode/5Cw5ovQ9qH3LEkOhawUXV7?si=jxLNeCXwTL6Z41o6xvDUzw)
      +    Can Data Save Manchester United? Featuring Tom Worville
      +    [Tony Bloom: The Betting Guru Running Brighton](https://open.spotify.com/episode/2N2EMqiyqEjwqdPM6zApIw?si=uhE9VWawSo6jPQfTaIeFCQ)
+*    [The Nutmegged Arena](https://open.spotify.com/show/5ZRtcboNN80YL8ohGA6Wos?si=oyRGiCxTSSmIM5KSWaXCOA) by The Nutmeg Assist:
+     +    [#67 Manchester United's return to the top with Ninad Barbadikar](https://open.spotify.com/episode/7noFBqjF6U5iea1QMFsHsV?si=BUW2tRqaQqaeTMuoXaLmfA)
 *    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with Ron Yurko;
      +    [Player Chemistry in Soccer](https://anchor.fm/open-source-sports/episodes/Player-Chemistry-in-Soccer-with-Lotte-Bransen-ejils5) with Lotte Bransen
 *    [The Ornstein & Chapman Podcast](https://open.spotify.com/show/69AAB4ojTuK7gwy3ZdQdB9?si=ciYED_kESKqfa2K505QsrQ) with David Ornstein and Mark Chapman:
 *    +    [Football Club Ownership: Data, Decisions & Competitive Edge](https://open.spotify.com/episode/6v739L7LR13BZs4sPmDeGD?si=3TRs_IunT6-pVhA78ZPgGw)
 *    [The Process](https://open.spotify.com/show/5H0uUcZGr6zw7AHRuLKP6D?si=7XUIxepzTYyVRS3fEwG7Lw) with James Allcott:
      +    [#16 The Future of Football with Ted Knutson (StatsBomb)](https://open.spotify.com/episode/4KKWkT6tAn2puAe2IqOtLq?si=Br5HbR_lRvCsO5oFf0sqOw)
+*    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=hBYRN1GgSc2eSIDUMiwDfA&nd=1):
+     +    [#56 Standout Stats: Premier League](https://open.spotify.com/episode/37SlOJmtoviAKgNanq7Fxq?si=JzBDUt7iRHCKhTPomuVjAA) with Mark Carey
 *    Soccer Player Development Podcast:
      +    Episode 12 with Rasmus Ankersen - [YouTube](https://www.youtube.com/watch?v=S0iHetgqQpE)
 *    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA):
