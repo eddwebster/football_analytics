@@ -6,7 +6,7 @@ This repository is a public space for the football analytics projects by [Edd We
 </p>
 
 
-I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below. If you can think of any resources that I've missed, feel free to create a pull request or send me a message. Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), the [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html) which were all used to plug gaps in the list once it was published.
+I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below. If you can think of any resources that I've missed, feel free to create a pull request or send me a message. Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), the [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), which were all used to plug gaps in the list once it was published.
 
 ## About This Repository and Author
 Please note, all the work produced in this repository is mine and/or credited to the publicly produced code and libraries used, and is in no way related to the work and analysis I produce for my employers.
@@ -73,7 +73,7 @@ Data sources featured in this repository include:
 *    [SkillCorner broadcast Tracking Open data](https://github.com/SkillCorner/opendata);
 *    [StatsBomb Open Event data](https://github.com/statsbomb/open-data);
 *    [StatsBomb](https://statsbomb.com/) season-on-season aggregated player performance data scraped via [FBref](https://fbref.com/en/) using [Parth Athale](https://twitter.com/ParthAthale)'s [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) scraper, which in turn was written using code from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL);
-*    [Stats Perform CPL Event data](https://drive.google.com/drive/u/0/folders/1ktlkt6f6Ujami53YCS-Lbc9BGGL8BaYA)
+*    [STATS Perform](https://www.statsperform.com/) and [Centre Circle](https://canpl.ca/centre-circle-data/) [Canadian Premiere League Event data](https://canpl.ca/centre-circle-data/). See Google Drive [[link](https://drive.google.com/drive/u/0/folders/1ktlkt6f6Ujami53YCS-Lbc9BGGL8BaYA)];
 *    [StrataData]() from [StrataBet](http://www.stratagem.co/) Chance shooting data;
 *    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data scraped using the [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [[TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb)] for code with minor fixes to enable code to run);
 *    [Understat](https://understat.com/) shooting and meta data including player xG values, scraped using the [`understatr`](https://github.com/ewenme/understatr) R package; 
@@ -88,22 +88,21 @@ Data sources featured in this repository include:
 Various websites that provide a wealth of data relating to football, from detailed match statistics, injury records and transfers.
 
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
-*    [Canadian Premiere League by Centre Circle Data](https://canpl.ca/centre-circle-data/);
 *    [Club Elo](http://clubelo.com/) - European club rankings;
-*    [Data Hub Football data](https://datahub.io/collections/football)
+*    [Data Hub Football data](https://datahub.io/collections/football);
 *    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and Mike Imburgio for [American Soccer Analysis](https://www.americansocceranalysis.com/);
 *    [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10) - 25k+ matches, players & teams attributes for European Professional Football
 *    [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017;
 *    [FBref](https://fbref.com/en/) (provider of [StatsBomb](https://statsbomb.com/data/) data);
 *    [FIFA 15-21 player rating data](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset) scraped from [SoFIFA](https://sofifa.com/) by Stefano Leone;
 *    [FiveThirtyEight Club Ranking](https://projects.fivethirtyeight.com/global-club-soccer-rankings/) - Global Club Soccer Rankings. How 637 international club teams compare by Soccer Power Index;
-*    [FiveThirtyEight Soccer Predictions database](https://projects.fivethirtyeight.com/soccer-predictions/) - football prediction data
+*    [FiveThirtyEight Soccer Predictions database](https://projects.fivethirtyeight.com/soccer-predictions/) - football prediction data;
 *    [`FootballData`](https://github.com/jokecamp/FootballData) - "A hodgepodge of JSON and CSV Football data"
 *    [Football-Data.co.uk](https://www.football-data.co.uk/) - free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles;
 *    [`footballcsv`](https://footballcsv.github.io/) - Historical soccer results in CSV format;
 *    [football.db](http://openfootball.github.io/) - A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets);
 *    [Football Lineups](http://www.football-lineups.com);
-*    [Football xG](https://footballxg.com/)
+*    [Football xG](https://footballxg.com/);
 *    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) by Joe Kampschmidt;
 *    [International football results from 1872 to 2020](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) by Mart Jürisoo;
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
@@ -120,9 +119,10 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [Squawka](http://www.squawka.com);
 *    [StatsBomb Open Data](https://github.com/statsbomb/open-data) - Competitions and matches (with events);
 *    [Stat Bunker](https://www.statbunker.com);
+*    [STATS Perform](https://www.statsperform.com/) and [Centre Circle](https://canpl.ca/centre-circle-data/) [Canadian Premiere League Event data](https://canpl.ca/centre-circle-data/). See Google Drive [[link](https://drive.google.com/drive/u/0/folders/1ktlkt6f6Ujami53YCS-Lbc9BGGL8BaYA)];
 *    [Transfer League](http://www.transferleague.co.uk);
 *    [TransferMarkt](http://www.transfermarkt.co.uk);
-*    [Twelve Football](https://twelve.football/)
+*    [Twelve Football](https://twelve.football/);
 *    [wosostats](https://github.com/amj2012/wosostats) - Data about women's soccer from around the world;
 *    [Understat](https://understat.com/);
 *    [WhoScored?](https://www.whoscored.com/); and
