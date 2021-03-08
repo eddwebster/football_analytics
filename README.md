@@ -252,7 +252,8 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [`soccermatics`](https://github.com/JoGall/soccermatics) - an R package for the visualisation and analysis of soccer tracking and event data by [Joe Gallagher](https://twitter.com/joedgallagher).
 
 ## Apps
-*    [ALPHONSO 2.0](https://samgoldberg1882.shinyapps.io/ShinyAlph/) by Sam Goldberg and Mike Imburgio for American Soccer Analysis
+*    [ALPHONSO 2.0](https://samgoldberg1882.shinyapps.io/ShinyAlph/) by Sam Goldberg and Mike Imburgio for American Soccer Analysis; and
+*    [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library/)] by Lars Maurath.
 
 ## Papers
 The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
