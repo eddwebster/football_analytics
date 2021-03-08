@@ -556,7 +556,8 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [Sprawlball: A Visual Tour of the New Era of the NBA](https://www.amazon.co.uk/Sprawlball-Visual-Tour-New-Era/dp/1328767515/) by [Kirk Goldsberry](https://twitter.com/kirkgoldsberry); and
 *    [Numbers Don't Lie: New Adventures in Counting and What Counts in Basketball Analytics](https://www.amazon.co.uk/Numbers-Dont-Lie-Adventures-Basketball/) by Yago Colás.
 
-## Podcasts (Spotify links used where available)
+## Podcasts 
+Spotify and YouTube links used where available.
 
 ### Football Analytics Podcasts
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/podcasts);
