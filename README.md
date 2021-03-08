@@ -488,7 +488,6 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [Why Do Clubs Need to Embrace Analytics to Stay Competitive?](https://www.youtube.com/watch?v=kWBpxxxxLWQ) with Vosse de Boode, David Sumpter, Adrien Tarascon and Javier Fernández for Barca Innovation Hub;
 *    [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0) with Lotte Bransen and Jan Van Haaren for Friends of Tracking;
 *    [Routine Inspection: Measuring Playbooks for Corner Kicks](https://www.youtube.com/watch?v=yfPC1O_g-I8) by Laurie Shaw and Sudarshan 'Suds' Gopaladsikan;
-*    [Dynamic Analysis of Team Strategy in Professional Soccer by Laurie Shaw. AAAI 2020 Workshop on AI in Team Sports. February 2020.
 *    [Tactical Insight Through Team Personas](https://www.youtube.com/watch?v=lQifhUGsDYY) by David Perdomo Meza and Daniel Girela. See accompanying blog post [[link](https://www.twenty3.sport/tactical-insight-through-team-personas-an-optapro-presentation/)];
 *    [Christmas Lectures 2019: How to Get Lucky](https://youtu.be/_q4DrUHKC0Q?t=1666) with Hannah Fry. Small segment with [Tim Waskett](https://twitter.com/StoneBakedGames) @ 27mins;
 *    [I’m in a Wide Open Space: Creating Opportunities at Set Pieces](https://www.youtube.com/watch?v=F_C5V9bykAg) by Dan Barnett;
