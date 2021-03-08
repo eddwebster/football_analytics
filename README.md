@@ -30,7 +30,7 @@ For more information about this repository and the author, I'm available through
 *    [Written Pieces](#written--pieces)
 *    [Videos](#videos)
 *    [Books](#books)
-*    [Podcasts](#podcasts--available)
+*    [Podcasts](#podcasts)
 *    [Notable Figures / Twitter Accounts](#notable--accounts)
 *    [Career Advice](#career-advice)
 *    [Events and Conferences](#events--conferences)
