@@ -56,7 +56,7 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 *    StrataBet Chance dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterStrataBetChanceAnalysisandDashboards/StrataBetChanceShotMapDashboard?:language=es&:display_count=y&:origin=viz_share_link)]; and
 *    Opta [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics) dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterOptaMCFCAnalyticsPL1112AnalysisandDashboards/OptaPlayerDemographicsDashboard?:language=es&:display_count=y&:origin=viz_share_link)].
 
-## Data Sources
+## :floppy_disk: Data Sources
 
 ### Data sources used in this repository
 Due to the 100mb file size limitation in GitHub, all engineered datasets prepared in this repository have been exported and made publicly available to view and download in Google Drive. Please see the following [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. However, all code in this repository should enable you to scrape, parse, and engineer the datasets to the format in which I have analysed and visualised the data in this repo.
@@ -330,7 +330,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [A Framework for Tactical Analysis and Individual Offensive Production Assessment in Soccer Using Markov Chains](http://nessis.org/nessis11/rudd.pdf) (2011) by [Sarah Rudd](https://twitter.com/srudd_ok). Accompanying NESSIS talk on Metacafe [[link](https://www.metacafe.com/watch/7337475/2011_nessis_talk_by_sarah_rudd/)]; and
 *    [An Extension of the Pythagorean Expectation for Association Football](https://www.soccermetrics.net/wp-content/uploads/2013/08/football-pythagorean-article.pdf) (2011) by [Howard Hamilton](https://twitter.com/soccermetrics).
 
-## Written Pieces
+## :books: Written Pieces
 
 ### Highly Rated and Recommended Pieces
 Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/GregorydSam)'s [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) piece and [Tom Worville](https://twitter.com/Worville)'s [“What’s the best Football Analytics piece you’ve ever read?”](https://medium.com/@worville/whats-the-best-football-analytics-piece-you-ve-ever-read-815c0bf50ccf).
@@ -445,7 +445,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller); and
 *    [Stats Perform](https://www.statsperform.com/).
 
-### News Articles
+### :newspaper: News Articles
 *    [Data experts are becoming football's best signings](https://www.bbc.co.uk/news/business-56164159) (05/03/2021) by Justin Harper for BBC News;
 *    [How a Celtic blogger nurtured by Brendan Rodgers is now lifting Leicester City](https://www.thetimes.co.uk/article/how-a-celtic-blogger-nurtured-by-brendan-rodgers-is-now-lifting-leicester-city-9hhchpnfp) (27/02/2021) by Tom Roddy for The Times;
 *    [17-Year-Old Man Lands Dream Job Of Getting Paid To Watch Football All Day](https://www.sportbible.com/football/news-17-year-old-man-lands-dream-job-of-getting-paid-to-watch-football-20210204) bt Adnan Riaz for Sport Bible;
