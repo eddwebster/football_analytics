@@ -367,7 +367,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [All Things Football](https://allthingsfootballonline.blogspot.com/);
 *    [Absolute Unit](https://absoluteunit.substack.com/);
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/);
-*    [Analyse Football](https://analysefootball.com/) by Ravi Ramineni (last updated 06//04/2015);
+*    [Analyse Football](https://analysefootball.com/) by [Ravi Ramineni](https://twitter.com/analyseFooty) (last updated 06//04/2015);
 *    [Analytics FC](https://attackingcentreback.wordpress.com/);
 *    [Attacking Center-back](https://attackingcentreback.wordpress.com/) by [JP Quinn](https://twitter.com/AttackingCB);
 *    [Barça Innovation Hub](https://barcainnovationhub.com/category/blog/);
