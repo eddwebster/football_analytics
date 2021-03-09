@@ -41,7 +41,7 @@ For more information about this repository and the author, I'm available through
 *    [Credits](#credits)
 
 ## :notebook_with_decorative_cover: Notebooks
-For code, see the notebooks subfolder, in which the workflow is divided into the following:
+For code, see the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
