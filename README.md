@@ -40,7 +40,7 @@ For more information about this repository and the author, I'm available through
 *    [Miscellaneous](#miscellaneous)
 *    [Credits](#credits)
 
-## Notebooks
+## :black_and_white_book: Notebooks
 For code, see the notebooks subfolder, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
