@@ -174,6 +174,13 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [SICO](https://www.sicostats.com/)
 *    [Wise](http://app.wise4sports.com/home/)
 
+## Getting Started with Football Analytics:
+*    [Soccer Analytics 101](https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by Kevin Minkus;
+*    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller);
+*    McKay John's Twitter thread [[link](https://twitter.com/mckayjohns/status/1369147457536335878)]
+*    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) by [Sam Gregory](https://twitter.com/GregorydSam);
+*    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam);
+
 ## :student: Tutorials
 
 ### Python and R 
