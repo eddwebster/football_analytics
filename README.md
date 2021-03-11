@@ -247,7 +247,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) - a soccer visualisation library in R from [Ben Torvaney](https://twitter.com/Torvaney);
 *    [`understatr`](https://github.com/ewenme/understatr) - a R package to scrape data from Understat.
 
-## GitHub repos (Python and R)
+## GitHub Repositories
 
 ### Python
 *    [`Google Research Football`](https://github.com/google-research/football);
