@@ -430,6 +430,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Piotr Wawrzynów – Football Analysis](https://wawrzynow.wordpress.com/) by [Piotr Wawrzynów](https://twitter.com/pwawrzynow);
 *    [Proform AFC](https://proformanalytics.wordpress.com/) by [Proform Analytics](https://twitter.com/ProformAFC) ([Mladen Sormaz](https://twitter.com/Mladen_Sormaz) and [Dan Nichol](https://twitter.com/D4N__));
 *    [Ravi Mistry's Medium blog](https://scribblr42.medium.com/);
+*    [robert-hickman.eu](https://www.robert-hickman.eu/);
 *    [SaddlersStats](https://www.saddlersstats.co.uk/);
 *    [Sam Gregory Medium blog](https://medium.com/@GregorydSam);
 *    [SciSports](https://www.scisports.com/);
