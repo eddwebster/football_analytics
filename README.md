@@ -610,6 +610,7 @@ Spotify and YouTube links used where available.
 *    [smarterscout: The Why in Analytics](https://open.spotify.com/show/2QP4KXajJ5xOfW1ny78nAf?si=NQAf_4XtSFeQXAZi1bbupQ) by Dan Altman;
 *    [Squawka Talker Football Podcast](https://open.spotify.com/show/7xqylrPDX54uo01n4erZQZ?si=XpMNQ43aQxKUa6QuB0dp2w);
 *    [StatsBomb](https://open.spotify.com/show/2EgxEas2CUsGpuH5AGWnAO?si=yvTrhRLGSBm7XanWZnd7lA);
+*    [The SV Podcast](https://open.spotify.com/show/7fqxtrlfYwBRe9s2Ak4LyG?si=EwIUl5VIR6qfu_0FhNPI6w);
 *    [Target Scouting](https://open.spotify.com/show/2SJENgKp4BrmeufJPKC2TH?si=hq4tXC3sSKGkej4VU8w40w) by Luke Griffin;
 *    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA);
 *    [Training Ground Guru](https://open.spotify.com/show/1Kn9l6LifZ2AWmZri9XWHn);
