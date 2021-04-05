@@ -852,7 +852,7 @@ For a playlist of Expected Goals related videos available on YouTube, see the fo
 *    [Michael Caley's xG model](https://cartilagefreecaptain.sbnation.com/2014/9/11/6131661/premier-league-projections-2014#methoderology);
 
 ##### Written pieces
-For a collated list of Expected Goals literature collated by Keith Lyons, see the following [[link](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit)]
+For a collated list of Expected Goals literature collated by [Keith Lyons](https://twitter.com/520507), see the following [[link](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit)]
 
 *    [xG explained](https://fbref.com/en/expected-goals-model-explained/) by FBref;
 *    [What are expected Goals?](https://www.americansocceranalysis.com/explanation) by American Soccer Analysis;
