@@ -292,7 +292,9 @@ Various websites that provide a wealth of data relating to football, from detail
 The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
 
 #### 2021
-*    [Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning](https://arxiv.org/pdf/2101.05388.pdf) (2021) by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg). See the [`nayra`](https://github.com/DonsetPG/narya) library for code;
+
+*    [Making Offensive Play Predictable Using a GCN to Understand Defensive Performance in Socce](https://o7dkx1gd2bwwexip1qwjpplu-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/1617733444_PaulPowerOffensivePlaySoccerRPpaper-1.pdf) by Paul Power, Michael Stöckl, and Thomas Seidel for Opta Pro Forum 2021. See the accomanpying talk on Vimeo [[link](https://player.vimeo.com/video/534338154)]; and
+*    [Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning](https://arxiv.org/pdf/2101.05388.pdf) (2021) by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg). See the [`nayra`](https://github.com/DonsetPG/narya) library for code.
 
 #### 2020
 *    [Automatic Pass Annotation from Soccer Video Streams based on Object Detection and LSTM](https://arxiv.org/abs/2007.06475) (2020) by Danilo Sorano, Fabio Carrara, Paolo Cintia, Fabrizio Falchi and [Luca Pappalardo](https://twitter.com/lucpappalard?);
@@ -369,7 +371,8 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/GregorydSam)'s [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) piece and [Tom Worville](https://twitter.com/Worville)'s [“What’s the best Football Analytics piece you’ve ever read?”](https://medium.com/@worville/whats-the-best-football-analytics-piece-you-ve-ever-read-815c0bf50ccf).
 
 *    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen);
-*    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney);
+*    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney) by [John Muller](https://twitter.com/johnspacemuller);
+*    [Is Soccer Wrong About Long Shots?](https://fivethirtyeight.com/features/is-soccer-wrong-about-long-shots/)
 *    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
 *    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by Sam Goldberg and Mike Imburgio;
 *    [Using Data to Analyse Team Formations](https://eightyfivepoints.blogspot.com/2019/11/using-data-to-analyse-team-formations.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
@@ -480,6 +483,11 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Stats Perform](https://www.statsperform.com/).
 
 #### :newspaper: News Articles
+*    [Kevin De Bruyne uses data analysts to broker £83m Man City contract without agent](https://www.mirror.co.uk/sport/football/news/kevin-de-bruyne-uses-data-23870686) (08/04/2021) by David McDonnell for The Mirror;
+*    [La extraña renovación de De Bruyne: sin agente y usando el 'big data' para calcular su salario](https://www.marca.com/futbol/premier-league/2021/04/07/606de998e2704e7f238b45a9.html) (07/04/2021) for Marca;
+*    [From scouting players on sidelines to sofas – Meet the WyScout generation transforming football analytics](https://inews.co.uk/sport/football/football-analytics-scouting-coaching-wyscout-944940) (07/04/2021) by Pete Hall for iNews;
+*    [Meet Ram Srinivas, The Biggest Wes Hoolahan Fanatic In India](https://www.balls.ie/amp/football/ram-srinivas-464366) (27/03/2021) by Fiachra Gallagher for Balls.ie;
+*    [Soccer-From blogging to the dressing room - the rise of the new analysts](https://mobile.reuters.com/article/amp/idUKKBN2BH1Y2) (25/03/2021) by Simon Evans for Reuters
 *    [Premier League club Manchester City hire astrophysicists](https://en.as.com/en/2021/03/24/opinion/1616586679_570100.html) (24/03/2021) by Alfredo Relaño for AS;
 *    [Manchester City will have astrophysicists in their ranks](https://www.marca.com/en/football/premier-league/2021/03/23/6059e09622601da60e8b459c.html) in Marca;
 *    [It IS rocket science! Manchester City hire astrophysicists to their data analysis team in bid to move Premier League leaders further ahead of their rivals](https://www.dailymail.co.uk/sport/football/article-9390675/It-rocket-science-Manchester-City-hire-multiple-astrophysicists-zoom-ahead-rivals.html) by Jack Gaughan (22/03/2021) for The Daily Mail;
@@ -522,6 +530,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    David Sumpter's Expected Goals webinars for #FoT - [How to Build An Expected Goals Model 1: Data and Model](https://www.youtube.com/watch?v=bpjLyFyLlXs), [How to Build An Expected Goals Model 2: Statistical fitting](https://www.youtube.com/watch?v=wHOgINJ5g54), and [The Ultimate Guide to Expected Goals](https://www.youtube.com/watch?v=310_eW0hUqQ). See the following for code [3xGModel](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/3xGModel.py), [4LinearRegression](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/4LinearRegression.py), [5xGModelFit.py](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/5xGModelFit.py), and [6MeasuresOfFit](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/6MeasuresOfFit.py);
 *    Peter McKeever's ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for #FoT. See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)];
 *    StatsPerform AI in Sport series - [Overview](https://vimeo.com/473259469/3d56393c68), [AI in Basketball](), [AI In Soccer](https://vimeo.com/515977363/be3de09fc1), and [AI in Tennis]();
+*    [Making Offensive Play Predictable](https://player.vimeo.com/video/534338154) by Paul Power, Michael Stöckl, and Thomas Seidel for Opta Pro Forum 2021;
 *    [Google Research Football](https://www.youtube.com/watch?v=esQvSg2qeS0) by Piotr Stanczyk;
 *    [Will Spearman's masterclass in Pitch Control](https://www.youtube.com/watch?v=X9PrwPyolyU&list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y)] for Friends of Tracking;
 *    [How Tracking Data is Used in Football and What are the Future Challenges](https://www.youtube.com/watch?v=kHTq9cwdkGA) with Javier Fernández, Sudarshan 'Suds' Gopaladesikan, Laurie Shaw, Will Spearman and David Sumpter for Friends of Tracking;
