@@ -159,6 +159,7 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [Football-Data.co.uk](https://www.football-data.co.uk/) - free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles;
 *    [`footballcsv`](https://footballcsv.github.io/) - Historical soccer results in CSV format;
 *    [football.db](http://openfootball.github.io/) - A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets);
+*    [Football Geek](https://www.footballgeek.io/) by Dinesh Vatvani (site now on hiatus);
 *    [Football Lineups](http://www.football-lineups.com);
 *    [Football xG](https://footballxg.com/);
 *    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) by Joe Kampschmidt;
