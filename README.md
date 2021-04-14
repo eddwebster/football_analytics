@@ -21,25 +21,28 @@ For more information about this repository and the author, I'm available through
 
 
 ## :clipboard: Contents:
-*    [Notebooks](#notebooks)
-*    [Data Visualisation and Tableau](#data--tableau)
-*    [Data Sources](#data)
-*    [Resources](#resources)
-     +    [Tutorials](#tutorials)
+*    [Notebooks](#notebook_with_decorative_cover-notebooks)
+*    [Data Visualisation and Tableau](#bar_chart-data-visualisation-and-tableau)
+*    [Data Sources](#floppy_disk-data-sources)
+*    [Libraries](#classical_building-libaries-1)
+*    [Resources](#bookmark_tabs-resources)
+     +    [Tutorials](#student-tutorials)
+     +    [Data Sources](#floppy_disk-data-sources-1)
      +    [Libaries](#libraries)
-     +    [GitHub Repositories](#githubs)
-     +    [Papers](#papers)
-     +    [Written Pieces](#written--pieces)
-     +    [Videos](#videos)
-     +    [Books](#books)
-     +    [Podcasts](#podcasts)
-     +    [Notable Figures / Twitter Accounts](#notable--accounts)
+     +    [GitHub Repositories](#github-repositories)
+     +    [Papers](#page_with_curl-papers)
+     +    [Written Pieces](#books-written-pieces)
+     +    [Videos](#vhs-videoss)
+     +    [Books](#books-books)
+     +    [Podcasts](#loud_sound-podcasts)
+     +    [Notable Figures / Twitter Accounts](#man_technologist-notable-figures--twitter-accounts)
      +    [Career Advice](#career-advice)
-     +    [Events and Conferences](#events--conferences)
+     +    [Events and Conferences](#spiral_calendar-events-and-conferences)
      +    [Competitions](#competitions)
-     +    [Jobs](#jobs)
-     +    [Key Concepts](#key--concepts) (TBA)
-     +    [Miscellaneous](#miscellaneous)
+     +    [Courses]#courses)
+     +    [Jobs](#briefcase-jobs)
+     +    [Key Concepts](#key-key-concepts) (TBA)
+     +    [Miscellaneous](#grey_question-miscellaneous)
      +    [Credits](#credits)
 
 ## :notebook_with_decorative_cover: Notebooks
@@ -276,6 +279,7 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [`LaurieOnTracking`](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) by [Laurie Shaw](https://twitter.com/EightyFivePoint) - Python code for working with Metrica tracking data;
 *    [`Pass-Flow`](https://github.com/opengoalapp/Pass-Flow) - create animated flow velocity fields using passing data by Open Goal App;
 *    [`passing-networks-in-python`](https://github.com/Friends-of-Tracking-Data-FoTD/passing-networks-in-python) - repository for building customizable passing networks with Matplotlib as part of the "Friends of Tracking" series. The code is prepared to use both eventing (StatsBomb) and tracking data (Metrica Sports);
+*    [`pitchly`](https://github.com/opunsoars/pitchly)  - Python Plotly wrapper for simple football plots by [Vinay Warrier](https://twitter.com/opunsoars);
 *    [`SoccermaticsForPython`](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython) - repo by David Sumpter dedicated for people getting started with Python using the concepts derived from the book Soccermatics 
 *    [`soccer_analytics`](https://github.com/CleKraus/soccer_analytics) by CleKraus - a Python project trying to facilitate and being a starting point for analytics projects in soccer including EDA of Event data, goal kick analysis, passing analysis, xG modelling, and an introduction to Tracking data;
 *    [`Valuing actions in football`](https://github.com/SciSports-Labs/fot-valuing-actions) by Lotte Bransen and Jan Van Haaren of SciSports;
