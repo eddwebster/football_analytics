@@ -809,7 +809,7 @@ Includes non-football competitions.
 *    [NFL Big Data Bowl](https://operations.nfl.com/gameday/analytics/big-data-bowl/) (American Football) - [2021](https://www.kaggle.com/c/nfl-big-data-bowl-2021) - annual;
 *    [Big Data Cup](https://www.stathletes.com/big-data-cup/) (Hockey) - annual;
 *    [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football) - October 2020; and
-*    [Liverpool Analytics Challenge](https://soccermatics.medium.com/entries-for-the-liverpool-analytics-challenge-807f5eee12fd) (Football) - May 2020. Challenge used [Last Row Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) kindly provided by [Ricardo Tavares](https://twitter.com/rjtavares).
+*    [Liverpool Analytics Challenge](https://soccermatics.medium.com/entries-for-the-liverpool-analytics-challenge-807f5eee12fd) (Football) - May 2020. Challenge used [Last Row Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) kindly provided by [Ricardo Tavares](https://twitter.com/rjtavares). Full a full list of entries, see David Sumpter's Medium post [[link](https://soccermatics.medium.com/entries-for-the-liverpool-analytics-challenge-807f5eee12fd)], featuring the three eventual winners - Surya Kocherlakota, Theophane Gregoir and Paul Garnier's, and Gabin Rolland (discussed on #FoT [[link](https://www.youtube.com/watch?v=AFm3JNPu9Jw)]).
 
 ### Courses
 *    [Mathematical Modelling of Football by Uppsala University](https://uppsala.instructure.com/courses/28112);
