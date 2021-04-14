@@ -67,8 +67,8 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 The following data sources have been used in this repository. Due to the 100mb file size limitation in GitHub, all engineered datasets prepared in this repository have been exported and made publicly available to view and download in Google Drive. Please see the following [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. However, all code in this repository should enable you to scrape, parse, and engineer the datasets to the format in which I have analysed and visualised the data in this repo.
 
 Data sources featured in this repository include:
-*    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and Mike Imburgio for [American Soccer Analysis](https://www.americansocceranalysis.com/);
-*    [ELO club rankings](http://clubelo.com/);
+*    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio) for [American Soccer Analysis](https://www.americansocceranalysis.com/);
+*    [ELO club rankings](http://clubelo.com/). See their API [[link](http://clubelo.com/API)];
 *    [FIFA 15-21 player rating data](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset) scraped from [SoFIFA](https://sofifa.com/) by Stefano Leone;
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
 *    [Last Row Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) by [Ricardo Tavares](https://twitter.com/rjtavares);
