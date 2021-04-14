@@ -39,7 +39,7 @@ For more information about this repository and the author, I'm available through
      +    [Career Advice](#career-advice)
      +    [Events and Conferences](#spiral_calendar-events-and-conferences)
      +    [Competitions](#competitions)
-     +    [Courses]#courses)
+     +    [Courses](#courses)
      +    [Jobs](#briefcase-jobs)
      +    [Key Concepts](#key-key-concepts) (TBA)
      +    [Miscellaneous](#grey_question-miscellaneous)
@@ -79,7 +79,7 @@ Data sources featured in this repository include:
 *    [Stats Perform](https://www.statsperform.com/) and [Centre Circle](https://canpl.ca/centre-circle-data/) [Canadian Premiere League Event data](https://canpl.ca/centre-circle-data/). See Google Drive [[link](https://drive.google.com/drive/u/0/folders/1ktlkt6f6Ujami53YCS-Lbc9BGGL8BaYA)];
 *    [StrataData]() from [StrataBet](http://www.stratagem.co/) Chance shooting data;
 *    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data scraped using the [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [[TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb)] for code with minor fixes to enable code to run);
-*    [Understat](https://understat.com/) shooting and meta data including player xG values, scraped using the [`understatr`](https://github.com/ewenme/understatr) R package; 
+*    [Understat](https://understat.com/) shooting and meta data including player xG values, scraped using the [`understatr`](https://github.com/ewenme/understatr) R package. Data also made available by [@NdyStats](https://twitter.com/NdyStats) (see pinned tweet of his Twitter account for the latest version); 
 *    [Wyscout Event data](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
 *    Reference data:
      -    League-wide xT values from the 2017-18 Premier League season (12x8 grid) by [Karun Singh](https://twitter.com/karun1710/) [[link](https://karun.in/blog/data/open_xt_12x8_v1.json)]
@@ -186,7 +186,7 @@ Various websites that provide a wealth of data relating to football, from detail
 *    [TransferMarkt](http://www.transfermarkt.co.uk);
 *    [Twelve Football](https://twelve.football/);
 *    [wosostats](https://github.com/amj2012/wosostats) - Data about women's soccer from around the world;
-*    [Understat](https://understat.com/);
+*    [Understat](https://understat.com/) shooting and meta data including player xG values. Data can be scraped using the [`understatr`](https://github.com/ewenme/understatr) R package or from [@NdyStats](https://twitter.com/NdyStats) who makes this publicly available (see pinned tweet of his Twitter account for the latest version of this data); 
 *    [WhoScored?](https://www.whoscored.com/) (data provided by Opta); and
 *    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
 
@@ -804,7 +804,8 @@ Includes non-football competitions.
 
 ### Courses
 *    [Mathematical Modelling of Football by Uppsala University](https://uppsala.instructure.com/courses/28112);
-*    [StatsBomb Academy](https://statsbomb.com/academy/); and
+*    [StatsBomb Academy](https://statsbomb.com/academy/);
+*    [Football Analytics short course](https://www.bbk.ac.uk/study/2020/short-courses/modules/BUMN/BUMN130H7) by StatsPerform with Birkbeck University; and
 *    [Barça Innovation Hub](https://barcainnovationhub.com/).
 
 ### :briefcase: Jobs
