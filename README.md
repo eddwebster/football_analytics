@@ -8,7 +8,7 @@ This repository is a public space for the football analytics projects by [Edd We
 
 I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below. If you can think of any resources that I've missed, feel free to create a pull request or send me a message. Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), the [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), which were all used to plug gaps in the list once it was published.
 
-If you like the repo, please feel free to give it a :star: (top right). Cheers!
+If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
 ## :wave: About This Repository and Author
 Please note, all the work produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
@@ -107,8 +107,11 @@ The [Python](https://www.python.org/) libraries used in this repository include:
 *    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller);
 *    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
 *    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) by [Sam Gregory](https://twitter.com/GregorydSam);
-*    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam); and
-*    McKay John's Twitter thread [[link](https://twitter.com/mckayjohns/status/1369147457536335878)].
+*    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam);
+*    [Some of the useful resources in Football Analytics](https://footytistics.com/2020-12-19-useful-resources-football-analytics/) by ;
+*    [Languages and Tools to Learn for Sports Analytics](https://brendankent.com/2020/12/16/languages-and-tools-to-learn-for-sports-analytics/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
+*    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]; and
+*    McKay John's Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)].
 
 ### :student: Tutorials
 
