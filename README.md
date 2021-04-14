@@ -111,7 +111,7 @@ The [Python](https://www.python.org/) libraries used in this repository include:
 *    [Some of the useful resources in Football Analytics](https://footytistics.com/2020-12-19-useful-resources-football-analytics/) by [@VenkyReddevil](https://twitter.com/VenkyReddevil);
 *    [Languages and Tools to Learn for Sports Analytics](https://brendankent.com/2020/12/16/languages-and-tools-to-learn-for-sports-analytics/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
 *    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]; and
-*    McKay John's Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)].
+*    [McKay John](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)].
 
 ### :student: Tutorials
 
