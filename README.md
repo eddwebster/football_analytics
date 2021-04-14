@@ -816,6 +816,7 @@ Includes non-football competitions.
 ### Courses
 *    [Mathematical Modelling of Football by Uppsala University](https://uppsala.instructure.com/courses/28112);
 *    [StatsBomb Academy](https://statsbomb.com/academy/);
+*    [Sport Analytics and Technologies MSc](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/sport-analytics-and-technologies/) at Loughborough University, taught by [Donald Barron](https://twitter.com/dbanalysis);
 *    [Football Analytics short course](https://www.bbk.ac.uk/study/2020/short-courses/modules/BUMN/BUMN130H7) by StatsPerform with Birkbeck University; and
 *    [Barça Innovation Hub](https://barcainnovationhub.com/).
 
