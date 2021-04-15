@@ -150,6 +150,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    Medium blog posts by [Sagnik Das](https://twitter.com/nandy_sd) - [Tableau Guide #1: Making Shot Maps](https://sagnikdas1.medium.com/tabguide-1-making-shot-maps-1c030f08393e), [Tableau Guide #2: Making Pass Maps](https://sagnikdas1.medium.com/tabguide-2-making-pass-maps-bad2d541b8ed), [Tableau Guide #3: Convex Hulls](https://sagnikdas1.medium.com/tableau-guide-3-convex-hulls-c7edc31a9921), [Tableau Guide #4 : Football Radars](https://sagnikdas1.medium.com/tableau-guide-4-football-radars-8cdac85ba1fc)
 *    Medium blog posts by [Rahul Iyer](https://twitter.com/RahulIyer32) - [Guide to Creating Passing Networks in Tableau
 ](https://raahulbi103.medium.com/guide-to-creating-passing-networks-in-tableau-be8847420297), [Guide to Creating Pass Sonars in Tableau](https://raahulbi103.medium.com/guide-to-creating-pass-sonars-in-tableau-3361801d65aa);
+*    [Creating a Shop Map](https://jamesvaughan1905.medium.com/creating-a-shot-map-343a03ef5270) by [James Vaughan](https://twitter.com/Advt_played);
 *    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c);
 *    [Exporting your pass flow map to Tableau](https://www.youtube.com/watch?v=aibBF0BuzBU) by [Abhishek Mishra](https://twitter.com/MishraAbhiA).
 *    Tableau Public profiles of note (not exhaustive by any means):
@@ -159,9 +160,11 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
      +    [CJ Mayes](https://public.tableau.com/profile/cj.mayes)
      +    [Eva Murray](https://public.tableau.com/profile/eva.murray)
      +    [Foot en Stats](https://public.tableau.com/profile/julien.demeaux)
-     +    [James Smith](https://public.tableau.com/profile/sports.chord)
+     +    [James Smith](https://public.tableau.com/profile/sports.chord) - see his Twitter thread of projects [[link](https://twitter.com/Advt_played/status/1360656812870107141)
+     +    [James Vaughan](https://public.tableau.com/profile/james.vaughan1697#!/)
      +    [Mark Carey](https://public.tableau.com/profile/mark.carey)
      +    [Matt Trevillion](https://public.tableau.com/profile/matt.trevillion)
+     +    [Ninad Barbadikar](https://public.tableau.com/profile/ninad.barbadikar#!/) - see his [Tableau Tunnel](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) series
      +    [Oscar Hall](https://public.tableau.com/profile/oscar.hall)
      +    [Paul Riley](https://public.tableau.com/profile/paul.riley)
      +    [Peter McKeever](https://public.tableau.com/profile/peter.mckeever)
