@@ -248,7 +248,7 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [StrataBet](http://www.stratagem.co/) (now defunct)
 *    [TransferMarket](https://www.transfermarkt.com/)
 *    [understat](https://understat.com/)
-*    [WhoScored?](https://www.whoscored.com/) (provider of [Opta Sports](https://www.optasports.com/) data)
+*    [WhoScored?](https://www.whoscored.com/) (data provided by [Opta Sports](https://www.optasports.com/) data)
 *    [Wyscout](https://wyscout.com/es/)
 
 ##### Tracking
