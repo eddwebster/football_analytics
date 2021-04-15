@@ -1024,8 +1024,10 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 ### :grey_question: Miscellaneous
 *    [Club crests](https://drive.google.com/drive/folders/1R22tOjU-gjJ3QDzwUZ8JlXGjtO4O_XaJ) available to download, put together by [Ninad Barbadikar](https://twitter.com/NinadB_06);
+*    [Pitch templates](https://www.dropbox.com/sh/y4gg8koaedi659r/AACBw3rEIbnLp7Zi91SUtwaFa?dl=0), put together by [Tony Bambrick](https://twitter.com/TonyBambrick) (see tweet [[link](https://twitter.com/TonyBambrick/status/1382314456131198976)]);
 *    [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/);
-*    [Expected Goal literature](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit);
+*    [A collated list of Expected Goals literature collated](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit) by [Keith Lyons](https://twitter.com/520507);
+*    [Expected Goal literature](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit) by ;
 *    [FIFA EPTS (Electronic Performance and Tracking Systems)](https://football-technology.fifa.com/en/media-tiles/epts/);
 *    [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport); and
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf).
