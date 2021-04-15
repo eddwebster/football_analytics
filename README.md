@@ -183,8 +183,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    Twitter thread by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent)) [[link](https://twitter.com/MeasurablesPod/status/1217499782631043072)]
 
 ### :floppy_disk: Data Sources
-All publicly available data sources and datasets
-Various websites that provide a wealth of data relating to football, from detailed match statistics, injury records and transfers.
+All publicly available data sources and datasets relating to football, from Tracking data, Event data, aggregated player performance data, detailed match statistics, injury records and transfer values, and more.
 
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
 *    [Club Elo](http://clubelo.com/) - European club rankings;
