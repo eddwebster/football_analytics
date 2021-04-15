@@ -149,6 +149,26 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    Medium blog posts by Rahul Iyer - [Guide to Creating Passing Networks in Tableau
 ](https://raahulbi103.medium.com/guide-to-creating-passing-networks-in-tableau-be8847420297), [Guide to Creating Pass Sonars in Tableau](https://raahulbi103.medium.com/guide-to-creating-pass-sonars-in-tableau-3361801d65aa);
 *    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c)
+*    Tableau Public profiles of note (not exhaustive by any means):
+     +    [Ashwin Rman](https://public.tableau.com/profile/ashwin.raman1303)
+     +    [Brian Prestidge](https://public.tableau.com/profile/brian.prestidge)
+     +    [Carlon Carpenter](https://public.tableau.com/profile/carlon.carpenter)
+     +    [CJ Mayes](https://public.tableau.com/profile/cj.mayes)
+     +    [Eva Murray](https://public.tableau.com/profile/eva.murray)
+     +    [Foot en Stats](https://public.tableau.com/profile/julien.demeaux)
+     +    [James Smith](https://public.tableau.com/profile/sports.chord)
+     +    [Mark Carey](https://public.tableau.com/profile/mark.carey)
+     +    [Matt Trevillion](https://public.tableau.com/profile/matt.trevillion)
+     +    [Oscar Hall](https://public.tableau.com/profile/oscar.hall)
+     +    [Paul Riley](https://public.tableau.com/profile/paul.riley)
+     +    [Peter McKeever](https://public.tableau.com/profile/peter.mckeever)
+     +    [Sathish Prasad V.T](https://public.tableau.com/profile/sathish.prasad.v.t)
+     +    [Sancho Quinn](https://public.tableau.com/profile/sancho.quinn)
+     +    [Rahul Iyer](https://public.tableau.com/profile/rahul.iyer)
+     +    [Ravi Mistry](https://public.tableau.com/profile/scribblr.42)
+     +    [Rob Carroll](https://public.tableau.com/profile/the.video.analyst)
+     +    [Rob Suddaby](https://public.tableau.com/profile/rob.suddaby)
+     +    [Sushruta Nandy](https://public.tableau.com/profile/sushruta)
 
 #### Excel
 *    [Marius Fischer](https://twitter.com/Gegenpressing91)'s Patreon [[link](https://www.patreon.com/Gegenpressing91)]
