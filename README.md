@@ -481,6 +481,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Karun Singh](https://karun.in/blog/) by [Karun Singh](https://twitter.com/karun1710);
 *    [kubamichalczyk.github.io](https://kubamichalczyk.github.io/) by [Kuba Michalczyk](https://twitter.com/kubamichalczyk)
 *    [kwiatkowski.io](https://www.kwiatkowski.io/) by [Marek Kwiatkowski](https://twitter.com/statlurker);
+*    [lufcdata](https://www.lufcdata.com/) by [@LUFCDATA](https://twitter.com/LUFCDATA);
 *    [LukeBornn.com](http://www.lukebornn.com/) by [Luke Bornn](https://twitter.com/LukeBornn);
 *    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by [Nils Mackay](https://twitter.com/NilsMackay);
 *    [Mackinaw Stats](https://mackayanalytics.nl/) by [Mackinaw Stats](https://twitter.com/mackinawstats);
@@ -666,11 +667,11 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 Spotify and YouTube links used where available.
 
 #### Football Analytics Podcasts
-*    [All Stats Aren't We](https://open.spotify.com/show/22eR0UCjDdVXY2JTtjD3OI?si=kt_lY1m2QKukOvKvmWpsPA) with Jon Mackenzie and Josh Hobbs (Leeds United Podcast)
+*    [All Stats Aren't We](https://open.spotify.com/show/22eR0UCjDdVXY2JTtjD3OI?si=kt_lY1m2QKukOvKvmWpsPA) with [Jon Mackenzie](https://twitter.com/Jon_Mackenzie) and [Josh Hobbs](https://twitter.com/JoshAHobbs) (Leeds United Podcast)
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/podcasts);
 *    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/);
 *    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (Spanish) by [Marcelo Gantman](https://twitter.com/marcelogantman) and Agustin Mario Gimenez;
-*    [The Dan & Omar Show](https://open.spotify.com/show/0mT1mtMmydvs6fmrOF4GZD?si=Dv_Pm99kSd2HD603Wc1ZOg) with Daniel Geey and [Omar Chaudhuri](https://twitter.com/OmarChaudhuri)
+*    [The Dan & Omar Show](https://open.spotify.com/show/0mT1mtMmydvs6fmrOF4GZD?si=Dv_Pm99kSd2HD603Wc1ZOg) with [Daniel Geey](https://twitter.com/FootballLaw) and [Omar Chaudhuri](https://twitter.com/OmarChaudhuri)
 *    [Double Pivot Podcast](https://open.spotify.com/show/4lBU3spHZaQWJyUcCUbkY8);
 *    [Differentgame - The Football Analytics Podcast](https://open.spotify.com/show/0EHSv20UxlqnOjaUNzdiGN?si=rc48L2eFRLCLXZyROU8GSw) by [Paul Riley](https://twitter.com/footballfactman) and Richard Shephard;
 *    [Expected Value](https://open.spotify.com/show/5xFeWbaaLFepY5n73SfWwr);
@@ -688,11 +689,11 @@ Spotify and YouTube links used where available.
 *    [Squawka Talker Football Podcast](https://open.spotify.com/show/7xqylrPDX54uo01n4erZQZ?si=XpMNQ43aQxKUa6QuB0dp2w);
 *    [StatsBomb](https://open.spotify.com/show/2EgxEas2CUsGpuH5AGWnAO?si=yvTrhRLGSBm7XanWZnd7lA);
 *    [The SV Podcast](https://open.spotify.com/show/7fqxtrlfYwBRe9s2Ak4LyG?si=EwIUl5VIR6qfu_0FhNPI6w);
-*    [Target Scouting](https://open.spotify.com/show/2SJENgKp4BrmeufJPKC2TH?si=hq4tXC3sSKGkej4VU8w40w) by Luke Griffin;
+*    [Target Scouting](https://open.spotify.com/show/2SJENgKp4BrmeufJPKC2TH?si=hq4tXC3sSKGkej4VU8w40w) by [Luke Griffin](https://twitter.com/GriffinFtbl);
 *    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA);
 *    [Training Ground Guru](https://open.spotify.com/show/1Kn9l6LifZ2AWmZri9XWHn);
 *    [Three At The Back](https://open.spotify.com/show/4NbunP2podS7hIPD2BVlYF?si=OFwVjOucQP6LWZmnGmGqjg) by Opta Pro; and
-*    [Zonal Marking](https://open.spotify.com/show/1o2ZogNQQmPKCntcdKnXPT).
+*    [Zonal Marking](https://open.spotify.com/show/1o2ZogNQQmPKCntcdKnXPT) with [Michael Cox](https://twitter.com/Zonal_Marking), [Tom Worville](https://twitter.com/Worville) and [Ali Maxwell](https://twitter.com/AliMaxwell_).
 
 #### Noteable Episodes (including non-football-data-specific podcasts)
 *    [All Stats Aren't We](https://open.spotify.com/show/22eR0UCjDdVXY2JTtjD3OI?si=kt_lY1m2QKukOvKvmWpsPA):
