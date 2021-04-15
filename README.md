@@ -511,6 +511,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [StatsBomb](https://statsbomb.com/articles/);
 *    [Stats Perform](https://www.statsperform.com/resources/);
 *    [Stats and snakeoil](http://www.statsandsnakeoil.com/) by [Ben Torvaney](https://twitter.com/Torvaney);
+*    [The Analyst](https://www.theanalyst.com/eu/) by Stats Perform;
 *    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant](https://twitter.com/Ciaran_Grant));
 *    [The Power of Goals](https://thepowerofgoals.blogspot.com/);
 *    [Training Ground Guru](https://trainingground.guru/). Check out their accompanying podcast [[link](https://open.spotify.com/show/1Kn9l6LifZ2AWmZri9XWHn)];
@@ -862,7 +863,7 @@ Includes non-football competitions.
 *    [The Video Analyst](https://thevideoanalyst.com/jobs/) - Rob Carroll posts many of the jobs going in football on his own website. Make sure to also follow him on Twitter ([@thevideoanalyst](https://twitter.com/thevideoanalyst));
 *    [City Football Insights](https://twitter.com/CFG_Insights):
 *    [Opta](https://www.optasports.com/about/work-for-opta/);
-*    [Stats Perform Job Opportunities](https://www.statsperform.com/stats-careers/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
+*    [Stats Perform Job Opportunities](https://www.optasports.com/about/work-for-stats-perform/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
 *    [Statsbomb](https://statsbomb.com/careers/);
 *    [Wyscout](https://wyscout.com/careers/#job-openings) and careers@wyscout.com;
 *    [Hudl](https://www.hudl.com/jobs#jobs);
