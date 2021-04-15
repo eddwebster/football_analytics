@@ -30,7 +30,7 @@ For more information about this repository and the author, I'm available through
 *    [Resources](#bookmark_tabs-resources)
      +    [Tutorials](#student-tutorials)
      +    [Data Sources](#floppy_disk-data-sources-1)
-     +    [Libaries](#libraries)
+     +    [Libraries](#libraries)
      +    [GitHub Repositories](#github-repositories)
      +    [Papers](#page_with_curl-papers)
      +    [Written Pieces](#books-written-pieces)
