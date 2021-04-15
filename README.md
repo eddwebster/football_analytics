@@ -462,11 +462,11 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by [Nils Mackay](https://twitter.com/NilsMackay);
 *    [Mackinaw Stats](https://mackayanalytics.nl/) by [Mackinaw Stats](https://twitter.com/mackinawstats);
 *    [Mark's Notebook](https://marksnotebook.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
-*    [MRKT Insights](https://mrktinsights.com/index.php/blog/);
+*    [MRKT Insights](https://mrktinsights.com/index.php/blog/) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally [Jay Socik](https://twitter.com/Blades_analytic);;
 *    [Ninad Barbadikar Medium blog](https://ninad06.medium.com/) by [Ninad Barbadikar](https://twitter.com/ninadb_06);
 *    [North Yard Analytics](https://www.northyardanalytics.com/blog/) by [Dan Altman](https://twitter.com/NYAsports);
 *    [openGoal](https://www.opengoalapp.com/) by [Charles William](https://twitter.com/openGoalCharles);
-*    Opta Pro - old blogs removed by available using Wayback Machine;
+*    Opta Pro - old blogs removed but can be found using Wayback Machine;
 *    [patricklucey.com](http://patricklucey.com/index.html) by [Patrick Lucey](https://twitter.com/patricklucey);
 *    [Penal.lt/y](http://pena.lt/y/) by [Martin Eastwood](https://twitter.com/penaltyblog);
 *    [Piotr Wawrzynów – Football Analysis](https://wawrzynow.wordpress.com/) by [Piotr Wawrzynów](https://twitter.com/pwawrzynow);
@@ -656,9 +656,9 @@ Spotify and YouTube links used where available.
 *    [Football Today](https://open.spotify.com/show/1WRaXZgVlksph0IjsTNBaG?si=0zyUX59sTKqCRnq92SEylQ&nd=1);
 *    [Laptop Gurus](https://open.spotify.com/show/3sPI2CtmRJeaShdqNjrGRH?si=1NRk7exnRWaNbqbDO0B72w);
 *    [Looks Good on Paper podcast](https://open.spotify.com/show/7iJoF537QKPgDgQe7bblV2?si=QwiAfM2ZS0-Z4M74RESiKQ&nd=1) by [Felix Pate](https://twitter.com/lgopfelix);
-*    [MRKT Insights](https://open.spotify.com/show/3q32QkmAXwth5VJwU8uzWt?si=8_vyLb6WQd2wTJt5MxdBoA);
+*    [MRKT Insights](https://open.spotify.com/show/3q32QkmAXwth5VJwU8uzWt?si=8_vyLb6WQd2wTJt5MxdBoA) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally  [Jay Socik](https://twitter.com/Blades_analytic);
 *    [Measurables Podcast](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW) by [Brendan Kent](https://twitter.com/brendankent);
-*    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with Ron Yurko;
+*    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with [Ron Yurko](https://twitter.com/Stat_Ron);
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=M6xgCGtdTjiy0wEl1e2CJw);
 *    [smarterscout: The Why in Analytics](https://open.spotify.com/show/2QP4KXajJ5xOfW1ny78nAf?si=NQAf_4XtSFeQXAZi1bbupQ) by Dan Altman;
 *    [Squawka Talker Football Podcast](https://open.spotify.com/show/7xqylrPDX54uo01n4erZQZ?si=XpMNQ43aQxKUa6QuB0dp2w);
