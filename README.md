@@ -106,8 +106,7 @@ The [Python](https://www.python.org/) libraries used in this repository include:
 *    [Soccer Analytics 101](https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus);
 *    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller) - check out his Newsletter [space space space](https://spacespacespaceletter.com/author/johnmuller/);
 *    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
-*    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) by [Sam Gregory](https://twitter.com/GregorydSam);
-*    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam);
+*    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) and [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam);
 *    [Some of the useful resources in Football Analytics](https://footytistics.com/2020-12-19-useful-resources-football-analytics/) by [@VenkyReddevil](https://twitter.com/VenkyReddevil);
 *    [Stat Glossary](https://thefutebolist.wordpress.com/stat-glossary/) by [Ashwin Raman](https://twitter.com/AshwinRaman_);
 *    [Football Analytics Glossary](https://footballstatsglossary.home.blog/) by [Ashwin Raman](https://twitter.com/AshwinRaman_) and [Mark Thompson](https://twitter.com/EveryTeam_Mark);
@@ -139,14 +138,14 @@ The [Python](https://www.python.org/) libraries used in this repository include:
 *    [Creating a pass flow graph in R](https://www.youtube.com/watch?v=uOE2_UIRniE) by [Abhishek Mishra](https://twitter.com/MishraAbhiA).
 
 #### Tableau
-For a YouTube playlist of Tableau-football videos and tutorials that I have collated from various sources including the Tableau Football User Group, Rob Carroll, and Tom Goodall, see the following [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
+For a YouTube playlist of Tableau-football videos and tutorials that I have collated from various sources including the Tableau Football User Group, [Rob Carroll](https://twitter.com/thevideoanalyst), and [Tom Goodall](https://twitter.com/TomG26), see the following [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
 *    Tableau Football User Group [[link](https://usergroups.tableau.com/footballtableauusergroup)] - featuring [Eva Murray](https://twitter.com/TriMyData), Oscar Hall, [James Smith](https://twitter.com/sportschord), [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), [Ravi Mistry](https://twitter.com/Scribblr_42),  Adam Cook, Hannah Roberts, [Chris Baker](https://twitter.com/chrisbaker108), Rusty Parker, Ruud van Elk, Johannes Riegger, and Sebastien Coustou;
 *    [Tableau for Sport](https://thevideoanalyst.com/tableau-sport/) by [Rob Carroll](https://twitter.com/thevideoanalyst) - completely free tutorials for using football data in Tableau, including creating shot maps, pass maps, pass matrxces, xG race-chart timelines. See also his YouTube playlist [[link](https://www.youtube.com/playlist?list=PLchE8bhmmIxK94imJ4QZncXrbld_NGoiW)];
 *    [Tom Goodall's Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/). Check out also as an unrolled Twitter thread, how he uses Tableau to create an opposition report for Burton vs. Gillingham on 9th January 2021 [[link](https://threadreaderapp.com/thread/1346186082510110720.html)];
 *    [Visually Analysing Direct Set Pieces in Football using StatsBomb Data, R and Tableau](https://www.biztory.com/blog/visually-analysing-direct-set-pieces-in-football-using-statsbomb-data-r-and-tableau) by [James Smith](https://twitter.com/sportschord);
 *    [CJ Mayes](https://cj-mayes.com/)'s Tableau blog, with posts including how to make a [Radial Tournament Bracket](https://cj-mayes.com/2021/02/24/radial-tournament-bracket-2/);
-*    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06). Check out his Twitter thread [[link](https://twitter.com/NinadB_06/status/1348738404989558787)];
+*    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06). Check out his Twitter thread [[link](https://twitter.com/NinadB_06/status/1348738404989558787)] and his YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)];
 *    Medium blog posts by [Sagnik Das](https://twitter.com/nandy_sd) - [Tableau Guide #1: Making Shot Maps](https://sagnikdas1.medium.com/tabguide-1-making-shot-maps-1c030f08393e), [Tableau Guide #2: Making Pass Maps](https://sagnikdas1.medium.com/tabguide-2-making-pass-maps-bad2d541b8ed), [Tableau Guide #3: Convex Hulls](https://sagnikdas1.medium.com/tableau-guide-3-convex-hulls-c7edc31a9921), [Tableau Guide #4 : Football Radars](https://sagnikdas1.medium.com/tableau-guide-4-football-radars-8cdac85ba1fc)
 *    Medium blog posts by [Rahul Iyer](https://twitter.com/RahulIyer32) - [Guide to Creating Passing Networks in Tableau
 ](https://raahulbi103.medium.com/guide-to-creating-passing-networks-in-tableau-be8847420297), [Guide to Creating Pass Sonars in Tableau](https://raahulbi103.medium.com/guide-to-creating-pass-sonars-in-tableau-3361801d65aa);
@@ -154,14 +153,14 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c);
 *    [Exporting your pass flow map to Tableau](https://www.youtube.com/watch?v=aibBF0BuzBU) by [Abhishek Mishra](https://twitter.com/MishraAbhiA).
 *    Tableau Public profiles of note (not exhaustive by any means):
-     +    [Ashwin Rman](https://public.tableau.com/profile/ashwin.raman1303)
+     +    [Ashwin Raman](https://public.tableau.com/profile/ashwin.raman1303)
      +    [Brian Prestidge](https://public.tableau.com/profile/brian.prestidge)
      +    [Carlon Carpenter](https://public.tableau.com/profile/carlon.carpenter)
      +    [CJ Mayes](https://public.tableau.com/profile/cj.mayes)
      +    [Eva Murray](https://public.tableau.com/profile/eva.murray)
      +    [Foot en Stats](https://public.tableau.com/profile/julien.demeaux)
-     +    [James Smith](https://public.tableau.com/profile/sports.chord) - see his Twitter thread of projects [[link](https://twitter.com/Advt_played/status/1360656812870107141)
-     +    [James Vaughan](https://public.tableau.com/profile/james.vaughan1697#!/)
+     +    [James Smith](https://public.tableau.com/profile/sports.chord)
+     +    [James Vaughan](https://public.tableau.com/profile/james.vaughan1697#!/) - see his Twitter thread of projects [[link](https://twitter.com/Advt_played/status/1360656812870107141)
      +    [Mark Carey](https://public.tableau.com/profile/mark.carey)
      +    [Matt Trevillion](https://public.tableau.com/profile/matt.trevillion)
      +    [Ninad Barbadikar](https://public.tableau.com/profile/ninad.barbadikar#!/) - see his [Tableau Tunnel](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) series
@@ -333,6 +332,8 @@ All publicly available data sources and datasets relating to football, from Trac
 
 ### Apps
 *    [YouTubeCoder](https://fcpythonvideocoder.netlify.app/) Event video tagging by [FC Python](https://twitter.com/fc_python);
+*    [Statsbomb-Json-Parse](https://gallery.alteryx.com/#!app/Statsbomb-Json-Parse/6074ad450462d70960925e72) by [Rob Carroll](https://twitter.com/thevideoanalyst). A small app that lets you input a 
+StatsBomb  JSON file and get a CSV file back (you need to create a free account to run it. For a video explainer, see the following [[link](https://www.youtube.com/watch?v=miM21I-oTf0)];
 *    [ALPHONSO 2.0](https://samgoldberg1882.shinyapps.io/ShinyAlph/) by Sam Goldberg and Mike Imburgio for American Soccer Analysis; and
 *    [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library/)] by Lars Maurath.
 
@@ -648,8 +649,9 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [STATS Insights](https://www.youtube.com/user/BloombergSports);
 *    [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ);
 *    [Football Whispers](https://www.youtube.com/channel/UCKrQ1kewgRUbrwl_LcqJ6pQ);
-*    [Football Player Ratings](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA) by [Lars Magnus Hvattum](https://twitter.com/FLSimulator); and
-*    [The Coaches’ Voice](https://www.youtube.com/channel/UCuR-ZdVJtF3muYhYUQ-he-Q).
+*    [Football Player Ratings](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA) by [Lars Magnus Hvattum](https://twitter.com/FLSimulator);
+*    [The Coaches’ Voice](https://www.youtube.com/channel/UCuR-ZdVJtF3muYhYUQ-he-Q); and
+*    [Ninad Barbadikar](https://twitter.com/ninadb_06)'s YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)].
 
 ### :books: Books
 *    [Moneyball: The Art of Winning an Unfair Game](https://www.amazon.co.uk/Moneyball-Art-Winning-Unfair-Game/) by Michael Lewis;
