@@ -135,7 +135,7 @@ The [Python](https://www.python.org/) libraries used in this repository include:
 
 #### R
 *    [FCrSTATS](https://github.com/FCrSTATS) tutorials [[link](http://fcrstats.com/tutorials.html)];
-*    [Sudarshan Golaladesikan](https://twitter.com/suds_g)'s R series for Friends of Tracking - [Getting Started with R + StatsBomb | Analyzing Squad Rotation & Clustering Passes](https://www.youtube.com/watch?v=ilIIjqfstfQ) and creating interactive shot maps - [Part 1/3)](https://www.youtube.com/watch?v=-a4NC65x_qQ), [Part 2/3](https://www.youtube.com/watch?v=yWXD7xi1f30), (I believe no part 3 currently). See the following for code [[link]((https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR))]; and
+*    [Sudarshan 'Suds' Golaladesikan](https://twitter.com/suds_g)'s R series for Friends of Tracking - [Getting Started with R + StatsBomb | Analyzing Squad Rotation & Clustering Passes](https://www.youtube.com/watch?v=ilIIjqfstfQ) and creating interactive shot maps - [Part 1/3)](https://www.youtube.com/watch?v=-a4NC65x_qQ), [Part 2/3](https://www.youtube.com/watch?v=yWXD7xi1f30), (I believe no part 3 currently). See the following for code [[link]((https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR))]; and
 *    [Creating a pass flow graph in R](https://www.youtube.com/watch?v=uOE2_UIRniE) by [Abhishek Mishra](https://twitter.com/MishraAbhiA).
 
 #### Tableau
@@ -765,7 +765,9 @@ Spotify and YouTube links used where available.
 *    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with Ron Yurko;
      +    [Player Chemistry in Soccer](https://anchor.fm/open-source-sports/episodes/Player-Chemistry-in-Soccer-with-Lotte-Bransen-ejils5) with Lotte Bransen
 *    [The Ornstein & Chapman Podcast](https://open.spotify.com/show/69AAB4ojTuK7gwy3ZdQdB9?si=ciYED_kESKqfa2K505QsrQ) with David Ornstein and Mark Chapman:
-*    +    [Football Club Ownership: Data, Decisions & Competitive Edge](https://open.spotify.com/episode/6v739L7LR13BZs4sPmDeGD?si=3TRs_IunT6-pVhA78ZPgGw)
+     +    [Football Club Ownership: Data, Decisions & Competitive Edge](https://open.spotify.com/episode/6v739L7LR13BZs4sPmDeGD?si=3TRs_IunT6-pVhA78ZPgGw)
+*    [Pacey Performance Podcast](https://open.spotify.com/show/4J7lhwdc8jCT92CyKluXQr?si=gcppVCtDS4yPJt-QosJPCw) with Robert Pacey:
+     +    #340 What is data science (and what isn't), data informed decision making](https://open.spotify.com/episode/37EhvnA8bRXHV9KXClQRPB?si=Pbcech5OTbW6ZRIYSEAMFg with [Sudarshan Golaladesikan](https://twitter.com/suds_g) - [Spotify](https://open.spotify.com/episode/37EhvnA8bRXHV9KXClQRPB?si=Pbcech5OTbW6ZRIYSEAMFg) and [YouTube](https://www.youtube.com/watch?v=Xd7MOeu9rtM&ab_channel=PaceyPerformance); 
 *    [The PinkUn Norwich City Podcast](https://open.spotify.com/show/4NU35xCqwl8kyUG9v8Sx2A?si=3AgoCZRRT5en1zaNVIEI-Q):
      +    [232: 'Analysing Norwich City's Recruitment' - The Rebound #3 - Ft. Data Analyst Ram Srinivas](https://open.spotify.com/episode/7idmp92m0Pfv2XiW8vOzZU?si=NCc6-ZDWSdWgum1WfVv-VA)
 *    [Pinnacle Podcast](https://open.spotify.com/show/091oYrS0glFhP81fq32bpE?si=TmR79XGnRAm5987Zj33ImA):
