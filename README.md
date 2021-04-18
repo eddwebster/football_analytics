@@ -759,6 +759,8 @@ Spotify and YouTube links used where available.
      +    [Who Owns Football's Data](https://open.spotify.com/episode/5Cw5ovQ9qH3LEkOhawUXV7?si=jxLNeCXwTL6Z41o6xvDUzw)
      +    Can Data Save Manchester United? Featuring Tom Worville
      +    [Tony Bloom: The Betting Guru Running Brighton](https://open.spotify.com/episode/2N2EMqiyqEjwqdPM6zApIw?si=uhE9VWawSo6jPQfTaIeFCQ)
+*    [Life...On Our Terms](https://open.spotify.com/episode/23hx4mkehZiuO4WB4BmLHt?si=_ZTmFPvxTNa8dOyoTTbW2A)
+     +    [Sport...On Our Terms ft. Rasmus Ankerson](https://open.spotify.com/episode/23hx4mkehZiuO4WB4BmLHt?si=9SZboq_nThqvZoz1qXAMaA)
 *    [Modern Soccer Coach Podcast](https://open.spotify.com/show/0mxCm5xfR1dH72GBQ5pl6t?si=P-BAw6ePR52yLGCukJyOGg) with Gary Curneen:
      +    [Ted Knutson: StatsBomb, Liverpool and the Data Revolution](https://open.spotify.com/episode/6L1qdBitr8s19qIXbgMuIQ?si=FoqAeTxdQiK_tmH_EubETw)
 *    [Not The Top 20 Podcast](https://open.spotify.com/show/19Vn2WZiSZOeanPFDHYIb8?si=baqjrom8Sbyc0cYMtttMEQ):
