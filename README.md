@@ -218,6 +218,7 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [SkillCorner broadcast Tracking data](https://github.com/SkillCorner/opendata);
 *    [SofaScore](https://www.sofascore.com/) - live scores, lineups, standings and basic teams, coaches and players data;
 *    [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/) - dataset of elite soccer player movements and corresponding videos. See the accompanying paper [[link](http://home.ifi.uio.no/paalh/publications/files/mmsys2014-dataset.pdf);
+*    [Spotrac](https://www.spotrac.com/) team contracts and payrolls for the Premier League, MLS, and NWSL;
 *    [Squawka](http://www.squawka.com);
 *    [StatsBomb Open Data](https://github.com/statsbomb/open-data) - Competitions and matches (with events);
 *    [Stat Bunker](https://www.statbunker.com);
