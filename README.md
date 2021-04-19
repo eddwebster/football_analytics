@@ -188,6 +188,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 All publicly available data sources and datasets relating to football, from Tracking data, Event data, aggregated player performance data, detailed match statistics, injury records and transfer values, and more.
 
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
+*    [Capology](https://www.capology.com/) - a sports salaries platform [requires an expensive licence, 7 day free trials available].;
 *    [Club Elo](http://clubelo.com/) - European club rankings;
 *    [Data Hub Football data](https://datahub.io/collections/football);
 *    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and Mike Imburgio for [American Soccer Analysis](https://www.americansocceranalysis.com/);
