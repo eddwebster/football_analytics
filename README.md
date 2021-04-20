@@ -643,7 +643,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 
 ### :tv: YouTube Channels
 *    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Javier Fernández](https://twitter.com/JaviOnData), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Pascal Bauer](https://twitter.com/pascal_bauer), and [Fran Peralta](https://twitter.com/PeraltaFran23);
-*    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg);
+*    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg) - for Python tutorials;
 *    [Barça Innovation Hub](https://www.youtube.com/channel/UC58nLq78KZGqxfSNFNRCgsQ) (English and Spanish);
 *    [Mark Glickman](https://www.youtube.com/channel/UC-gtC2WYRAr_4eYRIUb4ovg) – for NESSIS talks, uploaded to his personal channel. Old talks are available on his [Metacafe channel](https://www.metacafe.com/channels/Mark%20Glickman/). See the official website [[link](http://www.nessis.org/)];
 *    [42 Analytics](https://www.youtube.com/user/42analytics) – for SSAC conferences;
@@ -653,6 +653,7 @@ For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I
 *    [STATS Insights](https://www.youtube.com/user/BloombergSports);
 *    [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ);
 *    [Football Whispers](https://www.youtube.com/channel/UCKrQ1kewgRUbrwl_LcqJ6pQ);
+*    [Planeta Data Fútbol](https://www.youtube.com/channel/UCpIqAVOpOWt-8Sk4KvosxFg) (en español) con [Jesús Lagos](https://twitter.com/Vdot_Spain) y [Miguel Ángel García](https://twitter.com/miguelangaro);
 *    [Football Player Ratings](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA) by [Lars Magnus Hvattum](https://twitter.com/FLSimulator);
 *    [The Coaches’ Voice](https://www.youtube.com/channel/UCuR-ZdVJtF3muYhYUQ-he-Q); and
 *    [Ninad Barbadikar](https://twitter.com/ninadb_06)'s YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)].
@@ -687,7 +688,7 @@ Spotify and YouTube links used where available.
 *    [All Stats Aren't We](https://open.spotify.com/show/22eR0UCjDdVXY2JTtjD3OI?si=kt_lY1m2QKukOvKvmWpsPA) with [Jon Mackenzie](https://twitter.com/Jon_Mackenzie) and [Josh Hobbs](https://twitter.com/JoshAHobbs) (Leeds United Podcast)
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/podcasts);
 *    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/);
-*    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (Spanish) by [Marcelo Gantman](https://twitter.com/marcelogantman) and Agustin Mario Gimenez;
+*    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (en español) con [Marcelo Gantman](https://twitter.com/marcelogantman) y Agustin Mario Gimenez;
 *    [The Dan & Omar Show](https://open.spotify.com/show/0mT1mtMmydvs6fmrOF4GZD?si=Dv_Pm99kSd2HD603Wc1ZOg) with [Daniel Geey](https://twitter.com/FootballLaw) and [Omar Chaudhuri](https://twitter.com/OmarChaudhuri)
 *    [Double Pivot Podcast](https://open.spotify.com/show/4lBU3spHZaQWJyUcCUbkY8);
 *    [Differentgame - The Football Analytics Podcast](https://open.spotify.com/show/0EHSv20UxlqnOjaUNzdiGN?si=rc48L2eFRLCLXZyROU8GSw) by [Paul Riley](https://twitter.com/footballfactman) and Richard Shephard;
