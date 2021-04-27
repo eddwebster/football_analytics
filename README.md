@@ -97,8 +97,9 @@ The [Python](https://www.python.org/) libraries used in this repository include:
 *    [Plotly](https://plotly.com/);
 *    [record linkage](https://recordlinkage.readthedocs.io/en/latest/about.html);
 *    [scikit-learn](https://scikit-learn.org/stable/);
-*    [SciPy](https://www.scipy.org/); and
-*    [XGBoost](https://xgboost.readthedocs.io/en/latest/).
+*    [SciPy](https://www.scipy.org/);
+*    [XGBoost](https://xgboost.readthedocs.io/en/latest/); and
+*    [SHAP](https://github.com/slundberg/shap)
 
 ## :bookmark_tabs: Resources
 
