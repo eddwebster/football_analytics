@@ -533,7 +533,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [StatsBomb](https://statsbomb.com/articles/);
 *    [Stats Perform](https://www.statsperform.com/resources/);
 *    [Stats and snakeoil](http://www.statsandsnakeoil.com/) by [Ben Torvaney](https://twitter.com/Torvaney);
-*    [Tiago Estêvão's Medium blog](Tiago Estêvão) by [Tiago Estêvão](https://twitter.com/tiagoestv);
+*    [Tiago Estêvão's Medium blog](https://tiagoestv.medium.com/) by [Tiago Estêvão](https://twitter.com/tiagoestv);
 *    [The Analyst](https://www.theanalyst.com/eu/) by Stats Perform;
 *    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant](https://twitter.com/Ciaran_Grant));
 *    [The Power of Goals](https://thepowerofgoals.blogspot.com/);
