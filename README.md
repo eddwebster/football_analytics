@@ -283,7 +283,7 @@ All publicly available data sources and datasets relating to football, from Trac
 #### Python
 *    [`codeball`](https://github.com/metrica-sports/codeball/) - data driven tactical and video analysis of soccer games;
 *    [`Football Packing`](https://github.com/samirak93/Football-packing) - a Python package to calculate packing rate for a given pass in football by Samira Kumar. This is a variation of the metric created by Impect;
-*    [`kloppy`](https://github.com/PySport/kloppy) - a Python package providing (de)serializers for soccer tracking- and event data, standardized data models, filters, and transformers designed to make working with different tracking- and event data like a breeze;
+*    [`kloppy`](https://github.com/PySport/kloppy) - a Python package providing (de)serializers for soccer tracking- and event data, standardized data models, filters, and transformers designed to make working with different tracking- and event data like a breeze. See the YouTube tutorial [[link](https://www.youtube.com/watch?v=JQbxpzNvGO8)];
 *    [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer) - a Python library for visualising soccer event data by [Tom Decroos](https://twitter.com/TomDecroos);
 *    [`mplsoccer`](https://github.com/andrewRowlinson/mplsoccer) - a Python library for drawing soccer/football pitches in Matplotlib and loading StatsBomb open-data by [Andrew Rowlinson](https://twitter.com/numberstorm);
 *    [`nayra`](https://github.com/DonsetPG/narya) - API that allows you track soccer player from camera inputs, and evaluate them with an Expected Discounted Goal (EDG) Agent. See the [Evaluating Soccer Player](https://arxiv.org/pdf/2101.05388.pdf) paper by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg);
@@ -291,6 +291,7 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [`PCA_Player_Finder`](https://github.com/parth1902/PCA_Player_Finder) by [Parth Athale](https://twitter.com/ParthAthale);
 *    [`PySport`](https://opensource.pysport.org/) including [`PySport Soccer`](https://opensource.pysport.org/?sports=Soccer) - collection of open-source sport packages including many of those mentioned in this section, by [Koen Vossen](https://twitter.com/mr_le_fox);
 *    [`PyWaffle`](https://github.com/petermckeeverPerform/PyWaffle) - an open source, MIT-licensed Python package for plotting waffle charts by Peter McKeever;
+*    [`ScraperFC`](https://github.com/oseymour/ScraperFC) - a Python package to scrape data from FBRef, Understat and FiveThirtyEight by [Owen Seymour](https://twitter.com/owen_seymour);
 *    [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) - Python library to scrape StatsBomb data via FBref by [Parthe Athale](https://twitter.com/ParthAthale), which in turn was updated from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL);
 *    [`statsbombapi`](https://github.com/Torvaney/statsbombapi) - a Python API wrapper and dataclasses for Statsbomb data;
 *    [`statsbombpy`](https://github.com/statsbomb/statsbombpy) - a Python library written by Francisco Goitia to access StatsBomb data;
@@ -301,7 +302,8 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [`soccerplots`](https://github.com/Slothfulwave612/soccerplots) -  a Python package that can be used for making visualizations for football analytics by Slothfulwave;
 *    [`sync.soccer`](https://github.com/huffyhenry/sync.soccer) - a Python package to synchronise football datasets, so that an event in one dataset is matched to the corresponding event or snapshot in the other by Marek Kwiatkowski. This repository contains an implementation that aligns Opta's (now STATS Perform's) F24 feeds to ChyronHego's Tracab files. More formats may be added in the future. See the following blog post for methodology [[link](https://kwiatkowski.io/sync.soccer)];
 *    [`tmscrape`](https://github.com/znstrider/tmscrape) - a Python TransferMarkt webscraper by [danzn1](https://twitter.com/danzn1);
-*    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) - a Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats); and
+*    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) - a Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats);
+*    [`understat`](https://github.com/amosbastian/understat) - a Python webscraper by [Amos Bastian](https://github.com/amosbastian).
 
 #### R
 *    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) - a soccer visualisation library in R from [Ben Torvaney](https://twitter.com/Torvaney);
@@ -325,8 +327,10 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [`passing-networks-in-python`](https://github.com/Friends-of-Tracking-Data-FoTD/passing-networks-in-python) - repository for building customizable passing networks with Matplotlib as part of the "Friends of Tracking" series. The code is prepared to use both eventing (StatsBomb) and tracking data (Metrica Sports);
 *    [`pitchly`](https://github.com/opunsoars/pitchly)  - Python Plotly wrapper for simple football plots by [Vinay Warrier](https://twitter.com/opunsoars);
 *    [`SoccermaticsForPython`](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython) - repo by David Sumpter dedicated for people getting started with Python using the concepts derived from the book Soccermatics 
-*    [`soccer_analytics`](https://github.com/CleKraus/soccer_analytics) by CleKraus - a Python project trying to facilitate and being a starting point for analytics projects in soccer including EDA of Event data, goal kick analysis, passing analysis, xG modelling, and an introduction to Tracking data;
-*    [`Valuing actions in football`](https://github.com/SciSports-Labs/fot-valuing-actions) by Lotte Bransen and Jan Van Haaren of SciSports;
+*    [`soccer_analytics`](https://github.com/CleKraus/soccer_analytics) by CleKraus - a Python project trying to facilitate and being a starting point for analytics projects in soccer including EDA of Event data, goal kick analysis, passing analysis, xG modelling, and an introduction to Tracking data; and
+*    [`tracking_tagger`](https://github.com/znstrider/tracking_tagger) by [@danzn1](https://twitter.com/danzn1). See app [[[link](http://tracking-tagger.herokuapp.com/tracking_tagger)];
+*    [`understat-db`](https://github.com/Torvaney/understat-db) - a project to scrape data from [Understat](https://understat.com/) and store it in a Postgres database by [Ben Torvaney](https://twitter.com/Torvaney).
+*    [`Valuing actions in football`](https://github.com/SciSports-Labs/fot-valuing-actions) by [Lotte Bransen](https://twitter.com/LotteBransen) and [Jan Van Haaren](https://twitter.com/JanVanHaaren) of [SciSports](https://www.scisports.com/).
 
 #### R
 *    [`FoundationsInR`](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR) by [Sudarshan Golaladesikan](https://twitter.com/suds_g) - getting started with R using the StatsBomb dataset;
@@ -338,7 +342,8 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [Statsbomb-Json-Parse](https://gallery.alteryx.com/#!app/Statsbomb-Json-Parse/6074ad450462d70960925e72) by [Rob Carroll](https://twitter.com/thevideoanalyst). A small app that lets you input a 
 StatsBomb  JSON file and get a CSV file back (you need to create a free account to run it. For a video explainer, see the following [[link](https://www.youtube.com/watch?v=miM21I-oTf0)];
 *    [ALPHONSO 2.0](https://samgoldberg1882.shinyapps.io/ShinyAlph/) by Sam Goldberg and Mike Imburgio for American Soccer Analysis; and
-*    [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library/)] by Lars Maurath.
+*    [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library/)] by Lars Maurath; and
+*    [Tracking Tagger](http://tracking-tagger.herokuapp.com/tracking_tagger) by [@danzn1](https://twitter.com/danzn1). See GitHub repo [[[link](https://github.com/znstrider/tracking_tagger)].
 
 ### Video analysis
 *    Over 150 video analysis videos by [Carlon Carpenter](https://twitter.com/C_Carpenter14) - see Google Drive [[link](https://t.co/mH9BKFnG6g?amp=1)].
@@ -453,6 +458,11 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Data Based Coaching: How to Incorporate Data-Driven Decision into Your Coaching Workflow](https://www.americansocceranalysis.com/home/2020/3/19/data-based-coaching-how-to-incorporate-data-driven-decisions-into-your-coaching-workflow) by [Kieran Doyle](https://twitter.com/KierDoyle); and
 *    [Coaches Reward Goalscorers. But Should They?](https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt) by [Eliot McKinley](https://twitter.com/etmckinley) and [John Muller](https://twitter.com/johnspacemuller).
 
+#### History of Football Analytics
+*    [Football’s Pioneer – The Charles Reep story](https://thevideoanalyst.com/footballs-pioneer-charles-reep/) by [Rob Carroll](https://twitter.com/thevideoanalyst);
+*    [How One Man’s Bad Math Helped Ruin Decades Of English Soccer](https://fivethirtyeight.com/features/how-one-mans-bad-math-helped-ruin-decades-of-english-soccer/) by [Joe Sykes](https://twitter.com/jykes7) and [Neil Paine](https://twitter.com/Neil_Paine) for [FiveThirtyEight](https://fivethirtyeight.com/);
+*    [Analytics is older than you think: (re)introducing Charles Reep](https://getgoalside.substack.com/p/analytics-is-older-than-you-think) by [Mark Thompson](https://twitter.com/EveryTeam_Mark) for his newsletter [Get Goalside!](https://getgoalside.substack.com/).
+
 #### :pencil2: Blogs and Data Analytics Websites
 *    [11tegen11](https://11tegen11.com/) by [11tegen](https://twitter.com/11tegen11) ([Sander IJtsma](https://twitter.com/IJtsma)];
 *    [21st Club](https://www.21stclub.com/insight/) - blog posts available in hard-copy form in their [Changing the Conversation](https://www.amazon.co.uk/Changing-Conversation-Presents-Collection-Boardrooms/) series;
@@ -484,7 +494,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Football Science](https://www.footballscience.net/) by Michael C. Rumpf;
 *    [Football Whispers](https://www.footballwhispers.com/);
 *    [The Futebolist](https://medium.com/@thefutebolist) by [Ashwin Raman](https://twitter.com/AshwinRaman_);
-*    [Get Goalside!](https://getgoalside.substack.com/);
+*    [Get Goalside!](https://getgoalside.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/);
 *    [Hockey Graphs](https://hockey-graphs.com/);
 *    [Hudl](https://www.hudl.com/blog/);
@@ -499,7 +509,8 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by [Nils Mackay](https://twitter.com/NilsMackay);
 *    [Mackinaw Stats](https://mackayanalytics.nl/) by [Mackinaw Stats](https://twitter.com/mackinawstats);
 *    [Mark's Notebook](https://marksnotebook.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
-*    [MRKT Insights](https://mrktinsights.com/index.php/blog/) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally [Jay Socik](https://twitter.com/Blades_analytic);;
+*    [MRKT Insights](https://mrktinsights.com/index.php/blog/) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally [Jay Socik](https://twitter.com/Blades_analytic);
+*    [Modern Fitba](https://www.modernfitba.com/) (currently archived);
 *    [Ninad Barbadikar Medium blog](https://ninad06.medium.com/) by [Ninad Barbadikar](https://twitter.com/ninadb_06);
 *    [North Yard Analytics](https://www.northyardanalytics.com/blog/) by [Dan Altman](https://twitter.com/NYAsports);
 *    [openGoal](https://www.opengoalapp.com/) by [Charles William](https://twitter.com/openGoalCharles);
@@ -520,6 +531,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [StatsBomb](https://statsbomb.com/articles/);
 *    [Stats Perform](https://www.statsperform.com/resources/);
 *    [Stats and snakeoil](http://www.statsandsnakeoil.com/) by [Ben Torvaney](https://twitter.com/Torvaney);
+*    [Tiago Estêvão's Medium blog](Tiago Estêvão) by [Tiago Estêvão](https://twitter.com/tiagoestv);
 *    [The Analyst](https://www.theanalyst.com/eu/) by Stats Perform;
 *    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant](https://twitter.com/Ciaran_Grant));
 *    [The Power of Goals](https://thepowerofgoals.blogspot.com/);
@@ -545,6 +557,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Stats Perform](https://www.statsperform.com/).
 
 #### :newspaper: News Articles
+*    [Now DeepMind is using AI to transform football](https://www.wired.co.uk/article/deepmind-football-liverpool-ai) (06/05/2021) for [Wired](https://www.wired.co.uk/) by Andrew Powell;
 *    [Kevin De Bruyne uses data analysts to broker £83m Man City contract without agent](https://www.mirror.co.uk/sport/football/news/kevin-de-bruyne-uses-data-23870686) (08/04/2021) by David McDonnell for The Mirror;
 *    [La extraña renovación de De Bruyne: sin agente y usando el 'big data' para calcular su salario](https://www.marca.com/futbol/premier-league/2021/04/07/606de998e2704e7f238b45a9.html) (07/04/2021) for Marca;
 *    [From scouting players on sidelines to sofas – Meet the WyScout generation transforming football analytics](https://inews.co.uk/sport/football/football-analytics-scouting-coaching-wyscout-944940) (07/04/2021) by Pete Hall for iNews;
@@ -587,6 +600,16 @@ John Burn-Murdoch for The FT;
 
 ### :vhs: Videos
 For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I have collated into one single playlist, originally for my own viewing but it may be useful to you, see [[link](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo)]. For Football-specific Data Science lectures and seminars, see [[link](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y)]. For a Tableau Football specific playlist, see [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
+
+#### YouTube playlists
+The following is a series of playlists that that I have collated originally for my own personal viewing for my own viewing but it may be useful to you/
+*    [All Sports Analytics](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo)] - the big playlist of anything at all to do with Sports Analytics and Data Science. Any video I found related to the topic is here;
+*    [Football-specific Data Science lectures and seminars](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y)];
+*    [Tableau Football specific tutorials](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware);
+*    [Tracking data specific](https://www.youtube.com/playlist?list=PL38nJNjpNpH-UX0YVNu7oN5gAWQc2hq8F)
+*    [Football-specific Machine Learning]()
+*    [Football-specific Data Viz](https://www.youtube.com/playlist?list=PL38nJNjpNpH-ortstT_BUSPXFFh7wSSuH)
+*    [Expected Goals](https://www.youtube.com/playlist?list=PL38nJNjpNpH_VPRZJrkaPZOJfyuIaZHUY)
 
 #### :man_teacher: Webinars and Lectures
 *    Laurie Shaw's Metrica Sports Tracking data series for #FoT - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
@@ -713,6 +736,7 @@ Spotify and YouTube links used where available.
 *    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA);
 *    [Training Ground Guru](https://open.spotify.com/show/1Kn9l6LifZ2AWmZri9XWHn);
 *    [Three At The Back](https://open.spotify.com/show/4NbunP2podS7hIPD2BVlYF?si=OFwVjOucQP6LWZmnGmGqjg) by Opta Pro; and
+*    [xPodcast](https://modernfitba.podomatic.com/) by [Modern Fitba](https://www.modernfitba.com/) (Scottish football);
 *    [Zonal Marking](https://open.spotify.com/show/1o2ZogNQQmPKCntcdKnXPT) with [Michael Cox](https://twitter.com/Zonal_Marking), [Tom Worville](https://twitter.com/Worville) and [Ali Maxwell](https://twitter.com/AliMaxwell_).
 
 #### Noteable Episodes (including non-football-data-specific podcasts)
@@ -729,6 +753,9 @@ Spotify and YouTube links used where available.
      +    [47: Wyscout: 550 Mil Futbolistas "concentrados" En Un Software](https://open.spotify.com/episode/7vI1qM7KoJHkFoe11iX3Nj?si=v4BaWwBaSc61y-PM9F-75w)
      +    [35: Big Data Sports - 35: Analistas: Los nuevos "cracks" del fútbol ](https://open.spotify.com/episode/1e8KEFHNvLb5T0HUZS57gN?si=9XlTI81mSaKGYuSK4ADvfQ)
      +    [33: Google + IA = Fútbol en Real Time](https://open.spotify.com/episode/1e8KEFHNvLb5T0HUZS57gN?si=DDGSzoxIQaKnPoaULtMbjQ)
+*    [Campbell's Footballs](https://open.spotify.com/show/5qaFCHefLxznnLm5B63iTs?si=_MhR41aVSKOJgWSXhJva2g) by Dr. Grant Campbell
+     +    [Stevie Grieve](https://open.spotify.com/episode/6SyIYDhpR4JMysKlD3lec7?si=cR6Bv8EFQ4i7uoDcHa9CkA)
+     +    [Colin Cunningham](https://open.spotify.com/episode/4XeVhCwYpAGzWe4ZYiWEG9?si=kCxT4PgrRtWHK7Pz5DQSUg)
 *    [Challengers Podcast](https://challengerspodcast.tumblr.com/):
      +    Expected goals (2016)
 *    [The Conor J Show](https://open.spotify.com/show/2VeRpUoHzC7KN9zxB5N2iz?si=oSMPSpwbR7-IgxSzqlk6Ig):
@@ -764,6 +791,9 @@ Spotify and YouTube links used where available.
      +    [Who Owns Football's Data](https://open.spotify.com/episode/5Cw5ovQ9qH3LEkOhawUXV7?si=jxLNeCXwTL6Z41o6xvDUzw)
      +    Can Data Save Manchester United? Featuring Tom Worville
      +    [Tony Bloom: The Betting Guru Running Brighton](https://open.spotify.com/episode/2N2EMqiyqEjwqdPM6zApIw?si=uhE9VWawSo6jPQfTaIeFCQ)
+*    [I Prefer not to Speak](https://open.spotify.com/show/5bS9EKClOVNLR3XK2JbRgD?si=nwmvUOtQRq2a-4CgC0zyXg)
+     +    [Episode 33 - Discussing Statistics in the Modern Game with James York](https://open.spotify.com/episode/7k3ka0zLyQhoop19IF2tqf?si=ggXjOXknSx-zhNpL-FUm1Q)
+     +    [Episode 30 - Chatting Analysis & Opposition Scouting with Stevie Grieve](https://open.spotify.com/episode/6c1XBuNEJrxAxwp9i0Hj5E?si=zQscQefNT7eEA8Z_N1C05w)
 *    [Life...On Our Terms](https://open.spotify.com/episode/23hx4mkehZiuO4WB4BmLHt?si=_ZTmFPvxTNa8dOyoTTbW2A)
      +    [Sport...On Our Terms ft. Rasmus Ankerson](https://open.spotify.com/episode/23hx4mkehZiuO4WB4BmLHt?si=9SZboq_nThqvZoz1qXAMaA)
 *    [Modern Soccer Coach Podcast](https://open.spotify.com/show/0mxCm5xfR1dH72GBQ5pl6t?si=P-BAw6ePR52yLGCukJyOGg) with Gary Curneen:
@@ -817,6 +847,8 @@ Spotify and YouTube links used where available.
      +    [Kenneth Cortsen talks to Laurie Shaw from Harvard University](https://soundcloud.com/user-736114890/sport-data-analytics-in-football-kenneth-cortsen-talks-to-laurie-shaw-harvard-university) 
 *    [Where Others Won't]() by [Cody Royle](https://open.spotify.com/show/13w1hFUG3jzoA0IrmSlc4m?si=gmYlfec-RyibIf7fC6QMMQ):
      +    [Rasmus Ankersen - Discovering Talent](https://open.spotify.com/episode/7lkkikNGL4F1cfZy1I4kPK?si=CYWpdhF9SFWr-v605Jb64w)   
+*    [View From The Byline](https://open.spotify.com/show/5CNA9arsI2RZvOF32k19Av?si=mkJf-XeeTR6rh7IKCpFqgQ)
+     +    [Football analytics, life at The Athletic and Fantasy Football with Tom Worville](https://open.spotify.com/episode/6Sozmea5HVr3fULk3SNFa2?si=AQB9fbVPR-29TVS7zaM6xw)
 
 ### :man_technologist: Notable Figures / Twitter Accounts
 *    [2020 Analytics Twitter Top 1,000 Power Rankings](https://github.com/anenglishgoat/analyticsTwitterInteractions/blob/main/AnalyticsTwitterPageRank.csv), calculated by [Will Thomson](https://twitter.com/AnEnglishGoat). See the Twitter list created by [Luton Town Analytics](https://twitter.com/LutonAnalytics) [[link](https://twitter.com/i/lists/1341323211993182208)];
@@ -894,6 +926,10 @@ Includes non-football competitions.
 *    [Global Sports](https://www.globalsportsjobs.com/jobs);
 *    [Smart Odds](https://www.smartodds.co.uk/Careers/Vacancies); and
 *    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/).
+
+### Discord/Slack groups
+*    [Football Analytics Discord](https://discord.gg/WFdRWHK7HG) organised by [McKay Johns](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbF9HSi1vUkxXdDJIV2NUczFBQlhYNW1VdlJ0Z3xBQ3Jtc0trZWtUdUJnYzRsVE1TNVl0am9KWlRaZEIwMzFZb0xvRGtLaUwtSFdaZXVMYl9fTk42Vy0wZVlRdk5uY3Q1d09RamZqaDJpeHVnMGhwM2dZX0RlMUxwbm9lRC16ZkpMOW01SXRaQVRibjhlWllpZDhPZw&q=https%3A%2F%2Ftwitter.com%2Fmckayjohns); and
+*    [Uppsala Mathematical Modelling of Football Slack group](http://mathematicalm-fhj6138.slack.com)] organised by [Novosom Salvador](https://twitter.com/novosomsalvador).
 
 ### :key: Key Concepts
 References to resources organised by topic.
