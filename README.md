@@ -604,8 +604,8 @@ John Burn-Murdoch for The FT;
 For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I have collated into one single playlist, originally for my own viewing but it may be useful to you, see [[link](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo)]. For Football-specific Data Science lectures and seminars, see [[link](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y)]. For a Tableau Football specific playlist, see [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
 #### YouTube playlists
-The following is a series of playlists that that I have collated originally for my own personal viewing for my own viewing but it may be useful to you:
-*    [All Sports Analytics](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo) - the huge playlist of around 800 video that includes anything at all to do with Sports Analytics and Data Science. Any video found related to the topic is here;
+The following is a series of playlists that that I have collated originally for my own personal viewing but they may be useful to you:
+*    [All Sports Analytics](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo) - a huge playlist of around 800 video that includes anything at all to do with Sports Analytics and Data Science. Any video found related to the topic is here;
 *    [Football-specific Data Science lectures and seminars](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y) - presentations and seminars from conferances;
 *    [Football-specific Tableau tutorials](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware);
 *    [Football-specific Machine Learning](https://www.youtube.com/playlist?list=PL38nJNjpNpH9qHDsDLgmUow2onH0KJgFF);
