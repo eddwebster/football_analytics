@@ -72,15 +72,6 @@ For more information about this repository and the author, I'm available through
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- OREREQUISITES -->
-<h2 id="about-the-project"> :pencil: Prerequisites</h2>
-
-<p align="justify"> 
-  None. An interest in football analytics and a interest in self-learning.
-</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
 
