@@ -10,8 +10,13 @@ I am currently rewriting this README to include links not only to my own work, b
 
 If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
-## :wave: About This Repository and Author
-Please note, all the work produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ABOUT THE PROJECT -->
+<h2 id="about-the-project"> :wave: About This Repository and Author</h2>
+
+<p align="justify"> 
+  Please note, all the work produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
 
 For more information about this repository and the author, I'm available through all the following channels:
 *    [eddwebster.com](https://www.eddwebster.com/);
@@ -20,6 +25,7 @@ For more information about this repository and the author, I'm available through
 *    [linkedin.com/in/eddwebster](https://www.linkedin.com/in/eddwebster/);
 *    [github/eddwebster](https://github.com/eddwebster/); and
 *    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
@@ -34,7 +40,6 @@ For more information about this repository and the author, I'm available through
     <li><a href="#notebooks"> ➤ Notebooks</a></li>
     <li><a href="#data-visualisation-and-tableau"> ➤ Data Visualisation and Tableau</a></li>
     <li><a href="#data-sources"> ➤ Data Sources</a></li>
-    <li><a href="#libraries"> ➤ Libraries</a></li>
     <li>
       <a href="#Resources"> ➤ Resources</a>
       <ul>
@@ -63,15 +68,6 @@ For more information about this repository and the author, I'm available through
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- ABOUT THE PROJECT -->
-<h2 id="about-the-project"> :pencil: About This Repository</h2>
-
-<p align="justify"> 
-  ...
-</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
 
@@ -81,11 +77,16 @@ For more information about this repository and the author, I'm available through
 <!--This project is written in Python programming language. <br>-->
 None. An interest in football analytics and a interest in self-learning.
 
-The following open source packages are used in this project:
-*    Numpy
-*    pandas
-*    matplotlib
-*    Scikit-Learn
+The following open source Python packages are used in this project:
+*    [NumPy](https://numpy.org/doc/stable/contents.html);
+*    [pandas](http://pandas.pydata.org/);
+*    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018);
+*    [Plotly](https://plotly.com/);
+*    [record linkage](https://recordlinkage.readthedocs.io/en/latest/about.html);
+*    [scikit-learn](https://scikit-learn.org/stable/);
+*    [SciPy](https://www.scipy.org/);
+*    [XGBoost](https://xgboost.readthedocs.io/en/latest/); and
+*    [SHAP](https://github.com/slundberg/shap)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -95,6 +96,38 @@ The following open source packages are used in this project:
     code
     .
     │
+    ├── dashboards
+    │
+    ├── data
+    │
+    ├── documentation
+    │
+    ├── gif
+    │
+    ├── img
+    │
+    ├── notebooks
+    │   ├── 1_data_scraping
+    │   │
+    │   ├── 2_data_parsing
+    │   │
+    │   ├── 3_data_parsing
+    │   │
+    │   ├── 4_data_parsing
+    │   │
+    │   ├── 5_data_parsing
+    │   │
+    │   ├── 6_data_parsing
+    │   │
+    │
+    ├── research
+    │
+    ├── scripts
+    │
+    ├── spreadsheets
+    │
+    ├── video
+    │  
     ├── data
     │   ├── raw_data
     │   │   ├── phone
@@ -179,18 +212,6 @@ Data sources featured in this repository include:
      -    EPV grid by [Laurie Shaw](https://twitter.com/EightyFivePoint) [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking/blob/master/EPV_grid.csv)]
      -    Zones on a pitch for Tableau visualisation by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://drive.google.com/drive/folders/1Se0DFtsjQWmnt-G9Ihn_w8EQE4EZiblD)]
      -    Alphabetic country codes [[link](https://en.wikipedia.org/wiki/Comparison_of_alphabetic_country_codes)]
-
-## :classical_building: Libaries
-The [Python](https://www.python.org/) libraries used in this repository include:
-*    [NumPy](https://numpy.org/doc/stable/contents.html);
-*    [pandas](http://pandas.pydata.org/);
-*    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018);
-*    [Plotly](https://plotly.com/);
-*    [record linkage](https://recordlinkage.readthedocs.io/en/latest/about.html);
-*    [scikit-learn](https://scikit-learn.org/stable/);
-*    [SciPy](https://www.scipy.org/);
-*    [XGBoost](https://xgboost.readthedocs.io/en/latest/); and
-*    [SHAP](https://github.com/slundberg/shap)
 
 ## :bookmark_tabs: Resources
 
