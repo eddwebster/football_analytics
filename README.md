@@ -21,31 +21,131 @@ For more information about this repository and the author, I'm available through
 *    [github/eddwebster](https://github.com/eddwebster/); and
 *    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
 
+<!-- TABLE OF CONTENTS -->
+<h2 id="table-of-contents"> :book: Table of Contents</h2>
 
-## :clipboard: Contents:
-*    [Notebooks](#notebook_with_decorative_cover-notebooks)
-*    [Data Visualisation and Tableau](#bar_chart-data-visualisation-and-tableau)
-*    [Data Sources](#floppy_disk-data-sources)
-*    [Libraries](#classical_building-libaries-1)
-*    [Resources](#bookmark_tabs-resources)
-     +    [Tutorials](#student-tutorials)
-     +    [Data Sources](#floppy_disk-data-sources-1)
-     +    [Libraries](#libraries)
-     +    [GitHub Repositories](#github-repositories)
-     +    [Papers](#page_with_curl-papers)
-     +    [Written Pieces](#books-written-pieces)
-     +    [Videos](#vhs-videos)
-     +    [Books](#books-books)
-     +    [Podcasts](#loud_sound-podcasts)
-     +    [Notable Figures / Twitter Accounts](#man_technologist-notable-figures--twitter-accounts)
-     +    [Career Advice](#career-advice)
-     +    [Events and Conferences](#spiral_calendar-events-and-conferences)
-     +    [Competitions](#competitions)
-     +    [Courses](#courses)
-     +    [Jobs](#briefcase-jobs)
-     +    [Key Concepts](#key-key-concepts) (TBA)
-     +    [Miscellaneous](#grey_question-miscellaneous)
-     +    [Credits](#credits)
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-this-project"> ➤ About This Repository</a></li>
+    <li><a href="#overview"> ➤ Overview</a></li>
+    <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
+    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
+    <li><a href="#notebooks"> ➤ Notebooks</a></li>
+    <li><a href="#data-visualisation-and-tableau"> ➤ Data Visualisation and Tableau</a></li>
+    <li><a href="#data-sources"> ➤ Data Sources</a></li>
+    <li><a href="#libraries"> ➤ Libraries</a></li>
+    <li>
+      <a href="#Resources"> ➤ Resources</a>
+      <ul>
+        <li><a href="#tutorials"></a>Tutorials</li>
+        <li><a href="#data-sources"></a>Data Sources</li>
+        <li><a href="#libraries"></a>Libraries</li>
+        <li><a href="#github-repositories"></a>GitHub Repositories</li>
+        <li><a href="#papers"></a>Papers</li>
+        <li><a href="#written-pieces"></a>Written Pieces</li>
+        <li><a href="#videos"></a>Videos</li>
+        <li><a href="#books"></a>Books</li>
+        <li><a href="#podcasts"></a>Podcasts</li>
+        <li><a href="#notable-figures-/-twitter-accounts"></a>Notable Figures / Twitter Accounts</li>
+        <li><a href="#career-advice"></a>Career Advice</li>
+        <li><a href="#events-and-conferences"></a>Events and Conferences</li>
+        <li><a href="#competitions"></a>Competitions</li>
+        <li><a href="#courses"></a>Courses</li>
+        <li><a href="#jobs"></a>Jobs</li>
+        <li><a href="#key-concepts"></a>Key Concepts</li>
+        <li><a href="#miscellaneous"></a>Miscellaneous</li>
+        <li><a href="#credits"></a>Credits</li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ABOUT THE PROJECT -->
+<h2 id="about-the-project"> :pencil: About This Repository</h2>
+
+<p align="justify"> 
+  ...
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- OREREQUISITES -->
+<h2 id="about-the-project"> :pencil: Prerequisites</h2>
+
+<p align="justify"> 
+  None. An interest in football analytics and a interest in self-learning.
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- PREREQUISITES -->
+<h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
+
+<!--This project is written in Python programming language. <br>-->
+None. An interest in football analytics and a interest in self-learning.
+
+The following open source packages are used in this project:
+*    Numpy
+*    pandas
+*    matplotlib
+*    Scikit-Learn
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- FOLDER STRUCTURE -->
+<h2 id="folder-structure"> :cactus: Folder Structure</h2>
+
+    code
+    .
+    │
+    ├── data
+    │   ├── raw_data
+    │   │   ├── phone
+    │   │   │   ├── accel
+    │   │   │   └── gyro
+    │   │   ├── watch
+    │   │       ├── accel
+    │   │       └── gyro
+    │   │
+    │   ├── transformed_data
+    │   │   ├── phone
+    │   │   │   ├── accel
+    │   │   │   └── gyro
+    │   │   ├── watch
+    │   │       ├── accel
+    │   │       └── gyro
+    │   │
+    │   ├── feature_label_tables
+    │   │    ├── feature_phone_accel
+    │   │    ├── feature_phone_gyro
+    │   │    ├── feature_watch_accel
+    │   │    ├── feature_watch_gyro
+    │   │
+    │   ├── wisdm-dataset
+    │        ├── raw
+    │        │   ├── phone
+    │        │   ├── accel
+    │        │   └── gyro
+    │        ├── watch
+    │            ├── accel
+    │            └── gyro
+    │
+    ├── CNN_Impersonal_TransformedData.ipynb
+    ├── CNN_Personal_TransformedData.ipynb  
+    ├── CNN_Impersonal_RawData.ipynb    
+    ├── CNN_Personal_RawData.ipynb 
+    ├── Classifier_SVM_Personal.ipynb
+    ├── Classifier_SVM_Impersonal.ipynb
+    ├── statistical_analysis_time_domain.py
+    ├── Topological data analysis.ipynb  
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## :notebook_with_decorative_cover: Notebooks
 For code, see the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
