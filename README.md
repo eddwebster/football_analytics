@@ -43,24 +43,24 @@ For more information about this repository and the author, I'm available through
     <li>
       <a href="#Resources"> ➤ Resources</a>
       <ul>
-        <li><a href="#tutorials"></a>Tutorials</li>
-        <li><a href="#data-sources"></a>Data Sources</li>
-        <li><a href="#libraries"></a>Libraries</li>
-        <li><a href="#github-repositories"></a>GitHub Repositories</li>
-        <li><a href="#papers"></a>Papers</li>
-        <li><a href="#written-pieces"></a>Written Pieces</li>
-        <li><a href="#videos"></a>Videos</li>
-        <li><a href="#books"></a>Books</li>
-        <li><a href="#podcasts"></a>Podcasts</li>
-        <li><a href="#notable-figures-/-twitter-accounts"></a>Notable Figures / Twitter Accounts</li>
-        <li><a href="#career-advice"></a>Career Advice</li>
-        <li><a href="#events-and-conferences"></a>Events and Conferences</li>
-        <li><a href="#competitions"></a>Competitions</li>
-        <li><a href="#courses"></a>Courses</li>
-        <li><a href="#jobs"></a>Jobs</li>
-        <li><a href="#key-concepts"></a>Key Concepts</li>
-        <li><a href="#miscellaneous"></a>Miscellaneous</li>
-        <li><a href="#credits"></a>Credits</li>
+        <li><a href="#tutorials">Tutorials</a></li>
+        <li><a href="#data-sources">Data Sources</a></li>
+        <li><a href="#libraries">Libraries</a></li>
+        <li><a href="#github-repositories">GitHub Repositories</a></li>
+        <li><a href="#papers">Papers</a></li>
+        <li><a href="#written-pieces">Written Pieces</a></li>
+        <li><a href="#videos">Videos</a></li>
+        <li><a href="#books">Books</a></li>
+        <li><a href="#podcasts">Podcasts</a></li>
+        <li><a href="#notable-figures-/-twitter-accounts">Notable Figures / Twitter Accounts</a></li>
+        <li><a href="#career-advice">Career Advice</a></li>
+        <li><a href="#events-and-conferences">Events and Conferences</a></li>
+        <li><a href="#competitions">Competitions</a></li>
+        <li><a href="#courses">Courses</a></li>
+        <li><a href="#jobs">Jobs</a></li>
+        <li><a href="#key-concepts">Key Concepts</a></li>
+        <li><a href="#miscellaneous">Miscellaneous</a></li>
+        <li><a href="#credits">Credits</a></li>
       </ul>
     </li>
   </ol>
