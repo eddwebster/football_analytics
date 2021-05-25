@@ -6,7 +6,7 @@ This repository is a public space for the football analytics projects by [Edd We
 </p>
 
 
-I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below. If you can think of any resources that I've missed, feel free to create a pull request or send me a message. Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), which were all used to plug gaps in the list once it was published.
+I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below. If you can think of any resources that I've missed, feel free to create a pull request or send me a message. Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), which were all used to plug gaps in the list once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this readme.
 
 If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
@@ -111,13 +111,13 @@ The following open source Python packages are used in this project:
     │   │
     │   ├── 2_data_parsing
     │   │
-    │   ├── 3_data_parsing
+    │   ├── 3_data_engineering
     │   │
-    │   ├── 4_data_parsing
+    │   ├── 4_machine_learning
     │   │
-    │   ├── 5_data_parsing
+    │   ├── 5_data_analysis_and_projects
     │   │
-    │   ├── 6_data_parsing
+    │   ├── 6_data_visualisation
     │   │
     │
     ├── research
@@ -127,47 +127,7 @@ The following open source Python packages are used in this project:
     ├── spreadsheets
     │
     ├── video
-    │  
-    ├── data
-    │   ├── raw_data
-    │   │   ├── phone
-    │   │   │   ├── accel
-    │   │   │   └── gyro
-    │   │   ├── watch
-    │   │       ├── accel
-    │   │       └── gyro
-    │   │
-    │   ├── transformed_data
-    │   │   ├── phone
-    │   │   │   ├── accel
-    │   │   │   └── gyro
-    │   │   ├── watch
-    │   │       ├── accel
-    │   │       └── gyro
-    │   │
-    │   ├── feature_label_tables
-    │   │    ├── feature_phone_accel
-    │   │    ├── feature_phone_gyro
-    │   │    ├── feature_watch_accel
-    │   │    ├── feature_watch_gyro
-    │   │
-    │   ├── wisdm-dataset
-    │        ├── raw
-    │        │   ├── phone
-    │        │   ├── accel
-    │        │   └── gyro
-    │        ├── watch
-    │            ├── accel
-    │            └── gyro
-    │
-    ├── CNN_Impersonal_TransformedData.ipynb
-    ├── CNN_Personal_TransformedData.ipynb  
-    ├── CNN_Impersonal_RawData.ipynb    
-    ├── CNN_Personal_RawData.ipynb 
-    ├── Classifier_SVM_Personal.ipynb
-    ├── Classifier_SVM_Impersonal.ipynb
-    ├── statistical_analysis_time_domain.py
-    ├── Topological data analysis.ipynb  
+    │ 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -1216,4 +1176,4 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf).
 
 ### Credits
-Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), the [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html) which were all used to plug gaps in the list once it was published.
+Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), the [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html) which were all used to plug gaps in the list once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this readme.
