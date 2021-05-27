@@ -49,7 +49,6 @@ For more information about this repository and the author, I'm available through
     <li>
       <a href="#Resources"> ➤ Resources</a>
       <ul>
-        <li><a href="#about-this-repository">About This Repository</a></li>
         <li><a href="#tutorials">Tutorials</a></li>
         <li><a href="#data-all">Data Sources</a></li>
         <li><a href="#libraries">Libraries</a></li>
