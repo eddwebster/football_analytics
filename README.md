@@ -11,9 +11,10 @@ I recently rewrote this README to include links not only to my own work, but als
 
 If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
-<a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="182px"></a>
-
 For more information about this repository and the author, I'm available through all the following channels:
+
+<a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="200px"></a>
+
 *    [eddwebster.com](https://www.eddwebster.com/);
 *    edd.j.webster@gmail.com;
 *    [@eddwebster](https://www.twitter.com/eddwebster);
