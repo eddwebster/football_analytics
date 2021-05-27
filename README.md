@@ -38,13 +38,13 @@ For more information about this repository and the author, I'm available through
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
     <li><a href="#notebooks"> ➤ Notebooks</a></li>
-    <li><a href="#data-visualisation-and-tableau"> ➤ Data Visualisation and Tableau</a></li>
+    <li><a href="#data-visualisation-and-tableau-dashboards"> ➤ Data Visualisation and Tableau</a></li>
     <li><a href="#data-sources"> ➤ Data Sources</a></li>
     <li>
       <a href="#Resources"> ➤ Resources</a>
       <ul>
         <li><a href="#tutorials">Tutorials</a></li>
-        <li><a href="#data-sources">Data Sources</a></li>
+        <li><a href="#data-sources-all">Data Sources</a></li>
         <li><a href="#libraries">Libraries</a></li>
         <li><a href="#github-repositories">GitHub Repositories</a></li>
         <li><a href="#papers">Papers</a></li>
@@ -149,7 +149,7 @@ Nearly all code in this repository is in Jupyter notebooks, organised in the fol
 
 
 <!-- DATA VISUALISATION AND TABLEAU DASHBOARDS -->
-<h2 id="data-visualisation-and-dashboards"> :notebook_with_decorative_cover: Data Visualisation and Tableau Dashboards</h2>
+<h2 id="data-visualisation-and-tableau-dashboards"> :notebook_with_decorative_cover: Data Visualisation and Tableau Dashboards</h2>
 
 For Tableau dashboards produced using the data engineered in the notebooks in this repository, please see my Tableau Public profile: [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
 
@@ -286,7 +286,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 
 *    [@maramperninety](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f).
 
-<h3 id="data-sources"> :floppy_disk: Data Sources</h3>
+<h3 id="data-sources-all"> :floppy_disk: Data Sources</h3>
 
 All publicly available data sources and datasets relating to football, from Tracking data, Event data, aggregated player performance data, detailed match statistics, injury records and transfer values, and more.
 
