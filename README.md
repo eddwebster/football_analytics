@@ -43,21 +43,27 @@ For more information about this repository and the author, I'm available through
     <li>
       <a href="#Resources"> ➤ Resources</a>
       <ul>
+        <li><a href="#getting-started-with-football-analytics">Getting Started with Football Analytics</a></li>
         <li><a href="#tutorials">Tutorials</a></li>
         <li><a href="#data-sources-all">Data Sources</a></li>
         <li><a href="#libraries">Libraries</a></li>
         <li><a href="#github-repositories">GitHub Repositories</a></li>
+        <li><a href="#apps">Apps</a></li>
+        <li><a href="#video-analysis">Video Analysis</a></li>
+        <li><a href="#data-visualisation-tools">Data Visualisation Tools</a></li>
         <li><a href="#papers">Papers</a></li>
         <li><a href="#written-pieces">Written Pieces</a></li>
         <li><a href="#videos">Videos</a></li>
         <li><a href="#books">Books</a></li>
+        <li><a href="#magazines">Magazines</a></li>
         <li><a href="#podcasts">Podcasts</a></li>
-        <li><a href="#notable-figures-/-twitter-accounts">Notable Figures / Twitter Accounts</a></li>
+        <li><a href="#notable-figures-and-twitter-accounts">Notable Figures and Twitter Accounts</a></li>
         <li><a href="#career-advice">Career Advice</a></li>
         <li><a href="#events-and-conferences">Events and Conferences</a></li>
         <li><a href="#competitions">Competitions</a></li>
         <li><a href="#courses">Courses</a></li>
         <li><a href="#jobs">Jobs</a></li>
+        <li><a href="#discord-slack-groups">Discord / Slack Groups</a></li>
         <li><a href="#key-concepts">Key Concepts</a></li>
         <li><a href="#miscellaneous">Miscellaneous</a></li>
         <li><a href="#credits">Credits</a></li>
@@ -461,6 +467,15 @@ StatsBomb  JSON file and get a CSV file back (you need to create a free account 
 <h3 id="video-analysis"> Video Analysis</h3>
   
 *    Over 150 video analysis videos by [Carlon Carpenter](https://twitter.com/C_Carpenter14) - see Google Drive [[link](https://t.co/mH9BKFnG6g?amp=1)].
+
+
+<h3 id="data-visualisation-tools"> Data Visualisation Tools</h3>
+
+Resources to aid data visualisation:
+
+*    [Club crests](https://drive.google.com/drive/folders/1R22tOjU-gjJ3QDzwUZ8JlXGjtO4O_XaJ) available to download, put together by [Ninad Barbadikar](https://twitter.com/NinadB_06);
+*    [Team colour codes](https://teamcolorcodes.com/), for the HEX, RGB, and HSL colours of top flight football teams; and
+*    [Pitch templates](https://www.dropbox.com/sh/y4gg8koaedi659r/AACBw3rEIbnLp7Zi91SUtwaFa?dl=0), put together by [Tony Bambrick](https://twitter.com/TonyBambrick) (see tweet [[link](https://twitter.com/TonyBambrick/status/1382314456131198976)]).
 
 
 <h3 id="papers"> :page_with_curl: Papers</h3>
@@ -1270,11 +1285,8 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h3 id="miscallaneous"> :grey_question: Miscellaneous</h3>
 
-*    [Club crests](https://drive.google.com/drive/folders/1R22tOjU-gjJ3QDzwUZ8JlXGjtO4O_XaJ) available to download, put together by [Ninad Barbadikar](https://twitter.com/NinadB_06);
-*    [Pitch templates](https://www.dropbox.com/sh/y4gg8koaedi659r/AACBw3rEIbnLp7Zi91SUtwaFa?dl=0), put together by [Tony Bambrick](https://twitter.com/TonyBambrick) (see tweet [[link](https://twitter.com/TonyBambrick/status/1382314456131198976)]);
 *    [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/);
 *    [A collated list of Expected Goals literature collated](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit) by [Keith Lyons](https://twitter.com/520507);
-*    [Expected Goal literature](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit) by ;
 *    [FIFA EPTS (Electronic Performance and Tracking Systems)](https://football-technology.fifa.com/en/media-tiles/epts/);
 *    [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport); and
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf).
