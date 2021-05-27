@@ -1,20 +1,23 @@
-# Edd Webster Football Analytics
-This repository is a public space for the football analytics projects by [Edd Webster](https://twitter.com/eddwebster) and a list of publicly available resources published by the football analytics community.
+<h1 align="center"> Edd Webster Football Analytics </h1>
+<h3 align="center"> A public space for football analytics projects by <a href="https://twitter.com/eddwebster">Edd Webster</a> and a list of publicly available resources published by the football analytics community. </h3>  
 
-<p align="center">
-  <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png"></a>
+</br>
+
+<p align="center"> 
+  <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster"></a>
 </p>
 
-
-I am currently rewriting this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below. If you can think of any resources that I've missed, feel free to create a pull request or send me a message. Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), which were all used to plug gaps in the list once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this readme.
-
-If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :wave: About This Repository and Author</h2>
+This repository is a public space for the football analytics projects by [Edd Webster](https://twitter.com/eddwebster) and a list of publicly available resources published by the football analytics community.
+
+I recently rewrote this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This is currently in progress and could still do with a bit of editing, but most of the content is now available below. If you can think of any resources that I've missed, feel free to create a pull request or send me a message. Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), which were all used to plug gaps in the list once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this readme.
+
+If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
 Please note, all the work produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
 
@@ -36,6 +39,7 @@ For more information about this repository and the author, I'm available through
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
+    <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
     <li><a href="#notebooks"> ➤ Notebooks</a></li>
     <li><a href="#data-visualisation-and-tableau-dashboards"> ➤ Data Visualisation and Tableau</a></li>
@@ -43,7 +47,7 @@ For more information about this repository and the author, I'm available through
     <li>
       <a href="#Resources"> ➤ Resources</a>
       <ul>
-        <li><a href="#getting-started-with-football-analytics">Getting Started with Football Analytics</a></li>
+        <li><a href="#about-this-repository">About This Repository</a></li>
         <li><a href="#tutorials">Tutorials</a></li>
         <li><a href="#data-sources-all">Data Sources</a></li>
         <li><a href="#libraries">Libraries</a></li>
