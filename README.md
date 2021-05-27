@@ -1113,23 +1113,29 @@ The following includes non-football competitions.
 
 <h3 id="jobs"> :briefcase: Jobs</h3>
 
-*    [The Video Analyst](https://thevideoanalyst.com/jobs/) - Rob Carroll posts many of the jobs going in football on his own website. Make sure to also follow him on Twitter ([@thevideoanalyst](https://twitter.com/thevideoanalyst));
-*    [City Football Insights](https://twitter.com/CFG_Insights):
-*    [Opta](https://www.optasports.com/about/work-for-opta/);
-*    [Stats Perform Job Opportunities](https://www.optasports.com/about/work-for-stats-perform/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
-*    [Statsbomb](https://statsbomb.com/careers/);
-*    [Wyscout](https://wyscout.com/careers/#job-openings) and careers@wyscout.com;
-*    [Hudl](https://www.hudl.com/jobs#jobs);
-*    [Metrica Sports](https://apply.workable.com/metrica-sports/);
-*    [Second Spectrum](https://www.secondspectrum.com/careers/opportunities.html);
-*    [SciSports](https://www.scisports.com/jobs/);
-*    [Football Radar](https://www.footballradar.com/careers/);
-*    [Genius Sports](https://www.geniussports.com/careers) and [link](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123);
-*    [Gracenote](https://www.gracenote.com/company/careers/) and [link](https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville);
-*    [Global Sports](https://www.globalsportsjobs.com/jobs);
-*    [Smart Odds](https://www.smartodds.co.uk/Careers/Vacancies); and
-*    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/).
-
+*    [The Video Analyst](https://thevideoanalyst.com/jobs/) - [Rob Carroll](https://twitter.com/thevideoanalyst) posts many of the jobs going in football on his own website. Make sure to also follow him on Twitter ([@thevideoanalyst](https://twitter.com/thevideoanalyst));
+*    Job sites:
+     +    [The Football Scouts](https://www.thefootballscouts.com/live-jobs) - looks really good!
+     +    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/)
+*    Data companies:
+     +    [Statsbomb](https://statsbomb.com/careers/)
+     +    [Opta](https://www.optasports.com/about/work-for-opta/)
+     +    [Stats Perform Job Opportunities](https://www.optasports.com/about/work-for-stats-perform/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
+     +    [Wyscout](https://wyscout.com/careers/#job-openings) and careers@wyscout.com
+     +    [Hudl](https://www.hudl.com/jobs#jobs)
+     +    [Metrica Sports](https://apply.workable.com/metrica-sports/)
+     +    [Second Spectrum](https://www.secondspectrum.com/careers/opportunities.html)
+     +    [SciSports](https://www.scisports.com/jobs/)
+     +    [Gracenote](https://www.gracenote.com/company/careers/) and [link](https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville)
+     +    [Genius Sports](https://www.geniussports.com/careers) and [link](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123);
+*    Clubs (this list could become quite long but I've included the ones I've got round to seeing, so far:
+     +    [City Football Group](https://www.cityfootballgroup.com/careers/football/). See also the [City Football Insights Twitter account](https://twitter.com/CFG_Insights)
+     +    [Arsenal](https://www.arsenaljobs.com/)
+*    Betting companies:
+     +    [Smart Odds](https://www.smartodds.co.uk/Careers/Vacancies)
+*    Others / to sort:
+     +    [Global Sports](https://www.globalsportsjobs.com/jobs)
+     +    [Football Radar](https://www.footballradar.com/careers/)
 
 <h3 id="discord-slack-groups"> Discord/Slack groups</h3>
 
