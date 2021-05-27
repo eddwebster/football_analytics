@@ -441,7 +441,7 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [`understat-db`](https://github.com/Torvaney/understat-db) - a project to scrape data from [Understat](https://understat.com/) and store it in a Postgres database by [Ben Torvaney](https://twitter.com/Torvaney).
 *    [`Valuing actions in football`](https://github.com/SciSports-Labs/fot-valuing-actions) by [Lotte Bransen](https://twitter.com/LotteBransen) and [Jan Van Haaren](https://twitter.com/JanVanHaaren) of [SciSports](https://www.scisports.com/).
 
-<h4 id="r"> R/h4>
+<h4 id="r"> R</h4>
 
 *    [`FoundationsInR`](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR) by [Sudarshan Golaladesikan](https://twitter.com/suds_g) - getting started with R using the StatsBomb dataset;
 *    [`soccerAnimate`](https://github.com/Dato-Futbol/soccerAnimate) - an R package to create 2D animations of soccer tracking data;
@@ -754,7 +754,8 @@ John Burn-Murdoch for The FT;
 
 For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I have collated into one single playlist, originally for my own viewing but it may be useful to you, see [[link](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo)]. For Football-specific Data Science lectures and seminars, see [[link](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y)]. For a Tableau Football specific playlist, see [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
-#### YouTube playlists
+<h4 id="youtube-playlists"> YouTube playlists</h4>
+
 The following is a series of playlists that that I have collated originally for my own personal viewing but they may be useful to you:
 *    [All Sports Analytics](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo) - a huge playlist of around 800 video that includes anything at all to do with Sports Analytics and Data Science. Any video found related to the topic is here;
 *    [Football-specific Data Science lectures and seminars](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y) - presentations and seminars from conferances;
@@ -764,7 +765,8 @@ The following is a series of playlists that that I have collated originally for 
 *    [Tracking data](https://www.youtube.com/playlist?list=PL38nJNjpNpH-UX0YVNu7oN5gAWQc2hq8F) - all videos related to the topic of Tracking data include presentations and tutorials;
 *    [Expected Goals](https://www.youtube.com/playlist?list=PL38nJNjpNpH_VPRZJrkaPZOJfyuIaZHUY)
 
-#### :man_teacher: Webinars and Lectures
+<h4 id="webinars-and-lectures"> Webinars and Lectures</h4>
+
 *    Laurie Shaw's Metrica Sports Tracking data series for #FoT - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
 *    Lotte Bransen and Jan Van Haaren's 'Valuating Actions in Football' series for #FoT - [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0), [Valuing Actions in Football 1: From Wyscout Data to Rating Players](https://www.youtube.com/watch?v=0ol_eLLEQ64), [Valuing Actions in Football 2: Generating Features](https://www.youtube.com/watch?v=Ep9wXQgAFaE&t=42s), [Valuing Actions in Football 3: Training Machine Learning Models](https://www.youtube.com/watch?v=WlORqYIb-Gg), and [Valuing Actions in Football 4: Analyzing Models and Results](https://www.youtube.com/watch?v=w9G0z3eGCj8). See the following for code [[link](https://github.com/SciSports-Labs/fot-valuing-actions)];
 *    David Sumpter's Expected Goals webinars for #FoT - [How to Build An Expected Goals Model 1: Data and Model](https://www.youtube.com/watch?v=bpjLyFyLlXs), [How to Build An Expected Goals Model 2: Statistical fitting](https://www.youtube.com/watch?v=wHOgINJ5g54), and [The Ultimate Guide to Expected Goals](https://www.youtube.com/watch?v=310_eW0hUqQ). See the following for code [3xGModel](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/3xGModel.py), [4LinearRegression](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/4LinearRegression.py), [5xGModelFit.py](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/5xGModelFit.py), and [6MeasuresOfFit](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/6MeasuresOfFit.py);
@@ -803,23 +805,28 @@ The following is a series of playlists that that I have collated originally for 
 *    [Goals change games](https://youtu.be/IvWT7iE1iUs) by [Garry Gelade](https://twitter.com/GarryGelade)
 *    [Expected goals](https://youtu.be/3rsDCxszCD0) by Dan Altman
 
-#### Ted Talks
+<h4 id="ted-talks"> Ted Talks</h4>
+
 *    [What Football Analytics can Teach Successful Organisation](https://www.youtube.com/watch?v=Sy2vc9lW5r0) by [Rasmus Ankersen](https://twitter.com/RasmusAnkersen);
 *    [Soccermatics: how maths explains football](https://www.youtube.com/watch?v=Nv7JYtVbzvI) by [David Sumpter](https://twitter.com/Soccermatics)
 *    [Changing the soccer transfer market with big data](https://www.youtube.com/watch?v=UMeDP-lIBD8) by [Giels Brouwer](https://twitter.com/gielsbrouwer)
 
-#### Documentaries
+<h4 id="documentaries"> Documentaries</h4>
+
 *    [The Numbers Game: How Data Is Changing Football](https://www.youtube.com/watch?v=lLcXH_4rwr4) - FourFourTwo Documentary;
 *    [How Stats Won Football: From Moneyball to FC Midtjylland](https://www.youtube.com/watch?v=s6UcNGzE8sU) – COPA90 Stories Documentary;
 
-#### Match Highlights
+<h4 id="match-highlights"> Match Highlights</h4>
+
 *    [Footballia](https://footballia.net/) - historical matches and highlights
 
-#### Others
+<h4 id="others"> Others</h4>
+
 *    [Jeff Stelling xG rant](https://facebook.com/SoccerAM/videos/1740454985978128/); and
 *    [Craig Burley xG rant](https://www.youtube.com/watch?v=JBWKGij9Y5A).
 
-#### YouTube Channels
+<h4 id="youtube-channels"> YouTube Channels</h4>
+
 *    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Javier Fernández](https://twitter.com/JaviOnData), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Pascal Bauer](https://twitter.com/pascal_bauer), and [Fran Peralta](https://twitter.com/PeraltaFran23);
 *    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg) - for Python tutorials;
 *    [Barça Innovation Hub](https://www.youtube.com/channel/UC58nLq78KZGqxfSNFNRCgsQ) (English and Spanish);
@@ -868,7 +875,8 @@ The following is a series of playlists that that I have collated originally for 
 
 Spotify and YouTube links used where available.
 
-#### Football Analytics Podcasts
+<h4 id="football-analytics-podcasts"> Football Analytics Podcasts</h4>
+
 *    [All Stats Aren't We](https://open.spotify.com/show/22eR0UCjDdVXY2JTtjD3OI?si=kt_lY1m2QKukOvKvmWpsPA) with [Jon Mackenzie](https://twitter.com/Jon_Mackenzie) and [Josh Hobbs](https://twitter.com/JoshAHobbs) (Leeds United Podcast)
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/podcasts);
 *    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/);
@@ -898,7 +906,8 @@ Spotify and YouTube links used where available.
 *    [xPodcast](https://modernfitba.podomatic.com/) by [Modern Fitba](https://www.modernfitba.com/) (Scottish football);
 *    [Zonal Marking](https://open.spotify.com/show/1o2ZogNQQmPKCntcdKnXPT) with [Michael Cox](https://twitter.com/Zonal_Marking), [Tom Worville](https://twitter.com/Worville) and [Ali Maxwell](https://twitter.com/AliMaxwell_).
 
-#### Noteable Episodes (including non-football-data-specific podcasts)
+<h4 id="notable-episodes"> Notable Episodes (including non-football-data-specific podcasts)</h4>
+
 *    [All Stats Aren't We](https://open.spotify.com/show/22eR0UCjDdVXY2JTtjD3OI?si=kt_lY1m2QKukOvKvmWpsPA):
      +    [Bonus Episode: David Sumpter - The Ten Equations that Rule the World](https://open.spotify.com/episode/2aWNiGHVH29qnXdrw12Iet?si=gU5__QfvRsCCxjE7XjcRhQ)
      +    [The Weekly - Ep. 12 - Barnsley Debrief and Derby Preview](https://open.spotify.com/episode/1mJinsb8PJNlpghcGz0p4g?si=f5P51NayTJClOYscU3vTqA) with Ram Srinivas
@@ -1110,7 +1119,7 @@ The following includes non-football competitions.
 
 Focus on some of the key topics in football analytics. Most of the following resources features above but are instead reorganised by topic.
 
-#### Expected Goals (xG) Modeling
+<h4 id="xg-modeling"> Expected Goals (xG) Modeling</h4>
 
 ##### Videos
 For a playlist of Expected Goals related videos available on YouTube, see the following playlist I have created [[link](https://www.youtube.com/playlist?list=PL38nJNjpNpH_VPRZJrkaPZOJfyuIaZHUY)].
@@ -1227,10 +1236,11 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    The benefits of including fake data in an Expected Goals model [[link](https://twitter.com/Soccermatics/status/1260598182624575490)].
 
 
-#### Tracking data
+<h4 id="tracking-data"> Tracking Data</h4>
+
 *    [Laurie Shaw](https://twitter.com/EightyFivePoint)'s Metrica Sports Tracking data series for #FoT - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
 
-#### Possession Value (PV) Frameworks
+<h4 id="pv-frameworks"> Possession Value (PV) Frameworks</h4>
 
 ##### Expected Threat (xT)
 [TO ADD]
@@ -1241,15 +1251,14 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 ##### Goals Added (g+)
 *    [Goals Added: Introducing a New Way to Measure Soccer](https://www.americansocceranalysis.com/home/2020/4/22/37ucr0d5urxxtryn2cfhzormdziphq)
 
-#### Player Similarity Analysis
-[TO ADD]
 
-#### Player Comparison and Similarity Analysis
-[TO ADD]
+<h4 id="player-comparison-and-similarity-analysis"> Player Similarity Analysis</h4>
+
 *    [Paul Power: How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM)
 *    [`PCA_Player_Finder`](https://github.com/parth1902/PCA_Player_Finder) by [Parth Athale](https://twitter.com/ParthAthale);
 
-#### Reinforcement Learning for Football Simulation
+<h4 id="rl-for-football-simulation"> Reinforcement Learning for Football Simulation</h4>
+
 *    [Google Research Football: A Novel Reinforcement Learning Environment](https://arxiv.org/pdf/1907.11180.pdf) (2020) by Karol Kurach, Anton Raichuk, Piotr Stańczyk, Michał Zając, Olivier Bachem, Lasse Espeholt, Carlos Riquelme, Damien Vincent, Marcin Michalski, Olivier Bousquet, Sylvain Gelly;
 *    [`Google Research Football`](https://github.com/google-research/football) GitHub repo;
 *    [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football) Kaggle Competition (ended October 2020)
