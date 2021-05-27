@@ -64,7 +64,7 @@ For more information about this repository and the author, I'm available through
         <li><a href="#discord-slack-groups">Discord / Slack Groups</a></li>
         <li><a href="#key-concepts">Key Concepts</a></li>
         <li><a href="#miscellaneous">Miscellaneous</a></li>
-        <li><a href="#credits">Credits</a></li>
+        <li><a href="#acknowledgements">Acknowledgements</a></li>
       </ul>
     </li>
   </ol>
@@ -1311,6 +1311,9 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf).
 
 
-<h3 id="credits"> Credits</h3>
+<h3 id="acknowledgements"> Acknowledgements</h3>
 
-Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), the [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html) which were all used to plug gaps in the list once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this readme.
+*    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
+*    [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto)
+*    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html) 
+*    [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository by [Matias Singers](https://twitter.com/matiassingers) used to restyle this README.
