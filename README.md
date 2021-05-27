@@ -45,13 +45,13 @@ For more information about this repository and the author, I'm available through
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
     <li><a href="#notebooks"> ➤ Notebooks</a></li>
     <li><a href="#data-visualisation-and-tableau-dashboards"> ➤ Data Visualisation and Tableau</a></li>
-    <li><a href="#data-sources"> ➤ Data Sources</a></li>
+    <li><a href="#data"> ➤ Data Sources</a></li>
     <li>
       <a href="#Resources"> ➤ Resources</a>
       <ul>
         <li><a href="#about-this-repository">About This Repository</a></li>
         <li><a href="#tutorials">Tutorials</a></li>
-        <li><a href="#data-sources-all">Data Sources</a></li>
+        <li><a href="#data-all">Data Sources</a></li>
         <li><a href="#libraries">Libraries</a></li>
         <li><a href="#github-repos">GitHub Repositories</a></li>
         <li><a href="#apps">Apps</a></li>
@@ -72,6 +72,7 @@ For more information about this repository and the author, I'm available through
         <li><a href="#discord-slack-groups">Discord / Slack Groups</a></li>
         <li><a href="#key-concepts">Key Concepts</a></li>
         <li><a href="#miscellaneous">Miscellaneous</a></li>
+        <li><a href="#contributing">Contributing</a></li>
         <li><a href="#acknowledgements">Acknowledgements</a></li>
       </ul>
     </li>
@@ -89,7 +90,7 @@ For more information about this repository and the author, I'm available through
 
 <!--This project is written in Python programming language. <br>-->
 
-The following open source Python packages are used in this project:
+The following open source [Python](https://www.python.org/) libraries are used in this project:
 *    [NumPy](https://numpy.org/doc/stable/contents.html);
 *    [pandas](http://pandas.pydata.org/);
 *    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018);
@@ -176,7 +177,7 @@ Example Tableau dashboards:
 
 
 <!-- DATA SOURCES -->
-<h2 id="data-sources"> :floppy_disk: Data Sources</h2>
+<h2 id="data"> :floppy_disk: Data </h2>
 
 The following data sources have been used in this repository. Due to the 100mb file size limitation in GitHub, all engineered datasets prepared in this repository have been exported and made publicly available to view and download in Google Drive. Please see the following [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. However, all code in this repository should enable you to scrape, parse, and engineer the datasets to the format in which I have analysed and visualised the data in this repo.
 
@@ -299,7 +300,9 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [@maramperninety](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f).
 
 
-<h3 id="data-sources-all"> :floppy_disk: Data Sources</h3>
+<h3 id="data-all"> :floppy_disk: Data</h3>
+
+<h4 id="data-sources"> :information_source: Data Sources </h4>
 
 All publicly available data sources and datasets relating to football, from Tracking data, Event data, aggregated player performance data, detailed match statistics, injury records and transfer values, and more.
 
@@ -348,8 +351,10 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
 
 
-<h4 id="documentation"> Documentation</h4>
-[TO ADD HERE]
+<h4 id="documentation"> :page_facing_up: Documentation</h4>
+All documentation saved locally in the [documentation](https://github.com/eddwebster/mcfc_submission/tree/master/documentation) subfolder, including:
+*    [Metrica Sports event definitions](https://github.com/metrica-sports/sample-data/blob/master/documentation/events-definitions.pdf);
+*    
 
   
 <h4 id="data-companies"> Data Companies</h4>
