@@ -12,6 +12,7 @@ If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :wave: About This Repository and Author</h2>
 Please note, all the work produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
@@ -25,6 +26,7 @@ For more information about this repository and the author, I'm available through
 *    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
@@ -65,6 +67,7 @@ For more information about this repository and the author, I'm available through
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
 
@@ -86,6 +89,7 @@ The following open source Python packages are used in this project:
 *    [SHAP](https://github.com/slundberg/shap)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 <!-- FOLDER STRUCTURE -->
 <h2 id="folder-structure"> :cactus: Folder Structure</h2>
@@ -128,6 +132,7 @@ The following open source Python packages are used in this project:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
 <!-- NOTEBOOKS -->
 <h2 id="notebooks"> :bar_chart: Notebooks</h2>
 Nearly all code in this repository is in Jupyter notebooks, organised in the following workflow:
@@ -149,6 +154,7 @@ For Tableau dashboards produced using the data engineered in the notebooks in th
 *    Opta [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics) dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterOptaMCFCAnalyticsPL1112AnalysisandDashboards/OptaPlayerDemographicsDashboard?:language=es&:display_count=y&:origin=viz_share_link)].
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 <!-- DATA SOURCES -->
 <h2 id="data-sources"> :floppy_disk: Data Sources</h2>
@@ -180,10 +186,12 @@ Data sources featured in this repository include:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
 <!-- RESOURCES -->
 <h2 id="resources"> :bookmark_tabs: Resources</h2>
 
-<h3 id="getting-started"> :bookmark_tabs: Getting Started with Football Analytics</h2>
+
+<h3 id="getting-started"> :bookmark_tabs: Getting Started with Football Analytics</h3>
 Good resources for those new for the use of data in football:
 
 *    [Soccer Analytics 101](https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus);
@@ -198,9 +206,10 @@ Good resources for those new for the use of data in football:
 *    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]; and
 *    [McKay John](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)].
 
-### :student: Tutorials
 
-#### Python 
+<h3 id="tutorials"> :student: Tutorials</h3>
+
+<h4 id="python"> Python</h4>
 *    Friends of Tracking YouTube channel [[link](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)] and Mathematical Modelling of Football course by Uppsala University [[link](https://uppsala.instructure.com/courses/28112)]. The GitHub repo with all code featured can be found at the following [[link](https://github.com/Friends-of-Tracking-Data-FoTD)]. Lectures of note include:
      +    [Laurie Shaw](https://twitter.com/EightyFivePoint)'s Metrica Sports Tracking data series - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
      +    [Lotte Bransen](https://twitter.com/LotteBransen) and [Jan Van Haaren](https://twitter.com/JanVanHaaren)'s 'Valuating Actions in Football' series - [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0), [Valuing Actions in Football 1: From Wyscout Data to Rating Players](https://www.youtube.com/watch?v=0ol_eLLEQ64), [Valuing Actions in Football 2: Generating Features](https://www.youtube.com/watch?v=Ep9wXQgAFaE&t=42s), [Valuing Actions in Football 3: Training Machine Learning Models](https://www.youtube.com/watch?v=WlORqYIb-Gg), and [Valuing Actions in Football 4: Analyzing Models and Results](https://www.youtube.com/watch?v=w9G0z3eGCj8). See the following for code [[link](https://github.com/SciSports-Labs/fot-valuing-actions)];
@@ -216,12 +225,12 @@ Good resources for those new for the use of data in football:
 *    [Python for Fantasy Football series](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/) by [Fantasy Futopia](https://twitter.com/FantasyFutopia) ([Thomas Whelan](https://twitter.com/tom_whelan)). This series covers the basics of working with data in Python, working with APIs and parsing StatsBomb JSON data, scraping data using Beautifulsoup and Selenium, and Machine Learning with scikit-learn and XGBoost,  See GitHub repo for all code [[link](https://github.com/twhelan22/python-for-fantasy-football)]; and
 *    [Tech how-to: build your own Expected Goals model](https://www.scisports.com/tech-how-to-build-your-own-expected-goals-model/) by [Jan Van Haaren](https://twitter.com/JanVanHaaren) and [SciSports](https://twitter.com/SciSportsNL). See the Bitbucket repository for all code [[link](https://bitbucket.org/scisports/ssda-how-to-expected-goals/src)].
 
-#### R
+<h4 id="r"> R</h4>
 *    [FCrSTATS](https://github.com/FCrSTATS) tutorials [[link](http://fcrstats.com/tutorials.html)];
 *    [Sudarshan 'Suds' Golaladesikan](https://twitter.com/suds_g)'s R series for Friends of Tracking - [Getting Started with R + StatsBomb | Analyzing Squad Rotation & Clustering Passes](https://www.youtube.com/watch?v=ilIIjqfstfQ) and creating interactive shot maps - [Part 1/3)](https://www.youtube.com/watch?v=-a4NC65x_qQ), [Part 2/3](https://www.youtube.com/watch?v=yWXD7xi1f30), (I believe no part 3 currently). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR)]; and
 *    [Creating a pass flow graph in R](https://www.youtube.com/watch?v=uOE2_UIRniE) by [Abhishek Mishra](https://twitter.com/MishraAbhiA).
 
-#### Tableau
+<h4 id="tableau"> Tableau</h4>
 For a YouTube playlist of Tableau-football videos and tutorials that I have collated from various sources including the Tableau Football User Group, [Rob Carroll](https://twitter.com/thevideoanalyst), and [Tom Goodall](https://twitter.com/TomG26), see the following [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
 *    Tableau Football User Group [[link](https://usergroups.tableau.com/footballtableauusergroup)] - featuring [Eva Murray](https://twitter.com/TriMyData), Oscar Hall, [James Smith](https://twitter.com/sportschord), [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), [Ravi Mistry](https://twitter.com/Scribblr_42),  Adam Cook, Hannah Roberts, [Chris Baker](https://twitter.com/chrisbaker108), Rusty Parker, Ruud van Elk, Johannes Riegger, and Sebastien Coustou;
@@ -259,16 +268,13 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
      +    [Rob Suddaby](https://public.tableau.com/profile/rob.suddaby)
      +    [Sushruta Nandy](https://public.tableau.com/profile/sushruta)
 
-#### Excel
+<h4 id="excel"> Excel</h4>
 *    [Marius Fischer](https://twitter.com/Gegenpressing91)'s Patreon [[link](https://www.patreon.com/Gegenpressing91)]
 
-#### PowerPoint
+<h4 id="powerpoint"> PowerPoint</h4>
 *    [@maramperninety](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f).
 
-#### Other Sports
-*    Twitter thread by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent)) [[link](https://twitter.com/MeasurablesPod/status/1217499782631043072)]
-
-### :floppy_disk: Data Sources
+<h3 id="data-sources"> :floppy_disk: Data Sources</h3>
 All publicly available data sources and datasets relating to football, from Tracking data, Event data, aggregated player performance data, detailed match statistics, injury records and transfer values, and more.
 
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
@@ -315,7 +321,8 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [WhoScored?](https://www.whoscored.com/) (data provided by Opta); and
 *    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
 
-#### Documentation
+
+<h3 id="documentation"> Documentation</h3>
 [TO ADD HERE]
 
 #### Data Companies
@@ -361,7 +368,7 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [SICO](https://www.sicostats.com/)
 *    [Wise](http://app.wise4sports.com/home/)
 
-### :classical_building: Libaries
+<h3 id="libraries"> :classical_building: Libaries</h3>
 
 #### Python
 *    [`codeball`](https://github.com/metrica-sports/codeball/) - data driven tactical and video analysis of soccer games;
@@ -393,7 +400,8 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) - a R package to allow users to extract various world football results and player statistics data from FBref and valuations and transfer data from TransferMarkt.com by [Jason Zivkovic](https://twitter.com/jaseziv); and
 *    [`understatr`](https://github.com/ewenme/understatr) - a R package to scrape data from Understat.
 
-### GitHub Repositories
+
+<h3 id="github-repos"> GitHub Repositories</h3>
 
 #### Python
 *    [`analytics-handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
@@ -420,7 +428,9 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [`soccerAnimate`](https://github.com/Dato-Futbol/soccerAnimate) - an R package to create 2D animations of soccer tracking data;
 *    [`soccermatics`](https://github.com/JoGall/soccermatics) - an R package for the visualisation and analysis of soccer tracking and event data by [Joe Gallagher](https://twitter.com/joedgallagher).
 
-### Apps
+<h3 id="apps"> Apps</h3>
+
+*    [Twelve Football](https://twelve.football/);
 *    [YouTubeCoder](https://fcpythonvideocoder.netlify.app/) Event video tagging by [FC Python](https://twitter.com/fc_python);
 *    [Statsbomb-Json-Parse](https://gallery.alteryx.com/#!app/Statsbomb-Json-Parse/6074ad450462d70960925e72) by [Rob Carroll](https://twitter.com/thevideoanalyst). A small app that lets you input a 
 StatsBomb  JSON file and get a CSV file back (you need to create a free account to run it. For a video explainer, see the following [[link](https://www.youtube.com/watch?v=miM21I-oTf0)];
@@ -428,10 +438,13 @@ StatsBomb  JSON file and get a CSV file back (you need to create a free account 
 *    [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library/) by [Lars Maurath](https://twitter.com/thesignigame); and
 *    [Tracking Tagger](http://tracking-tagger.herokuapp.com/tracking_tagger) by [@danzn1](https://twitter.com/danzn1). See GitHub repo [[[link](https://github.com/znstrider/tracking_tagger)].
 
-### Video analysis
+
+<h3 id="video-analysis"> Video Analysis</h3>
 *    Over 150 video analysis videos by [Carlon Carpenter](https://twitter.com/C_Carpenter14) - see Google Drive [[link](https://t.co/mH9BKFnG6g?amp=1)].
 
-### :page_with_curl: Papers
+
+<h3 id="papers"> :page_with_curl: Papers</h3>
+
 The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
 
 #### 2021
@@ -518,7 +531,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 #### 1971
 *    [Skill and Chance in Ball Games](https://www.researchgate.net/publication/271760194_Skill_and_Chance_in_Ball_Games) (1971) by Charles Reep, Bernard Benjamin, and Richard Pollard.
 
-### :books: Written Pieces
+<h3 id="written-pieces"> :books: Written Pieces</h3>
 
 #### Highly Rated and Recommended Pieces
 Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/GregorydSam)'s [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) piece and [Tom Worville](https://twitter.com/Worville)'s [“What’s the best Football Analytics piece you’ve ever read?”](https://medium.com/@worville/whats-the-best-football-analytics-piece-you-ve-ever-read-815c0bf50ccf).
@@ -690,7 +703,9 @@ John Burn-Murdoch for The FT;
 *    [A football revolution](https://www.ft.com/content/9471db52-97bb-11e0-9c37-00144feab49a) (17/07/2011) in The FT [pay wall]; and
 *    [A working life: The quantitative analyst](https://www.theguardian.com/money/2011/jun/11/working-life-quantitative-analyst) (11/06/2011) by [Graham Snowdon](https://twitter.com/gsnowdon) for The Guardian.
 
-### :vhs: Videos
+
+<h3 id="videos"> :vhs: Videos</h3>
+
 For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I have collated into one single playlist, originally for my own viewing but it may be useful to you, see [[link](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo)]. For Football-specific Data Science lectures and seminars, see [[link](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y)]. For a Tableau Football specific playlist, see [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
 #### YouTube playlists
@@ -758,7 +773,7 @@ The following is a series of playlists that that I have collated originally for 
 *    [Jeff Stelling xG rant](https://facebook.com/SoccerAM/videos/1740454985978128/); and
 *    [Craig Burley xG rant](https://www.youtube.com/watch?v=JBWKGij9Y5A).
 
-### :tv: YouTube Channels
+#### YouTube Channels
 *    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Javier Fernández](https://twitter.com/JaviOnData), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Pascal Bauer](https://twitter.com/pascal_bauer), and [Fran Peralta](https://twitter.com/PeraltaFran23);
 *    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg) - for Python tutorials;
 *    [Barça Innovation Hub](https://www.youtube.com/channel/UC58nLq78KZGqxfSNFNRCgsQ) (English and Spanish);
@@ -775,7 +790,8 @@ The following is a series of playlists that that I have collated originally for 
 *    [The Coaches’ Voice](https://www.youtube.com/channel/UCuR-ZdVJtF3muYhYUQ-he-Q); and
 *    [Ninad Barbadikar](https://twitter.com/ninadb_06)'s YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)].
 
-### :books: Books
+<h3 id="books"> :books: Books</h3>
+
 *    [Moneyball: The Art of Winning an Unfair Game](https://www.amazon.co.uk/Moneyball-Art-Winning-Unfair-Game/) by Michael Lewis;
 *    [The Numbers Game](https://www.amazon.co.uk/Numbers-Game-Everything-About-Football/) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6);
 *    [Football Hackers](https://www.amazon.co.uk/Football-Hackers-Science-Data-Revolution/) by [Christoph Biermann](https://twitter.com/chbiermann);
@@ -795,8 +811,13 @@ The following is a series of playlists that that I have collated originally for 
 *    [Sprawlball: A Visual Tour of the New Era of the NBA](https://www.amazon.co.uk/Sprawlball-Visual-Tour-New-Era/dp/1328767515/) by [Kirk Goldsberry](https://twitter.com/kirkgoldsberry); and
 *    [Numbers Don't Lie: New Adventures in Counting and What Counts in Basketball Analytics](https://www.amazon.co.uk/Numbers-Dont-Lie-Adventures-Basketball/) by Yago Colás.
 
-### Magazines:
+
+<h3 id="magazines"> Magazines</h3>
+
 *    [Scouted Football Handbook](https://sfhandbook.com/)
+
+
+<h3 id="magazines"> Magazines</h3>
 
 ### :loud_sound: Podcasts 
 Spotify and YouTube links used where available.
