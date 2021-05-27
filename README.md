@@ -24,6 +24,8 @@ For more information about this repository and the author, I'm available through
 *    [github/eddwebster](https://github.com/eddwebster/); and
 *    [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
 
@@ -182,6 +184,8 @@ Data sources featured in this repository include:
 <h2 id="resources"> :bookmark_tabs: Resources</h2>
 
 <h3 id="getting-started"> :bookmark_tabs: Getting Started with Football Analytics</h2>
+Good resources for those new for the use of data in football:
+
 *    [Soccer Analytics 101](https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus);
 *    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller) - check out his Newsletter [space space space](https://spacespacespaceletter.com/author/johnmuller/);
 *    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for Friends of Tracking with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), Hannah Roberts, [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby);
