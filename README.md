@@ -95,7 +95,7 @@ The following open source Python packages are used in this project:
 <!-- FOLDER STRUCTURE -->
 <h2 id="folder-structure"> :cactus: Folder Structure</h2>
 
-    code
+    football analytics github repository
     .
     │
     ├── dashboards
