@@ -1,5 +1,13 @@
-# Football Analytics
-> A public space for football analytics projects by <a href="https://twitter.com/eddwebster">Edd Webster</a> including a curated list of publicly available resources published by the football analytics community.
+<h1 align="center"> Football Analytics </h1>
+<h3 align="center"> A public space for football analytics projects by <a href="https://twitter.com/eddwebster">Edd Webster</a> including a curated list of publicly available resources published by the football analytics community.</h3>  
+
+</br>
+
+<p align="center"> 
+  <a href="https://github.com/eddwebster/football_analytics"><img src="img/shot_map_header.png" alt="Edd Webster Football Analytics"</a>
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <!-- ABOUT THE REPOSITORY AND AUTHOR -->
