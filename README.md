@@ -134,36 +134,30 @@ The following open source Python packages are used in this project:
 <!-- NOTEBOOKS -->
 <h2 id="notebooks"> :bar_chart: Notebooks</h2>
 
-<p align="justify"> 
-  For code, see the [notebooks](https://github.com/eddwebster/football_analytics/tree/master/notebooks) subfolder, in which the workflow is divided into the following:
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
 4.    [Machine Learning](https://github.com/eddwebster/football_analytics/tree/master/notebooks/4_machine_learning); and
 5.    [Data Analysis](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects) - projects include working with [Tracking data](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/tracking_data), constructing [VAEP models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/vaep) (as introduced by SciSports), building [xG models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/xg_modeling) using Logistic Regression, Decision Trees and XGBoost, and analysing [player similarity](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/player_similarity) using PCA and Factor Analysis.
-</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- DATA VISUALISATION AND TABLEAU DASHBOARDS -->
 <h2 id="notebooks"> :notebook_with_decorative_cover: Data Visualisation and Tableau Dashboards</h2>
 
-<p align="justify"> 
-  For Tableau dashboards produced using the data engineered in the notebooks in this repository, please see my Tableau Public profile: [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster). 
+For Tableau dashboards produced using the data engineered in the notebooks in this repository, please see my Tableau Public profile: [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster). 
 *    WSL dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterFAWSLAnalysisandDashboard/WSLxGAnalysisDashboard?:language=es&:display_count=y&:origin=viz_share_link)];
 *    ‘Big 5’ European leagues dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterBig5EuropeanLeagueAnalysisandDashboards/Big5WaffleChart?:language=es&:display_count=y&:origin=viz_share_link)];
 *    EFL dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterEFLAnalysisandDashboards/EFLFullBackRadarDashboard?:language=es&:display_count=y&:origin=viz_share_link)];
 *    StrataBet Chance dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterStrataBetChanceAnalysisandDashboards/StrataBetChanceShotMapDashboard?:language=es&:display_count=y&:origin=viz_share_link)]; and
 *    Opta [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics) dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterOptaMCFCAnalyticsPL1112AnalysisandDashboards/OptaPlayerDemographicsDashboard?:language=es&:display_count=y&:origin=viz_share_link)].
-</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- DATA VISUALISATION AND TABLEAU DASHBOARDS -->
 <h2 id="notebooks"> :floppy_disk: Data Sources</h2>
 
-<p align="justify"> 
-  The following data sources have been used in this repository. Due to the 100mb file size limitation in GitHub, all engineered datasets prepared in this repository have been exported and made publicly available to view and download in Google Drive. Please see the following [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. However, all code in this repository should enable you to scrape, parse, and engineer the datasets to the format in which I have analysed and visualised the data in this repo.
+The following data sources have been used in this repository. Due to the 100mb file size limitation in GitHub, all engineered datasets prepared in this repository have been exported and made publicly available to view and download in Google Drive. Please see the following [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. However, all code in this repository should enable you to scrape, parse, and engineer the datasets to the format in which I have analysed and visualised the data in this repo.
 
 Data sources featured in this repository include:
 *    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio) for [American Soccer Analysis](https://www.americansocceranalysis.com/);
@@ -187,7 +181,6 @@ Data sources featured in this repository include:
      -    EPV grid by [Laurie Shaw](https://twitter.com/EightyFivePoint) [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking/blob/master/EPV_grid.csv)]
      -    Zones on a pitch for Tableau visualisation by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://drive.google.com/drive/folders/1Se0DFtsjQWmnt-G9Ihn_w8EQE4EZiblD)]
      -    Alphabetic country codes [[link](https://en.wikipedia.org/wiki/Comparison_of_alphabetic_country_codes)]
-</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -195,8 +188,6 @@ Data sources featured in this repository include:
 <h2 id="resources"> :bookmark_tabs: Resources</h2>
 
 <h3 id="getting-started"> :bookmark_tabs: Getting Started with Football Analytics</h2>
-
-<p align="justify"> 
 *    [Soccer Analytics 101](https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus);
 *    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller) - check out his Newsletter [space space space](https://spacespacespaceletter.com/author/johnmuller/);
 *    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for Friends of Tracking with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), Hannah Roberts, [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby);
@@ -208,7 +199,6 @@ Data sources featured in this repository include:
 *    [Languages and Tools to Learn for Sports Analytics](https://brendankent.com/2020/12/16/languages-and-tools-to-learn-for-sports-analytics/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
 *    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]; and
 *    [McKay John](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)].
-</p>
 
 ### :student: Tutorials
 
