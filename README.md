@@ -1298,7 +1298,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Google's AI Plays Football…For Science!](https://www.youtube.com/watch?v=Uk9p4Kk98_g) by Two Minute Papers
 
 
-<h3 id="miscallaneous"> :grey_question: Miscellaneous</h3>
+<h3 id="miscellaneous"> :grey_question: Miscellaneous</h3>
 
 *    [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/);
 *    [A collated list of Expected Goals literature collated](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit) by [Keith Lyons](https://twitter.com/520507);
