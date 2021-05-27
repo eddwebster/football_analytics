@@ -47,7 +47,7 @@ For more information about this repository and the author, I'm available through
         <li><a href="#tutorials">Tutorials</a></li>
         <li><a href="#data-sources-all">Data Sources</a></li>
         <li><a href="#libraries">Libraries</a></li>
-        <li><a href="#github-repositories">GitHub Repositories</a></li>
+        <li><a href="#github-repos">GitHub Repositories</a></li>
         <li><a href="#apps">Apps</a></li>
         <li><a href="#video-analysis">Video Analysis</a></li>
         <li><a href="#data-visualisation-tools">Data Visualisation Tools</a></li>
