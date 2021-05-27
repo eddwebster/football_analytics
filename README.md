@@ -147,7 +147,7 @@ The following open source Python packages are used in this project:
 
 
 <!-- NOTEBOOKS -->
-<h2 id="notebooks"> :bar_chart: Notebooks</h2>
+<h2 id="notebooks"> :notebook_with_decorative_cover: Notebooks</h2>
 
 Nearly all code in this repository is in Jupyter notebooks, organised in the following workflow:
 
@@ -162,7 +162,7 @@ Nearly all code in this repository is in Jupyter notebooks, organised in the fol
 
 
 <!-- DATA VISUALISATION AND TABLEAU DASHBOARDS -->
-<h2 id="data-visualisation-and-tableau-dashboards"> :notebook_with_decorative_cover: Data Visualisation and Tableau Dashboards</h2>
+<h2 id="data-visualisation-and-tableau-dashboards"> :bar_chart: Data Visualisation and Tableau Dashboards</h2>
 
 For Tableau dashboards produced using the data engineered in the notebooks in this repository, please see my Tableau Public profile: [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
 
@@ -478,7 +478,7 @@ StatsBomb  JSON file and get a CSV file back (you need to create a free account 
 *    Over 150 video analysis videos by [Carlon Carpenter](https://twitter.com/C_Carpenter14) - see Google Drive [[link](https://t.co/mH9BKFnG6g?amp=1)].
 
 
-<h3 id="data-visualisation-tools"> Data Visualisation Tools</h3>
+<h3 id="data-visualisation-tools"> :bar_chart: Data Visualisation Tools</h3>
 
 Resources to aid data visualisation:
 
