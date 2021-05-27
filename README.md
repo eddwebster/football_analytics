@@ -15,6 +15,7 @@ If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :wave: About This Repository and Author</h2>
+
 Please note, all the work produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
 
 For more information about this repository and the author, I'm available through all the following channels:
@@ -135,7 +136,9 @@ The following open source Python packages are used in this project:
 
 <!-- NOTEBOOKS -->
 <h2 id="notebooks"> :bar_chart: Notebooks</h2>
+
 Nearly all code in this repository is in Jupyter notebooks, organised in the following workflow:
+
 1.    [Webscraping](https://github.com/eddwebster/football_analytics/tree/master/notebooks/1_data_scraping);
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
@@ -144,9 +147,13 @@ Nearly all code in this repository is in Jupyter notebooks, organised in the fol
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
 <!-- DATA VISUALISATION AND TABLEAU DASHBOARDS -->
 <h2 id="data-visualisation-and-dashboards"> :notebook_with_decorative_cover: Data Visualisation and Tableau Dashboards</h2>
-For Tableau dashboards produced using the data engineered in the notebooks in this repository, please see my Tableau Public profile: [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster). 
+
+For Tableau dashboards produced using the data engineered in the notebooks in this repository, please see my Tableau Public profile: [public.tableau.com/profile/edd.webster](https://public.tableau.com/profile/edd.webster).
+
+Example Tableau dashboards:
 *    WSL dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterFAWSLAnalysisandDashboard/WSLxGAnalysisDashboard?:language=es&:display_count=y&:origin=viz_share_link)];
 *    ‘Big 5’ European leagues dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterBig5EuropeanLeagueAnalysisandDashboards/Big5WaffleChart?:language=es&:display_count=y&:origin=viz_share_link)];
 *    EFL dashboards and analysis [[link](https://public.tableau.com/views/EddWebsterEFLAnalysisandDashboards/EFLFullBackRadarDashboard?:language=es&:display_count=y&:origin=viz_share_link)];
