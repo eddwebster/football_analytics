@@ -4,7 +4,7 @@
 </br>
 
 <p align="center"> 
-  <a href="https://github.com/eddwebster/football_analytics"><img src="img/shot_map_header.png" alt="Edd Webster Football Analytics"</a>
+  <a href="https://github.com/eddwebster/football_analytics"><img src="img/shot_map_header.png" alt="Edd Webster Football Analytics"></a>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
