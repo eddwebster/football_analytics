@@ -88,7 +88,6 @@ For more information about this repository and the author, I'm available through
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
 
 <!--This project is written in Python programming language. <br>-->
-None. An interest in football analytics and a interest in self-learning.
 
 The following open source Python packages are used in this project:
 *    [NumPy](https://numpy.org/doc/stable/contents.html);
