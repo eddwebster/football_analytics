@@ -1,5 +1,5 @@
 <h1 align="center"> Football Analytics </h1>
-<h3 align="center"> A public space for football analytics projects by <a href="https://twitter.com/eddwebster">Edd Webster</a> including a curated list of publicly available resources published by the football analytics community.</h3>  
+<h3 align="center"> A public space for football analytics projects by <a href="https://twitter.com/eddwebster">Edd Webster</a>, including a curated list of publicly available resources published by the football analytics community.</h3>  
 
 </br>
 
@@ -381,9 +381,9 @@ All publicly available data sources and datasets relating to football, from Trac
 
 All documentation saved locally in the [documentation](https://github.com/eddwebster/mcfc_submission/tree/master/documentation) subfolder, including:
 *    [Metrica Sports event definitions](https://github.com/metrica-sports/sample-data/blob/master/documentation/events-definitions.pdf);
-*    [SkillCorner](https://github.com/SkillCorner/opendata#documentation)
-*    [StatsBomb](https://github.com/statsbomb/open-data/tree/master/doc)
-*    [Wyscout](https://apidocs.wyscout.com/_
+*    [SkillCorner](https://github.com/SkillCorner/opendata#documentation);
+*    [StatsBomb](https://github.com/statsbomb/open-data/tree/master/doc); and
+*    [Wyscout](https://apidocs.wyscout.com/_).
 
   
 <h4 id="data-companies"> Data Companies</h4>
