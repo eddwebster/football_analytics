@@ -61,9 +61,11 @@ For more information about this repository and the author, I'm available through
           <ul>
             <li><a href="#blogs">Blogs</a></li>
             <li><a href="#papers">Papers</a></li>
+            <li><a href="#newsletters">Newsletters</a></li>
             <li><a href="#news-articles">News Articles</a></li>
             <li><a href="#books">Books</a></li>
             <li><a href="#magazines">Magazines</a></li>
+          </ul>
         <li><a href="#videos">Videos</a></li>
         <li><a href="#podcasts">Podcasts</a></li>
         <li><a href="#notable-figures-and-twitter-accounts">Notable Figures and Twitter Accounts</a></li>
@@ -767,6 +769,31 @@ John Burn-Murdoch for The FT;
 *    [A football revolution](https://www.ft.com/content/9471db52-97bb-11e0-9c37-00144feab49a) (17/07/2011) in The FT [pay wall]; and
 *    [A working life: The quantitative analyst](https://www.theguardian.com/money/2011/jun/11/working-life-quantitative-analyst) (11/06/2011) by [Graham Snowdon](https://twitter.com/gsnowdon) for The Guardian.
 
+<h4 id="books"> :books: Books</h4>
+
+*    [Moneyball: The Art of Winning an Unfair Game](https://www.amazon.co.uk/Moneyball-Art-Winning-Unfair-Game/) by Michael Lewis;
+*    [The Numbers Game](https://www.amazon.co.uk/Numbers-Game-Everything-About-Football/) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6);
+*    [Football Hackers](https://www.amazon.co.uk/Football-Hackers-Science-Data-Revolution/) by [Christoph Biermann](https://twitter.com/chbiermann);
+*    [Soccermatics](https://www.amazon.co.uk/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [David Sumpter](https://twitter.com/Soccermatics);
+*    [Soccernomics](https://www.amazon.co.uk/Soccernomics-England-Germany-France-Finally/) by Simon Kuper and [Stefan Szymanski](https://twitter.com/sszy);
+*    [Money and Football: A Soccernomics Guide ](https://www.amazon.co.uk/dp/B06XCKCVQR/) by Simon Kuper and [Stefan Szymanski](https://twitter.com/sszy);
+*    [Mathletics: How Gamblers, Managers, and Sports Enthusiasts Use Mathematics in Baseball, Basketball, and Football](https://www.amazon.co.uk/Mathletics-Gamblers-Enthusiasts-Mathematics-Basketball/) by Wayne Winston;
+*    [Data Analytics in Football](https://www.amazon.co.uk/Data-Analytics-Football-Daniel-Memmert/) by [Daniel Memmert](https://twitter.com/DMemmert) and Dominik Raabe;
+*    [Changing the Conversation](https://www.amazon.co.uk/Changing-Conversation-Presents-Collection-Boardrooms/) series by 21st Club;
+*    [Football Decoded: Using Match Analysis & Context to Interpret the Demands](https://www.amazon.co.uk/FOOTBALL-DECODED-Analysis-Context-Interpret/dp/B08P28B2R5/ref=sr_1_1?dchild=1&keywords=football+decoded&qid=1606734039&sr=8-1) by [Paul Bradley](https://twitter.com/ContextIsKing9);
+*    [Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers](https://www.amazon.co.uk/Sports-Analytics-Coaches-Managers-Decision/) by [Ben Alamar](https://twitter.com/bencalamar);
+*    [Outside the Box](https://www.amazon.co.uk/Outside-Box-Statistical-Journey-Football/) by [Duncan Alexander](https://twitter.com/oilysailor);
+*    [Opta World Football Infographics: The Beautiful Game in Brilliant Detail]https://www.amazon.co.uk/World-Football-Infographics-Adrian-Besley/dp/1780977727() by Adrian Besley;
+*    [Zonal Marking: The Making of Modern European Football](https://www.amazon.co.uk/Zonal-Marking-Making-European-Football/) by [Michael Cox](https://twitter.com/Zonal_Marking);
+*    [The Mixer: The Story of Premier League Tactics, from Route One to False Nines](https://www.amazon.co.uk/Mixer-Story-Premier-League-Tactics/) by [Michael Cox](https://twitter.com/Zonal_Marking);
+*    [Inverting the Pyramid](https://www.amazon.co.uk/Inverting-Pyramid-History-Football-Tactics/) by [Jonathan Wilson](https://twitter.com/jonawils);
+*    [Sprawlball: A Visual Tour of the New Era of the NBA](https://www.amazon.co.uk/Sprawlball-Visual-Tour-New-Era/dp/1328767515/) by [Kirk Goldsberry](https://twitter.com/kirkgoldsberry); and
+*    [Numbers Don't Lie: New Adventures in Counting and What Counts in Basketball Analytics](https://www.amazon.co.uk/Numbers-Dont-Lie-Adventures-Basketball/) by Yago Colás.
+
+<h4 id="magazines"> Magazines</h4>
+
+*    [Scouted Football Handbook](https://sfhandbook.com/)
+
 
 <h3 id="videos"> :vhs: Videos</h3>
 
@@ -860,34 +887,6 @@ The following is a series of playlists that that I have collated originally for 
 *    [Football Player Ratings](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA) by [Lars Magnus Hvattum](https://twitter.com/FLSimulator);
 *    [The Coaches’ Voice](https://www.youtube.com/channel/UCuR-ZdVJtF3muYhYUQ-he-Q); and
 *    [Ninad Barbadikar](https://twitter.com/ninadb_06)'s YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)].
-
-
-<h3 id="books"> :books: Books</h3>
-
-*    [Moneyball: The Art of Winning an Unfair Game](https://www.amazon.co.uk/Moneyball-Art-Winning-Unfair-Game/) by Michael Lewis;
-*    [The Numbers Game](https://www.amazon.co.uk/Numbers-Game-Everything-About-Football/) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6);
-*    [Football Hackers](https://www.amazon.co.uk/Football-Hackers-Science-Data-Revolution/) by [Christoph Biermann](https://twitter.com/chbiermann);
-*    [Soccermatics](https://www.amazon.co.uk/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [David Sumpter](https://twitter.com/Soccermatics);
-*    [Soccernomics](https://www.amazon.co.uk/Soccernomics-England-Germany-France-Finally/) by Simon Kuper and [Stefan Szymanski](https://twitter.com/sszy);
-*    [Money and Football: A Soccernomics Guide ](https://www.amazon.co.uk/dp/B06XCKCVQR/) by Simon Kuper and [Stefan Szymanski](https://twitter.com/sszy);
-*    [Mathletics: How Gamblers, Managers, and Sports Enthusiasts Use Mathematics in Baseball, Basketball, and Football](https://www.amazon.co.uk/Mathletics-Gamblers-Enthusiasts-Mathematics-Basketball/) by Wayne Winston;
-*    [Data Analytics in Football](https://www.amazon.co.uk/Data-Analytics-Football-Daniel-Memmert/) by [Daniel Memmert](https://twitter.com/DMemmert) and Dominik Raabe;
-*    [Changing the Conversation](https://www.amazon.co.uk/Changing-Conversation-Presents-Collection-Boardrooms/) series by 21st Club;
-*    [Football Decoded: Using Match Analysis & Context to Interpret the Demands](https://www.amazon.co.uk/FOOTBALL-DECODED-Analysis-Context-Interpret/dp/B08P28B2R5/ref=sr_1_1?dchild=1&keywords=football+decoded&qid=1606734039&sr=8-1) by [Paul Bradley](https://twitter.com/ContextIsKing9);
-*    [Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers](https://www.amazon.co.uk/Sports-Analytics-Coaches-Managers-Decision/) by [Ben Alamar](https://twitter.com/bencalamar);
-*    [Outside the Box](https://www.amazon.co.uk/Outside-Box-Statistical-Journey-Football/) by [Duncan Alexander](https://twitter.com/oilysailor);
-*    [Opta World Football Infographics: The Beautiful Game in Brilliant Detail]https://www.amazon.co.uk/World-Football-Infographics-Adrian-Besley/dp/1780977727() by Adrian Besley;
-*    [Zonal Marking: The Making of Modern European Football](https://www.amazon.co.uk/Zonal-Marking-Making-European-Football/) by [Michael Cox](https://twitter.com/Zonal_Marking);
-*    [The Mixer: The Story of Premier League Tactics, from Route One to False Nines](https://www.amazon.co.uk/Mixer-Story-Premier-League-Tactics/) by [Michael Cox](https://twitter.com/Zonal_Marking);
-*    [Inverting the Pyramid](https://www.amazon.co.uk/Inverting-Pyramid-History-Football-Tactics/) by [Jonathan Wilson](https://twitter.com/jonawils);
-*    [Sprawlball: A Visual Tour of the New Era of the NBA](https://www.amazon.co.uk/Sprawlball-Visual-Tour-New-Era/dp/1328767515/) by [Kirk Goldsberry](https://twitter.com/kirkgoldsberry); and
-*    [Numbers Don't Lie: New Adventures in Counting and What Counts in Basketball Analytics](https://www.amazon.co.uk/Numbers-Dont-Lie-Adventures-Basketball/) by Yago Colás.
-
-
-<h3 id="magazines"> Magazines</h3>
-
-*    [Scouted Football Handbook](https://sfhandbook.com/)
-
 
 <h3 id="podcasts"> :loud_sound: Podcasts</h3>
 
