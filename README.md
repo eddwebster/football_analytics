@@ -46,7 +46,7 @@ For more information about this repository and the author, I'm available through
     <li><a href="#about-the-repository-and-author"> ➤ About This Repository and Author</a></li>
     <li><a href="#table-of-contents"> ➤ Table of Contents</a></li>
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
-    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
+    <li><a href="#repository-structure"> ➤ Repository Structure</a></li>
     <li><a href="#notebooks"> ➤ Notebooks</a></li>
     <li><a href="#data-visualisation-and-tableau-dashboards"> ➤ Data Visualisation and Tableau</a></li>
     <li><a href="#data"> ➤ Data Sources</a></li>
@@ -128,10 +128,10 @@ Step-by-step guides on downloading and installing [Anaconda](https://anaconda.or
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<!-- FOLDER STRUCTURE -->
-<h2 id="folder-structure"> :cactus: Folder Structure</h2>
+<!-- REPOSITORY STRUCTURE -->
+<h2 id="repository-structure"> :cactus: Repository Structure</h2>
 
-The contents of this GitHub repo is organised as the followinging:
+The contents of this GitHub repository is organised as the following:
 
     football analytics github repository
     .
