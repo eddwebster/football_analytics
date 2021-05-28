@@ -178,6 +178,8 @@ Nearly all code in this repository is in Jupyter notebooks, organised in the fol
 5.    [Data Analysis](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects) - projects include working with [Tracking data](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/tracking_data), constructing [VAEP models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/vaep) (as introduced by SciSports), building [xG models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/xg_modeling) using Logistic Regression, Decision Trees and XGBoost, and analysing [player similarity](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/player_similarity) using PCA and Factor Analysis (TBA);
 6.    [Data Visualisation](https://github.com/eddwebster/football_analytics/tree/master/notebooks/6_data_visualisation) - examples of how to create some of the most visualisations using Python and Tableau.
 
+I am in the process of giving this a quick tidy up, but the notebooks are clearly labeled and include a lot of useful code and analysis.
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
