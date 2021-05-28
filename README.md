@@ -1157,21 +1157,22 @@ Focus on some of the key topics in football analytics. Most of the following res
 <h4 id="history-of-football-analytics"> History of Football Analytics</h4>
 
 *    [Charles Reep wiki](https://en.wikipedia.org/wiki/Charles_Reep);
-*    [How One Man’s Bad Math Helped Ruin Decades Of English Soccer](https://fivethirtyeight.com/features/how-one-mans-bad-math-helped-ruin-decades-of-english-soccer/) by [Joe Sykes](https://twitter.com/jykes7) and [Neil Paine](https://twitter.com/Neil_Paine) for [FiveThirtyEight](https://fivethirtyeight.com/);
 *    [Analytics is older than you think: (re)introducing Charles Reep](https://getgoalside.substack.com/p/analytics-is-older-than-you-think) by [Mark Thompson](https://twitter.com/EveryTeam_Mark) for his newsletter [Get Goalside!](https://getgoalside.substack.com/);
 *    [Goal Scoring in Association Football: Charles Reep](https://keithlyons.wordpress.com/2011/02/28/goal-scoring-in-association-football-charles-reep/) by Keith Lyons;
-*    [](https://keithlyons.me/2015/08/24/bernard-benjamin/) by Keith Lyons;
-*    [](https://keithlyons.me/2018/09/14/the-charles-reep-and-bernard-benjamin-paper-50-years-on-1/) by Keith Lyons;
-*    [The History of Sports Analysis: The Man Who Ruined English Football](https://www.nacsport.com/blog/en-gb/News/the-history-of-sports-analysis-the-man-who-ruined-english-football) by Duncan Ritchie;
+*    [The Charles Reep and Bernard Benjamin Paper 50 Years On (1)](https://keithlyons.me/2018/09/14/the-charles-reep-and-bernard-benjamin-paper-50-years-on-1/) by Keith Lyons;
+*    [Bernard Benjamin profile](https://keithlyons.me/2015/08/24/bernard-benjamin/) by Keith Lyons;
+*    [Charles, Richard, Neil and Simon: the stories we craft](https://keithlyons.me/2019/10/10/charles-richard-neil-and-simon-the-stories-we-craft/) by Keith Lyons;
+*    [Football’s Pioneer – The Charles Reep story](https://thevideoanalyst.com/footballs-pioneer-charles-reep/) by [Rob Carroll](https://twitter.com/thevideoanalyst);
 *    [Grim Reep](https://www.wsc.co.uk/the-archive/918-Playing-the-game/2502-grim-reep-) by Barnay Ronay
 *    [History of Performance Analysis: The Controversial Pioneer Charles Reep](https://www.sportperformanceanalysis.com/article/history-of-performance-analysis-the-controversial-pioneer-charles-reep) by Guillermo Martinez Arastey;
-*    [Football’s Pioneer – The Charles Reep story](https://thevideoanalyst.com/footballs-pioneer-charles-reep/) by [Rob Carroll](https://twitter.com/thevideoanalyst);
+*    [How One Man’s Bad Math Helped Ruin Decades Of English Soccer](https://fivethirtyeight.com/features/how-one-mans-bad-math-helped-ruin-decades-of-english-soccer/) by [Joe Sykes](https://twitter.com/jykes7) and [Neil Paine](https://twitter.com/Neil_Paine) for [FiveThirtyEight](https://fivethirtyeight.com/);****
+*    [The History of Sports Analysis: The Man Who Ruined English Football](https://www.nacsport.com/blog/en-gb/News/the-history-of-sports-analysis-the-man-who-ruined-english-football) by Duncan Ritchie;
+*    [No, seriously: what the heck is expected goals (xG)?](https://www.fourfourtwo.com/features/no-seriously-what-heck-expected-goals-xg) by James Maw;
+*    [Don't Shoot the Messenger. The First Football Analyst Was a Pioneer 50 Years Ahead of His Time](https://www.nutmegmagazine.co.uk/issue-8/dont-shoot-the-messenger-the-first-football-analyst-was-a-pioneer-50-years-ahead-of-his-time/) by Alan Campbell;
 *    Papers by and about Charles Reep:
      +    [Skill and Chance in Ball Games](https://www.researchgate.net/publication/271760194_Skill_and_Chance_in_Ball_Games) by Charles Reep, Bernard Benjamin and Richard Pollard
      +    [Charles Reep (1904-2002): pioneer of notational and performance analysis in football](https://www.researchgate.net/publication/233290079_Charles_Reep_1904-2002_pioneer_of_notational_and_performance_analysis_in_football) by Richard Pollard
      +    [Invalid Interpretation of Passing Sequence Data to Assess Team Performance in Football: Repairing the Tarnished Legacy of Charles Reep](https://www.researchgate.net/publication/332178096_Invalid_Interpretation_of_Passing_Sequence_Data_to_Assess_Team_Performance_in_Football_Repairing_the_Tarnished_Legacy_of_Charles_Reep) by Richard Pollard
-*    [No, seriously: what the heck is expected goals (xG)?](https://www.fourfourtwo.com/features/no-seriously-what-heck-expected-goals-xg) by James Maw; and
-*    [Don't Shoot the Messenger. The First Football Analyst Was a Pioneer 50 Years Ahead of His Time](https://www.nutmegmagazine.co.uk/issue-8/dont-shoot-the-messenger-the-first-football-analyst-was-a-pioneer-50-years-ahead-of-his-time/) by Alan Campbell.
 
 <h4 id="xg-modeling"> Expected Goals (xG) Modeling</h4>
 
