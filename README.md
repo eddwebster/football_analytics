@@ -374,9 +374,12 @@ All publicly available data sources and datasets relating to football, from Trac
 
 
 <h4 id="documentation"> :page_facing_up: Documentation</h4>
+
 All documentation saved locally in the [documentation](https://github.com/eddwebster/mcfc_submission/tree/master/documentation) subfolder, including:
 *    [Metrica Sports event definitions](https://github.com/metrica-sports/sample-data/blob/master/documentation/events-definitions.pdf);
-*    
+*    [SkillCorner](https://github.com/SkillCorner/opendata#documentation)
+*    [StatsBomb](https://github.com/statsbomb/open-data/tree/master/doc)
+*    [Wyscout](https://apidocs.wyscout.com/_
 
   
 <h4 id="data-companies"> Data Companies</h4>
