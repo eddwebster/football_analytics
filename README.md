@@ -107,7 +107,8 @@ For more information about this repository and the author, I'm available through
 
 <!--This project is written in Python programming language. <br>-->
 
-The following open source [Python](https://www.python.org/) libraries are used in this project:
+The key open source [Python](https://www.python.org/) libraries used in the notebooks in this repository include:
+
 *    [NumPy](https://numpy.org/doc/stable/contents.html);
 *    [pandas](http://pandas.pydata.org/);
 *    [matplotlib](https://matplotlib.org/contents.html?v=20200411155018);
@@ -117,6 +118,8 @@ The following open source [Python](https://www.python.org/) libraries are used i
 *    [SciPy](https://www.scipy.org/);
 *    [XGBoost](https://xgboost.readthedocs.io/en/latest/); and
 *    [SHAP](https://github.com/slundberg/shap)
+
+Step-by-step guides on downloading and installing [Anaconda](https://anaconda.org/anaconda/conda) can be found for Windows [here](https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444) and Mac [here](https://medium.com/@GalarnykMichael/install-python-on-mac-anaconda-ccd9f2014072), as well as in the Anaconda documentation itself [here](https://docs.anaconda.com/anaconda/install/).
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
