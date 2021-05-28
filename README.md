@@ -66,6 +66,7 @@ For more information about this repository and the author, I'm available through
             <li><a href="#books">Books</a></li>
             <li><a href="#magazines">Magazines</a></li>
           </ul>
+        </li>
         <li><a href="#videos">Videos</a></li>
         <li><a href="#podcasts">Podcasts</a></li>
         <li><a href="#notable-figures-and-twitter-accounts">Notable Figures and Twitter Accounts</a></li>
@@ -75,12 +76,23 @@ For more information about this repository and the author, I'm available through
         <li><a href="#courses">Courses</a></li>
         <li><a href="#jobs">Jobs</a></li>
         <li><a href="#discord-slack-groups">Discord / Slack Groups</a></li>
+        <li>
+          <a href="#key-concepts">Key Concepts</a></li>
+          <ul>
+            <li><a href="#history-of-football-analytics">History of Football Analytics</a></li>
+            <li><a href="#xg-modeling">Expected Goals (xG) Modeling</a></li>
+            <li><a href="#tracking-data">Tracking Data</a></li>
+            <li><a href="#pv-frameworks">Possession Value (PV) Frameworks</a></li>
+            <li><a href="#player-similarity-analysis">Player Similarity Analysis</a></li>
+            <li><a href="#rl-for-football-simulation">Reinforcement Learning for Football Simulation</a></li>            
+          </ul>
+        </li>
         <li><a href="#key-concepts">Key Concepts</a></li>
         <li><a href="#miscellaneous">Miscellaneous</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#acknowledgements">Acknowledgements</a></li>
       </ul>
     </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -1318,13 +1330,17 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport); and
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf).
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3 id="contributing"> Contributing</h3>
+
+<h2 id="contributing"> Contributing</h2>
 
 This GitHub repository and resources list will be a constant work in progress so if you can think of any resources that I've missed, feel free to create a pull request or send me a message @ edd.j.webster@gmail.com or [@eddwebster](https://www.twitter.com/eddwebster).
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3 id="acknowledgements"> Acknowledgements</h3>
+
+<h2 id="acknowledgements"> Acknowledgements</h2>
 
 *    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto)
