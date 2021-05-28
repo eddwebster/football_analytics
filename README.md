@@ -131,6 +131,8 @@ Step-by-step guides on downloading and installing [Anaconda](https://anaconda.or
 <!-- FOLDER STRUCTURE -->
 <h2 id="folder-structure"> :cactus: Folder Structure</h2>
 
+The contents of this GitHub repo is organised as the followinging:
+
     football analytics github repository
     .
     │
