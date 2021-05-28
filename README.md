@@ -91,8 +91,8 @@ For more information about this repository and the author, I'm available through
         <li><a href="#miscellaneous">Miscellaneous</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contributing"> ➤ Contributing</a></li>
+    <li><a href="#acknowledgements"> ➤ Acknowledgements</a></li>
   </ol>
 </details>
 
