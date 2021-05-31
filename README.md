@@ -91,7 +91,6 @@ For more information about this repository and the author, I'm available through
             <li><a href="#rl-for-football-simulation">Reinforcement Learning for Football Simulation</a></li>            
           </ul>
         </li>
-        <li><a href="#key-concepts">Key Concepts</a></li>
         <li><a href="#miscellaneous">Miscellaneous</a></li>
       </ul>
     </li>
@@ -121,7 +120,7 @@ The key open source [Python](https://www.python.org/) libraries used in the note
 *    [scikit-learn](https://scikit-learn.org/stable/);
 *    [SciPy](https://www.scipy.org/);
 *    [XGBoost](https://xgboost.readthedocs.io/en/latest/); and
-*    [SHAP](https://github.com/slundberg/shap)
+*    [SHAP](https://github.com/slundberg/shap).
 
 Step-by-step guides on downloading and installing [Anaconda](https://anaconda.org/anaconda/conda) can be found for Windows [here](https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444) and Mac [here](https://medium.com/@GalarnykMichael/install-python-on-mac-anaconda-ccd9f2014072), as well as in the Anaconda documentation itself [here](https://docs.anaconda.com/anaconda/install/).
 
@@ -181,7 +180,7 @@ Nearly all code in this repository is in Jupyter notebooks, organised in the fol
 2.    [Data Parsing](https://github.com/eddwebster/football_analytics/tree/master/notebooks/2_data_parsing);
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
 4.    [Machine Learning](https://github.com/eddwebster/football_analytics/tree/master/notebooks/4_machine_learning);
-5.    [Data Analysis](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects) - projects include working with [Tracking data](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/tracking_data), constructing [VAEP models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/vaep) (as introduced by SciSports), building [xG models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/xg_modeling) using Logistic Regression, Decision Trees and XGBoost, and analysing [player similarity](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/player_similarity) using PCA and Factor Analysis (TBA);
+5.    [Data Analysis](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects) - projects include working with [Tracking data](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/tracking_data), constructing [VAEP models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/vaep) (as introduced by SciSports), building [xG models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/xg_modeling) using Logistic Regression, Random Forests and Gradient Booested Decision Tree algorithms such as [XGBoost](https://xgboost.readthedocs.io/en/latest/), and analysing [player similarity](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/player_similarity) using PCA and Factor Analysis (TBA);
 6.    [Data Visualisation](https://github.com/eddwebster/football_analytics/tree/master/notebooks/6_data_visualisation) - examples of how to create some of the most visualisations using Python and Tableau.
 
 I am in the process of giving this a quick tidy up, but the notebooks are clearly labeled and include a lot of useful code and analysis.
@@ -225,7 +224,7 @@ Data sources featured in this repository include:
 *    [StrataData]() from [StrataBet](http://www.stratagem.co/) Chance shooting data;
 *    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data scraped using the [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [[TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb)] for code with minor fixes to enable code to run);
 *    [Understat](https://understat.com/) shooting and meta data including player xG values, scraped using the [`understatr`](https://github.com/ewenme/understatr) R package. Data also made available by [@NdyStats](https://twitter.com/NdyStats) (see pinned tweet of his Twitter account for the latest version) using code created by both him and [Mark Wilkins](https://twitter.com/biscuitchaser) (see Tweet [[link](https://twitter.com/biscuitchaser/status/1294608904647839744)]); 
-*    [Wyscout Event data](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Championship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7) and the GitHub repo of code made available through Friends of Tracking [[link](https://github.com/Friends-of-Tracking-Data-FoTD/mapping-match-events-in-Python)].
+*    [Wyscout Event data](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Championship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7) and the GitHub repo of code made available through Friends of Tracking [[link](https://github.com/Friends-of-Tracking-Data-FoTD/mapping-match-events-in-Python)];
 *    Reference data:
      -    League-wide xT values from the 2017-18 Premier League season (12x8 grid) by [Karun Singh](https://twitter.com/karun1710/) [[link](https://karun.in/blog/data/open_xt_12x8_v1.json)]
      -    EPV grid by [Laurie Shaw](https://twitter.com/EightyFivePoint) [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking/blob/master/EPV_grid.csv)]
@@ -251,8 +250,9 @@ Good resources for those new for the use of data in football:
 *    [Stat Glossary](https://thefutebolist.wordpress.com/stat-glossary/) by [Ashwin Raman](https://twitter.com/AshwinRaman_);
 *    [Football Analytics Glossary](https://footballstatsglossary.home.blog/) by [Ashwin Raman](https://twitter.com/AshwinRaman_) and [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [Languages and Tools to Learn for Sports Analytics](https://brendankent.com/2020/12/16/languages-and-tools-to-learn-for-sports-analytics/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
-*    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]; and
-*    [McKay John](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)].
+*    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)];
+*    [McKay John](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)];
+*    [Joe Gallagher](https://twitter.com/joedgallagher)'s Twitter thread for the best resources to get started [[link](https://twitter.com/joedgallagher/status/1399461951386828805)].
 
 
 <h3 id="tutorials"> :student: Tutorials</h3>
@@ -294,7 +294,8 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    Medium blog posts by [Rahul Iyer](https://twitter.com/RahulIyer32) - [Guide to Creating Passing Networks in Tableau
 ](https://raahulbi103.medium.com/guide-to-creating-passing-networks-in-tableau-be8847420297), [Guide to Creating Pass Sonars in Tableau](https://raahulbi103.medium.com/guide-to-creating-pass-sonars-in-tableau-3361801d65aa);
 *    [Creating a Shop Map](https://jamesvaughan1905.medium.com/creating-a-shot-map-343a03ef5270) by [James Vaughan](https://twitter.com/Advt_played);
-*    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c);
+*    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c)
+*    [Creating Waffle Charts in Tableau](https://harshkrishna.substack.com/p/creating-waffle-charts-in-tableau?r=ixily&utm_campaign=post&utm_medium=web&utm_source=copy) by [Harsh Krishna](https://twitter.com/ftblhk);
 *    [Exporting your pass flow map to Tableau](https://www.youtube.com/watch?v=aibBF0BuzBU) by [Abhishek Mishra](https://twitter.com/MishraAbhiA).
 *    Tableau Public profiles of note (not exhaustive by any means):
      +    [Ashwin Raman](https://public.tableau.com/profile/ashwin.raman1303)
@@ -1227,7 +1228,8 @@ For a playlist of Expected Goals related videos available on YouTube, see the fo
 <h5 id="xg-modeling-notable-models"> Notable Models</h5>
 
 *    [Sam Green](https://twitter.com/aSamGreen)'s [xG model](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/);
-*    [Michael Caley](https://twitter.com/MC_of_A)'s [xG model](https://cartilagefreecaptain.sbnation.com/2014/9/11/6131661/premier-league-projections-2014#methoderology);
+*    [Michael Caley](https://twitter.com/MC_of_A)'s [xG model](https://cartilagefreecaptain.sbnation.com/2014/9/11/6131661/premier-league-projections-2014#methoderology); and
+*    [11tegen](https://twitter.com/11tegen11) ([Sander IJtsma](https://twitter.com/IJtsma))'s [xG model](https://web.archive.org/web/20200320193539/http://11tegen11.net/2015/08/14/a-close-look-at-my-new-expected-goals-model/) (using WayBackMachine).
 
 <h5 id="xg-modeling-written-pieces"> Written Pieces</h5>
 
@@ -1241,7 +1243,9 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
      +    [The Geometry of Shooting](https://soccermatics.medium.com/the-geometry-of-shooting-ae7a67fdf760).
 *    [Michael Caley](https://twitter.com/MC_of_A)'s Expected Goals pieces:
      +    [Shot Matrix I: Shot Location and Expected Goals](https://cartilagefreecaptain.sbnation.com/2013/11/13/5098186/shot-matrix-i-shot-location-and-expected-goals)
+     +    [What is the best method of predicting goals? Putting xG to the test](https://cartilagefreecaptain.sbnation.com/2014/2/28/5452786/shot-matrix-tottenham-hotspur-stats-analysis-expected-goals)
      +    [Let's talk about expected goals](https://cartilagefreecaptain.sbnation.com/2015/4/10/8381071/football-statistics-expected-goals-michael-caley-deadspin)
+     +    [Premier League Projections and New Expected Goals](https://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals)
 *    [Jesse Davis](https://twitter.com/jessejdavis1) and [Pieter Robberechts](https://twitter.com/p_robberechts)' Expected Goals pieces for KU Leuven;
      +    [How Data Avilability Affects the Ability to learn Good xG Models](https://dtai.cs.kuleuven.be/sports/blog/how-data-availability-affects-the-ability-to-learn-good-xg-models)
      +    [Illustrating the Interplay between Features and Models in xG](https://dtai.cs.kuleuven.be/sports/blog/illustrating-the-interplay-between-features-and-models-in-xg)
@@ -1263,17 +1267,24 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
      +    [Expected Goals and Unexpected Goals](https://web.archive.org/web/20200724125157/http://business-analytic.co.uk/blog/expected-goals-and-unexpected-goals/) (using WayBackMachine);
      +    [Assessing Expected Goals Models. Part 1: Shots](https://web.archive.org/web/20200724125157/http://business-analytic.co.uk/blog/evaluating-expected-goals-models/) (using WayBackMachine);
      +    [Assessing Expected Goals Models. Part 2: Anatomy of a Big Chance](https://web.archive.org/web/20200724125157/http://business-analytic.co.uk/blog/assessing-expected-goals-models-part-2-anatomy-of-a-big-chance/) (using WayBackMachine);
-*    [How StatsBomb Data Helps Measure Counter-Pressing](https://statsbomb.com/2018/05/how-statsbomb-data-helps-measure-counter-pressing/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM)
+*    [11tegen](https://twitter.com/11tegen11) ([Sander IJtsma](https://twitter.com/IJtsma))'s Expected Goals pieces:
+     +    [A close look at my new Expected Goals Model](https://web.archive.org/web/20200320193539/http://11tegen11.net/2015/08/14/a-close-look-at-my-new-expected-goals-model/) (using WayBackMachine);
+     +    [The best predictor for future performance is Expected Goals](https://web.archive.org/web/20190819000144/http://11tegen11.net/2015/01/05/the-best-predictor-for-future-performance-is-expected-goals/)  (using WayBackMachine);
+*    [Ted Knutson](https://twitter.com/mixedknuts)'s Expected Goals pieces:
+     +    [Explaining and Training Shot Quality](https://statsbomb.com/2016/04/explaining-and-training-shot-quality/)
+     +    [xCommentary](https://statsbomb.com/2016/10/xcommentary/)
+*    [Anatomy of a Shot](https://deepxg.com/2015/10/21/anatomy-of-a-shot/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
+*    [Modern Fitba](https://www.modernfitba.com/)'s Expected Goal Guides [Part 1](https://www.modernfitba.com/blogs/2018/6/26/modern-fitbas-expected-goal-guide-part-1) and [Part 2](https://www.modernfitba.com/blogs/2018/6/26/modern-fitbas-expected-goal-guide-part-2) by [Christian Wulff](https://twitter.com/ahellofabeating);
+*    [How StatsBomb Data Helps Measure Counter-Pressing](https://statsbomb.com/2018/05/how-statsbomb-data-helps-measure-counter-pressing/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM);
+*    [A Shooting Model – An Exp(G)lanation and Application](https://differentgame.wordpress.com/2014/05/19/a-shooting-model-an-expglanation-and-application/) by [Paul Riley](https://twitter.com/footballfactman);
 *    [Introducing xGChain and xGBuildup](https://statsbomb.com/2018/08/introducing-xgchain-and-xgbuildup/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
 *    [Quantifying finishing skill](https://statsbomb.com/2017/07/quantifying-finishing-skill/) by [Marek Kwiatkowski](https://twitter.com/statlurker);
 *    [The Dual Life of Expected Goals (Part 1)](https://statsbomb.com/2018/05/the-dual-life-of-expected-goals-part-1/) by [Mike L. Goodman](https://twitter.com/TheM_L_G);
-*    [A close look at my new Expected Goals Model](https://web.archive.org/web/20200320193539/http://11tegen11.net/2015/08/14/a-close-look-at-my-new-expected-goals-model/) by by [11tegen](https://twitter.com/11tegen11) ([Sander IJtsma](https://twitter.com/IJtsma)] (using WayBackMachine);
 *    [An analysis of different expected goals models](https://www.pinnacle.com/en/betting-articles/Soccer/expected-goals-model-analysis/MEP2N9VMG5CTW99D) by [Benjamin Cronin](https://twitter.com/PinnacleBen);
 *    [Expected Goals 3.0 Methodology](https://www.americansocceranalysis.com/home/2015/4/14/expected-goals-methodology) by [Matthias Kullowatz](https://twitter.com/mattyanselmo);
-*    [Explaining and Training Shot Quality](https://statsbomb.com/2016/04/explaining-and-training-shot-quality/) by [Ted Knutson](https://twitter.com/mixedknuts);
 *    [A simple Expected Goals model](https://cricketsavant.wordpress.com/2017/01/21/a-simple-expected-goals-model/) by Cricket Savant;
 *    [How we calculate Expected Goals (xG)](https://www.fantasyfootballfix.com/blog-index/how-we-calculate-expected-goals-xg/) by Fantasy Football Fix; and
-*    [Una mirada al Soccer Analytics usando R — Parte III](https://medium.com/datos-y-ciencia/una-mirada-al-soccer-analytics-usando-r-parte-iii-3bdff9cd3752) by [Dato Fútbol](https://twitter.com/DatoFutbol_cl) (Ismael Gómez Schmidt).
+*    [Una mirada al Soccer Analytics usando R — Parte III](https://medium.com/datos-y-ciencia/una-mirada-al-soccer-analytics-usando-r-parte-iii-3bdff9cd3752) by [Dato Fútbol](https://twitter.com/DatoFutbol_cl) ([Ismael Gómez Schmidt](https://twitter.com/ismaelgomezs)).
 
 <h5 id="xg-modeling-libraries"> Libraries</h5>
 
