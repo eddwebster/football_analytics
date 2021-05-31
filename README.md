@@ -823,7 +823,7 @@ John Burn-Murdoch for The FT;
 *    [Football Decoded: Using Match Analysis & Context to Interpret the Demands](https://www.amazon.co.uk/FOOTBALL-DECODED-Analysis-Context-Interpret/dp/B08P28B2R5/ref=sr_1_1?dchild=1&keywords=football+decoded&qid=1606734039&sr=8-1) by [Paul Bradley](https://twitter.com/ContextIsKing9);
 *    [Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers](https://www.amazon.co.uk/Sports-Analytics-Coaches-Managers-Decision/) by [Ben Alamar](https://twitter.com/bencalamar);
 *    [Outside the Box](https://www.amazon.co.uk/Outside-Box-Statistical-Journey-Football/) by [Duncan Alexander](https://twitter.com/oilysailor);
-*    [Opta World Football Infographics: The Beautiful Game in Brilliant Detail]https://www.amazon.co.uk/World-Football-Infographics-Adrian-Besley/dp/1780977727() by Adrian Besley;
+*    [Opta World Football Infographics: The Beautiful Game in Brilliant Detail](https://www.amazon.co.uk/World-Football-Infographics-Adrian-Besley/dp/1780977727() by Adrian Besley;
 *    [Zonal Marking: The Making of Modern European Football](https://www.amazon.co.uk/Zonal-Marking-Making-European-Football/) by [Michael Cox](https://twitter.com/Zonal_Marking);
 *    [The Mixer: The Story of Premier League Tactics, from Route One to False Nines](https://www.amazon.co.uk/Mixer-Story-Premier-League-Tactics/) by [Michael Cox](https://twitter.com/Zonal_Marking);
 *    [Inverting the Pyramid](https://www.amazon.co.uk/Inverting-Pyramid-History-Football-Tactics/) by [Jonathan Wilson](https://twitter.com/jonawils);
@@ -1351,6 +1351,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 <h4 id="tracking-data"> Tracking Data</h4>
 
 *    [Laurie Shaw](https://twitter.com/EightyFivePoint)'s Metrica Sports Tracking data series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
+*    [How Tracking Data is Used in Football and What are the Future Challenges](https://www.youtube.com/watch?v=kHTq9cwdkGA) with [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Will Spearman](https://twitter.com/the_spearman) and [David Sumpter](https://twitter.com/Soccermatics) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w);
 *    [Introduction to tracking data in football.](https://www.youtube.com/watch?v=fYqEnoOV9Po) by David Sumpter for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w).
 
 <h4 id="pitch-control-modeling"> Pitch Control Modeling</h4>
@@ -1371,6 +1372,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Beyond Expected Goals](https://www.researchgate.net/profile/William_Spearman/publication/327139841_Beyond_Expected_Goals/links/5b7c3023a6fdcc5f8b5932f7/Beyond-Expected-Goals.pdf) (2018) by [Will Spearman](https://twitter.com/the_spearman);
 *    [Replaying the NBA](http://www.lukebornn.com/papers/sandholtz_ssac_2018.pdf) (2018) by Luke Bornn
 *    [Wide Open Spaces: A statistical technique for measuring space creation in professional soccer](https://www.researchgate.net/publication/324942294_Wide_Open_Spaces_A_statistical_technique_for_measuring_space_creation_in_professional_soccer) (2018) by [Javier Fernandez](https://twitter.com/JaviOnData) and [Luke Bornn](https://twitter.com/LukeBornn);
+*    [Physics-Based	Modeling	of Pass	Probabilities	in	Soccer](https://www.researchgate.net/publication/315166647_Physics-Based_Modeling_of_Pass_Probabilities_in_Soccer) (2017) by [Will Spearman](https://twitter.com/the_spearman), Austin Basye, Greg Dick, Ryan Hotovy, and Paul Pop;
 
 <h5 id="pitch-control-modeling-video"> Video</h5>
 
@@ -1385,9 +1387,11 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 <h4 id="pv-frameworks"> Possession Value (PV) Frameworks</h4>
 
 <h5 id="pv-general"> General</h5>
+
 *    [Why Possession Value Is Bollocks](https://differentgame.wordpress.com/2019/10/27/why-possession-value-is-bollocks/) by [Paul Riley](https://twitter.com/footballfactman)
 
 <h5 id="pv-frameworks-xt"> Expected Threat (xT)</h5>
+
 *    [Introducing Expected Threat (xT)](https://karun.in/blog/expected-threat.html) by [Karun Singh](https://twitter.com/karun1710). Check out also as an unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1361695899131387909.html)] Karun's Twitter thread for the many resources out there around this topic, including: [Episode 19 of The Football Fanalytics Podcast](https://open.spotify.com/episode/0HvcNPxg8Ux6zJB2nGp3VK?si=AOkxcH3KTue4jeEIA6kpWw&nd=1), Karun's StatsBomb conference presentation [[link](https://www.youtube.com/watch?v=mE3sUVCIwfA)] and slides [[link](https://docs.google.com/presentation/d/1tu603CdONhI17AZTrd3mdf1UAf7k-rHwwCLSU_tCx6g/edit#slide=id.p)], [Rob Hickman](https://twitter.com/robwhickman)'s StatsBomb conference presentation where he extended xT to take defensive risk into account [[link](https://twitter.com/robwhickman)], [Last Row View](https://twitter.com/lastrowview) ([Ricardo Tavares](https://twitter.com/rjtavares))'s blog post for evaluating off-the-ball player movements by combining xT and tracking data, and Karun's xT values as a 12x8 grid to download as a JSON file [[link](https://t.co/IoZdCa2BbX?amp=1)].
 
 <h5 id="pv-frameworks-vaep"> Valuing Actions by Estimating Probabilities (VAEP) </h5>
