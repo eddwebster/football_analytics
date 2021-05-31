@@ -17,9 +17,11 @@
 <!-- ABOUT THE REPOSITORY AND AUTHOR -->
 <h2 id="about-the-repository-and-author"> :wave: About This Repository and Author</h2>
 
-Please note, all the work produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
+Please note, all the code and analysis produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
 
-I recently rewrote this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This will be a constant work in progress so if you can think of any resources that I've missed, feel free to create a pull request or send me a message. Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), which were all used to plug gaps in the list once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this readme.
+I recently rewrote this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This will be a constant work in progress so if you can think of any resources that I've missed, feel free to create a pull request or send me a message.
+
+Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), which were all used to plug gaps in the list once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this README.
 
 If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
@@ -58,8 +60,7 @@ For more information about this repository and the author, I'm available through
         <li><a href="#libraries">Libraries</a></li>
         <li><a href="#github-repos">GitHub Repositories</a></li>
         <li><a href="#apps">Apps</a></li>
-        <li><a href="#video-analysis">Video Analysis</a></li>
-        <li><a href="#data-visualisation-tools">Data Visualisation Tools</a></li>
+        <li><a href="#data-visualisation-resources-and-tools">Data Visualisation Resources and Tools</a></li>
         <li>
           <a href="#written-pieces">Written Pieces</a></li>
           <ul>
@@ -71,7 +72,7 @@ For more information about this repository and the author, I'm available through
             <li><a href="#magazines">Magazines</a></li>
           </ul>
         </li>
-        <li><a href="#videos">Videos</a></li>
+        <li><a href="#video">Video</a></li>
         <li><a href="#podcasts">Podcasts</a></li>
         <li><a href="#notable-figures-and-twitter-accounts">Notable Figures and Twitter Accounts</a></li>
         <li><a href="#career-advice">Career Advice</a></li>
@@ -241,8 +242,8 @@ Data sources featured in this repository include:
 <h3 id="getting-started"> :bookmark_tabs: Getting Started with Football Analytics</h3>
 Good resources for those new for the use of data in football:
 
-*    [Soccer Analytics 101](https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus);
 *    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller) - check out his Newsletter [space space space](https://spacespacespaceletter.com/author/johnmuller/);
+*    [Soccer Analytics 101](https://web.archive.org/web/20201101011408/https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus);
 *    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for Friends of Tracking with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), Hannah Roberts, [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby);
 *    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
 *    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) and [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam);
@@ -509,12 +510,7 @@ StatsBomb  JSON file and get a CSV file back (you need to create a free account 
 *    [Tracking Tagger](http://tracking-tagger.herokuapp.com/tracking_tagger) by [@danzn1](https://twitter.com/danzn1). See GitHub repo [[[link](https://github.com/znstrider/tracking_tagger)].
 
 
-<h3 id="video-analysis"> Video Analysis</h3>
-  
-*    Over 150 video analysis videos by [Carlon Carpenter](https://twitter.com/C_Carpenter14) - see Google Drive [[link](https://t.co/mH9BKFnG6g?amp=1)].
-
-
-<h3 id="data-visualisation-tools"> :bar_chart: Data Visualisation Tools</h3>
+<h3 id="data-visualisation-resources-and-tools"> :bar_chart: Data Visualisation Resources and Tools</h3>
 
 Resources to aid data visualisation:
 
@@ -529,7 +525,7 @@ Resources to aid data visualisation:
 
 <h5 id="blogs-highly-rated-and-recommended-pieces"> Highly Rated and Recommended Pieces</h5>
   
-Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/GregorydSam)'s [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) piece and [Tom Worville](https://twitter.com/Worville)'s [“What’s the best Football Analytics piece you’ve ever read?”](https://medium.com/@worville/whats-the-best-football-analytics-piece-you-ve-ever-read-815c0bf50ccf).
+Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/GregorydSam)'s [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) piece and [Tom Worville](https://twitter.com/Worville)'s [“What’s the best Football Analytics piece you’ve ever read?”](https://medium.com/@worville/whats-the-best-football-analytics-piece-you-ve-ever-read-815c0bf50ccf), both articles now a few years old. This section is very subjective so if I've missed anything obvious, apologies.
 
 *    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen);
 *    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney);
@@ -543,9 +539,11 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Introducing Passing Combinations](https://wawrzynow.wordpress.com/2021/01/06/introducing-passing-combinations/) by [Piotr Wawrzynów](https://twitter.com/pwawrzynow);
 *    [Pass Footedness in the Premier League](https://statsbomb.com/2019/04/pass-footedness-in-the-premier-league/) by [James Yorke](https://twitter.com/jair1970);
 *    [Messi Walks Better Than Most Players Run](https://fivethirtyeight.com/features/messi-walks-better-than-most-players-run/) by [Bobby Gardiner](https://twitter.com/BobbyGardiner);
-*    [Soccer Analytics 101](https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by Kevin Minkus;
+*    [Introduction Expected Goals on Target (xGoT)](https://www.statsperform.com/resource/introducing-expected-goals-on-target-xgot/) by [Jonny Whitmore](https://twitter.com/JonnyWhitmore14);
+*    [Anatomy of a Shot](https://deepxg.com/2015/10/21/anatomy-of-a-shot/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
+*    [Soccer Analytics 101](https://web.archive.org/web/20201101011408/https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus);
 *    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller);
-*    [Valuing On-the-Ball Actions in Soccer: A Critical Comparison of xT and VAEP](https://dtai.cs.kuleuven.be/sports/blog/valuing-on-the-ball-actions-in-soccer-a-critical-comparison-of-xt-and-vaep) by Jesse Davis, Tom Decroos, Pieter Robberechts, Maaike Van Roy;
+*    [Valuing On-the-Ball Actions in Soccer: A Critical Comparison of xT and VAEP](https://dtai.cs.kuleuven.be/sports/blog/valuing-on-the-ball-actions-in-soccer-a-critical-comparison-of-xt-and-vaep) by [Jesse Davis](https://twitter.com/jessejdavis1), [Tom Decroos](https://twitter.com/TomDecroos), [Pieter Robberechts](https://twitter.com/p_robberechts), [Maaike Van Roy](https://twitter.com/MaaikeVanRoy);
 *    [Game of Throw-Ins](https://www.americansocceranalysis.com/home/2018/11/27/game-of-throw-ins) by [Eliot McKinley](https://twitter.com/etmckinley);
 *    [Expected Threat](https://karun.in/blog/expected-threat.html) by [Karun Singh](https://twitter.com/karun1710). Check out also as an unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1361695899131387909.html)] Karun's Twitter thread for the many resources out there around this topic, including: [Episode 19 of The Football Fanalytics Podcast](https://open.spotify.com/episode/0HvcNPxg8Ux6zJB2nGp3VK?si=AOkxcH3KTue4jeEIA6kpWw&nd=1), Karun's StatsBomb conference presentation [[link](https://www.youtube.com/watch?v=mE3sUVCIwfA)] and slides [[link](https://docs.google.com/presentation/d/1tu603CdONhI17AZTrd3mdf1UAf7k-rHwwCLSU_tCx6g/edit#slide=id.p)], [Rob Hickman](https://twitter.com/robwhickman)'s StatsBomb conference presentation where he extended xT to take defensive risk into account [[link](https://twitter.com/robwhickman)], [Last Row View](https://twitter.com/lastrowview) ([Ricardo Tavares](https://twitter.com/rjtavares))'s blog post for evaluating off-the-ball player movements by combining xT and tracking data, and Karun's xT values as a 12x8 grid to download as a JSON file [[link](https://t.co/IoZdCa2BbX?amp=1)];
 *    [Lionel Messi’s ten stages of greatness](https://theathletic.co.uk/1880554/2020/08/07/lionel-messi-barcelona-la-liga-champions-league/) by Michael Cox and [Tom Worville](https://twitter.com/Worville);
@@ -572,6 +570,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Barça Innovation Hub](https://barcainnovationhub.com/category/blog/);
 *    [Brendan Kent](https://brendankent.com/). Check out his [Sports Analytics 101 series](https://brendankent.com/sports-analytics-101/);
 *    [Carey Analytics](https://careyanalytics.wordpress.com/) by [Mark Carey](https://twitter.com/MarkCarey93);
+*    [Danny Page's Medium blog](https://medium.com/@dannypage);
 *    [Dato Fútbol](https://www.datofutbol.cl/) by [Dato Fútbol](https://twitter.com/DatoFutbol_cl) ([Ismael Gómez Schmidt](https://twitter.com/ismaelgomezs));
 *    [DeepxG](https://deepxg.com/) by [Thom Lawrence](https://twitter.com/lemonwatcher) (last updated 29/11/2017);
 *    [Differentgame](https://differentgame.wordpress.com/) by [Paul Riley](https://twitter.com/footballfactman);
@@ -617,7 +616,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Ravi Mistry's Medium blog](https://scribblr42.medium.com/);
 *    [robert-hickman.eu](https://www.robert-hickman.eu/);
 *    [SaddlersStats](https://www.saddlersstats.co.uk/);
-*    [Sam Gregory Medium blog](https://medium.com/@GregorydSam);
+*    [Sam Gregory's Medium blog](https://medium.com/@GregorydSam);
 *    [SciSports](https://www.scisports.com/);
 *    [The Significant Game](https://www.thesignificantgame.com/portfolio/) by [Lars Maurath](https://twitter.com/thesignigame);
 *    [Soccermatics Medium blog](https://www.soccermetrics.net/blog) by [David Sumpter](https://www.soccermetrics.net/blog);
@@ -822,11 +821,9 @@ John Burn-Murdoch for The FT;
 *    [Scouted Football Handbook](https://sfhandbook.com/)
 
 
-<h3 id="videos"> :vhs: Videos</h3>
+<h3 id="video"> :vhs: Video</h3>
 
-For a YouTube playlist of over 800 Sports Analytics / Data Science videos that I have collated into one single playlist, originally for my own viewing but it may be useful to you, see [[link](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo)]. For Football-specific Data Science lectures and seminars, see [[link](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y)]. For a Tableau Football specific playlist, see [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
-
-<h4 id="youtube-playlists"> YouTube playlists</h4>
+<h4 id="youtube-playlists"> YouTube Playlists</h4>
 
 The following is a series of playlists that that I have collated originally for my own personal viewing but they may be useful to you:
 *    [All Sports Analytics](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo) - a huge playlist of around 800 video that includes anything at all to do with Sports Analytics and Data Science. Any video found related to the topic is here;
@@ -836,6 +833,10 @@ The following is a series of playlists that that I have collated originally for 
 *    [Football-specific Data Viz](https://www.youtube.com/playlist?list=PL38nJNjpNpH-ortstT_BUSPXFFh7wSSuH);
 *    [Tracking data](https://www.youtube.com/playlist?list=PL38nJNjpNpH-UX0YVNu7oN5gAWQc2hq8F) - all videos related to the topic of Tracking data include presentations and tutorials;
 *    [Expected Goals](https://www.youtube.com/playlist?list=PL38nJNjpNpH_VPRZJrkaPZOJfyuIaZHUY)
+
+<h4 id="video-analysis"> Video Analysis</h4>
+  
+*    Over 150 video analysis videos by [Carlon Carpenter](https://twitter.com/C_Carpenter14) - see Google Drive [[link](https://t.co/mH9BKFnG6g?amp=1)].
 
 <h4 id="webinars-and-lectures"> Webinars and Lectures</h4>
 
@@ -960,7 +961,7 @@ Spotify and YouTube links used where available.
 *    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (Spanish) by [Marcelo Gantman](https://twitter.com/marcelogantman) and Agustin Mario Gimenez:
      +    [87: No es Moneyball: es Brentford](https://open.spotify.com/episode/3b8lnFZjm27ag2R0SUZRdZ?si=CI_LfzetQSCs2yLiQ5HMMg)
      +    [66: Tres Libros Sobre Sports Analytics Más Allá De Moneyball](https://open.spotify.com/episode/3nebrUaTswrXGtztoulM3S?si=2IvLTxFpQ9CfPPiGPyov3g)
-     +    [65: Métrica Sports: La máquina de entender el juego](https://open.spotify.com/episode/5egzgcesbAzMlzZBxMmMIK?si=V7pTj8n7R9OWhNmMV62-wA) withg Bruno Dagnino
+     +    [65: Métrica Sports: La máquina de entender el juego](https://open.spotify.com/episode/5egzgcesbAzMlzZBxMmMIK?si=V7pTj8n7R9OWhNmMV62-wA) with [Bruno Dagnino](https://twitter.com/brunodagnino)
      +    [56: STATS PERFORM: Cómo es el nuevo gigante de los datos del fútbol](https://open.spotify.com/episode/0KoAJxa7bEE1qtIiw3e34y?si=Dkxu0pwHToiF5kmh5Vx6Iw)
      +    [47: Wyscout: 550 Mil Futbolistas "concentrados" En Un Software](https://open.spotify.com/episode/7vI1qM7KoJHkFoe11iX3Nj?si=v4BaWwBaSc61y-PM9F-75w)
      +    [35: Big Data Sports - 35: Analistas: Los nuevos "cracks" del fútbol ](https://open.spotify.com/episode/1e8KEFHNvLb5T0HUZS57gN?si=9XlTI81mSaKGYuSK4ADvfQ)
@@ -1018,18 +1019,21 @@ Spotify and YouTube links used where available.
 *    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with Ron Yurko;
      +    [Player Chemistry in Soccer](https://anchor.fm/open-source-sports/episodes/Player-Chemistry-in-Soccer-with-Lotte-Bransen-ejils5) with Lotte Bransen
 *    [The Ornstein & Chapman Podcast](https://open.spotify.com/show/69AAB4ojTuK7gwy3ZdQdB9?si=ciYED_kESKqfa2K505QsrQ) with David Ornstein and Mark Chapman:
-     +    [Football Club Ownership: Data, Decisions & Competitive Edge](https://open.spotify.com/episode/6v739L7LR13BZs4sPmDeGD?si=3TRs_IunT6-pVhA78ZPgGw)
+     +    [Football Club Ownership: Data, Decisions & Competitive Edge](https://open.spotify.com/episode/6v739L7LR13BZs4sPmDeGD?si=3TRs_IunT6-pVhA78ZPgGw) with Simon Hallett
 *    [Pacey Performance Podcast](https://open.spotify.com/show/4J7lhwdc8jCT92CyKluXQr?si=gcppVCtDS4yPJt-QosJPCw) with [Robert Pacey](https://twitter.com/strengthofsci):
      +    #340 What is data science (and what isn't), data informed decision making with [Sudarshan Golaladesikan](https://twitter.com/suds_g) - [Spotify](https://open.spotify.com/episode/37EhvnA8bRXHV9KXClQRPB?si=Pbcech5OTbW6ZRIYSEAMFg) and [YouTube](https://www.youtube.com/watch?v=Xd7MOeu9rtM&ab_channel=PaceyPerformance); 
 *    [The PinkUn Norwich City Podcast](https://open.spotify.com/show/4NU35xCqwl8kyUG9v8Sx2A?si=3AgoCZRRT5en1zaNVIEI-Q):
      +    [232: 'Analysing Norwich City's Recruitment' - The Rebound #3 - Ft. Data Analyst Ram Srinivas](https://open.spotify.com/episode/7idmp92m0Pfv2XiW8vOzZU?si=NCc6-ZDWSdWgum1WfVv-VA)
 *    [Pinnacle Podcast](https://open.spotify.com/show/091oYrS0glFhP81fq32bpE?si=TmR79XGnRAm5987Zj33ImA):
-*    +    [Serious About Betting: David Sumpter](https://open.spotify.com/episode/6Bt5L7wXDGvrSezYL2FU2O?si=IgQB1TArR9CBTnecZxb6qA)
+     +    [Serious About Betting: David Sumpter](https://open.spotify.com/episode/6Bt5L7wXDGvrSezYL2FU2O?si=IgQB1TArR9CBTnecZxb6qA)
 *    [The Process](https://open.spotify.com/show/5H0uUcZGr6zw7AHRuLKP6D?si=7XUIxepzTYyVRS3fEwG7Lw) with James Allcott:
      +    [#16 The Future of Football with Ted Knutson (StatsBomb)](https://open.spotify.com/episode/4KKWkT6tAn2puAe2IqOtLq?si=Br5HbR_lRvCsO5oFf0sqOw)
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=hBYRN1GgSc2eSIDUMiwDfA&nd=1):
      +    [#26 Recruitment, Data and Sheffield United with Blades Analytic](https://open.spotify.com/episode/1EeM7PCLq5fBngMGdVROkN?si=7W6-FrhASsafAKvbmdY6DQ)
      +    [#56 Standout Stats: Premier League](https://open.spotify.com/episode/37SlOJmtoviAKgNanq7Fxq?si=JzBDUt7iRHCKhTPomuVjAA) with Mark Carey
+*    [The Football Analytics Shot by The Power Rank and Ed Feng](https://open.spotify.com/show/2QCXu9ZYx1SpUeGjpZQ9yH?si=4_C7mIeARAS4gBJFRmxhPA):
+     +    [Michael Caley on soccer analytics](https://open.spotify.com/episode/6Dtm22Cvcw6DLw9pYHhStK?si=G-3BICroQ8O6TGK0Eglwvg)
+     +    [Mike Goodman on World Cup predictions and soccer analytics](https://open.spotify.com/episode/0twVQB3qwx88H8wOVjPgWd?si=SRN2Y65NRaufIKb5r1k0EQ)
 *    Soccer Player Development Podcast:
      +    Episode 12 with Rasmus Ankersen - [YouTube](https://www.youtube.com/watch?v=S0iHetgqQpE)
 *    [Squawka Talker Football Podcast](https://open.spotify.com/show/7xqylrPDX54uo01n4erZQZ?si=XpMNQ43aQxKUa6QuB0dp2w):
@@ -1049,9 +1053,9 @@ Spotify and YouTube links used where available.
 *    [The Totally Football Show](https://open.spotify.com/show/30pUHuXuSQBSf7EfZQuEvS?si=3NahWL3IR-CBAKdXzQ9cGA) with James Richardson
      +    [03/07/2019: Football Hackers](https://open.spotify.com/episode/00lwcYEV82Pz639PPadlCf?si=2SZQOpIySw-zSsN6wczQwA) with Christoph Biermann
 *    [Total Soccer Show](https://open.spotify.com/show/4bDhkcGQjbNqIGszh371y1?si=Bww9nrROTTmLT8AM__7NTg):
-     +    Soccer stats and analytics with Ted Knutson (@mixedknuts) (in which Ted explains Expected Goals to Daryl) - [YouTube](https://www.youtube.com/watch?v=abPYPmgMPso)
+     +    Soccer stats and analytics with [Ted Knutson](https://twitter.com/mixedknuts) (in which Ted explains Expected Goals to Daryl) - [YouTube](https://www.youtube.com/watch?v=abPYPmgMPso)
      +    Mike L. Goodman (@TheM_L_G) talks USMNT tactical options, EPL trends, Expected Goals - [YouTube](https://www.youtube.com/watch?v=uxaQwMC0EYY)
-     +    Everton Premier League preview: Mike L. Goodman (@TheM_L_G) talks Silva's style, Moise Kean, and replacing - [YouTube](https://www.youtube.com/watch?v=Fb94W2-THG0)
+     +    Everton Premier League preview: [Mike L. Goodman](https://twitter.com/TheM_L_G) talks Silva's style, Moise Kean, and replacing - [YouTube](https://www.youtube.com/watch?v=Fb94W2-THG0)
 *    [Trademate Sports](https://open.spotify.com/show/2LPzUrtsWvz5iSayEGeEQK?si=prrlKqiwQ7-bKIUtbemkeQ):
      +    [Ep 19: Freelance Football Writer talks Data Analysis, Liverpool & Betting](https://open.spotify.com/episode/1wDpG7biQ5PxYfm45NNgaF?si=NwKrXzkKSVqzROhD-58Vsw) with Andrew Beasley
      +    [Ep 87: Mathematics Professor David Sumpter & Trademate CEO Marius Norheim - Using Mathematics in...](https://open.spotify.com/episode/6jYhTHxujga5D9j37uQbLt?si=3gwKy27dRcOgVij5bYpGzA)
@@ -1066,9 +1070,9 @@ Spotify and YouTube links used where available.
 <h3 id="notable-figures-and-twitter-accounts"> :man_technologist: Notable Figures and Twitter Accounts</h3>
 
 *    [2020 Analytics Twitter Top 1,000 Power Rankings](https://github.com/anenglishgoat/analyticsTwitterInteractions/blob/main/AnalyticsTwitterPageRank.csv), calculated by [Will Thomson](https://twitter.com/AnEnglishGoat). See the Twitter list created by [Luton Town Analytics](https://twitter.com/LutonAnalytics) [[link](https://twitter.com/i/lists/1341323211993182208)];
-*    [Sports Analytics Twitter list](https://twitter.com/i/lists/831946455837446144) by Jan Van Haaren;
-*    [Soccer People](https://twitter.com/i/lists/1288082572195639296) by John Muller;
-*    [Football Analysts Twitter list](https://twitter.com/i/lists/87731485) by Colin Trainor;
+*    [Sports Analytics Twitter list](https://twitter.com/i/lists/831946455837446144) by [Jan Van Haaren](https://twitter.com/JanVanHaaren);
+*    [Soccer People](https://twitter.com/i/lists/1288082572195639296) by [John Muller](https://twitter.com/johnspacemuller);
+*    [Football Analysts Twitter list](https://twitter.com/i/lists/87731485) by [Colin Trainor](https://twitter.com/colintrainor);
 *    [Opta Staff Twitter list](https://twitter.com/i/lists/37233853) by Opta;
 *    [Football Analyst Community Rankings dashboard](https://public.tableau.com/profile/grecian#!/vizhome/FootballAnalystCommunityRankings/Dashboard1) by Neil Charles; and
 *    [Football data Analysts spreadsheet](https://docs.google.com/spreadsheets/d/1wjMVOpupmcF4hEG7PO4lY6l2mKsldGsnkyAULQwyAp8/) by [Dan Altman](https://twitter.com/NYAsports) (few years old now but lists the OGs of football analytics).
@@ -1078,8 +1082,7 @@ Spotify and YouTube links used where available.
 
 *    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) by [Sam Gregory](https://twitter.com/GregorydSam);
 *    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam);
-*    [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) by [Sam Gregory](https://twitter.com/GregorydSam);
-*    [How to become a football data scientist – Friends of Tracking](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, Javier Fernández, Suds Gopaladesikan, Fran Peralta, and David Sumpter;
+*    [How to become a football data scientist – Friends of Tracking](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds Gopaladesikan](https://twitter.com/suds_g), [Fran Peralta](https://twitter.com/PeraltaFran23), and [David Sumpter](https://twitter.com/Soccermatics);
 *    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for Friends of Tracking with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), Hannah Roberts, [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby);
 *    [HANIC Panel "How to get into Sports Analytics & Media + Analytics"](https://www.youtube.com/watch?v=oUVISEJaEMM) with Alison Lukan, Sarah Bailey, Harman Dayal, Asmae Toumi Mike Johnson, Alison Lukan;
 *    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by The Video Analyst;
@@ -1278,8 +1281,11 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [How StatsBomb Data Helps Measure Counter-Pressing](https://statsbomb.com/2018/05/how-statsbomb-data-helps-measure-counter-pressing/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM);
 *    [A Shooting Model – An Exp(G)lanation and Application](https://differentgame.wordpress.com/2014/05/19/a-shooting-model-an-expglanation-and-application/) by [Paul Riley](https://twitter.com/footballfactman);
 *    [Introducing xGChain and xGBuildup](https://statsbomb.com/2018/08/introducing-xgchain-and-xgbuildup/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
+*    [Introduction Expected Goals on Target (xGoT)](https://www.statsperform.com/resource/introducing-expected-goals-on-target-xgot/) by [Jonny Whitmore](https://twitter.com/JonnyWhitmore14);
 *    [Quantifying finishing skill](https://statsbomb.com/2017/07/quantifying-finishing-skill/) by [Marek Kwiatkowski](https://twitter.com/statlurker);
 *    [The Dual Life of Expected Goals (Part 1)](https://statsbomb.com/2018/05/the-dual-life-of-expected-goals-part-1/) by [Mike L. Goodman](https://twitter.com/TheM_L_G);
+*    [Many bad shots or one good shot?](http://www.luishusier.com/2017/10/19/shot_variability/) by [Luis Husier](https://twitter.com/luishusier);
+*    [Expected Goals Just Don’t Add Up — They Also Multiply.](https://medium.com/@dannypage/expected-goals-just-don-t-add-up-they-also-multiply-1dfd9b52c7d0) by [Danny Page](https://twitter.com/DannyPage);
 *    [An analysis of different expected goals models](https://www.pinnacle.com/en/betting-articles/Soccer/expected-goals-model-analysis/MEP2N9VMG5CTW99D) by [Benjamin Cronin](https://twitter.com/PinnacleBen);
 *    [Expected Goals 3.0 Methodology](https://www.americansocceranalysis.com/home/2015/4/14/expected-goals-methodology) by [Matthias Kullowatz](https://twitter.com/mattyanselmo);
 *    [A simple Expected Goals model](https://cricketsavant.wordpress.com/2017/01/21/a-simple-expected-goals-model/) by Cricket Savant;
@@ -1331,9 +1337,11 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h4 id="pv-frameworks"> Possession Value (PV) Frameworks</h4>
 
-<h5 id="pv-frameworks-xt"> Expected Threat (xT)</h5>
+<h5 id="pv-general"> General</h5>
+*    [Why Possession Value Is Bollocks](https://differentgame.wordpress.com/2019/10/27/why-possession-value-is-bollocks/) by [Paul Riley](https://twitter.com/footballfactman)
 
-[TO ADD]
+<h5 id="pv-frameworks-xt"> Expected Threat (xT)</h5>
+*    [Introducing Expected Threat (xT)](https://karun.in/blog/expected-threat.html) by [Karun Singh](https://twitter.com/karun1710). Check out also as an unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1361695899131387909.html)] Karun's Twitter thread for the many resources out there around this topic, including: [Episode 19 of The Football Fanalytics Podcast](https://open.spotify.com/episode/0HvcNPxg8Ux6zJB2nGp3VK?si=AOkxcH3KTue4jeEIA6kpWw&nd=1), Karun's StatsBomb conference presentation [[link](https://www.youtube.com/watch?v=mE3sUVCIwfA)] and slides [[link](https://docs.google.com/presentation/d/1tu603CdONhI17AZTrd3mdf1UAf7k-rHwwCLSU_tCx6g/edit#slide=id.p)], [Rob Hickman](https://twitter.com/robwhickman)'s StatsBomb conference presentation where he extended xT to take defensive risk into account [[link](https://twitter.com/robwhickman)], [Last Row View](https://twitter.com/lastrowview) ([Ricardo Tavares](https://twitter.com/rjtavares))'s blog post for evaluating off-the-ball player movements by combining xT and tracking data, and Karun's xT values as a 12x8 grid to download as a JSON file [[link](https://t.co/IoZdCa2BbX?amp=1)].
 
 <h5 id="pv-frameworks-vaep"> Valuing Actions by Estimating Probabilities (VAEP) </h5>
 
