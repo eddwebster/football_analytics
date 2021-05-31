@@ -825,7 +825,7 @@ John Burn-Murdoch for The FT;
 *    [Football Decoded: Using Match Analysis & Context to Interpret the Demands](https://www.amazon.co.uk/FOOTBALL-DECODED-Analysis-Context-Interpret/dp/B08P28B2R5/ref=sr_1_1?dchild=1&keywords=football+decoded&qid=1606734039&sr=8-1) by [Paul Bradley](https://twitter.com/ContextIsKing9);
 *    [Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers](https://www.amazon.co.uk/Sports-Analytics-Coaches-Managers-Decision/) by [Ben Alamar](https://twitter.com/bencalamar);
 *    [Outside the Box](https://www.amazon.co.uk/Outside-Box-Statistical-Journey-Football/) by [Duncan Alexander](https://twitter.com/oilysailor);
-*    [Opta World Football Infographics: The Beautiful Game in Brilliant Detail](https://www.amazon.co.uk/World-Football-Infographics-Adrian-Besley/dp/1780977727() by Adrian Besley;
+*    [Opta World Football Infographics: The Beautiful Game in Brilliant Detail](https://www.amazon.co.uk/World-Football-Infographics-Adrian-Besley/dp/1780977727) by Adrian Besley;
 *    [Zonal Marking: The Making of Modern European Football](https://www.amazon.co.uk/Zonal-Marking-Making-European-Football/) by [Michael Cox](https://twitter.com/Zonal_Marking);
 *    [The Mixer: The Story of Premier League Tactics, from Route One to False Nines](https://www.amazon.co.uk/Mixer-Story-Premier-League-Tactics/) by [Michael Cox](https://twitter.com/Zonal_Marking);
 *    [Inverting the Pyramid](https://www.amazon.co.uk/Inverting-Pyramid-History-Football-Tactics/) by [Jonathan Wilson](https://twitter.com/jonawils);
@@ -1229,7 +1229,7 @@ The following includes non-football competitions.
 
 <h3 id="key-concepts"> :key: Key Concepts</h3>
 
-Focus on some of the key topics in football analytics. Most of the following resources features above but are instead reorganised by topic.
+Focus on some of the key topics in football analytics. Most of the following resources features above but are instead reorganised by topic. This section is still very much a work in progress as I go along and may be missing resources mentioned above.
 
 <h4 id="history-of-football-analytics"> History of Football Analytics</h4>
 
