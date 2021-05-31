@@ -813,6 +813,8 @@ John Burn-Murdoch for The FT;
 
 <h4 id="books"> :books: Books</h4>
 
+The following use Amazon UK links were available.
+
 *    [Moneyball: The Art of Winning an Unfair Game](https://www.amazon.co.uk/Moneyball-Art-Winning-Unfair-Game/) by Michael Lewis;
 *    [The Numbers Game](https://www.amazon.co.uk/Numbers-Game-Everything-About-Football/) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6);
 *    [Football Hackers](https://www.amazon.co.uk/Football-Hackers-Science-Data-Revolution/) by [Christoph Biermann](https://twitter.com/chbiermann);
@@ -828,6 +830,7 @@ John Burn-Murdoch for The FT;
 *    [Opta World Football Infographics: The Beautiful Game in Brilliant Detail](https://www.amazon.co.uk/World-Football-Infographics-Adrian-Besley/dp/1780977727) by Adrian Besley;
 *    [Zonal Marking: The Making of Modern European Football](https://www.amazon.co.uk/Zonal-Marking-Making-European-Football/) by [Michael Cox](https://twitter.com/Zonal_Marking);
 *    [The Mixer: The Story of Premier League Tactics, from Route One to False Nines](https://www.amazon.co.uk/Mixer-Story-Premier-League-Tactics/) by [Michael Cox](https://twitter.com/Zonal_Marking);
+*    [The Price of Football](https://www.amazon.co.uk/Price-Football-SECOND-Understanding-Finance/dp/1788213262/ref=sr_1_1?dchild=1&keywords=the+price+of+football&qid=1622504446&sr=8-1) by [Kieran Maguire](https://twitter.com/KieranMaguire). Check out [The Price of Football Podcast](https://open.spotify.com/show/7c7ltYVwnicbVz0uYTXAW5?si=RKAejr9oQTu6xpJQc4QscQ) with [Kieran Maguire](https://twitter.com/KieranMaguire) and [Kevin Hunter Day](https://twitter.com/KevinHunterDay);
 *    [Inverting the Pyramid](https://www.amazon.co.uk/Inverting-Pyramid-History-Football-Tactics/) by [Jonathan Wilson](https://twitter.com/jonawils);
 *    [Sprawlball: A Visual Tour of the New Era of the NBA](https://www.amazon.co.uk/Sprawlball-Visual-Tour-New-Era/dp/1328767515/) by [Kirk Goldsberry](https://twitter.com/kirkgoldsberry); and
 *    [Numbers Don't Lie: New Adventures in Counting and What Counts in Basketball Analytics](https://www.amazon.co.uk/Numbers-Dont-Lie-Adventures-Basketball/) by Yago Colás.
@@ -995,6 +998,7 @@ Spotify and YouTube links used where available.
 *    [MRKT Insights](https://open.spotify.com/show/3q32QkmAXwth5VJwU8uzWt?si=8_vyLb6WQd2wTJt5MxdBoA) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally  [Jay Socik](https://twitter.com/Blades_analytic);
 *    [Measurables Podcast](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW) by [Brendan Kent](https://twitter.com/brendankent);
 *    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with [Ron Yurko](https://twitter.com/Stat_Ron);
+*    [The Price of Football Podcast](https://open.spotify.com/show/7c7ltYVwnicbVz0uYTXAW5?si=RKAejr9oQTu6xpJQc4QscQ) with [Kieran Maguire](https://twitter.com/KieranMaguire) and [Kevin Hunter Day](https://twitter.com/KevinHunterDay). Check out the [The Price of Football](https://www.amazon.co.uk/Price-Football-SECOND-Understanding-Finance/dp/1788213262/ref=sr_1_1?dchild=1&keywords=the+price+of+football&qid=1622504446&sr=8-1) book by [Kieran Maguire](https://twitter.com/KieranMaguire).
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=M6xgCGtdTjiy0wEl1e2CJw);
 *    [smarterscout: The Why in Analytics](https://open.spotify.com/show/2QP4KXajJ5xOfW1ny78nAf?si=NQAf_4XtSFeQXAZi1bbupQ) by Dan Altman;
 *    [Squawka Talker Football Podcast](https://open.spotify.com/show/7xqylrPDX54uo01n4erZQZ?si=XpMNQ43aQxKUa6QuB0dp2w);
