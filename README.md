@@ -100,6 +100,7 @@ For more information about this repository and the author, I'm available through
             <li><a href="#history-of-football-analytics">History of Football Analytics</a></li>
             <li><a href="#xg-modeling">Expected Goals (xG) Modeling</a></li>
             <li><a href="#tracking-data">Tracking Data</a></li>
+            <li><a href="#pitch-control-modeling">Pitch Control Modeling</a></li>
             <li><a href="#pv-frameworks">Possession Value (PV) Frameworks</a></li>
             <li><a href="#player-similarity-analysis">Player Similarity Analysis</a></li>
             <li><a href="#rl-for-football-simulation">Reinforcement Learning for Football Simulation</a></li>            
