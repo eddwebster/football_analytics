@@ -19,7 +19,7 @@
 
 Please note, all the code and analysis produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
 
-I recently rewrote this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This will be a constant work in progress so if you can think of any resources that I've missed, feel free to create a pull request or send me a message.
+I recently rewrote this README to include links not only to my own work, but also to include a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This will be a constant work in progress so if you can think of any resources that I've missed, or you yourself have created something that you believe should be added and is currently not available, please feel free to create a pull request or send me a message.
 
 Credits to the [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), which were all used to plug gaps in the list once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this README.
 
@@ -70,6 +70,19 @@ For more information about this repository and the author, I'm available through
             <li><a href="#news-articles">News Articles</a></li>
             <li><a href="#books">Books</a></li>
             <li><a href="#magazines">Magazines</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#video">Video</a></li>
+          <ul>
+            <li><a href="#youtube-playlists">YouTube Playlists</a></li>
+            <li><a href="#youtube-channels">YouTube Channels</a></li>
+            <li><a href="#video-analysis">Video Analysis</a></li>
+            <li><a href="#webinars-and-lectures">Webinars and Lectures</a></li>
+            <li><a href="#ted-talks">Ted Talks</a></li>
+            <li><a href="#documentaries">Documentaries</a></li>
+            <li><a href="#match-highlights">Match Highlights</a></li>
+            <li><a href="#video-other">Other</a></li>
           </ul>
         </li>
         <li><a href="#video">Video</a></li>
@@ -466,9 +479,10 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 
 #### R
 *    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) - a soccer visualisation library in R from [Ben Torvaney](https://twitter.com/Torvaney);
+*    [`soccerAnimate`](https://github.com/Dato-Futbol/soccerAnimate) - an R package to create 2D animations of soccer tracking data;
+*    [`soccermatics`](https://github.com/JoGall/soccermatics) - an R package for the visualisation and analysis of soccer tracking and event data by [Joe Gallagher](https://twitter.com/joedgallagher);
 *    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) - a R package to allow users to extract various world football results and player statistics data from FBref and valuations and transfer data from TransferMarkt.com by [Jason Zivkovic](https://twitter.com/jaseziv); and
 *    [`understatr`](https://github.com/ewenme/understatr) - a R package to scrape data from Understat.
-
 
 <h3 id="github-repos"> GitHub Repositories</h3>
 
@@ -495,9 +509,7 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 
 <h4 id="r"> R</h4>
 
-*    [`FoundationsInR`](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR) by [Sudarshan Golaladesikan](https://twitter.com/suds_g) - getting started with R using the StatsBomb dataset;
-*    [`soccerAnimate`](https://github.com/Dato-Futbol/soccerAnimate) - an R package to create 2D animations of soccer tracking data;
-*    [`soccermatics`](https://github.com/JoGall/soccermatics) - an R package for the visualisation and analysis of soccer tracking and event data by [Joe Gallagher](https://twitter.com/joedgallagher).
+*    [`FoundationsInR`](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR) by [Sudarshan Golaladesikan](https://twitter.com/suds_g) - getting started with R using the StatsBomb dataset.
 
 <h3 id="apps"> Apps</h3>
 
@@ -744,6 +756,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [Absolute Unit](https://absoluteunit.substack.com/);
 *    [Get Goalside!](https://getgoalside.substack.com/);
 *    [geom_mark](http://geommark.space/);
+*    [GrigginFtbl](https://griffinftbl.substack.com/) by [Luke Griffin](https://twitter.com/GriffinFtbl);
 *    [Grace on Football](https://onfootball.substack.com/) by [Grace Robertson](https://twitter.com/graceonfootball);
 *    [Looks Good on Paper](https://looksgoodonpaper.substack.com/) by [Felix Pate](https://twitter.com/lgopfelix);
 *    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent);
@@ -834,6 +847,24 @@ The following is a series of playlists that that I have collated originally for 
 *    [Tracking data](https://www.youtube.com/playlist?list=PL38nJNjpNpH-UX0YVNu7oN5gAWQc2hq8F) - all videos related to the topic of Tracking data include presentations and tutorials;
 *    [Expected Goals](https://www.youtube.com/playlist?list=PL38nJNjpNpH_VPRZJrkaPZOJfyuIaZHUY)
 
+<h4 id="youtube-channels"> YouTube Channels</h4>
+
+*    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Javier Fernández](https://twitter.com/JaviOnData), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Pascal Bauer](https://twitter.com/pascal_bauer), and [Fran Peralta](https://twitter.com/PeraltaFran23);
+*    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg) - for Python tutorials;
+*    [Barça Innovation Hub](https://www.youtube.com/channel/UC58nLq78KZGqxfSNFNRCgsQ) (English and Spanish);
+*    [Mark Glickman](https://www.youtube.com/channel/UC-gtC2WYRAr_4eYRIUb4ovg) – for NESSIS talks, uploaded to his personal channel. Old talks are available on his [Metacafe channel](https://www.metacafe.com/channels/Mark%20Glickman/). See the official website [[link](http://www.nessis.org/)];
+*    [42 Analytics](https://www.youtube.com/user/42analytics) – for SSAC conferences;
+*    [CMU Statistics](https://www.youtube.com/channel/UCu8Pv6IJsbQdGzRlZ5OipUg);
+*    [StatsBomb](https://www.youtube.com/channel/UCmZ2ArreL9muPvH49Gaw0Bw);
+*    [Opta](https://www.youtube.com/user/optasports) - including Opta Pro Forum talks;
+*    [STATS Insights](https://www.youtube.com/user/BloombergSports);
+*    [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ);
+*    [Football Whispers](https://www.youtube.com/channel/UCKrQ1kewgRUbrwl_LcqJ6pQ);
+*    [Planeta Data Fútbol](https://www.youtube.com/channel/UCpIqAVOpOWt-8Sk4KvosxFg) (en español) con [Jesús Lagos](https://twitter.com/Vdot_Spain) y [Miguel Ángel García](https://twitter.com/miguelangaro);
+*    [Football Player Ratings](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA) by [Lars Magnus Hvattum](https://twitter.com/FLSimulator);
+*    [The Coaches’ Voice](https://www.youtube.com/channel/UCuR-ZdVJtF3muYhYUQ-he-Q); and
+*    [Ninad Barbadikar](https://twitter.com/ninadb_06)'s YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)].
+
 <h4 id="video-analysis"> Video Analysis</h4>
   
 *    Over 150 video analysis videos by [Carlon Carpenter](https://twitter.com/C_Carpenter14) - see Google Drive [[link](https://t.co/mH9BKFnG6g?amp=1)].
@@ -893,28 +924,10 @@ The following is a series of playlists that that I have collated originally for 
 
 *    [Footballia](https://footballia.net/) - historical matches and highlights
 
-<h4 id="others"> Others</h4>
+<h4 id="video-other"> Other</h4>
 
 *    [Jeff Stelling xG rant](https://facebook.com/SoccerAM/videos/1740454985978128/); and
 *    [Craig Burley xG rant](https://www.youtube.com/watch?v=JBWKGij9Y5A).
-
-<h4 id="youtube-channels"> YouTube Channels</h4>
-
-*    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Javier Fernández](https://twitter.com/JaviOnData), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Pascal Bauer](https://twitter.com/pascal_bauer), and [Fran Peralta](https://twitter.com/PeraltaFran23);
-*    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg) - for Python tutorials;
-*    [Barça Innovation Hub](https://www.youtube.com/channel/UC58nLq78KZGqxfSNFNRCgsQ) (English and Spanish);
-*    [Mark Glickman](https://www.youtube.com/channel/UC-gtC2WYRAr_4eYRIUb4ovg) – for NESSIS talks, uploaded to his personal channel. Old talks are available on his [Metacafe channel](https://www.metacafe.com/channels/Mark%20Glickman/). See the official website [[link](http://www.nessis.org/)];
-*    [42 Analytics](https://www.youtube.com/user/42analytics) – for SSAC conferences;
-*    [CMU Statistics](https://www.youtube.com/channel/UCu8Pv6IJsbQdGzRlZ5OipUg);
-*    [StatsBomb](https://www.youtube.com/channel/UCmZ2ArreL9muPvH49Gaw0Bw);
-*    [Opta](https://www.youtube.com/user/optasports) - including Opta Pro Forum talks;
-*    [STATS Insights](https://www.youtube.com/user/BloombergSports);
-*    [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ);
-*    [Football Whispers](https://www.youtube.com/channel/UCKrQ1kewgRUbrwl_LcqJ6pQ);
-*    [Planeta Data Fútbol](https://www.youtube.com/channel/UCpIqAVOpOWt-8Sk4KvosxFg) (en español) con [Jesús Lagos](https://twitter.com/Vdot_Spain) y [Miguel Ángel García](https://twitter.com/miguelangaro);
-*    [Football Player Ratings](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA) by [Lars Magnus Hvattum](https://twitter.com/FLSimulator);
-*    [The Coaches’ Voice](https://www.youtube.com/channel/UCuR-ZdVJtF3muYhYUQ-he-Q); and
-*    [Ninad Barbadikar](https://twitter.com/ninadb_06)'s YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)].
 
 <h3 id="podcasts"> :loud_sound: Podcasts</h3>
 
@@ -991,6 +1004,9 @@ Spotify and YouTube links used where available.
      +    [Getting Your Foot in the Door](https://soundcloud.com/fanalytics/sports-analytics-getting-your-foot-in-the-door) with Sean Steffen
 *    [Freakonomics](https://open.spotify.com/show/6z4NLXyHPga1UmSJsPK7G1?si=Nl7mbhOeRh64w3tp7alyyg) by Stephen J. Dubner:
      +    [Can Britain Get Its “Great” Back? (Ep. 393)](https://open.spotify.com/episode/7hh4DaXBCQtLZ17Lv9Lwg6?si=2F5C3k-IQLeIuaQMfkULMA) featuring Dr. Ian Graham @ 41m25s;
+*    [The Football Analytics Shot by The Power Rank and Ed Feng](https://open.spotify.com/show/2QCXu9ZYx1SpUeGjpZQ9yH?si=4_C7mIeARAS4gBJFRmxhPA) (usually American football):
+     +    [Michael Caley on soccer analytics](https://open.spotify.com/episode/6Dtm22Cvcw6DLw9pYHhStK?si=G-3BICroQ8O6TGK0Eglwvg)
+     +    [Mike Goodman on World Cup predictions and soccer analytics](https://open.spotify.com/episode/0twVQB3qwx88H8wOVjPgWd?si=SRN2Y65NRaufIKb5r1k0EQ)
 *    [Football CFB Podcast](https://open.spotify.com/show/2jTKOVU0uAND8DwprMPlC8?si=C-fBu4FHTaK9wuSgyniYjw):
      +    [Daniel Geey](https://open.spotify.com/episode/0zKYxeZ3WFI1l2wihjFNoQ?si=VpgfDIviRXGRcsOUD1BMhQ)
      +    [Football CFB with… Kieran Maguire](https://open.spotify.com/episode/1KvvfS84xGw4KFB2nwr9Fv?si=s2p3SQD3RbKy6pLqBYjimg)
@@ -1031,9 +1047,8 @@ Spotify and YouTube links used where available.
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=hBYRN1GgSc2eSIDUMiwDfA&nd=1):
      +    [#26 Recruitment, Data and Sheffield United with Blades Analytic](https://open.spotify.com/episode/1EeM7PCLq5fBngMGdVROkN?si=7W6-FrhASsafAKvbmdY6DQ)
      +    [#56 Standout Stats: Premier League](https://open.spotify.com/episode/37SlOJmtoviAKgNanq7Fxq?si=JzBDUt7iRHCKhTPomuVjAA) with Mark Carey
-*    [The Football Analytics Shot by The Power Rank and Ed Feng](https://open.spotify.com/show/2QCXu9ZYx1SpUeGjpZQ9yH?si=4_C7mIeARAS4gBJFRmxhPA):
-     +    [Michael Caley on soccer analytics](https://open.spotify.com/episode/6Dtm22Cvcw6DLw9pYHhStK?si=G-3BICroQ8O6TGK0Eglwvg)
-     +    [Mike Goodman on World Cup predictions and soccer analytics](https://open.spotify.com/episode/0twVQB3qwx88H8wOVjPgWd?si=SRN2Y65NRaufIKb5r1k0EQ)
+*    [Sports Tech Research Podcast](https://open.spotify.com/show/1KDUkkl0UQ5Yv80Agduj0y?si=W72SeXwmTMyvSuvfcx4OrA):
+     +    [Taking soccer to the next level with advanced analytics](https://open.spotify.com/episode/5Syn3C5Dj5JdZTGBuZjPhE?si=APYyMPfhRHyNK9jtoCw8pQ) with [Jan Van Haaren](https://twitter.com/janvanhaaren)
 *    Soccer Player Development Podcast:
      +    Episode 12 with Rasmus Ankersen - [YouTube](https://www.youtube.com/watch?v=S0iHetgqQpE)
 *    [Squawka Talker Football Podcast](https://open.spotify.com/show/7xqylrPDX54uo01n4erZQZ?si=XpMNQ43aQxKUa6QuB0dp2w):
@@ -1084,6 +1099,7 @@ Spotify and YouTube links used where available.
 *    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam);
 *    [How to become a football data scientist – Friends of Tracking](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds Gopaladesikan](https://twitter.com/suds_g), [Fran Peralta](https://twitter.com/PeraltaFran23), and [David Sumpter](https://twitter.com/Soccermatics);
 *    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for Friends of Tracking with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), Hannah Roberts, [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby);
+*    [Getting Into Scouting](https://griffinftbl.substack.com/p/getting-into-scouting) by [Luke Griffin](https://twitter.com/GriffinFtbl);
 *    [HANIC Panel "How to get into Sports Analytics & Media + Analytics"](https://www.youtube.com/watch?v=oUVISEJaEMM) with Alison Lukan, Sarah Bailey, Harman Dayal, Asmae Toumi Mike Johnson, Alison Lukan;
 *    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by The Video Analyst;
 *    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by David Sumpter for Barca Innovation Hub;
@@ -1330,10 +1346,38 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 *    The benefits of including fake data in an Expected Goals model [[link](https://twitter.com/Soccermatics/status/1260598182624575490)].
 
-
 <h4 id="tracking-data"> Tracking Data</h4>
 
 *    [Laurie Shaw](https://twitter.com/EightyFivePoint)'s Metrica Sports Tracking data series for #FoT - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
+
+<h4 id="pitch-control-modeling"> Pitch Control Modeling</h4>
+
+<h5 id="pitch-control-modeling-tutorials"> Tutorials</h5>
+
+pitch-control-modelingPitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s) and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI) tutorials by [Laurie Shaw](https://twitter.com/EightyFivePoint)'s as part of his Metrica Sports Tracking data series for #FoT. See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
+
+<h5 id="pitch-control-modeling-github-repos"> GitHub Repositories</h5>
+
+*    [`Metrica-pitch-control`](https://github.com/anenglishgoat/Metrica-pitch-control) by [Will Thompson](https://twitter.com/AnEnglishGoat) - a Python implementation of [Javier Fernández](https://twitter.com/JaviOnData) and [Luke Bornn](https://twitter.com/LukeBornn)'s Pitch Control model from their paper [Wide Open Spaces: A statistical technique for measuring space creation in professional soccer](https://www.researchgate.net/publication/324942294_Wide_Open_Spaces_A_statistical_technique_for_measuring_space_creation_in_professional_soccer) (2018) and [Will Spearman](https://twitter.com/the_spearman)'s Pitch Control model from his paper [Beyond Expected Goals](https://www.researchgate.net/profile/William_Spearman/publication/327139841_Beyond_Expected_Goals/links/5b7c3023a6fdcc5f8b5932f7/Beyond-Expected-Goals.pdf) (2018). The respectively Google Colab notebooks are available  [[link](https://colab.research.google.com/drive/18HcpBywUTKpgxxwrkx15g6skrWuKBQB7?usp=sharing)] and [[link](https://colab.research.google.com/drive/1GPjXYEmDHxE6GPHNS3nN3mAjWRFEd-Z_?usp=sharing)];
+
+<h5 id="pitch-control-modeling-written-pieces"> Written Pieces</h5>
+
+*    [Everything you need to know about 'pitch control'](https://get-goalside.letterdrop.com/p/everything-you-need-to-know-about-pitch-control) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
+*    [A Framework for the Fine-Grained Evaluation of the Instantaneous Expected Value of Soccer Possessions](https://arxiv.org/abs/2011.09426) (2020) by Javier Fernández, Luke Bornn and Daniel Cervone;
+*    [Decomposing the Immeasurable Sport: A deep learning expected possession value framework for soccer](https://www.semanticscholar.org/paper/Decomposing-the-Immeasurable-Sport%3A-A-deep-learning-Fern%C3%A1ndez/fc78b144a531a8ffdf3216a677f3a65e70dad3c7) (2019) by [Javier Fernández](https://twitter.com/JaviOnData), [Bornn](https://twitter.com/LukeBornn), and [Dan Cervone](https://twitter.com/dcervone0). Accompanying talks - [SSAC19](https://www.youtube.com/watch?v=JIa7Td3YXxI), [StatsBomb conference](https://www.youtube.com/watch?v=nfPEEbKJbpM);
+*    [Beyond Expected Goals](https://www.researchgate.net/profile/William_Spearman/publication/327139841_Beyond_Expected_Goals/links/5b7c3023a6fdcc5f8b5932f7/Beyond-Expected-Goals.pdf) (2018) by [Will Spearman](https://twitter.com/the_spearman);
+*    [Replaying the NBA](http://www.lukebornn.com/papers/sandholtz_ssac_2018.pdf) (2018) by Luke Bornn
+*    [Wide Open Spaces: A statistical technique for measuring space creation in professional soccer](https://www.researchgate.net/publication/324942294_Wide_Open_Spaces_A_statistical_technique_for_measuring_space_creation_in_professional_soccer) (2018) by [Javier Fernandez](https://twitter.com/JaviOnData) and [Luke Bornn](https://twitter.com/LukeBornn);
+
+<h5 id="pitch-control-modeling-video"> Video</h5>
+
+*    [Will Spearman](https://twitter.com/the_spearman)'s masterclass in [Pitch Control](https://www.youtube.com/watch?v=X9PrwPyolyU&list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y) for Friends of Tracking;
+*    [How to create the mathematically perfect press using pitch control.](https://www.youtube.com/watch?v=s6bpn3Uox7M) by David Sumpter for Friends of Tracking.
+
+<h5 id="pitch-control-modeling-podcasts"> Podcasts</h5>
+
+*    [The Football Fanalytics Podacst](https://open.spotify.com/show/6JwWRPMaHfGicFBtl7nI3V?si=IwQ00tyTRPaBcW-0XLwS4w&nd=1) with [Mark Carey](https://twitter.com/MarkCarey93) and [Ryan Bailey](https://twitter.com/ryanbailey57):
+     +    [Episode 32 - A Closer Look into "Pitch Control"](https://open.spotify.com/episode/5td42LjG7HQZ1uUSZOmj1Y?si=QIrAkt5VSnadVcuWOa8bLA)
 
 <h4 id="pv-frameworks"> Possession Value (PV) Frameworks</h4>
 
@@ -1350,7 +1394,6 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 <h5 id="pv-frameworks-g+"> Goals Added (g+) </h5>
 
 *    [Goals Added: Introducing a New Way to Measure Soccer](https://www.americansocceranalysis.com/home/2020/4/22/37ucr0d5urxxtryn2cfhzormdziphq)
-
 
 <h4 id="player-comparison-and-similarity-analysis"> Player Similarity Analysis</h4>
 
