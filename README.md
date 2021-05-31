@@ -931,8 +931,8 @@ Playlists created by others
 *    [Christmas Lectures 2019: How to Get Lucky](https://youtu.be/_q4DrUHKC0Q?t=1666) with Hannah Fry. Small segment with [Tim Waskett](https://twitter.com/StoneBakedGames) @ 27mins;
 *    [I’m in a Wide Open Space: Creating Opportunities at Set Pieces](https://www.youtube.com/watch?v=F_C5V9bykAg) by Dan Barnett;
 *    [Long or Short? How the New Short Goal Kick Rule Is Impacting Football](https://www.youtube.com/watch?v=tKwLjkjtecA) by Tom Worville;
-*    [Learning to Watch Football: Self-Supervised Representations](https://vimeo.com/398489039/80d8dcfb58) for Tracking Data by Karun Singh. See accompanying blog post [[link](https://karun.in/blog/ssr-tracking-data.html)];
-*    [Identifying and Evaluating Strategies to Break down a Low Block Defence](https://vimeo.com/404694721/21fa93ada1)https://vimeo.com/404694721/21fa93ada1 by Vignesh Jayanth. See accompanying blog post [[link](https://medium.com/@VigneshJayanth1/a-case-study-of-identifying-low-blocks-and-strategies-in-football-with-fc-nordsj%C3%A6lland-294ff655fd3)];
+
+*    [Identifying and Evaluating Strategies to Break down a Low Block Defence](https://vimeo.com/404694721/21fa93ada1) by Vignesh Jayanth. See accompanying blog post [[link](https://medium.com/@VigneshJayanth1/a-case-study-of-identifying-low-blocks-and-strategies-in-football-with-fc-nordsj%C3%A6lland-294ff655fd3)];
 *    [Seeing in to the Future: Modelling Football Player Movements](https://www.youtube.com/watch?v=iD-EE4nUbwI) by David Sumpter;
 *    [Learning Value and Style from Soccer Event Stream Data](https://www.youtube.com/watch?v=YXsG455zYKc) by Tom Decroo;
 *    Marcelo Bielsa's infamous 'Spygate PowerPoint presentation of Derby County [[link](https://www.youtube.com/watch?v=9NW985SUUEU)];
@@ -1138,8 +1138,7 @@ Spotify and YouTube links used where available.
 
 <h3 id="career-advice"> Career Advice</h3>
 
-*    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) by [Sam Gregory](https://twitter.com/GregorydSam);
-*    [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam);
+*    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) and [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam);
 *    [How to become a football data scientist – Friends of Tracking](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds Gopaladesikan](https://twitter.com/suds_g), [Fran Peralta](https://twitter.com/PeraltaFran23), and [David Sumpter](https://twitter.com/Soccermatics);
 *    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), Hannah Roberts, [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby);
 *    [Getting Into Scouting](https://griffinftbl.substack.com/p/getting-into-scouting) by [Luke Griffin](https://twitter.com/GriffinFtbl);
@@ -1394,7 +1393,8 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 *    [Laurie Shaw](https://twitter.com/EightyFivePoint)'s Metrica Sports Tracking data series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
 *    [How Tracking Data is Used in Football and What are the Future Challenges](https://www.youtube.com/watch?v=kHTq9cwdkGA) with [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Will Spearman](https://twitter.com/the_spearman) and [David Sumpter](https://twitter.com/Soccermatics) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w);
-*    [Introduction to tracking data in football.](https://www.youtube.com/watch?v=fYqEnoOV9Po) by David Sumpter for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w).
+*    [Introduction to tracking data in football.](https://www.youtube.com/watch?v=fYqEnoOV9Po) by David Sumpter for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w); and
+*    [Learning to Watch Football: Self-Supervised Representations](https://vimeo.com/398489039/80d8dcfb58) for Tracking Data by Karun Singh. See accompanying blog post [[link](https://karun.in/blog/ssr-tracking-data.html)].
 
 <h4 id="pitch-control-modeling"> Pitch Control Modeling</h4>
 
