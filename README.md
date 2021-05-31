@@ -85,7 +85,6 @@ For more information about this repository and the author, I'm available through
             <li><a href="#video-other">Other</a></li>
           </ul>
         </li>
-        <li><a href="#video">Video</a></li>
         <li><a href="#podcasts">Podcasts</a></li>
         <li><a href="#notable-figures-and-twitter-accounts">Notable Figures and Twitter Accounts</a></li>
         <li><a href="#career-advice">Career Advice</a></li>
@@ -299,7 +298,7 @@ Good resources for those new for the use of data in football:
 
 For a YouTube playlist of Tableau-football videos and tutorials that I have collated from various sources including the Tableau Football User Group, [Rob Carroll](https://twitter.com/thevideoanalyst), and [Tom Goodall](https://twitter.com/TomG26), see the following [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
-*    Tableau Football User Group [[link](https://usergroups.tableau.com/footballtableauusergroup)] - featuring [Eva Murray](https://twitter.com/TriMyData), Oscar Hall, [James Smith](https://twitter.com/sportschord), [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), [Ravi Mistry](https://twitter.com/Scribblr_42),  Adam Cook, Hannah Roberts, [Chris Baker](https://twitter.com/chrisbaker108), Rusty Parker, Ruud van Elk, Johannes Riegger, and Sebastien Coustou;
+*    [Tableau Football User Group](https://usergroups.tableau.com/footballtableauusergroup)] - featuring [Eva Murray](https://twitter.com/TriMyData), Oscar Hall, [James Smith](https://twitter.com/sportschord), [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), [Ravi Mistry](https://twitter.com/Scribblr_42),  Adam Cook, Hannah Roberts, [Chris Baker](https://twitter.com/chrisbaker108), Rusty Parker, Ruud van Elk, Johannes Riegger, and Sebastien Coustou;
 *    [Tableau for Sport](https://thevideoanalyst.com/tableau-sport/) by [Rob Carroll](https://twitter.com/thevideoanalyst) - completely free tutorials for using football data in Tableau, including creating shot maps, pass maps, pass matrxces, xG race-chart timelines. See also his YouTube playlist [[link](https://www.youtube.com/playlist?list=PLchE8bhmmIxK94imJ4QZncXrbld_NGoiW)];
 *    [Tom Goodall's Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/). Check out also as an unrolled Twitter thread, how he uses Tableau to create an opposition report for Burton vs. Gillingham on 9th January 2021 [[link](https://threadreaderapp.com/thread/1346186082510110720.html)];
 *    [Visually Analysing Direct Set Pieces in Football using StatsBomb Data, R and Tableau](https://www.biztory.com/blog/visually-analysing-direct-set-pieces-in-football-using-statsbomb-data-r-and-tableau) by [James Smith](https://twitter.com/sportschord);
@@ -351,6 +350,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 All publicly available data sources and datasets relating to football, from Tracking data, Event data, aggregated player performance data, detailed match statistics, injury records and transfer values, and more.
 
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
+*    [Bundesliga physical data](https://www.bundesliga.com/en/bundesliga/stats/players);
 *    [Capology](https://www.capology.com/) - a sports salaries platform [requires an expensive licence, 7 day free trials available].;
 *    [Club Elo](http://clubelo.com/) - European club rankings;
 *    [Data Hub Football data](https://datahub.io/collections/football);
@@ -1345,11 +1345,13 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h5 id="xg-modeling-tweets"> Tweets</h5>
 
-*    The benefits of including fake data in an Expected Goals model [[link](https://twitter.com/Soccermatics/status/1260598182624575490)].
+*    The benefits of including fake data in an Expected Goals model [[link](https://twitter.com/Soccermatics/status/1260598182624575490)]; and
+*    Twitter thread by [Jernej Flisar](https://twitter.com/jernejfl) to build an Expected Goals model trained with Logistic Regression on StatsBomb Event data and using the model to predict Liverpool goals from [Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) provided by [Ricardo Tavares](https://twitter.com/rjtavares) ([Last Row View](https://twitter.com/lastrowview)) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) [[link](https://twitter.com/jernejfl/status/1258299564878106624)]. The model uses the [SHAP](https://github.com/slundberg/shap) library for feature interpreation.
 
 <h4 id="tracking-data"> Tracking Data</h4>
 
 *    [Laurie Shaw](https://twitter.com/EightyFivePoint)'s Metrica Sports Tracking data series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
+*    [Introduction to tracking data in football.](https://www.youtube.com/watch?v=fYqEnoOV9Po) by David Sumpter for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w).
 
 <h4 id="pitch-control-modeling"> Pitch Control Modeling</h4>
 
@@ -1394,7 +1396,8 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h5 id="pv-frameworks-g+"> Goals Added (g+) </h5>
 
-*    [Goals Added: Introducing a New Way to Measure Soccer](https://www.americansocceranalysis.com/home/2020/4/22/37ucr0d5urxxtryn2cfhzormdziphq)
+*    [Goals Added: Introducing a New Way to Measure Soccer](https://www.americansocceranalysis.com/home/2020/4/22/37ucr0d5urxxtryn2cfhzormdziphq);
+*    [The future of possession value models](https://www.youtube.com/watch?v=GEp0TJoramM) with [David Sumpter](https://twitter.com/Soccermatics), [Catherine Pfaff](https://twitter.com/PfaffCatherine), [Matthias Kullowatz](https://twitter.com/MattyAnselmo) and [Jernej Flisar](https://twitter.com/jernejfl) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). The Goals Added (g+) model is focussed on in minutes 9-45 of the lecture.
 
 <h4 id="player-comparison-and-similarity-analysis"> Player Similarity Analysis</h4>
 
