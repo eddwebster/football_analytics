@@ -529,7 +529,9 @@ Resources to aid data visualisation:
 
 *    [Club crests](https://drive.google.com/drive/folders/1R22tOjU-gjJ3QDzwUZ8JlXGjtO4O_XaJ) available to download, put together by [Ninad Barbadikar](https://twitter.com/NinadB_06);
 *    [Team colour codes](https://teamcolorcodes.com/), for the HEX, RGB, and HSL colours of top flight football teams; and
-*    [Pitch templates](https://www.dropbox.com/sh/y4gg8koaedi659r/AACBw3rEIbnLp7Zi91SUtwaFa?dl=0), put together by [Tony Bambrick](https://twitter.com/TonyBambrick) (see tweet [[link](https://twitter.com/TonyBambrick/status/1382314456131198976)]).
+*    [Pitch templates](https://www.dropbox.com/sh/y4gg8koaedi659r/AACBw3rEIbnLp7Zi91SUtwaFa?dl=0), put together by [Tony Bambrick](https://twitter.com/TonyBambrick) (see tweet [[link](https://twitter.com/TonyBambrick/status/1382314456131198976)]);
+*    [Peter McKeever](https://twitter.com/petermckeever)'s ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)]; and
+*    [John Burn-Murdoch](https://twitter.com/jburnmurdoch)'s [Data visualisation is about words](https://www.youtube.com/watch?v=uoFN3nxeMco) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w).
 
 
 <h3 id="written-pieces"> :black_nib: Written Pieces</h3>
@@ -839,19 +841,59 @@ John Burn-Murdoch for The FT;
 
 <h4 id="youtube-playlists"> YouTube Playlists</h4>
 
+<h5 id="custom-playlists"> Custom Playlists Curated by Myself</h5>
+
 The following is a series of playlists that that I have collated originally for my own personal viewing but they may be useful to you:
 *    [All Sports Analytics](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo) - a huge playlist of around 800 video that includes anything at all to do with Sports Analytics and Data Science. Any video found related to the topic is here;
 *    [Football-specific Data Science lectures and seminars](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y) - presentations and seminars from conferances;
-*    [Football-specific Tableau tutorials](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware);
+*    [Football-specific Tableau tutorials](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl);
 *    [Football-specific Machine Learning](https://www.youtube.com/playlist?list=PL38nJNjpNpH9qHDsDLgmUow2onH0KJgFF);
 *    [Football-specific Data Viz](https://www.youtube.com/playlist?list=PL38nJNjpNpH-ortstT_BUSPXFFh7wSSuH);
 *    [Tracking data](https://www.youtube.com/playlist?list=PL38nJNjpNpH-UX0YVNu7oN5gAWQc2hq8F) - all videos related to the topic of Tracking data include presentations and tutorials;
 *    [Expected Goals](https://www.youtube.com/playlist?list=PL38nJNjpNpH_VPRZJrkaPZOJfyuIaZHUY)
 
+<h5 id="public-playlists"> Public Playlists</h5>
+
+Playlists created by others
+*    [Friends of Tracking Playlists](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w/playlists):
+     +    [Training ground: improve your skills in football data science](https://www.youtube.com/playlist?list=PLedeYskZY0vDSs-piCFGhMtp9eBbDiapZ)
+     +    [Research: live research presentations](https://www.youtube.com/playlist?list=PLedeYskZY0vA2UTsal5PIL-9Z3sCJxzqh)
+     +    [Match day: meet football data scientists](https://www.youtube.com/playlist?list=PLedeYskZY0vBcdjXvSzSpJsMimckSfLoe)
+     +    [Course; mathematical modelling of football](https://www.youtube.com/playlist?list=PLedeYskZY0vBOdQ6Uc9eZjZ2-nz1JT3R7)
+     +    [Coaching: what players, coaches and scouts need to know about data in football](https://www.youtube.com/playlist?list=PLedeYskZY0vDhjRecf90T57poCPZ4j8cB)
+*    [The Analytics (formally Opta) Playlists](https://www.youtube.com/c/TheAnalystOpta/playlists)
+     +    [Stats Performing Playing Styles](https://www.youtube.com/playlist?list=PL9Az6mi38hv_MgIQ_R__bFQPL7V8GlI1z)
+     +    [Opta Data Dives](https://www.youtube.com/playlist?list=PL9Az6mi38hv-_IMDJ0HBua9DskGzEEhQn)
+     +    [Beyond Heatmaps, Match Experiences](https://www.youtube.com/playlist?list=PL9Az6mi38hv_4kXlGh1YzUkygV3n8GxgM)
+     +    [Opta advanced analytics](https://www.youtube.com/playlist?list=PL9Az6mi38hv__afKnHR1AKjpcDIw_0qqT)
+     +    [Big Match Previews](https://www.youtube.com/playlist?list=PL9Az6mi38hv-0Nk2Meepegdv3BON-TOVH)
+     +    [OptaPro Analytics Forum](https://www.youtube.com/playlist?list=PL9Az6mi38hv9Y1CNUXfjgxoawTxgMQu2M)
+     +    [Opta Showcase](https://www.youtube.com/playlist?list=PL9Az6mi38hv-evTOlCNyCQGp32Lsu4cWJ)
+     +    [OptaPro Interviews](https://www.youtube.com/playlist?list=PL9Az6mi38hv-H4DvVu4Vm6SfDYQNHA1Si)
+     +    [Opta Pro Case Studies](https://www.youtube.com/playlist?list=PL9Az6mi38hv_zm9dCJvz5-RJaUGgCkU0T)
+     +    [OptaPro Product Demo](https://www.youtube.com/playlist?list=PL9Az6mi38hv91F2ArmX8LE3zXqNrzK8iz)
+     +    [About Us](https://www.youtube.com/playlist?list=PL9Az6mi38hv-DcYIG1giigf7T6bttuDhu)
+     +    [OptaJoe's Big Match Preview](https://www.youtube.com/playlist?list=PL9Az6mi38hv9TkKdw-4ZEAthQBpVeu8Zi)
+*    [McKay Johns Playlists](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg/playlists):
+     +    [Dashboards!](https://www.youtube.com/playlist?list=PL10a1_q15HwpCik_gSySyzIlMUEgbz-G2)
+     +    [Coding](https://www.youtube.com/playlist?list=PL10a1_q15HwqwaqegyPgf7LvegispHd5_)
+     +    [Machine Learning Topics](https://www.youtube.com/playlist?list=PL10a1_q15HwrR-v2Ts6WFzlelwncnMVpj)
+     +    [#shorts](https://www.youtube.com/playlist?list=PL10a1_q15HwoRhDET9R2ob2sPIWiPFILo)
+     +    [Soccer Visualizations](https://www.youtube.com/playlist?list=PL10a1_q15HwqVEcnqt3tXs1bgvawjsQNW)
+*    [StatsBomb Innovation in Football Conference. Oct 11 2019](https://www.youtube.com/playlist?list=PLH0l8DRfBxg51jMm5hGwTouPGIOWld2cF)
+*    [UTSPAN Seminar Series 2020](https://www.youtube.com/playlist?list=PLIXwytm8nvjylfElCs2JUn_WgsyyqICtn) by UTSPAN
+*    [2020 Google Sports Analytics Meetup](https://www.youtube.com/playlist?list=PLN61gcz35HB7enamPi8bG4bFJNsBPYW27) by Alok Pattani for Google Sports Analytics
+*    [Carnegie Mellon Sports Analytics Conference](https://www.youtube.com/playlist?list=PLGamdDdd5qYgRHZuaoiMvuzjdotLu9uqk)
+*    Great Lakes Analytics in Sports Conferences:
+     +    [2019](https://www.youtube.com/playlist?list=PL9Fdm_Z4Lyo86HIoj2q-GbVKkqX7lo_kY)
+     +    [2018](https://www.youtube.com/playlist?list=PL9Fdm_Z4Lyo-7XV5Sj7aLl0hV4F6DGflG)
+     +    [2017](https://www.youtube.com/playlist?list=PL9Fdm_Z4Lyo8zffTJzDj5FLobGd56Y_HZ)
+*    [Shorts Videos on Soccer Analytics](https://www.youtube.com/playlist?list=PLGxSlxhugMq0d0ICwTWHxUKwir538QgwK) by Dan Altman
+
 <h4 id="youtube-channels"> YouTube Channels</h4>
 
 *    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Javier Fernández](https://twitter.com/JaviOnData), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Pascal Bauer](https://twitter.com/pascal_bauer), and [Fran Peralta](https://twitter.com/PeraltaFran23);
-*    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg) - for Python tutorials;
+*    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg) - for Python and Data Science tutorials;
 *    [Barça Innovation Hub](https://www.youtube.com/channel/UC58nLq78KZGqxfSNFNRCgsQ) (English and Spanish);
 *    [Mark Glickman](https://www.youtube.com/channel/UC-gtC2WYRAr_4eYRIUb4ovg) – for NESSIS talks, uploaded to his personal channel. Old talks are available on his [Metacafe channel](https://www.metacafe.com/channels/Mark%20Glickman/). See the official website [[link](http://www.nessis.org/)];
 *    [42 Analytics](https://www.youtube.com/user/42analytics) – for SSAC conferences;
@@ -875,7 +917,7 @@ The following is a series of playlists that that I have collated originally for 
 *    Laurie Shaw's Metrica Sports Tracking data series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
 *    Lotte Bransen and Jan Van Haaren's 'Valuating Actions in Football' series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0), [Valuing Actions in Football 1: From Wyscout Data to Rating Players](https://www.youtube.com/watch?v=0ol_eLLEQ64), [Valuing Actions in Football 2: Generating Features](https://www.youtube.com/watch?v=Ep9wXQgAFaE&t=42s), [Valuing Actions in Football 3: Training Machine Learning Models](https://www.youtube.com/watch?v=WlORqYIb-Gg), and [Valuing Actions in Football 4: Analyzing Models and Results](https://www.youtube.com/watch?v=w9G0z3eGCj8). See the following for code [[link](https://github.com/SciSports-Labs/fot-valuing-actions)];
 *    David Sumpter's Expected Goals webinars for #FoT - [How to Build An Expected Goals Model 1: Data and Model](https://www.youtube.com/watch?v=bpjLyFyLlXs), [How to Build An Expected Goals Model 2: Statistical fitting](https://www.youtube.com/watch?v=wHOgINJ5g54), and [The Ultimate Guide to Expected Goals](https://www.youtube.com/watch?v=310_eW0hUqQ). See the following for code [3xGModel](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/3xGModel.py), [4LinearRegression](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/4LinearRegression.py), [5xGModelFit.py](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/5xGModelFit.py), and [6MeasuresOfFit](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/6MeasuresOfFit.py);
-*    Peter McKeever's ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)];
+*    [Peter McKeever](https://twitter.com/petermckeever)'s ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)];
 *    StatsPerform AI in Sport series - [Overview](https://vimeo.com/473259469/3d56393c68), [AI in Basketball](https://protect-eu.mimecast.com/s/tJ6yC1j9vF6oL09UywAM0?domain=cvent.com), [AI In Soccer](https://vimeo.com/515977363/be3de09fc1), and [AI in Tennis]();
 *    [Making Offensive Play Predictable](https://player.vimeo.com/video/534338154) by [Paul Power](https://twitter.com/counterattack9), Michael Stöckl, and [Thomas Seidel](https://twitter.com/SeidlOnSports) for Opta Pro Forum 2021;
 *    [Google Research Football](https://www.youtube.com/watch?v=esQvSg2qeS0) by [Piotr Stanczyk](https://twitter.com/pwawrzynow);
