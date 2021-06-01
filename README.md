@@ -760,7 +760,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [Absolute Unit](https://absoluteunit.substack.com/);
 *    [Get Goalside!](https://getgoalside.substack.com/);
 *    [geom_mark](http://geommark.space/);
-*    [GrigginFtbl](https://griffinftbl.substack.com/) by [Luke Griffin](https://twitter.com/GriffinFtbl);
+*    [GriffinFtbl](https://griffinftbl.substack.com/) by [Luke Griffin](https://twitter.com/GriffinFtbl);
 *    [Grace on Football](https://onfootball.substack.com/) by [Grace Robertson](https://twitter.com/graceonfootball);
 *    [Looks Good on Paper](https://looksgoodonpaper.substack.com/) by [Felix Pate](https://twitter.com/lgopfelix);
 *    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent);
