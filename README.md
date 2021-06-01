@@ -1464,6 +1464,20 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Google Research Football](https://www.youtube.com/watch?v=esQvSg2qeS0) by Piotr Stanczyk;
 *    [Google's AI Plays Football…For Science!](https://www.youtube.com/watch?v=Uk9p4Kk98_g) by Two Minute Papers
 
+<h4 id="set-pieces"> Set Pieces</h4>
+
+Section created after seeing the following tweets and threads by [Ashwin Raman](https://twitter.com/AshwinRaman_) ([[link](https://twitter.com/AshwinRaman_/status/1398291162520195073)]) and [Stuart Reid](https://twitter.com/From_The_Wing) ([[link](https://twitter.com/From_The_Wing/status/1397236830517530629)])
+
+*    [Dynamic Analysis of Team Strategy in Professional Football](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf) (2019) by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko). Accompanying talks - [NESSIS 2019](https://www.youtube.com/watch?v=VU4BOu6VfbU), [2020 Google Sports Analytics Meetup](https://www.youtube.com/watch?v=aQ9L6IkWI8U);
+*    [Breaking Down Set Pieces: Picks, Packs, Stacks and More](https://statsbomb.com/2019/05/breaking-down-set-pieces-picks-packs-stacks-and-more/) by [Euan Dewar](https://twitter.com/EuanDeware);
+*    [Tactical Theory: Set-Pieces](https://spielverlagerung.com/2019/12/06/tactical-theory-set-pieces/) by [István Beregi](https://twitter.com/SteveBeregi);
+*    [Set-Piece Analysis: A comprehensive guide to zonal marking from corners](https://totalfootballanalysis.com/article/set-piece-analysis-a-comprehensive-guide-to-zonal-marking-from-corners-tactical-analysis-tactics) by [Cameron Meighan](https://twitter.com/cam_meighan). See all his pieces [[link](https://wakelet.com/@cam_meighan)];
+*    [Changing How the World Thinks About Set Pieces](https://statsbomb.com/2017/02/changing-how-the-world-thinks-about-set-pieces/) by Ted Knutson;
+*    [Set Pieces and Market Efficiency](https://statsbomb.com/2017/09/set-pieces-and-market-efficiency/) by Ted Knutson;
+*    [The Blades’ Sharpest Edge: A look at Sheffield United’s 17/18 Set Pieces.](https://wherethesmokegoes.wordpress.com/2017/11/24/the-blades-sharpest-edge-a-look-at-sheffield-uniteds-17-18-set-pieces/) by [Oli Walker](https://twitter.com/olivermpw_);
+*    Pieces by [Marc Lamberts](https://twitter.com/lambertsmarc) [[link](http://zonalpressing.com/category/set-piece-analysis/)]; and
+*    Pieces by [Stuart Reid](https://twitter.com/From_The_Wing) [[link](https://wakelet.com/@from_the_wing)].
+
 
 <h3 id="miscellaneous"> :grey_question: Miscellaneous</h3>
 
