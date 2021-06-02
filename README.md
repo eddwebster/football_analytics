@@ -763,6 +763,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [geom_mark](http://geommark.space/);
 *    [GriffinFtbl](https://griffinftbl.substack.com/) by [Luke Griffin](https://twitter.com/GriffinFtbl);
 *    [Grace on Football](https://onfootball.substack.com/) by [Grace Robertson](https://twitter.com/graceonfootball);
+*    [KPMG Football Benchmark Newsletter](https://www.footballbenchmark.com/home) - go to the home page and click on 'Registration' in the top-right corner;
 *    [Looks Good on Paper](https://looksgoodonpaper.substack.com/) by [Felix Pate](https://twitter.com/lgopfelix);
 *    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent);
 *    [No Grass in the Clouds](https://nograssintheclouds.substack.com/);
