@@ -585,6 +585,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [8 Yards 8 Feet](https://8yards8feet.wordpress.com/author/simonlock1993/) by [Simon Lock](https://twitter.com/8Yards8Feet);
 *    [All Things Football](https://allthingsfootballonline.blogspot.com/);
 *    [Absolute Unit](https://absoluteunit.substack.com/);
+*    [Alex Rathke](http://alexrathke.net/) by [Alex Rathke](https://twitter.com/AlexRathke);
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/);
 *    [Analyse Football](https://analysefootball.com/) by [Ravi Ramineni](https://twitter.com/analyseFooty) (last updated 06//04/2015);
 *    [Analytics FC](https://attackingcentreback.wordpress.com/);
