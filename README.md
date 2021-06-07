@@ -7,11 +7,6 @@
   <a href="https://github.com/eddwebster/football_analytics"><img src="img/shot_map_header.png" alt="Edd Webster Football Analytics"></a>
 </p>
 
-[![Email Badge](https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white)](mailto:edd.j.webster@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eddwebster)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=eddwebster.football_analytics)
 ![](https://img.shields.io/github/stars/eddwebster/football_analytics?style=plastic)
 ![](https://img.shields.io/github/last-commit/eddwebster/football_analytics?style=plastic)
@@ -34,6 +29,13 @@ If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="225px"></a>
 
 For more information about this repository and the author, I'm available through all the following channels:
+
+[![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://www.eddwebster.com/)
+[![Email Badge](https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white)](mailto:edd.j.webster@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eddwebster)
+[![Tableau Badge](https://img.shields.io/badge/Tableau-Public-blue)](https://public.tableau.com/profile/edd.webster)
 
 *    [eddwebster.com](https://www.eddwebster.com/);
 *    edd.j.webster@gmail.com;
