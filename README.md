@@ -124,9 +124,9 @@ For more information about this repository and the author, I'm available through
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
 
 <!--This project is written in Python programming language. <br>-->
-The only prerequisites to using this GitHub repo are using the resources below are that you have a computer, internet connection and to learn more about football analytics. 
+The only knowledge prerequisites for using this GitHub repo is that you have a computer, internet connection and the desire to learn more about football analytics. 
 
-The following open-source [Python](https://www.python.org/) libraries listed below are some of the most commonly used in Python Data Science that feature in the the notebooks in this repository. Most of these libraries can be onbtained by downloading and installing [Anaconda](https://anaconda.org/anaconda/conda). Step-by-step guides to do this can be found for Windows [here](https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444) and Mac [here](https://medium.com/@GalarnykMichael/install-python-on-mac-anaconda-ccd9f2014072), as well as in the Anaconda documentation itself [here](https://docs.anaconda.com/anaconda/install/).
+The following open-source [Python](https://www.python.org/) libraries listed below are some of the most commonly used in Data Science that feature in the the notebooks in this repository. Most of these libraries can be obtained by downloading and installing [Anaconda](https://anaconda.org/anaconda/conda). Step-by-step guides to do this can be found for Windows [here](https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444) and Mac [here](https://medium.com/@GalarnykMichael/install-python-on-mac-anaconda-ccd9f2014072), as well as in the Anaconda documentation itself [here](https://docs.anaconda.com/anaconda/install/).
 
 *    [NumPy](https://numpy.org/doc/stable/contents.html);
 *    [pandas](http://pandas.pydata.org/);
