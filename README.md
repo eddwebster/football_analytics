@@ -30,7 +30,7 @@ If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
 For more information about this repository and the author, I'm available through all the following channels:
 
-[![Website Badge](https://img.shields.io/badge/Web-eddwebster.com-green?style=for-the-badge)](https://www.eddwebster.com/)
+[![Personal Website Badge](https://img.shields.io/badge/web-00A98F?style=for-the-badge&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![Website Badge](https://img.shields.io/badge/?&style=for-the-badge)](https://www.eddwebster.com/)
 [![Email Badge](https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white)](mailto:edd.j.webster@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
