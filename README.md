@@ -988,7 +988,7 @@ Spotify and YouTube links used where available.
 
 *    [All Stats Aren't We](https://open.spotify.com/show/22eR0UCjDdVXY2JTtjD3OI?si=kt_lY1m2QKukOvKvmWpsPA) with [Jon Mackenzie](https://twitter.com/Jon_Mackenzie) and [Josh Hobbs](https://twitter.com/JoshAHobbs) (Leeds United Podcast)
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/podcasts);
-*    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/);
+*    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/) - originally with [Tom Worville](https://twitter.com/Worville) and [Sam Gregory](https://twitter.com/GregorydSam) and recently restarted by [Jon MacKenzie](https://twitter.com/Jon_Mackenzie);
 *    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (en español) con [Marcelo Gantman](https://twitter.com/marcelogantman) y Agustin Mario Gimenez;
 *    [The Dan & Omar Show](https://open.spotify.com/show/0mT1mtMmydvs6fmrOF4GZD?si=Dv_Pm99kSd2HD603Wc1ZOg) with [Daniel Geey](https://twitter.com/FootballLaw) and [Omar Chaudhuri](https://twitter.com/OmarChaudhuri)
 *    [Double Pivot Podcast](https://open.spotify.com/show/4lBU3spHZaQWJyUcCUbkY8);
