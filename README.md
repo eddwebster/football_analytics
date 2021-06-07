@@ -13,6 +13,7 @@
 [![Email Badge](https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white)](mailto:edd.j.webster@gmail.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=eddwebster.football_analytics)
+![](https://img.shields.io/github/stars/eddwebster/football_analytics?style=plastic)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
