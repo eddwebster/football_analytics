@@ -10,7 +10,10 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eddwebster)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
-  
+[![Email Badge](https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white)](mailto:edd.j.webster@gmail.com)
+
+![](https://visitor-badge.glitch.me/badge?page_id=eddwebster.football_analytics)
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
