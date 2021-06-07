@@ -853,7 +853,7 @@ The following use Amazon UK links were available.
 
 The following is a series of playlists that that I have collated originally for my own personal viewing but they may be useful to you:
 *    [All Sports Analytics](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo) - a huge playlist of around 800 video that includes anything at all to do with Sports Analytics and Data Science. Any video found related to the topic is here;
-*    [Football-specific Data Science lectures and seminars](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y) - presentations and seminars from conferances;
+*    [Football-specific Data Science lectures and seminars](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y) - presentations and seminars from conferences;
 *    [Football-specific Tableau tutorials](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl);
 *    [Football-specific Machine Learning](https://www.youtube.com/playlist?list=PL38nJNjpNpH9qHDsDLgmUow2onH0KJgFF);
 *    [Football-specific Data Viz](https://www.youtube.com/playlist?list=PL38nJNjpNpH-ortstT_BUSPXFFh7wSSuH);
@@ -1231,6 +1231,8 @@ The following includes non-football competitions.
 *    Clubs (this list could become quite long but I've included the ones I've got round to seeing, so far:
      +    [City Football Group](https://www.cityfootballgroup.com/careers/football/). See also the [City Football Insights Twitter account](https://twitter.com/CFG_Insights)
      +    [Arsenal](https://www.arsenaljobs.com/)
+*    Consultancies:
+     +    [TwentyFirst Group](https://www.twentyfirstgroup.com/contact/careers/) (formally 21st Club)
 *    Betting companies:
      +    [Smart Odds](https://www.smartodds.co.uk/Careers/Vacancies)
 *    Others / to sort:
@@ -1251,6 +1253,7 @@ Focus on some of the key topics in football analytics. Most of the following res
 
 *    [Charles Reep wiki](https://en.wikipedia.org/wiki/Charles_Reep);
 *    [Analytics is older than you think: (re)introducing Charles Reep](https://getgoalside.substack.com/p/analytics-is-older-than-you-think) by [Mark Thompson](https://twitter.com/EveryTeam_Mark) for his newsletter [Get Goalside!](https://getgoalside.substack.com/);
+*    [The evolution of football data](https://www.twenty3.sport/the-evolution-of-football-data/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [Goal Scoring in Association Football: Charles Reep](https://keithlyons.wordpress.com/2011/02/28/goal-scoring-in-association-football-charles-reep/) by Keith Lyons;
 *    [The Charles Reep and Bernard Benjamin Paper 50 Years On (1)](https://keithlyons.me/2018/09/14/the-charles-reep-and-bernard-benjamin-paper-50-years-on-1/) by Keith Lyons;
 *    [Bernard Benjamin profile](https://keithlyons.me/2015/08/24/bernard-benjamin/) by Keith Lyons;
@@ -1258,7 +1261,7 @@ Focus on some of the key topics in football analytics. Most of the following res
 *    [Football’s Pioneer – The Charles Reep story](https://thevideoanalyst.com/footballs-pioneer-charles-reep/) by [Rob Carroll](https://twitter.com/thevideoanalyst);
 *    [Grim Reep](https://www.wsc.co.uk/the-archive/918-Playing-the-game/2502-grim-reep-) by Barnay Ronay
 *    [History of Performance Analysis: The Controversial Pioneer Charles Reep](https://www.sportperformanceanalysis.com/article/history-of-performance-analysis-the-controversial-pioneer-charles-reep) by Guillermo Martinez Arastey;
-*    [How One Man’s Bad Math Helped Ruin Decades Of English Soccer](https://fivethirtyeight.com/features/how-one-mans-bad-math-helped-ruin-decades-of-english-soccer/) by [Joe Sykes](https://twitter.com/jykes7) and [Neil Paine](https://twitter.com/Neil_Paine) for [FiveThirtyEight](https://fivethirtyeight.com/);****
+*    [How One Man’s Bad Math Helped Ruin Decades Of English Soccer](https://fivethirtyeight.com/features/how-one-mans-bad-math-helped-ruin-decades-of-english-soccer/) by [Joe Sykes](https://twitter.com/jykes7) and [Neil Paine](https://twitter.com/Neil_Paine) for [FiveThirtyEight](https://fivethirtyeight.com/);
 *    [The History of Sports Analysis: The Man Who Ruined English Football](https://www.nacsport.com/blog/en-gb/News/the-history-of-sports-analysis-the-man-who-ruined-english-football) by Duncan Ritchie;
 *    [No, seriously: what the heck is expected goals (xG)?](https://www.fourfourtwo.com/features/no-seriously-what-heck-expected-goals-xg) by James Maw;
 *    [Don't Shoot the Messenger. The First Football Analyst Was a Pioneer 50 Years Ahead of His Time](https://www.nutmegmagazine.co.uk/issue-8/dont-shoot-the-messenger-the-first-football-analyst-was-a-pioneer-50-years-ahead-of-his-time/) by Alan Campbell;
@@ -1404,7 +1407,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 <h5 id="xg-modeling-tweets"> Tweets</h5>
 
 *    The benefits of including fake data in an Expected Goals model [[link](https://twitter.com/Soccermatics/status/1260598182624575490)]; and
-*    Twitter thread by [Jernej Flisar](https://twitter.com/jernejfl) to build an Expected Goals model trained with Logistic Regression on StatsBomb Event data and using the model to predict Liverpool goals from [Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) provided by [Ricardo Tavares](https://twitter.com/rjtavares) ([Last Row View](https://twitter.com/lastrowview)) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) [[link](https://twitter.com/jernejfl/status/1258299564878106624)]. The model uses the [SHAP](https://github.com/slundberg/shap) library for feature interpreation.
+*    Twitter thread by [Jernej Flisar](https://twitter.com/jernejfl) to build an Expected Goals model trained with Logistic Regression on StatsBomb Event data and using the model to predict Liverpool goals from [Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) provided by [Ricardo Tavares](https://twitter.com/rjtavares) ([Last Row View](https://twitter.com/lastrowview)) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) [[link](https://twitter.com/jernejfl/status/1258299564878106624)]. The model uses the [SHAP](https://github.com/slundberg/shap) library for feature interpretation.
 
 <h4 id="tracking-data"> Tracking Data</h4>
 
