@@ -1251,7 +1251,7 @@ Focus on some of the key topics in football analytics. Most of the following res
 
 <h4 id="history-of-football-analytics"> History of Football Analytics</h4>
 
-*    [Charles Reep wiki](https://en.wikipedia.org/wiki/Charles_Reep);
+*    [Charles Reep Wiki](https://en.wikipedia.org/wiki/Charles_Reep);
 *    [Analytics is older than you think: (re)introducing Charles Reep](https://getgoalside.substack.com/p/analytics-is-older-than-you-think) by [Mark Thompson](https://twitter.com/EveryTeam_Mark) for his newsletter [Get Goalside!](https://getgoalside.substack.com/);
 *    [The evolution of football data](https://www.twenty3.sport/the-evolution-of-football-data/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [Goal Scoring in Association Football: Charles Reep](https://keithlyons.wordpress.com/2011/02/28/goal-scoring-in-association-football-charles-reep/) by Keith Lyons;
@@ -1261,6 +1261,7 @@ Focus on some of the key topics in football analytics. Most of the following res
 *    [Football’s Pioneer – The Charles Reep story](https://thevideoanalyst.com/footballs-pioneer-charles-reep/) by [Rob Carroll](https://twitter.com/thevideoanalyst);
 *    [Grim Reep](https://www.wsc.co.uk/the-archive/918-Playing-the-game/2502-grim-reep-) by Barnay Ronay
 *    [History of Performance Analysis: The Controversial Pioneer Charles Reep](https://www.sportperformanceanalysis.com/article/history-of-performance-analysis-the-controversial-pioneer-charles-reep) by Guillermo Martinez Arastey;
+*    [The Soccer Analytics Revolution](https://sites.duke.edu/socceranalyticsrevolution/history-and-background/) by Nathan Luzum and Michael Model;
 *    [How One Man’s Bad Math Helped Ruin Decades Of English Soccer](https://fivethirtyeight.com/features/how-one-mans-bad-math-helped-ruin-decades-of-english-soccer/) by [Joe Sykes](https://twitter.com/jykes7) and [Neil Paine](https://twitter.com/Neil_Paine) for [FiveThirtyEight](https://fivethirtyeight.com/);
 *    [The History of Sports Analysis: The Man Who Ruined English Football](https://www.nacsport.com/blog/en-gb/News/the-history-of-sports-analysis-the-man-who-ruined-english-football) by Duncan Ritchie;
 *    [No, seriously: what the heck is expected goals (xG)?](https://www.fourfourtwo.com/features/no-seriously-what-heck-expected-goals-xg) by James Maw;
