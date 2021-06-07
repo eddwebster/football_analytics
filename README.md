@@ -234,11 +234,11 @@ Data sources featured in this repository include:
 *    [Signality Tracking data](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/12GetSignalityAPI.py). The password to download the data is not publicly available, but can be found in the Uppsala Mathematical Modelling of Football Slack group [[link](http://mathematicalm-fhj6138.slack.com)]. For access, contact Novosom Salvador [Twitter](@novosomsalvador) and rsalvadords@gmail.com, or feel free to contact myself. Note, that the 2nd half of the Hammarby-Örebro match is incomplete;
 *    [SkillCorner broadcast Tracking Open data](https://github.com/SkillCorner/opendata);
 *    [StatsBomb Open Event data](https://github.com/statsbomb/open-data);
-*    [StatsBomb](https://statsbomb.com/) season-on-season aggregated player performance data scraped via [FBref](https://fbref.com/en/) using [Parth Athale](https://twitter.com/ParthAthale)'s [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) scraper, which in turn was written using code from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL);
+*    [StatsBomb](https://statsbomb.com/) season-on-season aggregated player performance data scraped via [FBref](https://fbref.com/en/) using [Parth Athale](https://twitter.com/ParthAthale)'s [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) scraper, which in turn was written using code from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL). A good package to scrape this data in R is using the [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide [[link](https://towardsdatascience.com/an-introduction-to-the-worldfootballr-r-package-8932b192065d)]);
 *    [Stats Perform](https://www.statsperform.com/) and [Centre Circle](https://canpl.ca/centre-circle-data/) [Canadian Premiere League Event data](https://canpl.ca/centre-circle-data/). See Google Drive [[link](https://drive.google.com/drive/u/0/folders/1ktlkt6f6Ujami53YCS-Lbc9BGGL8BaYA)];
 *    [StrataData]() from [StrataBet](http://www.stratagem.co/) Chance shooting data;
-*    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data scraped using the [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [[TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb)] for code with minor fixes to enable code to run);
-*    [Understat](https://understat.com/) shooting and meta data including player xG values, scraped using the [`understatr`](https://github.com/ewenme/understatr) R package. Data also made available by [@NdyStats](https://twitter.com/NdyStats) (see pinned tweet of his Twitter account for the latest version) using code created by both him and [Mark Wilkins](https://twitter.com/biscuitchaser) (see Tweet [[link](https://twitter.com/biscuitchaser/status/1294608904647839744)]); 
+*    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data scraped using the [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb) for code with minor fixes to enable code to run). A good package to scrape this data in R is using the [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide [[link](https://towardsdatascience.com/an-introduction-to-the-worldfootballr-r-package-8932b192065d)]);
+*    [Understat](https://understat.com/) shooting and meta data including player xG values, scraped using the [`understatr`](https://github.com/ewenme/understatr) R package. Another good package to scrape this data in R is using the [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide [[link](https://towardsdatascience.com/an-introduction-to-the-worldfootballr-r-package-8932b192065d)]). This data also also regularly made available by [@NdyStats](https://twitter.com/NdyStats) (see pinned tweet of his Twitter account for the latest version) using code created by both him and [Mark Wilkins](https://twitter.com/biscuitchaser) (see Tweet [[link](https://twitter.com/biscuitchaser/status/1294608904647839744)]); 
 *    [Wyscout Event data](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Championship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7) and the GitHub repo of code made available through [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) [[link](https://github.com/Friends-of-Tracking-Data-FoTD/mapping-match-events-in-Python)];
 *    Reference data:
      -    League-wide xT values from the 2017-18 Premier League season (12x8 grid) by [Karun Singh](https://twitter.com/karun1710/) [[link](https://karun.in/blog/data/open_xt_12x8_v1.json)]
@@ -352,6 +352,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 All publicly available data sources and datasets relating to football, from Tracking data, Event data, aggregated player performance data, detailed match statistics, injury records and transfer values, and more.
 
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
+*    [BetExplorer](https://www.betexplorer.com/) - odds data;
 *    [Bundesliga physical data](https://www.bundesliga.com/en/bundesliga/stats/players);
 *    [Capology](https://www.capology.com/) - a sports salaries platform [requires an expensive licence, 7 day free trials available].;
 *    [Club Elo](http://clubelo.com/) - European club rankings;
@@ -371,7 +372,7 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [Football Lineups](http://www.football-lineups.com);
 *    [Football xG](https://footballxg.com/);
 *    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) by Joe Kampschmidt;
-*    [International football results from 1872 to 2020](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) by Mart Jürisoo;
+*    [International football results from 1872 to 2020](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) - an up-to-date dataset of over 40,000 international football results by Mart Jürisoo;
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
 *    [Metrica Sports Tracking data](https://github.com/metrica-sports/sample-data);
 *    [My Football Facts](http://www.myfootballfacts.com/);
@@ -382,6 +383,7 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [RoboCup Soccer Simulator](http://oliver.obst.eu/data/RoboCupSimData/overview.html) - RoboCup Soccer Simulator Data;
 *    [SkillCorner broadcast Tracking data](https://github.com/SkillCorner/opendata);
 *    [SofaScore](https://www.sofascore.com/) - live scores, lineups, standings and basic teams, coaches and players data;
+*    [Soccerway](https://uk.soccerway.com/) - matchsheet data;
 *    [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/) - dataset of elite soccer player movements and corresponding videos. See the accompanying paper [[link](http://home.ifi.uio.no/paalh/publications/files/mmsys2014-dataset.pdf);
 *    [Spotrac](https://www.spotrac.com/) team contracts and payrolls for the Premier League, MLS, and NWSL;
 *    [Squawka](http://www.squawka.com);
@@ -389,7 +391,7 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [Stat Bunker](https://www.statbunker.com);
 *    [Stats Perform](https://www.statsperform.com/) and [Centre Circle](https://canpl.ca/centre-circle-data/) [Canadian Premiere League Event data](https://canpl.ca/centre-circle-data/). See Google Drive [[link](https://drive.google.com/drive/u/0/folders/1ktlkt6f6Ujami53YCS-Lbc9BGGL8BaYA)];
 *    [Transfer League](http://www.transferleague.co.uk);
-*    [TransferMarkt](http://www.transfermarkt.co.uk);
+*    [TransferMarkt](http://www.transfermarkt.co.uk) - financial data;
 *    [Twelve Football](https://twelve.football/);
 *    [wosostats](https://github.com/amj2012/wosostats) - Data about women's soccer from around the world;
 *    [Understat](https://understat.com/) shooting and meta data including player xG values. Data can be scraped using the [`understatr`](https://github.com/ewenme/understatr) R package or from [@NdyStats](https://twitter.com/NdyStats) who makes this publicly available (see pinned tweet of his Twitter account for the latest version of this data); 
@@ -484,7 +486,7 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) - a soccer visualisation library in R from [Ben Torvaney](https://twitter.com/Torvaney);
 *    [`soccerAnimate`](https://github.com/Dato-Futbol/soccerAnimate) - an R package to create 2D animations of soccer tracking data;
 *    [`soccermatics`](https://github.com/JoGall/soccermatics) - an R package for the visualisation and analysis of soccer tracking and event data by [Joe Gallagher](https://twitter.com/joedgallagher);
-*    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) - a R package to allow users to extract various world football results and player statistics data from FBref and valuations and transfer data from TransferMarkt.com by [Jason Zivkovic](https://twitter.com/jaseziv); and
+*    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) - a R package to allow users to extract various world football results and player statistics data from FBref and valuations and transfer data from TransferMarkt.com by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide on how to use this package [[link](https://towardsdatascience.com/an-introduction-to-the-worldfootballr-r-package-8932b192065d)]); and
 *    [`understatr`](https://github.com/ewenme/understatr) - a R package to scrape data from Understat.
 
 <h3 id="github-repos"> GitHub Repositories</h3>
@@ -618,7 +620,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [LukeBornn.com](http://www.lukebornn.com/) by [Luke Bornn](https://twitter.com/LukeBornn);
 *    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by [Nils Mackay](https://twitter.com/NilsMackay);
 *    [Mackinaw Stats](https://mackayanalytics.nl/) by [Mackinaw Stats](https://twitter.com/mackinawstats);
-*    [Mark's Notebook](https://marksnotebook.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
+*    [Mark's Notebook (Substack)](https://marksnotebook.substack.com/) and [Mark's Notebook (Ghost)](https://marks-notebook.ghost.io/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [Mixed kNuts](https://mixedknuts.wordpress.com/) by [Ted Knutson](https://twitter.com/mixedknuts?lang=en) including post pre-StatsBomb blog;
 *    [MRKT Insights](https://mrktinsights.com/index.php/blog/) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally [Jay Socik](https://twitter.com/Blades_analytic);
 *    [Modern Fitba](https://www.modernfitba.com/) (currently archived);
@@ -1075,6 +1077,13 @@ Spotify and YouTube links used where available.
      +    [Episode 30 - Chatting Analysis & Opposition Scouting with Stevie Grieve](https://open.spotify.com/episode/6c1XBuNEJrxAxwp9i0Hj5E?si=zQscQefNT7eEA8Z_N1C05w)
 *    [Life...On Our Terms](https://open.spotify.com/episode/23hx4mkehZiuO4WB4BmLHt?si=_ZTmFPvxTNa8dOyoTTbW2A)
      +    [Sport...On Our Terms ft. Rasmus Ankerson](https://open.spotify.com/episode/23hx4mkehZiuO4WB4BmLHt?si=9SZboq_nThqvZoz1qXAMaA)
+*    [The Lowdown](https://open.spotify.com/show/1rhKJBErGWsVAjr64FubP4?si=9qn-JOhbRdCDFxSfuoMJ-Q) by Conor Walsh:
+     +    [#25 - Football's Infinite Game w/ MRKT Insight's Tim Keech](https://open.spotify.com/episode/4UN0OvORqmaVXPVRbtWnWx?si=o2kDfn0ZSZeKOtPrhCWrrA)
+     +    [#23 - Data & Tactical Analysis w/ John Muller](https://open.spotify.com/episode/1nUra4eBBts8RRU8pn4K0J?si=9bJYH2wgRB6c7J09YUHCDg)
+     +    [#14 - All Things Spurs w/ Chris Summersell](https://open.spotify.com/episode/3W7mgRrAAdidgsDy8wG6Cx?si=DZTcr3ojTEuqwb2dqjitKw)
+     +    [#11 - Bundesliga Deep Dive w/ Jasmine Baba](https://open.spotify.com/episode/2BELDNHBOtPshNq5iIileP?si=FA4AmeE2R5m47_msjERE1g)
+     +    [#9 - Inside Football's Data Revolution w/ Dan Altman](https://open.spotify.com/episode/0hHqHDm0dDlTOLnbNxgb1E?si=0HUfXYeKSdqxg9hyovcHGQ)
+     +    [#3 - w/ Liverpool Throw In Coach: Thomas Gronnemark](https://open.spotify.com/episode/2n8bn18mNjgcnCF4sptL59?si=lBsKexIiQYuwYiNxTWvn4Q)
 *    [Modern Soccer Coach Podcast](https://open.spotify.com/show/0mxCm5xfR1dH72GBQ5pl6t?si=P-BAw6ePR52yLGCukJyOGg) with Gary Curneen:
      +    [Ted Knutson: StatsBomb, Liverpool and the Data Revolution](https://open.spotify.com/episode/6L1qdBitr8s19qIXbgMuIQ?si=FoqAeTxdQiK_tmH_EubETw)
 *    [Not The Top 20 Podcast](https://open.spotify.com/show/19Vn2WZiSZOeanPFDHYIb8?si=baqjrom8Sbyc0cYMtttMEQ):
@@ -1207,6 +1216,7 @@ The following includes non-football competitions.
 *    Job sites:
      +    [The Football Scouts](https://www.thefootballscouts.com/live-jobs) - looks really good!
      +    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/)
+     +    [Sports Jobs UK](https://www.sportsjobsuk.com/jobs)
 *    Data companies:
      +    [Statsbomb](https://statsbomb.com/careers/)
      +    [Opta](https://www.optasports.com/about/work-for-opta/)
