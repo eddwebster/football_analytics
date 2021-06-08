@@ -1183,6 +1183,8 @@ Spotify and YouTube links used where available.
      +    [Deconstructing American Soccer (Part II)](https://open.spotify.com/episode/0zdOrXAr8LcDQWNyLCZ8Wj?si=4c35f0caf84245ed)
 *    [The Tao of Sports Podcast – The Definitive Sports, Marketing, Business Industry News Podcast](https://open.spotify.com/show/71A3zuLKKWjHZVY4WbASh8?si=W9IRy1-BQ4aTP6yc8wN1vg):
      +    [Ep. 486 - Stefan Szymanski (Author, Soccernomics)](https://open.spotify.com/episode/5EKZRi7G6sXOKHA0k8JNQ5?si=HIFJTaR4Qa-YrQeOAVnAqQ)
+*    [This Football Life](https://open.spotify.com/show/6geBtdtUlMee7soUNtBDO1?si=O6axfMGHTCuZNZHkJ-Bznw):
+     +    [Chris Anderson: Pioneering Football's Data Revolution](https://open.spotify.com/episode/2HMhcejOt1UZoSByY96z3Q?si=8yKZwqNfRKSXQZAcVG0JJA)
 *    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA):
      +    The Transfer Market & 21st Club with [Omar Chaudhuri](https://twitter.com/OmarChaudhuri) - [Spotify](https://open.spotify.com/episode/4C21F4d5RedaQjYHCv451k?si=ca8BN8KaSdCwGUTaiaFEfw) and [YouTube](https://www.youtube.com/watch?v=A5psEy_V8YM)
      +    How Memphis Depay Used Data to Find His Next Club with [Giels Brouwer](https://twitter.com/Gielsbrouwer) - [Spotify](https://open.spotify.com/episode/0RpLcIdqdD81Z4vyVPgw5w?si=YFR38EX3QvOReG1xWEl7rw) and [YouTube](https://www.youtube.com/watch?v=wP7HH_ucwzo)
