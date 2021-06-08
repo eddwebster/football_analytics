@@ -1078,6 +1078,8 @@ Spotify and YouTube links used where available.
      +    [Football CFB with… Kieran Maguire](https://open.spotify.com/episode/1KvvfS84xGw4KFB2nwr9Fv?si=s2p3SQD3RbKy6pLqBYjimg)
 *    [The Football Collective Podcast](https://open.spotify.com/show/3fqNuhWi6hkagJ1U0UDJfe?si=e10JT2ACS86A3JXyO1AzGQ):
      +    [S3 E1 | Sarthak Mondal speaks to Laurie Shaw about the advent of Data Science in Football The Football Collective Podcast](https://open.spotify.com/episode/1gJXuovD1L6VMimN5BtukS?si=Y-Ot43T8TluU7UEiSvReyg)
+*    [The Football Ramble](https://open.spotify.com/show/5vK22FRxc1VghAYzyemMZP?si=Tw5qCD3uQYafx2_JiUbzdg)
+     +    [Football Ramble Daily Book Club: Soccernomics, Simon Kuper and Stefan Szymanski](https://open.spotify.com/episode/5joOSIe1SuT9DXoiE2Vt2f?si=2kk7fKgtR1OPnxjXoAcy4g)
 *    [The Football Pod](https://open.spotify.com/show/3QhwCTOvJN3AZqNalgjtnO?si=173ZCWfsTs-jktoS7Bz9XQ):
      +    [Episode 6 with Tom Worville](https://open.spotify.com/episode/3Zo8tvAVhpTSP4WKRt5Qig?si=de3YRB1rTLqmv2NBp6oKCw)
      +    [Episode 3 with David Sumpter](https://open.spotify.com/episode/4mnDHbUo097JuC2lQiFijo?si=7abgc4_vRM21jSKff04rWg)
