@@ -1034,6 +1034,12 @@ Spotify and YouTube links used where available.
      +    [The Weekly - Ep. 12 - Barnsley Debrief and Derby Preview](https://open.spotify.com/episode/1mJinsb8PJNlpghcGz0p4g?si=f5P51NayTJClOYscU3vTqA) with Ram Srinivas
 *    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/):
      +    [Episode 27: David Sumpter](https://open.spotify.com/episode/6gG4VY5hRlIio0smhgTnWh?si=meS7GqPxR4WXf2PGMPATZw)
+*    [The Beesotted Brentford Pride of West London Podcast](https://open.spotify.com/show/1Ma27HIVWrg6Ct0F3WixnS?si=wnv9WCrZTdydIqV9qeWJfA)
+     +    [679: Brentford Football Analytics Special- Interview with Ted Knutson from Statsbomb. Brentford's Season. Success or Failure?](https://open.spotify.com/episode/7J2L5wyM0qlWo69pclwUgj?si=516fd398893043cc)
+*    [Bet The Process](https://open.spotify.com/show/1ibLvEyLJQzqQY32IZVbOh?si=cGpfsqgvScG41TtHgB4IEA)
+     +    [Offseason Pod - Ted Knutson joins](https://open.spotify.com/episode/7svgy7DMbMkPqyeERB7qoO?si=6B6JvN_aS8un197DGCiM0A)
+     +    [Season 3 Episode 9 - Ted Knutson rejoins the Process](https://open.spotify.com/episode/3VPz8QdvokfYp3NwIiRkGP?si=X3UFuBYBSnWeXdzW1k-r1Q)
+     +    [Episode 35 - Ted Knutson](https://open.spotify.com/episode/46VIWLfbrzJPyYDGsd3QTv?si=-sRmW8uNTvqbrUG5EOswyA)
 *    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (Spanish) by [Marcelo Gantman](https://twitter.com/marcelogantman) and Agustin Mario Gimenez:
      +    [87: No es Moneyball: es Brentford](https://open.spotify.com/episode/3b8lnFZjm27ag2R0SUZRdZ?si=CI_LfzetQSCs2yLiQ5HMMg)
      +    [66: Tres Libros Sobre Sports Analytics Más Allá De Moneyball](https://open.spotify.com/episode/3nebrUaTswrXGtztoulM3S?si=2IvLTxFpQ9CfPPiGPyov3g)
@@ -1042,6 +1048,10 @@ Spotify and YouTube links used where available.
      +    [47: Wyscout: 550 Mil Futbolistas "concentrados" En Un Software](https://open.spotify.com/episode/7vI1qM7KoJHkFoe11iX3Nj?si=v4BaWwBaSc61y-PM9F-75w)
      +    [35: Big Data Sports - 35: Analistas: Los nuevos "cracks" del fútbol ](https://open.spotify.com/episode/1e8KEFHNvLb5T0HUZS57gN?si=9XlTI81mSaKGYuSK4ADvfQ)
      +    [33: Google + IA = Fútbol en Real Time](https://open.spotify.com/episode/1e8KEFHNvLb5T0HUZS57gN?si=DDGSzoxIQaKnPoaULtMbjQ)
+*    [Blood Red: The Liverpool FC Podcast](https://open.spotify.com/episode/0kBU4RzJbWTzPXQIIJcKsw?si=5ddcd379efba4fc0)
+     +    [The Bottom Line: FSG’s naivety over European Super League | Stefan Szymanski interview](https://open.spotify.com/episode/0kBU4RzJbWTzPXQIIJcKsw?si=4fb6929d2e474daa)
+*    [Burn It All Down](https://open.spotify.com/show/0yQs1F78LcjPWDPPSS3MPH?si=nUkyIPryTjmFKE4xAzNSWg)
+     +    [Interview: Stefan Szymanski and Silke-Maria Weineck, authors of "City of Champions: A History of Triumph and...](https://open.spotify.com/episode/00teFZa89wVo7hMyEvBspp?si=nbJPoLDoRomsmHedb4Xp2g)
 *    [Campbell's Footballs](https://open.spotify.com/show/5qaFCHefLxznnLm5B63iTs?si=_MhR41aVSKOJgWSXhJva2g) by Dr. Grant Campbell
      +    [Stevie Grieve](https://open.spotify.com/episode/6SyIYDhpR4JMysKlD3lec7?si=cR6Bv8EFQ4i7uoDcHa9CkA)
      +    [Colin Cunningham](https://open.spotify.com/episode/4XeVhCwYpAGzWe4ZYiWEG9?si=kCxT4PgrRtWHK7Pz5DQSUg)
@@ -1050,8 +1060,14 @@ Spotify and YouTube links used where available.
 *    [The Conor J Show](https://open.spotify.com/show/2VeRpUoHzC7KN9zxB5N2iz?si=oSMPSpwbR7-IgxSzqlk6Ig):
      +    [The Role Mathematics plays in Sports and Politics (Part 1) | David Sumpter | TCJS #11 (1/2)](https://open.spotify.com/episode/7BBAToNN9Mt0Ol8c9bDtGS?si=5YNtRObXQMu7xYBEgLgmbQ)
      +    [Is Fake News Efficacious (Part 2) | David Sumpter | TCJS #11 (2/2)](https://open.spotify.com/episode/2BC0GxAIU96aYSqMlRUcuQ?si=dPSAmciQR3KIJG5ivx1uEg)
+*    [ČT sport podcasty](https://open.spotify.com/show/1SQOGBIy4nPHFq6I6dyfAA?si=f9jvV0GOTu-nDdrGRWzbBA)
+     +    [Stefan Szymanski: Everyone says the sports bubble will burst. But now might really be the time](https://open.spotify.com/episode/6nAMFSPnZJBayHoTGMqBFC?si=gt35M2MLRQWqSX0wySH9dQ)
 *    [The Derby County BlogCast](https://open.spotify.com/show/6JgsZlXILOQpIKvknAgQDA?si=sjgzZ2D3QbWezG9slwWHeQ)
      +    [January window preview](https://open.spotify.com/episode/6BPle4s00x3ZM85mcDV7Ip?si=eNATcAJUTX-2E8RDA7IDOg) with Ram Srinivas (MRKT Insights)
+*    [Economic Rockstar](https://open.spotify.com/show/3mmybL2hxQy8Q3nsY7WYyC?si=B8GaJkegQCil4CUGuziaAg):
+     +    [090: Stefan Szymanski on Soccernomics and How Sabermetrics, Inequality and Finance Rules the Sport](https://open.spotify.com/episode/4UPKIOS2HPYMs3egwGfNmY?si=8rZRxLnmQgqeFiGRP5utpQ)
+*    [ESPN Daily](https://open.spotify.com/show/3O3sl79wUkXBvf4DVjcYq6?si=o4mOJJyGS-ebOz0ZFsU5Ng)
+     +    [Daryl Morey On the Sports Analytics Revolution](https://open.spotify.com/episode/1RGSVCjDCooxudOF4nATKH?si=40b95a35e0df40c1)
 *    [ExtraTime Radio: The Numbers Game Book Club](https://open.spotify.com/show/027WSUNFvTmAJVIHumllqK?si=E4PD9xXuQPW3vygzLYLwnA)
      +    [Merritt Paulson names his Timbers Mount Rushmore, plus a little storytime | Exploring future of data in soccer](https://open.spotify.com/episode/0msZmxh6VtYCjFkRd8iwhq?si=d6955d48690b445d) featuring Devin Pleuler
      +    [ExtraTime Radio: The Numbers Game Book Club](https://open.spotify.com/episode/1IjIGO2ANnvke1d3rcnFSy?si=JxvqT3K6Trq7_Z3BW0pKaA) featuring Devin Pleuler
@@ -1068,6 +1084,10 @@ Spotify and YouTube links used where available.
      +    [S2E4 - Tom Worville](https://open.spotify.com/episode/7yqrJlGLbn1af9XSFbWPLK?si=SR0Ux69_SA-Uw-qW9cHNow)
 *    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU?si=9v83huJIR-GUxAnKRyXLRA) with Mike Lewis:
      +    [Getting Your Foot in the Door](https://soundcloud.com/fanalytics/sports-analytics-getting-your-foot-in-the-door) with Sean Steffen
+*    [Fell In Love With A Girl](https://open.spotify.com/show/7LkgkPT5H63TkRxAr0dfsM?si=zs8sIdpMTHWZs-UjjO6ARg)
+     +    [Sommerpause Special - FCSP and DCFC: A Different Kind of Football Panel](https://open.spotify.com/episode/4MNYJ44TS4IClLabnKvYaf?si=ukDVWlXRQaKNO_B-segzzg) including Dr. Stefan Szymanski on the panel
+*    [Fluid Football](https://open.spotify.com/show/5jMrB8tS8kYGOvQ96BqTk0?si=Jw8hCo-SQYaOo2dCa-NEtg)
+     +    [Episode 8 - Football Finances with Stefan Szymanski](https://open.spotify.com/episode/3DuMaV8Om6ADZmWeuU9wTg?si=rldwgK__RVWf0PbCc6rntg)
 *    [Freakonomics](https://open.spotify.com/show/6z4NLXyHPga1UmSJsPK7G1?si=Nl7mbhOeRh64w3tp7alyyg) by Stephen J. Dubner:
      +    [Can Britain Get Its “Great” Back? (Ep. 393)](https://open.spotify.com/episode/7hh4DaXBCQtLZ17Lv9Lwg6?si=2F5C3k-IQLeIuaQMfkULMA) featuring Dr. Ian Graham @ 41m25s;
 *    [The Football Analytics Shot by The Power Rank and Ed Feng](https://open.spotify.com/show/2QCXu9ZYx1SpUeGjpZQ9yH?si=4_C7mIeARAS4gBJFRmxhPA) (usually American football):
@@ -1087,11 +1107,15 @@ Spotify and YouTube links used where available.
      +    [Manchester City Enters Data Arms Race With Liverpool](https://open.spotify.com/episode/311rLza8goz2b2SBORBORn?si=aqZX6ooOSfGkY3312jJozA)
      +    [How Safe is Football's Data](https://open.spotify.com/episode/5DnpiT8dtVcQK8YDtBIgnz?si=XweL-JQCQbCMdTArB0X1LA)
      +    [Who Owns Football's Data](https://open.spotify.com/episode/5Cw5ovQ9qH3LEkOhawUXV7?si=jxLNeCXwTL6Z41o6xvDUzw)
-     +    Can Data Save Manchester United? Featuring Tom Worville
+     +    [Can Data Save Manchester United?](https://open.spotify.com/episode/2rSY1NYPRB9ziSSvolpK3C?si=HffAJUWFSTuVzjXYfb1Ukw) with Tom Worville
      +    [Tony Bloom: The Betting Guru Running Brighton](https://open.spotify.com/episode/2N2EMqiyqEjwqdPM6zApIw?si=uhE9VWawSo6jPQfTaIeFCQ)
 *    [I Prefer not to Speak](https://open.spotify.com/show/5bS9EKClOVNLR3XK2JbRgD?si=nwmvUOtQRq2a-4CgC0zyXg)
      +    [Episode 33 - Discussing Statistics in the Modern Game with James York](https://open.spotify.com/episode/7k3ka0zLyQhoop19IF2tqf?si=ggXjOXknSx-zhNpL-FUm1Q)
      +    [Episode 30 - Chatting Analysis & Opposition Scouting with Stevie Grieve](https://open.spotify.com/episode/6c1XBuNEJrxAxwp9i0Hj5E?si=zQscQefNT7eEA8Z_N1C05w)
+*    [Infinite Football](https://open.spotify.com/show/6MSTqU7blD3r8iNg3FnUqU?si=ucfLfiXsQMy3w0XfZRfZsw)
+     +    [Episode 32: The Future of the Transfer Market](https://open.spotify.com/episode/1ejxtGQxYUDKakkT4h1vg5?si=QaK1bsIoTJCDA3xUVaBoGA)
+*    [Inside The Newsroom](https://open.spotify.com/show/0Juv35gdDSqdzVF7XLRWNS?si=wHgQNgpKT46z-VwKFJLanQ)
+     +    [#27 — Stefan Szymanski (Soccernomics)](https://open.spotify.com/episode/40w4uVRHXP8LLOV59Sn6TW?si=dlBm91WnSPyT8dbsXifYoA)
 *    [Life...On Our Terms](https://open.spotify.com/episode/23hx4mkehZiuO4WB4BmLHt?si=_ZTmFPvxTNa8dOyoTTbW2A)
      +    [Sport...On Our Terms ft. Rasmus Ankerson](https://open.spotify.com/episode/23hx4mkehZiuO4WB4BmLHt?si=9SZboq_nThqvZoz1qXAMaA)
 *    [The Lowdown](https://open.spotify.com/show/1rhKJBErGWsVAjr64FubP4?si=9qn-JOhbRdCDFxSfuoMJ-Q) by Conor Walsh:
@@ -1101,10 +1125,16 @@ Spotify and YouTube links used where available.
      +    [#11 - Bundesliga Deep Dive w/ Jasmine Baba](https://open.spotify.com/episode/2BELDNHBOtPshNq5iIileP?si=FA4AmeE2R5m47_msjERE1g)
      +    [#9 - Inside Football's Data Revolution w/ Dan Altman](https://open.spotify.com/episode/0hHqHDm0dDlTOLnbNxgb1E?si=0HUfXYeKSdqxg9hyovcHGQ)
      +    [#3 - w/ Liverpool Throw In Coach: Thomas Gronnemark](https://open.spotify.com/episode/2n8bn18mNjgcnCF4sptL59?si=lBsKexIiQYuwYiNxTWvn4Q)
+*    [The Lowe Post](https://open.spotify.com/show/2mZHt3zBxyIuc0PYLdDDkr?si=hx6AJ25WQSKF3jdlC13fNg)
+     +    [Daryl Morey from Sloan Sports Analytics Conference](https://open.spotify.com/episode/7gyEfszQhb7mCMfBM99pp4?si=e3e53a846377472d)
 *    [Men in Blazers](https://open.spotify.com/show/2YiLKNHIBty5xVbBKLyjkD?si=CJO8gvzJRtO5BQujCgX0pw):
      +    [Men in Blazers 03/08/19: MIT Sloan Sports Analytics Conference Pod Special](https://open.spotify.com/episode/5gYPsirKZrFOuetbuRRxF7?si=5ddf0f5ac6bb47c4)
+*    [The Modern Football Group Podcast](https://open.spotify.com/show/30J2nOKpSPUQKqKQW2gAAi?si=WRC1h872QxGJo-ZaJSvmbw)
+     +    [MFG ProPod | Omar Chaudhuri](https://open.spotify.com/episode/1srgPLLcrmyl2R1IOdJFWD?si=TUpmryKPQkO5-0NU_8Z1yA)
 *    [Modern Soccer Coach Podcast](https://open.spotify.com/show/0mxCm5xfR1dH72GBQ5pl6t?si=P-BAw6ePR52yLGCukJyOGg) with Gary Curneen:
      +    [Ted Knutson: StatsBomb, Liverpool and the Data Revolution](https://open.spotify.com/episode/6L1qdBitr8s19qIXbgMuIQ?si=FoqAeTxdQiK_tmH_EubETw)
+*    [Motley Fool Money](https://open.spotify.com/show/7tXRc97C1fA0epHAGQuJOE?si=lX-rYLMqQKGDeF_aRM6KfQ)
+     +    [Motley Fool Money: 06.06.2014](https://open.spotify.com/episode/54gHeGF9KJn8FPO8VkzDKu?si=EshmvDtZTg2hisnHZLLL9g) with Stefan Szymanski
 *    [Not The Top 20 Podcast](https://open.spotify.com/show/19Vn2WZiSZOeanPFDHYIb8?si=baqjrom8Sbyc0cYMtttMEQ):
      +    [Recruitment Chat with Jay Socik (Blades Analytic) & Introducing FIVEYARDS](https://open.spotify.com/episode/30ARjrCcCiUHAc5oD3eaqE?si=6OPTiLkPQCiobeVLG193hg)
 *    [The Nutmegged Arena](https://open.spotify.com/show/5ZRtcboNN80YL8ohGA6Wos?si=oyRGiCxTSSmIM5KSWaXCOA) by The Nutmeg Assist:
@@ -1113,6 +1143,8 @@ Spotify and YouTube links used where available.
 *    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with Ron Yurko;
      +    [Player Chemistry in Soccer](https://anchor.fm/open-source-sports/episodes/Player-Chemistry-in-Soccer-with-Lotte-Bransen-ejils5) with Lotte Bransen
 *    [The Ornstein & Chapman Podcast](https://open.spotify.com/show/69AAB4ojTuK7gwy3ZdQdB9?si=ciYED_kESKqfa2K505QsrQ) with David Ornstein and Mark Chapman:
+     +    [Latest on the race to sign Erling Haaland and Tuchel's reaction to Chelsea horror show](https://open.spotify.com/episode/6LTgDpHYE4iqI6txGAAncU?si=5b9541effffb4bbf) featuring Tom Worville
+     +    [Should football scrap transfer fees?](https://open.spotify.com/episode/0Q0H3KCo0YEAYOl0yIKrrO?si=8cde2270ed30432f) with Daniel Geey and Stefan Szymanski
      +    [Football Club Ownership: Data, Decisions & Competitive Edge](https://open.spotify.com/episode/6v739L7LR13BZs4sPmDeGD?si=3TRs_IunT6-pVhA78ZPgGw) with Simon Hallett
 *    [Pacey Performance Podcast](https://open.spotify.com/show/4J7lhwdc8jCT92CyKluXQr?si=gcppVCtDS4yPJt-QosJPCw) with [Robert Pacey](https://twitter.com/strengthofsci):
      +    #340 What is data science (and what isn't), data informed decision making with [Sudarshan Golaladesikan](https://twitter.com/suds_g) - [Spotify](https://open.spotify.com/episode/37EhvnA8bRXHV9KXClQRPB?si=Pbcech5OTbW6ZRIYSEAMFg) and [YouTube](https://www.youtube.com/watch?v=Xd7MOeu9rtM&ab_channel=PaceyPerformance); 
@@ -1120,19 +1152,37 @@ Spotify and YouTube links used where available.
      +    [232: 'Analysing Norwich City's Recruitment' - The Rebound #3 - Ft. Data Analyst Ram Srinivas](https://open.spotify.com/episode/7idmp92m0Pfv2XiW8vOzZU?si=NCc6-ZDWSdWgum1WfVv-VA)
 *    [Pinnacle Podcast](https://open.spotify.com/show/091oYrS0glFhP81fq32bpE?si=TmR79XGnRAm5987Zj33ImA):
      +    [Serious About Betting: David Sumpter](https://open.spotify.com/episode/6Bt5L7wXDGvrSezYL2FU2O?si=IgQB1TArR9CBTnecZxb6qA)
+*    [Planet Fútbol with Grant Wahl](https://open.spotify.com/show/4ad0sdiW52MPPoKHN0i777?si=sWji42vaT8itHxwE8TsF1w)
+     +    [Ted Knutson's Story From the U of Oklahoma to Running A Cutting-Edge Soccer Data Business in England](https://open.spotify.com/episode/0qKBuwqJNtitxgPhpDJKdQ?si=aG_RfnXcTVKlrofWoxq1sg)
+*    [The Pomp Podcast](https://open.spotify.com/show/2QwpFjzJ0ZteqmMqw2xIfA?si=pC94MmwFSjGNQuVMIUXFWA)
+     +    [309: Daryl Morey On Using Data To Make Decisions](https://open.spotify.com/episode/4dLeh1NC4CjX9i4NUf1SVB?si=5a1550392dd34989)
 *    [The Process](https://open.spotify.com/show/5H0uUcZGr6zw7AHRuLKP6D?si=7XUIxepzTYyVRS3fEwG7Lw) with James Allcott:
      +    [#16 The Future of Football with Ted Knutson (StatsBomb)](https://open.spotify.com/episode/4KKWkT6tAn2puAe2IqOtLq?si=Br5HbR_lRvCsO5oFf0sqOw)
+*    [Purely Arsenal - Football Purists, an AFC podcast](https://open.spotify.com/show/1PZ2DyFzs0pRXlAJTCVwNJ?si=o8WjCtKPT9uwPqZxBf0jxA)
+     +    [History & Ideas - Cafe Football: Soccernomics 2 with Stefan Szymanski](https://open.spotify.com/episode/2hB6XVjRbdk7n7TacNygbT?si=-3d1SBg3TCaH_YydebSlOQ)
+*    [Rigo Plascencia Deportes, Entrevistas y más](https://open.spotify.com/show/7788bzXt5OZLWembKA29Tx?si=gUhwwHRYT22zNwXYimUJFg):
+     +    [Rigo Plascencia Entrevista Stefan Szymanski](https://open.spotify.com/episode/4RwQ3Cbloc3qblAyGCvb0q?si=P8IhFGiHQXGJAw_GQ447cA)
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=hBYRN1GgSc2eSIDUMiwDfA&nd=1):
      +    [#26 Recruitment, Data and Sheffield United with Blades Analytic](https://open.spotify.com/episode/1EeM7PCLq5fBngMGdVROkN?si=7W6-FrhASsafAKvbmdY6DQ)
      +    [#56 Standout Stats: Premier League](https://open.spotify.com/episode/37SlOJmtoviAKgNanq7Fxq?si=JzBDUt7iRHCKhTPomuVjAA) with Mark Carey
+*    [Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas](https://open.spotify.com/show/622lvLwp8CVu6dvCsYAJhN?si=XMKre1scQhancJHzCNHz4Q)
+     +    [138 | Daryl Morey on Analytics, Psychology, and Basketball](https://open.spotify.com/episode/60j6fCMDUxHbcshR0ZahlP?si=caecd5c424584b6d)
+*    [SempreMilan Podcast](https://open.spotify.com/show/6sPU8QoJPGeUryXCL7wuDm?si=fbSgIUljS5CmBa0pemfdPQ):
+     +    [62: Episode 62 - Soccernomics with Stefan Szymanski](https://open.spotify.com/episode/2gXblWGto4kla1PyLGXjvr?si=-Q1Nn4I3QHKG6b3DiUaF3A)
 *    [Sports Tech Research Podcast](https://open.spotify.com/show/1KDUkkl0UQ5Yv80Agduj0y?si=W72SeXwmTMyvSuvfcx4OrA):
      +    [Taking soccer to the next level with advanced analytics](https://open.spotify.com/episode/5Syn3C5Dj5JdZTGBuZjPhE?si=APYyMPfhRHyNK9jtoCw8pQ) with [Jan Van Haaren](https://twitter.com/janvanhaaren)
 *    Soccer Player Development Podcast:
      +    Episode 12 with Rasmus Ankersen - [YouTube](https://www.youtube.com/watch?v=S0iHetgqQpE)
 *    [Squawka Talker Football Podcast](https://open.spotify.com/show/7xqylrPDX54uo01n4erZQZ?si=XpMNQ43aQxKUa6QuB0dp2w):
      +    [BIG interview with David Sumpter: Putting GPS trackers on under 10s football teams](https://open.spotify.com/episode/6c6vOWNhvUah7Mz01oiCgt?si=t7Sc0W8WRUS0ZnVWTaGt0g)
+*    [State of the World](https://open.spotify.com/show/40Kcwy2ekTvOajd8aUwvn0?si=v9yKHTfYT_27FjORVu9oyw):
+     +    [The Rise and Fall of the Super League | Stefan Szymanski, Ph.D. & Harry Watling](https://open.spotify.com/episode/0F0ntTnsGJHZBShqFIFSTc?si=Ep9wlAnGS0WwdcGq98LCDQ) 
+*    [These Football Times](https://open.spotify.com/show/40PNENhNjOXiGZ5nbM8oaa?si=B6zjJf3fTKC_z8nHaiUimA)
+     +    [Deconstructing American Soccer (Part II)](https://open.spotify.com/episode/0zdOrXAr8LcDQWNyLCZ8Wj?si=4c35f0caf84245ed)
+*    [The Tao of Sports Podcast – The Definitive Sports, Marketing, Business Industry News Podcast](https://open.spotify.com/show/71A3zuLKKWjHZVY4WbASh8?si=W9IRy1-BQ4aTP6yc8wN1vg):
+     +    [Ep. 486 - Stefan Szymanski (Author, Soccernomics)](https://open.spotify.com/episode/5EKZRi7G6sXOKHA0k8JNQ5?si=HIFJTaR4Qa-YrQeOAVnAqQ)
 *    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA):
-     +    The Transfer Market & 21st Club withj [Omar Chaudhuri](https://twitter.com/OmarChaudhuri) - [Spotify](https://open.spotify.com/episode/4C21F4d5RedaQjYHCv451k?si=ca8BN8KaSdCwGUTaiaFEfw) and [YouTube](https://www.youtube.com/watch?v=A5psEy_V8YM)
+     +    The Transfer Market & 21st Club with [Omar Chaudhuri](https://twitter.com/OmarChaudhuri) - [Spotify](https://open.spotify.com/episode/4C21F4d5RedaQjYHCv451k?si=ca8BN8KaSdCwGUTaiaFEfw) and [YouTube](https://www.youtube.com/watch?v=A5psEy_V8YM)
      +    How Memphis Depay Used Data to Find His Next Club with [Giels Brouwer](https://twitter.com/Gielsbrouwer) - [Spotify](https://open.spotify.com/episode/0RpLcIdqdD81Z4vyVPgw5w?si=YFR38EX3QvOReG1xWEl7rw) and [YouTube](https://www.youtube.com/watch?v=wP7HH_ucwzo)
      +    How Do Football Clubs Actually Use Statistics? - [YouTube](https://www.youtube.com/watch?v=ktk-ocn2AMo)
      +    JJ Bull: Tactical Analysis & Coaching Badges - [Spotify](https://open.spotify.com/episode/4vOxLy5WINc40ApWW8PvI1?si=C4URrqf_SyCPMg4QaUUM1A) and [YouTube](https://www.youtube.com/watch?v=cYThVZO3RJ0)
@@ -1154,6 +1204,13 @@ Spotify and YouTube links used where available.
      +    [Ep 87: Mathematics Professor David Sumpter & Trademate CEO Marius Norheim - Using Mathematics in...](https://open.spotify.com/episode/6jYhTHxujga5D9j37uQbLt?si=3gwKy27dRcOgVij5bYpGzA)
 *    [UCN/USF Sport Management - Sports Business Podcast](https://soundcloud.com/user-736114890):
      +    [Kenneth Cortsen talks to Laurie Shaw from Harvard University](https://soundcloud.com/user-736114890/sport-data-analytics-in-football-kenneth-cortsen-talks-to-laurie-shaw-harvard-university) 
+*    [Wharton Business Daily]()https://open.spotify.com/show/6370vjbuyy6VnJ3AMeRmja?si=TjqYnZboTnGR7qfhjjcYAw
+     +    [The Edge of Analytics: Live from the MIT Sloan Sports Analytics Conference 2019 Part One](https://open.spotify.com/episode/0wz5qAZem0bu39qKfJsux4?si=-vvd6tvuSyChxmvQEXcHng)
+     +    [The Edge of Analytics: Live from the MIT Sloan Sports Analytics Conference 2019 Part Two](https://open.spotify.com/episode/458fxtGKPPVFrqZEeg1Oog?si=PsN4MQogTk-VNwtEtpBYfA)
+     +    [The Edge of Analytics: Live from the MIT Sloan Sports Analytics Conference 2019 Part Three](https://open.spotify.com/episode/6TG5oQb4BQcRvKAyHCu6JV?si=rKYl-SYfQHOcFidjh1gRNA)
+*    [The Wharton Moneyball Post Game Podcast](https://open.spotify.com/show/7euXqPldw3dB4gX0HP2J5H?si=Us84Wjy9RtyrhLeyDxJR0Q)
+     +    [Wharton Moneyball: Soccer Analytics, the Women's World Cup & Cirque Du Soleil](https://open.spotify.com/episode/1KfHiwg40XLvTRiJrrwXH3?si=8vpLm1tnQH2bH2F9zW4oKA) featuring Ted Knutson
+     +    [6/13/18 Wharton Moneyball](https://open.spotify.com/episode/50b9hXuJFWIdMuLvbOtphF?si=yD4Tqwl_TaesKkTAtFx6wg) with Stefan Szymanski
 *    [Where Others Won't]() by [Cody Royle](https://open.spotify.com/show/13w1hFUG3jzoA0IrmSlc4m?si=gmYlfec-RyibIf7fC6QMMQ):
      +    [Rasmus Ankersen - Discovering Talent](https://open.spotify.com/episode/7lkkikNGL4F1cfZy1I4kPK?si=CYWpdhF9SFWr-v605Jb64w)   
 *    [View From The Byline](https://open.spotify.com/show/5CNA9arsI2RZvOF32k19Av?si=mkJf-XeeTR6rh7IKCpFqgQ)
