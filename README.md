@@ -260,6 +260,7 @@ Data sources featured in this repository include:
 Good resources for those new for the use of data in football:
 
 *    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller) - check out his Newsletter [space space space](https://spacespacespaceletter.com/author/johnmuller/);
+*    [Introduction to Analytics in...Soccer](http://sportsanalytics.sa.utoronto.ca/2015/02/20/introduction-to-analytics-in-soccer/) by [Valentin Stolbunov](https://twitter.com/vstolbunov);
 *    [Soccer Analytics 101](https://web.archive.org/web/20201101011408/https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus);
 *    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), Hannah Roberts, [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby);
 *    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
@@ -324,20 +325,22 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
      +    [Eva Murray](https://public.tableau.com/profile/eva.murray)
      +    [Foot en Stats](https://public.tableau.com/profile/julien.demeaux)
      +    [James Smith](https://public.tableau.com/profile/sports.chord)
-     +    [James Vaughan](https://public.tableau.com/profile/james.vaughan1697#!/) - see his Twitter thread of projects [[link](https://twitter.com/Advt_played/status/1360656812870107141)
+     +    [James Vaughan](https://public.tableau.com/profile/james.vaughan1697#!/) - see his Twitter thread of projects [[link](https://twitter.com/Advt_played/status/1360656812870107141)]
      +    [Mark Carey](https://public.tableau.com/profile/mark.carey)
      +    [Matt Trevillion](https://public.tableau.com/profile/matt.trevillion)
      +    [Ninad Barbadikar](https://public.tableau.com/profile/ninad.barbadikar#!/) - see his [Tableau Tunnel](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) series
      +    [Oscar Hall](https://public.tableau.com/profile/oscar.hall)
      +    [Paul Riley](https://public.tableau.com/profile/paul.riley)
      +    [Peter McKeever](https://public.tableau.com/profile/peter.mckeever)
-     +    [Sathish Prasad V.T](https://public.tableau.com/profile/sathish.prasad.v.t)
-     +    [Sancho Quinn](https://public.tableau.com/profile/sancho.quinn)
      +    [Rahul Iyer](https://public.tableau.com/profile/rahul.iyer)
      +    [Ravi Mistry](https://public.tableau.com/profile/scribblr.42)
      +    [Rob Carroll](https://public.tableau.com/profile/the.video.analyst)
      +    [Rob Suddaby](https://public.tableau.com/profile/rob.suddaby)
+     +    [Sathish Prasad V.T](https://public.tableau.com/profile/sathish.prasad.v.t)
+     +    [Sancho Quinn](https://public.tableau.com/profile/sancho.quinn)
      +    [Sushruta Nandy](https://public.tableau.com/profile/sushruta)
+     +    [Tom Worville](https://public.tableau.com/profile/tom.worville#!/)
+
 
 <h4 id="excel"> Excel</h4>
 
@@ -387,7 +390,7 @@ All publicly available data sources and datasets relating to football, from Trac
 *    [SkillCorner broadcast Tracking data](https://github.com/SkillCorner/opendata);
 *    [SofaScore](https://www.sofascore.com/) - live scores, lineups, standings and basic teams, coaches and players data;
 *    [Soccerway](https://uk.soccerway.com/) - matchsheet data;
-*    [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/) - dataset of elite soccer player movements and corresponding videos. See the accompanying paper [[link](http://home.ifi.uio.no/paalh/publications/files/mmsys2014-dataset.pdf);
+*    [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/) - dataset of elite soccer player movements and corresponding videos. See the accompanying paper [[link](http://home.ifi.uio.no/paalh/publications/files/mmsys2014-dataset.pdf)];
 *    [Spotrac](https://www.spotrac.com/) team contracts and payrolls for the Premier League, MLS, and NWSL;
 *    [Squawka](http://www.squawka.com);
 *    [StatsBomb Open Data](https://github.com/statsbomb/open-data) - Competitions and matches (with events);
@@ -583,8 +586,9 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [2+2=11](https://2plus2equals11.com/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM);
 *    [5 Added Minutes](https://5addedminutes.com/) by [Omar Chaudhuri](https://twitter.com/OmarChaudhuri) (last updated 03/09/2016);
 *    [8 Yards 8 Feet](https://8yards8feet.wordpress.com/author/simonlock1993/) by [Simon Lock](https://twitter.com/8Yards8Feet);
-*    [All Things Football](https://allthingsfootballonline.blogspot.com/);
+*    [Abel Lorincz](https://abellorincz.wordpress.com/) by [Abel Lorincz](https://twitter.com/Abel_Lorincz) (last updated;
 *    [Absolute Unit](https://absoluteunit.substack.com/);
+*    [All Things Football](https://allthingsfootballonline.blogspot.com/);
 *    [Alex Rathke](http://alexrathke.net/) by [Alex Rathke](https://twitter.com/AlexRathke);
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/);
 *    [Analyse Football](https://analysefootball.com/) by [Ravi Ramineni](https://twitter.com/analyseFooty) (last updated 06//04/2015);
@@ -654,9 +658,10 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant](https://twitter.com/Ciaran_Grant));
 *    [The Power of Goals](https://thepowerofgoals.blogspot.com/);
 *    [Training Ground Guru](https://trainingground.guru/). Check out their accompanying podcast [[link](https://open.spotify.com/show/1Kn9l6LifZ2AWmZri9XWHn)];
-*    [Tom Worville Medium blog](https://medium.com/@worville) by Tom Worville (last updated 14/08/2017). Tom now writes for The Athletic [[link](https://theathletic.co.uk/author/tom-worville/)];
+*    [Tom Worville's Medium blog](https://medium.com/@worville) by Tom Worville (last updated 14/08/2017). Tom now writes for The Athletic [[link](https://theathletic.co.uk/author/tom-worville/)];
 *    [winningwithanalytics.com](https://winningwithanalytics.com/) by [Bill Gerrard](https://twitter.com/bill_gerrard_);
 *    [Wooly Jumpers for Goal Posts](https://winningwithanalytics.com/) by [The Woolster](https://twitter.com/The_Woolster);
+*    [Worville Analysis](https://worvilleanalysis.wordpress.com/) by Tom Worville ; 
 *    [Wyscout](https://blog.wyscout.com/);
 *    [xG per Shot](https://xgpershot.wordpress.com/) by [Parthe Athale](https://twitter.com/ParthAthale); and
 *    [Zonal Marking](http://www.zonalmarking.net/). by Michael Cox. Michael now writes for The Athletic [[link](https://theathletic.com/author/michael-cox/)].
@@ -1012,6 +1017,7 @@ Spotify and YouTube links used where available.
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=M6xgCGtdTjiy0wEl1e2CJw);
 *    [smarterscout: The Why in Analytics](https://open.spotify.com/show/2QP4KXajJ5xOfW1ny78nAf?si=NQAf_4XtSFeQXAZi1bbupQ) by Dan Altman;
 *    [Squawka Talker Football Podcast](https://open.spotify.com/show/7xqylrPDX54uo01n4erZQZ?si=XpMNQ43aQxKUa6QuB0dp2w);
+*    [SSAC](https://open.spotify.com/show/3ydwDR53z3I2Ee1cDkTRRZ?si=TaezB0hgRdqF96KI8hMxYw) by MIT Sloan Sports Analytics Conference;
 *    [StatsBomb](https://open.spotify.com/show/2EgxEas2CUsGpuH5AGWnAO?si=yvTrhRLGSBm7XanWZnd7lA);
 *    [The SV Podcast](https://open.spotify.com/show/7fqxtrlfYwBRe9s2Ak4LyG?si=EwIUl5VIR6qfu_0FhNPI6w);
 *    [Target Scouting](https://open.spotify.com/show/2SJENgKp4BrmeufJPKC2TH?si=hq4tXC3sSKGkej4VU8w40w) by [Luke Griffin](https://twitter.com/GriffinFtbl);
@@ -1046,6 +1052,9 @@ Spotify and YouTube links used where available.
      +    [Is Fake News Efficacious (Part 2) | David Sumpter | TCJS #11 (2/2)](https://open.spotify.com/episode/2BC0GxAIU96aYSqMlRUcuQ?si=dPSAmciQR3KIJG5ivx1uEg)
 *    [The Derby County BlogCast](https://open.spotify.com/show/6JgsZlXILOQpIKvknAgQDA?si=sjgzZ2D3QbWezG9slwWHeQ)
      +    [January window preview](https://open.spotify.com/episode/6BPle4s00x3ZM85mcDV7Ip?si=eNATcAJUTX-2E8RDA7IDOg) with Ram Srinivas (MRKT Insights)
+*    [ExtraTime Radio: The Numbers Game Book Club](https://open.spotify.com/show/027WSUNFvTmAJVIHumllqK?si=E4PD9xXuQPW3vygzLYLwnA)
+     +    [Merritt Paulson names his Timbers Mount Rushmore, plus a little storytime | Exploring future of data in soccer](https://open.spotify.com/episode/0msZmxh6VtYCjFkRd8iwhq?si=d6955d48690b445d) featuring Devin Pleuler
+     +    [ExtraTime Radio: The Numbers Game Book Club](https://open.spotify.com/episode/1IjIGO2ANnvke1d3rcnFSy?si=JxvqT3K6Trq7_Z3BW0pKaA) featuring Devin Pleuler
 *    [Expected Value](https://open.spotify.com/show/5xFeWbaaLFepY5n73SfWwr?si=yn23mqUpQa-mvcL6CYWpgA)
      +    [Tyler Heaps](https://open.spotify.com/episode/3OQimhf73WILGLTKXnav2M?si=L3KjerEfRryp50MQv6fzXg)
      +    [Ben Mackriell](https://open.spotify.com/episode/0tVtnFljEX5Pkn7hSApPo7?si=ldLi3xi4TuehvpawJ7NQ0g)
@@ -1070,6 +1079,7 @@ Spotify and YouTube links used where available.
 *    [The Football Collective Podcast](https://open.spotify.com/show/3fqNuhWi6hkagJ1U0UDJfe?si=e10JT2ACS86A3JXyO1AzGQ):
      +    [S3 E1 | Sarthak Mondal speaks to Laurie Shaw about the advent of Data Science in Football The Football Collective Podcast](https://open.spotify.com/episode/1gJXuovD1L6VMimN5BtukS?si=Y-Ot43T8TluU7UEiSvReyg)
 *    [The Football Pod](https://open.spotify.com/show/3QhwCTOvJN3AZqNalgjtnO?si=173ZCWfsTs-jktoS7Bz9XQ):
+     +    [Episode 6 with Tom Worville](https://open.spotify.com/episode/3Zo8tvAVhpTSP4WKRt5Qig?si=de3YRB1rTLqmv2NBp6oKCw)
      +    [Episode 3 with David Sumpter](https://open.spotify.com/episode/4mnDHbUo097JuC2lQiFijo?si=7abgc4_vRM21jSKff04rWg)
 *    [Football Today](https://open.spotify.com/show/1WRaXZgVlksph0IjsTNBaG?si=0zyUX59sTKqCRnq92SEylQ&nd=1)
      +    [Manchester City Enters Data Arms Race With Liverpool](https://open.spotify.com/episode/311rLza8goz2b2SBORBORn?si=aqZX6ooOSfGkY3312jJozA)
@@ -1089,6 +1099,8 @@ Spotify and YouTube links used where available.
      +    [#11 - Bundesliga Deep Dive w/ Jasmine Baba](https://open.spotify.com/episode/2BELDNHBOtPshNq5iIileP?si=FA4AmeE2R5m47_msjERE1g)
      +    [#9 - Inside Football's Data Revolution w/ Dan Altman](https://open.spotify.com/episode/0hHqHDm0dDlTOLnbNxgb1E?si=0HUfXYeKSdqxg9hyovcHGQ)
      +    [#3 - w/ Liverpool Throw In Coach: Thomas Gronnemark](https://open.spotify.com/episode/2n8bn18mNjgcnCF4sptL59?si=lBsKexIiQYuwYiNxTWvn4Q)
+*    [Men in Blazers](https://open.spotify.com/show/2YiLKNHIBty5xVbBKLyjkD?si=CJO8gvzJRtO5BQujCgX0pw):
+     +    [Men in Blazers 03/08/19: MIT Sloan Sports Analytics Conference Pod Special](https://open.spotify.com/episode/5gYPsirKZrFOuetbuRRxF7?si=5ddf0f5ac6bb47c4)
 *    [Modern Soccer Coach Podcast](https://open.spotify.com/show/0mxCm5xfR1dH72GBQ5pl6t?si=P-BAw6ePR52yLGCukJyOGg) with Gary Curneen:
      +    [Ted Knutson: StatsBomb, Liverpool and the Data Revolution](https://open.spotify.com/episode/6L1qdBitr8s19qIXbgMuIQ?si=FoqAeTxdQiK_tmH_EubETw)
 *    [Not The Top 20 Podcast](https://open.spotify.com/show/19Vn2WZiSZOeanPFDHYIb8?si=baqjrom8Sbyc0cYMtttMEQ):
@@ -1153,8 +1165,9 @@ Spotify and YouTube links used where available.
 *    [Soccer People](https://twitter.com/i/lists/1288082572195639296) by [John Muller](https://twitter.com/johnspacemuller);
 *    [Football Analysts Twitter list](https://twitter.com/i/lists/87731485) by [Colin Trainor](https://twitter.com/colintrainor);
 *    [Opta Staff Twitter list](https://twitter.com/i/lists/37233853) by Opta;
-*    [Football Analyst Community Rankings dashboard](https://public.tableau.com/profile/grecian#!/vizhome/FootballAnalystCommunityRankings/Dashboard1) by Neil Charles; and
-*    [Football data Analysts spreadsheet](https://docs.google.com/spreadsheets/d/1wjMVOpupmcF4hEG7PO4lY6l2mKsldGsnkyAULQwyAp8/) by [Dan Altman](https://twitter.com/NYAsports) (few years old now but lists the OGs of football analytics).
+*    [Football Analyst Community Rankings dashboard](https://public.tableau.com/profile/grecian#!/vizhome/FootballAnalystCommunityRankings/Dashboard1) by Neil Charles;
+*    [Football data Analysts spreadsheet](https://docs.google.com/spreadsheets/d/1wjMVOpupmcF4hEG7PO4lY6l2mKsldGsnkyAULQwyAp8/) by [Dan Altman](https://twitter.com/NYAsports) (few years old now but lists the OGs of football analytics); and
+*    [Introduction to Soccer Analytics – The Guys I Follow](https://mixedknuts.wordpress.com/2013/04/30/introduction-to-soccer-analytics-the-guys-i-follow/) by Ted Knutson (a old, 2013 bio of the guys that started the football analytics movement. Now out-of-date, but great if you want to know who helped influence football analytics).
 
 
 <h3 id="career-advice"> Career Advice</h3>
