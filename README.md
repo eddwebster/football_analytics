@@ -1135,6 +1135,8 @@ Spotify and YouTube links used where available.
      +    [Ted Knutson: StatsBomb, Liverpool and the Data Revolution](https://open.spotify.com/episode/6L1qdBitr8s19qIXbgMuIQ?si=FoqAeTxdQiK_tmH_EubETw)
 *    [Motley Fool Money](https://open.spotify.com/show/7tXRc97C1fA0epHAGQuJOE?si=lX-rYLMqQKGDeF_aRM6KfQ)
      +    [Motley Fool Money: 06.06.2014](https://open.spotify.com/episode/54gHeGF9KJn8FPO8VkzDKu?si=EshmvDtZTg2hisnHZLLL9g) with Stefan Szymanski
+*    [New Books in Sports]():
+     +    [Chris Anderson and David Sally, “The Numbers Game: Why Everything You Know About Soccer Is Wrong” (Penguin, 2013)](https://open.spotify.com/episode/2ZHYjzfz9Q7nmef2aUlWT0?si=SbMEIlnPRXqSupT4SJZDMw)
 *    [Not The Top 20 Podcast](https://open.spotify.com/show/19Vn2WZiSZOeanPFDHYIb8?si=baqjrom8Sbyc0cYMtttMEQ):
      +    [Recruitment Chat with Jay Socik (Blades Analytic) & Introducing FIVEYARDS](https://open.spotify.com/episode/30ARjrCcCiUHAc5oD3eaqE?si=6OPTiLkPQCiobeVLG193hg)
 *    [The Nutmegged Arena](https://open.spotify.com/show/5ZRtcboNN80YL8ohGA6Wos?si=oyRGiCxTSSmIM5KSWaXCOA) by The Nutmeg Assist:
