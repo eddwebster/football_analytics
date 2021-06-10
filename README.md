@@ -261,13 +261,15 @@ Good resources for those new for the use of data in football:
 
 *    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller) - check out his Newsletter [space space space](https://spacespacespaceletter.com/author/johnmuller/);
 *    [Introduction to Analytics in...Soccer](http://sportsanalytics.sa.utoronto.ca/2015/02/20/introduction-to-analytics-in-soccer/) by [Valentin Stolbunov](https://twitter.com/vstolbunov);
-*    [Soccer Analytics 101](https://web.archive.org/web/20201101011408/https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus);
-*    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), Hannah Roberts, [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby);
-*    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
 *    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) and [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam);
+*    [Soccer Analytics 101](https://web.archive.org/web/20201101011408/https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus);
+*    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
+*    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), Hannah Roberts, [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby);
+*    [Tools for getting started in football analytics.](https://www.youtube.com/watch?v=moFkcpsIKz4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Pascal Bauer](https://twitter.com/pascal_bauer), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g) and [Fran Peralta](https://twitter.com/PeraltaFran23);
 *    [Some of the useful resources in Football Analytics](https://footytistics.com/2020-12-19-useful-resources-football-analytics/) by [@VenkyReddevil](https://twitter.com/VenkyReddevil);
 *    [Stat Glossary](https://thefutebolist.wordpress.com/stat-glossary/) by [Ashwin Raman](https://twitter.com/AshwinRaman_);
 *    [Football Analytics Glossary](https://footballstatsglossary.home.blog/) by [Ashwin Raman](https://twitter.com/AshwinRaman_) and [Mark Thompson](https://twitter.com/EveryTeam_Mark);
+*    [What is sports analytics?](https://open.spotify.com/episode/3gIkGxJOmKkFRHoGAqRimB?si=6pPOVLfgTjuynfho6b4SPA&dl_branch=1) episode of the [Measureables](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW?si=YAU9RS7sTGSyITF6OhgW9A&dl_branch=1) podcast by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
 *    [Languages and Tools to Learn for Sports Analytics](https://brendankent.com/2020/12/16/languages-and-tools-to-learn-for-sports-analytics/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent));
 *    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)];
 *    [McKay John](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)];
@@ -1014,8 +1016,8 @@ Spotify and YouTube links used where available.
 *    [Football Today](https://open.spotify.com/show/1WRaXZgVlksph0IjsTNBaG?si=0zyUX59sTKqCRnq92SEylQ&nd=1);
 *    [Laptop Gurus](https://open.spotify.com/show/3sPI2CtmRJeaShdqNjrGRH?si=1NRk7exnRWaNbqbDO0B72w);
 *    [Looks Good on Paper podcast](https://open.spotify.com/show/7iJoF537QKPgDgQe7bblV2?si=QwiAfM2ZS0-Z4M74RESiKQ&nd=1) by [Felix Pate](https://twitter.com/lgopfelix);
-*    [MRKT Insights](https://open.spotify.com/show/3q32QkmAXwth5VJwU8uzWt?si=8_vyLb6WQd2wTJt5MxdBoA) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally  [Jay Socik](https://twitter.com/Blades_analytic);
 *    [Measurables Podcast](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW) by [Brendan Kent](https://twitter.com/brendankent);
+*    [MRKT Insights](https://open.spotify.com/show/3q32QkmAXwth5VJwU8uzWt?si=8_vyLb6WQd2wTJt5MxdBoA) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally  [Jay Socik](https://twitter.com/Blades_analytic);
 *    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with [Ron Yurko](https://twitter.com/Stat_Ron);
 *    [The Price of Football Podcast](https://open.spotify.com/show/7c7ltYVwnicbVz0uYTXAW5?si=RKAejr9oQTu6xpJQc4QscQ) with [Kieran Maguire](https://twitter.com/KieranMaguire) and [Kevin Hunter Day](https://twitter.com/KevinHunterDay). Check out the [The Price of Football](https://www.amazon.co.uk/Price-Football-SECOND-Understanding-Finance/dp/1788213262/ref=sr_1_1?dchild=1&keywords=the+price+of+football&qid=1622504446&sr=8-1) book by [Kieran Maguire](https://twitter.com/KieranMaguire).
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=M6xgCGtdTjiy0wEl1e2CJw);
@@ -1131,8 +1133,24 @@ Spotify and YouTube links used where available.
      +    [#3 - w/ Liverpool Throw In Coach: Thomas Gronnemark](https://open.spotify.com/episode/2n8bn18mNjgcnCF4sptL59?si=lBsKexIiQYuwYiNxTWvn4Q)
 *    [The Lowe Post](https://open.spotify.com/show/2mZHt3zBxyIuc0PYLdDDkr?si=hx6AJ25WQSKF3jdlC13fNg)
      +    [Daryl Morey from Sloan Sports Analytics Conference](https://open.spotify.com/episode/7gyEfszQhb7mCMfBM99pp4?si=e3e53a846377472d)
+*    [Measurables Podcast](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW) by [Brendan Kent](https://twitter.com/brendankent) (football specific episodes):
+     +    [Stephanie Kovalchik, Senior Data Scientist at Zelus Analytics](https://open.spotify.com/episode/2HAzQ2qd8bFsCXUxNg8rwv?si=dH5SMlwIQkKlCIdmrwl0gw&dl_branch=1)
+     +    [Simon Banoub, CMO at StatsBomb](https://open.spotify.com/episode/4F5DX3Y4TKwwmr3Ut58Ft4?si=nwnKptGZSAS2fgqyhSu5uw&dl_branch=1)
+     +    [Rob Suddaby, First Team Data Analyst at Norwich City FC](https://open.spotify.com/episode/6XGGp8DMO2gCsK8OMIkg0d?si=_N16tfDhRsSOvfwpPg-Bww&dl_branch=1)
+     +    [Ross Moses and Tyler Heaps, US Soccer Analytics and Research](https://open.spotify.com/episode/37C3vbvVtuMgdgLJqznjKZ?si=a8Kxj7xcQHqUMsHcIaO7PA&dl_branch=1)
+     +    [Mike Treacy, Chairman of Dundalk FC](https://open.spotify.com/episode/2kqwfjVGFAEGhuuNl3Cxpz?si=mw7KkcdUTpKhE2aEadlSUA&dl_branch=1)
+     +    [Sam Gregory, Data Analyst at Sportlogiq](https://open.spotify.com/episode/2i1DVOwMxwpG50pVRvieV3?si=LBve-C1NQK-j9zMqu3UDUg&dl_branch=1)
+     +    [Resources](https://open.spotify.com/episode/6n2D9zQaKUk4r61y2LCNsm?si=5OuTNlSYQ3uy881Xo4erqg&dl_branch=1)
+     +    [Expected Goal Chain and Penalty Kick Analysis](https://open.spotify.com/episode/44yzmHi2yNho8qqB0CNyoD?si=QKvzf_MVRHiQe7sn2KvMzQ&dl_branch=1)
+     +    [Elo and Tournament Projections](https://open.spotify.com/episode/2JxiRNWkAymaAKEOMlhk5f?si=zcyzMn2dQjCa-3LyudK27g&dl_branch=1)
+     +    [Mariela Nisotaki, Technical Scout at Norwich City FC](https://open.spotify.com/episode/78WJvbWd17fqkCODWWAoGs?si=dIjN_q1mSf2RkGifAZVQkA&dl_branch=1)
+     +    [Expected Goals and Expected Assists](https://open.spotify.com/episode/0DSzB9HNCBD6Q4bWclTQR8?si=7dqEuHmpSbCgifayRfs6Vg&dl_branch=1)
+     +    [Brendan Kent, Soccer Data Analyst at the Portland Timbers](https://open.spotify.com/episode/5ZjPKuccgz3xw68h8r4Fnm?si=wfDRCw8JRGSqN4JZKc_A0Q&dl_branch=1)
+     +    [What is sports analytics?](https://open.spotify.com/episode/3gIkGxJOmKkFRHoGAqRimB?si=6pPOVLfgTjuynfho6b4SPA&dl_branch=1)
 *    [Men in Blazers](https://open.spotify.com/show/2YiLKNHIBty5xVbBKLyjkD?si=CJO8gvzJRtO5BQujCgX0pw):
      +    [Men in Blazers 03/08/19: MIT Sloan Sports Analytics Conference Pod Special](https://open.spotify.com/episode/5gYPsirKZrFOuetbuRRxF7?si=5ddf0f5ac6bb47c4)
+*    [MLS Assist](https://open.spotify.com/show/6zfTeelv31KPtZNrUnuLPW?si=UaIxGsmHQuq7jgVW9ClZQg&dl_branch=1) (a Total Soccer Show podcast):
+     +    MLS Assist: Advanced soccer metrics explained, how MLS teams use data, and more with Eliot McKinley - [Spotify](https://open.spotify.com/episode/3CZS1w9eHR9DkWUPtpM1re?si=VErHwwN_SaW2ZvgniCj0uQ&dl_branch=1)
 *    [The Modern Football Group Podcast](https://open.spotify.com/show/30J2nOKpSPUQKqKQW2gAAi?si=WRC1h872QxGJo-ZaJSvmbw)
      +    [MFG ProPod | Omar Chaudhuri](https://open.spotify.com/episode/1srgPLLcrmyl2R1IOdJFWD?si=TUpmryKPQkO5-0NU_8Z1yA)
 *    [Modern Soccer Coach Podcast](https://open.spotify.com/show/0mxCm5xfR1dH72GBQ5pl6t?si=P-BAw6ePR52yLGCukJyOGg) with Gary Curneen:
@@ -1204,6 +1222,7 @@ Spotify and YouTube links used where available.
 *    [The Totally Football Show](https://open.spotify.com/show/30pUHuXuSQBSf7EfZQuEvS?si=3NahWL3IR-CBAKdXzQ9cGA) with James Richardson
      +    [03/07/2019: Football Hackers](https://open.spotify.com/episode/00lwcYEV82Pz639PPadlCf?si=2SZQOpIySw-zSsN6wczQwA) with Christoph Biermann
 *    [Total Soccer Show](https://open.spotify.com/show/4bDhkcGQjbNqIGszh371y1?si=Bww9nrROTTmLT8AM__7NTg):
+     +    #32 What is xG and why are advanced stats useful in soccer? - [YouTube](https://www.youtube.com/watch?v=XuM4VwluOzQ)
      +    Soccer stats and analytics with [Ted Knutson](https://twitter.com/mixedknuts) (in which Ted explains Expected Goals to Daryl) - [YouTube](https://www.youtube.com/watch?v=abPYPmgMPso)
      +    Mike L. Goodman (@TheM_L_G) talks USMNT tactical options, EPL trends, Expected Goals - [YouTube](https://www.youtube.com/watch?v=uxaQwMC0EYY)
      +    Everton Premier League preview: [Mike L. Goodman](https://twitter.com/TheM_L_G) talks Silva's style, Moise Kean, and replacing - [YouTube](https://www.youtube.com/watch?v=Fb94W2-THG0)
@@ -1417,6 +1436,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
      +    [How Data Avilability Affects the Ability to learn Good xG Models](https://dtai.cs.kuleuven.be/sports/blog/how-data-availability-affects-the-ability-to-learn-good-xg-models)
      +    [Illustrating the Interplay between Features and Models in xG](https://dtai.cs.kuleuven.be/sports/blog/illustrating-the-interplay-between-features-and-models-in-xg)
      +    [How Data Quality Affects xG](https://dtai.cs.kuleuven.be/sports/blog/how-data-quality-affects-xg)
+*    [Does xG really tell us everything about team performance?](http://www.statsandsnakeoil.com/2021/06/09/does-xg-really-tell-all/) by [Ben Torvanay](https://twitter.com/Torvaney);
 *    [Unexpected goals](https://2plus2equals11.com/2015/12/31/unexpected-goals/) [Will Gürpinar-Morgan](https://twitter.com/WillTGM);
 *    [Great Expectations](https://2plus2equals11.com/2015/05/31/great-expectations/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM);
 *    [On single match expected goal totals](https://2plus2equals11.com/2015/12/16/on-single-match-expected-goal-totals/) by [2+2=11](https://twitter.com/WillTGM) (Will Gürpinar-Morgan]);
@@ -1489,6 +1509,8 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    The Future of Stats: xG, xA - [Spotify](https://open.spotify.com/episode/7fPpKZSt2o9SSNynayROwd?si=WxuV2PFCQ7yRdNSE-QOZ6g) and [YouTube](https://www.youtube.com/watch?v=sNCeA27sDvI) by [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA); and
 *    #56: Dominic Calvert-Lewin & Explaining Expected Goals - [Spotify](https://open.spotify.com/episode/37SlOJmtoviAKgNanq7Fxq?si=AAnRaCUOTw6FaVkreD5Rzg) and [YouTube](https://www.youtube.com/watch?v=EE_m3VBcASU) by [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=M6xgCGtdTjiy0wEl1e2CJw).
 *    #1: What Did You Expect? - [Spotify](https://open.spotify.com/episode/3CkvTYcsLmNmD5BCIZhpvi?si=NaeVt2zOStm9EJ56n4EozQ) by [The Football Fanalytics Podcast](https://open.spotify.com/show/6JwWRPMaHfGicFBtl7nI3V?si=IwQ00tyTRPaBcW-0XLwS4w&nd=1)
+*    [Episode 3 - xG 101, West Ham in Trouble? Norwich Doomed?](https://open.spotify.com/episode/15QKiGxYttsW08JVgd0Yko?si=7ADUofxGQTGyfd0ne0NveQ&dl_branch=1) by [Differentgame](https://open.spotify.com/show/0EHSv20UxlqnOjaUNzdiGN?si=AanI8jm9R26dhul0crWuHw&dl_branch=1)
+*    [Episode 5 - Shot Stoppers, xG at Corners, Building a Passing Model](https://open.spotify.com/episode/0WZqiTuHpNtvGNSIpxSzch?si=cevbVK74Q--WzVD1zy-alw&dl_branch=1) by [Differentgame](https://open.spotify.com/show/0EHSv20UxlqnOjaUNzdiGN?si=AanI8jm9R26dhul0crWuHw&dl_branch=1)
 
 <h5 id="xg-modeling-tweets"> Tweets</h5>
 
