@@ -342,6 +342,10 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
      +    [Tom Worville](https://public.tableau.com/profile/tom.worville#!/)
 
 
+<h4 id="tableau"> Tableau</h4>
+
+*   [SQL for Sport - Online Course](https://thevideoanalyst.com/product/sql-for-sport-online-course/) by [Rob Carroll](https://twitter.com/thevideoanalyst)
+
 <h4 id="excel"> Excel</h4>
 
 *    [Marius Fischer](https://twitter.com/Gegenpressing91)'s Patreon [[link](https://www.patreon.com/Gegenpressing91)]
