@@ -363,6 +363,8 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 
 All publicly available data sources and datasets relating to football, from Tracking data, Event data, aggregated player performance data, detailed match statistics, injury records and transfer values, and more.
 
+To learn more about the different types of data available, such as Event and Tracking data, please see [Devin Pleuler](https://twitter.com/devinpleuler)'s [`soccer_analytics_handbook`](https://github.com/devinpleuler/analytics-handbook). 
+
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
 *    [BetExplorer](https://www.betexplorer.com/) - odds data;
 *    [Bundesliga physical data](https://www.bundesliga.com/en/bundesliga/stats/players);
