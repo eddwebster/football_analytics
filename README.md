@@ -999,7 +999,9 @@ Playlists created by others
 
 <h3 id="podcasts"> :loud_sound: Podcasts</h3>
 
-Spotify and YouTube links used where available.
+Below I've tried to include both the Sports/Football Analytics and then notable episodes with analytical content. Spotify and YouTube links used where available. All episodes available on Spotify can be found in the following playlist (updated periodically): [[link](https://open.spotify.com/playlist/5xSGhv0qBOzOLGLZHJ4nLF?si=c4b998d397c345d3)] and below:
+
+<iframe src="https://open.spotify.com/embed/playlist/5xSGhv0qBOzOLGLZHJ4nLF" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <h4 id="football-analytics-podcasts"> Football Analytics Podcasts</h4>
 
