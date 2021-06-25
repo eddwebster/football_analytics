@@ -59,7 +59,17 @@ For more information about this repository and the author, I am available throug
     <li>
       <a href="#Resources"> ➤ Resources</a>
       <ul>
-        <li><a href="#tutorials">Tutorials</a></li>
+        <li>
+          <li><a href="#tutorials">Tutorials</a></li>
+          <ul>
+            <li><a href="#tutorials-python">Python</a></li>
+            <li><a href="#tutorials-r">R</a></li>
+            <li><a href="#tutorials-tableau">Tableau</a></li>
+            <li><a href="#tutorials-sql">SQL</a></li>
+            <li><a href="#tutorials-excel">Excel</a></li>
+            <li><a href="#tutorials-powerpoint">PowerPoint</a></li>
+          </ul>
+        </li>
         <li><a href="#data-all">Data Sources</a></li>
         <li><a href="#libraries">Libraries</a></li>
         <li><a href="#github-repos">GitHub Repositories</a></li>
@@ -105,6 +115,7 @@ For more information about this repository and the author, I am available throug
             <li><a href="#tracking-data">Tracking Data</a></li>
             <li><a href="#pitch-control-modeling">Pitch Control Modeling</a></li>
             <li><a href="#pv-frameworks">Possession Value (PV) Frameworks</a></li>
+            <li><a href="#dixon-coles">Dixon Coles Modeling</a></li>
             <li><a href="#player-similarity-analysis">Player Similarity Analysis</a></li>
             <li><a href="#rl-for-football-simulation">Reinforcement Learning for Football Simulation</a></li>
             <li><a href="#set-pieces">Set Pieces</a></li>
@@ -278,7 +289,7 @@ Good resources for those new for the use of data in football:
 
 <h3 id="tutorials"> :student: Tutorials</h3>
 
-<h4 id="python"> Python</h4>
+<h4 id="tutorials-python"> Python</h4>
 
 *    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) YouTube channel [[link](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)] and Mathematical Modelling of Football course by Uppsala University [[link](https://uppsala.instructure.com/courses/28112)]. The GitHub repo with all code featured can be found at the following [[link](https://github.com/Friends-of-Tracking-Data-FoTD)]. Lectures of note include:
      +    [Laurie Shaw](https://twitter.com/EightyFivePoint)'s Metrica Sports Tracking data series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
@@ -296,13 +307,13 @@ Good resources for those new for the use of data in football:
 *    [Tech how-to: build your own Expected Goals model](https://www.scisports.com/tech-how-to-build-your-own-expected-goals-model/) by [Jan Van Haaren](https://twitter.com/JanVanHaaren) and [SciSports](https://twitter.com/SciSportsNL). See the Bitbucket repository for all code [[link](https://bitbucket.org/scisports/ssda-how-to-expected-goals/src)]; and
 *    [`Football-Analytics-With-Python`](https://github.com/Slothfulwave612/Football-Analytics-With-Python) by [Anmol Durgapal](https://twitter.com/slothfulwave612).
 
-<h4 id="r"> R</h4>
+<h4 id="tutorials-r"> R</h4>
 
 *    [FCrSTATS](https://github.com/FCrSTATS) tutorials [[link](http://fcrstats.com/tutorials.html)];
 *    [Sudarshan 'Suds' Golaladesikan](https://twitter.com/suds_g)'s R series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Getting Started with R + StatsBomb | Analyzing Squad Rotation & Clustering Passes](https://www.youtube.com/watch?v=ilIIjqfstfQ) and creating interactive shot maps - [Part 1/3)](https://www.youtube.com/watch?v=-a4NC65x_qQ), [Part 2/3](https://www.youtube.com/watch?v=yWXD7xi1f30), (I believe no part 3 currently). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR)]; and
 *    [Creating a pass flow graph in R](https://www.youtube.com/watch?v=uOE2_UIRniE) by [Abhishek Mishra](https://twitter.com/MishraAbhiA).
 
-<h4 id="tableau"> Tableau</h4>
+<h4 id="tutorials-tableau"> Tableau</h4>
 
 For a YouTube playlist of Tableau-football videos and tutorials that I have collated from various sources including the Tableau Football User Group, [Rob Carroll](https://twitter.com/thevideoanalyst), and [Tom Goodall](https://twitter.com/TomG26), see the following [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
@@ -344,15 +355,15 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
      +    [Tom Worville](https://public.tableau.com/profile/tom.worville#!/)
 
 
-<h4 id="tableau"> Tableau</h4>
+<h4 id="tutorials-sql"> SQL</h4>
 
 *   [SQL for Sport - Online Course](https://thevideoanalyst.com/product/sql-for-sport-online-course/) by [Rob Carroll](https://twitter.com/thevideoanalyst)
 
-<h4 id="excel"> Excel</h4>
+<h4 id="tutorials-excel"> Excel</h4>
 
 *    [Marius Fischer](https://twitter.com/Gegenpressing91)'s Patreon [[link](https://www.patreon.com/Gegenpressing91)]
 
-<h4 id="powerpoint"> PowerPoint</h4>
+<h4 id="tutorials-powerpoint"> PowerPoint</h4>
 
 *    [@maramperninety](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f).
 
@@ -1584,6 +1595,16 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 *    [Goals Added: Introducing a New Way to Measure Soccer](https://www.americansocceranalysis.com/home/2020/4/22/37ucr0d5urxxtryn2cfhzormdziphq);
 *    [The future of possession value models](https://www.youtube.com/watch?v=GEp0TJoramM) with [David Sumpter](https://twitter.com/Soccermatics), [Catherine Pfaff](https://twitter.com/PfaffCatherine), [Matthias Kullowatz](https://twitter.com/MattyAnselmo) and [Jernej Flisar](https://twitter.com/jernejfl) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). The Goals Added (g+) model is focussed on in minutes 9-45 of the lecture.
+
+<h4 id="dixon-coles"> Dixon Coles Modeling</h4>
+
+*    [Modelling Association Football Scores and Inefficiencies in the Football Betting Market](http://web.math.ku.dk/~rolf/teaching/thesis/DixonColes.pdf) (1997) by Mark Dixon and Stuart Coles;
+*    [Analysis of football prediction methods](https://www.amazon.co.uk/Analysis-football-prediction-methods-Brojanigo/dp/3659443182/ref=sr_1_3?dchild=1&keywords=Analysis+of+Football+Prediction+Methods&qid=1624624179&sr=8-3) by William Brojanigo;
+*    [Predicting Football Results Using Python and the Dixon and Coles Model](http://www.pena.lt/y/2021/06/24/predicting-football-results-using-python-and-dixon-and-coles/) by Martin Eastwood;
+*    [Dixon Coles and xG: together at last](https://www.statsandsnakeoil.com/2018/06/22/dixon-coles-and-xg-together-at-last/) by Ben Torvaney
+*    [Dixon Coles](https://mathematicalfootballpredictions.com/dixon-coles/) by Mathematical Football Predictions;
+*    [https://philipwinchester.github.io/dixon-coles-model/](https://philipwinchester.github.io/dixon-coles-model/) by Philip Winchester; and
+*    [Predicting Football Results With Statistical Modelling: Dixon-Coles and Time-Weighting](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling-dixon-coles-and-time-weighting/) by David Sheehan.
 
 <h4 id="player-comparison-and-similarity-analysis"> Player Similarity Analysis</h4>
 
