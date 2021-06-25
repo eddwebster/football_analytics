@@ -59,6 +59,7 @@ For more information about this repository and the author, I am available throug
     <li>
       <a href="#Resources"> ➤ Resources</a>
       <ul>
+        <li><a href="#getting-started">Getting Started with Football Analytics</a></li>
         <li>
           <li><a href="#tutorials">Tutorials</a></li>
           <ul>
