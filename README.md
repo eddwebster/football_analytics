@@ -424,7 +424,15 @@ To learn more about the different types of data available, such as Event and Tra
 *    [Understat](https://understat.com/) shooting and meta data including player xG values. Data can be scraped using the [`understatr`](https://github.com/ewenme/understatr) R package or from [@NdyStats](https://twitter.com/NdyStats) who makes this publicly available (see pinned tweet of his Twitter account for the latest version of this data); 
 *    [WhoScored?](https://www.whoscored.com/) (data provided by Opta); and
 *    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
-
+*    Tools to plot your own data - see [Mark Wilkin](https://twitter.com/biscuitchaser)'s Twitter thread [[link](https://twitter.com/biscuitchaser/status/1256267836730867714)]:
+     -    [Football (soccer) pitch tracker](https://johnburnmurdoch.github.io/football-pitch-tracker/) by [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
+     -    [Expected Goals Event Logger](https://torvaney.github.io/projects/xG.html) by [Ben Torvaney](https://twitter.com/Torvaney)
+     -    [Chalkboard](http://apps.hilltop-analytics.com/chalkboard/) by [Neil Charles](https://twitter.com/neilcharles_uk)
+*    Reference data:
+     -    League-wide xT values from the 2017-18 Premier League season (12x8 grid) by [Karun Singh](https://twitter.com/karun1710/) [[link](https://karun.in/blog/data/open_xt_12x8_v1.json)]
+     -    EPV grid by [Laurie Shaw](https://twitter.com/EightyFivePoint) [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking/blob/master/EPV_grid.csv)]
+     -    Zones on a pitch for Tableau visualisation by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://drive.google.com/drive/folders/1Se0DFtsjQWmnt-G9Ihn_w8EQE4EZiblD)]
+     -    Alphabetic country codes [[link](https://en.wikipedia.org/wiki/Comparison_of_alphabetic_country_codes)]
 
 <h4 id="documentation"> :page_facing_up: Documentation</h4>
 
