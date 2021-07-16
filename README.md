@@ -1353,6 +1353,7 @@ The following includes non-football competitions.
      +    [The Football Scouts](https://www.thefootballscouts.com/live-jobs) - looks really good!
      +    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/)
      +    [Sports Jobs UK](https://www.sportsjobsuk.com/jobs)
+     +    [Training Ground Guru Job Board](https://trainingground.guru/submit-a-job)
 *    Data companies:
      +    [Statsbomb](https://statsbomb.com/careers/)
      +    [Opta](https://www.optasports.com/about/work-for-opta/)
