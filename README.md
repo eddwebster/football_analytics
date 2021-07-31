@@ -50,14 +50,14 @@ For more information about this repository and the author, I am available throug
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-repository-and-author"> ➤ About This Repository and Author</a></li>
-    <li><a href="#table-of-contents"> ➤ Table of Contents</a></li>
-    <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
-    <li><a href="#repository-structure"> ➤ Repository Structure</a></li>
-    <li><a href="#notebooks"> ➤ Notebooks</a></li>
-    <li><a href="#data-visualisation-and-tableau-dashboards"> ➤ Data Visualisation and Tableau</a></li>
+    <li><a href="#about-the-repository-and-author">About This Repository and Author</a></li>
+    <li><a href="#table-of-contents">Table of Contents</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#repository-structure">Repository Structure</a></li>
+    <li><a href="#notebooks">Notebooks</a></li>
+    <li><a href="#data-visualisation-and-tableau-dashboards">Data Visualisation and Tableau</a></li>
     <li>
-      <a href="#Resources"> ➤ Resources</a>
+      <a href="#Resources">Resources</a>
       <ul>
         <li><a href="#getting-started">Getting Started with Football Analytics</a></li>
         <li><a href="#data">Data Sources</a></li>
@@ -139,8 +139,8 @@ For more information about this repository and the author, I am available throug
         <li><a href="#miscellaneous">Miscellaneous</a></li>
       </ul>
     </li>
-    <li><a href="#contributing"> ➤ Contributing</a></li>
-    <li><a href="#acknowledgements"> ➤ Acknowledgements</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
