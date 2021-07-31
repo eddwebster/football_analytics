@@ -308,9 +308,9 @@ Good resources for those new for the use of data in football:
 
 All publicly available data sources and datasets relating to football, from Tracking data, Event data, aggregated player performance data, detailed match statistics, injury records and transfer values, and more.
 
-Data sources that have been used in this repository can be found in the [`data`](https://github.com/eddwebster/football_analytics/tree/master/data) folder of the repository or Google Drive (allowed for GitHubs 100mb limit) [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. However, all code in this repository should enable you to scrape, parse, and engineer the datasets as per the analysis in this repository.
+Data sources that have been used in the code and analysis in this repository can be found in the [`data`](https://github.com/eddwebster/football_analytics/tree/master/data) subfolder of this repository or in Google Drive (due to GitHub's 100mb file limit) [[link](https://drive.google.com/drive/folders/1r2Rf3CPsKnxyxtmDRIHQ2eoW5WwCzBa0?usp=sharing)]. All code however in this repository should enable you to scrape, parse, and engineer the datasets as per the output used for analysis and visualisations featured..
 
-To learn more about the different types of data available, such as Event and Tracking data, please see [Devin Pleuler](https://twitter.com/devinpleuler)'s [`soccer_analytics_handbook`](https://github.com/devinpleuler/analytics-handbook). 
+To learn more about the different types of data available, such as Event and Tracking data, please see the "Where can I get data?" section of [Devin Pleuler](https://twitter.com/devinpleuler)'s [`soccer_analytics_handbook`](https://github.com/devinpleuler/analytics-handbook) [[link](https://github.com/devinpleuler/analytics-handbook#where-can-i-get-data)]. 
 
 <h5 id="data-sources-event"> Event data </h5>
 
@@ -322,8 +322,8 @@ To learn more about the different types of data available, such as Event and Tra
      +    This data can be scraped in the following ways:
            -    Python: [`understat`](https://github.com/amosbastian/understat) by Amos Bastian (see the following for docs [[link](https://understat.readthedocs.io/en/latest/)])
            -    R: [`understatr`](https://github.com/ewenme/understatr) package or [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)]).
-     +    This data also also regularly made available by [Sagnik Das](https://twitter.com/nandy_sd) using code created by both him and [Mark Wilkins](https://twitter.com/biscuitchaser) - see [[link](https://twitter.com/NdyStats/status/1382295913452826628)] for shot data, [[link](https://twitter.com/NdyStats/status/1382255794180165632?s=20)] for meta data, and Mark's Tweet [[link](https://twitter.com/biscuitchaser/status/1294608904647839744)])
-*    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7)
+     +    This data also also regularly made available by [Sagnik Das](https://twitter.com/nandy_sd), using code created by both him and [Mark Wilkins](https://twitter.com/biscuitchaser) - see [[link](https://twitter.com/NdyStats/status/1382295913452826628)] for shot data, [[link](https://twitter.com/NdyStats/status/1382255794180165632?s=20)] for meta data, and Mark's Tweet [[link](https://twitter.com/biscuitchaser/status/1294608904647839744)])
+*    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7)
 
 <h5 id="data-sources-tracking"> Tracking data </h5>
 
