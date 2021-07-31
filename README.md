@@ -61,6 +61,20 @@ For more information about this repository and the author, I am available throug
       <ul>
         <li><a href="#getting-started">Getting Started with Football Analytics</a></li>
         <li><a href="#data">Data Sources</a></li>
+          <ul>
+            <li><a href="#data-event">Event data</a></li>
+            <li><a href="#data-tracking">Tracking data</a></li>
+            <li><a href="#data-agg">Aggregated Player/Team Performance data</a></li>
+            <li><a href="#data-team-rating">Team Rating data</a></li>
+            <li><a href="#data-physical">Physical data</a></li>
+            <li><a href="#data-results">Results and Matchsheet data</a></li>
+            <li><a href="#data-financial">Financial, Valuation, and Transfer data</a></li>
+            <li><a href="#data-odds">Odds, Betting, and Predictions data</a></li>
+            <li><a href="#data-plotting">Plotting tools</a></li>
+            <li><a href="#data-reference">Reference data</a></li>
+            <li><a href="#data-miscellaneous">Miscellaneous data</a></li>
+          </ul>
+        </li>
         <li><a href="#tutorials">Tutorials</a></li>
           <ul>
             <li><a href="#tutorials-python">Python</a></li>
@@ -248,6 +262,7 @@ Good resources for those new for the use of data in football:
       +    [Introduction to Analytics in...Soccer](http://sportsanalytics.sa.utoronto.ca/2015/02/20/introduction-to-analytics-in-soccer/) by [Valentin Stolbunov](https://twitter.com/vstolbunov)
       +    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) and [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam)
       +    [Soccer Analytics 101](https://web.archive.org/web/20201101011408/https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus)
+      +    [Football Reference 101 — Finding your way through a gold mine](https://ninad06.medium.com/football-reference-101-finding-your-way-through-a-gold-mine-40fdb29b30a2) by [Ninad Barbadikar](https://twitter.com/NinadB_06)
 *    Twitter threads:
       +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Sports Analytics 101 unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1407719595696398338.html)]:
            -    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/)
@@ -259,10 +274,12 @@ Good resources for those new for the use of data in football:
            -    [How to Start a Sports Analytics Club](https://brendankent.com/2020/09/28/how-to-start-a-sports-analytics-club/)
       +    [Tom Worville](https://twitter.com/Worville)'s [Twitter thread](https://twitter.com/Worville/status/1275732993819250688)
       +    [Will Spearman's Twitter thread](https://twitter.com/the_spearman/status/1260713785138073604)
-      +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)];
-      +    [Ninad Barbadikar](https://twitter.com/NinadB_06)'s 'big football analytics' Twitter thread for getting started with football analytics [[link](https://twitter.com/NinadB_06/status/1409817891126452226)];
-      +    [McKay John](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)];
-      +    [Joe Gallagher](https://twitter.com/joedgallagher)'s Twitter thread for the best resources to get started [[link](https://twitter.com/joedgallagher/status/1399461951386828805)].
+      +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]
+      +    [Ninad Barbadikar](https://twitter.com/NinadB_06)'s 'big football analytics' Twitter thread for getting started with football analytics [[link](https://twitter.com/NinadB_06/status/1409817891126452226)]
+      +    [McKay John](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)]
+      +    [Joe Gallagher](https://twitter.com/joedgallagher)'s Twitter thread for the best resources to get started [[link](https://twitter.com/joedgallagher/status/1399461951386828805)]
+      +    [Sam Goldberg](https://twitter.com/SamGoldberg1882)'s Twitter thread for "lessons American Soccer Analysis wish we knew prior to working in sports analytics." [[link](https://twitter.com/SamGoldberg1882/status/1417111138865664003)]
+      +    [Mathew Barlowe](https://twitter.com/matthew_barlowe)'s Twitter thread for "how to get into the sports analytics industry" [[link](https://twitter.com/matthew_barlowe/status/1420598697486913540)]
 *    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) videos:
       +    [How to become a football data scientist](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds Gopaladesikan](https://twitter.com/suds_g), [Fran Peralta](https://twitter.com/PeraltaFran23), and [David Sumpter](https://twitter.com/Soccermatics)
       +    [Tools for getting started in football analytics.](https://www.youtube.com/watch?v=moFkcpsIKz4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Pascal Bauer](https://twitter.com/pascal_bauer), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g) and [Fran Peralta](https://twitter.com/PeraltaFran23)
@@ -324,11 +341,11 @@ To learn more about the different types of data available, such as Event and Tra
 
 <h5 id="data-sources-results"> Results and Matchsheet data </h4>
 
+*    [2018 FIFA World Cup Rosters](https://public.tableau.com/s/sites/default/files/media/world_cup_2018_squads.xlsx) - goals, caps, club, and date of birth for players on 2018 FIFA World Cup rosters. Source: data.world
 *    [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017
 *    [FIFA World Cup Match Results](https://public.tableau.com/s/sites/default/files/media/world_cup_results.xlsx) - matchups and results of FIFA World Cup matches from 1930 - 2014. Source: data.world
-*    [2018 FIFA World Cup Rosters](https://public.tableau.com/s/sites/default/files/media/world_cup_2018_squads.xlsx) - goals, caps, club, and date of birth for players on 2018 FIFA World Cup rosters. Source: data.world
-*    [FIFA 18 Player Ratings](https://public.tableau.com/s/sites/default/files/media/fifa18_clean.csv) - 17k+ players, 70+ attributes extracted from FIFA 18, provided by [sofifa](https://sofifa.com)
 *    [Football Lineups](http://www.football-lineups.com)
+*    [`international_results`](https://github.com/martj42/international_results) - repository of 42,452 results of international football matches starting from the very first official match in 1972 up to 2019
 *    [Soccerway](https://uk.soccerway.com/) - matchsheet data
 
 <h5 id="data-sources-financial"> Financial, Valuation, and Transfer data </h4>
@@ -366,6 +383,7 @@ Also see [Mark Wilkin](https://twitter.com/biscuitchaser)'s Twitter thread [[lin
 *    [Data Hub Football data](https://datahub.io/collections/football);
 *    [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10) - 25k+ matches, players & teams attributes for European Professional Football
 *    [FIFA 15-21 player rating data](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset) scraped from [SoFIFA](https://sofifa.com/) by Stefano Leone;
+*    [FIFA 18 Player Ratings](https://public.tableau.com/s/sites/default/files/media/fifa18_clean.csv) - 17k+ players, 70+ attributes extracted from FIFA 18, provided by [sofifa](https://sofifa.com)
 *    [`FootballData`](https://github.com/jokecamp/FootballData) - "A hodgepodge of JSON and CSV Football data"
 *    [`footballcsv`](https://footballcsv.github.io/) - Historical soccer results in CSV format;
 *    [football.db](http://openfootball.github.io/) - A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets);
@@ -466,7 +484,7 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 <h4 id="tutorials-r"> R</h4>
 
 *    [FCrSTATS](https://github.com/FCrSTATS) tutorials [[link](http://fcrstats.com/tutorials.html)];
-*    [Mark Wilkins](https://twitter.com/biscuitchaser)'s [BiscuitChaserFC](https://biscuitchaserfc.blogspot.com/) blog. See his Twitter thread of R tutorials [[link](https://twitter.com/biscuitchaser/status/1275726269058093057)];
+*    [Mark Wilkins](https://twitter.com/biscuitchaser)'s [BiscuitChaserFC](https://biscuitchaserfc.blogspot.com/) blog. See his Twitter thread of R tutorials [[link](https://twitter.com/biscuitchaser/status/1275726269058093057)]. Tutorials include: [Shot Maps In R With StatsBomb Data](https://biscuitchaserfc.substack.com/p/shot-maps-in-r-with-statsbomb-data), [Getting Started with StatsBomb Data in R](https://biscuitchaserfc.substack.com/p/getting-started-with-statsbomb-data), [Understat Meta/Shot Data](https://biscuitchaserfc.substack.com/p/understat-metashot-data), [FBref - Pressures](https://biscuitchaserfc.substack.com/p/fbref-pressures);
 *    [Sudarshan 'Suds' Golaladesikan](https://twitter.com/suds_g)'s R series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Getting Started with R + StatsBomb | Analyzing Squad Rotation & Clustering Passes](https://www.youtube.com/watch?v=ilIIjqfstfQ) and creating interactive shot maps - [Part 1/3)](https://www.youtube.com/watch?v=-a4NC65x_qQ), [Part 2/3](https://www.youtube.com/watch?v=yWXD7xi1f30), (I believe no part 3 currently). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR)]; and
 *    [Creating a pass flow graph in R](https://www.youtube.com/watch?v=uOE2_UIRniE) by [Abhishek Mishra](https://twitter.com/MishraAbhiA).
 
@@ -486,7 +504,8 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [Creating a Shop Map](https://jamesvaughan1905.medium.com/creating-a-shot-map-343a03ef5270) by [James Vaughan](https://twitter.com/Advt_played);
 *    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c) by [James Smith](https://twitter.com/sportschord);
 *    [Creating Waffle Charts in Tableau](https://harshkrishna.substack.com/p/creating-waffle-charts-in-tableau?r=ixily&utm_campaign=post&utm_medium=web&utm_source=copy) by [Harsh Krishna](https://twitter.com/ftblhk);
-*    [Exporting your pass flow map to Tableau](https://www.youtube.com/watch?v=aibBF0BuzBU) by [Abhishek Mishra](https://twitter.com/MishraAbhiA).
+*    [Exporting your pass flow map to Tableau](https://www.youtube.com/watch?v=aibBF0BuzBU) by [Abhishek Mishra](https://twitter.com/MishraAbhiA);
+*    [Plotting Starting XIs in Tableau](https://martonballa.com/plotting-starting-xis-in-tableau/) by Marton Balla;
 *    Tableau Public profiles of note (not exhaustive by any means):
      +    [Ashwin Raman](https://public.tableau.com/profile/ashwin.raman1303)
      +    [Brian Prestidge](https://public.tableau.com/profile/brian.prestidge)
@@ -506,7 +525,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
      +    [Ravi Mistry](https://public.tableau.com/profile/scribblr.42)
      +    [Rob Carroll](https://public.tableau.com/profile/the.video.analyst)
      +    [Rob Suddaby](https://public.tableau.com/profile/rob.suddaby)
-     +    [Sathish Prasad V.T](https://public.tableau.com/profile/sathish.prasad.v.t)
+     +    [Sathish Prasad V.T](https://public.tableau.com/profile/sathish.prasad.v.t) -  see his Canadian Premier LEague post-match reports [[link](https://twitter.com/SathishPrasadVT/status/1410966402102489091)]
      +    [Sancho Quinn](https://public.tableau.com/profile/sancho.quinn)
      +    [Sushruta Nandy](https://public.tableau.com/profile/sushruta)
      +    [Tom Worville](https://public.tableau.com/profile/tom.worville#!/)
@@ -604,11 +623,14 @@ StatsBomb  JSON file and get a CSV file back (you need to create a free account 
 
 Resources to aid data visualisation:
 
+*    [Matplotlib for Football](https://sharmaabhishekk.github.io/mpl-footy/) - gallery for Typical Football Plots created using matplotlib by [Abhishek Sharma](https://twitter.com/abhisheksh_98). See his Twitter thread [[link](https://twitter.com/abhisheksh_98/status/1420633486013079556)] and GitHub repository [[link](https://github.com/sharmaabhishekk/mpl-footy)];
+*    [`Viz-Templates`](https://github.com/mckayjohns/Viz-Templates) by [McKay Johns]()
 *    [Club crests](https://drive.google.com/drive/folders/1R22tOjU-gjJ3QDzwUZ8JlXGjtO4O_XaJ) available to download, put together by [Ninad Barbadikar](https://twitter.com/NinadB_06);
 *    [Team colour codes](https://teamcolorcodes.com/), for the HEX, RGB, and HSL colours of top flight football teams; and
 *    [Pitch templates](https://www.dropbox.com/sh/y4gg8koaedi659r/AACBw3rEIbnLp7Zi91SUtwaFa?dl=0), put together by [Tony Bambrick](https://twitter.com/TonyBambrick) (see tweet [[link](https://twitter.com/TonyBambrick/status/1382314456131198976)]);
-*    [Peter McKeever](https://twitter.com/petermckeever)'s ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)]; and
-*    [John Burn-Murdoch](https://twitter.com/jburnmurdoch)'s [Data visualisation is about words](https://www.youtube.com/watch?v=uoFN3nxeMco) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w).
+*    [Peter McKeever](https://twitter.com/petermckeever)'s ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)]; 
+*    [John Burn-Murdoch](https://twitter.com/jburnmurdoch)'s [Data visualisation is about words](https://www.youtube.com/watch?v=uoFN3nxeMco) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w); and
+*    [Peter McKeever](https://twitter.com/petermckeever)'s Twitter thread about data viz [[link](https://threadreaderapp.com/thread/1405233770375036931.html)].
 
 
 <h3 id="written-pieces"> :black_nib: Written Pieces</h3>
@@ -1587,8 +1609,10 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 *    [Laurie Shaw](https://twitter.com/EightyFivePoint)'s Metrica Sports Tracking data series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
 *    [How Tracking Data is Used in Football and What are the Future Challenges](https://www.youtube.com/watch?v=kHTq9cwdkGA) with [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Will Spearman](https://twitter.com/the_spearman) and [David Sumpter](https://twitter.com/Soccermatics) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w);
-*    [Introduction to tracking data in football.](https://www.youtube.com/watch?v=fYqEnoOV9Po) by David Sumpter for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w); and
-*    [Learning to Watch Football: Self-Supervised Representations](https://vimeo.com/398489039/80d8dcfb58) for Tracking Data by Karun Singh. See accompanying blog post [[link](https://karun.in/blog/ssr-tracking-data.html)].
+*    [Introduction to tracking data in football.](https://www.youtube.com/watch?v=fYqEnoOV9Po) by David Sumpter for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w);
+*    [Learning to Watch Football: Self-Supervised Representations](https://vimeo.com/398489039/80d8dcfb58) for Tracking Data by Karun Singh. See accompanying blog post [[link](https://karun.in/blog/ssr-tracking-data.html)];
+*    [On Tracking Data, the Nature of Soccer, and Allocation](https://absoluteunit.substack.com/p/on-tracking-data-the-nature-of-soccer) by [Tiotal Football](https://twitter.com/TiotalFootball), as part of their [Absolute Unit](https://absoluteunit.substack.com/) newsletter;
+*    [How Hoffenheim are helping to democratise tracking data](https://trainingground.guru/articles/how-hoffenheim-are-helping-to-democratise-tracking-data) by Training Ground Guru.
 
 <h4 id="pitch-control-modeling"> Pitch Control Modeling</h4>
 
@@ -1649,7 +1673,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [https://philipwinchester.github.io/dixon-coles-model/](https://philipwinchester.github.io/dixon-coles-model/) by Philip Winchester; and
 *    [Predicting Football Results With Statistical Modelling: Dixon-Coles and Time-Weighting](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling-dixon-coles-and-time-weighting/) by David Sheehan.
 
-<h4 id="player-comparison-and-similarity-analysis"> Player Similarity Analysis</h4>
+<h4 id="player-comparison-and-similarity-analysis"> Player Similarity and Style Analysis</h4>
 
 *    [Paul Power: How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM)
 *    [`PCA_Player_Finder`](https://github.com/parth1902/PCA_Player_Finder) by [Parth Athale](https://twitter.com/ParthAthale);
@@ -1697,6 +1721,7 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 
 <h4 id="radars"> Recruitment Analysis</h4>
 
+*    [Using StatsBomb IQ For Player Recruitment: Centre Backs](https://statsbomb.com/2021/06/using-statsbomb-iq-for-player-recruitment-centre-backs/) by [StatsBomb](https://statsbomb.com/) (05/06/2021)
 *    Season Analysis & Summer Recruitment pieces
      +    [Blackburn Rovers Season Analysis & Summer 2020 Recruitment](https://www.yumpu.com/en/document/read/65654151/blackburn-rovers-season-analysis-recruitment-2021) by [Andy Watson](https://twitter.com/andywatsonsport) (see tweet [[link](https://twitter.com/andywatsonsport/status/1396750915600896000)]
      +    [Motherwell  Summer 2021 Recruitment Plan](https://www.yumpu.com/en/document/view/65752786/motherwell-fc-summer-2021-recruitment) by [Greg Marshall](https://mobile.twitter.com/gregthewellfan) (see tweet [[link](https://mobile.twitter.com/gregthewellfan/status/1412059735516401664)]
