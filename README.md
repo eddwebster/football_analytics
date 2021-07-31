@@ -62,23 +62,23 @@ For more information about this repository and the author, I am available throug
         <li><a href="#getting-started">Getting Started with Football Analytics</a></li>
         <li><a href="#data">Data Sources</a></li>
           <ul>
-          <li><a href="#data-sources">Data Sources</a></li>
-            <ul>
-              <li><a href="#data-sources-event">Event data</a></li>
-              <li><a href="#data-sources-tracking">Tracking data</a></li>
-              <li><a href="#data-sources-agg">Aggregated Player/Team Performance data</a></li>
-              <li><a href="#data-sources-team-rating">Team Rating data</a></li>
-              <li><a href="#data-sources-physical">Physical data</a></li>
-              <li><a href="#data-sources-results">Results and Matchsheet data</a></li>
-              <li><a href="#data-sources-financial">Financial, Valuation, and Transfer data</a></li>
-              <li><a href="#data-sources-odds">Odds, Betting, and Predictions data</a></li>
-              <li><a href="#data-sources-plotting">Plotting tools</a></li>
-              <li><a href="#data-sources-reference">Reference data</a></li>
-              <li><a href="#data-sources-miscellaneous">Miscellaneous data</a></li>
-            </ul>
+            <li><a href="#data-sources">Data Sources</a></li>
+              <ul>
+                <li><a href="#data-sources-event">Event data</a></li>
+                <li><a href="#data-sources-tracking">Tracking data</a></li>
+                <li><a href="#data-sources-agg">Aggregated Player/Team Performance data</a></li>
+                <li><a href="#data-sources-team-rating">Team Rating data</a></li>
+                <li><a href="#data-sources-physical">Physical data</a></li>
+                <li><a href="#data-sources-results">Results and Matchsheet data</a></li>
+                <li><a href="#data-sources-financial">Financial, Valuation, and Transfer data</a></li>
+                <li><a href="#data-sources-odds">Odds, Betting, and Predictions data</a></li>
+                <li><a href="#data-sources-plotting">Plotting tools</a></li>
+                <li><a href="#data-sources-reference">Reference data</a></li>
+                <li><a href="#data-sources-miscellaneous">Miscellaneous data</a></li>
+              </ul>
             <li><a href="#data-documentation">Documentation</a></li>
             <li><a href="#data-companies">Data Companies and Types</a></li>
-        </li>
+          </ul>
         <li><a href="#tutorials">Tutorials</a></li>
           <ul>
             <li><a href="#tutorials-python">Python</a></li>
@@ -88,7 +88,6 @@ For more information about this repository and the author, I am available throug
             <li><a href="#tutorials-excel">Excel</a></li>
             <li><a href="#tutorials-powerpoint">PowerPoint</a></li>
           </ul>
-        </li>
         <li><a href="#libraries">Libraries</a></li>
         <li><a href="#github-repos">GitHub Repositories</a></li>
         <li><a href="#apps">Apps</a></li>
@@ -103,7 +102,6 @@ For more information about this repository and the author, I am available throug
             <li><a href="#books">Books</a></li>
             <li><a href="#magazines">Magazines</a></li>
           </ul>
-        </li>
         <li>
           <a href="#video">Video</a></li>
           <ul>
@@ -116,7 +114,6 @@ For more information about this repository and the author, I am available throug
             <li><a href="#match-highlights">Match Highlights</a></li>
             <li><a href="#video-other">Other</a></li>
           </ul>
-        </li>
         <li><a href="#podcasts">Podcasts</a></li>
         <li><a href="#notable-figures-and-twitter-accounts">Notable Figures and Twitter Accounts</a></li>
         <li><a href="#events-and-conferences">Events and Conferences</a></li>
