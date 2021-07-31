@@ -370,7 +370,7 @@ To learn more about the different types of data available, such as Event and Tra
            -    R: [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)])
      +    An extract of player data for 2010-2021 for the 'Big 5' European leagues has been made available by [John Muller](https://twitter.com/johnspacemuller), see [[link](https://docs.google.com/spreadsheets/d/1E8Vi4P1kl9P23uCLpYOWWY7caaQh3OZmWVD6nbSSH7Q/edit)]
 *    Transfers data:
-     +    [`transfers`](https://github.com/ewenme/transfers) GitHub repo for European football clubs' player transfers from 1992/93-2020/21 (as per TransferMarkt)
+     +    [`transfers`](https://github.com/ewenme/transfers) GitHub repo for European football clubs' player transfers from 1992/93-2020/21 (as per TransferMarkt) by [ewenme](https://github.com/ewenme)
      +    [Player Transfer Data](https://gist.github.com/Worville/c4149ece45a75928a404d316151ba0fe) collated by [Tom Worville](https://twitter.com/Worville) (see Tweet [[link](https://twitter.com/Worville/status/1420035521988993034)]
 
 <h5 id="data-sources-odds"> Odds, Betting, and Predictions data </h4>
