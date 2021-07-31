@@ -134,6 +134,9 @@ For more information about this repository and the author, I am available throug
             <li><a href="#rl-for-football-simulation">Reinforcement Learning for Football Simulation</a></li>
             <li><a href="#set-pieces">Set Pieces</a></li>
             <li><a href="#radars">Radars</a></li>
+            <li><a href="#recruitment-analysis">Recruitment Analysis</a></li>
+            <li><a href="#player-valuation">Player Valuation Modeling</a></li>
+            <li><a href="#goalkeeper-analysis">Goalkeeper Analysis</a></li>
           </ul>
         </li>
         <li><a href="#miscellaneous">Miscellaneous</a></li>
@@ -308,7 +311,7 @@ Data sources that have been used in this repository can be found in the [`data`]
 
 To learn more about the different types of data available, such as Event and Tracking data, please see [Devin Pleuler](https://twitter.com/devinpleuler)'s [`soccer_analytics_handbook`](https://github.com/devinpleuler/analytics-handbook). 
 
-<h5 id="data-sources-event"> Event data </h4>
+<h5 id="data-sources-event"> Event data </h5>
 
 *    [StatsBomb Open Data](https://github.com/statsbomb/open-data);
 *    StrataData Chance shooting data provided by [StrataBet](http://www.stratagem.co/) (now defunct);
@@ -321,14 +324,14 @@ To learn more about the different types of data available, such as Event and Tra
      +    This data also also regularly made available by [Sagnik Das](https://twitter.com/nandy_sd) using code created by both him and [Mark Wilkins](https://twitter.com/biscuitchaser) - see [[link](https://twitter.com/NdyStats/status/1382295913452826628)] for shot data, [[link](https://twitter.com/NdyStats/status/1382255794180165632?s=20)] for meta data, and Mark's Tweet [[link](https://twitter.com/biscuitchaser/status/1294608904647839744)])
 *    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their  paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7)
 
-<h5 id="data-sources-tracking"> Tracking data </h4>
+<h5 id="data-sources-tracking"> Tracking data </h5>
 
 *    [Last Row Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) by [Ricardo Tavares](https://twitter.com/rjtavares). See the [Liverpool Analytics Challenge](https://soccermatics.medium.com/entries-for-the-liverpool-analytics-challenge-807f5eee12fd) for which this data was used (winners discussed on [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) [[link](https://www.youtube.com/watch?v=AFm3JNPu9Jw)]);
 *    [Metrica Sports Sample Tracking and corresponding Event data](https://github.com/metrica-sports/sample-data). For code to work with this data, see the  [`LaurieOnTracking`](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) GitHub repo by [Laurie Shaw](https://twitter.com/EightyFivePoint) and the corresponding [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) tutorials;
 *    [Signality Tracking data](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/12GetSignalityAPI.py). The password to download the data is not publicly available, but can be found in the Uppsala Mathematical Modelling of Football Slack group [[link](http://mathematicalm-fhj6138.slack.com)]. For access, contact Novosom Salvador [Twitter](@novosomsalvador) and rsalvadords@gmail.com, or feel free to contact myself. Note, that the 2nd half of the Hammarby-Örebro match is incomplete;
 *    [SkillCorner broadcast Tracking data](https://github.com/SkillCorner/opendata);
 
-<h5 id="data-sources-agg"> Aggregated Player/Team Performance data </h4>
+<h5 id="data-sources-agg"> Aggregated Player/Team Performance data </h5>
 
 *    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio) for [American Soccer Analysis](https://www.americansocceranalysis.com/)
 *    [FBref](https://fbref.com/en/) season-on-season aggregated player performance data provided by [StatsBomb](https://statsbomb.com/). 
@@ -341,16 +344,16 @@ To learn more about the different types of data available, such as Event and Tra
 *    [Stats Perform](https://www.statsperform.com/) and [Centre Circle](https://canpl.ca/centre-circle-data/) [Canadian Premiere League Event data](https://canpl.ca/centre-circle-data/). See Google Drive [[link](https://drive.google.com/drive/u/0/folders/1ktlkt6f6Ujami53YCS-Lbc9BGGL8BaYA)]
 *    [WhoScored?](https://www.whoscored.com/) (data provided by Opta, difficult to scrape but can be done).
 
-<h5 id="data-sources-team-rating"> Team Rating data </h4>
+<h5 id="data-sources-team-rating"> Team Rating data </h5>
 
 *    [ELO club rankings](http://clubelo.com/). See their API [[link](http://clubelo.com/API)]
 *    [FiveThirtyEight Club Ranking](https://projects.fivethirtyeight.com/global-club-soccer-rankings/) - Global Club Soccer Rankings. How 637 international club teams compare by Soccer Power Index
 
-<h5 id="data-sources-physical"> Physical data </h4>
+<h5 id="data-sources-physical"> Physical data </h5>
 
 *    [Bundesliga physical data](https://www.bundesliga.com/en/bundesliga/stats/players);
 
-<h5 id="data-sources-results"> Results and Matchsheet data </h4>
+<h5 id="data-sources-results"> Results and Matchsheet data </h5>
 
 *    [2018 FIFA World Cup Rosters](https://public.tableau.com/s/sites/default/files/media/world_cup_2018_squads.xlsx) - goals, caps, club, and date of birth for players on 2018 FIFA World Cup rosters. Source: data.world
 *    [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017
@@ -359,7 +362,7 @@ To learn more about the different types of data available, such as Event and Tra
 *    [`international_results`](https://github.com/martj42/international_results) - repository of 42,452 results of international football matches starting from the very first official match in 1972 up to 2019
 *    [Soccerway](https://uk.soccerway.com/) - matchsheet data
 
-<h5 id="data-sources-financial"> Financial, Valuation, and Transfer data </h4>
+<h5 id="data-sources-financial"> Financial, Valuation, and Transfer data </h5>
 
 *    [Capology](https://www.capology.com/) - a sports salaries platform [requires an expensive licence, 7 day free trials available];
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
@@ -373,28 +376,28 @@ To learn more about the different types of data available, such as Event and Tra
      +    [`transfers`](https://github.com/ewenme/transfers) GitHub repo for European football clubs' player transfers from 1992/93-2020/21 (as per TransferMarkt) by [ewenme](https://github.com/ewenme)
      +    [Player Transfer Data](https://gist.github.com/Worville/c4149ece45a75928a404d316151ba0fe) collated by [Tom Worville](https://twitter.com/Worville) (see Tweet [[link](https://twitter.com/Worville/status/1420035521988993034)]
 
-<h5 id="data-sources-odds"> Odds, Betting, and Predictions data </h4>
+<h5 id="data-sources-odds"> Odds, Betting, and Predictions data </h5>
 
 *    [BetExplorer](https://www.betexplorer.com/) - odds data;
 *    [FiveThirtyEight Soccer Predictions database](https://projects.fivethirtyeight.com/soccer-predictions/) - football prediction data;
 *    [Football-Data.co.uk](https://www.football-data.co.uk/) - free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles;
 *    [International football results from 1872 to 2020](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) - an up-to-date dataset of over 40,000 international football results by Mart Jürisoo;
 
-<h5 id="data-sources-plotting"> Plotting Tools </h4> 
+<h5 id="data-sources-plotting"> Plotting Tools </h5> 
 
 Also see [Mark Wilkin](https://twitter.com/biscuitchaser)'s Twitter thread [[link](https://twitter.com/biscuitchaser/status/1256267836730867714)]:
 *    [Football (soccer) pitch tracker](https://johnburnmurdoch.github.io/football-pitch-tracker/) by [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
 *    [Expected Goals Event Logger](https://torvaney.github.io/projects/xG.html) by [Ben Torvaney](https://twitter.com/Torvaney)
 *    [Chalkboard](http://apps.hilltop-analytics.com/chalkboard/) by [Neil Charles](https://twitter.com/neilcharles_uk)
 
-<h5 id="data-sources-references"> Reference data </h4>
+<h5 id="data-sources-references"> Reference data </h5>
 
 *    League-wide xT values from the 2017-18 Premier League season (12x8 grid) by [Karun Singh](https://twitter.com/karun1710/) [[link](https://karun.in/blog/data/open_xt_12x8_v1.json)]
 *    EPV grid by [Laurie Shaw](https://twitter.com/EightyFivePoint) [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking/blob/master/EPV_grid.csv)]
 *    Zones on a pitch for Tableau visualisation by [Rob Carroll](https://twitter.com/thevideoanalyst) [[link](https://drive.google.com/drive/folders/1Se0DFtsjQWmnt-G9Ihn_w8EQE4EZiblD)]
 *    Alphabetic country codes [[link](https://en.wikipedia.org/wiki/Comparison_of_alphabetic_country_codes)]
 
-<h5 id="data-sources-miscellaneous"> Miscellaneous Data </h4>
+<h5 id="data-sources-miscellaneous"> Miscellaneous Data </h5>
 
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
 *    [Data Hub Football data](https://datahub.io/collections/football);
@@ -663,7 +666,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Is Soccer Wrong About Long Shots?](https://fivethirtyeight.com/features/is-soccer-wrong-about-long-shots/) by [John Muller](https://twitter.com/johnspacemuller);
 *    [Where Goals Come From](https://www.americansocceranalysis.com/home/2021/7/10/where-goals-come-from) by Jamon Moore and Carlon Carpenter;
 *    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
-*    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by Sam Goldberg and Mike Imburgio;
+*    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio);
 *    [Using Data to Analyse Team Formations](https://eightyfivepoints.blogspot.com/2019/11/using-data-to-analyse-team-formations.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
 *    [Structure in football: putting formations into context](https://eightyfivepoints.blogspot.com/2020/12/structure-in-football-putting.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
 *    [Inside Arsenal’s Attack: In-Depth Analysis Of Arteta’s Problems & Possible Solutions](https://worldfootballindex.com/2021/01/arsenal-attack-in-depth-analysis-arteta-tactics-problems-solutions/) by Ashwin Raman;
@@ -1752,8 +1755,40 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
      +    [Motherwell  Summer 2021 Recruitment Plan](https://www.yumpu.com/en/document/view/65752786/motherwell-fc-summer-2021-recruitment) by [Greg Marshall](https://mobile.twitter.com/gregthewellfan) (see tweet [[link](https://mobile.twitter.com/gregthewellfan/status/1412059735516401664)]
      +    [Nottingham Forest Recruitment Plan Summer 2021](https://www.yumpu.com/en/document/read/65744237/nottingham-forest-recruitment-plan-summer-2021) by [Liam Henshaw](https://twitter.com/HenshawAnalysis) (see tweet [[link](https://twitter.com/HenshawAnalysis/status/1410138535026327555)]
      +    [Sheffield Wednesday Recruitment Plan for the 21/22 season](https://www.yumpu.com/en/document/view/65772154/swfc-recruitment-plan-2122) by [Owls Analytics](https://twitter.com/AnalyticsOwls) (see tweet [[link](https://twitter.com/AnalyticsOwls/status/1416080185628233732)]
-     +    
 
+
+<h4 id="player-valuation"> Player Valuation Modeling</h4>
+
+<h5 id="player-valuation-models"> Models</h5>
+
+*    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio);
+
+<h5 id="player-valuation-data"> Data</h5>
+
+*    [Capology](https://www.capology.com/) - a sports salaries platform [requires an expensive licence, 7 day free trials available];
+*    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
+*    [The Price of Football Master Spreadsheet](https://t.co/c1DYrIB14C?amp=1) - data from the finance/business aspect of football by [Kieran Maguire](https://twitter.com/KieranMaguire);
+*    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data
+     +    This data can be scraped in the following ways:
+           -    Python: [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb) for code with minor fixes to enable code to run).
+           -    R: [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)])
+     +    An extract of player data for 2010-2021 for the 'Big 5' European leagues has been made available by [John Muller](https://twitter.com/johnspacemuller), see [[link](https://docs.google.com/spreadsheets/d/1E8Vi4P1kl9P23uCLpYOWWY7caaQh3OZmWVD6nbSSH7Q/edit)]
+*    Transfers data:
+     +    [`transfers`](https://github.com/ewenme/transfers) GitHub repo for European football clubs' player transfers from 1992/93-2020/21 (as per TransferMarkt) by [ewenme](https://github.com/ewenme)
+     +    [Player Transfer Data](https://gist.github.com/Worville/c4149ece45a75928a404d316151ba0fe) collated by [Tom Worville](https://twitter.com/Worville) (see Tweet [[link](https://twitter.com/Worville/status/1420035521988993034)]
+
+
+<h4 id="valuation-modeling"> Goalkeeper Analysis</h4>
+
+*    [Profiling keepers with data](https://medium.com/@victor.renaud7/profiling-keepers-with-data-41c1af1fa37c) by Victor Renaud
+*    [Intro to Goalkeeper Analysis](https://statsbomb.com/2018/11/intro-to-goalkeeper-analysis/) by Ted Knutson (08/11/2018)
+*    Articles by [Paul Riley]()
+     +    [What’s a Goalkeeper Worth to His Team?](https://differentgame.wordpress.com/2012/08/06/whats-a-goalkeeper-worth-to-his-team/) (06/07/2012)
+     +    [Things to watch differently in the Premier League this season #2 – Goalkeepers](https://differentgame.wordpress.com/2012/10/06/things-to-watch-differently-in-the-premier-league-this-season-2-goalkeepers/) (06/10/2012)
+     +    [Safe hands? Is your keeper performing as well as expected?](https://differentgame.wordpress.com/2014/06/11/marshalling-the-defence/) (11/06/2014)
+     +    [Courtois and Pickford: The Tall and Short of Keeper Styles](https://statsbomb.com/2018/08/courtois-and-pickford-the-tall-and-short-of-keeper-styles/) (13/08/2018)
+     +    [Turning Theory Into Practice: Paul Riley Meets Swedish National Goalkeeping Coach Maths Elfvendal](https://statsbomb.com/2018/12/turning-theory-into-practice-paul-riley-meets-swedish-national-goalkeeping-coach-maths-elfvendal/) (04/12/2018) 
+     +    [The Unique (and Not so Unique) Challenges of Goalkeeping in Women's Soccer](https://statsbomb.com/2018/11/the-unique-and-not-so-unique-challenges-of-goalkeeping-in-womens-soccer/) (16/11/2018)
 
 <h3 id="miscellaneous"> :grey_question: Miscellaneous</h3>
 
