@@ -498,7 +498,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [Tom Goodall's Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/). Check out also as an unrolled Twitter thread, how he uses Tableau to create an opposition report for Burton vs. Gillingham on 9th January 2021 [[link](https://threadreaderapp.com/thread/1346186082510110720.html)];
 *    [Visually Analysing Direct Set Pieces in Football using StatsBomb Data, R and Tableau](https://www.biztory.com/blog/visually-analysing-direct-set-pieces-in-football-using-statsbomb-data-r-and-tableau) by [James Smith](https://twitter.com/sportschord);
 *    [CJ Mayes](https://cj-mayes.com/)'s Tableau blog, with posts including how to make a [Radial Tournament Bracket](https://cj-mayes.com/2021/02/24/radial-tournament-bracket-2/), [Understat data in Tableau](https://cj-mayes.com/2021/05/07/just-starting-out-with-understat/), and [Player Metrics Pizza plots](https://cj-mayes.com/2021/07/07/player-metrics/);
-*    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06). Check out his Twitter thread [[link](https://twitter.com/NinadB_06/status/1348738404989558787)] and his YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)];
+*    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06). His tutorials include: [Welcome to the Tableau Tunnel!](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48), [Improving on scatter-plots and building basic bar graphs](https://ninad06.medium.com/tableau-tunnel-2-improving-on-scatter-plots-and-building-basic-bar-graphs-67dd16a2bb35), [Player dashboards](https://ninad06.medium.com/tableau-tunnel-3-player-dashboards-c840e91c7de), and [Tableau Tunnel #4 — Making Beeswarm plots](https://ninad06.medium.com/tableau-tunnel-4-making-beeswarm-plots-91b615590c31). Check out his Twitter thread [[link](https://twitter.com/NinadB_06/status/1348738404989558787)] and his YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)];
 *    Medium blog posts by [Sagnik Das](https://twitter.com/nandy_sd) - [Tableau Guide #1: Making Shot Maps](https://sagnikdas1.medium.com/tabguide-1-making-shot-maps-1c030f08393e), [Tableau Guide #2: Making Pass Maps](https://sagnikdas1.medium.com/tabguide-2-making-pass-maps-bad2d541b8ed), [Tableau Guide #3: Convex Hulls](https://sagnikdas1.medium.com/tableau-guide-3-convex-hulls-c7edc31a9921), [Tableau Guide #4 : Football Radars](https://sagnikdas1.medium.com/tableau-guide-4-football-radars-8cdac85ba1fc);
 *    Medium blog posts by [Rahul Iyer](https://twitter.com/RahulIyer32) - [Guide to Creating Passing Networks in Tableau
 ](https://raahulbi103.medium.com/guide-to-creating-passing-networks-in-tableau-be8847420297), [Guide to Creating Pass Sonars in Tableau](https://raahulbi103.medium.com/guide-to-creating-pass-sonars-in-tableau-3361801d65aa);
@@ -645,6 +645,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen);
 *    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney);
 *    [Is Soccer Wrong About Long Shots?](https://fivethirtyeight.com/features/is-soccer-wrong-about-long-shots/) by [John Muller](https://twitter.com/johnspacemuller);
+*    [Where Goals Come From](https://www.americansocceranalysis.com/home/2021/7/10/where-goals-come-from) by Jamon Moore and Carlon Carpenter;
 *    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
 *    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by Sam Goldberg and Mike Imburgio;
 *    [Using Data to Analyse Team Formations](https://eightyfivepoints.blogspot.com/2019/11/using-data-to-analyse-team-formations.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
@@ -767,9 +768,14 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 
 <h5 id="2021"> 2021</h5>
   
-*    [Making Offensive Play Predictable Using a GCN to Understand Defensive Performance in Socce](https://o7dkx1gd2bwwexip1qwjpplu-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/1617733444_PaulPowerOffensivePlaySoccerRPpaper-1.pdf) by Paul Power, Michael Stöckl, and Thomas Seidel for Opta Pro Forum 2021. See the accomanpying talk on Vimeo [[link](https://player.vimeo.com/video/534338154)];
-*    [Leaving Goals on the Pitch: Evaluating Decision Making in Soccer]() by Maaike Van Roy, Pieter Robberechts, Wen-Chi Yang, Luc De Raedt, and Jesse Davis. See the accompanying blog post [[link](https://dtai.cs.kuleuven.be/sports/ssac21/)] and research poster [[link](https://dtai.cs.kuleuven.be/sports/ssac21/MaaikeVanRoyLeavingGoalsRPposter.pdf)]; 
+
+*    [Analyzing Learned Markov Decision Processes using Model Checking for Providing Tactical Advice in Professional Soccer](https://drive.google.com/file/d/1PURSuMmgLGgnydEO7EiGR-WEtLtrKYVb/view) (2021) by Maaike Van Roy, Wen-Chi Yang, Luc De Raedt and Jesse Davis;
 *    [Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning](https://arxiv.org/pdf/2101.05388.pdf) (2021) by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg). See the [`nayra`](https://github.com/DonsetPG/narya) library for code.
+*    [Leaving Goals on the Pitch: Evaluating Decision Making in Soccer]() (2021) by Maaike Van Roy, Pieter Robberechts, Wen-Chi Yang, Luc De Raedt, and Jesse Davis. See the accompanying blog post [[link](https://dtai.cs.kuleuven.be/sports/ssac21/)] and research poster [[link](https://dtai.cs.kuleuven.be/sports/ssac21/MaaikeVanRoyLeavingGoalsRPposter.pdf)]; 
+*    [Learning Football Body-Orientation as a Matter of Classification](https://drive.google.com/file/d/1YvKHzLliA04tZR2sp_TtFJWIVYI65cmb/view)(2021) by Adrià Arbués-Sangüesa, Adrián Martín, Paulino Granero, Coloma Ballester and Gloria Haro;
+*    [Making Offensive Play Predictable Using a GCN to Understand Defensive Performance in Socce](https://o7dkx1gd2bwwexip1qwjpplu-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/1617733444_PaulPowerOffensivePlaySoccerRPpaper-1.pdf) (2021) by Paul Power, Michael Stöckl, and Thomas Seidel for Opta Pro Forum 2021. See the accomanpying talk on Vimeo [[link](https://player.vimeo.com/video/534338154)];
+*    [“Why Would I Trust Your Numbers?” On the Explainability of Expected Values in Soccer](https://drive.google.com/file/d/1AHYBmTGBOyoKbVN8ACebqZfYnQXzW-En/view) (2021) by Jan Van Haaren
+*    [Women's football analyzed: interpretable expected goals models for women](https://drive.google.com/file/d/1Plg2mGJixgdrN2BsuOocuwuAt9a5VS5G/view) (2021) by Lotte Bransen and Jesse Davis
 
 <h5 id="2020"> 2020</h5>
   
@@ -1358,8 +1364,8 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 *    [Carnegie Mellon Sports Analytics Conference](http://www.cmusportsanalytics.com/conference2018.html);
 *    [CASSIS](http://cascadiasports.com/);
 *    [Tactical Insights 2020 Conference at King Power Stadium](https://www.lcfc.com/tacticalinsights);
-*    [Workshop on Artificial Intelligence in Team Sports (AITS)](https://ai-teamsports.weebly.com/);
-*    [Workshop on Machine Learning and Data Mining for Sports Analytics](https://dtai.cs.kuleuven.be/events/MLSA20/);
+*    [Artificial Intelligence in Team Sports (AITS)](https://ai-teamsports.weebly.com/) and [[link](https://sites.google.com/view/ijcai-aisa-2021/home?authuser=0)];
+*    [Machine Learning and Data Mining for Sports Analytics](https://dtai.cs.kuleuven.be/events/MLSA20/);
 *    [International Workshop on Computer Vision in Sports](https://vap.aau.dk/cvsports/);
 *    [Google Sports Analytics Meetup.](https://www.youtube.com/playlist?list=PLN61gcz35HB7enamPi8bG4bFJNsBPYW27);
 *    [DFB Hackathon](https://www.dfb-akademie.de/hackathon-2-sts-akademie-eintracht/-/id-11009109);
@@ -1676,8 +1682,9 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h4 id="player-comparison-and-similarity-analysis"> Player Similarity and Style Analysis</h4>
 
-*    [Paul Power: How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM)
-*    [`PCA_Player_Finder`](https://github.com/parth1902/PCA_Player_Finder) by [Parth Athale](https://twitter.com/ParthAthale);
+*    [Paul Power: How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM);
+*    [Using Machine Learning To Find Players In Similar Roles In Scotland](https://www.modernfitba.com/blogs/2021/2/13/using-machine-learning-to-find-players-in-similar-roles-in-scotland) by Matt Rhein; and
+*    [`PCA_Player_Finder`](https://github.com/parth1902/PCA_Player_Finder) by [Parth Athale](https://twitter.com/ParthAthale).
 
 <h4 id="rl-for-football-simulation"> Reinforcement Learning for Football Simulation</h4>
 
@@ -1734,7 +1741,6 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 <h3 id="miscellaneous"> :grey_question: Miscellaneous</h3>
 
 *    [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/);
-*    [A collated list of Expected Goals literature collated](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit) by [Keith Lyons](https://twitter.com/520507);
 *    [FIFA EPTS (Electronic Performance and Tracking Systems)](https://football-technology.fifa.com/en/media-tiles/epts/);
 *    [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport); and
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf).
