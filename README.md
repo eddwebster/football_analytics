@@ -62,18 +62,22 @@ For more information about this repository and the author, I am available throug
         <li><a href="#getting-started">Getting Started with Football Analytics</a></li>
         <li><a href="#data">Data Sources</a></li>
           <ul>
-            <li><a href="#data-event">Event data</a></li>
-            <li><a href="#data-tracking">Tracking data</a></li>
-            <li><a href="#data-agg">Aggregated Player/Team Performance data</a></li>
-            <li><a href="#data-team-rating">Team Rating data</a></li>
-            <li><a href="#data-physical">Physical data</a></li>
-            <li><a href="#data-results">Results and Matchsheet data</a></li>
-            <li><a href="#data-financial">Financial, Valuation, and Transfer data</a></li>
-            <li><a href="#data-odds">Odds, Betting, and Predictions data</a></li>
-            <li><a href="#data-plotting">Plotting tools</a></li>
-            <li><a href="#data-reference">Reference data</a></li>
-            <li><a href="#data-miscellaneous">Miscellaneous data</a></li>
-          </ul>
+          <li><a href="#data-sources">Data Sources</a></li>
+            <ul>
+              <li><a href="#data-sources-event">Event data</a></li>
+              <li><a href="#data-sources-tracking">Tracking data</a></li>
+              <li><a href="#data-sources-agg">Aggregated Player/Team Performance data</a></li>
+              <li><a href="#data-sources-team-rating">Team Rating data</a></li>
+              <li><a href="#data-sources-physical">Physical data</a></li>
+              <li><a href="#data-sources-results">Results and Matchsheet data</a></li>
+              <li><a href="#data-sources-financial">Financial, Valuation, and Transfer data</a></li>
+              <li><a href="#data-sources-odds">Odds, Betting, and Predictions data</a></li>
+              <li><a href="#data-sources-plotting">Plotting tools</a></li>
+              <li><a href="#data-sources-reference">Reference data</a></li>
+              <li><a href="#data-sources-miscellaneous">Miscellaneous data</a></li>
+            </ul>
+            <li><a href="#data-documentation">Documentation</a></li>
+            <li><a href="#data-companies">Data Companies and Types</a></li>
         </li>
         <li><a href="#tutorials">Tutorials</a></li>
           <ul>
