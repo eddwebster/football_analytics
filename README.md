@@ -118,6 +118,7 @@ For more information about this repository and the author, I am available throug
             <li><a href="#player-similarity-analysis">Player Similarity Analysis</a></li>
             <li><a href="#rl-for-football-simulation">Reinforcement Learning for Football Simulation</a></li>
             <li><a href="#set-pieces">Set Pieces</a></li>
+            <li><a href="#radars">Radars</a></li>
           </ul>
         </li>
         <li><a href="#miscellaneous">Miscellaneous</a></li>
@@ -315,23 +316,26 @@ To learn more about the different types of data available, such as Event and Tra
 <h5 id="data-sources-team-rating"> Team Rating data </h4>
 
 *    [ELO club rankings](http://clubelo.com/). See their API [[link](http://clubelo.com/API)]
-*    *    [FiveThirtyEight Club Ranking](https://projects.fivethirtyeight.com/global-club-soccer-rankings/) - Global Club Soccer Rankings. How 637 international club teams compare by Soccer Power Index
-
-<h5 id="data-sources-results"> Results and Matchsheet data </h4>
-
-*    [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017
-*    [Football Lineups](http://www.football-lineups.com)
-*    [Soccerway](https://uk.soccerway.com/) - matchsheet data
+*    [FiveThirtyEight Club Ranking](https://projects.fivethirtyeight.com/global-club-soccer-rankings/) - Global Club Soccer Rankings. How 637 international club teams compare by Soccer Power Index
 
 <h5 id="data-sources-physical"> Physical data </h4>
 
 *    [Bundesliga physical data](https://www.bundesliga.com/en/bundesliga/stats/players);
 
+<h5 id="data-sources-results"> Results and Matchsheet data </h4>
+
+*    [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2017
+*    [FIFA World Cup Match Results](https://public.tableau.com/s/sites/default/files/media/world_cup_results.xlsx) - matchups and results of FIFA World Cup matches from 1930 - 2014. Source: data.world
+*    [2018 FIFA World Cup Rosters](https://public.tableau.com/s/sites/default/files/media/world_cup_2018_squads.xlsx) - goals, caps, club, and date of birth for players on 2018 FIFA World Cup rosters. Source: data.world
+*    [FIFA 18 Player Ratings](https://public.tableau.com/s/sites/default/files/media/fifa18_clean.csv) - 17k+ players, 70+ attributes extracted from FIFA 18, provided by [sofifa](https://sofifa.com)
+*    [Football Lineups](http://www.football-lineups.com)
+*    [Soccerway](https://uk.soccerway.com/) - matchsheet data
+
 <h5 id="data-sources-financial"> Financial, Valuation, and Transfer data </h4>
 
 *    [Capology](https://www.capology.com/) - a sports salaries platform [requires an expensive licence, 7 day free trials available].;
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
-*    [Player Transfer Data](https://gist.github.com/Worville/c4149ece45a75928a404d316151ba0fe) collated by [Tom Worville](https://twitter.com/Worville) (see Tweet [[link]()];
+*    [Player Transfer Data](https://gist.github.com/Worville/c4149ece45a75928a404d316151ba0fe) collated by [Tom Worville](https://twitter.com/Worville) (see Tweet [[link](https://twitter.com/Worville/status/1420035521988993034)];
 *    [The Price of Football Master Spreadsheet](https://t.co/c1DYrIB14C?amp=1) - data from the finance/business aspect of football by Kieren Maguire
 *    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data scraped using the [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb) for code with minor fixes to enable code to run). A good package to scrape this data in R is using the [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)]);
 
@@ -377,6 +381,7 @@ Also see [Mark Wilkin](https://twitter.com/biscuitchaser)'s Twitter thread [[lin
 *    [Spotrac](https://www.spotrac.com/) team contracts and payrolls for the Premier League, MLS, and NWSL;
 *    [Squawka](http://www.squawka.com);
 *    [Stat Bunker](https://www.statbunker.com);
+*    [Tableau data resources](https://public.tableau.com/en-us/s/resources?qt-overview_resources=1#qt-overview_resources) including sports data;
 *    [Transfer League](http://www.transferleague.co.uk);
 *    [Twelve Football](https://twelve.football/); and
 *    [wosostats](https://github.com/amj2012/wosostats) - Data about women's soccer from around the world.
@@ -473,7 +478,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [Tableau for Sport](https://thevideoanalyst.com/tableau-sport/) by [Rob Carroll](https://twitter.com/thevideoanalyst) - completely free tutorials for using football data in Tableau, including creating shot maps, pass maps, pass matrxces, xG race-chart timelines. See also his YouTube playlist [[link](https://www.youtube.com/playlist?list=PLchE8bhmmIxK94imJ4QZncXrbld_NGoiW)];
 *    [Tom Goodall's Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/). Check out also as an unrolled Twitter thread, how he uses Tableau to create an opposition report for Burton vs. Gillingham on 9th January 2021 [[link](https://threadreaderapp.com/thread/1346186082510110720.html)];
 *    [Visually Analysing Direct Set Pieces in Football using StatsBomb Data, R and Tableau](https://www.biztory.com/blog/visually-analysing-direct-set-pieces-in-football-using-statsbomb-data-r-and-tableau) by [James Smith](https://twitter.com/sportschord);
-*    [CJ Mayes](https://cj-mayes.com/)'s Tableau blog, with posts including how to make a [Radial Tournament Bracket](https://cj-mayes.com/2021/02/24/radial-tournament-bracket-2/);
+*    [CJ Mayes](https://cj-mayes.com/)'s Tableau blog, with posts including how to make a [Radial Tournament Bracket](https://cj-mayes.com/2021/02/24/radial-tournament-bracket-2/), [Understat data in Tableau](https://cj-mayes.com/2021/05/07/just-starting-out-with-understat/), and [Player Metrics Pizza plots](https://cj-mayes.com/2021/07/07/player-metrics/);
 *    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06). Check out his Twitter thread [[link](https://twitter.com/NinadB_06/status/1348738404989558787)] and his YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)];
 *    Medium blog posts by [Sagnik Das](https://twitter.com/nandy_sd) - [Tableau Guide #1: Making Shot Maps](https://sagnikdas1.medium.com/tabguide-1-making-shot-maps-1c030f08393e), [Tableau Guide #2: Making Pass Maps](https://sagnikdas1.medium.com/tabguide-2-making-pass-maps-bad2d541b8ed), [Tableau Guide #3: Convex Hulls](https://sagnikdas1.medium.com/tableau-guide-3-convex-hulls-c7edc31a9921), [Tableau Guide #4 : Football Radars](https://sagnikdas1.medium.com/tableau-guide-4-football-radars-8cdac85ba1fc);
 *    Medium blog posts by [Rahul Iyer](https://twitter.com/RahulIyer32) - [Guide to Creating Passing Networks in Tableau
@@ -514,6 +519,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 <h4 id="tutorials-excel"> Excel</h4>
 
 *    [Marius Fischer](https://twitter.com/Gegenpressing91)'s Patreon [[link](https://www.patreon.com/Gegenpressing91)]
+*    [Guide to Creating Action Heat Maps in Microsoft Excel](https://raahulbi103.medium.com/guide-to-creating-action-heat-maps-in-microsoft-excel-18b19f0c9d02) by Rahul Iyer
 
 <h4 id="tutorials-powerpoint"> PowerPoint</h4>
 
@@ -659,6 +665,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Attacking Center-back](https://attackingcentreback.wordpress.com/) by [JP Quinn](https://twitter.com/AttackingCB);
 *    [Barça Innovation Hub](https://barcainnovationhub.com/category/blog/);
 *    [BiscuitChaserFC](https://biscuitchaserfc.blogspot.com/) by [Mark Wilkins](https://twitter.com/biscuitchaser). See his Twitter thread of R tutorials [[link](https://twitter.com/biscuitchaser/status/1275726269058093057)];
+*    [Bosemessi GitHub blog](https://bosemessi.github.io/) by [Soumyajit Bose](https://twitter.com/Soumyaj15209314);
 *    [Brendan Kent](https://brendankent.com/). Check out his [Sports Analytics 101 series](https://brendankent.com/sports-analytics-101/);
 *    [Carey Analytics](https://careyanalytics.wordpress.com/) by [Mark Carey](https://twitter.com/MarkCarey93);
 *    [Danny Page's Medium blog](https://medium.com/@dannypage);
@@ -892,6 +899,8 @@ John Burn-Murdoch for The FT;
 *    [A working life: The quantitative analyst](https://www.theguardian.com/money/2011/jun/11/working-life-quantitative-analyst) (11/06/2011) by [Graham Snowdon](https://twitter.com/gsnowdon) for The Guardian.
 
 <h4 id="books"> :books: Books</h4>
+
+See the [Sports Analytics Reading List](https://brendankent.com/2021/06/15/sports-analytics-reading-list/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent)), as part of his [Sports Analytics 101](https://brendankent.com/sports-analytics-101/) series
 
 The following use Amazon UK links were available.
 
@@ -1668,6 +1677,32 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 *    [The Blades’ Sharpest Edge: A look at Sheffield United’s 17/18 Set Pieces.](https://wherethesmokegoes.wordpress.com/2017/11/24/the-blades-sharpest-edge-a-look-at-sheffield-uniteds-17-18-set-pieces/) by [Oli Walker](https://twitter.com/olivermpw_);
 *    Pieces by [Marc Lamberts](https://twitter.com/lambertsmarc) [[link](http://zonalpressing.com/category/set-piece-analysis/)]; and
 *    Pieces by [Stuart Reid](https://twitter.com/From_The_Wing) [[link](https://wakelet.com/@from_the_wing)].
+
+<h4 id="radars"> Radars</h4>
+
+*    [StatsBomb](https://statsbomb.com/) radar articles. For all articles, see the following: [[link](https://statsbomb.com/tag/radars/)]
+     +    [Understanding StatsBomb Radars](https://statsbomb.com/2021/07/understanding-statsbomb-radars/) by StatsBomb (16/07/2021)
+     +    [New Team, Same Numbers: How Transfers Do (And Don't) Change Player Output](https://statsbomb.com/2019/03/new-team-same-numbers-how-transfers-do-and-dont-change-player-output/) by Tim Keech (06/03/2019)
+     +    [Introducing Goalkeeper Radars](https://statsbomb.com/2018/12/introducing-goalkeeper-radars/) by Ted Knutson (11/12/2018)
+     +    [Radar Wars](https://statsbomb.com/2018/09/radar-wars/)
+     +    [New Data, New StatsBomb Radars](https://statsbomb.com/2018/08/new-data-new-statsbomb-radars/) by Ted Knutson (03/08/2018)
+     +    [Revisiting Radars](https://statsbomb.com/2017/05/revisiting-radars/) by Ted Knutson (18/05/2017)
+     +    [Understanding Football Radars For Mugs and Muggles](https://statsbomb.com/2016/04/understand-football-radars-for-mugs-and-muggles/) by Ted Knutson (25/04/2016)
+*    [Radar Wars - CASSIS Presentation Summer 2018](https://www.youtube.com/watch?v=iN-QqnbrDYA)
+*    [Models for evaluating players part 2: Player radars](https://www.youtube.com/watch?v=iIJkV1v6UrA) by David Sumpter for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)
+*    [Introducing Twenty3’s Dynamic Radars](https://www.twenty3.sport/introducing-twenty3-dynamic-radars/)
+*    [Radar Charts](https://mplsoccer.readthedocs.io/en/latest/gallery/radar/plot_radar.html) in [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/index.html)
+*    [`soccerplots`](https://github.com/Slothfulwave612/soccerplots) -  a Python package that can be used for making visualizations for football analytics by [Anmol Durgapal](https://twitter.com/slothfulwave612)
+*    [Building a Radar Plot in ggplot2](http://www.fcrstats.com/radars.html) by [FC rSTATS](https://twitter.com/FC_rstats?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+<h4 id="radars"> Recruitment Analysis</h4>
+
+*    Season Analysis & Summer Recruitment pieces
+     +    [Blackburn Rovers Season Analysis & Summer 2020 Recruitment](https://www.yumpu.com/en/document/read/65654151/blackburn-rovers-season-analysis-recruitment-2021) by [Andy Watson](https://twitter.com/andywatsonsport) (see tweet [[link](https://twitter.com/andywatsonsport/status/1396750915600896000)]
+     +    [Motherwell  Summer 2021 Recruitment Plan](https://www.yumpu.com/en/document/view/65752786/motherwell-fc-summer-2021-recruitment) by [Greg Marshall](https://mobile.twitter.com/gregthewellfan) (see tweet [[link](https://mobile.twitter.com/gregthewellfan/status/1412059735516401664)]
+     +    [Nottingham Forest Recruitment Plan Summer 2021](https://www.yumpu.com/en/document/read/65744237/nottingham-forest-recruitment-plan-summer-2021) by [Liam Henshaw](https://twitter.com/HenshawAnalysis) (see tweet [[link](https://twitter.com/HenshawAnalysis/status/1410138535026327555)]
+     +    [Sheffield Wednesday Recruitment Plan for the 21/22 season](https://www.yumpu.com/en/document/view/65772154/swfc-recruitment-plan-2122) by [Owls Analytics](https://twitter.com/AnalyticsOwls) (see tweet [[link](https://twitter.com/AnalyticsOwls/status/1416080185628233732)]
+     +    
 
 
 <h3 id="miscellaneous"> :grey_question: Miscellaneous</h3>
