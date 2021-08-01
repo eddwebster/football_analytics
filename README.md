@@ -368,6 +368,7 @@ To learn more about the different types of data available, such as Event and Tra
 *    [Capology](https://www.capology.com/) - a sports salaries platform [requires an expensive licence, 7 day free trials available];
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
 *    [The Price of Football Master Spreadsheet](https://t.co/c1DYrIB14C?amp=1) - data from the finance/business aspect of football by [Kieran Maguire](https://twitter.com/KieranMaguire);
+*    [spotrac](https://www.spotrac.com/epl/) - player contracts, salaries, and transfer information for the Premier League, MLS, and NWSL;
 *    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data
      +    This data can be scraped in the following ways:
            -    Python: [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb) for code with minor fixes to enable code to run).
@@ -1769,6 +1770,7 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 *    [Capology](https://www.capology.com/) - a sports salaries platform [requires an expensive licence, 7 day free trials available];
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
 *    [The Price of Football Master Spreadsheet](https://t.co/c1DYrIB14C?amp=1) - data from the finance/business aspect of football by [Kieran Maguire](https://twitter.com/KieranMaguire);
+*    [spotrac](https://www.spotrac.com/epl/) - player contracts, salaries, and transfer information for the Premier League, MLS, and NWSL;
 *    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data
      +    This data can be scraped in the following ways:
            -    Python: [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb) for code with minor fixes to enable code to run).
