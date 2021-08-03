@@ -1366,6 +1366,7 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 
 <h3 id="notable-figures-and-twitter-accounts"> :man_technologist: Notable Figures and Twitter Accounts</h3>
 
+*    [Training Ground Guru Staff Profiles](https://trainingground.guru/profiles);
 *    [2020 Analytics Twitter Top 1,000 Power Rankings](https://github.com/anenglishgoat/analyticsTwitterInteractions/blob/main/AnalyticsTwitterPageRank.csv), calculated by [Will Thomson](https://twitter.com/AnEnglishGoat). See the Twitter list created by [Luton Town Analytics](https://twitter.com/LutonAnalytics) [[link](https://twitter.com/i/lists/1341323211993182208)];
 *    [Sports Analytics Twitter list](https://twitter.com/i/lists/831946455837446144) by [Jan Van Haaren](https://twitter.com/JanVanHaaren);
 *    [Soccer People](https://twitter.com/i/lists/1288082572195639296) by [John Muller](https://twitter.com/johnspacemuller);
