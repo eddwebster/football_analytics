@@ -1,0 +1,699 @@
+,Unnamed: 0,Player,Weekly GrossBase Salary(IN EUR),Annual GrossBase Salary(IN EUR),"Adj. GrossBase Salary(2021, IN EUR)",Pos.,Age,Country,Team,League,Season
+0,0,Borja Bastón,"€ 50,135","€ 2,607,000","€ 2,598,588",F,25,Spain,Alaves,La Liga,2018-2019
+1,1,John Guidetti,"€ 34,981","€ 1,819,000","€ 1,813,131",F,26,Sweden,Alaves,La Liga,2018-2019
+2,2,Jony,"€ 26,000","€ 1,352,000","€ 1,347,637",F,26,Spain,Alaves,La Liga,2018-2019
+3,3,Takashi Inui,"€ 24,769","€ 1,288,000","€ 1,283,844",F,30,Japan,Alaves,La Liga,2018-2019
+4,4,Ibai Gómez,"€ 23,962","€ 1,246,000","€ 1,241,980",F,28,Spain,Alaves,La Liga,2018-2019
+5,5,Rubén Sobrino,"€ 19,731","€ 1,026,000","€ 1,022,689",F,26,Spain,Alaves,La Liga,2018-2019
+6,6,Fernando Pacheco,"€ 19,096","€ 993,000","€ 989,796",K,26,Spain,Alaves,La Liga,2018-2019
+7,7,Jonathan Calleri,"€ 18,904","€ 983,000","€ 979,828",F,24,Argentina,Alaves,La Liga,2018-2019
+8,8,Daniel Torres,"€ 18,654","€ 970,000","€ 966,870",M,28,Colombia,Alaves,La Liga,2018-2019
+9,9,Burgui,"€ 17,635","€ 917,000","€ 914,041",F,24,Spain,Alaves,La Liga,2018-2019
+10,10,Mubarak Wakaso,"€ 15,615","€ 812,000","€ 809,380",M,27,Ghana,Alaves,La Liga,2018-2019
+11,11,Ximo Navarro,"€ 15,519","€ 807,000","€ 804,396",D,28,Spain,Alaves,La Liga,2018-2019
+12,12,Martin Aguirregabiria,"€ 14,558","€ 757,000","€ 754,557",D,22,Spain,Alaves,La Liga,2018-2019
+13,13,Rubén Duarte,"€ 14,423","€ 750,000","€ 747,580",D,22,Spain,Alaves,La Liga,2018-2019
+14,14,Patrick Twumasi,"€ 14,231","€ 740,000","€ 737,612",F,24,Ghana,Alaves,La Liga,2018-2019
+15,15,Tomás Pina,"€ 14,154","€ 736,000","€ 733,625",M,30,Spain,Alaves,La Liga,2018-2019
+16,16,Adrián Marín,"€ 13,635","€ 709,000","€ 706,712",D,21,Spain,Alaves,La Liga,2018-2019
+17,17,Víctor Laguardia,"€ 13,423","€ 698,000","€ 695,748",D,28,Spain,Alaves,La Liga,2018-2019
+18,18,Rodrigo Ely,"€ 13,019","€ 677,000","€ 674,816",D,24,Brazil,Alaves,La Liga,2018-2019
+19,19,Carlos Vigaray,"€ 12,769","€ 664,000","€ 661,857",D,23,Spain,Alaves,La Liga,2018-2019
+20,20,Guillermo Maripán,"€ 12,519","€ 651,000","€ 648,899",D,24,Chile,Alaves,La Liga,2018-2019
+21,21,Manu García,"€ 10,519","€ 547,000","€ 545,235",M,32,Spain,Alaves,La Liga,2018-2019
+22,22,Darko Brasanac,"€ 7,500","€ 390,000","€ 388,742",M,26,Serbia,Alaves,La Liga,2018-2019
+23,23,Antonio Sivera,"€ 5,615","€ 292,000","€ 291,058",K,21,Spain,Alaves,La Liga,2018-2019
+24,24,Álex Blanco,"€ 2,635","€ 137,000","€ 136,558",F,19,Spain,Alaves,La Liga,2018-2019
+25,25,Adrián Diéguez,€ 904,"€ 47,000","€ 46,848",D,22,Spain,Alaves,La Liga,2018-2019
+26,26,Nando,€ 0,€ 0,€ 0,F,24,Spain,Alaves,La Liga,2018-2019
+27,27,Rafa Navarro,€ 0,€ 0,€ 0,D,24,Spain,Alaves,La Liga,2018-2019
+28,28,Rafa Páez,€ 0,€ 0,€ 0,D,23,Spain,Alaves,La Liga,2018-2019
+29,29,Javi Muñoz,€ 0,€ 0,€ 0,M,23,Spain,Alaves,La Liga,2018-2019
+30,30,Ermedin Demirovic,€ 0,€ 0,€ 0,F,20,Bosnia-Herzegovina,Alaves,La Liga,2018-2019
+31,31,Diego Rolán,€ 0,€ 0,€ 0,F,25,Uruguay,Alaves,La Liga,2018-2019
+32,32,Antonio Perera,€ 0,€ 0,€ 0,M,21,Spain,Alaves,La Liga,2018-2019
+33,33,Antonio Cristian,€ 0,€ 0,€ 0,D,22,Spain,Alaves,La Liga,2018-2019
+34,34,Anderson Emanuel,€ 0,€ 0,€ 0,F,22,Angola,Alaves,La Liga,2018-2019
+35,35,Álex Domínguez,€ 0,€ 0,€ 0,K,19,Spain,Alaves,La Liga,2018-2019
+0,0,Iñigo Martínez,"€ 172,481","€ 8,969,000","€ 8,940,060",D,27,Spain,Athletic Club,La Liga,2018-2019
+1,1,Raúl García,"€ 111,000","€ 5,772,000","€ 5,753,375",M,31,Spain,Athletic Club,La Liga,2018-2019
+2,2,Yuri Berchiche,"€ 87,212","€ 4,535,000","€ 4,520,367",D,28,Spain,Athletic Club,La Liga,2018-2019
+3,3,Iñaki Williams,"€ 70,115","€ 3,646,000","€ 3,634,235",F,24,Spain,Athletic Club,La Liga,2018-2019
+4,4,Óscar de Marcos,"€ 47,827","€ 2,487,000","€ 2,478,975",D,29,Spain,Athletic Club,La Liga,2018-2019
+5,5,Markel Susaeta,"€ 42,788","€ 2,225,000","€ 2,217,821",F,30,Spain,Athletic Club,La Liga,2018-2019
+6,6,Iker Muniain,"€ 42,154","€ 2,192,000","€ 2,184,927",F,25,Spain,Athletic Club,La Liga,2018-2019
+7,7,Ander Iturraspe,"€ 40,481","€ 2,105,000","€ 2,098,208",M,29,Spain,Athletic Club,La Liga,2018-2019
+8,8,Dani García,"€ 33,019","€ 1,717,000","€ 1,711,460",M,28,Spain,Athletic Club,La Liga,2018-2019
+9,9,Aritz Aduriz,"€ 30,654","€ 1,594,000","€ 1,588,857",F,37,Spain,Athletic Club,La Liga,2018-2019
+10,10,Yeray Álvarez,"€ 29,846","€ 1,552,000","€ 1,546,992",D,23,Spain,Athletic Club,La Liga,2018-2019
+11,11,Beñat Etxebarria,"€ 28,981","€ 1,507,000","€ 1,502,137",M,31,Spain,Athletic Club,La Liga,2018-2019
+12,12,Mikel Balenziaga,"€ 25,038","€ 1,302,000","€ 1,297,799",D,30,Spain,Athletic Club,La Liga,2018-2019
+13,13,Ibai Gómez,"€ 23,962","€ 1,246,000","€ 1,241,980",F,28,Spain,Athletic Club,La Liga,2018-2019
+14,14,Unai Simón,"€ 23,442","€ 1,219,000","€ 1,215,067",K,21,Spain,Athletic Club,La Liga,2018-2019
+15,15,Sabin Merino,"€ 23,250","€ 1,209,000","€ 1,205,099",F,26,Spain,Athletic Club,La Liga,2018-2019
+16,16,Unai Núñez,"€ 22,673","€ 1,179,000","€ 1,175,196",D,21,Spain,Athletic Club,La Liga,2018-2019
+17,17,Ander Capa,"€ 22,615","€ 1,176,000","€ 1,172,205",D,26,Spain,Athletic Club,La Liga,2018-2019
+18,18,Xabier Etxeita,"€ 22,519","€ 1,171,000","€ 1,167,222",D,30,Spain,Athletic Club,La Liga,2018-2019
+19,19,Iñigo Córdoba,"€ 21,500","€ 1,118,000","€ 1,114,393",F,21,Spain,Athletic Club,La Liga,2018-2019
+20,20,Iñigo Lekue,"€ 20,308","€ 1,056,000","€ 1,052,593",D,25,Spain,Athletic Club,La Liga,2018-2019
+21,21,Mikel San José,"€ 19,173","€ 997,000","€ 993,783",M,29,Spain,Athletic Club,La Liga,2018-2019
+22,22,Kenan Kodro,"€ 19,135","€ 995,000","€ 991,789",F,24,Bosnia-Herzegovina,Athletic Club,La Liga,2018-2019
+23,23,Mikel Vesga,"€ 19,019","€ 989,000","€ 985,809",M,25,Spain,Athletic Club,La Liga,2018-2019
+24,24,Alex Remiro,"€ 18,962","€ 986,000","€ 982,818",K,23,Spain,Athletic Club,La Liga,2018-2019
+25,25,Cristian Ganea,"€ 18,731","€ 974,000","€ 970,857",D,26,Romania,Athletic Club,La Liga,2018-2019
+26,26,Unai López,"€ 16,827","€ 875,000","€ 872,177",M,22,Spain,Athletic Club,La Liga,2018-2019
+27,27,Iago Herrerín,"€ 14,673","€ 763,000","€ 760,538",K,30,Spain,Athletic Club,La Liga,2018-2019
+28,28,Mikel Rico,"€ 14,077","€ 732,000","€ 729,638",M,33,Spain,Athletic Club,La Liga,2018-2019
+29,29,Gorka Guruzeta,"€ 3,769","€ 196,000","€ 195,368",F,21,Spain,Athletic Club,La Liga,2018-2019
+30,30,Peru Nolaskoain,"€ 3,135","€ 163,000","€ 162,474",D,19,Spain,Athletic Club,La Liga,2018-2019
+31,31,Iñigo Vicente,€ 0,€ 0,€ 0,F,20,Spain,Athletic Club,La Liga,2018-2019
+32,32,Hodei Oleaga,€ 0,€ 0,€ 0,K,21,Spain,Athletic Club,La Liga,2018-2019
+33,33,Dani Vivian,€ 0,€ 0,€ 0,D,18,Spain,Athletic Club,La Liga,2018-2019
+0,0,Antoine Griezmann,"€ 881,596","€ 45,843,000","€ 45,695,078",F,27,France,Atletico Madrid,La Liga,2018-2019
+1,1,Jan Oblak,"€ 400,654","€ 20,834,000","€ 20,766,775",K,25,Slovenia,Atletico Madrid,La Liga,2018-2019
+2,2,Diego Costa,"€ 307,500","€ 15,990,000","€ 15,938,405",F,29,Spain,Atletico Madrid,La Liga,2018-2019
+3,3,Koke,"€ 306,635","€ 15,945,000","€ 15,893,550",M,26,Spain,Atletico Madrid,La Liga,2018-2019
+4,4,Saúl Ñíguez,"€ 230,577","€ 11,990,000","€ 11,951,312",M,23,Spain,Atletico Madrid,La Liga,2018-2019
+5,5,Vitolo,"€ 206,981","€ 10,763,000","€ 10,728,271",F,28,Spain,Atletico Madrid,La Liga,2018-2019
+6,6,Álvaro Morata,"€ 189,365","€ 9,847,000","€ 9,815,227",F,25,Spain,Atletico Madrid,La Liga,2018-2019
+7,7,Diego Godín,"€ 188,288","€ 9,791,000","€ 9,759,407",D,32,Uruguay,Atletico Madrid,La Liga,2018-2019
+8,8,Filipe Luís,"€ 149,481","€ 7,773,000","€ 7,747,919",D,32,Brazil,Atletico Madrid,La Liga,2018-2019
+9,9,Rodri,"€ 131,096","€ 6,817,000","€ 6,795,004",M,22,Spain,Atletico Madrid,La Liga,2018-2019
+10,10,Gelson Martins,"€ 124,577","€ 6,478,000","€ 6,457,097",F,23,Portugal,Atletico Madrid,La Liga,2018-2019
+11,11,Nikola Kalinic,"€ 124,519","€ 6,475,000","€ 6,454,107",F,30,Croatia,Atletico Madrid,La Liga,2018-2019
+12,12,Juanfran,"€ 124,519","€ 6,475,000","€ 6,454,107",D,33,Spain,Atletico Madrid,La Liga,2018-2019
+13,13,Thomas Lemar,"€ 124,519","€ 6,475,000","€ 6,454,107",F,22,France,Atletico Madrid,La Liga,2018-2019
+14,14,Stefan Savic,"€ 86,308","€ 4,488,000","€ 4,473,519",D,27,Montenegro,Atletico Madrid,La Liga,2018-2019
+15,15,Ángel Correa,"€ 67,077","€ 3,488,000","€ 3,476,745",F,23,Argentina,Atletico Madrid,La Liga,2018-2019
+16,16,José Giménez,"€ 59,327","€ 3,085,000","€ 3,075,046",D,23,Uruguay,Atletico Madrid,La Liga,2018-2019
+17,17,Lucas Hernández,"€ 54,500","€ 2,834,000","€ 2,824,856",D,22,France,Atletico Madrid,La Liga,2018-2019
+18,18,Thomas,"€ 47,654","€ 2,478,000","€ 2,470,004",M,25,Ghana,Atletico Madrid,La Liga,2018-2019
+19,19,Santiago Arias,"€ 41,558","€ 2,161,000","€ 2,154,027",D,26,Colombia,Atletico Madrid,La Liga,2018-2019
+20,20,Antonio Adán,"€ 38,250","€ 1,989,000","€ 1,982,582",K,31,Spain,Atletico Madrid,La Liga,2018-2019
+21,21,Axel Werner,"€ 10,462","€ 544,000","€ 542,245",K,22,Argentina,Atletico Madrid,La Liga,2018-2019
+22,22,Borja Garcés,€ 519,"€ 27,000","€ 26,913",F,18,Spain,Atletico Madrid,La Liga,2018-2019
+23,23,Francisco Montero,€ 500,"€ 26,000","€ 25,916",D,19,Spain,Atletico Madrid,La Liga,2018-2019
+24,24,Manu Sánchez,€ 0,€ 0,€ 0,D,17,Spain,Atletico Madrid,La Liga,2018-2019
+25,25,Mikel Carro,€ 0,€ 0,€ 0,M,19,Spain,Atletico Madrid,La Liga,2018-2019
+26,26,Nehuén Pérez,€ 0,€ 0,€ 0,D,18,Argentina,Atletico Madrid,La Liga,2018-2019
+27,27,Carlos Isaac,€ 0,€ 0,€ 0,D,20,Spain,Atletico Madrid,La Liga,2018-2019
+28,28,Roberto Olabe,€ 0,€ 0,€ 0,M,22,Spain,Atletico Madrid,La Liga,2018-2019
+29,29,Álex Dos Santos,€ 0,€ 0,€ 0,K,19,Spain,Atletico Madrid,La Liga,2018-2019
+30,30,Bernard Mensah,€ 0,€ 0,€ 0,M,23,Ghana,Atletico Madrid,La Liga,2018-2019
+31,31,Sergio Camello,€ 0,€ 0,€ 0,F,17,Spain,Atletico Madrid,La Liga,2018-2019
+32,32,Sime Vrsaljko,€ 0,€ 0,€ 0,D,26,Croatia,Atletico Madrid,La Liga,2018-2019
+33,33,Tachi,€ 0,€ 0,€ 0,D,20,Spain,Atletico Madrid,La Liga,2018-2019
+34,34,Andrés Solano,€ 0,€ 0,€ 0,D,20,Colombia,Atletico Madrid,La Liga,2018-2019
+35,35,Toni Moya,€ 0,€ 0,€ 0,M,20,Spain,Atletico Madrid,La Liga,2018-2019
+36,36,Víctor Mollejo,€ 0,€ 0,€ 0,F,17,Spain,Atletico Madrid,La Liga,2018-2019
+37,37,Joaquín Muñoz,€ 0,€ 0,€ 0,F,19,Spain,Atletico Madrid,La Liga,2018-2019
+38,38,André Moreira,€ 0,€ 0,€ 0,K,22,Portugal,Atletico Madrid,La Liga,2018-2019
+39,39,Gustavo Assunção,€ 0,€ 0,€ 0,M,18,Brazil,Atletico Madrid,La Liga,2018-2019
+40,40,Cristian Rodríguez,€ 0,€ 0,€ 0,M,22,Spain,Atletico Madrid,La Liga,2018-2019
+41,41,Luciano Vietto,€ 0,€ 0,€ 0,F,24,Argentina,Atletico Madrid,La Liga,2018-2019
+0,0,Lionel Messi,"€ 1,360,731","€ 70,758,000","€ 70,529,684",F,31,Argentina,Barcelona,La Liga,2018-2019
+1,1,Luis Suárez,"€ 450,000","€ 23,400,000","€ 23,324,495",F,31,Uruguay,Barcelona,La Liga,2018-2019
+2,2,Philippe Coutinho,"€ 450,000","€ 23,400,000","€ 23,324,495",F,26,Brazil,Barcelona,La Liga,2018-2019
+3,3,Sergio Busquets,"€ 287,481","€ 14,949,000","€ 14,900,764",M,29,Spain,Barcelona,La Liga,2018-2019
+4,4,Ivan Rakitic,"€ 256,808","€ 13,354,000","€ 13,310,911",M,30,Croatia,Barcelona,La Liga,2018-2019
+5,5,Gerard Piqué,"€ 245,000","€ 12,740,000","€ 12,698,892",D,31,Spain,Barcelona,La Liga,2018-2019
+6,6,Samuel Umtiti,"€ 230,769","€ 12,000,000","€ 11,961,279",D,24,France,Barcelona,La Liga,2018-2019
+7,7,Ousmane Dembélé,"€ 230,769","€ 12,000,000","€ 11,961,279",F,21,France,Barcelona,La Liga,2018-2019
+8,8,Sergi Roberto,"€ 191,654","€ 9,966,000","€ 9,933,843",D,26,Spain,Barcelona,La Liga,2018-2019
+9,9,Arturo Vidal,"€ 173,077","€ 9,000,000","€ 8,970,960",M,31,Chile,Barcelona,La Liga,2018-2019
+10,10,Jordi Alba,"€ 165,000","€ 8,580,000","€ 8,552,315",D,29,Spain,Barcelona,La Liga,2018-2019
+11,11,Marc-André ter Stegen,"€ 165,000","€ 8,580,000","€ 8,552,315",K,26,Germany,Barcelona,La Liga,2018-2019
+12,12,Thomas Vermaelen,"€ 145,000","€ 7,540,000","€ 7,515,671",D,32,Belgium,Barcelona,La Liga,2018-2019
+13,13,Denis Suárez,"€ 96,154","€ 5,000,000","€ 4,983,866",M,24,Spain,Barcelona,La Liga,2018-2019
+14,14,Munir El Haddadi,"€ 95,827","€ 4,983,000","€ 4,966,921",F,22,Spain,Barcelona,La Liga,2018-2019
+15,15,Arthur,"€ 93,904","€ 4,883,000","€ 4,867,244",M,21,Brazil,Barcelona,La Liga,2018-2019
+16,16,Jasper Cillessen,"€ 86,000","€ 4,472,000","€ 4,457,570",K,29,Netherlands,Barcelona,La Liga,2018-2019
+17,17,Rafinha,"€ 85,654","€ 4,454,000","€ 4,439,628",M,25,Brazil,Barcelona,La Liga,2018-2019
+18,18,Malcom,"€ 84,365","€ 4,387,000","€ 4,372,844",F,21,Brazil,Barcelona,La Liga,2018-2019
+19,19,Nélson Semedo,"€ 65,942","€ 3,429,000","€ 3,417,936",D,24,Portugal,Barcelona,La Liga,2018-2019
+20,20,Clément Lenglet,"€ 51,904","€ 2,699,000","€ 2,690,291",D,23,France,Barcelona,La Liga,2018-2019
+21,21,Jeison Murillo,"€ 47,346","€ 2,462,000","€ 2,454,056",D,26,Colombia,Barcelona,La Liga,2018-2019
+22,22,Kevin-Prince Boateng,"€ 35,577","€ 1,850,000","€ 1,844,031",F,31,Ghana,Barcelona,La Liga,2018-2019
+23,23,Sergi Samper,"€ 23,154","€ 1,204,000","€ 1,200,115",M,23,Spain,Barcelona,La Liga,2018-2019
+24,24,Carles Aleñà,"€ 16,712","€ 869,000","€ 866,196",M,20,Spain,Barcelona,La Liga,2018-2019
+25,25,Jean-Clair Todibo,"€ 11,481","€ 597,000","€ 595,074",D,18,France,Barcelona,La Liga,2018-2019
+26,26,Marc Cucurella,"€ 3,981","€ 207,000","€ 206,332",D,19,Spain,Barcelona,La Liga,2018-2019
+27,27,Marc Cardona,"€ 3,308","€ 172,000","€ 171,445",F,22,Spain,Barcelona,La Liga,2018-2019
+28,28,Moussa Wagué,€ 0,€ 0,€ 0,D,19,Senegal,Barcelona,La Liga,2018-2019
+29,29,Jokin Ezkieta,€ 0,€ 0,€ 0,K,21,Spain,Barcelona,La Liga,2018-2019
+30,30,Abel Ruiz,€ 0,€ 0,€ 0,F,18,Spain,Barcelona,La Liga,2018-2019
+31,31,Oriol Busquets,€ 0,€ 0,€ 0,M,19,Spain,Barcelona,La Liga,2018-2019
+32,32,Iñaki Peña,€ 0,€ 0,€ 0,K,19,Spain,Barcelona,La Liga,2018-2019
+33,33,Paco Alcácer,€ 0,€ 0,€ 0,F,24,Spain,Barcelona,La Liga,2018-2019
+34,34,Guillem Jaime,€ 0,€ 0,€ 0,D,19,Spain,Barcelona,La Liga,2018-2019
+35,35,Douglas,€ 0,€ 0,€ 0,D,27,Brazil,Barcelona,La Liga,2018-2019
+36,36,Riqui Puig,€ 0,€ 0,€ 0,M,18,Spain,Barcelona,La Liga,2018-2019
+37,37,Chumi,€ 0,€ 0,€ 0,D,19,Spain,Barcelona,La Liga,2018-2019
+38,38,Carles Pérez,€ 0,€ 0,€ 0,F,20,Spain,Barcelona,La Liga,2018-2019
+39,39,André Gomes,€ 0,€ 0,€ 0,M,24,Portugal,Barcelona,La Liga,2018-2019
+40,40,Álex Collado,€ 0,€ 0,€ 0,M,19,Spain,Barcelona,La Liga,2018-2019
+41,41,Juan Miranda,€ 0,€ 0,€ 0,D,18,Spain,Barcelona,La Liga,2018-2019
+42,42,Adrián Ortolá,€ 0,€ 0,€ 0,K,24,Spain,Barcelona,La Liga,2018-2019
+43,43,Jorge Cuenca,€ 0,€ 0,€ 0,D,18,Spain,Barcelona,La Liga,2018-2019
+0,0,Juanfran,"€ 124,519","€ 6,475,000","€ 6,454,107",D,29,Spain,Celta Vigo,La Liga,2018-2019
+1,1,Iago Aspas,"€ 74,423","€ 3,870,000","€ 3,857,513",F,30,Spain,Celta Vigo,La Liga,2018-2019
+2,2,Sofiane Boufal,"€ 72,404","€ 3,765,000","€ 3,752,851",F,24,Morocco,Celta Vigo,La Liga,2018-2019
+3,3,Guido Carrillo,"€ 66,827","€ 3,475,000","€ 3,463,787",F,27,Argentina,Celta Vigo,La Liga,2018-2019
+4,4,Wesley Hoedt,"€ 50,135","€ 2,607,000","€ 2,598,588",D,24,Netherlands,Celta Vigo,La Liga,2018-2019
+5,5,Hugo Mallo,"€ 39,712","€ 2,065,000","€ 2,058,337",D,27,Spain,Celta Vigo,La Liga,2018-2019
+6,6,Stanislav Lobotka,"€ 39,692","€ 2,064,000","€ 2,057,340",M,23,Slovakia,Celta Vigo,La Liga,2018-2019
+7,7,Okay Yokuslu,"€ 34,731","€ 1,806,000","€ 1,800,173",M,24,Turkey,Celta Vigo,La Liga,2018-2019
+8,8,Diego Reyes,"€ 33,942","€ 1,765,000","€ 1,759,305",D,25,Mexico,Celta Vigo,La Liga,2018-2019
+9,9,Martin Braithwaite,"€ 33,423","€ 1,738,000","€ 1,732,392",F,27,Denmark,Celta Vigo,La Liga,2018-2019
+10,10,Pione Sisto,"€ 29,750","€ 1,547,000","€ 1,542,008",F,23,Denmark,Celta Vigo,La Liga,2018-2019
+11,11,Néstor Araujo,"€ 29,154","€ 1,516,000","€ 1,511,108",D,26,Mexico,Celta Vigo,La Liga,2018-2019
+12,12,Nemanja Radoja,"€ 28,404","€ 1,477,000","€ 1,472,234",M,25,Serbia,Celta Vigo,La Liga,2018-2019
+13,13,Mathias Jensen,"€ 28,096","€ 1,461,000","€ 1,456,286",M,22,Denmark,Celta Vigo,La Liga,2018-2019
+14,14,Gustavo Cabral,"€ 27,673","€ 1,439,000","€ 1,434,357",D,32,Argentina,Celta Vigo,La Liga,2018-2019
+15,15,Dimitrios Siovas,"€ 26,904","€ 1,399,000","€ 1,394,486",D,29,Greece,Celta Vigo,La Liga,2018-2019
+16,16,Rubén Blanco,"€ 24,115","€ 1,254,000","€ 1,249,954",K,22,Spain,Celta Vigo,La Liga,2018-2019
+17,17,Emre Mor,"€ 23,654","€ 1,230,000","€ 1,226,031",F,20,Turkey,Celta Vigo,La Liga,2018-2019
+18,18,Recio,"€ 23,385","€ 1,216,000","€ 1,212,076",M,27,Spain,Celta Vigo,La Liga,2018-2019
+19,19,Sabin Merino,"€ 23,250","€ 1,209,000","€ 1,205,099",F,26,Spain,Celta Vigo,La Liga,2018-2019
+20,20,Facundo Roncaglia,"€ 22,577","€ 1,174,000","€ 1,170,212",D,31,Argentina,Celta Vigo,La Liga,2018-2019
+21,21,Ryad Boudebouz,"€ 22,288","€ 1,159,000","€ 1,155,260",M,28,Algeria,Celta Vigo,La Liga,2018-2019
+22,22,Kenneth Omeruo,"€ 22,269","€ 1,158,000","€ 1,154,263",D,24,Nigeria,Celta Vigo,La Liga,2018-2019
+23,23,Michael Santos,"€ 22,000","€ 1,144,000","€ 1,140,309",F,25,Uruguay,Celta Vigo,La Liga,2018-2019
+24,24,Ezequiel Muñoz,"€ 21,365","€ 1,111,000","€ 1,107,415",D,27,Argentina,Celta Vigo,La Liga,2018-2019
+25,25,Rubén Pérez,"€ 21,096","€ 1,097,000","€ 1,093,460",M,29,Spain,Celta Vigo,La Liga,2018-2019
+26,26,Javi Eraso,"€ 20,827","€ 1,083,000","€ 1,079,505",M,28,Spain,Celta Vigo,La Liga,2018-2019
+27,27,Sergio Álvarez,"€ 20,788","€ 1,081,000","€ 1,077,512",K,31,Spain,Celta Vigo,La Liga,2018-2019
+28,28,Juan Hernández,"€ 19,615","€ 1,020,000","€ 1,016,709",F,23,Spain,Celta Vigo,La Liga,2018-2019
+29,29,Alexander Szymanowski,"€ 19,365","€ 1,007,000","€ 1,003,751",F,29,Argentina,Celta Vigo,La Liga,2018-2019
+30,30,Mikel Vesga,"€ 19,019","€ 989,000","€ 985,809",M,25,Spain,Celta Vigo,La Liga,2018-2019
+31,31,José Manuel Arnáiz,"€ 18,596","€ 967,000","€ 963,880",F,23,Spain,Celta Vigo,La Liga,2018-2019
+32,32,Jozabed Sánchez,"€ 17,846","€ 928,000","€ 925,006",M,27,Spain,Celta Vigo,La Liga,2018-2019
+33,33,Youssef En-Nesyri,"€ 16,442","€ 855,000","€ 852,241",F,21,Morocco,Celta Vigo,La Liga,2018-2019
+34,34,Iván Cuéllar,"€ 16,173","€ 841,000","€ 838,286",K,34,Spain,Celta Vigo,La Liga,2018-2019
+35,35,David Juncà,"€ 16,019","€ 833,000","€ 830,312",D,24,Spain,Celta Vigo,La Liga,2018-2019
+36,36,Andrii Lunin,"€ 14,731","€ 766,000","€ 763,528",K,19,Ukraine,Celta Vigo,La Liga,2018-2019
+37,37,Nabil El Zhar,"€ 14,365","€ 747,000","€ 744,590",F,31,Morocco,Celta Vigo,La Liga,2018-2019
+38,38,Allan Nyom,"€ 13,923","€ 724,000","€ 721,664",D,30,Cameroon,Celta Vigo,La Liga,2018-2019
+39,39,Júnior Alonso,"€ 13,577","€ 706,000","€ 703,722",D,25,Paraguay,Celta Vigo,La Liga,2018-2019
+40,40,Kevin Vázquez,"€ 13,577","€ 706,000","€ 703,722",D,25,Spain,Celta Vigo,La Liga,2018-2019
+41,41,Fran Beltrán,"€ 13,308","€ 692,000","€ 689,767",M,19,Spain,Celta Vigo,La Liga,2018-2019
+42,42,Brais Méndez,"€ 13,231","€ 688,000","€ 685,780",F,21,Spain,Celta Vigo,La Liga,2018-2019
+43,43,Gerard Gumbau,"€ 13,096","€ 681,000","€ 678,803",M,23,Spain,Celta Vigo,La Liga,2018-2019
+44,44,Unai Bustinza,"€ 12,904","€ 671,000","€ 668,835",D,26,Spain,Celta Vigo,La Liga,2018-2019
+45,45,David Costas,"€ 12,865","€ 669,000","€ 666,841",D,23,Spain,Celta Vigo,La Liga,2018-2019
+46,46,Robert Mazan,"€ 12,058","€ 627,000","€ 624,977",D,24,Slovakia,Celta Vigo,La Liga,2018-2019
+47,47,Jonathan Silva,"€ 12,000","€ 624,000","€ 621,987",D,24,Argentina,Celta Vigo,La Liga,2018-2019
+48,48,Andrew Hjulsager,"€ 11,981","€ 623,000","€ 620,990",F,23,Denmark,Celta Vigo,La Liga,2018-2019
+49,49,Jon Ander Serantes,"€ 8,173","€ 425,000","€ 423,629",K,28,Spain,Celta Vigo,La Liga,2018-2019
+50,50,Rodrigo Tarín,"€ 6,827","€ 355,000","€ 353,855",D,21,Spain,Celta Vigo,La Liga,2018-2019
+51,51,Vasyl Kravets,"€ 6,154","€ 320,000","€ 318,967",D,20,Ukraine,Celta Vigo,La Liga,2018-2019
+52,52,Andrés Prieto,"€ 5,885","€ 306,000","€ 305,013",K,24,Spain,Celta Vigo,La Liga,2018-2019
+53,53,Lucas Olaza,"€ 5,712","€ 297,000","€ 296,042",D,23,Uruguay,Celta Vigo,La Liga,2018-2019
+54,54,Iván Villar,"€ 5,269","€ 274,000","€ 273,116",K,20,Spain,Celta Vigo,La Liga,2018-2019
+55,55,Dennis Eckert,"€ 2,962","€ 154,000","€ 153,503",F,21,Germany,Celta Vigo,La Liga,2018-2019
+56,56,Óscar Rodríguez,"€ 1,442","€ 75,000","€ 74,758",M,20,Spain,Celta Vigo,La Liga,2018-2019
+57,57,Mamadou Koné,€ 0,€ 0,€ 0,F,26,Cote d'Ivoire,Celta Vigo,La Liga,2018-2019
+58,58,Dani Ojeda,€ 0,€ 0,€ 0,F,23,Spain,Celta Vigo,La Liga,2018-2019
+59,59,Claudio Beauvue,€ 0,€ 0,€ 0,F,30,Guadeloupe,Celta Vigo,La Liga,2018-2019
+60,60,Javier Avilés,€ 0,€ 0,€ 0,F,20,Spain,Celta Vigo,La Liga,2018-2019
+61,61,Fede Vico,€ 0,€ 0,€ 0,M,23,Spain,Celta Vigo,La Liga,2018-2019
+62,62,Josua Mejías,€ 0,€ 0,€ 0,D,20,Venezuela,Celta Vigo,La Liga,2018-2019
+63,63,Maxi Gómez,€ 0,€ 0,€ 0,F,21,Uruguay,Celta Vigo,La Liga,2018-2019
+64,64,Facundo García,€ 0,€ 0,€ 0,M,18,Argentina,Celta Vigo,La Liga,2018-2019
+65,65,Emmanuel Apeh,€ 0,€ 0,€ 0,F,21,Nigeria,Celta Vigo,La Liga,2018-2019
+66,66,Diego Rolán,€ 0,€ 0,€ 0,F,25,Uruguay,Celta Vigo,La Liga,2018-2019
+67,67,Owusu,€ 0,€ 0,€ 0,F,21,Ghana,Celta Vigo,La Liga,2018-2019
+68,68,Raúl Garcia,€ 0,€ 0,€ 0,D,29,Spain,Celta Vigo,La Liga,2018-2019
+69,69,David Tejero,€ 0,€ 0,€ 0,K,22,Spain,Celta Vigo,La Liga,2018-2019
+70,70,Gabriel Fernández,€ 0,€ 0,€ 0,F,24,Uruguay,Celta Vigo,La Liga,2018-2019
+0,0,Sergi Enrich,"€ 26,923","€ 1,400,000","€ 1,395,483",F,28,Spain,Eibar,La Liga,2018-2019
+1,1,Pedro León,"€ 23,558","€ 1,225,000","€ 1,221,047",F,31,Spain,Eibar,La Liga,2018-2019
+2,2,Fabián Orellana,"€ 23,519","€ 1,223,000","€ 1,219,054",F,32,Chile,Eibar,La Liga,2018-2019
+3,3,Paulo Oliveira,"€ 22,827","€ 1,187,000","€ 1,183,170",D,26,Portugal,Eibar,La Liga,2018-2019
+4,4,Gonzalo Escalante,"€ 22,558","€ 1,173,000","€ 1,169,215",M,25,Argentina,Eibar,La Liga,2018-2019
+5,5,Sergio Álvarez,"€ 20,788","€ 1,081,000","€ 1,077,512",M,26,Spain,Eibar,La Liga,2018-2019
+6,6,Kike,"€ 19,154","€ 996,000","€ 992,786",F,28,Spain,Eibar,La Liga,2018-2019
+7,7,Pape Diop,"€ 18,692","€ 972,000","€ 968,864",M,32,Senegal,Eibar,La Liga,2018-2019
+8,8,Iván Ramis,"€ 18,500","€ 962,000","€ 958,896",D,33,Spain,Eibar,La Liga,2018-2019
+9,9,Yoel Rodríguez,"€ 17,250","€ 897,000","€ 894,106",K,29,Spain,Eibar,La Liga,2018-2019
+10,10,José Ángel,"€ 16,635","€ 865,000","€ 862,209",D,28,Spain,Eibar,La Liga,2018-2019
+11,11,Bebé,"€ 16,481","€ 857,000","€ 854,235",F,27,Portugal,Eibar,La Liga,2018-2019
+12,12,Rubén Peña,"€ 15,692","€ 816,000","€ 813,367",D,26,Spain,Eibar,La Liga,2018-2019
+13,13,Joan Jordán,"€ 15,519","€ 807,000","€ 804,396",M,23,Spain,Eibar,La Liga,2018-2019
+14,14,Charles,"€ 15,019","€ 781,000","€ 778,480",F,34,Brazil,Eibar,La Liga,2018-2019
+15,15,Pablo Hervías,"€ 14,981","€ 779,000","€ 776,486",F,25,Spain,Eibar,La Liga,2018-2019
+16,16,Pablo de Blasis,"€ 14,115","€ 734,000","€ 731,632",F,30,Argentina,Eibar,La Liga,2018-2019
+17,17,Marko Dmitrovic,"€ 13,846","€ 720,000","€ 717,677",K,26,Serbia,Eibar,La Liga,2018-2019
+18,18,Jordi Calavera,"€ 12,673","€ 659,000","€ 656,874",D,22,Spain,Eibar,La Liga,2018-2019
+19,19,Pere Milla,"€ 12,231","€ 636,000","€ 633,948",F,25,Spain,Eibar,La Liga,2018-2019
+20,20,Asier Riesgo,"€ 8,846","€ 460,000","€ 458,516",K,34,Spain,Eibar,La Liga,2018-2019
+21,21,Pedro Bigas,"€ 6,250","€ 325,000","€ 323,951",D,28,Spain,Eibar,La Liga,2018-2019
+22,22,Marc Cucurella,"€ 3,981","€ 207,000","€ 206,332",D,19,Spain,Eibar,La Liga,2018-2019
+23,23,Marc Cardona,"€ 3,308","€ 172,000","€ 171,445",F,22,Spain,Eibar,La Liga,2018-2019
+24,24,Anaitz Arbilla,"€ 2,865","€ 149,000","€ 148,519",D,31,Spain,Eibar,La Liga,2018-2019
+25,25,Markel Areitio,€ 0,€ 0,€ 0,K,21,Spain,Eibar,La Liga,2018-2019
+26,26,José Antonio Martínez,€ 0,€ 0,€ 0,D,25,Spain,Eibar,La Liga,2018-2019
+27,27,Kaiser,€ 0,€ 0,€ 0,D,22,Spain,Eibar,La Liga,2018-2019
+28,28,Alberto Mari,€ 0,€ 0,€ 0,M,16,Spain,Eibar,La Liga,2018-2019
+29,29,Miguel Marí,€ 0,€ 0,€ 0,M,21,Spain,Eibar,La Liga,2018-2019
+30,30,Nano,€ 0,€ 0,€ 0,F,23,Spain,Eibar,La Liga,2018-2019
+31,31,Unai Elgezabal,€ 0,€ 0,€ 0,D,25,Spain,Eibar,La Liga,2018-2019
+0,0,Diego López,"€ 84,058","€ 4,371,000","€ 4,356,896",K,36,Spain,Espanyol,La Liga,2018-2019
+1,1,David López,"€ 67,077","€ 3,488,000","€ 3,476,745",D,28,Spain,Espanyol,La Liga,2018-2019
+2,2,Pablo Piatti,"€ 63,250","€ 3,289,000","€ 3,278,387",F,29,Argentina,Espanyol,La Liga,2018-2019
+3,3,Borja Iglesias,"€ 41,000","€ 2,132,000","€ 2,125,121",F,25,Spain,Espanyol,La Liga,2018-2019
+4,4,Leo Baptistão,"€ 40,135","€ 2,087,000","€ 2,080,266",F,25,Brazil,Espanyol,La Liga,2018-2019
+5,5,Sergi Darder,"€ 36,423","€ 1,894,000","€ 1,887,889",M,24,Spain,Espanyol,La Liga,2018-2019
+6,6,Roberto Rosales,"€ 26,000","€ 1,352,000","€ 1,347,637",D,29,Venezuela,Espanyol,La Liga,2018-2019
+7,7,Víctor Sánchez,"€ 25,904","€ 1,347,000","€ 1,342,654",M,30,Spain,Espanyol,La Liga,2018-2019
+8,8,Hernán Pérez,"€ 23,750","€ 1,235,000","€ 1,231,015",F,29,Paraguay,Espanyol,La Liga,2018-2019
+9,9,Roberto,"€ 23,000","€ 1,196,000","€ 1,192,141",K,32,Spain,Espanyol,La Liga,2018-2019
+10,10,Mario Hermoso,"€ 21,500","€ 1,118,000","€ 1,114,393",D,23,Spain,Espanyol,La Liga,2018-2019
+11,11,Facundo Ferreyra,"€ 19,019","€ 989,000","€ 985,809",F,27,Argentina,Espanyol,La Liga,2018-2019
+12,12,Naldo,"€ 15,962","€ 830,000","€ 827,322",D,29,Brazil,Espanyol,La Liga,2018-2019
+13,13,Dídac Vilà,"€ 15,885","€ 826,000","€ 823,335",D,29,Spain,Espanyol,La Liga,2018-2019
+14,14,Lei Wu,"€ 15,846","€ 824,000","€ 821,341",F,26,China,Espanyol,La Liga,2018-2019
+15,15,Esteban Granero,"€ 14,115","€ 734,000","€ 731,632",M,30,Spain,Espanyol,La Liga,2018-2019
+16,16,Marc Roca,"€ 14,096","€ 733,000","€ 730,635",M,21,Spain,Espanyol,La Liga,2018-2019
+17,17,Óscar Duarte,"€ 12,500","€ 650,000","€ 647,903",D,29,Costa Rica,Espanyol,La Liga,2018-2019
+18,18,Sergio García,"€ 12,115","€ 630,000","€ 627,967",F,35,Spain,Espanyol,La Liga,2018-2019
+19,19,Oscar Melendo,"€ 11,019","€ 573,000","€ 571,151",M,20,Spain,Espanyol,La Liga,2018-2019
+20,20,Javi López,"€ 10,962","€ 570,000","€ 568,161",D,32,Spain,Espanyol,La Liga,2018-2019
+21,21,Álex López,"€ 5,885","€ 306,000","€ 305,013",M,21,Spain,Espanyol,La Liga,2018-2019
+22,22,Javi Puado,"€ 4,923","€ 256,000","€ 255,174",F,20,Spain,Espanyol,La Liga,2018-2019
+23,23,Alfa Semedo,"€ 4,519","€ 235,000","€ 234,242",M,20,Guinea-Bissau,Espanyol,La Liga,2018-2019
+24,24,Lluis López,"€ 2,231","€ 116,000","€ 115,626",D,21,Spain,Espanyol,La Liga,2018-2019
+25,25,Pipa,"€ 1,269","€ 66,000","€ 65,787",D,20,Spain,Espanyol,La Liga,2018-2019
+26,26,Aarón Martín,€ 0,€ 0,€ 0,D,21,Spain,Espanyol,La Liga,2018-2019
+27,27,Víctor Campuzano,€ 0,€ 0,€ 0,F,21,Spain,Espanyol,La Liga,2018-2019
+28,28,Iago Indias,€ 0,€ 0,€ 0,D,22,Spain,Espanyol,La Liga,2018-2019
+29,29,Adrià Pedrosa,€ 0,€ 0,€ 0,D,20,Spain,Espanyol,La Liga,2018-2019
+30,30,Carlos Doncel,€ 0,€ 0,€ 0,F,21,Spain,Espanyol,La Liga,2018-2019
+31,31,Álvaro Vázquez,€ 0,€ 0,€ 0,F,27,Spain,Espanyol,La Liga,2018-2019
+0,0,Sebastián Cristóforo,"€ 24,923","€ 1,296,000","€ 1,291,818",M,24,Uruguay,Getafe,La Liga,2018-2019
+1,1,Nemanja Maksimovic,"€ 23,077","€ 1,200,000","€ 1,196,128",M,23,Serbia,Getafe,La Liga,2018-2019
+2,2,Dimitri Foulquier,"€ 22,269","€ 1,158,000","€ 1,154,263",D,25,Guadeloupe,Getafe,La Liga,2018-2019
+3,3,Jaime Mata,"€ 22,192","€ 1,154,000","€ 1,150,276",F,29,Spain,Getafe,La Liga,2018-2019
+4,4,Gaku Shibasaki,"€ 20,865","€ 1,085,000","€ 1,081,499",M,26,Japan,Getafe,La Liga,2018-2019
+5,5,Ángel Rodríguez,"€ 17,538","€ 912,000","€ 909,057",F,31,Spain,Getafe,La Liga,2018-2019
+6,6,David Soria,"€ 17,519","€ 911,000","€ 908,060",K,25,Spain,Getafe,La Liga,2018-2019
+7,7,Vitorino Antunes,"€ 17,250","€ 897,000","€ 894,106",D,31,Portugal,Getafe,La Liga,2018-2019
+8,8,Samu Sáiz,"€ 16,712","€ 869,000","€ 866,196",M,27,Spain,Getafe,La Liga,2018-2019
+9,9,Mauro Arambarri,"€ 16,173","€ 841,000","€ 838,286",M,22,Uruguay,Getafe,La Liga,2018-2019
+10,10,Iván Alejo,"€ 15,404","€ 801,000","€ 798,415",F,23,Spain,Getafe,La Liga,2018-2019
+11,11,Djené,"€ 14,788","€ 769,000","€ 766,519",D,26,Togo,Getafe,La Liga,2018-2019
+12,12,Ignasi Miquel,"€ 14,346","€ 746,000","€ 743,593",D,25,Spain,Getafe,La Liga,2018-2019
+13,13,Amath Ndiaye,"€ 14,038","€ 730,000","€ 727,645",F,21,Senegal,Getafe,La Liga,2018-2019
+14,14,Robert Ibáñez,"€ 13,885","€ 722,000","€ 719,670",F,25,Spain,Getafe,La Liga,2018-2019
+15,15,Bruno González,"€ 13,692","€ 712,000","€ 709,703",D,28,Spain,Getafe,La Liga,2018-2019
+16,16,Damián Suárez,"€ 12,404","€ 645,000","€ 642,919",D,30,Uruguay,Getafe,La Liga,2018-2019
+17,17,Francisco Portillo,"€ 12,000","€ 624,000","€ 621,987",M,28,Spain,Getafe,La Liga,2018-2019
+18,18,Sergi Guardiola,"€ 11,692","€ 608,000","€ 606,038",F,27,Spain,Getafe,La Liga,2018-2019
+19,19,Jorge Molina,"€ 11,519","€ 599,000","€ 597,067",F,36,Spain,Getafe,La Liga,2018-2019
+20,20,Mathieu Flamini,"€ 9,692","€ 504,000","€ 502,374",M,34,France,Getafe,La Liga,2018-2019
+21,21,Leandro Chichizola,"€ 8,596","€ 447,000","€ 445,558",K,28,Argentina,Getafe,La Liga,2018-2019
+22,22,Markel Bergara,"€ 7,673","€ 399,000","€ 397,713",M,32,Spain,Getafe,La Liga,2018-2019
+23,23,Leandro Cabrera,"€ 7,115","€ 370,000","€ 368,806",D,27,Uruguay,Getafe,La Liga,2018-2019
+24,24,Rubén Yáñez,"€ 3,385","€ 176,000","€ 175,432",K,24,Spain,Getafe,La Liga,2018-2019
+25,25,Miguel Rubio,€ 0,€ 0,€ 0,D,20,Spain,Getafe,La Liga,2018-2019
+26,26,Mathí­as Olivera,€ 0,€ 0,€ 0,D,20,Uruguay,Getafe,La Liga,2018-2019
+27,27,José Carlos Lazo,€ 0,€ 0,€ 0,F,22,Spain,Getafe,La Liga,2018-2019
+28,28,Álvaro Jiménez,€ 0,€ 0,€ 0,F,23,Spain,Getafe,La Liga,2018-2019
+29,29,Hugo Duro,€ 0,€ 0,€ 0,F,18,Spain,Getafe,La Liga,2018-2019
+30,30,Filip Manojlovic,€ 0,€ 0,€ 0,K,22,Serbia,Getafe,La Liga,2018-2019
+31,31,Merveil Ndockyt,€ 0,€ 0,€ 0,F,19,Congo,Getafe,La Liga,2018-2019
+32,32,Chuli,€ 0,€ 0,€ 0,F,27,Spain,Getafe,La Liga,2018-2019
+0,0,Douglas Luiz,"€ 44,558","€ 2,317,000","€ 2,309,524",M,20,Brazil,Girona,La Liga,2018-2019
+1,1,Cristhian Stuani,"€ 35,654","€ 1,854,000","€ 1,848,018",F,31,Uruguay,Girona,La Liga,2018-2019
+2,2,Portu,"€ 27,846","€ 1,448,000","€ 1,443,328",M,26,Spain,Girona,La Liga,2018-2019
+3,3,Marc Muniesa,"€ 21,250","€ 1,105,000","€ 1,101,434",D,26,Spain,Girona,La Liga,2018-2019
+4,4,Carles Planas,"€ 20,192","€ 1,050,000","€ 1,046,612",D,27,Spain,Girona,La Liga,2018-2019
+5,5,Borja García,"€ 19,981","€ 1,039,000","€ 1,035,647",M,27,Spain,Girona,La Liga,2018-2019
+6,6,Pere Pons,"€ 18,346","€ 954,000","€ 950,922",M,25,Spain,Girona,La Liga,2018-2019
+7,7,Juanpe,"€ 17,000","€ 884,000","€ 881,148",D,27,Spain,Girona,La Liga,2018-2019
+8,8,Álex Granell,"€ 16,481","€ 857,000","€ 854,235",M,29,Spain,Girona,La Liga,2018-2019
+9,9,Bernardo Espinosa,"€ 15,769","€ 820,000","€ 817,354",D,28,Colombia,Girona,La Liga,2018-2019
+10,10,Johan Mojica,"€ 15,288","€ 795,000","€ 792,435",D,25,Colombia,Girona,La Liga,2018-2019
+11,11,Patrick Roberts,"€ 13,923","€ 724,000","€ 721,664",F,21,England,Girona,La Liga,2018-2019
+12,12,Pedro Alcalá,"€ 13,904","€ 723,000","€ 720,667",D,29,Spain,Girona,La Liga,2018-2019
+13,13,Seydou Doumbia,"€ 13,750","€ 715,000","€ 712,693",F,30,Cote d'Ivoire,Girona,La Liga,2018-2019
+14,14,Gorka Iraizoz,"€ 13,615","€ 708,000","€ 705,715",K,37,Spain,Girona,La Liga,2018-2019
+15,15,Aday,"€ 13,385","€ 696,000","€ 693,754",D,30,Spain,Girona,La Liga,2018-2019
+16,16,Jonás Ramalho,"€ 12,365","€ 643,000","€ 640,925",D,25,Angola,Girona,La Liga,2018-2019
+17,17,Bono,"€ 10,808","€ 562,000","€ 560,187",K,27,Morocco,Girona,La Liga,2018-2019
+18,18,Aleix García,"€ 5,577","€ 290,000","€ 289,064",M,21,Spain,Girona,La Liga,2018-2019
+19,19,José Aurelio Suárez,"€ 4,269","€ 222,000","€ 221,284",K,22,Spain,Girona,La Liga,2018-2019
+20,20,Pedro Porro,"€ 2,115","€ 110,000","€ 109,645",D,18,Spain,Girona,La Liga,2018-2019
+21,21,Valery Fernández,"€ 1,308","€ 68,000","€ 67,781",F,18,Spain,Girona,La Liga,2018-2019
+22,22,David Timor,€ 0,€ 0,€ 0,M,28,Spain,Girona,La Liga,2018-2019
+23,23,Antony Lozano,€ 0,€ 0,€ 0,F,25,Honduras,Girona,La Liga,2018-2019
+24,24,Álex Pachón,€ 0,€ 0,€ 0,F,17,Spain,Girona,La Liga,2018-2019
+25,25,Raúl Garcia,€ 0,€ 0,€ 0,D,29,Spain,Girona,La Liga,2018-2019
+26,26,Sebas Coris,€ 0,€ 0,€ 0,F,25,Spain,Girona,La Liga,2018-2019
+27,27,Seung-ho Paik,€ 0,€ 0,€ 0,M,21,South Korea,Girona,La Liga,2018-2019
+28,28,Yhoan Andzouana,€ 0,€ 0,€ 0,F,21,Congo,Girona,La Liga,2018-2019
+29,29,Jairo Izquierdo,€ 0,€ 0,€ 0,F,24,Spain,Girona,La Liga,2018-2019
+30,30,Kévin Soni,€ 0,€ 0,€ 0,F,20,Cameroon,Girona,La Liga,2018-2019
+31,31,Èric Montes,€ 0,€ 0,€ 0,D,20,Spain,Girona,La Liga,2018-2019
+32,32,Marc Vito,€ 0,€ 0,€ 0,K,22,Spain,Girona,La Liga,2018-2019
+0,0,Pablo Insua,"€ 30,000","€ 1,560,000","€ 1,554,966",D,24,Spain,Huesca,La Liga,2018-2019
+1,1,Xabier Etxeita,"€ 22,519","€ 1,171,000","€ 1,167,222",D,30,Spain,Huesca,La Liga,2018-2019
+2,2,Juanpi Añor,"€ 17,250","€ 897,000","€ 894,106",F,24,Venezuela,Huesca,La Liga,2018-2019
+3,3,Álex Gallar,"€ 15,712","€ 817,000","€ 814,364",F,26,Spain,Huesca,La Liga,2018-2019
+4,4,Jorge Miramón,"€ 15,673","€ 815,000","€ 812,370",D,29,Spain,Huesca,La Liga,2018-2019
+5,5,Serdar Gürler,"€ 15,462","€ 804,000","€ 801,406",F,26,Turkey,Huesca,La Liga,2018-2019
+6,6,Rúben Semedo,"€ 15,096","€ 785,000","€ 782,467",D,24,Portugal,Huesca,La Liga,2018-2019
+7,7,Gonzalo Melero,"€ 13,673","€ 711,000","€ 708,706",M,24,Spain,Huesca,La Liga,2018-2019
+8,8,Damián Musto,"€ 13,365","€ 695,000","€ 692,757",M,31,Argentina,Huesca,La Liga,2018-2019
+9,9,Luisinho,"€ 12,865","€ 669,000","€ 666,841",D,33,Portugal,Huesca,La Liga,2018-2019
+10,10,Lluis Sastre,"€ 11,538","€ 600,000","€ 598,064",M,32,Spain,Huesca,La Liga,2018-2019
+11,11,Yangel Herrera,"€ 11,135","€ 579,000","€ 577,132",M,20,Venezuela,Huesca,La Liga,2018-2019
+12,12,David Ferreiro,"€ 10,942","€ 569,000","€ 567,164",F,30,Spain,Huesca,La Liga,2018-2019
+13,13,Axel Werner,"€ 10,462","€ 544,000","€ 542,245",K,22,Argentina,Huesca,La Liga,2018-2019
+14,14,Samuele Longo,"€ 10,115","€ 526,000","€ 524,303",F,26,Italy,Huesca,La Liga,2018-2019
+15,15,Carlos Akapo,"€ 9,731","€ 506,000","€ 504,367",D,25,Equatorial Guinea,Huesca,La Liga,2018-2019
+16,16,Rajko Brezancic,"€ 8,827","€ 459,000","€ 457,519",D,28,Serbia,Huesca,La Liga,2018-2019
+17,17,Javi Galán,"€ 8,212","€ 427,000","€ 425,622",D,23,Spain,Huesca,La Liga,2018-2019
+18,18,Moi Gómez,"€ 8,173","€ 425,000","€ 423,629",M,24,Spain,Huesca,La Liga,2018-2019
+19,19,Christian Rivera,"€ 7,173","€ 373,000","€ 371,796",M,20,Spain,Huesca,La Liga,2018-2019
+20,20,Juan Aguilera,"€ 6,558","€ 341,000","€ 339,900",M,32,Spain,Huesca,La Liga,2018-2019
+21,21,Enric Gallego,"€ 5,231","€ 272,000","€ 271,122",F,31,Spain,Huesca,La Liga,2018-2019
+22,22,Aleksandar Jovanovic,"€ 5,096","€ 265,000","€ 264,145",K,25,Serbia,Huesca,La Liga,2018-2019
+23,23,Roberto Santamaría,"€ 4,731","€ 246,000","€ 245,206",K,33,Spain,Huesca,La Liga,2018-2019
+24,24,Jorge Pulido,"€ 4,500","€ 234,000","€ 233,245",D,27,Spain,Huesca,La Liga,2018-2019
+25,25,Juanjo Camacho,"€ 1,923","€ 100,000","€ 99,677",M,37,Spain,Huesca,La Liga,2018-2019
+26,26,Adrián Diéguez,€ 904,"€ 47,000","€ 46,848",D,22,Spain,Huesca,La Liga,2018-2019
+27,27,Jonathan Toro,€ 0,€ 0,€ 0,F,21,Honduras,Huesca,La Liga,2018-2019
+28,28,Martín Mantovani,€ 0,€ 0,€ 0,D,33,Argentina,Huesca,La Liga,2018-2019
+29,29,Javi Varas,€ 0,€ 0,€ 0,K,35,Spain,Huesca,La Liga,2018-2019
+30,30,Nacho Uche,€ 0,€ 0,€ 0,D,18,Spain,Huesca,La Liga,2018-2019
+31,31,Javito,€ 0,€ 0,€ 0,M,19,Spain,Huesca,La Liga,2018-2019
+32,32,Javier Almerge,€ 0,€ 0,€ 0,D,17,Spain,Huesca,La Liga,2018-2019
+33,33,Eugeni Valderrama,€ 0,€ 0,€ 0,M,23,Spain,Huesca,La Liga,2018-2019
+34,34,Dani Escriche,€ 0,€ 0,€ 0,F,20,Spain,Huesca,La Liga,2018-2019
+35,35,Cucho Hernández,€ 0,€ 0,€ 0,F,19,Colombia,Huesca,La Liga,2018-2019
+36,36,Chimy Ávila,€ 0,€ 0,€ 0,F,24,Argentina,Huesca,La Liga,2018-2019
+37,37,Antonio Valera,€ 0,€ 0,€ 0,K,21,Spain,Huesca,La Liga,2018-2019
+38,38,Ander Bardají,€ 0,€ 0,€ 0,K,23,Spain,Huesca,La Liga,2018-2019
+0,0,No data available in table,No data available in table,No data available in table,No data available in table,No data available in table,No data available in table,No data available in table,Leganes,La Liga,2018-2019
+0,0,Koke,"€ 306,635","€ 15,945,000","€ 15,893,550",K,22,Spain,Levante,La Liga,2018-2019
+1,1,Rúben Vezo,"€ 24,904","€ 1,295,000","€ 1,290,821",D,24,Portugal,Levante,La Liga,2018-2019
+2,2,José Luis Morales,"€ 23,000","€ 1,196,000","€ 1,192,141",F,30,Spain,Levante,La Liga,2018-2019
+3,3,Nikola Vukcevic,"€ 23,000","€ 1,196,000","€ 1,192,141",M,26,Montenegro,Levante,La Liga,2018-2019
+4,4,Sanjin Prcic,"€ 21,077","€ 1,096,000","€ 1,092,464",M,24,Bosnia-Herzegovina,Levante,La Liga,2018-2019
+5,5,Rubén Rochina,"€ 21,077","€ 1,096,000","€ 1,092,464",M,27,Spain,Levante,La Liga,2018-2019
+6,6,Raphael Dwamena,"€ 19,173","€ 997,000","€ 993,783",F,22,Ghana,Levante,La Liga,2018-2019
+7,7,Borja Mayoral,"€ 19,154","€ 996,000","€ 992,786",F,21,Spain,Levante,La Liga,2018-2019
+8,8,Moses Simon,"€ 18,000","€ 936,000","€ 932,980",F,22,Nigeria,Levante,La Liga,2018-2019
+9,9,Coke,"€ 17,250","€ 897,000","€ 894,106",D,31,Spain,Levante,La Liga,2018-2019
+10,10,Samu García,"€ 15,327","€ 797,000","€ 794,428",F,27,Spain,Levante,La Liga,2018-2019
+11,11,Cheick Doukouré,"€ 14,365","€ 747,000","€ 744,590",M,25,Cote d'Ivoire,Levante,La Liga,2018-2019
+12,12,Roger Martí,"€ 13,423","€ 698,000","€ 695,748",F,27,Spain,Levante,La Liga,2018-2019
+13,13,Antonio Luna,"€ 13,250","€ 689,000","€ 686,777",D,27,Spain,Levante,La Liga,2018-2019
+14,14,Oier Olazábal,"€ 12,462","€ 648,000","€ 645,909",K,28,Spain,Levante,La Liga,2018-2019
+15,15,Enis Bardhi,"€ 12,462","€ 648,000","€ 645,909",M,22,North Macedonia,Levante,La Liga,2018-2019
+16,16,Ivi,"€ 11,500","€ 598,000","€ 596,070",F,24,Spain,Levante,La Liga,2018-2019
+17,17,José Campaña,"€ 11,500","€ 598,000","€ 596,070",M,25,Spain,Levante,La Liga,2018-2019
+18,18,Erick Cabaco,"€ 11,500","€ 598,000","€ 596,070",D,23,Uruguay,Levante,La Liga,2018-2019
+19,19,Aitor Fernández,"€ 10,538","€ 548,000","€ 546,232",K,27,Spain,Levante,La Liga,2018-2019
+20,20,Emmanuel Boateng,"€ 9,577","€ 498,000","€ 496,393",F,22,Ghana,Levante,La Liga,2018-2019
+21,21,Toño,"€ 9,577","€ 498,000","€ 496,393",D,28,Spain,Levante,La Liga,2018-2019
+22,22,Armando Sadiku,"€ 9,577","€ 498,000","€ 496,393",F,27,Albania,Levante,La Liga,2018-2019
+23,23,Chema,"€ 9,404","€ 489,000","€ 487,422",D,26,Spain,Levante,La Liga,2018-2019
+24,24,Sergio Postigo,"€ 8,615","€ 448,000","€ 446,554",D,29,Spain,Levante,La Liga,2018-2019
+25,25,Jason,"€ 7,673","€ 399,000","€ 397,713",F,23,Spain,Levante,La Liga,2018-2019
+26,26,Pedro López,"€ 7,673","€ 399,000","€ 397,713",D,34,Spain,Levante,La Liga,2018-2019
+27,27,Rober Pier,"€ 7,673","€ 399,000","€ 397,713",D,23,Spain,Levante,La Liga,2018-2019
+28,28,Shaq Moore,"€ 7,519","€ 391,000","€ 389,738",D,21,United States,Levante,La Liga,2018-2019
+29,29,Esteban Saveljich,€ 0,€ 0,€ 0,D,27,Montenegro,Levante,La Liga,2018-2019
+30,30,Fran Manzanara,€ 0,€ 0,€ 0,M,21,Spain,Levante,La Liga,2018-2019
+31,31,Arturo Molina,€ 0,€ 0,€ 0,M,21,Spain,Levante,La Liga,2018-2019
+32,32,Pepelu,€ 0,€ 0,€ 0,M,19,Spain,Levante,La Liga,2018-2019
+33,33,Genís Montolio,€ 0,€ 0,€ 0,D,21,Spain,Levante,La Liga,2018-2019
+34,34,Rubén García,€ 0,€ 0,€ 0,M,24,Spain,Levante,La Liga,2018-2019
+35,35,Iván López,€ 0,€ 0,€ 0,D,24,Spain,Levante,La Liga,2018-2019
+0,0,Jordi Amat,"€ 33,423","€ 1,738,000","€ 1,732,392",D,26,Spain,Rayo Vallecano,La Liga,2018-2019
+1,1,Giannelli Imbula,"€ 33,135","€ 1,723,000","€ 1,717,440",M,25,Democratic Republic of Congo,Rayo Vallecano,La Liga,2018-2019
+2,2,Gaël Kakuta,"€ 21,808","€ 1,134,000","€ 1,130,341",F,27,Democratic Republic of Congo,Rayo Vallecano,La Liga,2018-2019
+3,3,Óscar Trejo,"€ 20,846","€ 1,084,000","€ 1,080,502",M,30,Argentina,Rayo Vallecano,La Liga,2018-2019
+4,4,Raúl de Tomás,"€ 20,288","€ 1,055,000","€ 1,051,596",F,23,Spain,Rayo Vallecano,La Liga,2018-2019
+5,5,Alejandro Gálvez,"€ 18,577","€ 966,000","€ 962,883",D,29,Spain,Rayo Vallecano,La Liga,2018-2019
+6,6,Álvaro García,"€ 18,019","€ 937,000","€ 933,977",F,25,Spain,Rayo Vallecano,La Liga,2018-2019
+7,7,Franco Di Santo,"€ 17,962","€ 934,000","€ 930,986",F,29,Argentina,Rayo Vallecano,La Liga,2018-2019
+8,8,Bebé,"€ 16,481","€ 857,000","€ 854,235",F,27,Portugal,Rayo Vallecano,La Liga,2018-2019
+9,9,Mario Suárez,"€ 16,135","€ 839,000","€ 836,293",M,31,Spain,Rayo Vallecano,La Liga,2018-2019
+10,10,José Pozo,"€ 15,558","€ 809,000","€ 806,390",M,22,Spain,Rayo Vallecano,La Liga,2018-2019
+11,11,Alex Alegría,"€ 15,519","€ 807,000","€ 804,396",F,25,Spain,Rayo Vallecano,La Liga,2018-2019
+12,12,Emiliano Velázquez,"€ 15,346","€ 798,000","€ 795,425",D,24,Uruguay,Rayo Vallecano,La Liga,2018-2019
+13,13,Uche Agbo,"€ 15,000","€ 780,000","€ 777,483",M,22,Nigeria,Rayo Vallecano,La Liga,2018-2019
+14,14,Abdoulaye Ba,"€ 14,904","€ 775,000","€ 772,499",D,27,Senegal,Rayo Vallecano,La Liga,2018-2019
+15,15,Luis Advíncula,"€ 13,654","€ 710,000","€ 707,709",D,28,Peru,Rayo Vallecano,La Liga,2018-2019
+16,16,Gorka Elustondo,"€ 11,038","€ 574,000","€ 572,148",M,31,Spain,Rayo Vallecano,La Liga,2018-2019
+17,17,Álvaro Medrán,"€ 9,481","€ 493,000","€ 491,409",M,24,Spain,Rayo Vallecano,La Liga,2018-2019
+18,18,Santi Comesaña,"€ 9,000","€ 468,000","€ 466,490",M,21,Spain,Rayo Vallecano,La Liga,2018-2019
+19,19,Tito,"€ 8,712","€ 453,000","€ 451,538",D,32,Spain,Rayo Vallecano,La Liga,2018-2019
+20,20,Javi Guerra,"€ 8,269","€ 430,000","€ 428,613",F,36,Spain,Rayo Vallecano,La Liga,2018-2019
+21,21,Alejandro Catena,"€ 8,038","€ 418,000","€ 416,651",D,23,Spain,Rayo Vallecano,La Liga,2018-2019
+22,22,José León,"€ 7,923","€ 412,000","€ 410,671",D,23,Spain,Rayo Vallecano,La Liga,2018-2019
+23,23,Àlex Moreno,"€ 7,692","€ 400,000","€ 398,709",D,25,Spain,Rayo Vallecano,La Liga,2018-2019
+24,24,Adrián Embarba,"€ 6,558","€ 341,000","€ 339,900",F,26,Spain,Rayo Vallecano,La Liga,2018-2019
+25,25,Lass Bangoura,"€ 6,173","€ 321,000","€ 319,964",F,26,Guinea,Rayo Vallecano,La Liga,2018-2019
+26,26,Alberto García,"€ 5,519","€ 287,000","€ 286,074",K,33,Spain,Rayo Vallecano,La Liga,2018-2019
+27,27,Stole Dimitrievski,"€ 3,692","€ 192,000","€ 191,380",K,24,North Macedonia,Rayo Vallecano,La Liga,2018-2019
+28,28,Sergio Akieme,€ 962,"€ 50,000","€ 49,839",D,20,Equatorial Guinea,Rayo Vallecano,La Liga,2018-2019
+29,29,Manuel Navarro,€ 0,€ 0,€ 0,M,18,Spain,Rayo Vallecano,La Liga,2018-2019
+30,30,Sergio Moreno,€ 0,€ 0,€ 0,F,19,Spain,Rayo Vallecano,La Liga,2018-2019
+31,31,Luis Alberto Meseguer,€ 0,€ 0,€ 0,D,18,Equatorial Guinea,Rayo Vallecano,La Liga,2018-2019
+32,32,Martín Pascual,€ 0,€ 0,€ 0,D,18,Spain,Rayo Vallecano,La Liga,2018-2019
+33,33,Ángel Algobia,€ 0,€ 0,€ 0,M,19,Spain,Rayo Vallecano,La Liga,2018-2019
+34,34,Miguel Ángel Morro,€ 0,€ 0,€ 0,K,17,Spain,Rayo Vallecano,La Liga,2018-2019
+35,35,Chechu Dorado,€ 0,€ 0,€ 0,D,35,Spain,Rayo Vallecano,La Liga,2018-2019
+0,0,Marc Bartra,"€ 69,000","€ 3,588,000","€ 3,576,423",D,27,Spain,Real Betis,La Liga,2018-2019
+1,1,William Carvalho,"€ 59,077","€ 3,072,000","€ 3,062,088",M,26,Portugal,Real Betis,La Liga,2018-2019
+2,2,Giovani Lo Celso,"€ 46,000","€ 2,392,000","€ 2,384,282",M,22,Argentina,Real Betis,La Liga,2018-2019
+3,3,Cristian Tello,"€ 43,308","€ 2,252,000","€ 2,244,733",F,26,Spain,Real Betis,La Liga,2018-2019
+4,4,Sergio León,"€ 41,519","€ 2,159,000","€ 2,152,034",F,29,Spain,Real Betis,La Liga,2018-2019
+5,5,Joaquín,"€ 40,481","€ 2,105,000","€ 2,098,208",F,36,Spain,Real Betis,La Liga,2018-2019
+6,6,Jesé,"€ 38,346","€ 1,994,000","€ 1,987,566",F,25,Spain,Real Betis,La Liga,2018-2019
+7,7,Sidnei,"€ 32,904","€ 1,711,000","€ 1,705,479",D,28,Brazil,Real Betis,La Liga,2018-2019
+8,8,Sergio Canales,"€ 31,250","€ 1,625,000","€ 1,619,757",M,27,Spain,Real Betis,La Liga,2018-2019
+9,9,Andrés Guardado,"€ 28,596","€ 1,487,000","€ 1,482,202",M,31,Mexico,Real Betis,La Liga,2018-2019
+10,10,Javi García,"€ 28,500","€ 1,482,000","€ 1,477,218",M,31,Spain,Real Betis,La Liga,2018-2019
+11,11,Pau López,"€ 27,404","€ 1,425,000","€ 1,420,402",K,23,Spain,Real Betis,La Liga,2018-2019
+12,12,Takashi Inui,"€ 24,769","€ 1,288,000","€ 1,283,844",F,30,Japan,Real Betis,La Liga,2018-2019
+13,13,Ryad Boudebouz,"€ 22,288","€ 1,159,000","€ 1,155,260",M,28,Algeria,Real Betis,La Liga,2018-2019
+14,14,Antonio Barragán,"€ 21,519","€ 1,119,000","€ 1,115,389",D,31,Spain,Real Betis,La Liga,2018-2019
+15,15,Aïssa Mandi,"€ 18,635","€ 969,000","€ 965,873",D,26,Algeria,Real Betis,La Liga,2018-2019
+16,16,Antonio Sanabria,"€ 18,269","€ 950,000","€ 946,935",F,22,Paraguay,Real Betis,La Liga,2018-2019
+17,17,Zouhair Feddal,"€ 18,019","€ 937,000","€ 933,977",D,28,Morocco,Real Betis,La Liga,2018-2019
+18,18,Emerson,"€ 17,750","€ 923,000","€ 920,022",D,19,Brazil,Real Betis,La Liga,2018-2019
+19,19,Alex Alegría,"€ 15,519","€ 807,000","€ 804,396",F,25,Spain,Real Betis,La Liga,2018-2019
+20,20,Júnior Firpo,"€ 13,769","€ 716,000","€ 713,690",D,21,Spain,Real Betis,La Liga,2018-2019
+21,21,Loren Morón,"€ 13,423","€ 698,000","€ 695,748",F,24,Spain,Real Betis,La Liga,2018-2019
+22,22,Joel Robles,"€ 12,981","€ 675,000","€ 672,822",K,28,Spain,Real Betis,La Liga,2018-2019
+23,23,Francis Guerrero,"€ 10,596","€ 551,000","€ 549,222",D,22,Spain,Real Betis,La Liga,2018-2019
+24,24,Darko Brasanac,"€ 7,500","€ 390,000","€ 388,742",M,26,Serbia,Real Betis,La Liga,2018-2019
+25,25,Diego Lainez,"€ 5,827","€ 303,000","€ 302,022",F,18,Mexico,Real Betis,La Liga,2018-2019
+26,26,Wilfrid Kaptoum,"€ 4,019","€ 209,000","€ 208,326",M,21,Cameroon,Real Betis,La Liga,2018-2019
+27,27,Adrián Tellado,€ 0,€ 0,€ 0,M,19,Spain,Real Betis,La Liga,2018-2019
+28,28,Roberto González,€ 0,€ 0,€ 0,F,17,Spain,Real Betis,La Liga,2018-2019
+29,29,Jaime Garijo,€ 0,€ 0,€ 0,M,19,Spain,Real Betis,La Liga,2018-2019
+30,30,Edgar González,€ 0,€ 0,€ 0,D,21,Spain,Real Betis,La Liga,2018-2019
+31,31,Diego Altamirano,€ 0,€ 0,€ 0,F,21,Spain,Real Betis,La Liga,2018-2019
+32,32,Víctor Camarasa,€ 0,€ 0,€ 0,M,24,Spain,Real Betis,La Liga,2018-2019
+33,33,Julio Alonso,€ 0,€ 0,€ 0,D,19,Spain,Real Betis,La Liga,2018-2019
+34,34,Alin Tosca,€ 0,€ 0,€ 0,D,26,Romania,Real Betis,La Liga,2018-2019
+35,35,Juanjo Narváez,€ 0,€ 0,€ 0,F,23,Colombia,Real Betis,La Liga,2018-2019
+36,36,José Manuel Irizo,€ 0,€ 0,€ 0,M,20,Spain,Real Betis,La Liga,2018-2019
+37,37,Paul Akouokou,€ 0,€ 0,€ 0,M,20,Cote d'Ivoire,Real Betis,La Liga,2018-2019
+0,0,Gareth Bale,"€ 537,346","€ 27,942,000","€ 27,851,839",F,28,Wales,Real Madrid,La Liga,2018-2019
+1,1,Toni Kroos,"€ 384,615","€ 20,000,000","€ 19,935,466",M,28,Germany,Real Madrid,La Liga,2018-2019
+2,2,Marcelo,"€ 384,615","€ 20,000,000","€ 19,935,466",D,30,Brazil,Real Madrid,La Liga,2018-2019
+3,3,Sergio Ramos,"€ 384,615","€ 20,000,000","€ 19,935,466",D,32,Spain,Real Madrid,La Liga,2018-2019
+4,4,Luka Modric,"€ 358,385","€ 18,636,000","€ 18,575,867",M,32,Croatia,Real Madrid,La Liga,2018-2019
+5,5,Karim Benzema,"€ 318,154","€ 16,544,000","€ 16,490,617",F,30,France,Real Madrid,La Liga,2018-2019
+6,6,Thibaut Courtois,"€ 249,154","€ 12,956,000","€ 12,914,195",K,26,Belgium,Real Madrid,La Liga,2018-2019
+7,7,Isco,"€ 244,173","€ 12,697,000","€ 12,656,030",M,26,Spain,Real Madrid,La Liga,2018-2019
+8,8,Raphaël Varane,"€ 199,327","€ 10,365,000","€ 10,331,555",D,25,France,Real Madrid,La Liga,2018-2019
+9,9,Keylor Navas,"€ 165,000","€ 8,580,000","€ 8,552,315",K,31,Costa Rica,Real Madrid,La Liga,2018-2019
+10,10,Mariano Díaz,"€ 165,000","€ 8,580,000","€ 8,552,315",F,24,Dominican Republic,Real Madrid,La Liga,2018-2019
+11,11,Marco Asensio,"€ 160,250","€ 8,333,000","€ 8,306,112",F,22,Spain,Real Madrid,La Liga,2018-2019
+12,12,Daniel Carvajal,"€ 159,077","€ 8,272,000","€ 8,245,309",D,26,Spain,Real Madrid,La Liga,2018-2019
+13,13,Vinícius Júnior,"€ 102,115","€ 5,310,000","€ 5,292,866",F,17,Brazil,Real Madrid,La Liga,2018-2019
+14,14,Nacho,"€ 89,038","€ 4,630,000","€ 4,615,060",D,28,Spain,Real Madrid,La Liga,2018-2019
+15,15,Lucas Vázquez,"€ 70,981","€ 3,691,000","€ 3,679,090",F,27,Spain,Real Madrid,La Liga,2018-2019
+16,16,Theo Hernández,"€ 69,231","€ 3,600,000","€ 3,588,384",D,20,France,Real Madrid,La Liga,2018-2019
+17,17,Álvaro Odriozola,"€ 68,596","€ 3,567,000","€ 3,555,490",D,22,Spain,Real Madrid,La Liga,2018-2019
+18,18,Kiko Casilla,"€ 67,308","€ 3,500,000","€ 3,488,707",K,31,Spain,Real Madrid,La Liga,2018-2019
+19,19,Dani Ceballos,"€ 57,038","€ 2,966,000","€ 2,956,430",M,21,Spain,Real Madrid,La Liga,2018-2019
+20,20,Casemiro,"€ 47,904","€ 2,491,000","€ 2,482,962",M,26,Brazil,Real Madrid,La Liga,2018-2019
+21,21,Jesús Vallejo,"€ 38,462","€ 2,000,000","€ 1,993,547",D,21,Spain,Real Madrid,La Liga,2018-2019
+22,22,Marcos Llorente,"€ 21,981","€ 1,143,000","€ 1,139,312",M,23,Spain,Real Madrid,La Liga,2018-2019
+23,23,Raúl de Tomás,"€ 20,288","€ 1,055,000","€ 1,051,596",F,23,Spain,Real Madrid,La Liga,2018-2019
+24,24,Borja Mayoral,"€ 19,154","€ 996,000","€ 992,786",F,21,Spain,Real Madrid,La Liga,2018-2019
+25,25,Federico Valverde,"€ 16,654","€ 866,000","€ 863,206",M,19,Uruguay,Real Madrid,La Liga,2018-2019
+26,26,Andrii Lunin,"€ 14,731","€ 766,000","€ 763,528",K,19,Ukraine,Real Madrid,La Liga,2018-2019
+27,27,Brahim Díaz,"€ 13,250","€ 689,000","€ 686,777",F,18,Spain,Real Madrid,La Liga,2018-2019
+28,28,Sergio Reguilón,"€ 12,250","€ 637,000","€ 634,945",D,21,Spain,Real Madrid,La Liga,2018-2019
+29,29,Luca Zidane,"€ 1,962","€ 102,000","€ 101,671",K,20,France,Real Madrid,La Liga,2018-2019
+30,30,Adrián de la Fuente,€ 0,€ 0,€ 0,D,19,Spain,Real Madrid,La Liga,2018-2019
+31,31,Jaime Seoane,€ 0,€ 0,€ 0,M,21,Spain,Real Madrid,La Liga,2018-2019
+32,32,James Rodríguez,€ 0,€ 0,€ 0,M,26,Colombia,Real Madrid,La Liga,2018-2019
+33,33,Jaume Grau,€ 0,€ 0,€ 0,M,21,Spain,Real Madrid,La Liga,2018-2019
+34,34,Javi Sánchez,€ 0,€ 0,€ 0,D,21,Spain,Real Madrid,La Liga,2018-2019
+35,35,Franchu,€ 0,€ 0,€ 0,F,20,Argentina,Real Madrid,La Liga,2018-2019
+36,36,Lucas Silva,€ 0,€ 0,€ 0,M,25,Brazil,Real Madrid,La Liga,2018-2019
+37,37,Cristo,€ 0,€ 0,€ 0,F,20,Spain,Real Madrid,La Liga,2018-2019
+38,38,Martin Ödegaard,€ 0,€ 0,€ 0,F,19,Norway,Real Madrid,La Liga,2018-2019
+39,39,Mateo Kovacic,€ 0,€ 0,€ 0,M,24,Croatia,Real Madrid,La Liga,2018-2019
+40,40,Álvaro Fidalgo,€ 0,€ 0,€ 0,M,21,Spain,Real Madrid,La Liga,2018-2019
+41,41,Fran García,€ 0,€ 0,€ 0,D,18,Spain,Real Madrid,La Liga,2018-2019
+0,0,Adnan Januzaj,"€ 85,500","€ 4,446,000","€ 4,431,654",F,23,Belgium,Real Sociedad,La Liga,2018-2019
+1,1,Theo Hernández,"€ 69,231","€ 3,600,000","€ 3,588,384",D,20,France,Real Sociedad,La Liga,2018-2019
+2,2,Sandro Ramírez,"€ 57,923","€ 3,012,000","€ 3,002,281",F,22,Spain,Real Sociedad,La Liga,2018-2019
+3,3,Willian José,"€ 56,596","€ 2,943,000","€ 2,933,504",F,26,Brazil,Real Sociedad,La Liga,2018-2019
+4,4,Asier Illarramendi,"€ 55,000","€ 2,860,000","€ 2,850,772",M,28,Spain,Real Sociedad,La Liga,2018-2019
+5,5,Gerónimo Rulli,"€ 46,000","€ 2,392,000","€ 2,384,282",K,26,Argentina,Real Sociedad,La Liga,2018-2019
+6,6,Mikel Oyarzabal,"€ 43,115","€ 2,242,000","€ 2,234,766",F,21,Spain,Real Sociedad,La Liga,2018-2019
+7,7,Mikel Merino,"€ 41,423","€ 2,154,000","€ 2,147,050",M,22,Spain,Real Sociedad,La Liga,2018-2019
+8,8,Juanmi,"€ 40,231","€ 2,092,000","€ 2,085,250",F,25,Spain,Real Sociedad,La Liga,2018-2019
+9,9,Miguel Ángel Moyà,"€ 39,154","€ 2,036,000","€ 2,029,430",K,34,Spain,Real Sociedad,La Liga,2018-2019
+10,10,Diego Llorente,"€ 31,481","€ 1,637,000","€ 1,631,718",D,24,Spain,Real Sociedad,La Liga,2018-2019
+11,11,Raúl Navas,"€ 25,442","€ 1,323,000","€ 1,318,731",D,30,Spain,Real Sociedad,La Liga,2018-2019
+12,12,Héctor Moreno,"€ 21,269","€ 1,106,000","€ 1,102,431",D,30,Mexico,Real Sociedad,La Liga,2018-2019
+13,13,Joseba Zaldua,"€ 18,462","€ 960,000","€ 956,902",D,26,Spain,Real Sociedad,La Liga,2018-2019
+14,14,Aritz Elustondo,"€ 17,750","€ 923,000","€ 920,022",D,24,Spain,Real Sociedad,La Liga,2018-2019
+15,15,Jon Bautista,"€ 15,904","€ 827,000","€ 824,332",F,22,Spain,Real Sociedad,La Liga,2018-2019
+16,16,David Zurutuza,"€ 15,327","€ 797,000","€ 794,428",M,31,Spain,Real Sociedad,La Liga,2018-2019
+17,17,Kévin Rodrigues,"€ 12,788","€ 665,000","€ 662,854",D,24,Portugal,Real Sociedad,La Liga,2018-2019
+18,18,Igor Zubeldia,"€ 11,904","€ 619,000","€ 617,003",M,21,Spain,Real Sociedad,La Liga,2018-2019
+19,19,Rubén Pardo,"€ 7,673","€ 399,000","€ 397,713",M,25,Spain,Real Sociedad,La Liga,2018-2019
+20,20,Luca Sangalli,"€ 7,058","€ 367,000","€ 365,816",M,23,Spain,Real Sociedad,La Liga,2018-2019
+21,21,Andoni Gorosabel,"€ 6,923","€ 360,000","€ 358,838",D,21,Spain,Real Sociedad,La Liga,2018-2019
+22,22,Martín Merquelanz,"€ 5,058","€ 263,000","€ 262,151",F,23,Spain,Real Sociedad,La Liga,2018-2019
+23,23,Robin Le Normand,"€ 1,500","€ 78,000","€ 77,748",D,21,France,Real Sociedad,La Liga,2018-2019
+24,24,Roberto López,€ 0,€ 0,€ 0,M,18,Spain,Real Sociedad,La Liga,2018-2019
+25,25,Ander Barrenetxea,€ 0,€ 0,€ 0,F,16,Spain,Real Sociedad,La Liga,2018-2019
+26,26,Alex Sola,€ 0,€ 0,€ 0,D,19,Spain,Real Sociedad,La Liga,2018-2019
+27,27,Aihen Muñoz,€ 0,€ 0,€ 0,D,20,Spain,Real Sociedad,La Liga,2018-2019
+28,28,Zourdine Thior,€ 0,€ 0,€ 0,F,20,Senegal,Real Sociedad,La Liga,2018-2019
+29,29,Martín Zubimendi,€ 0,€ 0,€ 0,M,19,Spain,Real Sociedad,La Liga,2018-2019
+30,30,Andoni Zubiaurre,€ 0,€ 0,€ 0,K,21,Spain,Real Sociedad,La Liga,2018-2019
+31,31,Ander Guevara,€ 0,€ 0,€ 0,M,20,Spain,Real Sociedad,La Liga,2018-2019
+32,32,Näis Djouahra,€ 0,€ 0,€ 0,F,18,France,Real Sociedad,La Liga,2018-2019
+0,0,Simon Kjær,"€ 160,250","€ 8,333,000","€ 8,306,112",D,29,Denmark,Sevilla,La Liga,2018-2019
+1,1,Nolito,"€ 126,923","€ 6,600,000","€ 6,578,704",F,31,Spain,Sevilla,La Liga,2018-2019
+2,2,Éver Banega,"€ 123,846","€ 6,440,000","€ 6,419,220",M,30,Argentina,Sevilla,La Liga,2018-2019
+3,3,Munir El Haddadi,"€ 95,827","€ 4,983,000","€ 4,966,921",F,22,Spain,Sevilla,La Liga,2018-2019
+4,4,Luis Muriel,"€ 82,500","€ 4,290,000","€ 4,276,157",F,27,Colombia,Sevilla,La Liga,2018-2019
+5,5,Jesús Navas,"€ 76,654","€ 3,986,000","€ 3,973,138",D,32,Spain,Sevilla,La Liga,2018-2019
+6,6,Franco Vázquez,"€ 72,577","€ 3,774,000","€ 3,761,822",M,29,Argentina,Sevilla,La Liga,2018-2019
+7,7,Maxime Gonalons,"€ 71,154","€ 3,700,000","€ 3,688,061",M,29,France,Sevilla,La Liga,2018-2019
+8,8,André Silva,"€ 71,154","€ 3,700,000","€ 3,688,061",F,22,Portugal,Sevilla,La Liga,2018-2019
+9,9,Aleix Vidal,"€ 67,346","€ 3,502,000","€ 3,490,700",M,28,Spain,Sevilla,La Liga,2018-2019
+10,10,Quincy Promes,"€ 59,692","€ 3,104,000","€ 3,093,984",F,26,Netherlands,Sevilla,La Liga,2018-2019
+11,11,Pablo Sarabia,"€ 55,135","€ 2,867,000","€ 2,857,749",M,26,Spain,Sevilla,La Liga,2018-2019
+12,12,Roque Mesa,"€ 55,000","€ 2,860,000","€ 2,850,772",M,29,Spain,Sevilla,La Liga,2018-2019
+13,13,Marko Rog,"€ 46,250","€ 2,405,000","€ 2,397,240",M,22,Croatia,Sevilla,La Liga,2018-2019
+14,14,Ibrahim Amadou,"€ 42,808","€ 2,226,000","€ 2,218,817",M,25,France,Sevilla,La Liga,2018-2019
+15,15,Sergio Escudero,"€ 41,173","€ 2,141,000","€ 2,134,092",D,28,Spain,Sevilla,La Liga,2018-2019
+16,16,Wissam Ben Yedder,"€ 38,308","€ 1,992,000","€ 1,985,572",F,27,France,Sevilla,La Liga,2018-2019
+17,17,Tomas Vaclik,"€ 38,308","€ 1,992,000","€ 1,985,572",K,29,Czech Republic,Sevilla,La Liga,2018-2019
+18,18,Gabriel Mercado,"€ 37,731","€ 1,962,000","€ 1,955,669",D,31,Argentina,Sevilla,La Liga,2018-2019
+19,19,Joris Gnagnon,"€ 27,481","€ 1,429,000","€ 1,424,389",D,21,France,Sevilla,La Liga,2018-2019
+20,20,Guilherme Arana,"€ 26,962","€ 1,402,000","€ 1,397,476",D,21,Brazil,Sevilla,La Liga,2018-2019
+21,21,Daniel Carriço,"€ 25,000","€ 1,300,000","€ 1,295,805",D,29,Portugal,Sevilla,La Liga,2018-2019
+22,22,Sergi Gómez,"€ 23,692","€ 1,232,000","€ 1,228,025",D,26,Spain,Sevilla,La Liga,2018-2019
+23,23,Borja Lasso,"€ 11,788","€ 613,000","€ 611,022",M,24,Spain,Sevilla,La Liga,2018-2019
+24,24,Maximilian Wöber,"€ 6,462","€ 336,000","€ 334,916",D,20,Austria,Sevilla,La Liga,2018-2019
+25,25,Juan Soriano,"€ 3,192","€ 166,000","€ 165,464",K,20,Spain,Sevilla,La Liga,2018-2019
+26,26,Pejiño,€ 0,€ 0,€ 0,F,21,Spain,Sevilla,La Liga,2018-2019
+27,27,Sébastien Corchia,€ 0,€ 0,€ 0,D,27,France,Sevilla,La Liga,2018-2019
+28,28,Carlos Fernández,€ 0,€ 0,€ 0,F,22,Spain,Sevilla,La Liga,2018-2019
+29,29,Sergio Rico,€ 0,€ 0,€ 0,K,24,Spain,Sevilla,La Liga,2018-2019
+30,30,Bryan Gil,€ 0,€ 0,€ 0,F,17,Spain,Sevilla,La Liga,2018-2019
+31,31,Juan Berrocal,€ 0,€ 0,€ 0,D,19,Spain,Sevilla,La Liga,2018-2019
+32,32,Lucho Garcia,€ 0,€ 0,€ 0,K,20,Colombia,Sevilla,La Liga,2018-2019
+33,33,José Mena,€ 0,€ 0,€ 0,M,20,Spain,Sevilla,La Liga,2018-2019
+34,34,Marc Gual,€ 0,€ 0,€ 0,F,22,Spain,Sevilla,La Liga,2018-2019
+35,35,Javi Vázquez,€ 0,€ 0,€ 0,D,17,Spain,Sevilla,La Liga,2018-2019
+36,36,Javi Díaz,€ 0,€ 0,€ 0,K,21,Spain,Sevilla,La Liga,2018-2019
+37,37,Nicolás Pareja,€ 0,€ 0,€ 0,D,34,Argentina,Sevilla,La Liga,2018-2019
+38,38,Ganso,€ 0,€ 0,€ 0,M,28,Brazil,Sevilla,La Liga,2018-2019
+0,0,Kévin Gameiro,"€ 144,500","€ 7,514,000","€ 7,489,754",F,31,France,Valencia,La Liga,2018-2019
+1,1,Rodrigo,"€ 131,096","€ 6,817,000","€ 6,795,004",F,27,Spain,Valencia,La Liga,2018-2019
+2,2,Geoffrey Kondogbia,"€ 124,635","€ 6,481,000","€ 6,460,088",M,25,Central African Republic,Valencia,La Liga,2018-2019
+3,3,Gonçalo Guedes,"€ 110,192","€ 5,730,000","€ 5,711,511",F,21,Portugal,Valencia,La Liga,2018-2019
+4,4,Dani Parejo,"€ 101,577","€ 5,282,000","€ 5,264,957",M,29,Spain,Valencia,La Liga,2018-2019
+5,5,Ezequiel Garay,"€ 96,154","€ 5,000,000","€ 4,983,866",D,31,Argentina,Valencia,La Liga,2018-2019
+6,6,Michy Batshuayi,"€ 77,981","€ 4,055,000","€ 4,041,916",F,24,Belgium,Valencia,La Liga,2018-2019
+7,7,Neto,"€ 71,231","€ 3,704,000","€ 3,692,048",K,28,Brazil,Valencia,La Liga,2018-2019
+8,8,Francis Coquelin,"€ 70,000","€ 3,640,000","€ 3,628,255",M,27,France,Valencia,La Liga,2018-2019
+9,9,Gabriel Paulista,"€ 70,000","€ 3,640,000","€ 3,628,255",D,27,Brazil,Valencia,La Liga,2018-2019
+10,10,Daniel Wass,"€ 66,731","€ 3,470,000","€ 3,458,803",D,29,Denmark,Valencia,La Liga,2018-2019
+11,11,José Gayà,"€ 63,250","€ 3,289,000","€ 3,278,387",D,23,Spain,Valencia,La Liga,2018-2019
+12,12,Jeison Murillo,"€ 47,346","€ 2,462,000","€ 2,454,056",D,26,Colombia,Valencia,La Liga,2018-2019
+13,13,Denis Cheryshev,"€ 40,404","€ 2,101,000","€ 2,094,221",F,27,Russia,Valencia,La Liga,2018-2019
+14,14,Carlos Soler,"€ 39,635","€ 2,061,000","€ 2,054,350",M,21,Spain,Valencia,La Liga,2018-2019
+15,15,Santi Mina,"€ 38,327","€ 1,993,000","€ 1,986,569",F,22,Spain,Valencia,La Liga,2018-2019
+16,16,Rúben Vezo,"€ 24,904","€ 1,295,000","€ 1,290,821",D,24,Portugal,Valencia,La Liga,2018-2019
+17,17,Cristiano Piccini,"€ 23,577","€ 1,226,000","€ 1,222,044",D,25,Italy,Valencia,La Liga,2018-2019
+18,18,Facundo Roncaglia,"€ 22,577","€ 1,174,000","€ 1,170,212",D,31,Argentina,Valencia,La Liga,2018-2019
+19,19,Rubén Sobrino,"€ 19,731","€ 1,026,000","€ 1,022,689",F,26,Spain,Valencia,La Liga,2018-2019
+20,20,Jaume Doménech,"€ 18,654","€ 970,000","€ 966,870",K,27,Spain,Valencia,La Liga,2018-2019
+21,21,Mouctar Diakhaby,"€ 15,327","€ 797,000","€ 794,428",D,21,France,Valencia,La Liga,2018-2019
+22,22,Toni Lato,"€ 12,558","€ 653,000","€ 650,893",D,20,Spain,Valencia,La Liga,2018-2019
+23,23,Ferran Torres,"€ 10,904","€ 567,000","€ 565,170",F,18,Spain,Valencia,La Liga,2018-2019
+24,24,Álvaro Medrán,"€ 9,481","€ 493,000","€ 491,409",M,24,Spain,Valencia,La Liga,2018-2019
+25,25,Álex Blanco,"€ 2,635","€ 137,000","€ 136,558",F,19,Spain,Valencia,La Liga,2018-2019
+26,26,Kang-in Lee,€ 827,"€ 43,000","€ 42,861",M,17,South Korea,Valencia,La Liga,2018-2019
+27,27,Uros Racic,€ 0,€ 0,€ 0,M,20,Serbia,Valencia,La Liga,2018-2019
+28,28,Álex Centelles,€ 0,€ 0,€ 0,D,18,Spain,Valencia,La Liga,2018-2019
+29,29,Aymen Abdennour,€ 0,€ 0,€ 0,D,28,Tunisia,Valencia,La Liga,2018-2019
+30,30,Cristian Rivero,€ 0,€ 0,€ 0,K,20,Spain,Valencia,La Liga,2018-2019
+31,31,Fran Navarro,€ 0,€ 0,€ 0,F,20,Spain,Valencia,La Liga,2018-2019
+32,32,Hugo Guillamón,€ 0,€ 0,€ 0,D,18,Spain,Valencia,La Liga,2018-2019
+33,33,Nacho Gil,€ 0,€ 0,€ 0,F,22,Spain,Valencia,La Liga,2018-2019
+34,34,Simone Zaza,€ 0,€ 0,€ 0,F,27,Italy,Valencia,La Liga,2018-2019
+35,35,Sito,€ 0,€ 0,€ 0,F,21,Spain,Valencia,La Liga,2018-2019
+0,0,Keko,"€ 26,000","€ 1,352,000","€ 1,347,637",F,26,Spain,Valladolid,La Liga,2018-2019
+1,1,Enes Ünal,"€ 25,269","€ 1,314,000","€ 1,309,760",F,21,Turkey,Valladolid,La Liga,2018-2019
+2,2,Yoel Rodríguez,"€ 17,250","€ 897,000","€ 894,106",K,29,Spain,Valladolid,La Liga,2018-2019
+3,3,Duje Cop,"€ 16,500","€ 858,000","€ 855,231",F,28,Croatia,Valladolid,La Liga,2018-2019
+4,4,Pablo Hervías,"€ 14,981","€ 779,000","€ 776,486",F,25,Spain,Valladolid,La Liga,2018-2019
+5,5,Nacho Martínez,"€ 14,404","€ 749,000","€ 746,583",D,29,Spain,Valladolid,La Liga,2018-2019
+6,6,Míchel,"€ 14,077","€ 732,000","€ 729,638",M,29,Spain,Valladolid,La Liga,2018-2019
+7,7,Luismi,"€ 13,269","€ 690,000","€ 687,774",M,26,Spain,Valladolid,La Liga,2018-2019
+8,8,Alberto Guitián,"€ 13,231","€ 688,000","€ 685,780",D,27,Spain,Valladolid,La Liga,2018-2019
+9,9,Toni Villa,"€ 12,712","€ 661,000","€ 658,867",F,23,Spain,Valladolid,La Liga,2018-2019
+10,10,Óscar Plano,"€ 12,558","€ 653,000","€ 650,893",F,27,Spain,Valladolid,La Liga,2018-2019
+11,11,Sergi Guardiola,"€ 11,692","€ 608,000","€ 606,038",F,27,Spain,Valladolid,La Liga,2018-2019
+12,12,Ivi,"€ 11,500","€ 598,000","€ 596,070",F,24,Spain,Valladolid,La Liga,2018-2019
+13,13,Rubén Alcaraz,"€ 11,385","€ 592,000","€ 590,090",M,27,Spain,Valladolid,La Liga,2018-2019
+14,14,Kiko Olivas,"€ 10,750","€ 559,000","€ 557,196",D,29,Spain,Valladolid,La Liga,2018-2019
+15,15,Antoñito,"€ 10,750","€ 559,000","€ 557,196",D,30,Spain,Valladolid,La Liga,2018-2019
+16,16,Fernando Calero,"€ 10,577","€ 550,000","€ 548,225",D,22,Spain,Valladolid,La Liga,2018-2019
+17,17,Jordi Masip,"€ 10,462","€ 544,000","€ 542,245",K,29,Spain,Valladolid,La Liga,2018-2019
+18,18,Antonio Cotán,"€ 10,250","€ 533,000","€ 531,280",M,22,Spain,Valladolid,La Liga,2018-2019
+19,19,Moisés Delgado,"€ 8,904","€ 463,000","€ 461,506",D,24,Spain,Valladolid,La Liga,2018-2019
+20,20,Joaquín Fernández,"€ 8,712","€ 453,000","€ 451,538",D,22,Spain,Valladolid,La Liga,2018-2019
+21,21,Daniele Verde,"€ 7,827","€ 407,000","€ 405,687",F,22,Italy,Valladolid,La Liga,2018-2019
+22,22,Stiven Plaza,"€ 6,635","€ 345,000","€ 343,887",F,19,Ecuador,Valladolid,La Liga,2018-2019
+23,23,Borja Fernández,"€ 6,058","€ 315,000","€ 313,984",M,37,Spain,Valladolid,La Liga,2018-2019
+24,24,Anuar,"€ 4,423","€ 230,000","€ 229,258",M,23,Morocco,Valladolid,La Liga,2018-2019
+25,25,Leonardo Suárez,"€ 3,308","€ 172,000","€ 171,445",F,22,Argentina,Valladolid,La Liga,2018-2019
+26,26,Javi Moyano,"€ 2,865","€ 149,000","€ 148,519",D,32,Spain,Valladolid,La Liga,2018-2019
+27,27,Mohammed Salisu,€ 0,€ 0,€ 0,D,19,Ghana,Valladolid,La Liga,2018-2019
+28,28,Kuki Zalazar,€ 0,€ 0,€ 0,F,20,Spain,Valladolid,La Liga,2018-2019
+29,29,Chris Ramos,€ 0,€ 0,€ 0,F,21,Spain,Valladolid,La Liga,2018-2019
+30,30,Antonio Domínguez,€ 0,€ 0,€ 0,M,25,Spain,Valladolid,La Liga,2018-2019
+31,31,Pablo Muñoz,€ 0,€ 0,€ 0,M,18,Spain,Valladolid,La Liga,2018-2019
+32,32,Roberto Corral,€ 0,€ 0,€ 0,D,20,Spain,Valladolid,La Liga,2018-2019
+33,33,José Antonio Caro,€ 0,€ 0,€ 0,K,24,Spain,Valladolid,La Liga,2018-2019
+34,34,Samuel Pérez,€ 0,€ 0,€ 0,K,21,Spain,Valladolid,La Liga,2018-2019
+35,35,Javi Aparicio,€ 0,€ 0,€ 0,D,18,Spain,Valladolid,La Liga,2018-2019
+36,36,Hacen,€ 0,€ 0,€ 0,M,20,Mauritania,Valladolid,La Liga,2018-2019
+37,37,Waldo Rubio,€ 0,€ 0,€ 0,F,22,Spain,Valladolid,La Liga,2018-2019
+38,38,David Mayoral,€ 0,€ 0,€ 0,F,21,Spain,Valladolid,La Liga,2018-2019
+39,39,Fede San Emeterio,€ 0,€ 0,€ 0,M,21,Spain,Valladolid,La Liga,2018-2019
+40,40,Miguel de la Fuente,€ 0,€ 0,€ 0,F,18,Spain,Valladolid,La Liga,2018-2019
