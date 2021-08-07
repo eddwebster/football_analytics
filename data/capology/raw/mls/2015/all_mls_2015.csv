@@ -1,0 +1,570 @@
+,Unnamed: 0,Player,Weekly GrossBase Salary(IN USD),Annual GrossBase Salary(IN USD),"Adj. GrossBase Salary(2021, IN USD)",Pos.,Age,Country,Team,League,Season
+0,0,Gilberto Junior,"$ 22,019","$ 1,144,992","$ 1,250,276",F,26,Brazil,Chicago Fire,Mls,2015
+1,1,Kennedy Igboananike,"$ 15,385","$ 800,000","$ 873,562",F,25,Nigeria,Chicago Fire,Mls,2015
+2,2,David Accam,"$ 12,500","$ 650,000","$ 709,769",F,23,Ghana,Chicago Fire,Mls,2015
+3,3,Mike Magee,"$ 7,692","$ 400,000","$ 436,781",F,29,United States,Chicago Fire,Mls,2015
+4,4,Jeff Larentowicz,"$ 5,096","$ 265,000","$ 289,367",D,30,United States,Chicago Fire,Mls,2015
+5,5,Sean Johnson,"$ 4,808","$ 250,000","$ 272,988",K,25,United States,Chicago Fire,Mls,2015
+6,6,Razvan Cocis,"$ 4,231","$ 220,000","$ 240,229",M,31,Romania,Chicago Fire,Mls,2015
+7,7,Adailton Filho,"$ 3,846","$ 200,000","$ 218,390",D,31,Brazil,Chicago Fire,Mls,2015
+8,8,Patrick Nyarko,"$ 3,846","$ 200,000","$ 218,390",F,28,Ghana,Chicago Fire,Mls,2015
+9,9,Lovel Palmer,"$ 2,269","$ 118,000","$ 128,850",M,29,Jamaica,Chicago Fire,Mls,2015
+10,10,Michael Stephens,"$ 1,827","$ 95,000","$ 103,735",M,25,United States,Chicago Fire,Mls,2015
+11,11,Eric Gehrig,"$ 1,827","$ 95,000","$ 103,735",M,26,United States,Chicago Fire,Mls,2015
+12,12,Jason Johnson,"$ 1,731","$ 90,000","$ 98,276",F,23,Jamaica,Chicago Fire,Mls,2015
+13,13,Harrison Shipp,"$ 1,683","$ 87,500","$ 95,546",F,24,United States,Chicago Fire,Mls,2015
+14,14,Jon Busch,"$ 1,635","$ 85,000","$ 92,816",K,37,United States,Chicago Fire,Mls,2015
+15,15,Matt Watson,"$ 1,550","$ 80,620","$ 88,033",M,29,England,Chicago Fire,Mls,2015
+16,16,Daneil Cyrus,"$ 1,385","$ 72,000","$ 78,621",D,23,Trinidad and Tobago,Chicago Fire,Mls,2015
+17,17,Ty Harden,"$ 1,378","$ 71,663","$ 78,253",D,30,United States,Chicago Fire,Mls,2015
+18,18,Collin Fernandez,"$ 1,250","$ 65,000","$ 70,977",M,17,Peru,Chicago Fire,Mls,2015
+19,19,Greg Cochrane,"$ 1,154","$ 60,000","$ 65,517",D,23,United States,Chicago Fire,Mls,2015
+20,20,Joevin Jones,"$ 1,154","$ 60,000","$ 65,517",M,22,Trinidad and Tobago,Chicago Fire,Mls,2015
+21,21,Matt Polster,"$ 1,154","$ 60,000","$ 65,517",D,21,United States,Chicago Fire,Mls,2015
+22,22,Chris Ritter,"$ 1,154","$ 60,000","$ 65,517",M,23,United States,Chicago Fire,Mls,2015
+23,23,Alec Kann,"$ 1,154","$ 60,000","$ 65,517",K,23,United States,Chicago Fire,Mls,2015
+24,24,Patrick Doody,$ 962,"$ 50,000","$ 54,598",D,22,United States,Chicago Fire,Mls,2015
+25,25,Kingsley Bryce,$ 962,"$ 50,000","$ 54,598",M,21,United States,Chicago Fire,Mls,2015
+0,0,Kevin Doyle,"$ 21,635","$ 1,125,000","$ 1,228,446",F,30,Ireland,Colorado Rapids,Mls,2015
+1,1,Marcelo Sarvas,"$ 6,923","$ 360,000","$ 393,103",M,32,Brazil,Colorado Rapids,Mls,2015
+2,2,Gabriel Torres,"$ 5,038","$ 262,000","$ 286,091",F,25,Panama,Colorado Rapids,Mls,2015
+3,3,Drew Moor,"$ 4,971","$ 258,500","$ 282,270",D,30,United States,Colorado Rapids,Mls,2015
+4,4,Dillon Powers,"$ 4,712","$ 245,000","$ 267,528",M,23,United States,Colorado Rapids,Mls,2015
+5,5,Vicente Sanchez,"$ 4,038","$ 210,000","$ 229,310",F,34,Uruguay,Colorado Rapids,Mls,2015
+6,6,Sam Cronin,"$ 3,846","$ 200,000","$ 218,390",M,27,United States,Colorado Rapids,Mls,2015
+7,7,Lucas Pittinari,"$ 3,654","$ 190,000","$ 207,471",M,22,Argentina,Colorado Rapids,Mls,2015
+8,8,Nick LaBrocca,"$ 3,077","$ 160,000","$ 174,712",M,29,United States,Colorado Rapids,Mls,2015
+9,9,Bobby Burling,"$ 2,548","$ 132,500","$ 144,684",D,29,United States,Colorado Rapids,Mls,2015
+10,10,Zac MacMath,"$ 2,500","$ 130,000","$ 141,954",K,22,United States,Colorado Rapids,Mls,2015
+11,11,Michael Harrington,"$ 2,500","$ 130,000","$ 141,954",M,28,United States,Colorado Rapids,Mls,2015
+12,12,Sean St Ledger,"$ 2,404","$ 124,992","$ 136,485",D,29,Ireland,Colorado Rapids,Mls,2015
+13,13,Marc Burch,"$ 2,115","$ 110,000","$ 120,115",D,30,United States,Colorado Rapids,Mls,2015
+14,14,Maynor Figueroa,"$ 1,923","$ 99,996","$ 109,191",D,31,Honduras,Colorado Rapids,Mls,2015
+15,15,Clint Irwin,"$ 1,635","$ 85,000","$ 92,816",K,25,United States,Colorado Rapids,Mls,2015
+16,16,Marlon Hairston,"$ 1,538","$ 80,000","$ 87,356",M,20,United States,Colorado Rapids,Mls,2015
+17,17,James Riley,"$ 1,490","$ 77,500","$ 84,626",D,31,United States,Colorado Rapids,Mls,2015
+18,18,Juan Edgardo Ramirez,"$ 1,442","$ 75,000","$ 81,896",M,22,Argentina,Colorado Rapids,Mls,2015
+19,19,Carlos Alvarez,"$ 1,346","$ 70,000","$ 76,437",M,23,United States,Colorado Rapids,Mls,2015
+20,20,Luis Solignac,"$ 1,250","$ 65,004","$ 70,981",F,23,Argentina,Colorado Rapids,Mls,2015
+21,21,Caleb Calvert,"$ 1,250","$ 65,000","$ 70,977",F,16,United States,Colorado Rapids,Mls,2015
+22,22,Axel Sjoberg,"$ 1,154","$ 60,000","$ 65,517",D,23,Sweden,Colorado Rapids,Mls,2015
+23,23,Charles Eloundou,"$ 1,154","$ 60,000","$ 65,517",F,19,Cameroon,Colorado Rapids,Mls,2015
+24,24,Dillon Serna,"$ 1,154","$ 60,000","$ 65,517",M,20,United States,Colorado Rapids,Mls,2015
+25,25,Jared Watts,"$ 1,154","$ 60,000","$ 65,517",M,22,United States,Colorado Rapids,Mls,2015
+26,26,John Berner,"$ 1,154","$ 60,000","$ 65,517",K,23,United States,Colorado Rapids,Mls,2015
+27,27,Joseph Greenspan,$ 962,"$ 50,000","$ 54,598",D,23,United States,Colorado Rapids,Mls,2015
+28,28,Dominique Badji,$ 962,"$ 50,000","$ 54,598",F,21,Senegal,Colorado Rapids,Mls,2015
+0,0,Federico Higuain,"$ 22,596","$ 1,175,000","$ 1,283,043",M,29,Argentina,Columbus Crew,Mls,2015
+1,1,Gaston Sauro,"$ 11,215","$ 583,200","$ 636,826",D,24,Argentina,Columbus Crew,Mls,2015
+2,2,Kei Kamara,"$ 7,692","$ 400,000","$ 436,781",F,29,Sierra Leone,Columbus Crew,Mls,2015
+3,3,Michael Parkhurst,"$ 5,288","$ 275,000","$ 300,287",D,30,United States,Columbus Crew,Mls,2015
+4,4,Jack McInerney,"$ 5,192","$ 270,000","$ 294,827",F,21,United States,Columbus Crew,Mls,2015
+5,5,Emanuel Pogatetz,"$ 4,808","$ 250,000","$ 272,988",D,31,Austria,Columbus Crew,Mls,2015
+6,6,Cedrick Mabwati,"$ 3,874","$ 201,429","$ 219,951",M,23,Democratic Republic of Congo,Columbus Crew,Mls,2015
+7,7,Tony Tchani,"$ 3,269","$ 170,000","$ 185,632",M,25,Cameroon,Columbus Crew,Mls,2015
+8,8,Steve Clark,"$ 3,269","$ 170,000","$ 185,632",K,28,United States,Columbus Crew,Mls,2015
+9,9,Justin Meram,"$ 3,173","$ 165,000","$ 180,172",F,25,Iraq,Columbus Crew,Mls,2015
+10,10,Harrison Afful,"$ 2,885","$ 150,000","$ 163,793",D,27,Ghana,Columbus Crew,Mls,2015
+11,11,Waylon Francis,"$ 2,769","$ 144,000","$ 157,241",D,23,Costa Rica,Columbus Crew,Mls,2015
+12,12,Wil Trapp,"$ 2,644","$ 137,500","$ 150,143",M,21,United States,Columbus Crew,Mls,2015
+13,13,Ethan Finlay,"$ 2,596","$ 135,000","$ 147,414",F,23,United States,Columbus Crew,Mls,2015
+14,14,Kristinn Steindorsson,"$ 2,019","$ 105,000","$ 114,655",M,24,Iceland,Columbus Crew,Mls,2015
+15,15,Mohammed Saeid,"$ 1,923","$ 100,000","$ 109,195",M,23,Sweden,Columbus Crew,Mls,2015
+16,16,Tyson Wahl,"$ 1,827","$ 95,000","$ 103,735",D,30,United States,Columbus Crew,Mls,2015
+17,17,Hector Jimenez,"$ 1,731","$ 90,000","$ 98,276",M,25,United States,Columbus Crew,Mls,2015
+18,18,Chris Klute,"$ 1,587","$ 82,500","$ 90,086",D,24,United States,Columbus Crew,Mls,2015
+19,19,Ben Speas,"$ 1,315","$ 68,355","$ 74,640",F,23,United States,Columbus Crew,Mls,2015
+20,20,Ben Swanson,"$ 1,154","$ 60,000","$ 65,517",M,16,United States,Columbus Crew,Mls,2015
+21,21,Aaron Schoenfeld,"$ 1,154","$ 60,000","$ 65,517",F,24,Israel,Columbus Crew,Mls,2015
+22,22,Kevan George,"$ 1,154","$ 60,000","$ 65,517",M,24,Trinidad and Tobago,Columbus Crew,Mls,2015
+23,23,Matt Lampson,"$ 1,154","$ 60,000","$ 65,517",K,24,United States,Columbus Crew,Mls,2015
+24,24,Chad Barson,"$ 1,154","$ 60,000","$ 65,517",D,23,United States,Columbus Crew,Mls,2015
+25,25,Romain Gall,"$ 1,154","$ 60,000","$ 65,517",M,19,United States,Columbus Crew,Mls,2015
+26,26,Sagi Lev Ari,"$ 1,154","$ 60,000","$ 65,517",F,26,Israel,Columbus Crew,Mls,2015
+27,27,Brad Stuver,"$ 1,154","$ 60,000","$ 65,517",K,23,United States,Columbus Crew,Mls,2015
+28,28,Sergio Campbell,$ 962,"$ 50,000","$ 54,598",D,22,Jamaica,Columbus Crew,Mls,2015
+0,0,Alvaro Saborio,"$ 7,692","$ 400,000","$ 436,781",F,32,Costa Rica,Dc United,Mls,2015
+1,1,Chris Pontius,"$ 7,019","$ 365,000","$ 398,562",M,27,United States,Dc United,Mls,2015
+2,2,Bill Hamid,"$ 6,923","$ 360,000","$ 393,103",K,23,United States,Dc United,Mls,2015
+3,3,Markus Halsti,"$ 5,288","$ 275,000","$ 300,287",M,30,Finland,Dc United,Mls,2015
+4,4,Davy Arnaud,"$ 4,087","$ 212,500","$ 232,040",M,34,United States,Dc United,Mls,2015
+5,5,Chris Rolfe,"$ 4,038","$ 210,000","$ 229,310",F,31,United States,Dc United,Mls,2015
+6,6,Sean Franklin,"$ 3,894","$ 202,500","$ 221,120",D,29,United States,Dc United,Mls,2015
+7,7,Bobby Boswell,"$ 3,846","$ 200,000","$ 218,390",D,31,United States,Dc United,Mls,2015
+8,8,Fabian Espindola,"$ 3,365","$ 175,000","$ 191,092",F,23,Argentina,Dc United,Mls,2015
+9,9,Perry Kitchen,"$ 3,308","$ 172,000","$ 187,816",D,22,United States,Dc United,Mls,2015
+10,10,Jairo Arrieta,"$ 2,885","$ 150,000","$ 163,793",F,30,Costa Rica,Dc United,Mls,2015
+11,11,Michael Farfan,"$ 2,308","$ 120,000","$ 131,034",M,26,United States,Dc United,Mls,2015
+12,12,Nick DeLeon,"$ 2,236","$ 116,259","$ 126,949",M,23,United States,Dc United,Mls,2015
+13,13,Chris Korb,"$ 1,904","$ 99,000","$ 108,103",D,26,United States,Dc United,Mls,2015
+14,14,Jalen Robinson,"$ 1,346","$ 70,000","$ 76,437",D,20,United States,Dc United,Mls,2015
+15,15,Collin Martin,"$ 1,346","$ 70,000","$ 76,437",M,19,United States,Dc United,Mls,2015
+16,16,Jared Jeffrey,"$ 1,313","$ 68,250","$ 74,526",M,24,United States,Dc United,Mls,2015
+17,17,Steven Birnbaum,"$ 1,269","$ 66,000","$ 72,069",D,24,United States,Dc United,Mls,2015
+18,18,Miguel Aguilar,"$ 1,154","$ 60,000","$ 65,517",M,20,Mexico,Dc United,Mls,2015
+19,19,Taylor Kemp,"$ 1,154","$ 60,000","$ 65,517",D,23,United States,Dc United,Mls,2015
+20,20,Conor Doyle,"$ 1,154","$ 60,000","$ 65,517",F,22,Ireland,Dc United,Mls,2015
+21,21,Andrew Dykstra,"$ 1,154","$ 60,000","$ 65,517",K,28,United States,Dc United,Mls,2015
+22,22,Facundo Coria,"$ 1,154","$ 60,000","$ 65,517",M,27,Argentina,Dc United,Mls,2015
+23,23,Kofi Opare,"$ 1,154","$ 60,000","$ 65,517",D,23,United States,Dc United,Mls,2015
+24,24,Travis Worra,$ 962,"$ 50,000","$ 54,598",K,21,United States,Dc United,Mls,2015
+25,25,Luke Mishu,$ 962,"$ 50,000","$ 54,598",D,23,United States,Dc United,Mls,2015
+0,0,Mauro Diaz,"$ 7,000","$ 364,000","$ 397,470",M,23,Argentina,FC Dallas,Mls,2015
+1,1,Blas Perez,"$ 6,731","$ 350,000","$ 382,183",F,33,Panama,FC Dallas,Mls,2015
+2,2,David Texeira,"$ 6,500","$ 338,000","$ 369,080",F,23,Uruguay,FC Dallas,Mls,2015
+3,3,Dan Kennedy,"$ 4,481","$ 233,000","$ 254,425",K,31,United States,FC Dallas,Mls,2015
+4,4,Bakary Soumare,"$ 4,327","$ 225,000","$ 245,689",D,28,Mali,FC Dallas,Mls,2015
+5,5,Rolando Escobar,"$ 3,462","$ 180,000","$ 196,551",M,32,Panama,FC Dallas,Mls,2015
+6,6,Zach Loyd,"$ 3,365","$ 175,000","$ 191,092",M,26,United States,FC Dallas,Mls,2015
+7,7,Jevaughn Watson,"$ 3,077","$ 160,000","$ 174,712",M,31,Jamaica,FC Dallas,Mls,2015
+8,8,Fabian Castillo,"$ 2,788","$ 145,000","$ 158,333",F,22,Colombia,FC Dallas,Mls,2015
+9,9,Michel Pereira,"$ 2,692","$ 140,000","$ 152,873",M,33,Brazil,FC Dallas,Mls,2015
+10,10,Matt Hedges,"$ 2,596","$ 135,000","$ 147,414",D,24,United States,FC Dallas,Mls,2015
+11,11,Chris Seitz,"$ 2,500","$ 130,000","$ 141,954",K,27,United States,FC Dallas,Mls,2015
+12,12,Atiba Harris,"$ 2,500","$ 130,000","$ 141,954",M,29,St. Kitts & Nevis,FC Dallas,Mls,2015
+13,13,Ezequiel Cirigliano,"$ 2,404","$ 125,000","$ 136,494",M,22,Argentina,FC Dallas,Mls,2015
+14,14,Walker Zimmerman,"$ 1,923","$ 100,000","$ 109,195",D,21,United States,FC Dallas,Mls,2015
+15,15,Tesho Akindele,"$ 1,346","$ 70,000","$ 76,437",F,22,Canada,FC Dallas,Mls,2015
+16,16,Danny Garcia,"$ 1,346","$ 70,000","$ 76,437",M,20,United States,FC Dallas,Mls,2015
+17,17,Kellyn Acosta,"$ 1,154","$ 60,000","$ 65,517",M,18,United States,FC Dallas,Mls,2015
+18,18,Coy Craft,"$ 1,154","$ 60,000","$ 65,517",F,17,United States,FC Dallas,Mls,2015
+19,19,Jesse Gonzalez,"$ 1,154","$ 60,000","$ 65,517",K,19,United States,FC Dallas,Mls,2015
+20,20,Alejandro Zendejas,"$ 1,154","$ 60,000","$ 65,517",F,16,Mexico,FC Dallas,Mls,2015
+21,21,Michael Barrios,"$ 1,154","$ 60,000","$ 65,517",M,23,Colombia,FC Dallas,Mls,2015
+22,22,Moises Hernandez,"$ 1,154","$ 60,000","$ 65,517",D,22,Guatemala,FC Dallas,Mls,2015
+23,23,Otis Earle,"$ 1,154","$ 60,000","$ 65,517",D,22,England,FC Dallas,Mls,2015
+24,24,Ryan Hollingshead,"$ 1,154","$ 60,000","$ 65,517",M,23,United States,FC Dallas,Mls,2015
+25,25,Stephen Keel,"$ 1,154","$ 60,000","$ 65,517",D,31,United States,FC Dallas,Mls,2015
+26,26,Victor Ulloa,"$ 1,154","$ 60,000","$ 65,517",M,22,Mexico,FC Dallas,Mls,2015
+0,0,DaMarcus Beasley,"$ 14,423","$ 750,000","$ 818,964",D,32,United States,Houston Dynamo,Mls,2015
+1,1,Pecka,"$ 7,692","$ 400,000","$ 436,781",M,32,United States,Houston Dynamo,Mls,2015
+2,2,Erick Torres,"$ 6,731","$ 350,000","$ 382,183",F,21,Mexico,Houston Dynamo,Mls,2015
+3,3,Raul Rodriguez,"$ 6,250","$ 325,000","$ 354,884",D,26,Spain,Houston Dynamo,Mls,2015
+4,4,Kaka,"$ 5,846","$ 304,000","$ 331,953",M,31,United States,Houston Dynamo,Mls,2015
+5,5,Juninho,"$ 4,760","$ 247,500","$ 270,258",M,25,Jamaica,Houston Dynamo,Mls,2015
+6,6,Oscar Boniek Garcia,"$ 4,712","$ 245,000","$ 267,528",F,30,Honduras,Houston Dynamo,Mls,2015
+7,7,Jermaine Taylor,"$ 3,913","$ 203,500","$ 222,212",D,29,Jamaica,Houston Dynamo,Mls,2015
+8,8,Kofi Sarkodie,"$ 3,654","$ 190,000","$ 207,471",D,23,United States,Houston Dynamo,Mls,2015
+9,9,Luis Garrido,"$ 2,885","$ 150,000","$ 163,793",M,23,Honduras,Houston Dynamo,Mls,2015
+10,10,Sheanon Williams,"$ 2,788","$ 145,000","$ 158,333",F,24,United States,Houston Dynamo,Mls,2015
+11,11,Alex,"$ 2,731","$ 142,000","$ 155,057",M,25,Brazil,Houston Dynamo,Mls,2015
+12,12,Will Bruin,"$ 2,692","$ 140,000","$ 152,873",F,24,United States,Houston Dynamo,Mls,2015
+13,13,Alexander Lopez,"$ 2,221","$ 115,500","$ 126,120",M,22,Honduras,Houston Dynamo,Mls,2015
+14,14,Tyler Deric,"$ 2,019","$ 105,000","$ 114,655",K,25,United States,Houston Dynamo,Mls,2015
+15,15,Joe Willis,"$ 1,731","$ 90,000","$ 98,276",K,25,United States,Houston Dynamo,Mls,2015
+16,16,David Horst,"$ 1,514","$ 78,750","$ 85,991",D,28,United States,Houston Dynamo,Mls,2015
+17,17,Nathan Sturgis,"$ 1,370","$ 71,250","$ 77,802",D,26,United States,Houston Dynamo,Mls,2015
+18,18,AJ Cochran,"$ 1,161","$ 60,375","$ 65,927",D,21,United States,Houston Dynamo,Mls,2015
+19,19,Zach Steinberger,"$ 1,154","$ 60,000","$ 65,517",M,22,United States,Houston Dynamo,Mls,2015
+20,20,Michael Lisch,"$ 1,154","$ 60,000","$ 65,517",K,23,United States,Houston Dynamo,Mls,2015
+21,21,Mauro Manotas,"$ 1,154","$ 60,000","$ 65,517",F,18,Colombia,Houston Dynamo,Mls,2015
+22,22,Chandler Hoffman,"$ 1,154","$ 60,000","$ 65,517",F,23,United States,Houston Dynamo,Mls,2015
+23,23,Rasheed Olabiyi,"$ 1,154","$ 60,000","$ 65,517",M,23,Nigeria,Houston Dynamo,Mls,2015
+24,24,Leonel Miranda,"$ 1,154","$ 60,000","$ 65,517",M,20,Argentina,Houston Dynamo,Mls,2015
+25,25,Jose Memo Rodriguez,"$ 1,154","$ 60,000","$ 65,517",M,20,United States,Houston Dynamo,Mls,2015
+26,26,Rob Lovejoy,$ 962,"$ 50,000","$ 54,598",M,22,United States,Houston Dynamo,Mls,2015
+27,27,Taylor Hunter,$ 962,"$ 50,000","$ 54,598",D,20,United States,Houston Dynamo,Mls,2015
+0,0,Steven Gerrard,"$ 119,231","$ 6,200,004","$ 6,770,106",M,34,England,La Galaxy,Mls,2015
+1,1,Robbie Keane,"$ 86,538","$ 4,500,000","$ 4,913,784",F,33,Ireland,La Galaxy,Mls,2015
+2,2,Giovani Dos Santos,"$ 76,923","$ 4,000,008","$ 4,367,816",M,25,Mexico,La Galaxy,Mls,2015
+3,3,Omar Gonzalez,"$ 23,077","$ 1,200,000","$ 1,310,342",D,25,United States,La Galaxy,Mls,2015
+4,4,Juninho,"$ 6,731","$ 350,000","$ 382,183",M,24,Brazil,La Galaxy,Mls,2015
+5,5,Donovan Ricketts,"$ 5,000","$ 260,000","$ 283,907",K,37,Jamaica,La Galaxy,Mls,2015
+6,6,Mika Vayrynen,"$ 3,942","$ 204,996","$ 223,846",M,32,Finland,La Galaxy,Mls,2015
+7,7,AJ DeLaGarza,"$ 3,846","$ 200,000","$ 218,390",D,22,Guam,La Galaxy,Mls,2015
+8,8,Todd Dunivant,"$ 3,558","$ 185,000","$ 202,011",D,33,United States,La Galaxy,Mls,2015
+9,9,Robbie Rogers,"$ 3,365","$ 175,000","$ 191,092",F,27,United States,La Galaxy,Mls,2015
+10,10,Alan Gordon,"$ 3,365","$ 175,000","$ 191,092",F,32,United States,La Galaxy,Mls,2015
+11,11,Gyasi Zardes,"$ 2,885","$ 150,000","$ 163,793",F,22,United States,La Galaxy,Mls,2015
+12,12,Leonardo Ribeiro Da Silva,"$ 2,885","$ 150,000","$ 163,793",D,23,Brazil,La Galaxy,Mls,2015
+13,13,Dan Gargan,"$ 2,404","$ 125,000","$ 136,494",D,31,United States,La Galaxy,Mls,2015
+14,14,Baggio Husidic,"$ 2,404","$ 125,000","$ 136,494",M,27,Bosnia-Herzegovina,La Galaxy,Mls,2015
+15,15,Edson Buddle,"$ 1,923","$ 100,000","$ 109,195",F,33,United States,La Galaxy,Mls,2015
+16,16,Sebastian Lletget,"$ 1,827","$ 95,000","$ 103,735",M,21,United States,La Galaxy,Mls,2015
+17,17,Tommy Meyer,"$ 1,154","$ 60,000","$ 65,517",D,24,United States,La Galaxy,Mls,2015
+18,18,Bradford Jamieson,"$ 1,154","$ 60,000","$ 65,517",F,19,United States,La Galaxy,Mls,2015
+19,19,Brian Perk,"$ 1,154","$ 60,000","$ 65,517",K,24,United States,La Galaxy,Mls,2015
+20,20,Brian Rowe,"$ 1,154","$ 60,000","$ 65,517",K,25,United States,La Galaxy,Mls,2015
+21,21,Charlie Rugg,"$ 1,154","$ 60,000","$ 65,517",F,23,United States,La Galaxy,Mls,2015
+22,22,David Romney,"$ 1,154","$ 60,000","$ 65,517",D,22,United States,La Galaxy,Mls,2015
+23,23,Ignacio Maganto,"$ 1,154","$ 60,000","$ 65,517",M,23,Spain,La Galaxy,Mls,2015
+24,24,Jose Villarreal,"$ 1,154","$ 60,000","$ 65,517",M,20,United States,La Galaxy,Mls,2015
+25,25,Kenney Walker,"$ 1,154","$ 60,000","$ 65,517",M,25,United States,La Galaxy,Mls,2015
+26,26,Oscar Sorto,"$ 1,154","$ 60,000","$ 65,517",D,19,El Salvador,La Galaxy,Mls,2015
+27,27,Rafael Garcia,"$ 1,154","$ 60,000","$ 65,517",M,25,United States,La Galaxy,Mls,2015
+28,28,Raul Mendiola,"$ 1,154","$ 60,000","$ 65,517",F,20,Mexico,La Galaxy,Mls,2015
+29,29,Andrew Wolverton,$ 962,"$ 50,000","$ 54,598",K,21,United States,La Galaxy,Mls,2015
+0,0,Didier Drogba,"$ 32,051","$ 1,666,668","$ 1,819,921",F,36,Cote d'Ivoire,Montreal Impact,Mls,2015
+1,1,Ignacio Piatti,"$ 7,692","$ 400,000","$ 436,781",M,29,Argentina,Montreal Impact,Mls,2015
+2,2,Laurent Ciman,"$ 7,115","$ 370,000","$ 404,022",D,28,Belgium,Montreal Impact,Mls,2015
+3,3,Nigel Reo Coker,"$ 5,288","$ 275,000","$ 300,287",D,30,England,Montreal Impact,Mls,2015
+4,4,Dominic Oduro,"$ 4,808","$ 250,000","$ 272,988",F,28,Ghana,Montreal Impact,Mls,2015
+5,5,Hassoun Camara,"$ 4,519","$ 235,000","$ 256,609",D,30,France,Montreal Impact,Mls,2015
+6,6,Kenny Cooper,"$ 4,231","$ 220,000","$ 240,229",F,28,United States,Montreal Impact,Mls,2015
+7,7,Marco Donadel,"$ 3,654","$ 190,004","$ 207,475",M,31,Italy,Montreal Impact,Mls,2015
+8,8,Justin Mapp,"$ 3,591","$ 186,725","$ 203,895",M,29,United States,Montreal Impact,Mls,2015
+9,9,Dilaver Duka,"$ 3,365","$ 175,000","$ 191,092",M,22,United States,Montreal Impact,Mls,2015
+10,10,Eric Alexander,"$ 2,692","$ 140,000","$ 152,873",M,26,United States,Montreal Impact,Mls,2015
+11,11,Eric Kronberg,"$ 2,538","$ 132,000","$ 144,138",K,30,United States,Montreal Impact,Mls,2015
+12,12,Johan Venegas,"$ 2,308","$ 120,000","$ 131,034",M,25,Costa Rica,Montreal Impact,Mls,2015
+13,13,Ambroise Bitolo,"$ 1,923","$ 100,000","$ 109,195",D,24,Cameroon,Montreal Impact,Mls,2015
+14,14,Andres Romero,"$ 1,923","$ 100,000","$ 109,195",F,24,Argentina,Montreal Impact,Mls,2015
+15,15,Evan Bush,"$ 1,923","$ 100,000","$ 109,195",K,28,United States,Montreal Impact,Mls,2015
+16,16,Patrice Bernier,"$ 1,731","$ 90,000","$ 98,276",F,34,Canada,Montreal Impact,Mls,2015
+17,17,Romario Williams,"$ 1,250","$ 65,000","$ 70,977",F,21,Jamaica,Montreal Impact,Mls,2015
+18,18,Kyle Bekker,"$ 1,188","$ 61,765","$ 67,444",M,23,Canada,Montreal Impact,Mls,2015
+19,19,Eric Miller,"$ 1,161","$ 60,375","$ 65,927",M,21,United States,Montreal Impact,Mls,2015
+20,20,Maxim Tissot,"$ 1,154","$ 60,000","$ 65,517",D,22,Canada,Montreal Impact,Mls,2015
+21,21,Anthony Jackson Hamel,"$ 1,154","$ 60,000","$ 65,517",F,22,Canada,Montreal Impact,Mls,2015
+22,22,Wandrille Lefevre,"$ 1,154","$ 60,000","$ 65,517",M,24,Canada,Montreal Impact,Mls,2015
+23,23,Donny Toia,"$ 1,154","$ 60,000","$ 65,517",D,22,United States,Montreal Impact,Mls,2015
+24,24,Calum Mallace,"$ 1,154","$ 60,000","$ 65,517",M,24,Scotland,Montreal Impact,Mls,2015
+25,25,Maxime Crepeau,"$ 1,154","$ 60,000","$ 65,517",K,20,Canada,Montreal Impact,Mls,2015
+26,26,Jeremy Gagnon Lapare,"$ 1,154","$ 60,000","$ 65,517",M,19,Canada,Montreal Impact,Mls,2015
+27,27,Victor Cabrera,"$ 1,154","$ 60,000","$ 65,517",D,21,Argentina,Montreal Impact,Mls,2015
+28,28,Cameron Porter,$ 962,"$ 50,000","$ 54,598",F,22,United States,Montreal Impact,Mls,2015
+0,0,Jermaine Jones,"$ 53,846","$ 2,800,000","$ 3,057,465",M,32,United States,Ne Revolution,Mls,2015
+1,1,Jose Goncalves,"$ 8,654","$ 450,000","$ 491,378",D,28,Portugal,Ne Revolution,Mls,2015
+2,2,Juan Agudelo,"$ 7,692","$ 400,000","$ 436,781",F,21,United States,Ne Revolution,Mls,2015
+3,3,Teal Bunbury,"$ 3,750","$ 195,000","$ 212,931",F,24,United States,Ne Revolution,Mls,2015
+4,4,Lee Nguyen,"$ 3,365","$ 175,000","$ 191,092",M,27,United States,Ne Revolution,Mls,2015
+5,5,Andy Dorman,"$ 2,788","$ 145,000","$ 158,333",M,32,Wales,Ne Revolution,Mls,2015
+6,6,Kelyn Rowe,"$ 2,692","$ 140,000","$ 152,873",M,22,United States,Ne Revolution,Mls,2015
+7,7,Kevin Alston,"$ 2,692","$ 140,000","$ 152,873",D,26,United States,Ne Revolution,Mls,2015
+8,8,Daigo Kobayashi,"$ 2,596","$ 135,000","$ 147,414",M,31,Japan,Ne Revolution,Mls,2015
+9,9,Diego Fagundez,"$ 2,404","$ 125,000","$ 136,494",F,19,Uruguay,Ne Revolution,Mls,2015
+10,10,Andrew Farrell,"$ 2,260","$ 117,500","$ 128,304",D,22,United States,Ne Revolution,Mls,2015
+11,11,Chris Tierney,"$ 2,115","$ 110,000","$ 120,115",D,28,United States,Ne Revolution,Mls,2015
+12,12,Robert Shuttleworth,"$ 1,947","$ 101,250","$ 110,560",K,22,United States,Ne Revolution,Mls,2015
+13,13,Darrius Barnes,"$ 1,827","$ 95,000","$ 103,735",D,27,United States,Ne Revolution,Mls,2015
+14,14,Brad Knighton,"$ 1,577","$ 82,005","$ 89,546",K,29,United States,Ne Revolution,Mls,2015
+15,15,Charlie Davies,"$ 1,514","$ 78,750","$ 85,991",F,28,United States,Ne Revolution,Mls,2015
+16,16,Steve Neumann,"$ 1,375","$ 71,500","$ 78,075",M,22,United States,Ne Revolution,Mls,2015
+17,17,Jeremy Hall,"$ 1,346","$ 70,000","$ 76,437",D,25,Puerto Rico,Ne Revolution,Mls,2015
+18,18,Zachary Herivaux,"$ 1,154","$ 60,000","$ 65,517",M,18,Haiti,Ne Revolution,Mls,2015
+19,19,Donnie Smith,"$ 1,154","$ 60,000","$ 65,517",M,23,United States,Ne Revolution,Mls,2015
+20,20,London Woodberry,"$ 1,154","$ 60,000","$ 65,517",D,23,United States,Ne Revolution,Mls,2015
+21,21,Scott Caldwell,"$ 1,154","$ 60,000","$ 65,517",M,23,United States,Ne Revolution,Mls,2015
+22,22,Timothy Mulgrew,$ 962,"$ 50,000","$ 54,598",F,23,United States,Ne Revolution,Mls,2015
+23,23,Trevor Spangenberg,$ 962,"$ 50,000","$ 54,598",K,23,United States,Ne Revolution,Mls,2015
+24,24,Tyler Rudy,$ 962,"$ 50,000","$ 54,598",M,20,United States,Ne Revolution,Mls,2015
+25,25,Sean Okoli,$ 962,"$ 50,000","$ 54,598",F,21,United States,Ne Revolution,Mls,2015
+0,0,Frank Lampard,"$ 115,385","$ 6,000,000","$ 6,551,711",M,36,England,Nyc FC,Mls,2015
+1,1,David Villa,"$ 107,885","$ 5,610,000","$ 6,125,850",F,32,Spain,Nyc FC,Mls,2015
+2,2,Andrea Pirlo,"$ 38,462","$ 2,000,004","$ 2,183,908",M,35,Italy,Nyc FC,Mls,2015
+3,3,Mix Diskerud,"$ 14,423","$ 750,000","$ 818,964",M,23,United States,Nyc FC,Mls,2015
+4,4,Chris Wingert,"$ 4,135","$ 215,000","$ 234,770",D,32,United States,Nyc FC,Mls,2015
+5,5,Andoni Iraola,"$ 3,846","$ 200,004","$ 218,395",D,32,Spain,Nyc FC,Mls,2015
+6,6,Ned Grabavoy,"$ 3,846","$ 200,000","$ 218,390",M,31,United States,Nyc FC,Mls,2015
+7,7,Javier Calle,"$ 3,846","$ 200,000","$ 218,390",M,23,Colombia,Nyc FC,Mls,2015
+8,8,Jefferson Mena,"$ 3,846","$ 200,000","$ 218,390",D,25,Colombia,Nyc FC,Mls,2015
+9,9,Jason Hernandez,"$ 3,365","$ 175,000","$ 191,092",D,30,Puerto Rico,Nyc FC,Mls,2015
+10,10,Andrew Jacobson,"$ 2,885","$ 150,000","$ 163,793",M,28,United States,Nyc FC,Mls,2015
+11,11,Jeb Brovsky,"$ 2,356","$ 122,500","$ 133,764",M,25,United States,Nyc FC,Mls,2015
+12,12,Shay Facey,"$ 2,308","$ 120,000","$ 131,034",D,19,England,Nyc FC,Mls,2015
+13,13,Josh Saunders,"$ 1,731","$ 90,000","$ 98,276",K,33,Puerto Rico,Nyc FC,Mls,2015
+14,14,Patrick Mullins,"$ 1,538","$ 80,000","$ 87,356",F,22,United States,Nyc FC,Mls,2015
+15,15,Tony Taylor,"$ 1,442","$ 75,000","$ 81,896",F,24,Panama,Nyc FC,Mls,2015
+16,16,Ryan Meara,"$ 1,378","$ 71,663","$ 78,253",K,23,Ireland,Nyc FC,Mls,2015
+17,17,Khiry Shelton,"$ 1,346","$ 70,000","$ 76,437",F,22,United States,Nyc FC,Mls,2015
+18,18,Mehdi Ballouchy,"$ 1,313","$ 68,250","$ 74,526",M,31,Morocco,Nyc FC,Mls,2015
+19,19,Kwame Watson Siriboe,"$ 1,250","$ 65,000","$ 70,977",D,27,United States,Nyc FC,Mls,2015
+20,20,Sebastian Velasquez,"$ 1,154","$ 60,000","$ 65,517",M,23,United States,Nyc FC,Mls,2015
+21,21,RJ Allen,"$ 1,154","$ 60,000","$ 65,517",D,25,United States,Nyc FC,Mls,2015
+22,22,Kwadwo Poku,"$ 1,154","$ 60,000","$ 65,517",M,22,Ghana,Nyc FC,Mls,2015
+23,23,Pablo Alvarez,"$ 1,154","$ 60,000","$ 65,517",M,34,Spain,Nyc FC,Mls,2015
+24,24,Jose Angel Tasende,"$ 1,154","$ 60,000","$ 65,517",D,18,Spain,Nyc FC,Mls,2015
+25,25,Thomas McNamara,"$ 1,154","$ 60,000","$ 65,517",M,24,United States,Nyc FC,Mls,2015
+26,26,Connor Brandt,$ 962,"$ 50,000","$ 54,598",M,21,United States,Nyc FC,Mls,2015
+27,27,Eirik Johansen,$ 962,"$ 50,000","$ 54,598",K,21,Norway,Nyc FC,Mls,2015
+0,0,Bradley Wright Phillips,"$ 11,538","$ 600,000","$ 655,171",F,29,England,Ny Red Bulls,Mls,2015
+1,1,Sacha Kljestan,"$ 7,692","$ 400,000","$ 436,781",M,28,United States,Ny Red Bulls,Mls,2015
+2,2,Ronald Zubar,"$ 4,615","$ 240,000","$ 262,068",D,28,Guadeloupe,Ny Red Bulls,Mls,2015
+3,3,Lloyd Sam,"$ 4,423","$ 230,000","$ 251,149",F,29,Ghana,Ny Red Bulls,Mls,2015
+4,4,Dax McCarty,"$ 4,231","$ 220,000","$ 240,229",M,27,United States,Ny Red Bulls,Mls,2015
+5,5,Gonzalo Veron,"$ 3,846","$ 200,004","$ 218,395",M,24,Argentina,Ny Red Bulls,Mls,2015
+6,6,Roy Miller,"$ 3,846","$ 200,000","$ 218,390",M,29,Costa Rica,Ny Red Bulls,Mls,2015
+7,7,Felipe Martins,"$ 3,365","$ 175,000","$ 191,092",M,23,Brazil,Ny Red Bulls,Mls,2015
+8,8,Damien Perrinelle,"$ 2,538","$ 132,000","$ 144,138",D,30,France,Ny Red Bulls,Mls,2015
+9,9,Luis Robles,"$ 2,500","$ 130,000","$ 141,954",K,30,United States,Ny Red Bulls,Mls,2015
+10,10,Shaun Wright Phillips,"$ 2,231","$ 116,004","$ 126,671",M,32,England,Ny Red Bulls,Mls,2015
+11,11,Dane Richards,"$ 2,019","$ 105,000","$ 114,655",M,30,Jamaica,Ny Red Bulls,Mls,2015
+12,12,Kyle Reynish,"$ 1,654","$ 86,000","$ 93,908",K,30,United States,Ny Red Bulls,Mls,2015
+13,13,Sal Zizzo,"$ 1,555","$ 80,850","$ 88,284",F,27,United States,Ny Red Bulls,Mls,2015
+14,14,Sean Davis,"$ 1,538","$ 80,000","$ 87,356",M,21,United States,Ny Red Bulls,Mls,2015
+15,15,Leo Stolz,"$ 1,346","$ 70,000","$ 76,437",M,23,Germany,Ny Red Bulls,Mls,2015
+16,16,Matt Miazga,"$ 1,313","$ 68,250","$ 74,526",D,18,United States,Ny Red Bulls,Mls,2015
+17,17,Connor Lade,"$ 1,166","$ 60,638","$ 66,214",D,24,United States,Ny Red Bulls,Mls,2015
+18,18,Kemar Lawrence,"$ 1,154","$ 60,000","$ 65,517",D,21,Jamaica,Ny Red Bulls,Mls,2015
+19,19,Chris Duvall,"$ 1,154","$ 60,000","$ 65,517",D,22,United States,Ny Red Bulls,Mls,2015
+20,20,Anthony Wallace,"$ 1,154","$ 60,000","$ 65,517",M,25,United States,Ny Red Bulls,Mls,2015
+21,21,Karl Ouimette,"$ 1,154","$ 60,000","$ 65,517",D,22,Canada,Ny Red Bulls,Mls,2015
+22,22,Santiago Castano,"$ 1,154","$ 60,000","$ 65,517",K,19,United States,Ny Red Bulls,Mls,2015
+23,23,Mike Grella,"$ 1,154","$ 60,000","$ 65,517",F,27,United States,Ny Red Bulls,Mls,2015
+24,24,Shawn McLaws,$ 962,"$ 50,000","$ 54,598",D,20,United States,Ny Red Bulls,Mls,2015
+25,25,Emmanuel Sanchez,$ 962,"$ 50,000","$ 54,598",M,24,United States,Ny Red Bulls,Mls,2015
+26,26,Marius Obekop,$ 962,"$ 50,000","$ 54,598",M,19,Cameroon,Ny Red Bulls,Mls,2015
+27,27,Anatole Abang,$ 962,"$ 50,000","$ 54,598",F,19,Cameroon,Ny Red Bulls,Mls,2015
+0,0,Kaka,"$ 128,077","$ 6,660,000","$ 7,272,400",M,32,Brazil,Orlando City,Mls,2015
+1,1,Aurelien Collin,"$ 9,615","$ 500,000","$ 545,976",D,28,France,Orlando City,Mls,2015
+2,2,Brek Shea,"$ 9,135","$ 475,000","$ 518,677",M,24,United States,Orlando City,Mls,2015
+3,3,David Mateos,"$ 5,769","$ 300,000","$ 327,586",D,27,Spain,Orlando City,Mls,2015
+4,4,Tally Hall,"$ 4,135","$ 215,000","$ 234,770",K,29,United States,Orlando City,Mls,2015
+5,5,Bryan Rochez,"$ 3,846","$ 200,000","$ 218,390",F,19,Honduras,Orlando City,Mls,2015
+6,6,Adrian Winter,"$ 3,462","$ 180,000","$ 196,551",M,27,Switzerland,Orlando City,Mls,2015
+7,7,Corey Ashe,"$ 3,462","$ 180,000","$ 196,551",M,28,United States,Orlando City,Mls,2015
+8,8,Cyle Larin,"$ 2,404","$ 125,000","$ 136,494",F,19,Canada,Orlando City,Mls,2015
+9,9,Lewis Neal,"$ 2,163","$ 112,500","$ 122,845",M,32,England,Orlando City,Mls,2015
+10,10,Sebastian Hines,"$ 2,088","$ 108,576","$ 118,560",D,27,England,Orlando City,Mls,2015
+11,11,Kevin Molino,"$ 1,923","$ 100,000","$ 109,195",M,24,Trinidad and Tobago,Orlando City,Mls,2015
+12,12,Tommy Redding,"$ 1,635","$ 85,000","$ 92,816",D,17,United States,Orlando City,Mls,2015
+13,13,Servando Carrasco,"$ 1,553","$ 80,750","$ 88,175",M,25,United States,Orlando City,Mls,2015
+14,14,Conor Donovan,"$ 1,538","$ 80,000","$ 87,356",D,18,United States,Orlando City,Mls,2015
+15,15,Tony Cascio,"$ 1,510","$ 78,529","$ 85,750",M,24,United States,Orlando City,Mls,2015
+16,16,Danny Mwanga,"$ 1,442","$ 75,000","$ 81,896",F,22,Democratic Republic of Congo,Orlando City,Mls,2015
+17,17,Luke Boden,"$ 1,442","$ 75,000","$ 81,896",D,25,England,Orlando City,Mls,2015
+18,18,Eric Avila,"$ 1,385","$ 72,000","$ 78,621",M,26,United States,Orlando City,Mls,2015
+19,19,Darwin Ceren,"$ 1,269","$ 66,000","$ 72,069",M,24,El Salvador,Orlando City,Mls,2015
+20,20,Adam Bedell,"$ 1,154","$ 60,000","$ 65,517",F,22,United States,Orlando City,Mls,2015
+21,21,Carlos Rivas,"$ 1,154","$ 60,000","$ 65,517",M,20,Colombia,Orlando City,Mls,2015
+22,22,Cristian Higuita,"$ 1,154","$ 60,000","$ 65,517",M,20,Colombia,Orlando City,Mls,2015
+23,23,Harrison Heath,"$ 1,154","$ 60,000","$ 65,517",M,18,England,Orlando City,Mls,2015
+24,24,Josh Ford,"$ 1,154","$ 60,000","$ 65,517",K,26,United States,Orlando City,Mls,2015
+25,25,Pedro Ribeiro,"$ 1,154","$ 60,000","$ 65,517",M,24,Brazil,Orlando City,Mls,2015
+26,26,Tyler Turner,"$ 1,154","$ 60,000","$ 65,517",D,18,United States,Orlando City,Mls,2015
+27,27,Rafael Ramos,$ 962,"$ 50,000","$ 54,598",D,19,Portugal,Orlando City,Mls,2015
+28,28,Earl Edwards,$ 962,"$ 50,000","$ 54,598",K,23,United States,Orlando City,Mls,2015
+29,29,Valdomiro Lameira,$ 962,"$ 50,000","$ 54,598",M,20,Portugal,Orlando City,Mls,2015
+30,30,Sidney Rivera,$ 962,"$ 50,000","$ 54,598",F,22,Puerto Rico,Orlando City,Mls,2015
+0,0,Maurice Edu,"$ 13,462","$ 700,000","$ 764,366",M,28,United States,Philadelphia Union,Mls,2015
+1,1,Tranquillo Barnetta,"$ 12,000","$ 624,000","$ 681,378",M,29,Switzerland,Philadelphia Union,Mls,2015
+2,2,Steven Vitoria,"$ 7,692","$ 400,000","$ 436,781",D,27,Canada,Philadelphia Union,Mls,2015
+3,3,Fernando Aristeguieta,"$ 6,731","$ 350,004","$ 382,188",F,22,Venezuela,Philadelphia Union,Mls,2015
+4,4,Vincent Nogueira,"$ 6,346","$ 330,000","$ 360,344",M,26,France,Philadelphia Union,Mls,2015
+5,5,Sebastien Le Toux,"$ 5,288","$ 275,000","$ 300,287",M,30,France,Philadelphia Union,Mls,2015
+6,6,Cristian Maidana,"$ 3,913","$ 203,500","$ 222,212",F,27,Argentina,Philadelphia Union,Mls,2015
+7,7,Andrew Wenger,"$ 3,462","$ 180,000","$ 196,551",D,23,United States,Philadelphia Union,Mls,2015
+8,8,Conor Casey,"$ 3,462","$ 180,000","$ 196,551",F,32,United States,Philadelphia Union,Mls,2015
+9,9,Brian Carroll,"$ 2,885","$ 150,000","$ 163,793",M,32,United States,Philadelphia Union,Mls,2015
+10,10,Raymon Gaddis,"$ 2,500","$ 130,000","$ 141,954",D,24,United States,Philadelphia Union,Mls,2015
+11,11,Danny Cruz,"$ 2,404","$ 125,000","$ 136,494",M,19,United States,Philadelphia Union,Mls,2015
+12,12,CJ Sapong,"$ 2,404","$ 125,000","$ 136,494",F,26,United States,Philadelphia Union,Mls,2015
+13,13,Ethan White,"$ 2,404","$ 125,000","$ 136,494",D,23,United States,Philadelphia Union,Mls,2015
+14,14,Fabinho,"$ 2,192","$ 114,000","$ 124,483",D,30,Brazil,Philadelphia Union,Mls,2015
+15,15,Michael Lahoud,"$ 2,094","$ 108,900","$ 118,914",M,27,Sierra Leone,Philadelphia Union,Mls,2015
+16,16,Warren Creavalle,"$ 2,087","$ 108,500","$ 118,477",D,23,Guyana,Philadelphia Union,Mls,2015
+17,17,Austin Berry,"$ 1,798","$ 93,519","$ 102,118",D,23,United States,Philadelphia Union,Mls,2015
+18,18,Andre Blake,"$ 1,635","$ 85,000","$ 92,816",K,23,Jamaica,Philadelphia Union,Mls,2015
+19,19,Zach Pfeffer,"$ 1,154","$ 60,000","$ 65,517",M,19,United States,Philadelphia Union,Mls,2015
+20,20,John McCarthy,"$ 1,154","$ 60,000","$ 65,517",K,21,United States,Philadelphia Union,Mls,2015
+21,21,James McLaughlin,"$ 1,154","$ 60,000","$ 65,517",M,20,United States,Philadelphia Union,Mls,2015
+22,22,Fred Carreiro,"$ 1,154","$ 60,000","$ 65,517",M,36,Brazil,Philadelphia Union,Mls,2015
+23,23,Richard Marquez,"$ 1,154","$ 60,000","$ 65,517",D,23,United States,Philadelphia Union,Mls,2015
+24,24,Eric Bird,"$ 1,154","$ 60,000","$ 65,517",M,22,United States,Philadelphia Union,Mls,2015
+25,25,Leo Fernandes,"$ 1,154","$ 60,000","$ 65,517",M,21,Brazil,Philadelphia Union,Mls,2015
+26,26,Dzenan Catic,"$ 1,154","$ 60,000","$ 65,517",F,23,Bosnia-Herzegovina,Philadelphia Union,Mls,2015
+27,27,Brian Sylvestre,"$ 1,154","$ 60,000","$ 65,517",K,21,Haiti,Philadelphia Union,Mls,2015
+28,28,Antoine Hoppenot,"$ 1,154","$ 60,000","$ 65,517",F,23,United States,Philadelphia Union,Mls,2015
+29,29,Eric Ayuk,$ 962,"$ 50,000","$ 54,598",M,17,Cameroon,Philadelphia Union,Mls,2015
+0,0,Liam Ridgewell,"$ 19,231","$ 1,000,000","$ 1,091,952",D,29,England,Portland Timbers,Mls,2015
+1,1,Lucas Melano,"$ 15,384","$ 799,992","$ 873,553",F,21,Argentina,Portland Timbers,Mls,2015
+2,2,Fanendo Adi,"$ 12,529","$ 651,500","$ 711,407",F,23,Nigeria,Portland Timbers,Mls,2015
+3,3,Diego Valeri,"$ 10,577","$ 550,000","$ 600,574",M,28,Argentina,Portland Timbers,Mls,2015
+4,4,Will Johnson,"$ 6,038","$ 314,000","$ 342,873",F,27,Canada,Portland Timbers,Mls,2015
+5,5,Adam Kwarasey,"$ 5,000","$ 260,000","$ 283,907",K,26,Ghana,Portland Timbers,Mls,2015
+6,6,Darlington Nagbe,"$ 4,692","$ 244,000","$ 266,436",M,23,United States,Portland Timbers,Mls,2015
+7,7,Nat Borchers,"$ 4,519","$ 235,000","$ 256,609",D,33,United States,Portland Timbers,Mls,2015
+8,8,Maximiliano Urruti,"$ 3,846","$ 200,000","$ 218,390",F,23,Argentina,Portland Timbers,Mls,2015
+9,9,Diego Chara,"$ 3,269","$ 170,000","$ 185,632",M,28,Colombia,Portland Timbers,Mls,2015
+10,10,Rodney Wallace,"$ 3,173","$ 165,000","$ 180,172",M,26,Costa Rica,Portland Timbers,Mls,2015
+11,11,Jorge Villafana,"$ 2,500","$ 130,000","$ 141,954",F,24,United States,Portland Timbers,Mls,2015
+12,12,Norberto Paparatto,"$ 2,308","$ 120,000","$ 131,034",D,30,Argentina,Portland Timbers,Mls,2015
+13,13,Jack Jewsbury,"$ 2,308","$ 120,000","$ 131,034",D,33,United States,Portland Timbers,Mls,2015
+14,14,Ben Zemanski,"$ 1,558","$ 81,033","$ 88,484",M,26,United States,Portland Timbers,Mls,2015
+15,15,Jake Gleeson,"$ 1,396","$ 72,600","$ 79,276",K,24,New Zealand,Portland Timbers,Mls,2015
+16,16,Nick Besler,"$ 1,250","$ 65,000","$ 70,977",M,21,United States,Portland Timbers,Mls,2015
+17,17,Alvas Powell,"$ 1,154","$ 60,000","$ 65,517",D,19,Jamaica,Portland Timbers,Mls,2015
+18,18,Jeanderson Pereira,"$ 1,154","$ 60,000","$ 65,517",D,24,Brazil,Portland Timbers,Mls,2015
+19,19,Andy Thoma,"$ 1,154","$ 60,000","$ 65,517",D,21,United States,Portland Timbers,Mls,2015
+20,20,Andrew Weber,"$ 1,154","$ 60,000","$ 65,517",K,30,United States,Portland Timbers,Mls,2015
+21,21,Michael Nanchoff,"$ 1,154","$ 60,000","$ 65,517",M,25,United States,Portland Timbers,Mls,2015
+22,22,Michael Seaton,"$ 1,154","$ 60,000","$ 65,517",F,18,Jamaica,Portland Timbers,Mls,2015
+23,23,Dairon Asprilla,"$ 1,154","$ 60,000","$ 65,517",F,22,Colombia,Portland Timbers,Mls,2015
+24,24,Anthony Manning,$ 962,"$ 50,000","$ 54,598",D,21,United States,Portland Timbers,Mls,2015
+25,25,Taylor Peay,$ 962,"$ 50,000","$ 54,598",D,22,United States,Portland Timbers,Mls,2015
+26,26,George Fochive,$ 962,"$ 50,000","$ 54,598",M,22,United States,Portland Timbers,Mls,2015
+0,0,Juan Manuel Martinez,"$ 13,654","$ 710,000","$ 775,286",F,28,Argentina,Real Salt Lake,Mls,2015
+1,1,Kyle Beckerman,"$ 12,019","$ 625,000","$ 682,470",M,32,United States,Real Salt Lake,Mls,2015
+2,2,Nick Rimando,"$ 6,731","$ 350,000","$ 382,183",K,35,United States,Real Salt Lake,Mls,2015
+3,3,Javier Morales,"$ 5,769","$ 300,000","$ 327,586",M,34,Argentina,Real Salt Lake,Mls,2015
+4,4,Jamison Olave,"$ 5,577","$ 290,000","$ 316,666",D,33,Colombia,Real Salt Lake,Mls,2015
+5,5,Luis Gil,"$ 4,615","$ 240,000","$ 262,068",M,20,United States,Real Salt Lake,Mls,2015
+6,6,Sebastian Jaime,"$ 3,846","$ 200,000","$ 218,390",F,27,Argentina,Real Salt Lake,Mls,2015
+7,7,Anthony Beltran,"$ 3,750","$ 195,000","$ 212,931",D,21,United States,Real Salt Lake,Mls,2015
+8,8,Chris Schuler,"$ 3,173","$ 165,000","$ 180,172",D,26,United States,Real Salt Lake,Mls,2015
+9,9,Joao Plata,"$ 2,885","$ 150,000","$ 163,793",F,22,Ecuador,Real Salt Lake,Mls,2015
+10,10,Demar Phillips,"$ 2,692","$ 140,000","$ 152,873",D,30,Jamaica,Real Salt Lake,Mls,2015
+11,11,Luis Silva,"$ 2,527","$ 131,384","$ 143,465",M,25,United States,Real Salt Lake,Mls,2015
+12,12,Olmes Garcia,"$ 2,500","$ 130,000","$ 141,954",F,21,Colombia,Real Salt Lake,Mls,2015
+13,13,Elias Vasquez,"$ 2,115","$ 110,000","$ 120,115",D,22,Guatemala,Real Salt Lake,Mls,2015
+14,14,Luke Mulholland,"$ 1,587","$ 82,500","$ 90,086",M,25,England,Real Salt Lake,Mls,2015
+15,15,Jordan Allen,"$ 1,538","$ 80,000","$ 87,356",M,19,United States,Real Salt Lake,Mls,2015
+16,16,Aaron Maund,"$ 1,154","$ 60,000","$ 65,517",D,23,Trinidad and Tobago,Real Salt Lake,Mls,2015
+17,17,Adolfo Ovalle,"$ 1,154","$ 60,000","$ 65,517",M,18,Chile,Real Salt Lake,Mls,2015
+18,18,Boyd Okwuonu,"$ 1,154","$ 60,000","$ 65,517",D,21,United States,Real Salt Lake,Mls,2015
+19,19,Devon Sandoval,"$ 1,154","$ 60,000","$ 65,517",F,23,United States,Real Salt Lake,Mls,2015
+20,20,Eduardo Fernandez,"$ 1,154","$ 60,000","$ 65,517",K,21,Mexico,Real Salt Lake,Mls,2015
+21,21,Jeff Attinella,"$ 1,154","$ 60,000","$ 65,517",K,25,United States,Real Salt Lake,Mls,2015
+22,22,John Stertzer,"$ 1,154","$ 60,000","$ 65,517",M,23,United States,Real Salt Lake,Mls,2015
+23,23,Justen Glad,"$ 1,154","$ 60,000","$ 65,517",D,17,United States,Real Salt Lake,Mls,2015
+24,24,Kenny Mansally,"$ 1,154","$ 60,000","$ 65,517",F,22,The Gambia,Real Salt Lake,Mls,2015
+25,25,Pecka,"$ 1,154","$ 60,000","$ 65,517",M,25,Brazil,Real Salt Lake,Mls,2015
+26,26,Phanuel Kavita,$ 962,"$ 50,000","$ 54,598",D,21,Democratic Republic of Congo,Real Salt Lake,Mls,2015
+27,27,Sebastian Saucedo,$ 962,"$ 50,000","$ 54,598",M,17,United States,Real Salt Lake,Mls,2015
+0,0,Innocent Emeghara,"$ 19,000","$ 988,000","$ 1,078,848",F,25,Switzerland,San Jose Earthquakes,Mls,2015
+1,1,Chris Wondolowski,"$ 12,019","$ 625,000","$ 682,470",M,31,United States,San Jose Earthquakes,Mls,2015
+2,2,Clarence Goodson,"$ 6,058","$ 315,000","$ 343,965",D,32,United States,San Jose Earthquakes,Mls,2015
+3,3,Jean Baptiste Pierazzi,"$ 5,000","$ 260,000","$ 283,907",M,29,France,San Jose Earthquakes,Mls,2015
+4,4,Matias Perez,"$ 4,615","$ 240,000","$ 262,068",M,31,Argentina,San Jose Earthquakes,Mls,2015
+5,5,Anibal Godoy,"$ 3,923","$ 204,000","$ 222,758",M,24,Panama,San Jose Earthquakes,Mls,2015
+6,6,Victor Bernardez,"$ 3,846","$ 200,000","$ 218,390",D,32,Honduras,San Jose Earthquakes,Mls,2015
+7,7,Marvell Wynne,"$ 3,654","$ 190,000","$ 207,471",D,28,United States,San Jose Earthquakes,Mls,2015
+8,8,Jordan Stewart,"$ 2,885","$ 150,000","$ 163,793",M,32,England,San Jose Earthquakes,Mls,2015
+9,9,Steven Lenhart,"$ 2,885","$ 150,000","$ 163,793",F,27,United States,San Jose Earthquakes,Mls,2015
+10,10,Shea Salinas,"$ 2,788","$ 145,000","$ 158,333",M,28,United States,San Jose Earthquakes,Mls,2015
+11,11,Tommy Thompson,"$ 2,692","$ 140,000","$ 152,873",M,18,United States,San Jose Earthquakes,Mls,2015
+12,12,David Bingham,"$ 2,500","$ 130,000","$ 141,954",K,24,United States,San Jose Earthquakes,Mls,2015
+13,13,Sanna Nyassi,"$ 2,308","$ 120,000","$ 131,034",M,25,The Gambia,San Jose Earthquakes,Mls,2015
+14,14,Quincy Amarikwa,"$ 1,923","$ 100,000","$ 109,195",F,26,United States,San Jose Earthquakes,Mls,2015
+15,15,Paulo Renato,"$ 1,846","$ 96,000","$ 104,827",D,27,Portugal,San Jose Earthquakes,Mls,2015
+16,16,Khari Stephenson,"$ 1,313","$ 68,254","$ 74,530",M,33,Jamaica,San Jose Earthquakes,Mls,2015
+17,17,Michael Fucito,"$ 1,166","$ 60,638","$ 66,214",M,23,United States,San Jose Earthquakes,Mls,2015
+18,18,Marc Pelosi,"$ 1,154","$ 60,000","$ 65,517",M,20,United States,San Jose Earthquakes,Mls,2015
+19,19,Bryan Meredith,"$ 1,154","$ 60,000","$ 65,517",K,24,United States,San Jose Earthquakes,Mls,2015
+20,20,Cordell Cato,"$ 1,154","$ 60,000","$ 65,517",F,21,Trinidad and Tobago,San Jose Earthquakes,Mls,2015
+21,21,Fatai Alashe,"$ 1,154","$ 60,000","$ 65,517",M,20,United States,San Jose Earthquakes,Mls,2015
+22,22,JJ Koval,"$ 1,154","$ 60,000","$ 65,517",M,23,United States,San Jose Earthquakes,Mls,2015
+23,23,Leandro Barrera,"$ 1,154","$ 60,000","$ 65,517",F,23,Argentina,San Jose Earthquakes,Mls,2015
+24,24,Adam Jahn,"$ 1,154","$ 60,000","$ 65,517",F,23,United States,San Jose Earthquakes,Mls,2015
+25,25,Mark Sherrod,"$ 1,154","$ 60,000","$ 65,517",F,23,United States,San Jose Earthquakes,Mls,2015
+26,26,Shaun Francis,"$ 1,154","$ 60,000","$ 65,517",D,27,Jamaica,San Jose Earthquakes,Mls,2015
+27,27,Tomas Gomez,$ 962,"$ 50,000","$ 54,598",K,21,United States,San Jose Earthquakes,Mls,2015
+28,28,Matheus Silva,$ 962,"$ 50,000","$ 54,598",D,17,Brazil,San Jose Earthquakes,Mls,2015
+0,0,Clint Dempsey,"$ 75,250","$ 3,913,008","$ 4,272,817",F,31,United States,Seattle Sounders,Mls,2015
+1,1,Obafemi Martins,"$ 46,154","$ 2,400,000","$ 2,620,685",F,29,Nigeria,Seattle Sounders,Mls,2015
+2,2,Nelson Valdez,"$ 18,462","$ 960,000","$ 1,048,274",F,30,Paraguay,Seattle Sounders,Mls,2015
+3,3,Osvaldo Alonso,"$ 14,385","$ 748,000","$ 816,780",M,28,Cuba,Seattle Sounders,Mls,2015
+4,4,Roman Torres,"$ 8,423","$ 438,000","$ 478,275",D,28,Panama,Seattle Sounders,Mls,2015
+5,5,Brad Evans,"$ 5,320","$ 276,665","$ 302,105",F,29,United States,Seattle Sounders,Mls,2015
+6,6,Chad Marshall,"$ 5,288","$ 275,000","$ 300,287",D,29,United States,Seattle Sounders,Mls,2015
+7,7,Andreas Ivanschitz,"$ 3,462","$ 180,000","$ 196,551",M,30,Austria,Seattle Sounders,Mls,2015
+8,8,Erik Friberg,"$ 3,462","$ 180,000","$ 196,551",M,28,Sweden,Seattle Sounders,Mls,2015
+9,9,Tyrone Mears,"$ 3,173","$ 165,000","$ 180,172",D,31,England,Seattle Sounders,Mls,2015
+10,10,Stefan Frei,"$ 3,173","$ 165,000","$ 180,172",K,28,United States,Seattle Sounders,Mls,2015
+11,11,Lamar Neagle,"$ 3,173","$ 165,000","$ 180,172",M,27,United States,Seattle Sounders,Mls,2015
+12,12,Leonardo Gonzalez,"$ 3,173","$ 165,000","$ 180,172",D,33,Costa Rica,Seattle Sounders,Mls,2015
+13,13,Gonzalo Pineda,"$ 3,077","$ 160,000","$ 174,712",M,31,Mexico,Seattle Sounders,Mls,2015
+14,14,Troy Perkins,"$ 2,500","$ 130,000","$ 141,954",K,32,United States,Seattle Sounders,Mls,2015
+15,15,Thomas Bedinelli,"$ 2,077","$ 108,000","$ 117,931",M,22,Brazil,Seattle Sounders,Mls,2015
+16,16,Chad Barrett,"$ 1,827","$ 95,000","$ 103,735",F,29,United States,Seattle Sounders,Mls,2015
+17,17,Cristian Roldan,"$ 1,538","$ 80,000","$ 87,356",M,19,United States,Seattle Sounders,Mls,2015
+18,18,Marco Pappa,"$ 1,442","$ 75,000","$ 81,896",M,26,Guatemala,Seattle Sounders,Mls,2015
+19,19,Zach Scott,"$ 1,250","$ 65,000","$ 70,977",D,33,United States,Seattle Sounders,Mls,2015
+20,20,Damion Lowe,"$ 1,161","$ 60,375","$ 65,927",D,21,Jamaica,Seattle Sounders,Mls,2015
+21,21,Jimmy Ockford,"$ 1,154","$ 60,000","$ 65,517",D,22,United States,Seattle Sounders,Mls,2015
+22,22,Andres Correa,"$ 1,154","$ 60,000","$ 65,517",D,20,Colombia,Seattle Sounders,Mls,2015
+23,23,Andy Craven,"$ 1,154","$ 60,000","$ 65,517",F,23,United States,Seattle Sounders,Mls,2015
+24,24,Andy Rose,"$ 1,154","$ 60,000","$ 65,517",M,24,Australia,Seattle Sounders,Mls,2015
+25,25,Darwin Jones,"$ 1,154","$ 60,000","$ 65,517",F,22,United States,Seattle Sounders,Mls,2015
+26,26,Dylan Remick,"$ 1,154","$ 60,000","$ 65,517",D,23,United States,Seattle Sounders,Mls,2015
+27,27,Aaron Kovar,"$ 1,154","$ 60,000","$ 65,517",M,20,United States,Seattle Sounders,Mls,2015
+28,28,Michael Azira,"$ 1,154","$ 60,000","$ 65,517",D,28,Uganda,Seattle Sounders,Mls,2015
+29,29,Oniel Fisher,$ 962,"$ 50,000","$ 54,598",D,22,Jamaica,Seattle Sounders,Mls,2015
+30,30,Victor Mansaray,$ 962,"$ 50,000","$ 54,598",F,17,United States,Seattle Sounders,Mls,2015
+31,31,Charlie Lyon,$ 962,"$ 50,000","$ 54,598",K,22,United States,Seattle Sounders,Mls,2015
+0,0,Roger Espinoza,"$ 14,423","$ 750,000","$ 818,964",M,27,Honduras,Sporting Kc,Mls,2015
+1,1,Graham Zusi,"$ 12,500","$ 650,000","$ 709,769",F,27,United States,Sporting Kc,Mls,2015
+2,2,Matt Besler,"$ 12,500","$ 650,000","$ 709,769",D,27,United States,Sporting Kc,Mls,2015
+3,3,Dom Dwyer,"$ 7,692","$ 400,000","$ 436,781",F,23,United States,Sporting Kc,Mls,2015
+4,4,Benny Feilhaber,"$ 6,731","$ 350,000","$ 382,183",M,29,United States,Sporting Kc,Mls,2015
+5,5,Amobi Okugo,"$ 5,288","$ 275,000","$ 300,287",M,23,United States,Sporting Kc,Mls,2015
+6,6,Krisztian Nemeth,"$ 4,808","$ 250,000","$ 272,988",F,25,Hungary,Sporting Kc,Mls,2015
+7,7,Soni Mustivar,"$ 4,808","$ 250,000","$ 272,988",M,24,Haiti,Sporting Kc,Mls,2015
+8,8,Paulo Nagamura,"$ 4,423","$ 230,000","$ 251,149",M,31,Brazil,Sporting Kc,Mls,2015
+9,9,Marcel de Jong,"$ 3,462","$ 180,000","$ 196,551",D,27,Canada,Sporting Kc,Mls,2015
+10,10,Chance Myers,"$ 3,269","$ 170,000","$ 185,632",D,26,United States,Sporting Kc,Mls,2015
+11,11,Seth Sinovic,"$ 2,692","$ 140,000","$ 152,873",M,27,United States,Sporting Kc,Mls,2015
+12,12,Bernardo Anor,"$ 2,596","$ 135,000","$ 147,414",M,26,Venezuela,Sporting Kc,Mls,2015
+13,13,Jacob Peterson,"$ 2,375","$ 123,500","$ 134,856",F,28,United States,Sporting Kc,Mls,2015
+14,14,Jalil Anibaba,"$ 2,308","$ 120,000","$ 131,034",D,25,United States,Sporting Kc,Mls,2015
+15,15,Ike Opara,"$ 2,212","$ 115,000","$ 125,574",D,25,United States,Sporting Kc,Mls,2015
+16,16,Mikey Lopez,"$ 1,923","$ 100,000","$ 109,195",M,21,United States,Sporting Kc,Mls,2015
+17,17,Jonathan Kempin,"$ 1,635","$ 85,000","$ 92,816",K,19,United States,Sporting Kc,Mls,2015
+18,18,Tim Melia,"$ 1,538","$ 80,000","$ 87,356",K,28,United States,Sporting Kc,Mls,2015
+19,19,Saad Abdul Salaam,"$ 1,154","$ 60,000","$ 65,517",D,22,United States,Sporting Kc,Mls,2015
+20,20,Erik Palmer Brown,"$ 1,154","$ 60,000","$ 65,517",D,17,United States,Sporting Kc,Mls,2015
+21,21,Connor Hallisey,"$ 1,154","$ 60,000","$ 65,517",M,20,United States,Sporting Kc,Mls,2015
+22,22,Jimmy Medranda,"$ 1,154","$ 60,000","$ 65,517",M,20,Colombia,Sporting Kc,Mls,2015
+23,23,Kevin Ellis,"$ 1,154","$ 60,000","$ 65,517",D,23,United States,Sporting Kc,Mls,2015
+24,24,Jordi Quintilla,$ 962,"$ 50,000","$ 54,598",M,20,Spain,Sporting Kc,Mls,2015
+25,25,Amadou Dia,$ 962,"$ 50,000","$ 54,598",D,21,United States,Sporting Kc,Mls,2015
+0,0,Michael Bradley,"$ 115,385","$ 6,000,000","$ 6,551,711",M,26,United States,Toronto FC,Mls,2015
+1,1,Sebastian Giovinco,"$ 107,692","$ 5,600,000","$ 6,114,931",M,27,Italy,Toronto FC,Mls,2015
+2,2,Jozy Altidore,"$ 91,346","$ 4,750,000","$ 5,186,772",F,24,United States,Toronto FC,Mls,2015
+3,3,Damien Perquis,"$ 6,212","$ 323,000","$ 352,700",D,30,Poland,Toronto FC,Mls,2015
+4,4,Ahmed Kantari,"$ 5,769","$ 300,000","$ 327,586",D,29,Morocco,Toronto FC,Mls,2015
+5,5,Benoit Cheyrou,"$ 4,808","$ 250,000","$ 272,988",M,33,France,Toronto FC,Mls,2015
+6,6,Herculez Gomez,"$ 4,615","$ 240,000","$ 262,068",F,32,United States,Toronto FC,Mls,2015
+7,7,Robbie Findley,"$ 4,327","$ 225,000","$ 245,689",F,28,United States,Toronto FC,Mls,2015
+8,8,Luke Moore,"$ 4,135","$ 215,000","$ 234,770",F,28,England,Toronto FC,Mls,2015
+9,9,Justin Morrow,"$ 3,269","$ 170,000","$ 185,632",D,26,United States,Toronto FC,Mls,2015
+10,10,Jackson Goncalves,"$ 3,173","$ 165,000","$ 180,172",D,23,Brazil,Toronto FC,Mls,2015
+11,11,Joe Bendik,"$ 2,885","$ 150,000","$ 163,793",K,25,United States,Toronto FC,Mls,2015
+12,12,Jonathan Osorio,"$ 2,788","$ 145,000","$ 158,333",M,22,Canada,Toronto FC,Mls,2015
+13,13,Collen Warner,"$ 2,499","$ 129,937","$ 141,885",M,26,United States,Toronto FC,Mls,2015
+14,14,Josh Williams,"$ 2,404","$ 125,000","$ 136,494",D,26,United States,Toronto FC,Mls,2015
+15,15,Ashtone Morgan,"$ 1,923","$ 100,000","$ 109,195",D,23,Canada,Toronto FC,Mls,2015
+16,16,Mark Bloom,"$ 1,731","$ 90,000","$ 98,276",D,26,United States,Toronto FC,Mls,2015
+17,17,Eriq Zavaleta,"$ 1,635","$ 85,000","$ 92,816",F,21,United States,Toronto FC,Mls,2015
+18,18,Marco Delgado,"$ 1,538","$ 80,000","$ 87,356",M,18,United States,Toronto FC,Mls,2015
+19,19,Jay Chapman,"$ 1,346","$ 70,000","$ 76,437",M,20,Canada,Toronto FC,Mls,2015
+20,20,Chris Konopka,"$ 1,269","$ 66,000","$ 72,069",K,29,United States,Toronto FC,Mls,2015
+21,21,Jordan Hamilton,"$ 1,212","$ 63,000","$ 68,793",F,18,Canada,Toronto FC,Mls,2015
+22,22,Alex Bono,"$ 1,154","$ 60,000","$ 65,517",K,20,United States,Toronto FC,Mls,2015
+23,23,Clement Simonin,"$ 1,154","$ 60,000","$ 65,517",D,23,France,Toronto FC,Mls,2015
+24,24,Daniel Lovitz,"$ 1,154","$ 60,000","$ 65,517",M,22,United States,Toronto FC,Mls,2015
+25,25,Manuel Aparicio,"$ 1,154","$ 60,000","$ 65,517",M,19,Canada,Toronto FC,Mls,2015
+26,26,Nick Hagglund,"$ 1,154","$ 60,000","$ 65,517",D,21,United States,Toronto FC,Mls,2015
+27,27,Quillan Roberts,"$ 1,154","$ 60,000","$ 65,517",K,19,Guyana,Toronto FC,Mls,2015
+28,28,Chris Mannella,"$ 1,154","$ 60,000","$ 65,517",M,20,Canada,Toronto FC,Mls,2015
+0,0,Pedro Morales,"$ 22,885","$ 1,190,000","$ 1,299,423",M,29,Chile,Vancouver Whitecaps,Mls,2015
+1,1,Octavio Rivero,"$ 17,132","$ 890,850","$ 972,765",F,22,Uruguay,Vancouver Whitecaps,Mls,2015
+2,2,Matias Laba,"$ 6,250","$ 325,000","$ 354,884",M,22,Argentina,Vancouver Whitecaps,Mls,2015
+3,3,David Ousted,"$ 5,500","$ 286,000","$ 312,298",K,29,Denmark,Vancouver Whitecaps,Mls,2015
+4,4,Gershon Koffie,"$ 4,423","$ 230,000","$ 251,149",M,22,Ghana,Vancouver Whitecaps,Mls,2015
+5,5,Kendall Waston,"$ 4,327","$ 225,000","$ 245,689",D,26,Costa Rica,Vancouver Whitecaps,Mls,2015
+6,6,Mauro Rosales,"$ 4,135","$ 215,000","$ 234,770",M,33,Argentina,Vancouver Whitecaps,Mls,2015
+7,7,Steven Beitashour,"$ 3,654","$ 190,000","$ 207,471",D,27,Iran,Vancouver Whitecaps,Mls,2015
+8,8,Darren Mattocks,"$ 3,462","$ 180,000","$ 196,551",F,23,Jamaica,Vancouver Whitecaps,Mls,2015
+9,9,Pa Modou Kah,"$ 3,269","$ 170,000","$ 185,632",D,33,Norway,Vancouver Whitecaps,Mls,2015
+10,10,Jordan Harvey,"$ 2,885","$ 150,000","$ 163,793",D,30,United States,Vancouver Whitecaps,Mls,2015
+11,11,Diego Rodriguez,"$ 2,385","$ 124,000","$ 135,402",D,23,Uruguay,Vancouver Whitecaps,Mls,2015
+12,12,Russell Teibert,"$ 1,923","$ 100,000","$ 109,195",M,21,Canada,Vancouver Whitecaps,Mls,2015
+13,13,Robert Earnshaw,"$ 1,923","$ 100,000","$ 109,195",F,33,Wales,Vancouver Whitecaps,Mls,2015
+14,14,Christian Dean,"$ 1,827","$ 95,000","$ 103,735",D,21,United States,Vancouver Whitecaps,Mls,2015
+15,15,Jordan Smith,"$ 1,827","$ 95,000","$ 103,735",D,23,Costa Rica,Vancouver Whitecaps,Mls,2015
+16,16,Kekuta Manneh,"$ 1,587","$ 82,500","$ 90,086",F,19,United States,Vancouver Whitecaps,Mls,2015
+17,17,Paolo Tornaghi,"$ 1,538","$ 80,000","$ 87,356",K,26,Italy,Vancouver Whitecaps,Mls,2015
+18,18,Nicolas Mezquida,"$ 1,538","$ 80,000","$ 87,356",M,22,Uruguay,Vancouver Whitecaps,Mls,2015
+19,19,Erik Hurtado,"$ 1,505","$ 78,265","$ 85,462",F,23,United States,Vancouver Whitecaps,Mls,2015
+20,20,Tim Parker,"$ 1,154","$ 60,000","$ 65,517",D,21,United States,Vancouver Whitecaps,Mls,2015
+21,21,Caleb Clarke,"$ 1,154","$ 60,000","$ 65,517",F,21,Canada,Vancouver Whitecaps,Mls,2015
+22,22,Cristian Techera,"$ 1,154","$ 60,000","$ 65,517",F,22,Uruguay,Vancouver Whitecaps,Mls,2015
+23,23,Deybi Flores,"$ 1,154","$ 60,000","$ 65,517",M,18,Honduras,Vancouver Whitecaps,Mls,2015
+24,24,Ethen Sampson,"$ 1,154","$ 60,000","$ 65,517",D,20,South Africa,Vancouver Whitecaps,Mls,2015
+25,25,Kianz Froese,"$ 1,154","$ 60,000","$ 65,517",M,18,Canada,Vancouver Whitecaps,Mls,2015
+26,26,Marco Carducci,"$ 1,154","$ 60,000","$ 65,517",K,17,Canada,Vancouver Whitecaps,Mls,2015
+27,27,Samuel Adekugbe,"$ 1,154","$ 60,000","$ 65,517",D,19,Canada,Vancouver Whitecaps,Mls,2015
+28,28,Andre Lewis,"$ 1,154","$ 60,000","$ 65,517",M,19,Jamaica,Vancouver Whitecaps,Mls,2015
+29,29,Marco Bustos,$ 962,"$ 50,000","$ 54,598",M,18,Canada,Vancouver Whitecaps,Mls,2015
+30,30,Ben McKendry,$ 962,"$ 50,000","$ 54,598",M,21,Canada,Vancouver Whitecaps,Mls,2015

@@ -1,0 +1,652 @@
+,Unnamed: 0,Player,Weekly GrossBase Salary(IN USD),Annual GrossBase Salary(IN USD),"Adj. GrossBase Salary(2021, IN USD)",Pos.,Age,Country,Team,League,Season
+0,0,Miguel Almiron,"$ 36,779","$ 1,912,500","$ 2,019,326",M,22,Paraguay,Atlanta United,Mls,2017
+1,1,Josef Martinez,"$ 17,769","$ 924,000","$ 975,612",F,23,Venezuela,Atlanta United,Mls,2017
+2,2,Carlos Carmona,"$ 12,981","$ 675,000","$ 712,703",M,29,Chile,Atlanta United,Mls,2017
+3,3,Hector Villalba,"$ 12,750","$ 663,000","$ 700,033",F,21,Paraguay,Atlanta United,Mls,2017
+4,4,Chris McCann,"$ 10,385","$ 540,000","$ 570,163",M,28,Ireland,Atlanta United,Mls,2017
+5,5,Kenwyne Jones,"$ 7,500","$ 390,000","$ 411,784",F,31,Trinidad and Tobago,Atlanta United,Mls,2017
+6,6,Brad Guzan,"$ 6,539","$ 340,008","$ 359,000",K,31,United States,Atlanta United,Mls,2017
+7,7,Michael Parkhurst,"$ 6,250","$ 325,008","$ 343,162",D,32,United States,Atlanta United,Mls,2017
+8,8,Bobby Boswell,"$ 5,000","$ 260,000","$ 274,523",D,33,United States,Atlanta United,Mls,2017
+9,9,Leandro Gonzalez Pirez,"$ 4,808","$ 250,008","$ 263,973",D,24,Argentina,Atlanta United,Mls,2017
+10,10,Tyrone Mears,"$ 3,534","$ 183,756","$ 194,020",D,33,England,Atlanta United,Mls,2017
+11,11,Jeff Larentowicz,"$ 3,366","$ 175,008","$ 184,783",M,32,United States,Atlanta United,Mls,2017
+12,12,Jacob Peterson,"$ 3,179","$ 165,300","$ 174,533",M,30,United States,Atlanta United,Mls,2017
+13,13,Kevin Kratz,"$ 2,885","$ 150,000","$ 158,379",M,29,Germany,Atlanta United,Mls,2017
+14,14,Greg Garza,"$ 2,885","$ 150,000","$ 158,379",D,24,United States,Atlanta United,Mls,2017
+15,15,Yamil Asad,"$ 2,885","$ 150,000","$ 158,379",M,21,Argentina,Atlanta United,Mls,2017
+16,16,Miles Robinson,"$ 2,404","$ 125,000","$ 131,982",D,19,United States,Atlanta United,Mls,2017
+17,17,Brandon Vazquez,"$ 1,923","$ 100,008","$ 105,594",F,17,United States,Atlanta United,Mls,2017
+18,18,Mark Bloom,"$ 1,908","$ 99,225","$ 104,767",D,28,United States,Atlanta United,Mls,2017
+19,19,Zach Loyd,"$ 1,635","$ 85,008","$ 89,756",D,28,United States,Atlanta United,Mls,2017
+20,20,Alec Kann,"$ 1,481","$ 77,004","$ 81,305",K,25,United States,Atlanta United,Mls,2017
+21,21,Julian Gressel,"$ 1,442","$ 75,000","$ 79,189",M,22,Germany,Atlanta United,Mls,2017
+22,22,Chris Goslin,"$ 1,346","$ 70,000","$ 73,910",M,16,United States,Atlanta United,Mls,2017
+23,23,Harrison Heath,"$ 1,272","$ 66,150","$ 69,845",M,20,England,Atlanta United,Mls,2017
+24,24,Mikey Ambrose,"$ 1,262","$ 65,625","$ 69,291",D,22,United States,Atlanta United,Mls,2017
+25,25,Alexander Tambakis,"$ 1,250","$ 65,004","$ 68,635",K,23,Greece,Atlanta United,Mls,2017
+26,26,Kyle Reynish,"$ 1,250","$ 65,004","$ 68,635",K,32,United States,Atlanta United,Mls,2017
+27,27,Romario Williams,"$ 1,250","$ 65,000","$ 68,631",F,21,Jamaica,Atlanta United,Mls,2017
+28,28,Andrew Carleton,"$ 1,250","$ 65,000","$ 68,631",M,16,United States,Atlanta United,Mls,2017
+29,29,Anton Walkes,"$ 1,019","$ 53,004","$ 55,965",D,19,England,Atlanta United,Mls,2017
+30,30,Andrew Wheeler Omiunu,"$ 1,019","$ 53,004","$ 55,965",M,21,United States,Atlanta United,Mls,2017
+31,31,Jeffrey Oblitey Otoo,"$ 1,019","$ 53,000","$ 55,960",M,19,Ghana,Atlanta United,Mls,2017
+0,0,Bastian Schweinsteiger,"$ 103,846","$ 5,400,000","$ 5,701,626",M,31,Germany,Chicago Fire,Mls,2017
+1,1,Nemanja Nikolic,"$ 32,692","$ 1,700,000","$ 1,794,956",F,30,Hungary,Chicago Fire,Mls,2017
+2,2,David Accam,"$ 14,423","$ 750,000","$ 791,893",F,25,Ghana,Chicago Fire,Mls,2017
+3,3,Juninho,"$ 13,462","$ 700,008","$ 739,108",M,26,Brazil,Chicago Fire,Mls,2017
+4,4,Johan Kappelhof,"$ 10,192","$ 530,000","$ 559,604",D,25,Netherlands,Chicago Fire,Mls,2017
+5,5,Michael De Leeuw,"$ 9,615","$ 500,000","$ 527,928",F,29,Netherlands,Chicago Fire,Mls,2017
+6,6,Dax McCarty,"$ 7,692","$ 400,000","$ 422,343",M,29,United States,Chicago Fire,Mls,2017
+7,7,Luis Solignac,"$ 5,288","$ 275,000","$ 290,361",F,25,Argentina,Chicago Fire,Mls,2017
+8,8,Jorge Rodrigo Bava,"$ 4,615","$ 240,000","$ 253,406",K,35,Uruguay,Chicago Fire,Mls,2017
+9,9,John Goossens,"$ 4,423","$ 230,000","$ 242,847",M,27,Netherlands,Chicago Fire,Mls,2017
+10,10,David Arshakyan,"$ 3,000","$ 156,000","$ 164,714",F,21,Armenia,Chicago Fire,Mls,2017
+11,11,Joao Meira,"$ 2,885","$ 150,000","$ 158,379",D,29,Portugal,Chicago Fire,Mls,2017
+12,12,Arturo Alvarez,"$ 2,596","$ 135,000","$ 142,541",M,31,El Salvador,Chicago Fire,Mls,2017
+13,13,Michael Harrington,"$ 2,596","$ 135,000","$ 142,541",D,30,United States,Chicago Fire,Mls,2017
+14,14,Jonathan Campbell,"$ 1,957","$ 101,750","$ 107,433",D,23,United States,Chicago Fire,Mls,2017
+15,15,Matt Polster,"$ 1,921","$ 99,900","$ 105,480",D,23,United States,Chicago Fire,Mls,2017
+16,16,Brandon Vincent,"$ 1,851","$ 96,250","$ 101,626",D,22,United States,Chicago Fire,Mls,2017
+17,17,Christian Dean,"$ 1,731","$ 90,000","$ 95,027",D,23,United States,Chicago Fire,Mls,2017
+18,18,Collin Fernandez,"$ 1,635","$ 85,000","$ 89,748",M,19,Peru,Chicago Fire,Mls,2017
+19,19,Djordje Mihailovic,"$ 1,538","$ 80,000","$ 84,469",M,17,United States,Chicago Fire,Mls,2017
+20,20,Matt Lampson,"$ 1,462","$ 76,000","$ 80,245",K,26,United States,Chicago Fire,Mls,2017
+21,21,Drew Conner,"$ 1,262","$ 65,625","$ 69,291",M,22,United States,Chicago Fire,Mls,2017
+22,22,Matej Dekovic,"$ 1,250","$ 65,004","$ 68,635",D,22,Croatia,Chicago Fire,Mls,2017
+23,23,Daniel Johnson,"$ 1,250","$ 65,004","$ 68,635",M,20,United States,Chicago Fire,Mls,2017
+24,24,Brandt Bronico,"$ 1,250","$ 65,004","$ 68,635",M,21,United States,Chicago Fire,Mls,2017
+25,25,Jorge Corrales,"$ 1,250","$ 65,004","$ 68,635",D,25,Cuba,Chicago Fire,Mls,2017
+26,26,Patrick Doody,"$ 1,250","$ 65,000","$ 68,631",D,24,United States,Chicago Fire,Mls,2017
+27,27,Richard Sanchez,"$ 1,250","$ 65,000","$ 68,631",M,22,Mexico,Chicago Fire,Mls,2017
+28,28,Joey Calistri,"$ 1,040","$ 54,075","$ 57,095",M,22,United States,Chicago Fire,Mls,2017
+29,29,Stefan Cleveland,"$ 1,019","$ 53,004","$ 55,965",K,22,United States,Chicago Fire,Mls,2017
+0,0,Tim Howard,"$ 38,462","$ 2,000,000","$ 2,111,714",K,37,United States,Colorado Rapids,Mls,2017
+1,1,Shkelzen Gashi,"$ 30,288","$ 1,575,000","$ 1,662,974",F,27,Albania,Colorado Rapids,Mls,2017
+2,2,Kevin Doyle,"$ 19,231","$ 1,000,000","$ 1,055,857",F,32,Ireland,Colorado Rapids,Mls,2017
+3,3,Stefan Aigner,"$ 8,173","$ 425,000","$ 448,739",M,28,Germany,Colorado Rapids,Mls,2017
+4,4,Bismark Adjei Boateng,"$ 5,769","$ 300,000","$ 316,757",M,23,Ghana,Colorado Rapids,Mls,2017
+5,5,Alan Gordon,"$ 3,462","$ 180,000","$ 190,054",F,34,United States,Colorado Rapids,Mls,2017
+6,6,Joshua Gatt,"$ 3,366","$ 175,008","$ 184,783",M,24,United States,Colorado Rapids,Mls,2017
+7,7,Mohammed Saeid,"$ 3,077","$ 160,000","$ 168,937",M,25,Sweden,Colorado Rapids,Mls,2017
+8,8,Zac MacMath,"$ 2,885","$ 150,000","$ 158,379",K,24,United States,Colorado Rapids,Mls,2017
+9,9,Luis Gil,"$ 2,769","$ 144,000","$ 152,043",M,22,United States,Colorado Rapids,Mls,2017
+10,10,Bobby Burling,"$ 2,308","$ 120,000","$ 126,703",D,31,United States,Colorado Rapids,Mls,2017
+11,11,Marlon Hairston,"$ 2,115","$ 110,004","$ 116,148",D,22,United States,Colorado Rapids,Mls,2017
+12,12,Michael Azira,"$ 2,115","$ 110,000","$ 116,144",M,29,Uganda,Colorado Rapids,Mls,2017
+13,13,Mekeil Williams,"$ 2,115","$ 110,000","$ 116,144",D,25,Trinidad and Tobago,Colorado Rapids,Mls,2017
+14,14,Axel Sjoberg,"$ 2,084","$ 108,350","$ 114,402",D,25,Sweden,Colorado Rapids,Mls,2017
+15,15,Caleb Calvert,"$ 1,923","$ 100,000","$ 105,586",F,19,United States,Colorado Rapids,Mls,2017
+16,16,Eric Miller,"$ 1,453","$ 75,554","$ 79,774",D,23,United States,Colorado Rapids,Mls,2017
+17,17,Jared Watts,"$ 1,442","$ 75,000","$ 79,189",D,24,United States,Colorado Rapids,Mls,2017
+18,18,Dillon Serna,"$ 1,396","$ 72,600","$ 76,655",M,22,United States,Colorado Rapids,Mls,2017
+19,19,Kortne Ford,"$ 1,346","$ 69,996","$ 73,906",D,20,United States,Colorado Rapids,Mls,2017
+20,20,John Berner,"$ 1,272","$ 66,150","$ 69,845",K,25,United States,Colorado Rapids,Mls,2017
+21,21,Sam Hamilton,"$ 1,250","$ 65,004","$ 68,635",M,20,United States,Colorado Rapids,Mls,2017
+22,22,Mike Da Fonte,"$ 1,250","$ 65,004","$ 68,635",D,25,United States,Colorado Rapids,Mls,2017
+23,23,Dominique Badji,"$ 1,250","$ 65,000","$ 68,631",F,23,Senegal,Colorado Rapids,Mls,2017
+24,24,Dennis Castillo,"$ 1,040","$ 54,075","$ 57,095",D,23,Costa Rica,Colorado Rapids,Mls,2017
+25,25,Ricardo Perez,"$ 1,019","$ 53,004","$ 55,965",M,21,United States,Colorado Rapids,Mls,2017
+0,0,Federico Higuain,"$ 20,192","$ 1,050,000","$ 1,108,650",M,31,Argentina,Columbus Crew,Mls,2017
+1,1,Jonathan Mensah,"$ 14,423","$ 750,000","$ 791,893",D,25,Ghana,Columbus Crew,Mls,2017
+2,2,Pedro Santos,"$ 13,154","$ 684,000","$ 722,206",M,28,Portugal,Columbus Crew,Mls,2017
+3,3,Gaston Sauro,"$ 11,250","$ 585,000","$ 617,676",D,26,Argentina,Columbus Crew,Mls,2017
+4,4,Ola Kamara,"$ 8,654","$ 450,000","$ 475,136",F,26,Norway,Columbus Crew,Mls,2017
+5,5,Justin Meram,"$ 5,769","$ 300,000","$ 316,757",M,27,Iraq,Columbus Crew,Mls,2017
+6,6,Wil Trapp,"$ 5,769","$ 300,000","$ 316,757",M,23,United States,Columbus Crew,Mls,2017
+7,7,Harrison Afful,"$ 5,385","$ 280,000","$ 295,640",D,29,Ghana,Columbus Crew,Mls,2017
+8,8,Waylon Francis,"$ 4,375","$ 227,500","$ 240,207",D,25,Costa Rica,Columbus Crew,Mls,2017
+9,9,Mohammed Abu,"$ 3,173","$ 165,000","$ 174,216",M,24,Ghana,Columbus Crew,Mls,2017
+10,10,Hector Jimenez,"$ 2,885","$ 150,000","$ 158,379",M,27,United States,Columbus Crew,Mls,2017
+11,11,Kekuta Manneh,"$ 2,671","$ 138,875","$ 146,632",M,21,United States,Columbus Crew,Mls,2017
+12,12,Jukka Raitala,"$ 2,404","$ 125,004","$ 131,986",D,27,Finland,Columbus Crew,Mls,2017
+13,13,Josh Williams,"$ 2,115","$ 110,004","$ 116,148",D,28,United States,Columbus Crew,Mls,2017
+14,14,Zack Steffen,"$ 2,019","$ 105,000","$ 110,865",K,21,United States,Columbus Crew,Mls,2017
+15,15,Adam Jahn,"$ 1,779","$ 92,500","$ 97,667",F,25,United States,Columbus Crew,Mls,2017
+16,16,Ben Swanson,"$ 1,635","$ 85,000","$ 89,748",M,18,United States,Columbus Crew,Mls,2017
+17,17,Alex Crognale,"$ 1,635","$ 84,996","$ 89,744",D,21,United States,Columbus Crew,Mls,2017
+18,18,Brad Stuver,"$ 1,539","$ 80,004","$ 84,473",K,25,United States,Columbus Crew,Mls,2017
+19,19,Artur De Lima Junior,"$ 1,539","$ 80,004","$ 84,473",M,21,Brazil,Columbus Crew,Mls,2017
+20,20,Cristian Martinez,"$ 1,262","$ 65,633","$ 69,299",M,20,Panama,Columbus Crew,Mls,2017
+21,21,Rodrigo Saravia,"$ 1,262","$ 65,625","$ 69,291",M,23,Guatemala,Columbus Crew,Mls,2017
+22,22,Abuchi Obinwa,"$ 1,250","$ 65,004","$ 68,635",M,19,United States,Columbus Crew,Mls,2017
+23,23,Alhassan Lalas Abubakar,"$ 1,250","$ 65,000","$ 68,631",D,23,Ghana,Columbus Crew,Mls,2017
+24,24,Nikolaj Hansen,"$ 1,250","$ 65,000","$ 68,631",F,23,Denmark,Columbus Crew,Mls,2017
+25,25,Marshall Hollingsworth,"$ 1,040","$ 54,075","$ 57,095",M,22,United States,Columbus Crew,Mls,2017
+26,26,Logan Ketterer,"$ 1,019","$ 53,004","$ 55,965",K,22,United States,Columbus Crew,Mls,2017
+27,27,Connor Maloney,"$ 1,019","$ 53,004","$ 55,965",D,21,United States,Columbus Crew,Mls,2017
+0,0,Luciano Acosta,"$ 9,615","$ 500,000","$ 527,928",M,22,Argentina,Dc United,Mls,2017
+1,1,Steven Birnbaum,"$ 9,135","$ 474,996","$ 501,528",D,25,United States,Dc United,Mls,2017
+2,2,Marcelo Sarvas,"$ 6,923","$ 360,000","$ 380,108",M,34,Brazil,Dc United,Mls,2017
+3,3,Bill Hamid,"$ 6,731","$ 350,000","$ 369,550",K,25,United States,Dc United,Mls,2017
+4,4,Paul Arriola,"$ 6,462","$ 336,000","$ 354,768",M,21,United States,Dc United,Mls,2017
+5,5,Chris Rolfe,"$ 5,288","$ 275,000","$ 290,361",F,33,United States,Dc United,Mls,2017
+6,6,Deshorn Brown,"$ 5,096","$ 264,996","$ 279,798",F,25,Jamaica,Dc United,Mls,2017
+7,7,Sean Franklin,"$ 4,976","$ 258,756","$ 273,209",D,31,United States,Dc United,Mls,2017
+8,8,Nick DeLeon,"$ 4,904","$ 255,000","$ 269,243",M,25,United States,Dc United,Mls,2017
+9,9,Lloyd Sam,"$ 4,615","$ 240,000","$ 253,406",M,31,Ghana,Dc United,Mls,2017
+10,10,Patrick Nyarko,"$ 4,519","$ 235,000","$ 248,126",F,30,Ghana,Dc United,Mls,2017
+11,11,Taylor Kemp,"$ 2,308","$ 120,000","$ 126,703",D,25,United States,Dc United,Mls,2017
+12,12,Patrick Mullins,"$ 2,195","$ 114,125","$ 120,500",F,24,United States,Dc United,Mls,2017
+13,13,Jared Jeffrey,"$ 2,019","$ 105,000","$ 110,865",M,26,United States,Dc United,Mls,2017
+14,14,Kofi Opare,"$ 2,019","$ 105,000","$ 110,865",D,25,United States,Dc United,Mls,2017
+15,15,Zoltan Stieber,"$ 1,923","$ 100,000","$ 105,586",M,27,Hungary,Dc United,Mls,2017
+16,16,Ian Harkes,"$ 1,731","$ 90,000","$ 95,027",M,21,United States,Dc United,Mls,2017
+17,17,Julian Buescher,"$ 1,538","$ 80,000","$ 84,469",M,24,Germany,Dc United,Mls,2017
+18,18,Steven Clark,"$ 1,385","$ 72,000","$ 76,022",K,31,United States,Dc United,Mls,2017
+19,19,Chris Durkin,"$ 1,346","$ 70,000","$ 73,910",D,16,United States,Dc United,Mls,2017
+20,20,Jalen Robinson,"$ 1,346","$ 69,996","$ 73,906",D,22,United States,Dc United,Mls,2017
+21,21,Rob Vincent,"$ 1,262","$ 65,633","$ 69,299",M,25,England,Dc United,Mls,2017
+22,22,Travis Worra,"$ 1,262","$ 65,625","$ 69,291",K,23,United States,Dc United,Mls,2017
+23,23,Chris Korb,"$ 1,250","$ 65,004","$ 68,635",D,28,United States,Dc United,Mls,2017
+24,24,Russell Canouse,"$ 1,250","$ 65,000","$ 68,631",M,21,United States,Dc United,Mls,2017
+25,25,Chris Odoi Atsem,"$ 1,250","$ 65,000","$ 68,631",D,21,United States,Dc United,Mls,2017
+26,26,Eric Klenofsky,"$ 1,019","$ 53,004","$ 55,965",K,21,United States,Dc United,Mls,2017
+27,27,Bruno Miranda,"$ 1,019","$ 53,000","$ 55,960",F,18,Bolivia,Dc United,Mls,2017
+0,0,Mauro Diaz,"$ 15,077","$ 784,000","$ 827,792",M,25,Argentina,FC Dallas,Mls,2017
+1,1,Roland Lamah,"$ 12,115","$ 630,000","$ 665,190",M,28,Belgium,FC Dallas,Mls,2017
+2,2,Carlos Gruezo,"$ 9,519","$ 495,000","$ 522,649",M,21,Ecuador,FC Dallas,Mls,2017
+3,3,Matt Hedges,"$ 7,692","$ 399,996","$ 422,338",D,26,United States,FC Dallas,Mls,2017
+4,4,Maynor Figueroa,"$ 6,154","$ 320,000","$ 337,874",D,33,Honduras,FC Dallas,Mls,2017
+5,5,Javier Morales,"$ 5,769","$ 300,000","$ 316,757",M,36,Argentina,FC Dallas,Mls,2017
+6,6,Cristian Colman,"$ 5,769","$ 300,000","$ 316,757",F,22,Paraguay,FC Dallas,Mls,2017
+7,7,Maximiliano Urruti,"$ 5,769","$ 300,000","$ 316,757",F,25,Argentina,FC Dallas,Mls,2017
+8,8,Kellyn Acosta,"$ 5,000","$ 260,000","$ 274,523",M,20,United States,FC Dallas,Mls,2017
+9,9,Anibal Chala,"$ 4,808","$ 250,000","$ 263,964",D,20,Ecuador,FC Dallas,Mls,2017
+10,10,Walker Zimmerman,"$ 3,942","$ 205,000","$ 216,451",D,23,United States,FC Dallas,Mls,2017
+11,11,Hernan Grana,"$ 3,846","$ 200,000","$ 211,171",D,31,Argentina,FC Dallas,Mls,2017
+12,12,Michael Barrios,"$ 3,846","$ 200,000","$ 211,171",M,25,Colombia,FC Dallas,Mls,2017
+13,13,Atiba Harris,"$ 2,981","$ 155,004","$ 163,662",D,31,St. Kitts & Nevis,FC Dallas,Mls,2017
+14,14,Chris Seitz,"$ 2,942","$ 153,000","$ 161,546",K,29,United States,FC Dallas,Mls,2017
+15,15,Victor Ulloa,"$ 2,885","$ 150,000","$ 158,379",M,24,Mexico,FC Dallas,Mls,2017
+16,16,Ryan Hollingshead,"$ 2,548","$ 132,500","$ 139,901",M,25,United States,FC Dallas,Mls,2017
+17,17,Carlos Cermeno,"$ 2,308","$ 120,000","$ 126,703",M,20,Venezuela,FC Dallas,Mls,2017
+18,18,Tesho Akindele,"$ 1,827","$ 95,000","$ 100,306",F,24,Canada,FC Dallas,Mls,2017
+19,19,Coy Craft,"$ 1,635","$ 85,000","$ 89,748",F,19,United States,FC Dallas,Mls,2017
+20,20,Jesse Gonzalez,"$ 1,635","$ 85,000","$ 89,748",K,21,United States,FC Dallas,Mls,2017
+21,21,Adonijah Reid,"$ 1,346","$ 70,000","$ 73,910",F,16,Canada,FC Dallas,Mls,2017
+22,22,Paxton Pomykal,"$ 1,346","$ 70,000","$ 73,910",M,16,United States,FC Dallas,Mls,2017
+23,23,Eduardo Cortes,"$ 1,250","$ 65,004","$ 68,635",K,17,Costa Rica,FC Dallas,Mls,2017
+24,24,Luis Gonzalez,"$ 1,250","$ 65,000","$ 68,631",M,25,Venezuela,FC Dallas,Mls,2017
+25,25,Jacori Hayes,"$ 1,250","$ 65,000","$ 68,631",M,21,United States,FC Dallas,Mls,2017
+26,26,Aaron Guillen,"$ 1,040","$ 54,075","$ 57,095",D,23,Mexico,FC Dallas,Mls,2017
+27,27,Walker Hume,"$ 1,019","$ 53,004","$ 55,965",D,22,United States,FC Dallas,Mls,2017
+28,28,Reggie Cannon,"$ 1,019","$ 53,000","$ 55,960",D,18,United States,FC Dallas,Mls,2017
+29,29,Jesus Ferreira,"$ 1,019","$ 53,000","$ 55,960",F,15,United States,FC Dallas,Mls,2017
+30,30,Bryan Reynolds,"$ 1,019","$ 53,000","$ 55,960",F,15,United States,FC Dallas,Mls,2017
+0,0,Erick Torres,"$ 12,500","$ 650,000","$ 686,307",F,23,Mexico,Houston Dynamo,Mls,2017
+1,1,Alberth Elis,"$ 8,135","$ 423,000","$ 446,627",F,20,Honduras,Houston Dynamo,Mls,2017
+2,2,Ricardo Clark,"$ 6,445","$ 335,160","$ 353,881",M,33,United States,Houston Dynamo,Mls,2017
+3,3,DaMarcus Beasley,"$ 6,077","$ 316,008","$ 333,659",D,34,United States,Houston Dynamo,Mls,2017
+4,4,Tomas Martinez,"$ 6,058","$ 315,000","$ 332,595",M,21,Argentina,Houston Dynamo,Mls,2017
+5,5,AJ DeLaGarza,"$ 4,808","$ 250,000","$ 263,964",D,23,Guam,Houston Dynamo,Mls,2017
+6,6,Juan David Cabezas,"$ 4,673","$ 243,000","$ 256,573",M,25,Colombia,Houston Dynamo,Mls,2017
+7,7,Philippe Senderos,"$ 4,327","$ 225,000","$ 237,568",D,31,Switzerland,Houston Dynamo,Mls,2017
+8,8,Boniek Garcia,"$ 4,327","$ 225,000","$ 237,568",M,31,Honduras,Houston Dynamo,Mls,2017
+9,9,Mauro Manotas,"$ 4,149","$ 215,746","$ 227,797",F,20,Colombia,Houston Dynamo,Mls,2017
+10,10,Andrew Wenger,"$ 4,038","$ 210,000","$ 221,730",M,25,United States,Houston Dynamo,Mls,2017
+11,11,Adolfo Machado,"$ 3,846","$ 200,004","$ 211,176",D,31,Panama,Houston Dynamo,Mls,2017
+12,12,Romell Quioto,"$ 3,846","$ 200,004","$ 211,176",F,24,Honduras,Houston Dynamo,Mls,2017
+13,13,Eric Alexander,"$ 3,654","$ 190,000","$ 200,613",M,28,United States,Houston Dynamo,Mls,2017
+14,14,Tyler Deric,"$ 3,558","$ 185,000","$ 195,333",K,27,United States,Houston Dynamo,Mls,2017
+15,15,Alex Monteiro de Lima,"$ 3,269","$ 170,000","$ 179,496",M,29,Brazil,Houston Dynamo,Mls,2017
+16,16,Leonardo Da Silva,"$ 2,692","$ 140,004","$ 147,824",D,29,Brazil,Houston Dynamo,Mls,2017
+17,17,Jalil Anibaba,"$ 2,115","$ 110,004","$ 116,148",D,27,United States,Houston Dynamo,Mls,2017
+18,18,Joe Willis,"$ 2,044","$ 106,313","$ 112,251",K,27,United States,Houston Dynamo,Mls,2017
+19,19,Dylan Remick,"$ 1,272","$ 66,150","$ 69,845",D,25,United States,Houston Dynamo,Mls,2017
+20,20,Kevin Garcia,"$ 1,262","$ 65,633","$ 69,299",D,25,United States,Houston Dynamo,Mls,2017
+21,21,George Malki,"$ 1,250","$ 65,004","$ 68,635",D,24,United States,Houston Dynamo,Mls,2017
+22,22,Vicente Sanchez,"$ 1,250","$ 65,004","$ 68,635",F,36,Uruguay,Houston Dynamo,Mls,2017
+23,23,Calle Brown,"$ 1,250","$ 65,000","$ 68,631",K,24,United States,Houston Dynamo,Mls,2017
+24,24,Taylor Hunter,"$ 1,019","$ 53,004","$ 55,965",D,22,United States,Houston Dynamo,Mls,2017
+25,25,Charlie Ward,"$ 1,019","$ 53,004","$ 55,965",M,21,England,Houston Dynamo,Mls,2017
+26,26,Jose Escalante,"$ 1,019","$ 53,004","$ 55,965",M,21,Honduras,Houston Dynamo,Mls,2017
+27,27,Memo Rodriguez,"$ 1,019","$ 53,004","$ 55,965",M,20,United States,Houston Dynamo,Mls,2017
+28,28,Joseph Holland,"$ 1,019","$ 53,004","$ 55,965",M,24,England,Houston Dynamo,Mls,2017
+29,29,Christian Lucatero,"$ 1,019","$ 53,000","$ 55,960",M,19,United States,Houston Dynamo,Mls,2017
+0,0,Giovani Dos Santos,"$ 72,115","$ 3,750,000","$ 3,959,463",F,27,Mexico,La Galaxy,Mls,2017
+1,1,Jonathan Dos Santos,"$ 38,462","$ 2,000,000","$ 2,111,714",M,26,Mexico,La Galaxy,Mls,2017
+2,2,Romain Alessandrini,"$ 32,104","$ 1,669,401","$ 1,762,648",M,27,France,La Galaxy,Mls,2017
+3,3,Michael Ciani,"$ 11,538","$ 600,000","$ 633,514",D,32,France,La Galaxy,Mls,2017
+4,4,Jermaine Jones,"$ 11,538","$ 600,000","$ 633,514",M,34,United States,La Galaxy,Mls,2017
+5,5,Gyasi Zardes,"$ 11,106","$ 577,500","$ 609,757",F,24,United States,La Galaxy,Mls,2017
+6,6,Ashley Cole,"$ 6,731","$ 350,000","$ 369,550",D,35,England,La Galaxy,Mls,2017
+7,7,Jack McInerney,"$ 6,250","$ 325,000","$ 343,153",F,23,United States,La Galaxy,Mls,2017
+8,8,Sebastian Lletget,"$ 4,423","$ 230,000","$ 242,847",M,23,United States,La Galaxy,Mls,2017
+9,9,Robbie Rogers,"$ 4,327","$ 225,000","$ 237,568",M,29,United States,La Galaxy,Mls,2017
+10,10,Pele Van Anholt,"$ 4,154","$ 216,000","$ 228,065",D,25,Netherlands,La Galaxy,Mls,2017
+11,11,Baggio Husidic,"$ 3,365","$ 175,000","$ 184,775",M,29,Bosnia-Herzegovina,La Galaxy,Mls,2017
+12,12,Brian Rowe,"$ 2,308","$ 120,000","$ 126,703",K,27,United States,La Galaxy,Mls,2017
+13,13,Joao Pedro,"$ 2,308","$ 120,000","$ 126,703",M,23,Portugal,La Galaxy,Mls,2017
+14,14,Emmanuel Boateng,"$ 2,212","$ 115,000","$ 121,424",F,22,Ghana,La Galaxy,Mls,2017
+15,15,Jose Villarreal,"$ 2,019","$ 105,000","$ 110,865",F,22,United States,La Galaxy,Mls,2017
+16,16,Daniel Steres,"$ 2,019","$ 105,000","$ 110,865",D,25,United States,La Galaxy,Mls,2017
+17,17,Rafael Garcia,"$ 1,587","$ 82,500","$ 87,108",M,27,United States,La Galaxy,Mls,2017
+18,18,Bradford Jamieson,"$ 1,272","$ 66,150","$ 69,845",F,20,United States,La Galaxy,Mls,2017
+19,19,David Romney,"$ 1,272","$ 66,150","$ 69,845",D,23,United States,La Galaxy,Mls,2017
+20,20,Jack McBean,"$ 1,262","$ 65,625","$ 69,291",F,21,United States,La Galaxy,Mls,2017
+21,21,Raul Mendiola,"$ 1,262","$ 65,625","$ 69,291",F,22,Mexico,La Galaxy,Mls,2017
+22,22,Clement Diop,"$ 1,262","$ 65,625","$ 69,291",K,22,Senegal,La Galaxy,Mls,2017
+23,23,Jonathan Kempin,"$ 1,250","$ 65,004","$ 68,635",K,20,United States,La Galaxy,Mls,2017
+24,24,Bradley Diallo,"$ 1,250","$ 65,004","$ 68,635",D,25,France,La Galaxy,Mls,2017
+25,25,Hugo Arellano,"$ 1,250","$ 65,000","$ 68,631",D,18,United States,La Galaxy,Mls,2017
+26,26,Ariel Lassiter,"$ 1,040","$ 54,075","$ 57,095",F,21,Costa Rica,La Galaxy,Mls,2017
+27,27,Nathan Smith,"$ 1,019","$ 53,004","$ 55,965",D,21,United States,La Galaxy,Mls,2017
+28,28,Jaime Villarreal,"$ 1,019","$ 53,004","$ 55,965",M,21,United States,La Galaxy,Mls,2017
+0,0,Vadim Demidov,"$ 10,577","$ 550,008","$ 580,730",D,29,Norway,Minnesota United,Mls,2017
+1,1,Christian Ramirez,"$ 6,731","$ 350,004","$ 369,554",M,25,United States,Minnesota United,Mls,2017
+2,2,Kevin Molino,"$ 6,731","$ 350,004","$ 369,554",M,26,Trinidad and Tobago,Minnesota United,Mls,2017
+3,3,Francisco Calvo,"$ 5,769","$ 300,000","$ 316,757",D,23,Costa Rica,Minnesota United,Mls,2017
+4,4,Sam Cronin,"$ 5,769","$ 300,000","$ 316,757",M,29,United States,Minnesota United,Mls,2017
+5,5,Miguel Ibarra,"$ 5,577","$ 290,004","$ 306,203",M,26,United States,Minnesota United,Mls,2017
+6,6,Ethan Finlay,"$ 5,577","$ 290,000","$ 306,198",M,25,United States,Minnesota United,Mls,2017
+7,7,Sam Nicholson,"$ 4,519","$ 235,008","$ 248,135",M,21,Scotland,Minnesota United,Mls,2017
+8,8,Collen Warner,"$ 4,423","$ 230,004","$ 242,851",M,28,United States,Minnesota United,Mls,2017
+9,9,Michael Boxall,"$ 4,327","$ 225,000","$ 237,568",D,27,New Zealand,Minnesota United,Mls,2017
+10,10,Johan Venegas,"$ 4,135","$ 215,000","$ 227,009",M,27,Costa Rica,Minnesota United,Mls,2017
+11,11,Ibson,"$ 3,846","$ 200,004","$ 211,176",M,32,Brazil,Minnesota United,Mls,2017
+12,12,Rasmus Schuller,"$ 3,846","$ 200,004","$ 211,176",M,25,Finland,Minnesota United,Mls,2017
+13,13,Jerome Thiesson,"$ 3,288","$ 171,000","$ 180,552",D,28,Switzerland,Minnesota United,Mls,2017
+14,14,Bobby Shuttleworth,"$ 2,981","$ 155,000","$ 163,658",K,29,United States,Minnesota United,Mls,2017
+15,15,Marc Burch,"$ 2,596","$ 135,000","$ 142,541",D,32,United States,Minnesota United,Mls,2017
+16,16,Jermaine Taylor,"$ 2,404","$ 125,004","$ 131,986",D,31,Jamaica,Minnesota United,Mls,2017
+17,17,Abu Danladi,"$ 2,404","$ 125,000","$ 131,982",F,20,Ghana,Minnesota United,Mls,2017
+18,18,Bernardo Anor,"$ 2,019","$ 105,000","$ 110,865",M,28,Venezuela,Minnesota United,Mls,2017
+19,19,Kevin Venegas,"$ 1,635","$ 85,000","$ 89,748",D,26,United States,Minnesota United,Mls,2017
+20,20,Collin Martin,"$ 1,635","$ 84,996","$ 89,744",M,21,United States,Minnesota United,Mls,2017
+21,21,Justin Davis,"$ 1,538","$ 80,000","$ 84,469",D,28,United States,Minnesota United,Mls,2017
+22,22,Patrick McLain,"$ 1,538","$ 80,000","$ 84,469",K,27,United States,Minnesota United,Mls,2017
+23,23,Brandon Allen,"$ 1,262","$ 65,625","$ 69,291",F,22,United States,Minnesota United,Mls,2017
+24,24,Ismaila Jome,"$ 1,250","$ 65,004","$ 68,635",M,21,The Gambia,Minnesota United,Mls,2017
+25,25,Brent Kallman,"$ 1,250","$ 65,004","$ 68,635",D,25,United States,Minnesota United,Mls,2017
+26,26,Joseph Greenspan,"$ 1,250","$ 65,000","$ 68,631",D,24,United States,Minnesota United,Mls,2017
+27,27,Jose Leiton,"$ 1,019","$ 53,004","$ 55,965",F,22,Costa Rica,Minnesota United,Mls,2017
+28,28,Thomas De Villardi,"$ 1,019","$ 53,004","$ 55,965",D,22,France,Minnesota United,Mls,2017
+29,29,Alex Kapp,"$ 1,019","$ 53,004","$ 55,965",K,21,United States,Minnesota United,Mls,2017
+0,0,Blerim Dzemaili,"$ 14,423","$ 750,000","$ 791,893",M,30,Switzerland,Montreal Impact,Mls,2017
+1,1,Matteo Mancosu,"$ 13,462","$ 700,000","$ 739,100",F,31,Italy,Montreal Impact,Mls,2017
+2,2,Laurent Ciman,"$ 12,115","$ 630,000","$ 665,190",D,30,Belgium,Montreal Impact,Mls,2017
+3,3,Ignacio Piatti,"$ 8,654","$ 450,000","$ 475,136",M,31,Argentina,Montreal Impact,Mls,2017
+4,4,Dominic Oduro,"$ 6,346","$ 330,000","$ 348,433",F,30,Ghana,Montreal Impact,Mls,2017
+5,5,Deian Boldor,"$ 6,231","$ 324,000","$ 342,098",D,21,Romania,Montreal Impact,Mls,2017
+6,6,Hernan Bernardello,"$ 5,538","$ 288,000","$ 304,087",M,29,Argentina,Montreal Impact,Mls,2017
+7,7,Victor Cabrera,"$ 5,000","$ 260,000","$ 274,523",D,23,Argentina,Montreal Impact,Mls,2017
+8,8,Hassoun Camara,"$ 4,904","$ 255,000","$ 269,243",D,32,France,Montreal Impact,Mls,2017
+9,9,Andres Romero,"$ 4,712","$ 245,000","$ 258,685",M,26,Argentina,Montreal Impact,Mls,2017
+10,10,Patrice Bernier,"$ 3,173","$ 165,000","$ 174,216",M,36,Canada,Montreal Impact,Mls,2017
+11,11,Evan Bush,"$ 2,630","$ 136,750","$ 144,388",K,30,United States,Montreal Impact,Mls,2017
+12,12,Shaun Francis,"$ 2,212","$ 115,000","$ 121,424",D,29,Jamaica,Montreal Impact,Mls,2017
+13,13,Ambroise Bitolo Oyongo,"$ 1,923","$ 100,000","$ 105,586",D,26,Cameroon,Montreal Impact,Mls,2017
+14,14,Eric Kronberg,"$ 1,923","$ 100,000","$ 105,586",K,32,United States,Montreal Impact,Mls,2017
+15,15,Shamit Shome,"$ 1,923","$ 100,000","$ 105,586",M,18,Canada,Montreal Impact,Mls,2017
+16,16,Wandrille Lefevre,"$ 1,827","$ 95,000","$ 100,306",D,26,Canada,Montreal Impact,Mls,2017
+17,17,Samuel Piette,"$ 1,731","$ 90,000","$ 95,027",M,21,Canada,Montreal Impact,Mls,2017
+18,18,Daniel Lovitz,"$ 1,514","$ 78,750","$ 83,149",M,24,United States,Montreal Impact,Mls,2017
+19,19,Maxime Crepeau,"$ 1,442","$ 75,000","$ 79,189",K,22,Canada,Montreal Impact,Mls,2017
+20,20,Marco Donadel,"$ 1,385","$ 72,000","$ 76,022",M,33,Italy,Montreal Impact,Mls,2017
+21,21,Chris Duvall,"$ 1,363","$ 70,875","$ 74,834",D,24,United States,Montreal Impact,Mls,2017
+22,22,Ballou Jean Yves Tabla,"$ 1,346","$ 70,000","$ 73,910",M,18,Canada,Montreal Impact,Mls,2017
+23,23,Anthony Jackson Hamel,"$ 1,272","$ 66,150","$ 69,845",F,22,Canada,Montreal Impact,Mls,2017
+24,24,Nick Depuy,"$ 1,250","$ 65,000","$ 68,631",F,21,United States,Montreal Impact,Mls,2017
+25,25,David Choiniere,"$ 1,040","$ 54,075","$ 57,095",M,19,Canada,Montreal Impact,Mls,2017
+26,26,Michael Salazar,"$ 1,040","$ 54,075","$ 57,095",F,23,Belize,Montreal Impact,Mls,2017
+27,27,Kyle Fisher,"$ 1,019","$ 53,004","$ 55,965",D,22,United States,Montreal Impact,Mls,2017
+28,28,Louis Beland Goyette,"$ 1,019","$ 53,000","$ 55,960",M,20,Canada,Montreal Impact,Mls,2017
+0,0,Xavier Kouassi,"$ 16,154","$ 840,000","$ 886,920",M,26,Cote d'Ivoire,Ne Revolution,Mls,2017
+1,1,Kei Kamara,"$ 15,385","$ 800,000","$ 844,685",F,31,Sierra Leone,Ne Revolution,Mls,2017
+2,2,Claude Dielna,"$ 15,000","$ 780,000","$ 823,568",D,28,France,Ne Revolution,Mls,2017
+3,3,Benjamin Angoua,"$ 11,538","$ 600,000","$ 633,514",D,29,Cote d'Ivoire,Ne Revolution,Mls,2017
+4,4,Krisztian Nemeth,"$ 10,523","$ 547,200","$ 577,765",F,27,Hungary,Ne Revolution,Mls,2017
+5,5,Lee Nguyen,"$ 9,615","$ 500,000","$ 527,928",M,29,United States,Ne Revolution,Mls,2017
+6,6,Juan Agudelo,"$ 9,135","$ 475,000","$ 501,532",F,23,United States,Ne Revolution,Mls,2017
+7,7,Antonio Mlinar Delamea,"$ 7,692","$ 400,008","$ 422,351",D,26,Slovenia,Ne Revolution,Mls,2017
+8,8,Teal Bunbury,"$ 4,135","$ 215,000","$ 227,009",F,26,United States,Ne Revolution,Mls,2017
+9,9,Andrew Farrell,"$ 3,512","$ 182,600","$ 192,799",D,24,United States,Ne Revolution,Mls,2017
+10,10,Kelyn Rowe,"$ 3,173","$ 165,000","$ 174,216",M,24,United States,Ne Revolution,Mls,2017
+11,11,Diego Fagundez,"$ 3,077","$ 160,000","$ 168,937",M,21,Uruguay,Ne Revolution,Mls,2017
+12,12,Je Vaughn Watson,"$ 2,885","$ 150,000","$ 158,379",D,32,Jamaica,Ne Revolution,Mls,2017
+13,13,Chris Tierney,"$ 2,692","$ 140,000","$ 147,820",D,30,United States,Ne Revolution,Mls,2017
+14,14,Gershon Koffie,"$ 2,308","$ 120,000","$ 126,703",M,24,Ghana,Ne Revolution,Mls,2017
+15,15,Scott Caldwell,"$ 2,212","$ 115,000","$ 121,424",M,25,United States,Ne Revolution,Mls,2017
+16,16,Brad Knighton,"$ 1,941","$ 100,910","$ 106,547",K,31,United States,Ne Revolution,Mls,2017
+17,17,Daigo Kobayashi,"$ 1,346","$ 69,996","$ 73,906",M,33,Japan,Ne Revolution,Mls,2017
+18,18,London Woodberry,"$ 1,333","$ 69,300","$ 73,171",D,25,United States,Ne Revolution,Mls,2017
+19,19,Donnie Smith,"$ 1,272","$ 66,150","$ 69,845",M,25,United States,Ne Revolution,Mls,2017
+20,20,Zachary Herivaux,"$ 1,262","$ 65,625","$ 69,291",M,20,Haiti,Ne Revolution,Mls,2017
+21,21,Cody Cropper,"$ 1,262","$ 65,625","$ 69,291",F,23,United States,Ne Revolution,Mls,2017
+22,22,Brian Wright,"$ 1,250","$ 65,000","$ 68,631",F,21,Canada,Ne Revolution,Mls,2017
+23,23,Joshua Smith,"$ 1,250","$ 65,000","$ 68,631",D,24,United States,Ne Revolution,Mls,2017
+24,24,Matt Turner,"$ 1,040","$ 54,075","$ 57,095",K,22,United States,Ne Revolution,Mls,2017
+25,25,Femi Hollinger Janzen,"$ 1,040","$ 54,075","$ 57,095",F,22,Benin,Ne Revolution,Mls,2017
+0,0,David Villa,"$ 107,885","$ 5,610,000","$ 5,923,356",F,34,Spain,Nyc FC,Mls,2017
+1,1,Andrea Pirlo,"$ 107,692","$ 5,600,000","$ 5,912,798",M,37,Italy,Nyc FC,Mls,2017
+2,2,Maximiliano Moralez,"$ 38,462","$ 2,000,000","$ 2,111,714",M,30,Argentina,Nyc FC,Mls,2017
+3,3,Mix Diskerud,"$ 14,859","$ 772,669","$ 815,828",M,25,United States,Nyc FC,Mls,2017
+4,4,Maxime Chanot,"$ 6,731","$ 350,000","$ 369,550",D,26,Luxembourg,Nyc FC,Mls,2017
+5,5,Alexander Ring,"$ 6,538","$ 340,000","$ 358,991",M,25,Finland,Nyc FC,Mls,2017
+6,6,Frederic Brilliant,"$ 5,385","$ 280,000","$ 295,640",D,32,France,Nyc FC,Mls,2017
+7,7,Jefferson Mena,"$ 4,808","$ 250,000","$ 263,964",D,27,Colombia,Nyc FC,Mls,2017
+8,8,Sean Johnson,"$ 4,231","$ 220,008","$ 232,297",K,27,United States,Nyc FC,Mls,2017
+9,9,Rodney Wallace,"$ 4,231","$ 220,000","$ 232,288",M,28,Costa Rica,Nyc FC,Mls,2017
+10,10,Thomas McNamara,"$ 3,558","$ 185,000","$ 195,333",M,25,United States,Nyc FC,Mls,2017
+11,11,Alexander Callens,"$ 3,462","$ 180,000","$ 190,054",D,24,Peru,Nyc FC,Mls,2017
+12,12,Ronald Matarrita,"$ 3,365","$ 175,000","$ 184,775",D,21,Costa Rica,Nyc FC,Mls,2017
+13,13,Jack Harrison,"$ 2,500","$ 130,000","$ 137,261",M,19,England,Nyc FC,Mls,2017
+14,14,Yangel Herrera,"$ 2,376","$ 123,557","$ 130,458",M,18,Venezuela,Nyc FC,Mls,2017
+15,15,Miguel Camargo,"$ 1,923","$ 100,000","$ 105,586",M,22,Panama,Nyc FC,Mls,2017
+16,16,RJ Allen,"$ 1,923","$ 100,000","$ 105,586",D,26,United States,Nyc FC,Mls,2017
+17,17,Khiry Shelton,"$ 1,788","$ 92,950","$ 98,142",F,23,United States,Nyc FC,Mls,2017
+18,18,Jonathan Lewis,"$ 1,538","$ 80,000","$ 84,469",F,19,United States,Nyc FC,Mls,2017
+19,19,Andraz Struna,"$ 1,454","$ 75,600","$ 79,823",D,27,Slovenia,Nyc FC,Mls,2017
+20,20,Mikey Lopez,"$ 1,442","$ 75,000","$ 79,189",M,23,United States,Nyc FC,Mls,2017
+21,21,Andre Rawls,"$ 1,262","$ 65,633","$ 69,299",K,24,United States,Nyc FC,Mls,2017
+22,22,Eirik Johansen,"$ 1,262","$ 65,625","$ 69,291",K,23,Norway,Nyc FC,Mls,2017
+23,23,Ben Sweat,"$ 1,250","$ 65,004","$ 68,635",D,24,United States,Nyc FC,Mls,2017
+24,24,John Stertzer,"$ 1,250","$ 65,000","$ 68,631",M,25,United States,Nyc FC,Mls,2017
+25,25,Ethan White,"$ 1,250","$ 65,000","$ 68,631",D,25,United States,Nyc FC,Mls,2017
+26,26,Shannon Gomez,"$ 1,040","$ 54,075","$ 57,095",D,19,Trinidad and Tobago,Nyc FC,Mls,2017
+27,27,Kwame Awuah,"$ 1,019","$ 53,004","$ 55,965",D,20,Canada,Nyc FC,Mls,2017
+28,28,Sean Okoli,"$ 1,019","$ 53,000","$ 55,960",F,23,United States,Nyc FC,Mls,2017
+29,29,James Sands,"$ 1,019","$ 53,000","$ 55,960",D,15,United States,Nyc FC,Mls,2017
+0,0,Bradley Wright Phillips,"$ 28,846","$ 1,500,000","$ 1,583,785",F,31,England,Ny Red Bulls,Mls,2017
+1,1,Sacha Kljestan,"$ 12,500","$ 650,000","$ 686,307",M,30,United States,Ny Red Bulls,Mls,2017
+2,2,Gonzalo Veron,"$ 9,615","$ 500,000","$ 527,928",M,26,Argentina,Ny Red Bulls,Mls,2017
+3,3,Daniel Royer,"$ 8,654","$ 450,000","$ 475,136",M,26,Austria,Ny Red Bulls,Mls,2017
+4,4,Aurelien Collin,"$ 8,654","$ 450,000","$ 475,136",D,30,France,Ny Red Bulls,Mls,2017
+5,5,Luis Robles,"$ 8,269","$ 430,000","$ 454,018",K,32,United States,Ny Red Bulls,Mls,2017
+6,6,Felipe Martins,"$ 7,404","$ 385,000","$ 406,505",M,25,Brazil,Ny Red Bulls,Mls,2017
+7,7,Gideon Baah,"$ 4,423","$ 230,000","$ 242,847",D,24,Ghana,Ny Red Bulls,Mls,2017
+8,8,Muhamed Keita,"$ 3,846","$ 200,012","$ 211,184",F,25,Norway,Ny Red Bulls,Mls,2017
+9,9,Mike Grella,"$ 3,577","$ 186,000","$ 196,389",F,29,United States,Ny Red Bulls,Mls,2017
+10,10,Damien Perrinelle,"$ 3,366","$ 175,008","$ 184,783",D,32,France,Ny Red Bulls,Mls,2017
+11,11,Dilly Duka,"$ 3,365","$ 175,000","$ 184,775",M,26,United States,Ny Red Bulls,Mls,2017
+12,12,Sal Zizzo,"$ 2,115","$ 110,000","$ 116,144",D,29,United States,Ny Red Bulls,Mls,2017
+13,13,Sean Davis,"$ 2,115","$ 110,000","$ 116,144",M,23,United States,Ny Red Bulls,Mls,2017
+14,14,Ryan Meara,"$ 1,923","$ 100,008","$ 105,594",K,25,Ireland,Ny Red Bulls,Mls,2017
+15,15,Kemar Lawrence,"$ 1,923","$ 100,000","$ 105,586",D,23,Jamaica,Ny Red Bulls,Mls,2017
+16,16,Fidel Escobar,"$ 1,827","$ 95,000","$ 100,306",D,21,Panama,Ny Red Bulls,Mls,2017
+17,17,Connor Lade,"$ 1,635","$ 85,000","$ 89,748",D,26,United States,Ny Red Bulls,Mls,2017
+18,18,Zeiko Lewis,"$ 1,442","$ 75,000","$ 79,189",M,22,Bermuda,Ny Red Bulls,Mls,2017
+19,19,Tyler Adams,"$ 1,442","$ 75,000","$ 79,189",M,17,United States,Ny Red Bulls,Mls,2017
+20,20,Anatole Abang,"$ 1,262","$ 65,625","$ 69,291",F,19,Cameroon,Ny Red Bulls,Mls,2017
+21,21,Alex Muyl,"$ 1,262","$ 65,625","$ 69,291",F,20,United States,Ny Red Bulls,Mls,2017
+22,22,Michael Murillo,"$ 1,250","$ 65,004","$ 68,635",D,20,Panama,Ny Red Bulls,Mls,2017
+23,23,Aaron Long,"$ 1,250","$ 65,000","$ 68,631",D,23,United States,Ny Red Bulls,Mls,2017
+24,24,Arun Basuljevic,"$ 1,019","$ 53,004","$ 55,965",M,20,United States,Ny Red Bulls,Mls,2017
+25,25,Dan Metzger,"$ 1,019","$ 53,004","$ 55,965",M,22,United States,Ny Red Bulls,Mls,2017
+26,26,Evan Louro,"$ 1,019","$ 53,004","$ 55,965",K,20,United States,Ny Red Bulls,Mls,2017
+27,27,Hassan N dam,"$ 1,019","$ 53,004","$ 55,965",D,19,Cameroon,Ny Red Bulls,Mls,2017
+28,28,Vincent Bezecourt,"$ 1,019","$ 53,004","$ 55,965",M,23,France,Ny Red Bulls,Mls,2017
+29,29,Derrick Etienne,"$ 1,019","$ 53,000","$ 55,960",M,19,Haiti,Ny Red Bulls,Mls,2017
+0,0,Kaka,"$ 128,077","$ 6,660,000","$ 7,032,006",M,34,Brazil,Orlando City,Mls,2017
+1,1,Antonio Nocerino,"$ 15,385","$ 800,000","$ 844,685",M,31,Italy,Orlando City,Mls,2017
+2,2,Giles Barnes,"$ 13,942","$ 725,000","$ 765,496",F,27,Jamaica,Orlando City,Mls,2017
+3,3,Dom Dwyer,"$ 10,577","$ 550,000","$ 580,721",F,25,United States,Orlando City,Mls,2017
+4,4,Yoshimar Yotun,"$ 10,577","$ 549,996","$ 580,717",M,26,Peru,Orlando City,Mls,2017
+5,5,Jonathan Spector,"$ 10,577","$ 549,996","$ 580,717",D,30,United States,Orlando City,Mls,2017
+6,6,Will Johnson,"$ 7,962","$ 414,000","$ 437,125",M,29,Canada,Orlando City,Mls,2017
+7,7,Carlos Rivas,"$ 7,212","$ 375,000","$ 395,946",M,22,Colombia,Orlando City,Mls,2017
+8,8,Dillon Powers,"$ 5,673","$ 295,000","$ 311,478",M,25,United States,Orlando City,Mls,2017
+9,9,Scott Sutter,"$ 4,615","$ 240,000","$ 253,406",D,30,Switzerland,Orlando City,Mls,2017
+10,10,Jose Aja,"$ 4,154","$ 216,000","$ 228,065",D,23,Uruguay,Orlando City,Mls,2017
+11,11,Joe Bendik,"$ 3,173","$ 165,000","$ 174,216",K,27,United States,Orlando City,Mls,2017
+12,12,Josh Saunders,"$ 2,885","$ 150,000","$ 158,379",K,35,Puerto Rico,Orlando City,Mls,2017
+13,13,Cyle Larin,"$ 2,885","$ 150,000","$ 158,379",F,21,Canada,Orlando City,Mls,2017
+14,14,Cristian Higuita,"$ 2,885","$ 150,000","$ 158,379",M,22,Colombia,Orlando City,Mls,2017
+15,15,Kevin Alston,"$ 2,596","$ 135,000","$ 142,541",D,28,United States,Orlando City,Mls,2017
+16,16,Richmond Laryea,"$ 2,500","$ 130,000","$ 137,261",M,22,Canada,Orlando City,Mls,2017
+17,17,Sebastian Hines,"$ 2,500","$ 129,996","$ 137,257",D,28,England,Orlando City,Mls,2017
+18,18,Servando Carrasco,"$ 2,211","$ 114,996","$ 121,419",M,27,United States,Orlando City,Mls,2017
+19,19,Donny Toia,"$ 2,115","$ 110,004","$ 116,148",D,24,United States,Orlando City,Mls,2017
+20,20,Tommy Redding,"$ 2,115","$ 110,000","$ 116,144",D,19,United States,Orlando City,Mls,2017
+21,21,Rafael Ramos,"$ 1,938","$ 100,800","$ 106,430",D,21,Portugal,Orlando City,Mls,2017
+22,22,Conor Donovan,"$ 1,923","$ 100,000","$ 105,586",D,20,United States,Orlando City,Mls,2017
+23,23,Victor Giro,"$ 1,539","$ 80,004","$ 84,473",D,23,Brazil,Orlando City,Mls,2017
+24,24,Hadji Barry,"$ 1,322","$ 68,750","$ 72,590",F,23,Guinea,Orlando City,Mls,2017
+25,25,Tony Rocha,"$ 1,262","$ 65,621","$ 69,286",M,22,United States,Orlando City,Mls,2017
+26,26,Earl Edwards,"$ 1,250","$ 65,000","$ 68,631",K,24,United States,Orlando City,Mls,2017
+27,27,Devron Garcia,"$ 1,019","$ 53,004","$ 55,965",M,20,Honduras,Orlando City,Mls,2017
+28,28,Leonardo Pereira,"$ 1,019","$ 53,004","$ 55,965",D,21,Brazil,Orlando City,Mls,2017
+29,29,Pierre Da Silva,"$ 1,019","$ 53,004","$ 55,965",M,17,United States,Orlando City,Mls,2017
+30,30,Mason Stajduhar,"$ 1,019","$ 53,000","$ 55,960",K,18,United States,Orlando City,Mls,2017
+0,0,Alejandro Bedoya,"$ 21,750","$ 1,131,000","$ 1,194,174",M,29,United States,Philadelphia Union,Mls,2017
+1,1,Maurice Edu,"$ 14,423","$ 750,000","$ 791,893",M,30,United States,Philadelphia Union,Mls,2017
+2,2,Ilsinho,"$ 9,038","$ 470,000","$ 496,253",M,30,Brazil,Philadelphia Union,Mls,2017
+3,3,Jay Simpson,"$ 8,942","$ 465,000","$ 490,973",F,27,England,Philadelphia Union,Mls,2017
+4,4,Haris Medunjanin,"$ 8,846","$ 460,008","$ 485,703",M,31,Bosnia-Herzegovina,Philadelphia Union,Mls,2017
+5,5,Chris Pontius,"$ 7,692","$ 400,000","$ 422,343",M,29,United States,Philadelphia Union,Mls,2017
+6,6,Roland Alberg,"$ 6,635","$ 345,000","$ 364,271",M,25,Netherlands,Philadelphia Union,Mls,2017
+7,7,CJ Sapong,"$ 5,769","$ 300,000","$ 316,757",F,27,United States,Philadelphia Union,Mls,2017
+8,8,Raymon Gaddis,"$ 3,173","$ 165,000","$ 174,216",D,26,United States,Philadelphia Union,Mls,2017
+9,9,Fabinho,"$ 3,072","$ 159,759","$ 168,683",D,31,Brazil,Philadelphia Union,Mls,2017
+10,10,Andre Blake,"$ 2,856","$ 148,500","$ 156,795",K,25,Jamaica,Philadelphia Union,Mls,2017
+11,11,Richard Marquez,"$ 2,558","$ 133,000","$ 140,429",D,24,United States,Philadelphia Union,Mls,2017
+12,12,Brian Carroll,"$ 2,538","$ 132,000","$ 139,373",M,34,United States,Philadelphia Union,Mls,2017
+13,13,Joshua Yaro,"$ 2,500","$ 130,000","$ 137,261",D,22,United States,Philadelphia Union,Mls,2017
+14,14,Warren Creavalle,"$ 2,404","$ 125,000","$ 131,982",M,25,Guyana,Philadelphia Union,Mls,2017
+15,15,Fabrice Picault,"$ 2,212","$ 115,000","$ 121,424",F,26,United States,Philadelphia Union,Mls,2017
+16,16,Fabian Herbers,"$ 2,115","$ 110,000","$ 116,144",M,22,Germany,Philadelphia Union,Mls,2017
+17,17,Charlie Davies,"$ 2,095","$ 108,960","$ 115,046",F,30,United States,Philadelphia Union,Mls,2017
+18,18,Keegan Rosenberry,"$ 2,010","$ 104,500","$ 110,337",D,22,United States,Philadelphia Union,Mls,2017
+19,19,John McCarthy,"$ 1,663","$ 86,500","$ 91,332",K,23,United States,Philadelphia Union,Mls,2017
+20,20,Auston Trusty,"$ 1,442","$ 75,000","$ 79,189",D,17,United States,Philadelphia Union,Mls,2017
+21,21,Eric Ayuk,"$ 1,262","$ 65,625","$ 69,291",M,19,Cameroon,Philadelphia Union,Mls,2017
+22,22,Giliano Wijnaldum,"$ 1,250","$ 65,004","$ 68,635",D,23,Netherlands,Philadelphia Union,Mls,2017
+23,23,Oguchi Onyewu,"$ 1,250","$ 65,004","$ 68,635",D,34,United States,Philadelphia Union,Mls,2017
+24,24,Ken Tribbett,"$ 1,250","$ 65,000","$ 68,631",D,23,United States,Philadelphia Union,Mls,2017
+25,25,Adam Najem,"$ 1,250","$ 65,000","$ 68,631",M,21,Afghanistan,Philadelphia Union,Mls,2017
+26,26,Derrick Jones,"$ 1,250","$ 65,000","$ 68,631",M,19,United States,Philadelphia Union,Mls,2017
+27,27,Aaron Jones,"$ 1,019","$ 53,004","$ 55,965",D,22,England,Philadelphia Union,Mls,2017
+28,28,Jack Elliott,"$ 1,019","$ 53,004","$ 55,965",D,20,England,Philadelphia Union,Mls,2017
+29,29,Anthony Fontana,"$ 1,019","$ 53,004","$ 55,965",M,18,United States,Philadelphia Union,Mls,2017
+30,30,Marcus Epps,"$ 1,019","$ 53,004","$ 55,965",M,21,United States,Philadelphia Union,Mls,2017
+31,31,Jake McGuire,"$ 1,019","$ 53,004","$ 55,965",K,21,United States,Philadelphia Union,Mls,2017
+0,0,Diego Valeri,"$ 42,837","$ 2,227,500","$ 2,351,921",M,30,Argentina,Portland Timbers,Mls,2017
+1,1,Fanendo Adi,"$ 22,885","$ 1,190,004","$ 1,256,474",F,25,Nigeria,Portland Timbers,Mls,2017
+2,2,Sebastian Blanco,"$ 19,231","$ 1,000,008","$ 1,055,865",M,28,Argentina,Portland Timbers,Mls,2017
+3,3,Lucas Melano,"$ 15,192","$ 790,000","$ 834,127",F,23,Argentina,Portland Timbers,Mls,2017
+4,4,Liam Ridgewell,"$ 11,827","$ 615,000","$ 649,352",D,31,England,Portland Timbers,Mls,2017
+5,5,Darlington Nagbe,"$ 10,577","$ 550,000","$ 580,721",M,25,United States,Portland Timbers,Mls,2017
+6,6,Diego Chara,"$ 9,615","$ 500,000","$ 527,928",M,30,Colombia,Portland Timbers,Mls,2017
+7,7,Larrys Mabiala,"$ 8,301","$ 431,667","$ 455,779",D,28,Democratic Republic of Congo,Portland Timbers,Mls,2017
+8,8,Darren Mattocks,"$ 5,769","$ 300,000","$ 316,757",F,25,Jamaica,Portland Timbers,Mls,2017
+9,9,Vytautas Andriuskevicius,"$ 4,279","$ 222,500","$ 234,928",D,25,Lithuania,Portland Timbers,Mls,2017
+10,10,David Guzman,"$ 3,558","$ 185,004","$ 195,338",M,26,Costa Rica,Portland Timbers,Mls,2017
+11,11,Roy Miller,"$ 2,885","$ 150,000","$ 158,379",D,31,Costa Rica,Portland Timbers,Mls,2017
+12,12,Lawrence Olum,"$ 2,740","$ 142,500","$ 150,460",M,31,Kenya,Portland Timbers,Mls,2017
+13,13,Dairon Asprilla,"$ 2,654","$ 138,000","$ 145,708",M,24,Colombia,Portland Timbers,Mls,2017
+14,14,Gbenga Arokoyo,"$ 2,596","$ 135,000","$ 142,541",D,23,Nigeria,Portland Timbers,Mls,2017
+15,15,Jeremy Ebobisse,"$ 2,500","$ 130,000","$ 137,261",F,19,United States,Portland Timbers,Mls,2017
+16,16,Chance Myers,"$ 2,404","$ 125,004","$ 131,986",D,28,United States,Portland Timbers,Mls,2017
+17,17,Alvas Powell,"$ 2,212","$ 115,000","$ 121,424",D,21,Jamaica,Portland Timbers,Mls,2017
+18,18,Zarek Valentin,"$ 2,115","$ 110,000","$ 116,144",D,24,Puerto Rico,Portland Timbers,Mls,2017
+19,19,Jake Gleeson,"$ 2,115","$ 110,000","$ 116,144",K,26,New Zealand,Portland Timbers,Mls,2017
+20,20,Ben Zemanski,"$ 2,019","$ 105,000","$ 110,865",M,28,United States,Portland Timbers,Mls,2017
+21,21,Jeff Attinella,"$ 1,923","$ 100,000","$ 105,586",K,27,United States,Portland Timbers,Mls,2017
+22,22,Jack Barmby,"$ 1,250","$ 65,004","$ 68,635",M,21,England,Portland Timbers,Mls,2017
+23,23,Amobi Okugo,"$ 1,250","$ 65,004","$ 68,635",D,25,United States,Portland Timbers,Mls,2017
+24,24,Victor Arboleda,"$ 1,250","$ 65,000","$ 68,631",M,19,Colombia,Portland Timbers,Mls,2017
+25,25,Billy Heavner,"$ 1,019","$ 53,004","$ 55,965",K,22,United States,Portland Timbers,Mls,2017
+26,26,Rennico Clarke,"$ 1,019","$ 53,004","$ 55,965",D,20,Jamaica,Portland Timbers,Mls,2017
+27,27,Bill Tuiloma,"$ 1,019","$ 53,004","$ 55,965",D,21,New Zealand,Portland Timbers,Mls,2017
+28,28,Kendall McIntosh,"$ 1,019","$ 53,000","$ 55,960",K,22,United States,Portland Timbers,Mls,2017
+29,29,Marco Farfan,"$ 1,019","$ 53,000","$ 55,960",D,17,United States,Portland Timbers,Mls,2017
+0,0,Yura Movsisyan,"$ 33,654","$ 1,750,000","$ 1,847,749",F,28,Armenia,Real Salt Lake,Mls,2017
+1,1,Albert Rusnak,"$ 15,865","$ 825,000","$ 871,082",M,21,Slovakia,Real Salt Lake,Mls,2017
+2,2,Kyle Beckerman,"$ 14,423","$ 750,000","$ 791,893",M,34,United States,Real Salt Lake,Mls,2017
+3,3,Marcelo Silva,"$ 12,981","$ 675,000","$ 712,703",D,27,Uruguay,Real Salt Lake,Mls,2017
+4,4,Nick Rimando,"$ 8,654","$ 450,000","$ 475,136",K,37,United States,Real Salt Lake,Mls,2017
+5,5,Joao Plata,"$ 8,654","$ 450,000","$ 475,136",F,24,Ecuador,Real Salt Lake,Mls,2017
+6,6,Jefferson Savarino,"$ 6,779","$ 352,500","$ 372,190",F,19,Venezuela,Real Salt Lake,Mls,2017
+7,7,Stephen Sunday,"$ 4,615","$ 240,000","$ 253,406",M,29,Nigeria,Real Salt Lake,Mls,2017
+8,8,Justen Glad,"$ 4,327","$ 225,000","$ 237,568",D,19,United States,Real Salt Lake,Mls,2017
+9,9,Anthony Beltran,"$ 4,231","$ 220,000","$ 232,288",D,22,United States,Real Salt Lake,Mls,2017
+10,10,Luis Silva,"$ 3,846","$ 200,004","$ 211,176",M,27,United States,Real Salt Lake,Mls,2017
+11,11,Jordan Allen,"$ 3,423","$ 178,000","$ 187,943",M,21,United States,Real Salt Lake,Mls,2017
+12,12,Luke Mulholland,"$ 3,317","$ 172,500","$ 182,135",M,27,England,Real Salt Lake,Mls,2017
+13,13,Demar Phillips,"$ 2,981","$ 155,004","$ 163,662",D,32,Jamaica,Real Salt Lake,Mls,2017
+14,14,Chris Wingert,"$ 2,577","$ 134,004","$ 141,489",D,34,United States,Real Salt Lake,Mls,2017
+15,15,Chris Schuler,"$ 2,452","$ 127,500","$ 134,622",D,28,United States,Real Salt Lake,Mls,2017
+16,16,David Horst,"$ 2,115","$ 110,004","$ 116,148",D,30,United States,Real Salt Lake,Mls,2017
+17,17,Omar Holness,"$ 2,115","$ 110,000","$ 116,144",F,22,Jamaica,Real Salt Lake,Mls,2017
+18,18,Chad Barrett,"$ 1,904","$ 99,000","$ 104,530",F,31,United States,Real Salt Lake,Mls,2017
+19,19,Matt Van Oekel,"$ 1,846","$ 96,000","$ 101,362",K,29,United States,Real Salt Lake,Mls,2017
+20,20,Sebastian Saucedo,"$ 1,731","$ 90,000","$ 95,027",M,19,United States,Real Salt Lake,Mls,2017
+21,21,Ricardo Velazco,"$ 1,262","$ 65,633","$ 69,299",F,23,United States,Real Salt Lake,Mls,2017
+22,22,Danilo Acosta,"$ 1,262","$ 65,625","$ 69,291",M,18,Honduras,Real Salt Lake,Mls,2017
+23,23,Justin Schmidt,"$ 1,019","$ 53,004","$ 55,965",D,22,United States,Real Salt Lake,Mls,2017
+24,24,Connor Sparrow,"$ 1,019","$ 53,004","$ 55,965",K,22,United States,Real Salt Lake,Mls,2017
+25,25,Jose Hernandez,"$ 1,019","$ 53,004","$ 55,965",M,20,United States,Real Salt Lake,Mls,2017
+26,26,Brooks Lennon,"$ 1,019","$ 53,004","$ 55,965",F,18,United States,Real Salt Lake,Mls,2017
+27,27,Reagan Dunk,"$ 1,019","$ 53,004","$ 55,965",D,22,United States,Real Salt Lake,Mls,2017
+28,28,Nick Besler,"$ 1,019","$ 53,000","$ 55,960",M,23,United States,Real Salt Lake,Mls,2017
+0,0,Valeri Vako Qazaishvili,"$ 25,481","$ 1,325,004","$ 1,399,014",M,24,Georgia,San Jose Earthquakes,Mls,2017
+1,1,Simon Dawkins,"$ 15,385","$ 800,000","$ 844,685",M,28,Jamaica,San Jose Earthquakes,Mls,2017
+2,2,Chris Wondolowski,"$ 15,385","$ 800,000","$ 844,685",F,33,United States,San Jose Earthquakes,Mls,2017
+3,3,Jahmir Hyka,"$ 9,039","$ 470,004","$ 496,257",M,28,Albania,San Jose Earthquakes,Mls,2017
+4,4,Florian Jungwirth,"$ 8,654","$ 450,000","$ 475,136",D,27,Germany,San Jose Earthquakes,Mls,2017
+5,5,Danny Hoesen,"$ 8,173","$ 425,004","$ 448,743",F,25,Netherlands,San Jose Earthquakes,Mls,2017
+6,6,Marco Urena,"$ 5,289","$ 275,004","$ 290,365",F,27,Costa Rica,San Jose Earthquakes,Mls,2017
+7,7,Quincy Amarikwa,"$ 4,933","$ 256,500","$ 270,827",F,28,United States,San Jose Earthquakes,Mls,2017
+8,8,Harold Cummings,"$ 4,808","$ 249,996","$ 263,960",D,24,Panama,San Jose Earthquakes,Mls,2017
+9,9,Marvell Wynne,"$ 4,727","$ 245,808","$ 259,538",D,30,United States,San Jose Earthquakes,Mls,2017
+10,10,Anibal Godoy,"$ 4,423","$ 229,992","$ 242,839",M,26,Panama,San Jose Earthquakes,Mls,2017
+11,11,Victor Bernardez,"$ 4,327","$ 225,000","$ 237,568",D,34,Honduras,San Jose Earthquakes,Mls,2017
+12,12,Darwin Ceren,"$ 3,846","$ 200,000","$ 211,171",M,26,El Salvador,San Jose Earthquakes,Mls,2017
+13,13,David Bingham,"$ 3,654","$ 190,000","$ 200,613",K,26,United States,San Jose Earthquakes,Mls,2017
+14,14,Shea Salinas,"$ 3,558","$ 185,000","$ 195,333",M,30,United States,San Jose Earthquakes,Mls,2017
+15,15,Tommy Thompson,"$ 2,885","$ 150,000","$ 158,379",M,20,United States,San Jose Earthquakes,Mls,2017
+16,16,Cordell Cato,"$ 2,635","$ 137,000","$ 144,652",D,23,Trinidad and Tobago,San Jose Earthquakes,Mls,2017
+17,17,Kofi Sarkodie,"$ 2,596","$ 135,000","$ 142,541",D,25,United States,San Jose Earthquakes,Mls,2017
+18,18,Jackson Yueill,"$ 2,404","$ 124,992","$ 131,974",M,19,United States,San Jose Earthquakes,Mls,2017
+19,19,Francois Affolter,"$ 2,308","$ 120,000","$ 126,703",D,25,Switzerland,San Jose Earthquakes,Mls,2017
+20,20,Andres Imperiale,"$ 2,019","$ 105,000","$ 110,865",D,29,Argentina,San Jose Earthquakes,Mls,2017
+21,21,Leandro Barrera,"$ 1,923","$ 100,000","$ 105,586",F,24,Argentina,San Jose Earthquakes,Mls,2017
+22,22,Fatai Alashe,"$ 1,888","$ 98,175","$ 103,659",M,22,United States,San Jose Earthquakes,Mls,2017
+23,23,Nick Lima,"$ 1,539","$ 80,004","$ 84,473",D,21,United States,San Jose Earthquakes,Mls,2017
+24,24,Andrew Tarbell,"$ 1,538","$ 80,000","$ 84,469",K,22,United States,San Jose Earthquakes,Mls,2017
+25,25,Matt Bersano,"$ 1,250","$ 65,004","$ 68,635",K,23,United States,San Jose Earthquakes,Mls,2017
+26,26,Marc Pelosi,"$ 1,250","$ 65,004","$ 68,635",M,22,United States,San Jose Earthquakes,Mls,2017
+27,27,Matheus Silva,"$ 1,250","$ 65,000","$ 68,631",M,19,Brazil,San Jose Earthquakes,Mls,2017
+28,28,Kip Colvey,"$ 1,040","$ 54,075","$ 57,095",D,22,New Zealand,San Jose Earthquakes,Mls,2017
+29,29,Lindo Mfeka,"$ 1,019","$ 53,004","$ 55,965",M,22,South Africa,San Jose Earthquakes,Mls,2017
+0,0,Clint Dempsey,"$ 61,538","$ 3,200,000","$ 3,378,742",F,33,United States,Seattle Sounders,Mls,2017
+1,1,Nicolas Lodeiro,"$ 26,374","$ 1,371,429","$ 1,448,033",M,27,Uruguay,Seattle Sounders,Mls,2017
+2,2,Osvaldo Alonso,"$ 21,154","$ 1,100,000","$ 1,161,442",M,30,Cuba,Seattle Sounders,Mls,2017
+3,3,Victor Rodriguez,"$ 19,231","$ 1,000,000","$ 1,055,857",M,26,Spain,Seattle Sounders,Mls,2017
+4,4,Roman Torres,"$ 8,327","$ 433,000","$ 457,186",D,30,Panama,Seattle Sounders,Mls,2017
+5,5,Kelvin Leerdam,"$ 7,320","$ 380,640","$ 401,901",D,26,Netherlands,Seattle Sounders,Mls,2017
+6,6,Chad Marshall,"$ 6,731","$ 350,000","$ 369,550",D,31,United States,Seattle Sounders,Mls,2017
+7,7,Will Bruin,"$ 6,250","$ 325,000","$ 343,153",F,26,United States,Seattle Sounders,Mls,2017
+8,8,Brad Evans,"$ 5,769","$ 300,000","$ 316,757",D,31,United States,Seattle Sounders,Mls,2017
+9,9,Stefan Frei,"$ 4,808","$ 250,000","$ 263,964",K,30,United States,Seattle Sounders,Mls,2017
+10,10,Jordan Morris,"$ 4,327","$ 225,000","$ 237,568",F,21,United States,Seattle Sounders,Mls,2017
+11,11,Lamar Neagle,"$ 3,846","$ 200,000","$ 211,171",M,29,United States,Seattle Sounders,Mls,2017
+12,12,Gustav Svensson,"$ 3,269","$ 170,000","$ 179,496",M,29,Sweden,Seattle Sounders,Mls,2017
+13,13,Harrison Shipp,"$ 2,788","$ 145,000","$ 153,099",M,25,United States,Seattle Sounders,Mls,2017
+14,14,Cristian Roldan,"$ 2,212","$ 115,000","$ 121,424",M,21,United States,Seattle Sounders,Mls,2017
+15,15,Calum Mallace,"$ 2,212","$ 115,000","$ 121,424",M,26,Scotland,Seattle Sounders,Mls,2017
+16,16,Joevin Jones,"$ 1,731","$ 90,000","$ 95,027",D,24,Trinidad and Tobago,Seattle Sounders,Mls,2017
+17,17,Aaron Kovar,"$ 1,272","$ 66,150","$ 69,845",M,22,United States,Seattle Sounders,Mls,2017
+18,18,Bryan Meredith,"$ 1,272","$ 66,150","$ 69,845",K,26,United States,Seattle Sounders,Mls,2017
+19,19,Tyler Miller,"$ 1,262","$ 65,633","$ 69,299",K,23,United States,Seattle Sounders,Mls,2017
+20,20,Oniel Fisher,"$ 1,262","$ 65,625","$ 69,291",M,24,Jamaica,Seattle Sounders,Mls,2017
+21,21,Tony Alfaro,"$ 1,040","$ 54,075","$ 57,095",D,23,Mexico,Seattle Sounders,Mls,2017
+22,22,Seyi Adekoya,"$ 1,019","$ 53,004","$ 55,965",F,20,United States,Seattle Sounders,Mls,2017
+23,23,Jordy Delem,"$ 1,019","$ 53,004","$ 55,965",M,23,Martinique,Seattle Sounders,Mls,2017
+24,24,Henry Wingo,"$ 1,019","$ 53,004","$ 55,965",D,20,United States,Seattle Sounders,Mls,2017
+25,25,Zach Mathers,"$ 1,019","$ 53,004","$ 55,965",M,22,United States,Seattle Sounders,Mls,2017
+26,26,Nouhou Tolo,"$ 1,019","$ 53,000","$ 55,960",D,20,Cameroon,Seattle Sounders,Mls,2017
+0,0,Roger Espinoza,"$ 16,346","$ 850,000","$ 897,478",M,29,Honduras,Sporting Kc,Mls,2017
+1,1,Graham Zusi,"$ 13,942","$ 725,000","$ 765,496",M,29,United States,Sporting Kc,Mls,2017
+2,2,Matt Besler,"$ 13,942","$ 725,000","$ 765,496",D,29,United States,Sporting Kc,Mls,2017
+3,3,Benny Feilhaber,"$ 11,538","$ 600,000","$ 633,514",M,31,United States,Sporting Kc,Mls,2017
+4,4,Gerso Fernandes,"$ 10,577","$ 550,008","$ 580,730",M,26,Guinea-Bissau,Sporting Kc,Mls,2017
+5,5,Ilie Sanchez,"$ 5,769","$ 300,000","$ 316,757",M,25,Spain,Sporting Kc,Mls,2017
+6,6,Diego Rubio Kostner,"$ 3,885","$ 202,000","$ 213,283",F,24,Chile,Sporting Kc,Mls,2017
+7,7,Soni Mustivar,"$ 3,846","$ 200,000","$ 211,171",M,26,Haiti,Sporting Kc,Mls,2017
+8,8,Cristian Lobato,"$ 3,462","$ 180,000","$ 190,054",M,27,Spain,Sporting Kc,Mls,2017
+9,9,Tim Melia,"$ 3,173","$ 165,000","$ 174,216",K,30,United States,Sporting Kc,Mls,2017
+10,10,Ike Opara,"$ 2,885","$ 150,000","$ 158,379",D,27,United States,Sporting Kc,Mls,2017
+11,11,Kevin Ellis,"$ 2,692","$ 140,004","$ 147,824",D,25,United States,Sporting Kc,Mls,2017
+12,12,Jimmy Medranda,"$ 2,500","$ 130,008","$ 137,270",D,22,Colombia,Sporting Kc,Mls,2017
+13,13,Seth Sinovic,"$ 2,404","$ 125,000","$ 131,982",D,29,United States,Sporting Kc,Mls,2017
+14,14,Saad Abdul Salaam,"$ 1,862","$ 96,800","$ 102,207",D,24,United States,Sporting Kc,Mls,2017
+15,15,Andrew Dykstra,"$ 1,539","$ 80,004","$ 84,473",K,30,United States,Sporting Kc,Mls,2017
+16,16,Erik Palmer Brown,"$ 1,442","$ 75,000","$ 79,189",D,19,United States,Sporting Kc,Mls,2017
+17,17,Soony Saad,"$ 1,250","$ 65,004","$ 68,635",F,23,Lebanon,Sporting Kc,Mls,2017
+18,18,Cameron Iwasa,"$ 1,250","$ 65,004","$ 68,635",F,23,United States,Sporting Kc,Mls,2017
+19,19,James Musa,"$ 1,250","$ 65,004","$ 68,635",D,24,New Zealand,Sporting Kc,Mls,2017
+20,20,Kevin Oliveira,"$ 1,250","$ 65,004","$ 68,635",M,20,Cape Verde,Sporting Kc,Mls,2017
+21,21,Kharlton Belmar,"$ 1,250","$ 65,004","$ 68,635",F,23,United States,Sporting Kc,Mls,2017
+22,22,Latif Blessing,"$ 1,250","$ 65,004","$ 68,635",F,19,Ghana,Sporting Kc,Mls,2017
+23,23,Cameron Porter,"$ 1,250","$ 65,000","$ 68,631",F,23,United States,Sporting Kc,Mls,2017
+24,24,Gianluca Busio,"$ 1,019","$ 53,004","$ 55,965",F,14,United States,Sporting Kc,Mls,2017
+25,25,Colton Storm,"$ 1,019","$ 53,004","$ 55,965",D,21,United States,Sporting Kc,Mls,2017
+26,26,Amer Didic,"$ 1,019","$ 53,004","$ 55,965",D,21,Canada,Sporting Kc,Mls,2017
+27,27,Tyler Pasher,"$ 1,019","$ 53,000","$ 55,960",D,22,Canada,Sporting Kc,Mls,2017
+28,28,Daniel Salloi,"$ 1,019","$ 53,000","$ 55,960",F,19,Hungary,Sporting Kc,Mls,2017
+29,29,Adrian Zendejas,"$ 1,019","$ 53,000","$ 55,960",K,20,United States,Sporting Kc,Mls,2017
+0,0,Michael Bradley,"$ 115,385","$ 6,000,000","$ 6,335,141",M,28,United States,Toronto FC,Mls,2017
+1,1,Sebastian Giovinco,"$ 107,692","$ 5,600,000","$ 5,912,798",F,29,Italy,Toronto FC,Mls,2017
+2,2,Jozy Altidore,"$ 93,750","$ 4,875,000","$ 5,147,302",F,26,United States,Toronto FC,Mls,2017
+3,3,Victor Vazquez,"$ 12,115","$ 630,000","$ 665,190",M,29,Spain,Toronto FC,Mls,2017
+4,4,Chris Mavinga,"$ 5,096","$ 265,008","$ 279,810",D,25,Democratic Republic of Congo,Toronto FC,Mls,2017
+5,5,Steven Beitashour,"$ 4,808","$ 250,000","$ 263,964",D,29,Iran,Toronto FC,Mls,2017
+6,6,Drew Moor,"$ 4,745","$ 246,750","$ 260,533",D,32,United States,Toronto FC,Mls,2017
+7,7,Marco Delgado,"$ 4,038","$ 210,000","$ 221,730",M,19,United States,Toronto FC,Mls,2017
+8,8,Justin Morrow,"$ 4,038","$ 210,000","$ 221,730",D,28,United States,Toronto FC,Mls,2017
+9,9,Clint Irwin,"$ 3,846","$ 200,004","$ 211,176",K,27,United States,Toronto FC,Mls,2017
+10,10,Jonathan Osorio,"$ 3,688","$ 191,763","$ 202,474",M,24,Canada,Toronto FC,Mls,2017
+11,11,Armando Cooper,"$ 3,635","$ 189,000","$ 199,557",M,28,Panama,Toronto FC,Mls,2017
+12,12,Tosaint Ricketts,"$ 3,462","$ 180,000","$ 190,054",F,28,Canada,Toronto FC,Mls,2017
+13,13,Eriq Zavaleta,"$ 1,978","$ 102,850","$ 108,595",D,23,United States,Toronto FC,Mls,2017
+14,14,Ashtone Morgan,"$ 1,923","$ 100,008","$ 105,594",D,25,Canada,Toronto FC,Mls,2017
+15,15,Nick Hagglund,"$ 1,923","$ 100,008","$ 105,594",D,23,United States,Toronto FC,Mls,2017
+16,16,Jay Chapman,"$ 1,731","$ 90,000","$ 95,027",M,22,Canada,Toronto FC,Mls,2017
+17,17,Brandon Aubrey,"$ 1,442","$ 75,000","$ 79,189",D,21,United States,Toronto FC,Mls,2017
+18,18,Alex Bono,"$ 1,346","$ 70,000","$ 73,910",K,22,United States,Toronto FC,Mls,2017
+19,19,Jordan Hamilton,"$ 1,336","$ 69,458","$ 73,338",F,20,Canada,Toronto FC,Mls,2017
+20,20,Nicolas Hasler,"$ 1,250","$ 65,004","$ 68,635",D,25,Liechtenstein,Toronto FC,Mls,2017
+21,21,Ben Spencer,"$ 1,250","$ 65,004","$ 68,635",F,21,United States,Toronto FC,Mls,2017
+22,22,Sergio Camargo,"$ 1,250","$ 65,004","$ 68,635",M,21,Canada,Toronto FC,Mls,2017
+23,23,Jason Hernandez,"$ 1,250","$ 65,004","$ 68,635",D,32,Puerto Rico,Toronto FC,Mls,2017
+24,24,Mark Pais,"$ 1,250","$ 65,004","$ 68,635",K,25,United States,Toronto FC,Mls,2017
+25,25,Benoit Cheyrou,"$ 1,250","$ 65,004","$ 68,635",M,35,France,Toronto FC,Mls,2017
+26,26,Tsubasa Endoh,"$ 1,040","$ 54,075","$ 57,095",F,22,Japan,Toronto FC,Mls,2017
+27,27,Raheem Edwards,"$ 1,019","$ 53,004","$ 55,965",F,20,Canada,Toronto FC,Mls,2017
+28,28,Oyvind Alseth,"$ 1,019","$ 53,004","$ 55,965",M,21,Norway,Toronto FC,Mls,2017
+0,0,Fredy Montero,"$ 26,923","$ 1,400,000","$ 1,478,199",F,28,Colombia,Vancouver Whitecaps,Mls,2017
+1,1,Matias Laba,"$ 13,942","$ 725,000","$ 765,496",M,24,Argentina,Vancouver Whitecaps,Mls,2017
+2,2,Brek Shea,"$ 12,019","$ 625,000","$ 659,910",M,26,United States,Vancouver Whitecaps,Mls,2017
+3,3,Yordy Reyna,"$ 8,462","$ 440,000","$ 464,577",M,22,Peru,Vancouver Whitecaps,Mls,2017
+4,4,David Ousted,"$ 6,923","$ 360,000","$ 380,108",K,31,Denmark,Vancouver Whitecaps,Mls,2017
+5,5,Cristian Techera,"$ 6,769","$ 352,000","$ 371,662",M,24,Uruguay,Vancouver Whitecaps,Mls,2017
+6,6,Kendall Waston,"$ 6,731","$ 350,000","$ 369,550",D,28,Costa Rica,Vancouver Whitecaps,Mls,2017
+7,7,Tony Tchani,"$ 5,288","$ 275,000","$ 290,361",M,27,Cameroon,Vancouver Whitecaps,Mls,2017
+8,8,Christian Bolanos,"$ 4,808","$ 250,000","$ 263,964",M,32,Costa Rica,Vancouver Whitecaps,Mls,2017
+9,9,Jordan Harvey,"$ 3,462","$ 180,000","$ 190,054",D,32,United States,Vancouver Whitecaps,Mls,2017
+10,10,David Edgar,"$ 3,365","$ 175,000","$ 184,775",D,29,Canada,Vancouver Whitecaps,Mls,2017
+11,11,Sheanon Williams,"$ 3,365","$ 175,000","$ 184,775",D,26,United States,Vancouver Whitecaps,Mls,2017
+12,12,Aaron Maund,"$ 3,173","$ 165,000","$ 174,216",D,25,Trinidad and Tobago,Vancouver Whitecaps,Mls,2017
+13,13,Andrew Jacobson,"$ 2,885","$ 150,000","$ 158,379",M,30,United States,Vancouver Whitecaps,Mls,2017
+14,14,Marcel de Jong,"$ 2,692","$ 140,000","$ 147,820",D,29,Canada,Vancouver Whitecaps,Mls,2017
+15,15,Bernie Ibini,"$ 2,596","$ 135,000","$ 142,541",F,25,Australia,Vancouver Whitecaps,Mls,2017
+16,16,Russell Teibert,"$ 2,433","$ 126,500","$ 133,566",M,23,Canada,Vancouver Whitecaps,Mls,2017
+17,17,Erik Hurtado,"$ 2,404","$ 125,000","$ 131,982",F,25,United States,Vancouver Whitecaps,Mls,2017
+18,18,Nicolas Mezquida,"$ 2,308","$ 120,000","$ 126,703",M,24,Uruguay,Vancouver Whitecaps,Mls,2017
+19,19,Ali Ghazal,"$ 1,669","$ 86,800","$ 91,648",D,25,Egypt,Vancouver Whitecaps,Mls,2017
+20,20,Tim Parker,"$ 1,555","$ 80,850","$ 85,366",D,23,United States,Vancouver Whitecaps,Mls,2017
+21,21,Samuel Adekugbe,"$ 1,538","$ 80,000","$ 84,469",D,20,Canada,Vancouver Whitecaps,Mls,2017
+22,22,Marco Bustos,"$ 1,262","$ 65,625","$ 69,291",M,20,Canada,Vancouver Whitecaps,Mls,2017
+23,23,Kyle Greig,"$ 1,250","$ 65,004","$ 68,635",F,26,United States,Vancouver Whitecaps,Mls,2017
+24,24,Mauro Rosales,"$ 1,250","$ 65,004","$ 68,635",M,35,Argentina,Vancouver Whitecaps,Mls,2017
+25,25,Jake Nerwinski,"$ 1,250","$ 65,004","$ 68,635",D,21,United States,Vancouver Whitecaps,Mls,2017
+26,26,Spencer Richey,"$ 1,250","$ 65,004","$ 68,635",K,24,United States,Vancouver Whitecaps,Mls,2017
+27,27,Stefan Marinovic,"$ 1,250","$ 65,000","$ 68,631",K,24,New Zealand,Vancouver Whitecaps,Mls,2017
+28,28,Brett Levis,"$ 1,250","$ 65,000","$ 68,631",D,23,Canada,Vancouver Whitecaps,Mls,2017
+29,29,Ben McKendry,"$ 1,250","$ 65,000","$ 68,631",M,23,Canada,Vancouver Whitecaps,Mls,2017
+30,30,Alphonso Davies,"$ 1,250","$ 65,000","$ 68,631",M,15,Canada,Vancouver Whitecaps,Mls,2017
+31,31,Nosa Igiebor,"$ 1,250","$ 65,000","$ 68,631",M,25,Nigeria,Vancouver Whitecaps,Mls,2017
+32,32,Cole Seiler,"$ 1,040","$ 54,075","$ 57,095",D,22,United States,Vancouver Whitecaps,Mls,2017
+33,33,Deybi Flores,"$ 1,019","$ 53,000","$ 55,960",M,20,Honduras,Vancouver Whitecaps,Mls,2017
