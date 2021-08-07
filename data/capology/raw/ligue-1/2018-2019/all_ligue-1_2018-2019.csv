@@ -1,0 +1,755 @@
+,Unnamed: 0,Player,Weekly GrossBase Salary(IN EUR),Annual GrossBase Salary(IN EUR),"Adj. GrossBase Salary(2021, IN EUR)",Pos.,Age,Country,Team,League,Season
+0,0,Erik Pieters,"€ 27,115","€ 1,410,000","€ 1,416,719",D,29,Netherlands,Amiens,Ligue 1,2018-2019
+1,1,Serhou Guirassy,"€ 15,288","€ 795,000","€ 798,788",F,22,France,Amiens,Ligue 1,2018-2019
+2,2,Juan Ferney Otero,"€ 14,731","€ 766,000","€ 769,650",F,23,Colombia,Amiens,Ligue 1,2018-2019
+3,3,Guessouma Fofana,"€ 12,385","€ 644,000","€ 647,069",M,25,France,Amiens,Ligue 1,2018-2019
+4,4,Saman Ghoddos,"€ 12,154","€ 632,000","€ 635,011",F,24,Iran,Amiens,Ligue 1,2018-2019
+5,5,Emil Krafth,"€ 10,673","€ 555,000","€ 557,645",D,23,Sweden,Amiens,Ligue 1,2018-2019
+6,6,Bakaye Dibassy,"€ 10,596","€ 551,000","€ 553,626",D,28,Mali,Amiens,Ligue 1,2018-2019
+7,7,Moussa Konaté,"€ 9,192","€ 478,000","€ 480,278",F,25,Senegal,Amiens,Ligue 1,2018-2019
+8,8,Alexis Blin,"€ 9,096","€ 473,000","€ 475,254",M,21,France,Amiens,Ligue 1,2018-2019
+9,9,Quentin Cornette,"€ 8,135","€ 423,000","€ 425,016",F,24,France,Amiens,Ligue 1,2018-2019
+10,10,Ganso,"€ 7,808","€ 406,000","€ 407,935",M,28,Brazil,Amiens,Ligue 1,2018-2019
+11,11,Jordan Lefort,"€ 7,481","€ 389,000","€ 390,854",D,24,France,Amiens,Ligue 1,2018-2019
+12,12,Stiven Mendoza,"€ 6,981","€ 363,000","€ 364,730",F,26,Colombia,Amiens,Ligue 1,2018-2019
+13,13,Matthieu Dreyer,"€ 6,654","€ 346,000","€ 347,649",K,29,France,Amiens,Ligue 1,2018-2019
+14,14,Régis Gurtner,"€ 6,500","€ 338,000","€ 339,611",K,31,France,Amiens,Ligue 1,2018-2019
+15,15,Bachibou Koita,"€ 6,250","€ 325,000","€ 326,549",F,24,Niger,Amiens,Ligue 1,2018-2019
+16,16,Prince Gouano,"€ 5,750","€ 299,000","€ 300,425",D,24,France,Amiens,Ligue 1,2018-2019
+17,17,Bongani Zungu,"€ 5,750","€ 299,000","€ 300,425",M,25,South Africa,Amiens,Ligue 1,2018-2019
+18,18,Rafal Kurzawa,"€ 5,750","€ 299,000","€ 300,425",M,25,Poland,Amiens,Ligue 1,2018-2019
+19,19,Mathieu Bodmer,"€ 4,596","€ 239,000","€ 240,139",M,35,France,Amiens,Ligue 1,2018-2019
+20,20,Thomas Monconduit,"€ 4,596","€ 239,000","€ 240,139",M,27,France,Amiens,Ligue 1,2018-2019
+21,21,Khaled Adénon,"€ 3,500","€ 182,000","€ 182,867",D,32,Benin,Amiens,Ligue 1,2018-2019
+22,22,Oualid El Hajjam,"€ 3,442","€ 179,000","€ 179,853",D,27,Morocco,Amiens,Ligue 1,2018-2019
+23,23,Eddy Gnahoré,"€ 2,865","€ 149,000","€ 149,710",M,24,France,Amiens,Ligue 1,2018-2019
+24,24,Stanley Segarel,"€ 2,769","€ 144,000","€ 144,686",F,24,France,Amiens,Ligue 1,2018-2019
+25,25,Cheick Timite,"€ 2,558","€ 133,000","€ 133,634",F,20,Cote d'Ivoire,Amiens,Ligue 1,2018-2019
+26,26,Gaoussou Traoré,"€ 1,788","€ 93,000","€ 93,443",F,18,France,Amiens,Ligue 1,2018-2019
+27,27,Martin Gneba,"€ 1,577","€ 82,000","€ 82,391",F,19,France,Amiens,Ligue 1,2018-2019
+28,28,Gauthier Banaziak,"€ 1,096","€ 57,000","€ 57,272",K,21,France,Amiens,Ligue 1,2018-2019
+29,29,Mathurin Sakho,€ 808,"€ 42,000","€ 42,200",D,23,France,Amiens,Ligue 1,2018-2019
+30,30,Valentin Gendrey,€ 96,"€ 5,000","€ 5,024",D,18,France,Amiens,Ligue 1,2018-2019
+31,31,Réda Rabeï,€ 0,€ 0,€ 0,M,23,Algeria,Amiens,Ligue 1,2018-2019
+32,32,Yannick Mamilonne,€ 0,€ 0,€ 0,F,26,Guadeloupe,Amiens,Ligue 1,2018-2019
+33,33,Brighton Labeau,€ 0,€ 0,€ 0,F,22,France,Amiens,Ligue 1,2018-2019
+34,34,Sanasi Sy,€ 0,€ 0,€ 0,D,18,France,Amiens,Ligue 1,2018-2019
+35,35,Mahdi Talal,€ 0,€ 0,€ 0,M,20,France,Amiens,Ligue 1,2018-2019
+0,0,Baptiste Santamaría,"€ 15,288","€ 795,000","€ 798,788",M,23,France,Angers,Ligue 1,2018-2019
+1,1,Mateo Pavlovic,"€ 13,846","€ 720,000","€ 723,431",D,28,Croatia,Angers,Ligue 1,2018-2019
+2,2,Flavien Tait,"€ 13,827","€ 719,000","€ 722,426",F,25,France,Angers,Ligue 1,2018-2019
+3,3,Thomas Mangani,"€ 12,654","€ 658,000","€ 661,135",M,31,France,Angers,Ligue 1,2018-2019
+4,4,Romain Thomas,"€ 12,654","€ 658,000","€ 661,135",D,30,France,Angers,Ligue 1,2018-2019
+5,5,Vincent Pajot,"€ 12,654","€ 658,000","€ 661,135",M,27,France,Angers,Ligue 1,2018-2019
+6,6,Ludovic Butelle,"€ 12,654","€ 658,000","€ 661,135",K,35,France,Angers,Ligue 1,2018-2019
+7,7,Cheikh N'Doye,"€ 12,558","€ 653,000","€ 656,112",M,32,Senegal,Angers,Ligue 1,2018-2019
+8,8,Baptiste Guillaume,"€ 12,154","€ 632,000","€ 635,011",F,23,Belgium,Angers,Ligue 1,2018-2019
+9,9,Cristian López,"€ 12,135","€ 631,000","€ 634,007",F,28,Spain,Angers,Ligue 1,2018-2019
+10,10,Loïc Puyo,"€ 11,635","€ 605,000","€ 607,883",M,29,France,Angers,Ligue 1,2018-2019
+11,11,Stéphane Bahoken,"€ 11,231","€ 584,000","€ 586,783",F,26,Cameroon,Angers,Ligue 1,2018-2019
+12,12,Théo Pellenard,"€ 10,385","€ 540,000","€ 542,573",D,24,France,Angers,Ligue 1,2018-2019
+13,13,Pierrick Capelle,"€ 10,250","€ 533,000","€ 535,540",M,31,France,Angers,Ligue 1,2018-2019
+14,14,Thomas Touré,"€ 10,173","€ 529,000","€ 531,521",F,24,Cote d'Ivoire,Angers,Ligue 1,2018-2019
+15,15,Férébory Doré,"€ 10,019","€ 521,000","€ 523,483",F,29,Congo,Angers,Ligue 1,2018-2019
+16,16,Saliou Ciss,"€ 9,750","€ 507,000","€ 509,416",D,28,Senegal,Angers,Ligue 1,2018-2019
+17,17,Abdoulaye Bamba,"€ 9,615","€ 500,000","€ 502,382",D,28,Cote d'Ivoire,Angers,Ligue 1,2018-2019
+18,18,Ismaël Traoré,"€ 9,192","€ 478,000","€ 480,278",D,31,Cote d'Ivoire,Angers,Ligue 1,2018-2019
+19,19,Angelo Fulgini,"€ 9,192","€ 478,000","€ 480,278",M,21,France,Angers,Ligue 1,2018-2019
+20,20,Jeff Reine-Adélaïde,"€ 9,192","€ 478,000","€ 480,278",M,20,France,Angers,Ligue 1,2018-2019
+21,21,Vincent Manceau,"€ 9,192","€ 478,000","€ 480,278",D,28,France,Angers,Ligue 1,2018-2019
+22,22,Yoann Andreu,"€ 7,596","€ 395,000","€ 396,882",D,29,France,Angers,Ligue 1,2018-2019
+23,23,Ibrahim Cissé,"€ 6,385","€ 332,000","€ 333,582",D,22,France,Angers,Ligue 1,2018-2019
+24,24,Pape Djibril Diaw,"€ 6,096","€ 317,000","€ 318,511",D,23,Senegal,Angers,Ligue 1,2018-2019
+25,25,Dorian Bertrand,"€ 5,962","€ 310,000","€ 311,477",F,25,France,Angers,Ligue 1,2018-2019
+26,26,Zacharie Boucher,"€ 5,904","€ 307,000","€ 308,463",K,26,France,Angers,Ligue 1,2018-2019
+27,27,Harisson Manzala,"€ 5,154","€ 268,000","€ 269,277",M,24,Democratic Republic of Congo,Angers,Ligue 1,2018-2019
+28,28,Wilfried Kanga,"€ 5,019","€ 261,000","€ 262,244",F,20,France,Angers,Ligue 1,2018-2019
+29,29,Farid El Melali,"€ 3,385","€ 176,000","€ 176,839",F,21,Algeria,Angers,Ligue 1,2018-2019
+30,30,Mazire Soula,"€ 1,865","€ 97,000","€ 97,462",F,20,France,Angers,Ligue 1,2018-2019
+31,31,Rayan Aït Nouri,"€ 1,154","€ 60,000","€ 60,286",D,17,France,Angers,Ligue 1,2018-2019
+32,32,Anthony Mandrea,"€ 1,077","€ 56,000","€ 56,267",K,21,France,Angers,Ligue 1,2018-2019
+33,33,Mathieu Michel,€ 0,€ 0,€ 0,K,26,France,Angers,Ligue 1,2018-2019
+34,34,Billy Ketkeophomphone,€ 0,€ 0,€ 0,M,28,France,Angers,Ligue 1,2018-2019
+35,35,Kevin Mouanga,€ 0,€ 0,€ 0,D,17,France,Angers,Ligue 1,2018-2019
+36,36,Lassana Coulibaly,€ 0,€ 0,€ 0,M,22,Mali,Angers,Ligue 1,2018-2019
+37,37,Alexandre Letellier,€ 0,€ 0,€ 0,K,27,France,Angers,Ligue 1,2018-2019
+0,0,Yann Karamoh,"€ 35,577","€ 1,850,000","€ 1,858,815",F,19,France,Bordeaux,Ligue 1,2018-2019
+1,1,Nicolas de Préville,"€ 27,596","€ 1,435,000","€ 1,441,838",F,27,France,Bordeaux,Ligue 1,2018-2019
+2,2,Benoît Costil,"€ 27,596","€ 1,435,000","€ 1,441,838",K,30,France,Bordeaux,Ligue 1,2018-2019
+3,3,Andreas Cornelius,"€ 24,904","€ 1,295,000","€ 1,301,171",F,25,Denmark,Bordeaux,Ligue 1,2018-2019
+4,4,François Kamano,"€ 23,058","€ 1,199,000","€ 1,204,713",F,22,Guinea,Bordeaux,Ligue 1,2018-2019
+5,5,Gaëtan Laborde,"€ 20,692","€ 1,076,000","€ 1,081,127",F,24,France,Bordeaux,Ligue 1,2018-2019
+6,6,Otávio,"€ 18,596","€ 967,000","€ 971,608",M,24,Brazil,Bordeaux,Ligue 1,2018-2019
+7,7,Younousse Sankharé,"€ 18,404","€ 957,000","€ 961,560",M,28,Senegal,Bordeaux,Ligue 1,2018-2019
+8,8,Jimmy Briand,"€ 18,404","€ 957,000","€ 961,560",F,32,France,Bordeaux,Ligue 1,2018-2019
+9,9,Paul Baysse,"€ 17,250","€ 897,000","€ 901,274",D,30,France,Bordeaux,Ligue 1,2018-2019
+10,10,Jaroslav Plasil,"€ 17,250","€ 897,000","€ 901,274",M,36,Czech Republic,Bordeaux,Ligue 1,2018-2019
+11,11,Alexandre Mendy,"€ 16,827","€ 875,000","€ 879,169",F,24,France,Bordeaux,Ligue 1,2018-2019
+12,12,Pablo,"€ 13,808","€ 718,000","€ 721,421",D,27,Brazil,Bordeaux,Ligue 1,2018-2019
+13,13,Youssouf Sabaly,"€ 12,635","€ 657,000","€ 660,131",D,25,Senegal,Bordeaux,Ligue 1,2018-2019
+14,14,Lukas Lerager,"€ 12,500","€ 650,000","€ 653,097",M,24,Denmark,Bordeaux,Ligue 1,2018-2019
+15,15,Samuel Kalu,"€ 12,500","€ 650,000","€ 653,097",F,20,Nigeria,Bordeaux,Ligue 1,2018-2019
+16,16,Théo Pellenard,"€ 10,385","€ 540,000","€ 542,573",D,24,France,Bordeaux,Ligue 1,2018-2019
+17,17,Jules Koundé,"€ 9,673","€ 503,000","€ 505,397",D,19,France,Bordeaux,Ligue 1,2018-2019
+18,18,Igor Lewczuk,"€ 9,558","€ 497,000","€ 499,368",D,33,Poland,Bordeaux,Ligue 1,2018-2019
+19,19,Zaydou Youssouf,"€ 9,135","€ 475,000","€ 477,263",F,18,France,Bordeaux,Ligue 1,2018-2019
+20,20,Maxime Poundjé,"€ 8,058","€ 419,000","€ 420,997",D,25,France,Bordeaux,Ligue 1,2018-2019
+21,21,Milan Gajic,"€ 8,058","€ 419,000","€ 420,997",D,22,Serbia,Bordeaux,Ligue 1,2018-2019
+22,22,Josh Maja,"€ 7,596","€ 395,000","€ 396,882",F,19,England,Bordeaux,Ligue 1,2018-2019
+23,23,Paul Bernardoni,"€ 7,019","€ 365,000","€ 366,739",K,21,France,Bordeaux,Ligue 1,2018-2019
+24,24,Vukasin Jovanovic,"€ 7,000","€ 364,000","€ 365,734",D,22,Serbia,Bordeaux,Ligue 1,2018-2019
+25,25,Jérôme Prior,"€ 6,827","€ 355,000","€ 356,692",K,22,France,Bordeaux,Ligue 1,2018-2019
+26,26,Toma Basic,"€ 5,769","€ 300,000","€ 301,429",M,21,Croatia,Bordeaux,Ligue 1,2018-2019
+27,27,Aurélien Tchouaméni,"€ 5,750","€ 299,000","€ 300,425",M,18,France,Bordeaux,Ligue 1,2018-2019
+28,28,Yacine Adli,"€ 4,808","€ 250,000","€ 251,191",M,17,France,Bordeaux,Ligue 1,2018-2019
+29,29,Gaëtan Poussin,"€ 4,231","€ 220,000","€ 221,048",K,19,France,Bordeaux,Ligue 1,2018-2019
+30,30,Sergi Palencia,"€ 4,038","€ 210,000","€ 211,001",D,22,Spain,Bordeaux,Ligue 1,2018-2019
+31,31,Driss Trichard,"€ 3,058","€ 159,000","€ 159,758",D,23,France,Bordeaux,Ligue 1,2018-2019
+32,32,Yassine Benrahou,"€ 2,308","€ 120,000","€ 120,572",M,19,Morocco,Bordeaux,Ligue 1,2018-2019
+33,33,Alexandre Lauray,"€ 2,096","€ 109,000","€ 109,519",D,21,France,Bordeaux,Ligue 1,2018-2019
+34,34,Over Mandanda,"€ 1,846","€ 96,000","€ 96,457",K,19,France,Bordeaux,Ligue 1,2018-2019
+35,35,Till Cissokho,"€ 1,308","€ 68,000","€ 68,324",D,18,France,Bordeaux,Ligue 1,2018-2019
+36,36,Thomas Carrique,"€ 1,192","€ 62,000","€ 62,295",D,19,France,Bordeaux,Ligue 1,2018-2019
+37,37,Valentín Vada,"€ 1,135","€ 59,000","€ 59,281",M,22,Argentina,Bordeaux,Ligue 1,2018-2019
+38,38,Albert Lottin,"€ 1,096","€ 57,000","€ 57,272",M,16,France,Bordeaux,Ligue 1,2018-2019
+39,39,Daniel Mancini,€ 0,€ 0,€ 0,M,21,Argentina,Bordeaux,Ligue 1,2018-2019
+40,40,Aaron Boupendza,€ 0,€ 0,€ 0,F,21,Gabon,Bordeaux,Ligue 1,2018-2019
+41,41,Jonathan Cafú,€ 0,€ 0,€ 0,F,26,Brazil,Bordeaux,Ligue 1,2018-2019
+42,42,Raoul Bellanova,€ 0,€ 0,€ 0,D,18,Italy,Bordeaux,Ligue 1,2018-2019
+0,0,Paul Baysse,"€ 17,250","€ 897,000","€ 901,274",D,30,France,Caen,Ligue 1,2018-2019
+1,1,Claudio Beauvue,"€ 16,962","€ 882,000","€ 886,203",F,30,Guadeloupe,Caen,Ligue 1,2018-2019
+2,2,Ronny Rodelin,"€ 16,096","€ 837,000","€ 840,988",F,28,France,Caen,Ligue 1,2018-2019
+3,3,Fayçal Fajr,"€ 11,500","€ 598,000","€ 600,849",M,29,Morocco,Caen,Ligue 1,2018-2019
+4,4,Enzo Crivelli,"€ 11,500","€ 598,000","€ 600,849",F,23,France,Caen,Ligue 1,2018-2019
+5,5,Prince Oniangué,"€ 11,135","€ 579,000","€ 581,759",M,29,Congo,Caen,Ligue 1,2018-2019
+6,6,Romain Genevois,"€ 10,346","€ 538,000","€ 540,564",D,30,Haiti,Caen,Ligue 1,2018-2019
+7,7,Malik Tchokounté,"€ 9,365","€ 487,000","€ 489,321",F,29,France,Caen,Ligue 1,2018-2019
+8,8,Ismaël Diomandé,"€ 9,192","€ 478,000","€ 480,278",M,25,Cote d'Ivoire,Caen,Ligue 1,2018-2019
+9,9,Emmanuel Imorou,"€ 9,096","€ 473,000","€ 475,254",D,29,Benin,Caen,Ligue 1,2018-2019
+10,10,Mouhamadou Dabo,"€ 9,096","€ 473,000","€ 475,254",D,31,France,Caen,Ligue 1,2018-2019
+11,11,Jonathan Gradit,"€ 8,596","€ 447,000","€ 449,130",D,25,France,Caen,Ligue 1,2018-2019
+12,12,Casimir Ninga,"€ 8,058","€ 419,000","€ 420,997",F,25,Chad,Caen,Ligue 1,2018-2019
+13,13,Yacine Bammou,"€ 6,904","€ 359,000","€ 360,711",F,26,Morocco,Caen,Ligue 1,2018-2019
+14,14,Baissama Sankoh,"€ 6,904","€ 359,000","€ 360,711",M,26,Guinea,Caen,Ligue 1,2018-2019
+15,15,Brice Samba,"€ 6,904","€ 359,000","€ 360,711",K,24,France,Caen,Ligue 1,2018-2019
+16,16,Alexander Djiku,"€ 6,904","€ 359,000","€ 360,711",D,23,France,Caen,Ligue 1,2018-2019
+17,17,Jan Repas,"€ 6,904","€ 359,000","€ 360,711",F,21,Slovenia,Caen,Ligue 1,2018-2019
+18,18,Frédéric Guilbert,"€ 6,904","€ 359,000","€ 360,711",D,23,France,Caen,Ligue 1,2018-2019
+19,19,Stef Peeters,"€ 6,904","€ 359,000","€ 360,711",M,26,Belgium,Caen,Ligue 1,2018-2019
+20,20,Aly Ndom,"€ 6,346","€ 330,000","€ 331,572",M,22,France,Caen,Ligue 1,2018-2019
+21,21,Jessy Deminguet,"€ 6,135","€ 319,000","€ 320,520",M,20,France,Caen,Ligue 1,2018-2019
+22,22,Adama Mbengue,"€ 5,808","€ 302,000","€ 303,439",D,24,Senegal,Caen,Ligue 1,2018-2019
+23,23,Paul Reulet,"€ 4,596","€ 239,000","€ 240,139",K,24,France,Caen,Ligue 1,2018-2019
+24,24,Erwin Zelazny,"€ 4,135","€ 215,000","€ 216,024",K,26,France,Caen,Ligue 1,2018-2019
+25,25,Yoël Armougom,"€ 3,135","€ 163,000","€ 163,777",D,20,France,Caen,Ligue 1,2018-2019
+26,26,Issa Marega,"€ 2,231","€ 116,000","€ 116,553",D,20,France,Caen,Ligue 1,2018-2019
+27,27,Younn Zahary,"€ 1,827","€ 95,000","€ 95,453",D,19,France,Caen,Ligue 1,2018-2019
+28,28,Herman Moussaki,"€ 1,808","€ 94,000","€ 94,448",F,19,Congo,Caen,Ligue 1,2018-2019
+29,29,Jad Mouaddib,"€ 1,788","€ 93,000","€ 93,443",M,19,France,Caen,Ligue 1,2018-2019
+30,30,Godson Kyeremeh,"€ 1,750","€ 91,000","€ 91,434",M,18,France,Caen,Ligue 1,2018-2019
+31,31,Evens Joseph,"€ 1,135","€ 59,000","€ 59,281",F,18,France,Caen,Ligue 1,2018-2019
+32,32,Thomas Callens,"€ 1,058","€ 55,000","€ 55,262",K,19,France,Caen,Ligue 1,2018-2019
+33,33,Brice Tutu,€ 654,"€ 34,000","€ 34,162",F,20,France,Caen,Ligue 1,2018-2019
+34,34,Timo Stavitski,€ 0,€ 0,€ 0,F,18,Finland,Caen,Ligue 1,2018-2019
+35,35,Valentin Voisin,€ 0,€ 0,€ 0,M,22,France,Caen,Ligue 1,2018-2019
+36,36,Saîf-Eddine Khaoui,€ 0,€ 0,€ 0,M,23,Tunisia,Caen,Ligue 1,2018-2019
+37,37,Durel Avounou,€ 0,€ 0,€ 0,M,20,Congo,Caen,Ligue 1,2018-2019
+38,38,Pape Sané,€ 0,€ 0,€ 0,F,26,Senegal,Caen,Ligue 1,2018-2019
+0,0,Naïm Sliti,"€ 19,192","€ 998,000","€ 1,002,755",F,25,Tunisia,Dijon,Ligue 1,2018-2019
+1,1,Chang-hun Kwon,"€ 15,769","€ 820,000","€ 823,907",F,24,South Korea,Dijon,Ligue 1,2018-2019
+2,2,Romain Amalfitano,"€ 15,423","€ 802,000","€ 805,822",M,28,France,Dijon,Ligue 1,2018-2019
+3,3,Jordan Marié,"€ 12,904","€ 671,000","€ 674,197",M,26,France,Dijon,Ligue 1,2018-2019
+4,4,Laurent Ciman,"€ 12,500","€ 650,000","€ 653,097",D,32,Belgium,Dijon,Ligue 1,2018-2019
+5,5,Valentin Rosier,"€ 11,423","€ 594,000","€ 596,830",D,21,France,Dijon,Ligue 1,2018-2019
+6,6,Oussama Haddadi,"€ 11,038","€ 574,000","€ 576,735",D,26,Tunisia,Dijon,Ligue 1,2018-2019
+7,7,Mickaël Alphonse,"€ 10,346","€ 538,000","€ 540,564",D,28,Guadeloupe,Dijon,Ligue 1,2018-2019
+8,8,Yoann Gourcuff,"€ 10,346","€ 538,000","€ 540,564",M,31,France,Dijon,Ligue 1,2018-2019
+9,9,Florent Balmont,"€ 10,346","€ 538,000","€ 540,564",M,38,France,Dijon,Ligue 1,2018-2019
+10,10,Fouad Chafik,"€ 9,769","€ 508,000","€ 510,421",D,31,Morocco,Dijon,Ligue 1,2018-2019
+11,11,Sory Kaba,"€ 9,519","€ 495,000","€ 497,359",F,22,Guinea,Dijon,Ligue 1,2018-2019
+12,12,Mehdi Abeid,"€ 9,192","€ 478,000","€ 480,278",M,25,Algeria,Dijon,Ligue 1,2018-2019
+13,13,Benjamin Jeannot,"€ 9,192","€ 478,000","€ 480,278",F,26,France,Dijon,Ligue 1,2018-2019
+14,14,Wesley Lautoa,"€ 9,192","€ 478,000","€ 480,278",D,30,France,Dijon,Ligue 1,2018-2019
+15,15,Cédric Yambéré,"€ 8,058","€ 419,000","€ 420,997",D,27,Central African Republic,Dijon,Ligue 1,2018-2019
+16,16,Wesley Saïd,"€ 6,904","€ 359,000","€ 360,711",F,23,France,Dijon,Ligue 1,2018-2019
+17,17,Julio Tavarès,"€ 6,904","€ 359,000","€ 360,711",F,29,Cape Verde,Dijon,Ligue 1,2018-2019
+18,18,Rúnar Alex Rúnarsson,"€ 6,904","€ 359,000","€ 360,711",K,23,Iceland,Dijon,Ligue 1,2018-2019
+19,19,Nayef Aguerd,"€ 6,904","€ 359,000","€ 360,711",D,22,Morocco,Dijon,Ligue 1,2018-2019
+20,20,Arnold Bouka Moutou,"€ 6,327","€ 329,000","€ 330,568",D,29,Congo,Dijon,Ligue 1,2018-2019
+21,21,Frédéric Sammaritano,"€ 5,673","€ 295,000","€ 296,406",M,32,France,Dijon,Ligue 1,2018-2019
+22,22,Enzo Loiodice,"€ 3,308","€ 172,000","€ 172,820",M,17,France,Dijon,Ligue 1,2018-2019
+23,23,Bobby Allain,"€ 2,923","€ 152,000","€ 152,724",K,26,France,Dijon,Ligue 1,2018-2019
+24,24,Jules Keita,"€ 2,365","€ 123,000","€ 123,586",F,19,Guinea,Dijon,Ligue 1,2018-2019
+25,25,Senou Coulibaly,"€ 2,096","€ 109,000","€ 109,519",D,23,France,Dijon,Ligue 1,2018-2019
+26,26,Sory Doumbouya,"€ 1,481","€ 77,000","€ 77,367",F,19,France,Dijon,Ligue 1,2018-2019
+27,27,Théo Barbet,€ 942,"€ 49,000","€ 49,233",D,17,France,Dijon,Ligue 1,2018-2019
+28,28,Lévi Ntumba,€ 846,"€ 44,000","€ 44,210",K,17,France,Dijon,Ligue 1,2018-2019
+29,29,Théo Godard,€ 96,"€ 5,000","€ 5,024",M,17,France,Dijon,Ligue 1,2018-2019
+30,30,Eden Massouema,€ 0,€ 0,€ 0,M,21,Congo,Dijon,Ligue 1,2018-2019
+31,31,Alexandre Tégar,€ 0,€ 0,€ 0,D,17,France,Dijon,Ligue 1,2018-2019
+0,0,Johan Larsson,"€ 24,423","€ 1,270,000","€ 1,276,052",D,28,Sweden,Guingamp,Ligue 1,2018-2019
+1,1,Nolan Roux,"€ 19,327","€ 1,005,000","€ 1,009,789",F,30,France,Guingamp,Ligue 1,2018-2019
+2,2,Alexandre Mendy,"€ 16,827","€ 875,000","€ 879,169",F,24,France,Guingamp,Ligue 1,2018-2019
+3,3,Nicolas Benezet,"€ 16,692","€ 868,000","€ 872,136",F,27,France,Guingamp,Ligue 1,2018-2019
+4,4,Didier Ndong,"€ 16,154","€ 840,000","€ 844,003",M,24,Gabon,Guingamp,Ligue 1,2018-2019
+5,5,Ronny Rodelin,"€ 16,096","€ 837,000","€ 840,988",F,28,France,Guingamp,Ligue 1,2018-2019
+6,6,Papy Djilobodji,"€ 15,442","€ 803,000","€ 806,826",D,29,Senegal,Guingamp,Ligue 1,2018-2019
+7,7,Guessouma Fofana,"€ 12,385","€ 644,000","€ 647,069",M,25,France,Guingamp,Ligue 1,2018-2019
+8,8,Jérémy Sorbon,"€ 11,500","€ 598,000","€ 600,849",D,34,France,Guingamp,Ligue 1,2018-2019
+9,9,Félix Eboa Eboa,"€ 11,346","€ 590,000","€ 592,811",D,21,Cameroon,Guingamp,Ligue 1,2018-2019
+10,10,Marcus Thuram,"€ 10,673","€ 555,000","€ 557,645",F,20,France,Guingamp,Ligue 1,2018-2019
+11,11,Cheik Traoré,"€ 10,462","€ 544,000","€ 546,592",D,23,France,Guingamp,Ligue 1,2018-2019
+12,12,Étienne Didot,"€ 10,346","€ 538,000","€ 540,564",M,34,France,Guingamp,Ligue 1,2018-2019
+13,13,Lucas Deaux,"€ 10,346","€ 538,000","€ 540,564",M,29,France,Guingamp,Ligue 1,2018-2019
+14,14,Ludovic Blas,"€ 9,192","€ 478,000","€ 480,278",M,20,France,Guingamp,Ligue 1,2018-2019
+15,15,Christophe Kerbrat,"€ 9,192","€ 478,000","€ 480,278",D,31,France,Guingamp,Ligue 1,2018-2019
+16,16,Franck Tabanou,"€ 9,192","€ 478,000","€ 480,278",D,29,France,Guingamp,Ligue 1,2018-2019
+17,17,Yannis Salibur,"€ 9,192","€ 478,000","€ 480,278",F,27,France,Guingamp,Ligue 1,2018-2019
+18,18,Nathaël Julan,"€ 7,750","€ 403,000","€ 404,920",F,21,France,Guingamp,Ligue 1,2018-2019
+19,19,Denis Petric,"€ 7,442","€ 387,000","€ 388,844",K,30,Serbia,Guingamp,Ligue 1,2018-2019
+20,20,Yeni N'Gbakoto,"€ 6,981","€ 363,000","€ 364,730",F,26,Democratic Republic of Congo,Guingamp,Ligue 1,2018-2019
+21,21,Lebogang Phiri,"€ 6,981","€ 363,000","€ 364,730",M,23,South Africa,Guingamp,Ligue 1,2018-2019
+22,22,Pedro Rebocho,"€ 6,981","€ 363,000","€ 364,730",D,23,Portugal,Guingamp,Ligue 1,2018-2019
+23,23,Karl-Johan Johnsson,"€ 6,827","€ 355,000","€ 356,692",K,28,Sweden,Guingamp,Ligue 1,2018-2019
+24,24,Marc-Aurèle Caillard,"€ 6,692","€ 348,000","€ 349,658",K,24,France,Guingamp,Ligue 1,2018-2019
+25,25,Marcus Coco,"€ 5,673","€ 295,000","€ 296,406",F,22,France,Guingamp,Ligue 1,2018-2019
+26,26,Jordan Ikoko,"€ 5,673","€ 295,000","€ 296,406",D,24,Democratic Republic of Congo,Guingamp,Ligue 1,2018-2019
+27,27,Mehdi Merghem,"€ 5,462","€ 284,000","€ 285,353",M,20,France,Guingamp,Ligue 1,2018-2019
+28,28,Mehdi Boudjemaa,"€ 2,596","€ 135,000","€ 135,643",M,20,France,Guingamp,Ligue 1,2018-2019
+29,29,Matthias Phaeton,"€ 1,981","€ 103,000","€ 103,491",F,18,France,Guingamp,Ligue 1,2018-2019
+30,30,Djegui Koita,"€ 1,923","€ 100,000","€ 100,476",D,18,France,Guingamp,Ligue 1,2018-2019
+31,31,Steven Ako,"€ 1,750","€ 91,000","€ 91,434",D,19,France,Guingamp,Ligue 1,2018-2019
+32,32,Yohan Bilingi,"€ 1,577","€ 82,000","€ 82,391",D,19,France,Guingamp,Ligue 1,2018-2019
+33,33,Louis Carnot,"€ 1,019","€ 53,000","€ 53,253",M,17,France,Guingamp,Ligue 1,2018-2019
+34,34,Théo Guivarch,€ 0,€ 0,€ 0,K,22,France,Guingamp,Ligue 1,2018-2019
+35,35,Sikou Niakaté,€ 0,€ 0,€ 0,D,18,France,Guingamp,Ligue 1,2018-2019
+36,36,Jérémy Livolant,€ 0,€ 0,€ 0,M,20,France,Guingamp,Ligue 1,2018-2019
+0,0,Thiago Maia,"€ 57,500","€ 2,990,000","€ 3,004,247",M,21,Brazil,Lille,Ligue 1,2018-2019
+1,1,José Fonte,"€ 57,500","€ 2,990,000","€ 3,004,247",D,34,Portugal,Lille,Ligue 1,2018-2019
+2,2,Loïc Rémy,"€ 41,404","€ 2,153,000","€ 2,163,259",F,31,France,Lille,Ligue 1,2018-2019
+3,3,Thiago Mendes,"€ 41,404","€ 2,153,000","€ 2,163,259",M,26,Brazil,Lille,Ligue 1,2018-2019
+4,4,Xeka,"€ 34,500","€ 1,794,000","€ 1,802,548",M,23,Portugal,Lille,Ligue 1,2018-2019
+5,5,Jérémy Pied,"€ 34,500","€ 1,794,000","€ 1,802,548",D,29,France,Lille,Ligue 1,2018-2019
+6,6,Mike Maignan,"€ 34,500","€ 1,794,000","€ 1,802,548",K,22,France,Lille,Ligue 1,2018-2019
+7,7,Adama Soumaoro,"€ 34,500","€ 1,794,000","€ 1,802,548",D,26,France,Lille,Ligue 1,2018-2019
+8,8,Nicolas Pépé,"€ 34,308","€ 1,784,000","€ 1,792,501",F,23,Cote d'Ivoire,Lille,Ligue 1,2018-2019
+9,9,Edgar Ié,"€ 18,596","€ 967,000","€ 971,608",D,24,Portugal,Lille,Ligue 1,2018-2019
+10,10,Luiz Araújo,"€ 18,596","€ 967,000","€ 971,608",F,22,Brazil,Lille,Ligue 1,2018-2019
+11,11,Jonathan Bamba,"€ 18,115","€ 942,000","€ 946,489",F,22,France,Lille,Ligue 1,2018-2019
+12,12,Zeki Celik,"€ 17,923","€ 932,000","€ 936,441",D,21,Turkey,Lille,Ligue 1,2018-2019
+13,13,Rui Fonte,"€ 15,596","€ 811,000","€ 814,864",F,28,Portugal,Lille,Ligue 1,2018-2019
+14,14,Jonathan Ikoné,"€ 14,135","€ 735,000","€ 738,502",M,20,France,Lille,Ligue 1,2018-2019
+15,15,Youssouf Koné,"€ 11,250","€ 585,000","€ 587,788",D,22,Mali,Lille,Ligue 1,2018-2019
+16,16,Lebo Mothiba,"€ 11,192","€ 582,000","€ 584,773",F,22,South Africa,Lille,Ligue 1,2018-2019
+17,17,Rafael Leão,"€ 7,058","€ 367,000","€ 368,749",F,19,Portugal,Lille,Ligue 1,2018-2019
+18,18,Gabriel Magalhães,"€ 6,462","€ 336,000","€ 337,601",D,20,Brazil,Lille,Ligue 1,2018-2019
+19,19,Adam Jakubech,"€ 5,808","€ 302,000","€ 303,439",K,21,Slovakia,Lille,Ligue 1,2018-2019
+20,20,Hervé Koffi,"€ 5,808","€ 302,000","€ 303,439",K,21,Burkina Faso,Lille,Ligue 1,2018-2019
+21,21,Fodé Ballo-Touré,"€ 4,808","€ 250,000","€ 251,191",D,21,France,Lille,Ligue 1,2018-2019
+22,22,Kouadio-Yves Dabila,"€ 4,154","€ 216,000","€ 217,029",D,21,Cote d'Ivoire,Lille,Ligue 1,2018-2019
+23,23,Boubakary Soumaré,"€ 2,365","€ 123,000","€ 123,586",M,19,France,Lille,Ligue 1,2018-2019
+24,24,Arton Zekaj,"€ 2,135","€ 111,000","€ 111,529",M,18,Kosovo,Lille,Ligue 1,2018-2019
+25,25,Hakim Ouro-Sama,"€ 2,115","€ 110,000","€ 110,524",D,20,Togo,Lille,Ligue 1,2018-2019
+26,26,Reinildo Mandava,"€ 1,442","€ 75,000","€ 75,357",D,24,Mozambique,Lille,Ligue 1,2018-2019
+27,27,Rominigue Kouamé,€ 0,€ 0,€ 0,M,21,Mali,Lille,Ligue 1,2018-2019
+28,28,Yassine Benzia,€ 0,€ 0,€ 0,M,23,Algeria,Lille,Ligue 1,2018-2019
+29,29,Anwar El Ghazi,€ 0,€ 0,€ 0,F,23,Netherlands,Lille,Ligue 1,2018-2019
+30,30,Teddy Okou,€ 0,€ 0,€ 0,F,20,France,Lille,Ligue 1,2018-2019
+31,31,Cheikh Niasse,€ 0,€ 0,€ 0,M,18,Senegal,Lille,Ligue 1,2018-2019
+0,0,Memphis Depay,"€ 80,500","€ 4,186,000","€ 4,205,946",F,24,Netherlands,Lyon,Ligue 1,2018-2019
+1,1,Mapou Yanga-Mbiwa,"€ 69,000","€ 3,588,000","€ 3,605,097",D,29,France,Lyon,Ligue 1,2018-2019
+2,2,Bertrand Traoré,"€ 69,000","€ 3,588,000","€ 3,605,097",F,22,Burkina Faso,Lyon,Ligue 1,2018-2019
+3,3,Nabil Fekir,"€ 69,000","€ 3,588,000","€ 3,605,097",M,24,France,Lyon,Ligue 1,2018-2019
+4,4,Rafael,"€ 57,500","€ 2,990,000","€ 3,004,247",D,27,Brazil,Lyon,Ligue 1,2018-2019
+5,5,Anthony Lopes,"€ 50,596","€ 2,631,000","€ 2,643,537",K,27,Portugal,Lyon,Ligue 1,2018-2019
+6,6,Moussa Dembélé,"€ 47,904","€ 2,491,000","€ 2,502,870",F,21,France,Lyon,Ligue 1,2018-2019
+7,7,Marcelo,"€ 42,635","€ 2,217,000","€ 2,227,564",D,31,Brazil,Lyon,Ligue 1,2018-2019
+8,8,Maxwel Cornet,"€ 41,404","€ 2,153,000","€ 2,163,259",F,21,Cote d'Ivoire,Lyon,Ligue 1,2018-2019
+9,9,Jason Denayer,"€ 38,327","€ 1,993,000","€ 2,002,497",D,23,Belgium,Lyon,Ligue 1,2018-2019
+10,10,Lucas Tousart,"€ 34,615","€ 1,800,000","€ 1,808,577",M,21,France,Lyon,Ligue 1,2018-2019
+11,11,Tanguy Ndombélé,"€ 34,500","€ 1,794,000","€ 1,802,548",M,21,France,Lyon,Ligue 1,2018-2019
+12,12,Kenny Tete,"€ 32,192","€ 1,674,000","€ 1,681,977",D,22,Netherlands,Lyon,Ligue 1,2018-2019
+13,13,Jordan Ferri,"€ 30,654","€ 1,594,000","€ 1,601,595",M,26,France,Lyon,Ligue 1,2018-2019
+14,14,Houssem Aouar,"€ 26,827","€ 1,395,000","€ 1,401,647",M,20,France,Lyon,Ligue 1,2018-2019
+15,15,Jérémy Morel,"€ 26,827","€ 1,395,000","€ 1,401,647",D,34,Madagascar,Lyon,Ligue 1,2018-2019
+16,16,Ferland Mendy,"€ 24,904","€ 1,295,000","€ 1,301,171",D,23,France,Lyon,Ligue 1,2018-2019
+17,17,Léo Dubois,"€ 23,000","€ 1,196,000","€ 1,201,699",D,23,France,Lyon,Ligue 1,2018-2019
+18,18,Martin Terrier,"€ 22,077","€ 1,148,000","€ 1,153,470",F,21,France,Lyon,Ligue 1,2018-2019
+19,19,Marçal,"€ 21,077","€ 1,096,000","€ 1,101,222",D,29,Brazil,Lyon,Ligue 1,2018-2019
+20,20,Pape Cheikh,"€ 19,173","€ 997,000","€ 1,001,751",M,20,Spain,Lyon,Ligue 1,2018-2019
+21,21,Oumar Solet,"€ 10,673","€ 555,000","€ 557,645",D,18,France,Lyon,Ligue 1,2018-2019
+22,22,Lenny Pintor,"€ 9,577","€ 498,000","€ 500,373",F,17,France,Lyon,Ligue 1,2018-2019
+23,23,Mathieu Gorgelin,"€ 9,577","€ 498,000","€ 500,373",K,27,France,Lyon,Ligue 1,2018-2019
+24,24,Amine Gouiri,"€ 8,115","€ 422,000","€ 424,011",F,18,France,Lyon,Ligue 1,2018-2019
+25,25,Olivier Kemen,"€ 7,115","€ 370,000","€ 371,763",M,21,France,Lyon,Ligue 1,2018-2019
+26,26,Maxence Caqueret,"€ 6,135","€ 319,000","€ 320,520",M,18,France,Lyon,Ligue 1,2018-2019
+27,27,Yassin Fekir,"€ 4,750","€ 247,000","€ 248,177",F,21,France,Lyon,Ligue 1,2018-2019
+28,28,Ousseynou Ndiaye,"€ 4,327","€ 225,000","€ 226,072",M,19,Senegal,Lyon,Ligue 1,2018-2019
+29,29,Anthony Racioppi,"€ 3,385","€ 176,000","€ 176,839",K,19,Switzerland,Lyon,Ligue 1,2018-2019
+30,30,Elisha Owusu,€ 0,€ 0,€ 0,M,20,France,Lyon,Ligue 1,2018-2019
+31,31,Christopher Martins Pereira,€ 0,€ 0,€ 0,M,21,Luxembourg,Lyon,Ligue 1,2018-2019
+32,32,Timothé Cognat,€ 0,€ 0,€ 0,M,20,France,Lyon,Ligue 1,2018-2019
+33,33,Mariano Díaz,€ 0,€ 0,€ 0,F,24,Dominican Republic,Lyon,Ligue 1,2018-2019
+0,0,Mario Balotelli,"€ 250,000","€ 13,000,000","€ 13,061,945",F,27,Italy,Marseille,Ligue 1,2018-2019
+1,1,Dimitri Payet,"€ 137,981","€ 7,175,000","€ 7,209,189",F,31,France,Marseille,Ligue 1,2018-2019
+2,2,Luiz Gustavo,"€ 115,000","€ 5,980,000","€ 6,008,495",M,30,Brazil,Marseille,Ligue 1,2018-2019
+3,3,Florian Thauvin,"€ 94,288","€ 4,903,000","€ 4,926,363",F,25,France,Marseille,Ligue 1,2018-2019
+4,4,Kevin Strootman,"€ 87,212","€ 4,535,000","€ 4,556,609",M,28,Netherlands,Marseille,Ligue 1,2018-2019
+5,5,Steve Mandanda,"€ 80,500","€ 4,186,000","€ 4,205,946",K,33,France,Marseille,Ligue 1,2018-2019
+6,6,Konstantinos Mitroglou,"€ 75,885","€ 3,946,000","€ 3,964,803",F,30,Greece,Marseille,Ligue 1,2018-2019
+7,7,Adil Rami,"€ 69,000","€ 3,588,000","€ 3,605,097",D,32,France,Marseille,Ligue 1,2018-2019
+8,8,Aymen Abdennour,"€ 57,692","€ 3,000,000","€ 3,014,295",D,28,Tunisia,Marseille,Ligue 1,2018-2019
+9,9,Morgan Sanson,"€ 46,000","€ 2,392,000","€ 2,403,398",M,23,France,Marseille,Ligue 1,2018-2019
+10,10,Clinton N'Jie,"€ 43,692","€ 2,272,000","€ 2,282,826",F,24,Cameroon,Marseille,Ligue 1,2018-2019
+11,11,Duje Caleta-Car,"€ 43,692","€ 2,272,000","€ 2,282,826",D,21,Croatia,Marseille,Ligue 1,2018-2019
+12,12,Valère Germain,"€ 41,404","€ 2,153,000","€ 2,163,259",F,28,France,Marseille,Ligue 1,2018-2019
+13,13,Grégory Sertic,"€ 41,404","€ 2,153,000","€ 2,163,259",M,28,France,Marseille,Ligue 1,2018-2019
+14,14,Rolando,"€ 38,019","€ 1,977,000","€ 1,986,420",D,32,Portugal,Marseille,Ligue 1,2018-2019
+15,15,Bouna Sarr,"€ 36,788","€ 1,913,000","€ 1,922,115",D,26,France,Marseille,Ligue 1,2018-2019
+16,16,Lucas Ocampos,"€ 29,904","€ 1,555,000","€ 1,562,410",F,23,Argentina,Marseille,Ligue 1,2018-2019
+17,17,Jordan Amavi,"€ 28,750","€ 1,495,000","€ 1,502,124",D,24,France,Marseille,Ligue 1,2018-2019
+18,18,Maxime López,"€ 27,654","€ 1,438,000","€ 1,444,852",M,20,France,Marseille,Ligue 1,2018-2019
+19,19,Hiroki Sakai,"€ 23,019","€ 1,197,000","€ 1,202,704",D,28,Japan,Marseille,Ligue 1,2018-2019
+20,20,Nemanja Radonjic,"€ 19,308","€ 1,004,000","€ 1,008,784",F,22,Serbia,Marseille,Ligue 1,2018-2019
+21,21,Yohann Pelé,"€ 18,404","€ 957,000","€ 961,560",K,35,France,Marseille,Ligue 1,2018-2019
+22,22,Tomas Hubocan,"€ 13,904","€ 723,000","€ 726,445",D,32,Slovakia,Marseille,Ligue 1,2018-2019
+23,23,Christopher Rocchia,"€ 5,769","€ 300,000","€ 301,429",D,20,France,Marseille,Ligue 1,2018-2019
+24,24,Boubacar Kamara,"€ 5,750","€ 299,000","€ 300,425",D,18,France,Marseille,Ligue 1,2018-2019
+25,25,Yusuf Sari,"€ 5,096","€ 265,000","€ 266,263",F,19,Turkey,Marseille,Ligue 1,2018-2019
+26,26,Florian Escales,"€ 3,462","€ 180,000","€ 180,858",K,22,France,Marseille,Ligue 1,2018-2019
+27,27,Florian Chabrolle,"€ 2,769","€ 144,000","€ 144,686",M,20,France,Marseille,Ligue 1,2018-2019
+28,28,Lucas Perrin,"€ 2,673","€ 139,000","€ 139,662",D,19,France,Marseille,Ligue 1,2018-2019
+29,29,Abdallah Ali Mohamed,"€ 1,923","€ 100,000","€ 100,476",D,19,Comoros,Marseille,Ligue 1,2018-2019
+30,30,Romain Cagnon,"€ 1,250","€ 65,000","€ 65,310",K,21,France,Marseille,Ligue 1,2018-2019
+31,31,Saîf-Eddine Khaoui,€ 0,€ 0,€ 0,M,23,Tunisia,Marseille,Ligue 1,2018-2019
+32,32,Alexandre Phliponeau,€ 0,€ 0,€ 0,M,18,France,Marseille,Ligue 1,2018-2019
+0,0,Falcao,"€ 172,481","€ 8,969,000","€ 9,011,737",F,32,Colombia,Monaco,Ligue 1,2018-2019
+1,1,Gelson Martins,"€ 124,577","€ 6,478,000","€ 6,508,868",F,23,Portugal,Monaco,Ligue 1,2018-2019
+2,2,Cesc Fàbregas,"€ 121,481","€ 6,317,000","€ 6,347,100",M,31,Spain,Monaco,Ligue 1,2018-2019
+3,3,Adrien Silva,"€ 94,692","€ 4,924,000","€ 4,947,463",M,29,Portugal,Monaco,Ligue 1,2018-2019
+4,4,Nacer Chadli,"€ 78,192","€ 4,066,000","€ 4,085,374",F,28,Belgium,Monaco,Ligue 1,2018-2019
+5,5,Kamil Glik,"€ 66,692","€ 3,468,000","€ 3,484,525",D,30,Poland,Monaco,Ligue 1,2018-2019
+6,6,Stevan Jovetic,"€ 64,404","€ 3,349,000","€ 3,364,958",F,28,Montenegro,Monaco,Ligue 1,2018-2019
+7,7,Jemerson,"€ 61,981","€ 3,223,000","€ 3,238,358",D,25,Brazil,Monaco,Ligue 1,2018-2019
+8,8,Djibril Sidibé,"€ 61,481","€ 3,197,000","€ 3,212,234",D,25,France,Monaco,Ligue 1,2018-2019
+9,9,Naldo,"€ 59,038","€ 3,070,000","€ 3,084,629",D,35,Brazil,Monaco,Ligue 1,2018-2019
+10,10,Aleksandr Golovin,"€ 53,750","€ 2,795,000","€ 2,808,318",M,22,Russia,Monaco,Ligue 1,2018-2019
+11,11,Antonio Barreca,"€ 46,000","€ 2,392,000","€ 2,403,398",D,23,Italy,Monaco,Ligue 1,2018-2019
+12,12,Benjamin Henrichs,"€ 43,462","€ 2,260,000","€ 2,270,769",D,21,Germany,Monaco,Ligue 1,2018-2019
+13,13,Danijel Subasic,"€ 39,096","€ 2,033,000","€ 2,042,687",K,33,Croatia,Monaco,Ligue 1,2018-2019
+14,14,Georges-Kevin N'Koudou,"€ 38,981","€ 2,027,000","€ 2,036,659",F,23,France,Monaco,Ligue 1,2018-2019
+15,15,Youri Tielemans,"€ 36,788","€ 1,913,000","€ 1,922,115",M,21,Belgium,Monaco,Ligue 1,2018-2019
+16,16,Pelé,"€ 36,788","€ 1,913,000","€ 1,922,115",M,26,Guinea-Bissau,Monaco,Ligue 1,2018-2019
+17,17,Gabriel Boschilia,"€ 35,654","€ 1,854,000","€ 1,862,834",M,22,Brazil,Monaco,Ligue 1,2018-2019
+18,18,William Vainqueur,"€ 33,942","€ 1,765,000","€ 1,773,410",M,29,France,Monaco,Ligue 1,2018-2019
+19,19,Jean-Eudes Aholou,"€ 30,750","€ 1,599,000","€ 1,606,619",M,24,Cote d'Ivoire,Monaco,Ligue 1,2018-2019
+20,20,Andrea Raggi,"€ 26,923","€ 1,400,000","€ 1,406,671",D,34,Italy,Monaco,Ligue 1,2018-2019
+21,21,Almamy Touré,"€ 26,481","€ 1,377,000","€ 1,383,561",D,22,France,Monaco,Ligue 1,2018-2019
+22,22,Adama Traoré,"€ 25,288","€ 1,315,000","€ 1,321,266",M,23,Mali,Monaco,Ligue 1,2018-2019
+23,23,Rony Lopes,"€ 23,000","€ 1,196,000","€ 1,201,699",F,22,Portugal,Monaco,Ligue 1,2018-2019
+24,24,Diego Benaglio,"€ 22,096","€ 1,149,000","€ 1,154,475",K,34,Switzerland,Monaco,Ligue 1,2018-2019
+25,25,Pietro Pellegri,"€ 19,500","€ 1,014,000","€ 1,018,832",F,17,Italy,Monaco,Ligue 1,2018-2019
+26,26,Carlos Vinícius,"€ 14,750","€ 767,000","€ 770,655",F,23,Brazil,Monaco,Ligue 1,2018-2019
+27,27,Kévin N'Doram,"€ 14,038","€ 730,000","€ 733,478",M,22,France,Monaco,Ligue 1,2018-2019
+28,28,Samuel Grandsir,"€ 11,731","€ 610,000","€ 612,907",M,21,France,Monaco,Ligue 1,2018-2019
+29,29,Jordi Mboula,"€ 11,635","€ 605,000","€ 607,883",F,19,Spain,Monaco,Ligue 1,2018-2019
+30,30,Ronaël Pierre-Gabriel,"€ 10,692","€ 556,000","€ 558,649",D,20,France,Monaco,Ligue 1,2018-2019
+31,31,Willem Geubbels,"€ 8,923","€ 464,000","€ 466,211",F,16,France,Monaco,Ligue 1,2018-2019
+32,32,Moussa Sylla,"€ 8,346","€ 434,000","€ 436,068",F,18,France,Monaco,Ligue 1,2018-2019
+33,33,Youssef Aït Bennasser,"€ 6,904","€ 359,000","€ 360,711",M,21,Morocco,Monaco,Ligue 1,2018-2019
+34,34,Sofiane Diop,"€ 6,654","€ 346,000","€ 347,649",M,18,France,Monaco,Ligue 1,2018-2019
+35,35,Seydou Sy,"€ 5,635","€ 293,000","€ 294,396",K,22,Senegal,Monaco,Ligue 1,2018-2019
+36,36,Loïc Badiashile,"€ 5,558","€ 289,000","€ 290,377",K,20,France,Monaco,Ligue 1,2018-2019
+37,37,Julien Serrano,"€ 5,077","€ 264,000","€ 265,258",D,20,France,Monaco,Ligue 1,2018-2019
+38,38,Fodé Ballo-Touré,"€ 4,808","€ 250,000","€ 251,191",D,21,France,Monaco,Ligue 1,2018-2019
+39,39,Wilson Isidor,"€ 4,731","€ 246,000","€ 247,172",F,17,France,Monaco,Ligue 1,2018-2019
+40,40,Romain Faivre,"€ 4,404","€ 229,000","€ 230,091",M,19,France,Monaco,Ligue 1,2018-2019
+41,41,Jonathan Panzo,"€ 4,212","€ 219,000","€ 220,044",D,17,England,Monaco,Ligue 1,2018-2019
+42,42,Lyle Foster,"€ 3,154","€ 164,000","€ 164,781",F,17,South Africa,Monaco,Ligue 1,2018-2019
+43,43,Han-Noah Massengo,"€ 2,635","€ 137,000","€ 137,653",M,16,France,Monaco,Ligue 1,2018-2019
+44,44,Benoît Badiashile,"€ 1,538","€ 80,000","€ 80,381",D,17,France,Monaco,Ligue 1,2018-2019
+45,45,Giulian Biancone,€ 692,"€ 36,000","€ 36,172",D,18,France,Monaco,Ligue 1,2018-2019
+46,46,Adrien Bongiovanni,€ 0,€ 0,€ 0,F,18,Belgium,Monaco,Ligue 1,2018-2019
+47,47,Keita Baldé,€ 0,€ 0,€ 0,F,23,Senegal,Monaco,Ligue 1,2018-2019
+48,48,Paul Nardi,€ 0,€ 0,€ 0,K,24,France,Monaco,Ligue 1,2018-2019
+49,49,Jonathan Mexique,€ 0,€ 0,€ 0,M,23,France,Monaco,Ligue 1,2018-2019
+50,50,Irvin Cardona,€ 0,€ 0,€ 0,F,20,France,Monaco,Ligue 1,2018-2019
+51,51,Roberto Navarro,€ 0,€ 0,€ 0,M,16,Spain,Monaco,Ligue 1,2018-2019
+52,52,Ibrahima Diallo,€ 0,€ 0,€ 0,M,19,France,Monaco,Ligue 1,2018-2019
+53,53,Hugo Hagege,€ 0,€ 0,€ 0,K,18,France,Monaco,Ligue 1,2018-2019
+54,54,Gobe Gouano,€ 0,€ 0,€ 0,F,17,France,Monaco,Ligue 1,2018-2019
+55,55,Yanis Henin,€ 0,€ 0,€ 0,K,19,Morocco,Monaco,Ligue 1,2018-2019
+56,56,Khéphren Thuram,€ 0,€ 0,€ 0,M,17,France,Monaco,Ligue 1,2018-2019
+0,0,Gaëtan Laborde,"€ 20,692","€ 1,076,000","€ 1,081,127",F,24,France,Montpellier,Ligue 1,2018-2019
+1,1,Souleymane Camara,"€ 16,250","€ 845,000","€ 849,026",F,35,Senegal,Montpellier,Ligue 1,2018-2019
+2,2,Benjamin Lecomte,"€ 16,096","€ 837,000","€ 840,988",K,27,France,Montpellier,Ligue 1,2018-2019
+3,3,Andy Delort,"€ 15,519","€ 807,000","€ 810,845",F,26,Algeria,Montpellier,Ligue 1,2018-2019
+4,4,Paul Lasne,"€ 15,365","€ 799,000","€ 802,807",M,29,France,Montpellier,Ligue 1,2018-2019
+5,5,Pedro Mendes,"€ 14,942","€ 777,000","€ 780,702",D,27,Portugal,Montpellier,Ligue 1,2018-2019
+6,6,Facundo Píriz,"€ 14,231","€ 740,000","€ 743,526",M,28,Uruguay,Montpellier,Ligue 1,2018-2019
+7,7,Daniel Congré,"€ 13,808","€ 718,000","€ 721,421",D,33,France,Montpellier,Ligue 1,2018-2019
+8,8,Hilton,"€ 13,635","€ 709,000","€ 712,378",D,40,Brazil,Montpellier,Ligue 1,2018-2019
+9,9,Mihailo Ristic,"€ 11,019","€ 573,000","€ 575,730",D,22,Serbia,Montpellier,Ligue 1,2018-2019
+10,10,Ambroise Oyongo,"€ 10,654","€ 554,000","€ 556,640",D,27,Cameroon,Montpellier,Ligue 1,2018-2019
+11,11,Keagan Dolly,"€ 9,192","€ 478,000","€ 480,278",F,25,South Africa,Montpellier,Ligue 1,2018-2019
+12,12,Junior Sambia,"€ 9,192","€ 478,000","€ 480,278",M,21,France,Montpellier,Ligue 1,2018-2019
+13,13,Mathías Suárez,"€ 8,212","€ 427,000","€ 429,035",D,22,Uruguay,Montpellier,Ligue 1,2018-2019
+14,14,Petar Skuletic,"€ 8,058","€ 419,000","€ 420,997",F,28,Serbia,Montpellier,Ligue 1,2018-2019
+15,15,Ellyes Skhiri,"€ 8,058","€ 419,000","€ 420,997",M,23,Tunisia,Montpellier,Ligue 1,2018-2019
+16,16,Damien Le Tallec,"€ 8,058","€ 419,000","€ 420,997",D,28,France,Montpellier,Ligue 1,2018-2019
+17,17,Nicolas Cozza,"€ 7,808","€ 406,000","€ 407,935",D,19,France,Montpellier,Ligue 1,2018-2019
+18,18,Ruben Aguilar,"€ 6,904","€ 359,000","€ 360,711",D,25,France,Montpellier,Ligue 1,2018-2019
+19,19,Florent Mollet,"€ 6,904","€ 359,000","€ 360,711",M,26,France,Montpellier,Ligue 1,2018-2019
+20,20,Bilal Boutobba,"€ 4,404","€ 229,000","€ 230,091",F,19,France,Montpellier,Ligue 1,2018-2019
+21,21,Dimitry Bertaud,"€ 3,404","€ 177,000","€ 177,843",K,20,France,Montpellier,Ligue 1,2018-2019
+22,22,Jonathan Ligali,"€ 3,250","€ 169,000","€ 169,805",K,27,France,Montpellier,Ligue 1,2018-2019
+23,23,Bryan Passi,"€ 3,019","€ 157,000","€ 157,748",D,20,France,Montpellier,Ligue 1,2018-2019
+24,24,Killian Sanson,"€ 2,385","€ 124,000","€ 124,591",M,21,France,Montpellier,Ligue 1,2018-2019
+25,25,Amir Adouyev,"€ 2,231","€ 116,000","€ 116,553",M,19,Russia,Montpellier,Ligue 1,2018-2019
+26,26,Jérémie Porsan-Clemente,"€ 1,154","€ 60,000","€ 60,286",D,20,France,Montpellier,Ligue 1,2018-2019
+27,27,Morgan Poaty,€ 0,€ 0,€ 0,D,20,France,Montpellier,Ligue 1,2018-2019
+28,28,Kylian Kaïboué,€ 0,€ 0,€ 0,M,19,France,Montpellier,Ligue 1,2018-2019
+29,29,Isaac Mbenza,€ 0,€ 0,€ 0,F,22,Belgium,Montpellier,Ligue 1,2018-2019
+30,30,Giovanni Sio,€ 0,€ 0,€ 0,F,29,Cote d'Ivoire,Montpellier,Ligue 1,2018-2019
+31,31,Yannis Ammour,€ 0,€ 0,€ 0,F,19,France,Montpellier,Ligue 1,2018-2019
+0,0,Gabriel Boschilia,"€ 35,654","€ 1,854,000","€ 1,862,834",M,22,Brazil,Nantes,Ligue 1,2018-2019
+1,1,Kara,"€ 30,000","€ 1,560,000","€ 1,567,433",D,28,Senegal,Nantes,Ligue 1,2018-2019
+2,2,Diego Carlos,"€ 27,596","€ 1,435,000","€ 1,441,838",D,25,Brazil,Nantes,Ligue 1,2018-2019
+3,3,Valentin Eysseric,"€ 26,673","€ 1,387,000","€ 1,393,609",M,26,France,Nantes,Ligue 1,2018-2019
+4,4,Anthony Limbombe,"€ 25,000","€ 1,300,000","€ 1,306,194",F,23,Belgium,Nantes,Ligue 1,2018-2019
+5,5,Kalifa Coulibaly,"€ 25,000","€ 1,300,000","€ 1,306,194",F,26,Mali,Nantes,Ligue 1,2018-2019
+6,6,Nicolas Pallois,"€ 23,000","€ 1,196,000","€ 1,201,699",D,30,France,Nantes,Ligue 1,2018-2019
+7,7,Lucas Evangelista,"€ 23,000","€ 1,196,000","€ 1,201,699",M,23,Brazil,Nantes,Ligue 1,2018-2019
+8,8,Ciprian Tatarusanu,"€ 23,000","€ 1,196,000","€ 1,201,699",K,32,Romania,Nantes,Ligue 1,2018-2019
+9,9,Matt Miazga,"€ 18,942","€ 985,000","€ 989,694",D,22,United States,Nantes,Ligue 1,2018-2019
+10,10,Edgar Ié,"€ 18,596","€ 967,000","€ 971,608",D,24,Portugal,Nantes,Ligue 1,2018-2019
+11,11,Valentin Rongier,"€ 18,404","€ 957,000","€ 961,560",M,23,France,Nantes,Ligue 1,2018-2019
+12,12,Rene Krhin,"€ 16,058","€ 835,000","€ 838,979",M,28,Slovenia,Nantes,Ligue 1,2018-2019
+13,13,Majeed Waris,"€ 15,904","€ 827,000","€ 830,941",F,26,Ghana,Nantes,Ligue 1,2018-2019
+14,14,Charles Traoré,"€ 11,750","€ 611,000","€ 613,911",D,26,Mali,Nantes,Ligue 1,2018-2019
+15,15,Emiliano Sala,"€ 10,346","€ 538,000","€ 540,564",F,28,Argentina,Nantes,Ligue 1,2018-2019
+16,16,Santy Ngom,"€ 9,673","€ 503,000","€ 505,397",F,25,Senegal,Nantes,Ligue 1,2018-2019
+17,17,Maxime Dupé,"€ 9,615","€ 500,000","€ 502,382",K,25,France,Nantes,Ligue 1,2018-2019
+18,18,Abdoulaye Touré,"€ 9,192","€ 478,000","€ 480,278",M,24,Guinea,Nantes,Ligue 1,2018-2019
+19,19,Fábio,"€ 9,192","€ 478,000","€ 480,278",D,27,Brazil,Nantes,Ligue 1,2018-2019
+20,20,Samuel Moutoussamy,"€ 8,135","€ 423,000","€ 425,016",M,21,France,Nantes,Ligue 1,2018-2019
+21,21,Kayembe,"€ 6,981","€ 363,000","€ 364,730",F,23,Belgium,Nantes,Ligue 1,2018-2019
+22,22,Lucas Lima,"€ 6,827","€ 355,000","€ 356,692",D,26,Brazil,Nantes,Ligue 1,2018-2019
+23,23,Anthony Walongwa,"€ 5,596","€ 291,000","€ 292,387",D,24,Democratic Republic of Congo,Nantes,Ligue 1,2018-2019
+24,24,Enock Kwateng,"€ 3,923","€ 204,000","€ 204,972",D,21,France,Nantes,Ligue 1,2018-2019
+25,25,Thomas Basila,"€ 2,788","€ 145,000","€ 145,691",D,19,France,Nantes,Ligue 1,2018-2019
+26,26,Percy Prado,"€ 2,750","€ 143,000","€ 143,681",D,22,Peru,Nantes,Ligue 1,2018-2019
+27,27,Randal Kolo Muani,"€ 2,481","€ 129,000","€ 129,615",F,19,Democratic Republic of Congo,Nantes,Ligue 1,2018-2019
+28,28,Josué Homawoo,"€ 2,385","€ 124,000","€ 124,591",D,20,France,Nantes,Ligue 1,2018-2019
+29,29,Imran Louza,"€ 2,327","€ 121,000","€ 121,577",M,19,France,Nantes,Ligue 1,2018-2019
+30,30,Abdoulaye Dabo,"€ 2,115","€ 110,000","€ 110,524",F,17,France,Nantes,Ligue 1,2018-2019
+31,31,Alexandre Olliero,"€ 1,731","€ 90,000","€ 90,429",K,22,France,Nantes,Ligue 1,2018-2019
+32,32,Andrei Girotto,"€ 1,462","€ 76,000","€ 76,362",M,26,Brazil,Nantes,Ligue 1,2018-2019
+33,33,Quentin Braat,"€ 1,442","€ 75,000","€ 75,357",K,20,France,Nantes,Ligue 1,2018-2019
+34,34,Antonio Mance,"€ 1,096","€ 57,000","€ 57,272",F,22,Croatia,Nantes,Ligue 1,2018-2019
+35,35,Abdoul Kader Bamba,€ 0,€ 0,€ 0,M,24,France,Nantes,Ligue 1,2018-2019
+36,36,Yassine El Ghanassy,€ 0,€ 0,€ 0,F,27,Belgium,Nantes,Ligue 1,2018-2019
+37,37,Koffi Djidji,€ 0,€ 0,€ 0,D,25,Cote d'Ivoire,Nantes,Ligue 1,2018-2019
+38,38,Thody Élie Youan,€ 0,€ 0,€ 0,F,19,France,Nantes,Ligue 1,2018-2019
+39,39,Alexis Alégué,€ 0,€ 0,€ 0,M,21,Cameroon,Nantes,Ligue 1,2018-2019
+0,0,Mario Balotelli,"€ 250,000","€ 13,000,000","€ 13,061,945",F,27,Italy,Nice,Ligue 1,2018-2019
+1,1,Dante,"€ 57,500","€ 2,990,000","€ 3,004,247",D,34,Brazil,Nice,Ligue 1,2018-2019
+2,2,Danilo,"€ 25,269","€ 1,314,000","€ 1,320,261",M,22,Brazil,Nice,Ligue 1,2018-2019
+3,3,Allan Saint-Maximin,"€ 23,000","€ 1,196,000","€ 1,201,699",F,21,France,Nice,Ligue 1,2018-2019
+4,4,Wylan Cyprien,"€ 23,000","€ 1,196,000","€ 1,201,699",M,23,France,Nice,Ligue 1,2018-2019
+5,5,Christophe Jallet,"€ 17,250","€ 897,000","€ 901,274",D,34,France,Nice,Ligue 1,2018-2019
+6,6,Myziane Maolida,"€ 14,846","€ 772,000","€ 775,679",F,19,France,Nice,Ligue 1,2018-2019
+7,7,Adrien Tamèze,"€ 13,404","€ 697,000","€ 700,321",M,24,France,Nice,Ligue 1,2018-2019
+8,8,Yoan Cardinale,"€ 12,154","€ 632,000","€ 635,011",K,24,France,Nice,Ligue 1,2018-2019
+9,9,Racine Coly,"€ 11,635","€ 605,000","€ 607,883",D,22,Senegal,Nice,Ligue 1,2018-2019
+10,10,Walter Benítez,"€ 11,077","€ 576,000","€ 578,745",K,25,Argentina,Nice,Ligue 1,2018-2019
+11,11,Bassem Srarfi,"€ 10,346","€ 538,000","€ 540,564",F,21,Tunisia,Nice,Ligue 1,2018-2019
+12,12,Ihsan Sacko,"€ 10,250","€ 533,000","€ 535,540",M,20,France,Nice,Ligue 1,2018-2019
+13,13,Olivier Boscagli,"€ 10,019","€ 521,000","€ 523,483",D,20,France,Nice,Ligue 1,2018-2019
+14,14,Youcef Atal,"€ 10,000","€ 520,000","€ 522,478",D,22,Algeria,Nice,Ligue 1,2018-2019
+15,15,Pierre Lees Melou,"€ 9,192","€ 478,000","€ 480,278",M,25,France,Nice,Ligue 1,2018-2019
+16,16,Malang Sarr,"€ 9,096","€ 473,000","€ 475,254",D,19,France,Nice,Ligue 1,2018-2019
+17,17,Mickaël Le Bihan,"€ 7,500","€ 390,000","€ 391,858",F,28,France,Nice,Ligue 1,2018-2019
+18,18,Jean-Victor Makengo,"€ 7,288","€ 379,000","€ 380,806",M,20,France,Nice,Ligue 1,2018-2019
+19,19,Rémi Walter,"€ 6,904","€ 359,000","€ 360,711",M,23,France,Nice,Ligue 1,2018-2019
+20,20,Patrick Burner,"€ 6,096","€ 317,000","€ 318,511",D,22,France,Nice,Ligue 1,2018-2019
+21,21,Mouez Hassen,"€ 5,827","€ 303,000","€ 304,444",K,23,Tunisia,Nice,Ligue 1,2018-2019
+22,22,Christophe Hérelle,"€ 5,750","€ 299,000","€ 300,425",D,25,France,Nice,Ligue 1,2018-2019
+23,23,Gautier Lloris,"€ 4,231","€ 220,000","€ 221,048",D,22,France,Nice,Ligue 1,2018-2019
+24,24,Ignatius Ganago,"€ 3,346","€ 174,000","€ 174,829",F,19,Cameroon,Nice,Ligue 1,2018-2019
+25,25,Maxime Pélican,"€ 2,154","€ 112,000","€ 112,534",F,20,France,Nice,Ligue 1,2018-2019
+26,26,Assil Jaziri,"€ 1,981","€ 103,000","€ 103,491",M,18,Tunisia,Nice,Ligue 1,2018-2019
+27,27,Yanis Hamache,"€ 1,712","€ 89,000","€ 89,424",D,18,France,Nice,Ligue 1,2018-2019
+28,28,Eddy Sylvestre,"€ 1,635","€ 85,000","€ 85,405",M,18,France,Nice,Ligue 1,2018-2019
+29,29,Jawad Dramé,"€ 1,596","€ 83,000","€ 83,395",M,18,France,Nice,Ligue 1,2018-2019
+30,30,Hicham Mahou,"€ 1,577","€ 82,000","€ 82,391",F,18,France,Nice,Ligue 1,2018-2019
+31,31,Yannis Clementia,"€ 1,481","€ 77,000","€ 77,367",K,20,France,Nice,Ligue 1,2018-2019
+32,32,Andy Pelmard,"€ 1,442","€ 75,000","€ 75,357",D,18,France,Nice,Ligue 1,2018-2019
+33,33,Vincent Marcel,€ 0,€ 0,€ 0,M,21,France,Nice,Ligue 1,2018-2019
+34,34,Romain Perraud,€ 0,€ 0,€ 0,D,20,France,Nice,Ligue 1,2018-2019
+35,35,Pedro Brazão,€ 0,€ 0,€ 0,F,15,Portugal,Nice,Ligue 1,2018-2019
+36,36,Arnaud Lusamba,€ 0,€ 0,€ 0,M,21,France,Nice,Ligue 1,2018-2019
+37,37,Mohamed Lamine Diaby,€ 0,€ 0,€ 0,F,17,France,Nice,Ligue 1,2018-2019
+0,0,Jordan Ferri,"€ 30,654","€ 1,594,000","€ 1,601,595",M,26,France,Nimes,Ligue 1,2018-2019
+1,1,Faitout Maouassa,"€ 16,096","€ 837,000","€ 840,988",D,19,France,Nimes,Ligue 1,2018-2019
+2,2,Baptiste Guillaume,"€ 12,154","€ 632,000","€ 635,011",F,23,Belgium,Nimes,Ligue 1,2018-2019
+3,3,Mustapha Diallo,"€ 9,192","€ 478,000","€ 480,278",M,32,Senegal,Nimes,Ligue 1,2018-2019
+4,4,Loïck Landre,"€ 8,058","€ 419,000","€ 420,997",D,26,France,Nimes,Ligue 1,2018-2019
+5,5,Paul Bernardoni,"€ 7,019","€ 365,000","€ 366,739",K,21,France,Nimes,Ligue 1,2018-2019
+6,6,Denis Bouanga,"€ 6,673","€ 347,000","€ 348,653",F,23,Gabon,Nimes,Ligue 1,2018-2019
+7,7,Rachid Alioui,"€ 6,442","€ 335,000","€ 336,596",F,26,Morocco,Nimes,Ligue 1,2018-2019
+8,8,Theo Valls,"€ 5,865","€ 305,000","€ 306,453",M,22,France,Nimes,Ligue 1,2018-2019
+9,9,Téji Savanier,"€ 5,750","€ 299,000","€ 300,425",M,26,France,Nimes,Ligue 1,2018-2019
+10,10,Umut Bozok,"€ 5,750","€ 299,000","€ 300,425",F,21,Turkey,Nimes,Ligue 1,2018-2019
+11,11,Pierrick Valdivia,"€ 5,288","€ 275,000","€ 276,310",M,30,France,Nimes,Ligue 1,2018-2019
+12,12,Anthony Briancon,"€ 5,058","€ 263,000","€ 264,253",D,23,France,Nimes,Ligue 1,2018-2019
+13,13,Florian Miguel,"€ 5,058","€ 263,000","€ 264,253",D,21,France,Nimes,Ligue 1,2018-2019
+14,14,Renaud Ripart,"€ 4,865","€ 253,000","€ 254,206",M,25,France,Nimes,Ligue 1,2018-2019
+15,15,Martin Sourzac,"€ 4,519","€ 235,000","€ 236,120",K,26,France,Nimes,Ligue 1,2018-2019
+16,16,Sofiane Alakouch,"€ 4,192","€ 218,000","€ 219,039",D,19,France,Nimes,Ligue 1,2018-2019
+17,17,Féthi Harek,"€ 3,904","€ 203,000","€ 203,967",D,35,Algeria,Nimes,Ligue 1,2018-2019
+18,18,Panagiotis Vlachodimos,"€ 3,904","€ 203,000","€ 203,967",M,26,Greece,Nimes,Ligue 1,2018-2019
+19,19,Sada Thioub,"€ 3,442","€ 179,000","€ 179,853",M,23,Senegal,Nimes,Ligue 1,2018-2019
+20,20,Baptiste Valette,"€ 2,750","€ 143,000","€ 143,681",K,25,France,Nimes,Ligue 1,2018-2019
+21,21,Gaëtan Paquiez,"€ 2,519","€ 131,000","€ 131,624",D,24,France,Nimes,Ligue 1,2018-2019
+22,22,Antonin Bobichon,"€ 2,288","€ 119,000","€ 119,567",M,22,France,Nimes,Ligue 1,2018-2019
+23,23,Sami Ben Amar,"€ 2,231","€ 116,000","€ 116,553",F,20,Morocco,Nimes,Ligue 1,2018-2019
+24,24,Clément Depres,"€ 2,077","€ 108,000","€ 108,515",F,23,France,Nimes,Ligue 1,2018-2019
+25,25,Hervé Lybohy,"€ 2,077","€ 108,000","€ 108,515",D,34,Cote d'Ivoire,Nimes,Ligue 1,2018-2019
+26,26,Abdel Malik Hsissane,"€ 1,788","€ 93,000","€ 93,443",M,27,Morocco,Nimes,Ligue 1,2018-2019
+27,27,Théo Sainte-Luce,"€ 1,000","€ 52,000","€ 52,248",D,19,France,Nimes,Ligue 1,2018-2019
+28,28,Lucas Buades,€ 654,"€ 34,000","€ 34,162",D,20,France,Nimes,Ligue 1,2018-2019
+29,29,Lucas Dias,€ 0,€ 0,€ 0,K,19,France,Nimes,Ligue 1,2018-2019
+30,30,Kévin Denkey,€ 0,€ 0,€ 0,F,17,Togo,Nimes,Ligue 1,2018-2019
+0,0,Neymar,"€ 705,365","€ 36,679,000","€ 36,853,775",F,26,Brazil,Psg,Ligue 1,2018-2019
+1,1,Kylian Mbappé,"€ 358,519","€ 18,643,000","€ 18,731,834",F,19,France,Psg,Ligue 1,2018-2019
+2,2,Edinson Cavani,"€ 354,173","€ 18,417,000","€ 18,504,757",F,31,Uruguay,Psg,Ligue 1,2018-2019
+3,3,Thiago Silva,"€ 305,885","€ 15,906,000","€ 15,981,792",D,33,Brazil,Psg,Ligue 1,2018-2019
+4,4,Marquinhos,"€ 255,750","€ 13,299,000","€ 13,362,370",D,24,Brazil,Psg,Ligue 1,2018-2019
+5,5,Ángel Di María,"€ 255,750","€ 13,299,000","€ 13,362,370",F,30,Argentina,Psg,Ligue 1,2018-2019
+6,6,Dani Alves,"€ 160,981","€ 8,371,000","€ 8,410,888",D,35,Brazil,Psg,Ligue 1,2018-2019
+7,7,Gianluigi Buffon,"€ 160,981","€ 8,371,000","€ 8,410,888",K,40,Italy,Psg,Ligue 1,2018-2019
+8,8,Presnel Kimpembe,"€ 139,538","€ 7,256,000","€ 7,290,575",D,22,France,Psg,Ligue 1,2018-2019
+9,9,Julian Draxler,"€ 137,981","€ 7,175,000","€ 7,209,189",F,24,Germany,Psg,Ligue 1,2018-2019
+10,10,Marco Verratti,"€ 137,981","€ 7,175,000","€ 7,209,189",M,25,Italy,Psg,Ligue 1,2018-2019
+11,11,Layvin Kurzawa,"€ 115,385","€ 6,000,000","€ 6,028,590",D,25,France,Psg,Ligue 1,2018-2019
+12,12,Juan Bernat,"€ 96,154","€ 5,000,000","€ 5,023,825",D,25,Spain,Psg,Ligue 1,2018-2019
+13,13,Thilo Kehrer,"€ 96,154","€ 5,000,000","€ 5,023,825",D,21,Germany,Psg,Ligue 1,2018-2019
+14,14,Lassana Diarra,"€ 76,654","€ 3,986,000","€ 4,004,993",M,33,France,Psg,Ligue 1,2018-2019
+15,15,Leandro Paredes,"€ 65,865","€ 3,425,000","€ 3,441,320",M,24,Argentina,Psg,Ligue 1,2018-2019
+16,16,Thomas Meunier,"€ 59,788","€ 3,109,000","€ 3,123,814",D,26,Belgium,Psg,Ligue 1,2018-2019
+17,17,Adrien Rabiot,"€ 57,500","€ 2,990,000","€ 3,004,247",M,23,France,Psg,Ligue 1,2018-2019
+18,18,Jesé,"€ 51,135","€ 2,659,000","€ 2,671,670",F,25,Spain,Psg,Ligue 1,2018-2019
+19,19,Eric Maxim Choupo-Moting,"€ 45,000","€ 2,340,000","€ 2,351,150",F,29,Cameroon,Psg,Ligue 1,2018-2019
+20,20,Alphonse Areola,"€ 34,885","€ 1,814,000","€ 1,822,644",K,25,France,Psg,Ligue 1,2018-2019
+21,21,Christopher Nkunku,"€ 22,385","€ 1,164,000","€ 1,169,546",M,20,France,Psg,Ligue 1,2018-2019
+22,22,Stanley Nsoki,"€ 10,500","€ 546,000","€ 548,602",D,19,France,Psg,Ligue 1,2018-2019
+23,23,Moussa Diaby,"€ 9,538","€ 496,000","€ 498,363",F,18,France,Psg,Ligue 1,2018-2019
+24,24,Timothy Weah,"€ 6,885","€ 358,000","€ 359,706",F,18,United States,Psg,Ligue 1,2018-2019
+25,25,Loïc Mbe Soh,"€ 3,673","€ 191,000","€ 191,910",D,17,France,Psg,Ligue 1,2018-2019
+26,26,Antoine Bernede,"€ 2,942","€ 153,000","€ 153,729",M,19,France,Psg,Ligue 1,2018-2019
+27,27,Colin Dagba,"€ 2,885","€ 150,000","€ 150,715",D,19,France,Psg,Ligue 1,2018-2019
+28,28,Azzeddine Toufiqui,"€ 2,423","€ 126,000","€ 126,600",M,19,France,Psg,Ligue 1,2018-2019
+29,29,Sébastien Cibois,"€ 2,346","€ 122,000","€ 122,581",K,20,France,Psg,Ligue 1,2018-2019
+30,30,Isaac Hemans,"€ 1,019","€ 53,000","€ 53,253",D,21,Ghana,Psg,Ligue 1,2018-2019
+31,31,Rémy Descamps,€ 0,€ 0,€ 0,K,22,France,Psg,Ligue 1,2018-2019
+32,32,Éric Ebimbe,€ 0,€ 0,€ 0,M,17,France,Psg,Ligue 1,2018-2019
+33,33,Arthur Zagre,€ 0,€ 0,€ 0,D,16,France,Psg,Ligue 1,2018-2019
+34,34,Kévin Rimane,€ 0,€ 0,€ 0,D,27,French Guiana,Psg,Ligue 1,2018-2019
+35,35,Kevin Trapp,€ 0,€ 0,€ 0,K,27,Germany,Psg,Ligue 1,2018-2019
+36,36,Metehan Güclü,€ 0,€ 0,€ 0,F,19,Turkey,Psg,Ligue 1,2018-2019
+37,37,Grzegorz Krychowiak,€ 0,€ 0,€ 0,M,28,Poland,Psg,Ligue 1,2018-2019
+38,38,Giovani Lo Celso,€ 0,€ 0,€ 0,M,22,Argentina,Psg,Ligue 1,2018-2019
+0,0,Björn Engels,"€ 20,000","€ 1,040,000","€ 1,044,956",D,23,Belgium,Reims,Ligue 1,2018-2019
+1,1,Abdul Rahman Baba,"€ 19,231","€ 1,000,000","€ 1,004,765",D,23,Ghana,Reims,Ligue 1,2018-2019
+2,2,Hyun-jun Suk,"€ 17,481","€ 909,000","€ 913,331",F,27,South Korea,Reims,Ligue 1,2018-2019
+3,3,Arbër Zeneli,"€ 16,865","€ 877,000","€ 881,179",F,23,Kosovo,Reims,Ligue 1,2018-2019
+4,4,Pablo Chavarría,"€ 14,385","€ 748,000","€ 751,564",F,30,Argentina,Reims,Ligue 1,2018-2019
+5,5,Sheyi Ojo,"€ 13,923","€ 724,000","€ 727,450",F,21,England,Reims,Ligue 1,2018-2019
+6,6,Thomas Foket,"€ 11,000","€ 572,000","€ 574,726",D,23,Belgium,Reims,Ligue 1,2018-2019
+7,7,Alaixys Romao,"€ 10,519","€ 547,000","€ 549,606",M,34,Togo,Reims,Ligue 1,2018-2019
+8,8,Marvin Martin,"€ 10,442","€ 543,000","€ 545,587",M,30,France,Reims,Ligue 1,2018-2019
+9,9,Xavier Chavalerin,"€ 10,019","€ 521,000","€ 523,483",M,27,France,Reims,Ligue 1,2018-2019
+10,10,Yunis Abdelhamid,"€ 9,731","€ 506,000","€ 508,411",D,30,Morocco,Reims,Ligue 1,2018-2019
+11,11,Thomas Fontaine,"€ 9,288","€ 483,000","€ 485,301",D,27,Madagascar,Reims,Ligue 1,2018-2019
+12,12,Ghislain Konan,"€ 9,192","€ 478,000","€ 480,278",D,22,Cote d'Ivoire,Reims,Ligue 1,2018-2019
+13,13,Edouard Mendy,"€ 7,942","€ 413,000","€ 414,968",K,26,Senegal,Reims,Ligue 1,2018-2019
+14,14,Johann Carrasso,"€ 7,808","€ 406,000","€ 407,935",K,30,France,Reims,Ligue 1,2018-2019
+15,15,Nolan Mbemba,"€ 7,615","€ 396,000","€ 397,887",M,23,France,Reims,Ligue 1,2018-2019
+16,16,Hassane Kamara,"€ 7,462","€ 388,000","€ 389,849",D,24,France,Reims,Ligue 1,2018-2019
+17,17,Rémi Oudin,"€ 6,481","€ 337,000","€ 338,606",F,21,France,Reims,Ligue 1,2018-2019
+18,18,Aly Ndom,"€ 6,346","€ 330,000","€ 331,572",M,22,France,Reims,Ligue 1,2018-2019
+19,19,Moussa Doumbia,"€ 5,173","€ 269,000","€ 270,282",F,23,Mali,Reims,Ligue 1,2018-2019
+20,20,Tristan Dingomé,"€ 5,173","€ 269,000","€ 270,282",M,27,France,Reims,Ligue 1,2018-2019
+21,21,Axel Disasi,"€ 4,404","€ 229,000","€ 230,091",D,20,France,Reims,Ligue 1,2018-2019
+22,22,Mathieu Cafaro,"€ 3,827","€ 199,000","€ 199,948",M,21,France,Reims,Ligue 1,2018-2019
+23,23,Moreto Cassamá,"€ 3,692","€ 192,000","€ 192,915",M,20,Guinea-Bissau,Reims,Ligue 1,2018-2019
+24,24,Romain Métanire,"€ 3,500","€ 182,000","€ 182,867",D,28,Madagascar,Reims,Ligue 1,2018-2019
+25,25,Boulaye Dia,"€ 2,596","€ 135,000","€ 135,643",F,21,France,Reims,Ligue 1,2018-2019
+26,26,Virgile Piechocki,"€ 2,442","€ 127,000","€ 127,605",M,21,France,Reims,Ligue 1,2018-2019
+27,27,Sambou Sissoko,"€ 2,404","€ 125,000","€ 125,596",D,19,France,Reims,Ligue 1,2018-2019
+28,28,Patrick Bahanack,"€ 2,115","€ 110,000","€ 110,524",D,20,Cameroon,Reims,Ligue 1,2018-2019
+29,29,Virgile Pinson,€ 885,"€ 46,000","€ 46,219",F,22,France,Reims,Ligue 1,2018-2019
+30,30,Ryan Bouallak,€ 865,"€ 45,000","€ 45,214",K,18,France,Reims,Ligue 1,2018-2019
+31,31,Nicolas Lemaître,€ 769,"€ 40,000","€ 40,191",K,21,France,Reims,Ligue 1,2018-2019
+32,32,Yohan Roche,€ 0,€ 0,€ 0,D,20,France,Reims,Ligue 1,2018-2019
+33,33,Grégory Berthier,€ 0,€ 0,€ 0,M,22,France,Reims,Ligue 1,2018-2019
+34,34,Moussa Bana,€ 0,€ 0,€ 0,D,20,Cameroon,Reims,Ligue 1,2018-2019
+35,35,Grejohn Kyei,€ 0,€ 0,€ 0,F,22,France,Reims,Ligue 1,2018-2019
+36,36,Lenny Vallier,€ 0,€ 0,€ 0,D,19,France,Reims,Ligue 1,2018-2019
+0,0,Hatem Ben Arfa,"€ 69,769","€ 3,628,000","€ 3,645,287",M,31,France,Rennes,Ligue 1,2018-2019
+1,1,M'Baye Niang,"€ 53,365","€ 2,775,000","€ 2,788,223",F,23,Senegal,Rennes,Ligue 1,2018-2019
+2,2,Clément Grenier,"€ 46,519","€ 2,419,000","€ 2,430,527",M,27,France,Rennes,Ligue 1,2018-2019
+3,3,Ismaïla Sarr,"€ 25,288","€ 1,315,000","€ 1,321,266",F,20,Senegal,Rennes,Ligue 1,2018-2019
+4,4,Benjamin André,"€ 18,404","€ 957,000","€ 961,560",M,27,France,Rennes,Ligue 1,2018-2019
+5,5,Jakob Johansson,"€ 18,404","€ 957,000","€ 961,560",M,28,Sweden,Rennes,Ligue 1,2018-2019
+6,6,Benjamin Bourigeaud,"€ 17,019","€ 885,000","€ 889,217",M,24,France,Rennes,Ligue 1,2018-2019
+7,7,Faitout Maouassa,"€ 16,096","€ 837,000","€ 840,988",D,19,France,Rennes,Ligue 1,2018-2019
+8,8,Jordan Siebatcheu,"€ 16,096","€ 837,000","€ 840,988",F,22,France,Rennes,Ligue 1,2018-2019
+9,9,Adrien Hunou,"€ 15,538","€ 808,000","€ 811,850",M,24,France,Rennes,Ligue 1,2018-2019
+10,10,Mexer,"€ 14,942","€ 777,000","€ 780,702",D,29,Mozambique,Rennes,Ligue 1,2018-2019
+11,11,Damien Da Silva,"€ 14,942","€ 777,000","€ 780,702",D,30,France,Rennes,Ligue 1,2018-2019
+12,12,Ludovic Baal,"€ 14,769","€ 768,000","€ 771,660",D,32,French Guiana,Rennes,Ligue 1,2018-2019
+13,13,Hamari Traoré,"€ 14,615","€ 760,000","€ 763,621",D,26,Mali,Rennes,Ligue 1,2018-2019
+14,14,Ramy Bensebaini,"€ 14,250","€ 741,000","€ 744,531",D,23,Algeria,Rennes,Ligue 1,2018-2019
+15,15,Romain Danzé,"€ 13,808","€ 718,000","€ 721,421",D,31,France,Rennes,Ligue 1,2018-2019
+16,16,Tomas Koubek,"€ 13,308","€ 692,000","€ 695,297",K,25,Czech Republic,Rennes,Ligue 1,2018-2019
+17,17,Jérémy Gelin,"€ 12,942","€ 673,000","€ 676,207",D,21,France,Rennes,Ligue 1,2018-2019
+18,18,Romain Del Castillo,"€ 12,404","€ 645,000","€ 648,073",F,22,France,Rennes,Ligue 1,2018-2019
+19,19,James Léa Siliki,"€ 10,769","€ 560,000","€ 562,668",M,22,France,Rennes,Ligue 1,2018-2019
+20,20,Rafik Guitane,"€ 10,692","€ 556,000","€ 558,649",M,19,France,Rennes,Ligue 1,2018-2019
+21,21,Mehdi Zeffane,"€ 10,327","€ 537,000","€ 539,559",D,26,Algeria,Rennes,Ligue 1,2018-2019
+22,22,Denis Will Poha,"€ 8,577","€ 446,000","€ 448,125",M,21,France,Rennes,Ligue 1,2018-2019
+23,23,Souleyman Doumbia,"€ 7,269","€ 378,000","€ 379,801",D,21,Cote d'Ivoire,Rennes,Ligue 1,2018-2019
+24,24,Gerzino Nyamsi,"€ 6,981","€ 363,000","€ 364,730",D,21,France,Rennes,Ligue 1,2018-2019
+25,25,Namakoro Diallo,"€ 6,962","€ 362,000","€ 363,725",D,22,France,Rennes,Ligue 1,2018-2019
+26,26,Abdoulaye Diallo,"€ 6,250","€ 325,000","€ 326,549",K,26,Senegal,Rennes,Ligue 1,2018-2019
+27,27,Loïc Badiashile,"€ 5,558","€ 289,000","€ 290,377",K,20,France,Rennes,Ligue 1,2018-2019
+28,28,Nicolas Janvier,"€ 5,346","€ 278,000","€ 279,325",M,19,France,Rennes,Ligue 1,2018-2019
+29,29,Yann Gboho,"€ 2,365","€ 123,000","€ 123,586",M,17,France,Rennes,Ligue 1,2018-2019
+30,30,Armand Laurienté,"€ 2,327","€ 121,000","€ 121,577",M,19,France,Rennes,Ligue 1,2018-2019
+31,31,Sacha Boey,"€ 1,750","€ 91,000","€ 91,434",D,17,France,Rennes,Ligue 1,2018-2019
+32,32,Isaac Matondo,"€ 1,731","€ 90,000","€ 90,429",F,19,France,Rennes,Ligue 1,2018-2019
+33,33,Georginio Rutter,"€ 1,308","€ 68,000","€ 68,324",F,16,France,Rennes,Ligue 1,2018-2019
+34,34,Edvinas Gertmonas,"€ 1,231","€ 64,000","€ 64,305",K,22,Lithuania,Rennes,Ligue 1,2018-2019
+35,35,Lilian Brassier,"€ 1,019","€ 53,000","€ 53,253",D,18,France,Rennes,Ligue 1,2018-2019
+36,36,Timothé Nkada,€ 115,"€ 6,000","€ 6,029",F,18,France,Rennes,Ligue 1,2018-2019
+37,37,Diafra Sakho,€ 0,€ 0,€ 0,F,28,Senegal,Rennes,Ligue 1,2018-2019
+38,38,Brandon,€ 0,€ 0,€ 0,F,23,Spain,Rennes,Ligue 1,2018-2019
+39,39,Eduardo Camavinga,€ 0,€ 0,€ 0,M,15,France,Rennes,Ligue 1,2018-2019
+40,40,Jordan Tell,€ 0,€ 0,€ 0,F,21,France,Rennes,Ligue 1,2018-2019
+0,0,Yann M'Vila,"€ 69,769","€ 3,628,000","€ 3,645,287",M,28,France,St Etienne,Ligue 1,2018-2019
+1,1,Rémy Cabella,"€ 43,692","€ 2,272,000","€ 2,282,826",M,28,France,St Etienne,Ligue 1,2018-2019
+2,2,Neven Subotic,"€ 34,500","€ 1,794,000","€ 1,802,548",D,29,Germany,St Etienne,Ligue 1,2018-2019
+3,3,Loïs Diony,"€ 28,712","€ 1,493,000","€ 1,500,114",F,25,France,St Etienne,Ligue 1,2018-2019
+4,4,Wahbi Khazri,"€ 26,750","€ 1,391,000","€ 1,397,628",M,27,Tunisia,St Etienne,Ligue 1,2018-2019
+5,5,Mathieu Debuchy,"€ 20,692","€ 1,076,000","€ 1,081,127",D,32,France,St Etienne,Ligue 1,2018-2019
+6,6,Stéphane Ruffier,"€ 20,692","€ 1,076,000","€ 1,081,127",K,31,France,St Etienne,Ligue 1,2018-2019
+7,7,Loïc Perrin,"€ 20,692","€ 1,076,000","€ 1,081,127",D,32,France,St Etienne,Ligue 1,2018-2019
+8,8,Robert Beric,"€ 20,462","€ 1,064,000","€ 1,069,070",F,27,Slovenia,St Etienne,Ligue 1,2018-2019
+9,9,Romain Hamouma,"€ 19,538","€ 1,016,000","€ 1,020,841",F,31,France,St Etienne,Ligue 1,2018-2019
+10,10,Kévin Monnet-Paquet,"€ 18,500","€ 962,000","€ 966,584",F,29,France,St Etienne,Ligue 1,2018-2019
+11,11,Ole Selnaes,"€ 15,904","€ 827,000","€ 830,941",M,23,Norway,St Etienne,Ligue 1,2018-2019
+12,12,Timothée Kolodziejczak,"€ 15,596","€ 811,000","€ 814,864",D,26,France,St Etienne,Ligue 1,2018-2019
+13,13,Gabriel Silva,"€ 13,500","€ 702,000","€ 705,345",D,27,Brazil,St Etienne,Ligue 1,2018-2019
+14,14,Assane Dioussé,"€ 10,462","€ 544,000","€ 546,592",M,20,Senegal,St Etienne,Ligue 1,2018-2019
+15,15,Yannis Salibur,"€ 9,192","€ 478,000","€ 480,278",F,27,France,St Etienne,Ligue 1,2018-2019
+16,16,Jessy Moulin,"€ 8,596","€ 447,000","€ 449,130",K,32,France,St Etienne,Ligue 1,2018-2019
+17,17,Pierre-Yves Polomat,"€ 8,115","€ 422,000","€ 424,011",D,24,France,St Etienne,Ligue 1,2018-2019
+18,18,Youssef Aït Bennasser,"€ 6,904","€ 359,000","€ 360,711",M,21,Morocco,St Etienne,Ligue 1,2018-2019
+19,19,Arnaud Nordin,"€ 6,558","€ 341,000","€ 342,625",F,20,France,St Etienne,Ligue 1,2018-2019
+20,20,Kenny Rocha Santos,"€ 3,827","€ 199,000","€ 199,948",M,18,Cape Verde,St Etienne,Ligue 1,2018-2019
+21,21,Dylan Chambost,"€ 3,058","€ 159,000","€ 159,758",M,20,France,St Etienne,Ligue 1,2018-2019
+22,22,Makhtar Gueye,"€ 2,346","€ 122,000","€ 122,581",F,20,Senegal,St Etienne,Ligue 1,2018-2019
+23,23,Mickaël Panos,"€ 2,250","€ 117,000","€ 117,558",D,21,France,St Etienne,Ligue 1,2018-2019
+24,24,Mahdi Camara,"€ 2,231","€ 116,000","€ 116,553",M,20,France,St Etienne,Ligue 1,2018-2019
+25,25,Charles Abi,"€ 2,173","€ 113,000","€ 113,538",F,18,France,St Etienne,Ligue 1,2018-2019
+26,26,Lamine Ghezali,"€ 1,904","€ 99,000","€ 99,472",F,18,France,St Etienne,Ligue 1,2018-2019
+27,27,William Saliba,"€ 1,846","€ 96,000","€ 96,457",D,17,France,St Etienne,Ligue 1,2018-2019
+28,28,Wesley Fofana,"€ 1,538","€ 80,000","€ 80,381",D,17,France,St Etienne,Ligue 1,2018-2019
+29,29,Valentín Vada,"€ 1,135","€ 59,000","€ 59,281",M,22,Argentina,St Etienne,Ligue 1,2018-2019
+30,30,Marvin Tshibuabua,"€ 1,058","€ 55,000","€ 55,262",D,16,France,St Etienne,Ligue 1,2018-2019
+31,31,Stefan Bajic,"€ 1,038","€ 54,000","€ 54,257",K,16,France,St Etienne,Ligue 1,2018-2019
+32,32,Théo Vermot,€ 865,"€ 45,000","€ 45,214",K,21,France,St Etienne,Ligue 1,2018-2019
+33,33,Alexis Guendouz,€ 0,€ 0,€ 0,K,22,France,St Etienne,Ligue 1,2018-2019
+34,34,Mickael Nade,€ 0,€ 0,€ 0,D,19,France,St Etienne,Ligue 1,2018-2019
+35,35,Léo Petrot,€ 0,€ 0,€ 0,D,21,France,St Etienne,Ligue 1,2018-2019
+36,36,Léo Lacroix,€ 0,€ 0,€ 0,D,26,Switzerland,St Etienne,Ligue 1,2018-2019
+37,37,Oussama Tannane,€ 0,€ 0,€ 0,F,24,Morocco,St Etienne,Ligue 1,2018-2019
+38,38,Jorginho,€ 0,€ 0,€ 0,F,22,Guinea-Bissau,St Etienne,Ligue 1,2018-2019
+39,39,Habib Maïga,€ 0,€ 0,€ 0,M,22,Cote d'Ivoire,St Etienne,Ligue 1,2018-2019
+40,40,Franck Honorat,€ 0,€ 0,€ 0,F,21,France,St Etienne,Ligue 1,2018-2019
+41,41,Billal Benkhedim,€ 0,€ 0,€ 0,M,17,France,St Etienne,Ligue 1,2018-2019
+0,0,Sanjin Prcic,"€ 21,077","€ 1,096,000","€ 1,101,222",M,24,Bosnia-Herzegovina,Strasbourg,Ligue 1,2018-2019
+1,1,Lamine Koné,"€ 15,596","€ 811,000","€ 814,864",D,29,Cote d'Ivoire,Strasbourg,Ligue 1,2018-2019
+2,2,Jonas Martin,"€ 14,250","€ 741,000","€ 744,531",M,28,France,Strasbourg,Ligue 1,2018-2019
+3,3,Matz Sels,"€ 13,808","€ 718,000","€ 721,421",K,26,Belgium,Strasbourg,Ligue 1,2018-2019
+4,4,Lionel Carole,"€ 13,808","€ 718,000","€ 721,421",D,27,France,Strasbourg,Ligue 1,2018-2019
+5,5,Idriss Saadi,"€ 13,808","€ 718,000","€ 721,421",F,26,Algeria,Strasbourg,Ligue 1,2018-2019
+6,6,Stefan Mitrovic,"€ 13,500","€ 702,000","€ 705,345",D,28,Serbia,Strasbourg,Ligue 1,2018-2019
+7,7,Dimitri Liénard,"€ 12,173","€ 633,000","€ 636,016",M,30,France,Strasbourg,Ligue 1,2018-2019
+8,8,Ludovic Ajorque,"€ 11,750","€ 611,000","€ 613,911",F,24,France,Strasbourg,Ligue 1,2018-2019
+9,9,Samuel Grandsir,"€ 11,731","€ 610,000","€ 612,907",M,21,France,Strasbourg,Ligue 1,2018-2019
+10,10,Jérémy Grimm,"€ 11,538","€ 600,000","€ 602,859",M,31,France,Strasbourg,Ligue 1,2018-2019
+11,11,Benjamin Corgnet,"€ 11,500","€ 598,000","€ 600,849",M,31,France,Strasbourg,Ligue 1,2018-2019
+12,12,Lebo Mothiba,"€ 11,192","€ 582,000","€ 584,773",F,22,South Africa,Strasbourg,Ligue 1,2018-2019
+13,13,Adrien Thomasson,"€ 9,096","€ 473,000","€ 475,254",M,24,France,Strasbourg,Ligue 1,2018-2019
+14,14,Anthony Gonçalves,"€ 8,577","€ 446,000","€ 448,125",M,32,France,Strasbourg,Ligue 1,2018-2019
+15,15,Pablo Martinez,"€ 8,058","€ 419,000","€ 420,997",D,29,France,Strasbourg,Ligue 1,2018-2019
+16,16,Kenny Lala,"€ 8,058","€ 419,000","€ 420,997",D,26,France,Strasbourg,Ligue 1,2018-2019
+17,17,Eiji Kawashima,"€ 7,865","€ 409,000","€ 410,949",K,35,Japan,Strasbourg,Ligue 1,2018-2019
+18,18,Abdallah Ndour,"€ 7,346","€ 382,000","€ 383,820",D,24,Senegal,Strasbourg,Ligue 1,2018-2019
+19,19,Nuno Da Costa,"€ 5,750","€ 299,000","€ 300,425",F,27,Cape Verde,Strasbourg,Ligue 1,2018-2019
+20,20,Kévin Zohi,"€ 5,000","€ 260,000","€ 261,239",F,21,Mali,Strasbourg,Ligue 1,2018-2019
+21,21,Anthony Caci,"€ 4,962","€ 258,000","€ 259,229",D,21,France,Strasbourg,Ligue 1,2018-2019
+22,22,Bingourou Kamara,"€ 4,596","€ 239,000","€ 240,139",K,21,France,Strasbourg,Ligue 1,2018-2019
+23,23,Ibrahima Sissoko,"€ 4,596","€ 239,000","€ 240,139",M,20,France,Strasbourg,Ligue 1,2018-2019
+24,24,Moataz Zemzemi,"€ 1,942","€ 101,000","€ 101,481",M,18,Tunisia,Strasbourg,Ligue 1,2018-2019
+25,25,Duplexe Tchamba,"€ 1,942","€ 101,000","€ 101,481",D,19,Cameroon,Strasbourg,Ligue 1,2018-2019
+26,26,Youssouf Fofana,"€ 1,904","€ 99,000","€ 99,472",M,19,France,Strasbourg,Ligue 1,2018-2019
+27,27,Ismaël Aaneba,"€ 1,885","€ 98,000","€ 98,467",D,19,France,Strasbourg,Ligue 1,2018-2019
+28,28,Mohamed Simakan,"€ 1,846","€ 96,000","€ 96,457",D,18,France,Strasbourg,Ligue 1,2018-2019
+29,29,Léon Valentin,"€ 1,750","€ 91,000","€ 91,434",D,19,France,Strasbourg,Ligue 1,2018-2019
+30,30,Mamoudou Karamoko,"€ 1,442","€ 75,000","€ 75,357",F,18,France,Strasbourg,Ligue 1,2018-2019
+31,31,Louis Pelletier,€ 788,"€ 41,000","€ 41,195",K,18,France,Strasbourg,Ligue 1,2018-2019
+32,32,Yoann Salmier,€ 0,€ 0,€ 0,D,25,French Guiana,Strasbourg,Ligue 1,2018-2019
+0,0,Max Gradel,"€ 31,038","€ 1,614,000","€ 1,621,691",F,30,Cote d'Ivoire,Toulouse,Ligue 1,2018-2019
+1,1,Stéphane Mbia,"€ 25,000","€ 1,300,000","€ 1,306,194",M,32,Cameroon,Toulouse,Ligue 1,2018-2019
+2,2,Yaya Sanogo,"€ 24,500","€ 1,274,000","€ 1,280,071",F,25,France,Toulouse,Ligue 1,2018-2019
+3,3,Baptiste Reynet,"€ 20,692","€ 1,076,000","€ 1,081,127",K,27,France,Toulouse,Ligue 1,2018-2019
+4,4,François Moubandje,"€ 18,596","€ 967,000","€ 971,608",D,28,Switzerland,Toulouse,Ligue 1,2018-2019
+5,5,Jimmy Durmaz,"€ 18,404","€ 957,000","€ 961,560",F,29,Sweden,Toulouse,Ligue 1,2018-2019
+6,6,Andy Delort,"€ 15,519","€ 807,000","€ 810,845",F,26,Algeria,Toulouse,Ligue 1,2018-2019
+7,7,Corentin Jean,"€ 14,135","€ 735,000","€ 738,502",F,22,France,Toulouse,Ligue 1,2018-2019
+8,8,Firmin Mubele,"€ 14,000","€ 728,000","€ 731,469",F,24,Democratic Republic of Congo,Toulouse,Ligue 1,2018-2019
+9,9,Mathieu Dossevi,"€ 13,808","€ 718,000","€ 721,421",F,30,Togo,Toulouse,Ligue 1,2018-2019
+10,10,John Bostock,"€ 13,808","€ 718,000","€ 721,421",M,26,Trinidad and Tobago,Toulouse,Ligue 1,2018-2019
+11,11,Christopher Jullien,"€ 13,635","€ 709,000","€ 712,378",D,25,France,Toulouse,Ligue 1,2018-2019
+12,12,Aaron Leya Iseka,"€ 11,500","€ 598,000","€ 600,849",F,20,Belgium,Toulouse,Ligue 1,2018-2019
+13,13,Gen Shoji,"€ 11,000","€ 572,000","€ 574,726",D,25,Japan,Toulouse,Ligue 1,2018-2019
+14,14,Issiaga Sylla,"€ 10,423","€ 542,000","€ 544,583",D,24,Guinea,Toulouse,Ligue 1,2018-2019
+15,15,Steeve Yago,"€ 10,346","€ 538,000","€ 540,564",D,25,Burkina Faso,Toulouse,Ligue 1,2018-2019
+16,16,Steven Moreira,"€ 10,327","€ 537,000","€ 539,559",D,23,France,Toulouse,Ligue 1,2018-2019
+17,17,Steven Fortes,"€ 9,308","€ 484,000","€ 486,306",D,26,Cape Verde,Toulouse,Ligue 1,2018-2019
+18,18,Yann Bodiger,"€ 9,192","€ 478,000","€ 480,278",M,23,France,Toulouse,Ligue 1,2018-2019
+19,19,Alexis Blin,"€ 9,096","€ 473,000","€ 475,254",M,21,France,Toulouse,Ligue 1,2018-2019
+20,20,Ibrahim Sangaré,"€ 8,962","€ 466,000","€ 468,220",M,20,Cote d'Ivoire,Toulouse,Ligue 1,2018-2019
+21,21,Yannick Cahuzac,"€ 8,500","€ 442,000","€ 444,106",M,33,France,Toulouse,Ligue 1,2018-2019
+22,22,Jean-Clair Todibo,"€ 6,115","€ 318,000","€ 319,515",D,18,France,Toulouse,Ligue 1,2018-2019
+23,23,Marc Vidal,"€ 5,942","€ 309,000","€ 310,472",K,27,France,Toulouse,Ligue 1,2018-2019
+24,24,Kelvin Amian,"€ 5,231","€ 272,000","€ 273,296",D,20,France,Toulouse,Ligue 1,2018-2019
+25,25,Mauro Goicoechea,"€ 3,000","€ 156,000","€ 156,743",K,30,Uruguay,Toulouse,Ligue 1,2018-2019
+26,26,Hakim El Mokeddem,"€ 2,462","€ 128,000","€ 128,610",M,19,France,Toulouse,Ligue 1,2018-2019
+27,27,Driss Khalid,"€ 2,096","€ 109,000","€ 109,519",F,19,Morocco,Toulouse,Ligue 1,2018-2019
+28,28,Mathieu Gonçalves,"€ 1,731","€ 90,000","€ 90,429",D,17,France,Toulouse,Ligue 1,2018-2019
+29,29,Nathan N'Goumou,"€ 1,558","€ 81,000","€ 81,386",F,18,France,Toulouse,Ligue 1,2018-2019
+30,30,Kalidou Sidibé,"€ 1,538","€ 80,000","€ 80,381",M,19,France,Toulouse,Ligue 1,2018-2019
+31,31,Adil Taoui,"€ 1,250","€ 65,000","€ 65,310",F,16,France,Toulouse,Ligue 1,2018-2019
+32,32,Bafodé Diakité,€ 962,"€ 50,000","€ 50,238",D,17,France,Toulouse,Ligue 1,2018-2019
+33,33,Manu García,€ 673,"€ 35,000","€ 35,167",M,20,Spain,Toulouse,Ligue 1,2018-2019
+34,34,Clément Michelin,€ 0,€ 0,€ 0,D,21,France,Toulouse,Ligue 1,2018-2019
+35,35,Loïc Bessile,€ 0,€ 0,€ 0,D,19,France,Toulouse,Ligue 1,2018-2019
+36,36,Kouadio Koné,€ 0,€ 0,€ 0,M,17,France,Toulouse,Ligue 1,2018-2019
+37,37,Quentin Boisgard,€ 0,€ 0,€ 0,M,21,France,Toulouse,Ligue 1,2018-2019
+38,38,Jessy Pi,€ 0,€ 0,€ 0,M,24,France,Toulouse,Ligue 1,2018-2019
+39,39,Mathis Carvalho,€ 0,€ 0,€ 0,K,19,France,Toulouse,Ligue 1,2018-2019
