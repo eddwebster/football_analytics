@@ -1,0 +1,560 @@
+,Unnamed: 0,Player,Weekly GrossBase Salary(IN GBP),Annual GrossBase Salary(IN GBP),"Adj. GrossBase Salary(2021, IN GBP)",Pos.,Age,Country,Team,League,Season
+0,0,Mesut Özil,"£ 350,000","£ 18,200,000","£ 18,200,000",F,31,Germany,Arsenal,Premier League,2019-2020
+1,1,Pierre-Emerick Aubameyang,"£ 250,000","£ 13,000,000","£ 13,000,000",F,30,Gabon,Arsenal,Premier League,2019-2020
+2,2,Alexandre Lacazette,"£ 182,115","£ 9,470,000","£ 9,470,000",F,28,France,Arsenal,Premier League,2019-2020
+3,3,Héctor Bellerín,"£ 110,000","£ 5,720,000","£ 5,720,000",D,24,Spain,Arsenal,Premier League,2019-2020
+4,4,David Luiz,"£ 100,962","£ 5,250,000","£ 5,250,000",D,32,Brazil,Arsenal,Premier League,2019-2020
+5,5,Sead Kolasinac,"£ 100,000","£ 5,200,000","£ 5,200,000",D,26,Bosnia-Herzegovina,Arsenal,Premier League,2019-2020
+6,6,Granit Xhaka,"£ 100,000","£ 5,200,000","£ 5,200,000",M,27,Switzerland,Arsenal,Premier League,2019-2020
+7,7,Nicolas Pépé,"£ 100,000","£ 5,200,000","£ 5,200,000",F,24,Cote d'Ivoire,Arsenal,Premier League,2019-2020
+8,8,Bernd Leno,"£ 100,000","£ 5,200,000","£ 5,200,000",K,27,Germany,Arsenal,Premier League,2019-2020
+9,9,Sokratis,"£ 91,923","£ 4,780,000","£ 4,780,000",D,31,Greece,Arsenal,Premier League,2019-2020
+10,10,Shkodran Mustafi,"£ 90,000","£ 4,680,000","£ 4,680,000",D,27,Germany,Arsenal,Premier League,2019-2020
+11,11,Gabriel Martinelli,"£ 90,000","£ 4,680,000","£ 4,680,000",F,18,Brazil,Arsenal,Premier League,2019-2020
+12,12,Kieran Tierney,"£ 80,769","£ 4,200,000","£ 4,200,000",D,22,Scotland,Arsenal,Premier League,2019-2020
+13,13,Lucas Torreira,"£ 75,000","£ 3,900,000","£ 3,900,000",M,23,Uruguay,Arsenal,Premier League,2019-2020
+14,14,Cédric Soares,"£ 65,000","£ 3,380,000","£ 3,380,000",D,28,Portugal,Arsenal,Premier League,2019-2020
+15,15,Dani Ceballos,"£ 51,923","£ 2,700,000","£ 2,700,000",M,23,Spain,Arsenal,Premier League,2019-2020
+16,16,Calum Chambers,"£ 50,000","£ 2,600,000","£ 2,600,000",D,25,England,Arsenal,Premier League,2019-2020
+17,17,Mattéo Guendouzi,"£ 40,000","£ 2,080,000","£ 2,080,000",M,20,France,Arsenal,Premier League,2019-2020
+18,18,Ainsley Maitland-Niles,"£ 35,000","£ 1,820,000","£ 1,820,000",M,22,England,Arsenal,Premier League,2019-2020
+19,19,Rob Holding,"£ 25,000","£ 1,300,000","£ 1,300,000",D,24,England,Arsenal,Premier League,2019-2020
+20,20,Emiliano Martínez,"£ 20,000","£ 1,040,000","£ 1,040,000",K,27,Argentina,Arsenal,Premier League,2019-2020
+21,21,Joe Willock,"£ 20,000","£ 1,040,000","£ 1,040,000",M,20,England,Arsenal,Premier League,2019-2020
+22,22,Pablo Marí,"£ 16,923","£ 880,000","£ 880,000",D,26,Spain,Arsenal,Premier League,2019-2020
+23,23,Eddie Nketiah,"£ 15,000","£ 780,000","£ 780,000",F,20,England,Arsenal,Premier League,2019-2020
+24,24,Reiss Nelson,"£ 15,000","£ 780,000","£ 780,000",F,20,England,Arsenal,Premier League,2019-2020
+25,25,Matt Macey,"£ 10,000","£ 520,000","£ 520,000",K,25,England,Arsenal,Premier League,2019-2020
+26,26,Bukayo Saka,"£ 10,000","£ 520,000","£ 520,000",M,18,England,Arsenal,Premier League,2019-2020
+27,27,Konstantinos Mavropanos,"£ 6,923","£ 360,000","£ 360,000",D,21,Greece,Arsenal,Premier League,2019-2020
+0,0,Pepe Reina,"£ 91,923","£ 4,780,000","£ 4,780,000",K,37,Spain,Aston Villa,Premier League,2019-2020
+1,1,Danny Drinkwater,"£ 60,000","£ 3,120,000","£ 3,120,000",M,29,England,Aston Villa,Premier League,2019-2020
+2,2,Björn Engels,"£ 55,000","£ 2,860,000","£ 2,860,000",D,25,Belgium,Aston Villa,Premier League,2019-2020
+3,3,Trezeguet,"£ 52,500","£ 2,730,000","£ 2,730,000",F,25,Egypt,Aston Villa,Premier League,2019-2020
+4,4,Borja Bastón,"£ 45,000","£ 2,340,000","£ 2,340,000",F,27,Spain,Aston Villa,Premier League,2019-2020
+5,5,Tom Heaton,"£ 41,923","£ 2,180,000","£ 2,180,000",K,33,England,Aston Villa,Premier League,2019-2020
+6,6,Frédéric Guilbert,"£ 40,000","£ 2,080,000","£ 2,080,000",D,25,France,Aston Villa,Premier League,2019-2020
+7,7,Mbwana Samatta,"£ 40,000","£ 2,080,000","£ 2,080,000",F,27,Tanzania,Aston Villa,Premier League,2019-2020
+8,8,Henri Lansbury,"£ 40,000","£ 2,080,000","£ 2,080,000",M,29,England,Aston Villa,Premier League,2019-2020
+9,9,Wesley,"£ 35,000","£ 1,820,000","£ 1,820,000",F,23,Brazil,Aston Villa,Premier League,2019-2020
+10,10,Matt Targett,"£ 35,000","£ 1,820,000","£ 1,820,000",D,24,England,Aston Villa,Premier League,2019-2020
+11,11,Jonathan Kodjia,"£ 35,000","£ 1,820,000","£ 1,820,000",F,29,Cote d'Ivoire,Aston Villa,Premier League,2019-2020
+12,12,Jack Grealish,"£ 35,000","£ 1,820,000","£ 1,820,000",F,24,England,Aston Villa,Premier League,2019-2020
+13,13,Douglas Luiz,"£ 32,692","£ 1,700,000","£ 1,700,000",M,21,Brazil,Aston Villa,Premier League,2019-2020
+14,14,Marvelous Nakamba,"£ 32,500","£ 1,690,000","£ 1,690,000",M,26,Zimbabwe,Aston Villa,Premier League,2019-2020
+15,15,Neil Taylor,"£ 31,923","£ 1,660,000","£ 1,660,000",D,30,Wales,Aston Villa,Premier League,2019-2020
+16,16,Ezri Konsa,"£ 31,346","£ 1,630,000","£ 1,630,000",D,22,England,Aston Villa,Premier League,2019-2020
+17,17,Anwar El Ghazi,"£ 30,962","£ 1,610,000","£ 1,610,000",F,24,Netherlands,Aston Villa,Premier League,2019-2020
+18,18,James Chester,"£ 30,000","£ 1,560,000","£ 1,560,000",D,30,Wales,Aston Villa,Premier League,2019-2020
+19,19,Conor Hourihane,"£ 30,000","£ 1,560,000","£ 1,560,000",M,29,Ireland,Aston Villa,Premier League,2019-2020
+20,20,Jota,"£ 25,000","£ 1,300,000","£ 1,300,000",F,28,Spain,Aston Villa,Premier League,2019-2020
+21,21,John McGinn,"£ 25,000","£ 1,300,000","£ 1,300,000",M,25,Scotland,Aston Villa,Premier League,2019-2020
+22,22,Ahmed Elmohamady,"£ 25,000","£ 1,300,000","£ 1,300,000",D,32,Egypt,Aston Villa,Premier League,2019-2020
+23,23,Tyrone Mings,"£ 25,000","£ 1,300,000","£ 1,300,000",D,26,England,Aston Villa,Premier League,2019-2020
+24,24,Örjan Nyland,"£ 20,000","£ 1,040,000","£ 1,040,000",K,29,Norway,Aston Villa,Premier League,2019-2020
+25,25,Lovre Kalinic,"£ 15,769","£ 820,000","£ 820,000",K,29,Croatia,Aston Villa,Premier League,2019-2020
+26,26,Kortney Hause,"£ 8,077","£ 420,000","£ 420,000",D,24,England,Aston Villa,Premier League,2019-2020
+27,27,Jed Steer,"£ 8,077","£ 420,000","£ 420,000",K,27,England,Aston Villa,Premier League,2019-2020
+28,28,Keinan Davis,"£ 5,000","£ 260,000","£ 260,000",F,21,England,Aston Villa,Premier League,2019-2020
+29,29,Matija Sarkic,£ 962,"£ 50,000","£ 50,000",K,22,Montenegro,Aston Villa,Premier League,2019-2020
+0,0,Callum Wilson,"£ 60,000","£ 3,120,000","£ 3,120,000",F,27,England,Bournemouth,Premier League,2019-2020
+1,1,Jefferson Lerma,"£ 50,000","£ 2,600,000","£ 2,600,000",M,25,Colombia,Bournemouth,Premier League,2019-2020
+2,2,Steve Cook,"£ 45,000","£ 2,340,000","£ 2,340,000",D,28,England,Bournemouth,Premier League,2019-2020
+3,3,Joshua King,"£ 45,000","£ 2,340,000","£ 2,340,000",F,28,Norway,Bournemouth,Premier League,2019-2020
+4,4,Nathan Aké,"£ 40,000","£ 2,080,000","£ 2,080,000",D,24,Netherlands,Bournemouth,Premier League,2019-2020
+5,5,Artur Boruc,"£ 40,000","£ 2,080,000","£ 2,080,000",K,39,Poland,Bournemouth,Premier League,2019-2020
+6,6,Jordon Ibe,"£ 38,077","£ 1,980,000","£ 1,980,000",F,24,England,Bournemouth,Premier League,2019-2020
+7,7,Arnaut Danjuma,"£ 37,500","£ 1,950,000","£ 1,950,000",F,23,Netherlands,Bournemouth,Premier League,2019-2020
+8,8,Dan Gosling,"£ 35,000","£ 1,820,000","£ 1,820,000",M,30,England,Bournemouth,Premier League,2019-2020
+9,9,Ryan Fraser,"£ 35,000","£ 1,820,000","£ 1,820,000",F,25,Scotland,Bournemouth,Premier League,2019-2020
+10,10,Adam Smith,"£ 35,000","£ 1,820,000","£ 1,820,000",D,28,England,Bournemouth,Premier League,2019-2020
+11,11,Lewis Cook,"£ 35,000","£ 1,820,000","£ 1,820,000",M,23,England,Bournemouth,Premier League,2019-2020
+12,12,Junior Stanislas,"£ 35,000","£ 1,820,000","£ 1,820,000",F,30,England,Bournemouth,Premier League,2019-2020
+13,13,Charlie Daniels,"£ 35,000","£ 1,820,000","£ 1,820,000",D,33,England,Bournemouth,Premier League,2019-2020
+14,14,Andrew Surman,"£ 35,000","£ 1,820,000","£ 1,820,000",M,33,England,Bournemouth,Premier League,2019-2020
+15,15,Jack Stacey,"£ 31,346","£ 1,630,000","£ 1,630,000",D,23,England,Bournemouth,Premier League,2019-2020
+16,16,Simon Francis,"£ 30,000","£ 1,560,000","£ 1,560,000",D,34,England,Bournemouth,Premier League,2019-2020
+17,17,Lloyd Kelly,"£ 30,000","£ 1,560,000","£ 1,560,000",D,21,England,Bournemouth,Premier League,2019-2020
+18,18,Dominic Solanke,"£ 25,000","£ 1,300,000","£ 1,300,000",F,22,England,Bournemouth,Premier League,2019-2020
+19,19,David Brooks,"£ 20,000","£ 1,040,000","£ 1,040,000",F,22,Wales,Bournemouth,Premier League,2019-2020
+20,20,Diego Rico,"£ 19,231","£ 1,000,000","£ 1,000,000",D,26,Spain,Bournemouth,Premier League,2019-2020
+21,21,Philip Billing,"£ 15,000","£ 780,000","£ 780,000",M,23,Denmark,Bournemouth,Premier League,2019-2020
+22,22,Harry Wilson,"£ 11,923","£ 620,000","£ 620,000",F,22,Wales,Bournemouth,Premier League,2019-2020
+23,23,Chris Mepham,"£ 11,731","£ 610,000","£ 610,000",D,22,Wales,Bournemouth,Premier League,2019-2020
+24,24,Sam Surridge,"£ 5,385","£ 280,000","£ 280,000",F,21,England,Bournemouth,Premier League,2019-2020
+25,25,Mark Travers,"£ 5,000","£ 260,000","£ 260,000",K,20,Ireland,Bournemouth,Premier League,2019-2020
+26,26,Aaron Ramsdale,"£ 3,077","£ 160,000","£ 160,000",K,21,England,Bournemouth,Premier League,2019-2020
+27,27,Kyle Taylor,"£ 3,077","£ 160,000","£ 160,000",M,20,England,Bournemouth,Premier League,2019-2020
+28,28,Jack Simpson,"£ 3,077","£ 160,000","£ 160,000",D,23,England,Bournemouth,Premier League,2019-2020
+0,0,Tudor Baluta,"£ 89,808","£ 4,670,000","£ 4,670,000",M,20,Romania,Brighton,Premier League,2019-2020
+1,1,Pascal Groß,"£ 50,000","£ 2,600,000","£ 2,600,000",M,28,Germany,Brighton,Premier League,2019-2020
+2,2,Martín Montoya,"£ 50,000","£ 2,600,000","£ 2,600,000",D,28,Spain,Brighton,Premier League,2019-2020
+3,3,Alireza Jahanbakhsh,"£ 50,000","£ 2,600,000","£ 2,600,000",F,26,Iran,Brighton,Premier League,2019-2020
+4,4,Davy Pröpper,"£ 45,000","£ 2,340,000","£ 2,340,000",M,28,Netherlands,Brighton,Premier League,2019-2020
+5,5,Lewis Dunk,"£ 45,000","£ 2,340,000","£ 2,340,000",D,28,England,Brighton,Premier League,2019-2020
+6,6,José Izquierdo,"£ 45,000","£ 2,340,000","£ 2,340,000",F,27,Colombia,Brighton,Premier League,2019-2020
+7,7,Leandro Trossard,"£ 42,500","£ 2,210,000","£ 2,210,000",F,25,Belgium,Brighton,Premier League,2019-2020
+8,8,Shane Duffy,"£ 40,000","£ 2,080,000","£ 2,080,000",D,28,Ireland,Brighton,Premier League,2019-2020
+9,9,Aaron Mooy,"£ 38,462","£ 2,000,000","£ 2,000,000",M,29,Australia,Brighton,Premier League,2019-2020
+10,10,Mathew Ryan,"£ 35,000","£ 1,820,000","£ 1,820,000",K,27,Australia,Brighton,Premier League,2019-2020
+11,11,Adam Webster,"£ 35,000","£ 1,820,000","£ 1,820,000",D,25,England,Brighton,Premier League,2019-2020
+12,12,Neal Maupay,"£ 32,500","£ 1,690,000","£ 1,690,000",F,23,France,Brighton,Premier League,2019-2020
+13,13,Ezequiel Schelotto,"£ 31,923","£ 1,660,000","£ 1,660,000",D,30,Italy,Brighton,Premier League,2019-2020
+14,14,Solly March,"£ 30,000","£ 1,560,000","£ 1,560,000",M,25,England,Brighton,Premier League,2019-2020
+15,15,Dale Stephens,"£ 30,000","£ 1,560,000","£ 1,560,000",M,30,England,Brighton,Premier League,2019-2020
+16,16,Glenn Murray,"£ 30,000","£ 1,560,000","£ 1,560,000",F,36,England,Brighton,Premier League,2019-2020
+17,17,Yves Bissouma,"£ 25,000","£ 1,300,000","£ 1,300,000",M,23,Mali,Brighton,Premier League,2019-2020
+18,18,Bernardo,"£ 25,000","£ 1,300,000","£ 1,300,000",D,24,Brazil,Brighton,Premier League,2019-2020
+19,19,Beram Kayal,"£ 25,000","£ 1,300,000","£ 1,300,000",M,31,Israel,Brighton,Premier League,2019-2020
+20,20,Gaëtan Bong,"£ 20,192","£ 1,050,000","£ 1,050,000",D,31,Cameroon,Brighton,Premier League,2019-2020
+21,21,Leon Balogun,"£ 18,077","£ 940,000","£ 940,000",D,31,Nigeria,Brighton,Premier League,2019-2020
+22,22,Jason Steele,"£ 15,962","£ 830,000","£ 830,000",K,29,England,Brighton,Premier League,2019-2020
+23,23,Dan Burn,"£ 15,962","£ 830,000","£ 830,000",D,27,England,Brighton,Premier League,2019-2020
+24,24,David Button,"£ 15,962","£ 830,000","£ 830,000",K,30,England,Brighton,Premier League,2019-2020
+25,25,Steven Alzate,"£ 15,000","£ 780,000","£ 780,000",F,21,Colombia,Brighton,Premier League,2019-2020
+26,26,Alexis Mac Allister,"£ 10,000","£ 520,000","£ 520,000",F,21,Argentina,Brighton,Premier League,2019-2020
+27,27,Aaron Connolly,"£ 7,500","£ 390,000","£ 390,000",F,20,Ireland,Brighton,Premier League,2019-2020
+28,28,Tariq Lamptey,"£ 5,000","£ 260,000","£ 260,000",D,19,England,Brighton,Premier League,2019-2020
+29,29,Andrew Crofts,£ 577,"£ 30,000","£ 30,000",M,35,Wales,Brighton,Premier League,2019-2020
+0,0,Danny Drinkwater,"£ 60,000","£ 3,120,000","£ 3,120,000",M,29,England,Burnley,Premier League,2019-2020
+1,1,Ben Mee,"£ 55,000","£ 2,860,000","£ 2,860,000",D,30,England,Burnley,Premier League,2019-2020
+2,2,Chris Wood,"£ 50,000","£ 2,600,000","£ 2,600,000",F,28,New Zealand,Burnley,Premier League,2019-2020
+3,3,James Tarkowski,"£ 50,000","£ 2,600,000","£ 2,600,000",D,27,England,Burnley,Premier League,2019-2020
+4,4,Joe Hart,"£ 45,000","£ 2,340,000","£ 2,340,000",K,32,England,Burnley,Premier League,2019-2020
+5,5,Ben Gibson,"£ 40,000","£ 2,080,000","£ 2,080,000",D,27,England,Burnley,Premier League,2019-2020
+6,6,Ashley Barnes,"£ 40,000","£ 2,080,000","£ 2,080,000",F,30,England,Burnley,Premier League,2019-2020
+7,7,Jack Cork,"£ 38,077","£ 1,980,000","£ 1,980,000",M,30,England,Burnley,Premier League,2019-2020
+8,8,Robbie Brady,"£ 35,000","£ 1,820,000","£ 1,820,000",M,28,Ireland,Burnley,Premier League,2019-2020
+9,9,Jay Rodríguez,"£ 35,000","£ 1,820,000","£ 1,820,000",F,30,England,Burnley,Premier League,2019-2020
+10,10,Jeff Hendrick,"£ 35,000","£ 1,820,000","£ 1,820,000",M,28,Ireland,Burnley,Premier League,2019-2020
+11,11,Josh Brownhill,"£ 35,000","£ 1,820,000","£ 1,820,000",M,24,England,Burnley,Premier League,2019-2020
+12,12,Matej Vydra,"£ 35,000","£ 1,820,000","£ 1,820,000",F,27,Czech Republic,Burnley,Premier League,2019-2020
+13,13,Nick Pope,"£ 35,000","£ 1,820,000","£ 1,820,000",K,27,England,Burnley,Premier League,2019-2020
+14,14,Aaron Lennon,"£ 35,000","£ 1,820,000","£ 1,820,000",F,32,England,Burnley,Premier League,2019-2020
+15,15,Ashley Westwood,"£ 30,962","£ 1,610,000","£ 1,610,000",M,29,England,Burnley,Premier League,2019-2020
+16,16,Johann Berg Gudmundsson,"£ 30,000","£ 1,560,000","£ 1,560,000",F,29,Iceland,Burnley,Premier League,2019-2020
+17,17,Erik Pieters,"£ 25,000","£ 1,300,000","£ 1,300,000",D,31,Netherlands,Burnley,Premier League,2019-2020
+18,18,Phil Bardsley,"£ 25,000","£ 1,300,000","£ 1,300,000",D,34,Scotland,Burnley,Premier League,2019-2020
+19,19,Matthew Lowton,"£ 25,000","£ 1,300,000","£ 1,300,000",D,30,England,Burnley,Premier League,2019-2020
+20,20,Charlie Taylor,"£ 25,000","£ 1,300,000","£ 1,300,000",D,26,England,Burnley,Premier League,2019-2020
+21,21,Kevin Long,"£ 23,077","£ 1,200,000","£ 1,200,000",D,29,Ireland,Burnley,Premier League,2019-2020
+22,22,Bailey Peacock-Farrell,"£ 15,000","£ 780,000","£ 780,000",K,23,Northern Ireland,Burnley,Premier League,2019-2020
+23,23,Dwight McNeil,"£ 5,000","£ 260,000","£ 260,000",F,20,England,Burnley,Premier League,2019-2020
+24,24,Adam Legzdins,"£ 5,000","£ 260,000","£ 260,000",K,33,England,Burnley,Premier League,2019-2020
+0,0,Christian Pulisic,"£ 158,654","£ 8,250,000","£ 8,250,000",F,21,United States,Chelsea,Premier League,2019-2020
+1,1,Kepa,"£ 150,000","£ 7,800,000","£ 7,800,000",K,25,Spain,Chelsea,Premier League,2019-2020
+2,2,César Azpilicueta,"£ 145,000","£ 7,540,000","£ 7,540,000",D,30,Spain,Chelsea,Premier League,2019-2020
+3,3,N'Golo Kanté,"£ 144,231","£ 7,500,000","£ 7,500,000",M,28,France,Chelsea,Premier League,2019-2020
+4,4,Willian,"£ 138,462","£ 7,200,000","£ 7,200,000",F,31,Brazil,Chelsea,Premier League,2019-2020
+5,5,Callum Hudson-Odoi,"£ 120,000","£ 6,240,000","£ 6,240,000",F,19,England,Chelsea,Premier League,2019-2020
+6,6,Olivier Giroud,"£ 110,000","£ 5,720,000","£ 5,720,000",F,33,France,Chelsea,Premier League,2019-2020
+7,7,Jorginho,"£ 110,000","£ 5,720,000","£ 5,720,000",M,28,Italy,Chelsea,Premier League,2019-2020
+8,8,Mateo Kovacic,"£ 100,000","£ 5,200,000","£ 5,200,000",M,25,Croatia,Chelsea,Premier League,2019-2020
+9,9,Antonio Rüdiger,"£ 100,000","£ 5,200,000","£ 5,200,000",D,26,Germany,Chelsea,Premier League,2019-2020
+10,10,Reece James,"£ 100,000","£ 5,200,000","£ 5,200,000",D,20,England,Chelsea,Premier League,2019-2020
+11,11,Marcos Alonso,"£ 100,000","£ 5,200,000","£ 5,200,000",D,29,Spain,Chelsea,Premier League,2019-2020
+12,12,Ross Barkley,"£ 96,154","£ 5,000,000","£ 5,000,000",M,26,England,Chelsea,Premier League,2019-2020
+13,13,Michy Batshuayi,"£ 90,000","£ 4,680,000","£ 4,680,000",F,26,Belgium,Chelsea,Premier League,2019-2020
+14,14,Mason Mount,"£ 88,462","£ 4,600,000","£ 4,600,000",F,21,England,Chelsea,Premier League,2019-2020
+15,15,Andreas Christensen,"£ 80,000","£ 4,160,000","£ 4,160,000",D,23,Denmark,Chelsea,Premier League,2019-2020
+16,16,Emerson,"£ 75,000","£ 3,900,000","£ 3,900,000",D,25,Italy,Chelsea,Premier League,2019-2020
+17,17,Ruben Loftus-Cheek,"£ 60,000","£ 3,120,000","£ 3,120,000",M,24,England,Chelsea,Premier League,2019-2020
+18,18,Pedro,"£ 57,692","£ 3,000,000","£ 3,000,000",F,32,Spain,Chelsea,Premier League,2019-2020
+19,19,Tammy Abraham,"£ 57,692","£ 3,000,000","£ 3,000,000",F,22,England,Chelsea,Premier League,2019-2020
+20,20,Marco van Ginkel,"£ 52,885","£ 2,750,000","£ 2,750,000",M,27,Netherlands,Chelsea,Premier League,2019-2020
+21,21,Lewis Baker,"£ 43,269","£ 2,250,000","£ 2,250,000",M,24,England,Chelsea,Premier League,2019-2020
+22,22,Kurt Zouma,"£ 40,000","£ 2,080,000","£ 2,080,000",D,25,France,Chelsea,Premier League,2019-2020
+23,23,Willy Caballero,"£ 35,000","£ 1,820,000","£ 1,820,000",K,38,Argentina,Chelsea,Premier League,2019-2020
+24,24,Michael Hector,"£ 16,923","£ 880,000","£ 880,000",D,27,Jamaica,Chelsea,Premier League,2019-2020
+25,25,Fikayo Tomori,"£ 14,423","£ 750,000","£ 750,000",D,22,England,Chelsea,Premier League,2019-2020
+26,26,Danilo Pantic,"£ 10,000","£ 520,000","£ 520,000",M,23,Serbia,Chelsea,Premier League,2019-2020
+27,27,Jamie Cumming,"£ 2,115","£ 110,000","£ 110,000",K,20,England,Chelsea,Premier League,2019-2020
+0,0,Wilfried Zaha,"£ 130,000","£ 6,760,000","£ 6,760,000",F,27,Cote d'Ivoire,Crystal Palace,Premier League,2019-2020
+1,1,Max Meyer,"£ 125,000","£ 6,500,000","£ 6,500,000",F,24,Germany,Crystal Palace,Premier League,2019-2020
+2,2,Christian Benteke,"£ 120,000","£ 6,240,000","£ 6,240,000",F,29,Belgium,Crystal Palace,Premier League,2019-2020
+3,3,Mamadou Sakho,"£ 100,000","£ 5,200,000","£ 5,200,000",D,29,France,Crystal Palace,Premier League,2019-2020
+4,4,Gary Cahill,"£ 65,000","£ 3,380,000","£ 3,380,000",D,34,England,Crystal Palace,Premier League,2019-2020
+5,5,Cheikhou Kouyaté,"£ 65,000","£ 3,380,000","£ 3,380,000",M,30,Senegal,Crystal Palace,Premier League,2019-2020
+6,6,Scott Dann,"£ 60,000","£ 3,120,000","£ 3,120,000",D,32,England,Crystal Palace,Premier League,2019-2020
+7,7,Connor Wickham,"£ 60,000","£ 3,120,000","£ 3,120,000",F,26,England,Crystal Palace,Premier League,2019-2020
+8,8,Cenk Tosun,"£ 60,000","£ 3,120,000","£ 3,120,000",F,28,Turkey,Crystal Palace,Premier League,2019-2020
+9,9,Vicente Guaita,"£ 60,000","£ 3,120,000","£ 3,120,000",K,33,Spain,Crystal Palace,Premier League,2019-2020
+10,10,Jeffrey Schlupp,"£ 55,962","£ 2,910,000","£ 2,910,000",M,27,Ghana,Crystal Palace,Premier League,2019-2020
+11,11,Andros Townsend,"£ 55,000","£ 2,860,000","£ 2,860,000",F,28,England,Crystal Palace,Premier League,2019-2020
+12,12,Jairo Riedewald,"£ 55,000","£ 2,860,000","£ 2,860,000",D,23,Netherlands,Crystal Palace,Premier League,2019-2020
+13,13,James McArthur,"£ 55,000","£ 2,860,000","£ 2,860,000",M,32,Scotland,Crystal Palace,Premier League,2019-2020
+14,14,Luka Milivojevic,"£ 55,000","£ 2,860,000","£ 2,860,000",M,28,Serbia,Crystal Palace,Premier League,2019-2020
+15,15,Patrick van Aanholt,"£ 55,000","£ 2,860,000","£ 2,860,000",D,29,Netherlands,Crystal Palace,Premier League,2019-2020
+16,16,James McCarthy,"£ 50,000","£ 2,600,000","£ 2,600,000",M,29,Ireland,Crystal Palace,Premier League,2019-2020
+17,17,James Tomkins,"£ 50,000","£ 2,600,000","£ 2,600,000",D,30,England,Crystal Palace,Premier League,2019-2020
+18,18,Wayne Hennessey,"£ 40,000","£ 2,080,000","£ 2,080,000",K,33,Wales,Crystal Palace,Premier League,2019-2020
+19,19,Joel Ward,"£ 35,000","£ 1,820,000","£ 1,820,000",D,30,England,Crystal Palace,Premier League,2019-2020
+20,20,Jordan Ayew,"£ 32,500","£ 1,690,000","£ 1,690,000",F,28,Ghana,Crystal Palace,Premier League,2019-2020
+21,21,Martin Kelly,"£ 25,000","£ 1,300,000","£ 1,300,000",D,29,England,Crystal Palace,Premier League,2019-2020
+22,22,Víctor Camarasa,"£ 12,692","£ 660,000","£ 660,000",M,25,Spain,Crystal Palace,Premier League,2019-2020
+23,23,Stephen Henderson,"£ 6,923","£ 360,000","£ 360,000",K,31,Ireland,Crystal Palace,Premier League,2019-2020
+24,24,Dion Henry,£ 577,"£ 30,000","£ 30,000",K,21,England,Crystal Palace,Premier League,2019-2020
+0,0,Bernard,"£ 120,000","£ 6,240,000","£ 6,240,000",F,27,Brazil,Everton,Premier League,2019-2020
+1,1,Yerry Mina,"£ 120,000","£ 6,240,000","£ 6,240,000",D,25,Colombia,Everton,Premier League,2019-2020
+2,2,André Gomes,"£ 112,308","£ 5,840,000","£ 5,840,000",M,26,Portugal,Everton,Premier League,2019-2020
+3,3,Morgan Schneiderlin,"£ 100,000","£ 5,200,000","£ 5,200,000",M,30,France,Everton,Premier League,2019-2020
+4,4,Theo Walcott,"£ 100,000","£ 5,200,000","£ 5,200,000",F,30,England,Everton,Premier League,2019-2020
+5,5,Jordan Pickford,"£ 100,000","£ 5,200,000","£ 5,200,000",K,25,England,Everton,Premier League,2019-2020
+6,6,Gylfi Sigurdsson,"£ 100,000","£ 5,200,000","£ 5,200,000",F,30,Iceland,Everton,Premier League,2019-2020
+7,7,Lucas Digne,"£ 90,000","£ 4,680,000","£ 4,680,000",D,26,France,Everton,Premier League,2019-2020
+8,8,Richarlison,"£ 90,000","£ 4,680,000","£ 4,680,000",F,22,Brazil,Everton,Premier League,2019-2020
+9,9,Fabian Delph,"£ 80,000","£ 4,160,000","£ 4,160,000",M,30,England,Everton,Premier League,2019-2020
+10,10,Jean-Philippe Gbamin,"£ 75,000","£ 3,900,000","£ 3,900,000",M,24,Cote d'Ivoire,Everton,Premier League,2019-2020
+11,11,Seamus Coleman,"£ 70,000","£ 3,640,000","£ 3,640,000",D,31,Ireland,Everton,Premier League,2019-2020
+12,12,Leighton Baines,"£ 65,000","£ 3,380,000","£ 3,380,000",D,35,England,Everton,Premier League,2019-2020
+13,13,Michael Keane,"£ 65,000","£ 3,380,000","£ 3,380,000",D,27,England,Everton,Premier League,2019-2020
+14,14,Cenk Tosun,"£ 60,000","£ 3,120,000","£ 3,120,000",F,28,Turkey,Everton,Premier League,2019-2020
+15,15,Oumar Niasse,"£ 55,000","£ 2,860,000","£ 2,860,000",F,29,Senegal,Everton,Premier League,2019-2020
+16,16,Moise Kean,"£ 53,077","£ 2,760,000","£ 2,760,000",F,19,Italy,Everton,Premier League,2019-2020
+17,17,Alex Iwobi,"£ 50,000","£ 2,600,000","£ 2,600,000",F,23,Nigeria,Everton,Premier League,2019-2020
+18,18,Cuco Martina,"£ 35,000","£ 1,820,000","£ 1,820,000",D,30,Curacao,Everton,Premier League,2019-2020
+19,19,Maarten Stekelenburg,"£ 32,500","£ 1,690,000","£ 1,690,000",K,37,Netherlands,Everton,Premier League,2019-2020
+20,20,Jonas Lössl,"£ 28,077","£ 1,460,000","£ 1,460,000",K,30,Denmark,Everton,Premier League,2019-2020
+21,21,Mason Holgate,"£ 25,000","£ 1,300,000","£ 1,300,000",D,23,England,Everton,Premier League,2019-2020
+22,22,Tom Davies,"£ 25,000","£ 1,300,000","£ 1,300,000",M,21,England,Everton,Premier League,2019-2020
+23,23,Dominic Calvert-Lewin,"£ 20,000","£ 1,040,000","£ 1,040,000",F,22,England,Everton,Premier League,2019-2020
+24,24,Djibril Sidibé,"£ 11,923","£ 620,000","£ 620,000",D,27,France,Everton,Premier League,2019-2020
+25,25,Beni Baningime,"£ 8,077","£ 420,000","£ 420,000",M,21,Democratic Republic of the Congo,Everton,Premier League,2019-2020
+0,0,Jamie Vardy,"£ 140,000","£ 7,280,000","£ 7,280,000",F,33,England,Leicester,Premier League,2019-2020
+1,1,Kasper Schmeichel,"£ 130,000","£ 6,760,000","£ 6,760,000",K,33,Denmark,Leicester,Premier League,2019-2020
+2,2,James Maddison,"£ 110,000","£ 5,720,000","£ 5,720,000",F,23,England,Leicester,Premier League,2019-2020
+3,3,Jonny Evans,"£ 80,000","£ 4,160,000","£ 4,160,000",D,32,Northern Ireland,Leicester,Premier League,2019-2020
+4,4,Dennis Praet,"£ 75,000","£ 3,900,000","£ 3,900,000",M,25,Belgium,Leicester,Premier League,2019-2020
+5,5,Wilfred Ndidi,"£ 75,000","£ 3,900,000","£ 3,900,000",M,23,Nigeria,Leicester,Premier League,2019-2020
+6,6,Ricardo Pereira,"£ 70,000","£ 3,640,000","£ 3,640,000",D,26,Portugal,Leicester,Premier League,2019-2020
+7,7,Ben Chilwell,"£ 65,000","£ 3,380,000","£ 3,380,000",D,23,England,Leicester,Premier League,2019-2020
+8,8,Wes Morgan,"£ 60,000","£ 3,120,000","£ 3,120,000",D,36,Jamaica,Leicester,Premier League,2019-2020
+9,9,Kelechi Iheanacho,"£ 60,000","£ 3,120,000","£ 3,120,000",F,23,Nigeria,Leicester,Premier League,2019-2020
+10,10,Demarai Gray,"£ 55,000","£ 2,860,000","£ 2,860,000",F,23,England,Leicester,Premier League,2019-2020
+11,11,Nampalys Mendy,"£ 50,000","£ 2,600,000","£ 2,600,000",M,27,France,Leicester,Premier League,2019-2020
+12,12,Christian Fuchs,"£ 50,000","£ 2,600,000","£ 2,600,000",D,33,Austria,Leicester,Premier League,2019-2020
+13,13,Ayoze Pérez,"£ 45,000","£ 2,340,000","£ 2,340,000",F,26,Spain,Leicester,Premier League,2019-2020
+14,14,Marc Albrighton,"£ 45,000","£ 2,340,000","£ 2,340,000",M,30,England,Leicester,Premier League,2019-2020
+15,15,Caglar Söyüncü,"£ 45,000","£ 2,340,000","£ 2,340,000",D,23,Turkey,Leicester,Premier League,2019-2020
+16,16,Youri Tielemans,"£ 33,077","£ 1,720,000","£ 1,720,000",M,22,Belgium,Leicester,Premier League,2019-2020
+17,17,Matty James,"£ 31,923","£ 1,660,000","£ 1,660,000",M,28,England,Leicester,Premier League,2019-2020
+18,18,Bartosz Kapustka,"£ 30,000","£ 1,560,000","£ 1,560,000",F,23,Poland,Leicester,Premier League,2019-2020
+19,19,Filip Benkovic,"£ 30,000","£ 1,560,000","£ 1,560,000",D,22,Croatia,Leicester,Premier League,2019-2020
+20,20,James Justin,"£ 30,000","£ 1,560,000","£ 1,560,000",D,21,England,Leicester,Premier League,2019-2020
+21,21,Eldin Jakupovic,"£ 23,077","£ 1,200,000","£ 1,200,000",K,35,Switzerland,Leicester,Premier League,2019-2020
+22,22,Daniel Amartey,"£ 20,962","£ 1,090,000","£ 1,090,000",M,25,Ghana,Leicester,Premier League,2019-2020
+23,23,Ryan Bennett,"£ 20,000","£ 1,040,000","£ 1,040,000",D,29,England,Leicester,Premier League,2019-2020
+24,24,Danny Ward,"£ 20,000","£ 1,040,000","£ 1,040,000",K,26,Wales,Leicester,Premier League,2019-2020
+25,25,Harvey Barnes,"£ 10,000","£ 520,000","£ 520,000",M,22,England,Leicester,Premier League,2019-2020
+26,26,Hamza Choudhury,"£ 7,500","£ 390,000","£ 390,000",M,22,England,Leicester,Premier League,2019-2020
+27,27,George Thomas,"£ 2,500","£ 130,000","£ 130,000",F,22,Wales,Leicester,Premier League,2019-2020
+0,0,Mohamed Salah,"£ 200,000","£ 10,400,000","£ 10,400,000",F,27,Egypt,Liverpool,Premier League,2019-2020
+1,1,Virgil van Dijk,"£ 180,000","£ 9,360,000","£ 9,360,000",D,28,Netherlands,Liverpool,Premier League,2019-2020
+2,2,Roberto Firmino,"£ 180,000","£ 9,360,000","£ 9,360,000",F,28,Brazil,Liverpool,Premier League,2019-2020
+3,3,Jordan Henderson,"£ 140,000","£ 7,280,000","£ 7,280,000",M,29,England,Liverpool,Premier League,2019-2020
+4,4,James Milner,"£ 140,000","£ 7,280,000","£ 7,280,000",M,34,England,Liverpool,Premier League,2019-2020
+5,5,Alex Oxlade-Chamberlain,"£ 120,000","£ 6,240,000","£ 6,240,000",M,26,England,Liverpool,Premier League,2019-2020
+6,6,Naby Keïta,"£ 120,000","£ 6,240,000","£ 6,240,000",M,24,Guinea,Liverpool,Premier League,2019-2020
+7,7,Adam Lallana,"£ 110,000","£ 5,720,000","£ 5,720,000",F,31,England,Liverpool,Premier League,2019-2020
+8,8,Joel Matip,"£ 100,000","£ 5,200,000","£ 5,200,000",D,28,Cameroon,Liverpool,Premier League,2019-2020
+9,9,Sadio Mané,"£ 100,000","£ 5,200,000","£ 5,200,000",F,27,Senegal,Liverpool,Premier League,2019-2020
+10,10,Dejan Lovren,"£ 100,000","£ 5,200,000","£ 5,200,000",D,30,Croatia,Liverpool,Premier League,2019-2020
+11,11,Fabinho,"£ 100,000","£ 5,200,000","£ 5,200,000",M,26,Brazil,Liverpool,Premier League,2019-2020
+12,12,Alisson,"£ 90,000","£ 4,680,000","£ 4,680,000",K,27,Brazil,Liverpool,Premier League,2019-2020
+13,13,Xherdan Shaqiri,"£ 80,000","£ 4,160,000","£ 4,160,000",F,28,Switzerland,Liverpool,Premier League,2019-2020
+14,14,Takumi Minamino,"£ 75,000","£ 3,900,000","£ 3,900,000",F,25,Japan,Liverpool,Premier League,2019-2020
+15,15,Georginio Wijnaldum,"£ 75,000","£ 3,900,000","£ 3,900,000",M,29,Netherlands,Liverpool,Premier League,2019-2020
+16,16,Nathaniel Clyne,"£ 70,000","£ 3,640,000","£ 3,640,000",D,28,England,Liverpool,Premier League,2019-2020
+17,17,Adrián,"£ 55,000","£ 2,860,000","£ 2,860,000",K,33,Spain,Liverpool,Premier League,2019-2020
+18,18,Andrew Robertson,"£ 50,000","£ 2,600,000","£ 2,600,000",D,25,Scotland,Liverpool,Premier League,2019-2020
+19,19,Divock Origi,"£ 45,000","£ 2,340,000","£ 2,340,000",F,24,Belgium,Liverpool,Premier League,2019-2020
+20,20,Trent Alexander-Arnold,"£ 40,000","£ 2,080,000","£ 2,080,000",D,21,England,Liverpool,Premier League,2019-2020
+21,21,Joe Gomez,"£ 28,077","£ 1,460,000","£ 1,460,000",D,22,England,Liverpool,Premier League,2019-2020
+22,22,Caoimhin Kelleher,"£ 5,962","£ 310,000","£ 310,000",K,21,Ireland,Liverpool,Premier League,2019-2020
+23,23,Andy Lonergan,"£ 5,000","£ 260,000","£ 260,000",K,36,England,Liverpool,Premier League,2019-2020
+0,0,Kevin De Bruyne,"£ 350,000","£ 18,200,000","£ 18,200,000",F,28,Belgium,Manchester City,Premier League,2019-2020
+1,1,Raheem Sterling,"£ 300,000","£ 15,600,000","£ 15,600,000",F,25,England,Manchester City,Premier League,2019-2020
+2,2,Sergio Agüero,"£ 230,192","£ 11,970,000","£ 11,970,000",F,31,Argentina,Manchester City,Premier League,2019-2020
+3,3,David Silva,"£ 220,000","£ 11,440,000","£ 11,440,000",F,34,Spain,Manchester City,Premier League,2019-2020
+4,4,Fernandinho,"£ 150,000","£ 7,800,000","£ 7,800,000",M,34,Brazil,Manchester City,Premier League,2019-2020
+5,5,Bernardo Silva,"£ 150,000","£ 7,800,000","£ 7,800,000",F,25,Portugal,Manchester City,Premier League,2019-2020
+6,6,Ilkay Gündogan,"£ 140,000","£ 7,280,000","£ 7,280,000",M,29,Germany,Manchester City,Premier League,2019-2020
+7,7,Rodri,"£ 121,154","£ 6,300,000","£ 6,300,000",M,23,Spain,Manchester City,Premier League,2019-2020
+8,8,Riyad Mahrez,"£ 120,000","£ 6,240,000","£ 6,240,000",F,28,Algeria,Manchester City,Premier League,2019-2020
+9,9,Aymeric Laporte,"£ 120,000","£ 6,240,000","£ 6,240,000",D,25,France,Manchester City,Premier League,2019-2020
+10,10,Nicolás Otamendi,"£ 120,000","£ 6,240,000","£ 6,240,000",D,31,Argentina,Manchester City,Premier League,2019-2020
+11,11,Kyle Walker,"£ 110,000","£ 5,720,000","£ 5,720,000",D,29,England,Manchester City,Premier League,2019-2020
+12,12,John Stones,"£ 100,000","£ 5,200,000","£ 5,200,000",D,25,England,Manchester City,Premier League,2019-2020
+13,13,Leroy Sané,"£ 90,000","£ 4,680,000","£ 4,680,000",F,24,Germany,Manchester City,Premier League,2019-2020
+14,14,Benjamin Mendy,"£ 90,000","£ 4,680,000","£ 4,680,000",D,25,France,Manchester City,Premier League,2019-2020
+15,15,Gabriel Jesus,"£ 90,000","£ 4,680,000","£ 4,680,000",F,22,Brazil,Manchester City,Premier League,2019-2020
+16,16,João Cancelo,"£ 80,000","£ 4,160,000","£ 4,160,000",D,25,Portugal,Manchester City,Premier League,2019-2020
+17,17,Claudio Bravo,"£ 80,000","£ 4,160,000","£ 4,160,000",K,36,Chile,Manchester City,Premier League,2019-2020
+18,18,Ederson,"£ 65,000","£ 3,380,000","£ 3,380,000",K,26,Brazil,Manchester City,Premier League,2019-2020
+19,19,Angeliño,"£ 60,000","£ 3,120,000","£ 3,120,000",D,22,Spain,Manchester City,Premier League,2019-2020
+20,20,Scott Carson,"£ 25,000","£ 1,300,000","£ 1,300,000",K,34,England,Manchester City,Premier League,2019-2020
+21,21,Oleksandr Zinchenko,"£ 20,000","£ 1,040,000","£ 1,040,000",D,23,Ukraine,Manchester City,Premier League,2019-2020
+22,22,Eric García,"£ 11,923","£ 620,000","£ 620,000",D,19,Spain,Manchester City,Premier League,2019-2020
+23,23,Phil Foden,"£ 11,923","£ 620,000","£ 620,000",M,19,England,Manchester City,Premier League,2019-2020
+24,24,Mix Diskerud,"£ 10,000","£ 520,000","£ 520,000",M,29,United States,Manchester City,Premier League,2019-2020
+0,0,David de Gea,"£ 375,000","£ 19,500,000","£ 19,500,000",K,29,Spain,Manchester United,Premier League,2019-2020
+1,1,Paul Pogba,"£ 290,000","£ 15,080,000","£ 15,080,000",M,26,France,Manchester United,Premier League,2019-2020
+2,2,Anthony Martial,"£ 250,000","£ 13,000,000","£ 13,000,000",F,24,France,Manchester United,Premier League,2019-2020
+3,3,Marcus Rashford,"£ 200,000","£ 10,400,000","£ 10,400,000",F,22,England,Manchester United,Premier League,2019-2020
+4,4,Harry Maguire,"£ 190,000","£ 9,880,000","£ 9,880,000",D,26,England,Manchester United,Premier League,2019-2020
+5,5,Bruno Fernandes,"£ 180,000","£ 9,360,000","£ 9,360,000",F,25,Portugal,Manchester United,Premier League,2019-2020
+6,6,Juan Mata,"£ 160,000","£ 8,320,000","£ 8,320,000",F,31,Spain,Manchester United,Premier League,2019-2020
+7,7,Luke Shaw,"£ 150,000","£ 7,800,000","£ 7,800,000",D,24,England,Manchester United,Premier League,2019-2020
+8,8,Victor Lindelöf,"£ 120,000","£ 6,240,000","£ 6,240,000",D,25,Sweden,Manchester United,Premier League,2019-2020
+9,9,Ashley Young,"£ 120,000","£ 6,240,000","£ 6,240,000",D,34,England,Manchester United,Premier League,2019-2020
+10,10,Fred,"£ 120,000","£ 6,240,000","£ 6,240,000",M,26,Brazil,Manchester United,Premier League,2019-2020
+11,11,Nemanja Matic,"£ 120,000","£ 6,240,000","£ 6,240,000",M,31,Serbia,Manchester United,Premier League,2019-2020
+12,12,Marcos Rojo,"£ 110,000","£ 5,720,000","£ 5,720,000",D,29,Argentina,Manchester United,Premier League,2019-2020
+13,13,Odion Ighalo,"£ 99,038","£ 5,150,000","£ 5,150,000",F,30,Nigeria,Manchester United,Premier League,2019-2020
+14,14,Aaron Wan-Bissaka,"£ 90,000","£ 4,680,000","£ 4,680,000",D,22,England,Manchester United,Premier League,2019-2020
+15,15,Eric Bailly,"£ 80,000","£ 4,160,000","£ 4,160,000",D,25,Cote d'Ivoire,Manchester United,Premier League,2019-2020
+16,16,Jesse Lingard,"£ 75,000","£ 3,900,000","£ 3,900,000",F,27,England,Manchester United,Premier League,2019-2020
+17,17,Phil Jones,"£ 75,000","£ 3,900,000","£ 3,900,000",D,27,England,Manchester United,Premier League,2019-2020
+18,18,Sergio Romero,"£ 70,000","£ 3,640,000","£ 3,640,000",K,32,Argentina,Manchester United,Premier League,2019-2020
+19,19,Brandon Williams,"£ 65,000","£ 3,380,000","£ 3,380,000",D,19,England,Manchester United,Premier League,2019-2020
+20,20,Axel Tuanzebe,"£ 50,000","£ 2,600,000","£ 2,600,000",D,22,England,Manchester United,Premier League,2019-2020
+21,21,Daniel James,"£ 45,000","£ 2,340,000","£ 2,340,000",F,22,Wales,Manchester United,Premier League,2019-2020
+22,22,Andreas Pereira,"£ 30,000","£ 1,560,000","£ 1,560,000",F,24,Brazil,Manchester United,Premier League,2019-2020
+23,23,Lee Grant,"£ 30,000","£ 1,560,000","£ 1,560,000",K,37,England,Manchester United,Premier League,2019-2020
+24,24,Mason Greenwood,"£ 27,500","£ 1,430,000","£ 1,430,000",F,18,England,Manchester United,Premier League,2019-2020
+25,25,Diogo Dalot,"£ 25,000","£ 1,300,000","£ 1,300,000",D,20,Portugal,Manchester United,Premier League,2019-2020
+26,26,Scott McTominay,"£ 20,000","£ 1,040,000","£ 1,040,000",M,23,Scotland,Manchester United,Premier League,2019-2020
+27,27,Timothy Fosu-Mensah,"£ 15,000","£ 780,000","£ 780,000",D,22,Netherlands,Manchester United,Premier League,2019-2020
+0,0,Nabil Bentaleb,"£ 85,000","£ 4,420,000","£ 4,420,000",M,25,Algeria,Newcastle,Premier League,2019-2020
+1,1,Joelinton,"£ 80,000","£ 4,160,000","£ 4,160,000",F,23,Brazil,Newcastle,Premier League,2019-2020
+2,2,Andy Carroll,"£ 75,000","£ 3,900,000","£ 3,900,000",F,31,England,Newcastle,Premier League,2019-2020
+3,3,Jonjo Shelvey,"£ 70,000","£ 3,640,000","£ 3,640,000",M,27,England,Newcastle,Premier League,2019-2020
+4,4,Allan Saint-Maximin,"£ 65,000","£ 3,380,000","£ 3,380,000",F,22,France,Newcastle,Premier League,2019-2020
+5,5,Danny Rose,"£ 60,000","£ 3,120,000","£ 3,120,000",D,29,England,Newcastle,Premier League,2019-2020
+6,6,Yoshinori Muto,"£ 54,038","£ 2,810,000","£ 2,810,000",F,27,Japan,Newcastle,Premier League,2019-2020
+7,7,Matt Ritchie,"£ 45,000","£ 2,340,000","£ 2,340,000",M,30,Scotland,Newcastle,Premier League,2019-2020
+8,8,Federico Fernández,"£ 43,077","£ 2,240,000","£ 2,240,000",D,30,Argentina,Newcastle,Premier League,2019-2020
+9,9,Miguel Almirón,"£ 42,308","£ 2,200,000","£ 2,200,000",F,25,Paraguay,Newcastle,Premier League,2019-2020
+10,10,Sung-yong Ki,"£ 40,000","£ 2,080,000","£ 2,080,000",M,30,South Korea,Newcastle,Premier League,2019-2020
+11,11,Jamaal Lascelles,"£ 40,000","£ 2,080,000","£ 2,080,000",D,26,England,Newcastle,Premier League,2019-2020
+12,12,Dwight Gayle,"£ 40,000","£ 2,080,000","£ 2,080,000",F,29,England,Newcastle,Premier League,2019-2020
+13,13,Fabian Schär,"£ 40,000","£ 2,080,000","£ 2,080,000",D,28,Switzerland,Newcastle,Premier League,2019-2020
+14,14,Martin Dubravka,"£ 38,077","£ 1,980,000","£ 1,980,000",K,31,Slovakia,Newcastle,Premier League,2019-2020
+15,15,Florian Lejeune,"£ 38,077","£ 1,980,000","£ 1,980,000",D,28,France,Newcastle,Premier League,2019-2020
+16,16,Valentino Lazaro,"£ 38,077","£ 1,980,000","£ 1,980,000",M,23,Austria,Newcastle,Premier League,2019-2020
+17,17,Henri Saivet,"£ 35,000","£ 1,820,000","£ 1,820,000",F,29,Senegal,Newcastle,Premier League,2019-2020
+18,18,Jack Colback,"£ 35,000","£ 1,820,000","£ 1,820,000",M,30,England,Newcastle,Premier League,2019-2020
+19,19,Javier Manquillo,"£ 35,000","£ 1,820,000","£ 1,820,000",D,25,Spain,Newcastle,Premier League,2019-2020
+20,20,Ciaran Clark,"£ 35,000","£ 1,820,000","£ 1,820,000",D,30,Ireland,Newcastle,Premier League,2019-2020
+21,21,Paul Dummett,"£ 35,000","£ 1,820,000","£ 1,820,000",D,28,Wales,Newcastle,Premier League,2019-2020
+22,22,Jetro Willems,"£ 32,500","£ 1,690,000","£ 1,690,000",D,25,Netherlands,Newcastle,Premier League,2019-2020
+23,23,Christian Atsu,"£ 30,000","£ 1,560,000","£ 1,560,000",F,28,Ghana,Newcastle,Premier League,2019-2020
+24,24,DeAndre Yedlin,"£ 30,000","£ 1,560,000","£ 1,560,000",D,26,United States,Newcastle,Premier League,2019-2020
+25,25,Emil Krafth,"£ 30,000","£ 1,560,000","£ 1,560,000",D,25,Sweden,Newcastle,Premier League,2019-2020
+26,26,Karl Darlow,"£ 25,000","£ 1,300,000","£ 1,300,000",K,29,England,Newcastle,Premier League,2019-2020
+27,27,Rob Elliot,"£ 25,000","£ 1,300,000","£ 1,300,000",K,33,Ireland,Newcastle,Premier League,2019-2020
+28,28,Isaac Hayden,"£ 21,923","£ 1,140,000","£ 1,140,000",M,24,England,Newcastle,Premier League,2019-2020
+29,29,Jamie Sterry,"£ 1,923","£ 100,000","£ 100,000",D,24,England,Newcastle,Premier League,2019-2020
+30,30,Sean Longstaff,£ 962,"£ 50,000","£ 50,000",M,22,England,Newcastle,Premier League,2019-2020
+31,31,Matthew Longstaff,£ 769,"£ 40,000","£ 40,000",M,19,England,Newcastle,Premier League,2019-2020
+0,0,Josip Drmic,"£ 50,000","£ 2,600,000","£ 2,600,000",F,27,Switzerland,Norwich,Premier League,2019-2020
+1,1,Ralf Fährmann,"£ 49,423","£ 2,570,000","£ 2,570,000",K,31,Germany,Norwich,Premier League,2019-2020
+2,2,Patrick Roberts,"£ 40,000","£ 2,080,000","£ 2,080,000",F,22,England,Norwich,Premier League,2019-2020
+3,3,Ibrahim Amadou,"£ 36,923","£ 1,920,000","£ 1,920,000",M,26,France,Norwich,Premier League,2019-2020
+4,4,Lukas Rupp,"£ 32,500","£ 1,690,000","£ 1,690,000",M,29,Germany,Norwich,Premier League,2019-2020
+5,5,Sam Byram,"£ 30,000","£ 1,560,000","£ 1,560,000",D,26,England,Norwich,Premier League,2019-2020
+6,6,Tim Krul,"£ 25,000","£ 1,300,000","£ 1,300,000",K,31,Netherlands,Norwich,Premier League,2019-2020
+7,7,Grant Hanley,"£ 25,000","£ 1,300,000","£ 1,300,000",D,28,Scotland,Norwich,Premier League,2019-2020
+8,8,Mario Vrancic,"£ 20,000","£ 1,040,000","£ 1,040,000",M,30,Bosnia-Herzegovina,Norwich,Premier League,2019-2020
+9,9,Timm Klose,"£ 20,000","£ 1,040,000","£ 1,040,000",D,31,Switzerland,Norwich,Premier League,2019-2020
+10,10,Marco Stiepermann,"£ 17,500","£ 910,000","£ 910,000",F,28,Germany,Norwich,Premier League,2019-2020
+11,11,Michael McGovern,"£ 16,923","£ 880,000","£ 880,000",K,35,Northern Ireland,Norwich,Premier League,2019-2020
+12,12,Ondrej Duda,"£ 16,538","£ 860,000","£ 860,000",F,25,Slovakia,Norwich,Premier League,2019-2020
+13,13,Philip Heise,"£ 16,154","£ 840,000","£ 840,000",D,28,Germany,Norwich,Premier League,2019-2020
+14,14,Tom Trybull,"£ 15,000","£ 780,000","£ 780,000",M,26,Germany,Norwich,Premier League,2019-2020
+15,15,Christoph Zimmermann,"£ 15,000","£ 780,000","£ 780,000",D,27,Germany,Norwich,Premier League,2019-2020
+16,16,Alexander Tettey,"£ 13,077","£ 680,000","£ 680,000",M,33,Norway,Norwich,Premier League,2019-2020
+17,17,Moritz Leitner,"£ 11,923","£ 620,000","£ 620,000",M,27,Germany,Norwich,Premier League,2019-2020
+18,18,Kenny McLean,"£ 10,000","£ 520,000","£ 520,000",M,28,Scotland,Norwich,Premier League,2019-2020
+19,19,Onel Hernández,"£ 8,077","£ 420,000","£ 420,000",F,27,Cuba,Norwich,Premier League,2019-2020
+20,20,Emiliano Buendía,"£ 8,077","£ 420,000","£ 420,000",F,23,Argentina,Norwich,Premier League,2019-2020
+21,21,Teemu Pukki,"£ 5,962","£ 310,000","£ 310,000",F,29,Finland,Norwich,Premier League,2019-2020
+22,22,Jamal Lewis,"£ 5,000","£ 260,000","£ 260,000",D,22,Northern Ireland,Norwich,Premier League,2019-2020
+23,23,Max Aarons,"£ 5,000","£ 260,000","£ 260,000",D,20,England,Norwich,Premier League,2019-2020
+24,24,Ben Godfrey,"£ 5,000","£ 260,000","£ 260,000",D,22,England,Norwich,Premier League,2019-2020
+25,25,Dennis Srbeny,"£ 4,038","£ 210,000","£ 210,000",F,25,Germany,Norwich,Premier League,2019-2020
+26,26,Todd Cantwell,"£ 1,538","£ 80,000","£ 80,000",M,21,England,Norwich,Premier League,2019-2020
+0,0,Phil Jagielka,"£ 50,000","£ 2,600,000","£ 2,600,000",D,37,England,Sheffield United,Premier League,2019-2020
+1,1,Sander Berge,"£ 40,000","£ 2,080,000","£ 2,080,000",M,21,Norway,Sheffield United,Premier League,2019-2020
+2,2,Richairo Zivkovic,"£ 37,692","£ 1,960,000","£ 1,960,000",F,23,Netherlands,Sheffield United,Premier League,2019-2020
+3,3,Panagiotis Retsos,"£ 33,077","£ 1,720,000","£ 1,720,000",D,21,Greece,Sheffield United,Premier League,2019-2020
+4,4,Muhamed Besic,"£ 30,000","£ 1,560,000","£ 1,560,000",M,27,Bosnia-Herzegovina,Sheffield United,Premier League,2019-2020
+5,5,Jack Robinson,"£ 25,000","£ 1,300,000","£ 1,300,000",D,26,England,Sheffield United,Premier League,2019-2020
+6,6,Lys Mousset,"£ 25,000","£ 1,300,000","£ 1,300,000",F,23,France,Sheffield United,Premier League,2019-2020
+7,7,Ravel Morrison,"£ 25,000","£ 1,300,000","£ 1,300,000",F,26,Jamaica,Sheffield United,Premier League,2019-2020
+8,8,Michael Verrips,"£ 20,000","£ 1,040,000","£ 1,040,000",K,23,Netherlands,Sheffield United,Premier League,2019-2020
+9,9,Oliver McBurnie,"£ 20,000","£ 1,040,000","£ 1,040,000",F,23,Scotland,Sheffield United,Premier League,2019-2020
+10,10,Richard Stearman,"£ 15,000","£ 780,000","£ 780,000",D,32,England,Sheffield United,Premier League,2019-2020
+11,11,Oliver Norwood,"£ 15,000","£ 780,000","£ 780,000",M,28,Northern Ireland,Sheffield United,Premier League,2019-2020
+12,12,Billy Sharp,"£ 11,923","£ 620,000","£ 620,000",F,33,England,Sheffield United,Premier League,2019-2020
+13,13,Dean Henderson,"£ 10,000","£ 520,000","£ 520,000",K,22,England,Sheffield United,Premier League,2019-2020
+14,14,Jack O'Connell,"£ 10,000","£ 520,000","£ 520,000",D,25,England,Sheffield United,Premier League,2019-2020
+15,15,Luke Freeman,"£ 10,000","£ 520,000","£ 520,000",F,27,England,Sheffield United,Premier League,2019-2020
+16,16,Leon Clarke,"£ 9,038","£ 470,000","£ 470,000",F,34,England,Sheffield United,Premier League,2019-2020
+17,17,John Fleck,"£ 8,077","£ 420,000","£ 420,000",M,28,Scotland,Sheffield United,Premier League,2019-2020
+18,18,John Egan,"£ 7,500","£ 390,000","£ 390,000",D,27,Ireland,Sheffield United,Premier League,2019-2020
+19,19,Ricky Holmes,"£ 7,500","£ 390,000","£ 390,000",F,32,England,Sheffield United,Premier League,2019-2020
+20,20,David McGoldrick,"£ 6,923","£ 360,000","£ 360,000",F,32,Ireland,Sheffield United,Premier League,2019-2020
+21,21,Chris Basham,"£ 5,577","£ 290,000","£ 290,000",D,31,England,Sheffield United,Premier League,2019-2020
+22,22,Simon Moore,"£ 5,000","£ 260,000","£ 260,000",K,29,England,Sheffield United,Premier League,2019-2020
+23,23,Jack Rodwell,"£ 5,000","£ 260,000","£ 260,000",M,28,England,Sheffield United,Premier League,2019-2020
+24,24,Callum Robinson,"£ 5,000","£ 260,000","£ 260,000",F,24,Ireland,Sheffield United,Premier League,2019-2020
+25,25,Kieron Freeman,"£ 4,423","£ 230,000","£ 230,000",D,27,Wales,Sheffield United,Premier League,2019-2020
+26,26,Ben Osborn,"£ 4,038","£ 210,000","£ 210,000",M,25,England,Sheffield United,Premier League,2019-2020
+27,27,John Lundstram,"£ 4,038","£ 210,000","£ 210,000",M,25,England,Sheffield United,Premier League,2019-2020
+28,28,George Baldock,"£ 4,038","£ 210,000","£ 210,000",D,26,England,Sheffield United,Premier League,2019-2020
+29,29,George Baldock,"£ 4,038","£ 210,000","£ 210,000",D,26,England,Sheffield United,Premier League,2019-2020
+30,30,Enda Stevens,"£ 4,038","£ 210,000","£ 210,000",D,29,Ireland,Sheffield United,Premier League,2019-2020
+31,31,Kean Bryan,"£ 3,077","£ 160,000","£ 160,000",D,22,England,Sheffield United,Premier League,2019-2020
+0,0,Danny Ings,"£ 75,000","£ 3,900,000","£ 3,900,000",F,27,England,Southampton,Premier League,2019-2020
+1,1,Ryan Bertrand,"£ 70,000","£ 3,640,000","£ 3,640,000",D,30,England,Southampton,Premier League,2019-2020
+2,2,Oriol Romeu,"£ 65,000","£ 3,380,000","£ 3,380,000",M,28,Spain,Southampton,Premier League,2019-2020
+3,3,Cédric Soares,"£ 65,000","£ 3,380,000","£ 3,380,000",D,28,Portugal,Southampton,Premier League,2019-2020
+4,4,Sofiane Boufal,"£ 65,000","£ 3,380,000","£ 3,380,000",F,26,Morocco,Southampton,Premier League,2019-2020
+5,5,Jannik Vestergaard,"£ 60,000","£ 3,120,000","£ 3,120,000",D,27,Denmark,Southampton,Premier League,2019-2020
+6,6,Shane Long,"£ 60,000","£ 3,120,000","£ 3,120,000",F,33,Ireland,Southampton,Premier League,2019-2020
+7,7,Nathan Redmond,"£ 60,000","£ 3,120,000","£ 3,120,000",F,25,England,Southampton,Premier League,2019-2020
+8,8,Moussa Djenepo,"£ 55,000","£ 2,860,000","£ 2,860,000",F,21,Mali,Southampton,Premier League,2019-2020
+9,9,Alex McCarthy,"£ 50,000","£ 2,600,000","£ 2,600,000",K,30,England,Southampton,Premier League,2019-2020
+10,10,Maya Yoshida,"£ 50,000","£ 2,600,000","£ 2,600,000",D,31,Japan,Southampton,Premier League,2019-2020
+11,11,Pierre-Emile Höjbjerg,"£ 50,000","£ 2,600,000","£ 2,600,000",M,24,Denmark,Southampton,Premier League,2019-2020
+12,12,Stuart Armstrong,"£ 50,000","£ 2,600,000","£ 2,600,000",M,27,Scotland,Southampton,Premier League,2019-2020
+13,13,Jack Stephens,"£ 47,885","£ 2,490,000","£ 2,490,000",D,26,England,Southampton,Premier League,2019-2020
+14,14,James Ward-Prowse,"£ 45,000","£ 2,340,000","£ 2,340,000",M,25,England,Southampton,Premier League,2019-2020
+15,15,Angus Gunn,"£ 40,000","£ 2,080,000","£ 2,080,000",K,24,England,Southampton,Premier League,2019-2020
+16,16,Che Adams,"£ 30,000","£ 1,560,000","£ 1,560,000",F,23,England,Southampton,Premier League,2019-2020
+17,17,Kyle Walker-Peters,"£ 20,000","£ 1,040,000","£ 1,040,000",D,22,England,Southampton,Premier League,2019-2020
+18,18,Jan Bednarek,"£ 20,000","£ 1,040,000","£ 1,040,000",D,23,Poland,Southampton,Premier League,2019-2020
+19,19,Sam McQueen,"£ 18,077","£ 940,000","£ 940,000",D,24,England,Southampton,Premier League,2019-2020
+20,20,Michael Obafemi,"£ 16,923","£ 880,000","£ 880,000",F,19,Ireland,Southampton,Premier League,2019-2020
+21,21,Kevin Danso,"£ 14,808","£ 770,000","£ 770,000",D,21,Austria,Southampton,Premier League,2019-2020
+22,22,Yan Valery,"£ 1,923","£ 100,000","£ 100,000",D,20,France,Southampton,Premier League,2019-2020
+0,0,Harry Kane,"£ 200,000","£ 10,400,000","£ 10,400,000",F,26,England,Tottenham,Premier League,2019-2020
+1,1,Tanguy Ndombélé,"£ 200,000","£ 10,400,000","£ 10,400,000",M,23,France,Tottenham,Premier League,2019-2020
+2,2,Heung-min Son,"£ 140,000","£ 7,280,000","£ 7,280,000",F,27,South Korea,Tottenham,Premier League,2019-2020
+3,3,Hugo Lloris,"£ 100,000","£ 5,200,000","£ 5,200,000",K,33,France,Tottenham,Premier League,2019-2020
+4,4,Jan Vertonghen,"£ 100,000","£ 5,200,000","£ 5,200,000",D,32,Belgium,Tottenham,Premier League,2019-2020
+5,5,Dele Alli,"£ 100,000","£ 5,200,000","£ 5,200,000",F,23,England,Tottenham,Premier League,2019-2020
+6,6,Erik Lamela,"£ 80,000","£ 4,160,000","£ 4,160,000",F,27,Argentina,Tottenham,Premier League,2019-2020
+7,7,Lucas Moura,"£ 80,000","£ 4,160,000","£ 4,160,000",F,27,Brazil,Tottenham,Premier League,2019-2020
+8,8,Toby Alderweireld,"£ 80,000","£ 4,160,000","£ 4,160,000",D,30,Belgium,Tottenham,Premier League,2019-2020
+9,9,Moussa Sissoko,"£ 80,000","£ 4,160,000","£ 4,160,000",M,30,France,Tottenham,Premier League,2019-2020
+10,10,Christian Eriksen,"£ 75,000","£ 3,900,000","£ 3,900,000",F,27,Denmark,Tottenham,Premier League,2019-2020
+11,11,Steven Bergwijn,"£ 75,000","£ 3,900,000","£ 3,900,000",F,22,Netherlands,Tottenham,Premier League,2019-2020
+12,12,Giovani Lo Celso,"£ 70,000","£ 3,640,000","£ 3,640,000",M,23,Argentina,Tottenham,Premier League,2019-2020
+13,13,Serge Aurier,"£ 70,000","£ 3,640,000","£ 3,640,000",D,27,Cote d'Ivoire,Tottenham,Premier League,2019-2020
+14,14,Victor Wanyama,"£ 65,000","£ 3,380,000","£ 3,380,000",M,28,Kenya,Tottenham,Premier League,2019-2020
+15,15,Davinson Sánchez,"£ 65,000","£ 3,380,000","£ 3,380,000",D,23,Colombia,Tottenham,Premier League,2019-2020
+16,16,Ben Davies,"£ 60,000","£ 3,120,000","£ 3,120,000",D,26,Wales,Tottenham,Premier League,2019-2020
+17,17,Danny Rose,"£ 60,000","£ 3,120,000","£ 3,120,000",D,29,England,Tottenham,Premier League,2019-2020
+18,18,Eric Dier,"£ 60,000","£ 3,120,000","£ 3,120,000",M,26,England,Tottenham,Premier League,2019-2020
+19,19,Ryan Sessegnon,"£ 55,000","£ 2,860,000","£ 2,860,000",M,19,England,Tottenham,Premier League,2019-2020
+20,20,Gedson Fernandes,"£ 50,769","£ 2,640,000","£ 2,640,000",M,21,Portugal,Tottenham,Premier League,2019-2020
+21,21,Harry Winks,"£ 50,000","£ 2,600,000","£ 2,600,000",M,24,England,Tottenham,Premier League,2019-2020
+22,22,Michel Vorm,"£ 45,000","£ 2,340,000","£ 2,340,000",K,36,Netherlands,Tottenham,Premier League,2019-2020
+23,23,Japhet Tanganga,"£ 41,538","£ 2,160,000","£ 2,160,000",D,20,England,Tottenham,Premier League,2019-2020
+24,24,Juan Foyth,"£ 21,538","£ 1,120,000","£ 1,120,000",D,22,Argentina,Tottenham,Premier League,2019-2020
+25,25,Kyle Walker-Peters,"£ 20,000","£ 1,040,000","£ 1,040,000",D,22,England,Tottenham,Premier League,2019-2020
+26,26,Paulo Gazzaniga,"£ 20,000","£ 1,040,000","£ 1,040,000",K,28,Argentina,Tottenham,Premier League,2019-2020
+27,27,Oliver Skipp,"£ 5,000","£ 260,000","£ 260,000",M,19,England,Tottenham,Premier League,2019-2020
+0,0,Andre Gray,"£ 70,000","£ 3,640,000","£ 3,640,000",F,28,England,Watford,Premier League,2019-2020
+1,1,Danny Welbeck,"£ 70,000","£ 3,640,000","£ 3,640,000",F,29,England,Watford,Premier League,2019-2020
+2,2,Ismaïla Sarr,"£ 70,000","£ 3,640,000","£ 3,640,000",F,21,Senegal,Watford,Premier League,2019-2020
+3,3,Abdoulaye Doucouré,"£ 70,000","£ 3,640,000","£ 3,640,000",M,27,France,Watford,Premier League,2019-2020
+4,4,Troy Deeney,"£ 65,000","£ 3,380,000","£ 3,380,000",F,31,England,Watford,Premier League,2019-2020
+5,5,Gerard Deulofeu,"£ 60,000","£ 3,120,000","£ 3,120,000",F,25,Spain,Watford,Premier League,2019-2020
+6,6,Tom Cleverley,"£ 50,000","£ 2,600,000","£ 2,600,000",M,30,England,Watford,Premier League,2019-2020
+7,7,Roberto Pereyra,"£ 45,000","£ 2,340,000","£ 2,340,000",F,29,Argentina,Watford,Premier League,2019-2020
+8,8,Sebastian Prödl,"£ 45,000","£ 2,340,000","£ 2,340,000",D,32,Austria,Watford,Premier League,2019-2020
+9,9,Daryl Janmaat,"£ 45,000","£ 2,340,000","£ 2,340,000",D,30,Netherlands,Watford,Premier League,2019-2020
+10,10,Craig Dawson,"£ 42,500","£ 2,210,000","£ 2,210,000",D,29,England,Watford,Premier League,2019-2020
+11,11,Étienne Capoue,"£ 40,000","£ 2,080,000","£ 2,080,000",M,31,France,Watford,Premier League,2019-2020
+12,12,Nathaniel Chalobah,"£ 35,000","£ 1,820,000","£ 1,820,000",M,25,England,Watford,Premier League,2019-2020
+13,13,Will Hughes,"£ 30,000","£ 1,560,000","£ 1,560,000",M,24,England,Watford,Premier League,2019-2020
+14,14,Ben Foster,"£ 30,000","£ 1,560,000","£ 1,560,000",K,36,England,Watford,Premier League,2019-2020
+15,15,Christian Kabasele,"£ 30,000","£ 1,560,000","£ 1,560,000",D,28,Belgium,Watford,Premier League,2019-2020
+16,16,Ignacio Pussetto,"£ 30,000","£ 1,560,000","£ 1,560,000",F,24,Argentina,Watford,Premier League,2019-2020
+17,17,Isaac Success,"£ 30,000","£ 1,560,000","£ 1,560,000",F,24,Nigeria,Watford,Premier League,2019-2020
+18,18,José Holebas,"£ 30,000","£ 1,560,000","£ 1,560,000",D,35,Greece,Watford,Premier League,2019-2020
+19,19,Adam Masina,"£ 28,077","£ 1,460,000","£ 1,460,000",D,26,Italy,Watford,Premier League,2019-2020
+20,20,Craig Cathcart,"£ 23,077","£ 1,200,000","£ 1,200,000",D,30,Northern Ireland,Watford,Premier League,2019-2020
+21,21,João Pedro,"£ 23,077","£ 1,200,000","£ 1,200,000",F,18,Brazil,Watford,Premier League,2019-2020
+22,22,Dimitri Foulquier,"£ 20,000","£ 1,040,000","£ 1,040,000",D,26,Guadeloupe,Watford,Premier League,2019-2020
+23,23,Kiko Femenía,"£ 20,000","£ 1,040,000","£ 1,040,000",D,29,Spain,Watford,Premier League,2019-2020
+24,24,Marvin Zeegelaar,"£ 20,000","£ 1,040,000","£ 1,040,000",D,29,Netherlands,Watford,Premier League,2019-2020
+25,25,Adalberto Peñaranda,"£ 18,077","£ 940,000","£ 940,000",F,22,Venezuela,Watford,Premier League,2019-2020
+26,26,Heurelho Gomes,"£ 17,500","£ 910,000","£ 910,000",K,38,Brazil,Watford,Premier League,2019-2020
+27,27,Adrian Mariappa,"£ 15,000","£ 780,000","£ 780,000",D,33,Jamaica,Watford,Premier League,2019-2020
+28,28,Filip Stuparevic,"£ 15,000","£ 780,000","£ 780,000",F,19,Serbia,Watford,Premier League,2019-2020
+29,29,Domingos Quina,"£ 8,077","£ 420,000","£ 420,000",M,20,Portugal,Watford,Premier League,2019-2020
+30,30,Tom Dele-Bashiru,"£ 5,000","£ 260,000","£ 260,000",M,20,Nigeria,Watford,Premier League,2019-2020
+31,31,Pontus Dahlberg,"£ 3,077","£ 160,000","£ 160,000",K,20,Sweden,Watford,Premier League,2019-2020
+32,32,Jorge Segura,"£ 3,077","£ 160,000","£ 160,000",D,23,Colombia,Watford,Premier League,2019-2020
+33,33,Daniel Bachmann,"£ 2,500","£ 130,000","£ 130,000",K,25,Austria,Watford,Premier League,2019-2020
+0,0,Andrii Yarmolenko,"£ 115,000","£ 5,980,000","£ 5,980,000",F,30,Ukraine,West Ham,Premier League,2019-2020
+1,1,Jack Wilshere,"£ 100,000","£ 5,200,000","£ 5,200,000",M,28,England,West Ham,Premier League,2019-2020
+2,2,Felipe Anderson,"£ 85,000","£ 4,420,000","£ 4,420,000",F,26,Brazil,West Ham,Premier League,2019-2020
+3,3,Pablo Fornals,"£ 80,000","£ 4,160,000","£ 4,160,000",F,23,Spain,West Ham,Premier League,2019-2020
+4,4,Sébastien Haller,"£ 75,000","£ 3,900,000","£ 3,900,000",F,25,France,West Ham,Premier League,2019-2020
+5,5,Pablo Zabaleta,"£ 75,000","£ 3,900,000","£ 3,900,000",D,35,Argentina,West Ham,Premier League,2019-2020
+6,6,Winston Reid,"£ 70,000","£ 3,640,000","£ 3,640,000",D,31,New Zealand,West Ham,Premier League,2019-2020
+7,7,Angelo Ogbonna,"£ 70,000","£ 3,640,000","£ 3,640,000",D,31,Italy,West Ham,Premier League,2019-2020
+8,8,Manuel Lanzini,"£ 70,000","£ 3,640,000","£ 3,640,000",F,26,Argentina,West Ham,Premier League,2019-2020
+9,9,Michail Antonio,"£ 70,000","£ 3,640,000","£ 3,640,000",F,29,England,West Ham,Premier League,2019-2020
+10,10,Issa Diop,"£ 66,923","£ 3,480,000","£ 3,480,000",D,23,France,West Ham,Premier League,2019-2020
+11,11,Lukasz Fabianski,"£ 65,000","£ 3,380,000","£ 3,380,000",K,34,Poland,West Ham,Premier League,2019-2020
+12,12,Jarrod Bowen,"£ 55,000","£ 2,860,000","£ 2,860,000",F,23,England,West Ham,Premier League,2019-2020
+13,13,Aaron Cresswell,"£ 50,000","£ 2,600,000","£ 2,600,000",D,30,England,West Ham,Premier League,2019-2020
+14,14,Carlos Sánchez,"£ 50,000","£ 2,600,000","£ 2,600,000",M,33,Colombia,West Ham,Premier League,2019-2020
+15,15,Albian Ajeti,"£ 50,000","£ 2,600,000","£ 2,600,000",F,22,Switzerland,West Ham,Premier League,2019-2020
+16,16,Mark Noble,"£ 50,000","£ 2,600,000","£ 2,600,000",M,32,England,West Ham,Premier League,2019-2020
+17,17,Fabián Balbuena,"£ 40,000","£ 2,080,000","£ 2,080,000",D,28,Paraguay,West Ham,Premier League,2019-2020
+18,18,Arthur Masuaku,"£ 40,000","£ 2,080,000","£ 2,080,000",D,26,Democratic Republic of the Congo,West Ham,Premier League,2019-2020
+19,19,Robert Snodgrass,"£ 40,000","£ 2,080,000","£ 2,080,000",F,32,Scotland,West Ham,Premier League,2019-2020
+20,20,Ryan Fredericks,"£ 40,000","£ 2,080,000","£ 2,080,000",D,27,England,West Ham,Premier League,2019-2020
+21,21,Darren Randolph,"£ 37,500","£ 1,950,000","£ 1,950,000",K,32,Ireland,West Ham,Premier League,2019-2020
+22,22,Tomas Soucek,"£ 33,462","£ 1,740,000","£ 1,740,000",M,24,Czech Republic,West Ham,Premier League,2019-2020
+23,23,Roberto,"£ 30,000","£ 1,560,000","£ 1,560,000",K,33,Spain,West Ham,Premier League,2019-2020
+24,24,Gonçalo Cardoso,"£ 10,000","£ 520,000","£ 520,000",D,19,Portugal,West Ham,Premier League,2019-2020
+25,25,David Martin,"£ 8,000","£ 416,000","£ 416,000",K,34,England,West Ham,Premier League,2019-2020
+26,26,Declan Rice,"£ 3,077","£ 160,000","£ 160,000",M,21,England,West Ham,Premier League,2019-2020
+0,0,João Moutinho,"£ 100,000","£ 5,200,000","£ 5,200,000",M,33,Portugal,Wolverhampton,Premier League,2019-2020
+1,1,Rui Patrício,"£ 100,000","£ 5,200,000","£ 5,200,000",K,31,Portugal,Wolverhampton,Premier League,2019-2020
+2,2,Leander Dendoncker,"£ 90,000","£ 4,680,000","£ 4,680,000",M,24,Belgium,Wolverhampton,Premier League,2019-2020
+3,3,Jonny Otto,"£ 75,000","£ 3,900,000","£ 3,900,000",D,25,Spain,Wolverhampton,Premier League,2019-2020
+4,4,Patrick Cutrone,"£ 62,885","£ 3,270,000","£ 3,270,000",F,21,Italy,Wolverhampton,Premier League,2019-2020
+5,5,Daniel Podence,"£ 60,000","£ 3,120,000","£ 3,120,000",F,24,Portugal,Wolverhampton,Premier League,2019-2020
+6,6,Conor Coady,"£ 55,000","£ 2,860,000","£ 2,860,000",D,26,England,Wolverhampton,Premier League,2019-2020
+7,7,Willy Boly,"£ 55,000","£ 2,860,000","£ 2,860,000",D,29,France,Wolverhampton,Premier League,2019-2020
+8,8,Pedro Neto,"£ 50,000","£ 2,600,000","£ 2,600,000",F,19,Portugal,Wolverhampton,Premier League,2019-2020
+9,9,Rúben Neves,"£ 50,000","£ 2,600,000","£ 2,600,000",M,22,Portugal,Wolverhampton,Premier League,2019-2020
+10,10,Diogo Jota,"£ 45,000","£ 2,340,000","£ 2,340,000",F,23,Portugal,Wolverhampton,Premier League,2019-2020
+11,11,Adama Traoré,"£ 43,077","£ 2,240,000","£ 2,240,000",F,24,Spain,Wolverhampton,Premier League,2019-2020
+12,12,Raúl Jiménez,"£ 41,154","£ 2,140,000","£ 2,140,000",F,28,Mexico,Wolverhampton,Premier League,2019-2020
+13,13,Jesús Vallejo,"£ 33,077","£ 1,720,000","£ 1,720,000",D,22,Spain,Wolverhampton,Premier League,2019-2020
+14,14,John Ruddy,"£ 32,500","£ 1,690,000","£ 1,690,000",K,33,England,Wolverhampton,Premier League,2019-2020
+15,15,Rúben Vinagre,"£ 30,000","£ 1,560,000","£ 1,560,000",D,20,Portugal,Wolverhampton,Premier League,2019-2020
+16,16,Romain Saïss,"£ 21,923","£ 1,140,000","£ 1,140,000",M,29,Morocco,Wolverhampton,Premier League,2019-2020
+17,17,Ryan Bennett,"£ 20,000","£ 1,040,000","£ 1,040,000",D,29,England,Wolverhampton,Premier League,2019-2020
+18,18,Leonardo Campana,"£ 20,000","£ 1,040,000","£ 1,040,000",F,19,Ecuador,Wolverhampton,Premier League,2019-2020
+19,19,Bruno Jordão,"£ 17,500","£ 910,000","£ 910,000",M,21,Portugal,Wolverhampton,Premier League,2019-2020
+20,20,Matt Doherty,"£ 10,000","£ 520,000","£ 520,000",D,28,Ireland,Wolverhampton,Premier League,2019-2020
+21,21,Phil Ofosu-Ayeh,"£ 7,500","£ 390,000","£ 390,000",D,28,Ghana,Wolverhampton,Premier League,2019-2020
+22,22,Jordan Graham,"£ 5,962","£ 310,000","£ 310,000",F,24,England,Wolverhampton,Premier League,2019-2020
+23,23,Renat Dadashov,"£ 5,000","£ 260,000","£ 260,000",F,20,Azerbaijan,Wolverhampton,Premier League,2019-2020
+24,24,Harry Burgoyne,"£ 2,500","£ 130,000","£ 130,000",K,22,England,Wolverhampton,Premier League,2019-2020
+25,25,Bright Enobakhare,"£ 2,500","£ 130,000","£ 130,000",F,21,Nigeria,Wolverhampton,Premier League,2019-2020
+26,26,Morgan Gibbs-White,"£ 1,538","£ 80,000","£ 80,000",M,20,England,Wolverhampton,Premier League,2019-2020
+27,27,Max Kilman,"£ 1,538","£ 80,000","£ 80,000",D,22,England,Wolverhampton,Premier League,2019-2020
+28,28,Ming-Yang Yang,"£ 1,346","£ 70,000","£ 70,000",M,24,Switzerland,Wolverhampton,Premier League,2019-2020
+29,29,Enzo Loiodice,£ 962,"£ 50,000","£ 50,000",M,19,France,Wolverhampton,Premier League,2019-2020
