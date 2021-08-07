@@ -1,0 +1,645 @@
+,Unnamed: 0,Player,Weekly GrossBase Salary(IN EUR),Annual GrossBase Salary(IN EUR),"Adj. GrossBase Salary(2021, IN EUR)",Pos.,Age,Country,Team,League,Season
+0,0,Jonathan Schmid,"€ 22,096","€ 1,149,000","€ 1,191,809",D,26,France,Augsburg,Bundesliga,2016-2017
+1,1,Martin Hinteregger,"€ 22,096","€ 1,149,000","€ 1,191,809",D,23,Austria,Augsburg,Bundesliga,2016-2017
+2,2,Ja-cheol Koo,"€ 22,096","€ 1,149,000","€ 1,191,809",M,27,South Korea,Augsburg,Bundesliga,2016-2017
+3,3,Dong-won Ji,"€ 19,154","€ 996,000","€ 1,033,109",F,25,South Korea,Augsburg,Bundesliga,2016-2017
+4,4,Raúl Bobadilla,"€ 19,154","€ 996,000","€ 1,033,109",F,29,Paraguay,Augsburg,Bundesliga,2016-2017
+5,5,Jeffrey Gouweleeuw,"€ 18,404","€ 957,000","€ 992,656",D,24,Netherlands,Augsburg,Bundesliga,2016-2017
+6,6,Daniel Baier,"€ 18,404","€ 957,000","€ 992,656",M,32,Germany,Augsburg,Bundesliga,2016-2017
+7,7,Halil Altintop,"€ 14,346","€ 746,000","€ 773,794",M,33,Turkey,Augsburg,Bundesliga,2016-2017
+8,8,Alexander Esswein,"€ 14,346","€ 746,000","€ 773,794",F,26,Germany,Augsburg,Bundesliga,2016-2017
+9,9,Takashi Usami,"€ 14,346","€ 746,000","€ 773,794",F,24,Japan,Augsburg,Bundesliga,2016-2017
+10,10,Caiuby,"€ 14,346","€ 746,000","€ 773,794",F,27,Brazil,Augsburg,Bundesliga,2016-2017
+11,11,Dominik Kohr,"€ 14,346","€ 746,000","€ 773,794",M,22,Germany,Augsburg,Bundesliga,2016-2017
+12,12,Gojko Kacar,"€ 14,346","€ 746,000","€ 773,794",M,29,Serbia,Augsburg,Bundesliga,2016-2017
+13,13,Jan-Ingwer Callsen-Bracker,"€ 14,346","€ 746,000","€ 773,794",D,31,Germany,Augsburg,Bundesliga,2016-2017
+14,14,Paul Verhaegh,"€ 14,346","€ 746,000","€ 773,794",D,32,Netherlands,Augsburg,Bundesliga,2016-2017
+15,15,Moritz Leitner,"€ 14,346","€ 746,000","€ 773,794",M,23,Germany,Augsburg,Bundesliga,2016-2017
+16,16,Marwin Hitz,"€ 14,346","€ 746,000","€ 773,794",K,28,Switzerland,Augsburg,Bundesliga,2016-2017
+17,17,Markus Feulner,"€ 14,346","€ 746,000","€ 773,794",M,34,Germany,Augsburg,Bundesliga,2016-2017
+18,18,Georg Teigl,"€ 9,173","€ 477,000","€ 494,772",M,25,Austria,Augsburg,Bundesliga,2016-2017
+19,19,Christoph Janker,"€ 8,135","€ 423,000","€ 438,760",D,31,Germany,Augsburg,Bundesliga,2016-2017
+20,20,Marvin Friedrich,"€ 8,135","€ 423,000","€ 438,760",D,20,Germany,Augsburg,Bundesliga,2016-2017
+21,21,Philipp Max,"€ 7,327","€ 381,000","€ 395,195",D,22,Germany,Augsburg,Bundesliga,2016-2017
+22,22,Andreas Luthe,"€ 6,596","€ 343,000","€ 355,779",K,29,Germany,Augsburg,Bundesliga,2016-2017
+23,23,Raphael Framberger,€ 731,"€ 38,000","€ 39,416",D,20,Germany,Augsburg,Bundesliga,2016-2017
+24,24,Marco Schuster,€ 615,"€ 32,000","€ 33,192",M,20,Germany,Augsburg,Bundesliga,2016-2017
+25,25,Ioannis Gelios,€ 615,"€ 32,000","€ 33,192",K,24,Greece,Augsburg,Bundesliga,2016-2017
+26,26,Tim Rieder,€ 577,"€ 30,000","€ 31,118",D,22,Germany,Augsburg,Bundesliga,2016-2017
+27,27,Julian Günther-Schmidt,€ 481,"€ 25,000","€ 25,931",F,21,Germany,Augsburg,Bundesliga,2016-2017
+28,28,Kevin Danso,€ 38,"€ 2,000","€ 2,075",D,17,Austria,Augsburg,Bundesliga,2016-2017
+29,29,Erik Thommy,€ 0,€ 0,€ 0,M,21,Germany,Augsburg,Bundesliga,2016-2017
+30,30,Daniel Opare,€ 0,€ 0,€ 0,D,25,Ghana,Augsburg,Bundesliga,2016-2017
+31,31,Shawn Parker,€ 0,€ 0,€ 0,F,23,Germany,Augsburg,Bundesliga,2016-2017
+32,32,Alfred Finnbogason,€ 0,€ 0,€ 0,F,27,Iceland,Augsburg,Bundesliga,2016-2017
+33,33,Tim Matavz,€ 0,€ 0,€ 0,F,27,Slovenia,Augsburg,Bundesliga,2016-2017
+34,34,Konstantinos Stafylidis,€ 0,€ 0,€ 0,D,22,Greece,Augsburg,Bundesliga,2016-2017
+35,35,Albian Ajeti,€ 0,€ 0,€ 0,F,19,Switzerland,Augsburg,Bundesliga,2016-2017
+36,36,Jan Morávek,€ 0,€ 0,€ 0,M,26,Czech Republic,Augsburg,Bundesliga,2016-2017
+0,0,Kevin Volland,"€ 91,712","€ 4,769,000","€ 4,946,683",F,23,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+1,1,Lars Bender,"€ 73,692","€ 3,832,000","€ 3,974,772",M,27,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+2,2,Stefan Kießling,"€ 73,692","€ 3,832,000","€ 3,974,772",F,32,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+3,3,Karim Bellarabi,"€ 73,615","€ 3,828,000","€ 3,970,623",F,26,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+4,4,Bernd Leno,"€ 64,192","€ 3,338,000","€ 3,462,367",K,24,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+5,5,Kyriakos Papadopoulos,"€ 55,212","€ 2,871,000","€ 2,977,968",D,24,Greece,Bayer Leverkusen,Bundesliga,2016-2017
+6,6,Aleksandar Dragovic,"€ 55,212","€ 2,871,000","€ 2,977,968",D,25,Austria,Bayer Leverkusen,Bundesliga,2016-2017
+7,7,Charles Aránguiz,"€ 54,558","€ 2,837,000","€ 2,942,701",M,27,Chile,Bayer Leverkusen,Bundesliga,2016-2017
+8,8,Ömer Toprak,"€ 45,846","€ 2,384,000","€ 2,472,823",D,26,Turkey,Bayer Leverkusen,Bundesliga,2016-2017
+9,9,Kevin Kampl,"€ 45,846","€ 2,384,000","€ 2,472,823",M,25,Slovenia,Bayer Leverkusen,Bundesliga,2016-2017
+10,10,Leon Bailey,"€ 36,846","€ 1,916,000","€ 1,987,386",F,18,Jamaica,Bayer Leverkusen,Bundesliga,2016-2017
+11,11,Wendell,"€ 36,808","€ 1,914,000","€ 1,985,312",D,22,Brazil,Bayer Leverkusen,Bundesliga,2016-2017
+12,12,Admir Mehmedi,"€ 36,692","€ 1,908,000","€ 1,979,088",F,25,Switzerland,Bayer Leverkusen,Bundesliga,2016-2017
+13,13,Julian Baumgartlinger,"€ 36,692","€ 1,908,000","€ 1,979,088",M,28,Austria,Bayer Leverkusen,Bundesliga,2016-2017
+14,14,André Ramalho,"€ 27,615","€ 1,436,000","€ 1,489,502",D,24,Brazil,Bayer Leverkusen,Bundesliga,2016-2017
+15,15,Tin Jedvaj,"€ 27,519","€ 1,431,000","€ 1,484,316",D,20,Croatia,Bayer Leverkusen,Bundesliga,2016-2017
+16,16,Jonathan Tah,"€ 22,096","€ 1,149,000","€ 1,191,809",D,20,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+17,17,Roberto Hilbert,"€ 21,462","€ 1,116,000","€ 1,157,580",D,31,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+18,18,Julian Brandt,"€ 18,346","€ 954,000","€ 989,544",F,20,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+19,19,Ramazan Özcan,"€ 14,346","€ 746,000","€ 773,794",K,32,Austria,Bayer Leverkusen,Bundesliga,2016-2017
+20,20,Joel Pohjanpalo,"€ 12,846","€ 668,000","€ 692,888",F,21,Finland,Bayer Leverkusen,Bundesliga,2016-2017
+21,21,Danny da Costa,"€ 12,846","€ 668,000","€ 692,888",D,22,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+22,22,Vladlen Yurchenko,"€ 9,173","€ 477,000","€ 494,772",M,22,Ukraine,Bayer Leverkusen,Bundesliga,2016-2017
+23,23,Kai Havertz,"€ 4,308","€ 224,000","€ 232,346",M,17,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+24,24,Benjamin Henrichs,"€ 4,308","€ 224,000","€ 232,346",D,19,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+25,25,Niklas Lomb,"€ 2,385","€ 124,000","€ 128,620",K,22,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+26,26,Atakan Akkaynak,"€ 1,904","€ 99,000","€ 102,689",M,17,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+27,27,Joel Abu Hanna,"€ 1,904","€ 99,000","€ 102,689",D,18,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+28,28,Paterson Chato,€ 0,€ 0,€ 0,M,19,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+29,29,Patrik Dzalto,€ 0,€ 0,€ 0,F,19,Croatia,Bayer Leverkusen,Bundesliga,2016-2017
+30,30,Chicharito,€ 0,€ 0,€ 0,F,28,Mexico,Bayer Leverkusen,Bundesliga,2016-2017
+31,31,Robbie Kruse,€ 0,€ 0,€ 0,F,27,Australia,Bayer Leverkusen,Bundesliga,2016-2017
+32,32,Hakan Calhanoglu,€ 0,€ 0,€ 0,F,22,Turkey,Bayer Leverkusen,Bundesliga,2016-2017
+33,33,Robin Becker,€ 0,€ 0,€ 0,D,19,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+34,34,Seung-uh Ryu,€ 0,€ 0,€ 0,M,22,South Korea,Bayer Leverkusen,Bundesliga,2016-2017
+35,35,Andrejs Ciganiks,€ 0,€ 0,€ 0,F,19,Latvia,Bayer Leverkusen,Bundesliga,2016-2017
+36,36,Lukas Boeder,€ 0,€ 0,€ 0,D,19,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+37,37,Marc Brasnic,€ 0,€ 0,€ 0,F,19,Croatia,Bayer Leverkusen,Bundesliga,2016-2017
+38,38,Marlon Frey,€ 0,€ 0,€ 0,M,20,Germany,Bayer Leverkusen,Bundesliga,2016-2017
+0,0,Manuel Neuer,"€ 276,077","€ 14,356,000","€ 14,890,875",K,30,Germany,Bayern Munich,Bundesliga,2016-2017
+1,1,Thomas Müller,"€ 275,154","€ 14,308,000","€ 14,841,087",F,26,Germany,Bayern Munich,Bundesliga,2016-2017
+2,2,Robert Lewandowski,"€ 275,154","€ 14,308,000","€ 14,841,087",F,27,Poland,Bayern Munich,Bundesliga,2016-2017
+3,3,Jérôme Boateng,"€ 220,115","€ 11,446,000","€ 11,872,454",D,27,Germany,Bayern Munich,Bundesliga,2016-2017
+4,4,Franck Ribéry,"€ 220,115","€ 11,446,000","€ 11,872,454",F,33,France,Bayern Munich,Bundesliga,2016-2017
+5,5,Arturo Vidal,"€ 217,250","€ 11,297,000","€ 11,717,903",M,29,Chile,Bayern Munich,Bundesliga,2016-2017
+6,6,Xabi Alonso,"€ 184,058","€ 9,571,000","€ 9,927,596",M,34,Spain,Bayern Munich,Bundesliga,2016-2017
+7,7,David Alaba,"€ 183,423","€ 9,538,000","€ 9,893,366",D,24,Austria,Bayern Munich,Bundesliga,2016-2017
+8,8,Philipp Lahm,"€ 183,423","€ 9,538,000","€ 9,893,366",D,32,Germany,Bayern Munich,Bundesliga,2016-2017
+9,9,Mats Hummels,"€ 183,423","€ 9,538,000","€ 9,893,366",D,27,Germany,Bayern Munich,Bundesliga,2016-2017
+10,10,Thiago,"€ 165,654","€ 8,614,000","€ 8,934,940",M,25,Spain,Bayern Munich,Bundesliga,2016-2017
+11,11,Arjen Robben,"€ 128,404","€ 6,677,000","€ 6,925,771",F,32,Netherlands,Bayern Munich,Bundesliga,2016-2017
+12,12,Douglas Costa,"€ 110,442","€ 5,743,000","€ 5,956,972",F,25,Brazil,Bayern Munich,Bundesliga,2016-2017
+13,13,Javi Martínez,"€ 110,058","€ 5,723,000","€ 5,936,227",M,27,Spain,Bayern Munich,Bundesliga,2016-2017
+14,14,Rafinha,"€ 91,712","€ 4,769,000","€ 4,946,683",D,30,Brazil,Bayern Munich,Bundesliga,2016-2017
+15,15,Holger Badstuber,"€ 73,365","€ 3,815,000","€ 3,957,139",D,27,Germany,Bayern Munich,Bundesliga,2016-2017
+16,16,Juan Bernat,"€ 46,019","€ 2,393,000","€ 2,482,158",D,23,Spain,Bayern Munich,Bundesliga,2016-2017
+17,17,Sven Ulreich,"€ 46,019","€ 2,393,000","€ 2,482,158",K,27,Germany,Bayern Munich,Bundesliga,2016-2017
+18,18,Joshua Kimmich,"€ 27,615","€ 1,436,000","€ 1,489,502",D,21,Germany,Bayern Munich,Bundesliga,2016-2017
+19,19,Renato Sanches,"€ 27,615","€ 1,436,000","€ 1,489,502",M,18,Portugal,Bayern Munich,Bundesliga,2016-2017
+20,20,Tom Starke,"€ 27,519","€ 1,431,000","€ 1,484,316",K,35,Germany,Bayern Munich,Bundesliga,2016-2017
+21,21,Kingsley Coman,"€ 25,827","€ 1,343,000","€ 1,393,037",F,20,France,Bayern Munich,Bundesliga,2016-2017
+22,22,Nicolas Feldhahn,"€ 2,154","€ 112,000","€ 116,173",D,29,Germany,Bayern Munich,Bundesliga,2016-2017
+23,23,Erdal Öztürk,"€ 1,231","€ 64,000","€ 66,385",M,20,Turkey,Bayern Munich,Bundesliga,2016-2017
+24,24,Fabian Benko,"€ 1,154","€ 60,000","€ 62,235",M,18,Croatia,Bayern Munich,Bundesliga,2016-2017
+25,25,Niklas Dorsch,"€ 1,154","€ 60,000","€ 62,235",M,18,Germany,Bayern Munich,Bundesliga,2016-2017
+26,26,Leo Weinkauf,€ 769,"€ 40,000","€ 41,490",K,19,Germany,Bayern Munich,Bundesliga,2016-2017
+27,27,Raphael Obermair,€ 577,"€ 30,000","€ 31,118",M,20,Germany,Bayern Munich,Bundesliga,2016-2017
+28,28,Marco Friedl,€ 481,"€ 25,000","€ 25,931",D,18,Austria,Bayern Munich,Bundesliga,2016-2017
+29,29,Julian Green,€ 0,€ 0,€ 0,M,21,United States,Bayern Munich,Bundesliga,2016-2017
+30,30,Gianluca Gaudino,€ 0,€ 0,€ 0,M,19,Germany,Bayern Munich,Bundesliga,2016-2017
+31,31,Medhi Benatia,€ 0,€ 0,€ 0,D,29,Morocco,Bayern Munich,Bundesliga,2016-2017
+32,32,Felix Götze,€ 0,€ 0,€ 0,M,18,Germany,Bayern Munich,Bundesliga,2016-2017
+0,0,Marco Reus,"€ 183,423","€ 9,538,000","€ 9,893,366",M,27,Germany,Borussia Dortmund,Bundesliga,2016-2017
+1,1,Mario Götze,"€ 147,250","€ 7,657,000","€ 7,942,284",M,24,Germany,Borussia Dortmund,Bundesliga,2016-2017
+2,2,André Schürrle,"€ 110,442","€ 5,743,000","€ 5,956,972",F,25,Germany,Borussia Dortmund,Bundesliga,2016-2017
+3,3,Pierre-Emerick Aubameyang,"€ 91,712","€ 4,769,000","€ 4,946,683",F,27,Gabon,Borussia Dortmund,Bundesliga,2016-2017
+4,4,Marc Bartra,"€ 82,827","€ 4,307,000","€ 4,467,470",D,25,Spain,Borussia Dortmund,Bundesliga,2016-2017
+5,5,Shinji Kagawa,"€ 73,615","€ 3,828,000","€ 3,970,623",M,27,Japan,Borussia Dortmund,Bundesliga,2016-2017
+6,6,Julian Weigl,"€ 73,365","€ 3,815,000","€ 3,957,139",M,20,Germany,Borussia Dortmund,Bundesliga,2016-2017
+7,7,Gonzalo Castro,"€ 64,192","€ 3,338,000","€ 3,462,367",M,29,Germany,Borussia Dortmund,Bundesliga,2016-2017
+8,8,Nuri Sahin,"€ 55,212","€ 2,871,000","€ 2,977,968",M,27,Turkey,Borussia Dortmund,Bundesliga,2016-2017
+9,9,Ousmane Dembélé,"€ 55,212","€ 2,871,000","€ 2,977,968",F,19,France,Borussia Dortmund,Bundesliga,2016-2017
+10,10,Roman Weidenfeller,"€ 55,019","€ 2,861,000","€ 2,967,595",K,35,Germany,Borussia Dortmund,Bundesliga,2016-2017
+11,11,Sebastian Rode,"€ 55,019","€ 2,861,000","€ 2,967,595",M,25,Germany,Borussia Dortmund,Bundesliga,2016-2017
+12,12,Sven Bender,"€ 54,558","€ 2,837,000","€ 2,942,701",D,27,Germany,Borussia Dortmund,Bundesliga,2016-2017
+13,13,Marcel Schmelzer,"€ 46,019","€ 2,393,000","€ 2,482,158",D,28,Germany,Borussia Dortmund,Bundesliga,2016-2017
+14,14,Roman Bürki,"€ 46,019","€ 2,393,000","€ 2,482,158",K,25,Switzerland,Borussia Dortmund,Bundesliga,2016-2017
+15,15,Neven Subotic,"€ 36,808","€ 1,914,000","€ 1,985,312",D,27,Germany,Borussia Dortmund,Bundesliga,2016-2017
+16,16,Matthias Ginter,"€ 36,808","€ 1,914,000","€ 1,985,312",D,22,Germany,Borussia Dortmund,Bundesliga,2016-2017
+17,17,Lukasz Piszczek,"€ 36,692","€ 1,908,000","€ 1,979,088",D,31,Poland,Borussia Dortmund,Bundesliga,2016-2017
+18,18,Raphaël Guerreiro,"€ 36,365","€ 1,891,000","€ 1,961,455",M,22,Portugal,Borussia Dortmund,Bundesliga,2016-2017
+19,19,Erik Durm,"€ 27,519","€ 1,431,000","€ 1,484,316",D,24,Germany,Borussia Dortmund,Bundesliga,2016-2017
+20,20,Christian Pulisic,"€ 27,519","€ 1,431,000","€ 1,484,316",F,17,United States,Borussia Dortmund,Bundesliga,2016-2017
+21,21,Emre Mor,"€ 19,154","€ 996,000","€ 1,033,109",F,18,Turkey,Borussia Dortmund,Bundesliga,2016-2017
+22,22,Mikel Merino,"€ 9,558","€ 497,000","€ 515,517",M,20,Spain,Borussia Dortmund,Bundesliga,2016-2017
+23,23,Felix Passlack,"€ 4,308","€ 224,000","€ 232,346",D,18,Germany,Borussia Dortmund,Bundesliga,2016-2017
+24,24,Hendrik Bonmann,"€ 2,865","€ 149,000","€ 154,551",K,22,Germany,Borussia Dortmund,Bundesliga,2016-2017
+25,25,Dzenis Burnic,€ 385,"€ 20,000","€ 20,745",M,18,Germany,Borussia Dortmund,Bundesliga,2016-2017
+26,26,Alexander Isak,€ 58,"€ 3,000","€ 3,112",F,16,Sweden,Borussia Dortmund,Bundesliga,2016-2017
+27,27,Jacob Bruun Larsen,€ 58,"€ 3,000","€ 3,112",F,17,Denmark,Borussia Dortmund,Bundesliga,2016-2017
+28,28,Adrián Ramos,€ 0,€ 0,€ 0,F,30,Colombia,Borussia Dortmund,Bundesliga,2016-2017
+29,29,Ju-ho Park,€ 0,€ 0,€ 0,D,29,South Korea,Borussia Dortmund,Bundesliga,2016-2017
+30,30,Sokratis,€ 0,€ 0,€ 0,D,28,Greece,Borussia Dortmund,Bundesliga,2016-2017
+0,0,Sidney Sam,"€ 73,615","€ 3,828,000","€ 3,970,623",F,28,Germany,Darmstadt,Bundesliga,2016-2017
+1,1,Sven Schipplock,"€ 14,346","€ 746,000","€ 773,794",F,27,Germany,Darmstadt,Bundesliga,2016-2017
+2,2,Artem Fedetskyi,"€ 12,846","€ 668,000","€ 692,888",D,31,Ukraine,Darmstadt,Bundesliga,2016-2017
+3,3,Michael Esser,"€ 12,769","€ 664,000","€ 688,739",K,28,Germany,Darmstadt,Bundesliga,2016-2017
+4,4,Peter Niemeyer,"€ 12,538","€ 652,000","€ 676,292",M,32,Germany,Darmstadt,Bundesliga,2016-2017
+5,5,Mario Vrancic,"€ 12,154","€ 632,000","€ 655,547",M,27,Bosnia-Herzegovina,Darmstadt,Bundesliga,2016-2017
+6,6,Marcel Heller,"€ 12,115","€ 630,000","€ 653,473",M,30,Germany,Darmstadt,Bundesliga,2016-2017
+7,7,Jérôme Gondorf,"€ 11,442","€ 595,000","€ 617,168",M,28,Germany,Darmstadt,Bundesliga,2016-2017
+8,8,Alexander Milosevic,"€ 10,827","€ 563,000","€ 583,976",D,24,Sweden,Darmstadt,Bundesliga,2016-2017
+9,9,Jan Rosenthal,"€ 9,558","€ 497,000","€ 515,517",F,30,Germany,Darmstadt,Bundesliga,2016-2017
+10,10,Terrence Boyd,"€ 9,192","€ 478,000","€ 495,809",F,25,United States,Darmstadt,Bundesliga,2016-2017
+11,11,Immanuel Höhn,"€ 8,769","€ 456,000","€ 472,990",D,24,Germany,Darmstadt,Bundesliga,2016-2017
+12,12,Dominik Stroh-Engel,"€ 8,615","€ 448,000","€ 464,692",F,30,Germany,Darmstadt,Bundesliga,2016-2017
+13,13,Markus Steinhöfer,"€ 8,135","€ 423,000","€ 438,760",D,30,Germany,Darmstadt,Bundesliga,2016-2017
+14,14,Fabian Holland,"€ 8,135","€ 423,000","€ 438,760",D,25,Germany,Darmstadt,Bundesliga,2016-2017
+15,15,Wilson Kamavuaka,"€ 8,135","€ 423,000","€ 438,760",M,26,Democratic Republic of Congo,Darmstadt,Bundesliga,2016-2017
+16,16,Hamit Altintop,"€ 8,135","€ 423,000","€ 438,760",M,33,Turkey,Darmstadt,Bundesliga,2016-2017
+17,17,Patrick Banggaard,"€ 8,135","€ 423,000","€ 438,760",D,22,Denmark,Darmstadt,Bundesliga,2016-2017
+18,18,Denys Oliynyk,"€ 8,135","€ 423,000","€ 438,760",F,29,Ukraine,Darmstadt,Bundesliga,2016-2017
+19,19,Antonio Colak,"€ 7,692","€ 400,000","€ 414,903",F,22,Croatia,Darmstadt,Bundesliga,2016-2017
+20,20,Benjamin Gorka,"€ 6,654","€ 346,000","€ 358,891",D,32,Germany,Darmstadt,Bundesliga,2016-2017
+21,21,Daniel Heuer Fernandes,"€ 5,519","€ 287,000","€ 297,693",K,23,Portugal,Darmstadt,Bundesliga,2016-2017
+22,22,Sandro Sirigu,"€ 4,788","€ 249,000","€ 258,277",D,27,Germany,Darmstadt,Bundesliga,2016-2017
+23,23,Leon Guwara,"€ 2,385","€ 124,000","€ 128,620",D,20,Germany,Darmstadt,Bundesliga,2016-2017
+24,24,Felix Platte,"€ 1,904","€ 99,000","€ 102,689",F,20,Germany,Darmstadt,Bundesliga,2016-2017
+25,25,Yannick Stark,€ 0,€ 0,€ 0,M,25,Germany,Darmstadt,Bundesliga,2016-2017
+26,26,Änis Ben-Hatira,€ 0,€ 0,€ 0,M,27,Tunisia,Darmstadt,Bundesliga,2016-2017
+27,27,Aytac Sulu,€ 0,€ 0,€ 0,D,30,Turkey,Darmstadt,Bundesliga,2016-2017
+28,28,Can Luka Aydogan,€ 0,€ 0,€ 0,D,17,Germany,Darmstadt,Bundesliga,2016-2017
+29,29,Daniel Thur,€ 0,€ 0,€ 0,D,18,Germany,Darmstadt,Bundesliga,2016-2017
+30,30,Florian Jungwirth,€ 0,€ 0,€ 0,M,27,Germany,Darmstadt,Bundesliga,2016-2017
+31,31,Igor Berezovsky,€ 0,€ 0,€ 0,K,25,Ukraine,Darmstadt,Bundesliga,2016-2017
+32,32,Johannes Wolff,€ 0,€ 0,€ 0,D,17,Germany,Darmstadt,Bundesliga,2016-2017
+33,33,Júnior Díaz,€ 0,€ 0,€ 0,D,32,Costa Rica,Darmstadt,Bundesliga,2016-2017
+34,34,László Kleinheisler,€ 0,€ 0,€ 0,M,22,Hungary,Darmstadt,Bundesliga,2016-2017
+35,35,Liam Fisch,€ 0,€ 0,€ 0,F,17,Germany,Darmstadt,Bundesliga,2016-2017
+36,36,Roman Bezjak,€ 0,€ 0,€ 0,F,27,Slovenia,Darmstadt,Bundesliga,2016-2017
+37,37,Silas Zehnder,€ 0,€ 0,€ 0,D,17,Germany,Darmstadt,Bundesliga,2016-2017
+38,38,Victor Obinna,€ 0,€ 0,€ 0,F,29,Nigeria,Darmstadt,Bundesliga,2016-2017
+0,0,Alexander Meier,"€ 36,365","€ 1,891,000","€ 1,961,455",F,33,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+1,1,Bastian Oczipka,"€ 28,712","€ 1,493,000","€ 1,548,626",D,27,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+2,2,Marco Fabián,"€ 27,615","€ 1,436,000","€ 1,489,502",M,26,Mexico,Eintracht Frankfurt,Bundesliga,2016-2017
+3,3,Haris Seferovic,"€ 23,923","€ 1,244,000","€ 1,290,349",F,24,Switzerland,Eintracht Frankfurt,Bundesliga,2016-2017
+4,4,Ante Rebic,"€ 19,385","€ 1,008,000","€ 1,045,556",F,22,Croatia,Eintracht Frankfurt,Bundesliga,2016-2017
+5,5,Makoto Hasebe,"€ 19,135","€ 995,000","€ 1,032,072",M,32,Japan,Eintracht Frankfurt,Bundesliga,2016-2017
+6,6,Michael Hector,"€ 18,885","€ 982,000","€ 1,018,587",D,23,Jamaica,Eintracht Frankfurt,Bundesliga,2016-2017
+7,7,Guillermo Varela,"€ 16,673","€ 867,000","€ 899,303",D,23,Uruguay,Eintracht Frankfurt,Bundesliga,2016-2017
+8,8,Shani Tarashaj,"€ 16,673","€ 867,000","€ 899,303",F,21,Switzerland,Eintracht Frankfurt,Bundesliga,2016-2017
+9,9,Taleb Tawatha,"€ 14,346","€ 746,000","€ 773,794",D,24,Israel,Eintracht Frankfurt,Bundesliga,2016-2017
+10,10,Slobodan Medojevic,"€ 14,346","€ 746,000","€ 773,794",M,25,Serbia,Eintracht Frankfurt,Bundesliga,2016-2017
+11,11,Branimir Hrgota,"€ 14,346","€ 746,000","€ 773,794",F,23,Sweden,Eintracht Frankfurt,Bundesliga,2016-2017
+12,12,Marco Russ,"€ 14,346","€ 746,000","€ 773,794",D,30,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+13,13,Timothy Chandler,"€ 14,346","€ 746,000","€ 773,794",D,26,United States,Eintracht Frankfurt,Bundesliga,2016-2017
+14,14,David Abraham,"€ 13,192","€ 686,000","€ 711,559",D,29,Argentina,Eintracht Frankfurt,Bundesliga,2016-2017
+15,15,Marius Wolf,"€ 11,923","€ 620,000","€ 643,100",F,21,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+16,16,Danny Blum,"€ 9,558","€ 497,000","€ 515,517",F,25,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+17,17,Jesús Vallejo,"€ 9,173","€ 477,000","€ 494,772",D,19,Spain,Eintracht Frankfurt,Bundesliga,2016-2017
+18,18,Andersson Ordóñez,"€ 8,135","€ 423,000","€ 438,760",D,22,Ecuador,Eintracht Frankfurt,Bundesliga,2016-2017
+19,19,Heinz Lindner,"€ 8,135","€ 423,000","€ 438,760",K,25,Austria,Eintracht Frankfurt,Bundesliga,2016-2017
+20,20,Omar Mascarell,"€ 8,135","€ 423,000","€ 438,760",M,23,Spain,Eintracht Frankfurt,Bundesliga,2016-2017
+21,21,Mijat Gacinovic,"€ 8,135","€ 423,000","€ 438,760",M,21,Serbia,Eintracht Frankfurt,Bundesliga,2016-2017
+22,22,Marc Stendera,"€ 8,135","€ 423,000","€ 438,760",M,20,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+23,23,Yanni Regäsel,"€ 5,750","€ 299,000","€ 310,140",D,20,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+24,24,Max Besuschkow,"€ 4,308","€ 224,000","€ 232,346",M,19,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+25,25,Aymen Barkok,"€ 4,308","€ 224,000","€ 232,346",M,18,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+26,26,Lukas Hradecky,€ 0,€ 0,€ 0,K,26,Finland,Eintracht Frankfurt,Bundesliga,2016-2017
+27,27,Noel Knothe,€ 0,€ 0,€ 0,D,17,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+28,28,Luc Castaignos,€ 0,€ 0,€ 0,F,23,Netherlands,Eintracht Frankfurt,Bundesliga,2016-2017
+29,29,Leon Bätge,€ 0,€ 0,€ 0,K,18,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+30,30,Furkan Zorba,€ 0,€ 0,€ 0,D,18,Turkey,Eintracht Frankfurt,Bundesliga,2016-2017
+31,31,Szabolcs Huszti,€ 0,€ 0,€ 0,M,33,Hungary,Eintracht Frankfurt,Bundesliga,2016-2017
+32,32,Enis Bunjaki,€ 0,€ 0,€ 0,M,18,Kosovo,Eintracht Frankfurt,Bundesliga,2016-2017
+33,33,Deji Beyreuther,€ 0,€ 0,€ 0,D,16,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+34,34,Miguel Blanco-López,€ 0,€ 0,€ 0,M,17,Germany,Eintracht Frankfurt,Bundesliga,2016-2017
+0,0,Julian Schuster,"€ 23,923","€ 1,244,000","€ 1,290,349",M,31,Germany,Freiburg,Bundesliga,2016-2017
+1,1,Amir Abrashi,"€ 14,346","€ 746,000","€ 773,794",M,26,Albania,Freiburg,Bundesliga,2016-2017
+2,2,Rafal Gikiewicz,"€ 14,346","€ 746,000","€ 773,794",K,28,Poland,Freiburg,Bundesliga,2016-2017
+3,3,Nils Petersen,"€ 14,346","€ 746,000","€ 773,794",F,27,Germany,Freiburg,Bundesliga,2016-2017
+4,4,Aleksandar Ignjovski,"€ 14,346","€ 746,000","€ 773,794",M,25,Serbia,Freiburg,Bundesliga,2016-2017
+5,5,Christian Günter,"€ 14,346","€ 746,000","€ 773,794",D,23,Germany,Freiburg,Bundesliga,2016-2017
+6,6,Florian Niederlechner,"€ 14,346","€ 746,000","€ 773,794",F,25,Germany,Freiburg,Bundesliga,2016-2017
+7,7,Marc Torrejón,"€ 11,481","€ 597,000","€ 619,243",D,30,Spain,Freiburg,Bundesliga,2016-2017
+8,8,Georg Niedermeier,"€ 9,558","€ 497,000","€ 515,517",D,30,Germany,Freiburg,Bundesliga,2016-2017
+9,9,Mike Frantz,"€ 9,558","€ 497,000","€ 515,517",M,29,Germany,Freiburg,Bundesliga,2016-2017
+10,10,Janik Haberer,"€ 9,558","€ 497,000","€ 515,517",M,22,Germany,Freiburg,Bundesliga,2016-2017
+11,11,Manuel Gulde,"€ 8,808","€ 458,000","€ 475,064",D,25,Germany,Freiburg,Bundesliga,2016-2017
+12,12,Vincenzo Grifo,"€ 8,135","€ 423,000","€ 438,760",F,23,Italy,Freiburg,Bundesliga,2016-2017
+13,13,Karim Guédé,"€ 8,135","€ 423,000","€ 438,760",F,31,Slovakia,Freiburg,Bundesliga,2016-2017
+14,14,Nicolas Höfler,"€ 8,135","€ 423,000","€ 438,760",M,26,Germany,Freiburg,Bundesliga,2016-2017
+15,15,Onur Bulut,"€ 8,135","€ 423,000","€ 438,760",F,22,Germany,Freiburg,Bundesliga,2016-2017
+16,16,Patric Klandt,"€ 8,135","€ 423,000","€ 438,760",K,32,Germany,Freiburg,Bundesliga,2016-2017
+17,17,Vincent Sierro,"€ 8,135","€ 423,000","€ 438,760",M,20,Switzerland,Freiburg,Bundesliga,2016-2017
+18,18,Lukas Kübler,"€ 4,788","€ 249,000","€ 258,277",D,23,Germany,Freiburg,Bundesliga,2016-2017
+19,19,Maximilian Philipp,"€ 4,308","€ 224,000","€ 232,346",F,22,Germany,Freiburg,Bundesliga,2016-2017
+20,20,Pascal Stenzel,"€ 4,308","€ 224,000","€ 232,346",D,20,Germany,Freiburg,Bundesliga,2016-2017
+21,21,Alexander Schwolow,"€ 3,481","€ 181,000","€ 187,744",K,24,Germany,Freiburg,Bundesliga,2016-2017
+22,22,Jonas Föhrenbach,"€ 1,904","€ 99,000","€ 102,689",D,20,Germany,Freiburg,Bundesliga,2016-2017
+23,23,Amir Falahen,"€ 1,904","€ 99,000","€ 102,689",F,23,Palästina,Freiburg,Bundesliga,2016-2017
+24,24,Sebastian Kerk,€ 0,€ 0,€ 0,F,22,Germany,Freiburg,Bundesliga,2016-2017
+25,25,Lucas Hufnagel,€ 0,€ 0,€ 0,M,22,Georgia,Freiburg,Bundesliga,2016-2017
+26,26,Tim Kleindienst,€ 0,€ 0,€ 0,F,20,Germany,Freiburg,Bundesliga,2016-2017
+27,27,Havard Nielsen,€ 0,€ 0,€ 0,F,22,Norway,Freiburg,Bundesliga,2016-2017
+28,28,Jonas Meffert,€ 0,€ 0,€ 0,M,21,Germany,Freiburg,Bundesliga,2016-2017
+29,29,Florian Kath,€ 0,€ 0,€ 0,F,21,Germany,Freiburg,Bundesliga,2016-2017
+30,30,Caglar Söyüncü,€ 0,€ 0,€ 0,D,20,Turkey,Freiburg,Bundesliga,2016-2017
+31,31,Fabian Schleusener,€ 0,€ 0,€ 0,F,24,Germany,Freiburg,Bundesliga,2016-2017
+32,32,Marc Oliver Kempf,€ 0,€ 0,€ 0,D,21,Germany,Freiburg,Bundesliga,2016-2017
+33,33,Fabian Menig,€ 0,€ 0,€ 0,D,22,Germany,Freiburg,Bundesliga,2016-2017
+34,34,Mats Möller Daehli,€ 0,€ 0,€ 0,F,21,Norway,Freiburg,Bundesliga,2016-2017
+35,35,Caleb Stanko,€ 0,€ 0,€ 0,M,22,United States,Freiburg,Bundesliga,2016-2017
+0,0,Pierre-Michel Lasogga,"€ 62,365","€ 3,243,000","€ 3,363,828",F,24,Germany,Hamburg,Bundesliga,2016-2017
+1,1,Kyriakos Papadopoulos,"€ 55,212","€ 2,871,000","€ 2,977,968",D,24,Greece,Hamburg,Bundesliga,2016-2017
+2,2,René Adler,"€ 49,692","€ 2,584,000","€ 2,680,275",K,31,Germany,Hamburg,Bundesliga,2016-2017
+3,3,Lewis Holtby,"€ 46,019","€ 2,393,000","€ 2,482,158",M,25,Germany,Hamburg,Bundesliga,2016-2017
+4,4,Filip Kostic,"€ 46,019","€ 2,393,000","€ 2,482,158",M,23,Serbia,Hamburg,Bundesliga,2016-2017
+5,5,Douglas Santos,"€ 44,173","€ 2,297,000","€ 2,382,582",D,22,Brazil,Hamburg,Bundesliga,2016-2017
+6,6,Nicolai Müller,"€ 36,808","€ 1,914,000","€ 1,985,312",F,28,Germany,Hamburg,Bundesliga,2016-2017
+7,7,Aaron Hunt,"€ 36,808","€ 1,914,000","€ 1,985,312",M,29,Germany,Hamburg,Bundesliga,2016-2017
+8,8,Johan Djourou,"€ 36,808","€ 1,914,000","€ 1,985,312",D,29,Switzerland,Hamburg,Bundesliga,2016-2017
+9,9,Albin Ekdal,"€ 36,808","€ 1,914,000","€ 1,985,312",M,26,Sweden,Hamburg,Bundesliga,2016-2017
+10,10,Walace,"€ 36,365","€ 1,891,000","€ 1,961,455",M,21,Brazil,Hamburg,Bundesliga,2016-2017
+11,11,Matthias Ostrzolek,"€ 36,365","€ 1,891,000","€ 1,961,455",D,26,Germany,Hamburg,Bundesliga,2016-2017
+12,12,Dennis Diekmeier,"€ 23,923","€ 1,244,000","€ 1,290,349",D,26,Germany,Hamburg,Bundesliga,2016-2017
+13,13,Nabil Bahoui,"€ 14,346","€ 746,000","€ 773,794",F,25,Sweden,Hamburg,Bundesliga,2016-2017
+14,14,Gideon Jung,"€ 14,346","€ 746,000","€ 773,794",D,21,Germany,Hamburg,Bundesliga,2016-2017
+15,15,Michael Gregoritsch,"€ 14,346","€ 746,000","€ 773,794",F,22,Austria,Hamburg,Bundesliga,2016-2017
+16,16,Sven Schipplock,"€ 14,346","€ 746,000","€ 773,794",F,27,Germany,Hamburg,Bundesliga,2016-2017
+17,17,Christian Mathenia,"€ 8,135","€ 423,000","€ 438,760",K,24,Germany,Hamburg,Bundesliga,2016-2017
+18,18,Ashton Götz,"€ 8,135","€ 423,000","€ 438,760",D,22,Germany,Hamburg,Bundesliga,2016-2017
+19,19,Luca Waldschmidt,"€ 8,135","€ 423,000","€ 438,760",F,20,Germany,Hamburg,Bundesliga,2016-2017
+20,20,Bobby Wood,"€ 6,308","€ 328,000","€ 340,221",F,23,United States,Hamburg,Bundesliga,2016-2017
+21,21,Tom Mickel,"€ 1,904","€ 99,000","€ 102,689",K,27,Germany,Hamburg,Bundesliga,2016-2017
+22,22,Mats Köhlert,"€ 1,904","€ 99,000","€ 102,689",F,18,Germany,Hamburg,Bundesliga,2016-2017
+23,23,Frank Ronstadt,"€ 1,154","€ 60,000","€ 62,235",M,18,Germany,Hamburg,Bundesliga,2016-2017
+24,24,Dren Feka,"€ 1,154","€ 60,000","€ 62,235",M,19,Kosovo,Hamburg,Bundesliga,2016-2017
+25,25,Andreas Hirzel,"€ 1,154","€ 60,000","€ 62,235",K,23,Switzerland,Hamburg,Bundesliga,2016-2017
+26,26,Vasilije Janjicic,"€ 1,038","€ 54,000","€ 56,012",M,17,Switzerland,Hamburg,Bundesliga,2016-2017
+27,27,Bakery Jatta,€ 962,"€ 50,000","€ 51,863",F,18,The Gambia,Hamburg,Bundesliga,2016-2017
+28,28,Finn Porath,€ 962,"€ 50,000","€ 51,863",F,19,Germany,Hamburg,Bundesliga,2016-2017
+29,29,Oliver Oschkenat,€ 519,"€ 27,000","€ 28,006",D,22,Germany,Hamburg,Bundesliga,2016-2017
+30,30,Alen Halilovic,€ 0,€ 0,€ 0,M,20,Croatia,Hamburg,Bundesliga,2016-2017
+31,31,Emir Spahic,€ 0,€ 0,€ 0,D,35,Bosnia-Herzegovina,Hamburg,Bundesliga,2016-2017
+32,32,Gotoku Sakai,€ 0,€ 0,€ 0,D,25,Japan,Hamburg,Bundesliga,2016-2017
+33,33,Batuhan Altintas,€ 0,€ 0,€ 0,F,20,Turkey,Hamburg,Bundesliga,2016-2017
+34,34,Cléber Reis,€ 0,€ 0,€ 0,D,25,Brazil,Hamburg,Bundesliga,2016-2017
+35,35,Mergim Mavraj,€ 0,€ 0,€ 0,D,30,Albania,Hamburg,Bundesliga,2016-2017
+36,36,Mohamed Gouaida,€ 0,€ 0,€ 0,M,23,Tunisia,Hamburg,Bundesliga,2016-2017
+37,37,Arianit Ferati,€ 0,€ 0,€ 0,F,18,Germany,Hamburg,Bundesliga,2016-2017
+0,0,Salomon Kalou,"€ 40,346","€ 2,098,000","€ 2,176,167",F,30,Cote d'Ivoire,Hertha Berlin,Bundesliga,2016-2017
+1,1,Fabian Lustenberger,"€ 33,135","€ 1,723,000","€ 1,787,195",D,28,Switzerland,Hertha Berlin,Bundesliga,2016-2017
+2,2,Valentin Stocker,"€ 33,019","€ 1,717,000","€ 1,780,972",M,27,Switzerland,Hertha Berlin,Bundesliga,2016-2017
+3,3,Niklas Stark,"€ 27,519","€ 1,431,000","€ 1,484,316",D,21,Germany,Hertha Berlin,Bundesliga,2016-2017
+4,4,Vladimir Darida,"€ 27,519","€ 1,431,000","€ 1,484,316",M,25,Czech Republic,Hertha Berlin,Bundesliga,2016-2017
+5,5,Mitchell Weiser,"€ 22,096","€ 1,149,000","€ 1,191,809",D,22,Germany,Hertha Berlin,Bundesliga,2016-2017
+6,6,Thomas Kraft,"€ 22,019","€ 1,145,000","€ 1,187,660",K,27,Germany,Hertha Berlin,Bundesliga,2016-2017
+7,7,Vedad Ibisevic,"€ 21,135","€ 1,099,000","€ 1,139,946",F,31,Bosnia-Herzegovina,Hertha Berlin,Bundesliga,2016-2017
+8,8,Marvin Plattenhardt,"€ 19,154","€ 996,000","€ 1,033,109",D,24,Germany,Hertha Berlin,Bundesliga,2016-2017
+9,9,Julian Schieber,"€ 18,404","€ 957,000","€ 992,656",F,27,Germany,Hertha Berlin,Bundesliga,2016-2017
+10,10,Ondrej Duda,"€ 14,731","€ 766,000","€ 794,540",M,21,Slovakia,Hertha Berlin,Bundesliga,2016-2017
+11,11,Alexander Esswein,"€ 14,346","€ 746,000","€ 773,794",F,26,Germany,Hertha Berlin,Bundesliga,2016-2017
+12,12,Peter Pekarik,"€ 14,346","€ 746,000","€ 773,794",D,29,Slovakia,Hertha Berlin,Bundesliga,2016-2017
+13,13,Rune Jarstein,"€ 14,346","€ 746,000","€ 773,794",K,31,Norway,Hertha Berlin,Bundesliga,2016-2017
+14,14,Sami Allagui,"€ 14,346","€ 746,000","€ 773,794",F,30,Tunisia,Hertha Berlin,Bundesliga,2016-2017
+15,15,Sebastian Langkamp,"€ 14,346","€ 746,000","€ 773,794",D,28,Germany,Hertha Berlin,Bundesliga,2016-2017
+16,16,Genki Haraguchi,"€ 13,750","€ 715,000","€ 741,639",F,25,Japan,Hertha Berlin,Bundesliga,2016-2017
+17,17,Alexander Baumjohann,"€ 12,827","€ 667,000","€ 691,851",M,29,Germany,Hertha Berlin,Bundesliga,2016-2017
+18,18,Sinan Kurt,"€ 9,904","€ 515,000","€ 534,188",F,19,Germany,Hertha Berlin,Bundesliga,2016-2017
+19,19,Allan,"€ 3,327","€ 173,000","€ 179,446",M,19,Brazil,Hertha Berlin,Bundesliga,2016-2017
+20,20,Florian Baak,"€ 2,019","€ 105,000","€ 108,912",D,17,Germany,Hertha Berlin,Bundesliga,2016-2017
+21,21,Maximilian Mittelstädt,"€ 1,904","€ 99,000","€ 102,689",D,19,Germany,Hertha Berlin,Bundesliga,2016-2017
+22,22,Arne Maier,"€ 1,827","€ 95,000","€ 98,540",M,17,Germany,Hertha Berlin,Bundesliga,2016-2017
+23,23,Florian Kohls,"€ 1,442","€ 75,000","€ 77,794",M,21,Germany,Hertha Berlin,Bundesliga,2016-2017
+24,24,Jordan Torunarigha,"€ 1,442","€ 75,000","€ 77,794",D,18,Germany,Hertha Berlin,Bundesliga,2016-2017
+25,25,Nils Körber,"€ 1,442","€ 75,000","€ 77,794",K,19,Germany,Hertha Berlin,Bundesliga,2016-2017
+26,26,Marcus Mlynikowski,€ 808,"€ 42,000","€ 43,565",D,23,Germany,Hertha Berlin,Bundesliga,2016-2017
+27,27,Julius Kade,€ 58,"€ 3,000","€ 3,112",M,17,Germany,Hertha Berlin,Bundesliga,2016-2017
+28,28,John Anthony Brooks,€ 0,€ 0,€ 0,D,23,United States,Hertha Berlin,Bundesliga,2016-2017
+29,29,Per Ciljan Skjelbred,€ 0,€ 0,€ 0,M,29,Norway,Hertha Berlin,Bundesliga,2016-2017
+30,30,Palko Dárdai,€ 0,€ 0,€ 0,F,17,Germany,Hertha Berlin,Bundesliga,2016-2017
+31,31,Tolga Cigerci,€ 0,€ 0,€ 0,M,24,Turkey,Hertha Berlin,Bundesliga,2016-2017
+32,32,Jens Hegeler,€ 0,€ 0,€ 0,M,28,Germany,Hertha Berlin,Bundesliga,2016-2017
+0,0,Oliver Baumann,"€ 55,212","€ 2,871,000","€ 2,977,968",K,26,Germany,Hoffenheim,Bundesliga,2016-2017
+1,1,Ádám Szalai,"€ 55,212","€ 2,871,000","€ 2,977,968",F,28,Hungary,Hoffenheim,Bundesliga,2016-2017
+2,2,Pirmin Schwegler,"€ 55,212","€ 2,871,000","€ 2,977,968",M,29,Switzerland,Hoffenheim,Bundesliga,2016-2017
+3,3,Andrej Kramaric,"€ 45,846","€ 2,384,000","€ 2,472,823",F,25,Croatia,Hoffenheim,Bundesliga,2016-2017
+4,4,Lukas Rupp,"€ 36,808","€ 1,914,000","€ 1,985,312",M,25,Germany,Hoffenheim,Bundesliga,2016-2017
+5,5,Eugen Polanski,"€ 36,808","€ 1,914,000","€ 1,985,312",M,30,Poland,Hoffenheim,Bundesliga,2016-2017
+6,6,Pavel Kaderabek,"€ 36,365","€ 1,891,000","€ 1,961,455",D,24,Czech Republic,Hoffenheim,Bundesliga,2016-2017
+7,7,Fabian Schär,"€ 28,712","€ 1,493,000","€ 1,548,626",D,24,Switzerland,Hoffenheim,Bundesliga,2016-2017
+8,8,Sebastian Rudy,"€ 28,712","€ 1,493,000","€ 1,548,626",M,26,Germany,Hoffenheim,Bundesliga,2016-2017
+9,9,Sandro Wagner,"€ 27,615","€ 1,436,000","€ 1,489,502",F,28,Germany,Hoffenheim,Bundesliga,2016-2017
+10,10,Niklas Süle,"€ 18,404","€ 957,000","€ 992,656",D,20,Germany,Hoffenheim,Bundesliga,2016-2017
+11,11,Ermin Bicakcic,"€ 18,346","€ 954,000","€ 989,544",D,26,Bosnia-Herzegovina,Hoffenheim,Bundesliga,2016-2017
+12,12,Kevin Vogt,"€ 18,346","€ 954,000","€ 989,544",D,24,Germany,Hoffenheim,Bundesliga,2016-2017
+13,13,Benjamin Hübner,"€ 14,673","€ 763,000","€ 791,428",D,26,Germany,Hoffenheim,Bundesliga,2016-2017
+14,14,Steven Zuber,"€ 14,346","€ 746,000","€ 773,794",M,24,Switzerland,Hoffenheim,Bundesliga,2016-2017
+15,15,Jeremy Toljan,"€ 14,346","€ 746,000","€ 773,794",D,21,Germany,Hoffenheim,Bundesliga,2016-2017
+16,16,Kerem Demirbay,"€ 14,346","€ 746,000","€ 773,794",M,22,Germany,Hoffenheim,Bundesliga,2016-2017
+17,17,Marco Terrazzino,"€ 14,346","€ 746,000","€ 773,794",F,25,Germany,Hoffenheim,Bundesliga,2016-2017
+18,18,Mark Uth,"€ 14,346","€ 746,000","€ 773,794",F,24,Germany,Hoffenheim,Bundesliga,2016-2017
+19,19,Antonio Colak,"€ 7,692","€ 400,000","€ 414,903",F,22,Croatia,Hoffenheim,Bundesliga,2016-2017
+20,20,Philipp Ochs,"€ 4,788","€ 249,000","€ 258,277",F,19,Germany,Hoffenheim,Bundesliga,2016-2017
+21,21,Nadiem Amiri,"€ 3,827","€ 199,000","€ 206,414",M,19,Germany,Hoffenheim,Bundesliga,2016-2017
+22,22,Danilo Soares,"€ 2,385","€ 124,000","€ 128,620",D,24,Brazil,Hoffenheim,Bundesliga,2016-2017
+23,23,Gregor Kobel,"€ 2,346","€ 122,000","€ 126,545",K,18,Switzerland,Hoffenheim,Bundesliga,2016-2017
+24,24,Baris Atik,"€ 1,442","€ 75,000","€ 77,794",M,21,Germany,Hoffenheim,Bundesliga,2016-2017
+25,25,Alexander Stolz,€ 962,"€ 50,000","€ 51,863",K,32,Germany,Hoffenheim,Bundesliga,2016-2017
+26,26,Stefan Posch,€ 577,"€ 30,000","€ 31,118",D,19,Austria,Hoffenheim,Bundesliga,2016-2017
+27,27,Dennis Geiger,€ 385,"€ 20,000","€ 20,745",M,18,Germany,Hoffenheim,Bundesliga,2016-2017
+28,28,Eduardo Vargas,€ 0,€ 0,€ 0,F,26,Chile,Hoffenheim,Bundesliga,2016-2017
+29,29,In-hyeok Park,€ 0,€ 0,€ 0,F,20,South Korea,Hoffenheim,Bundesliga,2016-2017
+30,30,Nicolai Rapp,€ 0,€ 0,€ 0,D,19,Germany,Hoffenheim,Bundesliga,2016-2017
+31,31,Benedikt Gimber,€ 0,€ 0,€ 0,D,19,Germany,Hoffenheim,Bundesliga,2016-2017
+32,32,Kevin Akpoguma,€ 0,€ 0,€ 0,D,21,Germany,Hoffenheim,Bundesliga,2016-2017
+0,0,Darío Lezcano,"€ 19,154","€ 996,000","€ 1,033,109",F,26,Paraguay,Ingolstadt,Bundesliga,2016-2017
+1,1,Marcel Tisserand,"€ 14,346","€ 746,000","€ 773,794",D,23,Democratic Republic of Congo,Ingolstadt,Bundesliga,2016-2017
+2,2,Roger,"€ 14,346","€ 746,000","€ 773,794",M,30,Brazil,Ingolstadt,Bundesliga,2016-2017
+3,3,Robert Leipertz,"€ 14,346","€ 746,000","€ 773,794",F,23,Germany,Ingolstadt,Bundesliga,2016-2017
+4,4,Mathew Leckie,"€ 14,346","€ 746,000","€ 773,794",F,25,Australia,Ingolstadt,Bundesliga,2016-2017
+5,5,Florent Hadergjonaj,"€ 14,346","€ 746,000","€ 773,794",D,21,Kosovo,Ingolstadt,Bundesliga,2016-2017
+6,6,Markus Suttner,"€ 14,346","€ 746,000","€ 773,794",D,29,Austria,Ingolstadt,Bundesliga,2016-2017
+7,7,Marvin Matip,"€ 11,962","€ 622,000","€ 645,174",D,30,Cameroon,Ingolstadt,Bundesliga,2016-2017
+8,8,Tobias Levels,"€ 9,558","€ 497,000","€ 515,517",D,29,Germany,Ingolstadt,Bundesliga,2016-2017
+9,9,Anthony Jung,"€ 9,558","€ 497,000","€ 515,517",D,24,Germany,Ingolstadt,Bundesliga,2016-2017
+10,10,Lukas Hinterseer,"€ 9,558","€ 497,000","€ 515,517",F,25,Austria,Ingolstadt,Bundesliga,2016-2017
+11,11,Martin Hansen,"€ 9,558","€ 497,000","€ 515,517",K,26,Denmark,Ingolstadt,Bundesliga,2016-2017
+12,12,Romain Brégerie,"€ 9,558","€ 497,000","€ 515,517",D,29,France,Ingolstadt,Bundesliga,2016-2017
+13,13,Sonny Kittel,"€ 9,558","€ 497,000","€ 515,517",M,23,Germany,Ingolstadt,Bundesliga,2016-2017
+14,14,Pascal Groß,"€ 8,135","€ 423,000","€ 438,760",M,25,Germany,Ingolstadt,Bundesliga,2016-2017
+15,15,Alfredo Morales,"€ 8,135","€ 423,000","€ 438,760",M,26,United States,Ingolstadt,Bundesliga,2016-2017
+16,16,Moritz Hartmann,"€ 8,135","€ 423,000","€ 438,760",F,30,Germany,Ingolstadt,Bundesliga,2016-2017
+17,17,Almog Cohen,"€ 8,135","€ 423,000","€ 438,760",M,27,Israel,Ingolstadt,Bundesliga,2016-2017
+18,18,Max Christiansen,"€ 4,788","€ 249,000","€ 258,277",M,19,Germany,Ingolstadt,Bundesliga,2016-2017
+19,19,Stefan Lex,"€ 4,308","€ 224,000","€ 232,346",F,26,Germany,Ingolstadt,Bundesliga,2016-2017
+20,20,Fabijan Buntic,"€ 2,558","€ 133,000","€ 137,955",K,19,Croatia,Ingolstadt,Bundesliga,2016-2017
+21,21,Maurice Multhaup,"€ 1,904","€ 99,000","€ 102,689",M,19,Germany,Ingolstadt,Bundesliga,2016-2017
+22,22,Giuseppe Leo,"€ 1,788","€ 93,000","€ 96,465",D,21,Germany,Ingolstadt,Bundesliga,2016-2017
+23,23,Nico Rinderknecht,€ 808,"€ 42,000","€ 43,565",M,18,Germany,Ingolstadt,Bundesliga,2016-2017
+24,24,Christian Ortag,€ 731,"€ 38,000","€ 39,416",K,21,Germany,Ingolstadt,Bundesliga,2016-2017
+25,25,Thomas Pledl,€ 0,€ 0,€ 0,M,22,Germany,Ingolstadt,Bundesliga,2016-2017
+26,26,Kerem Bülbül,€ 0,€ 0,€ 0,M,21,Germany,Ingolstadt,Bundesliga,2016-2017
+27,27,Lukas Gerlspeck,€ 0,€ 0,€ 0,D,17,Germany,Ingolstadt,Bundesliga,2016-2017
+28,28,Elias Kachunga,€ 0,€ 0,€ 0,F,24,Democratic Republic of Congo,Ingolstadt,Bundesliga,2016-2017
+29,29,Örjan Nyland,€ 0,€ 0,€ 0,K,25,Norway,Ingolstadt,Bundesliga,2016-2017
+30,30,Hauke Wahl,€ 0,€ 0,€ 0,D,22,Germany,Ingolstadt,Bundesliga,2016-2017
+31,31,Patrick Sussek,€ 0,€ 0,€ 0,M,16,Germany,Ingolstadt,Bundesliga,2016-2017
+0,0,Jonas Hector,"€ 45,846","€ 2,384,000","€ 2,472,823",D,26,Germany,Koln,Bundesliga,2016-2017
+1,1,Anthony Modeste,"€ 45,846","€ 2,384,000","€ 2,472,823",F,28,France,Koln,Bundesliga,2016-2017
+2,2,Neven Subotic,"€ 36,808","€ 1,914,000","€ 1,985,312",D,27,Germany,Koln,Bundesliga,2016-2017
+3,3,Leonardo Bittencourt,"€ 27,519","€ 1,431,000","€ 1,484,316",M,22,Germany,Koln,Bundesliga,2016-2017
+4,4,Christian Clemens,"€ 27,519","€ 1,431,000","€ 1,484,316",M,24,Germany,Koln,Bundesliga,2016-2017
+5,5,Timo Horn,"€ 27,519","€ 1,431,000","€ 1,484,316",K,23,Germany,Koln,Bundesliga,2016-2017
+6,6,Marco Höger,"€ 18,346","€ 954,000","€ 989,544",M,26,Germany,Koln,Bundesliga,2016-2017
+7,7,Dominic Maroh,"€ 18,346","€ 954,000","€ 989,544",D,29,Slovenia,Koln,Bundesliga,2016-2017
+8,8,Milos Jojic,"€ 18,346","€ 954,000","€ 989,544",M,24,Serbia,Koln,Bundesliga,2016-2017
+9,9,Konstantin Rausch,"€ 14,673","€ 763,000","€ 791,428",D,26,Russia,Koln,Bundesliga,2016-2017
+10,10,Simon Zoller,"€ 14,673","€ 763,000","€ 791,428",F,25,Germany,Koln,Bundesliga,2016-2017
+11,11,Dominique Heintz,"€ 14,673","€ 763,000","€ 791,428",D,22,Germany,Koln,Bundesliga,2016-2017
+12,12,Matthias Lehmann,"€ 14,673","€ 763,000","€ 791,428",M,33,Germany,Koln,Bundesliga,2016-2017
+13,13,Artjoms Rudnevs,"€ 14,673","€ 763,000","€ 791,428",F,28,Latvia,Koln,Bundesliga,2016-2017
+14,14,Marcel Risse,"€ 14,673","€ 763,000","€ 791,428",M,26,Germany,Koln,Bundesliga,2016-2017
+15,15,Pawel Olkowski,"€ 11,000","€ 572,000","€ 593,312",D,26,Poland,Koln,Bundesliga,2016-2017
+16,16,Thomas Kessler,"€ 7,327","€ 381,000","€ 395,195",K,30,Germany,Koln,Bundesliga,2016-2017
+17,17,Marcel Hartel,"€ 5,500","€ 286,000","€ 296,656",F,20,Germany,Koln,Bundesliga,2016-2017
+18,18,Salih Özcan,"€ 4,308","€ 224,000","€ 232,346",M,18,Germany,Koln,Bundesliga,2016-2017
+19,19,Lukas Klünter,"€ 3,673","€ 191,000","€ 198,116",D,20,Germany,Koln,Bundesliga,2016-2017
+20,20,Sven Müller,"€ 1,827","€ 95,000","€ 98,540",K,20,Germany,Koln,Bundesliga,2016-2017
+21,21,Matthias Hamrol,€ 731,"€ 38,000","€ 39,416",K,22,Germany,Koln,Bundesliga,2016-2017
+22,22,Sven Bacher,€ 731,"€ 38,000","€ 39,416",K,27,Germany,Koln,Bundesliga,2016-2017
+23,23,Birk Risa,€ 462,"€ 24,000","€ 24,894",D,18,Norway,Koln,Bundesliga,2016-2017
+24,24,Hikmet Ciftci,€ 0,€ 0,€ 0,M,18,Turkey,Koln,Bundesliga,2016-2017
+25,25,Filip Mladenovic,€ 0,€ 0,€ 0,D,24,Serbia,Koln,Bundesliga,2016-2017
+26,26,Mergim Mavraj,€ 0,€ 0,€ 0,D,30,Albania,Koln,Bundesliga,2016-2017
+27,27,Yuya Osako,€ 0,€ 0,€ 0,F,26,Japan,Koln,Bundesliga,2016-2017
+28,28,Serhou Guirassy,€ 0,€ 0,€ 0,F,20,France,Koln,Bundesliga,2016-2017
+29,29,Frederik Sörensen,€ 0,€ 0,€ 0,D,24,Denmark,Koln,Bundesliga,2016-2017
+0,0,Emil Forsberg,"€ 73,365","€ 3,815,000","€ 3,957,139",F,24,Sweden,Leipzig,Bundesliga,2016-2017
+1,1,Naby Keïta,"€ 55,212","€ 2,871,000","€ 2,977,968",M,21,Guinea,Leipzig,Bundesliga,2016-2017
+2,2,Kyriakos Papadopoulos,"€ 55,212","€ 2,871,000","€ 2,977,968",D,24,Greece,Leipzig,Bundesliga,2016-2017
+3,3,Timo Werner,"€ 36,808","€ 1,914,000","€ 1,985,312",F,20,Germany,Leipzig,Bundesliga,2016-2017
+4,4,Marcel Sabitzer,"€ 36,692","€ 1,908,000","€ 1,979,088",F,22,Austria,Leipzig,Bundesliga,2016-2017
+5,5,Davie Selke,"€ 27,519","€ 1,431,000","€ 1,484,316",F,21,Germany,Leipzig,Bundesliga,2016-2017
+6,6,Yussuf Poulsen,"€ 22,096","€ 1,149,000","€ 1,191,809",F,22,Denmark,Leipzig,Bundesliga,2016-2017
+7,7,Marcel Halstenberg,"€ 19,808","€ 1,030,000","€ 1,068,376",D,24,Germany,Leipzig,Bundesliga,2016-2017
+8,8,Péter Gulácsi,"€ 19,154","€ 996,000","€ 1,033,109",K,26,Hungary,Leipzig,Bundesliga,2016-2017
+9,9,Diego Demme,"€ 18,346","€ 954,000","€ 989,544",M,24,Germany,Leipzig,Bundesliga,2016-2017
+10,10,Willi Orban,"€ 18,346","€ 954,000","€ 989,544",D,23,Hungary,Leipzig,Bundesliga,2016-2017
+11,11,Oliver Burke,"€ 14,346","€ 746,000","€ 773,794",F,19,Scotland,Leipzig,Bundesliga,2016-2017
+12,12,Dayot Upamecano,"€ 14,346","€ 746,000","€ 773,794",D,17,France,Leipzig,Bundesliga,2016-2017
+13,13,Marvin Compper,"€ 14,346","€ 746,000","€ 773,794",D,31,Germany,Leipzig,Bundesliga,2016-2017
+14,14,Marius Müller,"€ 14,346","€ 746,000","€ 773,794",K,22,Germany,Leipzig,Bundesliga,2016-2017
+15,15,Stefan Ilsanker,"€ 14,346","€ 746,000","€ 773,794",M,27,Austria,Leipzig,Bundesliga,2016-2017
+16,16,Dominik Kaiser,"€ 14,346","€ 746,000","€ 773,794",M,27,Germany,Leipzig,Bundesliga,2016-2017
+17,17,Anthony Jung,"€ 9,558","€ 497,000","€ 515,517",D,24,Germany,Leipzig,Bundesliga,2016-2017
+18,18,Lukas Klostermann,"€ 9,173","€ 477,000","€ 494,772",D,20,Germany,Leipzig,Bundesliga,2016-2017
+19,19,Benno Schmitz,"€ 8,135","€ 423,000","€ 438,760",D,21,Germany,Leipzig,Bundesliga,2016-2017
+20,20,Bernardo,"€ 8,135","€ 423,000","€ 438,760",D,21,Brazil,Leipzig,Bundesliga,2016-2017
+21,21,Rani Khedira,"€ 8,135","€ 423,000","€ 438,760",M,22,Germany,Leipzig,Bundesliga,2016-2017
+22,22,Fabio Coltorti,"€ 3,827","€ 199,000","€ 206,414",K,35,Switzerland,Leipzig,Bundesliga,2016-2017
+23,23,Benjamin Bellot,"€ 1,904","€ 99,000","€ 102,689",K,25,Germany,Leipzig,Bundesliga,2016-2017
+24,24,Ken Gipson,€ 962,"€ 50,000","€ 51,863",D,20,Germany,Leipzig,Bundesliga,2016-2017
+25,25,Kamil Wojtkowski,€ 481,"€ 25,000","€ 25,931",M,18,Poland,Leipzig,Bundesliga,2016-2017
+26,26,Dominik Franke,€ 58,"€ 3,000","€ 3,112",D,17,Germany,Leipzig,Bundesliga,2016-2017
+27,27,Atinc Nukan,€ 0,€ 0,€ 0,D,22,Turkey,Leipzig,Bundesliga,2016-2017
+28,28,Federico Palacios,€ 0,€ 0,€ 0,F,21,Germany,Leipzig,Bundesliga,2016-2017
+29,29,Zsolt Kalmár,€ 0,€ 0,€ 0,M,21,Hungary,Leipzig,Bundesliga,2016-2017
+30,30,Nils Quaschner,€ 0,€ 0,€ 0,F,22,Germany,Leipzig,Bundesliga,2016-2017
+31,31,Massimo Bruno,€ 0,€ 0,€ 0,F,22,Belgium,Leipzig,Bundesliga,2016-2017
+32,32,John-Patrick Strauß,€ 0,€ 0,€ 0,D,20,Philippines,Leipzig,Bundesliga,2016-2017
+0,0,Yunus Malli,"€ 82,538","€ 4,292,000","€ 4,451,911",M,24,Turkey,Mainz,Bundesliga,2016-2017
+1,1,André Ramalho,"€ 27,615","€ 1,436,000","€ 1,489,502",D,24,Brazil,Mainz,Bundesliga,2016-2017
+2,2,Fabian Frei,"€ 27,615","€ 1,436,000","€ 1,489,502",M,27,Switzerland,Mainz,Bundesliga,2016-2017
+3,3,Christian Clemens,"€ 27,519","€ 1,431,000","€ 1,484,316",M,24,Germany,Mainz,Bundesliga,2016-2017
+4,4,Jhon Córdoba,"€ 22,019","€ 1,145,000","€ 1,187,660",F,23,Colombia,Mainz,Bundesliga,2016-2017
+5,5,Pablo de Blasis,"€ 14,731","€ 766,000","€ 794,540",F,28,Argentina,Mainz,Bundesliga,2016-2017
+6,6,Danny Latza,"€ 14,346","€ 746,000","€ 773,794",M,26,Germany,Mainz,Bundesliga,2016-2017
+7,7,Levin Öztunali,"€ 14,346","€ 746,000","€ 773,794",M,20,Germany,Mainz,Bundesliga,2016-2017
+8,8,Florian Niederlechner,"€ 14,346","€ 746,000","€ 773,794",F,25,Germany,Mainz,Bundesliga,2016-2017
+9,9,Giulio Donati,"€ 14,346","€ 746,000","€ 773,794",D,26,Italy,Mainz,Bundesliga,2016-2017
+10,10,Stefan Bell,"€ 14,346","€ 746,000","€ 773,794",D,24,Germany,Mainz,Bundesliga,2016-2017
+11,11,Robin Quaison,"€ 14,346","€ 746,000","€ 773,794",F,22,Sweden,Mainz,Bundesliga,2016-2017
+12,12,Jonas Lössl,"€ 14,346","€ 746,000","€ 773,794",K,27,Denmark,Mainz,Bundesliga,2016-2017
+13,13,Niko Bungert,"€ 14,346","€ 746,000","€ 773,794",D,29,Germany,Mainz,Bundesliga,2016-2017
+14,14,Daniel Brosinski,"€ 12,846","€ 668,000","€ 692,888",D,27,Germany,Mainz,Bundesliga,2016-2017
+15,15,Emil Berggreen,"€ 9,558","€ 497,000","€ 515,517",F,23,Denmark,Mainz,Bundesliga,2016-2017
+16,16,Jean-Philippe Gbamin,"€ 9,558","€ 497,000","€ 515,517",M,20,Cote d'Ivoire,Mainz,Bundesliga,2016-2017
+17,17,Gerrit Holtmann,"€ 9,173","€ 477,000","€ 494,772",F,21,Germany,Mainz,Bundesliga,2016-2017
+18,18,Suat Serdar,"€ 9,173","€ 477,000","€ 494,772",M,19,Germany,Mainz,Bundesliga,2016-2017
+19,19,Gaëtan Bussmann,"€ 8,135","€ 423,000","€ 438,760",D,25,France,Mainz,Bundesliga,2016-2017
+20,20,Leon Balogun,"€ 8,135","€ 423,000","€ 438,760",D,28,Nigeria,Mainz,Bundesliga,2016-2017
+21,21,Karim Onisiwo,"€ 8,135","€ 423,000","€ 438,760",F,24,Austria,Mainz,Bundesliga,2016-2017
+22,22,Besar Halimi,"€ 7,654","€ 398,000","€ 412,829",M,21,Kosovo,Mainz,Bundesliga,2016-2017
+23,23,Philipp Klement,"€ 4,308","€ 224,000","€ 232,346",M,23,Germany,Mainz,Bundesliga,2016-2017
+24,24,Devante Parker,"€ 4,308","€ 224,000","€ 232,346",F,20,Germany,Mainz,Bundesliga,2016-2017
+25,25,Alexander Hack,"€ 2,865","€ 149,000","€ 154,551",D,22,Germany,Mainz,Bundesliga,2016-2017
+26,26,Aaron Seydel,"€ 1,904","€ 99,000","€ 102,689",F,20,Germany,Mainz,Bundesliga,2016-2017
+27,27,Mounir Bouziane,"€ 1,904","€ 99,000","€ 102,689",F,25,France,Mainz,Bundesliga,2016-2017
+28,28,Jannik Huth,"€ 1,904","€ 99,000","€ 102,689",K,22,Germany,Mainz,Bundesliga,2016-2017
+29,29,Marin Sverko,"€ 1,096","€ 57,000","€ 59,124",D,18,Croatia,Mainz,Bundesliga,2016-2017
+30,30,Florian Müller,€ 808,"€ 42,000","€ 43,565",K,18,Germany,Mainz,Bundesliga,2016-2017
+31,31,Pierre Bengtsson,€ 0,€ 0,€ 0,D,28,Sweden,Mainz,Bundesliga,2016-2017
+32,32,Lukas Watkowiak,€ 0,€ 0,€ 0,K,20,Germany,Mainz,Bundesliga,2016-2017
+33,33,Robin Zentner,€ 0,€ 0,€ 0,K,21,Germany,Mainz,Bundesliga,2016-2017
+34,34,Jairo Samperio,€ 0,€ 0,€ 0,F,22,Spain,Mainz,Bundesliga,2016-2017
+35,35,Todor Nedelev,€ 0,€ 0,€ 0,F,23,Bulgaria,Mainz,Bundesliga,2016-2017
+36,36,Yoshinori Muto,€ 0,€ 0,€ 0,F,23,Japan,Mainz,Bundesliga,2016-2017
+37,37,José Rodríguez,€ 0,€ 0,€ 0,M,21,Spain,Mainz,Bundesliga,2016-2017
+38,38,Bojan Krkic,€ 0,€ 0,€ 0,F,25,Spain,Mainz,Bundesliga,2016-2017
+0,0,Christoph Kramer,"€ 55,212","€ 2,871,000","€ 2,977,968",M,25,Germany,Monchengladbach,Bundesliga,2016-2017
+1,1,Lars Stindl,"€ 55,019","€ 2,861,000","€ 2,967,595",F,27,Germany,Monchengladbach,Bundesliga,2016-2017
+2,2,Ibrahima Traoré,"€ 49,692","€ 2,584,000","€ 2,680,275",F,28,Guinea,Monchengladbach,Bundesliga,2016-2017
+3,3,Raffael,"€ 47,846","€ 2,488,000","€ 2,580,698",F,31,Brazil,Monchengladbach,Bundesliga,2016-2017
+4,4,Josip Drmic,"€ 46,019","€ 2,393,000","€ 2,482,158",F,23,Switzerland,Monchengladbach,Bundesliga,2016-2017
+5,5,Yann Sommer,"€ 45,846","€ 2,384,000","€ 2,472,823",K,27,Switzerland,Monchengladbach,Bundesliga,2016-2017
+6,6,Jannik Vestergaard,"€ 45,846","€ 2,384,000","€ 2,472,823",D,23,Denmark,Monchengladbach,Bundesliga,2016-2017
+7,7,Fabian Johnson,"€ 36,808","€ 1,914,000","€ 1,985,312",F,28,United States,Monchengladbach,Bundesliga,2016-2017
+8,8,Timothée Kolodziejczak,"€ 36,808","€ 1,914,000","€ 1,985,312",D,24,France,Monchengladbach,Bundesliga,2016-2017
+9,9,Patrick Herrmann,"€ 36,808","€ 1,914,000","€ 1,985,312",F,25,Germany,Monchengladbach,Bundesliga,2016-2017
+10,10,Tony Jantschke,"€ 36,365","€ 1,891,000","€ 1,961,455",D,26,Germany,Monchengladbach,Bundesliga,2016-2017
+11,11,Thorgan Hazard,"€ 29,442","€ 1,531,000","€ 1,588,042",F,23,Belgium,Monchengladbach,Bundesliga,2016-2017
+12,12,Jonas Hofmann,"€ 27,519","€ 1,431,000","€ 1,484,316",M,23,Germany,Monchengladbach,Bundesliga,2016-2017
+13,13,André Hahn,"€ 27,519","€ 1,431,000","€ 1,484,316",F,25,Germany,Monchengladbach,Bundesliga,2016-2017
+14,14,Andreas Christensen,"€ 22,231","€ 1,156,000","€ 1,199,070",D,20,Denmark,Monchengladbach,Bundesliga,2016-2017
+15,15,Oscar Wendt,"€ 19,154","€ 996,000","€ 1,033,109",D,30,Sweden,Monchengladbach,Bundesliga,2016-2017
+16,16,Nico Schulz,"€ 18,346","€ 954,000","€ 989,544",D,23,Germany,Monchengladbach,Bundesliga,2016-2017
+17,17,Tobias Strobl,"€ 18,346","€ 954,000","€ 989,544",M,26,Germany,Monchengladbach,Bundesliga,2016-2017
+18,18,Julian Korb,"€ 14,346","€ 746,000","€ 773,794",D,24,Germany,Monchengladbach,Bundesliga,2016-2017
+19,19,Tobias Sippel,"€ 11,000","€ 572,000","€ 593,312",K,28,Germany,Monchengladbach,Bundesliga,2016-2017
+20,20,Nico Elvedi,"€ 8,135","€ 423,000","€ 438,760",D,19,Switzerland,Monchengladbach,Bundesliga,2016-2017
+21,21,Lászlo Bénes,"€ 4,308","€ 224,000","€ 232,346",M,18,Slovakia,Monchengladbach,Bundesliga,2016-2017
+22,22,Mamadou Doucouré,"€ 4,308","€ 224,000","€ 232,346",D,18,France,Monchengladbach,Bundesliga,2016-2017
+23,23,Marvin Schulz,"€ 2,385","€ 124,000","€ 128,620",M,21,Germany,Monchengladbach,Bundesliga,2016-2017
+24,24,Mahmoud Dahoud,"€ 1,904","€ 99,000","€ 102,689",M,20,Germany,Monchengladbach,Bundesliga,2016-2017
+25,25,Ba-Muaka Simakala,"€ 1,654","€ 86,000","€ 89,204",F,19,Germany,Monchengladbach,Bundesliga,2016-2017
+26,26,Djibril Sow,"€ 1,154","€ 60,000","€ 62,235",M,19,Switzerland,Monchengladbach,Bundesliga,2016-2017
+27,27,Mike Feigenspan,€ 962,"€ 50,000","€ 51,863",F,20,Germany,Monchengladbach,Bundesliga,2016-2017
+28,28,Nils Rütten,€ 731,"€ 38,000","€ 39,416",D,20,Germany,Monchengladbach,Bundesliga,2016-2017
+29,29,Moritz Nicolas,€ 673,"€ 35,000","€ 36,304",K,18,Germany,Monchengladbach,Bundesliga,2016-2017
+30,30,Julio Villalba,€ 0,€ 0,€ 0,F,17,Paraguay,Monchengladbach,Bundesliga,2016-2017
+31,31,Christofer Heimeroth,€ 0,€ 0,€ 0,K,34,Germany,Monchengladbach,Bundesliga,2016-2017
+32,32,Tsiy William Ndenge,€ 0,€ 0,€ 0,M,19,Germany,Monchengladbach,Bundesliga,2016-2017
+0,0,Klaas-Jan Huntelaar,"€ 128,827","€ 6,699,000","€ 6,948,591",F,32,Netherlands,Schalke 04,Bundesliga,2016-2017
+1,1,Benedikt Höwedes,"€ 91,712","€ 4,769,000","€ 4,946,683",D,28,Germany,Schalke 04,Bundesliga,2016-2017
+2,2,Johannes Geis,"€ 73,615","€ 3,828,000","€ 3,970,623",M,22,Germany,Schalke 04,Bundesliga,2016-2017
+3,3,Breel Embolo,"€ 73,615","€ 3,828,000","€ 3,970,623",F,19,Switzerland,Schalke 04,Bundesliga,2016-2017
+4,4,Sidney Sam,"€ 73,615","€ 3,828,000","€ 3,970,623",F,28,Germany,Schalke 04,Bundesliga,2016-2017
+5,5,Franco Di Santo,"€ 73,615","€ 3,828,000","€ 3,970,623",F,27,Argentina,Schalke 04,Bundesliga,2016-2017
+6,6,Holger Badstuber,"€ 73,365","€ 3,815,000","€ 3,957,139",D,27,Germany,Schalke 04,Bundesliga,2016-2017
+7,7,Dennis Aogo,"€ 55,212","€ 2,871,000","€ 2,977,968",M,29,Germany,Schalke 04,Bundesliga,2016-2017
+8,8,Ralf Fährmann,"€ 55,019","€ 2,861,000","€ 2,967,595",K,27,Germany,Schalke 04,Bundesliga,2016-2017
+9,9,Naldo,"€ 55,019","€ 2,861,000","€ 2,967,595",D,33,Brazil,Schalke 04,Bundesliga,2016-2017
+10,10,Coke,"€ 46,019","€ 2,393,000","€ 2,482,158",D,29,Spain,Schalke 04,Bundesliga,2016-2017
+11,11,Daniel Caligiuri,"€ 45,846","€ 2,384,000","€ 2,472,823",M,28,Italy,Schalke 04,Bundesliga,2016-2017
+12,12,Nabil Bentaleb,"€ 44,442","€ 2,311,000","€ 2,397,103",M,21,Algeria,Schalke 04,Bundesliga,2016-2017
+13,13,Matija Nastasic,"€ 44,173","€ 2,297,000","€ 2,382,582",D,23,Serbia,Schalke 04,Bundesliga,2016-2017
+14,14,Atsuto Uchida,"€ 43,058","€ 2,239,000","€ 2,322,421",D,28,Japan,Schalke 04,Bundesliga,2016-2017
+15,15,Benjamin Stambouli,"€ 36,365","€ 1,891,000","€ 1,961,455",D,25,France,Schalke 04,Bundesliga,2016-2017
+16,16,Leon Goretzka,"€ 33,135","€ 1,723,000","€ 1,787,195",M,21,Germany,Schalke 04,Bundesliga,2016-2017
+17,17,Guido Burgstaller,"€ 18,404","€ 957,000","€ 992,656",F,27,Austria,Schalke 04,Bundesliga,2016-2017
+18,18,Alessandro Schöpf,"€ 18,346","€ 954,000","€ 989,544",M,22,Austria,Schalke 04,Bundesliga,2016-2017
+19,19,Donis Avdijaj,"€ 14,577","€ 758,000","€ 786,242",F,19,Kosovo,Schalke 04,Bundesliga,2016-2017
+20,20,Sascha Riether,"€ 14,346","€ 746,000","€ 773,794",D,33,Germany,Schalke 04,Bundesliga,2016-2017
+21,21,Sead Kolasinac,"€ 14,346","€ 746,000","€ 773,794",D,23,Bosnia-Herzegovina,Schalke 04,Bundesliga,2016-2017
+22,22,Timon Wellenreuther,"€ 4,308","€ 224,000","€ 232,346",K,20,Germany,Schalke 04,Bundesliga,2016-2017
+23,23,Thilo Kehrer,"€ 4,308","€ 224,000","€ 232,346",D,19,Germany,Schalke 04,Bundesliga,2016-2017
+24,24,Felix Platte,"€ 1,904","€ 99,000","€ 102,689",F,20,Germany,Schalke 04,Bundesliga,2016-2017
+25,25,Bernard Tekpetey,"€ 1,904","€ 99,000","€ 102,689",F,18,Ghana,Schalke 04,Bundesliga,2016-2017
+26,26,Weston McKennie,"€ 1,615","€ 84,000","€ 87,130",M,17,United States,Schalke 04,Bundesliga,2016-2017
+27,27,Phil Neumann,€ 962,"€ 50,000","€ 51,863",D,18,Germany,Schalke 04,Bundesliga,2016-2017
+28,28,Haji Wright,€ 865,"€ 45,000","€ 46,677",F,18,United States,Schalke 04,Bundesliga,2016-2017
+29,29,Joshua Bitter,€ 615,"€ 32,000","€ 33,192",D,19,Germany,Schalke 04,Bundesliga,2016-2017
+30,30,Alexander Nübel,€ 481,"€ 25,000","€ 25,931",K,19,Germany,Schalke 04,Bundesliga,2016-2017
+31,31,Yevhen Konoplyanka,€ 0,€ 0,€ 0,F,26,Ukraine,Schalke 04,Bundesliga,2016-2017
+32,32,Eric Maxim Choupo-Moting,€ 0,€ 0,€ 0,F,27,Cameroon,Schalke 04,Bundesliga,2016-2017
+33,33,Fabian Giefer,€ 0,€ 0,€ 0,K,26,Germany,Schalke 04,Bundesliga,2016-2017
+34,34,Fabian Reese,€ 0,€ 0,€ 0,F,18,Germany,Schalke 04,Bundesliga,2016-2017
+35,35,Júnior Caiçara,€ 0,€ 0,€ 0,D,27,Brazil,Schalke 04,Bundesliga,2016-2017
+36,36,Kaan Ayhan,€ 0,€ 0,€ 0,D,21,Turkey,Schalke 04,Bundesliga,2016-2017
+37,37,Max Meyer,€ 0,€ 0,€ 0,M,20,Germany,Schalke 04,Bundesliga,2016-2017
+38,38,Abdul Rahman Baba,€ 0,€ 0,€ 0,D,21,Ghana,Schalke 04,Bundesliga,2016-2017
+0,0,Zlatko Junuzovic,"€ 47,846","€ 2,488,000","€ 2,580,698",M,28,Austria,Werder Bremen,Bundesliga,2016-2017
+1,1,Max Kruse,"€ 44,173","€ 2,297,000","€ 2,382,582",F,28,Germany,Werder Bremen,Bundesliga,2016-2017
+2,2,Claudio Pizarro,"€ 36,808","€ 1,914,000","€ 1,985,312",F,37,Peru,Werder Bremen,Bundesliga,2016-2017
+3,3,Niklas Moisander,"€ 36,365","€ 1,891,000","€ 1,961,455",D,30,Finland,Werder Bremen,Bundesliga,2016-2017
+4,4,Clemens Fritz,"€ 33,135","€ 1,723,000","€ 1,787,195",M,35,Germany,Werder Bremen,Bundesliga,2016-2017
+5,5,Florian Kainz,"€ 33,019","€ 1,717,000","€ 1,780,972",F,23,Austria,Werder Bremen,Bundesliga,2016-2017
+6,6,Santiago García,"€ 28,712","€ 1,493,000","€ 1,548,626",D,27,Argentina,Werder Bremen,Bundesliga,2016-2017
+7,7,Thomas Delaney,"€ 28,712","€ 1,493,000","€ 1,548,626",M,24,Denmark,Werder Bremen,Bundesliga,2016-2017
+8,8,Theodor Gebre Selassie,"€ 27,615","€ 1,436,000","€ 1,489,502",D,29,Czech Republic,Werder Bremen,Bundesliga,2016-2017
+9,9,Aron Jóhannsson,"€ 27,615","€ 1,436,000","€ 1,489,502",F,25,United States,Werder Bremen,Bundesliga,2016-2017
+10,10,Serge Gnabry,"€ 27,615","€ 1,436,000","€ 1,489,502",F,20,Germany,Werder Bremen,Bundesliga,2016-2017
+11,11,Izet Hajrovic,"€ 20,250","€ 1,053,000","€ 1,092,233",F,24,Bosnia-Herzegovina,Werder Bremen,Bundesliga,2016-2017
+12,12,Fin Bartels,"€ 17,615","€ 916,000","€ 950,128",F,29,Germany,Werder Bremen,Bundesliga,2016-2017
+13,13,Philipp Bargfrede,"€ 15,654","€ 814,000","€ 844,328",M,27,Germany,Werder Bremen,Bundesliga,2016-2017
+14,14,Robert Bauer,"€ 14,346","€ 746,000","€ 773,794",D,21,Germany,Werder Bremen,Bundesliga,2016-2017
+15,15,Luca Caldirola,"€ 14,346","€ 746,000","€ 773,794",D,25,Italy,Werder Bremen,Bundesliga,2016-2017
+16,16,Raphael Wolf,"€ 14,346","€ 746,000","€ 773,794",K,28,Germany,Werder Bremen,Bundesliga,2016-2017
+17,17,Sambou Yatabaré,"€ 14,346","€ 746,000","€ 773,794",M,27,Mali,Werder Bremen,Bundesliga,2016-2017
+18,18,Lamine Sané,"€ 14,346","€ 746,000","€ 773,794",D,29,Senegal,Werder Bremen,Bundesliga,2016-2017
+19,19,Johannes Eggestein,"€ 9,192","€ 478,000","€ 495,809",F,18,Germany,Werder Bremen,Bundesliga,2016-2017
+20,20,Justin Eilers,"€ 9,173","€ 477,000","€ 494,772",F,28,Germany,Werder Bremen,Bundesliga,2016-2017
+21,21,Felix Wiedwald,"€ 8,135","€ 423,000","€ 438,760",K,26,Germany,Werder Bremen,Bundesliga,2016-2017
+22,22,Florian Grillitsch,"€ 8,135","€ 423,000","€ 438,760",M,20,Austria,Werder Bremen,Bundesliga,2016-2017
+23,23,Milos Veljkovic,"€ 8,135","€ 423,000","€ 438,760",D,20,Serbia,Werder Bremen,Bundesliga,2016-2017
+24,24,Ulisses Garcia,"€ 8,135","€ 423,000","€ 438,760",D,20,Switzerland,Werder Bremen,Bundesliga,2016-2017
+25,25,Ousman Manneh,"€ 7,038","€ 366,000","€ 379,636",F,19,The Gambia,Werder Bremen,Bundesliga,2016-2017
+26,26,Leon Guwara,"€ 2,385","€ 124,000","€ 128,620",D,20,Germany,Werder Bremen,Bundesliga,2016-2017
+27,27,Michael Zetterer,"€ 1,904","€ 99,000","€ 102,689",K,20,Germany,Werder Bremen,Bundesliga,2016-2017
+28,28,Niklas Schmidt,"€ 1,904","€ 99,000","€ 102,689",M,18,Germany,Werder Bremen,Bundesliga,2016-2017
+29,29,Eric Oelschlägel,"€ 1,538","€ 80,000","€ 82,981",K,20,Germany,Werder Bremen,Bundesliga,2016-2017
+30,30,Maximilian Eggestein,€ 962,"€ 50,000","€ 51,863",M,19,Germany,Werder Bremen,Bundesliga,2016-2017
+31,31,Luca Zander,€ 904,"€ 47,000","€ 48,751",D,20,Germany,Werder Bremen,Bundesliga,2016-2017
+32,32,Lukas Fröde,€ 865,"€ 45,000","€ 46,677",M,21,Germany,Werder Bremen,Bundesliga,2016-2017
+33,33,Melvyn Lorenzen,€ 731,"€ 38,000","€ 39,416",F,21,Uganda,Werder Bremen,Bundesliga,2016-2017
+34,34,Janek Sternberg,€ 0,€ 0,€ 0,D,23,Germany,Werder Bremen,Bundesliga,2016-2017
+35,35,Fallou Diagne,€ 0,€ 0,€ 0,D,26,Senegal,Werder Bremen,Bundesliga,2016-2017
+36,36,Jaroslav Drobny,€ 0,€ 0,€ 0,K,36,Czech Republic,Werder Bremen,Bundesliga,2016-2017
+37,37,Levent Aycicek,€ 0,€ 0,€ 0,M,22,Germany,Werder Bremen,Bundesliga,2016-2017
+38,38,Lennart Thy,€ 0,€ 0,€ 0,F,24,Germany,Werder Bremen,Bundesliga,2016-2017
+39,39,Marnon Busch,€ 0,€ 0,€ 0,D,21,Germany,Werder Bremen,Bundesliga,2016-2017
+40,40,Thanos Petsos,€ 0,€ 0,€ 0,M,25,Greece,Werder Bremen,Bundesliga,2016-2017
+0,0,Luiz Gustavo,"€ 184,058","€ 9,571,000","€ 9,927,596",M,28,Brazil,Wolfsburg,Bundesliga,2016-2017
+1,1,Ricardo Rodríguez,"€ 147,250","€ 7,657,000","€ 7,942,284",D,23,Switzerland,Wolfsburg,Bundesliga,2016-2017
+2,2,Mario Gómez,"€ 110,058","€ 5,723,000","€ 5,936,227",F,30,Germany,Wolfsburg,Bundesliga,2016-2017
+3,3,Yunus Malli,"€ 82,538","€ 4,292,000","€ 4,451,911",M,24,Turkey,Wolfsburg,Bundesliga,2016-2017
+4,4,Vieirinha,"€ 73,615","€ 3,828,000","€ 3,970,623",D,30,Portugal,Wolfsburg,Bundesliga,2016-2017
+5,5,Sebastian Jung,"€ 73,615","€ 3,828,000","€ 3,970,623",D,26,Germany,Wolfsburg,Bundesliga,2016-2017
+6,6,Paul-Georges Ntep,"€ 73,615","€ 3,828,000","€ 3,970,623",F,23,Cameroon,Wolfsburg,Bundesliga,2016-2017
+7,7,Daniel Didavi,"€ 73,365","€ 3,815,000","€ 3,957,139",M,26,Germany,Wolfsburg,Bundesliga,2016-2017
+8,8,Diego Benaglio,"€ 55,212","€ 2,871,000","€ 2,977,968",K,32,Switzerland,Wolfsburg,Bundesliga,2016-2017
+9,9,Riechedly Bazoer,"€ 55,212","€ 2,871,000","€ 2,977,968",M,19,Netherlands,Wolfsburg,Bundesliga,2016-2017
+10,10,Maximilian Arnold,"€ 55,212","€ 2,871,000","€ 2,977,968",M,22,Germany,Wolfsburg,Bundesliga,2016-2017
+11,11,Jeffrey Bruma,"€ 55,212","€ 2,871,000","€ 2,977,968",D,24,Netherlands,Wolfsburg,Bundesliga,2016-2017
+12,12,Yannick Gerhardt,"€ 55,019","€ 2,861,000","€ 2,967,595",M,22,Germany,Wolfsburg,Bundesliga,2016-2017
+13,13,Marcel Schäfer,"€ 54,558","€ 2,837,000","€ 2,942,701",D,32,Germany,Wolfsburg,Bundesliga,2016-2017
+14,14,Philipp Wollscheid,"€ 50,000","€ 2,600,000","€ 2,696,871",D,27,Germany,Wolfsburg,Bundesliga,2016-2017
+15,15,Jakub Blaszczykowski,"€ 46,019","€ 2,393,000","€ 2,482,158",F,30,Poland,Wolfsburg,Bundesliga,2016-2017
+16,16,Josuha Guilavogui,"€ 45,846","€ 2,384,000","€ 2,472,823",M,25,France,Wolfsburg,Bundesliga,2016-2017
+17,17,Daniel Caligiuri,"€ 45,846","€ 2,384,000","€ 2,472,823",M,28,Italy,Wolfsburg,Bundesliga,2016-2017
+18,18,Christian Träsch,"€ 36,808","€ 1,914,000","€ 1,985,312",M,28,Germany,Wolfsburg,Bundesliga,2016-2017
+19,19,Robin Knoche,"€ 36,692","€ 1,908,000","€ 1,979,088",D,24,Germany,Wolfsburg,Bundesliga,2016-2017
+20,20,Borja Mayoral,"€ 18,346","€ 954,000","€ 989,544",F,19,Spain,Wolfsburg,Bundesliga,2016-2017
+21,21,Koen Casteels,"€ 14,346","€ 746,000","€ 773,794",K,24,Belgium,Wolfsburg,Bundesliga,2016-2017
+22,22,Ashkan Dejagah,"€ 14,346","€ 746,000","€ 773,794",F,29,Iran,Wolfsburg,Bundesliga,2016-2017
+23,23,Max Grün,"€ 14,346","€ 746,000","€ 773,794",K,29,Germany,Wolfsburg,Bundesliga,2016-2017
+24,24,Paul Seguin,"€ 9,173","€ 477,000","€ 494,772",M,21,Germany,Wolfsburg,Bundesliga,2016-2017
+25,25,Ismail Azzaoui,"€ 8,135","€ 423,000","€ 438,760",F,18,Belgium,Wolfsburg,Bundesliga,2016-2017
+26,26,Victor Osimhen,"€ 4,308","€ 224,000","€ 232,346",F,17,Nigeria,Wolfsburg,Bundesliga,2016-2017
+27,27,Jannes Horn,"€ 1,731","€ 90,000","€ 93,353",D,19,Germany,Wolfsburg,Bundesliga,2016-2017
+28,28,Amara Condé,€ 962,"€ 50,000","€ 51,863",M,19,Germany,Wolfsburg,Bundesliga,2016-2017
+29,29,Justin Möbius,€ 962,"€ 50,000","€ 51,863",M,19,Germany,Wolfsburg,Bundesliga,2016-2017
+30,30,Hendrik Hansen,€ 962,"€ 50,000","€ 51,863",D,21,Germany,Wolfsburg,Bundesliga,2016-2017
+31,31,Robin Ziegele,€ 577,"€ 30,000","€ 31,118",D,19,Germany,Wolfsburg,Bundesliga,2016-2017
+32,32,Phillip Menzel,€ 385,"€ 20,000","€ 20,745",K,17,Germany,Wolfsburg,Bundesliga,2016-2017
+33,33,Leandro Putaro,€ 0,€ 0,€ 0,F,19,Germany,Wolfsburg,Bundesliga,2016-2017
+34,34,Bas Dost,€ 0,€ 0,€ 0,F,27,Netherlands,Wolfsburg,Bundesliga,2016-2017
+35,35,Bruno Henrique,€ 0,€ 0,€ 0,F,25,Brazil,Wolfsburg,Bundesliga,2016-2017
+36,36,Carlos Ascues,€ 0,€ 0,€ 0,M,24,Peru,Wolfsburg,Bundesliga,2016-2017
+37,37,Francisco Rodríguez,€ 0,€ 0,€ 0,M,20,Switzerland,Wolfsburg,Bundesliga,2016-2017
+38,38,Josip Brekalo,€ 0,€ 0,€ 0,F,18,Croatia,Wolfsburg,Bundesliga,2016-2017
+39,39,Julian Draxler,€ 0,€ 0,€ 0,F,22,Germany,Wolfsburg,Bundesliga,2016-2017
+40,40,Luca Itter,€ 0,€ 0,€ 0,D,17,Germany,Wolfsburg,Bundesliga,2016-2017
+41,41,Moritz Sprenger,€ 0,€ 0,€ 0,D,21,Germany,Wolfsburg,Bundesliga,2016-2017
+42,42,Patrick Drewes,€ 0,€ 0,€ 0,K,23,Germany,Wolfsburg,Bundesliga,2016-2017

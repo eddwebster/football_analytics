@@ -1,0 +1,634 @@
+,Unnamed: 0,Player,Weekly GrossBase Salary(IN EUR),Annual GrossBase Salary(IN EUR),"Adj. GrossBase Salary(2021, IN EUR)",Pos.,Age,Country,Team,League,Season
+0,0,Alfred Finnbogason,"€ 38,327","€ 1,993,000","€ 2,003,098",F,29,Iceland,Augsburg,Bundesliga,2018-2019
+1,1,Daniel Baier,"€ 38,327","€ 1,993,000","€ 2,003,098",M,34,Germany,Augsburg,Bundesliga,2018-2019
+2,2,André Hahn,"€ 34,615","€ 1,800,000","€ 1,809,120",F,27,Germany,Augsburg,Bundesliga,2018-2019
+3,3,Jonathan Schmid,"€ 23,077","€ 1,200,000","€ 1,206,080",D,28,France,Augsburg,Bundesliga,2018-2019
+4,4,Ja-cheol Koo,"€ 23,077","€ 1,200,000","€ 1,206,080",M,29,South Korea,Augsburg,Bundesliga,2018-2019
+5,5,Martin Hinteregger,"€ 23,077","€ 1,200,000","€ 1,206,080",D,25,Austria,Augsburg,Bundesliga,2018-2019
+6,6,Philipp Max,"€ 23,000","€ 1,196,000","€ 1,202,060",D,24,Germany,Augsburg,Bundesliga,2018-2019
+7,7,Reece Oxford,"€ 22,269","€ 1,158,000","€ 1,163,867",D,19,England,Augsburg,Bundesliga,2018-2019
+8,8,Jeffrey Gouweleeuw,"€ 19,231","€ 1,000,000","€ 1,005,067",D,26,Netherlands,Augsburg,Bundesliga,2018-2019
+9,9,Michael Gregoritsch,"€ 19,173","€ 997,000","€ 1,002,052",F,24,Austria,Augsburg,Bundesliga,2018-2019
+10,10,Dong-won Ji,"€ 15,327","€ 797,000","€ 801,038",F,27,South Korea,Augsburg,Bundesliga,2018-2019
+11,11,Caiuby,"€ 15,000","€ 780,000","€ 783,952",F,29,Brazil,Augsburg,Bundesliga,2018-2019
+12,12,Takashi Usami,"€ 15,000","€ 780,000","€ 783,952",F,26,Japan,Augsburg,Bundesliga,2018-2019
+13,13,Fabian Giefer,"€ 15,000","€ 780,000","€ 783,952",K,28,Germany,Augsburg,Bundesliga,2018-2019
+14,14,Konstantinos Stafylidis,"€ 15,000","€ 780,000","€ 783,952",D,24,Greece,Augsburg,Bundesliga,2018-2019
+15,15,Julian Schieber,"€ 13,462","€ 700,000","€ 703,547",F,29,Germany,Augsburg,Bundesliga,2018-2019
+16,16,Jan-Ingwer Callsen-Bracker,"€ 12,000","€ 624,000","€ 627,162",D,33,Germany,Augsburg,Bundesliga,2018-2019
+17,17,Jan Morávek,"€ 10,000","€ 520,000","€ 522,635",M,28,Czech Republic,Augsburg,Bundesliga,2018-2019
+18,18,Rani Khedira,"€ 10,000","€ 520,000","€ 522,635",M,24,Germany,Augsburg,Bundesliga,2018-2019
+19,19,Marco Richter,"€ 9,615","€ 500,000","€ 502,533",F,20,Germany,Augsburg,Bundesliga,2018-2019
+20,20,Fredrik Jensen,"€ 9,577","€ 498,000","€ 500,523",M,20,Finland,Augsburg,Bundesliga,2018-2019
+21,21,Georg Teigl,"€ 9,577","€ 498,000","€ 500,523",M,27,Austria,Augsburg,Bundesliga,2018-2019
+22,22,Christoph Janker,"€ 8,500","€ 442,000","€ 444,240",D,33,Germany,Augsburg,Bundesliga,2018-2019
+23,23,Andreas Luthe,"€ 6,904","€ 359,000","€ 360,819",K,31,Germany,Augsburg,Bundesliga,2018-2019
+24,24,Sergio Córdova,"€ 4,500","€ 234,000","€ 235,186",F,20,Venezuela,Augsburg,Bundesliga,2018-2019
+25,25,Kevin Danso,"€ 4,500","€ 234,000","€ 235,186",D,19,Austria,Augsburg,Bundesliga,2018-2019
+26,26,Raphael Framberger,"€ 4,500","€ 234,000","€ 235,186",D,22,Germany,Augsburg,Bundesliga,2018-2019
+27,27,Felix Götze,"€ 4,500","€ 234,000","€ 235,186",M,20,Germany,Augsburg,Bundesliga,2018-2019
+28,28,Kilian Jakob,"€ 4,000","€ 208,000","€ 209,054",D,20,Germany,Augsburg,Bundesliga,2018-2019
+29,29,Simon Asta,"€ 3,846","€ 200,000","€ 201,013",D,17,Germany,Augsburg,Bundesliga,2018-2019
+30,30,Gregor Kobel,"€ 3,000","€ 156,000","€ 156,790",K,20,Switzerland,Augsburg,Bundesliga,2018-2019
+31,31,Felix Schwarzholz,"€ 1,000","€ 52,000","€ 52,263",M,18,Germany,Augsburg,Bundesliga,2018-2019
+32,32,Jozo Stanic,€ 548,"€ 28,500","€ 28,644",D,19,Croatia,Augsburg,Bundesliga,2018-2019
+33,33,Tim Rieder,€ 0,€ 0,€ 0,D,24,Germany,Augsburg,Bundesliga,2018-2019
+34,34,Benjamin Leneis,€ 0,€ 0,€ 0,K,19,Germany,Augsburg,Bundesliga,2018-2019
+35,35,Julian Günther-Schmidt,€ 0,€ 0,€ 0,F,23,Germany,Augsburg,Bundesliga,2018-2019
+36,36,Maurice Malone,€ 0,€ 0,€ 0,F,17,Germany,Augsburg,Bundesliga,2018-2019
+37,37,Romario Rösch,€ 0,€ 0,€ 0,M,19,Germany,Augsburg,Bundesliga,2018-2019
+38,38,Seong-hoon Cheon,€ 0,€ 0,€ 0,F,17,South Korea,Augsburg,Bundesliga,2018-2019
+39,39,Stefano Russo,€ 0,€ 0,€ 0,M,18,Germany,Augsburg,Bundesliga,2018-2019
+0,0,Karim Bellarabi,"€ 95,827","€ 4,983,000","€ 5,008,248",F,28,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+1,1,Sven Bender,"€ 95,827","€ 4,983,000","€ 5,008,248",D,29,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+2,2,Kevin Volland,"€ 95,827","€ 4,983,000","€ 5,008,248",F,25,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+3,3,Lukas Hradecky,"€ 86,538","€ 4,500,000","€ 4,522,801",K,28,Finland,Bayer Leverkusen,Bundesliga,2018-2019
+4,4,Lars Bender,"€ 77,000","€ 4,004,000","€ 4,024,288",M,29,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+5,5,Leon Bailey,"€ 76,923","€ 4,000,000","€ 4,020,268",F,20,Jamaica,Bayer Leverkusen,Bundesliga,2018-2019
+6,6,Julian Brandt,"€ 76,654","€ 3,986,000","€ 4,006,197",F,22,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+7,7,Mitchell Weiser,"€ 57,692","€ 3,000,000","€ 3,015,201",D,24,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+8,8,Aleksandar Dragovic,"€ 57,692","€ 3,000,000","€ 3,015,201",D,27,Austria,Bayer Leverkusen,Bundesliga,2018-2019
+9,9,Jonathan Tah,"€ 57,500","€ 2,990,000","€ 3,005,150",D,22,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+10,10,Lucas Alario,"€ 57,000","€ 2,964,000","€ 2,979,018",F,25,Argentina,Bayer Leverkusen,Bundesliga,2018-2019
+11,11,Charles Aránguiz,"€ 57,000","€ 2,964,000","€ 2,979,018",M,29,Chile,Bayer Leverkusen,Bundesliga,2018-2019
+12,12,Wendell,"€ 38,462","€ 2,000,000","€ 2,010,134",D,24,Brazil,Bayer Leverkusen,Bundesliga,2018-2019
+13,13,Panagiotis Retsos,"€ 38,462","€ 2,000,000","€ 2,010,134",D,19,Greece,Bayer Leverkusen,Bundesliga,2018-2019
+14,14,Julian Baumgartlinger,"€ 38,327","€ 1,993,000","€ 2,003,098",M,30,Austria,Bayer Leverkusen,Bundesliga,2018-2019
+15,15,Paulinho,"€ 28,846","€ 1,500,000","€ 1,507,600",F,17,Brazil,Bayer Leverkusen,Bundesliga,2018-2019
+16,16,Kai Havertz,"€ 28,750","€ 1,495,000","€ 1,502,575",M,19,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+17,17,Dominik Kohr,"€ 28,750","€ 1,495,000","€ 1,502,575",M,24,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+18,18,Tin Jedvaj,"€ 28,750","€ 1,495,000","€ 1,502,575",D,22,Croatia,Bayer Leverkusen,Bundesliga,2018-2019
+19,19,Joel Pohjanpalo,"€ 19,231","€ 1,000,000","€ 1,005,067",F,23,Finland,Bayer Leverkusen,Bundesliga,2018-2019
+20,20,Ramazan Özcan,"€ 15,000","€ 780,000","€ 783,952",K,34,Austria,Bayer Leverkusen,Bundesliga,2018-2019
+21,21,Isaac Kiese Thelin,"€ 15,000","€ 780,000","€ 783,952",F,26,Sweden,Bayer Leverkusen,Bundesliga,2018-2019
+22,22,Sam Schreck,"€ 10,000","€ 520,000","€ 522,635",M,19,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+23,23,Thorsten Kirschbaum,"€ 8,500","€ 442,000","€ 444,240",K,31,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+24,24,Tomasz Kucz,"€ 2,000","€ 104,000","€ 104,527",K,18,Poland,Bayer Leverkusen,Bundesliga,2018-2019
+25,25,Jakub Bednarczyk,"€ 1,202","€ 62,500","€ 62,817",D,19,Poland,Bayer Leverkusen,Bundesliga,2018-2019
+26,26,Adrian Stanilewicz,€ 923,"€ 48,000","€ 48,243",M,18,Poland,Bayer Leverkusen,Bundesliga,2018-2019
+27,27,Jan Boller,€ 673,"€ 35,000","€ 35,177",D,18,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+28,28,Herdi Bukusu,€ 0,€ 0,€ 0,F,18,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+29,29,Benjamin Henrichs,€ 0,€ 0,€ 0,D,21,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+30,30,Niklas Lomb,€ 0,€ 0,€ 0,K,24,Germany,Bayer Leverkusen,Bundesliga,2018-2019
+0,0,Robert Lewandowski,"€ 306,654","€ 15,946,000","€ 16,026,797",F,29,Poland,Bayern Munich,Bundesliga,2018-2019
+1,1,Manuel Neuer,"€ 288,462","€ 15,000,000","€ 15,076,003",K,32,Germany,Bayern Munich,Bundesliga,2018-2019
+2,2,Thomas Müller,"€ 287,481","€ 14,949,000","€ 15,024,745",F,28,Germany,Bayern Munich,Bundesliga,2018-2019
+3,3,James Rodríguez,"€ 249,154","€ 12,956,000","€ 13,021,647",M,26,Colombia,Bayern Munich,Bundesliga,2018-2019
+4,4,Jérôme Boateng,"€ 229,981","€ 11,959,000","€ 12,019,595",D,29,Germany,Bayern Munich,Bundesliga,2018-2019
+5,5,Thiago,"€ 229,981","€ 11,959,000","€ 12,019,595",M,27,Spain,Bayern Munich,Bundesliga,2018-2019
+6,6,Franck Ribéry,"€ 229,981","€ 11,959,000","€ 12,019,595",F,35,France,Bayern Munich,Bundesliga,2018-2019
+7,7,Mats Hummels,"€ 191,654","€ 9,966,000","€ 10,016,497",D,29,Germany,Bayern Munich,Bundesliga,2018-2019
+8,8,David Alaba,"€ 191,654","€ 9,966,000","€ 10,016,497",D,26,Austria,Bayern Munich,Bundesliga,2018-2019
+9,9,Kingsley Coman,"€ 153,846","€ 8,000,000","€ 8,040,535",F,22,France,Bayern Munich,Bundesliga,2018-2019
+10,10,Leon Goretzka,"€ 153,846","€ 8,000,000","€ 8,040,535",M,23,Germany,Bayern Munich,Bundesliga,2018-2019
+11,11,Joshua Kimmich,"€ 153,327","€ 7,973,000","€ 8,013,398",D,23,Germany,Bayern Munich,Bundesliga,2018-2019
+12,12,Corentin Tolisso,"€ 134,615","€ 7,000,000","€ 7,035,468",M,23,France,Bayern Munich,Bundesliga,2018-2019
+13,13,Arjen Robben,"€ 134,154","€ 6,976,000","€ 7,011,347",F,34,Netherlands,Bayern Munich,Bundesliga,2018-2019
+14,14,Javi Martínez,"€ 115,000","€ 5,980,000","€ 6,010,300",M,29,Spain,Bayern Munich,Bundesliga,2018-2019
+15,15,Sebastian Rudy,"€ 96,154","€ 5,000,000","€ 5,025,334",M,28,Germany,Bayern Munich,Bundesliga,2018-2019
+16,16,Rafinha,"€ 95,827","€ 4,983,000","€ 5,008,248",D,32,Brazil,Bayern Munich,Bundesliga,2018-2019
+17,17,Serge Gnabry,"€ 86,250","€ 4,485,000","€ 4,507,725",F,22,Germany,Bayern Munich,Bundesliga,2018-2019
+18,18,Niklas Süle,"€ 57,692","€ 3,000,000","€ 3,015,201",D,22,Germany,Bayern Munich,Bundesliga,2018-2019
+19,19,Sandro Wagner,"€ 57,692","€ 3,000,000","€ 3,015,201",F,30,Germany,Bayern Munich,Bundesliga,2018-2019
+20,20,Sven Ulreich,"€ 48,077","€ 2,500,000","€ 2,512,667",K,29,Germany,Bayern Munich,Bundesliga,2018-2019
+21,21,Renato Sanches,"€ 28,846","€ 1,500,000","€ 1,507,600",M,20,Portugal,Bayern Munich,Bundesliga,2018-2019
+22,22,Alphonso Davies,"€ 10,000","€ 520,000","€ 522,635",F,17,Canada,Bayern Munich,Bundesliga,2018-2019
+23,23,Marco Friedl,"€ 5,769","€ 300,000","€ 301,520",D,20,Austria,Bayern Munich,Bundesliga,2018-2019
+24,24,Christian Früchtl,"€ 4,788","€ 249,000","€ 250,262",K,18,Germany,Bayern Munich,Bundesliga,2018-2019
+25,25,Woo-yeong Jeong,"€ 2,865","€ 149,000","€ 149,755",F,18,South Korea,Bayern Munich,Bundesliga,2018-2019
+26,26,Ron-Thorben Hoffmann,"€ 2,000","€ 104,000","€ 104,527",K,19,Germany,Bayern Munich,Bundesliga,2018-2019
+27,27,Meritan Shabani,"€ 2,000","€ 104,000","€ 104,527",M,19,Germany,Bayern Munich,Bundesliga,2018-2019
+28,28,Juan Bernat,€ 0,€ 0,€ 0,D,25,Spain,Bayern Munich,Bundesliga,2018-2019
+29,29,Jonathan Meier,€ 0,€ 0,€ 0,D,18,Germany,Bayern Munich,Bundesliga,2018-2019
+30,30,Lars Lukas Mai,€ 0,€ 0,€ 0,D,18,Germany,Bayern Munich,Bundesliga,2018-2019
+31,31,Paul Will,€ 0,€ 0,€ 0,M,19,Germany,Bayern Munich,Bundesliga,2018-2019
+0,0,Marco Reus,"€ 210,827","€ 10,963,000","€ 11,018,548",M,29,Germany,Borussia Dortmund,Bundesliga,2018-2019
+1,1,Mario Götze,"€ 191,654","€ 9,966,000","€ 10,016,497",M,26,Germany,Borussia Dortmund,Bundesliga,2018-2019
+2,2,Axel Witsel,"€ 153,327","€ 7,973,000","€ 8,013,398",M,29,Belgium,Borussia Dortmund,Bundesliga,2018-2019
+3,3,Thomas Delaney,"€ 115,385","€ 6,000,000","€ 6,030,401",M,26,Denmark,Borussia Dortmund,Bundesliga,2018-2019
+4,4,Marius Wolf,"€ 96,154","€ 5,000,000","€ 5,025,334",F,23,Germany,Borussia Dortmund,Bundesliga,2018-2019
+5,5,Mahmoud Dahoud,"€ 95,827","€ 4,983,000","€ 5,008,248",M,22,Germany,Borussia Dortmund,Bundesliga,2018-2019
+6,6,Abdou Diallo,"€ 76,923","€ 4,000,000","€ 4,020,268",D,22,France,Borussia Dortmund,Bundesliga,2018-2019
+7,7,Shinji Kagawa,"€ 76,923","€ 4,000,000","€ 4,020,268",M,29,Japan,Borussia Dortmund,Bundesliga,2018-2019
+8,8,Julian Weigl,"€ 76,654","€ 3,986,000","€ 4,006,197",M,22,Germany,Borussia Dortmund,Bundesliga,2018-2019
+9,9,Maximilian Philipp,"€ 76,654","€ 3,986,000","€ 4,006,197",F,24,Germany,Borussia Dortmund,Bundesliga,2018-2019
+10,10,Paco Alcácer,"€ 76,654","€ 3,986,000","€ 4,006,197",F,24,Spain,Borussia Dortmund,Bundesliga,2018-2019
+11,11,Ömer Toprak,"€ 67,308","€ 3,500,000","€ 3,517,734",D,28,Turkey,Borussia Dortmund,Bundesliga,2018-2019
+12,12,Jeremy Toljan,"€ 57,692","€ 3,000,000","€ 3,015,201",D,23,Germany,Borussia Dortmund,Bundesliga,2018-2019
+13,13,Sebastian Rode,"€ 57,500","€ 2,990,000","€ 3,005,150",M,27,Germany,Borussia Dortmund,Bundesliga,2018-2019
+14,14,Lukasz Piszczek,"€ 55,577","€ 2,890,000","€ 2,904,643",D,33,Poland,Borussia Dortmund,Bundesliga,2018-2019
+15,15,Roman Bürki,"€ 48,077","€ 2,500,000","€ 2,512,667",K,27,Switzerland,Borussia Dortmund,Bundesliga,2018-2019
+16,16,Marcel Schmelzer,"€ 48,077","€ 2,500,000","€ 2,512,667",D,30,Germany,Borussia Dortmund,Bundesliga,2018-2019
+17,17,Manuel Akanji,"€ 47,904","€ 2,491,000","€ 2,503,622",D,22,Switzerland,Borussia Dortmund,Bundesliga,2018-2019
+18,18,Marwin Hitz,"€ 38,462","€ 2,000,000","€ 2,010,134",K,30,Switzerland,Borussia Dortmund,Bundesliga,2018-2019
+19,19,Jadon Sancho,"€ 38,327","€ 1,993,000","€ 2,003,098",F,18,England,Borussia Dortmund,Bundesliga,2018-2019
+20,20,Raphaël Guerreiro,"€ 38,000","€ 1,976,000","€ 1,986,012",M,24,Portugal,Borussia Dortmund,Bundesliga,2018-2019
+21,21,Christian Pulisic,"€ 28,750","€ 1,495,000","€ 1,502,575",F,19,United States,Borussia Dortmund,Bundesliga,2018-2019
+22,22,Achraf Hakimi,"€ 28,750","€ 1,495,000","€ 1,502,575",D,19,Morocco,Borussia Dortmund,Bundesliga,2018-2019
+23,23,Sergio Gómez,"€ 19,231","€ 1,000,000","€ 1,005,067",M,17,Spain,Borussia Dortmund,Bundesliga,2018-2019
+24,24,Alexander Isak,"€ 15,000","€ 780,000","€ 783,952",F,18,Sweden,Borussia Dortmund,Bundesliga,2018-2019
+25,25,Jacob Bruun Larsen,"€ 8,500","€ 442,000","€ 444,240",F,19,Denmark,Borussia Dortmund,Bundesliga,2018-2019
+26,26,Dzenis Burnic,"€ 4,500","€ 234,000","€ 235,186",M,20,Germany,Borussia Dortmund,Bundesliga,2018-2019
+27,27,Dan-Axel Zagadou,"€ 4,500","€ 234,000","€ 235,186",D,19,France,Borussia Dortmund,Bundesliga,2018-2019
+28,28,Leonardo Balerdi,"€ 2,077","€ 108,000","€ 108,547",D,19,Argentina,Borussia Dortmund,Bundesliga,2018-2019
+29,29,Eric Oelschlägel,"€ 1,596","€ 83,000","€ 83,421",K,22,Germany,Borussia Dortmund,Bundesliga,2018-2019
+30,30,André Schürrle,€ 0,€ 0,€ 0,F,27,Germany,Borussia Dortmund,Bundesliga,2018-2019
+31,31,Luca Unbehaun,€ 0,€ 0,€ 0,K,17,Germany,Borussia Dortmund,Bundesliga,2018-2019
+32,32,Felix Passlack,€ 0,€ 0,€ 0,D,20,Germany,Borussia Dortmund,Bundesliga,2018-2019
+33,33,Amos Pieper,€ 0,€ 0,€ 0,D,20,Germany,Borussia Dortmund,Bundesliga,2018-2019
+0,0,Markus Suttner,"€ 27,846","€ 1,448,000","€ 1,455,337",D,31,Austria,Dusseldorf,Bundesliga,2018-2019
+1,1,Dawid Kownacki,"€ 16,000","€ 832,000","€ 836,216",F,21,Poland,Dusseldorf,Bundesliga,2018-2019
+2,2,Takashi Usami,"€ 15,000","€ 780,000","€ 783,952",F,26,Japan,Dusseldorf,Bundesliga,2018-2019
+3,3,Dodi Lukebakio,"€ 14,596","€ 759,000","€ 762,846",F,20,Belgium,Dusseldorf,Bundesliga,2018-2019
+4,4,Marvin Ducksch,"€ 13,423","€ 698,000","€ 701,537",F,24,Germany,Dusseldorf,Bundesliga,2018-2019
+5,5,Alfredo Morales,"€ 12,462","€ 648,000","€ 651,283",M,28,United States,Dusseldorf,Bundesliga,2018-2019
+6,6,Marcin Kaminski,"€ 11,500","€ 598,000","€ 601,030",D,26,Poland,Dusseldorf,Bundesliga,2018-2019
+7,7,Rouwen Hennings,"€ 11,500","€ 598,000","€ 601,030",F,30,Germany,Dusseldorf,Bundesliga,2018-2019
+8,8,Kaan Ayhan,"€ 11,500","€ 598,000","€ 601,030",D,23,Turkey,Dusseldorf,Bundesliga,2018-2019
+9,9,Benito Raman,"€ 11,019","€ 573,000","€ 575,903",F,23,Belgium,Dusseldorf,Bundesliga,2018-2019
+10,10,Marcel Sobottka,"€ 10,538","€ 548,000","€ 550,777",M,24,Germany,Dusseldorf,Bundesliga,2018-2019
+11,11,Havard Nielsen,"€ 10,000","€ 520,000","€ 522,635",F,24,Norway,Dusseldorf,Bundesliga,2018-2019
+12,12,Kenan Karaman,"€ 9,615","€ 500,000","€ 502,533",F,24,Turkey,Dusseldorf,Bundesliga,2018-2019
+13,13,Diego Contento,"€ 9,615","€ 500,000","€ 502,533",D,28,Germany,Dusseldorf,Bundesliga,2018-2019
+14,14,Kevin Stöger,"€ 9,577","€ 498,000","€ 500,523",M,24,Austria,Dusseldorf,Bundesliga,2018-2019
+15,15,Niko Gießelmann,"€ 9,577","€ 498,000","€ 500,523",D,26,Germany,Dusseldorf,Bundesliga,2018-2019
+16,16,Michael Rensing,"€ 9,577","€ 498,000","€ 500,523",K,34,Germany,Dusseldorf,Bundesliga,2018-2019
+17,17,Jean Zimmer,"€ 9,577","€ 498,000","€ 500,523",D,24,Germany,Dusseldorf,Bundesliga,2018-2019
+18,18,Emir Kujovic,"€ 8,615","€ 448,000","€ 450,270",F,30,Sweden,Dusseldorf,Bundesliga,2018-2019
+19,19,Matthias Zimmermann,"€ 8,500","€ 442,000","€ 444,240",D,26,Germany,Dusseldorf,Bundesliga,2018-2019
+20,20,Raphael Wolf,"€ 8,500","€ 442,000","€ 444,240",K,30,Germany,Dusseldorf,Bundesliga,2018-2019
+21,21,Andre Hoffmann,"€ 7,673","€ 399,000","€ 401,022",D,25,Germany,Dusseldorf,Bundesliga,2018-2019
+22,22,Jaroslav Drobny,"€ 7,365","€ 383,000","€ 384,941",K,38,Czech Republic,Dusseldorf,Bundesliga,2018-2019
+23,23,Adam Bodzek,"€ 6,712","€ 349,000","€ 350,768",M,32,Poland,Dusseldorf,Bundesliga,2018-2019
+24,24,Oliver Fink,"€ 6,712","€ 349,000","€ 350,768",M,36,Germany,Dusseldorf,Bundesliga,2018-2019
+25,25,Davor Lovren,"€ 4,500","€ 234,000","€ 235,186",F,19,Croatia,Dusseldorf,Bundesliga,2018-2019
+26,26,Aymen Barkok,"€ 4,500","€ 234,000","€ 235,186",M,20,Germany,Dusseldorf,Bundesliga,2018-2019
+27,27,Robin Bormuth,"€ 2,865","€ 149,000","€ 149,755",D,22,Germany,Dusseldorf,Bundesliga,2018-2019
+28,28,Kianz Froese,"€ 1,529","€ 79,500","€ 79,903",M,22,Canada,Dusseldorf,Bundesliga,2018-2019
+29,29,Tim Wiesner,€ 596,"€ 31,000","€ 31,157",K,21,Germany,Dusseldorf,Bundesliga,2018-2019
+30,30,Georgios Siadas,€ 404,"€ 21,000","€ 21,106",D,18,Germany,Dusseldorf,Bundesliga,2018-2019
+31,31,Emmanuel Iyoha,€ 0,€ 0,€ 0,F,20,Germany,Dusseldorf,Bundesliga,2018-2019
+32,32,Jannick Theißen,€ 0,€ 0,€ 0,K,20,Germany,Dusseldorf,Bundesliga,2018-2019
+33,33,Johannes Bühler,€ 0,€ 0,€ 0,M,20,Germany,Dusseldorf,Bundesliga,2018-2019
+0,0,Kevin Trapp,"€ 69,000","€ 3,588,000","€ 3,606,180",K,27,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+1,1,Ante Rebic,"€ 57,692","€ 3,000,000","€ 3,015,201",F,24,Croatia,Eintracht Frankfurt,Bundesliga,2018-2019
+2,2,Sebastian Rode,"€ 57,500","€ 2,990,000","€ 3,005,150",M,27,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+3,3,Nicolai Müller,"€ 38,462","€ 2,000,000","€ 2,010,134",F,30,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+4,4,Jetro Willems,"€ 38,000","€ 1,976,000","€ 1,986,012",D,24,Netherlands,Eintracht Frankfurt,Bundesliga,2018-2019
+5,5,Filip Kostic,"€ 32,692","€ 1,700,000","€ 1,708,614",M,25,Serbia,Eintracht Frankfurt,Bundesliga,2018-2019
+6,6,Jonathan de Guzmán,"€ 28,846","€ 1,500,000","€ 1,507,600",M,30,Netherlands,Eintracht Frankfurt,Bundesliga,2018-2019
+7,7,Marco Fabián,"€ 28,846","€ 1,500,000","€ 1,507,600",M,28,Mexico,Eintracht Frankfurt,Bundesliga,2018-2019
+8,8,Sébastien Haller,"€ 28,846","€ 1,500,000","€ 1,507,600",F,24,France,Eintracht Frankfurt,Bundesliga,2018-2019
+9,9,David Abraham,"€ 26,923","€ 1,400,000","€ 1,407,094",D,31,Argentina,Eintracht Frankfurt,Bundesliga,2018-2019
+10,10,Martin Hinteregger,"€ 23,077","€ 1,200,000","€ 1,206,080",D,25,Austria,Eintracht Frankfurt,Bundesliga,2018-2019
+11,11,Gelson Fernandes,"€ 23,077","€ 1,200,000","€ 1,206,080",M,31,Switzerland,Eintracht Frankfurt,Bundesliga,2018-2019
+12,12,Almamy Touré,"€ 20,404","€ 1,061,000","€ 1,066,376",D,22,France,Eintracht Frankfurt,Bundesliga,2018-2019
+13,13,Makoto Hasebe,"€ 20,000","€ 1,040,000","€ 1,045,270",M,34,Japan,Eintracht Frankfurt,Bundesliga,2018-2019
+14,14,Frederik Rönnow,"€ 19,231","€ 1,000,000","€ 1,005,067",K,25,Denmark,Eintracht Frankfurt,Bundesliga,2018-2019
+15,15,Lucas Torró,"€ 17,250","€ 897,000","€ 901,545",M,23,Spain,Eintracht Frankfurt,Bundesliga,2018-2019
+16,16,Carlos Salcedo,"€ 15,385","€ 800,000","€ 804,054",D,24,Mexico,Eintracht Frankfurt,Bundesliga,2018-2019
+17,17,Branimir Hrgota,"€ 15,000","€ 780,000","€ 783,952",F,25,Sweden,Eintracht Frankfurt,Bundesliga,2018-2019
+18,18,Timothy Chandler,"€ 15,000","€ 780,000","€ 783,952",D,28,United States,Eintracht Frankfurt,Bundesliga,2018-2019
+19,19,Danny da Costa,"€ 15,000","€ 780,000","€ 783,952",D,24,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+20,20,Felix Wiedwald,"€ 15,000","€ 780,000","€ 783,952",K,28,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+21,21,Simon Falette,"€ 15,000","€ 780,000","€ 783,952",D,26,Guinea,Eintracht Frankfurt,Bundesliga,2018-2019
+22,22,Mijat Gacinovic,"€ 15,000","€ 780,000","€ 783,952",M,23,Serbia,Eintracht Frankfurt,Bundesliga,2018-2019
+23,23,Taleb Tawatha,"€ 15,000","€ 780,000","€ 783,952",D,26,Israel,Eintracht Frankfurt,Bundesliga,2018-2019
+24,24,Marco Russ,"€ 15,000","€ 780,000","€ 783,952",D,32,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+25,25,Gonçalo Paciência,"€ 14,962","€ 778,000","€ 781,942",F,23,Portugal,Eintracht Frankfurt,Bundesliga,2018-2019
+26,26,Evan N'Dicka,"€ 9,577","€ 498,000","€ 500,523",D,18,France,Eintracht Frankfurt,Bundesliga,2018-2019
+27,27,Marc Stendera,"€ 8,500","€ 442,000","€ 444,240",M,22,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+28,28,Jan Zimmermann,"€ 8,500","€ 442,000","€ 444,240",K,33,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+29,29,Luka Jovic,"€ 7,654","€ 398,000","€ 400,017",F,20,Serbia,Eintracht Frankfurt,Bundesliga,2018-2019
+30,30,Chico Geraldes,"€ 6,885","€ 358,000","€ 359,814",M,23,Portugal,Eintracht Frankfurt,Bundesliga,2018-2019
+31,31,Allan,"€ 3,346","€ 174,000","€ 174,882",M,21,Brazil,Eintracht Frankfurt,Bundesliga,2018-2019
+32,32,Sahverdi Cetin,"€ 2,000","€ 104,000","€ 104,527",M,17,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+33,33,Patrice Kabuya,"€ 1,923","€ 100,000","€ 100,507",F,18,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+34,34,Tobias Stirl,"€ 1,923","€ 100,000","€ 100,507",K,18,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+35,35,Tuta,"€ 1,135","€ 59,000","€ 59,299",D,18,Brazil,Eintracht Frankfurt,Bundesliga,2018-2019
+36,36,Patrick Finger,€ 365,"€ 19,000","€ 19,096",M,17,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+37,37,Nils Stendera,€ 365,"€ 19,000","€ 19,096",M,17,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+38,38,Max Besuschkow,€ 0,€ 0,€ 0,M,21,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+39,39,Noel Knothe,€ 0,€ 0,€ 0,D,19,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+40,40,Deji Beyreuther,€ 0,€ 0,€ 0,D,18,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+41,41,Danny Blum,€ 0,€ 0,€ 0,F,27,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+42,42,Daichi Kamada,€ 0,€ 0,€ 0,M,21,Japan,Eintracht Frankfurt,Bundesliga,2018-2019
+43,43,Nelson Mandela Mbouhom,€ 0,€ 0,€ 0,F,19,Cameroon,Eintracht Frankfurt,Bundesliga,2018-2019
+44,44,Andersson Ordóñez,€ 0,€ 0,€ 0,D,24,Ecuador,Eintracht Frankfurt,Bundesliga,2018-2019
+45,45,Mischa Häuser,€ 0,€ 0,€ 0,F,18,Germany,Eintracht Frankfurt,Bundesliga,2018-2019
+46,46,Marijan Cavar,€ 0,€ 0,€ 0,M,20,Bosnia-Herzegovina,Eintracht Frankfurt,Bundesliga,2018-2019
+0,0,Vincenzo Grifo,"€ 38,327","€ 1,993,000","€ 2,003,098",F,25,Italy,Freiburg,Bundesliga,2018-2019
+1,1,Yoric Ravet,"€ 19,231","€ 1,000,000","€ 1,005,067",F,28,France,Freiburg,Bundesliga,2018-2019
+2,2,Nils Petersen,"€ 15,327","€ 797,000","€ 801,038",F,29,Germany,Freiburg,Bundesliga,2018-2019
+3,3,Dominique Heintz,"€ 15,327","€ 797,000","€ 801,038",D,24,Germany,Freiburg,Bundesliga,2018-2019
+4,4,Christian Günter,"€ 15,000","€ 780,000","€ 783,952",D,25,Germany,Freiburg,Bundesliga,2018-2019
+5,5,Marco Terrazzino,"€ 15,000","€ 780,000","€ 783,952",F,27,Germany,Freiburg,Bundesliga,2018-2019
+6,6,Florian Niederlechner,"€ 15,000","€ 780,000","€ 783,952",F,27,Germany,Freiburg,Bundesliga,2018-2019
+7,7,Robin Koch,"€ 15,000","€ 780,000","€ 783,952",D,21,Germany,Freiburg,Bundesliga,2018-2019
+8,8,Pascal Stenzel,"€ 13,462","€ 700,000","€ 703,547",D,22,Germany,Freiburg,Bundesliga,2018-2019
+9,9,Mike Frantz,"€ 13,423","€ 698,000","€ 701,537",M,31,Germany,Freiburg,Bundesliga,2018-2019
+10,10,Philipp Lienhart,"€ 12,500","€ 650,000","€ 653,293",D,21,Austria,Freiburg,Bundesliga,2018-2019
+11,11,Luca Waldschmidt,"€ 12,500","€ 650,000","€ 653,293",F,22,Germany,Freiburg,Bundesliga,2018-2019
+12,12,Jérôme Gondorf,"€ 12,500","€ 650,000","€ 653,293",M,30,Germany,Freiburg,Bundesliga,2018-2019
+13,13,Amir Abrashi,"€ 12,000","€ 624,000","€ 627,162",M,28,Albania,Freiburg,Bundesliga,2018-2019
+14,14,Nicolas Höfler,"€ 11,538","€ 600,000","€ 603,040",M,28,Germany,Freiburg,Bundesliga,2018-2019
+15,15,Roland Sallai,"€ 11,538","€ 600,000","€ 603,040",F,21,Hungary,Freiburg,Bundesliga,2018-2019
+16,16,Alexander Schwolow,"€ 11,500","€ 598,000","€ 601,030",K,26,Germany,Freiburg,Bundesliga,2018-2019
+17,17,Janik Haberer,"€ 10,000","€ 520,000","€ 522,635",M,24,Germany,Freiburg,Bundesliga,2018-2019
+18,18,Manuel Gulde,"€ 9,192","€ 478,000","€ 480,422",D,27,Germany,Freiburg,Bundesliga,2018-2019
+19,19,Lucas Höler,"€ 9,000","€ 468,000","€ 470,371",F,23,Germany,Freiburg,Bundesliga,2018-2019
+20,20,Brandon Borrello,"€ 8,500","€ 442,000","€ 444,240",F,22,Australia,Freiburg,Bundesliga,2018-2019
+21,21,Mark Flekken,"€ 6,712","€ 349,000","€ 350,768",K,25,Netherlands,Freiburg,Bundesliga,2018-2019
+22,22,Tim Kleindienst,"€ 6,000","€ 312,000","€ 313,581",F,22,Germany,Freiburg,Bundesliga,2018-2019
+23,23,Lukas Kübler,"€ 5,000","€ 260,000","€ 261,317",D,25,Germany,Freiburg,Bundesliga,2018-2019
+24,24,Patrick Kammerbauer,"€ 5,000","€ 260,000","€ 261,317",M,21,Germany,Freiburg,Bundesliga,2018-2019
+25,25,Florian Kath,"€ 4,500","€ 234,000","€ 235,186",F,23,Germany,Freiburg,Bundesliga,2018-2019
+26,26,Constantin Frommann,"€ 2,000","€ 104,000","€ 104,527",K,20,Germany,Freiburg,Bundesliga,2018-2019
+27,27,Chima Okoroji,"€ 1,500","€ 78,000","€ 78,395",D,21,England,Freiburg,Bundesliga,2018-2019
+28,28,Keven Schlotterbeck,"€ 1,202","€ 62,500","€ 62,817",D,21,Germany,Freiburg,Bundesliga,2018-2019
+29,29,Vincent Sierro,€ 0,€ 0,€ 0,M,22,Switzerland,Freiburg,Bundesliga,2018-2019
+30,30,Nico Schlotterbeck,€ 0,€ 0,€ 0,D,18,Germany,Freiburg,Bundesliga,2018-2019
+31,31,Fabian Schleusener,€ 0,€ 0,€ 0,F,26,Germany,Freiburg,Bundesliga,2018-2019
+32,32,Christoph Daferner,€ 0,€ 0,€ 0,F,20,Germany,Freiburg,Bundesliga,2018-2019
+33,33,Jonas Föhrenbach,€ 0,€ 0,€ 0,D,22,Germany,Freiburg,Bundesliga,2018-2019
+0,0,Jonathas,"€ 57,692","€ 3,000,000","€ 3,015,201",F,29,Brazil,Hannover,Bundesliga,2018-2019
+1,1,Niclas Füllkrug,"€ 48,077","€ 2,500,000","€ 2,512,667",F,25,Germany,Hannover,Bundesliga,2018-2019
+2,2,Kevin Wimmer,"€ 38,981","€ 2,027,000","€ 2,037,271",D,25,Austria,Hannover,Bundesliga,2018-2019
+3,3,Nicolai Müller,"€ 38,462","€ 2,000,000","€ 2,010,134",F,30,Germany,Hannover,Bundesliga,2018-2019
+4,4,Walace,"€ 38,462","€ 2,000,000","€ 2,010,134",M,23,Brazil,Hannover,Bundesliga,2018-2019
+5,5,Pirmin Schwegler,"€ 38,000","€ 1,976,000","€ 1,986,012",M,31,Switzerland,Hannover,Bundesliga,2018-2019
+6,6,Bobby Wood,"€ 30,769","€ 1,600,000","€ 1,608,107",F,25,United States,Hannover,Bundesliga,2018-2019
+7,7,Genki Haraguchi,"€ 28,846","€ 1,500,000","€ 1,507,600",F,27,Japan,Hannover,Bundesliga,2018-2019
+8,8,Matthias Ostrzolek,"€ 28,750","€ 1,495,000","€ 1,502,575",D,28,Germany,Hannover,Bundesliga,2018-2019
+9,9,Oliver Sorg,"€ 28,750","€ 1,495,000","€ 1,502,575",D,28,Germany,Hannover,Bundesliga,2018-2019
+10,10,Julian Korb,"€ 20,000","€ 1,040,000","€ 1,045,270",D,26,Germany,Hannover,Bundesliga,2018-2019
+11,11,Edgar Prib,"€ 20,000","€ 1,040,000","€ 1,045,270",M,28,Germany,Hannover,Bundesliga,2018-2019
+12,12,Ihlas Bebou,"€ 19,231","€ 1,000,000","€ 1,005,067",F,24,Togo,Hannover,Bundesliga,2018-2019
+13,13,Felipe,"€ 19,231","€ 1,000,000","€ 1,005,067",D,31,Brazil,Hannover,Bundesliga,2018-2019
+14,14,Takuma Asano,"€ 16,712","€ 869,000","€ 873,403",F,23,Japan,Hannover,Bundesliga,2018-2019
+15,15,Waldemar Anton,"€ 15,385","€ 800,000","€ 804,054",D,21,Germany,Hannover,Bundesliga,2018-2019
+16,16,Iver Fossum,"€ 15,000","€ 780,000","€ 783,952",M,21,Norway,Hannover,Bundesliga,2018-2019
+17,17,Miiko Albornoz,"€ 15,000","€ 780,000","€ 783,952",D,27,Chile,Hannover,Bundesliga,2018-2019
+18,18,Josip Elez,"€ 13,462","€ 700,000","€ 703,547",D,24,Croatia,Hannover,Bundesliga,2018-2019
+19,19,Michael Esser,"€ 13,346","€ 694,000","€ 697,516",K,30,Germany,Hannover,Bundesliga,2018-2019
+20,20,Marvin Bakalorz,"€ 12,000","€ 624,000","€ 627,162",M,28,Germany,Hannover,Bundesliga,2018-2019
+21,21,Kevin Akpoguma,"€ 11,538","€ 600,000","€ 603,040",D,23,Germany,Hannover,Bundesliga,2018-2019
+22,22,Noah Sarenren Bazee,"€ 8,500","€ 442,000","€ 444,240",F,21,Nigeria,Hannover,Bundesliga,2018-2019
+23,23,Philipp Tschauner,"€ 8,500","€ 442,000","€ 444,240",K,32,Germany,Hannover,Bundesliga,2018-2019
+24,24,Florent Muslija,"€ 8,077","€ 420,000","€ 422,128",M,19,Kosovo,Hannover,Bundesliga,2018-2019
+25,25,Uffe Bech,"€ 6,000","€ 312,000","€ 313,581",F,25,Denmark,Hannover,Bundesliga,2018-2019
+26,26,Timo Hübers,"€ 4,500","€ 234,000","€ 235,186",D,21,Germany,Hannover,Bundesliga,2018-2019
+27,27,Hendrik Weydandt,"€ 3,500","€ 182,000","€ 182,922",F,22,Germany,Hannover,Bundesliga,2018-2019
+28,28,Samuel Sahin-Radlinger,"€ 2,500","€ 130,000","€ 130,659",K,25,Austria,Hannover,Bundesliga,2018-2019
+29,29,Linton Maina,"€ 2,000","€ 104,000","€ 104,527",M,19,Germany,Hannover,Bundesliga,2018-2019
+30,30,Leo Weinkauf,"€ 2,000","€ 104,000","€ 104,527",K,21,Germany,Hannover,Bundesliga,2018-2019
+31,31,Fabian Senninger,€ 0,€ 0,€ 0,D,22,Germany,Hannover,Bundesliga,2018-2019
+32,32,Mike Bähre,€ 0,€ 0,€ 0,M,22,Germany,Hannover,Bundesliga,2018-2019
+33,33,Manuel Schmiedebach,€ 0,€ 0,€ 0,M,29,Germany,Hannover,Bundesliga,2018-2019
+34,34,Sebastian Soto,€ 0,€ 0,€ 0,F,17,United States,Hannover,Bundesliga,2018-2019
+35,35,Tim Dierßen,€ 0,€ 0,€ 0,M,22,Germany,Hannover,Bundesliga,2018-2019
+36,36,Benjamin Hadzic,€ 0,€ 0,€ 0,F,19,Bosnia-Herzegovina,Hannover,Bundesliga,2018-2019
+0,0,Vedad Ibisevic,"€ 57,500","€ 2,990,000","€ 3,005,150",F,33,Bosnia-Herzegovina,Hertha Berlin,Bundesliga,2018-2019
+1,1,Salomon Kalou,"€ 53,654","€ 2,790,000","€ 2,804,137",F,32,Cote d'Ivoire,Hertha Berlin,Bundesliga,2018-2019
+2,2,Vladimir Darida,"€ 47,904","€ 2,491,000","€ 2,503,622",M,27,Czech Republic,Hertha Berlin,Bundesliga,2018-2019
+3,3,Fabian Lustenberger,"€ 38,327","€ 1,993,000","€ 2,003,098",D,30,Switzerland,Hertha Berlin,Bundesliga,2018-2019
+4,4,Rune Jarstein,"€ 38,327","€ 1,993,000","€ 2,003,098",K,33,Norway,Hertha Berlin,Bundesliga,2018-2019
+5,5,Marvin Plattenhardt,"€ 28,750","€ 1,495,000","€ 1,502,575",D,26,Germany,Hertha Berlin,Bundesliga,2018-2019
+6,6,Davie Selke,"€ 28,750","€ 1,495,000","€ 1,502,575",F,23,Germany,Hertha Berlin,Bundesliga,2018-2019
+7,7,Marko Grujic,"€ 27,846","€ 1,448,000","€ 1,455,337",M,22,Serbia,Hertha Berlin,Bundesliga,2018-2019
+8,8,Karim Rekik,"€ 23,077","€ 1,200,000","€ 1,206,080",D,23,Netherlands,Hertha Berlin,Bundesliga,2018-2019
+9,9,Niklas Stark,"€ 23,000","€ 1,196,000","€ 1,202,060",D,23,Germany,Hertha Berlin,Bundesliga,2018-2019
+10,10,Per Ciljan Skjelbred,"€ 23,000","€ 1,196,000","€ 1,202,060",M,31,Norway,Hertha Berlin,Bundesliga,2018-2019
+11,11,Valentino Lazaro,"€ 23,000","€ 1,196,000","€ 1,202,060",M,22,Austria,Hertha Berlin,Bundesliga,2018-2019
+12,12,Ondrej Duda,"€ 19,173","€ 997,000","€ 1,002,052",M,23,Slovakia,Hertha Berlin,Bundesliga,2018-2019
+13,13,Arne Maier,"€ 19,173","€ 997,000","€ 1,002,052",M,19,Germany,Hertha Berlin,Bundesliga,2018-2019
+14,14,Thomas Kraft,"€ 19,154","€ 996,000","€ 1,001,047",K,29,Germany,Hertha Berlin,Bundesliga,2018-2019
+15,15,Mathew Leckie,"€ 17,250","€ 897,000","€ 901,545",F,27,Australia,Hertha Berlin,Bundesliga,2018-2019
+16,16,Lukas Klünter,"€ 15,327","€ 797,000","€ 801,038",D,22,Germany,Hertha Berlin,Bundesliga,2018-2019
+17,17,Alexander Esswein,"€ 15,000","€ 780,000","€ 783,952",F,28,Germany,Hertha Berlin,Bundesliga,2018-2019
+18,18,Pascal Köpke,"€ 15,000","€ 780,000","€ 783,952",F,22,Germany,Hertha Berlin,Bundesliga,2018-2019
+19,19,Peter Pekarik,"€ 15,000","€ 780,000","€ 783,952",D,31,Slovakia,Hertha Berlin,Bundesliga,2018-2019
+20,20,Derrick Luckassen,"€ 11,500","€ 598,000","€ 601,030",D,22,Netherlands,Hertha Berlin,Bundesliga,2018-2019
+21,21,Javairô Dilrosun,"€ 9,615","€ 500,000","€ 502,533",F,20,Netherlands,Hertha Berlin,Bundesliga,2018-2019
+22,22,Maximilian Mittelstädt,"€ 8,500","€ 442,000","€ 444,240",D,21,Germany,Hertha Berlin,Bundesliga,2018-2019
+23,23,Julius Kade,"€ 3,827","€ 199,000","€ 200,008",M,19,Germany,Hertha Berlin,Bundesliga,2018-2019
+24,24,Palko Dárdai,"€ 2,865","€ 149,000","€ 149,755",F,19,Germany,Hertha Berlin,Bundesliga,2018-2019
+25,25,Muhammed Kiprit,"€ 2,865","€ 149,000","€ 149,755",F,18,Turkey,Hertha Berlin,Bundesliga,2018-2019
+26,26,Jordan Torunarigha,"€ 2,865","€ 149,000","€ 149,755",D,20,Germany,Hertha Berlin,Bundesliga,2018-2019
+27,27,Florian Baak,"€ 2,865","€ 149,000","€ 149,755",D,19,Germany,Hertha Berlin,Bundesliga,2018-2019
+28,28,Marius Gersbeck,"€ 2,192","€ 114,000","€ 114,578",K,23,Germany,Hertha Berlin,Bundesliga,2018-2019
+29,29,Jonathan Klinsmann,"€ 2,000","€ 104,000","€ 104,527",K,21,United States,Hertha Berlin,Bundesliga,2018-2019
+30,30,Dennis Jastrzembski,"€ 1,913","€ 99,500","€ 100,004",F,18,Germany,Hertha Berlin,Bundesliga,2018-2019
+31,31,Sidney Friede,"€ 1,500","€ 78,000","€ 78,395",M,20,Germany,Hertha Berlin,Bundesliga,2018-2019
+32,32,Dennis Smarsch,€ 577,"€ 30,000","€ 30,152",K,19,Germany,Hertha Berlin,Bundesliga,2018-2019
+33,33,Maurice Covic,€ 404,"€ 21,000","€ 21,106",F,20,Germany,Hertha Berlin,Bundesliga,2018-2019
+34,34,Maximilian Pronichev,€ 0,€ 0,€ 0,F,20,Russia,Hertha Berlin,Bundesliga,2018-2019
+35,35,Panzu Ernesto,€ 0,€ 0,€ 0,D,19,Germany,Hertha Berlin,Bundesliga,2018-2019
+0,0,Andrej Kramaric,"€ 57,692","€ 3,000,000","€ 3,015,201",F,27,Croatia,Hoffenheim,Bundesliga,2018-2019
+1,1,Ádám Szalai,"€ 57,692","€ 3,000,000","€ 3,015,201",F,30,Hungary,Hoffenheim,Bundesliga,2018-2019
+2,2,Kerem Demirbay,"€ 57,500","€ 2,990,000","€ 3,005,150",M,24,Germany,Hoffenheim,Bundesliga,2018-2019
+3,3,Leonardo Bittencourt,"€ 47,904","€ 2,491,000","€ 2,503,622",M,24,Germany,Hoffenheim,Bundesliga,2018-2019
+4,4,Kevin Vogt,"€ 38,462","€ 2,000,000","€ 2,010,134",D,26,Germany,Hoffenheim,Bundesliga,2018-2019
+5,5,Pavel Kaderabek,"€ 38,462","€ 2,000,000","€ 2,010,134",D,26,Czech Republic,Hoffenheim,Bundesliga,2018-2019
+6,6,Lukas Rupp,"€ 38,462","€ 2,000,000","€ 2,010,134",M,27,Germany,Hoffenheim,Bundesliga,2018-2019
+7,7,Vincenzo Grifo,"€ 38,327","€ 1,993,000","€ 2,003,098",F,25,Italy,Hoffenheim,Bundesliga,2018-2019
+8,8,Havard Nordtveit,"€ 38,000","€ 1,976,000","€ 1,986,012",M,28,Norway,Hoffenheim,Bundesliga,2018-2019
+9,9,Reiss Nelson,"€ 33,423","€ 1,738,000","€ 1,746,806",F,18,England,Hoffenheim,Bundesliga,2018-2019
+10,10,Ishak Belfodil,"€ 28,846","€ 1,500,000","€ 1,507,600",F,26,Algeria,Hoffenheim,Bundesliga,2018-2019
+11,11,Nadiem Amiri,"€ 28,750","€ 1,495,000","€ 1,502,575",M,21,Germany,Hoffenheim,Bundesliga,2018-2019
+12,12,Nico Schulz,"€ 25,000","€ 1,300,000","€ 1,306,587",D,25,Germany,Hoffenheim,Bundesliga,2018-2019
+13,13,Joshua Brenet,"€ 23,077","€ 1,200,000","€ 1,206,080",D,24,Netherlands,Hoffenheim,Bundesliga,2018-2019
+14,14,Kasim Adams,"€ 23,000","€ 1,196,000","€ 1,202,060",D,23,Ghana,Hoffenheim,Bundesliga,2018-2019
+15,15,Benjamin Hübner,"€ 20,000","€ 1,040,000","€ 1,045,270",D,28,Germany,Hoffenheim,Bundesliga,2018-2019
+16,16,Florian Grillitsch,"€ 19,231","€ 1,000,000","€ 1,005,067",M,22,Austria,Hoffenheim,Bundesliga,2018-2019
+17,17,Ermin Bicakcic,"€ 19,173","€ 997,000","€ 1,002,052",D,28,Bosnia-Herzegovina,Hoffenheim,Bundesliga,2018-2019
+18,18,Dennis Geiger,"€ 15,385","€ 800,000","€ 804,054",M,20,Germany,Hoffenheim,Bundesliga,2018-2019
+19,19,Steven Zuber,"€ 15,000","€ 780,000","€ 783,952",M,26,Switzerland,Hoffenheim,Bundesliga,2018-2019
+20,20,Kevin Akpoguma,"€ 11,538","€ 600,000","€ 603,040",D,23,Germany,Hoffenheim,Bundesliga,2018-2019
+21,21,Felipe Pires,"€ 9,615","€ 500,000","€ 502,533",F,23,Brazil,Hoffenheim,Bundesliga,2018-2019
+22,22,Joelinton,"€ 8,654","€ 450,000","€ 452,280",F,21,Brazil,Hoffenheim,Bundesliga,2018-2019
+23,23,Justin Hoogma,"€ 7,000","€ 364,000","€ 365,844",D,20,Netherlands,Hoffenheim,Bundesliga,2018-2019
+24,24,Oliver Baumann,"€ 5,769","€ 300,000","€ 301,520",K,28,Germany,Hoffenheim,Bundesliga,2018-2019
+25,25,Lucas Ribeiro,"€ 5,077","€ 264,000","€ 265,338",D,19,Brazil,Hoffenheim,Bundesliga,2018-2019
+26,26,Robin Hack,"€ 4,500","€ 234,000","€ 235,186",F,19,Germany,Hoffenheim,Bundesliga,2018-2019
+27,27,Gregor Kobel,"€ 3,000","€ 156,000","€ 156,790",K,20,Switzerland,Hoffenheim,Bundesliga,2018-2019
+28,28,David Otto,"€ 2,500","€ 130,000","€ 130,659",F,19,Germany,Hoffenheim,Bundesliga,2018-2019
+29,29,Christoph Baumgartner,"€ 2,500","€ 130,000","€ 130,659",M,18,Austria,Hoffenheim,Bundesliga,2018-2019
+30,30,Alfons Amade,"€ 2,192","€ 114,000","€ 114,578",D,18,Germany,Hoffenheim,Bundesliga,2018-2019
+31,31,Stefan Posch,"€ 2,000","€ 104,000","€ 104,527",D,21,Austria,Hoffenheim,Bundesliga,2018-2019
+32,32,Alexander Stolz,"€ 1,000","€ 52,000","€ 52,263",K,34,Germany,Hoffenheim,Bundesliga,2018-2019
+33,33,Robert Zulj,€ 0,€ 0,€ 0,M,26,Austria,Hoffenheim,Bundesliga,2018-2019
+34,34,Philipp Ochs,€ 0,€ 0,€ 0,F,21,Germany,Hoffenheim,Bundesliga,2018-2019
+35,35,Antonio Colak,€ 0,€ 0,€ 0,F,24,Croatia,Hoffenheim,Bundesliga,2018-2019
+36,36,Moody Chana,€ 0,€ 0,€ 0,D,19,Germany,Hoffenheim,Bundesliga,2018-2019
+37,37,Nicolas Wähling,€ 0,€ 0,€ 0,F,20,Germany,Hoffenheim,Bundesliga,2018-2019
+0,0,Marcel Sabitzer,"€ 86,250","€ 4,485,000","€ 4,507,725",F,24,Austria,Leipzig,Bundesliga,2018-2019
+1,1,Emil Forsberg,"€ 76,654","€ 3,986,000","€ 4,006,197",F,26,Sweden,Leipzig,Bundesliga,2018-2019
+2,2,Jean-Kévin Augustin,"€ 76,154","€ 3,960,000","€ 3,980,065",F,21,France,Leipzig,Bundesliga,2018-2019
+3,3,Bruma,"€ 73,077","€ 3,800,000","€ 3,819,254",F,23,Portugal,Leipzig,Bundesliga,2018-2019
+4,4,Kevin Kampl,"€ 67,077","€ 3,488,000","€ 3,505,673",M,27,Slovenia,Leipzig,Bundesliga,2018-2019
+5,5,Nordi Mukiele,"€ 57,692","€ 3,000,000","€ 3,015,201",D,20,France,Leipzig,Bundesliga,2018-2019
+6,6,Timo Werner,"€ 57,500","€ 2,990,000","€ 3,005,150",F,22,Germany,Leipzig,Bundesliga,2018-2019
+7,7,Marcel Halstenberg,"€ 57,500","€ 2,990,000","€ 3,005,150",D,26,Germany,Leipzig,Bundesliga,2018-2019
+8,8,Willi Orban,"€ 47,904","€ 2,491,000","€ 2,503,622",D,25,Hungary,Leipzig,Bundesliga,2018-2019
+9,9,Dayot Upamecano,"€ 46,154","€ 2,400,000","€ 2,412,161",D,19,France,Leipzig,Bundesliga,2018-2019
+10,10,Diego Demme,"€ 46,000","€ 2,392,000","€ 2,404,120",M,26,Germany,Leipzig,Bundesliga,2018-2019
+11,11,Konrad Laimer,"€ 38,462","€ 2,000,000","€ 2,010,134",M,21,Austria,Leipzig,Bundesliga,2018-2019
+12,12,Yussuf Poulsen,"€ 38,462","€ 2,000,000","€ 2,010,134",F,24,Denmark,Leipzig,Bundesliga,2018-2019
+13,13,Stefan Ilsanker,"€ 38,327","€ 1,993,000","€ 2,003,098",M,29,Austria,Leipzig,Bundesliga,2018-2019
+14,14,Péter Gulácsi,"€ 38,327","€ 1,993,000","€ 2,003,098",K,28,Hungary,Leipzig,Bundesliga,2018-2019
+15,15,Yvon Mvogo,"€ 28,846","€ 1,500,000","€ 1,507,600",K,24,Switzerland,Leipzig,Bundesliga,2018-2019
+16,16,Marcelo Saracchi,"€ 28,846","€ 1,500,000","€ 1,507,600",D,20,Uruguay,Leipzig,Bundesliga,2018-2019
+17,17,Matheus Cunha,"€ 28,750","€ 1,495,000","€ 1,502,575",F,19,Brazil,Leipzig,Bundesliga,2018-2019
+18,18,Lukas Klostermann,"€ 28,750","€ 1,495,000","€ 1,502,575",D,22,Germany,Leipzig,Bundesliga,2018-2019
+19,19,Ibrahima Konaté,"€ 19,173","€ 997,000","€ 1,002,052",D,19,France,Leipzig,Bundesliga,2018-2019
+20,20,Atinc Nukan,"€ 16,962","€ 882,000","€ 886,469",D,24,Turkey,Leipzig,Bundesliga,2018-2019
+21,21,Marius Müller,"€ 15,000","€ 780,000","€ 783,952",K,24,Germany,Leipzig,Bundesliga,2018-2019
+22,22,Amadou Haidara,"€ 15,000","€ 780,000","€ 783,952",M,20,Mali,Leipzig,Bundesliga,2018-2019
+23,23,Tyler Adams,"€ 12,404","€ 645,000","€ 648,268",M,19,United States,Leipzig,Bundesliga,2018-2019
+24,24,Emile Smith Rowe,"€ 8,904","€ 463,000","€ 465,346",M,17,England,Leipzig,Bundesliga,2018-2019
+25,25,Erik Majetschak,"€ 2,442","€ 127,000","€ 127,643",M,18,Germany,Leipzig,Bundesliga,2018-2019
+26,26,Niclas Stierlin,"€ 1,000","€ 52,000","€ 52,263",M,18,Germany,Leipzig,Bundesliga,2018-2019
+27,27,Julian Krahl,€ 625,"€ 32,500","€ 32,665",K,18,Germany,Leipzig,Bundesliga,2018-2019
+28,28,Oliver Bias,€ 58,"€ 3,000","€ 3,015",F,17,Germany,Leipzig,Bundesliga,2018-2019
+29,29,Max Winter,€ 58,"€ 3,000","€ 3,015",M,17,Germany,Leipzig,Bundesliga,2018-2019
+30,30,Fabrice Hartmann,€ 58,"€ 3,000","€ 3,015",F,17,Germany,Leipzig,Bundesliga,2018-2019
+31,31,Tom Krauß,€ 58,"€ 3,000","€ 3,015",M,17,Germany,Leipzig,Bundesliga,2018-2019
+32,32,Massimo Bruno,€ 0,€ 0,€ 0,F,24,Belgium,Leipzig,Bundesliga,2018-2019
+33,33,Lukas Krüger,€ 0,€ 0,€ 0,F,18,Germany,Leipzig,Bundesliga,2018-2019
+0,0,Jean-Philippe Gbamin,"€ 38,462","€ 2,000,000","€ 2,010,134",M,22,Cote d'Ivoire,Mainz,Bundesliga,2018-2019
+1,1,René Adler,"€ 28,846","€ 1,500,000","€ 1,507,600",K,33,Germany,Mainz,Bundesliga,2018-2019
+2,2,Alexandru Maxim,"€ 28,750","€ 1,495,000","€ 1,502,575",M,27,Romania,Mainz,Bundesliga,2018-2019
+3,3,Anthony Ujah,"€ 23,077","€ 1,200,000","€ 1,206,080",F,27,Nigeria,Mainz,Bundesliga,2018-2019
+4,4,Danny Latza,"€ 19,231","€ 1,000,000","€ 1,005,067",M,28,Germany,Mainz,Bundesliga,2018-2019
+5,5,Stefan Bell,"€ 19,173","€ 997,000","€ 1,002,052",D,26,Germany,Mainz,Bundesliga,2018-2019
+6,6,Jean-Philippe Mateta,"€ 19,173","€ 997,000","€ 1,002,052",F,21,France,Mainz,Bundesliga,2018-2019
+7,7,Aarón Martín,"€ 17,308","€ 900,000","€ 904,560",D,21,Spain,Mainz,Bundesliga,2018-2019
+8,8,Daniel Brosinski,"€ 15,385","€ 800,000","€ 804,054",D,29,Germany,Mainz,Bundesliga,2018-2019
+9,9,Moussa Niakhaté,"€ 15,327","€ 797,000","€ 801,038",D,22,France,Mainz,Bundesliga,2018-2019
+10,10,Giulio Donati,"€ 15,000","€ 780,000","€ 783,952",D,28,Italy,Mainz,Bundesliga,2018-2019
+11,11,Jean-Paul Boëtius,"€ 15,000","€ 780,000","€ 783,952",M,24,Netherlands,Mainz,Bundesliga,2018-2019
+12,12,Robin Quaison,"€ 15,000","€ 780,000","€ 783,952",F,24,Sweden,Mainz,Bundesliga,2018-2019
+13,13,Niko Bungert,"€ 15,000","€ 780,000","€ 783,952",D,31,Germany,Mainz,Bundesliga,2018-2019
+14,14,Levin Öztunali,"€ 15,000","€ 780,000","€ 783,952",M,22,Germany,Mainz,Bundesliga,2018-2019
+15,15,Gaëtan Bussmann,"€ 13,423","€ 698,000","€ 701,537",D,27,France,Mainz,Bundesliga,2018-2019
+16,16,Phillipp Mwene,"€ 11,981","€ 623,000","€ 626,157",D,24,Austria,Mainz,Bundesliga,2018-2019
+17,17,Alexander Hack,"€ 11,538","€ 600,000","€ 603,040",D,24,Germany,Mainz,Bundesliga,2018-2019
+18,18,Pierre Kunde Malong,"€ 11,500","€ 598,000","€ 601,030",M,22,Cameroon,Mainz,Bundesliga,2018-2019
+19,19,Emil Berggreen,"€ 10,000","€ 520,000","€ 522,635",F,25,Denmark,Mainz,Bundesliga,2018-2019
+20,20,Gerrit Holtmann,"€ 9,577","€ 498,000","€ 500,523",F,23,Germany,Mainz,Bundesliga,2018-2019
+21,21,Issah Abass,"€ 8,500","€ 442,000","€ 444,240",F,19,Ghana,Mainz,Bundesliga,2018-2019
+22,22,Ridle Baku,"€ 8,500","€ 442,000","€ 444,240",M,20,Germany,Mainz,Bundesliga,2018-2019
+23,23,Karim Onisiwo,"€ 8,500","€ 442,000","€ 444,240",F,26,Austria,Mainz,Bundesliga,2018-2019
+24,24,Florian Müller,"€ 5,769","€ 300,000","€ 301,520",K,20,Germany,Mainz,Bundesliga,2018-2019
+25,25,Robin Zentner,"€ 5,000","€ 260,000","€ 261,317",K,23,Germany,Mainz,Bundesliga,2018-2019
+26,26,Jonathan Burkardt,"€ 2,000","€ 104,000","€ 104,527",F,17,Germany,Mainz,Bundesliga,2018-2019
+27,27,Jannik Huth,"€ 2,000","€ 104,000","€ 104,527",K,24,Germany,Mainz,Bundesliga,2018-2019
+28,28,Ahmet Gürleyen,"€ 1,913","€ 99,500","€ 100,004",D,19,Germany,Mainz,Bundesliga,2018-2019
+29,29,Finn Dahmen,"€ 1,500","€ 78,000","€ 78,395",K,20,Germany,Mainz,Bundesliga,2018-2019
+30,30,Leandro Barreiro Martins,€ 962,"€ 50,000","€ 50,253",M,18,Luxembourg,Mainz,Bundesliga,2018-2019
+31,31,Aaron Seydel,€ 0,€ 0,€ 0,F,22,Germany,Mainz,Bundesliga,2018-2019
+32,32,Pablo de Blasis,€ 0,€ 0,€ 0,F,30,Argentina,Mainz,Bundesliga,2018-2019
+33,33,José Rodríguez,€ 0,€ 0,€ 0,M,23,Spain,Mainz,Bundesliga,2018-2019
+34,34,Marin Sverko,€ 0,€ 0,€ 0,D,20,Croatia,Mainz,Bundesliga,2018-2019
+0,0,Raffael,"€ 76,654","€ 3,986,000","€ 4,006,197",F,33,Brazil,Monchengladbach,Bundesliga,2018-2019
+1,1,Christoph Kramer,"€ 57,692","€ 3,000,000","€ 3,015,201",M,27,Germany,Monchengladbach,Bundesliga,2018-2019
+2,2,Alassane Plea,"€ 57,692","€ 3,000,000","€ 3,015,201",F,25,France,Monchengladbach,Bundesliga,2018-2019
+3,3,Matthias Ginter,"€ 57,500","€ 2,990,000","€ 3,005,150",D,24,Germany,Monchengladbach,Bundesliga,2018-2019
+4,4,Lars Stindl,"€ 57,500","€ 2,990,000","€ 3,005,150",F,29,Germany,Monchengladbach,Bundesliga,2018-2019
+5,5,Ibrahima Traoré,"€ 51,923","€ 2,700,000","€ 2,713,681",F,30,Guinea,Monchengladbach,Bundesliga,2018-2019
+6,6,Josip Drmic,"€ 48,077","€ 2,500,000","€ 2,512,667",F,25,Switzerland,Monchengladbach,Bundesliga,2018-2019
+7,7,Yann Sommer,"€ 47,904","€ 2,491,000","€ 2,503,622",K,29,Switzerland,Monchengladbach,Bundesliga,2018-2019
+8,8,Fabian Johnson,"€ 47,904","€ 2,491,000","€ 2,503,622",F,30,United States,Monchengladbach,Bundesliga,2018-2019
+9,9,Denis Zakaria,"€ 38,462","€ 2,000,000","€ 2,010,134",M,21,Switzerland,Monchengladbach,Bundesliga,2018-2019
+10,10,Patrick Herrmann,"€ 38,462","€ 2,000,000","€ 2,010,134",F,27,Germany,Monchengladbach,Bundesliga,2018-2019
+11,11,Tony Jantschke,"€ 38,000","€ 1,976,000","€ 1,986,012",D,28,Germany,Monchengladbach,Bundesliga,2018-2019
+12,12,Michael Lang,"€ 33,788","€ 1,757,000","€ 1,765,903",D,27,Switzerland,Monchengladbach,Bundesliga,2018-2019
+13,13,Thorgan Hazard,"€ 30,769","€ 1,600,000","€ 1,608,107",F,25,Belgium,Monchengladbach,Bundesliga,2018-2019
+14,14,Oscar Wendt,"€ 28,846","€ 1,500,000","€ 1,507,600",D,32,Sweden,Monchengladbach,Bundesliga,2018-2019
+15,15,Nico Elvedi,"€ 28,846","€ 1,500,000","€ 1,507,600",D,21,Switzerland,Monchengladbach,Bundesliga,2018-2019
+16,16,Jonas Hofmann,"€ 28,750","€ 1,495,000","€ 1,502,575",M,25,Germany,Monchengladbach,Bundesliga,2018-2019
+17,17,Michaël Cuisance,"€ 28,750","€ 1,495,000","€ 1,502,575",M,18,France,Monchengladbach,Bundesliga,2018-2019
+18,18,Tobias Strobl,"€ 19,173","€ 997,000","€ 1,002,052",M,28,Germany,Monchengladbach,Bundesliga,2018-2019
+19,19,Tobias Sippel,"€ 11,500","€ 598,000","€ 601,030",K,30,Germany,Monchengladbach,Bundesliga,2018-2019
+20,20,Florian Neuhaus,"€ 8,500","€ 442,000","€ 444,240",M,21,Germany,Monchengladbach,Bundesliga,2018-2019
+21,21,Keanan Bennetts,"€ 5,769","€ 300,000","€ 301,520",F,19,England,Monchengladbach,Bundesliga,2018-2019
+22,22,Jordan Beyer,"€ 4,500","€ 234,000","€ 235,186",D,18,Germany,Monchengladbach,Bundesliga,2018-2019
+23,23,Julio Villalba,"€ 4,500","€ 234,000","€ 235,186",F,19,Paraguay,Monchengladbach,Bundesliga,2018-2019
+24,24,Lászlo Bénes,"€ 4,500","€ 234,000","€ 235,186",M,20,Slovakia,Monchengladbach,Bundesliga,2018-2019
+25,25,Mamadou Doucouré,"€ 4,500","€ 234,000","€ 235,186",D,20,France,Monchengladbach,Bundesliga,2018-2019
+26,26,Torben Müsel,"€ 4,500","€ 234,000","€ 235,186",M,18,Germany,Monchengladbach,Bundesliga,2018-2019
+27,27,Andreas Poulsen,"€ 4,500","€ 234,000","€ 235,186",D,18,Denmark,Monchengladbach,Bundesliga,2018-2019
+28,28,Moritz Nicolas,"€ 2,000","€ 104,000","€ 104,527",K,20,Germany,Monchengladbach,Bundesliga,2018-2019
+29,29,Florian Mayer,€ 798,"€ 41,500","€ 41,710",D,20,Germany,Monchengladbach,Bundesliga,2018-2019
+0,0,Ivo Ilicevic,"€ 15,096","€ 785,000","€ 788,978",F,31,Croatia,Nurnberg,Bundesliga,2018-2019
+1,1,Virgil Misidjan,"€ 15,000","€ 780,000","€ 783,952",F,24,Netherlands,Nurnberg,Bundesliga,2018-2019
+2,2,Christian Mathenia,"€ 13,462","€ 700,000","€ 703,547",K,26,Germany,Nurnberg,Bundesliga,2018-2019
+3,3,Eduard Löwen,"€ 11,500","€ 598,000","€ 601,030",M,21,Germany,Nurnberg,Bundesliga,2018-2019
+4,4,Yuya Kubo,"€ 11,000","€ 572,000","€ 574,898",F,24,Japan,Nurnberg,Bundesliga,2018-2019
+5,5,Hanno Behrens,"€ 10,000","€ 520,000","€ 522,635",M,28,Germany,Nurnberg,Bundesliga,2018-2019
+6,6,Robert Bauer,"€ 10,000","€ 520,000","€ 522,635",D,23,Germany,Nurnberg,Bundesliga,2018-2019
+7,7,Edgar Salli,"€ 9,615","€ 500,000","€ 502,533",F,25,Cameroon,Nurnberg,Bundesliga,2018-2019
+8,8,Ewerton,"€ 9,615","€ 500,000","€ 502,533",D,29,Brazil,Nurnberg,Bundesliga,2018-2019
+9,9,Tim Leibold,"€ 9,577","€ 498,000","€ 500,523",D,24,Germany,Nurnberg,Bundesliga,2018-2019
+10,10,Ondrej Petrak,"€ 8,500","€ 442,000","€ 444,240",M,26,Czech Republic,Nurnberg,Bundesliga,2018-2019
+11,11,Sebastian Kerk,"€ 8,500","€ 442,000","€ 444,240",F,24,Germany,Nurnberg,Bundesliga,2018-2019
+12,12,Georg Margreitter,"€ 8,500","€ 442,000","€ 444,240",D,29,Austria,Nurnberg,Bundesliga,2018-2019
+13,13,Patrick Erras,"€ 8,500","€ 442,000","€ 444,240",M,23,Germany,Nurnberg,Bundesliga,2018-2019
+14,14,Mikael Ishak,"€ 8,500","€ 442,000","€ 444,240",F,25,Sweden,Nurnberg,Bundesliga,2018-2019
+15,15,Lukas Jäger,"€ 7,000","€ 364,000","€ 365,844",M,24,Austria,Nurnberg,Bundesliga,2018-2019
+16,16,Enrico Valentini,"€ 6,904","€ 359,000","€ 360,819",D,29,Germany,Nurnberg,Bundesliga,2018-2019
+17,17,Matheus Pereira,"€ 6,885","€ 358,000","€ 359,814",F,22,Brazil,Nurnberg,Bundesliga,2018-2019
+18,18,Adam Zrelak,"€ 6,000","€ 312,000","€ 313,581",F,24,Slovakia,Nurnberg,Bundesliga,2018-2019
+19,19,Patric Klandt,"€ 4,500","€ 234,000","€ 235,186",K,34,Germany,Nurnberg,Bundesliga,2018-2019
+20,20,Törles Knöll,"€ 4,000","€ 208,000","€ 209,054",F,20,Germany,Nurnberg,Bundesliga,2018-2019
+21,21,Federico Palacios,"€ 4,000","€ 208,000","€ 209,054",F,23,Germany,Nurnberg,Bundesliga,2018-2019
+22,22,Timothy Tillman,"€ 3,846","€ 200,000","€ 201,013",M,19,Germany,Nurnberg,Bundesliga,2018-2019
+23,23,Kevin Goden,"€ 2,865","€ 149,000","€ 149,755",D,19,Germany,Nurnberg,Bundesliga,2018-2019
+24,24,Alexander Fuchs,"€ 2,000","€ 104,000","€ 104,527",M,21,Germany,Nurnberg,Bundesliga,2018-2019
+25,25,Lukas Mühl,"€ 2,000","€ 104,000","€ 104,527",D,21,Germany,Nurnberg,Bundesliga,2018-2019
+26,26,Fabian Bredlow,"€ 2,000","€ 104,000","€ 104,527",K,23,Germany,Nurnberg,Bundesliga,2018-2019
+27,27,Simon Rhein,€ 990,"€ 51,500","€ 51,761",M,20,Germany,Nurnberg,Bundesliga,2018-2019
+28,28,Dennis Lippert,€ 548,"€ 28,500","€ 28,644",D,22,Germany,Nurnberg,Bundesliga,2018-2019
+0,0,Sebastian Rudy,"€ 96,154","€ 5,000,000","€ 5,025,334",M,28,Germany,Schalke 04,Bundesliga,2018-2019
+1,1,Abdul Rahman Baba,"€ 96,154","€ 5,000,000","€ 5,025,334",D,23,Ghana,Schalke 04,Bundesliga,2018-2019
+2,2,Yevhen Konoplyanka,"€ 95,827","€ 4,983,000","€ 5,008,248",F,28,Ukraine,Schalke 04,Bundesliga,2018-2019
+3,3,Nabil Bentaleb,"€ 95,827","€ 4,983,000","€ 5,008,248",M,23,Algeria,Schalke 04,Bundesliga,2018-2019
+4,4,Omar Mascarell,"€ 86,250","€ 4,485,000","€ 4,507,725",M,25,Spain,Schalke 04,Bundesliga,2018-2019
+5,5,Matija Nastasic,"€ 76,923","€ 4,000,000","€ 4,020,268",D,25,Serbia,Schalke 04,Bundesliga,2018-2019
+6,6,Breel Embolo,"€ 76,923","€ 4,000,000","€ 4,020,268",F,21,Switzerland,Schalke 04,Bundesliga,2018-2019
+7,7,Mark Uth,"€ 76,923","€ 4,000,000","€ 4,020,268",F,26,Germany,Schalke 04,Bundesliga,2018-2019
+8,8,Franco Di Santo,"€ 76,923","€ 4,000,000","€ 4,020,268",F,29,Argentina,Schalke 04,Bundesliga,2018-2019
+9,9,Salif Sané,"€ 67,308","€ 3,500,000","€ 3,517,734",D,27,Senegal,Schalke 04,Bundesliga,2018-2019
+10,10,Jeffrey Bruma,"€ 57,692","€ 3,000,000","€ 3,015,201",D,26,Netherlands,Schalke 04,Bundesliga,2018-2019
+11,11,Ralf Fährmann,"€ 57,500","€ 2,990,000","€ 3,005,150",K,29,Germany,Schalke 04,Bundesliga,2018-2019
+12,12,Naldo,"€ 57,500","€ 2,990,000","€ 3,005,150",D,35,Brazil,Schalke 04,Bundesliga,2018-2019
+13,13,Bastian Oczipka,"€ 48,077","€ 2,500,000","€ 2,512,667",D,29,Germany,Schalke 04,Bundesliga,2018-2019
+14,14,Daniel Caligiuri,"€ 47,904","€ 2,491,000","€ 2,503,622",M,30,Italy,Schalke 04,Bundesliga,2018-2019
+15,15,Alessandro Schöpf,"€ 38,327","€ 1,993,000","€ 2,003,098",M,24,Austria,Schalke 04,Bundesliga,2018-2019
+16,16,Benjamin Stambouli,"€ 38,000","€ 1,976,000","€ 1,986,012",D,27,France,Schalke 04,Bundesliga,2018-2019
+17,17,Suat Serdar,"€ 28,846","€ 1,500,000","€ 1,507,600",M,21,Germany,Schalke 04,Bundesliga,2018-2019
+18,18,Amine Harit,"€ 28,846","€ 1,500,000","€ 1,507,600",M,21,Morocco,Schalke 04,Bundesliga,2018-2019
+19,19,Sascha Riether,"€ 20,000","€ 1,040,000","€ 1,045,270",D,35,Germany,Schalke 04,Bundesliga,2018-2019
+20,20,Guido Burgstaller,"€ 19,231","€ 1,000,000","€ 1,005,067",F,29,Austria,Schalke 04,Bundesliga,2018-2019
+21,21,Weston McKennie,"€ 15,000","€ 780,000","€ 783,952",M,19,United States,Schalke 04,Bundesliga,2018-2019
+22,22,Hamza Mendyl,"€ 15,000","€ 780,000","€ 783,952",D,20,Morocco,Schalke 04,Bundesliga,2018-2019
+23,23,Cedric Teuchert,"€ 10,577","€ 550,000","€ 552,787",F,21,Germany,Schalke 04,Bundesliga,2018-2019
+24,24,Steven Skrzybski,"€ 6,308","€ 328,000","€ 329,662",F,25,Germany,Schalke 04,Bundesliga,2018-2019
+25,25,Alexander Nübel,"€ 4,500","€ 234,000","€ 235,186",K,21,Germany,Schalke 04,Bundesliga,2018-2019
+26,26,Rabbi Matondo,"€ 3,462","€ 180,000","€ 180,912",F,17,Wales,Schalke 04,Bundesliga,2018-2019
+27,27,Haji Wright,"€ 2,000","€ 104,000","€ 104,527",F,20,United States,Schalke 04,Bundesliga,2018-2019
+28,28,Michael Langer,€ 798,"€ 41,500","€ 41,710",K,33,Austria,Schalke 04,Bundesliga,2018-2019
+29,29,Benjamin Goller,€ 529,"€ 27,500","€ 27,639",F,19,Germany,Schalke 04,Bundesliga,2018-2019
+30,30,Ahmed Kutucu,€ 346,"€ 18,000","€ 18,091",F,18,Turkey,Schalke 04,Bundesliga,2018-2019
+31,31,Philip Fontein,€ 0,€ 0,€ 0,M,24,Germany,Schalke 04,Bundesliga,2018-2019
+32,32,Jonas Carls,€ 0,€ 0,€ 0,D,21,Germany,Schalke 04,Bundesliga,2018-2019
+33,33,Pablo Insua,€ 0,€ 0,€ 0,D,24,Spain,Schalke 04,Bundesliga,2018-2019
+34,34,George Timotheou,€ 0,€ 0,€ 0,D,20,Australia,Schalke 04,Bundesliga,2018-2019
+35,35,Fabian Reese,€ 0,€ 0,€ 0,F,20,Germany,Schalke 04,Bundesliga,2018-2019
+36,36,Yannic Lenze,€ 0,€ 0,€ 0,K,17,Germany,Schalke 04,Bundesliga,2018-2019
+37,37,Nassim Boujellab,€ 0,€ 0,€ 0,M,19,Morocco,Schalke 04,Bundesliga,2018-2019
+38,38,Niklas Wiemann,€ 0,€ 0,€ 0,D,19,Germany,Schalke 04,Bundesliga,2018-2019
+0,0,Mario Gómez,"€ 86,538","€ 4,500,000","€ 4,522,801",F,32,Germany,Stuttgart,Bundesliga,2018-2019
+1,1,Gonzalo Castro,"€ 57,692","€ 3,000,000","€ 3,015,201",M,31,Germany,Stuttgart,Bundesliga,2018-2019
+2,2,Holger Badstuber,"€ 57,692","€ 3,000,000","€ 3,015,201",D,29,Germany,Stuttgart,Bundesliga,2018-2019
+3,3,Daniel Didavi,"€ 48,077","€ 2,500,000","€ 2,512,667",M,28,Germany,Stuttgart,Bundesliga,2018-2019
+4,4,Christian Gentner,"€ 42,154","€ 2,192,000","€ 2,203,107",M,32,Germany,Stuttgart,Bundesliga,2018-2019
+5,5,Santiago Ascacíbar,"€ 38,462","€ 2,000,000","€ 2,010,134",M,21,Argentina,Stuttgart,Bundesliga,2018-2019
+6,6,Emiliano Insúa,"€ 34,615","€ 1,800,000","€ 1,809,120",D,29,Argentina,Stuttgart,Bundesliga,2018-2019
+7,7,Ron-Robert Zieler,"€ 28,846","€ 1,500,000","€ 1,507,600",K,29,Germany,Stuttgart,Bundesliga,2018-2019
+8,8,Andreas Beck,"€ 28,846","€ 1,500,000","€ 1,507,600",D,31,Germany,Stuttgart,Bundesliga,2018-2019
+9,9,Dennis Aogo,"€ 28,846","€ 1,500,000","€ 1,507,600",M,31,Germany,Stuttgart,Bundesliga,2018-2019
+10,10,Pablo Maffeo,"€ 28,846","€ 1,500,000","€ 1,507,600",D,20,Spain,Stuttgart,Bundesliga,2018-2019
+11,11,Benjamin Pavard,"€ 23,077","€ 1,200,000","€ 1,206,080",D,22,France,Stuttgart,Bundesliga,2018-2019
+12,12,Timo Baumgartl,"€ 23,000","€ 1,196,000","€ 1,202,060",D,22,Germany,Stuttgart,Bundesliga,2018-2019
+13,13,Marc Oliver Kempf,"€ 19,231","€ 1,000,000","€ 1,005,067",D,23,Germany,Stuttgart,Bundesliga,2018-2019
+14,14,Chadrac Akolo,"€ 19,231","€ 1,000,000","€ 1,005,067",F,23,Democratic Republic of Congo,Stuttgart,Bundesliga,2018-2019
+15,15,Erik Thommy,"€ 19,231","€ 1,000,000","€ 1,005,067",M,23,Germany,Stuttgart,Bundesliga,2018-2019
+16,16,Nicólas González,"€ 19,173","€ 997,000","€ 1,002,052",F,20,Argentina,Stuttgart,Bundesliga,2018-2019
+17,17,Alexander Esswein,"€ 15,000","€ 780,000","€ 783,952",F,28,Germany,Stuttgart,Bundesliga,2018-2019
+18,18,Steven Zuber,"€ 15,000","€ 780,000","€ 783,952",M,26,Switzerland,Stuttgart,Bundesliga,2018-2019
+19,19,Anastasios Donis,"€ 15,000","€ 780,000","€ 783,952",F,21,Greece,Stuttgart,Bundesliga,2018-2019
+20,20,Borna Sosa,"€ 13,462","€ 700,000","€ 703,547",D,20,Croatia,Stuttgart,Bundesliga,2018-2019
+21,21,Marcin Kaminski,"€ 11,500","€ 598,000","€ 601,030",D,26,Poland,Stuttgart,Bundesliga,2018-2019
+22,22,Berkay Özcan,"€ 9,615","€ 500,000","€ 502,533",M,20,Turkey,Stuttgart,Bundesliga,2018-2019
+23,23,Ozan Kabak,"€ 6,981","€ 363,000","€ 364,839",D,18,Turkey,Stuttgart,Bundesliga,2018-2019
+24,24,Jens Grahl,"€ 4,500","€ 234,000","€ 235,186",K,29,Germany,Stuttgart,Bundesliga,2018-2019
+25,25,Alexander Meyer,"€ 2,000","€ 104,000","€ 104,527",K,27,Germany,Stuttgart,Bundesliga,2018-2019
+26,26,David Kopacz,"€ 1,250","€ 65,000","€ 65,329",M,19,Poland,Stuttgart,Bundesliga,2018-2019
+27,27,Hans Nunoo Sarpei,"€ 1,202","€ 62,500","€ 62,817",M,19,Ghana,Stuttgart,Bundesliga,2018-2019
+28,28,Leon Dajaku,€ 62,"€ 3,200","€ 3,216",F,17,Germany,Stuttgart,Bundesliga,2018-2019
+29,29,Antonis Aidonis,€ 62,"€ 3,200","€ 3,216",D,17,Germany,Stuttgart,Bundesliga,2018-2019
+30,30,Orel Mangala,€ 0,€ 0,€ 0,M,20,Belgium,Stuttgart,Bundesliga,2018-2019
+31,31,Aílton,€ 0,€ 0,€ 0,D,23,Brazil,Stuttgart,Bundesliga,2018-2019
+32,32,Anto Grgic,€ 0,€ 0,€ 0,M,21,Switzerland,Stuttgart,Bundesliga,2018-2019
+33,33,Roberto Massimo,€ 0,€ 0,€ 0,F,17,Germany,Stuttgart,Bundesliga,2018-2019
+0,0,Davy Klaassen,"€ 67,077","€ 3,488,000","€ 3,505,673",M,25,Netherlands,Werder Bremen,Bundesliga,2018-2019
+1,1,Max Kruse,"€ 57,500","€ 2,990,000","€ 3,005,150",F,30,Germany,Werder Bremen,Bundesliga,2018-2019
+2,2,Jiri Pavlenka,"€ 48,077","€ 2,500,000","€ 2,512,667",K,26,Czech Republic,Werder Bremen,Bundesliga,2018-2019
+3,3,Ludwig Augustinsson,"€ 38,462","€ 2,000,000","€ 2,010,134",D,24,Sweden,Werder Bremen,Bundesliga,2018-2019
+4,4,Nuri Sahin,"€ 38,462","€ 2,000,000","€ 2,010,134",M,29,Turkey,Werder Bremen,Bundesliga,2018-2019
+5,5,Martin Harnik,"€ 38,462","€ 2,000,000","€ 2,010,134",F,31,Austria,Werder Bremen,Bundesliga,2018-2019
+6,6,Milot Rashica,"€ 38,346","€ 1,994,000","€ 2,004,103",F,22,Kosovo,Werder Bremen,Bundesliga,2018-2019
+7,7,Niklas Moisander,"€ 38,327","€ 1,993,000","€ 2,003,098",D,32,Finland,Werder Bremen,Bundesliga,2018-2019
+8,8,Yuya Osako,"€ 38,327","€ 1,993,000","€ 2,003,098",F,28,Japan,Werder Bremen,Bundesliga,2018-2019
+9,9,Florian Kainz,"€ 34,500","€ 1,794,000","€ 1,803,090",F,25,Austria,Werder Bremen,Bundesliga,2018-2019
+10,10,Aron Jóhannsson,"€ 28,846","€ 1,500,000","€ 1,507,600",F,27,United States,Werder Bremen,Bundesliga,2018-2019
+11,11,Theodor Gebre Selassie,"€ 28,846","€ 1,500,000","€ 1,507,600",D,31,Czech Republic,Werder Bremen,Bundesliga,2018-2019
+12,12,Philipp Bargfrede,"€ 19,231","€ 1,000,000","€ 1,005,067",M,29,Germany,Werder Bremen,Bundesliga,2018-2019
+13,13,Kevin Möhwald,"€ 19,231","€ 1,000,000","€ 1,005,067",M,24,Germany,Werder Bremen,Bundesliga,2018-2019
+14,14,Fin Bartels,"€ 18,404","€ 957,000","€ 961,849",F,31,Germany,Werder Bremen,Bundesliga,2018-2019
+15,15,Thanos Petsos,"€ 15,000","€ 780,000","€ 783,952",M,27,Greece,Werder Bremen,Bundesliga,2018-2019
+16,16,Sebastian Langkamp,"€ 15,000","€ 780,000","€ 783,952",D,30,Germany,Werder Bremen,Bundesliga,2018-2019
+17,17,Milos Veljkovic,"€ 15,000","€ 780,000","€ 783,952",D,22,Serbia,Werder Bremen,Bundesliga,2018-2019
+18,18,Robert Bauer,"€ 10,000","€ 520,000","€ 522,635",D,23,Germany,Werder Bremen,Bundesliga,2018-2019
+19,19,Maximilian Eggestein,"€ 10,000","€ 520,000","€ 522,635",M,21,Germany,Werder Bremen,Bundesliga,2018-2019
+20,20,Johannes Eggestein,"€ 9,615","€ 500,000","€ 502,533",F,20,Germany,Werder Bremen,Bundesliga,2018-2019
+21,21,Stefanos Kapino,"€ 8,500","€ 442,000","€ 444,240",K,24,Greece,Werder Bremen,Bundesliga,2018-2019
+22,22,Felix Beijmo,"€ 8,500","€ 442,000","€ 444,240",D,20,Sweden,Werder Bremen,Bundesliga,2018-2019
+23,23,Claudio Pizarro,"€ 5,769","€ 300,000","€ 301,520",F,39,Peru,Werder Bremen,Bundesliga,2018-2019
+24,24,Marco Friedl,"€ 5,769","€ 300,000","€ 301,520",D,20,Austria,Werder Bremen,Bundesliga,2018-2019
+25,25,Josh Sargent,"€ 4,788","€ 249,000","€ 250,262",F,18,United States,Werder Bremen,Bundesliga,2018-2019
+26,26,Jan-Niklas Beste,"€ 4,500","€ 234,000","€ 235,186",D,19,Germany,Werder Bremen,Bundesliga,2018-2019
+27,27,Ole Käuper,"€ 4,000","€ 208,000","€ 209,054",M,21,Germany,Werder Bremen,Bundesliga,2018-2019
+28,28,Luca Plogmann,"€ 3,000","€ 156,000","€ 156,790",K,18,Germany,Werder Bremen,Bundesliga,2018-2019
+29,29,Thore Jacobsen,"€ 2,500","€ 130,000","€ 130,659",D,21,Germany,Werder Bremen,Bundesliga,2018-2019
+30,30,Michael Zetterer,"€ 2,000","€ 104,000","€ 104,527",K,22,Germany,Werder Bremen,Bundesliga,2018-2019
+31,31,Niklas Schmidt,€ 0,€ 0,€ 0,M,20,Germany,Werder Bremen,Bundesliga,2018-2019
+32,32,Jean Manuel Mbom,€ 0,€ 0,€ 0,M,18,Germany,Werder Bremen,Bundesliga,2018-2019
+0,0,Ignacio Camacho,"€ 96,154","€ 5,000,000","€ 5,025,334",M,28,Spain,Wolfsburg,Bundesliga,2018-2019
+1,1,Yunus Malli,"€ 86,250","€ 4,485,000","€ 4,507,725",M,26,Turkey,Wolfsburg,Bundesliga,2018-2019
+2,2,Paul-Georges Ntep,"€ 76,923","€ 4,000,000","€ 4,020,268",F,25,Cameroon,Wolfsburg,Bundesliga,2018-2019
+3,3,Maximilian Arnold,"€ 76,923","€ 4,000,000","€ 4,020,268",M,24,Germany,Wolfsburg,Bundesliga,2018-2019
+4,4,Sebastian Jung,"€ 76,923","€ 4,000,000","€ 4,020,268",D,28,Germany,Wolfsburg,Bundesliga,2018-2019
+5,5,Daniel Ginczek,"€ 76,923","€ 4,000,000","€ 4,020,268",F,27,Germany,Wolfsburg,Bundesliga,2018-2019
+6,6,John Anthony Brooks,"€ 76,654","€ 3,986,000","€ 4,006,197",D,25,United States,Wolfsburg,Bundesliga,2018-2019
+7,7,Admir Mehmedi,"€ 67,308","€ 3,500,000","€ 3,517,734",F,27,Switzerland,Wolfsburg,Bundesliga,2018-2019
+8,8,Jeffrey Bruma,"€ 57,692","€ 3,000,000","€ 3,015,201",D,26,Netherlands,Wolfsburg,Bundesliga,2018-2019
+9,9,Yannick Gerhardt,"€ 57,500","€ 2,990,000","€ 3,005,150",M,24,Germany,Wolfsburg,Bundesliga,2018-2019
+10,10,Wout Weghorst,"€ 57,500","€ 2,990,000","€ 3,005,150",F,25,Netherlands,Wolfsburg,Bundesliga,2018-2019
+11,11,Jakub Blaszczykowski,"€ 48,077","€ 2,500,000","€ 2,512,667",F,32,Poland,Wolfsburg,Bundesliga,2018-2019
+12,12,Josuha Guilavogui,"€ 47,904","€ 2,491,000","€ 2,503,622",M,27,France,Wolfsburg,Bundesliga,2018-2019
+13,13,Felix Klaus,"€ 38,462","€ 2,000,000","€ 2,010,134",F,25,Germany,Wolfsburg,Bundesliga,2018-2019
+14,14,Robin Knoche,"€ 38,327","€ 1,993,000","€ 2,003,098",D,26,Germany,Wolfsburg,Bundesliga,2018-2019
+15,15,William,"€ 38,000","€ 1,976,000","€ 1,986,012",D,23,Brazil,Wolfsburg,Bundesliga,2018-2019
+16,16,Josip Brekalo,"€ 34,615","€ 1,800,000","€ 1,809,120",F,20,Croatia,Wolfsburg,Bundesliga,2018-2019
+17,17,Renato Steffen,"€ 28,846","€ 1,500,000","€ 1,507,600",F,26,Switzerland,Wolfsburg,Bundesliga,2018-2019
+18,18,Jérôme Roussillon,"€ 28,846","€ 1,500,000","€ 1,507,600",D,25,France,Wolfsburg,Bundesliga,2018-2019
+19,19,Koen Casteels,"€ 28,846","€ 1,500,000","€ 1,507,600",K,26,Belgium,Wolfsburg,Bundesliga,2018-2019
+20,20,Marcel Tisserand,"€ 28,846","€ 1,500,000","€ 1,507,600",D,25,Democratic Republic of Congo,Wolfsburg,Bundesliga,2018-2019
+21,21,Paul Verhaegh,"€ 28,846","€ 1,500,000","€ 1,507,600",D,34,Netherlands,Wolfsburg,Bundesliga,2018-2019
+22,22,Marvin Stefaniak,"€ 15,327","€ 797,000","€ 801,038",F,23,Germany,Wolfsburg,Bundesliga,2018-2019
+23,23,Pavao Pervan,"€ 15,000","€ 780,000","€ 783,952",K,30,Austria,Wolfsburg,Bundesliga,2018-2019
+24,24,Felix Uduokhai,"€ 12,000","€ 624,000","€ 627,162",D,20,Germany,Wolfsburg,Bundesliga,2018-2019
+25,25,Paul Seguin,"€ 9,577","€ 498,000","€ 500,523",M,23,Germany,Wolfsburg,Bundesliga,2018-2019
+26,26,Ismail Azzaoui,"€ 8,500","€ 442,000","€ 444,240",F,20,Belgium,Wolfsburg,Bundesliga,2018-2019
+27,27,Elvis Rexhbecaj,"€ 2,865","€ 149,000","€ 149,755",M,20,Germany,Wolfsburg,Bundesliga,2018-2019
+28,28,Phillip Menzel,"€ 1,798","€ 93,500","€ 93,974",K,19,Germany,Wolfsburg,Bundesliga,2018-2019
+29,29,John Yeboah,€ 62,"€ 3,200","€ 3,216",F,18,Germany,Wolfsburg,Bundesliga,2018-2019
+30,30,Victor Osimhen,€ 0,€ 0,€ 0,F,19,Nigeria,Wolfsburg,Bundesliga,2018-2019
+31,31,Landry Dimata,€ 0,€ 0,€ 0,F,20,Belgium,Wolfsburg,Bundesliga,2018-2019
+32,32,Dominik Franke,€ 0,€ 0,€ 0,D,19,Germany,Wolfsburg,Bundesliga,2018-2019
+33,33,Riechedly Bazoer,€ 0,€ 0,€ 0,M,21,Netherlands,Wolfsburg,Bundesliga,2018-2019
+34,34,Luca Itter,€ 0,€ 0,€ 0,D,19,Germany,Wolfsburg,Bundesliga,2018-2019
+35,35,Robin Ziegele,€ 0,€ 0,€ 0,D,21,Germany,Wolfsburg,Bundesliga,2018-2019
