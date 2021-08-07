@@ -1,0 +1,873 @@
+,Unnamed: 0,Player,Weekly GrossBase Salary(IN EUR),Annual GrossBase Salary(IN EUR),"Adj. GrossBase Salary(2021, IN EUR)",Pos.,Age,Country,Team,League,Season
+0,0,Carlos Bacca,"€ 112,635","€ 5,857,000","€ 5,951,623",F,29,Colombia,Ac Milan,Serie A,2016-2017
+1,1,Riccardo Montolivo,"€ 80,442","€ 4,183,000","€ 4,250,579",M,31,Italy,Ac Milan,Serie A,2016-2017
+2,2,Keisuke Honda,"€ 80,442","€ 4,183,000","€ 4,250,579",M,30,Japan,Ac Milan,Serie A,2016-2017
+3,3,Ignazio Abate,"€ 74,019","€ 3,849,000","€ 3,911,183",D,29,Italy,Ac Milan,Serie A,2016-2017
+4,4,Andrea Bertolacci,"€ 64,346","€ 3,346,000","€ 3,400,057",M,25,Italy,Ac Milan,Serie A,2016-2017
+5,5,Alessio Romagnoli,"€ 64,346","€ 3,346,000","€ 3,400,057",D,21,Italy,Ac Milan,Serie A,2016-2017
+6,6,Cristián Zapata,"€ 54,712","€ 2,845,000","€ 2,890,963",D,29,Colombia,Ac Milan,Serie A,2016-2017
+7,7,Gerard Deulofeu,"€ 53,327","€ 2,773,000","€ 2,817,800",M,22,Spain,Ac Milan,Serie A,2016-2017
+8,8,Mattia De Sciglio,"€ 48,269","€ 2,510,000","€ 2,550,551",D,23,Italy,Ac Milan,Serie A,2016-2017
+9,9,José Sosa,"€ 48,269","€ 2,510,000","€ 2,550,551",M,31,Argentina,Ac Milan,Serie A,2016-2017
+10,10,Andrea Poli,"€ 48,269","€ 2,510,000","€ 2,550,551",M,26,Italy,Ac Milan,Serie A,2016-2017
+11,11,Juraj Kucka,"€ 48,269","€ 2,510,000","€ 2,550,551",M,29,Slovakia,Ac Milan,Serie A,2016-2017
+12,12,Luca Antonelli,"€ 48,269","€ 2,510,000","€ 2,550,551",D,29,Italy,Ac Milan,Serie A,2016-2017
+13,13,Lucas Ocampos,"€ 34,096","€ 1,773,000","€ 1,801,644",F,21,Argentina,Ac Milan,Serie A,2016-2017
+14,14,Gabriel Paletta,"€ 32,173","€ 1,673,000","€ 1,700,028",D,30,Italy,Ac Milan,Serie A,2016-2017
+15,15,Giacomo Bonaventura,"€ 32,173","€ 1,673,000","€ 1,700,028",M,26,Italy,Ac Milan,Serie A,2016-2017
+16,16,Gianluca Lapadula,"€ 32,173","€ 1,673,000","€ 1,700,028",F,26,Italy,Ac Milan,Serie A,2016-2017
+17,17,Suso,"€ 32,173","€ 1,673,000","€ 1,700,028",M,22,Spain,Ac Milan,Serie A,2016-2017
+18,18,Marco Storari,"€ 27,269","€ 1,418,000","€ 1,440,909",K,39,Italy,Ac Milan,Serie A,2016-2017
+19,19,Gustavo Gómez,"€ 25,750","€ 1,339,000","€ 1,360,632",D,23,Paraguay,Ac Milan,Serie A,2016-2017
+20,20,Leonel Vangioni,"€ 25,750","€ 1,339,000","€ 1,360,632",D,29,Argentina,Ac Milan,Serie A,2016-2017
+21,21,Gabriel,"€ 25,750","€ 1,339,000","€ 1,360,632",K,23,Brazil,Ac Milan,Serie A,2016-2017
+22,22,Mario Pasalic,"€ 25,750","€ 1,339,000","€ 1,360,632",M,21,Croatia,Ac Milan,Serie A,2016-2017
+23,23,Davide Calabria,"€ 19,308","€ 1,004,000","€ 1,020,220",D,19,Italy,Ac Milan,Serie A,2016-2017
+24,24,José Mauri,"€ 13,635","€ 709,000","€ 720,454",M,20,Italy,Ac Milan,Serie A,2016-2017
+25,25,Manuel Locatelli,"€ 9,654","€ 502,000","€ 510,110",M,18,Italy,Ac Milan,Serie A,2016-2017
+26,26,Gianluigi Donnarumma,"€ 5,154","€ 268,000","€ 272,330",K,17,Italy,Ac Milan,Serie A,2016-2017
+27,27,Patrick Cutrone,"€ 3,519","€ 183,000","€ 185,956",F,18,Italy,Ac Milan,Serie A,2016-2017
+28,28,Niccolò Zanellato,€ 538,"€ 28,000","€ 28,452",M,18,Italy,Ac Milan,Serie A,2016-2017
+29,29,Raul Zucchetti,€ 538,"€ 28,000","€ 28,452",D,18,Italy,Ac Milan,Serie A,2016-2017
+30,30,Mattia El Hilali,€ 538,"€ 28,000","€ 28,452",M,18,Morocco,Ac Milan,Serie A,2016-2017
+31,31,Matteo Gabbia,€ 250,"€ 13,000","€ 13,210",D,16,Italy,Ac Milan,Serie A,2016-2017
+32,32,Alessandro Plizzari,€ 250,"€ 13,000","€ 13,210",K,16,Italy,Ac Milan,Serie A,2016-2017
+33,33,Alessandro Guarnone,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Ac Milan,Serie A,2016-2017
+34,34,Giorgio Altare,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Ac Milan,Serie A,2016-2017
+35,35,M'Baye Niang,€ 0,€ 0,€ 0,F,21,Senegal,Ac Milan,Serie A,2016-2017
+36,36,Hachim Mastour,€ 0,€ 0,€ 0,M,18,Morocco,Ac Milan,Serie A,2016-2017
+37,37,Jherson Vergara,€ 0,€ 0,€ 0,D,22,Colombia,Ac Milan,Serie A,2016-2017
+38,38,Luiz Adriano,€ 0,€ 0,€ 0,F,29,Brazil,Ac Milan,Serie A,2016-2017
+39,39,Diego López,€ 0,€ 0,€ 0,K,34,Spain,Ac Milan,Serie A,2016-2017
+40,40,Rodrigo Ely,€ 0,€ 0,€ 0,D,22,Brazil,Ac Milan,Serie A,2016-2017
+41,41,Matías Fernández,€ 0,€ 0,€ 0,M,30,Chile,Ac Milan,Serie A,2016-2017
+0,0,Alberto Paloschi,"€ 34,096","€ 1,773,000","€ 1,801,644",F,26,Italy,Atalanta,Serie A,2016-2017
+1,1,Mauricio Pinilla,"€ 30,673","€ 1,595,000","€ 1,620,768",F,32,Chile,Atalanta,Serie A,2016-2017
+2,2,Ervin Zukanovic,"€ 27,269","€ 1,418,000","€ 1,440,909",D,29,Bosnia-Herzegovina,Atalanta,Serie A,2016-2017
+3,3,Rafael Tolói,"€ 24,115","€ 1,254,000","€ 1,274,259",D,25,Brazil,Atalanta,Serie A,2016-2017
+4,4,Mattia Caldara,"€ 22,231","€ 1,156,000","€ 1,174,676",D,22,Italy,Atalanta,Serie A,2016-2017
+5,5,Guglielmo Stendardo,"€ 20,442","€ 1,063,000","€ 1,080,173",D,35,Italy,Atalanta,Serie A,2016-2017
+6,6,Anthony Mounier,"€ 17,038","€ 886,000","€ 900,314",F,28,France,Atalanta,Serie A,2016-2017
+7,7,Etrit Berisha,"€ 17,038","€ 886,000","€ 900,314",K,27,Albania,Atalanta,Serie A,2016-2017
+8,8,Abdoulay Konko,"€ 17,038","€ 886,000","€ 900,314",D,32,France,Atalanta,Serie A,2016-2017
+9,9,Boukary Dramé,"€ 17,038","€ 886,000","€ 900,314",D,30,Senegal,Atalanta,Serie A,2016-2017
+10,10,Marco Sportiello,"€ 17,038","€ 886,000","€ 900,314",K,24,Italy,Atalanta,Serie A,2016-2017
+11,11,Bryan Cristante,"€ 13,635","€ 709,000","€ 720,454",M,21,Italy,Atalanta,Serie A,2016-2017
+12,12,Jasmin Kurtic,"€ 13,635","€ 709,000","€ 720,454",M,27,Slovenia,Atalanta,Serie A,2016-2017
+13,13,Aleksandar Pesic,"€ 11,942","€ 621,000","€ 631,033",F,24,Serbia,Atalanta,Serie A,2016-2017
+14,14,Marco D'Alessandro,"€ 11,942","€ 621,000","€ 631,033",M,25,Italy,Atalanta,Serie A,2016-2017
+15,15,Davide Brivio,"€ 11,942","€ 621,000","€ 631,033",D,28,Italy,Atalanta,Serie A,2016-2017
+16,16,Pierluigi Gollini,"€ 11,115","€ 578,000","€ 587,338",K,21,Italy,Atalanta,Serie A,2016-2017
+17,17,Remo Freuler,"€ 10,231","€ 532,000","€ 540,595",M,24,Switzerland,Atalanta,Serie A,2016-2017
+18,18,Alberto Grassi,"€ 10,231","€ 532,000","€ 540,595",M,21,Italy,Atalanta,Serie A,2016-2017
+19,19,Andrea Masiello,"€ 10,231","€ 532,000","€ 540,595",D,30,Italy,Atalanta,Serie A,2016-2017
+20,20,Hans Hateboer,"€ 9,885","€ 514,000","€ 522,304",D,22,Netherlands,Atalanta,Serie A,2016-2017
+21,21,Franck Kessié,"€ 8,769","€ 456,000","€ 463,367",M,19,Cote d'Ivoire,Atalanta,Serie A,2016-2017
+22,22,Andrea Conti,"€ 8,519","€ 443,000","€ 450,157",D,22,Italy,Atalanta,Serie A,2016-2017
+23,23,Andrea Petagna,"€ 8,519","€ 443,000","€ 450,157",F,21,Italy,Atalanta,Serie A,2016-2017
+24,24,Cristian Raimondi,"€ 6,827","€ 355,000","€ 360,735",M,35,Italy,Atalanta,Serie A,2016-2017
+25,25,Guido Marilungo,"€ 6,827","€ 355,000","€ 360,735",F,26,Italy,Atalanta,Serie A,2016-2017
+26,26,Leonardo Spinazzola,"€ 6,827","€ 355,000","€ 360,735",D,23,Italy,Atalanta,Serie A,2016-2017
+27,27,Bryan Cabezas,"€ 6,827","€ 355,000","€ 360,735",F,19,Ecuador,Atalanta,Serie A,2016-2017
+28,28,Giulio Migliaccio,"€ 6,827","€ 355,000","€ 360,735",M,35,Italy,Atalanta,Serie A,2016-2017
+29,29,Roberto Gagliardini,"€ 5,115","€ 266,000","€ 270,297",M,22,Italy,Atalanta,Serie A,2016-2017
+30,30,Salvatore Molina,"€ 2,904","€ 151,000","€ 153,439",M,24,Italy,Atalanta,Serie A,2016-2017
+31,31,Christian Capone,"€ 1,192","€ 62,000","€ 63,002",F,17,Italy,Atalanta,Serie A,2016-2017
+32,32,Filippo Melegoni,"€ 1,192","€ 62,000","€ 63,002",M,17,Italy,Atalanta,Serie A,2016-2017
+33,33,Alessandro Bastoni,"€ 1,000","€ 52,000","€ 52,840",D,17,Italy,Atalanta,Serie A,2016-2017
+34,34,Francesco Rossi,€ 538,"€ 28,000","€ 28,452",K,25,Italy,Atalanta,Serie A,2016-2017
+35,35,Riccardo Gatti,€ 462,"€ 24,000","€ 24,388",D,19,Italy,Atalanta,Serie A,2016-2017
+36,36,Stefano Mazzini,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Atalanta,Serie A,2016-2017
+37,37,Roberto Taliento,€ 250,"€ 13,000","€ 13,210",K,16,Italy,Atalanta,Serie A,2016-2017
+38,38,Carlos Carmona,€ 0,€ 0,€ 0,M,29,Chile,Atalanta,Serie A,2016-2017
+39,39,Emanuele Suagher,€ 0,€ 0,€ 0,D,23,Italy,Atalanta,Serie A,2016-2017
+40,40,Davide Bassi,€ 0,€ 0,€ 0,K,31,Italy,Atalanta,Serie A,2016-2017
+41,41,Emmanuel Latte Lath,€ 0,€ 0,€ 0,M,17,Cote d'Ivoire,Atalanta,Serie A,2016-2017
+42,42,Berat Djimsiti,€ 0,€ 0,€ 0,D,23,Albania,Atalanta,Serie A,2016-2017
+43,43,Papu Gómez,€ 0,€ 0,€ 0,F,28,Argentina,Atalanta,Serie A,2016-2017
+0,0,Mattia Destro,"€ 61,346","€ 3,190,000","€ 3,241,536",F,25,Italy,Bologna,Serie A,2016-2017
+1,1,Amadou Diawara,"€ 40,904","€ 2,127,000","€ 2,161,363",M,18,Guinea,Bologna,Serie A,2016-2017
+2,2,Blerim Dzemaili,"€ 34,096","€ 1,773,000","€ 1,801,644",M,30,Switzerland,Bologna,Serie A,2016-2017
+3,3,Daniele Gastaldello,"€ 30,673","€ 1,595,000","€ 1,620,768",D,33,Italy,Bologna,Serie A,2016-2017
+4,4,Antonio Mirante,"€ 30,673","€ 1,595,000","€ 1,620,768",K,32,Italy,Bologna,Serie A,2016-2017
+5,5,Luca Rossettini,"€ 20,442","€ 1,063,000","€ 1,080,173",D,31,Italy,Bologna,Serie A,2016-2017
+6,6,Domenico Maietta,"€ 20,442","€ 1,063,000","€ 1,080,173",D,33,Italy,Bologna,Serie A,2016-2017
+7,7,Anthony Mounier,"€ 17,038","€ 886,000","€ 900,314",F,28,France,Bologna,Serie A,2016-2017
+8,8,Ibrahima Mbaye,"€ 17,038","€ 886,000","€ 900,314",D,21,Senegal,Bologna,Serie A,2016-2017
+9,9,Ádám Nagy,"€ 17,038","€ 886,000","€ 900,314",M,21,Hungary,Bologna,Serie A,2016-2017
+10,10,Godfred Donsah,"€ 17,038","€ 886,000","€ 900,314",M,20,Ghana,Bologna,Serie A,2016-2017
+11,11,Lorenzo Crisetig,"€ 17,038","€ 886,000","€ 900,314",M,23,Italy,Bologna,Serie A,2016-2017
+12,12,Ladislav Krejci,"€ 15,327","€ 797,000","€ 809,876",F,23,Czech Republic,Bologna,Serie A,2016-2017
+13,13,Federico Viviani,"€ 13,635","€ 709,000","€ 720,454",M,24,Italy,Bologna,Serie A,2016-2017
+14,14,Adam Masina,"€ 13,635","€ 709,000","€ 720,454",D,22,Italy,Bologna,Serie A,2016-2017
+15,15,Luca Rizzo,"€ 11,942","€ 621,000","€ 631,033",M,24,Italy,Bologna,Serie A,2016-2017
+16,16,Federico Di Francesco,"€ 11,942","€ 621,000","€ 631,033",F,22,Italy,Bologna,Serie A,2016-2017
+17,17,Marios Oikonomou,"€ 11,942","€ 621,000","€ 631,033",D,23,Greece,Bologna,Serie A,2016-2017
+18,18,Erick Pulgar,"€ 11,942","€ 621,000","€ 631,033",M,22,Chile,Bologna,Serie A,2016-2017
+19,19,Simone Verdi,"€ 10,231","€ 532,000","€ 540,595",M,23,Italy,Bologna,Serie A,2016-2017
+20,20,Emil Krafth,"€ 10,231","€ 532,000","€ 540,595",D,21,Sweden,Bologna,Serie A,2016-2017
+21,21,Umar Sadiq,"€ 8,519","€ 443,000","€ 450,157",F,19,Nigeria,Bologna,Serie A,2016-2017
+22,22,Filip Helander,"€ 8,519","€ 443,000","€ 450,157",D,23,Sweden,Bologna,Serie A,2016-2017
+23,23,Bruno Petkovic,"€ 3,827","€ 199,000","€ 202,215",F,21,Croatia,Bologna,Serie A,2016-2017
+24,24,Orji Okwonkwo,"€ 3,788","€ 197,000","€ 200,183",F,18,Nigeria,Bologna,Serie A,2016-2017
+25,25,Mouhamadou Sarr,"€ 1,615","€ 84,000","€ 85,357",K,19,Senegal,Bologna,Serie A,2016-2017
+26,26,Giordano Trovade,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Bologna,Serie A,2016-2017
+27,27,Federico Ravaglia,€ 250,"€ 13,000","€ 13,210",K,16,Italy,Bologna,Serie A,2016-2017
+28,28,Emanuele Monari,€ 250,"€ 13,000","€ 13,210",K,18,Italy,Bologna,Serie A,2016-2017
+29,29,Vincenzo Silvestro,€ 250,"€ 13,000","€ 13,210",M,17,Italy,Bologna,Serie A,2016-2017
+30,30,Gianluca Frabotta,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Bologna,Serie A,2016-2017
+31,31,Mattia Cozzari,€ 250,"€ 13,000","€ 13,210",M,17,Italy,Bologna,Serie A,2016-2017
+32,32,Alessandro Bianconi,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Bologna,Serie A,2016-2017
+33,33,Fabrizio Brignani,€ 154,"€ 8,000","€ 8,129",D,18,Italy,Bologna,Serie A,2016-2017
+34,34,Archimede Morleo,€ 0,€ 0,€ 0,D,32,Italy,Bologna,Serie A,2016-2017
+35,35,Angelo da Costa,€ 0,€ 0,€ 0,K,32,Brazil,Bologna,Serie A,2016-2017
+36,36,Vasilios Torosidis,€ 0,€ 0,€ 0,D,31,Greece,Bologna,Serie A,2016-2017
+37,37,Alfred Gomis,€ 0,€ 0,€ 0,K,22,Senegal,Bologna,Serie A,2016-2017
+38,38,Juan Manuel Valencia,€ 0,€ 0,€ 0,M,18,Colombia,Bologna,Serie A,2016-2017
+39,39,Nicolò Cherubin,€ 0,€ 0,€ 0,D,29,Italy,Bologna,Serie A,2016-2017
+40,40,Robert Acquafresca,€ 0,€ 0,€ 0,F,28,Italy,Bologna,Serie A,2016-2017
+41,41,Saphir Taider,€ 0,€ 0,€ 0,M,24,Algeria,Bologna,Serie A,2016-2017
+42,42,Sergio Floccari,€ 0,€ 0,€ 0,F,34,Italy,Bologna,Serie A,2016-2017
+43,43,Alex Ferrari,€ 0,€ 0,€ 0,D,22,Italy,Bologna,Serie A,2016-2017
+44,44,Franco Brienza,€ 0,€ 0,€ 0,M,37,Italy,Bologna,Serie A,2016-2017
+45,45,Deian Boldor,€ 0,€ 0,€ 0,D,21,Romania,Bologna,Serie A,2016-2017
+46,46,Aaron Mattia Tabacchi,€ 0,€ 0,€ 0,F,18,Italy,Bologna,Serie A,2016-2017
+47,47,Luca Ceccarelli,€ 0,€ 0,€ 0,D,33,Italy,Bologna,Serie A,2016-2017
+0,0,Marco Borriello,"€ 34,096","€ 1,773,000","€ 1,801,644",F,34,Italy,Cagliari,Serie A,2016-2017
+1,1,Bruno Alves,"€ 27,269","€ 1,418,000","€ 1,440,909",D,34,Portugal,Cagliari,Serie A,2016-2017
+2,2,Marco Storari,"€ 27,269","€ 1,418,000","€ 1,440,909",K,39,Italy,Cagliari,Serie A,2016-2017
+3,3,Gabriel,"€ 25,750","€ 1,339,000","€ 1,360,632",K,23,Brazil,Cagliari,Serie A,2016-2017
+4,4,Víctor Ibarbo,"€ 24,231","€ 1,260,000","€ 1,280,356",F,26,Colombia,Cagliari,Serie A,2016-2017
+5,5,Mauricio Isla,"€ 23,846","€ 1,240,000","€ 1,260,033",D,28,Chile,Cagliari,Serie A,2016-2017
+6,6,Simone Padoin,"€ 23,846","€ 1,240,000","€ 1,260,033",M,32,Italy,Cagliari,Serie A,2016-2017
+7,7,Diego Farias,"€ 13,635","€ 709,000","€ 720,454",F,26,Brazil,Cagliari,Serie A,2016-2017
+8,8,Artur Ionita,"€ 13,635","€ 709,000","€ 720,454",M,25,Moldova,Cagliari,Serie A,2016-2017
+9,9,Daniele Dessena,"€ 13,635","€ 709,000","€ 720,454",M,29,Italy,Cagliari,Serie A,2016-2017
+10,10,Panagiotis Tachtsidis,"€ 13,635","€ 709,000","€ 720,454",M,25,Greece,Cagliari,Serie A,2016-2017
+11,11,Federico Melchiorri,"€ 13,635","€ 709,000","€ 720,454",F,29,Italy,Cagliari,Serie A,2016-2017
+12,12,Marco Sau,"€ 13,635","€ 709,000","€ 720,454",F,28,Italy,Cagliari,Serie A,2016-2017
+13,13,Luca Ceppitelli,"€ 11,942","€ 621,000","€ 631,033",D,26,Italy,Cagliari,Serie A,2016-2017
+14,14,João Pedro,"€ 11,942","€ 621,000","€ 631,033",M,24,Brazil,Cagliari,Serie A,2016-2017
+15,15,Davide Di Gennaro,"€ 10,231","€ 532,000","€ 540,595",M,28,Italy,Cagliari,Serie A,2016-2017
+16,16,Bartosz Salamon,"€ 10,231","€ 532,000","€ 540,595",D,25,Poland,Cagliari,Serie A,2016-2017
+17,17,Nicola Murru,"€ 10,231","€ 532,000","€ 540,595",D,21,Italy,Cagliari,Serie A,2016-2017
+18,18,Fabio Pisacane,"€ 6,827","€ 355,000","€ 360,735",D,30,Italy,Cagliari,Serie A,2016-2017
+19,19,Marco Capuano,"€ 6,827","€ 355,000","€ 360,735",D,24,Italy,Cagliari,Serie A,2016-2017
+20,20,Roberto Colombo,"€ 5,115","€ 266,000","€ 270,297",K,40,Italy,Cagliari,Serie A,2016-2017
+21,21,Rafael,"€ 5,115","€ 266,000","€ 270,297",K,34,Brazil,Cagliari,Serie A,2016-2017
+22,22,Paolo Faragò,"€ 3,673","€ 191,000","€ 194,086",M,23,Italy,Cagliari,Serie A,2016-2017
+23,23,Nicolò Barella,"€ 3,404","€ 177,000","€ 179,860",M,19,Italy,Cagliari,Serie A,2016-2017
+24,24,Senna Miangue,"€ 2,731","€ 142,000","€ 144,294",D,19,Belgium,Cagliari,Serie A,2016-2017
+25,25,Alessandro Deiola,"€ 1,654","€ 86,000","€ 87,389",M,20,Italy,Cagliari,Serie A,2016-2017
+26,26,Federico Serra,€ 615,"€ 32,000","€ 32,517",F,18,Italy,Cagliari,Serie A,2016-2017
+27,27,Luca Crosta,€ 250,"€ 13,000","€ 13,210",K,18,Italy,Cagliari,Serie A,2016-2017
+28,28,Andrea Cadili,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Cagliari,Serie A,2016-2017
+29,29,Illia Briukhov,€ 250,"€ 13,000","€ 13,210",D,17,Ukraine,Cagliari,Serie A,2016-2017
+30,30,Matteo Volteggi,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Cagliari,Serie A,2016-2017
+31,31,Mirko Bizzi,€ 250,"€ 13,000","€ 13,210",K,16,Italy,Cagliari,Serie A,2016-2017
+32,32,Nicholas Pennington,€ 250,"€ 13,000","€ 13,210",M,17,Italy,Cagliari,Serie A,2016-2017
+33,33,Riccardo Daga,€ 250,"€ 13,000","€ 13,210",K,16,Italy,Cagliari,Serie A,2016-2017
+34,34,Riccardo Taccori,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Cagliari,Serie A,2016-2017
+35,35,Roberto Biancu,€ 250,"€ 13,000","€ 13,210",M,16,Italy,Cagliari,Serie A,2016-2017
+36,36,Andrea Mastino,€ 250,"€ 13,000","€ 13,210",D,16,Italy,Cagliari,Serie A,2016-2017
+37,37,Davide Arras,€ 154,"€ 8,000","€ 8,129",F,18,Italy,Cagliari,Serie A,2016-2017
+38,38,Luka Krajnc,€ 0,€ 0,€ 0,D,21,Slovenia,Cagliari,Serie A,2016-2017
+39,39,Luca Bittante,€ 0,€ 0,€ 0,D,22,Italy,Cagliari,Serie A,2016-2017
+40,40,Vasco da Cunha,€ 0,€ 0,€ 0,D,16,Portugal,Cagliari,Serie A,2016-2017
+41,41,Kwang-Song Han,€ 0,€ 0,€ 0,F,17,North Korea,Cagliari,Serie A,2016-2017
+42,42,Niccolò Giannetti,€ 0,€ 0,€ 0,F,25,Italy,Cagliari,Serie A,2016-2017
+43,43,Matias Antonini,€ 0,€ 0,€ 0,D,18,Brazil,Cagliari,Serie A,2016-2017
+44,44,Gianni Munari,€ 0,€ 0,€ 0,M,33,Italy,Cagliari,Serie A,2016-2017
+45,45,Marko Pajac,€ 0,€ 0,€ 0,D,23,Croatia,Cagliari,Serie A,2016-2017
+0,0,Jonathan de Guzmán,"€ 23,846","€ 1,240,000","€ 1,260,033",M,28,Netherlands,Chievo Verona,Serie A,2016-2017
+1,1,Valter Birsa,"€ 20,442","€ 1,063,000","€ 1,080,173",M,29,Slovenia,Chievo Verona,Serie A,2016-2017
+2,2,Riccardo Meggiorini,"€ 18,750","€ 975,000","€ 990,752",F,30,Italy,Chievo Verona,Serie A,2016-2017
+3,3,Stefano Sorrentino,"€ 17,038","€ 886,000","€ 900,314",K,37,Italy,Chievo Verona,Serie A,2016-2017
+4,4,Serge Gakpé,"€ 17,038","€ 886,000","€ 900,314",M,29,Togo,Chievo Verona,Serie A,2016-2017
+5,5,Bostjan Cesar,"€ 12,962","€ 674,000","€ 684,889",D,33,Slovenia,Chievo Verona,Serie A,2016-2017
+6,6,Sergio Pellissier,"€ 11,942","€ 621,000","€ 631,033",F,37,Italy,Chievo Verona,Serie A,2016-2017
+7,7,Ivan Radovanovic,"€ 11,250","€ 585,000","€ 594,451",M,27,Serbia,Chievo Verona,Serie A,2016-2017
+8,8,Lucas Castro,"€ 10,231","€ 532,000","€ 540,595",M,27,Argentina,Chievo Verona,Serie A,2016-2017
+9,9,Alessandro Gamberini,"€ 10,231","€ 532,000","€ 540,595",D,34,Italy,Chievo Verona,Serie A,2016-2017
+10,10,Dario Dainelli,"€ 10,231","€ 532,000","€ 540,595",D,37,Italy,Chievo Verona,Serie A,2016-2017
+11,11,Perparim Hetemaj,"€ 10,231","€ 532,000","€ 540,595",M,29,Finland,Chievo Verona,Serie A,2016-2017
+12,12,Fabrizio Cacciatore,"€ 10,231","€ 532,000","€ 540,595",D,29,Italy,Chievo Verona,Serie A,2016-2017
+13,13,Mariano Izco,"€ 10,231","€ 532,000","€ 540,595",M,33,Argentina,Chievo Verona,Serie A,2016-2017
+14,14,Nicolas Frey,"€ 8,519","€ 443,000","€ 450,157",D,32,France,Chievo Verona,Serie A,2016-2017
+15,15,Roberto Inglese,"€ 6,827","€ 355,000","€ 360,735",F,24,Italy,Chievo Verona,Serie A,2016-2017
+16,16,Andrea Seculin,"€ 6,827","€ 355,000","€ 360,735",K,25,Italy,Chievo Verona,Serie A,2016-2017
+17,17,Gennaro Sardo,"€ 6,827","€ 355,000","€ 360,735",D,37,Italy,Chievo Verona,Serie A,2016-2017
+18,18,Massimo Gobbi,"€ 6,827","€ 355,000","€ 360,735",D,35,Italy,Chievo Verona,Serie A,2016-2017
+19,19,Nicola Rigoni,"€ 6,827","€ 355,000","€ 360,735",M,25,Italy,Chievo Verona,Serie A,2016-2017
+20,20,Nicolás Spolli,"€ 6,827","€ 355,000","€ 360,735",D,33,Argentina,Chievo Verona,Serie A,2016-2017
+21,21,Samuel Bastien,"€ 3,404","€ 177,000","€ 179,860",M,19,Belgium,Chievo Verona,Serie A,2016-2017
+22,22,Walter Bressan,"€ 3,404","€ 177,000","€ 179,860",K,35,Italy,Chievo Verona,Serie A,2016-2017
+23,23,N'Diaye Djiby,"€ 2,308","€ 120,000","€ 121,939",M,22,Senegal,Chievo Verona,Serie A,2016-2017
+24,24,Filippo Damian,"€ 2,192","€ 114,000","€ 115,842",M,20,Italy,Chievo Verona,Serie A,2016-2017
+25,25,Michele Troiani,"€ 2,038","€ 106,000","€ 107,712",D,19,Italy,Chievo Verona,Serie A,2016-2017
+26,26,Fabio Depaoli,"€ 1,500","€ 78,000","€ 79,260",D,19,Italy,Chievo Verona,Serie A,2016-2017
+27,27,Emanuel Vignato,€ 250,"€ 13,000","€ 13,210",M,15,Italy,Chievo Verona,Serie A,2016-2017
+28,28,Mohamed Rabbas,€ 250,"€ 13,000","€ 13,210",M,16,Morocco,Chievo Verona,Serie A,2016-2017
+29,29,Raul Oprut,€ 250,"€ 13,000","€ 13,210",D,18,Romania,Chievo Verona,Serie A,2016-2017
+30,30,Alessandro Confente,€ 250,"€ 13,000","€ 13,210",K,18,Italy,Chievo Verona,Serie A,2016-2017
+31,31,Edoardo Sbampato,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Chievo Verona,Serie A,2016-2017
+32,32,Cesare Pogliano,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Chievo Verona,Serie A,2016-2017
+33,33,Sofian Kiyine,€ 250,"€ 13,000","€ 13,210",M,18,Morocco,Chievo Verona,Serie A,2016-2017
+34,34,Filippo Pavoni,€ 250,"€ 13,000","€ 13,210",K,16,Italy,Chievo Verona,Serie A,2016-2017
+35,35,Andrea Isufaj,€ 154,"€ 8,000","€ 8,129",F,16,Italy,Chievo Verona,Serie A,2016-2017
+36,36,Lamin Jallow,€ 0,€ 0,€ 0,F,20,The Gambia,Chievo Verona,Serie A,2016-2017
+37,37,Ngissah Bismark,€ 0,€ 0,€ 0,F,18,Ghana,Chievo Verona,Serie A,2016-2017
+38,38,Paul-José Mpoku,€ 0,€ 0,€ 0,F,24,Democratic Republic of Congo,Chievo Verona,Serie A,2016-2017
+39,39,Yusupha Bobb,€ 0,€ 0,€ 0,M,20,The Gambia,Chievo Verona,Serie A,2016-2017
+40,40,Antonio Floro Flores,€ 0,€ 0,€ 0,F,33,Italy,Chievo Verona,Serie A,2016-2017
+41,41,Vittorio Parigini,€ 0,€ 0,€ 0,M,20,Italy,Chievo Verona,Serie A,2016-2017
+42,42,Victor da Silva,€ 0,€ 0,€ 0,F,21,Brazil,Chievo Verona,Serie A,2016-2017
+43,43,Filippo Costa,€ 0,€ 0,€ 0,D,21,Italy,Chievo Verona,Serie A,2016-2017
+0,0,Lorenzo Crisetig,"€ 17,038","€ 886,000","€ 900,314",M,23,Italy,Crotone,Serie A,2016-2017
+1,1,Marcus Rohdén,"€ 11,942","€ 621,000","€ 631,033",M,25,Sweden,Crotone,Serie A,2016-2017
+2,2,Aleandro Rosi,"€ 11,942","€ 621,000","€ 631,033",D,29,Italy,Crotone,Serie A,2016-2017
+3,3,Aleksandar Tonev,"€ 10,231","€ 532,000","€ 540,595",F,26,Bulgaria,Crotone,Serie A,2016-2017
+4,4,Gian Marco Ferrari,"€ 10,231","€ 532,000","€ 540,595",D,24,Italy,Crotone,Serie A,2016-2017
+5,5,Federico Ceccherini,"€ 8,519","€ 443,000","€ 450,157",D,24,Italy,Crotone,Serie A,2016-2017
+6,6,Raffaele Palladino,"€ 8,519","€ 443,000","€ 450,157",F,32,Italy,Crotone,Serie A,2016-2017
+7,7,Leonardo Capezzi,"€ 8,519","€ 443,000","€ 450,157",M,21,Italy,Crotone,Serie A,2016-2017
+8,8,Bruno Martella,"€ 8,519","€ 443,000","€ 450,157",D,23,Italy,Crotone,Serie A,2016-2017
+9,9,Claiton,"€ 8,519","€ 443,000","€ 450,157",D,31,Brazil,Crotone,Serie A,2016-2017
+10,10,Adrian Stoian,"€ 8,519","€ 443,000","€ 450,157",F,25,Romania,Crotone,Serie A,2016-2017
+11,11,Mario Sampirisi,"€ 6,827","€ 355,000","€ 360,735",D,23,Italy,Crotone,Serie A,2016-2017
+12,12,Alex Cordaz,"€ 6,827","€ 355,000","€ 360,735",K,33,Italy,Crotone,Serie A,2016-2017
+13,13,Diego Falcinelli,"€ 6,462","€ 336,000","€ 341,428",F,25,Italy,Crotone,Serie A,2016-2017
+14,14,Andrea Nalini,"€ 6,135","€ 319,000","€ 324,154",M,26,Italy,Crotone,Serie A,2016-2017
+15,15,Simy,"€ 6,135","€ 319,000","€ 324,154",F,24,Nigeria,Crotone,Serie A,2016-2017
+16,16,Andrea Barberis,"€ 5,115","€ 266,000","€ 270,297",M,22,Italy,Crotone,Serie A,2016-2017
+17,17,Marco Festa,"€ 3,404","€ 177,000","€ 179,860",K,24,Italy,Crotone,Serie A,2016-2017
+18,18,Maxwell Acosty,"€ 3,231","€ 168,000","€ 170,714",M,24,Ghana,Crotone,Serie A,2016-2017
+19,19,Marcello Trotta,"€ 2,865","€ 149,000","€ 151,407",F,23,Italy,Crotone,Serie A,2016-2017
+20,20,Djamel Mesbah,"€ 2,750","€ 143,000","€ 145,310",D,31,Algeria,Crotone,Serie A,2016-2017
+21,21,Manuel Nicoletti,"€ 1,692","€ 88,000","€ 89,422",D,17,Italy,Crotone,Serie A,2016-2017
+22,22,Luca Bruno,"€ 1,673","€ 87,000","€ 88,406",D,19,Italy,Crotone,Serie A,2016-2017
+23,23,Aniello Viscovo,€ 904,"€ 47,000","€ 47,759",K,17,Italy,Crotone,Serie A,2016-2017
+24,24,Cazim Suljic,€ 731,"€ 38,000","€ 38,614",M,19,Bosnia-Herzegovina,Crotone,Serie A,2016-2017
+25,25,Andrej Kotnik,€ 346,"€ 18,000","€ 18,291",F,20,Slovenia,Crotone,Serie A,2016-2017
+26,26,Giuseppe Borello,€ 250,"€ 13,000","€ 13,210",M,17,Italy,Crotone,Serie A,2016-2017
+27,27,Giuseppe Cuomo,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Crotone,Serie A,2016-2017
+28,28,Giuseppe Zampano,€ 0,€ 0,€ 0,D,22,Italy,Crotone,Serie A,2016-2017
+29,29,Eddy Gnahoré,€ 0,€ 0,€ 0,M,22,France,Crotone,Serie A,2016-2017
+30,30,Nicolò Fazzi,€ 0,€ 0,€ 0,M,21,Italy,Crotone,Serie A,2016-2017
+31,31,Noë Dussenne,€ 0,€ 0,€ 0,D,24,Belgium,Crotone,Serie A,2016-2017
+32,32,Nunzio Di Roberto,€ 0,€ 0,€ 0,M,30,Italy,Crotone,Serie A,2016-2017
+33,33,Pietro De Giorgio,€ 0,€ 0,€ 0,F,33,Italy,Crotone,Serie A,2016-2017
+34,34,Aniello Salzano,€ 0,€ 0,€ 0,M,24,Italy,Crotone,Serie A,2016-2017
+35,35,Andrea Mazzarani,€ 0,€ 0,€ 0,M,26,Italy,Crotone,Serie A,2016-2017
+36,36,Valentin Cojocaru,€ 0,€ 0,€ 0,K,20,Romania,Crotone,Serie A,2016-2017
+0,0,Riccardo Saponara,"€ 30,673","€ 1,595,000","€ 1,620,768",M,24,Italy,Empoli,Serie A,2016-2017
+1,1,Alberto Gilardino,"€ 23,846","€ 1,240,000","€ 1,260,033",F,33,Italy,Empoli,Serie A,2016-2017
+2,2,Omar El Kaddouri,"€ 20,442","€ 1,063,000","€ 1,080,173",M,25,Morocco,Empoli,Serie A,2016-2017
+3,3,Mame Thiam,"€ 15,827","€ 823,000","€ 836,296",F,23,Senegal,Empoli,Serie A,2016-2017
+4,4,Andrea Costa,"€ 13,635","€ 709,000","€ 720,454",D,30,Italy,Empoli,Serie A,2016-2017
+5,5,José Mauri,"€ 13,635","€ 709,000","€ 720,454",M,20,Italy,Empoli,Serie A,2016-2017
+6,6,Manuel Pucciarelli,"€ 13,635","€ 709,000","€ 720,454",F,25,Italy,Empoli,Serie A,2016-2017
+7,7,Manuel Pasqual,"€ 13,635","€ 709,000","€ 720,454",D,34,Italy,Empoli,Serie A,2016-2017
+8,8,Massimo Maccarone,"€ 11,942","€ 621,000","€ 631,033",F,36,Italy,Empoli,Serie A,2016-2017
+9,9,Vincent Laurini,"€ 11,942","€ 621,000","€ 631,033",D,27,France,Empoli,Serie A,2016-2017
+10,10,Miha Zajc,"€ 10,308","€ 536,000","€ 544,659",M,22,Slovenia,Empoli,Serie A,2016-2017
+11,11,Lukasz Skorupski,"€ 10,231","€ 532,000","€ 540,595",K,25,Poland,Empoli,Serie A,2016-2017
+12,12,Levan Mchedlidze,"€ 10,231","€ 532,000","€ 540,595",F,26,Georgia,Empoli,Serie A,2016-2017
+13,13,Daniele Croce,"€ 10,231","€ 532,000","€ 540,595",M,33,Italy,Empoli,Serie A,2016-2017
+14,14,Marco Zambelli,"€ 8,519","€ 443,000","€ 450,157",D,30,Italy,Empoli,Serie A,2016-2017
+15,15,Guido Marilungo,"€ 6,827","€ 355,000","€ 360,735",F,26,Italy,Empoli,Serie A,2016-2017
+16,16,Marcel Büchel,"€ 6,827","€ 355,000","€ 360,735",M,25,Liechtenstein,Empoli,Serie A,2016-2017
+17,17,Andrés Tello,"€ 6,827","€ 355,000","€ 360,735",M,19,Colombia,Empoli,Serie A,2016-2017
+18,18,Giuseppe Bellusci,"€ 6,827","€ 355,000","€ 360,735",D,26,Italy,Empoli,Serie A,2016-2017
+19,19,Matheus Pereira,"€ 6,615","€ 344,000","€ 349,558",F,18,Brazil,Empoli,Serie A,2016-2017
+20,20,Alberto Pelagotti,"€ 5,115","€ 266,000","€ 270,297",K,27,Italy,Empoli,Serie A,2016-2017
+21,21,Federico Dimarco,"€ 5,115","€ 266,000","€ 270,297",D,18,Italy,Empoli,Serie A,2016-2017
+22,22,Federico Barba,"€ 5,115","€ 266,000","€ 270,297",D,22,Italy,Empoli,Serie A,2016-2017
+23,23,Assane Dioussé,"€ 5,115","€ 266,000","€ 270,297",M,18,Senegal,Empoli,Serie A,2016-2017
+24,24,Rade Krunic,"€ 5,115","€ 266,000","€ 270,297",M,22,Bosnia-Herzegovina,Empoli,Serie A,2016-2017
+25,25,Maurizio Pugliesi,"€ 2,731","€ 142,000","€ 144,294",K,39,Italy,Empoli,Serie A,2016-2017
+26,26,Arnel Jakupovic,"€ 1,769","€ 92,000","€ 93,486",F,18,Austria,Empoli,Serie A,2016-2017
+27,27,Lapo Carradori,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Empoli,Serie A,2016-2017
+28,28,Gabriel Meli,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Empoli,Serie A,2016-2017
+29,29,Davide Seminara,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Empoli,Serie A,2016-2017
+30,30,Davide Buglio,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Empoli,Serie A,2016-2017
+31,31,Samuele Damiani,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Empoli,Serie A,2016-2017
+32,32,Alessio Zini,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Empoli,Serie A,2016-2017
+33,33,Elia Giampà,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Empoli,Serie A,2016-2017
+34,34,Hamed Junior Traorè,€ 250,"€ 13,000","€ 13,210",M,16,Cote d'Ivoire,Empoli,Serie A,2016-2017
+35,35,Alberto Picchi,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Empoli,Serie A,2016-2017
+36,36,Frédéric Veseli,€ 0,€ 0,€ 0,D,23,Albania,Empoli,Serie A,2016-2017
+37,37,Roman Chanturia,€ 0,€ 0,€ 0,F,20,Georgia,Empoli,Serie A,2016-2017
+38,38,Uroš Ćosić,€ 0,€ 0,€ 0,D,23,Serbia,Empoli,Serie A,2016-2017
+39,39,Raffaele Maiello,€ 0,€ 0,€ 0,M,24,Italy,Empoli,Serie A,2016-2017
+40,40,Luca Bittante,€ 0,€ 0,€ 0,D,22,Italy,Empoli,Serie A,2016-2017
+41,41,Franco Signorelli,€ 0,€ 0,€ 0,M,25,Venezuela,Empoli,Serie A,2016-2017
+0,0,Borja Valero,"€ 57,942","€ 3,013,000","€ 3,061,677",M,31,Spain,Fiorentina,Serie A,2016-2017
+1,1,Cristian Tello,"€ 51,115","€ 2,658,000","€ 2,700,942",F,24,Spain,Fiorentina,Serie A,2016-2017
+2,2,Khouma Babacar,"€ 47,731","€ 2,482,000","€ 2,522,098",F,23,Senegal,Fiorentina,Serie A,2016-2017
+3,3,Josip Ilicic,"€ 40,904","€ 2,127,000","€ 2,161,363",F,28,Slovenia,Fiorentina,Serie A,2016-2017
+4,4,Carlos Sánchez,"€ 40,904","€ 2,127,000","€ 2,161,363",M,30,Colombia,Fiorentina,Serie A,2016-2017
+5,5,Nikola Kalinic,"€ 40,904","€ 2,127,000","€ 2,161,363",F,28,Croatia,Fiorentina,Serie A,2016-2017
+6,6,Gonzalo Rodríguez,"€ 40,904","€ 2,127,000","€ 2,161,363",D,32,Argentina,Fiorentina,Serie A,2016-2017
+7,7,Milan Badelj,"€ 37,481","€ 1,949,000","€ 1,980,487",M,27,Croatia,Fiorentina,Serie A,2016-2017
+8,8,Matías Vecino,"€ 37,481","€ 1,949,000","€ 1,980,487",M,24,Uruguay,Fiorentina,Serie A,2016-2017
+9,9,Davide Astori,"€ 37,481","€ 1,949,000","€ 1,980,487",D,29,Italy,Fiorentina,Serie A,2016-2017
+10,10,Federico Bernardeschi,"€ 34,096","€ 1,773,000","€ 1,801,644",M,22,Italy,Fiorentina,Serie A,2016-2017
+11,11,Riccardo Saponara,"€ 30,673","€ 1,595,000","€ 1,620,768",M,24,Italy,Fiorentina,Serie A,2016-2017
+12,12,Sebastián Cristóforo,"€ 23,846","€ 1,240,000","€ 1,260,033",M,22,Uruguay,Fiorentina,Serie A,2016-2017
+13,13,Ciprian Tatarusanu,"€ 23,846","€ 1,240,000","€ 1,260,033",K,30,Romania,Fiorentina,Serie A,2016-2017
+14,14,Carlos Salcedo,"€ 17,038","€ 886,000","€ 900,314",D,22,Mexico,Fiorentina,Serie A,2016-2017
+15,15,Marco Sportiello,"€ 17,038","€ 886,000","€ 900,314",K,24,Italy,Fiorentina,Serie A,2016-2017
+16,16,Hrvoje Milic,"€ 17,038","€ 886,000","€ 900,314",D,27,Croatia,Fiorentina,Serie A,2016-2017
+17,17,Bartlomiej Dragowski,"€ 6,827","€ 355,000","€ 360,735",K,18,Poland,Fiorentina,Serie A,2016-2017
+18,18,Maximiliano Olivera,"€ 5,885","€ 306,000","€ 310,944",D,24,Uruguay,Fiorentina,Serie A,2016-2017
+19,19,Ianis Hagi,"€ 3,058","€ 159,000","€ 161,569",M,17,Romania,Fiorentina,Serie A,2016-2017
+20,20,Federico Chiesa,"€ 2,385","€ 124,000","€ 126,003",M,18,Italy,Fiorentina,Serie A,2016-2017
+21,21,Riccardo Baroni,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Fiorentina,Serie A,2016-2017
+22,22,Michele Cerofolini,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Fiorentina,Serie A,2016-2017
+23,23,Fabio Maistro,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Fiorentina,Serie A,2016-2017
+24,24,Giacomo Satalino,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Fiorentina,Serie A,2016-2017
+25,25,Simone Ghidotti,€ 250,"€ 13,000","€ 13,210",K,16,Italy,Fiorentina,Serie A,2016-2017
+26,26,Jan Mlakar,€ 250,"€ 13,000","€ 13,210",F,17,Slovenia,Fiorentina,Serie A,2016-2017
+27,27,Hernán Toledo,€ 0,€ 0,€ 0,F,20,Argentina,Fiorentina,Serie A,2016-2017
+28,28,Mauro Zárate,€ 0,€ 0,€ 0,F,29,Argentina,Fiorentina,Serie A,2016-2017
+29,29,Giuseppe Rossi,€ 0,€ 0,€ 0,F,29,Italy,Fiorentina,Serie A,2016-2017
+30,30,Gilberto,€ 0,€ 0,€ 0,D,23,Brazil,Fiorentina,Serie A,2016-2017
+31,31,Nenad Tomović,€ 0,€ 0,€ 0,D,28,Serbia,Fiorentina,Serie A,2016-2017
+32,32,Ricardo Bagadur,€ 0,€ 0,€ 0,D,20,Croatia,Fiorentina,Serie A,2016-2017
+33,33,Amidu Salifu,€ 0,€ 0,€ 0,M,23,Ghana,Fiorentina,Serie A,2016-2017
+34,34,Sebastien De Maio,€ 0,€ 0,€ 0,D,29,France,Fiorentina,Serie A,2016-2017
+35,35,Joshua Pérez,€ 0,€ 0,€ 0,M,18,United States,Fiorentina,Serie A,2016-2017
+36,36,Tomás Reymão,€ 0,€ 0,€ 0,M,17,Portugal,Fiorentina,Serie A,2016-2017
+37,37,Kevin Diks,€ 0,€ 0,€ 0,D,19,Netherlands,Fiorentina,Serie A,2016-2017
+38,38,Luca Lezzerini,€ 0,€ 0,€ 0,K,21,Italy,Fiorentina,Serie A,2016-2017
+39,39,Marcos Alonso,€ 0,€ 0,€ 0,D,25,Spain,Fiorentina,Serie A,2016-2017
+40,40,Jaime Báez,€ 0,€ 0,€ 0,F,21,Uruguay,Fiorentina,Serie A,2016-2017
+41,41,Matías Fernández,€ 0,€ 0,€ 0,M,30,Chile,Fiorentina,Serie A,2016-2017
+0,0,Adel Taarabt,"€ 65,038","€ 3,382,000","€ 3,436,638",M,27,Morocco,Genoa,Serie A,2016-2017
+1,1,Mattia Perin,"€ 37,481","€ 1,949,000","€ 1,980,487",K,23,Italy,Genoa,Serie A,2016-2017
+2,2,Lucas Ocampos,"€ 34,096","€ 1,773,000","€ 1,801,644",F,21,Argentina,Genoa,Serie A,2016-2017
+3,3,Mauricio Pinilla,"€ 30,673","€ 1,595,000","€ 1,620,768",F,32,Chile,Genoa,Serie A,2016-2017
+4,4,Miguel Veloso,"€ 27,269","€ 1,418,000","€ 1,440,909",M,30,Portugal,Genoa,Serie A,2016-2017
+5,5,Goran Pandev,"€ 27,269","€ 1,418,000","€ 1,440,909",F,32,North Macedonia,Genoa,Serie A,2016-2017
+6,6,Danilo Cataldi,"€ 27,269","€ 1,418,000","€ 1,440,909",M,21,Italy,Genoa,Serie A,2016-2017
+7,7,Santiago Gentiletti,"€ 27,269","€ 1,418,000","€ 1,440,909",D,31,Argentina,Genoa,Serie A,2016-2017
+8,8,Tomás Rincón,"€ 23,846","€ 1,240,000","€ 1,260,033",M,28,Venezuela,Genoa,Serie A,2016-2017
+9,9,Leonardo Pavoletti,"€ 23,846","€ 1,240,000","€ 1,260,033",F,27,Italy,Genoa,Serie A,2016-2017
+10,10,Nicolás Burdisso,"€ 20,442","€ 1,063,000","€ 1,080,173",D,35,Argentina,Genoa,Serie A,2016-2017
+11,11,Armando Izzo,"€ 20,442","€ 1,063,000","€ 1,080,173",D,24,Italy,Genoa,Serie A,2016-2017
+12,12,Lucas Orbán,"€ 20,442","€ 1,063,000","€ 1,080,173",D,27,Argentina,Genoa,Serie A,2016-2017
+13,13,Ezequiel Muñoz,"€ 20,442","€ 1,063,000","€ 1,080,173",D,25,Argentina,Genoa,Serie A,2016-2017
+14,14,Serge Gakpé,"€ 17,038","€ 886,000","€ 900,314",M,29,Togo,Genoa,Serie A,2016-2017
+15,15,Isaac Cofie,"€ 17,038","€ 886,000","€ 900,314",M,24,Ghana,Genoa,Serie A,2016-2017
+16,16,Luca Rigoni,"€ 17,038","€ 886,000","€ 900,314",M,31,Italy,Genoa,Serie A,2016-2017
+17,17,Oscar Hiljemark,"€ 14,308","€ 744,000","€ 756,020",M,24,Sweden,Genoa,Serie A,2016-2017
+18,18,Eugenio Lamanna,"€ 13,635","€ 709,000","€ 720,454",K,26,Italy,Genoa,Serie A,2016-2017
+19,19,Diego Laxalt,"€ 13,635","€ 709,000","€ 720,454",M,23,Uruguay,Genoa,Serie A,2016-2017
+20,20,Darko Lazovic,"€ 13,635","€ 709,000","€ 720,454",M,25,Serbia,Genoa,Serie A,2016-2017
+21,21,Olivier Ntcham,"€ 13,635","€ 709,000","€ 720,454",M,20,France,Genoa,Serie A,2016-2017
+22,22,Davide Brivio,"€ 11,942","€ 621,000","€ 631,033",D,28,Italy,Genoa,Serie A,2016-2017
+23,23,Aleandro Rosi,"€ 11,942","€ 621,000","€ 631,033",D,29,Italy,Genoa,Serie A,2016-2017
+24,24,Nikola Ninkovic,"€ 10,231","€ 532,000","€ 540,595",F,21,Serbia,Genoa,Serie A,2016-2017
+25,25,Giovanni Simeone,"€ 10,231","€ 532,000","€ 540,595",F,20,Argentina,Genoa,Serie A,2016-2017
+26,26,Raffaele Palladino,"€ 8,519","€ 443,000","€ 450,157",F,32,Italy,Genoa,Serie A,2016-2017
+27,27,Leonardo Morosini,"€ 5,269","€ 274,000","€ 278,427",M,20,Italy,Genoa,Serie A,2016-2017
+28,28,Davide Biraschi,"€ 5,173","€ 269,000","€ 273,346",D,21,Italy,Genoa,Serie A,2016-2017
+29,29,Rubinho,"€ 4,481","€ 233,000","€ 236,764",K,33,Brazil,Genoa,Serie A,2016-2017
+30,30,Luca Zanimacchia,"€ 2,385","€ 124,000","€ 126,003",M,17,Italy,Genoa,Serie A,2016-2017
+31,31,Lukas Zima,€ 885,"€ 46,000","€ 46,743",K,22,Czech Republic,Genoa,Serie A,2016-2017
+32,32,Andrea Beghetto,€ 731,"€ 38,000","€ 38,614",M,21,Italy,Genoa,Serie A,2016-2017
+33,33,Alex Coppola,€ 538,"€ 28,000","€ 28,452",D,19,Italy,Genoa,Serie A,2016-2017
+34,34,Alessandro Quaini,€ 250,"€ 13,000","€ 13,210",M,17,Italy,Genoa,Serie A,2016-2017
+35,35,Diego Faccioli,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Genoa,Serie A,2016-2017
+36,36,Massimo Tazzer,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Genoa,Serie A,2016-2017
+37,37,Giovanni Marchese,€ 0,€ 0,€ 0,D,31,Italy,Genoa,Serie A,2016-2017
+38,38,Raúl Asencio,€ 0,€ 0,€ 0,F,18,Spain,Genoa,Serie A,2016-2017
+39,39,Riccardo Fiamozzi,€ 0,€ 0,€ 0,D,23,Italy,Genoa,Serie A,2016-2017
+40,40,Issa Cissokho,€ 0,€ 0,€ 0,D,31,Senegal,Genoa,Serie A,2016-2017
+41,41,Edenilson,€ 0,€ 0,€ 0,M,26,Brazil,Genoa,Serie A,2016-2017
+42,42,Francesco Renzetti,€ 0,€ 0,€ 0,D,28,Italy,Genoa,Serie A,2016-2017
+43,43,Pietro Pellegri,€ 0,€ 0,€ 0,F,15,Italy,Genoa,Serie A,2016-2017
+0,0,Mauro Icardi,"€ 122,692","€ 6,380,000","€ 6,483,073",F,23,Argentina,Inter Milan,Serie A,2016-2017
+1,1,Geoffrey Kondogbia,"€ 119,288","€ 6,203,000","€ 6,303,213",M,23,Central African Republic,Inter Milan,Serie A,2016-2017
+2,2,Ivan Perisic,"€ 102,250","€ 5,317,000","€ 5,402,899",F,27,Croatia,Inter Milan,Serie A,2016-2017
+3,3,Miranda,"€ 102,250","€ 5,317,000","€ 5,402,899",D,31,Brazil,Inter Milan,Serie A,2016-2017
+4,4,João Mário,"€ 96,154","€ 5,000,000","€ 5,080,778",M,23,Portugal,Inter Milan,Serie A,2016-2017
+5,5,Gabriel Barbosa,"€ 92,019","€ 4,785,000","€ 4,862,305",F,19,Brazil,Inter Milan,Serie A,2016-2017
+6,6,Samir Handanovic,"€ 85,212","€ 4,431,000","€ 4,502,586",K,31,Slovenia,Inter Milan,Serie A,2016-2017
+7,7,Rodrigo Palacio,"€ 81,808","€ 4,254,000","€ 4,322,726",F,34,Argentina,Inter Milan,Serie A,2016-2017
+8,8,Antonio Candreva,"€ 74,981","€ 3,899,000","€ 3,961,991",M,29,Italy,Inter Milan,Serie A,2016-2017
+9,9,Éder,"€ 61,346","€ 3,190,000","€ 3,241,536",F,29,Italy,Inter Milan,Serie A,2016-2017
+10,10,Gary Medel,"€ 54,538","€ 2,836,000","€ 2,881,817",M,28,Chile,Inter Milan,Serie A,2016-2017
+11,11,Jonathan Biabiany,"€ 54,538","€ 2,836,000","€ 2,881,817",M,28,France,Inter Milan,Serie A,2016-2017
+12,12,Marcelo Brozovic,"€ 51,115","€ 2,658,000","€ 2,700,942",M,23,Croatia,Inter Milan,Serie A,2016-2017
+13,13,Cristian Ansaldi,"€ 51,115","€ 2,658,000","€ 2,700,942",D,29,Argentina,Inter Milan,Serie A,2016-2017
+14,14,Jeison Murillo,"€ 44,308","€ 2,304,000","€ 2,341,223",D,24,Colombia,Inter Milan,Serie A,2016-2017
+15,15,Davide Santon,"€ 44,308","€ 2,304,000","€ 2,341,223",D,25,Italy,Inter Milan,Serie A,2016-2017
+16,16,Danilo D'Ambrosio,"€ 40,904","€ 2,127,000","€ 2,161,363",D,27,Italy,Inter Milan,Serie A,2016-2017
+17,17,Marco Andreolli,"€ 37,481","€ 1,949,000","€ 1,980,487",D,30,Italy,Inter Milan,Serie A,2016-2017
+18,18,Trent Sainsbury,"€ 29,962","€ 1,558,000","€ 1,583,170",D,24,Australia,Inter Milan,Serie A,2016-2017
+19,19,Juan Pablo Carrizo,"€ 25,558","€ 1,329,000","€ 1,350,471",K,32,Argentina,Inter Milan,Serie A,2016-2017
+20,20,Tommaso Berni,"€ 6,827","€ 355,000","€ 360,735",K,33,Italy,Inter Milan,Serie A,2016-2017
+21,21,Roberto Gagliardini,"€ 5,115","€ 266,000","€ 270,297",M,22,Italy,Inter Milan,Serie A,2016-2017
+22,22,Ionut Radu,"€ 3,404","€ 177,000","€ 179,860",K,19,Romania,Inter Milan,Serie A,2016-2017
+23,23,Assane Gnoukouri,"€ 3,404","€ 177,000","€ 179,860",M,19,Cote d'Ivoire,Inter Milan,Serie A,2016-2017
+24,24,Senna Miangue,"€ 2,731","€ 142,000","€ 144,294",D,19,Belgium,Inter Milan,Serie A,2016-2017
+25,25,Eloge Yao,"€ 2,731","€ 142,000","€ 144,294",D,20,Cote d'Ivoire,Inter Milan,Serie A,2016-2017
+26,26,Rigoberto Rivas,€ 269,"€ 14,000","€ 14,226",M,17,Honduras,Inter Milan,Serie A,2016-2017
+27,27,Zinho Vanheusden,€ 250,"€ 13,000","€ 13,210",D,16,Belgium,Inter Milan,Serie A,2016-2017
+28,28,Axel Bakayoko,€ 250,"€ 13,000","€ 13,210",M,18,France,Inter Milan,Serie A,2016-2017
+29,29,Marco Carraro,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Inter Milan,Serie A,2016-2017
+30,30,Michele Di Gregorio,€ 250,"€ 13,000","€ 13,210",K,18,Italy,Inter Milan,Serie A,2016-2017
+31,31,Xian Emmers,€ 250,"€ 13,000","€ 13,210",M,16,Belgium,Inter Milan,Serie A,2016-2017
+32,32,Andrea Pinamonti,€ 250,"€ 13,000","€ 13,210",F,17,Italy,Inter Milan,Serie A,2016-2017
+33,33,Éver Banega,€ 0,€ 0,€ 0,M,28,Argentina,Inter Milan,Serie A,2016-2017
+34,34,Caner Erkin,€ 0,€ 0,€ 0,D,27,Turkey,Inter Milan,Serie A,2016-2017
+35,35,Stevan Jovetic,€ 0,€ 0,€ 0,F,26,Montenegro,Inter Milan,Serie A,2016-2017
+36,36,Andrew Gravillon,€ 0,€ 0,€ 0,D,18,Guadeloupe,Inter Milan,Serie A,2016-2017
+37,37,Andrea Ranocchia,€ 0,€ 0,€ 0,D,28,Italy,Inter Milan,Serie A,2016-2017
+38,38,Yuto Nagatomo,€ 0,€ 0,€ 0,D,29,Japan,Inter Milan,Serie A,2016-2017
+39,39,Loris Zonta,€ 0,€ 0,€ 0,M,19,Italy,Inter Milan,Serie A,2016-2017
+40,40,Felipe Melo,€ 0,€ 0,€ 0,M,33,Brazil,Inter Milan,Serie A,2016-2017
+0,0,Gonzalo Higuaín,"€ 255,635","€ 13,293,000","€ 13,507,757",F,28,Argentina,Juventus,Serie A,2016-2017
+1,1,Miralem Pjanic,"€ 153,385","€ 7,976,000","€ 8,104,857",M,26,Bosnia-Herzegovina,Juventus,Serie A,2016-2017
+2,2,Leonardo Bonucci,"€ 143,154","€ 7,444,000","€ 7,564,262",D,29,Italy,Juventus,Serie A,2016-2017
+3,3,Gianluigi Buffon,"€ 136,327","€ 7,089,000","€ 7,203,527",K,38,Italy,Juventus,Serie A,2016-2017
+4,4,Sami Khedira,"€ 136,327","€ 7,089,000","€ 7,203,527",M,29,Germany,Juventus,Serie A,2016-2017
+5,5,Giorgio Chiellini,"€ 119,288","€ 6,203,000","€ 6,303,213",D,31,Italy,Juventus,Serie A,2016-2017
+6,6,Claudio Marchisio,"€ 119,288","€ 6,203,000","€ 6,303,213",M,30,Italy,Juventus,Serie A,2016-2017
+7,7,Mario Mandzukic,"€ 119,288","€ 6,203,000","€ 6,303,213",F,30,Croatia,Juventus,Serie A,2016-2017
+8,8,Paulo Dybala,"€ 102,250","€ 5,317,000","€ 5,402,899",F,22,Argentina,Juventus,Serie A,2016-2017
+9,9,Juan Cuadrado,"€ 102,250","€ 5,317,000","€ 5,402,899",M,28,Colombia,Juventus,Serie A,2016-2017
+10,10,Medhi Benatia,"€ 95,442","€ 4,963,000","€ 5,043,180",D,29,Morocco,Juventus,Serie A,2016-2017
+11,11,Alex Sandro,"€ 95,442","€ 4,963,000","€ 5,043,180",D,25,Brazil,Juventus,Serie A,2016-2017
+12,12,Stephan Lichtsteiner,"€ 95,442","€ 4,963,000","€ 5,043,180",D,32,Switzerland,Juventus,Serie A,2016-2017
+13,13,Andrea Barzagli,"€ 85,212","€ 4,431,000","€ 4,502,586",D,35,Italy,Juventus,Serie A,2016-2017
+14,14,Neto,"€ 68,173","€ 3,545,000","€ 3,602,272",K,26,Brazil,Juventus,Serie A,2016-2017
+15,15,Marko Pjaca,"€ 61,346","€ 3,190,000","€ 3,241,536",F,21,Croatia,Juventus,Serie A,2016-2017
+16,16,Paolo De Ceglie,"€ 57,942","€ 3,013,000","€ 3,061,677",D,29,Italy,Juventus,Serie A,2016-2017
+17,17,Kwadwo Asamoah,"€ 54,538","€ 2,836,000","€ 2,881,817",D,27,Ghana,Juventus,Serie A,2016-2017
+18,18,Stefano Sturaro,"€ 51,115","€ 2,658,000","€ 2,700,942",M,23,Italy,Juventus,Serie A,2016-2017
+19,19,Mario Lemina,"€ 40,904","€ 2,127,000","€ 2,161,363",M,22,Gabon,Juventus,Serie A,2016-2017
+20,20,Daniele Rugani,"€ 34,096","€ 1,773,000","€ 1,801,644",D,21,Italy,Juventus,Serie A,2016-2017
+21,21,Tomás Rincón,"€ 23,846","€ 1,240,000","€ 1,260,033",M,28,Venezuela,Juventus,Serie A,2016-2017
+22,22,Federico Mattiello,"€ 13,635","€ 709,000","€ 720,454",D,20,Italy,Juventus,Serie A,2016-2017
+23,23,Emil Audero,"€ 8,519","€ 443,000","€ 450,157",K,19,Italy,Juventus,Serie A,2016-2017
+24,24,Rolando Mandragora,"€ 6,827","€ 355,000","€ 360,735",M,19,Italy,Juventus,Serie A,2016-2017
+25,25,Moise Kean,€ 250,"€ 13,000","€ 13,210",F,16,Italy,Juventus,Serie A,2016-2017
+26,26,Luca Coccolo,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Juventus,Serie A,2016-2017
+27,27,Leonardo Loria,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Juventus,Serie A,2016-2017
+28,28,Mattias Andersson,€ 250,"€ 13,000","€ 13,210",D,18,Sweden,Juventus,Serie A,2016-2017
+29,29,Mattia Del Favero,€ 250,"€ 13,000","€ 13,210",K,18,Italy,Juventus,Serie A,2016-2017
+30,30,Mehdi Léris,€ 250,"€ 13,000","€ 13,210",M,18,France,Juventus,Serie A,2016-2017
+31,31,Simone Muratore,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Juventus,Serie A,2016-2017
+32,32,Alessandro Semprini,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Juventus,Serie A,2016-2017
+33,33,Dani Alves,€ 0,€ 0,€ 0,D,33,Brazil,Juventus,Serie A,2016-2017
+34,34,Simone Zaza,€ 0,€ 0,€ 0,F,25,Italy,Juventus,Serie A,2016-2017
+35,35,Luca Marrone,€ 0,€ 0,€ 0,D,26,Italy,Juventus,Serie A,2016-2017
+36,36,Hernanes,€ 0,€ 0,€ 0,M,31,Brazil,Juventus,Serie A,2016-2017
+37,37,Patrice Evra,€ 0,€ 0,€ 0,D,35,France,Juventus,Serie A,2016-2017
+0,0,Ciro Immobile,"€ 68,173","€ 3,545,000","€ 3,602,272",F,26,Italy,Lazio,Serie A,2016-2017
+1,1,Federico Marchetti,"€ 47,731","€ 2,482,000","€ 2,522,098",K,33,Italy,Lazio,Serie A,2016-2017
+2,2,Lucas Biglia,"€ 47,731","€ 2,482,000","€ 2,522,098",M,30,Argentina,Lazio,Serie A,2016-2017
+3,3,Stefan Radu,"€ 47,731","€ 2,482,000","€ 2,522,098",D,29,Romania,Lazio,Serie A,2016-2017
+4,4,Stefan de Vrij,"€ 44,308","€ 2,304,000","€ 2,341,223",D,24,Netherlands,Lazio,Serie A,2016-2017
+5,5,Felipe Anderson,"€ 40,904","€ 2,127,000","€ 2,161,363",F,23,Brazil,Lazio,Serie A,2016-2017
+6,6,Senad Lulic,"€ 40,904","€ 2,127,000","€ 2,161,363",M,30,Bosnia-Herzegovina,Lazio,Serie A,2016-2017
+7,7,Marco Parolo,"€ 40,904","€ 2,127,000","€ 2,161,363",M,31,Italy,Lazio,Serie A,2016-2017
+8,8,Luis Alberto,"€ 40,904","€ 2,127,000","€ 2,161,363",M,23,Spain,Lazio,Serie A,2016-2017
+9,9,Filip Djordjevic,"€ 40,904","€ 2,127,000","€ 2,161,363",F,28,Serbia,Lazio,Serie A,2016-2017
+10,10,Jordan Lukaku,"€ 34,096","€ 1,773,000","€ 1,801,644",D,21,Belgium,Lazio,Serie A,2016-2017
+11,11,Bastos,"€ 34,096","€ 1,773,000","€ 1,801,644",D,25,Angola,Lazio,Serie A,2016-2017
+12,12,Wallace,"€ 34,096","€ 1,773,000","€ 1,801,644",D,21,Brazil,Lazio,Serie A,2016-2017
+13,13,Wesley Hoedt,"€ 28,962","€ 1,506,000","€ 1,530,330",D,22,Netherlands,Lazio,Serie A,2016-2017
+14,14,Dusan Basta,"€ 27,269","€ 1,418,000","€ 1,440,909",D,31,Serbia,Lazio,Serie A,2016-2017
+15,15,Danilo Cataldi,"€ 27,269","€ 1,418,000","€ 1,440,909",M,21,Italy,Lazio,Serie A,2016-2017
+16,16,Patric,"€ 23,846","€ 1,240,000","€ 1,260,033",D,23,Spain,Lazio,Serie A,2016-2017
+17,17,Keita Baldé,"€ 20,442","€ 1,063,000","€ 1,080,173",F,21,Senegal,Lazio,Serie A,2016-2017
+18,18,Etrit Berisha,"€ 17,038","€ 886,000","€ 900,314",K,27,Albania,Lazio,Serie A,2016-2017
+19,19,Ivan Vargic,"€ 17,038","€ 886,000","€ 900,314",K,29,Croatia,Lazio,Serie A,2016-2017
+20,20,Mamadou Tounkara,"€ 10,231","€ 532,000","€ 540,595",F,20,Senegal,Lazio,Serie A,2016-2017
+21,21,Alessandro Murgia,"€ 6,827","€ 355,000","€ 360,735",M,19,Italy,Lazio,Serie A,2016-2017
+22,22,Luca Crecco,"€ 4,981","€ 259,000","€ 263,184",M,20,Italy,Lazio,Serie A,2016-2017
+23,23,Alessandro Rossi,"€ 4,019","€ 209,000","€ 212,377",F,19,Italy,Lazio,Serie A,2016-2017
+24,24,Cristiano Lombardi,"€ 3,404","€ 177,000","€ 179,860",M,20,Italy,Lazio,Serie A,2016-2017
+25,25,Thomas Strakosha,"€ 3,404","€ 177,000","€ 179,860",K,21,Albania,Lazio,Serie A,2016-2017
+26,26,Marius Adamonis,€ 962,"€ 50,000","€ 50,808",K,19,Lithuania,Lazio,Serie A,2016-2017
+27,27,Abukar Mohamed,€ 827,"€ 43,000","€ 43,695",M,17,Finland,Lazio,Serie A,2016-2017
+28,28,Michael Folorunsho,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Lazio,Serie A,2016-2017
+29,29,Luca Borrelli,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Lazio,Serie A,2016-2017
+30,30,Cassio Cardoselli,€ 250,"€ 13,000","€ 13,210",M,17,Italy,Lazio,Serie A,2016-2017
+31,31,Duje Javorcic,€ 250,"€ 13,000","€ 13,210",M,16,Croatia,Lazio,Serie A,2016-2017
+32,32,Denis Petro,€ 250,"€ 13,000","€ 13,210",D,17,Slovakia,Lazio,Serie A,2016-2017
+33,33,Giorgio Spizzichino,€ 250,"€ 13,000","€ 13,210",D,16,Italy,Lazio,Serie A,2016-2017
+34,34,Maurício,€ 0,€ 0,€ 0,D,27,Brazil,Lazio,Serie A,2016-2017
+35,35,Joseph Marie Minala,€ 0,€ 0,€ 0,M,19,Cameroon,Lazio,Serie A,2016-2017
+36,36,Luca Germoni,€ 0,€ 0,€ 0,D,18,Italy,Lazio,Serie A,2016-2017
+37,37,Franjo Prce,€ 0,€ 0,€ 0,D,20,Croatia,Lazio,Serie A,2016-2017
+38,38,Moritz Leitner,€ 0,€ 0,€ 0,M,23,Germany,Lazio,Serie A,2016-2017
+39,39,Christopher Oikonomidis,€ 0,€ 0,€ 0,F,21,Australia,Lazio,Serie A,2016-2017
+40,40,Ravel Morrison,€ 0,€ 0,€ 0,M,23,Jamaica,Lazio,Serie A,2016-2017
+41,41,Ricardo Kishna,€ 0,€ 0,€ 0,F,21,Netherlands,Lazio,Serie A,2016-2017
+42,42,Sergej Milinkovic-Savic,€ 0,€ 0,€ 0,M,21,Serbia,Lazio,Serie A,2016-2017
+43,43,Brayan Perea,€ 0,€ 0,€ 0,F,23,Colombia,Lazio,Serie A,2016-2017
+44,44,Álvaro González,€ 0,€ 0,€ 0,M,31,Uruguay,Lazio,Serie A,2016-2017
+45,45,Vinícius,€ 0,€ 0,€ 0,D,23,Brazil,Lazio,Serie A,2016-2017
+0,0,Marek Hamsik,"€ 119,288","€ 6,203,000","€ 6,303,213",M,28,Slovakia,Napoli,Serie A,2016-2017
+1,1,José Callejón,"€ 102,250","€ 5,317,000","€ 5,402,899",M,29,Spain,Napoli,Serie A,2016-2017
+2,2,Pepe Reina,"€ 85,212","€ 4,431,000","€ 4,502,586",K,33,Spain,Napoli,Serie A,2016-2017
+3,3,Arkadiusz Milik,"€ 85,212","€ 4,431,000","€ 4,502,586",F,22,Poland,Napoli,Serie A,2016-2017
+4,4,Kalidou Koulibaly,"€ 74,654","€ 3,882,000","€ 3,944,716",D,25,Senegal,Napoli,Serie A,2016-2017
+5,5,Raúl Albiol,"€ 71,577","€ 3,722,000","€ 3,782,131",D,30,Spain,Napoli,Serie A,2016-2017
+6,6,Lorenzo Insigne,"€ 61,346","€ 3,190,000","€ 3,241,536",F,25,Italy,Napoli,Serie A,2016-2017
+7,7,Vlad Chiriches,"€ 61,346","€ 3,190,000","€ 3,241,536",D,26,Romania,Napoli,Serie A,2016-2017
+8,8,Jorginho,"€ 54,538","€ 2,836,000","€ 2,881,817",M,24,Italy,Napoli,Serie A,2016-2017
+9,9,Elseid Hysaj,"€ 54,346","€ 2,826,000","€ 2,871,656",D,22,Albania,Napoli,Serie A,2016-2017
+10,10,Emanuele Giaccherini,"€ 51,115","€ 2,658,000","€ 2,700,942",M,31,Italy,Napoli,Serie A,2016-2017
+11,11,Piotr Zielinski,"€ 51,115","€ 2,658,000","€ 2,700,942",M,22,Poland,Napoli,Serie A,2016-2017
+12,12,Ivan Strinic,"€ 51,115","€ 2,658,000","€ 2,700,942",D,28,Croatia,Napoli,Serie A,2016-2017
+13,13,Allan,"€ 47,731","€ 2,482,000","€ 2,522,098",M,25,Brazil,Napoli,Serie A,2016-2017
+14,14,Dries Mertens,"€ 40,904","€ 2,127,000","€ 2,161,363",F,29,Belgium,Napoli,Serie A,2016-2017
+15,15,Amadou Diawara,"€ 40,904","€ 2,127,000","€ 2,161,363",M,18,Guinea,Napoli,Serie A,2016-2017
+16,16,Nikola Maksimovic,"€ 40,904","€ 2,127,000","€ 2,161,363",D,24,Serbia,Napoli,Serie A,2016-2017
+17,17,Christian Maggio,"€ 37,481","€ 1,949,000","€ 1,980,487",D,34,Italy,Napoli,Serie A,2016-2017
+18,18,Lorenzo Tonelli,"€ 30,673","€ 1,595,000","€ 1,620,768",D,26,Italy,Napoli,Serie A,2016-2017
+19,19,Mirko Valdifiori,"€ 27,269","€ 1,418,000","€ 1,440,909",M,30,Italy,Napoli,Serie A,2016-2017
+20,20,Faouzi Ghoulam,"€ 27,269","€ 1,418,000","€ 1,440,909",D,25,Algeria,Napoli,Serie A,2016-2017
+21,21,Marko Rog,"€ 27,173","€ 1,413,000","€ 1,435,828",M,20,Croatia,Napoli,Serie A,2016-2017
+22,22,Leonardo Pavoletti,"€ 23,846","€ 1,240,000","€ 1,260,033",F,27,Italy,Napoli,Serie A,2016-2017
+23,23,Jonathan de Guzmán,"€ 23,846","€ 1,240,000","€ 1,260,033",M,28,Netherlands,Napoli,Serie A,2016-2017
+24,24,Omar El Kaddouri,"€ 20,442","€ 1,063,000","€ 1,080,173",M,25,Morocco,Napoli,Serie A,2016-2017
+25,25,Luigi Sepe,"€ 20,442","€ 1,063,000","€ 1,080,173",K,25,Italy,Napoli,Serie A,2016-2017
+26,26,Alberto Grassi,"€ 10,231","€ 532,000","€ 540,595",M,21,Italy,Napoli,Serie A,2016-2017
+27,27,Rafael,"€ 5,115","€ 266,000","€ 270,297",K,26,Brazil,Napoli,Serie A,2016-2017
+28,28,Leandrinho,"€ 2,365","€ 123,000","€ 124,987",F,17,Brazil,Napoli,Serie A,2016-2017
+29,29,Alessio Zerbin,€ 250,"€ 13,000","€ 13,210",F,17,Italy,Napoli,Serie A,2016-2017
+30,30,Marco Milanese,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Napoli,Serie A,2016-2017
+31,31,Igor Lasicki,€ 0,€ 0,€ 0,D,21,Poland,Napoli,Serie A,2016-2017
+32,32,Manolo Gabbiadini,€ 0,€ 0,€ 0,F,24,Italy,Napoli,Serie A,2016-2017
+33,33,David López,€ 0,€ 0,€ 0,D,26,Spain,Napoli,Serie A,2016-2017
+34,34,Roberto Insigne,€ 0,€ 0,€ 0,M,22,Italy,Napoli,Serie A,2016-2017
+35,35,Sebastiano Luperto,€ 0,€ 0,€ 0,D,19,Italy,Napoli,Serie A,2016-2017
+36,36,Nicolao Dumitru,€ 0,€ 0,€ 0,F,24,Italy,Napoli,Serie A,2016-2017
+0,0,Ilija Nestorovski,"€ 26,096","€ 1,357,000","€ 1,378,923",F,26,North Macedonia,Palermo,Serie A,2016-2017
+1,1,Bruno Henrique,"€ 23,846","€ 1,240,000","€ 1,260,033",M,26,Brazil,Palermo,Serie A,2016-2017
+2,2,Giancarlo González,"€ 20,442","€ 1,063,000","€ 1,080,173",D,28,Costa Rica,Palermo,Serie A,2016-2017
+3,3,Mato Jajalo,"€ 17,038","€ 886,000","€ 900,314",M,28,Bosnia-Herzegovina,Palermo,Serie A,2016-2017
+4,4,Slobodan Rajkovic,"€ 17,038","€ 886,000","€ 900,314",D,27,Serbia,Palermo,Serie A,2016-2017
+5,5,Alessandro Diamanti,"€ 14,673","€ 763,000","€ 775,327",F,33,Italy,Palermo,Serie A,2016-2017
+6,6,Toni Sunjic,"€ 14,346","€ 746,000","€ 758,052",D,27,Bosnia-Herzegovina,Palermo,Serie A,2016-2017
+7,7,Oscar Hiljemark,"€ 14,308","€ 744,000","€ 756,020",M,24,Sweden,Palermo,Serie A,2016-2017
+8,8,Andrea Rispoli,"€ 13,635","€ 709,000","€ 720,454",D,27,Italy,Palermo,Serie A,2016-2017
+9,9,Michel Morganella,"€ 13,635","€ 709,000","€ 720,454",D,27,Switzerland,Palermo,Serie A,2016-2017
+10,10,Ivaylo Chochev,"€ 12,846","€ 668,000","€ 678,792",M,23,Bulgaria,Palermo,Serie A,2016-2017
+11,11,Aleksandar Trajkovski,"€ 11,942","€ 621,000","€ 631,033",F,23,North Macedonia,Palermo,Serie A,2016-2017
+12,12,Roberto Vitiello,"€ 11,942","€ 621,000","€ 631,033",D,33,Italy,Palermo,Serie A,2016-2017
+13,13,Carlos Embalo,"€ 11,942","€ 621,000","€ 631,033",F,21,Guinea-Bissau,Palermo,Serie A,2016-2017
+14,14,Haitam Aleesami,"€ 11,462","€ 596,000","€ 605,629",D,24,Norway,Palermo,Serie A,2016-2017
+15,15,Norbert Balogh,"€ 11,462","€ 596,000","€ 605,629",F,20,Hungary,Palermo,Serie A,2016-2017
+16,16,Alessandro Gazzi,"€ 10,231","€ 532,000","€ 540,595",M,33,Italy,Palermo,Serie A,2016-2017
+17,17,Josip Posavec,"€ 8,519","€ 443,000","€ 450,157",K,20,Croatia,Palermo,Serie A,2016-2017
+18,18,Edoardo Goldaniga,"€ 8,519","€ 443,000","€ 450,157",D,22,Italy,Palermo,Serie A,2016-2017
+19,19,Thiago Cionek,"€ 8,519","€ 443,000","€ 450,157",D,30,Poland,Palermo,Serie A,2016-2017
+20,20,Roland Sallai,"€ 6,827","€ 355,000","€ 360,735",F,19,Hungary,Palermo,Serie A,2016-2017
+21,21,Stefan Silva,"€ 6,750","€ 351,000","€ 356,671",F,26,Sweden,Palermo,Serie A,2016-2017
+22,22,Simone Lo Faso,"€ 4,096","€ 213,000","€ 216,441",F,18,Italy,Palermo,Serie A,2016-2017
+23,23,Giuseppe Pezzella,"€ 2,385","€ 124,000","€ 126,003",D,18,Italy,Palermo,Serie A,2016-2017
+24,24,Francesco Bonfiglio,"€ 2,173","€ 113,000","€ 114,826",F,19,Italy,Palermo,Serie A,2016-2017
+25,25,Andrea Fulignati,"€ 1,692","€ 88,000","€ 89,422",K,21,Italy,Palermo,Serie A,2016-2017
+26,26,Andrea Punzi,€ 865,"€ 45,000","€ 45,727",D,19,Italy,Palermo,Serie A,2016-2017
+27,27,Simone Giuliano,€ 673,"€ 35,000","€ 35,565",D,19,Italy,Palermo,Serie A,2016-2017
+28,28,Sebastian Breza,€ 269,"€ 14,000","€ 14,226",K,18,Canada,Palermo,Serie A,2016-2017
+29,29,Leonardo Marson,€ 250,"€ 13,000","€ 13,210",K,18,Italy,Palermo,Serie A,2016-2017
+30,30,Gennaro Ruggiero,€ 250,"€ 13,000","€ 13,210",M,16,Italy,Palermo,Serie A,2016-2017
+31,31,Samuele Guddo,€ 250,"€ 13,000","€ 13,210",K,16,Italy,Palermo,Serie A,2016-2017
+32,32,Robin Quaison,€ 0,€ 0,€ 0,F,22,Sweden,Palermo,Serie A,2016-2017
+33,33,Ouasim Bouy,€ 0,€ 0,€ 0,M,23,Morocco,Palermo,Serie A,2016-2017
+34,34,Sinisa Andelkovic,€ 0,€ 0,€ 0,D,30,Slovenia,Palermo,Serie A,2016-2017
+35,35,Aljaz Struna,€ 0,€ 0,€ 0,D,25,Slovenia,Palermo,Serie A,2016-2017
+36,36,Marco Toscano,€ 0,€ 0,€ 0,M,18,Italy,Palermo,Serie A,2016-2017
+37,37,Achraf Lazaar,€ 0,€ 0,€ 0,D,24,Morocco,Palermo,Serie A,2016-2017
+38,38,Accursio Bentivegna,€ 0,€ 0,€ 0,M,20,Italy,Palermo,Serie A,2016-2017
+0,0,Alberto Gilardino,"€ 23,846","€ 1,240,000","€ 1,260,033",F,33,Italy,Pescara,Serie A,2016-2017
+1,1,Alberto Aquilani,"€ 20,442","€ 1,063,000","€ 1,080,173",M,31,Italy,Pescara,Serie A,2016-2017
+2,2,Guglielmo Stendardo,"€ 20,442","€ 1,063,000","€ 1,080,173",D,35,Italy,Pescara,Serie A,2016-2017
+3,3,Simone Pepe,"€ 17,038","€ 886,000","€ 900,314",M,32,Italy,Pescara,Serie A,2016-2017
+4,4,Jean-Christophe Bahebeck,"€ 15,327","€ 797,000","€ 809,876",F,23,France,Pescara,Serie A,2016-2017
+5,5,Cesare Bovo,"€ 14,308","€ 744,000","€ 756,020",D,33,Italy,Pescara,Serie A,2016-2017
+6,6,Bryan Cristante,"€ 13,635","€ 709,000","€ 720,454",M,21,Italy,Pescara,Serie A,2016-2017
+7,7,Gianluca Caprari,"€ 13,635","€ 709,000","€ 720,454",F,22,Italy,Pescara,Serie A,2016-2017
+8,8,Sulley Muntari,"€ 11,192","€ 582,000","€ 591,403",M,31,Ghana,Pescara,Serie A,2016-2017
+9,9,Ledian Memushaj,"€ 11,000","€ 572,000","€ 581,241",M,29,Albania,Pescara,Serie A,2016-2017
+10,10,Valerio Verre,"€ 9,173","€ 477,000","€ 484,706",M,22,Italy,Pescara,Serie A,2016-2017
+11,11,Albano Bizzarri,"€ 9,173","€ 477,000","€ 484,706",K,38,Argentina,Pescara,Serie A,2016-2017
+12,12,Francesco Zampano,"€ 9,173","€ 477,000","€ 484,706",D,22,Italy,Pescara,Serie A,2016-2017
+13,13,Hugo Campagnaro,"€ 8,250","€ 429,000","€ 435,931",D,36,Argentina,Pescara,Serie A,2016-2017
+14,14,Michele Fornasier,"€ 7,346","€ 382,000","€ 388,171",D,22,Italy,Pescara,Serie A,2016-2017
+15,15,Ahmad Benali,"€ 7,346","€ 382,000","€ 388,171",M,24,Libya,Pescara,Serie A,2016-2017
+16,16,Alexandru Mitrita,"€ 7,346","€ 382,000","€ 388,171",F,21,Romania,Pescara,Serie A,2016-2017
+17,17,Cristiano Biraghi,"€ 7,346","€ 382,000","€ 388,171",D,23,Italy,Pescara,Serie A,2016-2017
+18,18,Vincenzo Fiorillo,"€ 7,346","€ 382,000","€ 388,171",K,26,Italy,Pescara,Serie A,2016-2017
+19,19,Gastón Brugman,"€ 7,346","€ 382,000","€ 388,171",M,23,Uruguay,Pescara,Serie A,2016-2017
+20,20,Alessandro Crescenzi,"€ 7,346","€ 382,000","€ 388,171",D,24,Italy,Pescara,Serie A,2016-2017
+21,21,Andrea Coda,"€ 6,423","€ 334,000","€ 339,396",D,31,Italy,Pescara,Serie A,2016-2017
+22,22,Grigoris Kastanos,"€ 4,019","€ 209,000","€ 212,377",M,18,Cyprus,Pescara,Serie A,2016-2017
+23,23,Andrés Cubas,"€ 3,865","€ 201,000","€ 204,247",M,20,Argentina,Pescara,Serie A,2016-2017
+24,24,Robert Muric,"€ 3,673","€ 191,000","€ 194,086",M,20,Croatia,Pescara,Serie A,2016-2017
+25,25,Davide Vitturini,"€ 3,404","€ 177,000","€ 179,860",D,19,Italy,Pescara,Serie A,2016-2017
+26,26,Hrvoje Milicevic,"€ 3,404","€ 177,000","€ 179,860",D,23,Croatia,Pescara,Serie A,2016-2017
+27,27,Alberto Cerri,"€ 3,231","€ 168,000","€ 170,714",F,20,Italy,Pescara,Serie A,2016-2017
+28,28,Gabriele Aldegani,"€ 3,231","€ 168,000","€ 170,714",K,40,Italy,Pescara,Serie A,2016-2017
+29,29,Alessandro Bruno,"€ 2,769","€ 144,000","€ 146,326",M,32,Italy,Pescara,Serie A,2016-2017
+30,30,Ferdinando Del Sole,"€ 1,692","€ 88,000","€ 89,422",M,18,Italy,Pescara,Serie A,2016-2017
+31,31,Nazareno Battista,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Pescara,Serie A,2016-2017
+32,32,Filippo Delli Carri,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Pescara,Serie A,2016-2017
+33,33,Francesco Forte,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Pescara,Serie A,2016-2017
+34,34,Francesco Mele,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Pescara,Serie A,2016-2017
+35,35,Ibrahima Diallo,€ 250,"€ 13,000","€ 13,210",D,17,Guinea,Pescara,Serie A,2016-2017
+36,36,Leonardo Maloku,€ 250,"€ 13,000","€ 13,210",D,18,Albania,Pescara,Serie A,2016-2017
+37,37,Marco Pompetti,€ 250,"€ 13,000","€ 13,210",M,16,Italy,Pescara,Serie A,2016-2017
+38,38,Piermarco D'Angelo,€ 250,"€ 13,000","€ 13,210",M,16,Italy,Pescara,Serie A,2016-2017
+39,39,Simone Mancini,€ 250,"€ 13,000","€ 13,210",F,17,Italy,Pescara,Serie A,2016-2017
+40,40,Ransford Selasi,€ 0,€ 0,€ 0,M,19,Ghana,Pescara,Serie A,2016-2017
+41,41,Rey Manaj,€ 0,€ 0,€ 0,F,19,Albania,Pescara,Serie A,2016-2017
+42,42,Mirko Pigliacelli,€ 0,€ 0,€ 0,K,23,Italy,Pescara,Serie A,2016-2017
+43,43,Simone Aresti,€ 0,€ 0,€ 0,K,30,Italy,Pescara,Serie A,2016-2017
+44,44,Dario Zuparic,€ 0,€ 0,€ 0,D,24,Croatia,Pescara,Serie A,2016-2017
+45,45,Marco Acatullo,€ 0,€ 0,€ 0,F,18,Italy,Pescara,Serie A,2016-2017
+46,46,Stefano Pettinari,€ 0,€ 0,€ 0,F,24,Italy,Pescara,Serie A,2016-2017
+47,47,Mamadou Coulibaly,€ 0,€ 0,€ 0,M,17,Senegal,Pescara,Serie A,2016-2017
+48,48,Norbert Gyömbér,€ 0,€ 0,€ 0,D,23,Slovakia,Pescara,Serie A,2016-2017
+49,49,Francesco Nicastro,€ 0,€ 0,€ 0,M,24,Italy,Pescara,Serie A,2016-2017
+0,0,Daniele De Rossi,"€ 221,538","€ 11,520,000","€ 11,706,113",M,32,Italy,Roma,Serie A,2016-2017
+1,1,Edin Dzeko,"€ 153,385","€ 7,976,000","€ 8,104,857",F,30,Bosnia-Herzegovina,Roma,Serie A,2016-2017
+2,2,Thomas Vermaelen,"€ 138,769","€ 7,216,000","€ 7,332,579",D,30,Belgium,Roma,Serie A,2016-2017
+3,3,Mohamed Salah,"€ 119,288","€ 6,203,000","€ 6,303,213",M,24,Egypt,Roma,Serie A,2016-2017
+4,4,Radja Nainggolan,"€ 109,058","€ 5,671,000","€ 5,762,619",M,28,Belgium,Roma,Serie A,2016-2017
+5,5,Wojciech Szczesny,"€ 96,865","€ 5,037,000","€ 5,118,376",K,26,Poland,Roma,Serie A,2016-2017
+6,6,Kevin Strootman,"€ 95,442","€ 4,963,000","€ 5,043,180",M,26,Netherlands,Roma,Serie A,2016-2017
+7,7,Juan Iturbe,"€ 78,385","€ 4,076,000","€ 4,141,850",M,23,Paraguay,Roma,Serie A,2016-2017
+8,8,Stephan El Shaarawy,"€ 68,173","€ 3,545,000","€ 3,602,272",F,23,Italy,Roma,Serie A,2016-2017
+9,9,Clément Grenier,"€ 66,038","€ 3,434,000","€ 3,489,478",M,25,France,Roma,Serie A,2016-2017
+10,10,Diego Perotti,"€ 64,750","€ 3,367,000","€ 3,421,396",F,27,Argentina,Roma,Serie A,2016-2017
+11,11,Alessandro Florenzi,"€ 57,750","€ 3,003,000","€ 3,051,515",D,25,Italy,Roma,Serie A,2016-2017
+12,12,Alisson,"€ 51,115","€ 2,658,000","€ 2,700,942",K,23,Brazil,Roma,Serie A,2016-2017
+13,13,Antonio Rüdiger,"€ 51,115","€ 2,658,000","€ 2,700,942",D,23,Germany,Roma,Serie A,2016-2017
+14,14,Federico Fazio,"€ 50,000","€ 2,600,000","€ 2,642,005",D,29,Argentina,Roma,Serie A,2016-2017
+15,15,Juan Jesus,"€ 44,942","€ 2,337,000","€ 2,374,756",D,25,Brazil,Roma,Serie A,2016-2017
+16,16,Francesco Totti,"€ 40,904","€ 2,127,000","€ 2,161,363",F,39,Italy,Roma,Serie A,2016-2017
+17,17,Leandro Paredes,"€ 23,846","€ 1,240,000","€ 1,260,033",M,22,Argentina,Roma,Serie A,2016-2017
+18,18,Bogdan Lobont,"€ 17,038","€ 886,000","€ 900,314",K,38,Romania,Roma,Serie A,2016-2017
+19,19,Bruno Peres,"€ 12,846","€ 668,000","€ 678,792",D,26,Brazil,Roma,Serie A,2016-2017
+20,20,Federico Ricci,"€ 10,231","€ 532,000","€ 540,595",M,22,Italy,Roma,Serie A,2016-2017
+21,21,Mário Rui,"€ 9,654","€ 502,000","€ 510,110",D,25,Portugal,Roma,Serie A,2016-2017
+22,22,Umar Sadiq,"€ 8,519","€ 443,000","€ 450,157",F,19,Nigeria,Roma,Serie A,2016-2017
+23,23,Riccardo Marchizza,"€ 4,019","€ 209,000","€ 212,377",D,18,Italy,Roma,Serie A,2016-2017
+24,24,Marco Tumminello,"€ 3,635","€ 189,000","€ 192,053",F,17,Italy,Roma,Serie A,2016-2017
+25,25,Alessandro Bordin,"€ 2,846","€ 148,000","€ 150,391",M,17,Italy,Roma,Serie A,2016-2017
+26,26,Keba Coly,"€ 2,481","€ 129,000","€ 131,084",F,18,Senegal,Roma,Serie A,2016-2017
+27,27,Luca Pellegrini,"€ 1,154","€ 60,000","€ 60,969",D,17,Italy,Roma,Serie A,2016-2017
+28,28,Eros De Santis,"€ 1,096","€ 57,000","€ 57,921",D,18,Italy,Roma,Serie A,2016-2017
+29,29,Lorenzo Crisanto,€ 750,"€ 39,000","€ 39,630",K,18,Italy,Roma,Serie A,2016-2017
+30,30,Mirko Antonucci,€ 250,"€ 13,000","€ 13,210",M,17,Italy,Roma,Serie A,2016-2017
+31,31,Filippo Franchi,€ 250,"€ 13,000","€ 13,210",F,18,Italy,Roma,Serie A,2016-2017
+32,32,Lorenzo Grossi,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Roma,Serie A,2016-2017
+33,33,Emanuele Spinozzi,€ 250,"€ 13,000","€ 13,210",M,17,Italy,Roma,Serie A,2016-2017
+34,34,Edoardo Soleri,€ 250,"€ 13,000","€ 13,210",F,18,Italy,Roma,Serie A,2016-2017
+35,35,Stefano Ciavattini,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Roma,Serie A,2016-2017
+36,36,Stefano Greco,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Roma,Serie A,2016-2017
+37,37,Davide Frattesi,€ 250,"€ 13,000","€ 13,210",M,16,Italy,Roma,Serie A,2016-2017
+38,38,Andrea Romagnoli,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Roma,Serie A,2016-2017
+39,39,Konstantinos Manolas,€ 0,€ 0,€ 0,D,25,Greece,Roma,Serie A,2016-2017
+40,40,Vasilios Torosidis,€ 0,€ 0,€ 0,D,31,Greece,Roma,Serie A,2016-2017
+41,41,Lorenzo Di Livio,€ 0,€ 0,€ 0,M,19,Italy,Roma,Serie A,2016-2017
+42,42,Gerson,€ 0,€ 0,€ 0,M,19,Brazil,Roma,Serie A,2016-2017
+43,43,William Vainqueur,€ 0,€ 0,€ 0,M,27,France,Roma,Serie A,2016-2017
+44,44,Moustapha Seck,€ 0,€ 0,€ 0,D,20,Senegal,Roma,Serie A,2016-2017
+45,45,Abdullahi Nura,€ 0,€ 0,€ 0,D,18,Nigeria,Roma,Serie A,2016-2017
+46,46,Emerson,€ 0,€ 0,€ 0,D,21,Italy,Roma,Serie A,2016-2017
+0,0,Édgar Barreto,"€ 40,904","€ 2,127,000","€ 2,161,363",M,31,Paraguay,Sampdoria,Serie A,2016-2017
+1,1,Fabio Quagliarella,"€ 40,904","€ 2,127,000","€ 2,161,363",F,33,Italy,Sampdoria,Serie A,2016-2017
+2,2,Matías Silvestre,"€ 37,481","€ 1,949,000","€ 1,980,487",D,31,Argentina,Sampdoria,Serie A,2016-2017
+3,3,Dennis Praet,"€ 37,481","€ 1,949,000","€ 1,980,487",M,22,Belgium,Sampdoria,Serie A,2016-2017
+4,4,Emiliano Viviano,"€ 30,673","€ 1,595,000","€ 1,620,768",K,30,Italy,Sampdoria,Serie A,2016-2017
+5,5,Luis Muriel,"€ 30,673","€ 1,595,000","€ 1,620,768",F,25,Colombia,Sampdoria,Serie A,2016-2017
+6,6,Luca Cigarini,"€ 30,673","€ 1,595,000","€ 1,620,768",M,30,Italy,Sampdoria,Serie A,2016-2017
+7,7,Filip Djuricic,"€ 28,962","€ 1,506,000","€ 1,530,330",F,24,Serbia,Sampdoria,Serie A,2016-2017
+8,8,Angelo Palombo,"€ 27,269","€ 1,418,000","€ 1,440,909",M,34,Italy,Sampdoria,Serie A,2016-2017
+9,9,Jacopo Sala,"€ 27,269","€ 1,418,000","€ 1,440,909",D,24,Italy,Sampdoria,Serie A,2016-2017
+10,10,Dodô,"€ 27,269","€ 1,418,000","€ 1,440,909",D,24,Brazil,Sampdoria,Serie A,2016-2017
+11,11,Lorenzo De Silvestri,"€ 23,846","€ 1,240,000","€ 1,260,033",D,28,Italy,Sampdoria,Serie A,2016-2017
+12,12,Bruno Fernandes,"€ 23,846","€ 1,240,000","€ 1,260,033",M,21,Portugal,Sampdoria,Serie A,2016-2017
+13,13,Karol Linetty,"€ 17,038","€ 886,000","€ 900,314",M,21,Poland,Sampdoria,Serie A,2016-2017
+14,14,Ante Budimir,"€ 17,038","€ 886,000","€ 900,314",F,24,Croatia,Sampdoria,Serie A,2016-2017
+15,15,Daniel Pavlovic,"€ 13,635","€ 709,000","€ 720,454",D,28,Bosnia-Herzegovina,Sampdoria,Serie A,2016-2017
+16,16,Patrik Schick,"€ 13,635","€ 709,000","€ 720,454",F,20,Czech Republic,Sampdoria,Serie A,2016-2017
+17,17,Vasco Regini,"€ 11,942","€ 621,000","€ 631,033",D,25,Italy,Sampdoria,Serie A,2016-2017
+18,18,Bartosz Bereszynski,"€ 10,692","€ 556,000","€ 564,983",D,23,Poland,Sampdoria,Serie A,2016-2017
+19,19,Milan Skriniar,"€ 7,500","€ 390,000","€ 396,301",D,21,Slovakia,Sampdoria,Serie A,2016-2017
+20,20,Lucas Torreira,"€ 6,827","€ 355,000","€ 360,735",M,20,Uruguay,Sampdoria,Serie A,2016-2017
+21,21,Christian Puggioni,"€ 6,827","€ 355,000","€ 360,735",K,35,Italy,Sampdoria,Serie A,2016-2017
+22,22,Lorenco Simic,"€ 5,385","€ 280,000","€ 284,524",D,19,Croatia,Sampdoria,Serie A,2016-2017
+23,23,Wladimiro Falcone,"€ 3,231","€ 168,000","€ 170,714",K,21,Italy,Sampdoria,Serie A,2016-2017
+24,24,Djamel Mesbah,"€ 2,750","€ 143,000","€ 145,310",D,31,Algeria,Sampdoria,Serie A,2016-2017
+25,25,Stanley Amuzie,€ 962,"€ 50,000","€ 50,808",D,20,Nigeria,Sampdoria,Serie A,2016-2017
+26,26,Pietro Cavagnaro,€ 250,"€ 13,000","€ 13,210",K,18,Italy,Sampdoria,Serie A,2016-2017
+27,27,Denis Baumgartner,€ 250,"€ 13,000","€ 13,210",M,18,Slovakia,Sampdoria,Serie A,2016-2017
+28,28,Gergely Hutvágner,€ 250,"€ 13,000","€ 13,210",K,16,Hungary,Sampdoria,Serie A,2016-2017
+29,29,Giacomo Vrioni,€ 250,"€ 13,000","€ 13,210",F,17,Albania,Sampdoria,Serie A,2016-2017
+30,30,Ibourahima Baldé,€ 250,"€ 13,000","€ 13,210",F,17,Spain,Sampdoria,Serie A,2016-2017
+31,31,Michal Tomic,€ 250,"€ 13,000","€ 13,210",M,17,Slovakia,Sampdoria,Serie A,2016-2017
+32,32,Andrea Tessiore,€ 250,"€ 13,000","€ 13,210",M,16,Italy,Sampdoria,Serie A,2016-2017
+33,33,Titas Krapikas,€ 250,"€ 13,000","€ 13,210",K,17,Lithuania,Sampdoria,Serie A,2016-2017
+34,34,David Ivan,€ 0,€ 0,€ 0,M,21,Slovakia,Sampdoria,Serie A,2016-2017
+35,35,Pedro Pereira,€ 0,€ 0,€ 0,D,18,Portugal,Sampdoria,Serie A,2016-2017
+36,36,Antonio Cassano,€ 0,€ 0,€ 0,F,33,Italy,Sampdoria,Serie A,2016-2017
+37,37,Ricardo Álvarez,€ 0,€ 0,€ 0,M,28,Argentina,Sampdoria,Serie A,2016-2017
+38,38,Carlos Carbonero,€ 0,€ 0,€ 0,M,25,Colombia,Sampdoria,Serie A,2016-2017
+39,39,Andrea Tozzo,€ 0,€ 0,€ 0,K,23,Italy,Sampdoria,Serie A,2016-2017
+40,40,Luka Krajnc,€ 0,€ 0,€ 0,D,21,Slovenia,Sampdoria,Serie A,2016-2017
+41,41,Mirko Eramo,€ 0,€ 0,€ 0,M,26,Italy,Sampdoria,Serie A,2016-2017
+0,0,Domenico Berardi,"€ 34,096","€ 1,773,000","€ 1,801,644",M,21,Italy,Sassuolo,Serie A,2016-2017
+1,1,Andrea Consigli,"€ 34,096","€ 1,773,000","€ 1,801,644",K,29,Italy,Sassuolo,Serie A,2016-2017
+2,2,Paolo Cannavaro,"€ 34,096","€ 1,773,000","€ 1,801,644",D,35,Italy,Sassuolo,Serie A,2016-2017
+3,3,Alessandro Matri,"€ 34,096","€ 1,773,000","€ 1,801,644",F,31,Italy,Sassuolo,Serie A,2016-2017
+4,4,Federico Peluso,"€ 27,269","€ 1,418,000","€ 1,440,909",D,32,Italy,Sassuolo,Serie A,2016-2017
+5,5,Francesco Acerbi,"€ 23,846","€ 1,240,000","€ 1,260,033",D,28,Italy,Sassuolo,Serie A,2016-2017
+6,6,Grégoire Defrel,"€ 23,846","€ 1,240,000","€ 1,260,033",F,25,Martinique,Sassuolo,Serie A,2016-2017
+7,7,Davide Biondini,"€ 20,442","€ 1,063,000","€ 1,080,173",M,33,Italy,Sassuolo,Serie A,2016-2017
+8,8,Alfred Duncan,"€ 20,442","€ 1,063,000","€ 1,080,173",M,23,Ghana,Sassuolo,Serie A,2016-2017
+9,9,Alberto Aquilani,"€ 20,442","€ 1,063,000","€ 1,080,173",M,31,Italy,Sassuolo,Serie A,2016-2017
+10,10,Francesco Magnanelli,"€ 20,442","€ 1,063,000","€ 1,080,173",M,31,Italy,Sassuolo,Serie A,2016-2017
+11,11,Gianluca Pegolo,"€ 19,385","€ 1,008,000","€ 1,024,285",K,35,Italy,Sassuolo,Serie A,2016-2017
+12,12,Simone Missiroli,"€ 14,538","€ 756,000","€ 768,214",M,30,Italy,Sassuolo,Serie A,2016-2017
+13,13,Timo Letschert,"€ 13,635","€ 709,000","€ 720,454",D,23,Netherlands,Sassuolo,Serie A,2016-2017
+14,14,Luca Antei,"€ 10,231","€ 532,000","€ 540,595",D,24,Italy,Sassuolo,Serie A,2016-2017
+15,15,Marcello Gazzola,"€ 10,231","€ 532,000","€ 540,595",D,31,Italy,Sassuolo,Serie A,2016-2017
+16,16,Antonino Ragusa,"€ 10,231","€ 532,000","€ 540,595",F,26,Italy,Sassuolo,Serie A,2016-2017
+17,17,Alberto Pomini,"€ 10,231","€ 532,000","€ 540,595",K,35,Italy,Sassuolo,Serie A,2016-2017
+18,18,Stefano Sensi,"€ 10,231","€ 532,000","€ 540,595",M,20,Italy,Sassuolo,Serie A,2016-2017
+19,19,Federico Ricci,"€ 10,231","€ 532,000","€ 540,595",M,22,Italy,Sassuolo,Serie A,2016-2017
+20,20,Pietro Iemmello,"€ 10,231","€ 532,000","€ 540,595",F,24,Italy,Sassuolo,Serie A,2016-2017
+21,21,Matteo Politano,"€ 10,231","€ 532,000","€ 540,595",M,22,Italy,Sassuolo,Serie A,2016-2017
+22,22,Luca Mazzitelli,"€ 6,827","€ 355,000","€ 360,735",M,20,Italy,Sassuolo,Serie A,2016-2017
+23,23,Diego Falcinelli,"€ 6,462","€ 336,000","€ 341,428",F,25,Italy,Sassuolo,Serie A,2016-2017
+24,24,Cristian Dell'Orco,"€ 5,115","€ 266,000","€ 270,297",D,22,Italy,Sassuolo,Serie A,2016-2017
+25,25,Pol Lirola,"€ 5,115","€ 266,000","€ 270,297",D,18,Spain,Sassuolo,Serie A,2016-2017
+26,26,Lorenzo Pellegrini,"€ 3,404","€ 177,000","€ 179,860",M,20,Italy,Sassuolo,Serie A,2016-2017
+27,27,Gianluca Scamacca,"€ 2,962","€ 154,000","€ 156,488",F,17,Italy,Sassuolo,Serie A,2016-2017
+28,28,Marcello Trotta,"€ 2,865","€ 149,000","€ 151,407",F,23,Italy,Sassuolo,Serie A,2016-2017
+29,29,Luca Ravanelli,€ 981,"€ 51,000","€ 51,824",D,19,Italy,Sassuolo,Serie A,2016-2017
+30,30,Giacomo Zecca,€ 250,"€ 13,000","€ 13,210",F,18,Italy,Sassuolo,Serie A,2016-2017
+31,31,Claud Adjapong,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Sassuolo,Serie A,2016-2017
+32,32,Francesco Scavo,€ 250,"€ 13,000","€ 13,210",K,18,Italy,Sassuolo,Serie A,2016-2017
+33,33,Leonardo Vitali,€ 250,"€ 13,000","€ 13,210",K,17,Italy,Sassuolo,Serie A,2016-2017
+34,34,Manuel Ferrini,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Sassuolo,Serie A,2016-2017
+35,35,Marius Marin,€ 250,"€ 13,000","€ 13,210",M,17,Romania,Sassuolo,Serie A,2016-2017
+36,36,Martin Erlic,€ 250,"€ 13,000","€ 13,210",D,18,Croatia,Sassuolo,Serie A,2016-2017
+37,37,Nicholas Pierini,€ 250,"€ 13,000","€ 13,210",F,17,Italy,Sassuolo,Serie A,2016-2017
+38,38,Simone Caputo,€ 250,"€ 13,000","€ 13,210",M,17,Italy,Sassuolo,Serie A,2016-2017
+39,39,Simone Franchini,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Sassuolo,Serie A,2016-2017
+40,40,Bryan Costa,€ 212,"€ 11,000","€ 11,178",K,17,Italy,Sassuolo,Serie A,2016-2017
+41,41,Leonardo Fontanesi,€ 0,€ 0,€ 0,D,20,Italy,Sassuolo,Serie A,2016-2017
+42,42,Karim Laribi,€ 0,€ 0,€ 0,F,25,Tunisia,Sassuolo,Serie A,2016-2017
+43,43,Emanuele Terranova,€ 0,€ 0,€ 0,D,29,Italy,Sassuolo,Serie A,2016-2017
+44,44,Lorenzo Ariaudo,€ 0,€ 0,€ 0,D,27,Italy,Sassuolo,Serie A,2016-2017
+45,45,Giovanni Sbrissa,€ 0,€ 0,€ 0,M,19,Italy,Sassuolo,Serie A,2016-2017
+46,46,Leonardo Sarzi Maddidini,€ 0,€ 0,€ 0,M,17,Italy,Sassuolo,Serie A,2016-2017
+47,47,Nicola Sansone,€ 0,€ 0,€ 0,F,24,Italy,Sassuolo,Serie A,2016-2017
+0,0,Joe Hart,"€ 124,423","€ 6,470,000","€ 6,574,527",K,29,England,Torino,Serie A,2016-2017
+1,1,Juan Iturbe,"€ 78,385","€ 4,076,000","€ 4,141,850",M,23,Paraguay,Torino,Serie A,2016-2017
+2,2,Andrea Belotti,"€ 51,192","€ 2,662,000","€ 2,705,006",F,22,Italy,Torino,Serie A,2016-2017
+3,3,Adem Ljajic,"€ 47,731","€ 2,482,000","€ 2,522,098",M,24,Serbia,Torino,Serie A,2016-2017
+4,4,Nikola Maksimovic,"€ 40,904","€ 2,127,000","€ 2,161,363",D,24,Serbia,Torino,Serie A,2016-2017
+5,5,Mirko Valdifiori,"€ 27,269","€ 1,418,000","€ 1,440,909",M,30,Italy,Torino,Serie A,2016-2017
+6,6,Marco Benassi,"€ 23,846","€ 1,240,000","€ 1,260,033",M,21,Italy,Torino,Serie A,2016-2017
+7,7,Lorenzo De Silvestri,"€ 23,846","€ 1,240,000","€ 1,260,033",D,28,Italy,Torino,Serie A,2016-2017
+8,8,Leandro Castán,"€ 23,846","€ 1,240,000","€ 1,260,033",D,29,Brazil,Torino,Serie A,2016-2017
+9,9,Maxi López,"€ 20,442","€ 1,063,000","€ 1,080,173",F,32,Argentina,Torino,Serie A,2016-2017
+10,10,Luca Rossettini,"€ 20,442","€ 1,063,000","€ 1,080,173",D,31,Italy,Torino,Serie A,2016-2017
+11,11,Davide Zappacosta,"€ 20,442","€ 1,063,000","€ 1,080,173",D,24,Italy,Torino,Serie A,2016-2017
+12,12,Emiliano Moretti,"€ 20,442","€ 1,063,000","€ 1,080,173",D,35,Italy,Torino,Serie A,2016-2017
+13,13,Cristian Molinaro,"€ 17,038","€ 886,000","€ 900,314",D,32,Italy,Torino,Serie A,2016-2017
+14,14,Afriyie Acquah,"€ 17,038","€ 886,000","€ 900,314",M,24,Ghana,Torino,Serie A,2016-2017
+15,15,Daniele Baselli,"€ 17,038","€ 886,000","€ 900,314",M,24,Italy,Torino,Serie A,2016-2017
+16,16,Joel Obi,"€ 16,154","€ 840,000","€ 853,571",M,25,Nigeria,Torino,Serie A,2016-2017
+17,17,Cesare Bovo,"€ 14,308","€ 744,000","€ 756,020",D,33,Italy,Torino,Serie A,2016-2017
+18,18,Danilo Avelar,"€ 13,635","€ 709,000","€ 720,454",D,27,Brazil,Torino,Serie A,2016-2017
+19,19,Panagiotis Tachtsidis,"€ 13,635","€ 709,000","€ 720,454",M,25,Greece,Torino,Serie A,2016-2017
+20,20,Bruno Peres,"€ 12,846","€ 668,000","€ 678,792",D,26,Brazil,Torino,Serie A,2016-2017
+21,21,Daniele Padelli,"€ 11,308","€ 588,000","€ 597,500",K,30,Italy,Torino,Serie A,2016-2017
+22,22,Antonio Barreca,"€ 11,000","€ 572,000","€ 581,241",D,21,Italy,Torino,Serie A,2016-2017
+23,23,Arlind Ajeti,"€ 10,231","€ 532,000","€ 540,595",D,22,Albania,Torino,Serie A,2016-2017
+24,24,Samuel Gustafson,"€ 9,462","€ 492,000","€ 499,949",M,21,Sweden,Torino,Serie A,2016-2017
+25,25,Carlão,"€ 8,923","€ 464,000","€ 471,496",D,30,Brazil,Torino,Serie A,2016-2017
+26,26,Sasa Lukic,"€ 8,519","€ 443,000","€ 450,157",M,19,Serbia,Torino,Serie A,2016-2017
+27,27,Lucas Boyé,"€ 8,519","€ 443,000","€ 450,157",F,20,Argentina,Torino,Serie A,2016-2017
+28,28,Martin Remacle,"€ 4,788","€ 249,000","€ 253,023",M,19,Belgium,Torino,Serie A,2016-2017
+29,29,Filippo Berardi,"€ 1,654","€ 86,000","€ 87,389",M,19,San Marino,Torino,Serie A,2016-2017
+30,30,Domenico Coppola,€ 538,"€ 28,000","€ 28,452",K,17,Italy,Torino,Serie A,2016-2017
+31,31,Tommaso Cucchietti,€ 250,"€ 13,000","€ 13,210",K,18,Italy,Torino,Serie A,2016-2017
+32,32,Federico Giraudo,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Torino,Serie A,2016-2017
+33,33,Manuel De Luca,€ 250,"€ 13,000","€ 13,210",F,17,Italy,Torino,Serie A,2016-2017
+34,34,Matteo Rossetti,€ 250,"€ 13,000","€ 13,210",M,17,Italy,Torino,Serie A,2016-2017
+35,35,Matteo Tobaldo,€ 250,"€ 13,000","€ 13,210",F,18,Italy,Torino,Serie A,2016-2017
+36,36,Antonio D'Alena,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Torino,Serie A,2016-2017
+37,37,Andrea Sana,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Torino,Serie A,2016-2017
+38,38,Alessandro Buongiorno,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Torino,Serie A,2016-2017
+39,39,Alberto Reinaudo,€ 250,"€ 13,000","€ 13,210",K,18,Italy,Torino,Serie A,2016-2017
+40,40,Simone Auriletto,€ 250,"€ 13,000","€ 13,210",D,17,Italy,Torino,Serie A,2016-2017
+41,41,Mattia Aramu,€ 0,€ 0,€ 0,M,21,Italy,Torino,Serie A,2016-2017
+42,42,Giuseppe Vives,€ 0,€ 0,€ 0,M,35,Italy,Torino,Serie A,2016-2017
+43,43,Gastón Silva,€ 0,€ 0,€ 0,D,22,Uruguay,Torino,Serie A,2016-2017
+44,44,Kader Kouakou,€ 0,€ 0,€ 0,M,17,Cote d'Ivoire,Torino,Serie A,2016-2017
+45,45,Salvador Ichazo,€ 0,€ 0,€ 0,K,24,Uruguay,Torino,Serie A,2016-2017
+46,46,Josef Martínez,€ 0,€ 0,€ 0,F,23,Venezuela,Torino,Serie A,2016-2017
+47,47,Edoardo Stanghellini,€ 0,€ 0,€ 0,D,18,Italy,Torino,Serie A,2016-2017
+48,48,Iago Falque,€ 0,€ 0,€ 0,M,26,Spain,Torino,Serie A,2016-2017
+49,49,Alfred Gomis,€ 0,€ 0,€ 0,K,22,Senegal,Torino,Serie A,2016-2017
+50,50,Alessio Benedetti,€ 0,€ 0,€ 0,D,19,Italy,Torino,Serie A,2016-2017
+0,0,Duván Zapata,"€ 34,096","€ 1,773,000","€ 1,801,644",F,25,Colombia,Udinese,Serie A,2016-2017
+1,1,Sven Kums,"€ 30,673","€ 1,595,000","€ 1,620,768",M,28,Belgium,Udinese,Serie A,2016-2017
+2,2,Danilo,"€ 24,231","€ 1,260,000","€ 1,280,356",D,32,Brazil,Udinese,Serie A,2016-2017
+3,3,Cyril Théréau,"€ 23,846","€ 1,240,000","€ 1,260,033",F,33,France,Udinese,Serie A,2016-2017
+4,4,Thomas Heurtaux,"€ 22,154","€ 1,152,000","€ 1,170,611",D,27,France,Udinese,Serie A,2016-2017
+5,5,Orestis Karnezis,"€ 20,442","€ 1,063,000","€ 1,080,173",K,30,Greece,Udinese,Serie A,2016-2017
+6,6,Emmanuel Badu,"€ 18,750","€ 975,000","€ 990,752",M,25,Ghana,Udinese,Serie A,2016-2017
+7,7,Silvan Widmer,"€ 17,038","€ 886,000","€ 900,314",D,23,Switzerland,Udinese,Serie A,2016-2017
+8,8,Rodrigo de Paul,"€ 14,673","€ 763,000","€ 775,327",F,22,Argentina,Udinese,Serie A,2016-2017
+9,9,Felipe,"€ 13,635","€ 709,000","€ 720,454",D,31,Brazil,Udinese,Serie A,2016-2017
+10,10,Ryder Matos,"€ 13,635","€ 709,000","€ 720,454",F,23,Brazil,Udinese,Serie A,2016-2017
+11,11,Simone Scuffet,"€ 13,635","€ 709,000","€ 720,454",K,20,Italy,Udinese,Serie A,2016-2017
+12,12,Gabriel Silva,"€ 12,904","€ 671,000","€ 681,840",D,25,Brazil,Udinese,Serie A,2016-2017
+13,13,Samir,"€ 11,942","€ 621,000","€ 631,033",D,21,Brazil,Udinese,Serie A,2016-2017
+14,14,Ali Adnan,"€ 11,942","€ 621,000","€ 631,033",D,22,Iraq,Udinese,Serie A,2016-2017
+15,15,Gabriele Angella,"€ 10,231","€ 532,000","€ 540,595",D,27,Italy,Udinese,Serie A,2016-2017
+16,16,Stipe Perica,"€ 8,519","€ 443,000","€ 450,157",F,20,Croatia,Udinese,Serie A,2016-2017
+17,17,Davide Faraoni,"€ 8,519","€ 443,000","€ 450,157",D,24,Italy,Udinese,Serie A,2016-2017
+18,18,Lucas Evangelista,"€ 8,519","€ 443,000","€ 450,157",M,21,Brazil,Udinese,Serie A,2016-2017
+19,19,Mathias Ranégie,"€ 6,942","€ 361,000","€ 366,832",F,32,Sweden,Udinese,Serie A,2016-2017
+20,20,Andrija Balic,"€ 4,596","€ 239,000","€ 242,861",M,18,Croatia,Udinese,Serie A,2016-2017
+21,21,Assane Gnoukouri,"€ 3,404","€ 177,000","€ 179,860",M,19,Cote d'Ivoire,Udinese,Serie A,2016-2017
+22,22,Samuele Perisan,"€ 1,365","€ 71,000","€ 72,147",K,18,Italy,Udinese,Serie A,2016-2017
+23,23,Jakub Jankto,"€ 1,365","€ 71,000","€ 72,147",M,20,Czech Republic,Udinese,Serie A,2016-2017
+24,24,Davide Borsellini,€ 269,"€ 14,000","€ 14,226",K,17,Italy,Udinese,Serie A,2016-2017
+25,25,Luca Scordino,€ 250,"€ 13,000","€ 13,210",K,16,Italy,Udinese,Serie A,2016-2017
+26,26,Edoardo Bovolon,€ 250,"€ 13,000","€ 13,210",M,18,Italy,Udinese,Serie A,2016-2017
+27,27,Alberto Parpinel,€ 250,"€ 13,000","€ 13,210",D,18,Italy,Udinese,Serie A,2016-2017
+28,28,Igor Bubnjic,€ 0,€ 0,€ 0,D,23,Croatia,Udinese,Serie A,2016-2017
+29,29,Edenilson,€ 0,€ 0,€ 0,M,26,Brazil,Udinese,Serie A,2016-2017
+30,30,Emil Hallfredsson,€ 0,€ 0,€ 0,M,32,Iceland,Udinese,Serie A,2016-2017
+31,31,Ewandro Costa,€ 0,€ 0,€ 0,M,20,Brazil,Udinese,Serie A,2016-2017
+32,32,Filip Vaško,€ 0,€ 0,€ 0,D,16,Slovakia,Udinese,Serie A,2016-2017
+33,33,Francesco Lodi,€ 0,€ 0,€ 0,M,32,Italy,Udinese,Serie A,2016-2017
+34,34,Franck Djoulou,€ 0,€ 0,€ 0,F,17,Cote d'Ivoire,Udinese,Serie A,2016-2017
+35,35,Hamdi Harbaoui,€ 0,€ 0,€ 0,F,31,Tunisia,Udinese,Serie A,2016-2017
+36,36,Adalberto Peñaranda,€ 0,€ 0,€ 0,F,19,Venezuela,Udinese,Serie A,2016-2017
+37,37,Luca Magnino,€ 0,€ 0,€ 0,M,18,Italy,Udinese,Serie A,2016-2017
+38,38,Molla Wagué,€ 0,€ 0,€ 0,D,25,Mali,Udinese,Serie A,2016-2017
+39,39,Pablo Armero,€ 0,€ 0,€ 0,D,29,Colombia,Udinese,Serie A,2016-2017
+40,40,Panagiotis Armenakas,€ 0,€ 0,€ 0,M,17,Australia,Udinese,Serie A,2016-2017
+41,41,Panagiotis Kone,€ 0,€ 0,€ 0,M,28,Greece,Udinese,Serie A,2016-2017
+42,42,Seko Fofana,€ 0,€ 0,€ 0,M,21,Cote d'Ivoire,Udinese,Serie A,2016-2017
+43,43,Yrondu Musavu-King,€ 0,€ 0,€ 0,D,24,Gabon,Udinese,Serie A,2016-2017
