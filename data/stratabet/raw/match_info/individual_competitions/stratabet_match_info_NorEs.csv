@@ -1,0 +1,325 @@
+True,index,competition,gsm_id,awayteam_team2,hometeam_team1,kickoffDate,kickoffTime,pitchType,weatherType,tempCelcius,tempType,formation_team1,formation_team2,formation_time
+4957,0,NorEs,2383845,Molde,Kristiansund,2017-04-01,16:00:00,"Artificial, Excellent, Wet",,8,Cold,4_4_2,4_4_2,00:00
+4958,1,NorEs,2383845,Molde,Kristiansund,2017-04-01,16:00:00,"Artificial, Excellent, Wet",Rain,8,Cold,4_4_2,4_4_2,00:00
+4959,2,NorEs,2383846,Sandefjord,Lillestrom,2017-04-02,13:30:00,Average,Sun,7,-,4_4_2,5_3_2,00:00
+4960,3,NorEs,2383850,Brann,Tromso,2017-04-02,16:00:00,"Artificial, Dry, Excellent",Clear,0,Freezing,4_4_2,4_3_3,00:00
+4961,4,NorEs,2383849,Aalesund,Stabaek,2017-04-02,16:00:00,"Patchy, Poor, Uneven",Cloud,6,Cold,4_2_3_1,4_2_3_1,00:00
+4962,5,NorEs,2383847,Haugesund,Stromsgodset,2017-04-02,16:00:00,"Artificial, Dry, Excellent","Sun, Wind",13,Warm,4_2_2_2,4_2_2_2,00:00
+4963,6,NorEs,2383848,Sogndal,Sarpsborg 08,2017-04-02,16:00:00,Good,"Cloud, Wind",8,-,4_5_1,4_1_4_1,00:00
+4964,7,NorEs,2383851,Odd,Rosenborg,2017-04-02,18:00:00,Average,"Cloud, Light Rain",7,Cold,4_3_3,4_3_3,00:00
+4965,8,NorEs,2383852,Viking,Valerenga,2017-04-03,17:00:00,"Good, Wet",Cloud,-1,Freezing,4_2_3_1,4_4_1_1,00:00
+4966,9,NorEs,2383855,Stabaek,Sogndal,2017-04-05,17:00:00,"Artificial, Good",Cloud,10,Cold,4_4_2,4_2_3_1,00:00
+4967,10,NorEs,2383856,Kristiansund,Odd,2017-04-05,17:00:00,Artificial,"Clear, Sun",8,-,4_3_3,4_5_1,00:00
+4968,11,NorEs,2383858,Rosenborg,Sandefjord,2017-04-05,17:00:00,Good,"Clear, Sun, Wind",10,Warm,5_4_1,4_3_3,00:00
+4969,12,NorEs,2383858,Rosenborg,Sandefjord,2017-04-05,17:00:00,Good,"Clear, Sun, Wind",10,Warm,5_4_1,4_2_2_2,45:00
+4970,13,NorEs,2383858,Rosenborg,Sandefjord,2017-04-05,17:00:00,Good,"Clear, Sun, Wind",10,Warm,3_5_2,4_2_2_2,72:40
+4971,14,NorEs,2383857,Lillestrom,Molde,2017-04-05,17:00:00,"Dry, Excellent, Soft","Clear, Cloud",7,Cold,4_4_2,4_4_2,00:00
+4972,15,NorEs,2383853,Sarpsborg 08,Aalesund,2017-04-05,17:00:00,Good,"Clear, Light Wind",6,Cold,4_2_3_1,4_4_2,00:00
+4973,16,NorEs,2383853,Sarpsborg 08,Aalesund,2017-04-05,17:00:00,Good,"Clear, Light Wind",6,Cold,3_4_2_1,4_4_2,58:22
+4974,17,NorEs,2383860,Stromsgodset,Brann,2017-04-06,17:00:00,"Good, Wet","Cloud, Rain",8,Cold,4_3_3,4_4_2,00:00
+4975,18,NorEs,2383859,Valerenga,Haugesund,2017-04-06,17:00:00,Excellent,,4,Cold,4_4_2,4_2_3_1,00:00
+4976,19,NorEs,2383854,Tromso,Viking,2017-04-06,17:00:00,Good,"Cloud, Light Rain, Wind",7,Cold,4_2_3_1,4_4_2,00:00
+4977,20,NorEs,2383861,Molde,Rosenborg,2017-04-08,16:00:00,Average,"Cloud, Light Rain",7,Cold,4_3_3,4_1_4_1,00:00
+4978,21,NorEs,2383861,Molde,Rosenborg,2017-04-08,16:00:00,Average,"Cloud, Light Rain",7,Cold,4_3_3,4_4_2,45:00
+4979,22,NorEs,2383865,Odd,Stabaek,2017-04-09,16:00:00,"Patchy, Poor",Clear,9,Cold,4_2_3_1,4_3_3,00:00
+4980,23,NorEs,2383862,Haugesund,Lillestrom,2017-04-09,16:00:00,Average,"Clear, Sun",8,-,4_4_2,4_4_2,00:00
+4981,24,NorEs,2383866,Sandefjord,Valerenga,2017-04-09,16:00:00,Good,Clear,10,-,4_2_3_1,5_4_1,00:00
+4982,25,NorEs,2383864,Viking,Sarpsborg 08,2017-04-09,16:00:00,"Artificial, Good","Cloud, Light Rain",6,Cold,4_2_2_2,4_2_3_1,00:00
+4983,26,NorEs,2383863,Sogndal,Tromso,2017-04-09,16:00:00,"Artificial, Good","Cloud, Light Snow",-1,Freezing,4_4_2,4_4_2,00:00
+4984,27,NorEs,2383863,Sogndal,Tromso,2017-04-09,16:00:00,"Artificial, Good","Cloud, Light Snow",-1,Freezing,4_1_4_1,4_4_2,73:46
+4985,28,NorEs,2383863,Sogndal,Tromso,2017-04-09,16:00:00,"Artificial, Good",Cloud,-1,Freezing,4_4_2,4_4_2,00:00
+4986,29,NorEs,2383863,Sogndal,Tromso,2017-04-09,16:00:00,"Artificial, Good",Cloud,-1,Freezing,4_1_4_1,4_4_2,73:46
+4987,30,NorEs,2383867,Aalesund,Stromsgodset,2017-04-09,18:00:00,"Artificial, Excellent",Clear,9,Cold,4_4_2,4_4_2,00:00
+4988,31,NorEs,2383868,Brann,Kristiansund,2017-04-10,17:00:00,"Artificial, Good","Cloud, Rain",3,-,4_4_2,4_3_3,00:00
+4989,32,NorEs,2383868,Brann,Kristiansund,2017-04-10,17:00:00,"Artificial, Good","Cloud, Rain",3,-,4_5_1,4_3_3,79:35
+4990,33,NorEs,2383871,Kristiansund,Sandefjord,2017-04-17,16:00:00,Good,"Cloud, Wind",4,Cold,5_4_1,4_4_2,00:00
+4991,34,NorEs,2383871,Kristiansund,Sandefjord,2017-04-17,16:00:00,Good,"Cloud, Wind",4,Cold,4_4_2,4_4_2,56:32
+4992,35,NorEs,2383874,Haugesund,Brann,2017-04-17,16:00:00,Good,"Cloud, Sun",-1,Freezing,4_3_3,4_4_2,00:00
+4993,36,NorEs,2383873,Valerenga,Molde,2017-04-17,16:00:00,"Artificial, Dry",Clear,7,Cold,4_4_2,4_2_3_1,00:00
+4994,37,NorEs,2383870,Sarpsborg 08,Stabaek,2017-04-17,16:00:00,"Patchy, Poor",Clear,4,Cold,4_1_4_1,4_4_2,00:00
+4995,38,NorEs,2383872,Stromsgodset,Sogndal,2017-04-17,16:00:00,Artificial,Clear,3,Cold,4_1_4_1,4_4_2,00:00
+4996,39,NorEs,2383872,Stromsgodset,Sogndal,2017-04-17,16:00:00,Artificial,Clear,3,Cold,4_4_2,4_4_2,84:50
+4997,40,NorEs,2383869,Lillestrom,Aalesund,2017-04-17,16:00:00,"Artificial, Good","Clear, Sun",5,Cold,4_4_2,4_4_2,00:00
+4998,41,NorEs,2383869,Lillestrom,Aalesund,2017-04-17,16:00:00,"Artificial, Good","Clear, Sun",5,Cold,4_4_2,4_3_3,66:09
+4999,42,NorEs,2383875,Tromso,Odd,2017-04-17,18:00:00,Artificial,Clear,5,Cold,4_3_3,4_4_2,00:00
+5000,43,NorEs,2383876,Rosenborg,Viking,2017-04-17,18:00:00,Artificial,"Cloud, Light Rain",3,Cold,4_2_3_1,4_3_3,00:00
+5001,44,NorEs,2383877,Sandefjord,Stromsgodset,2017-04-22,16:00:00,"Artificial, Dry, Excellent",Cloud,8,Cold,4_4_2,3_5_2,00:00
+5002,45,NorEs,2383877,Sandefjord,Stromsgodset,2017-04-22,16:00:00,"Artificial, Dry, Excellent","Cloud, Sun",8,Cold,4_4_2,3_5_2,00:00
+5003,46,NorEs,2383877,Sandefjord,Stromsgodset,2017-04-22,16:00:00,"Artificial, Dry, Excellent",Sun,8,Cold,4_4_2,3_5_2,00:00
+5004,47,NorEs,2383878,Aalesund,Rosenborg,2017-04-23,16:00:00,Average,Cloud,2,Freezing,4_3_3,4_4_2,00:00
+5005,48,NorEs,2383882,Stabaek,Tromso,2017-04-23,16:00:00,Artificial,Sun,2,-,4_4_2,4_2_3_1,00:00
+5006,49,NorEs,2383880,Odd,Viking,2017-04-23,16:00:00,Good,Cloud,6,Cold,4_2_3_1,4_3_3,00:00
+5007,50,NorEs,2383881,Kristiansund,Sarpsborg 08,2017-04-23,16:00:00,Excellent,"Clear, Light Wind",8,Cold,4_2_2_2,3_5_2,00:00
+5008,51,NorEs,2383879,Sogndal,Valerenga,2017-04-23,16:00:00,Average,"Cloud, Sun",8,Cold,4_3_3,4_5_1,00:00
+5009,52,NorEs,2383883,Brann,Lillestrom,2017-04-23,18:00:00,"Average, Patchy",Clear,8,Cold,4_4_2,4_3_3,00:00
+5010,53,NorEs,2383884,Molde,Haugesund,2017-04-24,17:00:00,Good,"Cloud, Rain, Wind",2,-,4_4_2,4_4_2,00:00
+5011,54,NorEs,2383885,Viking,Brann,2017-04-29,16:00:00,Good,"Cloud, Sun",10,-,4_3_3,4_3_3,00:00
+5012,55,NorEs,2383888,Haugesund,Stabaek,2017-04-30,16:00:00,Poor,"Clear, Sun",10,-,4_1_4_1,4_2_3_1,00:00
+5013,56,NorEs,2383888,Haugesund,Stabaek,2017-04-30,16:00:00,Poor,"Clear, Sun",10,-,4_4_2,4_2_3_1,54:50
+5014,57,NorEs,2383886,Stromsgodset,Kristiansund,2017-04-30,16:00:00,"Artificial, Good",Cloud,10,-,4_4_2,4_4_2,00:00
+5015,58,NorEs,2383890,Tromso,Aalesund,2017-04-30,16:00:00,"Artificial, Excellent","Clear, Sun",9,Cold,4_4_2,4_4_2,00:00
+5016,59,NorEs,2383889,Molde,Sandefjord,2017-04-30,16:00:00,Good,"Clear, Light Wind, Sun",9,Cold,5_4_1,4_4_2,00:00
+5017,60,NorEs,2383889,Molde,Sandefjord,2017-04-30,16:00:00,Good,"Clear, Light Wind, Sun",9,Cold,4_4_2,4_4_2,76:50
+5018,61,NorEs,2383887,Lillestrom,Sogndal,2017-04-30,16:00:00,Good,"Clear, Light Wind, Sun",7,Cold,4_2_3_1,4_4_2,00:00
+5019,62,NorEs,2383887,Lillestrom,Sogndal,2017-04-30,16:00:00,Good,"Clear, Light Wind, Sun",7,Cold,4_2_2_2,4_4_2,82:50
+5020,63,NorEs,2383887,Lillestrom,Sogndal,2017-04-30,16:00:00,Good,"Clear, Light Wind, Sun",7,Cold,4_2_2_2,5_4_1,89:06
+5021,64,NorEs,2383891,Valerenga,Odd,2017-04-30,18:00:00,Artificial,Clear,10,Cold,4_3_3,4_2_3_1,00:00
+5022,65,NorEs,2383892,Rosenborg,Sarpsborg 08,2017-05-01,17:00:00,"Artificial, Good",Sun,14,-,4_4_2,4_3_3,00:00
+5023,66,NorEs,2383893,Aalesund,Molde,2017-05-06,16:00:00,"Artificial, Good","Clear, Sun",13,-,4_4_2,4_4_2,00:00
+5024,67,NorEs,2383896,Sogndal,Haugesund,2017-05-07,16:00:00,Excellent,"Clear, Sun",12,-,4_4_2,4_2_3_1,00:00
+5025,68,NorEs,2383894,Stabaek,Valerenga,2017-05-07,16:00:00,Good,"Clear, Sun",9,-,4_2_3_1,4_2_3_1,00:00
+5026,69,NorEs,2383894,Stabaek,Valerenga,2017-05-07,16:00:00,Good,"Clear, Sun",9,-,4_2_3_1,4_4_2,79:47
+5027,70,NorEs,2383895,Sandefjord,Viking,2017-05-07,16:00:00,Good,"Clear, Sun",10,-,4_2_3_1,5_4_1,00:00
+5028,71,NorEs,2383895,Sandefjord,Viking,2017-05-07,16:00:00,Good,"Clear, Sun",10,-,4_3_1_2,5_4_1,70:09
+5029,72,NorEs,2383897,Sarpsborg 08,Stromsgodset,2017-05-07,16:00:00,Artificial,"Cloud, Light Wind, Sun",6,Cold,4_4_2,4_4_2,00:00
+5030,73,NorEs,2383898,Kristiansund,Tromso,2017-05-07,16:00:00,"Artificial, Good",Cloud,1,Freezing,4_3_3,4_4_2,00:00
+5031,74,NorEs,2383899,Brann,Rosenborg,2017-05-07,18:00:00,Good,"Clear, Sun",7,Cold,4_3_3,4_3_3,00:00
+5032,75,NorEs,2383900,Odd,Lillestrom,2017-05-08,17:00:00,"Dry, Good","Cloud, Sun",4,Cold,4_4_2,4_3_3,00:00
+5033,76,NorEs,2383901,Valerenga,Aalesund,2017-05-12,17:00:00,"Artificial, Good",Sun,9,-,4_4_2,4_2_3_1,00:00
+5034,77,NorEs,2383902,Rosenborg,Stabaek,2017-05-13,14:00:00,Average,Light Rain,16,-,4_2_3_1,4_3_3,00:00
+5035,78,NorEs,2383902,Rosenborg,Stabaek,2017-05-13,14:00:00,Average,Cloud,16,-,4_2_3_1,4_3_3,00:00
+5036,79,NorEs,2383906,Tromso,Sarpsborg 08,2017-05-13,16:00:00,Artificial,Clear,9,-,4_4_2,4_4_1_1,00:00
+5037,80,NorEs,2383907,Viking,Sogndal,2017-05-13,16:00:00,"Artificial, Good",Cloud,15,-,4_2_3_1,4_3_2_1,00:00
+5038,81,NorEs,2383905,Haugesund,Sandefjord,2017-05-13,16:00:00,Average,Cloud,8,Cold,3_5_2,4_4_2,00:00
+5039,82,NorEs,2383905,Haugesund,Sandefjord,2017-05-13,16:00:00,Average,Cloud,8,Cold,5_4_1,4_4_2,71:04
+5040,83,NorEs,2383904,Lillestrom,Kristiansund,2017-05-13,16:00:00,"Artificial, Good",Sun,12,-,4_4_2,4_4_2,00:00
+5041,84,NorEs,2383903,Stromsgodset,Odd,2017-05-13,16:00:00,"Artificial, Good",Cloud,9,-,4_3_3,4_4_1_1,00:00
+5042,85,NorEs,2383908,Molde,Brann,2017-05-13,18:00:00,Good,Cloud,13,-,4_3_3,4_4_2,00:00
+5043,86,NorEs,2383910,Odd,Haugesund,2017-05-16,16:00:00,Average,"Light Wind, Rain",12,-,4_5_1,4_3_3,00:00
+5044,87,NorEs,2383909,Aalesund,Viking,2017-05-16,16:00:00,Good,"Cloud, Sun, Wind",14,Warm,4_2_3_1,4_4_2,00:00
+5045,88,NorEs,2383911,Sarpsborg 08,Lillestrom,2017-05-16,16:00:00,Average,Cloud,9,Cold,4_4_2,4_4_2,00:00
+5046,89,NorEs,2383914,Sandefjord,Brann,2017-05-16,16:00:00,"Average, Soft, Wet","Cloud, Light Rain, Light Wind",13,Cold,4_3_3,3_4_2_1,00:00
+5047,90,NorEs,2383914,Sandefjord,Brann,2017-05-16,16:00:00,"Average, Soft, Wet","Cloud, Light Rain, Light Wind",13,Cold,4_1_4_1,3_4_2_1,56:59
+5048,91,NorEs,2383912,Sogndal,Molde,2017-05-16,16:00:00,Artificial,Clear,14,Cold,4_4_2,4_4_2,00:00
+5049,92,NorEs,2383913,Kristiansund,Valerenga,2017-05-16,16:00:00,"Excellent, Wet","Cloud, Light Rain",8,Cold,4_3_3,4_3_3,00:00
+5050,93,NorEs,2383913,Kristiansund,Valerenga,2017-05-16,16:00:00,"Excellent, Wet","Cloud, Light Rain",8,Cold,4_3_3,4_4_2,83:14
+5051,94,NorEs,2383916,Stabaek,Stromsgodset,2017-05-16,18:00:00,"Artificial, Excellent",Rain,8,-,4_4_1_1,4_2_3_1,00:00
+5052,95,NorEs,2383915,Tromso,Rosenborg,2017-05-16,18:00:00,Good,Cloud,13,Warm,4_3_3,4_2_3_1,00:00
+5053,96,NorEs,2383917,Lillestrom,Rosenborg,2017-05-20,13:30:00,Good,"Cloud, Sun",20,Warm,4_3_3,4_4_2,00:00
+5054,97,NorEs,2383918,Brann,Sogndal,2017-05-20,16:00:00,"Artificial, Good",Clear,14,-,3_4_3,4_3_3,00:00
+5055,98,NorEs,2383919,Stromsgodset,Tromso,2017-05-21,16:00:00,Artificial,Clear,12,-,4_2_3_1,4_2_3_1,00:00
+5056,99,NorEs,2383923,Valerenga,Sarpsborg 08,2017-05-21,16:00:00,"Artificial, Excellent","Cloud, Sun",14,-,4_4_2,4_2_3_1,00:00
+5057,100,NorEs,2383920,Haugesund,Kristiansund,2017-05-21,16:00:00,"Artificial, Good",Cloud,10,-,4_4_2,4_4_2,00:00
+5058,101,NorEs,2383921,Sandefjord,Aalesund,2017-05-21,16:00:00,"Artificial, Good",Cloud,10,Cold,4_4_2,5_4_1,00:00
+5059,102,NorEs,2383924,Molde,Odd,2017-05-21,18:00:00,"Artificial, Excellent",Sun,16,-,4_3_3,4_4_2,00:00
+5060,103,NorEs,2383922,Viking,Stabaek,2017-05-22,17:00:00,Good,Cloud,11,Warm,4_2_3_1,4_2_3_1,00:00
+5061,104,NorEs,2383922,Viking,Stabaek,2017-05-22,17:00:00,Good,Cloud,11,Warm,4_2_3_1,4_1_4_1,85:39
+5062,105,NorEs,2383922,Viking,Stabaek,2017-05-22,17:00:00,Good,Cloud,11,Warm,4_2_3_1,4_4_2,90:30
+5063,106,NorEs,2383925,Odd,Sandefjord,2017-05-27,16:00:00,Good,"Sun, Wind",18,-,5_4_1,4_3_3,00:00
+5064,107,NorEs,2383929,Stabaek,Molde,2017-05-28,16:00:00,"Artificial, Excellent",Cloud,15,Warm,4_4_2,4_2_3_1,00:00
+5065,108,NorEs,2383930,Aalesund,Brann,2017-05-28,16:00:00,Good,"Cloud, Sun",17,-,4_3_3,4_4_2,00:00
+5066,109,NorEs,2383930,Aalesund,Brann,2017-05-28,16:00:00,Good,"Cloud, Sun",17,-,4_4_1_1,4_4_2,83:08
+5067,110,NorEs,2383926,Sarpsborg 08,Haugesund,2017-05-28,16:00:00,Good,Sun,15,-,4_4_2,4_4_2,00:00
+5068,111,NorEs,2383928,Tromso,Lillestrom,2017-05-28,16:00:00,Good,Cloud,18,-,4_4_2,4_3_3,00:00
+5069,112,NorEs,2383927,Sogndal,Kristiansund,2017-05-28,16:00:00,"Artificial, Good",Cloud,17,-,4_4_2,3_4_3,00:00
+5070,113,NorEs,2383931,Rosenborg,Valerenga,2017-05-28,18:00:00,Good,Cloud,12,-,4_2_3_1,4_3_3,00:00
+5071,114,NorEs,2383932,Viking,Stromsgodset,2017-05-29,17:00:00,"Artificial, Good",Cloud,19,-,4_4_1_1,4_4_2,00:00
+5072,115,NorEs,2383933,Valerenga,Tromso,2017-06-03,13:30:00,Artificial,"Clear, Sun",15,-,4_1_4_1,4_2_3_1,00:00
+5073,116,NorEs,2383934,Lillestrom,Stabaek,2017-06-03,16:00:00,Good,Cloud,12,-,4_2_3_1,4_4_2,00:00
+5074,117,NorEs,2383934,Lillestrom,Stabaek,2017-06-03,16:00:00,Good,Cloud,12,-,4_4_2,4_4_2,82:13
+5075,118,NorEs,2383935,Haugesund,Aalesund,2017-06-04,16:00:00,Artificial,Clear,15,-,4_4_2,4_4_2,00:00
+5076,119,NorEs,2383937,Sandefjord,Sogndal,2017-06-04,16:00:00,"Artificial, Good, Wet","Cloud, Light Rain",18,-,3_4_3,3_4_3,00:00
+5077,120,NorEs,2383937,Sandefjord,Sogndal,2017-06-04,16:00:00,"Artificial, Good, Wet","Cloud, Light Rain",18,-,3_4_3,4_5_1,67:21
+5078,121,NorEs,2383937,Sandefjord,Sogndal,2017-06-04,16:00:00,"Artificial, Good, Wet","Cloud, Light Rain",18,-,3_4_3,5_4_1,78:00
+5079,122,NorEs,2383938,Kristiansund,Viking,2017-06-04,16:00:00,Good,Clear,17,-,4_1_4_1,4_4_2,00:00
+5080,123,NorEs,2383939,Stromsgodset,Rosenborg,2017-06-04,16:00:00,"Good, Wet","Rain, Wind",11,-,4_3_3,4_2_3_1,00:00
+5081,124,NorEs,2383936,Molde,Sarpsborg 08,2017-06-04,16:00:00,Wet,Rain,12,-,4_4_2,4_5_1,00:00
+5082,125,NorEs,2383936,Molde,Sarpsborg 08,2017-06-04,16:00:00,Wet,"Cloud, Light Wind",12,-,4_4_2,4_5_1,00:00
+5083,126,NorEs,2383936,Molde,Sarpsborg 08,2017-06-04,16:00:00,Good,Rain,12,-,4_4_2,4_5_1,00:00
+5084,127,NorEs,2383936,Molde,Sarpsborg 08,2017-06-04,16:00:00,Good,"Cloud, Light Wind",12,-,4_4_2,4_5_1,00:00
+5085,128,NorEs,2383940,Brann,Odd,2017-06-04,18:00:00,"Artificial, Excellent","Cloud, Sun",12,-,4_3_3,4_3_3,00:00
+5086,129,NorEs,2383941,Aalesund,Kristiansund,2017-06-17,16:00:00,"Artificial, Average, Wet","Cloud, Light Rain",12,-,4_4_2,4_4_2,00:00
+5087,130,NorEs,2383942,Rosenborg,Haugesund,2017-06-18,16:00:00,Good,Cloud,13,-,4_4_1_1,4_3_3,00:00
+5088,131,NorEs,2383944,Odd,Sogndal,2017-06-18,16:00:00,"Artificial, Good",Cloud,10,-,3_4_3,4_3_3,00:00
+5089,132,NorEs,2383946,Viking,Lillestrom,2017-06-18,16:00:00,Excellent,Sun,17,-,4_4_2,4_2_3_1,00:00
+5090,133,NorEs,2383943,Sarpsborg 08,Sandefjord,2017-06-18,16:00:00,Excellent,"Clear, Sun",25,Hot,5_4_1,4_4_2,00:00
+5091,134,NorEs,2383943,Sarpsborg 08,Sandefjord,2017-06-18,16:00:00,Excellent,"Clear, Sun",25,Hot,5_4_1,3_4_2_1,83:09
+5092,135,NorEs,2383945,Tromso,Molde,2017-06-18,16:00:00,"Artificial, Good","Cloud, Light Wind",14,Warm,5_3_2,4_1_4_1,00:00
+5093,136,NorEs,2383945,Tromso,Molde,2017-06-18,16:00:00,"Artificial, Good","Cloud, Light Wind",14,Warm,5_3_2,4_2_2_2,78:40
+5094,137,NorEs,2383947,Stromsgodset,Valerenga,2017-06-18,18:00:00,Good,Cloud,23,-,4_2_3_1,4_4_1_1,00:00
+5095,138,NorEs,2383948,Stabaek,Brann,2017-06-19,17:00:00,Good,Cloud,11,-,4_3_3,4_2_3_1,00:00
+5096,139,NorEs,2383949,Lillestrom,Valerenga,2017-06-24,16:00:00,Good,"Cloud, Sun",15,-,4_2_3_1,4_4_2,00:00
+5097,140,NorEs,2383953,Sandefjord,Tromso,2017-06-25,16:00:00,"Artificial, Excellent","Cloud, Sun",15,-,4_2_3_1,5_4_1,00:00
+5098,141,NorEs,2383954,Brann,Sarpsborg 08,2017-06-25,16:00:00,Artificial,Clear,17,-,4_4_2,4_3_3,00:00
+5099,142,NorEs,2383952,Kristiansund,Stabaek,2017-06-25,16:00:00,,Sun,17,-,4_2_3_1,4_4_2,00:00
+5100,143,NorEs,2383951,Odd,Aalesund,2017-06-25,16:00:00,"Artificial, Good","Cloud, Sun",14,-,4_4_2,4_3_3,00:00
+5101,144,NorEs,2383950,Sogndal,Rosenborg,2017-06-25,16:00:00,Good,Cloud,14,-,4_3_3,3_4_3,00:00
+5102,145,NorEs,2383955,Haugesund,Viking,2017-06-25,18:00:00,"Uneven, Wet","Rain, Strong Wind",11,-,4_4_2,4_4_1_1,00:00
+5103,146,NorEs,2383956,Molde,Stromsgodset,2017-06-26,17:00:00,"Artificial, Excellent, Wet",Clear,17,Warm,4_2_3_1,3_4_3,00:00
+5104,147,NorEs,2383957,Stromsgodset,Lillestrom,2017-07-01,16:00:00,Good,"Cloud, Sun",24,Warm,4_4_2,4_3_3,00:00
+5105,148,NorEs,2383960,Aalesund,Sogndal,2017-07-01,18:15:00,Artificial,Clear,15,-,3_4_3,4_4_2,00:00
+5106,149,NorEs,2383961,Sarpsborg 08,Odd,2017-07-02,16:00:00,Artificial,Sun,15,-,4_3_3,4_4_2,00:00
+5107,150,NorEs,2383962,Viking,Molde,2017-07-02,16:00:00,"Artificial, Good",Cloud,14,Warm,3_4_3,4_2_3_1,00:00
+5108,151,NorEs,2383958,Tromso,Haugesund,2017-07-02,16:00:00,Good,"Cloud, Light Rain, Wind",13,Cold,4_4_1_1,4_3_3,00:00
+5109,152,NorEs,2383958,Tromso,Haugesund,2017-07-02,16:00:00,Good,"Cloud, Light Rain, Wind",13,Cold,4_4_1_1,4_4_1_1,73:05
+5110,153,NorEs,2383959,Stabaek,Sandefjord,2017-07-02,16:00:00,Good,"Sun, Wind",20,Warm,5_4_1,4_2_3_1,00:00
+5111,154,NorEs,2383963,Valerenga,Brann,2017-07-02,18:00:00,"Good, Wet","Cloud, Light Rain",11,-,4_3_3,4_2_3_1,00:00
+5112,155,NorEs,2383964,Rosenborg,Kristiansund,2017-07-03,17:00:00,"Excellent, Wet","Cloud, Light Rain",11,Cold,4_4_2,4_3_3,00:00
+5113,156,NorEs,2383964,Rosenborg,Kristiansund,2017-07-03,17:00:00,"Excellent, Wet","Cloud, Light Rain",11,Cold,4_4_2,4_4_2,71:24
+5114,157,NorEs,2383965,Sandefjord,Rosenborg,2017-07-08,13:30:00,"Good, Wet","Cloud, Light Rain",13,-,4_3_3,5_4_1,00:00
+5115,158,NorEs,2383966,Molde,Aalesund,2017-07-08,16:00:00,"Artificial, Good","Cloud, Sun",13,-,4_4_2,3_4_3,00:00
+5116,159,NorEs,2383969,Kristiansund,Stromsgodset,2017-07-09,16:00:00,"Artificial, Excellent","Cloud, Light Wind",16,-,4_2_3_1,4_4_2,00:00
+5117,160,NorEs,2383969,Kristiansund,Stromsgodset,2017-07-09,16:00:00,"Artificial, Excellent","Cloud, Light Wind",16,-,4_2_3_1,4_5_1,45:00
+5118,161,NorEs,2383968,Sogndal,Viking,2017-07-09,16:00:00,"Average, Patchy","Cloud, Light Wind",13,-,4_2_3_1,3_4_3,00:00
+5119,162,NorEs,2383970,Brann,Stabaek,2017-07-09,18:00:00,Good,Cloud,18,-,4_2_3_1,4_1_4_1,00:00
+5120,163,NorEs,2383972,Lillestrom,Sarpsborg 08,2017-07-10,17:00:00,Artificial,"Cloud, Light Wind",15,-,4_4_2,4_4_2,00:00
+5121,164,NorEs,2383972,Lillestrom,Sarpsborg 08,2017-07-10,17:00:00,Artificial,"Cloud, Light Wind",15,-,4_4_2,4_4_1_1,53:32
+5122,165,NorEs,2383973,Rosenborg,Sogndal,2017-07-15,13:30:00,"Artificial, Good","Cloud, Sun",18,-,3_4_3,4_3_3,00:00
+5123,166,NorEs,2383973,Rosenborg,Sogndal,2017-07-15,13:30:00,"Artificial, Good","Cloud, Sun",18,-,4_4_2,4_3_3,56:29
+5124,167,NorEs,2383974,Stabaek,Lillestrom,2017-07-15,16:00:00,Good,Sun,14,-,4_4_2,4_2_3_1,00:00
+5125,168,NorEs,2383976,Tromso,Sandefjord,2017-07-16,16:00:00,"Artificial, Good","Clear, Sun",18,Warm,3_5_2,4_4_1_1,00:00
+5126,169,NorEs,2383978,Stromsgodset,Molde,2017-07-16,16:00:00,"Artificial, Good, Wet","Cloud, Sun",14,-,3_5_2,4_3_3,00:00
+5127,170,NorEs,2383978,Stromsgodset,Molde,2017-07-16,16:00:00,"Artificial, Good, Wet","Cloud, Sun",14,-,3_4_3,4_3_3,73:07
+5128,171,NorEs,2383975,Viking,Odd,2017-07-16,16:00:00,"Artificial, Good","Cloud, Sun",21,-,4_3_3,4_2_3_1,00:00
+5129,172,NorEs,2383977,Aalesund,Haugesund,2017-07-16,16:00:00,Good,Cloud,13,-,4_4_1_1,4_4_2,00:00
+5130,173,NorEs,2383979,Sarpsborg 08,Brann,2017-07-16,18:00:00,Good,Rain,14,-,4_3_3,4_4_2,00:00
+5131,174,NorEs,2383979,Sarpsborg 08,Brann,2017-07-16,18:00:00,Good,Cloud,14,-,4_3_3,4_4_2,00:00
+5132,175,NorEs,2383980,Valerenga,Kristiansund,2017-07-17,17:00:00,"Artificial, Good","Cloud, Rain",13,-,4_4_2,4_2_3_1,00:00
+5133,176,NorEs,2383983,Kristiansund,Rosenborg,2017-08-05,16:00:00,Good,"Cloud, Sun",19,Warm,4_1_4_1,4_4_2,00:00
+5134,177,NorEs,2383984,Haugesund,Sarpsborg 08,2017-08-06,16:00:00,"Artificial, Good, Wet","Cloud, Light Wind",19,Warm,4_4_2,4_4_1_1,00:00
+5135,178,NorEs,2383985,Sandefjord,Stabaek,2017-08-06,16:00:00,"Good, Wet","Cloud, Light Rain",19,Warm,4_2_3_1,3_4_3,00:00
+5136,179,NorEs,2383985,Sandefjord,Stabaek,2017-08-06,16:00:00,"Good, Wet","Cloud, Light Rain",19,Warm,4_4_2,3_4_3,75:50
+5137,180,NorEs,2383982,Sogndal,Odd,2017-08-06,16:00:00,"Artificial, Good","Clear, Sun",20,-,4_3_3,3_4_3,00:00
+5138,181,NorEs,2383982,Sogndal,Odd,2017-08-06,16:00:00,"Artificial, Good","Clear, Sun",20,-,4_3_3,4_4_2,27:11
+5139,182,NorEs,2383988,Lillestrom,Viking,2017-08-06,16:00:00,Excellent,"Cloud, Sun, Wind",15,-,4_4_1_1,4_4_2,00:00
+5140,183,NorEs,2383987,Molde,Tromso,2017-08-06,16:00:00,"Artificial, Dry",Cloud,16,Warm,4_3_3,3_4_3,00:00
+5141,184,NorEs,2383981,Brann,Aalesund,2017-08-06,18:00:00,"Artificial, Good",Cloud,16,-,4_4_2,4_3_3,00:00
+5142,185,NorEs,2383986,Valerenga,Stromsgodset,2017-08-07,17:00:00,"Artificial, Excellent",Cloud,12,Cold,4_4_1_1,4_2_3_1,00:00
+5143,186,NorEs,2383994,Sogndal,Sandefjord,2017-08-11,17:00:00,Good,"Light Wind, Sun",17,Warm,3_4_2_1,3_4_3,00:00
+5144,187,NorEs,2383993,Rosenborg,Molde,2017-08-12,16:00:00,"Good, Soft, Wet",Clear,15,Cold,3_4_3,4_3_3,00:00
+5145,188,NorEs,2383992,Sarpsborg 08,Kristiansund,2017-08-13,16:00:00,"Artificial, Good","Cloud, Light Rain, Wind",13,-,4_4_2,4_4_2,00:00
+5146,189,NorEs,2383989,Viking,Aalesund,2017-08-13,16:00:00,"Artificial, Excellent, Wet","Sun, Wind",14,-,4_4_2,4_4_1_1,00:00
+5147,190,NorEs,2383990,Odd,Brann,2017-08-13,16:00:00,Excellent,"Cloud, Sun",16,Warm,4_3_3,4_4_1_1,00:00
+5148,191,NorEs,2383991,Stabaek,Haugesund,2017-08-13,16:00:00,Good,"Cloud, Sun",15,Warm,4_4_1_1,4_2_3_1,00:00
+5149,192,NorEs,2383995,Lillestrom,Stromsgodset,2017-08-13,18:00:00,"Artificial, Excellent",Clear,16,Warm,4_2_3_1,4_4_2,00:00
+5150,193,NorEs,2383995,Lillestrom,Stromsgodset,2017-08-13,18:00:00,"Artificial, Excellent",Clear,16,Warm,4_2_3_1,4_3_3,45:00
+5151,194,NorEs,2383996,Tromso,Valerenga,2017-08-14,17:00:00,Good,Cloud,17,-,4_3_3,3_4_3,00:00
+5152,195,NorEs,2383997,Valerenga,Lillestrom,2017-08-19,16:00:00,Good,"Cloud, Sun",17,-,4_4_2,4_2_3_1,00:00
+5153,196,NorEs,2383999,Haugesund,Rosenborg,2017-08-20,16:00:00,"Artificial, Excellent","Cloud, Rain",13,Cold,4_3_3,4_4_2,00:00
+5154,197,NorEs,2383999,Haugesund,Rosenborg,2017-08-20,16:00:00,"Artificial, Excellent","Cloud, Rain",13,Cold,4_4_2,4_4_2,67:42
+5155,198,NorEs,2383999,Haugesund,Rosenborg,2017-08-20,16:00:00,"Artificial, Excellent","Cloud, Rain",13,Cold,4_3_3,4_5_1,86:12
+5156,199,NorEs,2384002,Molde,Stabaek,2017-08-20,16:00:00,Good,Cloud,14,-,4_4_2,3_4_3,00:00
+5157,200,NorEs,2384003,Aalesund,Tromso,2017-08-20,16:00:00,"Artificial, Good","Cloud, Light Rain",10,Cold,3_4_2_1,4_4_2,00:00
+5158,201,NorEs,2384001,Kristiansund,Sogndal,2017-08-20,16:00:00,Artificial,Cloud,12,Cold,3_4_3,4_4_2,00:00
+5159,202,NorEs,2384001,Kristiansund,Sogndal,2017-08-20,16:00:00,Artificial,Cloud,12,Cold,3_4_3,3_4_3,45:01
+5160,203,NorEs,2384001,Kristiansund,Sogndal,2017-08-20,16:00:00,Artificial,Cloud,12,Cold,4_4_2,3_4_3,92:04
+5161,204,NorEs,2383998,Sandefjord,Odd,2017-08-20,16:00:00,"Artificial, Good, Wet",Sun,17,Warm,4_1_4_1,3_5_2,00:00
+5162,205,NorEs,2383998,Sandefjord,Odd,2017-08-20,16:00:00,"Artificial, Good, Wet",Sun,17,Warm,4_1_4_1,3_5_1_1,74:09
+5163,206,NorEs,2384004,Brann,Viking,2017-08-20,18:00:00,Excellent,Rain,15,Cold,4_2_3_1,4_3_3,00:00
+5164,207,NorEs,2384004,Brann,Viking,2017-08-20,18:00:00,Excellent,Light Rain,15,Cold,4_2_3_1,4_3_3,00:00
+5165,208,NorEs,2384004,Brann,Viking,2017-08-20,18:00:00,Excellent,"Cloud, Light Wind",15,Cold,4_2_3_1,4_3_3,00:00
+5166,209,NorEs,2384004,Brann,Viking,2017-08-20,18:00:00,Excellent,Light Rain,15,Cold,4_2_3_1,4_3_3,00:00
+5167,210,NorEs,2384004,Brann,Viking,2017-08-20,18:00:00,Excellent,Cloud,15,Cold,4_2_3_1,4_3_3,00:00
+5168,211,NorEs,2384000,Stromsgodset,Sarpsborg 08,2017-08-21,17:00:00,"Artificial, Good","Cloud, Sun",17,Warm,4_4_2,4_3_3,00:00
+5169,212,NorEs,2384006,Sogndal,Brann,2017-09-09,16:00:00,Good,Cloud,13,-,4_3_3,3_4_3,00:00
+5170,213,NorEs,2384008,Tromso,Kristiansund,2017-09-10,16:00:00,"Artificial, Good","Cloud, Sun",15,-,4_4_2,3_4_3,00:00
+5171,214,NorEs,2384008,Tromso,Kristiansund,2017-09-10,16:00:00,"Artificial, Good","Cloud, Sun",15,-,4_4_2,4_4_2,45:00
+5172,215,NorEs,2384005,Stabaek,Aalesund,2017-09-10,16:00:00,"Artificial, Good",Clear,14,Warm,4_4_2,4_2_3_1,00:00
+5173,216,NorEs,2384005,Stabaek,Aalesund,2017-09-10,16:00:00,"Artificial, Good",Clear,14,Warm,4_4_2,4_4_2,80:06
+5174,217,NorEs,2384007,Lillestrom,Haugesund,2017-09-10,16:00:00,Excellent,Clear,14,-,4_4_1_1,4_5_1,00:00
+5175,218,NorEs,2384010,Viking,Sandefjord,2017-09-10,16:00:00,Good,Clear,14,-,3_4_3,5_3_2,00:00
+5176,219,NorEs,2384012,Sarpsborg 08,Valerenga,2017-09-10,16:00:00,Artificial,"Cloud, Light Rain",15,-,4_3_3,4_4_2,00:00
+5177,220,NorEs,2384011,Rosenborg,Stromsgodset,2017-09-10,18:00:00,Artificial,Clear,12,Cold,4_4_1_1,4_3_3,00:00
+5178,221,NorEs,2384009,Odd,Molde,2017-09-11,17:00:00,"Artificial, Good",Cloud,16,Warm,3_4_2_1,4_3_3,00:00
+5179,222,NorEs,2384018,Stromsgodset,Stabaek,2017-09-16,16:00:00,Average,Cloud,16,Warm,4_4_2,4_2_3_1,03:00
+5180,223,NorEs,2384019,Sarpsborg 08,Tromso,2017-09-17,16:00:00,"Artificial, Excellent",Clear,9,-,3_4_3,4_4_2,00:00
+5181,224,NorEs,2384019,Sarpsborg 08,Tromso,2017-09-17,16:00:00,"Artificial, Excellent",Clear,9,-,3_4_3,4_4_1_1,80:51
+5182,225,NorEs,2384019,Sarpsborg 08,Tromso,2017-09-17,16:00:00,"Artificial, Good, Wet",Clear,9,-,3_4_3,4_4_2,00:00
+5183,226,NorEs,2384019,Sarpsborg 08,Tromso,2017-09-17,16:00:00,"Artificial, Good, Wet",Clear,9,-,3_4_3,4_4_1_1,80:51
+5184,227,NorEs,2384016,Brann,Sandefjord,2017-09-17,16:00:00,Excellent,Sun,13,Cold,3_4_2_1,4_3_3,00:00
+5185,228,NorEs,2384017,Haugesund,Sogndal,2017-09-17,16:00:00,"Artificial, Excellent",Clear,11,Cold,3_4_3,4_4_2,00:00
+5186,229,NorEs,2384020,Molde,Viking,2017-09-17,16:00:00,Good,"Cloud, Sun",16,Warm,3_5_2,3_5_2,00:00
+5187,230,NorEs,2384020,Molde,Viking,2017-09-17,16:00:00,Good,"Cloud, Sun",16,Warm,4_1_2_1_2,3_5_2,10:37
+5188,231,NorEs,2384013,Kristiansund,Lillestrom,2017-09-17,16:00:00,"Average, Soft",Clear,12,Cold,4_4_1_1,4_2_2_2,00:00
+5189,232,NorEs,2384015,Valerenga,Rosenborg,2017-09-17,18:00:00,"Good, Wet",Cloud,10,Cold,4_1_4_1,4_2_3_1,00:00
+5190,233,NorEs,2384014,Aalesund,Odd,2017-09-18,17:00:00,"Artificial, Excellent, Wet",Clear,12,Cold,4_3_3,4_4_2,00:00
+5191,234,NorEs,2383967,Odd,Tromso,2017-09-21,16:00:00,Artificial,Clear,9,-,3_4_3,4_3_3,00:00
+5192,235,NorEs,2384022,Viking,Haugesund,2017-09-23,16:00:00,Good,"Clear, Sun",16,-,4_3_3,3_5_2,00:00
+5193,236,NorEs,2384021,Sogndal,Aalesund,2017-09-24,16:00:00,"Artificial, Excellent",Cloud,16,Warm,4_4_2,3_4_3,00:00
+5194,237,NorEs,2384024,Rosenborg,Lillestrom,2017-09-24,16:00:00,"Average, Soft",Clear,15,-,4_4_2,4_3_3,00:00
+5195,238,NorEs,2384025,Sandefjord,Molde,2017-09-24,16:00:00,"Artificial, Excellent",Cloud,15,-,3_5_2,3_4_2_1,00:00
+5196,239,NorEs,2384027,Tromso,Stromsgodset,2017-09-24,16:00:00,"Artificial, Excellent, Wet",Cloud,14,Cold,4_1_4_1,3_4_2_1,00:00
+5197,240,NorEs,2384023,Stabaek,Kristiansund,2017-09-24,16:00:00,"Artificial, Good","Cloud, Sun",15,-,4_3_3,3_5_1_1,00:00
+5198,241,NorEs,2384023,Stabaek,Kristiansund,2017-09-24,16:00:00,"Artificial, Good","Cloud, Sun",15,-,4_5_1,3_5_1_1,70:57
+5199,242,NorEs,2384023,Stabaek,Kristiansund,2017-09-24,16:00:00,"Artificial, Good","Cloud, Sun",15,-,4_5_1,3_5_2,79:43
+5200,243,NorEs,2384028,Brann,Valerenga,2017-09-24,18:00:00,Artificial,Cloud,14,-,4_2_3_1,4_3_3,00:00
+5201,244,NorEs,2384026,Odd,Sarpsborg 08,2017-09-25,17:00:00,"Artificial, Excellent",Cloud,13,Warm,4_4_2,4_3_3,00:00
+5202,245,NorEs,2384029,Kristiansund,Brann,2017-09-29,17:00:00,"Good, Soft",Clear,16,-,4_3_3,4_4_1_1,00:00
+5203,246,NorEs,2384034,Valerenga,Stabaek,2017-09-30,16:00:00,Average,Clear,11,Cold,4_2_3_1,4_2_3_1,00:00
+5204,247,NorEs,2384034,Valerenga,Stabaek,2017-09-30,16:00:00,Average,Clear,11,Cold,4_4_2,4_2_3_1,45:00
+5205,248,NorEs,2384034,Valerenga,Stabaek,2017-09-30,16:00:00,Average,Clear,11,Cold,4_5_1,4_2_3_1,77:21
+5206,249,NorEs,2384034,Valerenga,Stabaek,2017-09-30,16:00:00,Average,Clear,11,Cold,4_5_1,4_3_3,82:09
+5207,250,NorEs,2384035,Lillestrom,Tromso,2017-10-01,16:00:00,"Artificial, Excellent",Clear,13,Cold,3_4_3,4_4_2,00:00
+5208,251,NorEs,2384036,Stromsgodset,Viking,2017-10-01,16:00:00,Excellent,"Cloud, Light Rain",15,-,3_5_2,4_2_3_1,00:00
+5209,252,NorEs,2384030,Haugesund,Odd,2017-10-01,16:00:00,"Artificial, Good",Cloud,11,-,4_3_3,4_4_2,00:00
+5210,253,NorEs,2384033,Molde,Sogndal,2017-10-01,16:00:00,"Artificial, Good","Cloud, Wind",10,Cold,3_4_2_1,3_5_1_1,00:00
+5211,254,NorEs,2384032,Aalesund,Sandefjord,2017-10-01,16:00:00,Good,"Cloud, Light Rain",11,Cold,3_4_2_1,5_4_1,00:00
+5212,255,NorEs,2384032,Aalesund,Sandefjord,2017-10-01,16:00:00,Good,"Cloud, Light Rain",11,Cold,3_4_2_1,4_4_2,73:08
+5213,256,NorEs,2384031,Sarpsborg 08,Rosenborg,2017-10-01,18:00:00,Excellent,"Clear, Cloud",14,-,4_3_3,4_4_2,00:00
+5214,257,NorEs,2383971,Haugesund,Valerenga,2017-10-12,17:00:00,"Artificial, Good",Clear,5,Cold,4_2_3_1,4_4_1_1,00:00
+5215,258,NorEs,2384043,Rosenborg,Tromso,2017-10-14,13:30:00,"Artificial, Average","Clear, Wind",7,Cold,3_4_3,4_3_3,00:00
+5216,259,NorEs,2384042,Odd,Stromsgodset,2017-10-14,16:00:00,"Artificial, Good",Cloud,12,-,4_4_1_1,4_3_3,00:00
+5217,260,NorEs,2384038,Viking,Kristiansund,2017-10-15,16:00:00,Good,"Cloud, Light Rain",6,-,4_2_3_1,4_4_2,00:00
+5218,261,NorEs,2384039,Sogndal,Lillestrom,2017-10-15,16:00:00,Average,Cloud,11,Cold,4_4_2,3_4_3,00:00
+5219,262,NorEs,2384037,Sandefjord,Haugesund,2017-10-15,16:00:00,Good,Clear,14,-,4_4_2,3_4_3,00:00
+5220,263,NorEs,2384044,Aalesund,Valerenga,2017-10-15,16:00:00,"Artificial, Excellent","Cloud, Light Rain",12,Cold,4_2_3_1,4_4_2,00:00
+5221,264,NorEs,2384040,Brann,Molde,2017-10-15,18:00:00,"Artificial, Good","Cloud, Light Rain",10,Cold,3_5_2,5_4_1,00:00
+5222,265,NorEs,2384041,Stabaek,Sarpsborg 08,2017-10-16,17:00:00,"Artificial, Excellent","Cloud, Light Rain",11,Cold,4_4_2,4_2_3_1,00:00
+5223,266,NorEs,2384045,Kristiansund,Aalesund,2017-10-21,16:00:00,"Artificial, Good",Clear,14,Warm,4_2_3_1,4_4_2,00:00
+5224,267,NorEs,2384045,Kristiansund,Aalesund,2017-10-21,16:00:00,"Artificial, Good",Clear,14,Warm,4_4_2,4_4_2,68:37
+5225,268,NorEs,2384045,Kristiansund,Aalesund,2017-10-21,16:00:00,"Artificial, Good",Clear,14,Warm,3_4_3,4_4_2,86:53
+5226,269,NorEs,2384047,Haugesund,Molde,2017-10-22,16:00:00,"Artificial, Excellent",Clear,9,Cold,3_5_2,4_4_2,00:00
+5227,270,NorEs,2384052,Valerenga,Viking,2017-10-22,16:00:00,Good,Clear,12,-,4_4_2,4_2_3_1,00:00
+5228,271,NorEs,2384049,Stromsgodset,Sandefjord,2017-10-22,16:00:00,"Good, Wet",Rain,6,-,3_4_3,4_2_3_1,00:00
+5229,272,NorEs,2384050,Sarpsborg 08,Sogndal,2017-10-22,16:00:00,"Artificial, Good",Clear,13,-,3_4_3,4_4_2,00:00
+5230,273,NorEs,2384051,Tromso,Stabaek,2017-10-22,16:00:00,"Good, Wet","Cloud, Rain",12,-,4_2_3_1,3_4_2_1,00:00
+5231,274,NorEs,2384046,Rosenborg,Brann,2017-10-22,18:00:00,Excellent,Cloud,14,Cold,4_2_3_1,4_1_4_1,00:00
+5232,275,NorEs,2384048,Lillestrom,Odd,2017-10-23,17:00:00,"Artificial, Excellent",Cloud,5,Cold,4_3_3,4_4_2,00:00
+5233,276,NorEs,2384053,Brann,Haugesund,2017-10-28,16:00:00,Average,Cloud,10,-,4_4_2,4_3_3,00:00
+5234,277,NorEs,2384053,Brann,Haugesund,2017-10-28,16:00:00,Average,Cloud,10,-,4_4_2,4_3_3,00:00
+5235,278,NorEs,2384053,Brann,Haugesund,2017-10-28,16:00:00,Average,Light Rain,10,-,4_4_2,4_3_3,00:00
+5236,279,NorEs,2384059,Viking,Tromso,2017-10-29,17:00:00,Artificial,Snow,0,Cold,3_4_3,4_4_2,00:00
+5237,280,NorEs,2384059,Viking,Tromso,2017-10-29,17:00:00,Artificial,"Cloud, Light Snow",0,Cold,3_4_3,4_4_2,00:00
+5238,281,NorEs,2384054,Odd,Kristiansund,2017-10-29,17:00:00,"Artificial, Good","Cloud, Snow",5,Cold,4_4_2,4_3_3,00:00
+5239,282,NorEs,2384058,Sogndal,Stromsgodset,2017-10-29,17:00:00,"Artificial, Good",Clear,3,Freezing,4_2_3_1,3_4_2_1,00:00
+5240,283,NorEs,2384056,Stabaek,Rosenborg,2017-10-29,17:00:00,Average,Light Snow,1,Freezing,4_3_3,4_2_3_1,00:00
+5241,284,NorEs,2384056,Stabaek,Rosenborg,2017-10-29,17:00:00,Average,Light Snow,1,Freezing,4_3_3,4_3_3,74:39
+5242,285,NorEs,2384056,Stabaek,Rosenborg,2017-10-29,17:00:00,Average,Cloud,1,Freezing,4_3_3,4_2_3_1,00:00
+5243,286,NorEs,2384056,Stabaek,Rosenborg,2017-10-29,17:00:00,Average,Cloud,1,Freezing,4_3_3,4_3_3,74:39
+5244,287,NorEs,2384056,Stabaek,Rosenborg,2017-10-29,17:00:00,Average,"Cloud, Light Rain",1,Freezing,4_3_3,4_2_3_1,00:00
+5245,288,NorEs,2384056,Stabaek,Rosenborg,2017-10-29,17:00:00,Average,"Cloud, Light Rain",1,Freezing,4_3_3,4_3_3,74:39
+5246,289,NorEs,2384057,Sandefjord,Sarpsborg 08,2017-10-29,17:00:00,Average,Clear,4,Cold,4_4_2,3_4_3,00:00
+5247,290,NorEs,2384060,Molde,Valerenga,2017-10-29,19:00:00,"Artificial, Good",Cloud,4,Cold,4_3_2_1,3_5_2,00:00
+5248,291,NorEs,2384060,Molde,Valerenga,2017-10-29,19:00:00,"Artificial, Good",Cloud,4,Cold,4_3_2_1,4_1_2_1_2,74:04
+5249,292,NorEs,2384060,Molde,Valerenga,2017-10-29,19:00:00,"Artificial, Good",Cloud,4,Cold,4_3_2_1,5_4_1,87:33
+5250,293,NorEs,2384055,Aalesund,Lillestrom,2017-10-30,18:00:00,"Artificial, Good",Cloud,1,Freezing,4_4_2,4_2_3_1,00:00
+5251,294,NorEs,2384066,Valerenga,Sandefjord,2017-11-03,18:00:00,Good,"Cloud, Wind",7,Cold,3_4_3,4_2_3_1,00:00
+5252,295,NorEs,2384064,Kristiansund,Molde,2017-11-04,17:00:00,"Artificial, Good","Cloud, Light Rain",7,Cold,3_5_2,4_4_2,00:00
+5253,296,NorEs,2384065,Stabaek,Odd,2017-11-05,17:00:00,Artificial,Cloud,7,Cold,4_3_3,4_2_3_1,00:00
+5254,297,NorEs,2384063,Stromsgodset,Haugesund,2017-11-05,17:00:00,"Average, Uneven",Cloud,8,Cold,4_2_3_1,4_5_1,00:00
+5255,298,NorEs,2384063,Stromsgodset,Haugesund,2017-11-05,17:00:00,"Average, Uneven",Cloud,8,Cold,4_4_2,4_5_1,74:55
+5256,299,NorEs,2384063,Stromsgodset,Haugesund,2017-11-05,17:00:00,"Average, Uneven",Cloud,8,Cold,4_2_3_1,4_5_1,00:00
+5257,300,NorEs,2384063,Stromsgodset,Haugesund,2017-11-05,17:00:00,"Average, Uneven",Cloud,8,Cold,4_4_2,4_5_1,74:55
+5258,301,NorEs,2384062,Lillestrom,Brann,2017-11-05,17:00:00,Good,Cloud,6,Cold,4_3_3,4_5_1,00:00
+5259,302,NorEs,2384067,Tromso,Sogndal,2017-11-05,17:00:00,Artificial,Clear,7,Cold,3_4_3,3_4_3,00:00
+5260,303,NorEs,2384067,Tromso,Sogndal,2017-11-05,17:00:00,Artificial,Clear,7,Cold,3_4_3,4_4_2,89:36
+5261,304,NorEs,2384068,Sarpsborg 08,Viking,2017-11-05,17:00:00,Good,Clear,8,-,4_4_1_1,4_4_2,00:00
+5262,305,NorEs,2384061,Rosenborg,Aalesund,2017-11-05,19:00:00,"Artificial, Good",Rain,7,Cold,4_4_2,4_3_3,00:00
+5263,306,NorEs,2384061,Rosenborg,Aalesund,2017-11-05,19:00:00,"Artificial, Good","Cloud, Light Rain",7,Cold,4_4_2,4_3_3,00:00
+5264,307,NorEs,2384072,Aalesund,Sarpsborg 08,2017-11-19,17:00:00,"Artificial, Good","Clear, Cloud",-1,Freezing,4_4_2,4_4_1_1,00:00
+5265,308,NorEs,2384073,Sogndal,Stabaek,2017-11-19,17:00:00,Good,"Clear, Cloud",-1,Freezing,4_2_3_1,3_5_2,00:00
+5266,309,NorEs,2384070,Molde,Lillestrom,2017-11-19,17:00:00,Poor,Clear,-2,Freezing,4_4_2,4_2_3_1,00:00
+5267,310,NorEs,2384071,Viking,Rosenborg,2017-11-19,17:00:00,Poor,Clear,-2,-,4_3_3,4_4_1_1,00:00
+5268,311,NorEs,2384075,Haugesund,Tromso,2017-11-19,17:00:00,"Artificial, Average",Clear,-2,Freezing,3_4_2_1,4_4_2,00:00
+5269,312,NorEs,2384069,Sandefjord,Kristiansund,2017-11-19,17:00:00,"Artificial, Good, Wet","Cloud, Rain",1,Freezing,4_3_3,3_4_2_1,00:00
+5270,313,NorEs,2384074,Brann,Stromsgodset,2017-11-19,17:00:00,"Artificial, Good",Clear,0,Freezing,4_4_1_1,4_3_3,00:00
+5271,314,NorEs,2384076,Odd,Valerenga,2017-11-19,17:00:00,Good,Clear,6,Cold,4_2_3_1,4_3_3,00:00
+5272,315,NorEs,2384084,Stabaek,Viking,2017-11-26,17:00:00,Good,"Cloud, Light Rain",6,Cold,4_4_2,4_4_2,00:00
+5273,316,NorEs,2384083,Valerenga,Sogndal,2017-11-26,17:00:00,"Artificial, Good",Clear,-5,Freezing,3_4_2_1,3_4_2_1,00:00
+5274,317,NorEs,2384078,Tromso,Brann,2017-11-26,17:00:00,Good,Cloud,2,Cold,4_3_3,3_5_2,00:00
+5275,318,NorEs,2384077,Stromsgodset,Aalesund,2017-11-26,17:00:00,Artificial,Cloud,3,Cold,4_4_2,4_2_3_1,00:00
+5276,319,NorEs,2384079,Kristiansund,Haugesund,2017-11-26,17:00:00,"Average, Wet",Light Rain,2,-,4_4_2,4_4_2,00:00
+5277,320,NorEs,2384082,Lillestrom,Sandefjord,2017-11-26,17:00:00,Excellent,Light Rain,3,Cold,3_4_3,4_4_2,00:00
+5278,321,NorEs,2384082,Lillestrom,Sandefjord,2017-11-26,17:00:00,Excellent,Cloud,3,Cold,3_4_3,4_4_2,00:00
+5279,322,NorEs,2384080,Sarpsborg 08,Molde,2017-11-26,17:00:00,Good,Clear,4,Cold,3_5_2,4_4_2,00:00
+5280,323,NorEs,2384081,Rosenborg,Odd,2017-11-26,17:00:00,Good,Clear,4,-,4_3_3,4_3_3,00:00

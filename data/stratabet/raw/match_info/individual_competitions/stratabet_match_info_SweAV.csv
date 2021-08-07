@@ -1,0 +1,372 @@
+True,index,competition,gsm_id,awayteam_team2,hometeam_team1,kickoffDate,kickoffTime,pitchType,weatherType,tempCelcius,tempType,formation_team1,formation_team2,formation_time
+5930,0,SweAV,2380151,Malmo FF,IFK Goteborg,2017-04-01,11:00:00,Average,Cloud,9,-,4_2_3_1,4_4_2,00:00
+5931,1,SweAV,2380148,Ostersunds FK,Halmstad,2017-04-01,14:00:00,Average,"Cloud, Light Rain",11,-,4_4_2,3_5_2,00:00
+5932,2,SweAV,2380153,Hacken,AIK,2017-04-02,13:00:00,Good,"Cloud, Sun",12,-,3_5_2,4_3_3,00:00
+5933,3,SweAV,2380153,Hacken,AIK,2017-04-02,13:00:00,Good,"Cloud, Sun",12,-,3_5_2,5_3_2,92:29
+5934,4,SweAV,2380149,AFC Eskilstuna,GIF Sundsvall,2017-04-02,13:00:00,Artificial,"Cloud, Rain",8,Cold,3_5_2,4_4_2,00:00
+5935,5,SweAV,2380149,AFC Eskilstuna,GIF Sundsvall,2017-04-02,13:00:00,Artificial,Cloud,8,Cold,3_5_2,4_4_2,00:00
+5936,6,SweAV,2380150,Hammarby,Norrkoping,2017-04-02,15:30:00,Good,"Light Wind, Sun",14,Warm,4_4_2,4_5_1,00:00
+5937,7,SweAV,2380150,Hammarby,Norrkoping,2017-04-02,15:30:00,Good,"Light Wind, Sun",14,Warm,5_4_1,4_5_1,88:34
+5938,8,SweAV,2380154,Sirius,Djurgarden,2017-04-03,17:00:00,Artificial,Cloud,10,-,4_4_2,4_2_3_1,00:00
+5939,9,SweAV,2380154,Sirius,Djurgarden,2017-04-03,17:00:00,Artificial,Cloud,10,-,4_3_1_2,4_2_3_1,78:36
+5940,10,SweAV,2380152,Elfsborg,Kalmar,2017-04-03,17:00:00,Good,"Cloud, Sun",10,-,4_4_1_1,4_4_2,00:00
+5941,11,SweAV,2380152,Elfsborg,Kalmar,2017-04-03,17:00:00,Good,"Cloud, Sun",10,-,3_4_1_2,4_4_2,75:04
+5942,12,SweAV,2380155,Jonkopings Sodra,Orebro,2017-04-03,17:00:00,Artificial,"Cloud, Sun",14,Warm,4_4_2,4_2_3_1,00:00
+5943,13,SweAV,2380155,Jonkopings Sodra,Orebro,2017-04-03,17:00:00,Artificial,"Cloud, Sun",14,Warm,4_4_2,3_4_2_1,84:18
+5944,14,SweAV,2380156,Orebro,AFC Eskilstuna,2017-04-08,14:00:00,Good,"Clear, Sun",5,Cold,4_4_2,4_4_2,00:00
+5945,15,SweAV,2380160,Kalmar,Hammarby,2017-04-09,13:00:00,Good,"Clear, Sun",8,Cold,4_1_4_1,4_4_2,00:00
+5946,16,SweAV,2380160,Kalmar,Hammarby,2017-04-09,13:00:00,Good,"Clear, Sun",8,Cold,4_4_2,4_4_2,73:57
+5947,17,SweAV,2380158,Norrkoping,Ostersunds FK,2017-04-09,13:00:00,Artificial,Cloud,9,-,3_5_1_1,4_2_2_2,00:00
+5948,18,SweAV,2380161,Djurgarden,Hacken,2017-04-09,15:30:00,Artificial,Sun,12,-,4_3_3,4_2_3_1,00:00
+5949,19,SweAV,2380161,Djurgarden,Hacken,2017-04-09,15:30:00,Artificial,Sun,12,-,4_3_3,4_4_2,83:38
+5950,20,SweAV,2380157,IFK Goteborg,Sirius,2017-04-09,15:30:00,"Poor, Uneven",Sun,11,-,4_2_3_1,4_2_3_1,00:00
+5951,21,SweAV,2380159,Halmstad,Jonkopings Sodra,2017-04-09,15:30:00,"Poor, Soft, Uneven","Sun, Wind",12,Cold,4_2_3_1,4_2_2_2,00:00
+5952,22,SweAV,2380162,AIK,Elfsborg,2017-04-10,17:00:00,"Excellent, Wet",Cloud,8,Cold,4_2_3_1,3_5_2,00:00
+5953,23,SweAV,2380162,AIK,Elfsborg,2017-04-10,17:00:00,"Excellent, Wet",Cloud,8,Cold,3_4_3,3_5_2,82:37
+5954,24,SweAV,2380163,GIF Sundsvall,Malmo FF,2017-04-11,16:30:00,Good,"Cloud, Sun",9,-,4_4_2,3_5_2,00:00
+5955,25,SweAV,2380164,Malmo FF,Halmstad,2017-04-16,13:00:00,Good,"Clear, Sun",5,Cold,4_4_2,4_4_2,00:00
+5956,26,SweAV,2380171,Ostersunds FK,Orebro,2017-04-16,13:00:00,Artificial,Clear,2,Cold,4_4_2,3_5_2,00:00
+5957,27,SweAV,2380171,Ostersunds FK,Orebro,2017-04-16,13:00:00,Artificial,Clear,2,Cold,4_4_2,4_3_3,45:00
+5958,28,SweAV,2380171,Ostersunds FK,Orebro,2017-04-16,13:00:00,Artificial,Clear,2,Cold,4_4_2,4_2_3_1,63:05
+5959,29,SweAV,2380170,Elfsborg,Djurgarden,2017-04-16,15:30:00,Artificial,Cloud,3,Cold,4_2_3_1,4_4_1_1,00:00
+5960,30,SweAV,2380165,Hacken,GIF Sundsvall,2017-04-16,15:30:00,Artificial,Sun,1,Freezing,3_5_2,4_3_3,00:00
+5961,31,SweAV,2380165,Hacken,GIF Sundsvall,2017-04-16,15:30:00,Artificial,Sun,1,Freezing,3_5_2,5_3_2,90:49
+5962,32,SweAV,2380169,Hammarby,AIK,2017-04-17,13:00:00,Good,"Cloud, Light Rain, Sun",3,Cold,3_5_2,4_2_3_1,00:00
+5963,33,SweAV,2380169,Hammarby,AIK,2017-04-17,13:00:00,Good,"Cloud, Light Snow",3,Cold,3_5_2,4_2_3_1,00:00
+5964,34,SweAV,2380168,Jonkopings Sodra,Kalmar,2017-04-17,13:00:00,Good,"Cloud, Sun",3,-,4_4_2,4_2_3_1,00:00
+5965,35,SweAV,2380168,Jonkopings Sodra,Kalmar,2017-04-17,13:00:00,Good,"Cloud, Sun",3,-,4_2_3_1,4_2_3_1,20:15
+5966,36,SweAV,2380167,AFC Eskilstuna,IFK Goteborg,2017-04-17,15:30:00,Good,"Cloud, Sun",7,Cold,4_2_3_1,4_4_2,00:00
+5967,37,SweAV,2380167,AFC Eskilstuna,IFK Goteborg,2017-04-17,15:30:00,Good,"Cloud, Sun",7,Cold,4_4_2,4_4_2,76:18
+5968,38,SweAV,2380166,Sirius,Norrkoping,2017-04-17,15:30:00,Artificial,"Clear, Sun",7,-,4_4_2,4_3_3,00:00
+5969,39,SweAV,2380178,Orebro,Elfsborg,2017-04-20,16:30:00,Artificial,Cloud,6,Cold,4_4_2,4_4_2,00:00
+5970,40,SweAV,2380175,AIK,Jonkopings Sodra,2017-04-22,14:00:00,Average,"Cloud, Sun, Wind",7,Cold,4_2_3_1,3_5_1_1,00:00
+5971,41,SweAV,2380175,AIK,Jonkopings Sodra,2017-04-22,14:00:00,Average,"Cloud, Sun, Wind",7,Cold,4_2_3_1,3_5_2,73:06
+5972,42,SweAV,2380177,Norrkoping,Hacken,2017-04-23,13:00:00,Artificial,"Cloud, Sun",7,Cold,4_2_3_1,4_2_2_2,00:00
+5973,43,SweAV,2380177,Norrkoping,Hacken,2017-04-23,13:00:00,Artificial,"Cloud, Sun",7,Cold,4_4_2,4_2_2_2,87:03
+5974,44,SweAV,2380176,GIF Sundsvall,Hammarby,2017-04-23,13:00:00,"Artificial, Good","Clear, Sun",7,Cold,4_1_4_1,3_4_2_1,00:00
+5975,45,SweAV,2380172,Halmstad,AFC Eskilstuna,2017-04-23,15:30:00,"Artificial, Good","Cloud, Sun, Wind",8,-,4_4_2,4_2_3_1,00:00
+5976,46,SweAV,2380174,IFK Goteborg,Ostersunds FK,2017-04-23,15:30:00,"Artificial, Good",Cloud,1,-,4_1_4_1,4_4_2,00:00
+5977,47,SweAV,2380174,IFK Goteborg,Ostersunds FK,2017-04-23,15:30:00,"Artificial, Good",Cloud,1,-,4_5_1,4_4_2,39:50
+5978,48,SweAV,2380174,IFK Goteborg,Ostersunds FK,2017-04-23,15:30:00,"Artificial, Good",Cloud,1,-,4_3_3,4_4_2,54:10
+5979,49,SweAV,2380179,Djurgarden,Malmo FF,2017-04-24,17:00:00,Good,"Cloud, Sun",7,-,4_4_2,4_4_2,00:00
+5980,50,SweAV,2380179,Djurgarden,Malmo FF,2017-04-24,17:00:00,Good,"Cloud, Sun",7,-,4_3_3,4_4_2,61:43
+5981,51,SweAV,2380179,Djurgarden,Malmo FF,2017-04-24,17:00:00,Good,"Cloud, Sun",7,-,4_3_3,4_5_1,82:41
+5982,52,SweAV,2380173,Kalmar,Sirius,2017-04-24,17:00:00,"Artificial, Good",Clear,5,Cold,4_2_3_1,4_1_4_1,00:00
+5983,53,SweAV,2380173,Kalmar,Sirius,2017-04-24,17:00:00,"Artificial, Good",Light Rain,5,Cold,4_2_3_1,4_1_4_1,00:00
+5984,54,SweAV,2380181,Ostersunds FK,AFC Eskilstuna,2017-04-26,17:00:00,Artificial,"Cloud, Light Wind, Sun",6,-,4_4_2,4_2_3_1,00:00
+5985,55,SweAV,2380182,Elfsborg,GIF Sundsvall,2017-04-26,17:00:00,Artificial,"Cloud, Sun",7,Cold,3_5_2,4_4_2,00:00
+5986,56,SweAV,2380182,Elfsborg,GIF Sundsvall,2017-04-26,17:00:00,Artificial,"Cloud, Sun",7,Cold,5_4_1,4_4_2,23:21
+5987,57,SweAV,2380184,Hammarby,IFK Goteborg,2017-04-26,17:00:00,Good,"Clear, Sun",4,Cold,4_4_2,4_1_4_1,00:00
+5988,58,SweAV,2380187,Hacken,Orebro,2017-04-26,17:00:00,Artificial,Cloud,6,-,4_4_2,4_4_1_1,00:00
+5989,59,SweAV,2380187,Hacken,Orebro,2017-04-26,17:00:00,Artificial,Cloud,6,-,4_4_2,4_3_3,71:12
+5990,60,SweAV,2380185,Malmo FF,Kalmar,2017-04-27,17:00:00,"Average, Soft","Cloud, Light Wind",6,Cold,4_4_2,4_4_2,00:00
+5991,61,SweAV,2380185,Malmo FF,Kalmar,2017-04-27,17:00:00,"Average, Soft","Cloud, Light Wind",6,Cold,4_1_4_1,4_4_2,78:41
+5992,62,SweAV,2380186,Sirius,AIK,2017-04-27,17:00:00,"Good, Wet",Cloud,6,Cold,3_5_1_1,4_3_3,00:00
+5993,63,SweAV,2380180,Djurgarden,Halmstad,2017-04-27,17:00:00,Average,Cloud,7,-,4_4_2,4_4_2,00:00
+5994,64,SweAV,2380183,Jonkopings Sodra,Norrkoping,2017-04-27,17:00:00,"Artificial, Average","Clear, Sun",8,Cold,4_4_2,4_2_3_1,00:00
+5995,65,SweAV,2380189,AFC Eskilstuna,Hammarby,2017-04-29,14:00:00,Artificial,Clear,10,-,4_2_3_1,4_4_2,00:00
+5996,66,SweAV,2380194,GIF Sundsvall,AIK,2017-04-30,13:00:00,Good,"Sun, Wind",10,-,3_5_2,5_3_2,00:00
+5997,67,SweAV,2380193,Halmstad,Kalmar,2017-05-01,13:00:00,"Dry, Good","Clear, Sun",12,Warm,4_4_2,4_4_2,00:00
+5998,68,SweAV,2380193,Halmstad,Kalmar,2017-05-01,13:00:00,"Dry, Good","Clear, Sun",12,Warm,5_4_1,4_4_2,87:04
+5999,69,SweAV,2380192,Orebro,Malmo FF,2017-05-01,13:00:00,"Dry, Good","Clear, Light Wind, Sun",9,Cold,4_4_2,4_2_3_1,00:00
+6000,70,SweAV,2380192,Orebro,Malmo FF,2017-05-01,13:00:00,"Dry, Good","Clear, Light Wind, Sun",9,Cold,4_4_2,4_4_2,79:26
+6001,71,SweAV,2380188,Jonkopings Sodra,Sirius,2017-05-01,15:30:00,"Average, Patchy","Clear, Sun",14,Warm,4_2_3_1,4_2_3_1,00:00
+6002,72,SweAV,2380195,Norrkoping,Djurgarden,2017-05-01,15:30:00,Artificial,"Cloud, Sun",14,-,4_2_3_1,4_2_2_2,00:00
+6003,73,SweAV,2380195,Norrkoping,Djurgarden,2017-05-01,15:30:00,Artificial,"Cloud, Sun",14,-,4_4_2,4_2_2_2,59:21
+6004,74,SweAV,2380190,IFK Goteborg,Hacken,2017-05-02,16:30:00,Artificial,"Cloud, Sun",16,-,4_4_1_1,4_4_2,00:00
+6005,75,SweAV,2380191,Ostersunds FK,Elfsborg,2017-05-02,16:30:00,"Artificial, Good",Clear,15,Warm,4_4_2,4_4_1_1,00:00
+6006,76,SweAV,2380191,Ostersunds FK,Elfsborg,2017-05-02,16:30:00,"Artificial, Good",Clear,15,Warm,4_4_2,4_1_4_1,45:00
+6007,77,SweAV,2380200,Sirius,Hacken,2017-05-05,17:00:00,Artificial,"Clear, Sun",15,-,4_4_1_1,4_3_3,00:00
+6008,78,SweAV,2380200,Sirius,Hacken,2017-05-05,17:00:00,Artificial,"Clear, Sun",15,-,4_4_1_1,4_4_1_1,19:07
+6009,79,SweAV,2380196,AIK,Halmstad,2017-05-06,14:00:00,Good,"Cloud, Light Wind, Sun",14,Warm,4_1_4_1,3_1_3_1_2,00:00
+6010,80,SweAV,2380197,Hammarby,Ostersunds FK,2017-05-07,13:00:00,Artificial,Clear,4,Cold,4_2_3_1,4_1_4_1,00:00
+6011,81,SweAV,2380201,Kalmar,IFK Goteborg,2017-05-07,13:00:00,Excellent,"Cloud, Light Wind, Sun",13,Warm,4_4_2,4_4_2,00:00
+6012,82,SweAV,2380203,Djurgarden,Orebro,2017-05-07,15:30:00,Artificial,Clear,10,Cold,4_5_1,4_4_2,00:00
+6013,83,SweAV,2380198,AFC Eskilstuna,Jonkopings Sodra,2017-05-07,15:30:00,"Average, Patchy","Cloud, Wind",6,Cold,4_2_3_1,3_4_3,00:00
+6014,84,SweAV,2380198,AFC Eskilstuna,Jonkopings Sodra,2017-05-07,15:30:00,"Average, Patchy","Cloud, Wind",6,Cold,4_2_3_1,4_4_2,49:57
+6015,85,SweAV,2380202,Malmo FF,Elfsborg,2017-05-08,17:00:00,Artificial,"Cloud, Light Wind, Sun",6,Cold,4_4_2,4_4_2,00:00
+6016,86,SweAV,2380202,Malmo FF,Elfsborg,2017-05-08,17:00:00,Artificial,"Cloud, Light Wind, Sun",6,Cold,4_4_2,5_4_1,92:35
+6017,87,SweAV,2380199,GIF Sundsvall,Norrkoping,2017-05-08,17:00:00,Artificial,"Cloud, Sun",4,Cold,4_2_2_2,3_4_3,00:00
+6018,88,SweAV,2380205,Norrkoping,AFC Eskilstuna,2017-05-12,17:00:00,"Artificial, Good","Clear, Sun",9,-,4_4_2,4_4_2,00:00
+6019,89,SweAV,2380210,Orebro,AIK,2017-05-13,14:00:00,Good,"Clear, Sun",12,-,3_5_2,4_4_2,00:00
+6020,90,SweAV,2380209,Hacken,Kalmar,2017-05-13,14:00:00,Good,"Cloud, Light Wind, Sun",18,-,4_4_1_1,4_4_1_1,00:00
+6021,91,SweAV,2380209,Hacken,Kalmar,2017-05-13,14:00:00,Good,"Cloud, Light Wind, Sun",18,-,4_4_2,4_4_1_1,81:27
+6022,92,SweAV,2380207,Jonkopings Sodra,GIF Sundsvall,2017-05-14,13:00:00,Artificial,"Cloud, Light Wind",7,Cold,3_4_3,4_2_3_1,00:00
+6023,93,SweAV,2380204,Hammarby,Halmstad,2017-05-14,13:00:00,"Good, Wet","Clear, Sun",16,Cold,4_4_2,4_1_4_1,00:00
+6024,94,SweAV,2380206,Elfsborg,Sirius,2017-05-14,15:30:00,"Poor, Uneven","Cloud, Light Wind",11,-,4_4_1_1,4_4_2,00:00
+6025,95,SweAV,2380208,Ostersunds FK,Malmo FF,2017-05-14,15:30:00,Good,"Cloud, Sun",18,-,4_4_2,4_4_2,00:00
+6026,96,SweAV,2380208,Ostersunds FK,Malmo FF,2017-05-14,15:30:00,Good,"Cloud, Sun",18,-,4_4_2,3_4_3,59:14
+6027,97,SweAV,2380211,IFK Goteborg,Djurgarden,2017-05-15,17:00:00,Artificial,"Cloud, Sun",7,Cold,4_4_2,4_4_2,00:00
+6028,98,SweAV,2380211,IFK Goteborg,Djurgarden,2017-05-15,17:00:00,Artificial,"Cloud, Sun",7,Cold,5_4_1,4_4_2,84:25
+6029,99,SweAV,2380215,Kalmar,Norrkoping,2017-05-16,17:00:00,Artificial,"Cloud, Sun",10,-,4_4_2,4_2_3_1,00:00
+6030,100,SweAV,2380216,Halmstad,Hacken,2017-05-17,17:00:00,Artificial,"Cloud, Light Rain",12,-,4_3_3,4_4_2,00:00
+6031,101,SweAV,2380216,Halmstad,Hacken,2017-05-17,17:00:00,Artificial,"Cloud, Light Rain",12,-,4_2_3_1,4_4_2,60:26
+6032,102,SweAV,2380214,Malmo FF,Hammarby,2017-05-17,17:00:00,"Artificial, Good",Cloud,12,-,4_1_4_1,4_4_2,00:00
+6033,103,SweAV,2380219,GIF Sundsvall,Orebro,2017-05-17,17:00:00,Artificial,Cloud,15,Warm,4_4_2,3_4_3,00:00
+6034,104,SweAV,2380219,GIF Sundsvall,Orebro,2017-05-17,17:00:00,Artificial,Cloud,15,Warm,4_3_3,3_4_3,45:00
+6035,105,SweAV,2380212,Sirius,Ostersunds FK,2017-05-17,17:00:00,Artificial,Cloud,10,Cold,4_4_2,4_2_3_1,00:00
+6036,106,SweAV,2380218,AFC Eskilstuna,Elfsborg,2017-05-18,17:00:00,"Artificial, Excellent, Wet",Clear,22,Warm,4_4_2,4_1_4_1,00:00
+6037,107,SweAV,2380218,AFC Eskilstuna,Elfsborg,2017-05-18,17:00:00,"Artificial, Excellent, Wet",Clear,22,Warm,4_4_2,4_4_2,89:38
+6038,108,SweAV,2380213,Djurgarden,Jonkopings Sodra,2017-05-18,17:00:00,"Poor, Soft, Uneven",Sun,12,-,4_2_3_1,4_4_2,00:00
+6039,109,SweAV,2380223,Kalmar,Ostersunds FK,2017-05-20,14:00:00,Artificial,"Cloud, Sun",11,Warm,4_4_2,3_4_3,00:00
+6040,110,SweAV,2380220,Orebro,Halmstad,2017-05-20,16:00:00,Good,"Cloud, Light Wind",13,-,4_4_2,4_4_2,00:00
+6041,111,SweAV,2380221,Hacken,AFC Eskilstuna,2017-05-21,13:00:00,Artificial,"Cloud, Sun",19,Warm,4_1_4_1,4_4_1_1,00:00
+6042,112,SweAV,2380222,Hammarby,Sirius,2017-05-21,13:00:00,"Good, Soft","Cloud, Sun",18,-,4_2_3_1,4_3_3,00:00
+6043,113,SweAV,2380226,Norrkoping,Malmo FF,2017-05-21,15:30:00,Excellent,"Clear, Sun",18,-,3_5_2,4_4_2,00:00
+6044,114,SweAV,2380226,Norrkoping,Malmo FF,2017-05-21,15:30:00,Excellent,"Clear, Sun",18,-,3_5_2,4_5_1,88:43
+6045,115,SweAV,2380225,Jonkopings Sodra,Elfsborg,2017-05-22,17:00:00,Artificial,"Light Wind, Sun",16,-,4_4_2,4_2_3_1,00:00
+6046,116,SweAV,2380225,Jonkopings Sodra,Elfsborg,2017-05-22,17:00:00,Artificial,"Light Wind, Sun",16,-,4_4_2,4_3_3,73:14
+6047,117,SweAV,2380224,IFK Goteborg,GIF Sundsvall,2017-05-22,17:00:00,Artificial,"Cloud, Sun",11,Warm,3_4_3,4_4_2,00:00
+6048,118,SweAV,2380224,IFK Goteborg,GIF Sundsvall,2017-05-22,17:00:00,Artificial,"Cloud, Sun",11,Warm,4_4_2,4_4_2,69:18
+6049,119,SweAV,2380227,AIK,Djurgarden,2017-05-22,17:00:00,"Artificial, Good, Wet",Cloud,17,Warm,4_4_2,3_5_1_1,00:00
+6050,120,SweAV,2380227,AIK,Djurgarden,2017-05-22,17:00:00,"Artificial, Good, Wet",Cloud,17,Warm,4_2_2_2,3_5_1_1,71:15
+6051,121,SweAV,2380227,AIK,Djurgarden,2017-05-22,17:00:00,"Artificial, Good, Wet",Cloud,17,Warm,4_2_2_2,3_5_2,83:47
+6052,122,SweAV,2380234,AFC Eskilstuna,Djurgarden,2017-05-27,14:00:00,"Artificial, Excellent","Cloud, Sun",25,-,4_4_1_1,4_1_4_1,00:00
+6053,123,SweAV,2380232,GIF Sundsvall,Kalmar,2017-05-27,14:00:00,Good,"Clear, Sun",26,Warm,3_4_3,3_4_3,00:00
+6054,124,SweAV,2380232,GIF Sundsvall,Kalmar,2017-05-27,14:00:00,Good,"Clear, Sun",26,Warm,3_4_3,4_1_4_1,45:00
+6055,125,SweAV,2380232,GIF Sundsvall,Kalmar,2017-05-27,14:00:00,Good,"Clear, Sun",26,Warm,4_4_2,4_1_4_1,59:21
+6056,126,SweAV,2380229,Halmstad,Norrkoping,2017-05-27,16:00:00,Artificial,"Clear, Sun",26,Warm,4_4_2,4_4_2,00:00
+6057,127,SweAV,2380228,Jonkopings Sodra,Hammarby,2017-05-28,13:00:00,"Artificial, Good",Sun,27,-,4_1_4_1,4_2_3_1,00:00
+6058,128,SweAV,2380231,Elfsborg,IFK Goteborg,2017-05-28,15:30:00,Good,Cloud,17,-,4_4_2,4_4_2,00:00
+6059,129,SweAV,2380235,Sirius,Orebro,2017-05-29,17:00:00,"Artificial, Good","Cloud, Sun",21,-,4_2_3_1,4_3_3,00:00
+6060,130,SweAV,2380235,Sirius,Orebro,2017-05-29,17:00:00,"Artificial, Good","Cloud, Sun",21,-,4_2_3_1,4_2_3_1,45:00
+6061,131,SweAV,2380230,Ostersunds FK,Hacken,2017-05-29,17:00:00,"Artificial, Excellent, Wet",Cloud,16,Cold,4_3_3,4_4_2,00:00
+6062,132,SweAV,2380230,Ostersunds FK,Hacken,2017-05-29,17:00:00,"Artificial, Excellent, Wet",Cloud,16,Cold,4_4_2,4_4_2,57:57
+6063,133,SweAV,2380230,Ostersunds FK,Hacken,2017-05-29,17:00:00,"Artificial, Excellent, Wet",Cloud,16,Cold,4_4_2,5_4_1,72:37
+6064,134,SweAV,2380233,Malmo FF,AIK,2017-05-29,17:00:00,Good,Cloud,15,Warm,3_5_1_1,4_4_2,00:00
+6065,135,SweAV,2380271,AIK,Norrkoping,2017-06-01,17:00:00,"Artificial, Excellent, Wet","Clear, Sun",15,Warm,4_4_2,3_5_1_1,00:00
+6066,136,SweAV,2380242,Hacken,Elfsborg,2017-06-02,17:00:00,"Artificial, Good","Clear, Sun",13,-,4_4_2,4_4_1_1,00:00
+6067,137,SweAV,2380242,Hacken,Elfsborg,2017-06-02,17:00:00,"Artificial, Good","Clear, Sun",13,-,5_4_1,4_4_1_1,87:06
+6068,138,SweAV,2380243,Orebro,Kalmar,2017-06-03,14:00:00,"Good, Soft",Cloud,15,-,3_4_3,4_2_3_1,00:00
+6069,139,SweAV,2380243,Orebro,Kalmar,2017-06-03,14:00:00,"Good, Soft",Cloud,15,-,4_4_2,4_2_3_1,32:40
+6070,140,SweAV,2380243,Orebro,Kalmar,2017-06-03,14:00:00,"Good, Soft",Cloud,15,-,4_4_2,4_4_2,69:07
+6071,141,SweAV,2380238,GIF Sundsvall,Ostersunds FK,2017-06-03,14:00:00,"Artificial, Good",Clear,15,-,4_4_2,3_4_3,00:00
+6072,142,SweAV,2380239,Malmo FF,Jonkopings Sodra,2017-06-03,16:00:00,Good,"Cloud, Sun",18,-,4_4_2,4_1_2_1_2,00:00
+6073,143,SweAV,2380240,Djurgarden,Hammarby,2017-06-04,13:00:00,Artificial,"Cloud, Sun",17,-,4_1_4_1,4_2_3_1,00:00
+6074,144,SweAV,2380240,Djurgarden,Hammarby,2017-06-04,13:00:00,Artificial,"Cloud, Sun",17,-,4_4_2,4_2_3_1,39:21
+6075,145,SweAV,2380240,Djurgarden,Hammarby,2017-06-04,13:00:00,Artificial,"Cloud, Sun",17,-,4_4_2,4_4_2,86:45
+6076,146,SweAV,2380236,AIK,AFC Eskilstuna,2017-06-04,13:00:00,"Artificial, Good","Cloud, Sun",16,-,4_1_4_1,3_5_1_1,00:00
+6077,147,SweAV,2380236,AIK,AFC Eskilstuna,2017-06-04,13:00:00,"Artificial, Good","Cloud, Sun",16,-,4_1_4_1,3_5_2,69:33
+6078,148,SweAV,2380241,IFK Goteborg,Norrkoping,2017-06-04,15:30:00,"Artificial, Good","Cloud, Sun",16,-,4_4_2,4_4_2,00:00
+6079,149,SweAV,2380237,Halmstad,Sirius,2017-06-04,15:30:00,Average,"Cloud, Light Rain",13,Cold,4_2_3_1,4_4_2,00:00
+6080,150,SweAV,2380248,AFC Eskilstuna,Malmo FF,2017-07-01,14:00:00,"Good, Soft","Cloud, Sun",14,Warm,4_4_2,4_4_2,00:00
+6081,151,SweAV,2380246,Sirius,GIF Sundsvall,2017-07-01,14:00:00,Artificial,"Clear, Sun",21,Warm,3_4_3,4_4_1_1,00:00
+6082,152,SweAV,2380244,Elfsborg,Halmstad,2017-07-01,16:00:00,Good,"Cloud, Sun",19,-,4_4_2,4_4_2,00:00
+6083,153,SweAV,2380245,IFK Goteborg,Jonkopings Sodra,2017-07-02,13:00:00,Good,"Cloud, Sun",15,-,4_3_3,4_4_2,00:00
+6084,154,SweAV,2380251,Norrkoping,Orebro,2017-07-02,15:30:00,"Artificial, Good","Cloud, Light Wind",18,Warm,4_4_1_1,4_4_2,00:00
+6085,155,SweAV,2380251,Norrkoping,Orebro,2017-07-02,15:30:00,"Artificial, Good","Cloud, Light Wind",18,Warm,4_4_1_1,3_4_1_2,78:02
+6086,156,SweAV,2380249,Ostersunds FK,AIK,2017-07-02,15:30:00,Good,"Cloud, Sun",22,Warm,3_5_1_1,4_4_2,00:00
+6087,157,SweAV,2380249,Ostersunds FK,AIK,2017-07-02,15:30:00,Good,"Cloud, Sun",22,Warm,3_5_2,4_4_2,65:31
+6088,158,SweAV,2380249,Ostersunds FK,AIK,2017-07-02,15:30:00,Good,"Cloud, Sun",22,Warm,3_5_2,5_4_1,68:38
+6089,159,SweAV,2380249,Ostersunds FK,AIK,2017-07-02,15:30:00,Good,"Cloud, Sun",22,Warm,4_4_2,5_4_1,77:59
+6090,160,SweAV,2380250,Kalmar,Djurgarden,2017-07-03,17:00:00,Artificial,"Cloud, Sun",15,-,4_4_1_1,4_4_1_1,00:00
+6091,161,SweAV,2380250,Kalmar,Djurgarden,2017-07-03,17:00:00,Artificial,"Cloud, Sun",15,-,4_4_1_1,4_4_2,72:33
+6092,162,SweAV,2380247,Hammarby,Hacken,2017-07-03,17:00:00,Good,"Cloud, Sun",16,-,4_4_2,4_1_4_1,00:00
+6093,163,SweAV,2380247,Hammarby,Hacken,2017-07-03,17:00:00,Good,"Cloud, Sun",16,-,4_4_2,4_4_2,59:07
+6094,164,SweAV,2380252,AFC Eskilstuna,Sirius,2017-07-08,14:00:00,Good,"Cloud, Sun",19,-,4_3_3,4_4_2,00:00
+6095,165,SweAV,2380254,Orebro,Hammarby,2017-07-08,14:00:00,"Artificial, Good",Cloud,17,-,4_1_4_1,4_4_1_1,00:00
+6096,166,SweAV,2380256,Malmo FF,Hacken,2017-07-08,16:00:00,"Artificial, Good",Clear,14,-,4_4_2,4_4_2,00:00
+6097,167,SweAV,2380255,Elfsborg,Norrkoping,2017-07-09,13:00:00,"Artificial, Good","Clear, Sun",21,Hot,4_4_2,4_4_2,00:00
+6098,168,SweAV,2380255,Elfsborg,Norrkoping,2017-07-09,13:00:00,"Artificial, Good","Clear, Sun",21,Hot,4_4_2,4_1_4_1,78:11
+6099,169,SweAV,2380258,AIK,Kalmar,2017-07-09,15:30:00,Good,"Clear, Sun",20,Hot,4_2_3_1,3_5_1_1,00:00
+6100,170,SweAV,2380253,Jonkopings Sodra,Ostersunds FK,2017-07-09,15:30:00,"Artificial, Good",Sun,16,-,4_1_2_1_2,4_3_3,00:00
+6101,171,SweAV,2380257,Halmstad,IFK Goteborg,2017-07-10,17:00:00,Excellent,"Cloud, Sun",16,-,4_4_2,4_4_2,00:00
+6102,172,SweAV,2380259,GIF Sundsvall,Djurgarden,2017-07-10,17:00:00,Artificial,Sun,20,Warm,4_4_2,3_4_3,00:00
+6103,173,SweAV,2380259,GIF Sundsvall,Djurgarden,2017-07-10,17:00:00,Artificial,Sun,20,Warm,4_4_2,4_4_1_1,41:16
+6104,174,SweAV,2380260,Kalmar,AFC Eskilstuna,2017-07-15,14:00:00,"Artificial, Good","Cloud, Sun",24,Warm,4_4_2,4_2_3_1,00:00
+6105,175,SweAV,2380260,Kalmar,AFC Eskilstuna,2017-07-15,14:00:00,"Artificial, Good","Cloud, Sun",24,Warm,4_5_1,4_2_3_1,83:24
+6106,176,SweAV,2380263,Halmstad,GIF Sundsvall,2017-07-15,14:00:00,Artificial,"Cloud, Sun",18,-,3_4_3,4_2_3_1,00:00
+6107,177,SweAV,2380265,Sirius,Malmo FF,2017-07-15,14:00:00,Good,Sun,15,-,4_4_2,4_2_3_1,00:00
+6108,178,SweAV,2380267,IFK Goteborg,Orebro,2017-07-16,13:00:00,"Artificial, Good","Cloud, Light Wind, Rain",15,-,4_4_2,4_4_2,00:00
+6109,179,SweAV,2380261,Djurgarden,Ostersunds FK,2017-07-16,15:30:00,"Artificial, Good","Cloud, Rain",10,Cold,3_4_3,4_4_2,00:00
+6110,180,SweAV,2380261,Djurgarden,Ostersunds FK,2017-07-16,15:30:00,"Artificial, Good","Cloud, Rain",10,Cold,4_4_2,4_4_2,68:37
+6111,181,SweAV,2380261,Djurgarden,Ostersunds FK,2017-07-16,15:30:00,"Artificial, Good",Cloud,10,Cold,3_4_3,4_4_2,00:00
+6112,182,SweAV,2380261,Djurgarden,Ostersunds FK,2017-07-16,15:30:00,"Artificial, Good",Cloud,10,Cold,4_4_2,4_4_2,68:37
+6113,183,SweAV,2380261,Djurgarden,Ostersunds FK,2017-07-16,15:30:00,"Average, Wet","Cloud, Rain",10,Cold,3_4_3,4_4_2,00:00
+6114,184,SweAV,2380261,Djurgarden,Ostersunds FK,2017-07-16,15:30:00,"Average, Wet","Cloud, Rain",10,Cold,4_4_2,4_4_2,68:37
+6115,185,SweAV,2380261,Djurgarden,Ostersunds FK,2017-07-16,15:30:00,"Average, Wet",Cloud,10,Cold,3_4_3,4_4_2,00:00
+6116,186,SweAV,2380261,Djurgarden,Ostersunds FK,2017-07-16,15:30:00,"Average, Wet",Cloud,10,Cold,4_4_2,4_4_2,68:37
+6117,187,SweAV,2380266,Norrkoping,AIK,2017-07-16,15:30:00,"Good, Wet",Cloud,17,-,3_5_2,4_4_2,00:00
+6118,188,SweAV,2380266,Norrkoping,AIK,2017-07-16,15:30:00,"Good, Wet",Cloud,17,-,3_5_2,4_5_1,53:26
+6119,189,SweAV,2380262,Hacken,Jonkopings Sodra,2017-07-17,17:00:00,Good,Sun,16,-,4_2_3_1,4_4_2,00:00
+6120,190,SweAV,2380264,Hammarby,Elfsborg,2017-07-17,17:00:00,Good,"Cloud, Rain, Sun",15,-,4_4_2,4_1_4_1,00:00
+6121,191,SweAV,2380269,GIF Sundsvall,Halmstad,2017-07-22,14:00:00,Good,"Cloud, Sun",23,Warm,4_4_2,3_4_3,00:00
+6122,192,SweAV,2380269,GIF Sundsvall,Halmstad,2017-07-22,14:00:00,Good,"Cloud, Sun",23,Warm,4_4_1_1,3_4_3,68:52
+6123,193,SweAV,2380273,Jonkopings Sodra,Malmo FF,2017-07-22,14:00:00,Good,Sun,20,-,4_4_2,4_2_3_1,00:00
+6124,194,SweAV,2380268,Hacken,Sirius,2017-07-22,16:00:00,Good,Clear,15,-,4_3_3,4_4_2,00:00
+6125,195,SweAV,2380275,Ostersunds FK,Djurgarden,2017-07-23,13:00:00,"Artificial, Good","Cloud, Sun",22,Warm,4_4_2,3_4_3,00:00
+6126,196,SweAV,2380275,Ostersunds FK,Djurgarden,2017-07-23,13:00:00,"Artificial, Good","Cloud, Sun",22,Warm,4_4_2,3_5_2,59:00
+6127,197,SweAV,2380272,Orebro,IFK Goteborg,2017-07-23,15:30:00,"Good, Wet","Cloud, Sun",22,Warm,4_4_2,4_4_2,00:00
+6128,198,SweAV,2380272,Orebro,IFK Goteborg,2017-07-23,15:30:00,"Good, Wet","Cloud, Sun",22,Warm,4_4_1_1,4_4_2,80:07
+6129,199,SweAV,2380274,AFC Eskilstuna,Kalmar,2017-07-23,15:30:00,Good,"Cloud, Sun",21,-,4_4_2,4_4_2,00:00
+6130,200,SweAV,2380270,Elfsborg,Hammarby,2017-07-24,17:00:00,"Artificial, Good","Cloud, Sun",20,Warm,4_1_4_1,4_4_2,00:00
+6131,201,SweAV,2380278,Hammarby,Jonkopings Sodra,2017-07-29,14:00:00,Good,Cloud,16,-,4_2_3_1,4_4_2,00:00
+6132,202,SweAV,2380282,Sirius,Elfsborg,2017-07-29,14:00:00,"Artificial, Good","Cloud, Light Rain, Light Wind",15,-,4_4_2,4_3_3,00:00
+6133,203,SweAV,2380279,Malmo FF,GIF Sundsvall,2017-07-29,16:00:00,"Artificial, Good",Sun,17,-,3_4_3,4_4_2,00:00
+6134,204,SweAV,2380277,Halmstad,Ostersunds FK,2017-07-30,13:00:00,"Artificial, Good","Clear, Sun",16,Warm,4_1_4_1,4_2_3_1,00:00
+6135,205,SweAV,2380281,Norrkoping,IFK Goteborg,2017-07-30,13:00:00,Good,"Cloud, Light Rain, Sun",15,-,4_4_2,4_4_2,00:00
+6136,206,SweAV,2380283,Kalmar,AIK,2017-07-30,15:30:00,Good,"Cloud, Sun",22,Warm,3_5_2,4_4_2,00:00
+6137,207,SweAV,2380276,Djurgarden,AFC Eskilstuna,2017-07-31,17:00:00,Good,"Cloud, Sun",21,-,5_3_2,4_4_2,00:00
+6138,208,SweAV,2380276,Djurgarden,AFC Eskilstuna,2017-07-31,17:00:00,Good,"Cloud, Sun",21,-,4_2_2_2,4_4_2,66:50
+6139,209,SweAV,2380280,Orebro,Hacken,2017-07-31,17:00:00,"Artificial, Good","Cloud, Sun",17,-,4_3_3,4_4_2,00:00
+6140,210,SweAV,2380284,Jonkopings Sodra,Halmstad,2017-08-05,14:00:00,Good,"Cloud, Light Rain, Sun",17,-,4_4_2,4_2_3_1,00:00
+6141,211,SweAV,2380284,Jonkopings Sodra,Halmstad,2017-08-05,14:00:00,Good,"Cloud, Light Rain, Sun",17,-,4_4_2,4_4_2,26:47
+6142,212,SweAV,2380284,Jonkopings Sodra,Halmstad,2017-08-05,14:00:00,Good,"Cloud, Light Rain, Sun",17,-,4_4_2,3_5_2,37:04
+6143,213,SweAV,2380291,Elfsborg,Orebro,2017-08-05,16:00:00,"Artificial, Good","Cloud, Light Rain, Rain",19,Warm,4_4_2,4_2_3_1,00:00
+6144,214,SweAV,2380289,IFK Goteborg,Kalmar,2017-08-06,13:00:00,Excellent,"Cloud, Sun",17,Warm,4_4_2,4_4_2,00:00
+6145,215,SweAV,2380287,Ostersunds FK,GIF Sundsvall,2017-08-06,13:00:00,"Artificial, Good",Cloud,17,-,3_4_3,4_4_2,00:00
+6146,216,SweAV,2380286,Hacken,Hammarby,2017-08-06,13:00:00,"Artificial, Good","Cloud, Light Rain, Sun",15,-,4_1_4_1,4_5_1,00:00
+6147,217,SweAV,2380286,Hacken,Hammarby,2017-08-06,13:00:00,"Artificial, Good","Cloud, Light Rain, Sun",15,-,4_1_4_1,5_4_1,95:48
+6148,218,SweAV,2380285,AIK,Sirius,2017-08-06,15:30:00,"Excellent, Soft, Wet","Cloud, Light Rain",15,Warm,4_3_3,3_5_2,00:00
+6149,219,SweAV,2380290,Malmo FF,Djurgarden,2017-08-07,17:00:00,"Artificial, Good","Cloud, Sun",20,Warm,4_4_2,4_4_2,00:00
+6150,220,SweAV,2380290,Malmo FF,Djurgarden,2017-08-07,17:00:00,"Artificial, Good","Cloud, Sun",20,Warm,4_4_2,4_4_1_1,85:10
+6151,221,SweAV,2380288,AFC Eskilstuna,Norrkoping,2017-08-07,17:00:00,"Artificial, Good","Cloud, Light Wind, Sun",19,-,4_4_2,5_3_2,00:00
+6152,222,SweAV,2380217,AIK,IFK Goteborg,2017-08-10,17:00:00,"Artificial, Good","Cloud, Sun",18,-,4_4_2,3_5_2,00:00
+6153,223,SweAV,2380217,AIK,IFK Goteborg,2017-08-10,17:00:00,"Artificial, Good","Cloud, Sun",18,-,4_4_2,3_4_1_2,83:30
+6154,224,SweAV,2380217,AIK,IFK Goteborg,2017-08-10,17:00:00,"Artificial, Good","Cloud, Sun",18,-,5_4_1,3_4_1_2,94:51
+6155,225,SweAV,2380298,Kalmar,Malmo FF,2017-08-11,17:00:00,Good,"Cloud, Light Wind, Sun",19,-,4_4_2,4_4_2,00:00
+6156,226,SweAV,2380298,Kalmar,Malmo FF,2017-08-11,17:00:00,Good,"Cloud, Light Wind, Sun",19,-,4_4_2,4_4_1_1,27:48
+6157,227,SweAV,2380292,Sirius,Halmstad,2017-08-12,14:00:00,Good,"Cloud, Sun",17,-,4_4_2,4_2_3_1,00:00
+6158,228,SweAV,2380299,AFC Eskilstuna,AIK,2017-08-13,13:00:00,Good,"Cloud, Sun",16,-,3_4_3,3_4_3,00:00
+6159,229,SweAV,2380294,Ostersunds FK,Hammarby,2017-08-13,13:00:00,"Artificial, Good","Cloud, Light Rain, Sun",16,-,4_1_4_1,4_4_2,00:00
+6160,230,SweAV,2380293,Orebro,Jonkopings Sodra,2017-08-13,15:30:00,"Average, Wet","Cloud, Light Wind",16,-,4_2_3_1,4_4_1_1,00:00
+6161,231,SweAV,2380293,Orebro,Jonkopings Sodra,2017-08-13,15:30:00,"Average, Wet","Cloud, Light Wind",16,-,3_5_2,4_4_1_1,85:41
+6162,232,SweAV,2380295,Djurgarden,Norrkoping,2017-08-13,15:30:00,"Artificial, Good, Wet",Cloud,17,-,4_4_2,4_4_2,00:00
+6163,233,SweAV,2380297,IFK Goteborg,Elfsborg,2017-08-14,17:00:00,"Artificial, Good","Cloud, Sun",15,-,4_4_2,4_4_2,00:00
+6164,234,SweAV,2380296,GIF Sundsvall,Hacken,2017-08-14,17:00:00,"Artificial, Good","Cloud, Sun",15,-,4_3_3,3_4_3,00:00
+6165,235,SweAV,2380296,GIF Sundsvall,Hacken,2017-08-14,17:00:00,"Artificial, Good","Cloud, Sun",15,-,4_3_3,4_2_3_1,79:01
+6166,236,SweAV,2380303,Elfsborg,Jonkopings Sodra,2017-08-18,17:00:00,Average,"Cloud, Light Wind",18,-,4_2_3_1,4_4_2,00:00
+6167,237,SweAV,2380300,Malmo FF,AFC Eskilstuna,2017-08-19,14:00:00,"Artificial, Good","Cloud, Light Wind, Sun",20,Warm,5_3_2,4_4_2,00:00
+6168,238,SweAV,2380302,AIK,Ostersunds FK,2017-08-20,13:00:00,Good,Clear,11,Cold,4_4_2,3_5_2,00:00
+6169,239,SweAV,2380306,Halmstad,Djurgarden,2017-08-20,13:00:00,"Artificial, Dry, Excellent","Clear, Sun",17,Warm,4_4_2,4_4_2,00:00
+6170,240,SweAV,2380306,Halmstad,Djurgarden,2017-08-20,13:00:00,"Artificial, Dry, Excellent","Clear, Sun",17,Warm,4_4_2,4_1_4_1,45:00
+6171,241,SweAV,2380301,Norrkoping,Sirius,2017-08-20,15:30:00,Excellent,"Cloud, Sun",19,Warm,4_2_3_1,4_4_2,00:00
+6172,242,SweAV,2380301,Norrkoping,Sirius,2017-08-20,15:30:00,Excellent,"Cloud, Sun",19,Warm,4_3_3,4_4_2,63:00
+6173,243,SweAV,2380305,Hacken,IFK Goteborg,2017-08-20,15:30:00,"Dry, Excellent","Clear, Sun",15,Warm,4_4_2,5_4_1,00:00
+6174,244,SweAV,2380304,Kalmar,GIF Sundsvall,2017-08-21,17:00:00,"Artificial, Good","Cloud, Sun",16,-,3_4_3,4_4_2,00:00
+6175,245,SweAV,2380304,Kalmar,GIF Sundsvall,2017-08-21,17:00:00,"Artificial, Good","Cloud, Sun",16,-,4_2_3_1,4_4_2,55:13
+6176,246,SweAV,2380304,Kalmar,GIF Sundsvall,2017-08-21,17:00:00,"Artificial, Good","Cloud, Sun",16,-,4_2_3_1,4_5_1,65:39
+6177,247,SweAV,2380307,Hammarby,Orebro,2017-08-21,17:00:00,"Artificial, Good","Clear, Sun",16,-,4_4_2,4_4_2,00:00
+6178,248,SweAV,2380308,Hammarby,AFC Eskilstuna,2017-08-26,14:00:00,"Artificial, Excellent",Sun,18,Warm,3_4_1_2,4_4_2,00:00
+6179,249,SweAV,2380315,Djurgarden,AIK,2017-08-27,13:00:00,"Good, Soft","Closed Roof, Cloud, Sun",17,-,3_5_2,4_4_2,00:00
+6180,250,SweAV,2380310,Ostersunds FK,Norrkoping,2017-08-27,13:00:00,"Artificial, Good",Sun,13,Cold,4_4_2,3_4_3,00:00
+6181,251,SweAV,2380310,Ostersunds FK,Norrkoping,2017-08-27,13:00:00,"Artificial, Good",Sun,13,Cold,4_4_2,4_4_2,63:56
+6182,252,SweAV,2380310,Ostersunds FK,Norrkoping,2017-08-27,13:00:00,"Artificial, Good",Sun,13,Cold,4_4_2,5_4_1,79:36
+6183,253,SweAV,2380314,Sirius,Kalmar,2017-08-27,13:00:00,Good,Clear,16,Warm,4_4_2,4_2_3_1,00:00
+6184,254,SweAV,2380311,Jonkopings Sodra,Hacken,2017-08-27,13:00:00,"Artificial, Good",Clear,16,Warm,4_2_3_1,4_2_3_1,00:00
+6185,255,SweAV,2380311,Jonkopings Sodra,Hacken,2017-08-27,13:00:00,"Artificial, Good",Clear,16,Warm,4_2_3_1,4_4_2,45:00
+6186,256,SweAV,2380313,IFK Goteborg,Malmo FF,2017-08-27,15:30:00,"Good, Soft","Clear, Sun, Wind",15,Cold,4_2_2_2,4_2_2_2,00:00
+6187,257,SweAV,2380313,IFK Goteborg,Malmo FF,2017-08-27,15:30:00,"Good, Soft","Clear, Sun, Wind",15,Cold,4_1_2_1_2,4_2_2_2,10:37
+6188,258,SweAV,2380313,IFK Goteborg,Malmo FF,2017-08-27,15:30:00,"Good, Soft","Clear, Sun, Wind",15,Cold,4_1_2_1_2,4_4_2,87:04
+6189,259,SweAV,2380312,Halmstad,Elfsborg,2017-08-27,15:30:00,"Artificial, Excellent",Cloud,15,Cold,4_4_2,4_4_2,00:00
+6190,260,SweAV,2380309,Orebro,GIF Sundsvall,2017-08-27,15:30:00,"Artificial, Excellent","Clear, Sun",16,Warm,3_4_2_1,4_4_2,00:00
+6191,261,SweAV,2380309,Orebro,GIF Sundsvall,2017-08-27,15:30:00,"Artificial, Excellent","Clear, Sun",16,Warm,4_4_2,4_4_2,62:36
+6192,262,SweAV,2380309,Orebro,GIF Sundsvall,2017-08-27,15:30:00,"Artificial, Excellent","Clear, Sun",16,Warm,4_4_2,3_4_3,85:42
+6193,263,SweAV,2380318,AFC Eskilstuna,Ostersunds FK,2017-09-09,14:00:00,Artificial,"Cloud, Light Rain, Wind",9,-,4_3_1_2,5_3_2,00:00
+6194,264,SweAV,2380318,AFC Eskilstuna,Ostersunds FK,2017-09-09,14:00:00,Artificial,"Cloud, Light Rain, Wind",9,-,5_3_2,5_3_2,54:25
+6195,265,SweAV,2380318,AFC Eskilstuna,Ostersunds FK,2017-09-09,14:00:00,Artificial,"Cloud, Light Rain, Wind",9,-,5_3_2,4_2_3_1,66:27
+6196,266,SweAV,2380318,AFC Eskilstuna,Ostersunds FK,2017-09-09,14:00:00,Artificial,"Cloud, Light Rain, Wind",9,-,5_3_2,4_4_2,73:16
+6197,267,SweAV,2380320,AIK,Hammarby,2017-09-10,13:00:00,"Artificial, Good","Cloud, Light Wind, Wind",17,Warm,4_4_2,3_5_2,00:00
+6198,268,SweAV,2380320,AIK,Hammarby,2017-09-10,13:00:00,"Artificial, Good","Cloud, Light Wind, Wind",17,Warm,4_3_3,3_5_2,45:00
+6199,269,SweAV,2380322,Kalmar,Elfsborg,2017-09-10,13:00:00,"Artificial, Good","Cloud, Sun, Wind",15,-,4_4_2,4_3_3,00:00
+6200,270,SweAV,2380322,Kalmar,Elfsborg,2017-09-10,13:00:00,"Artificial, Good","Cloud, Sun, Wind",15,-,4_4_2,4_4_2,40:11
+6201,271,SweAV,2380316,Hacken,Halmstad,2017-09-10,13:00:00,Good,"Cloud, Sun",18,-,4_4_2,4_1_4_1,00:00
+6202,272,SweAV,2380316,Hacken,Halmstad,2017-09-10,13:00:00,Good,"Cloud, Sun",18,-,4_4_2,5_4_1,83:09
+6203,273,SweAV,2380323,Malmo FF,Orebro,2017-09-10,13:00:00,Artificial,Cloud,15,-,4_4_2,4_4_2,00:00
+6204,274,SweAV,2380319,Norrkoping,Jonkopings Sodra,2017-09-10,15:30:00,Good,"Cloud, Sun",15,-,4_2_3_1,3_4_3,00:00
+6205,275,SweAV,2380317,GIF Sundsvall,Sirius,2017-09-10,15:30:00,Excellent,"Cloud, Sun",16,Warm,4_2_3_1,3_4_2_1,00:00
+6206,276,SweAV,2380321,Djurgarden,IFK Goteborg,2017-09-11,17:00:00,"Good, Wet","Cloud, Light Rain",12,-,4_4_2,4_2_3_1,00:00
+6207,277,SweAV,2380321,Djurgarden,IFK Goteborg,2017-09-11,17:00:00,"Good, Wet","Cloud, Light Rain",12,-,4_4_2,4_4_2,71:27
+6208,278,SweAV,2380329,Norrkoping,Kalmar,2017-09-15,17:00:00,"Good, Wet",Cloud,11,-,4_4_2,3_4_3,00:00
+6209,279,SweAV,2380327,Jonkopings Sodra,IFK Goteborg,2017-09-16,12:00:00,"Good, Wet","Cloud, Light Rain, Sun",14,-,4_4_2,4_2_3_1,00:00
+6210,280,SweAV,2380331,Orebro,Djurgarden,2017-09-16,14:00:00,"Artificial, Good","Cloud, Sun",15,-,4_4_2,4_4_2,00:00
+6211,281,SweAV,2380331,Orebro,Djurgarden,2017-09-16,14:00:00,"Artificial, Good","Cloud, Sun",15,-,4_2_3_1,4_4_2,72:43
+6212,282,SweAV,2380326,Elfsborg,Hacken,2017-09-16,14:00:00,Artificial,Cloud,10,-,4_3_3,4_4_2,00:00
+6213,283,SweAV,2380325,Ostersunds FK,Sirius,2017-09-17,13:00:00,Good,"Cloud, Sun",15,-,4_3_3,3_4_3,00:00
+6214,284,SweAV,2380330,Halmstad,AIK,2017-09-17,13:00:00,Good,Cloud,15,Warm,3_5_2,4_4_2,04:30
+6215,285,SweAV,2380330,Halmstad,AIK,2017-09-17,13:00:00,Good,Cloud,15,Warm,3_5_2,3_4_1_2,45:00
+6216,286,SweAV,2380328,Hammarby,Malmo FF,2017-09-17,15:30:00,Good,"Clear, Sun",14,-,4_4_2,4_4_2,00:00
+6217,287,SweAV,2380328,Hammarby,Malmo FF,2017-09-17,15:30:00,Good,"Clear, Sun",14,-,4_4_2,4_1_4_1,45:00
+6218,288,SweAV,2380324,GIF Sundsvall,AFC Eskilstuna,2017-09-18,17:00:00,"Artificial, Good, Wet","Cloud, Rain",11,-,5_3_2,3_4_3,00:00
+6219,289,SweAV,2380324,GIF Sundsvall,AFC Eskilstuna,2017-09-18,17:00:00,"Artificial, Good, Wet","Cloud, Rain",11,-,4_4_2,3_4_3,81:32
+6220,290,SweAV,2380338,Djurgarden,Elfsborg,2017-09-19,17:00:00,"Artificial, Good","Cloud, Light Rain",10,-,4_4_2,4_4_2,00:00
+6221,291,SweAV,2380337,Hacken,Norrkoping,2017-09-19,17:00:00,"Artificial, Good",Cloud,10,-,3_4_3,4_3_3,00:00
+6222,292,SweAV,2380337,Hacken,Norrkoping,2017-09-19,17:00:00,"Artificial, Good",Cloud,10,-,3_4_3,4_2_3_1,45:00
+6223,293,SweAV,2380332,Kalmar,Halmstad,2017-09-20,17:00:00,"Average, Soft, Wet","Cloud, Light Rain",12,-,3_4_1_2,4_4_2,00:00
+6224,294,SweAV,2380332,Kalmar,Halmstad,2017-09-20,17:00:00,"Average, Soft, Wet","Cloud, Light Rain",12,-,3_4_1_2,4_4_1_1,25:43
+6225,295,SweAV,2380332,Kalmar,Halmstad,2017-09-20,17:00:00,"Average, Soft, Wet","Cloud, Light Rain",12,-,4_3_3,4_4_1_1,78:05
+6226,296,SweAV,2380335,IFK Goteborg,Hammarby,2017-09-20,17:00:00,"Artificial, Excellent","Cloud, Light Rain",11,-,4_5_1,4_4_2,00:00
+6227,297,SweAV,2380333,Malmo FF,Ostersunds FK,2017-09-20,17:00:00,"Artificial, Good, Wet",Cloud,9,Cold,3_4_1_2,4_4_2,00:00
+6228,298,SweAV,2380333,Malmo FF,Ostersunds FK,2017-09-20,17:00:00,"Artificial, Good, Wet",Cloud,9,Cold,4_2_3_1,4_4_2,45:00
+6229,299,SweAV,2380333,Malmo FF,Ostersunds FK,2017-09-20,17:00:00,"Artificial, Good, Wet",Cloud,9,Cold,4_2_3_1,4_4_1_1,59:12
+6230,300,SweAV,2380333,Malmo FF,Ostersunds FK,2017-09-20,17:00:00,"Artificial, Good, Wet",Cloud,9,Cold,3_4_1_2,4_4_1_1,72:45
+6231,301,SweAV,2380333,Malmo FF,Ostersunds FK,2017-09-20,17:00:00,"Artificial, Good, Wet",Cloud,9,Cold,3_4_1_2,5_4_1,80:23
+6232,302,SweAV,2380334,Sirius,Jonkopings Sodra,2017-09-20,17:00:00,"Average, Patchy",Clear,11,Cold,4_2_3_1,4_3_3,00:00
+6233,303,SweAV,2380339,AFC Eskilstuna,Orebro,2017-09-21,16:00:00,"Artificial, Good","Cloud, Light Wind",12,-,4_4_2,4_3_3,00:00
+6234,304,SweAV,2380339,AFC Eskilstuna,Orebro,2017-09-21,16:00:00,"Artificial, Good","Cloud, Light Wind",12,-,4_4_2,5_4_1,86:08
+6235,305,SweAV,2380336,AIK,GIF Sundsvall,2017-09-21,17:00:00,"Artificial, Good, Wet","Cloud, Light Rain",10,-,3_4_3,3_5_2,00:00
+6236,306,SweAV,2380340,Norrkoping,Halmstad,2017-09-23,12:00:00,"Average, Soft",Cloud,16,-,3_4_1_2,3_4_3,00:00
+6237,307,SweAV,2380346,Ostersunds FK,Kalmar,2017-09-24,13:00:00,Good,"Cloud, Sun",18,-,3_4_3,3_5_2,00:00
+6238,308,SweAV,2380346,Ostersunds FK,Kalmar,2017-09-24,13:00:00,Good,"Cloud, Sun",18,-,3_4_3,4_2_3_1,80:28
+6239,309,SweAV,2380347,Hammarby,Djurgarden,2017-09-24,13:00:00,"Artificial, Excellent",Clear,16,Warm,4_2_3_1,4_4_2,00:00
+6240,310,SweAV,2380347,Hammarby,Djurgarden,2017-09-24,13:00:00,"Artificial, Excellent",Clear,16,Warm,4_2_2_2,4_4_2,77:16
+6241,311,SweAV,2380344,AIK,Hacken,2017-09-24,15:30:00,Average,"Cloud, Sun",17,-,3_4_3,3_5_2,00:00
+6242,312,SweAV,2380343,GIF Sundsvall,Jonkopings Sodra,2017-09-24,15:30:00,Average,"Cloud, Sun",16,-,4_2_3_1,3_4_3,00:00
+6243,313,SweAV,2380341,IFK Goteborg,AFC Eskilstuna,2017-09-25,17:00:00,"Artificial, Good","Cloud, Light Wind",13,-,3_5_1_1,4_4_2,00:00
+6244,314,SweAV,2380341,IFK Goteborg,AFC Eskilstuna,2017-09-25,17:00:00,"Artificial, Good","Cloud, Light Wind",13,-,4_4_2,4_4_2,72:28
+6245,315,SweAV,2380345,Elfsborg,Malmo FF,2017-09-25,17:00:00,"Good, Wet","Cloud, Light Rain",14,-,4_4_2,3_4_3,00:00
+6246,316,SweAV,2380345,Elfsborg,Malmo FF,2017-09-25,17:00:00,"Good, Wet","Cloud, Light Rain",14,-,4_4_2,4_4_2,45:00
+6247,317,SweAV,2380345,Elfsborg,Malmo FF,2017-09-25,17:00:00,"Good, Wet","Cloud, Light Rain",14,-,4_4_2,4_4_1_1,56:37
+6248,318,SweAV,2380342,Orebro,Sirius,2017-09-25,17:00:00,Excellent,Clear,14,Warm,4_3_3,4_4_2,00:00
+6249,319,SweAV,2380352,Sirius,IFK Goteborg,2017-09-29,17:00:00,Average,Clear,13,Cold,4_4_2,4_2_3_1,00:00
+6250,320,SweAV,2380348,Jonkopings Sodra,AFC Eskilstuna,2017-09-30,14:00:00,"Excellent, Soft","Cloud, Sun",12,-,3_5_1_1,4_2_3_1,00:00
+6251,321,SweAV,2380351,Djurgarden,GIF Sundsvall,2017-10-01,13:00:00,"Artificial, Good","Cloud, Sun",12,-,3_4_2_1,4_4_2,00:00
+6252,322,SweAV,2380349,Hacken,Ostersunds FK,2017-10-01,13:00:00,"Artificial, Good",Cloud,9,Cold,4_5_1,3_4_3,00:00
+6253,323,SweAV,2380349,Hacken,Ostersunds FK,2017-10-01,13:00:00,"Artificial, Good",Cloud,9,Cold,4_4_2,3_4_3,69:23
+6254,324,SweAV,2380353,Halmstad,Malmo FF,2017-10-01,13:00:00,Good,Cloud,13,-,4_4_2,4_2_3_1,00:00
+6255,325,SweAV,2380355,Kalmar,Orebro,2017-10-01,15:30:00,Average,"Cloud, Sun",15,-,4_4_2,3_5_2,00:00
+6256,326,SweAV,2380350,Norrkoping,Hammarby,2017-10-01,15:30:00,"Artificial, Good",Cloud,12,-,4_4_2,3_4_3,00:00
+6257,327,SweAV,2380354,Elfsborg,AIK,2017-10-01,15:30:00,"Dry, Excellent","Clear, Closed Roof",13,Warm,3_5_2,4_4_2,00:00
+6258,328,SweAV,2380356,IFK Goteborg,Halmstad,2017-10-14,12:00:00,"Average, Wet","Cloud, Light Rain",14,-,3_4_3,4_4_2,00:00
+6259,329,SweAV,2380358,Orebro,Ostersunds FK,2017-10-14,14:00:00,"Artificial, Good","Cloud, Sun",9,Cold,4_4_2,4_4_2,00:00
+6260,330,SweAV,2380360,AFC Eskilstuna,Hacken,2017-10-14,14:00:00,"Artificial, Good","Cloud, Sun, Wind",13,-,4_2_3_1,3_5_1_1,00:00
+6261,331,SweAV,2380363,Jonkopings Sodra,AIK,2017-10-15,13:00:00,Average,"Sun, Wind",13,-,3_5_2,4_2_3_1,00:00
+6262,332,SweAV,2380361,GIF Sundsvall,Elfsborg,2017-10-15,15:30:00,"Artificial, Excellent","Cloud, Light Wind",13,Warm,4_4_2,3_4_2_1,00:00
+6263,333,SweAV,2380361,GIF Sundsvall,Elfsborg,2017-10-15,15:30:00,"Artificial, Excellent","Cloud, Light Wind",13,Warm,4_2_2_2,3_4_2_1,57:08
+6264,334,SweAV,2380357,Djurgarden,Sirius,2017-10-15,15:30:00,Average,Clear,11,-,4_3_3,4_4_2,00:00
+6265,335,SweAV,2380362,Hammarby,Kalmar,2017-10-16,17:00:00,Good,Cloud,14,-,4_4_2,4_3_3,00:00
+6266,336,SweAV,2380362,Hammarby,Kalmar,2017-10-16,17:00:00,Good,Cloud,14,-,4_4_2,4_4_2,45:00
+6267,337,SweAV,2380359,Malmo FF,Norrkoping,2017-10-16,17:00:00,"Artificial, Good",Clear,12,-,3_4_3,4_4_2,00:00
+6268,338,SweAV,2380371,Halmstad,Orebro,2017-10-20,17:00:00,"Artificial, Good",Clear,8,Cold,4_4_2,3_4_3,00:00
+6269,339,SweAV,2380364,Elfsborg,AFC Eskilstuna,2017-10-21,14:00:00,Good,"Clear, Sun",12,Cold,4_4_1_1,4_4_2,00:00
+6270,340,SweAV,2380367,Norrkoping,GIF Sundsvall,2017-10-22,13:00:00,Excellent,Cloud,6,Cold,3_4_3,3_4_3,00:00
+6271,341,SweAV,2380368,Ostersunds FK,IFK Goteborg,2017-10-22,13:00:00,"Good, Wet","Cloud, Light Rain",8,Cold,4_4_2,3_5_2,00:00
+6272,342,SweAV,2380370,Hacken,Djurgarden,2017-10-22,15:30:00,Excellent,"Cloud, Sun",8,Cold,4_4_2,3_4_3,00:00
+6273,343,SweAV,2380365,Kalmar,Jonkopings Sodra,2017-10-23,17:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",5,Cold,4_2_3_1,4_4_2,00:00
+6274,344,SweAV,2380369,AIK,Malmo FF,2017-10-23,17:00:00,Good,"Cloud, Light Rain",8,Cold,4_4_2,3_5_2,00:00
+6275,345,SweAV,2380366,Sirius,Hammarby,2017-10-23,17:00:00,Artificial,Clear,5,Cold,4_4_2,4_3_3,00:00
+6276,346,SweAV,2380374,Elfsborg,Ostersunds FK,2017-10-28,12:00:00,"Artificial, Dry","Clear, Sun",4,Cold,3_5_2,4_4_2,00:00
+6277,347,SweAV,2380374,Elfsborg,Ostersunds FK,2017-10-28,12:00:00,"Artificial, Dry",Clear,4,Cold,3_5_2,4_4_2,00:00
+6278,348,SweAV,2380374,Elfsborg,Ostersunds FK,2017-10-28,12:00:00,"Artificial, Dry",Cloud,4,Cold,3_5_2,4_4_2,00:00
+6279,349,SweAV,2380372,AFC Eskilstuna,Halmstad,2017-10-28,14:00:00,"Patchy, Poor, Soft","Cloud, Sun",11,Cold,3_4_3,3_5_1_1,00:00
+6280,350,SweAV,2380375,Hammarby,GIF Sundsvall,2017-10-29,14:00:00,"Artificial, Good","Sun, Wind",4,Cold,3_4_2_1,4_4_2,00:00
+6281,351,SweAV,2380375,Hammarby,GIF Sundsvall,2017-10-29,14:00:00,"Artificial, Good","Sun, Wind",4,Cold,4_4_2,4_4_2,72:13
+6282,352,SweAV,2380373,Malmo FF,Sirius,2017-10-29,14:00:00,Average,"Cloud, Sun, Wind",4,Cold,4_3_3,4_3_3,00:00
+6283,353,SweAV,2380379,Jonkopings Sodra,Djurgarden,2017-10-29,16:30:00,"Artificial, Good","Cloud, Wind",5,Cold,4_4_2,4_2_3_1,00:00
+6284,354,SweAV,2380377,Kalmar,Hacken,2017-10-29,16:30:00,"Artificial, Excellent","Clear, Wind",4,Cold,4_3_3,3_5_2,00:00
+6285,355,SweAV,2380377,Kalmar,Hacken,2017-10-29,16:30:00,"Artificial, Excellent","Clear, Wind",4,Cold,4_3_1_2,3_5_2,45:00
+6286,356,SweAV,2380377,Kalmar,Hacken,2017-10-29,16:30:00,"Artificial, Excellent","Clear, Wind",4,Cold,4_3_1_2,3_4_3,67:09
+6287,357,SweAV,2380377,Kalmar,Hacken,2017-10-29,16:30:00,"Artificial, Excellent","Clear, Wind",4,Cold,4_4_2,3_4_3,70:15
+6288,358,SweAV,2380378,IFK Goteborg,AIK,2017-10-30,18:00:00,Good,Clear,2,Cold,3_5_2,4_4_2,00:00
+6289,359,SweAV,2380376,Orebro,Norrkoping,2017-10-30,18:00:00,"Artificial, Good",Clear,2,Cold,4_3_3,5_4_1,00:00
+6290,360,SweAV,2380376,Orebro,Norrkoping,2017-10-30,18:00:00,"Artificial, Good",Clear,2,Cold,3_4_3,5_4_1,23:00
+6291,361,SweAV,2380376,Orebro,Norrkoping,2017-10-30,18:00:00,"Artificial, Good",Clear,2,Cold,3_4_3,4_4_2,62:10
+6292,362,SweAV,2380382,Halmstad,Hammarby,2017-11-05,14:00:00,Average,Clear,6,-,4_2_3_1,3_4_3,00:00
+6293,363,SweAV,2380380,Sirius,AFC Eskilstuna,2017-11-05,14:00:00,"Artificial, Good","Cloud, Light Wind",10,-,4_1_2_1_2,4_3_3,00:00
+6294,364,SweAV,2380384,Norrkoping,Elfsborg,2017-11-05,14:00:00,"Artificial, Good",Cloud,8,Cold,4_4_2,3_4_3,00:00
+6295,365,SweAV,2380383,GIF Sundsvall,IFK Goteborg,2017-11-05,14:00:00,"Average, Wet","Cloud, Light Rain",7,Cold,4_4_2,3_4_3,00:00
+6296,366,SweAV,2380385,Hacken,Malmo FF,2017-11-05,14:00:00,"Poor, Wet",Light Rain,8,Cold,4_4_2,4_3_3,00:00
+6297,367,SweAV,2380387,AIK,Orebro,2017-11-05,14:00:00,"Artificial, Good","Cloud, Wind",10,Cold,3_5_1_1,3_4_1_2,00:00
+6298,368,SweAV,2380387,AIK,Orebro,2017-11-05,14:00:00,"Artificial, Good","Cloud, Wind",10,Cold,3_5_1_1,3_5_2,63:26
+6299,369,SweAV,2380381,Ostersunds FK,Jonkopings Sodra,2017-11-05,14:00:00,Good,Clear,10,-,4_2_3_1,3_5_2,00:00
+6300,370,SweAV,2380386,Djurgarden,Kalmar,2017-11-05,14:00:00,Good,Cloud,7,Cold,4_4_2,4_4_2,00:00

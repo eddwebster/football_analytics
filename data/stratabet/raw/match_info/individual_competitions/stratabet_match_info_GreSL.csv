@@ -1,0 +1,743 @@
+True,index,competition,gsm_id,awayteam_team2,hometeam_team1,kickoffDate,kickoffTime,pitchType,weatherType,tempCelcius,tempType,formation_team1,formation_team2,formation_time
+4091,430,GreSL,2355591,Platanias,Kerkyra,2016-09-10,13:00:00,"Average, Dry",Cloud,25.0,Warm,4_4_2,4_5_1,76:13
+4092,431,GreSL,2355591,Platanias,Kerkyra,2016-09-10,13:00:00,"Average, Dry",Cloud,25.0,Warm,4_2_3_1,4_2_3_1,67:54
+4093,432,GreSL,2355591,Platanias,Kerkyra,2016-09-10,13:00:00,"Average, Dry",Cloud,25.0,Warm,4_4_2,4_2_3_1,74:39
+4090,429,GreSL,2355588,Asteras Tripolis,Panionios,2016-09-10,15:15:00,"Average, Dry","Clear, Sun",26.0,Hot,4_2_3_1,4_2_3_1,82:34
+4089,428,GreSL,2355587,Panathinaikos,Levadiakos,2016-09-10,17:30:00,Excellent,Clear,24.0,Warm,4_2_3_1,4_2_3_1,81:32
+4086,425,GreSL,2355592,Xanthi,AEK Athens,2016-09-11,13:00:00,"Dry, Good","Clear, Light Wind, Sun",26.0,Hot,5_4_1,4_4_2,71:27
+4087,426,GreSL,2355592,Xanthi,AEK Athens,2016-09-11,13:00:00,"Dry, Good","Clear, Light Wind, Sun",26.0,Hot,4_2_3_1,4_2_3_1,60:52
+4088,427,GreSL,2355592,Xanthi,AEK Athens,2016-09-11,13:00:00,"Dry, Good","Clear, Light Wind, Sun",26.0,Hot,5_4_1,4_2_3_1,64:48
+4083,422,GreSL,2355586,Panaitolikos,PAOK,2016-09-11,15:15:00,"Dry, Good","Clear, Sun",28.0,-,4_2_3_1,4_2_3_1,77:35
+4084,423,GreSL,2355589,Atromitos,PAS Giannina,2016-09-11,15:15:00,"Dry, Poor, Soft","Cloud, Sun",27.0,Hot,3_5_2,4_2_3_1,70:36
+4085,424,GreSL,2355589,Atromitos,PAS Giannina,2016-09-11,15:15:00,"Dry, Poor, Soft","Cloud, Rain",27.0,Hot,3_5_2,4_2_3_1,70:36
+4082,421,GreSL,2355590,Veria,Olympiakos Piraeus,2016-09-11,17:30:00,"Good, Soft","Cloud, Light Rain",25.0,Warm,4_2_3_1,4_2_3_1,70:05
+4081,420,GreSL,2355593,Iraklis,Larissa,2016-09-12,16:30:00,"Average, Patchy",Clear,19.0,Warm,4_2_3_1,4_2_3_1,64:00
+4080,419,GreSL,2357467,Panionios,Xanthi,2016-09-17,13:00:00,"Excellent, Wet",Clear,24.0,Warm,4_2_3_1,4_2_3_1,82:10
+4079,418,GreSL,2357468,Levadiakos,Platanias,2016-09-17,15:15:00,Average,Sun,28.0,Hot,4_2_3_1,4_2_3_1,81:56
+4078,417,GreSL,2357469,AEK Athens,Veria,2016-09-17,17:00:00,Good,Clear,25.0,Warm,4_2_3_1,4_2_3_1,80:51
+4076,415,GreSL,2357470,PAS Giannina,Panathinaikos,2016-09-18,13:00:00,Excellent,Cloud,29.0,Hot,4_2_3_1,3_5_2,61:03
+4077,416,GreSL,2357470,PAS Giannina,Panathinaikos,2016-09-18,13:00:00,Excellent,Cloud,29.0,Hot,3_5_2,3_5_2,25:52
+4068,407,GreSL,2357472,Panaitolikos,Atromitos,2016-09-18,15:15:00,Average,"Cloud, Sun",31.0,Hot,4_4_2,4_2_3_1,80:06
+4069,408,GreSL,2357472,Panaitolikos,Atromitos,2016-09-18,15:15:00,Average,"Cloud, Sun",31.0,Hot,4_2_3_1,4_2_3_1,68:33
+4070,409,GreSL,2357471,Larissa,Kerkyra,2016-09-18,15:15:00,Poor,Cloud,25.0,Hot,4_2_3_1,4_2_3_1,78:10
+4071,410,GreSL,2357471,Larissa,Kerkyra,2016-09-18,15:15:00,Poor,Cloud,25.0,Hot,4_2_3_1,3_4_2_1,61:28
+4072,411,GreSL,2357471,Larissa,Kerkyra,2016-09-18,15:15:00,Poor,Cloud,25.0,Hot,4_1_4_1,3_4_1_2,45:00
+4073,412,GreSL,2357471,Larissa,Kerkyra,2016-09-18,15:15:00,Poor,Cloud,25.0,Hot,4_1_4_1,4_2_3_1,00:00
+4074,413,GreSL,2357471,Larissa,Kerkyra,2016-09-18,15:15:00,Poor,Cloud,25.0,Hot,4_1_4_1,3_4_2_1,58:34
+4075,414,GreSL,2357471,Larissa,Kerkyra,2016-09-18,15:15:00,Poor,Cloud,25.0,Hot,4_5_1,4_2_3_1,90:17
+4060,399,GreSL,2357473,Olympiakos Piraeus,Iraklis,2016-09-18,17:30:00,Average,Clear,20.0,Warm,4_2_3_1,4_2_3_1,45:00
+4061,400,GreSL,2357473,Olympiakos Piraeus,Iraklis,2016-09-18,17:30:00,Average,Clear,20.0,Warm,4_2_3_1,4_2_3_1,45:00
+4062,401,GreSL,2357473,Olympiakos Piraeus,Iraklis,2016-09-18,17:30:00,Average,Clear,20.0,Warm,4_2_3_1,4_2_3_1,45:00
+4063,402,GreSL,2357473,Olympiakos Piraeus,Iraklis,2016-09-18,17:30:00,Average,Clear,20.0,Warm,4_2_3_1,4_2_3_1,45:00
+4064,403,GreSL,2357473,Olympiakos Piraeus,Iraklis,2016-09-18,17:30:00,Average,Clear,20.0,Warm,4_2_3_1,4_2_3_1,45:00
+4065,404,GreSL,2357473,Olympiakos Piraeus,Iraklis,2016-09-18,17:30:00,Average,Clear,20.0,Warm,4_2_3_1,4_2_3_1,45:00
+4066,405,GreSL,2357473,Olympiakos Piraeus,Iraklis,2016-09-18,17:30:00,Average,Clear,20.0,Warm,4_2_3_1,4_2_3_1,45:00
+4067,406,GreSL,2357473,Olympiakos Piraeus,Iraklis,2016-09-18,17:30:00,Average,Clear,20.0,Warm,4_2_3_1,4_2_3_1,45:00
+4058,397,GreSL,2357474,PAOK,Asteras Tripolis,2016-09-19,16:30:00,Average,Cloud,19.0,-,4_2_3_1,4_3_3,82:02
+4059,398,GreSL,2357474,PAOK,Asteras Tripolis,2016-09-19,16:30:00,Average,Cloud,19.0,-,4_4_1_1,4_3_3,45:00
+4057,396,GreSL,2359274,Platanias,PAS Giannina,2016-09-24,13:00:00,Average,"Clear, Sun",23.0,Warm,3_5_2,4_2_3_1,88:22
+4056,395,GreSL,2359275,Veria,Panionios,2016-09-24,15:15:00,"Average, Dry","Clear, Sun",23.0,Warm,4_4_2,4_4_1_1,74:30
+4055,394,GreSL,2359276,Panathinaikos,Panaitolikos,2016-09-24,17:30:00,"Dry, Good","Cloud, Sun",24.0,Warm,4_2_3_1,4_2_3_1,81:04
+4051,390,GreSL,2359277,Xanthi,PAOK,2016-09-25,13:00:00,"Dry, Excellent, Soft",Sun,24.0,Hot,4_4_2,4_5_1,81:34
+4052,391,GreSL,2359277,Xanthi,PAOK,2016-09-25,13:00:00,"Dry, Excellent, Soft",Sun,24.0,Hot,4_3_3,4_5_1,68:39
+4053,392,GreSL,2359277,Xanthi,PAOK,2016-09-25,13:00:00,"Dry, Excellent, Soft",Sun,24.0,Hot,4_3_3,4_2_3_1,58:17
+4054,393,GreSL,2359277,Xanthi,PAOK,2016-09-25,13:00:00,"Dry, Excellent, Soft",Sun,24.0,Hot,4_4_2,5_3_2,92:16
+4045,384,GreSL,2359278,Asteras Tripolis,Atromitos,2016-09-25,15:15:00,"Average, Dry, Patchy","Clear, Sun",24.0,Hot,4_3_3,3_4_3,78:31
+4046,385,GreSL,2359278,Asteras Tripolis,Atromitos,2016-09-25,15:15:00,"Average, Dry, Patchy","Clear, Sun",24.0,Hot,4_3_3,4_2_3_1,62:25
+4047,386,GreSL,2359278,Asteras Tripolis,Atromitos,2016-09-25,15:15:00,"Average, Dry, Patchy","Clear, Sun",24.0,Hot,4_2_3_1,4_2_3_1,00:00
+4048,387,GreSL,2359279,Kerkyra,Levadiakos,2016-09-25,15:15:00,"Dry, Patchy, Poor","Clear, Sun",22.0,Hot,4_2_3_1,3_5_1_1,73:28
+4049,388,GreSL,2359279,Kerkyra,Levadiakos,2016-09-25,15:15:00,"Dry, Patchy, Poor","Clear, Sun",22.0,Hot,4_2_3_1,4_1_4_1,67:45
+4050,389,GreSL,2359279,Kerkyra,Levadiakos,2016-09-25,15:15:00,"Dry, Patchy, Poor","Clear, Sun",22.0,Hot,4_2_3_1,4_5_1,59:13
+4044,383,GreSL,2359280,Olympiakos Piraeus,Larissa,2016-09-25,17:30:00,"Average, Wet",Rain,15.0,-,5_4_1,4_4_2,80:28
+4041,380,GreSL,2359281,Iraklis,AEK Athens,2016-09-26,16:30:00,"Dry, Good",Cloud,23.0,Warm,4_4_2,4_5_1,71:49
+4042,381,GreSL,2359281,Iraklis,AEK Athens,2016-09-26,16:30:00,"Dry, Good",Cloud,23.0,Warm,4_2_3_1,4_2_3_1,53:32
+4043,382,GreSL,2359281,Iraklis,AEK Athens,2016-09-26,16:30:00,"Dry, Good",Cloud,23.0,Warm,4_2_3_1,4_5_1,59:58
+4040,379,GreSL,2360808,PAS Giannina,Kerkyra,2016-10-01,13:00:00,Average,"Clear, Sun",26.0,Warm,4_1_4_1,3_5_2,83:17
+4039,378,GreSL,2360809,Larissa,Levadiakos,2016-10-01,15:15:00,Average,"Clear, Sun",28.0,Hot,4_2_3_1,4_2_3_1,79:56
+4037,376,GreSL,2360810,Panionios,Iraklis,2016-10-01,17:30:00,Average,Cloud,21.0,Warm,3_4_3,4_2_3_1,98:15
+4038,377,GreSL,2360810,Panionios,Iraklis,2016-10-01,17:30:00,Average,Cloud,21.0,Warm,4_2_3_1,4_2_3_1,69:31
+4035,374,GreSL,2360811,PAOK,Veria,2016-10-02,13:00:00,Average,"Clear, Cloud",18.0,-,4_4_2,4_2_3_1,73:50
+4036,375,GreSL,2360811,PAOK,Veria,2016-10-02,13:00:00,"Average, Dry","Clear, Cloud",18.0,-,4_4_2,4_2_3_1,73:50
+4033,372,GreSL,2360812,Asteras Tripolis,Panathinaikos,2016-10-02,15:15:00,"Average, Uneven",Clear,25.0,Warm,4_2_3_1,4_2_3_1,74:20
+4034,373,GreSL,2360813,Panaitolikos,Platanias,2016-10-02,15:15:00,Average,"Clear, Sun",24.0,Hot,4_3_3,4_2_3_1,81:42
+4032,371,GreSL,2360814,AEK Athens,Olympiakos Piraeus,2016-10-02,17:30:00,Good,Clear,23.0,Warm,4_2_3_1,4_2_3_1,71:23
+4031,370,GreSL,2360815,Atromitos,Xanthi,2016-10-03,16:30:00,"Dry, Good",Clear,26.0,Hot,4_2_3_1,4_2_3_1,74:30
+4030,369,GreSL,2361760,Kerkyra,Panaitolikos,2016-10-15,13:00:00,Good,Sun,24.0,Warm,4_2_3_1,4_2_3_1,66:54
+4029,368,GreSL,2361761,Platanias,Asteras Tripolis,2016-10-15,15:15:00,"Average, Dry",Clear,24.0,Warm,4_2_3_1,4_1_4_1,77:44
+4026,365,GreSL,2361762,Olympiakos Piraeus,Panionios,2016-10-15,17:30:00,"Patchy, Poor, Uneven",Clear,22.0,-,4_4_2,4_2_3_1,88:03
+4027,366,GreSL,2361762,Olympiakos Piraeus,Panionios,2016-10-15,17:30:00,"Patchy, Poor, Uneven",Clear,22.0,-,4_2_3_1,4_2_3_1,77:04
+4028,367,GreSL,2361762,Olympiakos Piraeus,Panionios,2016-10-15,17:30:00,"Patchy, Poor, Uneven",Clear,22.0,-,4_4_2,4_3_3,90:43
+4025,364,GreSL,2361763,Xanthi,Panathinaikos,2016-10-16,13:00:00,Excellent,Sun,22.0,-,4_2_3_1,4_2_3_1,74:33
+4024,363,GreSL,2361764,Veria,Atromitos,2016-10-16,15:15:00,"Patchy, Poor",Cloud,22.0,Warm,4_2_3_1,4_2_3_1,81:33
+4022,361,GreSL,2361766,Iraklis,PAOK,2016-10-16,17:30:00,Good,Cloud,19.0,-,4_3_3,4_4_1_1,82:20
+4023,362,GreSL,2361766,Iraklis,PAOK,2016-10-16,17:30:00,Good,Cloud,19.0,-,4_3_3,4_2_3_1,00:00
+4020,359,GreSL,2361767,AEK Athens,Larissa,2016-10-17,16:30:00,"Poor, Uneven",Cloud,17.0,-,4_2_3_1,4_4_1_1,72:08
+4021,360,GreSL,2361767,AEK Athens,Larissa,2016-10-17,16:30:00,"Poor, Uneven",Cloud,17.0,-,4_2_3_1,4_3_3,63:00
+4019,358,GreSL,2361768,Asteras Tripolis,Kerkyra,2016-10-22,13:00:00,"Dry, Excellent","Cloud, Sun",25.0,Hot,4_2_3_1,4_2_3_1,73:30
+4018,357,GreSL,2361769,Xanthi,Platanias,2016-10-22,15:15:00,"Dry, Excellent",Clear,18.0,Warm,4_2_3_1,4_2_3_1,79:27
+4016,355,GreSL,2361770,Panionios,AEK Athens,2016-10-22,17:30:00,Good,"Cloud, Light Rain",19.0,Warm,4_4_2,4_2_3_1,85:12
+4017,356,GreSL,2361770,Panionios,AEK Athens,2016-10-22,17:30:00,Good,"Cloud, Light Rain",19.0,Warm,4_3_3,4_2_3_1,66:08
+4015,354,GreSL,2361771,Atromitos,Iraklis,2016-10-23,13:00:00,"Average, Uneven","Cloud, Sun",21.0,Hot,4_2_3_1,4_2_3_1,79:32
+4005,344,GreSL,2361772,Panaitolikos,Levadiakos,2016-10-23,15:15:00,Average,Cloud,12.0,-,4_2_3_1,4_4_2,88:01
+4006,345,GreSL,2361772,Panaitolikos,Levadiakos,2016-10-23,15:15:00,Average,Cloud,12.0,-,4_2_3_1,4_1_4_1,67:40
+4007,346,GreSL,2361773,Larissa,PAS Giannina,2016-10-23,15:15:00,Average,Cloud,18.0,-,3_5_2,4_4_2,75:25
+4008,347,GreSL,2361773,Larissa,PAS Giannina,2016-10-23,15:15:00,Average,Cloud,18.0,-,3_5_2,3_4_3,45:00
+4009,348,GreSL,2361773,Larissa,PAS Giannina,2016-10-23,15:15:00,Average,"Cloud, Rain",18.0,-,3_5_2,4_4_2,75:25
+4010,349,GreSL,2361773,Larissa,PAS Giannina,2016-10-23,15:15:00,Average,"Cloud, Rain",18.0,-,3_5_2,3_4_3,45:00
+4011,350,GreSL,2361773,Larissa,PAS Giannina,2016-10-23,15:15:00,Good,Cloud,18.0,-,3_5_2,4_4_2,75:25
+4012,351,GreSL,2361773,Larissa,PAS Giannina,2016-10-23,15:15:00,Good,Cloud,18.0,-,3_5_2,3_4_3,45:00
+4013,352,GreSL,2361773,Larissa,PAS Giannina,2016-10-23,15:15:00,Good,"Cloud, Rain",18.0,-,3_5_2,4_4_2,75:25
+4014,353,GreSL,2361773,Larissa,PAS Giannina,2016-10-23,15:15:00,Good,"Cloud, Rain",18.0,-,3_5_2,3_4_3,45:00
+4004,343,GreSL,2361774,PAOK,Olympiakos Piraeus,2016-10-23,17:30:00,Excellent,Cloud,22.0,-,4_2_3_1,4_2_3_1,84:05
+4003,342,GreSL,2361775,Panathinaikos,Veria,2016-10-24,16:30:00,Average,Clear,15.0,-,4_2_3_1,4_2_3_1,88:30
+4002,341,GreSL,2361776,Panionios,Larissa,2016-10-29,12:00:00,"Patchy, Poor",Cloud,14.0,-,4_2_3_1,4_2_3_1,83:14
+4001,340,GreSL,2361777,Kerkyra,Xanthi,2016-10-29,14:15:00,"Artificial, Average",Sun,14.0,-,4_2_3_1,4_2_3_1,79:19
+3999,338,GreSL,2361778,Olympiakos Piraeus,Atromitos,2016-10-29,16:30:00,Average,Clear,21.0,Hot,4_2_2_2,4_2_3_1,84:36
+4000,339,GreSL,2361778,Olympiakos Piraeus,Atromitos,2016-10-29,16:30:00,Average,Clear,21.0,Hot,4_2_3_1,4_2_3_1,71:29
+3998,337,GreSL,2361779,Iraklis,Panathinaikos,2016-10-30,13:00:00,Excellent,"Cloud, Sun",19.0,Warm,4_2_3_1,4_2_3_1,77:16
+3994,333,GreSL,2361781,Platanias,Veria,2016-10-30,15:15:00,"Average, Patchy, Soft","Clear, Sun",18.0,Warm,4_2_3_1,4_2_3_1,85:58
+3995,334,GreSL,2361781,Platanias,Veria,2016-10-30,15:15:00,"Average, Patchy, Soft","Clear, Sun",18.0,Warm,5_4_1,4_2_3_1,91:16
+3996,335,GreSL,2361780,Levadiakos,Asteras Tripolis,2016-10-30,15:15:00,"Average, Soft","Cloud, Wind",18.0,Warm,4_2_3_1,4_2_2_2,84:04
+3997,336,GreSL,2361780,Levadiakos,Asteras Tripolis,2016-10-30,15:15:00,"Average, Soft","Cloud, Wind",18.0,Warm,4_2_3_1,4_2_3_1,73:01
+3993,332,GreSL,2361782,AEK Athens,PAOK,2016-10-30,17:30:00,Good,Cloud,11.0,-,4_3_3,4_2_3_1,87:04
+3992,331,GreSL,2361783,PAS Giannina,Panaitolikos,2016-10-31,17:30:00,Average,"Cloud, Light Wind",17.0,-,4_2_3_1,3_4_3,83:44
+3991,330,GreSL,2361784,Asteras Tripolis,PAS Giannina,2016-11-05,13:00:00,"Average, Uneven","Cloud, Sun",20.0,Warm,3_5_2,4_2_3_1,78:43
+3990,329,GreSL,2361785,Xanthi,Levadiakos,2016-11-05,15:15:00,"Average, Uneven",Clear,21.0,Warm,4_2_3_1,4_2_3_1,83:00
+3989,328,GreSL,2361786,Atromitos,AEK Athens,2016-11-05,17:30:00,Good,Clear,18.0,Warm,4_4_2,4_2_3_1,67:37
+3988,327,GreSL,2361789,Larissa,Panaitolikos,2016-11-06,13:00:00,"Dry, Good, Soft","Clear, Sun",18.0,Warm,4_2_3_1,4_2_3_1,80:29
+3985,324,GreSL,2361788,Veria,Kerkyra,2016-11-06,15:15:00,Average,,15.0,-,4_2_3_1,4_2_3_1,75:22
+3986,325,GreSL,2361788,Veria,Kerkyra,2016-11-06,15:15:00,Average,Cloud,15.0,-,4_2_3_1,4_2_3_1,75:22
+3987,326,GreSL,2361787,PAOK,Panionios,2016-11-06,15:15:00,"Good, Soft","Clear, Light Wind, Sun",18.0,Warm,4_2_3_1,4_3_3,80:32
+3984,323,GreSL,2361790,Panathinaikos,Olympiakos Piraeus,2016-11-06,17:30:00,Good,Cloud,19.0,Warm,4_2_3_1,4_2_3_1,73:55
+3983,322,GreSL,2361791,Platanias,Iraklis,2016-11-07,17:30:00,Average,Cloud,21.0,-,4_2_3_1,4_2_3_1,89:10
+3982,321,GreSL,2361765,Levadiakos,PAS Giannina,2016-11-23,15:15:00,"Poor, Uneven","Cloud, Sun",18.0,Warm,3_5_2,4_2_3_1,75:55
+3981,320,GreSL,2361800,Veria,PAS Giannina,2016-11-26,13:00:00,"Average, Uneven",Clear,18.0,Warm,3_5_1_1,4_2_3_1,45:00
+3980,319,GreSL,2361801,Larissa,Asteras Tripolis,2016-11-26,15:15:00,"Average, Wet",Rain,12.0,Cold,4_2_3_1,4_2_3_1,68:21
+3976,315,GreSL,2361802,Platanias,AEK Athens,2016-11-26,17:30:00,"Dry, Good, Soft",Clear,16.0,Warm,4_2_3_1,4_2_3_1,79:26
+3977,316,GreSL,2361802,Platanias,AEK Athens,2016-11-26,17:30:00,"Dry, Good, Soft",,16.0,Warm,4_2_3_1,4_2_3_1,79:26
+3978,317,GreSL,2361802,Platanias,AEK Athens,2016-11-26,17:30:00,Wet,Clear,16.0,Warm,4_2_3_1,4_2_3_1,79:26
+3979,318,GreSL,2361802,Platanias,AEK Athens,2016-11-26,17:30:00,Wet,,16.0,Warm,4_2_3_1,4_2_3_1,79:26
+3974,313,GreSL,2361803,Kerkyra,Olympiakos Piraeus,2016-11-27,13:00:00,Excellent,"Cloud, Light Rain, Sun",16.0,Warm,4_2_3_1,5_4_1,76:30
+3975,314,GreSL,2361803,Kerkyra,Olympiakos Piraeus,2016-11-27,13:00:00,Excellent,"Cloud, Light Rain, Sun",16.0,Warm,4_2_3_1,4_2_3_1,65:29
+3969,308,GreSL,2361804,Iraklis,Levadiakos,2016-11-27,15:15:00,Average,Cloud,14.0,Warm,4_2_3_1,4_2_3_1,75:28
+3970,309,GreSL,2361805,Xanthi,Panaitolikos,2016-11-27,15:15:00,"Good, Soft, Wet",Cloud,15.0,Warm,4_2_3_1,5_4_1,90:18
+3971,310,GreSL,2361805,Xanthi,Panaitolikos,2016-11-27,15:15:00,"Good, Soft, Wet",Cloud,15.0,Warm,4_2_3_1,4_2_3_1,81:10
+3972,311,GreSL,2361805,Xanthi,Panaitolikos,2016-11-27,15:15:00,"Poor, Wet",Cloud,15.0,Warm,4_2_3_1,5_4_1,90:18
+3973,312,GreSL,2361805,Xanthi,Panaitolikos,2016-11-27,15:15:00,"Poor, Wet",Cloud,15.0,Warm,4_2_3_1,4_2_3_1,81:10
+3967,306,GreSL,2361806,Panathinaikos,Panionios,2016-11-27,17:30:00,Average,"Cloud, Rain",15.0,-,4_2_3_1,4_3_3,86:16
+3968,307,GreSL,2361806,Panathinaikos,Panionios,2016-11-27,17:30:00,Average,"Cloud, Rain",15.0,-,4_2_3_1,3_5_2,72:10
+3966,305,GreSL,2361807,Atromitos,PAOK,2016-11-28,17:30:00,"Excellent, Wet",Light Rain,9.0,Cold,4_2_3_1,4_2_3_1,72:52
+3964,303,GreSL,2361809,Panionios,Platanias,2016-12-03,13:00:00,Average,"Cloud, Light Rain, Sun",17.0,Warm,4_2_3_1,4_2_3_1,83:12
+3965,304,GreSL,2361809,Panionios,Platanias,2016-12-03,13:00:00,Average,"Cloud, Light Rain, Sun",17.0,Warm,4_2_3_1,4_3_3,45:00
+3963,302,GreSL,2361808,Panaitolikos,Veria,2016-12-03,15:15:00,"Average, Poor","Cloud, Light Wind",6.0,Cold,4_2_3_1,4_2_3_1,88:26
+3960,299,GreSL,2361810,AEK Athens,Kerkyra,2016-12-03,17:30:00,"Poor, Uneven","Cloud, Rain",15.0,Warm,4_2_3_1,4_4_2,91:31
+3961,300,GreSL,2361810,AEK Athens,Kerkyra,2016-12-03,17:30:00,"Poor, Uneven","Cloud, Rain",15.0,Warm,4_2_3_1,4_3_3,62:13
+3962,301,GreSL,2361810,AEK Athens,Kerkyra,2016-12-03,17:30:00,"Poor, Uneven","Cloud, Rain",15.0,Warm,4_2_3_1,4_2_2_2,00:00
+3958,297,GreSL,2361811,Levadiakos,Olympiakos Piraeus,2016-12-04,13:00:00,"Excellent, Wet",Cloud,15.0,Warm,4_2_3_1,4_4_2,73:08
+3959,298,GreSL,2361811,Levadiakos,Olympiakos Piraeus,2016-12-04,13:00:00,"Excellent, Wet",Cloud,15.0,Warm,4_2_3_1,4_2_3_1,45:00
+3955,294,GreSL,2361813,Asteras Tripolis,Xanthi,2016-12-04,15:15:00,"Dry, Good, Soft",Clear,14.0,Warm,4_2_3_1,4_2_3_1,74:38
+3956,295,GreSL,2361812,Atromitos,Larissa,2016-12-04,15:15:00,Average,Cloud,9.0,Warm,4_4_1_1,4_2_3_1,77:26
+3957,296,GreSL,2361812,Atromitos,Larissa,2016-12-04,15:15:00,Average,Cloud,9.0,Warm,4_4_1_1,5_4_1,87:21
+3953,292,GreSL,2361814,PAOK,Panathinaikos,2016-12-04,17:30:00,Good,"Cloud, Sun",14.0,-,4_2_3_1,4_3_3,79:47
+3954,293,GreSL,2361814,PAOK,Panathinaikos,2016-12-04,17:30:00,Good,"Cloud, Sun",14.0,-,5_4_1,4_3_3,87:55
+3951,290,GreSL,2361815,PAS Giannina,Iraklis,2016-12-05,17:30:00,Average,Cloud,8.0,-,3_4_1_2,3_5_2,75:16
+3952,291,GreSL,2361815,PAS Giannina,Iraklis,2016-12-05,17:30:00,Average,Cloud,8.0,-,4_4_2,3_5_2,82:56
+3950,289,GreSL,2361816,Veria,Asteras Tripolis,2016-12-10,13:00:00,Good,Sun,12.0,-,4_2_3_1,4_2_3_1,76:58
+3949,288,GreSL,2361817,Larissa,Xanthi,2016-12-10,15:15:00,Average,Clear,9.0,Cold,4_2_3_1,4_2_3_1,83:54
+3946,285,GreSL,2361818,Levadiakos,AEK Athens,2016-12-10,17:30:00,"Dry, Excellent, Soft",Clear,11.0,Cold,4_3_3,4_4_2,79:10
+3947,286,GreSL,2361818,Levadiakos,AEK Athens,2016-12-10,17:30:00,"Dry, Excellent, Soft",Clear,11.0,Cold,4_3_3,4_2_3_1,00:00
+3948,287,GreSL,2361818,Levadiakos,AEK Athens,2016-12-10,17:30:00,"Dry, Excellent, Soft",Clear,11.0,Cold,4_3_3,3_5_2,16:27
+3945,284,GreSL,2361819,Iraklis,Panaitolikos,2016-12-11,13:00:00,"Excellent, Wet",Cloud,15.0,Cold,4_2_3_1,4_2_3_1,75:33
+3941,280,GreSL,2361820,Platanias,PAOK,2016-12-11,15:15:00,"Excellent, Soft, Wet","Light Wind, Sun",9.0,Cold,4_2_3_1,4_2_3_1,73:13
+3942,281,GreSL,2361820,Platanias,PAOK,2016-12-11,15:15:00,"Excellent, Soft, Wet","Light Wind, Sun",9.0,Cold,4_2_3_1,5_4_1,00:00
+3943,282,GreSL,2361821,Kerkyra,Panionios,2016-12-11,15:15:00,"Average, Dry",Cloud,14.0,Warm,4_2_3_1,4_4_2,82:01
+3944,283,GreSL,2361821,Kerkyra,Panionios,2016-12-11,15:15:00,"Average, Dry",Cloud,14.0,Warm,4_2_3_1,4_2_3_1,72:42
+3940,279,GreSL,2361822,Panathinaikos,Atromitos,2016-12-11,17:30:00,Good,Cloud,12.0,-,4_2_3_1,4_4_1_1,79:51
+3937,276,GreSL,2361823,Olympiakos Piraeus,PAS Giannina,2016-12-12,17:30:00,Average,Cloud,10.0,-,5_4_1,4_2_3_1,80:29
+3938,277,GreSL,2361823,Olympiakos Piraeus,PAS Giannina,2016-12-12,17:30:00,Average,Cloud,10.0,-,5_4_1,4_4_2,74:50
+3939,278,GreSL,2361823,Olympiakos Piraeus,PAS Giannina,2016-12-12,17:30:00,Average,Cloud,10.0,-,3_5_2,4_2_3_1,35:25
+3936,275,GreSL,2361824,Xanthi,Veria,2016-12-17,13:00:00,Average,"Light Wind, Sun",6.0,Cold,4_2_3_1,4_2_3_1,77:36
+3935,274,GreSL,2361825,Atromitos,Platanias,2016-12-17,15:15:00,Average,"Cloud, Light Wind",11.0,Cold,4_2_3_1,4_2_3_1,81:30
+3932,271,GreSL,2361826,PAOK,Kerkyra,2016-12-17,17:30:00,Good,"Clear, Light Wind",7.0,Cold,4_4_2,4_2_3_1,76:33
+3933,272,GreSL,2361826,PAOK,Kerkyra,2016-12-17,17:30:00,Good,"Clear, Light Wind",7.0,Cold,4_2_3_1,4_2_3_1,45:00
+3934,273,GreSL,2361826,PAOK,Kerkyra,2016-12-17,17:30:00,Good,"Clear, Light Wind",7.0,Cold,4_2_3_1,_,00:00
+3931,270,GreSL,2361827,Panaitolikos,Olympiakos Piraeus,2016-12-18,13:00:00,Good,"Clear, Light Wind, Sun",7.0,-,4_2_3_1,4_2_3_1,81:23
+3928,267,GreSL,2361828,Asteras Tripolis,Iraklis,2016-12-18,15:15:00,Average,Clear,5.0,Cold,4_2_3_1,4_2_3_1,82:49
+3929,268,GreSL,2361828,Asteras Tripolis,Iraklis,2016-12-18,15:15:00,Average,Clear,5.0,Cold,5_4_1,4_2_3_1,86:01
+3930,269,GreSL,2361829,Panionios,Levadiakos,2016-12-18,15:15:00,Average,"Cloud, Light Wind",7.0,-,4_2_3_1,4_2_3_1,85:13
+3924,263,GreSL,2361830,Panathinaikos,Larissa,2016-12-18,17:30:00,"Average, Patchy",Clear,-3.0,Freezing,5_3_2,4_4_1_1,84:02
+3925,264,GreSL,2361830,Panathinaikos,Larissa,2016-12-18,17:30:00,"Average, Patchy",Clear,-3.0,Freezing,4_3_3,4_4_2,67:15
+3926,265,GreSL,2361830,Panathinaikos,Larissa,2016-12-18,17:30:00,"Average, Patchy",Clear,-3.0,Freezing,5_3_2,4_4_2,74:17
+3927,266,GreSL,2361830,Panathinaikos,Larissa,2016-12-18,17:30:00,"Average, Patchy",Clear,-3.0,Freezing,4_2_3_1,4_4_1_1,86:38
+3922,261,GreSL,2361831,PAS Giannina,AEK Athens,2016-12-19,17:30:00,Good,"Clear, Light Wind",7.0,Cold,4_1_4_1,3_5_2,85:35
+3923,262,GreSL,2361831,PAS Giannina,AEK Athens,2016-12-19,17:30:00,Good,"Clear, Light Wind",7.0,Cold,4_3_3,3_5_2,00:00
+3921,260,GreSL,2333730,Xanthi,Iraklis,2017-01-03,15:15:00,"Average, Wet",Cloud,7.0,Cold,4_2_3_1,4_2_3_1,86:30
+3920,259,GreSL,2333733,PAOK,Levadiakos,2017-01-03,17:30:00,Average,Cloud,10.0,Warm,4_4_2,4_2_3_1,89:35
+3919,258,GreSL,2333731,Atromitos,Kerkyra,2017-01-04,13:00:00,"Average, Wet",Cloud,12.0,Cold,4_2_3_1,4_2_3_1,82:24
+3915,254,GreSL,2333734,Panaitolikos,AEK Athens,2017-01-04,15:15:00,"Good, Wet",Cloud,16.0,Warm,4_4_2,4_2_3_1,86:06
+3916,255,GreSL,2333734,Panaitolikos,AEK Athens,2017-01-04,15:15:00,"Good, Wet",Cloud,16.0,Warm,4_3_3,4_2_3_1,81:06
+3917,256,GreSL,2333728,Veria,Larissa,2017-01-04,15:15:00,"Dry, Patchy, Poor",Cloud,11.0,Warm,4_2_3_1,4_2_3_1,79:06
+3918,257,GreSL,2333728,Veria,Larissa,2017-01-04,15:15:00,"Dry, Patchy, Poor",Cloud,11.0,Warm,5_4_1,4_2_3_1,87:21
+3913,252,GreSL,2333732,Asteras Tripolis,Olympiakos Piraeus,2017-01-04,17:30:00,Excellent,Cloud,13.0,Warm,4_2_3_1,4_2_3_1,78:06
+3914,253,GreSL,2333732,Asteras Tripolis,Olympiakos Piraeus,2017-01-04,17:30:00,Excellent,Cloud,13.0,Warm,4_2_3_1,4_3_3,66:10
+3912,251,GreSL,2333735,PAS Giannina,Panionios,2017-01-05,13:00:00,"Patchy, Poor, Wet",Cloud,16.0,Cold,4_2_3_1,3_5_2,74:12
+3911,250,GreSL,2333729,Panathinaikos,Platanias,2017-01-05,17:30:00,"Average, Patchy, Wet",Cloud,16.0,Cold,4_2_3_1,4_2_3_1,81:19
+3908,247,GreSL,2333740,Levadiakos,Atromitos,2017-01-07,13:00:00,Average,Cloud,4.0,Cold,4_2_3_1,4_4_2,83:39
+3909,248,GreSL,2333740,Levadiakos,Atromitos,2017-01-07,13:00:00,Average,Cloud,4.0,Cold,4_2_3_1,4_2_3_1,71:53
+3910,249,GreSL,2333740,Levadiakos,Atromitos,2017-01-07,13:00:00,Average,Cloud,4.0,Cold,4_2_3_1,3_1_3_1_2,80:35
+3907,246,GreSL,2333741,AEK Athens,Asteras Tripolis,2017-01-07,17:30:00,"Patchy, Wet",Light Snow,-,Cold,4_2_3_1,4_2_3_1,74:43
+3906,245,GreSL,2333742,PAS Giannina,PAOK,2017-01-08,13:00:00,Average,"Cloud, Sun",-4.0,Freezing,4_3_3,4_1_4_1,85:20
+3901,240,GreSL,2333743,Panionios,Panaitolikos,2017-01-08,15:15:00,Average,Cloud,4.0,-,4_4_2,4_2_3_1,88:07
+3902,241,GreSL,2333743,Panionios,Panaitolikos,2017-01-08,15:15:00,Average,Cloud,4.0,-,5_3_2,4_2_3_1,70:14
+3903,242,GreSL,2333743,Panionios,Panaitolikos,2017-01-08,15:15:00,Average,Cloud,4.0,-,4_2_3_1,4_2_3_1,77:21
+3904,243,GreSL,2333736,Larissa,Platanias,2017-01-08,15:15:00,Poor,"Cloud, Snow",0.0,Freezing,4_2_3_1,3_4_3,86:01
+3905,244,GreSL,2333736,Larissa,Platanias,2017-01-08,15:15:00,Poor,"Cloud, Snow",0.0,Freezing,4_2_3_1,4_2_3_1,45:00
+3900,239,GreSL,2333739,Olympiakos Piraeus,Xanthi,2017-01-08,17:30:00,"Average, Dry",Clear,1.0,Freezing,4_2_3_1,4_2_3_1,83:14
+3898,237,GreSL,2333738,Kerkyra,Panathinaikos,2017-01-09,17:30:00,Average,,-1.0,Freezing,4_4_2,4_4_2,90:53
+3899,238,GreSL,2333738,Kerkyra,Panathinaikos,2017-01-09,17:30:00,Average,,-1.0,Freezing,4_4_2,4_4_2,90:53
+3896,235,GreSL,2361793,Levadiakos,Veria,2017-01-14,15:15:00,"Average, Patchy, Wet",Clear,6.0,Cold,4_3_2_1,4_2_3_1,88:06
+3897,236,GreSL,2361793,Levadiakos,Veria,2017-01-14,15:15:00,"Average, Patchy, Wet",Clear,6.0,Cold,4_2_3_1,4_2_3_1,74:30
+3894,233,GreSL,2361794,Olympiakos Piraeus,Platanias,2017-01-14,17:30:00,Average,Cloud,12.0,Warm,4_2_3_1,4_2_2_2,80:04
+3895,234,GreSL,2361794,Olympiakos Piraeus,Platanias,2017-01-14,17:30:00,Average,Cloud,12.0,Warm,4_2_3_1,4_2_3_1,60:49
+3892,231,GreSL,2361796,PAS Giannina,Xanthi,2017-01-15,13:00:00,Good,"Cloud, Sun, Wind",11.0,-,4_2_3_1,4_3_3,82:30
+3893,232,GreSL,2361796,PAS Giannina,Xanthi,2017-01-15,13:00:00,Good,"Cloud, Sun, Wind",11.0,-,4_2_3_1,5_3_2,27:15
+3889,228,GreSL,2361797,Panaitolikos,Asteras Tripolis,2017-01-15,15:15:00,"Good, Wet","Cloud, Rain",7.0,Cold,4_2_3_1,4_2_3_1,67:35
+3890,229,GreSL,2361799,Panionios,Atromitos,2017-01-15,15:15:00,Average,Cloud,14.0,Warm,4_2_3_1,4_2_3_1,71:13
+3891,230,GreSL,2361799,Panionios,Atromitos,2017-01-15,15:15:00,Average,Cloud,14.0,Warm,4_2_3_1,5_4_1,89:41
+3887,226,GreSL,2361798,AEK Athens,Panathinaikos,2017-01-15,17:30:00,Average,Cloud,9.0,-,4_4_2,4_2_3_1,72:17
+3888,227,GreSL,2361798,AEK Athens,Panathinaikos,2017-01-15,17:30:00,Average,Rain,9.0,-,4_4_2,4_2_3_1,72:17
+3883,222,GreSL,2388701,Kerkyra,Atromitos,2017-01-18,13:00:00,Average,Sun,18.0,Hot,4_2_2_2,4_4_2,71:47
+3884,223,GreSL,2388701,Kerkyra,Atromitos,2017-01-18,13:00:00,Average,Sun,18.0,Hot,4_2_3_1,4_2_3_1,55:58
+3885,224,GreSL,2388701,Kerkyra,Atromitos,2017-01-18,13:00:00,Average,Sun,18.0,Hot,4_2_2_2,4_2_3_1,67:33
+3886,225,GreSL,2388702,Panionios,PAS Giannina,2017-01-18,13:00:00,"Poor, Wet","Cloud, Rain",10.0,Cold,3_5_2,4_2_3_1,93:11
+3879,218,GreSL,2388704,Larissa,Veria,2017-01-18,15:15:00,"Poor, Soft","Cloud, Rain",6.0,Cold,4_2_3_1,4_2_3_1,73:00
+3880,219,GreSL,2388705,AEK Athens,Panaitolikos,2017-01-18,15:15:00,Average,"Cloud, Rain",9.0,Cold,4_2_3_1,4_2_2_2,79:47
+3881,220,GreSL,2388705,AEK Athens,Panaitolikos,2017-01-18,15:15:00,Average,"Cloud, Rain",9.0,Cold,4_2_3_1,4_2_3_1,57:37
+3882,221,GreSL,2388703,Iraklis,Xanthi,2017-01-18,15:15:00,Average,Cloud,6.0,Cold,4_2_3_1,4_2_3_1,86:29
+3873,212,GreSL,2388706,Olympiakos Piraeus,Asteras Tripolis,2017-01-18,17:30:00,Average,"Cloud, Rain",10.0,-,4_4_1_1,4_4_2,81:17
+3874,213,GreSL,2388706,Olympiakos Piraeus,Asteras Tripolis,2017-01-18,17:30:00,Average,"Cloud, Rain",10.0,-,4_4_1_1,4_4_1_1,63:14
+3875,214,GreSL,2388706,Olympiakos Piraeus,Asteras Tripolis,2017-01-18,17:30:00,Average,"Cloud, Rain",10.0,-,4_2_3_1,4_4_1_1,45:00
+3876,215,GreSL,2388706,Olympiakos Piraeus,Asteras Tripolis,2017-01-18,17:30:00,Poor,"Cloud, Rain",10.0,-,4_4_1_1,4_4_2,81:17
+3877,216,GreSL,2388706,Olympiakos Piraeus,Asteras Tripolis,2017-01-18,17:30:00,Poor,"Cloud, Rain",10.0,-,4_4_1_1,4_4_1_1,63:14
+3878,217,GreSL,2388706,Olympiakos Piraeus,Asteras Tripolis,2017-01-18,17:30:00,Poor,"Cloud, Rain",10.0,-,4_2_3_1,4_4_1_1,45:00
+3872,211,GreSL,2388707,Levadiakos,PAOK,2017-01-19,15:15:00,"Good, Wet",Cloud,6.0,Cold,4_2_3_1,4_2_3_1,76:13
+3871,210,GreSL,2388708,Platanias,Panathinaikos,2017-01-19,17:30:00,Average,Cloud,12.0,Cold,4_2_3_1,4_2_3_1,83:11
+3868,207,GreSL,2388709,Veria,Iraklis,2017-01-21,13:00:00,"Average, Dry","Clear, Sun",7.0,Cold,4_4_2,4_2_3_1,81:04
+3869,208,GreSL,2388709,Veria,Iraklis,2017-01-21,13:00:00,"Average, Dry","Clear, Sun",7.0,Cold,4_2_3_1,4_2_3_1,70:56
+3870,209,GreSL,2388709,Veria,Iraklis,2017-01-21,13:00:00,"Average, Dry","Clear, Sun",7.0,Cold,4_4_2,4_3_2_1,85:57
+3867,206,GreSL,2388710,Panaitolikos,Panionios,2017-01-21,15:15:00,Average,Cloud,7.0,Cold,4_2_3_1,4_3_3,77:10
+3866,205,GreSL,2388711,Xanthi,Olympiakos Piraeus,2017-01-21,17:30:00,Good,Cloud,8.0,Cold,4_2_3_1,4_2_3_1,84:35
+3865,204,GreSL,2388712,Asteras Tripolis,AEK Athens,2017-01-22,13:00:00,Good,"Clear, Sun",9.0,-,4_2_3_1,4_2_3_1,70:31
+3863,202,GreSL,2388714,Atromitos,Levadiakos,2017-01-22,15:15:00,"Average, Uneven",Cloud,8.0,-,4_2_3_1,4_2_3_1,82:07
+3864,203,GreSL,2388713,Platanias,Larissa,2017-01-22,15:15:00,"Dry, Patchy, Poor",Clear,0.0,Freezing,4_2_3_1,5_4_1,73:03
+3862,201,GreSL,2388715,Panathinaikos,Kerkyra,2017-01-22,17:30:00,Average,Cloud,13.0,Warm,4_2_3_1,4_3_3,80:50
+3861,200,GreSL,2388716,PAOK,PAS Giannina,2017-01-23,17:30:00,Poor,Cloud,3.0,-,3_4_2_1,3_4_1_2,88:24
+3859,198,GreSL,2333737,Iraklis,Veria,2017-01-25,15:15:00,"Poor, Uneven","Cloud, Snow",5.0,Cold,4_2_3_1,4_2_3_1,78:59
+3860,199,GreSL,2333737,Iraklis,Veria,2017-01-25,15:15:00,"Poor, Uneven","Cloud, Snow",5.0,Cold,4_2_3_1,5_4_1,84:08
+3857,196,GreSL,2388725,Larissa,Iraklis,2017-01-28,13:00:00,"Patchy, Poor","Clear, Sun",8.0,Cold,4_2_3_1,4_2_3_1,83:25
+3858,197,GreSL,2388725,Larissa,Iraklis,2017-01-28,13:00:00,"Patchy, Poor","Clear, Sun",8.0,Cold,4_2_3_1,4_4_2,45:00
+3856,195,GreSL,2388726,Panionios,Asteras Tripolis,2017-01-28,15:15:00,Average,Cloud,3.0,Cold,4_2_3_1,4_2_3_1,83:33
+3853,192,GreSL,2388727,AEK Athens,Xanthi,2017-01-28,17:30:00,Average,Clear,3.0,Cold,4_4_1_1,4_4_1_1,83:06
+3854,193,GreSL,2388727,AEK Athens,Xanthi,2017-01-28,17:30:00,Average,Clear,3.0,Cold,4_2_3_1,4_4_1_1,54:28
+3855,194,GreSL,2388727,AEK Athens,Xanthi,2017-01-28,17:30:00,Average,Clear,3.0,Cold,4_2_3_1,4_2_3_1,00:00
+3850,189,GreSL,2388728,Levadiakos,Panathinaikos,2017-01-29,13:00:00,Good,"Cloud, Sun",9.0,Cold,4_2_2_2,5_4_1,82:53
+3851,190,GreSL,2388728,Levadiakos,Panathinaikos,2017-01-29,13:00:00,Good,"Cloud, Sun",9.0,Cold,4_2_2_2,5_3_2,69:55
+3852,191,GreSL,2388728,Levadiakos,Panathinaikos,2017-01-29,13:00:00,Good,"Cloud, Sun",9.0,Cold,4_2_3_1,5_3_2,00:00
+3844,183,GreSL,2388729,PAS Giannina,Atromitos,2017-01-29,15:15:00,"Good, Wet",Cloud,8.0,Cold,4_2_3_1,4_2_3_1,76:47
+3845,184,GreSL,2388729,PAS Giannina,Atromitos,2017-01-29,15:15:00,"Good, Wet",Cloud,8.0,Cold,4_2_3_1,3_5_2,00:00
+3846,185,GreSL,2388730,PAOK,Panaitolikos,2017-01-29,15:15:00,"Good, Soft",Clear,10.0,Cold,4_2_3_1,5_4_1,75:01
+3847,186,GreSL,2388730,PAOK,Panaitolikos,2017-01-29,15:15:00,"Good, Soft",Clear,10.0,Cold,3_4_2_1,5_4_1,62:38
+3848,187,GreSL,2388730,PAOK,Panaitolikos,2017-01-29,15:15:00,"Good, Soft",Clear,10.0,Cold,3_4_2_1,4_2_3_1,39:35
+3849,188,GreSL,2388731,Kerkyra,Platanias,2017-01-29,15:15:00,Patchy,Cloud,11.0,-,4_2_3_1,4_2_3_1,83:11
+3842,181,GreSL,2388732,Olympiakos Piraeus,Veria,2017-01-29,17:30:00,Average,Clear,4.0,Cold,4_2_3_1,4_2_3_1,82:08
+3843,182,GreSL,2388732,Olympiakos Piraeus,Veria,2017-01-29,17:30:00,Poor,Clear,4.0,Cold,4_2_3_1,4_2_3_1,82:08
+3841,180,GreSL,2361792,Kerkyra,Iraklis,2017-02-01,15:15:00,"Average, Patchy",Cloud,7.0,Cold,4_1_4_1,4_2_3_1,81:45
+3840,179,GreSL,2361795,PAOK,Larissa,2017-02-01,17:30:00,"Average, Patchy, Soft",Cloud,3.0,Freezing,4_2_3_1,4_3_3,73:38
+3837,176,GreSL,2404022,Kerkyra,Larissa,2017-02-04,13:00:00,Average,"Clear, Sun",14.0,-,4_4_2,4_2_3_1,73:29
+3838,177,GreSL,2404022,Kerkyra,Larissa,2017-02-04,13:00:00,Average,"Clear, Sun",14.0,-,4_2_3_1,4_2_3_1,65:37
+3839,178,GreSL,2404022,Kerkyra,Larissa,2017-02-04,13:00:00,Average,"Clear, Sun",14.0,-,4_4_2,4_4_2,82:08
+3835,174,GreSL,2404023,Atromitos,Panaitolikos,2017-02-04,15:15:00,Good,Cloud,13.0,-,3_5_2,4_3_3,77:52
+3836,175,GreSL,2404023,Atromitos,Panaitolikos,2017-02-04,15:15:00,Good,Cloud,13.0,-,4_2_3_1,4_3_3,45:00
+3834,173,GreSL,2404024,Panathinaikos,PAS Giannina,2017-02-04,17:30:00,"Poor, Wet",Cloud,8.0,Cold,4_4_2,4_4_2,71:31
+3833,172,GreSL,2404025,Veria,AEK Athens,2017-02-05,13:00:00,Good,"Cloud, Light Wind",15.0,-,4_4_1_1,4_2_3_1,67:57
+3830,169,GreSL,2404027,Xanthi,Panionios,2017-02-05,15:15:00,Average,"Cloud, Sun",18.0,-,4_2_3_1,4_2_3_1,78:51
+3831,170,GreSL,2404026,Asteras Tripolis,PAOK,2017-02-05,15:15:00,Good,Cloud,17.0,Warm,4_2_3_1,4_2_3_1,78:13
+3832,171,GreSL,2404026,Asteras Tripolis,PAOK,2017-02-05,15:15:00,Good,Cloud,17.0,Warm,4_1_4_1,4_2_3_1,45:00
+3829,168,GreSL,2404028,Iraklis,Olympiakos Piraeus,2017-02-05,17:30:00,Good,Clear,16.0,-,4_2_2_2,4_2_3_1,78:14
+3827,166,GreSL,2404029,Platanias,Levadiakos,2017-02-06,17:30:00,Average,"Cloud, Rain, Wind",14.0,Warm,4_2_3_1,5_4_1,82:23
+3828,167,GreSL,2404029,Platanias,Levadiakos,2017-02-06,17:30:00,Average,"Cloud, Rain, Wind",14.0,Warm,4_2_3_1,4_4_2,52:15
+3826,165,GreSL,2404030,Panionios,Veria,2017-02-11,13:00:00,Average,Cloud,7.0,Cold,4_2_3_1,4_2_3_1,80:44
+3825,164,GreSL,2404031,Atromitos,Asteras Tripolis,2017-02-11,15:15:00,Good,"Cloud, Light Wind",4.0,Cold,4_2_3_1,4_2_3_1,82:21
+3822,161,GreSL,2404032,Larissa,Olympiakos Piraeus,2017-02-11,17:30:00,"Excellent, Soft",Cloud,8.0,Cold,4_2_3_1,5_3_2,77:29
+3823,162,GreSL,2404032,Larissa,Olympiakos Piraeus,2017-02-11,17:30:00,"Excellent, Soft",Cloud,8.0,Cold,4_2_3_1,5_4_1,45:00
+3824,163,GreSL,2404032,Larissa,Olympiakos Piraeus,2017-02-11,17:30:00,"Excellent, Soft",Cloud,8.0,Cold,4_4_2,5_3_2,81:03
+3820,159,GreSL,2404034,Levadiakos,Kerkyra,2017-02-12,13:00:00,Poor,Sun,12.0,Warm,4_1_4_1,4_2_3_1,79:35
+3821,160,GreSL,2404034,Levadiakos,Kerkyra,2017-02-12,13:00:00,Poor,Sun,12.0,Warm,4_2_3_1,4_2_3_1,70:01
+3817,156,GreSL,2404035,PAS Giannina,Platanias,2017-02-12,15:15:00,Average,"Cloud, Light Rain",9.0,Cold,4_4_1_1,4_3_3,85:33
+3818,157,GreSL,2404035,PAS Giannina,Platanias,2017-02-12,15:15:00,Average,"Cloud, Light Rain",9.0,Cold,3_5_2,4_3_3,71:18
+3819,158,GreSL,2404033,PAOK,Xanthi,2017-02-12,15:15:00,"Good, Wet","Cloud, Sun",12.0,Cold,4_2_3_1,3_5_2,79:43
+3815,154,GreSL,2404036,Panaitolikos,Panathinaikos,2017-02-12,17:30:00,Good,Cloud,6.0,Cold,4_2_3_1,4_2_3_1,77:30
+3816,155,GreSL,2404036,Panaitolikos,Panathinaikos,2017-02-12,17:30:00,Good,Cloud,6.0,Cold,4_2_3_1,4_4_2,78:57
+3814,153,GreSL,2404037,AEK Athens,Iraklis,2017-02-13,17:30:00,Average,Cloud,5.0,Cold,4_2_3_1,4_2_3_1,83:58
+3810,149,GreSL,2404038,Xanthi,Atromitos,2017-02-18,13:00:00,Good,"Clear, Sun",14.0,-,4_1_4_1,4_1_4_1,86:46
+3811,150,GreSL,2404038,Xanthi,Atromitos,2017-02-18,13:00:00,Good,"Clear, Sun",14.0,-,4_4_2,4_2_3_1,78:56
+3812,151,GreSL,2404038,Xanthi,Atromitos,2017-02-18,13:00:00,Good,"Clear, Sun",14.0,-,4_2_3_1,4_2_3_1,63:28
+3813,152,GreSL,2404038,Xanthi,Atromitos,2017-02-18,13:00:00,Good,"Clear, Sun",14.0,-,4_4_2,4_1_4_1,83:28
+3806,145,GreSL,2404039,Kerkyra,PAS Giannina,2017-02-18,15:15:00,"Average, Wet","Cloud, Light Rain",6.0,Cold,4_2_3_1,3_4_3,82:13
+3807,146,GreSL,2404039,Kerkyra,PAS Giannina,2017-02-18,15:15:00,"Average, Wet","Cloud, Light Rain",6.0,Cold,4_4_2,3_5_2,73:48
+3808,147,GreSL,2404039,Kerkyra,PAS Giannina,2017-02-18,15:15:00,"Average, Wet","Cloud, Light Rain",6.0,Cold,4_4_2,4_2_3_1,00:00
+3809,148,GreSL,2404039,Kerkyra,PAS Giannina,2017-02-18,15:15:00,"Average, Wet","Cloud, Light Rain",6.0,Cold,4_2_3_1,3_5_2,78:14
+3804,143,GreSL,2404040,Panathinaikos,Asteras Tripolis,2017-02-18,17:30:00,"Good, Wet","Cloud, Light Rain",7.0,Cold,4_3_3,4_2_3_1,73:25
+3805,144,GreSL,2404040,Panathinaikos,Asteras Tripolis,2017-02-18,17:30:00,"Good, Wet","Cloud, Light Rain",7.0,Cold,4_2_3_1,4_2_3_1,45:00
+3801,140,GreSL,2404041,Iraklis,Panionios,2017-02-19,13:00:00,Good,Cloud,14.0,-,4_2_3_1,4_1_4_1,82:10
+3802,141,GreSL,2404041,Iraklis,Panionios,2017-02-19,13:00:00,Good,Cloud,14.0,-,4_2_3_1,4_4_1_1,59:36
+3803,142,GreSL,2404041,Iraklis,Panionios,2017-02-19,13:00:00,Good,Cloud,14.0,-,4_2_3_1,4_2_3_1,00:00
+3798,137,GreSL,2404043,Platanias,Panaitolikos,2017-02-19,15:15:00,"Good, Wet",Cloud,15.0,Cold,4_2_3_1,3_4_2_1,85:16
+3799,138,GreSL,2404043,Platanias,Panaitolikos,2017-02-19,15:15:00,"Good, Wet",Rain,15.0,Cold,4_2_3_1,3_4_2_1,85:16
+3800,139,GreSL,2404042,Veria,PAOK,2017-02-19,15:15:00,Good,"Cloud, Sun",14.0,-,4_2_3_1,4_2_3_1,69:27
+3797,136,GreSL,2404044,Olympiakos Piraeus,AEK Athens,2017-02-19,17:30:00,Good,Cloud,12.0,-,4_2_3_1,4_2_3_1,76:25
+3796,135,GreSL,2404045,Levadiakos,Larissa,2017-02-20,17:30:00,"Average, Poor",Clear,8.0,-,4_2_3_1,4_4_2,86:19
+3792,131,GreSL,2404046,Asteras Tripolis,Platanias,2017-02-25,13:00:00,Good,"Clear, Sun",20.0,Warm,3_5_2,3_4_2_1,78:04
+3793,132,GreSL,2404046,Asteras Tripolis,Platanias,2017-02-25,13:00:00,Good,"Clear, Sun",20.0,Warm,3_4_2_1,3_4_2_1,60:00
+3794,133,GreSL,2404046,Asteras Tripolis,Platanias,2017-02-25,13:00:00,Good,"Clear, Sun",20.0,Warm,3_4_2_1,4_2_3_1,22:53
+3795,134,GreSL,2404046,Asteras Tripolis,Platanias,2017-02-25,13:00:00,Good,"Clear, Sun",20.0,Warm,3_5_2,3_4_3,87:18
+3791,130,GreSL,2404047,Panaitolikos,Kerkyra,2017-02-25,15:15:00,Good,Clear,17.0,Warm,4_2_3_1,4_2_3_1,82:05
+3790,129,GreSL,2404048,Panathinaikos,Xanthi,2017-02-25,17:30:00,Good,Clear,11.0,-,4_2_3_1,4_4_2,79:17
+3789,128,GreSL,2404049,Larissa,AEK Athens,2017-02-26,13:00:00,Average,"Cloud, Sun",14.0,Warm,4_2_3_1,4_2_3_1,69:29
+3782,121,GreSL,2404051,PAS Giannina,Levadiakos,2017-02-26,15:15:00,Wet,Rain,15.0,-,4_3_3,4_2_3_1,67:48
+3783,122,GreSL,2404051,PAS Giannina,Levadiakos,2017-02-26,15:15:00,Wet,"Cloud, Light Wind",15.0,-,4_3_3,4_2_3_1,67:48
+3784,123,GreSL,2404051,PAS Giannina,Levadiakos,2017-02-26,15:15:00,"Average, Dry",Rain,15.0,-,4_3_3,4_2_3_1,67:48
+3785,124,GreSL,2404051,PAS Giannina,Levadiakos,2017-02-26,15:15:00,"Average, Dry","Cloud, Light Wind",15.0,-,4_3_3,4_2_3_1,67:48
+3786,125,GreSL,2404050,PAOK,Iraklis,2017-02-26,15:15:00,Average,Cloud,12.0,-,4_4_2,4_4_2,84:03
+3787,126,GreSL,2404050,PAOK,Iraklis,2017-02-26,15:15:00,Average,Cloud,12.0,-,4_2_3_1,4_2_3_1,68:28
+3788,127,GreSL,2404050,PAOK,Iraklis,2017-02-26,15:15:00,Average,Cloud,12.0,-,4_4_2,4_2_3_1,77:38
+3780,119,GreSL,2404052,Panionios,Olympiakos Piraeus,2017-02-26,17:30:00,Good,"Cloud, Light Rain",15.0,Warm,4_2_2_2,4_2_3_1,79:47
+3781,120,GreSL,2404052,Panionios,Olympiakos Piraeus,2017-02-26,17:30:00,Good,"Cloud, Light Rain",15.0,Warm,4_2_3_1,4_2_3_1,60:14
+3779,118,GreSL,2404053,Atromitos,Veria,2017-02-27,17:30:00,"Patchy, Poor, Wet",Cloud,11.0,-,4_2_3_1,4_2_3_1,81:47
+3777,116,GreSL,2404054,PAS Giannina,Larissa,2017-03-04,13:00:00,Average,"Clear, Sun",16.0,-,3_4_3,3_5_2,80:05
+3778,117,GreSL,2404054,PAS Giannina,Larissa,2017-03-04,13:00:00,Average,"Clear, Sun",16.0,-,4_2_3_1,3_5_2,23:19
+3775,114,GreSL,2404055,Levadiakos,Panaitolikos,2017-03-04,15:15:00,Good,"Cloud, Light Wind",14.0,-,4_4_2,3_4_2_1,84:30
+3776,115,GreSL,2404055,Levadiakos,Panaitolikos,2017-03-04,15:15:00,Good,"Cloud, Light Wind",14.0,-,4_2_3_1,3_4_2_1,45:00
+3773,112,GreSL,2404056,Veria,Panathinaikos,2017-03-04,17:30:00,Good,Cloud,14.0,-,4_2_3_1,4_4_2,70:12
+3774,113,GreSL,2404056,Veria,Panathinaikos,2017-03-04,17:30:00,Good,Cloud,14.0,-,4_2_3_1,4_2_3_1,58:31
+3771,110,GreSL,2404057,Iraklis,Atromitos,2017-03-05,13:00:00,Good,"Clear, Sun",19.0,Warm,4_4_2,4_2_3_1,85:44
+3772,111,GreSL,2404057,Iraklis,Atromitos,2017-03-05,13:00:00,Good,"Clear, Sun",19.0,Warm,4_2_3_1,4_2_3_1,59:42
+3769,108,GreSL,2404059,Kerkyra,Asteras Tripolis,2017-03-05,15:15:00,Good,Cloud,12.0,-,4_2_3_1,4_2_3_1,72:55
+3770,109,GreSL,2404058,Platanias,Xanthi,2017-03-05,15:15:00,"Average, Patchy","Cloud, Sun",17.0,-,4_2_3_1,3_5_2,84:28
+3768,107,GreSL,2404060,Olympiakos Piraeus,PAOK,2017-03-05,17:30:00,Good,Cloud,12.0,-,4_2_3_1,4_2_3_1,77:27
+3767,106,GreSL,2404061,AEK Athens,Panionios,2017-03-06,17:30:00,Good,Cloud,13.0,Warm,4_2_3_1,4_3_3,83:09
+3766,105,GreSL,2404062,Panaitolikos,PAS Giannina,2017-03-11,13:00:00,Average,"Clear, Sun",12.0,-,3_5_2,4_2_3_1,74:34
+3765,104,GreSL,2404063,Larissa,Panionios,2017-03-11,15:15:00,Good,Cloud,10.0,-,4_2_3_1,4_2_3_1,87:37
+3764,103,GreSL,2404064,Panathinaikos,Iraklis,2017-03-11,17:30:00,Good,"Clear, Wind",12.0,-,4_2_3_1,4_4_2,73:57
+3763,102,GreSL,2404066,Xanthi,Kerkyra,2017-03-12,13:00:00,Average,"Light Wind, Sun",15.0,-,4_2_3_1,4_2_3_1,73:15
+3761,100,GreSL,2404065,Atromitos,Olympiakos Piraeus,2017-03-12,15:15:00,Excellent,Sun,15.0,-,4_2_3_1,4_2_3_1,73:55
+3762,101,GreSL,2404067,Veria,Platanias,2017-03-12,15:15:00,"Average, Dry, Patchy","Clear, Sun",12.0,Cold,4_2_3_1,4_2_3_1,72:34
+3760,99,GreSL,2404068,PAOK,AEK Athens,2017-03-12,17:30:00,Average,Clear,11.0,Cold,4_2_3_1,4_2_3_1,85:58
+3759,98,GreSL,2404069,Asteras Tripolis,Levadiakos,2017-03-13,17:30:00,Good,"Cloud, Rain",7.0,-,4_2_3_1,4_2_3_1,80:22
+3757,96,GreSL,2404070,Kerkyra,Veria,2017-03-18,13:00:00,Average,Clear,12.0,-,4_2_3_1,3_4_1_2,64:12
+3758,97,GreSL,2404070,Kerkyra,Veria,2017-03-18,13:00:00,Average,Clear,12.0,-,4_2_3_1,4_2_3_1,45:00
+3755,94,GreSL,2404071,Panaitolikos,Larissa,2017-03-18,15:15:00,Average,"Clear, Sun",14.0,-,4_2_3_1,4_4_2,80:27
+3756,95,GreSL,2404071,Panaitolikos,Larissa,2017-03-18,15:15:00,Average,"Clear, Sun",14.0,-,4_2_3_1,4_1_4_1,57:38
+3754,93,GreSL,2404072,AEK Athens,Atromitos,2017-03-18,17:30:00,Good,Cloud,12.0,-,4_2_3_1,4_3_3,86:50
+3752,91,GreSL,2404073,Panionios,PAOK,2017-03-19,13:00:00,Good,Clear,18.0,-,4_1_4_1,4_2_3_1,92:42
+3753,92,GreSL,2404073,Panionios,PAOK,2017-03-19,13:00:00,Good,Clear,18.0,-,4_3_3,4_2_3_1,76:53
+3749,88,GreSL,2404075,PAS Giannina,Asteras Tripolis,2017-03-19,15:15:00,Good,"Clear, Sun",12.0,-,4_2_3_1,3_5_2,81:10
+3750,89,GreSL,2404075,PAS Giannina,Asteras Tripolis,2017-03-19,15:15:00,Good,"Clear, Sun",12.0,-,3_4_1_2,3_5_2,65:36
+3751,90,GreSL,2404074,Levadiakos,Xanthi,2017-03-19,15:15:00,"Average, Wet","Cloud, Light Rain",13.0,-,4_2_3_1,4_2_3_1,84:38
+3748,87,GreSL,2404076,Olympiakos Piraeus,Panathinaikos,2017-03-19,17:30:00,Average,Cloud,16.0,Warm,4_4_1_1,4_2_3_1,80:37
+3747,86,GreSL,2404077,Iraklis,Platanias,2017-03-20,17:30:00,"Average, Good",Clear,13.0,-,4_2_3_1,4_2_3_1,80:56
+3744,83,GreSL,2404078,Xanthi,PAS Giannina,2017-04-01,12:00:00,"Dry, Good","Light Wind, Sun",21.0,Warm,4_1_2_1_2,4_2_2_2,82:55
+3745,84,GreSL,2404078,Xanthi,PAS Giannina,2017-04-01,12:00:00,"Dry, Good","Light Wind, Sun",21.0,Warm,3_5_2,4_2_3_1,28:57
+3746,85,GreSL,2404078,Xanthi,PAS Giannina,2017-04-01,12:00:00,"Dry, Good","Light Wind, Sun",21.0,Warm,3_5_2,4_2_2_2,00:00
+3742,81,GreSL,2404079,Veria,Levadiakos,2017-04-01,14:15:00,Average,"Clear, Sun",18.0,-,4_2_3_1,4_4_2,85:35
+3743,82,GreSL,2404079,Veria,Levadiakos,2017-04-01,14:15:00,Average,"Clear, Sun",18.0,-,4_2_3_1,4_2_3_1,00:00
+3741,80,GreSL,2404080,Platanias,Olympiakos Piraeus,2017-04-01,16:30:00,Excellent,Clear,15.0,-,4_2_3_1,3_5_2,79:04
+3740,79,GreSL,2404081,Atromitos,Panionios,2017-04-02,12:00:00,"Dry, Good","Clear, Sun, Wind",20.0,Warm,4_2_3_1,4_2_3_1,83:20
+3733,72,GreSL,2404084,Asteras Tripolis,Panaitolikos,2017-04-02,14:15:00,Good,"Clear, Sun",18.0,Warm,4_2_3_1,4_2_3_1,72:54
+3734,73,GreSL,2404084,Asteras Tripolis,Panaitolikos,2017-04-02,14:15:00,Good,"Clear, Sun",18.0,Warm,4_3_3,4_2_3_1,45:00
+3735,74,GreSL,2404082,Iraklis,Kerkyra,2017-04-02,14:15:00,Good,"Clear, Sun",18.0,Warm,4_4_2,4_2_3_1,76:43
+3736,75,GreSL,2404082,Iraklis,Kerkyra,2017-04-02,14:15:00,Good,"Clear, Sun",18.0,Warm,4_2_3_1,4_2_3_1,70:50
+3737,76,GreSL,2404082,Iraklis,Kerkyra,2017-04-02,14:15:00,Good,"Clear, Sun",18.0,Warm,4_4_2,4_5_1,83:41
+3738,77,GreSL,2404083,Larissa,PAOK,2017-04-02,14:15:00,"Average, Dry","Cloud, Light Wind, Sun",20.0,Hot,4_3_3,4_2_2_2,76:53
+3739,78,GreSL,2404083,Larissa,PAOK,2017-04-02,14:15:00,"Average, Dry","Cloud, Light Wind, Sun",20.0,Hot,4_3_3,4_2_3_1,61:47
+3729,68,GreSL,2404085,Panathinaikos,AEK Athens,2017-04-02,16:30:00,Good,"Clear, Sun",17.0,Warm,4_2_3_1,4_4_2,67:50
+3730,69,GreSL,2404085,Panathinaikos,AEK Athens,2017-04-02,16:30:00,Good,"Clear, Sun",17.0,Warm,4_1_4_1,4_4_2,45:00
+3731,70,GreSL,2404085,Panathinaikos,AEK Athens,2017-04-02,16:30:00,Good,"Clear, Sun",17.0,Warm,4_3_3,4_4_2,00:00
+3732,71,GreSL,2404085,Panathinaikos,AEK Athens,2017-04-02,16:30:00,Good,"Clear, Sun",17.0,Warm,4_4_2,4_4_2,45:00
+3728,67,GreSL,2404086,Panaitolikos,Xanthi,2017-04-05,12:00:00,"Dry, Good","Clear, Sun",20.0,Hot,4_2_3_1,4_2_3_1,70:28
+3723,62,GreSL,2404087,Asteras Tripolis,Larissa,2017-04-05,14:15:00,Average,"Cloud, Light Wind, Sun",17.0,Warm,4_2_3_1,3_5_2,80:29
+3724,63,GreSL,2404088,Levadiakos,Iraklis,2017-04-05,14:15:00,Average,"Cloud, Sun",16.0,Warm,4_5_1,4_2_3_1,84:52
+3725,64,GreSL,2404088,Levadiakos,Iraklis,2017-04-05,14:15:00,Average,"Cloud, Sun",16.0,Warm,4_2_3_1,4_2_3_1,73:51
+3726,65,GreSL,2404090,PAS Giannina,Veria,2017-04-05,14:15:00,Average,Sun,21.0,-,4_2_3_1,3_5_2,79:04
+3727,66,GreSL,2404089,PAOK,Atromitos,2017-04-05,14:15:00,Average,Sun,18.0,Warm,4_2_3_1,4_3_3,82:15
+3721,60,GreSL,2404091,Olympiakos Piraeus,Kerkyra,2017-04-05,16:30:00,Average,"Clear, Sun",16.0,-,4_4_2,4_2_3_1,81:00
+3722,61,GreSL,2404091,Olympiakos Piraeus,Kerkyra,2017-04-05,16:30:00,Average,"Clear, Sun",16.0,-,4_2_3_1,4_2_3_1,75:20
+3720,59,GreSL,2404092,Panionios,Panathinaikos,2017-04-06,14:15:00,Good,"Cloud, Sun",18.0,-,4_4_2,4_2_3_1,74:56
+3718,57,GreSL,2404093,AEK Athens,Platanias,2017-04-06,16:30:00,Average,"Clear, Sun",17.0,Warm,4_3_3,3_5_2,80:41
+3719,58,GreSL,2404093,AEK Athens,Platanias,2017-04-06,16:30:00,Average,"Clear, Sun",17.0,Warm,3_5_2,3_5_2,63:52
+3703,42,GreSL,2404095,Xanthi,Asteras Tripolis,2017-04-09,16:00:00,Average,Clear,11.0,-,4_4_2,4_2_3_1,66:22
+3704,43,GreSL,2404095,Xanthi,Asteras Tripolis,2017-04-09,16:00:00,Average,Clear,11.0,-,4_2_3_1,4_2_3_1,53:01
+3705,44,GreSL,2404095,Xanthi,Asteras Tripolis,2017-04-09,16:00:00,Average,Clear,11.0,-,4_3_3,4_2_3_1,61:12
+3706,45,GreSL,2404095,Xanthi,Asteras Tripolis,2017-04-09,16:00:00,Average,"Clear, Sun",11.0,-,4_4_2,4_2_3_1,66:22
+3707,46,GreSL,2404095,Xanthi,Asteras Tripolis,2017-04-09,16:00:00,Average,"Clear, Sun",11.0,-,4_2_3_1,4_2_3_1,53:01
+3708,47,GreSL,2404095,Xanthi,Asteras Tripolis,2017-04-09,16:00:00,Average,"Clear, Sun",11.0,-,4_3_3,4_2_3_1,61:12
+3709,48,GreSL,2404096,Larissa,Atromitos,2017-04-09,16:00:00,Good,Clear,15.0,-,4_2_3_1,4_2_3_1,77:06
+3710,49,GreSL,2404097,Olympiakos Piraeus,Levadiakos,2017-04-09,16:00:00,Average,Clear,15.0,-,4_2_3_1,4_2_3_1,84:51
+3711,50,GreSL,2404097,Olympiakos Piraeus,Levadiakos,2017-04-09,16:00:00,Average,"Clear, Sun",15.0,-,4_2_3_1,4_2_3_1,84:51
+3712,51,GreSL,2404101,Iraklis,PAS Giannina,2017-04-09,16:00:00,Average,"Clear, Sun",13.0,-,4_4_2,4_2_3_1,94:21
+3713,52,GreSL,2404101,Iraklis,PAS Giannina,2017-04-09,16:00:00,Average,"Clear, Sun",13.0,-,4_2_3_1,4_2_3_1,67:06
+3714,53,GreSL,2404100,Platanias,Panionios,2017-04-09,16:00:00,Excellent,"Cloud, Sun",17.0,Warm,4_4_2,3_5_2,88:20
+3715,54,GreSL,2404094,Kerkyra,AEK Athens,2017-04-09,16:00:00,Excellent,"Cloud, Sun",17.0,Warm,4_2_3_1,4_4_1_1,69:13
+3716,55,GreSL,2404098,Panathinaikos,PAOK,2017-04-09,16:00:00,"Average, Uneven",Cloud,12.0,-,4_2_3_1,4_4_1_1,81:45
+3717,56,GreSL,2404099,Veria,Panaitolikos,2017-04-09,16:00:00,Average,Clear,19.0,Warm,4_2_3_1,4_2_3_1,00:00
+3692,31,GreSL,2404104,Panaitolikos,Iraklis,2017-04-23,16:00:00,Good,"Clear, Light Wind",17.0,Warm,4_4_2,4_2_3_1,72:50
+3693,32,GreSL,2404104,Panaitolikos,Iraklis,2017-04-23,16:00:00,Good,"Clear, Light Wind",17.0,Warm,4_2_3_1,4_2_3_1,45:00
+3694,33,GreSL,2404103,Panionios,Kerkyra,2017-04-23,16:00:00,Average,"Clear, Light Wind",16.0,Warm,4_2_3_1,4_2_3_1,90:58
+3695,34,GreSL,2404102,Xanthi,Larissa,2017-04-23,16:00:00,Average,Clear,18.0,Warm,4_2_3_1,4_2_3_1,88:30
+3696,35,GreSL,2404109,PAOK,Platanias,2017-04-23,16:00:00,Average,Clear,15.0,-,4_2_3_1,4_2_3_1,71:13
+3697,36,GreSL,2404107,PAS Giannina,Olympiakos Piraeus,2017-04-23,16:00:00,"Excellent, Soft","Clear, Sun",15.0,Warm,4_2_3_1,4_4_2,67:03
+3698,37,GreSL,2404108,Atromitos,Panathinaikos,2017-04-23,16:00:00,Good,"Clear, Sun",15.0,-,4_2_3_1,4_1_4_1,83:42
+3699,38,GreSL,2404108,Atromitos,Panathinaikos,2017-04-23,16:00:00,Good,"Clear, Sun",15.0,-,4_2_3_1,4_3_3,68:36
+3700,39,GreSL,2404108,Atromitos,Panathinaikos,2017-04-23,16:00:00,Good,"Clear, Sun",15.0,-,4_2_3_1,4_2_3_1,54:48
+3701,40,GreSL,2404106,AEK Athens,Levadiakos,2017-04-23,16:00:00,"Dry, Good","Clear, Sun",15.0,Warm,4_2_3_1,4_4_1_1,87:28
+3702,41,GreSL,2404106,AEK Athens,Levadiakos,2017-04-23,16:00:00,"Dry, Good","Clear, Sun",15.0,Warm,3_5_2,4_4_1_1,89:22
+3681,20,GreSL,2404113,Kerkyra,PAOK,2017-04-30,16:00:00,Average,Cloud,11.0,Warm,4_4_2,4_2_3_1,75:54
+3682,21,GreSL,2404113,Kerkyra,PAOK,2017-04-30,16:00:00,Average,Cloud,11.0,Warm,4_2_3_1,4_4_2,45:00
+3683,22,GreSL,2404113,Kerkyra,PAOK,2017-04-30,16:00:00,Average,Cloud,11.0,Warm,4_4_2,4_4_2,58:10
+3684,23,GreSL,2404111,Iraklis,Asteras Tripolis,2017-04-30,16:00:00,"Average, Dry","Clear, Sun",24.0,Hot,3_5_2,4_4_2,80:14
+3685,24,GreSL,2404114,Larissa,Panathinaikos,2017-04-30,16:00:00,Good,Cloud,22.0,Warm,4_2_3_1,4_2_3_1,78:25
+3686,25,GreSL,2404115,Olympiakos Piraeus,Panaitolikos,2017-04-30,16:00:00,"Patchy, Poor",Cloud,23.0,Warm,4_2_3_1,4_2_3_1,75:16
+3687,26,GreSL,2404117,AEK Athens,PAS Giannina,2017-04-30,16:00:00,Average,Cloud,19.0,-,4_4_2,4_2_3_1,73:16
+3688,27,GreSL,2404117,AEK Athens,PAS Giannina,2017-04-30,16:00:00,Average,Cloud,19.0,-,4_4_2,4_4_2,58:19
+3689,28,GreSL,2404110,Veria,Xanthi,2017-04-30,16:00:00,Average,"Cloud, Sun",19.0,-,4_2_3_1,4_2_3_1,67:32
+3690,29,GreSL,2404116,Levadiakos,Panionios,2017-04-30,16:00:00,"Average, Dry","Clear, Sun",26.0,Hot,4_2_3_1,4_2_3_1,83:27
+3691,30,GreSL,2404112,Platanias,Atromitos,2017-04-30,16:00:00,Good,Clear,17.0,Warm,4_2_3_1,4_2_3_1,00:00
+3680,19,GreSL,2450784,Panathinaikos,Panionios,2017-05-14,15:15:00,Good,Sun,27.0,Hot,4_2_3_1,4_4_2,80:07
+3679,18,GreSL,2450785,AEK Athens,PAOK,2017-05-14,17:30:00,Good,Cloud,28.0,Hot,4_2_3_1,4_3_3,71:12
+3677,16,GreSL,2450786,Panionios,AEK Athens,2017-05-17,15:15:00,Good,"Cloud, Sun, Wind",17.0,Hot,4_3_3,4_2_3_1,75:09
+3678,17,GreSL,2450786,Panionios,AEK Athens,2017-05-17,15:15:00,Good,"Cloud, Sun, Wind",17.0,Hot,4_3_3,4_3_2_1,87:26
+3676,15,GreSL,2450843,PAOK,Panathinaikos,2017-05-17,17:30:00,Good,"Cloud, Wind",17.0,Hot,4_4_2,4_3_3,45:00
+3675,14,GreSL,2450788,Panionios,PAOK,2017-05-21,15:15:00,Good,"Cloud, Rain, Sun",15.0,Warm,4_2_3_1,4_2_3_1,84:05
+3673,12,GreSL,2450787,Panathinaikos,AEK Athens,2017-05-21,17:30:00,"Excellent, Soft","Cloud, Rain",21.0,Hot,4_3_3,4_4_1_1,75:33
+3674,13,GreSL,2450787,Panathinaikos,AEK Athens,2017-05-21,17:30:00,"Excellent, Soft",Clear,21.0,Hot,4_3_3,4_4_1_1,75:33
+3671,10,GreSL,2450790,PAOK,Panionios,2017-05-24,15:15:00,"Excellent, Wet","Cloud, Sun",22.0,Warm,4_4_2,4_2_3_1,79:36
+3672,11,GreSL,2450790,PAOK,Panionios,2017-05-24,15:15:00,"Excellent, Wet","Cloud, Sun",22.0,Warm,4_2_3_1,4_2_3_1,57:07
+3668,7,GreSL,2450789,AEK Athens,Panathinaikos,2017-05-24,17:30:00,"Average, Patchy",Clear,23.0,Hot,4_1_4_1,4_4_2,78:51
+3669,8,GreSL,2450789,AEK Athens,Panathinaikos,2017-05-24,17:30:00,"Average, Patchy",Clear,23.0,Hot,4_4_2,4_3_3,00:00
+3670,9,GreSL,2450789,AEK Athens,Panathinaikos,2017-05-24,17:30:00,"Average, Patchy",Clear,23.0,Hot,4_4_2,4_4_2,63:24
+3667,6,GreSL,2450792,Panionios,Panathinaikos,2017-05-28,15:15:00,"Good, Wet",Cloud,20.0,Warm,4_4_2,4_2_3_1,84:35
+3664,3,GreSL,2450791,PAOK,AEK Athens,2017-05-28,17:30:00,Excellent,Clear,22.0,Warm,4_3_3,3_5_2,95:05
+3665,4,GreSL,2450791,PAOK,AEK Athens,2017-05-28,17:30:00,Excellent,Clear,22.0,Warm,4_3_3,4_1_4_1,62:44
+3666,5,GreSL,2450791,PAOK,AEK Athens,2017-05-28,17:30:00,Excellent,Clear,22.0,Warm,4_5_1,3_5_2,84:00
+3661,0,GreSL,2450794,AEK Athens,Panionios,2017-05-31,17:30:00,Good,"Clear, Cloud",25.0,Warm,4_2_3_1,4_4_1_1,77:10
+3662,1,GreSL,2450794,AEK Athens,Panionios,2017-05-31,17:30:00,Good,"Clear, Cloud",25.0,Warm,4_2_3_1,4_2_3_1,60:20
+3663,2,GreSL,2450793,Panathinaikos,PAOK,2017-05-31,17:30:00,Good,"Clear, Sun",25.0,-,4_2_3_1,4_2_3_1,87:10
+3352,0,GreSL,2560497,Lamia,Xanthi,2017-08-19,16:15:00,Average,"Cloud, Sun",28,Hot,4_3_3,4_2_3_1,00:00
+3353,1,GreSL,2560499,PAS Giannina,Asteras Tripolis,2017-08-19,16:15:00,Good,"Clear, Light Wind, Sun",30,Hot,4_3_3,3_5_2,00:00
+3354,2,GreSL,2560499,PAS Giannina,Asteras Tripolis,2017-08-19,16:15:00,Good,"Clear, Light Wind, Sun",30,Hot,3_5_2,3_5_2,64:22
+3355,3,GreSL,2560499,PAS Giannina,Asteras Tripolis,2017-08-19,16:15:00,Good,"Clear, Light Wind",30,Hot,4_3_3,3_5_2,00:00
+3356,4,GreSL,2560499,PAS Giannina,Asteras Tripolis,2017-08-19,16:15:00,Good,"Clear, Light Wind",30,Hot,3_5_2,3_5_2,64:22
+3357,5,GreSL,2560502,Larissa,Olympiakos Piraeus,2017-08-19,18:30:00,Good,"Clear, Sun",30,Hot,4_2_3_1,4_2_3_1,00:00
+3358,6,GreSL,2560498,Panionios,Kerkyra,2017-08-20,16:15:00,Good,"Clear, Light Wind, Sun",28,Hot,4_2_3_1,4_2_3_1,00:00
+3359,7,GreSL,2560501,PAOK,Levadiakos,2017-08-20,16:15:00,Average,"Clear, Sun",31,Hot,4_3_3,4_2_3_1,00:00
+3360,8,GreSL,2560496,Panaitolikos,AEK Athens,2017-08-20,16:15:00,"Good, Soft",Clear,34,-,4_2_3_1,4_2_3_1,00:00
+3361,9,GreSL,2560503,Panathinaikos,Platanias,2017-08-20,18:30:00,Good,"Clear, Sun",28,Hot,3_4_3,4_2_3_1,00:00
+3362,10,GreSL,2560500,Apollon Smirnis,Atromitos,2017-08-21,18:30:00,Good,Clear,27,Hot,4_2_3_1,4_2_3_1,00:00
+3363,11,GreSL,2565113,Atromitos,Panaitolikos,2017-08-26,16:15:00,Good,"Clear, Sun",31,Hot,4_1_4_1,4_2_3_1,00:00
+3364,12,GreSL,2565112,Xanthi,Platanias,2017-08-26,16:15:00,Good,"Clear, Sun",28,Hot,4_3_3,4_3_3,00:00
+3365,13,GreSL,2565114,Olympiakos Piraeus,Lamia,2017-08-26,18:30:00,Average,Clear,23,Warm,4_2_3_1,4_2_3_1,00:00
+3366,14,GreSL,2565114,Olympiakos Piraeus,Lamia,2017-08-26,18:30:00,Average,Clear,23,Warm,3_5_2,4_2_3_1,84:40
+3367,15,GreSL,2565117,Apollon Smirnis,Panionios,2017-08-27,16:15:00,"Good, Soft","Clear, Sun",28,-,4_2_3_1,4_3_3,00:00
+3368,16,GreSL,2565116,Kerkyra,PAOK,2017-08-27,16:15:00,Good,"Clear, Sun",31,Hot,4_3_3,4_4_2,00:00
+3369,17,GreSL,2565115,Levadiakos,Panathinaikos,2017-08-27,16:15:00,Good,Clear,25,Warm,4_2_3_1,3_4_2_1,00:00
+3370,18,GreSL,2565115,Levadiakos,Panathinaikos,2017-08-27,16:15:00,Good,Clear,25,Warm,4_4_2,3_4_2_1,45:00
+3371,19,GreSL,2565118,AEK Athens,PAS Giannina,2017-08-27,18:30:00,Excellent,Sun,33,Hot,3_5_2,3_5_2,00:00
+3372,20,GreSL,2565119,Asteras Tripolis,Larissa,2017-08-28,18:30:00,Average,Clear,27,Warm,4_2_3_1,4_2_3_1,00:00
+3373,21,GreSL,2565119,Asteras Tripolis,Larissa,2017-08-28,18:30:00,Average,Clear,27,Warm,4_4_2,4_2_3_1,68:48
+3374,22,GreSL,2584594,Lamia,Asteras Tripolis,2017-09-09,13:00:00,"Good, Soft","Clear, Sun",27,Warm,4_2_3_1,4_5_1,00:00
+3375,23,GreSL,2584595,PAS Giannina,Atromitos,2017-09-09,15:15:00,Good,"Light Wind, Sun",29,Hot,4_2_3_1,3_5_2,00:00
+3376,24,GreSL,2584595,PAS Giannina,Atromitos,2017-09-09,15:15:00,Good,"Light Wind, Sun",29,Hot,4_2_3_1,4_5_1,79:54
+3377,25,GreSL,2584596,Olympiakos Piraeus,Xanthi,2017-09-09,17:30:00,Good,Clear,21,Warm,4_3_3,4_2_3_1,00:00
+3378,26,GreSL,2584597,Panaitolikos,Panionios,2017-09-10,13:00:00,Average,"Sun, Wind",29,Hot,4_2_3_1,4_3_3,00:00
+3379,27,GreSL,2584598,Larissa,AEK Athens,2017-09-10,15:15:00,Good,"Clear, Sun",28,Hot,4_2_3_1,3_4_2_1,00:00
+3380,28,GreSL,2584598,Larissa,AEK Athens,2017-09-10,15:15:00,Good,"Clear, Sun",28,Hot,4_2_3_1,4_3_1_2,45:00
+3381,29,GreSL,2584598,Larissa,AEK Athens,2017-09-10,15:15:00,Good,"Clear, Sun",28,Hot,4_2_3_1,3_4_1_2,77:25
+3382,30,GreSL,2584599,Platanias,Levadiakos,2017-09-10,15:15:00,"Average, Wet","Clear, Light Wind, Sun",30,Hot,3_4_2_1,4_3_3,00:00
+3383,31,GreSL,2584599,Platanias,Levadiakos,2017-09-10,15:15:00,"Average, Wet","Clear, Light Wind, Sun",30,Hot,3_4_2_1,4_4_1_1,83:45
+3384,32,GreSL,2584600,Panathinaikos,Kerkyra,2017-09-10,17:30:00,Good,"Cloud, Light Wind",25,Warm,4_2_3_1,4_4_2,00:00
+3385,33,GreSL,2584600,Panathinaikos,Kerkyra,2017-09-10,17:30:00,Good,"Cloud, Light Wind",25,Warm,4_2_3_1,3_4_3,66:22
+3386,34,GreSL,2584600,Panathinaikos,Kerkyra,2017-09-10,17:30:00,Good,"Cloud, Light Wind",25,Warm,4_5_1,3_4_3,69:01
+3387,35,GreSL,2584601,PAOK,Apollon Smirnis,2017-09-11,16:30:00,Good,Clear,26,Warm,4_2_3_1,4_2_3_1,00:00
+3388,36,GreSL,2588416,Xanthi,Levadiakos,2017-09-16,13:00:00,Average,"Clear, Sun",33,Hot,3_4_3,4_3_3,00:00
+3389,37,GreSL,2588417,Panaitolikos,PAOK,2017-09-16,15:15:00,Good,"Clear, Sun",30,Hot,4_2_3_1,4_3_3,00:00
+3390,38,GreSL,2588418,Asteras Tripolis,Olympiakos Piraeus,2017-09-16,17:30:00,Excellent,"Clear, Sun",31,Hot,4_2_3_1,4_2_3_1,00:00
+3391,39,GreSL,2588419,Apollon Smirnis,Panathinaikos,2017-09-17,13:00:00,Good,"Clear, Sun",32,Hot,4_2_3_1,4_2_3_1,00:00
+3392,40,GreSL,2588420,Atromitos,Larissa,2017-09-17,15:15:00,Poor,Sun,28,Hot,4_2_3_1,4_3_3,00:00
+3393,41,GreSL,2588421,Kerkyra,Platanias,2017-09-17,15:15:00,"Dry, Poor, Uneven",Sun,31,Hot,4_3_3,4_2_3_1,00:00
+3394,42,GreSL,2588422,AEK Athens,Lamia,2017-09-17,17:30:00,Good,Clear,30,Hot,4_5_1,4_5_1,00:00
+3395,43,GreSL,2588423,Panionios,PAS Giannina,2017-09-18,16:00:00,Good,Clear,17,-,3_5_2,4_2_3_1,00:00
+3396,44,GreSL,2588424,Platanias,Apollon Smirnis,2017-09-23,13:00:00,Good,"Clear, Sun",25,Warm,4_3_3,4_2_3_1,00:00
+3397,45,GreSL,2588425,Lamia,Atromitos,2017-09-23,15:15:00,Good,"Clear, Sun",25,Warm,4_3_3,4_2_3_1,00:00
+3398,46,GreSL,2588426,Panathinaikos,Panaitolikos,2017-09-23,17:30:00,Good,"Clear, Sun",25,Warm,4_2_3_1,4_4_1_1,00:00
+3399,47,GreSL,2588426,Panathinaikos,Panaitolikos,2017-09-23,17:30:00,Good,"Clear, Sun",25,Warm,4_2_3_1,4_4_2,45:00
+3400,48,GreSL,2588427,PAS Giannina,PAOK,2017-09-24,13:00:00,Good,Clear,24,Warm,4_2_3_1,3_5_2,00:00
+3401,49,GreSL,2588428,Levadiakos,Kerkyra,2017-09-24,15:15:00,"Patchy, Poor","Cloud, Sun",25,Hot,4_4_2,3_4_3,00:00
+3402,50,GreSL,2588428,Levadiakos,Kerkyra,2017-09-24,15:15:00,"Patchy, Poor","Cloud, Sun",25,Hot,3_4_1_2,3_4_3,73:02
+3403,51,GreSL,2588429,Larissa,Panionios,2017-09-24,15:15:00,"Average, Dry","Clear, Sun",26,Hot,4_2_3_1,4_2_3_1,00:00
+3404,52,GreSL,2588430,Olympiakos Piraeus,AEK Athens,2017-09-24,17:30:00,"Good, Patchy",Cloud,24,Hot,4_2_3_1,4_2_3_1,00:00
+3405,53,GreSL,2588431,Asteras Tripolis,Xanthi,2017-09-25,16:30:00,Average,"Clear, Wind",22,Warm,4_3_3,4_2_3_1,00:00
+3406,54,GreSL,2588432,Panaitolikos,Platanias,2017-09-30,13:00:00,"Average, Wet",Cloud,20,Warm,4_3_3,4_2_3_1,00:00
+3407,55,GreSL,2588433,PAS Giannina,Panathinaikos,2017-09-30,15:15:00,"Good, Wet",Cloud,20,Warm,4_3_3,5_3_2,00:00
+3408,56,GreSL,2588434,PAOK,Larissa,2017-09-30,17:30:00,"Average, Wet",Cloud,18,Warm,4_2_3_1,4_2_3_1,00:00
+3409,57,GreSL,2588434,PAOK,Larissa,2017-09-30,17:30:00,"Average, Wet",Cloud,18,Warm,4_4_2,4_2_3_1,83:08
+3410,58,GreSL,2588435,Atromitos,Olympiakos Piraeus,2017-10-01,13:00:00,Good,"Cloud, Sun",20,-,4_3_3,4_3_3,00:00
+3411,59,GreSL,2588435,Atromitos,Olympiakos Piraeus,2017-10-01,13:00:00,Good,"Cloud, Sun",20,-,4_4_2,4_3_3,60:15
+3412,60,GreSL,2588435,Atromitos,Olympiakos Piraeus,2017-10-01,13:00:00,Good,"Cloud, Sun",20,-,4_4_2,5_3_2,69:54
+3413,61,GreSL,2588436,Xanthi,Kerkyra,2017-10-01,15:15:00,Good,"Clear, Light Wind",20,Warm,4_2_3_1,4_3_3,00:00
+3414,62,GreSL,2588436,Xanthi,Kerkyra,2017-10-01,15:15:00,Good,"Clear, Light Wind",20,Warm,4_2_3_1,4_5_1,78:22
+3415,63,GreSL,2588437,Apollon Smirnis,Levadiakos,2017-10-01,15:15:00,"Average, Uneven, Wet","Cloud, Wind",19,Warm,3_4_2_1,4_2_3_1,00:00
+3416,64,GreSL,2588438,AEK Athens,Asteras Tripolis,2017-10-01,17:30:00,"Average, Wet","Cloud, Light Wind",15,-,4_2_3_1,4_3_3,00:00
+3417,65,GreSL,2588438,AEK Athens,Asteras Tripolis,2017-10-01,17:30:00,"Average, Wet","Cloud, Light Wind",15,-,4_2_3_1,4_2_3_1,54:46
+3418,66,GreSL,2588438,AEK Athens,Asteras Tripolis,2017-10-01,17:30:00,"Average, Wet","Cloud, Light Wind",15,-,4_2_3_1,3_5_2,69:43
+3419,67,GreSL,2588439,Panionios,Lamia,2017-10-02,16:30:00,"Patchy, Poor",Clear,16,-,4_2_3_1,4_2_3_1,00:00
+3420,68,GreSL,2588440,Platanias,PAS Giannina,2017-10-14,13:00:00,Good,"Clear, Sun",24,Warm,3_5_2,4_1_2_1_2,00:00
+3421,69,GreSL,2588440,Platanias,PAS Giannina,2017-10-14,13:00:00,Good,"Clear, Sun",24,Warm,3_5_2,4_4_2,69:15
+3422,70,GreSL,2588441,Asteras Tripolis,Atromitos,2017-10-14,15:15:00,Good,Clear,20,Warm,4_2_3_1,4_2_3_1,00:00
+3423,71,GreSL,2588442,Olympiakos Piraeus,Panionios,2017-10-14,17:30:00,Good,Clear,17,Warm,4_2_3_1,4_2_3_1,00:00
+3424,72,GreSL,2588442,Olympiakos Piraeus,Panionios,2017-10-14,17:30:00,Good,Clear,17,Warm,4_2_3_1,5_4_1,87:17
+3425,73,GreSL,2588443,Lamia,PAOK,2017-10-15,13:00:00,Good,"Clear, Sun",22,Warm,4_2_3_1,4_2_3_1,00:00
+3426,74,GreSL,2588445,Levadiakos,Panaitolikos,2017-10-15,15:15:00,Good,Clear,20,Warm,4_2_3_1,3_4_2_1,00:00
+3427,75,GreSL,2588444,Kerkyra,Apollon Smirnis,2017-10-15,15:15:00,Good,"Cloud, Sun",21,Warm,4_3_3,4_2_3_1,00:00
+3428,76,GreSL,2588446,AEK Athens,Xanthi,2017-10-15,17:30:00,Good,Clear,19,Warm,4_3_3,4_2_3_1,00:00
+3429,77,GreSL,2588446,AEK Athens,Xanthi,2017-10-15,17:30:00,Good,Clear,19,Warm,4_4_1_1,4_2_3_1,58:41
+3430,78,GreSL,2588447,Larissa,Panathinaikos,2017-10-16,16:30:00,Good,Clear,22,-,4_3_3,4_1_4_1,00:00
+3431,79,GreSL,2588447,Larissa,Panathinaikos,2017-10-16,16:30:00,Good,Clear,22,-,4_3_3,4_4_2,68:08
+3432,80,GreSL,2588448,PAS Giannina,Levadiakos,2017-10-21,13:00:00,Average,"Clear, Sun",24,Warm,3_4_2_1,3_4_1_2,00:00
+3433,81,GreSL,2588449,Panaitolikos,Kerkyra,2017-10-21,15:15:00,Average,"Clear, Light Wind",22,Warm,4_2_3_1,4_2_3_1,00:00
+3434,82,GreSL,2588450,Panathinaikos,Lamia,2017-10-21,17:30:00,Good,Clear,18,Warm,4_2_3_1,4_2_3_1,00:00
+3435,83,GreSL,2588450,Panathinaikos,Lamia,2017-10-21,17:30:00,Good,Clear,18,Warm,4_2_3_1,3_4_1_2,70:46
+3436,84,GreSL,2588451,Panionios,Asteras Tripolis,2017-10-22,13:00:00,Average,Sun,25,Hot,4_2_3_1,4_2_3_1,00:00
+3437,85,GreSL,2588451,Panionios,Asteras Tripolis,2017-10-22,13:00:00,Average,Sun,25,Hot,4_2_3_1,4_4_2,80:00
+3438,86,GreSL,2588452,Xanthi,Apollon Smirnis,2017-10-22,15:15:00,Average,Clear,21,Warm,4_2_3_1,4_2_3_1,00:00
+3439,87,GreSL,2588452,Xanthi,Apollon Smirnis,2017-10-22,15:15:00,Average,Clear,21,Warm,4_2_3_1,4_4_2,78:39
+3440,88,GreSL,2588453,Larissa,Platanias,2017-10-22,15:15:00,"Average, Soft",Sun,24,Warm,4_2_3_1,4_2_3_1,00:00
+3441,89,GreSL,2588454,PAOK,Olympiakos Piraeus,2017-10-22,17:30:00,Good,Clear,20,Warm,4_2_3_1,4_2_3_1,00:00
+3442,90,GreSL,2588455,Atromitos,AEK Athens,2017-10-23,16:30:00,Good,Cloud,22,Hot,4_2_3_1,4_2_3_1,00:00
+3443,91,GreSL,2588455,Atromitos,AEK Athens,2017-10-23,16:30:00,Good,Cloud,22,Hot,4_2_3_1,5_4_1,65:14
+3444,92,GreSL,2588456,Levadiakos,Larissa,2017-10-28,12:00:00,Poor,"Cloud, Sun",19,Warm,4_2_3_1,3_4_1_2,00:00
+3445,93,GreSL,2588456,Levadiakos,Larissa,2017-10-28,12:00:00,Poor,"Cloud, Sun",19,Warm,4_4_2,3_4_1_2,67:19
+3446,94,GreSL,2588457,Kerkyra,PAS Giannina,2017-10-28,14:15:00,Good,"Clear, Sun, Wind",20,Warm,3_5_2,4_2_3_1,00:00
+3447,95,GreSL,2588457,Kerkyra,PAS Giannina,2017-10-28,14:15:00,Good,"Clear, Sun, Wind",20,Warm,4_2_3_1,4_2_3_1,63:43
+3448,96,GreSL,2588458,Olympiakos Piraeus,Panathinaikos,2017-10-28,16:30:00,"Average, Patchy","Cloud, Light Rain",19,Warm,4_2_3_1,4_2_3_1,00:00
+3449,97,GreSL,2588458,Olympiakos Piraeus,Panathinaikos,2017-10-28,16:30:00,"Average, Patchy","Cloud, Light Rain",19,Warm,4_5_1,4_2_3_1,86:44
+3450,98,GreSL,2588459,Atromitos,Xanthi,2017-10-29,13:00:00,Average,"Cloud, Sun",16,-,4_3_3,4_3_2_1,00:00
+3451,99,GreSL,2588460,Apollon Smirnis,Panaitolikos,2017-10-29,15:15:00,Average,Sun,18,Warm,4_2_3_1,4_2_3_1,00:00
+3452,100,GreSL,2588461,Platanias,Lamia,2017-10-29,15:15:00,"Poor, Uneven","Cloud, Light Wind",15,Warm,4_5_1,3_4_2_1,00:00
+3453,101,GreSL,2588461,Platanias,Lamia,2017-10-29,15:15:00,"Poor, Uneven","Cloud, Light Wind",15,Warm,4_2_3_1,3_4_2_1,55:44
+3454,102,GreSL,2588461,Platanias,Lamia,2017-10-29,15:15:00,"Poor, Uneven","Cloud, Light Wind",15,Warm,4_2_3_1,4_2_3_1,64:10
+3455,103,GreSL,2588462,AEK Athens,Panionios,2017-10-29,17:30:00,Good,"Cloud, Sun",18,Warm,4_2_3_1,3_5_2,00:00
+3456,104,GreSL,2588463,Asteras Tripolis,PAOK,2017-10-30,17:30:00,"Excellent, Wet",Clear,15,Warm,4_2_3_1,3_5_2,00:00
+3457,105,GreSL,2588464,Xanthi,Panaitolikos,2017-11-04,13:00:00,Good,Sun,17,Warm,4_3_3,4_3_3,00:00
+3458,106,GreSL,2588465,Panionios,Atromitos,2017-11-04,15:15:00,Average,"Clear, Light Wind",16,-,4_2_3_1,4_2_3_1,00:00
+3459,107,GreSL,2588466,Panathinaikos,Asteras Tripolis,2017-11-04,17:30:00,Average,Clear,10,-,4_3_3,4_2_3_1,00:00
+3460,108,GreSL,2588466,Panathinaikos,Asteras Tripolis,2017-11-04,17:30:00,Average,Clear,10,-,4_3_3,4_4_2,72:39
+3461,109,GreSL,2588467,Platanias,Olympiakos Piraeus,2017-11-05,13:00:00,"Good, Soft","Cloud, Light Wind, Sun",17,Warm,4_2_3_1,4_2_3_1,00:00
+3462,110,GreSL,2588468,PAS Giannina,Apollon Smirnis,2017-11-05,15:15:00,Good,"Cloud, Wind",15,-,4_3_3,3_5_2,00:00
+3463,111,GreSL,2588469,Larissa,Kerkyra,2017-11-05,15:15:00,Average,Clear,17,Warm,4_2_3_1,4_2_3_1,00:00
+3464,112,GreSL,2588470,PAOK,AEK Athens,2017-11-05,17:30:00,Good,Cloud,13,Cold,3_4_1_2,4_2_3_1,00:00
+3465,113,GreSL,2588471,Lamia,Levadiakos,2017-11-06,17:30:00,Good,Clear,11,-,3_4_1_2,4_2_3_1,00:00
+3466,114,GreSL,2588471,Lamia,Levadiakos,2017-11-06,17:30:00,Good,Clear,11,-,4_4_1_1,4_2_3_1,63:49
+3467,115,GreSL,2588472,Kerkyra,Lamia,2017-11-18,13:00:00,"Average, Wet","Cloud, Light Wind",12,-,4_2_3_1,4_2_3_1,00:00
+3468,116,GreSL,2588472,Kerkyra,Lamia,2017-11-18,13:00:00,"Average, Wet","Cloud, Light Wind",12,-,4_4_2,4_2_3_1,50:14
+3469,117,GreSL,2588473,Apollon Smirnis,Larissa,2017-11-18,15:15:00,"Average, Wet",Cloud,10,-,4_2_3_1,4_2_3_1,00:00
+3470,118,GreSL,2588473,Apollon Smirnis,Larissa,2017-11-18,15:15:00,"Average, Wet",Cloud,10,-,4_2_3_1,5_4_1,75:17
+3471,119,GreSL,2588474,Levadiakos,Olympiakos Piraeus,2017-11-18,17:30:00,"Good, Wet","Cloud, Light Rain",14,-,4_2_3_1,3_4_2_1,00:00
+3472,120,GreSL,2588474,Levadiakos,Olympiakos Piraeus,2017-11-18,17:30:00,"Good, Wet","Cloud, Light Rain",14,-,4_2_3_1,4_2_3_1,57:11
+3473,121,GreSL,2588474,Levadiakos,Olympiakos Piraeus,2017-11-18,17:30:00,"Good, Wet","Cloud, Light Rain",14,-,4_4_2,4_2_3_1,79:45
+3474,122,GreSL,2588474,Levadiakos,Olympiakos Piraeus,2017-11-18,17:30:00,"Good, Wet","Cloud, Light Rain",14,-,4_4_2,4_4_2,88:15
+3475,123,GreSL,2588475,Panionios,Xanthi,2017-11-19,13:00:00,Average,Cloud,13,Warm,4_2_3_1,4_2_3_1,00:00
+3476,124,GreSL,2588477,Asteras Tripolis,Platanias,2017-11-19,15:15:00,Good,Cloud,15,-,4_2_3_1,4_2_3_1,00:00
+3477,125,GreSL,2588476,Panaitolikos,PAS Giannina,2017-11-19,15:15:00,Good,Clear,11,-,3_5_2,4_2_3_1,00:00
+3478,126,GreSL,2588478,AEK Athens,Panathinaikos,2017-11-19,17:30:00,"Good, Wet",Cloud,13,-,4_2_3_1,3_5_2,00:00
+3479,127,GreSL,2588478,AEK Athens,Panathinaikos,2017-11-19,17:30:00,"Good, Wet",Cloud,13,-,4_2_3_1,4_2_3_1,53:00
+3480,128,GreSL,2588478,AEK Athens,Panathinaikos,2017-11-19,17:30:00,"Good, Wet",Cloud,13,-,4_2_3_1,4_4_2,70:54
+3481,129,GreSL,2588478,AEK Athens,Panathinaikos,2017-11-19,17:30:00,"Good, Wet",Cloud,13,-,4_5_1,4_4_2,91:39
+3482,130,GreSL,2588479,Atromitos,PAOK,2017-11-20,17:30:00,Good,Clear,9,-,4_2_3_1,4_5_1,00:00
+3483,131,GreSL,2588480,Xanthi,PAS Giannina,2017-11-25,13:00:00,Good,"Cloud, Light Wind",15,-,3_4_2_1,4_3_3,00:00
+3484,132,GreSL,2588480,Xanthi,PAS Giannina,2017-11-25,13:00:00,Good,"Cloud, Light Wind",15,-,4_4_2,4_3_3,65:38
+3485,133,GreSL,2588480,Xanthi,PAS Giannina,2017-11-25,13:00:00,Good,"Cloud, Light Wind",15,-,4_4_2,4_4_2,75:00
+3486,134,GreSL,2588480,Xanthi,PAS Giannina,2017-11-25,13:00:00,Good,"Cloud, Light Wind",15,-,4_1_4_1,4_4_2,81:56
+3487,135,GreSL,2588481,Lamia,Apollon Smirnis,2017-11-25,15:15:00,Excellent,Clear,9,Cold,4_2_3_1,4_2_3_1,00:00
+3488,136,GreSL,2588482,Panathinaikos,Atromitos,2017-11-25,17:30:00,Good,"Clear, Cloud, Light Wind",14,-,4_2_3_1,4_4_2,00:00
+3489,137,GreSL,2588482,Panathinaikos,Atromitos,2017-11-25,17:30:00,Good,"Clear, Cloud, Light Wind",14,-,4_4_1_1,4_4_2,73:31
+3490,138,GreSL,2588483,PAOK,Panionios,2017-11-26,13:00:00,Good,"Cloud, Sun",18,Warm,4_2_3_1,4_2_3_1,00:00
+3491,139,GreSL,2588484,Levadiakos,Asteras Tripolis,2017-11-26,15:15:00,Good,Cloud,12,-,4_2_3_1,3_4_1_2,00:00
+3492,140,GreSL,2588484,Levadiakos,Asteras Tripolis,2017-11-26,15:15:00,Good,Cloud,12,-,4_2_3_1,4_4_2,48:55
+3493,141,GreSL,2588485,Larissa,Panaitolikos,2017-11-26,15:15:00,"Average, Wet",Light Rain,17,Warm,4_2_3_1,4_2_3_1,00:00
+3494,142,GreSL,2588485,Larissa,Panaitolikos,2017-11-26,15:15:00,"Average, Wet",Clear,17,Warm,4_2_3_1,4_2_3_1,00:00
+3495,143,GreSL,2588485,Larissa,Panaitolikos,2017-11-26,15:15:00,Average,Light Rain,17,Warm,4_2_3_1,4_2_3_1,00:00
+3496,144,GreSL,2588485,Larissa,Panaitolikos,2017-11-26,15:15:00,Average,Clear,17,Warm,4_2_3_1,4_2_3_1,00:00
+3497,145,GreSL,2588486,Olympiakos Piraeus,Kerkyra,2017-11-26,17:30:00,"Good, Wet","Cloud, Rain",11,-,4_1_4_1,4_2_3_1,00:00
+3498,146,GreSL,2588486,Olympiakos Piraeus,Kerkyra,2017-11-26,17:30:00,"Good, Wet","Cloud, Rain",11,-,4_1_4_1,4_4_2,45:00
+3499,147,GreSL,2588487,Platanias,AEK Athens,2017-11-27,17:30:00,Good,Clear,14,-,4_2_3_1,5_3_2,00:00
+3500,148,GreSL,2588488,Kerkyra,Asteras Tripolis,2017-12-02,13:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",13,-,4_2_3_1,4_3_3,00:00
+3501,149,GreSL,2588489,PAOK,Xanthi,2017-12-02,15:15:00,"Good, Wet","Cloud, Rain, Wind",15,-,4_3_3,4_2_3_1,00:00
+3502,150,GreSL,2588489,PAOK,Xanthi,2017-12-02,15:15:00,"Good, Wet","Cloud, Light Rain, Wind",15,-,4_3_3,4_2_3_1,00:00
+3503,151,GreSL,2588490,Apollon Smirnis,Olympiakos Piraeus,2017-12-02,17:30:00,Good,Clear,20,-,4_2_3_1,4_3_3,00:00
+3504,152,GreSL,2588491,Panionios,Panathinaikos,2017-12-03,13:00:00,Good,"Clear, Sun",14,-,4_4_1_1,4_2_3_1,00:00
+3505,153,GreSL,2588493,PAS Giannina,Larissa,2017-12-03,15:15:00,Good,Sun,14,-,4_2_3_1,3_5_2,00:00
+3506,154,GreSL,2588493,PAS Giannina,Larissa,2017-12-03,15:15:00,Good,Sun,14,-,4_1_4_1,3_5_2,72:49
+3507,155,GreSL,2588493,PAS Giannina,Larissa,2017-12-03,15:15:00,Good,Sun,14,-,4_4_2,3_5_2,86:59
+3508,156,GreSL,2588492,Panaitolikos,Lamia,2017-12-03,15:15:00,Excellent,Clear,20,Warm,4_2_3_1,4_2_3_1,00:00
+3509,157,GreSL,2588494,AEK Athens,Levadiakos,2017-12-03,17:30:00,Good,Clear,15,-,3_4_3,3_4_2_1,00:00
+3510,158,GreSL,2588495,Atromitos,Platanias,2017-12-04,17:30:00,Good,Cloud,10,-,3_4_1_2,4_5_1,00:00
+3511,159,GreSL,2588495,Atromitos,Platanias,2017-12-04,17:30:00,Good,Cloud,10,-,3_5_2,4_5_1,58:54
+3512,160,GreSL,2588496,Xanthi,Larissa,2017-12-09,13:00:00,Average,"Clear, Sun",9,-,4_2_3_1,4_3_3,00:00
+3513,161,GreSL,2588497,Platanias,Panionios,2017-12-09,15:15:00,Good,"Cloud, Sun",16,Warm,4_2_3_1,4_2_3_1,00:00
+3514,162,GreSL,2588498,Olympiakos Piraeus,Panaitolikos,2017-12-09,17:30:00,"Good, Wet","Cloud, Rain",12,-,4_2_3_1,4_2_3_1,00:00
+3515,163,GreSL,2588499,Asteras Tripolis,Apollon Smirnis,2017-12-10,13:00:00,Good,"Clear, Sun",12,-,4_2_3_1,4_2_3_1,00:00
+3516,164,GreSL,2588499,Asteras Tripolis,Apollon Smirnis,2017-12-10,13:00:00,Good,"Clear, Sun",12,-,4_2_3_1,4_1_4_1,76:35
+3517,165,GreSL,2588499,Asteras Tripolis,Apollon Smirnis,2017-12-10,13:00:00,Good,"Clear, Sun",12,-,4_4_2,4_1_4_1,80:40
+3518,166,GreSL,2588499,Asteras Tripolis,Apollon Smirnis,2017-12-10,13:00:00,Good,"Clear, Sun",12,-,4_4_2,5_4_1,86:33
+3519,167,GreSL,2588500,Levadiakos,Atromitos,2017-12-10,15:15:00,Average,"Cloud, Sun",14,-,4_5_1,4_2_3_1,00:00
+3520,168,GreSL,2588500,Levadiakos,Atromitos,2017-12-10,15:15:00,Average,"Cloud, Sun",14,-,5_4_1,4_2_3_1,89:59
+3521,169,GreSL,2588501,Lamia,PAS Giannina,2017-12-10,15:15:00,Good,Clear,8,Cold,3_5_2,4_2_3_1,00:00
+3522,170,GreSL,2588502,Panathinaikos,PAOK,2017-12-10,17:30:00,"Good, Wet",Clear,3,Cold,4_2_3_1,4_4_2,00:00
+3523,171,GreSL,2588502,Panathinaikos,PAOK,2017-12-10,17:30:00,"Good, Wet",Clear,3,Cold,4_2_3_1,4_2_3_1,45:00
+3524,172,GreSL,2588502,Panathinaikos,PAOK,2017-12-10,17:30:00,"Good, Wet",Clear,3,Cold,4_2_3_1,4_4_1_1,68:12
+3525,173,GreSL,2588502,Panathinaikos,PAOK,2017-12-10,17:30:00,"Good, Wet",Clear,3,Cold,4_4_1_1,4_4_1_1,78:19
+3526,174,GreSL,2588503,Kerkyra,AEK Athens,2017-12-11,17:30:00,Good,Cloud,12,-,4_2_3_1,4_4_2,00:00
+3527,175,GreSL,2588504,Atromitos,Kerkyra,2017-12-16,13:00:00,"Average, Wet",Cloud,17,-,4_5_1,4_3_3,00:00
+3528,176,GreSL,2588505,Apollon Smirnis,AEK Athens,2017-12-16,15:15:00,"Good, Wet","Cloud, Rain",15,Warm,4_2_3_1,4_2_3_1,00:00
+3529,177,GreSL,2588506,PAOK,Platanias,2017-12-16,17:30:00,Good,"Cloud, Light Wind",16,-,3_4_1_2,4_2_3_1,00:00
+3530,178,GreSL,2588507,PAS Giannina,Olympiakos Piraeus,2017-12-17,13:00:00,Good,Sun,15,-,4_3_3,3_4_1_2,00:00
+3531,179,GreSL,2588507,PAS Giannina,Olympiakos Piraeus,2017-12-17,13:00:00,Good,Sun,15,-,4_2_3_1,3_4_1_2,55:34
+3532,180,GreSL,2588507,PAS Giannina,Olympiakos Piraeus,2017-12-17,13:00:00,Good,Sun,15,-,4_2_3_1,4_4_2,83:05
+3533,181,GreSL,2588509,Larissa,Lamia,2017-12-17,15:15:00,Good,Sun,13,-,4_2_3_1,4_2_3_1,00:00
+3534,182,GreSL,2588509,Larissa,Lamia,2017-12-17,15:15:00,Good,Sun,13,-,4_4_2,4_2_3_1,60:31
+3535,183,GreSL,2588508,Panaitolikos,Asteras Tripolis,2017-12-17,15:15:00,Good,Clear,17,Warm,4_2_3_1,4_3_3,00:00
+3536,184,GreSL,2588510,Panathinaikos,Xanthi,2017-12-17,17:30:00,"Excellent, Wet",Cloud,19,Cold,4_3_3,4_4_1_1,00:00
+3537,185,GreSL,2588511,Panionios,Levadiakos,2017-12-18,17:30:00,Average,Cloud,11,-,4_2_3_1,4_2_3_1,00:00
+3538,186,GreSL,2588511,Panionios,Levadiakos,2017-12-18,17:30:00,Average,Cloud,11,-,4_2_3_1,4_4_2,80:06
+3539,187,GreSL,2588511,Panionios,Levadiakos,2017-12-18,17:30:00,Average,Cloud,11,-,3_4_3,4_4_2,82:18
+3540,188,GreSL,2687429,Kerkyra,Panionios,2018-01-06,13:00:00,Good,"Light Wind, Sun",13,-,4_2_3_1,4_5_1,00:00
+3541,189,GreSL,2687430,Levadiakos,PAOK,2018-01-06,15:15:00,Good,"Clear, Light Wind",11,-,4_2_3_1,3_4_2_1,00:00
+3542,190,GreSL,2687431,AEK Athens,Panaitolikos,2018-01-06,17:30:00,Good,Clear,9,-,4_1_4_1,3_4_1_2,00:00
+3543,191,GreSL,2687436,Platanias,Panathinaikos,2018-01-07,13:00:00,Good,"Cloud, Sun",15,-,4_4_2,5_4_1,00:00
+3544,192,GreSL,2687436,Platanias,Panathinaikos,2018-01-07,13:00:00,Good,"Cloud, Sun",15,-,4_4_2,4_4_1_1,81:33
+3545,193,GreSL,2687432,Xanthi,Lamia,2018-01-07,15:15:00,Good,Cloud,11,-,4_2_3_1,4_2_3_1,00:00
+3546,194,GreSL,2687433,Asteras Tripolis,PAS Giannina,2018-01-07,15:15:00,"Average, Wet",Cloud,17,Warm,3_4_2_1,4_2_3_1,00:00
+3547,195,GreSL,2687433,Asteras Tripolis,PAS Giannina,2018-01-07,15:15:00,"Average, Wet",Cloud,17,Warm,3_4_2_1,4_5_1,88:11
+3548,196,GreSL,2687434,Olympiakos Piraeus,Larissa,2018-01-07,17:30:00,"Patchy, Poor, Uneven",Clear,6,Cold,4_1_4_1,4_2_3_1,00:00
+3549,197,GreSL,2687434,Olympiakos Piraeus,Larissa,2018-01-07,17:30:00,"Patchy, Poor, Uneven",Clear,6,Cold,4_4_2,4_2_3_1,65:19
+3550,198,GreSL,2687435,Atromitos,Apollon Smirnis,2018-01-08,17:30:00,Good,Cloud,14,-,4_2_3_1,4_2_3_1,00:00
+3551,199,GreSL,2701408,Platanias,Xanthi,2018-01-13,13:00:00,Good,"Cloud, Strong Wind, Wind",7,Cold,4_3_3,3_5_2,00:00
+3552,200,GreSL,2701409,Panionios,Apollon Smirnis,2018-01-13,15:15:00,Good,"Cloud, Light Wind",11,-,4_1_4_1,4_2_3_1,00:00
+3553,201,GreSL,2701409,Panionios,Apollon Smirnis,2018-01-13,15:15:00,Good,"Cloud, Light Wind",11,-,4_1_4_1,4_4_2,45:00
+3554,202,GreSL,2701411,PAOK,Kerkyra,2018-01-14,13:00:00,Average,Cloud,10,Cold,4_1_4_1,4_2_3_1,00:00
+3555,203,GreSL,2701411,PAOK,Kerkyra,2018-01-14,13:00:00,Average,Cloud,10,Cold,4_4_2,4_2_3_1,45:00
+3556,204,GreSL,2701411,PAOK,Kerkyra,2018-01-14,13:00:00,Average,Cloud,10,Cold,4_2_3_1,4_2_3_1,62:58
+3557,205,GreSL,2701413,Panaitolikos,Atromitos,2018-01-14,15:15:00,Good,Clear,8,Cold,4_2_3_1,4_1_4_1,00:00
+3558,206,GreSL,2701412,Larissa,Asteras Tripolis,2018-01-14,15:15:00,Average,Clear,11,Cold,4_2_3_1,4_2_3_1,00:00
+3559,207,GreSL,2701414,PAS Giannina,AEK Athens,2018-01-14,17:30:00,Excellent,Clear,8,Cold,3_4_1_2,3_5_2,00:00
+3560,208,GreSL,2701414,PAS Giannina,AEK Athens,2018-01-14,17:30:00,Excellent,Clear,8,Cold,3_4_1_2,4_4_1_1,60:29
+3561,209,GreSL,2701414,PAS Giannina,AEK Athens,2018-01-14,17:30:00,Excellent,Clear,8,Cold,4_4_2,4_4_1_1,66:58
+3562,210,GreSL,2701410,Panathinaikos,Levadiakos,2018-01-14,17:30:00,"Good, Wet","Clear, Cloud",8,Cold,4_2_3_1,4_4_1_1,00:00
+3563,211,GreSL,2701415,Lamia,Olympiakos Piraeus,2018-01-15,17:30:00,Excellent,Cloud,10,-,4_2_3_1,4_1_4_1,00:00
+3564,212,GreSL,2701416,Levadiakos,Platanias,2018-01-20,13:00:00,Good,Sun,13,Warm,3_5_2,4_2_3_1,00:00
+3565,213,GreSL,2701417,Kerkyra,Panathinaikos,2018-01-20,15:15:00,"Good, Wet","Cloud, Light Wind",14,-,4_3_3,4_2_3_1,00:00
+3566,214,GreSL,2701418,AEK Athens,Larissa,2018-01-20,17:30:00,Good,Cloud,9,-,4_2_3_1,4_2_3_1,00:00
+3567,215,GreSL,2701419,Apollon Smirnis,PAOK,2018-01-21,13:00:00,"Dry, Good",Cloud,8,Cold,4_2_3_1,4_1_4_1,00:00
+3568,216,GreSL,2701419,Apollon Smirnis,PAOK,2018-01-21,13:00:00,"Dry, Good",Cloud,8,Cold,4_2_3_1,4_4_1_1,65:39
+3569,217,GreSL,2701421,Atromitos,PAS Giannina,2018-01-21,15:15:00,Average,"Cloud, Sun",15,-,3_5_2,4_2_3_1,00:00
+3570,218,GreSL,2701421,Atromitos,PAS Giannina,2018-01-21,15:15:00,Average,"Cloud, Sun",15,-,3_5_2,5_4_1,82:04
+3571,219,GreSL,2701423,Asteras Tripolis,Lamia,2018-01-21,15:15:00,Good,Cloud,10,-,4_2_3_1,4_2_3_1,00:00
+3572,220,GreSL,2701423,Asteras Tripolis,Lamia,2018-01-21,15:15:00,Good,Cloud,10,-,4_2_3_1,4_4_2,74:57
+3573,221,GreSL,2701420,Panionios,Panaitolikos,2018-01-21,15:15:00,"Average, Wet","Cloud, Light Rain, Light Wind",11,-,4_2_3_1,4_2_3_1,00:00
+3574,222,GreSL,2701420,Panionios,Panaitolikos,2018-01-21,15:15:00,"Average, Wet","Cloud, Light Rain, Light Wind",11,-,4_2_3_1,4_3_3,72:48
+3575,223,GreSL,2701420,Panionios,Panaitolikos,2018-01-21,15:15:00,"Average, Wet","Cloud, Light Rain, Light Wind",11,-,4_2_3_1,4_1_2_1_2,78:05
+3576,224,GreSL,2701422,Xanthi,Olympiakos Piraeus,2018-01-21,17:30:00,Excellent,"Cloud, Light Wind",12,-,4_2_3_1,4_2_3_1,00:00
+3577,225,GreSL,2701422,Xanthi,Olympiakos Piraeus,2018-01-21,17:30:00,Excellent,"Cloud, Light Wind",12,-,4_2_3_1,4_4_1_1,61:21
+3578,226,GreSL,2701424,Platanias,Kerkyra,2018-01-27,13:00:00,Average,Sun,15,Warm,4_2_3_1,3_4_1_2,00:00
+3579,227,GreSL,2701424,Platanias,Kerkyra,2018-01-27,13:00:00,Average,Sun,15,Warm,4_2_3_1,4_3_3,75:20
+3580,228,GreSL,2701425,Panathinaikos,Apollon Smirnis,2018-01-27,15:15:00,Good,"Cloud, Light Wind",11,-,4_1_2_1_2,4_2_3_1,00:00
+3581,229,GreSL,2701426,Lamia,AEK Athens,2018-01-27,17:30:00,Good,Clear,8,-,4_2_3_1,5_4_1,00:00
+3582,230,GreSL,2701426,Lamia,AEK Athens,2018-01-27,17:30:00,Good,Clear,8,-,4_2_3_1,5_3_2,56:14
+3583,231,GreSL,2701426,Lamia,AEK Athens,2018-01-27,17:30:00,Good,Clear,8,-,4_2_3_1,4_2_3_1,73:00
+3584,232,GreSL,2701427,PAOK,Panaitolikos,2018-01-28,13:00:00,Good,Sun,15,-,4_1_4_1,4_2_3_1,00:00
+3585,233,GreSL,2701427,PAOK,Panaitolikos,2018-01-28,13:00:00,Good,Sun,15,-,5_4_1,4_2_3_1,80:08
+3586,234,GreSL,2701427,PAOK,Panaitolikos,2018-01-28,13:00:00,Good,Sun,15,-,4_4_2,4_2_3_1,88:14
+3587,235,GreSL,2701430,PAS Giannina,Panionios,2018-01-28,15:15:00,Excellent,Sun,11,Cold,4_2_3_1,3_5_2,00:00
+3588,236,GreSL,2701428,Levadiakos,Xanthi,2018-01-28,15:15:00,Excellent,Cloud,15,Cold,4_3_3,4_2_3_1,00:00
+3589,237,GreSL,2701429,Larissa,Atromitos,2018-01-28,15:15:00,Good,Sun,14,-,4_2_3_1,4_2_3_1,00:00
+3590,238,GreSL,2701431,Olympiakos Piraeus,Asteras Tripolis,2018-01-28,17:30:00,Good,Clear,9,-,4_2_3_1,4_2_3_1,00:00
+3591,239,GreSL,2701431,Olympiakos Piraeus,Asteras Tripolis,2018-01-28,17:30:00,Good,Clear,9,-,4_2_3_1,4_4_2,84:31
+3592,240,GreSL,2701432,Xanthi,Asteras Tripolis,2018-02-03,13:00:00,Good,"Cloud, Light Wind",15,-,4_2_3_1,4_2_3_1,00:00
+3593,241,GreSL,2701433,Panionios,Larissa,2018-02-03,15:15:00,Average,Cloud,14,-,4_2_3_1,4_2_3_1,00:00
+3594,242,GreSL,2701433,Panionios,Larissa,2018-02-03,15:15:00,Average,Cloud,14,-,4_4_2,4_2_3_1,70:37
+3595,243,GreSL,2701434,Panaitolikos,Panathinaikos,2018-02-03,17:30:00,Good,"Clear, Light Wind",14,-,4_4_1_1,4_1_4_1,00:00
+3596,244,GreSL,2701434,Panaitolikos,Panathinaikos,2018-02-03,17:30:00,Good,"Clear, Light Wind",14,-,3_5_2,4_1_4_1,69:48
+3597,245,GreSL,2701434,Panaitolikos,Panathinaikos,2018-02-03,17:30:00,Good,"Clear, Light Wind",14,-,3_5_2,5_4_1,87:26
+3598,246,GreSL,2701435,PAOK,PAS Giannina,2018-02-04,13:00:00,Good,"Clear, Sun",22,Hot,3_5_2,4_2_3_1,00:00
+3599,247,GreSL,2701436,Kerkyra,Levadiakos,2018-02-04,15:15:00,"Artificial, Average",Clear,10,Warm,4_2_3_1,4_2_3_1,00:00
+3600,248,GreSL,2701439,Atromitos,Lamia,2018-02-04,15:15:00,Average,Cloud,12,-,4_4_2,4_2_3_1,00:00
+3601,249,GreSL,2701438,AEK Athens,Olympiakos Piraeus,2018-02-04,17:30:00,Good,Clear,16,Warm,4_3_3,4_2_3_1,00:00
+3602,250,GreSL,2701437,Apollon Smirnis,Platanias,2018-02-05,17:30:00,"Good, Wet","Cloud, Light Rain",13,-,4_2_3_1,3_5_2,00:00
+3603,251,GreSL,2701437,Apollon Smirnis,Platanias,2018-02-05,17:30:00,"Good, Wet","Cloud, Light Rain",13,-,4_2_3_1,4_3_3,45:00
+3604,252,GreSL,2701437,Apollon Smirnis,Platanias,2018-02-05,17:30:00,"Good, Wet","Cloud, Light Rain",13,-,4_2_3_1,5_4_1,82:40
+3605,253,GreSL,2701440,Kerkyra,Xanthi,2018-02-10,13:00:00,"Average, Wet","Cloud, Rain, Wind",9,-,4_2_3_1,4_2_3_1,00:00
+3606,254,GreSL,2701440,Kerkyra,Xanthi,2018-02-10,13:00:00,"Average, Wet","Cloud, Rain, Wind",9,-,4_4_2,4_2_3_1,70:33
+3607,255,GreSL,2701440,Kerkyra,Xanthi,2018-02-10,13:00:00,"Average, Wet","Cloud, Rain, Wind",9,-,4_4_2,5_4_1,88:31
+3608,256,GreSL,2701441,Lamia,Panionios,2018-02-10,15:15:00,Poor,"Cloud, Light Rain, Wind",14,-,4_2_3_1,4_2_3_1,00:00
+3609,257,GreSL,2701441,Lamia,Panionios,2018-02-10,15:15:00,Poor,"Cloud, Light Rain, Wind",14,-,4_4_2,4_2_3_1,38:43
+3610,258,GreSL,2701441,Lamia,Panionios,2018-02-10,15:15:00,Poor,"Cloud, Light Rain, Wind",14,-,4_2_3_1,3_4_1_2,81:48
+3611,259,GreSL,2701442,Panathinaikos,PAS Giannina,2018-02-10,17:30:00,"Artificial, Average",Clear,12,-,3_5_2,3_5_2,00:00
+3612,260,GreSL,2701443,Levadiakos,Apollon Smirnis,2018-02-11,13:00:00,Good,"Clear, Light Wind, Sun",12,-,4_2_3_1,4_3_3,00:00
+3613,261,GreSL,2701444,Asteras Tripolis,AEK Athens,2018-02-11,15:15:00,Excellent,Sun,15,Cold,4_2_3_1,4_2_3_1,00:00
+3614,262,GreSL,2701445,Platanias,Panaitolikos,2018-02-11,15:15:00,Good,"Cloud, Sun",12,-,4_2_3_1,4_2_3_1,00:00
+3615,263,GreSL,2701446,Olympiakos Piraeus,Atromitos,2018-02-11,17:30:00,Excellent,Clear,15,Cold,4_2_3_1,4_2_3_1,00:00
+3616,264,GreSL,2701447,Larissa,PAOK,2018-02-12,17:30:00,"Excellent, Wet",Clear,10,-,4_2_3_1,4_1_4_1,00:00
+3617,265,GreSL,2701448,Apollon Smirnis,Kerkyra,2018-02-17,13:00:00,Good,"Light Wind, Sun",16,-,4_2_3_1,4_3_3,00:00
+3618,266,GreSL,2701449,Atromitos,Asteras Tripolis,2018-02-17,15:15:00,Good,"Light Wind, Sun",7,-,4_2_3_1,4_2_3_1,00:00
+3619,267,GreSL,2701450,PAOK,Lamia,2018-02-17,17:30:00,Good,Clear,11,-,4_2_3_1,4_2_3_1,00:00
+3620,268,GreSL,2701453,PAS Giannina,Platanias,2018-02-18,13:00:00,Average,Cloud,13,-,4_2_3_1,3_5_2,00:00
+3621,269,GreSL,2701452,Xanthi,AEK Athens,2018-02-18,15:15:00,Good,"Light Wind, Sun",13,-,4_2_3_1,4_3_3,00:00
+3622,270,GreSL,2701451,Panaitolikos,Levadiakos,2018-02-18,15:15:00,Good,"Cloud, Light Wind",12,-,4_2_3_1,4_2_3_1,00:00
+3623,271,GreSL,2701451,Panaitolikos,Levadiakos,2018-02-18,15:15:00,Good,"Cloud, Light Wind",12,-,4_4_2,4_2_3_1,75:40
+3624,272,GreSL,2701454,Panionios,Olympiakos Piraeus,2018-02-18,17:30:00,Excellent,Clear,9,-,4_2_3_1,4_2_3_1,00:00
+3625,273,GreSL,2701455,Panathinaikos,Larissa,2018-02-19,17:30:00,"Average, Soft, Wet","Cloud, Light Rain, Light Wind",10,-,4_2_3_1,4_2_3_1,10:25
+3626,274,GreSL,2701455,Panathinaikos,Larissa,2018-02-19,17:30:00,"Average, Soft, Wet","Cloud, Light Rain, Light Wind",10,-,4_4_2,4_2_3_1,65:55
+3627,275,GreSL,2701455,Panathinaikos,Larissa,2018-02-19,17:30:00,"Average, Soft, Wet","Cloud, Light Rain, Light Wind",10,-,4_4_2,4_5_1,86:25
+3628,276,GreSL,2701456,Levadiakos,PAS Giannina,2018-02-24,13:00:00,"Good, Wet","Cloud, Light Wind",10,-,4_1_2_1_2,4_2_3_1,00:00
+3629,277,GreSL,2701457,Asteras Tripolis,Panionios,2018-02-24,15:15:00,Good,"Cloud, Light Wind, Sun",14,-,4_2_3_1,4_2_3_1,00:00
+3630,278,GreSL,2701458,Lamia,Panathinaikos,2018-02-24,17:30:00,Good,"Cloud, Light Wind",12,-,4_4_1_1,4_2_3_1,00:00
+3631,279,GreSL,2701459,Apollon Smirnis,Xanthi,2018-02-25,13:00:00,Good,Clear,7,Cold,4_2_3_1,3_5_2,00:00
+3632,280,GreSL,2701461,Kerkyra,Panaitolikos,2018-02-25,15:15:00,Poor,"Cloud, Rain",12,-,4_3_3,4_2_3_1,00:00
+3633,281,GreSL,2701461,Kerkyra,Panaitolikos,2018-02-25,15:15:00,Poor,"Cloud, Rain",12,-,4_4_1_1,4_2_3_1,78:38
+3634,282,GreSL,2701460,Platanias,Larissa,2018-02-25,15:15:00,"Poor, Soft","Cloud, Light Rain, Wind",9,Cold,4_2_3_1,4_4_1_1,00:00
+3635,283,GreSL,2701460,Platanias,Larissa,2018-02-25,15:15:00,"Poor, Soft","Cloud, Light Rain, Wind",9,Cold,4_2_3_1,4_4_2,82:27
+3636,284,GreSL,2701463,AEK Athens,Atromitos,2018-02-26,17:30:00,Average,Cloud,12,-,4_2_3_1,4_2_3_1,00:00
+3637,285,GreSL,2701463,AEK Athens,Atromitos,2018-02-26,17:30:00,Average,Cloud,12,-,4_4_2,4_2_3_1,77:11
+3638,286,GreSL,2701464,Lamia,Platanias,2018-03-03,13:00:00,Excellent,"Clear, Sun",21,Hot,4_4_2,3_4_1_2,00:00
+3639,287,GreSL,2701464,Lamia,Platanias,2018-03-03,13:00:00,Excellent,"Clear, Sun",21,Hot,4_4_2,4_2_3_1,67:46
+3640,288,GreSL,2701465,PAS Giannina,Kerkyra,2018-03-03,15:15:00,Average,"Cloud, Rain",18,Warm,4_2_3_1,4_3_3,00:00
+3641,289,GreSL,2701466,Xanthi,Atromitos,2018-03-03,17:30:00,Good,"Clear, Light Wind",14,-,3_4_1_2,4_2_3_1,00:00
+3642,290,GreSL,2701467,PAOK,Asteras Tripolis,2018-03-04,13:00:00,Good,"Light Wind, Sun",19,-,4_2_3_1,4_2_3_1,00:00
+3643,291,GreSL,2701467,PAOK,Asteras Tripolis,2018-03-04,13:00:00,Good,"Light Wind, Sun",19,-,4_2_3_1,4_4_2,82:10
+3644,292,GreSL,2701468,Panionios,AEK Athens,2018-03-04,15:15:00,Excellent,"Clear, Light Wind",14,-,4_3_3,3_4_1_2,00:00
+3645,293,GreSL,2701468,Panionios,AEK Athens,2018-03-04,15:15:00,Excellent,"Clear, Light Wind",14,-,4_3_3,4_2_3_1,64:26
+3646,294,GreSL,2701468,Panionios,AEK Athens,2018-03-04,15:15:00,Excellent,"Clear, Light Wind",14,-,4_2_3_1,4_2_3_1,67:59
+3647,295,GreSL,2701469,Larissa,Levadiakos,2018-03-04,15:15:00,Good,"Cloud, Light Wind",17,-,4_2_3_1,4_2_3_1,00:00
+3648,296,GreSL,2701470,Panathinaikos,Olympiakos Piraeus,2018-03-04,17:30:00,Good,Cloud,15,Warm,4_2_3_1,4_4_1_1,00:00
+3649,297,GreSL,2701471,Panaitolikos,Apollon Smirnis,2018-03-05,17:30:00,"Good, Wet","Cloud, Light Wind",17,-,4_2_3_1,4_1_4_1,00:00
+3650,298,GreSL,2701472,Kerkyra,Larissa,2018-03-10,13:00:00,Good,Sun,19,-,4_4_2,4_2_3_1,00:00
+3651,299,GreSL,2701472,Kerkyra,Larissa,2018-03-10,13:00:00,Good,Sun,19,-,4_4_2,4_4_1_1,67:43
+3652,300,GreSL,2701472,Kerkyra,Larissa,2018-03-10,13:00:00,Good,Sun,19,-,4_4_2,5_3_2,73:31
+3653,301,GreSL,2701473,Atromitos,Panionios,2018-03-10,15:15:00,Good,"Light Wind, Sun",17,-,4_2_3_1,4_2_3_1,00:00
+3654,302,GreSL,2701474,Asteras Tripolis,Panathinaikos,2018-03-10,17:30:00,Good,"Clear, Light Wind",12,-,4_4_1_1,4_2_3_1,00:00
+3655,303,GreSL,2701475,Olympiakos Piraeus,Platanias,2018-03-11,13:00:00,Good,"Light Wind, Sun",18,-,5_3_2,4_2_3_1,00:00
+3656,304,GreSL,2701475,Olympiakos Piraeus,Platanias,2018-03-11,13:00:00,Good,"Light Wind, Sun",18,-,4_2_3_1,4_2_3_1,45:00
+3657,305,GreSL,2701475,Olympiakos Piraeus,Platanias,2018-03-11,13:00:00,Good,"Light Wind, Sun",18,-,4_2_3_1,4_4_2,74:20
+3658,306,GreSL,2701476,Panaitolikos,Xanthi,2018-03-11,15:15:00,Average,Sun,15,-,4_2_3_1,4_2_3_1,00:00
+3659,307,GreSL,2701477,Levadiakos,Lamia,2018-03-11,15:15:00,Good,"Clear, Sun",19,-,4_2_3_1,3_5_2,00:00
+3660,308,GreSL,2701478,AEK Athens,PAOK,2018-03-11,17:30:00,Good,Clear,12,-,4_2_3_1,4_2_3_1,00:00

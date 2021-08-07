@@ -1,0 +1,484 @@
+True,index,competition,gsm_id,awayteam_team2,hometeam_team1,kickoffDate,kickoffTime,pitchType,weatherType,tempCelcius,tempType,formation_team1,formation_team2,formation_time
+675,291,AutBL,2240991,Ried,Rapid Wien,2016-07-23,14:00:00,Excellent,"Clear, Sun",29,-,4_2_3_1,4_4_2,74:48
+673,289,AutBL,2240993,Wolfsberger AC,Rheindorf Altach,2016-07-23,16:30:00,,Cloud,24,-,3_1_3_1_2,4_4_2,87:23
+674,290,AutBL,2240992,Salzburg,Sturm Graz,2016-07-23,16:30:00,Excellent,"Clear, Sun",27,-,4_2_3_1,4_3_3,78:39
+669,285,AutBL,2240995,Austria Wien,St. Polten,2016-07-24,14:30:00,Good,"Clear, Sun",29,-,4_2_3_1,4_4_2,87:07
+670,286,AutBL,2240995,Austria Wien,St. Polten,2016-07-24,14:30:00,Good,"Clear, Sun",29,-,4_4_1_1,4_2_3_1,76:57
+671,287,AutBL,2240995,Austria Wien,St. Polten,2016-07-24,14:30:00,Good,"Clear, Sun",29,-,4_2_3_1,4_2_3_1,83:26
+672,288,AutBL,2240995,Austria Wien,St. Polten,2016-07-24,14:30:00,Good,"Clear, Sun",29,-,4_4_1_1,4_4_2,89:36
+668,284,AutBL,2240994,Admira,Mattersburg,2016-07-24,17:00:00,"Excellent, Good",Cloud,25,-,4_3_3,4_2_3_1,75:40
+666,282,AutBL,2240996,Wolfsberger AC,Salzburg,2016-07-30,14:00:00,Excellent,"Clear, Sun",29,-,4_3_3,4_4_1_1,67:56
+667,283,AutBL,2240996,Wolfsberger AC,Salzburg,2016-07-30,14:00:00,Excellent,"Clear, Sun",29,-,4_3_3,4_4_2,61:10
+665,281,AutBL,2240998,Sturm Graz,Ried,2016-07-30,16:30:00,Good,"Clear, Sun",23,-,4_2_3_1,4_2_3_1,74:37
+661,277,AutBL,2241000,Rapid Wien,Rheindorf Altach,2016-07-31,14:30:00,Excellent,Cloud,23,-,3_5_2,4_2_3_1,77:11
+662,278,AutBL,2241000,Rapid Wien,Rheindorf Altach,2016-07-31,14:30:00,Excellent,Rain,23,-,3_5_2,4_2_3_1,77:11
+663,279,AutBL,2240997,Mattersburg,Austria Wien,2016-07-31,14:30:00,Excellent,Rain,23,-,4_2_3_1,4_3_3,76:11
+664,280,AutBL,2240997,Mattersburg,Austria Wien,2016-07-31,14:30:00,Excellent,"Clear, Sun",23,-,4_2_3_1,4_3_3,76:11
+660,276,AutBL,2240999,Admira,St. Polten,2016-07-31,17:00:00,Average,"Cloud, Rain",24,-,4_4_1_1,4_3_3,81:00
+659,275,AutBL,2241001,Sturm Graz,Mattersburg,2016-08-06,14:00:00,Excellent,Sun,25,Hot,4_3_3,4_2_3_1,77:44
+652,268,AutBL,2241002,St. Polten,Salzburg,2016-08-06,16:30:00,Average,"Cloud, Light Wind",18,-,4_2_3_1,4_4_2,81:24
+653,269,AutBL,2241002,St. Polten,Salzburg,2016-08-06,16:30:00,Average,"Cloud, Light Wind",18,-,4_2_3_1,4_4_1_1,52:28
+654,270,AutBL,2241003,Rheindorf Altach,Admira,2016-08-06,16:30:00,Good,"Light Wind, Sun",21,Hot,4_4_2,3_5_2,76:16
+655,271,AutBL,2241003,Rheindorf Altach,Admira,2016-08-06,16:30:00,Good,"Light Wind, Sun",21,Hot,3_4_2_1,3_5_2,50:29
+656,272,AutBL,2241003,Rheindorf Altach,Admira,2016-08-06,16:30:00,Good,"Light Wind, Sun",21,Hot,4_1_4_1,3_5_2,00:00
+657,273,AutBL,2241003,Rheindorf Altach,Admira,2016-08-06,16:30:00,Good,"Light Wind, Sun",21,Hot,4_4_2,4_4_2,85:12
+658,274,AutBL,2241004,Ried,Wolfsberger AC,2016-08-06,16:30:00,Good,Sun,21,-,4_4_1_1,4_2_3_1,75:02
+650,266,AutBL,2241005,Rapid Wien,Austria Wien,2016-08-07,14:30:00,Excellent,Sun,25,Warm,4_4_2,4_2_3_1,87:42
+651,267,AutBL,2241005,Rapid Wien,Austria Wien,2016-08-07,14:30:00,Excellent,Sun,25,Warm,4_2_3_1,4_2_3_1,59:57
+649,265,AutBL,2241008,Salzburg,Ried,2016-08-13,14:00:00,Good,"Clear, Sun",26,Warm,4_2_3_1,4_2_3_1,72:53
+645,261,AutBL,2241006,Admira,Rapid Wien,2016-08-13,16:30:00,Excellent,"Clear, Sun",23,Warm,4_2_3_1,4_4_1_1,71:34
+646,262,AutBL,2241006,Admira,Rapid Wien,2016-08-13,16:30:00,Excellent,"Clear, Sun",23,Warm,4_2_3_1,4_5_1,62:29
+647,263,AutBL,2241010,Wolfsberger AC,Mattersburg,2016-08-13,16:30:00,Good,Clear,23,-,4_2_3_1,4_4_1_1,72:39
+648,264,AutBL,2241009,St. Polten,Rheindorf Altach,2016-08-13,16:30:00,Excellent,"Clear, Sun",26,Warm,3_5_2,4_4_1_1,76:05
+644,260,AutBL,2241007,Austria Wien,Sturm Graz,2016-08-14,14:30:00,Excellent,"Clear, Sun",27,Warm,4_2_3_1,4_2_3_1,81:26
+643,259,AutBL,2241015,Sturm Graz,St. Polten,2016-08-20,14:00:00,"Average, Patchy",Sun,21,-,4_4_1_1,4_2_3_1,77:54
+639,255,AutBL,2241013,Ried,Admira,2016-08-20,16:30:00,Good,"Clear, Sun",27,Warm,4_1_4_1,4_2_3_1,90:27
+640,256,AutBL,2241013,Ried,Admira,2016-08-20,16:30:00,Good,"Clear, Sun",27,Warm,4_2_3_1,4_2_3_1,91:42
+641,257,AutBL,2241011,Mattersburg,Salzburg,2016-08-20,16:30:00,Excellent,Clear,27,Warm,4_2_3_1,4_2_3_1,73:35
+642,258,AutBL,2241011,Mattersburg,Salzburg,2016-08-20,16:30:00,Excellent,Light Rain,27,Warm,4_2_3_1,4_2_3_1,73:35
+638,254,AutBL,2241014,Rapid Wien,Wolfsberger AC,2016-08-21,14:30:00,Good,"Cloud, Light Rain",23,-,4_4_1_1,4_2_3_1,79:16
+637,253,AutBL,2241012,Rheindorf Altach,Austria Wien,2016-08-21,17:00:00,Good,Light Rain,18,Warm,4_2_3_1,3_5_2,79:15
+636,252,AutBL,2241017,Rheindorf Altach,Sturm Graz,2016-08-27,14:00:00,Excellent,"Clear, Sun",30,Hot,4_2_3_1,3_5_2,85:25
+633,249,AutBL,2241020,St. Polten,Mattersburg,2016-08-27,16:30:00,Good,Sun,26,-,4_3_3,3_4_2_1,86:08
+634,250,AutBL,2241018,Admira,Wolfsberger AC,2016-08-27,16:30:00,Excellent,"Clear, Sun",27,Warm,4_4_2,4_4_2,76:09
+635,251,AutBL,2241018,Admira,Wolfsberger AC,2016-08-27,16:30:00,Excellent,"Clear, Sun",27,Warm,4_4_2,4_1_4_1,13:50
+632,248,AutBL,2241016,Salzburg,Rapid Wien,2016-08-28,14:30:00,Excellent,"Clear, Sun",20,Warm,4_2_3_1,4_2_3_1,82:29
+631,247,AutBL,2241019,Austria Wien,Ried,2016-08-28,17:00:00,Good,Sun,23,-,4_2_3_1,4_2_3_1,80:06
+630,246,AutBL,2241023,Rapid Wien,Sturm Graz,2016-09-10,14:00:00,Excellent,"Clear, Sun",27,Warm,4_2_3_1,4_2_3_1,84:03
+625,241,AutBL,2241025,Ried,St. Polten,2016-09-10,16:30:00,Good,"Clear, Sun",26,Warm,4_4_2,4_2_3_1,78:24
+626,242,AutBL,2241025,Ried,St. Polten,2016-09-10,16:30:00,Good,"Clear, Sun",26,Warm,4_1_4_1,4_2_3_1,00:00
+627,243,AutBL,2241021,Wolfsberger AC,Austria Wien,2016-09-10,16:30:00,Good,"Clear, Sun",22,-,4_2_3_1,4_4_2,82:24
+628,244,AutBL,2241024,Mattersburg,Rheindorf Altach,2016-09-10,16:30:00,Good,"Clear, Sun",22,-,3_4_2_1,4_3_3,72:24
+629,245,AutBL,2241024,Mattersburg,Rheindorf Altach,2016-09-10,16:30:00,Good,"Clear, Sun",22,-,3_4_2_1,4_2_3_1,00:00
+624,240,AutBL,2241022,Salzburg,Admira,2016-09-11,14:30:00,Excellent,"Clear, Sun",27,-,4_4_2,4_1_4_1,77:58
+621,237,AutBL,2241030,Rheindorf Altach,Ried,2016-09-17,14:00:00,Average,Strong Wind,13,-,4_2_3_1,3_4_1_2,79:33
+622,238,AutBL,2241030,Rheindorf Altach,Ried,2016-09-17,14:00:00,Average,Cloud,13,-,4_2_3_1,3_4_1_2,79:33
+623,239,AutBL,2241030,Rheindorf Altach,Ried,2016-09-17,14:00:00,Average,Rain,13,-,4_2_3_1,3_4_1_2,79:33
+618,234,AutBL,2241029,St. Polten,Wolfsberger AC,2016-09-17,16:30:00,Average,Cloud,17,-,4_4_2,4_4_2,86:47
+619,235,AutBL,2241028,Sturm Graz,Admira,2016-09-17,16:30:00,Good,Strong Wind,17,-,4_2_3_1,4_2_3_1,85:01
+620,236,AutBL,2241028,Sturm Graz,Admira,2016-09-17,16:30:00,Good,"Clear, Wind",17,-,4_2_3_1,4_2_3_1,85:01
+617,233,AutBL,2241026,Austria Wien,Salzburg,2016-09-18,14:30:00,Good,Clear,16,-,4_2_3_1,4_2_3_1,78:58
+616,232,AutBL,2241027,Mattersburg,Rapid Wien,2016-09-18,17:00:00,Good,Cloud,19,-,4_2_3_1,4_4_1_1,85:05
+615,231,AutBL,2241035,Rapid Wien,St. Polten,2016-09-24,14:00:00,Good,"Clear, Sun",20,Warm,4_2_2_2,4_2_3_1,88:15
+612,228,AutBL,2241031,Admira,Austria Wien,2016-09-24,16:30:00,Good,Cloud,19,-,4_2_3_1,4_2_3_1,84:40
+613,229,AutBL,2241034,Ried,Mattersburg,2016-09-24,16:30:00,Average,Cloud,15,-,4_4_2,4_2_3_1,71:14
+614,230,AutBL,2241032,Wolfsberger AC,Sturm Graz,2016-09-24,16:30:00,Good,Cloud,17,-,4_2_3_1,4_4_2,83:53
+610,226,AutBL,2241033,Salzburg,Rheindorf Altach,2016-09-25,14:30:00,Excellent,"Clear, Sun",21,Warm,3_4_1_2,4_2_3_1,84:42
+611,227,AutBL,2241033,Salzburg,Rheindorf Altach,2016-09-25,14:30:00,Excellent,"Clear, Sun",21,Warm,3_4_2_1,4_2_3_1,86:04
+609,225,AutBL,2241039,Rheindorf Altach,Wolfsberger AC,2016-10-01,14:00:00,"Average, Dry","Cloud, Sun",18,-,4_4_2,3_5_2,80:07
+606,222,AutBL,2241038,Mattersburg,Admira,2016-10-01,16:30:00,Good,Cloud,17,-,4_4_2,4_2_3_1,81:11
+607,223,AutBL,2241038,Mattersburg,Admira,2016-10-01,16:30:00,Good,Cloud,17,-,4_2_3_1,4_2_3_1,68:48
+608,224,AutBL,2241038,Mattersburg,Admira,2016-10-01,16:30:00,Good,Cloud,17,-,5_4_1,4_2_3_1,89:17
+602,218,AutBL,2241040,Rapid Wien,Ried,2016-10-02,14:30:00,Average,Cloud,12,-,4_2_3_1,4_2_3_1,69:36
+603,219,AutBL,2241040,Rapid Wien,Ried,2016-10-02,14:30:00,Average,,12,-,4_2_3_1,4_2_3_1,69:36
+604,220,AutBL,2241036,Sturm Graz,Salzburg,2016-10-02,14:30:00,Good,"Cloud, Light Rain",12,Cold,4_3_3,4_2_3_1,80:20
+605,221,AutBL,2241036,Sturm Graz,Salzburg,2016-10-02,14:30:00,Good,"Cloud, Light Rain",12,Cold,4_3_3,4_4_2,84:40
+600,216,AutBL,2241037,St. Polten,Austria Wien,2016-10-02,17:00:00,Excellent,Clear,14,Cold,4_4_2,4_4_2,76:58
+601,217,AutBL,2241037,St. Polten,Austria Wien,2016-10-02,17:00:00,Excellent,Clear,14,Cold,4_2_3_1,4_4_2,57:45
+598,214,AutBL,2241044,Salzburg,Wolfsberger AC,2016-10-15,14:00:00,Good,Cloud,10,Cold,4_4_2,4_2_3_1,82:48
+599,215,AutBL,2241044,Salzburg,Wolfsberger AC,2016-10-15,14:00:00,Good,Cloud,10,Cold,4_4_2,4_4_2,00:00
+595,211,AutBL,2241042,St. Polten,Admira,2016-10-15,16:30:00,Good,Cloud,12,-,4_2_3_1,4_4_2,85:05
+596,212,AutBL,2241041,Rheindorf Altach,Rapid Wien,2016-10-15,16:30:00,Excellent,Cloud,12,Cold,4_2_3_1,3_5_2,83:10
+597,213,AutBL,2241043,Ried,Sturm Graz,2016-10-15,16:30:00,Excellent,Cloud,11,Cold,4_2_3_1,4_2_3_1,90:06
+594,210,AutBL,2241045,Austria Wien,Mattersburg,2016-10-16,14:30:00,Good,Sun,15,-,4_4_1_1,4_2_3_1,89:00
+592,208,AutBL,2241047,Mattersburg,Sturm Graz,2016-10-22,14:00:00,Good,"Clear, Sun",3,Cold,4_2_3_1,3_4_1_2,86:06
+593,209,AutBL,2241047,Mattersburg,Sturm Graz,2016-10-22,14:00:00,Good,"Clear, Sun",3,Cold,4_2_3_1,3_4_2_1,76:16
+586,202,AutBL,2241049,Admira,Rheindorf Altach,2016-10-22,16:30:00,Good,Cloud,5,Cold,3_5_2,4_4_2,84:21
+587,203,AutBL,2241049,Admira,Rheindorf Altach,2016-10-22,16:30:00,Good,Cloud,5,Cold,3_4_1_2,4_3_3,76:40
+588,204,AutBL,2241049,Admira,Rheindorf Altach,2016-10-22,16:30:00,Good,Cloud,5,Cold,3_5_2,4_3_3,45:00
+589,205,AutBL,2241049,Admira,Rheindorf Altach,2016-10-22,16:30:00,Good,Cloud,5,Cold,3_4_1_2,4_4_2,82:12
+590,206,AutBL,2241048,Wolfsberger AC,Ried,2016-10-22,16:30:00,Good,Cloud,6,Cold,4_2_3_1,4_4_2,79:20
+591,207,AutBL,2241048,Wolfsberger AC,Ried,2016-10-22,16:30:00,Good,Cloud,6,Cold,4_4_2,4_4_2,82:59
+585,201,AutBL,2241050,Salzburg,St. Polten,2016-10-23,12:00:00,Poor,Cloud,10,-,4_4_2,4_2_2_2,83:34
+581,197,AutBL,2241046,Austria Wien,Rapid Wien,2016-10-23,14:30:00,Excellent,"Clear, Wind",12,-,4_4_2,4_2_3_1,73:13
+582,198,AutBL,2241046,Austria Wien,Rapid Wien,2016-10-23,14:30:00,Excellent,"Clear, Wind",12,-,4_1_4_1,4_2_3_1,45:38
+583,199,AutBL,2241046,Austria Wien,Rapid Wien,2016-10-23,14:30:00,Excellent,"Clear, Wind",12,-,4_2_3_1,4_2_3_1,00:00
+584,200,AutBL,2241046,Austria Wien,Rapid Wien,2016-10-23,14:30:00,Excellent,"Clear, Wind",12,-,4_4_2,5_4_1,85:49
+579,195,AutBL,2241053,Rapid Wien,Admira,2016-10-29,14:00:00,Good,"Cloud, Sun",11,-,4_2_3_1,4_2_3_1,75:39
+580,196,AutBL,2241053,Rapid Wien,Admira,2016-10-29,14:00:00,Good,"Cloud, Sun",11,-,4_2_3_1,4_1_2_1_2,00:00
+572,188,AutBL,2241051,Ried,Salzburg,2016-10-29,16:30:00,Good,Cloud,11,-,4_1_2_1_2,4_4_1_1,73:55
+573,189,AutBL,2241054,Mattersburg,Wolfsberger AC,2016-10-29,16:30:00,Good,Clear,9,-,4_4_2,5_4_1,81:55
+574,190,AutBL,2241054,Mattersburg,Wolfsberger AC,2016-10-29,16:30:00,Good,Clear,9,-,4_4_2,4_4_1_1,45:00
+575,191,AutBL,2241055,Rheindorf Altach,St. Polten,2016-10-29,16:30:00,Good,Cloud,12,-,3_4_3,4_4_1_1,87:01
+576,192,AutBL,2241055,Rheindorf Altach,St. Polten,2016-10-29,16:30:00,Good,Cloud,12,-,4_4_2,3_4_1_2,75:04
+577,193,AutBL,2241055,Rheindorf Altach,St. Polten,2016-10-29,16:30:00,Good,Cloud,12,-,4_4_2,4_4_1_1,83:33
+578,194,AutBL,2241055,Rheindorf Altach,St. Polten,2016-10-29,16:30:00,Good,Cloud,12,-,4_4_2,5_4_1,89:16
+571,187,AutBL,2241052,Sturm Graz,Austria Wien,2016-10-30,15:30:00,Good,Cloud,10,-,4_2_3_1,4_4_2,88:55
+568,184,AutBL,2241057,St. Polten,Sturm Graz,2016-11-05,15:00:00,Good,Cloud,6,Cold,4_4_2,4_2_3_1,80:43
+569,185,AutBL,2241057,St. Polten,Sturm Graz,2016-11-05,15:00:00,Good,Cloud,6,Cold,4_2_3_1,4_2_3_1,45:00
+570,186,AutBL,2241057,St. Polten,Sturm Graz,2016-11-05,15:00:00,Good,Cloud,6,Cold,4_4_2,4_1_4_1,88:15
+567,183,AutBL,2241058,Admira,Ried,2016-11-05,17:30:00,Average,Cloud,2,Cold,4_2_3_1,4_2_3_1,88:23
+563,179,AutBL,2241056,Wolfsberger AC,Rapid Wien,2016-11-06,13:00:00,Good,"Cloud, Light Rain",6,Cold,4_2_3_1,4_5_1,83:28
+564,180,AutBL,2241056,Wolfsberger AC,Rapid Wien,2016-11-06,13:00:00,Good,"Cloud, Light Rain",6,Cold,4_2_3_1,4_4_2,75:46
+565,181,AutBL,2241056,Wolfsberger AC,Rapid Wien,2016-11-06,13:00:00,Good,Rain,6,Cold,4_2_3_1,4_5_1,83:28
+566,182,AutBL,2241056,Wolfsberger AC,Rapid Wien,2016-11-06,13:00:00,Good,Rain,6,Cold,4_2_3_1,4_4_2,75:46
+559,175,AutBL,2241060,Salzburg,Mattersburg,2016-11-06,15:30:00,"Good, Wet",,3,Cold,4_2_3_1,4_2_2_2,84:56
+560,176,AutBL,2241060,Salzburg,Mattersburg,2016-11-06,15:30:00,"Good, Wet","Cloud, Light Rain, Wind",3,Cold,4_2_3_1,4_2_2_2,84:56
+561,177,AutBL,2241060,Salzburg,Mattersburg,2016-11-06,15:30:00,"Good, Wet",Rain,3,Cold,4_2_3_1,4_2_2_2,84:56
+562,178,AutBL,2241059,Austria Wien,Rheindorf Altach,2016-11-06,15:30:00,Good,"Cloud, Light Rain",2,-,3_5_2,4_2_3_1,82:39
+557,173,AutBL,2241064,Sturm Graz,Rheindorf Altach,2016-11-19,15:00:00,Good,Cloud,4,Cold,3_5_2,4_4_1_1,83:40
+558,174,AutBL,2241064,Sturm Graz,Rheindorf Altach,2016-11-19,15:00:00,Good,Cloud,4,Cold,3_5_2,3_4_1_2,61:22
+550,166,AutBL,2241065,Mattersburg,St. Polten,2016-11-19,17:30:00,Average,Cloud,7,-,4_4_1_1,4_1_4_1,83:18
+551,167,AutBL,2241062,Ried,Austria Wien,2016-11-19,17:30:00,Excellent,"Cloud, Wind",10,-,4_2_3_1,4_4_2,86:49
+552,168,AutBL,2241062,Ried,Austria Wien,2016-11-19,17:30:00,Excellent,"Cloud, Wind",10,-,4_2_3_1,4_2_3_1,74:03
+553,169,AutBL,2241062,Ried,Austria Wien,2016-11-19,17:30:00,Excellent,Strong Wind,10,-,4_2_3_1,4_4_2,86:49
+554,170,AutBL,2241062,Ried,Austria Wien,2016-11-19,17:30:00,Excellent,Strong Wind,10,-,4_2_3_1,4_2_3_1,74:03
+555,171,AutBL,2241063,Wolfsberger AC,Admira,2016-11-19,17:30:00,Good,"Cloud, Light Rain",8,-,4_3_3,4_4_1_1,79:13
+556,172,AutBL,2241063,Wolfsberger AC,Admira,2016-11-19,17:30:00,Good,"Cloud, Light Rain",8,-,4_3_3,4_4_2,00:00
+548,164,AutBL,2241061,Rapid Wien,Salzburg,2016-11-20,15:30:00,Good,"Cloud, Wind",7,-,4_2_3_1,4_2_3_1,92:37
+549,165,AutBL,2241061,Rapid Wien,Salzburg,2016-11-20,15:30:00,Good,"Cloud, Wind",7,-,4_2_2_2,4_2_3_1,66:28
+547,163,AutBL,2241069,St. Polten,Ried,2016-11-26,15:00:00,Good,Cloud,6,Cold,4_2_3_1,4_4_2,76:03
+546,162,AutBL,2241070,Rheindorf Altach,Mattersburg,2016-11-26,17:30:00,Average,Cloud,5,Cold,4_2_3_1,3_5_2,81:01
+545,161,AutBL,2241068,Austria Wien,Wolfsberger AC,2016-11-27,13:00:00,"Average, Good","Clear, Wind",9,Cold,4_4_2,4_2_3_1,79:03
+542,158,AutBL,2241067,Sturm Graz,Rapid Wien,2016-11-27,15:30:00,Excellent,Cloud,6,-,3_4_1_2,4_4_1_1,70:47
+543,159,AutBL,2241066,Admira,Salzburg,2016-11-27,15:30:00,"Good, Wet","Cloud, Light Rain, Wind",6,Cold,4_2_2_2,4_5_1,72:21
+544,160,AutBL,2241066,Admira,Salzburg,2016-11-27,15:30:00,"Good, Wet",Rain,6,Cold,4_2_2_2,4_5_1,72:21
+541,157,AutBL,2241073,Ried,Rheindorf Altach,2016-11-29,18:00:00,Average,Clear,-2,Freezing,5_3_2,4_2_3_1,71:00
+536,152,AutBL,2241074,Rapid Wien,Mattersburg,2016-11-30,19:30:00,"Excellent, Wet",Cloud,3,Freezing,4_4_2,3_5_2,85:21
+537,153,AutBL,2241075,Wolfsberger AC,St. Polten,2016-11-30,19:30:00,"Patchy, Poor",Cloud,0,Freezing,4_4_1_1,4_4_2,75:06
+538,154,AutBL,2241072,Admira,Sturm Graz,2016-11-30,19:30:00,Excellent,Clear,-4,Freezing,4_4_2,4_1_4_1,84:14
+539,155,AutBL,2241071,Salzburg,Austria Wien,2016-11-30,19:30:00,Excellent,Snow,2,Cold,4_3_1_2,4_2_2_2,73:58
+540,156,AutBL,2241071,Salzburg,Austria Wien,2016-11-30,19:30:00,Excellent,"Cloud, Wind",2,Cold,4_3_1_2,4_2_2_2,73:58
+535,151,AutBL,2241077,St. Polten,Rapid Wien,2016-12-03,15:00:00,Good,Clear,2,Cold,3_4_1_2,4_4_2,71:04
+532,148,AutBL,2241076,Rheindorf Altach,Salzburg,2016-12-03,17:30:00,Good,Cloud,-1,Freezing,4_2_2_2,3_4_3,75:42
+533,149,AutBL,2241078,Austria Wien,Admira,2016-12-03,17:30:00,Average,Clear,-3,Freezing,4_1_4_1,4_2_3_1,88:19
+534,150,AutBL,2241080,Mattersburg,Ried,2016-12-03,17:30:00,Good,Clear,-2,Cold,4_2_3_1,4_4_2,83:13
+531,147,AutBL,2241079,Sturm Graz,Wolfsberger AC,2016-12-04,15:30:00,Good,Cloud,-1,Freezing,4_4_2,4_2_3_1,88:37
+530,146,AutBL,2241083,Wolfsberger AC,Rheindorf Altach,2016-12-10,15:00:00,"Average, Good",Clear,2,Cold,3_5_2,4_1_4_1,86:43
+527,143,AutBL,2241084,Admira,Mattersburg,2016-12-10,17:30:00,Good,Clear,0,Freezing,4_4_2,4_4_2,76:39
+528,144,AutBL,2241084,Admira,Mattersburg,2016-12-10,17:30:00,Good,Clear,0,Freezing,4_4_2,4_2_3_1,62:20
+529,145,AutBL,2241084,Admira,Mattersburg,2016-12-10,17:30:00,Good,Clear,0,Freezing,4_4_2,4_3_3,45:00
+526,142,AutBL,2241081,Ried,Rapid Wien,2016-12-11,13:00:00,Average,"Cloud, Wind",8,-,3_5_2,4_2_3_1,69:32
+523,139,AutBL,2241082,Salzburg,Sturm Graz,2016-12-11,15:30:00,Good,Clear,3,Cold,4_2_3_1,4_2_2_2,84:25
+524,140,AutBL,2241085,Austria Wien,St. Polten,2016-12-11,15:30:00,"Good, Wet",Clear,5,Freezing,4_4_2,4_2_3_1,90:29
+525,141,AutBL,2241085,Austria Wien,St. Polten,2016-12-11,15:30:00,"Good, Wet",Clear,5,Freezing,4_1_4_1,4_2_3_1,60:58
+520,136,AutBL,2241088,Sturm Graz,Ried,2016-12-17,15:00:00,Average,"Cloud, Sun",2,Freezing,4_1_2_1_2,5_4_1,87:28
+521,137,AutBL,2241088,Sturm Graz,Ried,2016-12-17,15:00:00,Average,"Cloud, Sun",2,Freezing,4_2_3_1,4_4_1_1,71:20
+522,138,AutBL,2241088,Sturm Graz,Ried,2016-12-17,15:00:00,Average,"Cloud, Sun",2,Freezing,4_1_2_1_2,4_4_1_1,82:18
+516,132,AutBL,2241090,Admira,St. Polten,2016-12-17,17:30:00,Average,Clear,-3,Freezing,4_4_2,4_3_3,92:00
+517,133,AutBL,2241087,Mattersburg,Austria Wien,2016-12-17,17:30:00,Good,Clear,-3,Freezing,4_2_3_1,4_4_2,69:36
+518,134,AutBL,2241086,Wolfsberger AC,Salzburg,2016-12-17,17:30:00,"Excellent, Wet",Cloud,-4,Freezing,4_2_2_2,4_4_2,87:46
+519,135,AutBL,2241086,Wolfsberger AC,Salzburg,2016-12-17,17:30:00,"Excellent, Wet",Cloud,-4,Freezing,4_2_2_2,4_1_4_1,45:00
+514,130,AutBL,2241089,Rapid Wien,Rheindorf Altach,2016-12-18,15:30:00,Good,Cloud,2,Cold,3_5_1_1,4_3_2_1,76:26
+515,131,AutBL,2241089,Rapid Wien,Rheindorf Altach,2016-12-18,15:30:00,Good,Cloud,2,Cold,3_4_2_1,4_3_2_1,00:00
+513,129,AutBL,2241093,Rheindorf Altach,Admira,2017-02-11,15:00:00,Average,Cloud,2,-,4_2_3_1,3_5_2,78:53
+509,125,AutBL,2241095,Sturm Graz,Mattersburg,2017-02-11,17:30:00,Average,Cloud,2,Cold,4_2_3_1,4_4_2,85:07
+510,126,AutBL,2241095,Sturm Graz,Mattersburg,2017-02-11,17:30:00,Average,Cloud,2,Cold,4_2_3_1,4_2_3_1,60:18
+511,127,AutBL,2241091,St. Polten,Salzburg,2017-02-11,17:30:00,"Average, Good","Cloud, Light Wind",-1,Freezing,4_2_2_2,3_4_2_1,77:18
+512,128,AutBL,2241094,Ried,Wolfsberger AC,2017-02-11,17:30:00,Average,Cloud,0,Freezing,4_4_2,4_2_3_1,82:28
+508,124,AutBL,2241092,Rapid Wien,Austria Wien,2017-02-12,15:30:00,"Average, Patchy",Clear,2,-,4_2_3_1,3_5_2,82:17
+506,122,AutBL,2241097,Austria Wien,Sturm Graz,2017-02-18,15:00:00,"Average, Patchy",Clear,6,Cold,4_3_3,4_2_3_1,89:36
+507,123,AutBL,2241097,Austria Wien,Sturm Graz,2017-02-18,15:00:00,"Average, Patchy",Clear,6,Cold,4_1_4_1,4_2_3_1,00:00
+500,116,AutBL,2241096,Admira,Rapid Wien,2017-02-18,17:30:00,"Average, Good","Cloud, Light Wind",3,Cold,3_4_3,4_5_1,84:21
+501,117,AutBL,2241099,St. Polten,Rheindorf Altach,2017-02-18,17:30:00,"Average, Good",Clear,0,Freezing,3_4_3,4_4_2,78:29
+502,118,AutBL,2241099,St. Polten,Rheindorf Altach,2017-02-18,17:30:00,"Average, Good",Clear,0,Freezing,3_4_3,4_2_3_1,71:35
+503,119,AutBL,2241099,St. Polten,Rheindorf Altach,2017-02-18,17:30:00,"Average, Good",Clear,0,Freezing,3_4_2_1,4_2_3_1,58:08
+504,120,AutBL,2241099,St. Polten,Rheindorf Altach,2017-02-18,17:30:00,"Average, Good",Clear,0,Freezing,3_1_3_1_2,4_2_3_1,45:00
+505,121,AutBL,2241100,Wolfsberger AC,Mattersburg,2017-02-18,17:30:00,Average,Cloud,3,Cold,4_2_3_1,4_4_2,85:07
+498,114,AutBL,2241098,Salzburg,Ried,2017-02-19,15:30:00,"Average, Good","Clear, Sun",3,Cold,4_4_2,4_2_3_1,74:24
+499,115,AutBL,2241098,Salzburg,Ried,2017-02-19,15:30:00,"Average, Good","Clear, Sun",3,Cold,4_4_2,4_2_2_2,68:48
+497,113,AutBL,2241104,Rapid Wien,Wolfsberger AC,2017-02-25,15:00:00,Good,"Clear, Light Wind, Sun",7,Cold,4_4_2,3_4_2_1,86:05
+491,107,AutBL,2241102,Rheindorf Altach,Austria Wien,2017-02-25,17:30:00,Average,"Clear, Light Wind",2,Cold,4_2_3_1,3_4_2_1,81:26
+492,108,AutBL,2241102,Rheindorf Altach,Austria Wien,2017-02-25,17:30:00,Average,"Clear, Light Wind",2,Cold,4_2_3_1,3_1_3_1_2,76:32
+493,109,AutBL,2241101,Mattersburg,Salzburg,2017-02-25,17:30:00,Good,"Cloud, Sun",8,Cold,4_4_1_1,4_2_3_1,76:56
+494,110,AutBL,2241101,Mattersburg,Salzburg,2017-02-25,17:30:00,Good,"Cloud, Sun",8,Cold,4_1_2_1_2,4_2_3_1,67:29
+495,111,AutBL,2241101,Mattersburg,Salzburg,2017-02-25,17:30:00,Good,"Cloud, Sun",8,Cold,4_4_2,4_2_3_1,45:15
+496,112,AutBL,2241103,Ried,Admira,2017-02-25,17:30:00,Average,"Clear, Light Wind",5,Cold,4_2_3_1,4_4_2,85:50
+490,106,AutBL,2241105,Sturm Graz,St. Polten,2017-02-26,15:30:00,"Average, Patchy, Soft",Cloud,6,Cold,4_2_3_1,4_2_3_1,82:53
+489,105,AutBL,2241107,Rheindorf Altach,Sturm Graz,2017-03-04,15:00:00,Good,"Cloud, Sun",11,-,4_2_3_1,3_5_2,84:40
+483,99,AutBL,2241108,Admira,Wolfsberger AC,2017-03-04,17:30:00,Good,"Cloud, Rain",8,-,4_4_2,4_1_2_1_2,82:00
+484,100,AutBL,2241108,Admira,Wolfsberger AC,2017-03-04,17:30:00,Good,"Cloud, Rain",8,-,4_4_2,4_2_3_1,68:20
+485,101,AutBL,2241110,St. Polten,Mattersburg,2017-03-04,17:30:00,Good,"Clear, Wind",10,-,4_2_3_1,4_4_2,84:37
+486,102,AutBL,2241110,St. Polten,Mattersburg,2017-03-04,17:30:00,Good,"Clear, Wind",10,-,4_2_3_1,4_2_3_1,67:41
+487,103,AutBL,2241110,St. Polten,Mattersburg,2017-03-04,17:30:00,Good,"Clear, Wind",10,-,3_4_2_1,4_4_2,87:03
+488,104,AutBL,2241109,Austria Wien,Ried,2017-03-04,17:30:00,Good,Cloud,4,Cold,4_2_3_1,4_2_3_1,78:17
+481,97,AutBL,2241106,Salzburg,Rapid Wien,2017-03-05,15:30:00,"Average, Good","Cloud, Wind",12,-,4_4_2,4_2_3_1,76:02
+482,98,AutBL,2241106,Salzburg,Rapid Wien,2017-03-05,15:30:00,"Average, Good","Cloud, Wind",12,-,3_4_2_1,4_2_3_1,69:42
+480,96,AutBL,2241115,Ried,St. Polten,2017-03-11,15:00:00,Average,Cloud,10,-,4_4_2,4_2_3_1,87:35
+476,92,AutBL,2241114,Mattersburg,Rheindorf Altach,2017-03-11,17:30:00,"Average, Patchy, Poor","Cloud, Light Wind",7,Cold,3_5_2,4_4_2,73:50
+477,93,AutBL,2241114,Mattersburg,Rheindorf Altach,2017-03-11,17:30:00,"Average, Patchy, Poor","Cloud, Light Wind",7,Cold,3_5_2,4_2_3_1,69:59
+478,94,AutBL,2241111,Wolfsberger AC,Austria Wien,2017-03-11,17:30:00,Good,"Clear, Wind",8,Cold,4_2_3_1,4_4_2,87:10
+479,95,AutBL,2241112,Salzburg,Admira,2017-03-11,17:30:00,"Dry, Excellent","Clear, Light Wind",8,Cold,4_2_3_1,4_2_2_2,85:10
+475,91,AutBL,2241113,Rapid Wien,Sturm Graz,2017-03-12,15:30:00,Good,"Clear, Sun",8,Cold,4_2_3_1,3_4_2_1,45:00
+474,90,AutBL,2241117,Mattersburg,Rapid Wien,2017-03-18,15:00:00,Good,Cloud,9,-,3_4_2_1,4_2_3_1,72:49
+466,82,AutBL,2241120,Rheindorf Altach,Ried,2017-03-18,17:30:00,"Good, Wet","Cloud, Light Rain",8,Cold,4_2_3_1,4_2_3_1,71:58
+467,83,AutBL,2241120,Rheindorf Altach,Ried,2017-03-18,17:30:00,"Good, Wet","Cloud, Light Rain",8,Cold,4_2_3_1,3_1_3_1_2,39:58
+468,84,AutBL,2241120,Rheindorf Altach,Ried,2017-03-18,17:30:00,"Good, Wet",Rain,8,Cold,4_2_3_1,4_2_3_1,71:58
+469,85,AutBL,2241120,Rheindorf Altach,Ried,2017-03-18,17:30:00,"Good, Wet",Rain,8,Cold,4_2_3_1,3_1_3_1_2,39:58
+470,86,AutBL,2241118,Sturm Graz,Admira,2017-03-18,17:30:00,"Average, Good","Cloud, Strong Wind",9,Cold,4_2_3_1,4_4_2,78:10
+471,87,AutBL,2241118,Sturm Graz,Admira,2017-03-18,17:30:00,"Average, Good","Cloud, Strong Wind",9,Cold,4_2_3_1,4_4_1_1,69:59
+472,88,AutBL,2241119,St. Polten,Wolfsberger AC,2017-03-18,17:30:00,Average,Cloud,6,Cold,4_4_2,4_4_2,80:02
+473,89,AutBL,2241119,St. Polten,Wolfsberger AC,2017-03-18,17:30:00,Average,Cloud,6,Cold,4_4_2,5_4_1,00:00
+463,79,AutBL,2241116,Austria Wien,Salzburg,2017-03-19,15:30:00,Good,"Cloud, Wind",12,-,4_4_1_1,4_4_2,82:40
+464,80,AutBL,2241116,Austria Wien,Salzburg,2017-03-19,15:30:00,Good,"Cloud, Wind",12,-,4_4_1_1,4_2_3_1,72:40
+465,81,AutBL,2241116,Austria Wien,Salzburg,2017-03-19,15:30:00,Good,"Cloud, Wind",12,-,4_4_2,4_2_3_1,00:00
+462,78,AutBL,2241125,Rapid Wien,St. Polten,2017-04-01,14:00:00,Good,"Clear, Sun",21,-,4_2_3_1,3_4_1_2,78:06
+454,70,AutBL,2241121,Admira,Austria Wien,2017-04-01,16:30:00,Good,"Clear, Strong Wind",21,Warm,4_1_4_1,4_2_3_1,77:26
+455,71,AutBL,2241121,Admira,Austria Wien,2017-04-01,16:30:00,Good,"Clear, Strong Wind",21,Warm,4_2_3_1,4_2_3_1,71:03
+456,72,AutBL,2241124,Ried,Mattersburg,2017-04-01,16:30:00,Good,"Clear, Sun, Wind",16,Warm,4_2_2_2,4_4_1_1,70:11
+457,73,AutBL,2241124,Ried,Mattersburg,2017-04-01,16:30:00,Good,"Clear, Sun, Wind",16,Warm,4_2_2_2,4_2_3_1,58:21
+458,74,AutBL,2241124,Ried,Mattersburg,2017-04-01,16:30:00,Good,"Clear, Sun, Wind",16,Warm,4_2_3_1,4_2_3_1,36:43
+459,75,AutBL,2241124,Ried,Mattersburg,2017-04-01,16:30:00,Good,"Clear, Sun, Wind",16,Warm,4_2_3_1,4_4_1_1,65:10
+460,76,AutBL,2241122,Wolfsberger AC,Sturm Graz,2017-04-01,16:30:00,"Dry, Excellent","Cloud, Light Wind",18,Warm,4_2_2_2,4_4_2,45:00
+461,77,AutBL,2241122,Wolfsberger AC,Sturm Graz,2017-04-01,16:30:00,"Dry, Excellent","Cloud, Light Wind",18,Warm,4_2_3_1,4_4_2,00:00
+452,68,AutBL,2241123,Salzburg,Rheindorf Altach,2017-04-02,14:30:00,Good,"Clear, Sun, Wind",14,Warm,3_1_3_1_2,4_2_2_2,80:34
+453,69,AutBL,2241123,Salzburg,Rheindorf Altach,2017-04-02,14:30:00,Good,"Clear, Sun, Wind",14,Warm,3_1_3_1_2,4_2_3_1,82:47
+451,67,AutBL,2241130,Rapid Wien,Ried,2017-04-08,14:00:00,Good,"Clear, Sun",16,Warm,4_2_3_1,3_4_1_2,75:44
+448,64,AutBL,2241129,Rheindorf Altach,Wolfsberger AC,2017-04-08,16:30:00,Excellent,"Clear, Sun",14,Warm,4_4_2,4_2_3_1,87:00
+449,65,AutBL,2241128,Mattersburg,Admira,2017-04-08,16:30:00,Good,"Clear, Light Wind",13,Warm,4_2_3_1,4_2_3_1,80:47
+450,66,AutBL,2241127,St. Polten,Austria Wien,2017-04-08,16:30:00,Average,Cloud,15,-,4_2_3_1,4_2_3_1,82:20
+446,62,AutBL,2241126,Sturm Graz,Salzburg,2017-04-09,14:30:00,Excellent,"Clear, Sun",20,Warm,4_1_4_1,4_4_2,92:00
+447,63,AutBL,2241126,Sturm Graz,Salzburg,2017-04-09,14:30:00,Excellent,"Clear, Sun",20,Warm,4_1_4_1,3_4_2_1,00:00
+444,60,AutBL,2241134,Salzburg,Wolfsberger AC,2017-04-15,14:00:00,Good,Cloud,15,-,4_4_2,4_2_2_2,72:35
+445,61,AutBL,2241134,Salzburg,Wolfsberger AC,2017-04-15,14:00:00,Good,Cloud,15,-,4_4_2,3_4_2_1,00:00
+438,54,AutBL,2241133,Ried,Sturm Graz,2017-04-15,16:30:00,Good,"Clear, Light Wind",14,Warm,4_4_2,4_2_3_1,85:32
+439,55,AutBL,2241133,Ried,Sturm Graz,2017-04-15,16:30:00,Good,"Clear, Light Wind",14,Warm,4_2_3_1,4_2_3_1,56:52
+440,56,AutBL,2241132,St. Polten,Admira,2017-04-15,16:30:00,Good,"Cloud, Light Wind",16,Warm,4_2_3_1,3_4_1_2,75:22
+441,57,AutBL,2241132,St. Polten,Admira,2017-04-15,16:30:00,Good,"Cloud, Light Wind",16,Warm,4_2_3_1,4_2_3_1,62:01
+442,58,AutBL,2241131,Rheindorf Altach,Rapid Wien,2017-04-15,16:30:00,Good,Cloud,13,-,4_2_3_1,4_2_3_1,82:47
+443,59,AutBL,2241131,Rheindorf Altach,Rapid Wien,2017-04-15,16:30:00,Good,Cloud,13,-,4_2_3_1,3_5_2,70:51
+436,52,AutBL,2241135,Austria Wien,Mattersburg,2017-04-16,13:00:00,Good,"Cloud, Wind",12,-,4_4_2,4_2_3_1,86:22
+437,53,AutBL,2241135,Austria Wien,Mattersburg,2017-04-16,13:00:00,Good,"Cloud, Wind",12,-,4_2_3_1,4_2_3_1,00:00
+435,51,AutBL,2241137,Mattersburg,Sturm Graz,2017-04-22,14:00:00,Good,"Cloud, Sun",17,-,4_2_3_1,4_2_3_1,74:26
+431,47,AutBL,2241139,Admira,Rheindorf Altach,2017-04-22,16:30:00,"Good, Wet","Cloud, Light Rain, Wind",9,Cold,4_4_2,4_2_3_1,83:37
+432,48,AutBL,2241138,Wolfsberger AC,Ried,2017-04-22,16:30:00,"Average, Wet",Cloud,12,-,4_2_3_1,4_4_2,78:25
+433,49,AutBL,2241138,Wolfsberger AC,Ried,2017-04-22,16:30:00,"Average, Wet",Rain,12,-,4_2_3_1,4_4_2,78:25
+434,50,AutBL,2241140,Salzburg,St. Polten,2017-04-22,16:30:00,Good,"Cloud, Light Rain, Wind",14,-,4_1_2_1_2,4_2_2_2,78:16
+430,46,AutBL,2241136,Austria Wien,Rapid Wien,2017-04-23,14:30:00,Excellent,"Clear, Sun",12,-,4_2_3_1,4_1_4_1,81:23
+429,45,AutBL,2241142,Sturm Graz,Austria Wien,2017-04-29,14:00:00,Good,Cloud,14,-,4_1_4_1,4_1_4_1,80:58
+426,42,AutBL,2241145,Rheindorf Altach,St. Polten,2017-04-29,16:30:00,Good,Cloud,12,-,4_4_2,4_1_4_1,73:57
+427,43,AutBL,2241141,Ried,Salzburg,2017-04-29,16:30:00,Excellent,Clear,12,-,4_2_2_2,4_2_3_1,81:24
+428,44,AutBL,2241144,Mattersburg,Wolfsberger AC,2017-04-29,16:30:00,"Dry, Excellent","Clear, Sun",9,Cold,4_4_2,4_2_3_1,78:57
+425,41,AutBL,2241143,Rapid Wien,Admira,2017-04-30,14:30:00,Average,"Cloud, Sun",15,-,4_2_3_1,4_1_4_1,79:00
+424,40,AutBL,2241150,Salzburg,Mattersburg,2017-05-06,14:00:00,Good,Sun,19,-,4_2_3_1,4_2_2_2,75:55
+419,35,AutBL,2241146,Wolfsberger AC,Rapid Wien,2017-05-06,16:30:00,Good,"Clear, Sun, Wind",19,Warm,4_4_2,4_4_2,79:44
+420,36,AutBL,2241146,Wolfsberger AC,Rapid Wien,2017-05-06,16:30:00,Good,"Clear, Sun, Wind",19,Warm,4_4_2,4_2_3_1,43:32
+421,37,AutBL,2241148,Admira,Ried,2017-05-06,16:30:00,Good,"Cloud, Light Wind",10,Warm,4_2_3_1,4_2_2_2,81:22
+422,38,AutBL,2241148,Admira,Ried,2017-05-06,16:30:00,Good,"Cloud, Light Wind",10,Warm,4_2_3_1,4_2_3_1,63:44
+423,39,AutBL,2241147,St. Polten,Sturm Graz,2017-05-06,16:30:00,"Dry, Excellent","Clear, Light Wind, Sun",19,Hot,4_2_3_1,4_2_2_2,84:30
+417,33,AutBL,2241149,Austria Wien,Rheindorf Altach,2017-05-07,14:30:00,Good,"Cloud, Light Rain",12,-,3_5_2,4_3_3,88:32
+418,34,AutBL,2241149,Austria Wien,Rheindorf Altach,2017-05-07,14:30:00,Good,"Cloud, Light Rain",12,-,3_4_3,4_3_3,86:30
+415,31,AutBL,2241151,Rapid Wien,Salzburg,2017-05-13,14:00:00,Excellent,"Clear, Sun",20,Warm,4_2_3_1,4_4_2,77:00
+416,32,AutBL,2241151,Rapid Wien,Salzburg,2017-05-13,14:00:00,Excellent,"Clear, Sun",20,Warm,4_2_3_1,4_4_1_1,68:51
+410,26,AutBL,2241152,Ried,Austria Wien,2017-05-13,16:30:00,Good,Cloud,21,Hot,4_3_3,4_1_4_1,78:48
+411,27,AutBL,2241155,Mattersburg,St. Polten,2017-05-13,16:30:00,Good,"Clear, Sun",17,Warm,4_4_2,4_4_2,80:35
+412,28,AutBL,2241155,Mattersburg,St. Polten,2017-05-13,16:30:00,Good,"Clear, Sun",17,Warm,4_4_2,4_2_3_1,76:49
+413,29,AutBL,2241153,Wolfsberger AC,Admira,2017-05-13,16:30:00,Good,Sun,22,-,4_2_3_1,4_4_2,85:53
+414,30,AutBL,2241153,Wolfsberger AC,Admira,2017-05-13,16:30:00,Good,,22,-,4_2_3_1,4_4_2,85:53
+409,25,AutBL,2241154,Sturm Graz,Rheindorf Altach,2017-05-14,14:30:00,Good,Clear,17,Warm,3_1_3_1_2,3_4_2_1,81:57
+407,23,AutBL,2241159,St. Polten,Ried,2017-05-20,14:00:00,Average,Cloud,17,-,3_4_1_2,4_4_2,73:32
+408,24,AutBL,2241159,St. Polten,Ried,2017-05-20,14:00:00,Average,Cloud,17,-,4_4_1_1,4_4_2,82:05
+403,19,AutBL,2241156,Admira,Salzburg,2017-05-20,16:30:00,Good,"Clear, Light Wind, Sun",15,Warm,4_2_2_2,4_2_3_1,78:47
+404,20,AutBL,2241158,Austria Wien,Wolfsberger AC,2017-05-20,16:30:00,Excellent,"Cloud, Wind",16,Warm,4_4_2,4_4_2,79:19
+405,21,AutBL,2241158,Austria Wien,Wolfsberger AC,2017-05-20,16:30:00,Excellent,"Cloud, Wind",16,Warm,4_4_2,4_3_3,00:00
+406,22,AutBL,2241160,Rheindorf Altach,Mattersburg,2017-05-20,16:30:00,Good,"Cloud, Wind",20,-,4_2_3_1,3_5_2,84:13
+400,16,AutBL,2241157,Sturm Graz,Rapid Wien,2017-05-21,14:30:00,Excellent,"Clear, Sun, Wind",20,Warm,4_4_2,4_4_2,67:44
+401,17,AutBL,2241157,Sturm Graz,Rapid Wien,2017-05-21,14:30:00,Excellent,"Clear, Sun, Wind",20,Warm,4_4_2,4_2_3_1,60:45
+402,18,AutBL,2241157,Sturm Graz,Rapid Wien,2017-05-21,14:30:00,Excellent,"Clear, Sun, Wind",20,Warm,4_2_3_1,4_2_3_1,17:13
+391,7,AutBL,2241161,Salzburg,Austria Wien,2017-05-25,14:30:00,Excellent,Cloud,22,-,4_4_2,4_2_3_1,77:26
+392,8,AutBL,2241161,Salzburg,Austria Wien,2017-05-25,14:30:00,Excellent,Cloud,22,-,4_3_3,4_2_2_2,67:40
+393,9,AutBL,2241161,Salzburg,Austria Wien,2017-05-25,14:30:00,Excellent,Cloud,22,-,4_3_3,4_2_3_1,74:55
+394,10,AutBL,2241164,Rapid Wien,Mattersburg,2017-05-25,14:30:00,"Excellent, Wet","Cloud, Sun",16,Cold,4_2_3_1,4_2_3_1,70:12
+395,11,AutBL,2241163,Ried,Rheindorf Altach,2017-05-25,14:30:00,"Excellent, Wet","Cloud, Sun",18,Warm,3_4_1_2,4_2_3_1,66:35
+396,12,AutBL,2241163,Ried,Rheindorf Altach,2017-05-25,14:30:00,"Excellent, Wet","Cloud, Sun",18,Warm,3_5_2,4_2_3_1,13:20
+397,13,AutBL,2241165,Wolfsberger AC,St. Polten,2017-05-25,14:30:00,"Excellent, Wet","Cloud, Sun",18,Warm,4_1_4_1,4_4_2,83:38
+398,14,AutBL,2241165,Wolfsberger AC,St. Polten,2017-05-25,14:30:00,"Excellent, Wet","Cloud, Sun",18,Warm,4_4_2,4_4_2,78:18
+399,15,AutBL,2241162,Admira,Sturm Graz,2017-05-25,14:30:00,Excellent,Cloud,20,Hot,4_2_3_1,4_2_3_1,86:58
+384,0,AutBL,2241170,Mattersburg,Ried,2017-05-28,14:30:00,Average,"Clear, Sun",17,-,4_2_3_1,4_2_3_1,67:50
+385,1,AutBL,2241167,St. Polten,Rapid Wien,2017-05-28,14:30:00,Excellent,"Clear, Sun",22,-,4_3_3,4_4_2,75:45
+386,2,AutBL,2241167,St. Polten,Rapid Wien,2017-05-28,14:30:00,Excellent,"Clear, Sun",22,-,4_2_3_1,4_4_2,00:00
+387,3,AutBL,2241166,Rheindorf Altach,Salzburg,2017-05-28,14:30:00,Excellent,Sun,28,-,4_4_2,4_1_4_1,89:50
+388,4,AutBL,2241169,Sturm Graz,Wolfsberger AC,2017-05-28,14:30:00,Excellent,Sun,25,Warm,4_4_2,4_4_2,82:31
+389,5,AutBL,2241169,Sturm Graz,Wolfsberger AC,2017-05-28,14:30:00,Excellent,Sun,25,Warm,4_4_2,4_2_3_1,60:30
+390,6,AutBL,2241168,Austria Wien,Admira,2017-05-28,14:30:00,Good,"Cloud, Sun",21,Warm,4_2_3_1,4_3_3,83:14
+193,0,AutBL,2469080,Mattersburg,Rapid Wien,2017-07-22,14:00:00,Excellent,"Clear, Sun, Wind",30,Hot,4_2_3_1,4_2_3_1,00:00
+194,1,AutBL,2469080,Mattersburg,Rapid Wien,2017-07-22,14:00:00,Excellent,"Clear, Sun, Wind",30,Hot,4_2_3_1,4_2_2_2,45:00
+195,2,AutBL,2469080,Mattersburg,Rapid Wien,2017-07-22,14:00:00,Excellent,"Clear, Sun, Wind",30,Hot,4_2_3_1,4_3_3,75:51
+196,3,AutBL,2469082,Admira,LASK Linz,2017-07-22,16:30:00,"Dry, Excellent","Clear, Sun",27,Hot,3_4_2_1,4_2_3_1,00:00
+197,4,AutBL,2469081,Salzburg,Wolfsberger AC,2017-07-22,16:30:00,"Dry, Excellent","Cloud, Sun",31,Hot,4_4_2,4_1_2_1_2,00:00
+198,5,AutBL,2469081,Salzburg,Wolfsberger AC,2017-07-22,16:30:00,"Dry, Excellent","Cloud, Sun",31,Hot,4_4_2,5_4_1,84:58
+199,6,AutBL,2469083,Austria Wien,Rheindorf Altach,2017-07-23,14:30:00,Good,Cloud,24,Warm,4_2_2_2,4_2_3_1,00:00
+200,7,AutBL,2469084,St. Polten,Sturm Graz,2017-07-23,17:00:00,Good,"Cloud, Sun",22,Warm,4_4_2,4_4_2,00:00
+201,8,AutBL,2469085,LASK Linz,Salzburg,2017-07-29,14:00:00,Excellent,Cloud,26,-,4_1_2_1_2,3_4_1_2,00:00
+202,9,AutBL,2469088,Wolfsberger AC,Mattersburg,2017-07-29,16:30:00,Good,"Clear, Sun",27,Hot,4_2_3_1,4_4_2,00:00
+203,10,AutBL,2469088,Wolfsberger AC,Mattersburg,2017-07-29,16:30:00,Good,"Clear, Sun",27,Hot,4_2_3_1,4_3_3,59:23
+204,11,AutBL,2469086,Rapid Wien,St. Polten,2017-07-29,16:30:00,Good,Sun,20,-,4_2_3_1,4_2_3_1,00:00
+205,12,AutBL,2469089,Sturm Graz,Austria Wien,2017-07-30,14:00:00,Good,Clear,15,-,4_1_4_1,4_2_3_1,00:00
+206,13,AutBL,2469087,Rheindorf Altach,Admira,2017-07-30,16:30:00,Good,Cloud,19,-,4_2_3_1,4_2_3_1,00:00
+207,14,AutBL,2469090,St. Polten,LASK Linz,2017-08-05,14:00:00,Good,"Clear, Sun",28,Hot,3_4_2_1,3_4_2_1,00:00
+208,15,AutBL,2469091,Admira,Salzburg,2017-08-05,16:30:00,Excellent,"Cloud, Sun",28,Hot,4_1_2_1_2,4_5_1,00:00
+209,16,AutBL,2469093,Rheindorf Altach,Wolfsberger AC,2017-08-06,14:30:00,Excellent,"Cloud, Light Rain",19,Warm,4_4_2,4_1_4_1,00:00
+210,17,AutBL,2469093,Rheindorf Altach,Wolfsberger AC,2017-08-06,14:30:00,Excellent,"Cloud, Rain",19,Warm,4_4_2,4_1_4_1,00:00
+211,18,AutBL,2469094,Austria Wien,Rapid Wien,2017-08-06,14:30:00,Excellent,Cloud,24,-,4_2_3_1,4_1_4_1,00:00
+212,19,AutBL,2469092,Sturm Graz,Mattersburg,2017-08-06,17:00:00,Excellent,"Cloud, Rain",20,Warm,4_2_3_1,3_4_2_1,00:00
+213,20,AutBL,2469097,Salzburg,Rheindorf Altach,2017-08-12,14:00:00,Good,"Cloud, Light Wind",18,-,4_1_4_1,4_1_2_1_2,00:00
+214,21,AutBL,2469095,LASK Linz,Austria Wien,2017-08-12,16:30:00,Excellent,"Clear, Sun",20,Warm,4_1_4_1,3_4_2_1,00:00
+215,22,AutBL,2469099,Mattersburg,St. Polten,2017-08-12,16:30:00,Good,"Cloud, Sun, Wind",20,Warm,3_4_2_1,4_2_3_1,00:00
+216,23,AutBL,2469096,Wolfsberger AC,Sturm Graz,2017-08-12,16:30:00,Good,"Cloud, Sun",22,Warm,3_4_3,4_4_2,00:00
+217,24,AutBL,2469098,Rapid Wien,Admira,2017-08-13,14:30:00,Good,Sun,28,Hot,4_2_3_1,4_2_3_1,00:00
+218,25,AutBL,2469098,Rapid Wien,Admira,2017-08-13,14:30:00,Good,Sun,28,Hot,4_2_3_1,4_4_2,73:16
+219,26,AutBL,2469101,Sturm Graz,Rapid Wien,2017-08-19,14:00:00,"Good, Wet","Cloud, Light Rain",18,-,4_2_3_1,3_4_2_1,00:00
+220,27,AutBL,2469103,Admira,Wolfsberger AC,2017-08-19,16:30:00,Good,Cloud,16,-,4_4_2,4_2_3_1,00:00
+221,28,AutBL,2469104,Rheindorf Altach,LASK Linz,2017-08-20,14:30:00,Good,"Cloud, Sun",20,-,3_4_2_1,4_1_4_1,00:00
+222,29,AutBL,2469100,St. Polten,Salzburg,2017-08-20,14:30:00,Good,Clear,18,Warm,4_1_2_1_2,3_4_1_2,00:00
+223,30,AutBL,2469102,Austria Wien,Mattersburg,2017-08-20,17:00:00,Good,"Cloud, Sun, Wind",19,-,4_4_1_1,4_1_4_1,00:00
+224,31,AutBL,2469109,St. Polten,Wolfsberger AC,2017-08-26,14:00:00,Good,"Clear, Sun",26,Hot,4_4_2,3_4_2_1,00:00
+225,32,AutBL,2469108,LASK Linz,Rapid Wien,2017-08-26,16:30:00,Excellent,"Clear, Sun",30,Hot,4_2_3_1,3_4_2_1,00:00
+226,33,AutBL,2469105,Salzburg,Sturm Graz,2017-08-27,14:30:00,Excellent,"Clear, Sun",32,Hot,3_4_2_1,4_1_2_1_2,00:00
+227,34,AutBL,2469106,Mattersburg,Rheindorf Altach,2017-08-27,14:30:00,Good,"Cloud, Sun",17,Warm,4_1_4_1,4_3_3,00:00
+228,35,AutBL,2469106,Mattersburg,Rheindorf Altach,2017-08-27,14:30:00,Good,"Cloud, Sun",17,Warm,4_1_4_1,4_4_2,30:48
+229,36,AutBL,2469107,Austria Wien,Admira,2017-08-27,17:00:00,Good,Clear,25,Warm,4_1_4_1,4_1_4_1,00:00
+230,37,AutBL,2469114,Sturm Graz,LASK Linz,2017-09-09,14:00:00,Good,"Clear, Sun",20,Warm,3_4_2_1,3_4_2_1,00:00
+231,38,AutBL,2469114,Sturm Graz,LASK Linz,2017-09-09,14:00:00,Good,"Clear, Sun",20,Warm,3_4_2_1,4_2_3_1,45:00
+232,39,AutBL,2469111,Wolfsberger AC,Austria Wien,2017-09-09,16:30:00,Good,"Cloud, Sun",23,-,4_1_4_1,4_4_2,00:00
+233,40,AutBL,2469113,Rheindorf Altach,St. Polten,2017-09-09,16:30:00,Excellent,"Clear, Sun",21,Hot,4_4_2,4_1_4_1,00:00
+234,41,AutBL,2469112,Admira,Mattersburg,2017-09-09,16:30:00,Good,"Cloud, Sun",19,-,4_2_3_1,4_2_3_1,00:00
+235,42,AutBL,2469112,Admira,Mattersburg,2017-09-09,16:30:00,Good,"Cloud, Sun",19,-,4_3_1_2,4_2_3_1,67:40
+236,43,AutBL,2469110,Rapid Wien,Salzburg,2017-09-10,14:30:00,"Excellent, Good",Cloud,13,-,4_1_2_1_2,4_2_3_1,00:00
+237,44,AutBL,2469110,Rapid Wien,Salzburg,2017-09-10,14:30:00,"Excellent, Good",Cloud,13,-,4_1_2_1_2,4_4_1_1,33:12
+238,45,AutBL,2469110,Rapid Wien,Salzburg,2017-09-10,14:30:00,"Excellent, Good",Cloud,13,-,4_1_2_1_2,5_4_1,77:42
+239,46,AutBL,2469116,Rapid Wien,Rheindorf Altach,2017-09-16,14:00:00,Good,"Cloud, Sun",14,-,4_2_3_1,4_2_3_1,00:00
+240,47,AutBL,2469117,Sturm Graz,Admira,2017-09-16,16:30:00,Good,"Cloud, Light Wind",14,Warm,4_2_3_1,3_4_2_1,00:00
+241,48,AutBL,2469119,LASK Linz,Wolfsberger AC,2017-09-16,16:30:00,Good,"Cloud, Light Rain",15,-,4_4_2,3_4_2_1,00:00
+242,49,AutBL,2469118,Salzburg,Mattersburg,2017-09-17,14:30:00,"Good, Soft",Clear,21,-,4_5_1,4_3_1_2,00:00
+243,50,AutBL,2469115,St. Polten,Austria Wien,2017-09-17,17:00:00,Excellent,"Cloud, Light Rain",12,-,4_1_4_1,4_1_4_1,00:00
+244,51,AutBL,2469122,Wolfsberger AC,Rapid Wien,2017-09-23,14:00:00,Good,"Cloud, Light Wind",15,-,4_2_3_1,4_4_2,00:00
+245,52,AutBL,2469123,Admira,St. Polten,2017-09-23,16:30:00,"Good, Soft","Clear, Cloud",14,-,5_3_2,4_2_3_1,00:00
+246,53,AutBL,2469121,Rheindorf Altach,Sturm Graz,2017-09-23,16:30:00,"Average, Soft","Sun, Wind",17,Warm,4_3_3,4_1_4_1,00:00
+247,54,AutBL,2469121,Rheindorf Altach,Sturm Graz,2017-09-23,16:30:00,"Average, Soft","Sun, Wind",17,Warm,4_4_1_1,4_1_4_1,41:54
+248,55,AutBL,2469121,Rheindorf Altach,Sturm Graz,2017-09-23,16:30:00,"Average, Soft","Sun, Wind",17,Warm,5_3_2,4_1_4_1,85:32
+249,56,AutBL,2469121,Rheindorf Altach,Sturm Graz,2017-09-23,16:30:00,Average,"Sun, Wind",17,Warm,4_3_3,4_1_4_1,00:00
+250,57,AutBL,2469121,Rheindorf Altach,Sturm Graz,2017-09-23,16:30:00,Average,"Sun, Wind",17,Warm,4_4_1_1,4_1_4_1,41:54
+251,58,AutBL,2469121,Rheindorf Altach,Sturm Graz,2017-09-23,16:30:00,Average,"Sun, Wind",17,Warm,5_3_2,4_1_4_1,85:32
+252,59,AutBL,2469124,Mattersburg,LASK Linz,2017-09-23,16:30:00,Good,"Cloud, Rain",15,-,3_4_2_1,4_1_4_1,00:00
+253,60,AutBL,2469120,Austria Wien,Salzburg,2017-09-24,14:30:00,Excellent,"Cloud, Sun",16,-,4_1_2_1_2,4_1_4_1,00:00
+254,61,AutBL,2469129,Sturm Graz,St. Polten,2017-09-30,14:00:00,Good,"Clear, Sun",15,-,4_1_4_1,4_2_3_1,00:00
+255,62,AutBL,2469129,Sturm Graz,St. Polten,2017-09-30,14:00:00,Good,"Clear, Sun",15,-,4_4_2,4_2_3_1,35:28
+256,63,AutBL,2469129,Sturm Graz,St. Polten,2017-09-30,14:00:00,Good,"Clear, Sun",15,-,4_3_3,4_2_3_1,79:40
+257,64,AutBL,2469128,Rapid Wien,Mattersburg,2017-09-30,16:30:00,Good,"Clear, Wind",13,-,4_3_3,4_2_3_1,00:00
+258,65,AutBL,2469128,Rapid Wien,Mattersburg,2017-09-30,16:30:00,Good,"Clear, Wind",13,-,4_2_3_1,4_2_3_1,73:31
+259,66,AutBL,2469127,LASK Linz,Admira,2017-09-30,16:30:00,Average,Clear,13,-,4_4_2,3_4_2_1,00:00
+260,67,AutBL,2469127,LASK Linz,Admira,2017-09-30,16:30:00,Average,Clear,13,-,4_4_2,4_2_2_2,80:28
+261,68,AutBL,2469126,Rheindorf Altach,Austria Wien,2017-10-01,14:30:00,Good,"Cloud, Sun",17,-,4_1_4_1,4_2_3_1,00:00
+262,69,AutBL,2469125,Wolfsberger AC,Salzburg,2017-10-01,17:00:00,Excellent,Clear,15,Warm,4_3_1_2,4_4_2,00:00
+263,70,AutBL,2469134,Salzburg,LASK Linz,2017-10-14,14:00:00,Good,Clear,17,-,3_5_2,4_1_2_1_2,00:00
+264,71,AutBL,2469131,Admira,Rheindorf Altach,2017-10-14,16:30:00,Good,Clear,12,-,4_1_4_1,4_4_2,00:00
+265,72,AutBL,2469131,Admira,Rheindorf Altach,2017-10-14,16:30:00,Good,Clear,12,-,4_1_4_1,4_2_3_1,45:00
+266,73,AutBL,2469131,Admira,Rheindorf Altach,2017-10-14,16:30:00,Good,Clear,12,-,4_1_4_1,4_4_2,00:00
+267,74,AutBL,2469131,Admira,Rheindorf Altach,2017-10-14,16:30:00,Good,Clear,12,-,4_1_4_1,4_2_3_1,45:00
+268,75,AutBL,2469131,Admira,Rheindorf Altach,2017-10-14,16:30:00,Good,Clear,12,-,4_1_4_1,4_4_2,00:00
+269,76,AutBL,2469131,Admira,Rheindorf Altach,2017-10-14,16:30:00,Good,Clear,12,-,4_1_4_1,4_2_3_1,45:00
+270,77,AutBL,2469131,Admira,Rheindorf Altach,2017-10-14,16:30:00,Good,Clear,12,-,4_1_4_1,4_4_2,00:00
+271,78,AutBL,2469131,Admira,Rheindorf Altach,2017-10-14,16:30:00,Good,Clear,12,-,4_1_4_1,4_2_3_1,45:00
+272,79,AutBL,2469132,St. Polten,Rapid Wien,2017-10-14,16:30:00,Good,Clear,16,-,4_2_3_1,4_1_4_1,00:00
+273,80,AutBL,2469133,Mattersburg,Wolfsberger AC,2017-10-14,16:30:00,Good,Clear,13,-,4_4_2,4_1_4_1,00:00
+274,81,AutBL,2469133,Mattersburg,Wolfsberger AC,2017-10-14,16:30:00,Good,Clear,13,-,4_4_2,4_4_2,45:00
+275,82,AutBL,2469130,Austria Wien,Sturm Graz,2017-10-15,14:30:00,Good,"Clear, Sun",23,Warm,4_1_4_1,4_1_4_1,00:00
+276,83,AutBL,2469130,Austria Wien,Sturm Graz,2017-10-15,14:30:00,Good,"Clear, Sun",23,Warm,4_1_4_1,4_4_2,74:04
+277,84,AutBL,2469136,Mattersburg,Sturm Graz,2017-10-21,14:00:00,Good,Sun,19,-,4_2_3_1,4_2_3_1,00:00
+278,85,AutBL,2469137,Wolfsberger AC,Rheindorf Altach,2017-10-21,16:30:00,Excellent,Clear,15,-,4_1_4_1,4_4_2,00:00
+279,86,AutBL,2469139,LASK Linz,St. Polten,2017-10-21,16:30:00,Good,Clear,12,-,4_1_4_1,3_4_2_1,00:00
+280,87,AutBL,2469139,LASK Linz,St. Polten,2017-10-21,16:30:00,Good,Clear,12,-,4_4_2,3_4_2_1,74:49
+281,88,AutBL,2469138,Salzburg,Admira,2017-10-22,12:00:00,Average,Cloud,10,Cold,4_4_2,4_3_1_2,00:00
+282,89,AutBL,2469138,Salzburg,Admira,2017-10-22,12:00:00,Average,Cloud,10,Cold,5_4_1,4_3_1_2,89:53
+283,90,AutBL,2469135,Rapid Wien,Austria Wien,2017-10-22,14:30:00,Good,Clear,11,-,4_1_4_1,4_2_3_1,00:00
+284,91,AutBL,2469141,Admira,Rapid Wien,2017-10-28,14:00:00,Good,"Cloud, Light Rain",11,Cold,4_2_3_1,4_4_2,00:00
+285,92,AutBL,2469142,St. Polten,Mattersburg,2017-10-28,16:30:00,Good,"Cloud, Wind",10,-,4_2_3_1,4_4_1_1,00:00
+286,93,AutBL,2469144,Austria Wien,LASK Linz,2017-10-28,16:30:00,Good,"Cloud, Wind",10,-,4_3_3,4_1_4_1,00:00
+287,94,AutBL,2469140,Rheindorf Altach,Salzburg,2017-10-28,16:30:00,Excellent,Cloud,11,Cold,4_1_2_1_2,4_2_3_1,00:00
+288,95,AutBL,2469143,Sturm Graz,Wolfsberger AC,2017-10-29,15:30:00,"Good, Uneven","Cloud, Sun, Wind",5,Cold,4_4_2,3_4_2_1,00:00
+289,96,AutBL,2469146,Rapid Wien,Sturm Graz,2017-11-04,15:00:00,Good,Cloud,8,Cold,3_4_2_1,4_2_3_1,00:00
+290,97,AutBL,2469148,Wolfsberger AC,Admira,2017-11-04,17:30:00,Good,Cloud,10,Cold,4_2_3_1,3_4_3,00:00
+291,98,AutBL,2469147,LASK Linz,Rheindorf Altach,2017-11-04,17:30:00,Excellent,Clear,13,Warm,4_2_3_1,4_4_2,00:00
+292,99,AutBL,2469145,Mattersburg,Austria Wien,2017-11-05,13:00:00,Excellent,Sun,15,Warm,4_1_4_1,4_2_3_1,00:00
+293,100,AutBL,2469145,Mattersburg,Austria Wien,2017-11-05,13:00:00,Excellent,Sun,15,Warm,4_4_2,4_2_3_1,79:23
+294,101,AutBL,2469149,Salzburg,St. Polten,2017-11-05,15:30:00,Good,Cloud,12,-,4_3_3,4_2_3_1,00:00
+295,102,AutBL,2469149,Salzburg,St. Polten,2017-11-05,15:30:00,Good,Cloud,12,-,4_4_2,4_2_3_1,88:15
+296,103,AutBL,2469154,Rapid Wien,LASK Linz,2017-11-18,15:00:00,Good,Clear,7,Cold,4_4_2,4_2_3_1,00:00
+297,104,AutBL,2469151,Admira,Austria Wien,2017-11-18,17:30:00,Good,Cloud,6,-,4_2_3_1,4_4_2,00:00
+298,105,AutBL,2469153,Wolfsberger AC,St. Polten,2017-11-18,17:30:00,Good,Cloud,4,Cold,4_1_4_1,3_4_3,00:00
+299,106,AutBL,2469152,Rheindorf Altach,Mattersburg,2017-11-18,17:30:00,Average,Clear,5,-,4_2_3_1,4_1_4_1,00:00
+300,107,AutBL,2469150,Sturm Graz,Salzburg,2017-11-19,15:30:00,Good,"Clear, Strong Wind",3,Cold,4_1_2_1_2,3_4_2_1,00:00
+301,108,AutBL,2469155,LASK Linz,Sturm Graz,2017-11-25,15:00:00,Good,Clear,8,-,3_4_2_1,3_4_2_1,00:00
+302,109,AutBL,2469157,Mattersburg,Admira,2017-11-25,17:30:00,Good,"Clear, Light Wind",7,Cold,4_2_3_1,4_2_3_1,00:00
+303,110,AutBL,2469157,Mattersburg,Admira,2017-11-25,17:30:00,Good,"Clear, Light Wind",7,Cold,4_4_1_1,4_2_3_1,45:00
+304,111,AutBL,2469156,St. Polten,Rheindorf Altach,2017-11-25,17:30:00,Good,Clear,8,-,4_2_3_1,4_1_4_1,00:00
+305,112,AutBL,2469159,Austria Wien,Wolfsberger AC,2017-11-26,13:00:00,Good,"Clear, Light Wind",2,Freezing,3_4_2_1,4_1_4_1,00:00
+306,113,AutBL,2469158,Salzburg,Rapid Wien,2017-11-26,15:30:00,Excellent,Cloud,6,-,4_2_3_1,3_4_2_1,00:00
+307,114,AutBL,2469161,Admira,Sturm Graz,2017-11-28,18:00:00,Good,Cloud,0,-,4_4_2,4_4_2,00:00
+308,115,AutBL,2469161,Admira,Sturm Graz,2017-11-28,18:00:00,Good,Cloud,0,-,4_4_2,4_2_3_1,45:00
+309,116,AutBL,2469164,Wolfsberger AC,LASK Linz,2017-11-29,17:30:00,"Good, Wet","Cloud, Light Rain",3,Cold,3_4_2_1,3_4_2_1,00:00
+310,117,AutBL,2469163,Austria Wien,St. Polten,2017-11-29,17:30:00,"Good, Wet","Cloud, Light Wind",2,Cold,4_1_4_1,4_2_3_1,00:00
+311,118,AutBL,2469163,Austria Wien,St. Polten,2017-11-29,17:30:00,"Good, Wet","Cloud, Light Wind",2,Cold,4_1_4_1,4_4_2,65:49
+312,119,AutBL,2469163,Austria Wien,St. Polten,2017-11-29,17:30:00,"Good, Wet","Cloud, Light Wind",2,Cold,4_1_4_1,3_4_1_2,84:43
+313,120,AutBL,2469160,Mattersburg,Salzburg,2017-11-29,17:30:00,Good,"Cloud, Light Rain",4,Cold,4_1_2_1_2,4_4_2,00:00
+314,121,AutBL,2469162,Rheindorf Altach,Rapid Wien,2017-11-29,19:30:00,"Good, Wet",Cloud,1,-,4_2_3_1,4_2_3_1,00:00
+315,122,AutBL,2469162,Rheindorf Altach,Rapid Wien,2017-11-29,19:30:00,"Good, Wet",Cloud,1,-,4_2_3_1,4_3_3,66:57
+316,123,AutBL,2469162,Rheindorf Altach,Rapid Wien,2017-11-29,19:30:00,"Good, Wet",Cloud,1,-,4_3_3,4_3_3,75:53
+317,124,AutBL,2469169,Rapid Wien,Wolfsberger AC,2017-12-02,15:00:00,Average,Cloud,-6,Freezing,3_4_2_1,4_2_3_1,00:00
+318,125,AutBL,2469169,Rapid Wien,Wolfsberger AC,2017-12-02,15:00:00,Average,Cloud,-6,Freezing,3_4_2_1,4_4_2,83:35
+319,126,AutBL,2469168,LASK Linz,Mattersburg,2017-12-02,17:30:00,Good,Clear,-1,Freezing,4_2_3_1,3_4_3,00:00
+320,127,AutBL,2469168,LASK Linz,Mattersburg,2017-12-02,17:30:00,Good,Clear,-1,Freezing,4_2_3_1,4_2_3_1,53:39
+321,128,AutBL,2469166,Sturm Graz,Rheindorf Altach,2017-12-02,17:30:00,Excellent,Clear,-5,Cold,4_1_4_1,4_4_2,00:00
+322,129,AutBL,2469167,St. Polten,Admira,2017-12-02,17:30:00,Good,Cloud,1,Cold,4_2_3_1,4_1_4_1,00:00
+323,130,AutBL,2469165,Salzburg,Austria Wien,2017-12-03,15:30:00,Good,"Clear, Wind",-1,Freezing,3_1_3_1_2,4_1_2_1_2,00:00
+324,131,AutBL,2469172,Mattersburg,Rapid Wien,2017-12-09,15:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",1,Cold,4_2_3_1,4_2_3_1,00:00
+325,132,AutBL,2469172,Mattersburg,Rapid Wien,2017-12-09,15:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",1,Cold,3_4_3,4_2_3_1,64:26
+326,133,AutBL,2469174,Admira,LASK Linz,2017-12-09,17:30:00,Good,Clear,-2,Freezing,4_4_2,4_3_3,00:00
+327,134,AutBL,2469174,Admira,LASK Linz,2017-12-09,17:30:00,Good,Clear,-2,Freezing,4_4_2,4_4_2,69:03
+328,135,AutBL,2469170,St. Polten,Sturm Graz,2017-12-09,17:30:00,Good,Clear,4,-,4_2_3_1,4_1_4_1,00:00
+329,136,AutBL,2469171,Austria Wien,Rheindorf Altach,2017-12-10,13:00:00,"Good, Wet","Clear, Light Rain, Strong Wind",-3,Freezing,4_4_1_1,4_1_4_1,00:00
+330,137,AutBL,2469171,Austria Wien,Rheindorf Altach,2017-12-10,13:00:00,"Good, Wet","Clear, Light Rain, Strong Wind",-3,Freezing,4_4_1_1,4_4_2,82:30
+331,138,AutBL,2469171,Austria Wien,Rheindorf Altach,2017-12-10,13:00:00,"Good, Wet","Light Snow, Rain, Strong Wind",-3,Freezing,4_4_1_1,4_1_4_1,00:00
+332,139,AutBL,2469171,Austria Wien,Rheindorf Altach,2017-12-10,13:00:00,"Good, Wet","Light Snow, Rain, Strong Wind",-3,Freezing,4_4_1_1,4_4_2,82:30
+333,140,AutBL,2469173,Salzburg,Wolfsberger AC,2017-12-10,15:30:00,Average,Clear,1,-,3_4_3,3_4_3,00:00
+334,141,AutBL,2469175,LASK Linz,Salzburg,2017-12-16,15:00:00,Good,"Cloud, Light Wind",2,Cold,4_1_2_1_2,3_5_2,00:00
+335,142,AutBL,2469177,Rheindorf Altach,Admira,2017-12-16,17:30:00,Good,Cloud,5,Cold,4_2_3_1,4_4_1_1,00:00
+336,143,AutBL,2469178,Wolfsberger AC,Mattersburg,2017-12-16,17:30:00,"Average, Soft",Cloud,5,Cold,4_2_3_1,3_4_3,00:00
+337,144,AutBL,2469178,Wolfsberger AC,Mattersburg,2017-12-16,17:30:00,"Average, Soft",Cloud,5,Cold,4_2_3_1,4_4_2,69:20
+338,145,AutBL,2469179,Rapid Wien,St. Polten,2017-12-16,17:30:00,Average,Cloud,3,Freezing,4_5_1,4_2_3_1,00:00
+339,146,AutBL,2469179,Rapid Wien,St. Polten,2017-12-16,17:30:00,Average,Cloud,3,Freezing,4_4_2,4_2_3_1,58:16
+340,147,AutBL,2469176,Sturm Graz,Austria Wien,2017-12-17,15:30:00,Good,Clear,1,-,4_1_4_1,3_4_3,00:00
+341,148,AutBL,2469182,Sturm Graz,Mattersburg,2018-02-03,15:00:00,Average,"Clear, Wind",2,Cold,4_2_3_1,4_1_4_1,00:00
+342,149,AutBL,2469182,Sturm Graz,Mattersburg,2018-02-03,15:00:00,Average,"Clear, Wind",2,Cold,4_2_3_1,4_4_2,75:44
+343,150,AutBL,2469180,Admira,Salzburg,2018-02-03,17:30:00,Excellent,Cloud,0,Cold,4_3_1_2,4_2_3_1,00:00
+344,151,AutBL,2469184,St. Polten,LASK Linz,2018-02-03,17:30:00,Good,,2,Cold,3_4_2_1,4_2_3_1,00:00
+345,152,AutBL,2469184,St. Polten,LASK Linz,2018-02-03,17:30:00,Good,Cloud,2,Cold,3_4_2_1,4_2_3_1,00:00
+346,153,AutBL,2469184,St. Polten,LASK Linz,2018-02-03,17:30:00,"Average, Wet",,2,Cold,3_4_2_1,4_2_3_1,00:00
+347,154,AutBL,2469184,St. Polten,LASK Linz,2018-02-03,17:30:00,"Average, Wet",Cloud,2,Cold,3_4_2_1,4_2_3_1,00:00
+348,155,AutBL,2469183,Rheindorf Altach,Wolfsberger AC,2018-02-03,17:30:00,Good,Clear,3,-,3_5_2,4_1_4_1,00:00
+349,156,AutBL,2469181,Austria Wien,Rapid Wien,2018-02-04,15:30:00,Excellent,Cloud,4,Cold,4_2_3_1,4_1_4_1,00:00
+350,157,AutBL,2469181,Austria Wien,Rapid Wien,2018-02-04,15:30:00,Excellent,Light Rain,4,Cold,4_2_3_1,4_1_4_1,00:00
+351,158,AutBL,2469187,Salzburg,Rheindorf Altach,2018-02-10,15:00:00,Good,Clear,3,Cold,3_5_2,4_1_2_1_2,00:00
+352,159,AutBL,2469187,Salzburg,Rheindorf Altach,2018-02-10,15:00:00,Good,Clear,3,Cold,3_4_3,4_1_2_1_2,72:15
+353,160,AutBL,2469185,LASK Linz,Austria Wien,2018-02-10,17:30:00,"Excellent, Good","Clear, Cloud",0,Freezing,4_2_3_1,3_4_3,00:00
+354,161,AutBL,2469189,Mattersburg,St. Polten,2018-02-10,17:30:00,"Excellent, Good","Clear, Cloud",0,Freezing,3_4_3,4_2_3_1,00:00
+355,162,AutBL,2469186,Wolfsberger AC,Sturm Graz,2018-02-10,17:30:00,Good,"Clear, Light Wind",0,Freezing,4_1_4_1,3_5_2,00:00
+356,163,AutBL,2469186,Wolfsberger AC,Sturm Graz,2018-02-10,17:30:00,Good,"Clear, Light Wind",0,Freezing,4_4_2,3_5_2,80:23
+357,164,AutBL,2469188,Rapid Wien,Admira,2018-02-11,15:30:00,Poor,Cloud,4,Cold,4_2_3_1,4_2_3_1,00:00
+358,165,AutBL,2469191,Sturm Graz,Rapid Wien,2018-02-17,15:00:00,Good,Light Rain,1,Freezing,4_2_3_1,5_4_1,00:00
+359,166,AutBL,2469191,Sturm Graz,Rapid Wien,2018-02-17,15:00:00,Good,"Cloud, Light Rain, Wind",1,Freezing,4_2_3_1,5_4_1,00:00
+360,167,AutBL,2469194,Rheindorf Altach,LASK Linz,2018-02-17,17:30:00,"Good, Wet",Snow,0,Freezing,3_4_3,4_1_4_1,00:00
+361,168,AutBL,2469192,Austria Wien,Mattersburg,2018-02-17,17:30:00,Good,"Cloud, Light Snow",2,Cold,4_2_3_1,4_2_3_1,00:00
+362,169,AutBL,2469193,Admira,Wolfsberger AC,2018-02-17,17:30:00,"Average, Patchy",Cloud,2,Freezing,3_5_2,4_2_3_1,00:00
+363,170,AutBL,2469193,Admira,Wolfsberger AC,2018-02-17,17:30:00,"Average, Patchy",Cloud,2,Freezing,3_5_2,5_4_1,61:02
+364,171,AutBL,2469190,St. Polten,Salzburg,2018-02-18,15:30:00,Good,"Clear, Light Wind",2,Cold,4_1_2_1_2,4_3_3,00:00
+365,172,AutBL,2469197,Austria Wien,Admira,2018-02-24,15:00:00,Average,"Clear, Wind",-2,Freezing,4_2_3_1,4_2_3_1,00:00
+366,173,AutBL,2469198,LASK Linz,Rapid Wien,2018-02-24,17:30:00,Excellent,Clear,-4,Cold,4_2_3_1,3_4_3,00:00
+367,174,AutBL,2469199,St. Polten,Wolfsberger AC,2018-02-24,17:30:00,Excellent,Cloud,0,Cold,3_5_2,4_3_3,00:00
+368,175,AutBL,2469196,Mattersburg,Rheindorf Altach,2018-02-24,17:30:00,Good,Clear,-2,-,4_2_3_1,4_2_3_1,00:00
+369,176,AutBL,2469195,Salzburg,Sturm Graz,2018-02-25,15:30:00,Good,Clear,-7,Freezing,5_4_1,4_1_2_1_2,00:00
+370,177,AutBL,2469195,Salzburg,Sturm Graz,2018-02-25,15:30:00,Good,Clear,-7,Freezing,4_4_2,4_1_2_1_2,61:02
+371,178,AutBL,2469204,Sturm Graz,LASK Linz,2018-03-03,15:00:00,Good,Cloud,-1,Freezing,3_4_2_1,4_4_2,00:00
+372,179,AutBL,2469204,Sturm Graz,LASK Linz,2018-03-03,15:00:00,Good,Cloud,-1,Freezing,4_4_2,4_4_2,62:37
+373,180,AutBL,2469204,Sturm Graz,LASK Linz,2018-03-03,15:00:00,Good,Cloud,-1,Freezing,4_4_2,4_4_1_1,77:16
+374,181,AutBL,2469204,Sturm Graz,LASK Linz,2018-03-03,15:00:00,Good,Cloud,-1,Freezing,4_3_3,4_4_1_1,78:13
+375,182,AutBL,2469203,Rheindorf Altach,St. Polten,2018-03-03,17:30:00,Good,Clear,-3,Cold,4_4_2,4_2_3_1,00:00
+376,183,AutBL,2469202,Admira,Mattersburg,2018-03-03,17:30:00,Average,"Clear, Light Wind",-3,Freezing,4_2_3_1,4_2_3_1,00:00
+377,184,AutBL,2469201,Wolfsberger AC,Austria Wien,2018-03-03,17:30:00,Average,Cloud,-2,Freezing,4_3_3,3_1_3_1_2,00:00
+378,185,AutBL,2469200,Rapid Wien,Salzburg,2018-03-04,15:30:00,"Average, Patchy","Clear, Sun",5,Cold,4_1_2_1_2,4_2_3_1,00:00
+379,186,AutBL,2469206,Rapid Wien,Rheindorf Altach,2018-03-10,15:00:00,Good,"Cloud, Wind",6,Cold,4_2_3_1,4_2_3_1,00:00
+380,187,AutBL,2469207,Sturm Graz,Admira,2018-03-10,17:30:00,Good,Cloud,14,-,4_2_3_1,4_4_2,00:00
+381,188,AutBL,2469209,LASK Linz,Wolfsberger AC,2018-03-10,17:30:00,"Good, Patchy, Soft","Cloud, Wind",8,Cold,3_5_2,3_4_3,00:00
+382,189,AutBL,2469205,St. Polten,Austria Wien,2018-03-10,17:30:00,Good,Cloud,10,-,4_4_2,4_2_3_1,00:00
+383,190,AutBL,2469208,Salzburg,Mattersburg,2018-03-11,15:30:00,Good,Clear,14,-,4_2_3_1,4_3_1_2,00:00

@@ -1,0 +1,864 @@
+True,index,competition,gsm_id,awayteam_team2,hometeam_team1,kickoffDate,kickoffTime,pitchType,weatherType,tempCelcius,tempType,formation_team1,formation_team2,formation_time
+4955,496,NetED,2240294,PEC Zwolle,NEC,2016-08-05,18:00:00,Good,"Clear, Sun",20,Warm,4_3_3,4_4_1_1,69:37
+4956,497,NetED,2240294,PEC Zwolle,NEC,2016-08-05,18:00:00,Good,"Clear, Sun",20,Warm,3_4_3,4_4_1_1,45:00
+4952,493,NetED,2240297,Go Ahead Eagles,ADO Den Haag,2016-08-06,16:30:00,Artificial,Sun,22,Warm,4_3_3,4_3_3,78:52
+4953,494,NetED,2240297,Go Ahead Eagles,ADO Den Haag,2016-08-06,16:30:00,Artificial,Sun,22,Warm,4_3_3,4_4_2,76:54
+4954,495,NetED,2240297,Go Ahead Eagles,ADO Den Haag,2016-08-06,16:30:00,Artificial,Sun,22,Warm,4_3_1_2,4_3_3,84:03
+4946,487,NetED,2240908,Excelsior,Twente,2016-08-06,17:45:00,Good,Sun,20,Warm,4_3_3,5_3_2,83:16
+4947,488,NetED,2240908,Excelsior,Twente,2016-08-06,17:45:00,Good,Sun,20,Warm,4_3_3,4_3_3,75:58
+4948,489,NetED,2240908,Excelsior,Twente,2016-08-06,17:45:00,Good,Sun,20,Warm,4_3_1_2,4_3_3,24:34
+4949,490,NetED,2240296,PSV,Utrecht,2016-08-06,17:45:00,"Dry, Good","Clear, Sun",16,Warm,4_1_2_1_2,3_4_2_1,75:12
+4950,491,NetED,2240296,PSV,Utrecht,2016-08-06,17:45:00,"Dry, Good","Clear, Sun",16,Warm,4_1_2_1_2,3_5_2,45:00
+4951,492,NetED,2240296,PSV,Utrecht,2016-08-06,17:45:00,"Dry, Good","Clear, Sun",16,Warm,4_1_2_1_2,4_3_3,00:00
+4945,486,NetED,2240295,Vitesse,Willem II,2016-08-06,18:45:00,"Excellent, Wet","Clear, Sun",18,Warm,4_3_3,4_3_3,80:08
+4943,484,NetED,2240298,Feyenoord,Groningen,2016-08-07,10:30:00,Excellent,Cloud,19,-,4_4_2,4_3_3,73:22
+4944,485,NetED,2240298,Feyenoord,Groningen,2016-08-07,10:30:00,Excellent,Cloud,19,-,4_3_3,4_3_3,00:00
+4941,482,NetED,2240299,Heerenveen,AZ,2016-08-07,12:30:00,Good,Cloud,18,Warm,4_3_3,4_3_3,80:06
+4942,483,NetED,2240300,Ajax,Sparta Rotterdam,2016-08-07,12:30:00,Good,"Cloud, Sun",19,Warm,4_3_3,4_3_3,83:45
+4940,481,NetED,2240301,Heracles,Roda JC,2016-08-07,14:45:00,Artificial,Sun,20,Warm,4_3_3,4_3_3,71:31
+4938,479,NetED,2240302,Utrecht,Heerenveen,2016-08-12,18:00:00,Good,Clear,17,-,4_4_2,4_1_2_1_2,86:25
+4939,480,NetED,2240302,Utrecht,Heerenveen,2016-08-12,18:00:00,Good,Clear,17,-,4_3_3,4_1_2_1_2,72:50
+4936,477,NetED,2240303,Groningen,Excelsior,2016-08-13,16:30:00,Artificial,Cloud,18,-,4_3_3,3_4_3,65:00
+4937,478,NetED,2240303,Groningen,Excelsior,2016-08-13,16:30:00,Artificial,Cloud,18,-,4_3_3,4_3_3,27:48
+4933,474,NetED,2240304,Roda JC,Ajax,2016-08-13,17:45:00,Good,Cloud,19,-,4_3_3,4_2_3_1,81:45
+4934,475,NetED,2240305,ADO Den Haag,Vitesse,2016-08-13,17:45:00,Good,Cloud,15,-,4_3_3,4_4_2,86:06
+4935,476,NetED,2240305,ADO Den Haag,Vitesse,2016-08-13,17:45:00,Good,Cloud,15,-,4_3_3,4_3_3,61:00
+4930,471,NetED,2240306,Sparta Rotterdam,PEC Zwolle,2016-08-13,18:45:00,Artificial,"Cloud, Rain",19,-,4_3_3,4_3_3,85:10
+4931,472,NetED,2240306,Sparta Rotterdam,PEC Zwolle,2016-08-13,18:45:00,Artificial,Cloud,19,-,4_3_3,4_3_3,85:10
+4932,473,NetED,2240306,Sparta Rotterdam,PEC Zwolle,2016-08-13,18:45:00,Artificial,Cloud,19,-,4_3_3,4_3_3,85:10
+4929,470,NetED,2240307,Willem II,Heracles,2016-08-14,10:30:00,Artificial,"Clear, Sun",22,-,4_3_3,4_3_3,83:36
+4926,467,NetED,2240308,NEC,Go Ahead Eagles,2016-08-14,12:30:00,Good,"Cloud, Light Wind",17,-,4_3_3,4_3_3,88:43
+4927,468,NetED,2240308,NEC,Go Ahead Eagles,2016-08-14,12:30:00,Good,"Cloud, Light Wind, Sun",17,-,4_3_3,4_3_3,88:43
+4928,469,NetED,2240925,Twente,Feyenoord,2016-08-14,12:30:00,Good,"Clear, Sun",22,-,4_3_3,4_3_1_2,72:46
+4924,465,NetED,2240309,AZ,PSV,2016-08-14,14:45:00,Good,Clear,20,-,3_4_2_1,4_3_3,84:47
+4925,466,NetED,2240309,AZ,PSV,2016-08-14,14:45:00,Good,Clear,20,-,4_3_3,4_3_3,63:32
+4921,462,NetED,2240310,ADO Den Haag,Excelsior,2016-08-19,18:00:00,Artificial,Clear,18,-,4_3_1_2,4_4_2,82:29
+4922,463,NetED,2240310,ADO Den Haag,Excelsior,2016-08-19,18:00:00,Artificial,Clear,18,-,4_3_1_2,4_3_3,81:29
+4923,464,NetED,2240310,ADO Den Haag,Excelsior,2016-08-19,18:00:00,Artificial,Clear,18,-,4_3_3,4_3_3,00:00
+4918,459,NetED,2240311,Vitesse,Roda JC,2016-08-20,16:30:00,Artificial,Clear,15,-,4_2_3_1,4_3_3,79:10
+4919,460,NetED,2240311,Vitesse,Roda JC,2016-08-20,16:30:00,Artificial,Clear,15,-,4_3_1_2,4_3_3,45:00
+4920,461,NetED,2240311,Vitesse,Roda JC,2016-08-20,16:30:00,Artificial,Clear,15,-,4_1_4_1,4_3_3,84:15
+4911,452,NetED,2240312,Willem II,Ajax,2016-08-20,17:45:00,Average,Cloud,21,-,4_3_3,4_2_3_1,74:54
+4912,453,NetED,2240312,Willem II,Ajax,2016-08-20,17:45:00,Average,Cloud,21,-,4_4_2,4_2_3_1,72:18
+4913,454,NetED,2240312,Willem II,Ajax,2016-08-20,17:45:00,Average,Cloud,21,-,4_2_3_1,4_2_3_1,43:48
+4914,455,NetED,2240313,PSV,PEC Zwolle,2016-08-20,17:45:00,Artificial,Clear,17,-,4_3_1_2,3_4_1_2,81:07
+4915,456,NetED,2240313,PSV,PEC Zwolle,2016-08-20,17:45:00,Artificial,Clear,17,-,4_3_1_2,4_3_3,68:00
+4916,457,NetED,2240313,PSV,PEC Zwolle,2016-08-20,17:45:00,Artificial,Clear,17,-,4_1_4_1,4_3_3,45:00
+4917,458,NetED,2240313,PSV,PEC Zwolle,2016-08-20,17:45:00,Artificial,Clear,17,-,4_2_3_1,4_3_3,00:00
+4908,449,NetED,2240314,Heerenveen,NEC,2016-08-20,18:45:00,Excellent,Clear,18,Warm,5_4_1,4_4_2,80:00
+4909,450,NetED,2240314,Heerenveen,NEC,2016-08-20,18:45:00,Excellent,Clear,18,Warm,4_5_1,4_4_2,75:30
+4910,451,NetED,2240314,Heerenveen,NEC,2016-08-20,18:45:00,Excellent,Clear,18,Warm,4_4_2,4_4_2,00:40
+4907,448,NetED,2240926,Twente,Groningen,2016-08-21,10:30:00,"Dry, Excellent, Soft","Clear, Light Wind, Sun",16,Warm,4_3_3,4_3_3,82:24
+4904,445,NetED,2240315,AZ,Utrecht,2016-08-21,12:30:00,Good,"Clear, Sun",22,-,4_3_1_2,4_3_3,69:19
+4905,446,NetED,2240315,AZ,Utrecht,2016-08-21,12:30:00,Good,"Clear, Sun",22,-,3_4_3,4_3_3,84:33
+4906,447,NetED,2240316,Go Ahead Eagles,Sparta Rotterdam,2016-08-21,12:30:00,Good,Clear,19,-,4_3_3,4_3_3,85:25
+4903,444,NetED,2240317,Feyenoord,Heracles,2016-08-21,14:45:00,"Excellent, Wet",Cloud,17,Warm,4_3_3,4_3_3,89:19
+4902,443,NetED,2240318,Utrecht,Vitesse,2016-08-26,18:00:00,Good,Clear,18,-,4_3_3,5_3_2,68:50
+4901,442,NetED,2240319,Roda JC,Willem II,2016-08-27,16:30:00,Good,Clear,20,-,4_2_3_1,4_4_2,83:06
+4898,439,NetED,2240320,PEC Zwolle,Heerenveen,2016-08-27,17:45:00,"Dry, Good","Cloud, Sun",25,Warm,4_3_3,4_4_2,85:47
+4899,440,NetED,2240320,PEC Zwolle,Heerenveen,2016-08-27,17:45:00,"Dry, Good","Cloud, Sun",25,Warm,4_3_3,4_2_3_1,45:00
+4900,441,NetED,2240321,Excelsior,Feyenoord,2016-08-27,17:45:00,"Excellent, Wet","Clear, Cloud",22,-,4_3_3,4_3_3,80:58
+4896,437,NetED,2240909,Sparta Rotterdam,Twente,2016-08-27,18:45:00,Good,Clear,20,-,4_2_3_1,3_4_3,78:16
+4897,438,NetED,2240909,Sparta Rotterdam,Twente,2016-08-27,18:45:00,Good,Clear,20,-,4_2_3_1,4_3_3,45:00
+4894,435,NetED,2240322,Groningen,PSV,2016-08-28,10:30:00,"Excellent, Soft","Clear, Sun",24,Hot,3_4_3,4_3_3,83:41
+4895,436,NetED,2240322,Groningen,PSV,2016-08-28,10:30:00,"Excellent, Soft","Clear, Sun",24,Hot,4_3_3,4_3_3,34:50
+4891,432,NetED,2240324,Ajax,Go Ahead Eagles,2016-08-28,12:30:00,Good,Cloud,21,-,4_3_3,4_3_3,74:44
+4892,433,NetED,2240323,Heracles,ADO Den Haag,2016-08-28,12:30:00,Artificial,Clear,17,-,4_3_3,4_3_3,85:01
+4893,434,NetED,2240323,Heracles,ADO Den Haag,2016-08-28,12:30:00,Artificial,Clear,17,-,3_4_3,4_3_3,86:47
+4890,431,NetED,2240325,NEC,AZ,2016-08-28,14:45:00,Good,Clear,18,-,4_3_3,4_3_3,87:07
+4887,428,NetED,2240326,Willem II,AZ,2016-09-10,16:30:00,Excellent,Cloud,21,-,4_2_3_1,4_3_3,77:48
+4888,429,NetED,2240326,Willem II,AZ,2016-09-10,16:30:00,Excellent,Cloud,21,-,4_3_3,4_3_3,83:36
+4889,430,NetED,2240333,Utrecht,PEC Zwolle,2016-09-10,16:30:00,"Average, Dry",Clear,19,Warm,4_2_3_1,4_1_2_1_2,89:58
+4886,427,NetED,2240327,PSV,NEC,2016-09-10,17:45:00,Good,Cloud,24,-,4_2_3_1,4_3_3,84:46
+4884,425,NetED,2240329,Heracles,Excelsior,2016-09-10,18:45:00,"Dry, Good",Clear,22,Warm,4_3_3,4_3_3,71:54
+4885,426,NetED,2240927,Twente,Heerenveen,2016-09-10,18:45:00,Excellent,Clear,18,Warm,4_3_3,4_4_2,82:41
+4883,424,NetED,2240330,ADO Den Haag,Feyenoord,2016-09-11,10:30:00,Excellent,"Clear, Sun",21,-,4_3_3,4_1_2_1_2,84:57
+4880,421,NetED,2240331,Sparta Rotterdam,Groningen,2016-09-11,12:30:00,Good,Cloud,20,-,4_3_3,4_3_3,69:22
+4881,422,NetED,2240332,Roda JC,Go Ahead Eagles,2016-09-11,12:30:00,Good,Cloud,19,-,4_3_3,4_2_3_1,78:58
+4882,423,NetED,2240332,Roda JC,Go Ahead Eagles,2016-09-11,12:30:00,Good,Cloud,19,-,4_3_3,4_3_1_2,70:06
+4876,417,NetED,2240328,Vitesse,Ajax,2016-09-11,14:45:00,Excellent,"Cloud, Sun",21,-,4_3_3,4_4_1_1,77:42
+4877,418,NetED,2240328,Vitesse,Ajax,2016-09-11,14:45:00,Excellent,"Cloud, Sun",21,-,4_3_3,4_3_3,66:13
+4878,419,NetED,2240328,Vitesse,Ajax,2016-09-11,14:45:00,Excellent,Cloud,21,-,4_3_3,4_4_1_1,77:42
+4879,420,NetED,2240328,Vitesse,Ajax,2016-09-11,14:45:00,Excellent,Cloud,21,-,4_3_3,4_3_3,66:13
+4875,416,NetED,2240334,Groningen,Utrecht,2016-09-16,18:00:00,Good,Clear,18,-,4_1_2_1_2,4_3_3,81:54
+4874,415,NetED,2240910,ADO Den Haag,Twente,2016-09-17,16:30:00,Good,"Clear, Cloud",15,-,4_3_3,4_3_3,69:29
+4871,412,NetED,2240335,Go Ahead Eagles,Vitesse,2016-09-17,17:45:00,"Dry, Good",Cloud,19,Warm,4_3_3,4_3_3,79:04
+4872,413,NetED,2240336,Heerenveen,Roda JC,2016-09-17,17:45:00,Excellent,Clear,17,Warm,4_4_1_1,4_3_3,70:51
+4873,414,NetED,2240336,Heerenveen,Roda JC,2016-09-17,17:45:00,Excellent,Clear,17,Warm,4_2_3_1,4_3_3,00:00
+4867,408,NetED,2240337,Excelsior,Willem II,2016-09-17,18:45:00,"Dry, Excellent, Soft",Clear,12,Warm,4_5_1,4_2_3_1,77:32
+4868,409,NetED,2240337,Excelsior,Willem II,2016-09-17,18:45:00,"Dry, Excellent, Soft",Clear,12,Warm,4_3_3,4_2_3_1,45:00
+4869,410,NetED,2240337,Excelsior,Willem II,2016-09-17,18:45:00,"Dry, Excellent, Soft",Clear,12,Warm,4_3_3,4_3_3,00:00
+4870,411,NetED,2240337,Excelsior,Willem II,2016-09-17,18:45:00,"Dry, Excellent, Soft",Clear,12,Warm,4_4_2,4_2_3_1,88:26
+4865,406,NetED,2240338,NEC,Sparta Rotterdam,2016-09-18,10:30:00,"Dry, Good","Cloud, Sun",20,Warm,4_3_3,4_3_3,72:19
+4866,407,NetED,2240338,NEC,Sparta Rotterdam,2016-09-18,10:30:00,"Dry, Good","Cloud, Sun",20,Warm,4_3_3,4_3_1_2,00:00
+4862,403,NetED,2240339,AZ,PEC Zwolle,2016-09-18,12:30:00,Excellent,Clear,17,Warm,4_2_3_1,4_2_3_1,77:58
+4863,404,NetED,2240340,Feyenoord,PSV,2016-09-18,12:30:00,Excellent,Clear,15,-,4_3_3,4_3_3,79:53
+4864,405,NetED,2240340,Feyenoord,PSV,2016-09-18,12:30:00,Excellent,Clear,15,-,3_4_3,4_3_3,84:21
+4861,402,NetED,2240341,Ajax,Heracles,2016-09-18,14:45:00,Artificial,"Clear, Sun",20,-,4_3_3,4_3_3,76:55
+4858,399,NetED,2240342,Heerenveen,ADO Den Haag,2016-09-24,16:30:00,Artificial,"Cloud, Sun",20,Warm,4_4_2,4_2_3_1,76:18
+4859,400,NetED,2240342,Heerenveen,ADO Den Haag,2016-09-24,16:30:00,Artificial,"Cloud, Sun",20,Warm,4_2_3_1,4_2_3_1,20:51
+4860,401,NetED,2240343,Heracles,Groningen,2016-09-24,16:30:00,Good,Clear,19,-,4_3_3,4_3_3,79:01
+4857,398,NetED,2240344,PEC Zwolle,Ajax,2016-09-24,17:45:00,Excellent,Clear,15,-,4_3_3,4_3_3,75:05
+4854,395,NetED,2240346,PSV,Excelsior,2016-09-24,18:45:00,"Excellent, Wet",Cloud,14,Cold,4_3_3,4_3_3,78:49
+4855,396,NetED,2240345,Go Ahead Eagles,AZ,2016-09-24,18:45:00,Good,Clear,17,Warm,4_3_3,4_2_2_2,81:18
+4856,397,NetED,2240345,Go Ahead Eagles,AZ,2016-09-24,18:45:00,Good,Clear,17,Warm,4_3_3,4_3_3,54:41
+4853,394,NetED,2240347,Willem II,NEC,2016-09-25,10:30:00,Good,Sun,22,-,4_3_3,4_3_3,86:25
+4850,391,NetED,2240911,Vitesse,Twente,2016-09-25,12:30:00,Good,Sun,20,-,4_3_3,4_3_3,70:33
+4851,392,NetED,2240911,Vitesse,Twente,2016-09-25,12:30:00,Good,Sun,20,-,5_3_2,4_3_3,86:31
+4852,393,NetED,2240348,Sparta Rotterdam,Utrecht,2016-09-25,12:30:00,Good,Sun,21,-,4_1_2_1_2,5_4_1,88:14
+4848,389,NetED,2240349,Roda JC,Feyenoord,2016-09-25,14:45:00,Good,Clear,17,-,4_3_3,4_3_3,75:56
+4849,390,NetED,2240349,Roda JC,Feyenoord,2016-09-25,14:45:00,Good,Rain,17,-,4_3_3,4_3_3,75:56
+4847,388,NetED,2240350,ADO Den Haag,PEC Zwolle,2016-09-30,18:00:00,Artificial,Clear,17,-,4_2_3_1,4_3_3,84:11
+4846,387,NetED,2240351,Groningen,Vitesse,2016-10-01,16:30:00,Good,,12,-,4_2_3_1,4_3_3,85:27
+4843,384,NetED,2240352,PSV,Heerenveen,2016-10-01,17:45:00,Good,Rain,18,-,4_3_3,4_3_3,78:55
+4844,385,NetED,2240352,PSV,Heerenveen,2016-10-01,17:45:00,Good,Clear,18,-,4_3_3,4_3_3,78:55
+4845,386,NetED,2240353,NEC,Roda JC,2016-10-01,17:45:00,Artificial,Clear,18,Warm,4_3_3,4_3_3,82:04
+4841,382,NetED,2240354,Excelsior,Go Ahead Eagles,2016-10-01,18:45:00,Average,Rain,18,-,4_3_3,4_3_3,81:03
+4842,383,NetED,2240354,Excelsior,Go Ahead Eagles,2016-10-01,18:45:00,Average,Clear,18,-,4_3_3,4_3_3,81:03
+4840,381,NetED,2240355,Utrecht,Ajax,2016-10-02,10:30:00,Excellent,Clear,18,-,4_3_3,4_1_2_1_2,85:55
+4836,377,NetED,2240356,Feyenoord,Willem II,2016-10-02,12:30:00,"Excellent, Wet","Cloud, Rain",14,-,4_2_3_1,4_2_3_1,72:09
+4837,378,NetED,2240356,Feyenoord,Willem II,2016-10-02,12:30:00,"Excellent, Wet","Cloud, Rain",14,-,4_2_3_1,4_1_4_1,00:00
+4838,379,NetED,2240356,Feyenoord,Willem II,2016-10-02,12:30:00,"Excellent, Wet","Cloud, Rain",14,-,4_1_4_1,4_2_3_1,85:37
+4839,380,NetED,2240928,Twente,Heracles,2016-10-02,12:30:00,Good,"Cloud, Light Rain, Sun",15,Warm,4_3_3,4_3_3,85:08
+4835,376,NetED,2240357,AZ,Sparta Rotterdam,2016-10-02,14:45:00,Good,Clear,17,-,4_3_3,4_3_3,92:30
+4832,373,NetED,2240358,Willem II,Sparta Rotterdam,2016-10-15,16:30:00,Good,Clear,12,-,4_3_3,4_1_4_1,76:04
+4833,374,NetED,2240358,Willem II,Sparta Rotterdam,2016-10-15,16:30:00,Good,Clear,12,-,4_3_3,5_4_1,88:35
+4834,375,NetED,2240359,Go Ahead Eagles,Utrecht,2016-10-15,16:30:00,"Excellent, Wet","Cloud, Sun",14,Cold,4_1_2_1_2,3_4_3,85:08
+4831,372,NetED,2240360,Heracles,PSV,2016-10-15,17:45:00,Good,Light Rain,10,-,4_3_3,4_5_1,90:02
+4829,370,NetED,2240362,Vitesse,AZ,2016-10-15,18:45:00,Good,Clear,11,-,4_3_3,4_3_3,82:16
+4830,371,NetED,2240365,Heerenveen,Groningen,2016-10-15,18:45:00,"Excellent, Wet",Cloud,12,Cold,4_4_2,4_3_3,80:30
+4828,369,NetED,2240912,PEC Zwolle,Twente,2016-10-16,10:30:00,"Excellent, Wet","Cloud, Sun",11,Cold,4_3_3,4_2_3_1,75:23
+4824,365,NetED,2240364,Feyenoord,NEC,2016-10-16,12:30:00,Excellent,Sun,14,-,4_3_3,3_4_1_2,83:16
+4825,366,NetED,2240364,Feyenoord,NEC,2016-10-16,12:30:00,Excellent,Sun,14,-,4_3_3,4_2_3_1,65:06
+4826,367,NetED,2240364,Feyenoord,NEC,2016-10-16,12:30:00,Excellent,Sun,14,-,4_3_3,4_4_2,92:26
+4827,368,NetED,2240363,Roda JC,Excelsior,2016-10-16,12:30:00,Average,"Clear, Sun",17,-,4_3_3,4_2_3_1,74:14
+4823,364,NetED,2240361,Ajax,ADO Den Haag,2016-10-16,14:45:00,Artificial,"Cloud, Sun",19,-,4_2_3_1,4_3_3,76:00
+4822,363,NetED,2240366,PEC Zwolle,Excelsior,2016-10-21,18:00:00,Artificial,Cloud,11,-,4_3_3,4_3_3,87:23
+4821,362,NetED,2240929,Twente,Go Ahead Eagles,2016-10-22,16:30:00,Good,Clear,11,-,4_3_3,4_3_3,93:00
+4819,360,NetED,2240368,ADO Den Haag,Roda JC,2016-10-22,17:45:00,Good,Cloud,6,-,4_2_3_1,4_3_3,72:43
+4820,361,NetED,2240367,Sparta Rotterdam,PSV,2016-10-22,17:45:00,Excellent,Clear,13,-,4_3_3,4_3_3,83:53
+4817,358,NetED,2240369,Utrecht,Willem II,2016-10-22,18:45:00,"Good, Wet",Cloud,3,Freezing,4_4_2,4_3_1_2,70:08
+4818,359,NetED,2240369,Utrecht,Willem II,2016-10-22,18:45:00,"Good, Wet",Cloud,3,Freezing,4_3_3,4_3_1_2,00:00
+4816,357,NetED,2240370,Vitesse,NEC,2016-10-23,10:30:00,Good,Sun,11,-,4_3_3,4_3_3,78:05
+4812,353,NetED,2240371,Ajax,Feyenoord,2016-10-23,12:30:00,Excellent,Sun,15,-,4_3_3,4_3_3,78:24
+4813,354,NetED,2240372,AZ,Groningen,2016-10-23,12:30:00,Good,"Cloud, Sun",10,-,4_4_2,3_4_3,79:44
+4814,355,NetED,2240372,AZ,Groningen,2016-10-23,12:30:00,Good,"Cloud, Sun",10,-,4_4_2,4_2_3_1,45:00
+4815,356,NetED,2240372,AZ,Groningen,2016-10-23,12:30:00,Good,"Cloud, Sun",10,-,4_4_2,4_3_3,00:00
+4811,352,NetED,2240373,Heracles,Heerenveen,2016-10-23,14:45:00,Good,"Cloud, Sun",9,Cold,4_3_3,4_3_3,82:43
+4810,351,NetED,2240913,Roda JC,Twente,2016-10-28,18:00:00,Good,Clear,12,-,4_3_3,4_3_3,80:50
+4809,350,NetED,2240374,Groningen,Willem II,2016-10-29,16:30:00,Good,Cloud,10,-,4_3_3,4_4_2,70:37
+4806,347,NetED,2240376,PSV,Vitesse,2016-10-29,17:45:00,Good,Cloud,9,Cold,4_2_2_2,4_3_3,80:51
+4807,348,NetED,2240376,PSV,Vitesse,2016-10-29,17:45:00,Good,Cloud,9,Cold,4_3_3,4_3_3,71:07
+4808,349,NetED,2240375,Sparta Rotterdam,Heracles,2016-10-29,17:45:00,Artificial,Clear,10,-,4_3_3,4_3_3,72:38
+4805,346,NetED,2240377,Excelsior,Ajax,2016-10-29,18:45:00,Good,Cloud,11,-,4_3_3,4_3_3,74:30
+4803,344,NetED,2240378,Go Ahead Eagles,PEC Zwolle,2016-10-30,11:30:00,Good,Cloud,12,-,4_3_3,4_2_3_1,84:00
+4804,345,NetED,2240378,Go Ahead Eagles,PEC Zwolle,2016-10-30,11:30:00,Good,Cloud,12,-,4_2_3_1,4_2_3_1,00:00
+4800,341,NetED,2240379,Heerenveen,Feyenoord,2016-10-30,13:30:00,Excellent,"Cloud, Sun",15,-,4_2_3_1,4_3_3,75:04
+4801,342,NetED,2240380,NEC,Utrecht,2016-10-30,13:30:00,"Excellent, Wet",Cloud,10,Cold,4_1_2_1_2,4_1_2_1_2,87:24
+4802,343,NetED,2240380,NEC,Utrecht,2016-10-30,13:30:00,"Excellent, Wet",Cloud,10,Cold,4_1_2_1_2,4_3_3,00:00
+4799,340,NetED,2240381,AZ,ADO Den Haag,2016-10-30,15:45:00,Artificial,Cloud,11,-,4_3_3,4_3_3,86:31
+4798,339,NetED,2240382,Heerenveen,Sparta Rotterdam,2016-11-04,19:00:00,Good,"Cloud, Rain",8,-,4_3_3,4_3_3,88:15
+4795,336,NetED,2240385,Willem II,ADO Den Haag,2016-11-05,17:30:00,Artificial,,10,-,4_1_2_1_2,4_3_3,80:57
+4796,337,NetED,2240385,Willem II,ADO Den Haag,2016-11-05,17:30:00,Artificial,Rain,10,-,4_1_2_1_2,4_3_3,80:57
+4797,338,NetED,2240385,Willem II,ADO Den Haag,2016-11-05,17:30:00,Artificial,Clear,10,-,4_1_2_1_2,4_3_3,80:57
+4790,331,NetED,2240384,Groningen,NEC,2016-11-05,18:45:00,Average,Cloud,11,-,3_4_3,4_4_2,81:22
+4791,332,NetED,2240384,Groningen,NEC,2016-11-05,18:45:00,Average,Cloud,11,-,4_1_2_1_2,4_4_2,00:00
+4792,333,NetED,2240384,Groningen,NEC,2016-11-05,18:45:00,Average,Cloud,11,-,4_1_2_1_2,4_3_3,70:12
+4793,334,NetED,2240930,Twente,PSV,2016-11-05,18:45:00,Excellent,Clear,10,-,4_3_3,5_3_2,83:30
+4794,335,NetED,2240930,Twente,PSV,2016-11-05,18:45:00,Excellent,Clear,10,-,4_3_3,4_4_2,74:01
+4788,329,NetED,2240383,Roda JC,PEC Zwolle,2016-11-05,19:45:00,"Good, Wet","Cloud, Light Wind, Rain",7,Cold,4_2_3_1,4_2_3_1,89:25
+4789,330,NetED,2240383,Roda JC,PEC Zwolle,2016-11-05,19:45:00,"Good, Wet","Cloud, Light Wind, Rain",7,Cold,4_2_3_1,4_4_1_1,83:17
+4786,327,NetED,2240386,Excelsior,Utrecht,2016-11-06,11:30:00,Good,Cloud,6,Cold,4_1_2_1_2,4_3_3,82:01
+4787,328,NetED,2240386,Excelsior,Utrecht,2016-11-06,11:30:00,Good,"Cloud, Rain, Sun",6,Cold,4_1_2_1_2,4_3_3,82:01
+4782,323,NetED,2240387,Ajax,AZ,2016-11-06,13:30:00,"Excellent, Wet","Cloud, Rain",10,Cold,4_4_2,4_3_3,83:05
+4783,324,NetED,2240387,Ajax,AZ,2016-11-06,13:30:00,"Excellent, Wet","Cloud, Rain",10,Cold,4_3_3,4_3_3,59:58
+4784,325,NetED,2240388,Heracles,Vitesse,2016-11-06,13:30:00,Good,"Cloud, Sun",8,Cold,4_3_3,4_3_3,60:56
+4785,326,NetED,2240388,Heracles,Vitesse,2016-11-06,13:30:00,Good,"Cloud, Sun",8,Cold,4_2_2_2,4_3_3,77:02
+4781,322,NetED,2240389,Feyenoord,Go Ahead Eagles,2016-11-06,15:45:00,Good,Clear,10,-,4_3_3,4_3_3,84:35
+4779,320,NetED,2240390,Vitesse,Heerenveen,2016-11-19,17:30:00,Good,Clear,9,-,4_3_3,4_3_3,86:48
+4780,321,NetED,2240391,Go Ahead Eagles,Heracles,2016-11-19,17:30:00,Artificial,Clear,10,-,4_3_3,4_3_3,87:00
+4777,318,NetED,2240392,PSV,Willem II,2016-11-19,18:45:00,Good,Cloud,6,Cold,4_4_1_1,4_3_3,81:28
+4778,319,NetED,2240392,PSV,Willem II,2016-11-19,18:45:00,Good,Cloud,6,Cold,4_1_4_1,4_3_3,08:43
+4773,314,NetED,2240396,ADO Den Haag,Groningen,2016-11-19,19:45:00,Excellent,Clear,3,Cold,4_4_2,4_3_3,81:26
+4774,315,NetED,2240396,ADO Den Haag,Groningen,2016-11-19,19:45:00,Excellent,Clear,3,Cold,4_1_4_1,4_3_3,90:58
+4775,316,NetED,2240394,Sparta Rotterdam,Excelsior,2016-11-19,19:45:00,Artificial,"Cloud, Wind",5,-,4_3_3,3_4_3,80:22
+4776,317,NetED,2240394,Sparta Rotterdam,Excelsior,2016-11-19,19:45:00,Artificial,"Cloud, Wind",5,-,4_3_3,4_3_3,00:00
+4772,313,NetED,2240395,AZ,Roda JC,2016-11-20,11:30:00,"Excellent, Wet","Cloud, Sun",11,Cold,4_4_1_1,4_3_3,79:53
+4770,311,NetED,2240393,NEC,Ajax,2016-11-20,13:30:00,Excellent,Clear,12,-,4_3_3,4_3_3,78:35
+4771,312,NetED,2240914,Utrecht,Twente,2016-11-20,13:30:00,Good,Clear,12,-,4_3_3,4_1_2_1_2,89:28
+4768,309,NetED,2240397,PEC Zwolle,Feyenoord,2016-11-20,15:45:00,"Excellent, Wet",Cloud,9,Cold,4_3_3,4_4_2,78:35
+4769,310,NetED,2240397,PEC Zwolle,Feyenoord,2016-11-20,15:45:00,"Excellent, Wet",Cloud,9,Cold,4_3_3,5_4_1,00:00
+4766,307,NetED,2240398,Willem II,Go Ahead Eagles,2016-11-25,19:00:00,Good,Clear,5,Cold,4_3_3,4_3_3,80:14
+4767,308,NetED,2240398,Willem II,Go Ahead Eagles,2016-11-25,19:00:00,Good,Clear,5,Cold,4_4_2,4_3_3,82:21
+4765,306,NetED,2240399,Excelsior,Vitesse,2016-11-26,17:30:00,Excellent,Cloud,1,Cold,4_3_3,4_3_3,82:39
+4763,304,NetED,2240400,ADO Den Haag,PSV,2016-11-26,18:45:00,Excellent,Clear,5,-,4_3_3,4_4_2,84:30
+4764,305,NetED,2240401,Groningen,PEC Zwolle,2016-11-26,18:45:00,Excellent,Clear,4,Cold,4_2_3_1,4_4_2,77:17
+4762,303,NetED,2240933,Twente,NEC,2016-11-26,19:45:00,Good,Cloud,1,Cold,4_3_3,4_3_3,71:15
+4760,301,NetED,2240402,Roda JC,Sparta Rotterdam,2016-11-27,11:30:00,Good,"Clear, Sun",8,-,4_3_3,4_5_1,83:35
+4761,302,NetED,2240402,Roda JC,Sparta Rotterdam,2016-11-27,11:30:00,Good,Rain,8,-,4_3_3,4_5_1,83:35
+4754,295,NetED,2240404,Ajax,Heerenveen,2016-11-27,13:30:00,Good,Sun,17,Warm,4_4_2,4_3_3,88:43
+4755,296,NetED,2240404,Ajax,Heerenveen,2016-11-27,13:30:00,Good,Sun,17,Warm,4_2_3_1,4_3_3,65:32
+4756,297,NetED,2240403,Heracles,AZ,2016-11-27,13:30:00,Average,Sun,17,Warm,4_2_3_1,4_4_2,78:43
+4757,298,NetED,2240403,Heracles,AZ,2016-11-27,13:30:00,Average,Sun,17,Warm,4_2_3_1,4_1_2_1_2,59:52
+4758,299,NetED,2240403,Heracles,AZ,2016-11-27,13:30:00,Average,Sun,17,Warm,4_2_3_1,4_2_3_1,00:00
+4759,300,NetED,2240403,Heracles,AZ,2016-11-27,13:30:00,Average,Sun,17,Warm,4_2_3_1,4_3_3,68:54
+4753,294,NetED,2240405,Feyenoord,Utrecht,2016-11-27,15:45:00,Good,Clear,8,-,4_3_1_2,4_3_3,92:14
+4752,293,NetED,2240406,NEC,Heracles,2016-12-02,19:00:00,Artificial,Cloud,1,Cold,4_3_3,4_3_2_1,79:12
+4751,292,NetED,2240407,Heerenveen,Go Ahead Eagles,2016-12-03,17:30:00,Good,Clear,1,-,4_3_3,4_3_3,85:38
+4749,290,NetED,2240408,AZ,Excelsior,2016-12-03,18:45:00,Artificial,Clear,3,-,4_3_3,4_3_3,87:20
+4750,291,NetED,2240409,PSV,Roda JC,2016-12-03,18:45:00,"Excellent, Wet",Clear,0,Freezing,4_2_3_1,4_2_3_1,88:12
+4748,289,NetED,2240413,PEC Zwolle,Vitesse,2016-12-03,19:45:00,Good,Cloud,7,Cold,4_3_3,4_2_3_1,88:39
+4747,288,NetED,2240411,Utrecht,ADO Den Haag,2016-12-04,11:30:00,Artificial,Cloud,8,-,4_1_2_1_2,4_1_2_1_2,83:03
+4745,286,NetED,2240936,Twente,Willem II,2016-12-04,13:30:00,"Dry, Good","Clear, Sun",3,Cold,4_3_3,4_3_3,64:33
+4746,287,NetED,2240412,Sparta Rotterdam,Feyenoord,2016-12-04,13:30:00,"Excellent, Wet",Sun,4,Freezing,4_3_3,4_3_3,75:15
+4744,285,NetED,2240410,Groningen,Ajax,2016-12-04,15:45:00,Good,"Clear, Cloud",8,-,4_3_3,4_4_2,81:21
+4743,284,NetED,2240414,Roda JC,Groningen,2016-12-09,19:00:00,Good,Clear,5,-,4_4_2,4_5_1,75:49
+4741,282,NetED,2240415,ADO Den Haag,NEC,2016-12-10,17:30:00,Good,Cloud,8,Cold,4_3_3,4_4_2,80:42
+4742,283,NetED,2240415,ADO Den Haag,NEC,2016-12-10,17:30:00,Good,Cloud,8,Cold,4_3_3,4_3_3,34:50
+4738,279,NetED,2240417,Excelsior,Heerenveen,2016-12-10,18:45:00,Good,,8,-,4_3_3,4_3_3,84:15
+4739,280,NetED,2240417,Excelsior,Heerenveen,2016-12-10,18:45:00,Good,Clear,8,-,4_3_3,4_3_3,84:15
+4740,281,NetED,2240416,Go Ahead Eagles,PSV,2016-12-10,18:45:00,"Dry, Good",Clear,9,Cold,4_3_3,4_3_3,82:10
+4736,277,NetED,2240418,Willem II,PEC Zwolle,2016-12-10,19:45:00,Artificial,Cloud,5,-,4_2_3_1,4_3_3,74:41
+4737,278,NetED,2240418,Willem II,PEC Zwolle,2016-12-10,19:45:00,Artificial,,5,-,4_2_3_1,4_3_3,74:41
+4734,275,NetED,2240419,Vitesse,Sparta Rotterdam,2016-12-11,11:30:00,Good,Sun,13,Warm,4_2_3_1,4_1_2_1_2,78:34
+4735,276,NetED,2240419,Vitesse,Sparta Rotterdam,2016-12-11,11:30:00,Good,Sun,13,Warm,4_2_3_1,4_3_3,61:55
+4730,271,NetED,2240420,Feyenoord,AZ,2016-12-11,13:30:00,"Good, Patchy","Cloud, Light Wind",8,Cold,4_3_3,4_3_3,75:24
+4731,272,NetED,2240421,Heracles,Utrecht,2016-12-11,13:30:00,Good,"Cloud, Sun",9,Cold,4_1_2_1_2,4_2_2_2,87:35
+4732,273,NetED,2240421,Heracles,Utrecht,2016-12-11,13:30:00,Good,"Cloud, Sun",9,Cold,4_1_2_1_2,4_3_3,66:59
+4733,274,NetED,2240421,Heracles,Utrecht,2016-12-11,13:30:00,Good,"Cloud, Sun",9,Cold,4_1_2_1_2,5_3_2,20:55
+4729,270,NetED,2240915,Ajax,Twente,2016-12-11,15:45:00,Good,Cloud,9,Cold,4_2_3_1,4_3_3,81:34
+4728,269,NetED,2240422,Heerenveen,Willem II,2016-12-16,19:00:00,Good,Clear,5,-,4_3_3,4_3_3,84:55
+4727,268,NetED,2240423,Utrecht,Roda JC,2016-12-17,17:30:00,Artificial,Cloud,6,-,4_2_3_1,4_1_2_1_2,87:25
+4726,267,NetED,2240424,Vitesse,Feyenoord,2016-12-17,18:45:00,Good,Cloud,5,-,4_3_3,4_3_3,82:04
+4725,266,NetED,2240916,AZ,Twente,2016-12-17,19:45:00,"Dry, Good","Cloud, Rain",7,Cold,4_3_3,4_3_3,81:26
+4723,264,NetED,2240427,NEC,Excelsior,2016-12-18,11:30:00,Artificial,Sun,13,Warm,4_2_3_1,4_4_2,82:08
+4724,265,NetED,2240427,NEC,Excelsior,2016-12-18,11:30:00,Artificial,Sun,13,Warm,4_2_3_1,4_2_3_1,59:13
+4715,256,NetED,2240428,Go Ahead Eagles,Groningen,2016-12-18,13:30:00,Average,Cloud,11,Cold,4_4_2,4_1_4_1,81:06
+4716,257,NetED,2240428,Go Ahead Eagles,Groningen,2016-12-18,13:30:00,Average,Cloud,11,Cold,4_4_2,4_3_3,00:00
+4717,258,NetED,2240425,Sparta Rotterdam,ADO Den Haag,2016-12-18,13:30:00,Artificial,Cloud,9,-,4_4_1_1,4_2_3_1,81:45
+4718,259,NetED,2240425,Sparta Rotterdam,ADO Den Haag,2016-12-18,13:30:00,Artificial,Cloud,9,-,4_3_3,4_2_3_1,71:00
+4719,260,NetED,2240425,Sparta Rotterdam,ADO Den Haag,2016-12-18,13:30:00,Artificial,Cloud,9,-,4_4_1_1,4_4_2,82:06
+4720,261,NetED,2240426,PEC Zwolle,Heracles,2016-12-18,13:30:00,"Artificial, Good",Cloud,7,Cold,3_5_2,4_4_1_1,66:16
+4721,262,NetED,2240426,PEC Zwolle,Heracles,2016-12-18,13:30:00,"Artificial, Good",Cloud,7,Cold,4_3_3,4_4_1_1,59:56
+4722,263,NetED,2240426,PEC Zwolle,Heracles,2016-12-18,13:30:00,"Artificial, Good",Cloud,7,Cold,4_3_3,4_2_3_1,15:23
+4714,255,NetED,2240429,PSV,Ajax,2016-12-18,15:45:00,Good,Clear,7,-,4_3_3,4_3_3,69:40
+4712,253,NetED,2240430,AZ,Go Ahead Eagles,2017-01-13,19:00:00,Average,"Clear, Cloud",3,Cold,4_3_3,4_3_3,78:50
+4713,254,NetED,2240430,AZ,Go Ahead Eagles,2017-01-13,19:00:00,Uneven,"Clear, Cloud",3,Cold,4_3_3,4_3_3,78:50
+4704,245,NetED,2240431,ADO Den Haag,Heerenveen,2017-01-14,17:30:00,Average,Snow,5,-,4_3_3,5_3_2,86:55
+4705,246,NetED,2240431,ADO Den Haag,Heerenveen,2017-01-14,17:30:00,Average,Cloud,5,-,4_3_3,5_3_2,86:55
+4706,247,NetED,2240431,ADO Den Haag,Heerenveen,2017-01-14,17:30:00,Average,,5,-,4_3_3,5_3_2,86:55
+4707,248,NetED,2240431,ADO Den Haag,Heerenveen,2017-01-14,17:30:00,Average,Cloud,5,-,4_3_3,5_3_2,86:55
+4708,249,NetED,2240431,ADO Den Haag,Heerenveen,2017-01-14,17:30:00,Good,Snow,5,-,4_3_3,5_3_2,86:55
+4709,250,NetED,2240431,ADO Den Haag,Heerenveen,2017-01-14,17:30:00,Good,Cloud,5,-,4_3_3,5_3_2,86:55
+4710,251,NetED,2240431,ADO Den Haag,Heerenveen,2017-01-14,17:30:00,Good,,5,-,4_3_3,5_3_2,86:55
+4711,252,NetED,2240431,ADO Den Haag,Heerenveen,2017-01-14,17:30:00,Good,Cloud,5,-,4_3_3,5_3_2,86:55
+4697,238,NetED,2240433,Excelsior,PSV,2017-01-14,18:45:00,"Good, Wet","Light Snow, Wind",1,Freezing,4_3_3,4_3_3,84:41
+4698,239,NetED,2240433,Excelsior,PSV,2017-01-14,18:45:00,"Good, Wet",,1,Freezing,4_3_3,4_3_3,84:41
+4699,240,NetED,2240433,Excelsior,PSV,2017-01-14,18:45:00,Wet,"Light Snow, Wind",1,Freezing,4_3_3,4_3_3,84:41
+4700,241,NetED,2240433,Excelsior,PSV,2017-01-14,18:45:00,Wet,,1,Freezing,4_3_3,4_3_3,84:41
+4701,242,NetED,2240432,Groningen,Heracles,2017-01-14,18:45:00,Artificial,"Cloud, Wind",-1,Freezing,4_3_3,4_4_2,77:47
+4702,243,NetED,2240432,Groningen,Heracles,2017-01-14,18:45:00,Artificial,Light Snow,-1,Freezing,4_3_3,4_4_2,77:47
+4703,244,NetED,2240432,Groningen,Heracles,2017-01-14,18:45:00,Artificial,Snow,-1,Freezing,4_3_3,4_4_2,77:47
+4695,236,NetED,2240434,Utrecht,Sparta Rotterdam,2017-01-14,19:45:00,Good,Wind,3,Cold,4_3_3,4_1_2_1_2,78:25
+4696,237,NetED,2240434,Utrecht,Sparta Rotterdam,2017-01-14,19:45:00,Good,,3,Cold,4_3_3,4_1_2_1_2,78:25
+4692,233,NetED,2240435,Feyenoord,Roda JC,2017-01-15,11:30:00,Artificial,"Cloud, Sun",7,Cold,4_3_1_2,4_3_3,87:32
+4693,234,NetED,2240435,Feyenoord,Roda JC,2017-01-15,11:30:00,Artificial,"Cloud, Sun",7,Cold,4_2_3_1,4_3_3,75:02
+4694,235,NetED,2240435,Feyenoord,Roda JC,2017-01-15,11:30:00,Artificial,"Cloud, Sun",7,Cold,4_2_3_1,4_2_3_1,65:38
+4690,231,NetED,2240436,Ajax,PEC Zwolle,2017-01-15,13:30:00,Good,"Cloud, Sun",3,Cold,4_3_3,4_3_3,81:29
+4691,232,NetED,2240938,Twente,Vitesse,2017-01-15,13:30:00,Good,Clear,7,-,4_3_3,4_3_3,84:34
+4688,229,NetED,2240437,NEC,Willem II,2017-01-15,15:45:00,Average,Cloud,5,Cold,4_2_3_1,4_2_3_1,80:21
+4689,230,NetED,2240437,NEC,Willem II,2017-01-15,15:45:00,Average,Cloud,5,Cold,4_2_3_1,5_4_1,90:45
+4686,227,NetED,2240917,Heracles,Twente,2017-01-20,19:00:00,Good,Cloud,1,Freezing,4_3_3,4_2_2_2,82:01
+4687,228,NetED,2240917,Heracles,Twente,2017-01-20,19:00:00,Good,Cloud,1,Freezing,4_3_3,4_3_3,45:00
+4685,226,NetED,2240438,Sparta Rotterdam,AZ,2017-01-21,17:30:00,Good,Clear,3,-,4_3_3,4_3_3,78:58
+4683,224,NetED,2240440,Willem II,Feyenoord,2017-01-21,18:45:00,Good,Clear,2,Cold,4_3_3,4_3_3,81:12
+4684,225,NetED,2240439,PEC Zwolle,ADO Den Haag,2017-01-21,18:45:00,Artificial,Clear,5,-,4_3_3,4_3_3,81:42
+4682,223,NetED,2240441,Vitesse,Groningen,2017-01-21,19:45:00,"Good, Soft","Clear, Light Wind",-1,Freezing,4_4_2,4_3_3,83:45
+4681,222,NetED,2240442,Ajax,Utrecht,2017-01-22,11:30:00,Excellent,Sun,1,Freezing,4_1_2_1_2,4_3_3,85:49
+4678,219,NetED,2240443,Go Ahead Eagles,Excelsior,2017-01-22,13:30:00,"Artificial, Good","Cloud, Sun",3,Cold,4_3_3,4_3_3,83:19
+4679,220,NetED,2240444,Roda JC,NEC,2017-01-22,13:30:00,Good,"Clear, Sun",0,Freezing,4_5_1,4_2_3_1,76:47
+4680,221,NetED,2240444,Roda JC,NEC,2017-01-22,13:30:00,Good,"Clear, Sun",0,Freezing,4_3_3,4_2_3_1,72:01
+4677,218,NetED,2240445,Heerenveen,PSV,2017-01-22,15:45:00,Average,Cloud,2,Cold,4_3_3,4_3_3,81:18
+4676,217,NetED,2240446,Sparta Rotterdam,Willem II,2017-01-27,19:00:00,"Good, Soft",Cloud,5,Cold,4_2_3_1,4_2_3_1,86:24
+4675,216,NetED,2240447,Utrecht,Go Ahead Eagles,2017-01-28,17:30:00,Good,Cloud,7,-,4_3_3,4_1_2_1_2,83:52
+4672,213,NetED,2240448,PSV,Heracles,2017-01-28,18:45:00,"Artificial, Good",Cloud,6,Cold,4_2_2_2,4_3_3,78:04
+4673,214,NetED,2240448,PSV,Heracles,2017-01-28,18:45:00,"Artificial, Good",Cloud,6,Cold,4_3_3,4_3_3,60:22
+4674,215,NetED,2240449,Excelsior,Roda JC,2017-01-28,18:45:00,Artificial,Clear,4,Cold,4_3_3,4_3_3,67:44
+4671,212,NetED,2240451,Groningen,Heerenveen,2017-01-29,11:30:00,Wet,Cloud,4,-,4_3_3,4_4_2,69:39
+4666,207,NetED,2240450,AZ,Vitesse,2017-01-29,13:30:00,Good,Closed Roof,10,-,4_3_3,4_3_3,70:04
+4667,208,NetED,2240940,Twente,PEC Zwolle,2017-01-29,13:30:00,"Artificial, Good","Cloud, Sun",6,Cold,4_3_3,4_4_1_1,70:47
+4668,209,NetED,2240940,Twente,PEC Zwolle,2017-01-29,13:30:00,"Artificial, Good","Cloud, Sun",6,Cold,4_3_3,4_3_3,57:01
+4669,210,NetED,2240940,Twente,PEC Zwolle,2017-01-29,13:30:00,"Artificial, Good","Cloud, Sun",6,Cold,4_3_3,5_3_2,81:20
+4670,211,NetED,2240452,ADO Den Haag,Ajax,2017-01-29,13:30:00,Excellent,Cloud,6,-,4_3_3,4_2_3_1,86:16
+4664,205,NetED,2240453,NEC,Feyenoord,2017-01-29,15:45:00,Good,"Cloud, Sun",5,Cold,4_3_3,3_4_3,80:05
+4665,206,NetED,2240453,NEC,Feyenoord,2017-01-29,15:45:00,Good,"Cloud, Sun",5,Cold,4_3_3,4_3_3,64:19
+4663,204,NetED,2240454,Vitesse,ADO Den Haag,2017-02-03,19:00:00,Excellent,Clear,7,Cold,4_3_3,4_3_3,76:56
+4661,202,NetED,2240455,Go Ahead Eagles,NEC,2017-02-04,17:30:00,Good,Clear,12,-,4_4_2,4_3_3,83:25
+4662,203,NetED,2240455,Go Ahead Eagles,NEC,2017-02-04,17:30:00,Good,Clear,12,-,4_3_3,4_3_3,00:00
+4659,200,NetED,2240457,Heracles,Willem II,2017-02-04,18:45:00,"Dry, Good",Clear,7,Cold,4_4_2,4_3_3,80:55
+4660,201,NetED,2240456,PSV,AZ,2017-02-04,18:45:00,Good,Cloud,4,Cold,4_3_3,4_3_3,83:35
+4658,199,NetED,2240458,Excelsior,Groningen,2017-02-04,19:45:00,Average,Clear,5,-,4_4_2,4_3_3,76:07
+4657,198,NetED,2240459,Ajax,Roda JC,2017-02-05,11:30:00,Artificial,"Cloud, Sun",8,-,4_2_3_1,4_3_3,80:13
+4654,195,NetED,2240918,Feyenoord,Twente,2017-02-05,13:30:00,"Excellent, Good",Sun,15,-,4_3_3,4_3_3,75:43
+4655,196,NetED,2240460,PEC Zwolle,Sparta Rotterdam,2017-02-05,13:30:00,"Artificial, Good","Cloud, Sun",5,Cold,3_4_3,4_2_3_1,81:18
+4656,197,NetED,2240460,PEC Zwolle,Sparta Rotterdam,2017-02-05,13:30:00,"Artificial, Good","Cloud, Sun",5,Cold,4_3_3,4_2_3_1,68:59
+4653,194,NetED,2240461,Heerenveen,Utrecht,2017-02-05,15:45:00,Good,Cloud,5,Cold,4_1_2_1_2,4_3_3,86:33
+4652,193,NetED,2240462,NEC,PEC Zwolle,2017-02-10,19:00:00,Artificial,Clear,-1,Freezing,4_2_3_1,4_3_3,79:20
+4651,192,NetED,2240463,Roda JC,Heracles,2017-02-11,17:30:00,Artificial,Clear,-3,-,4_3_3,4_2_3_1,84:22
+4646,187,NetED,2240465,Groningen,Feyenoord,2017-02-11,18:45:00,"Excellent, Soft",Cloud,0,Freezing,4_3_3,5_3_2,79:58
+4647,188,NetED,2240465,Groningen,Feyenoord,2017-02-11,18:45:00,"Excellent, Soft",Cloud,0,Freezing,4_3_3,5_4_1,56:01
+4648,189,NetED,2240465,Groningen,Feyenoord,2017-02-11,18:45:00,"Excellent, Soft","Cloud, Wind",0,Freezing,4_3_3,5_3_2,79:58
+4649,190,NetED,2240465,Groningen,Feyenoord,2017-02-11,18:45:00,"Excellent, Soft","Cloud, Wind",0,Freezing,4_3_3,5_4_1,56:01
+4650,191,NetED,2240464,ADO Den Haag,Go Ahead Eagles,2017-02-11,18:45:00,Average,"Cloud, Light Snow",0,Freezing,4_3_3,4_3_3,88:15
+4644,185,NetED,2240466,Willem II,Vitesse,2017-02-11,19:45:00,Good,"Clear, Sun",0,Freezing,4_3_3,4_4_2,86:36
+4645,186,NetED,2240466,Willem II,Vitesse,2017-02-11,19:45:00,Good,"Clear, Sun",0,Freezing,4_3_3,5_4_1,89:51
+4643,184,NetED,2240941,Twente,Excelsior,2017-02-12,11:30:00,Good,"Cloud, Sun",1,Freezing,4_3_3,4_3_3,76:24
+4640,181,NetED,2240468,AZ,Heerenveen,2017-02-12,13:30:00,Good,Clear,2,Cold,4_3_3,4_3_3,92:57
+4641,182,NetED,2240467,Sparta Rotterdam,Ajax,2017-02-12,13:30:00,Excellent,Cloud,1,-,4_3_3,4_2_3_1,84:45
+4642,183,NetED,2240467,Sparta Rotterdam,Ajax,2017-02-12,13:30:00,Excellent,Cloud,1,-,4_3_3,4_3_3,45:00
+4639,180,NetED,2240469,Utrecht,PSV,2017-02-12,15:45:00,"Excellent, Wet",Cloud,7,Cold,4_3_3,4_1_2_1_2,87:17
+4636,177,NetED,2240470,Go Ahead Eagles,Roda JC,2017-02-17,19:00:00,Artificial,Cloud,5,Cold,4_2_3_1,3_5_2,84:52
+4637,178,NetED,2240470,Go Ahead Eagles,Roda JC,2017-02-17,19:00:00,Artificial,Cloud,5,Cold,4_2_3_1,4_3_3,79:49
+4638,179,NetED,2240470,Go Ahead Eagles,Roda JC,2017-02-17,19:00:00,Artificial,Cloud,5,Cold,5_4_1,3_5_2,86:46
+4635,176,NetED,2240919,Heerenveen,Twente,2017-02-18,17:30:00,Good,Clear,5,-,4_3_3,4_3_3,80:26
+4631,172,NetED,2240472,NEC,PSV,2017-02-18,18:45:00,Good,Cloud,7,Cold,4_3_3,5_3_2,80:11
+4632,173,NetED,2240474,Excelsior,Heracles,2017-02-18,18:45:00,"Artificial, Excellent","Cloud, Light Rain",5,Cold,4_3_3,4_4_1_1,78:40
+4633,174,NetED,2240474,Excelsior,Heracles,2017-02-18,18:45:00,"Artificial, Excellent","Cloud, Light Rain",5,Cold,4_3_3,5_4_1,45:00
+4634,175,NetED,2240474,Excelsior,Heracles,2017-02-18,18:45:00,"Artificial, Excellent","Cloud, Light Rain",5,Cold,4_3_3,4_3_3,00:00
+4630,171,NetED,2240473,PEC Zwolle,Utrecht,2017-02-18,19:45:00,"Good, Wet",Cloud,5,Cold,4_1_2_1_2,4_2_3_1,86:15
+4629,170,NetED,2240471,AZ,Willem II,2017-02-19,11:30:00,Good,Cloud,7,-,4_4_2,4_2_3_1,75:53
+4625,166,NetED,2240475,Ajax,Vitesse,2017-02-19,13:30:00,Excellent,Clear,5,-,4_3_3,4_3_3,83:48
+4626,167,NetED,2240476,Groningen,Sparta Rotterdam,2017-02-19,13:30:00,"Artificial, Good",Cloud,8,Cold,4_4_2,4_4_2,72:38
+4627,168,NetED,2240476,Groningen,Sparta Rotterdam,2017-02-19,13:30:00,"Artificial, Good",Cloud,8,Cold,4_3_3,4_4_2,61:13
+4628,169,NetED,2240476,Groningen,Sparta Rotterdam,2017-02-19,13:30:00,"Artificial, Good",Cloud,8,Cold,4_4_2,5_4_1,79:33
+4624,165,NetED,2240477,Feyenoord,ADO Den Haag,2017-02-19,15:45:00,"Artificial, Good","Cloud, Sun",8,Cold,4_3_3,4_3_3,81:04
+4623,164,NetED,2240942,Twente,ADO Den Haag,2017-02-24,19:00:00,Artificial,Clear,7,Cold,4_3_3,4_3_3,81:55
+4622,163,NetED,2240478,Utrecht,Groningen,2017-02-25,17:30:00,Good,Clear,5,Cold,4_4_2,4_1_2_1_2,86:26
+4620,161,NetED,2240480,Willem II,Excelsior,2017-02-25,18:45:00,Artificial,Clear,8,Cold,4_2_3_1,4_4_2,90:20
+4621,162,NetED,2240484,Sparta Rotterdam,NEC,2017-02-25,18:45:00,Average,Clear,5,Cold,3_5_2,4_3_3,45:00
+4616,157,NetED,2240481,Roda JC,Heerenveen,2017-02-25,19:45:00,"Good, Wet",,2,Freezing,4_4_2,4_2_3_1,76:44
+4617,158,NetED,2240481,Roda JC,Heerenveen,2017-02-25,19:45:00,"Good, Wet",,2,Freezing,4_3_3,4_2_3_1,56:19
+4618,159,NetED,2240481,Roda JC,Heerenveen,2017-02-25,19:45:00,"Good, Wet","Cloud, Rain, Wind",2,Freezing,4_4_2,4_2_3_1,76:44
+4619,160,NetED,2240481,Roda JC,Heerenveen,2017-02-25,19:45:00,"Good, Wet","Cloud, Rain, Wind",2,Freezing,4_3_3,4_2_3_1,56:19
+4615,156,NetED,2240482,Vitesse,Go Ahead Eagles,2017-02-26,11:30:00,"Average, Patchy, Soft",Clear,9,Cold,4_3_3,4_3_3,79:12
+4612,153,NetED,2240483,PSV,Feyenoord,2017-02-26,13:30:00,Excellent,Clear,8,-,4_3_3,4_3_3,83:50
+4613,154,NetED,2240479,PEC Zwolle,AZ,2017-02-26,13:30:00,Good,"Cloud, Rain",7,-,4_4_2,4_2_3_1,89:42
+4614,155,NetED,2240479,PEC Zwolle,AZ,2017-02-26,13:30:00,Good,"Cloud, Rain",7,-,4_3_3,4_2_3_1,55:27
+4611,152,NetED,2240485,Heracles,Ajax,2017-02-26,15:45:00,Good,"Cloud, Sun",10,Cold,4_3_3,4_3_3,76:49
+4610,151,NetED,2240488,Go Ahead Eagles,Heerenveen,2017-03-03,19:00:00,Good,Clear,7,-,4_3_3,4_3_3,70:01
+4609,150,NetED,2240920,Willem II,Twente,2017-03-04,17:30:00,Average,Clear,8,-,4_3_3,4_3_3,78:01
+4601,142,NetED,2240487,Roda JC,PSV,2017-03-04,18:45:00,"Good, Soft, Wet",Light Rain,8,Cold,4_3_3,4_3_3,81:01
+4602,143,NetED,2240487,Roda JC,PSV,2017-03-04,18:45:00,"Good, Soft, Wet","Cloud, Rain",8,Cold,4_3_3,4_3_3,81:01
+4603,144,NetED,2240487,Roda JC,PSV,2017-03-04,18:45:00,"Good, Soft, Wet",,8,Cold,4_3_3,4_3_3,81:01
+4604,145,NetED,2240487,Roda JC,PSV,2017-03-04,18:45:00,"Good, Soft, Wet",Rain,8,Cold,4_3_3,4_3_3,81:01
+4605,146,NetED,2240487,Roda JC,PSV,2017-03-04,18:45:00,"Excellent, Wet",Light Rain,8,Cold,4_3_3,4_3_3,81:01
+4606,147,NetED,2240487,Roda JC,PSV,2017-03-04,18:45:00,"Excellent, Wet","Cloud, Rain",8,Cold,4_3_3,4_3_3,81:01
+4607,148,NetED,2240487,Roda JC,PSV,2017-03-04,18:45:00,"Excellent, Wet",,8,Cold,4_3_3,4_3_3,81:01
+4608,149,NetED,2240487,Roda JC,PSV,2017-03-04,18:45:00,"Excellent, Wet",Rain,8,Cold,4_3_3,4_3_3,81:01
+4599,140,NetED,2240489,Vitesse,PEC Zwolle,2017-03-04,19:45:00,"Dry, Excellent","Cloud, Light Rain, Light Wind",8,Cold,4_2_3_1,4_3_3,78:33
+4600,141,NetED,2240489,Vitesse,PEC Zwolle,2017-03-04,19:45:00,"Dry, Excellent","Cloud, Light Wind",8,Cold,4_2_3_1,4_3_3,78:33
+4596,137,NetED,2240486,Excelsior,AZ,2017-03-05,11:30:00,"Average, Wet","Cloud, Light Rain, Wind",7,Cold,4_3_3,4_3_3,73:01
+4597,138,NetED,2240490,Feyenoord,Sparta Rotterdam,2017-03-05,11:30:00,Good,"Cloud, Sun",7,-,4_3_3,4_3_3,71:51
+4598,139,NetED,2240490,Feyenoord,Sparta Rotterdam,2017-03-05,11:30:00,Good,Rain,7,-,4_3_3,4_3_3,71:51
+4592,133,NetED,2240491,Ajax,Groningen,2017-03-05,13:30:00,"Excellent, Soft",Clear,9,Cold,5_3_2,3_4_3,88:05
+4593,134,NetED,2240491,Ajax,Groningen,2017-03-05,13:30:00,"Excellent, Soft",Clear,9,Cold,4_4_2,4_3_3,74:42
+4594,135,NetED,2240491,Ajax,Groningen,2017-03-05,13:30:00,"Excellent, Soft",Clear,9,Cold,4_4_2,3_4_3,77:14
+4595,136,NetED,2240492,ADO Den Haag,Utrecht,2017-03-05,13:30:00,Good,Cloud,11,Cold,4_1_2_1_2,4_3_3,81:38
+4588,129,NetED,2240493,Heracles,NEC,2017-03-05,15:45:00,Good,Rain,10,-,5_3_2,3_4_3,76:12
+4589,130,NetED,2240493,Heracles,NEC,2017-03-05,15:45:00,Good,Rain,10,-,5_3_2,4_3_3,24:08
+4590,131,NetED,2240493,Heracles,NEC,2017-03-05,15:45:00,Good,Clear,10,-,5_3_2,3_4_3,76:12
+4591,132,NetED,2240493,Heracles,NEC,2017-03-05,15:45:00,Good,Clear,10,-,5_3_2,4_3_3,24:08
+4587,128,NetED,2240494,Sparta Rotterdam,Vitesse,2017-03-10,19:00:00,Good,Clear,8,-,4_3_3,5_3_2,70:20
+4586,127,NetED,2240495,NEC,ADO Den Haag,2017-03-11,17:30:00,"Average, Patchy",Clear,10,Cold,4_3_3,3_4_2_1,80:22
+4584,125,NetED,2240496,PSV,Go Ahead Eagles,2017-03-11,18:45:00,Excellent,Clear,7,Cold,4_3_3,4_3_3,82:28
+4585,126,NetED,2240497,Utrecht,Heracles,2017-03-11,18:45:00,Artificial,Clear,10,-,3_4_3,4_1_2_1_2,80:30
+4582,123,NetED,2240498,Heerenveen,Excelsior,2017-03-11,19:45:00,"Dry, Excellent","Clear, Light Wind",8,Cold,4_3_3,4_4_2,81:50
+4583,124,NetED,2240498,Heerenveen,Excelsior,2017-03-11,19:45:00,"Dry, Excellent","Clear, Light Wind",8,Cold,4_3_3,4_3_3,00:00
+4581,122,NetED,2240499,PEC Zwolle,Willem II,2017-03-12,11:30:00,Good,Sun,10,-,4_2_3_1,4_2_3_1,72:57
+4578,119,NetED,2240500,AZ,Feyenoord,2017-03-12,13:30:00,Excellent,Sun,14,Warm,4_3_3,4_2_2_2,82:40
+4579,120,NetED,2240500,AZ,Feyenoord,2017-03-12,13:30:00,Excellent,Sun,14,Warm,4_3_3,4_3_3,64:21
+4580,121,NetED,2240501,Groningen,Roda JC,2017-03-12,13:30:00,Average,"Light Wind, Sun",9,-,4_2_3_1,4_4_2,86:22
+4577,118,NetED,2240943,Twente,Ajax,2017-03-12,15:45:00,Excellent,Clear,11,Cold,4_3_3,4_3_3,75:21
+4575,116,NetED,2240944,Twente,Roda JC,2017-03-17,19:00:00,"Good, Soft, Wet",Cloud,9,Cold,4_4_2,4_3_3,70:05
+4576,117,NetED,2240944,Twente,Roda JC,2017-03-17,19:00:00,"Good, Soft, Wet",Cloud,9,Cold,4_3_3,4_3_3,63:24
+4574,115,NetED,2240502,Willem II,Groningen,2017-03-18,17:30:00,Good,"Cloud, Sun",7,Cold,4_2_3_1,4_3_3,80:16
+4569,110,NetED,2240503,Utrecht,NEC,2017-03-18,18:45:00,Excellent,"Clear, Light Rain, Rain",10,Cold,4_2_3_1,4_3_1_2,81:37
+4570,111,NetED,2240503,Utrecht,NEC,2017-03-18,18:45:00,Excellent,"Clear, Light Rain, Rain",10,Cold,5_3_2,4_3_1_2,00:00
+4571,112,NetED,2240503,Utrecht,NEC,2017-03-18,18:45:00,Excellent,"Clear, Light Rain, Rain",10,Cold,4_1_2_1_2,4_3_1_2,60:00
+4572,113,NetED,2240504,Vitesse,PSV,2017-03-18,18:45:00,Excellent,Rain,7,-,4_3_3,4_3_3,66:53
+4573,114,NetED,2240504,Vitesse,PSV,2017-03-18,18:45:00,Excellent,Clear,7,-,4_3_3,4_3_3,66:53
+4567,108,NetED,2240509,Heracles,Sparta Rotterdam,2017-03-18,19:45:00,"Excellent, Wet","Cloud, Rain",9,Cold,4_3_3,3_4_3,86:14
+4568,109,NetED,2240509,Heracles,Sparta Rotterdam,2017-03-18,19:45:00,"Excellent, Wet",Cloud,9,Cold,4_3_3,3_4_3,86:14
+4565,106,NetED,2240506,Feyenoord,Heerenveen,2017-03-19,11:30:00,Good,Wind,8,-,4_3_3,4_3_3,80:50
+4566,107,NetED,2240506,Feyenoord,Heerenveen,2017-03-19,11:30:00,Good,Clear,8,-,4_3_3,4_3_3,80:50
+4562,103,NetED,2240507,PEC Zwolle,Go Ahead Eagles,2017-03-19,13:30:00,Average,"Cloud, Light Rain, Wind",10,-,4_3_3,4_2_3_1,89:39
+4563,104,NetED,2240508,Ajax,Excelsior,2017-03-19,13:30:00,Artificial,"Clear, Sun",12,Warm,4_2_3_1,4_3_3,66:30
+4564,105,NetED,2240508,Ajax,Excelsior,2017-03-19,13:30:00,Artificial,"Clear, Sun",12,Warm,4_2_3_1,3_4_3,82:30
+4561,102,NetED,2240505,ADO Den Haag,AZ,2017-03-19,15:45:00,Average,Sun,12,Warm,4_2_3_1,4_1_4_1,78:27
+4559,100,NetED,2240510,Groningen,AZ,2017-04-01,16:30:00,Good,Clear,10,-,4_3_3,4_4_2,80:31
+4560,101,NetED,2240511,Excelsior,PEC Zwolle,2017-04-01,16:30:00,Excellent,"Clear, Sun",13,Warm,4_3_3,4_3_3,78:14
+4557,98,NetED,2240512,PSV,Sparta Rotterdam,2017-04-01,17:45:00,Good,Cloud,12,Cold,5_4_1,4_3_3,86:50
+4558,99,NetED,2240512,PSV,Sparta Rotterdam,2017-04-01,17:45:00,Good,Cloud,12,Cold,4_3_3,4_3_3,69:27
+4555,96,NetED,2240513,Heerenveen,Heracles,2017-04-01,18:45:00,Good,"Cloud, Light Wind",11,Cold,4_3_3,4_3_3,74:30
+4556,97,NetED,2240514,Willem II,Utrecht,2017-04-01,18:45:00,Excellent,Clear,10,-,4_3_3,4_2_3_1,73:20
+4553,94,NetED,2240515,NEC,Vitesse,2017-04-02,10:30:00,Excellent,Sun,12,-,4_3_3,4_2_3_1,78:15
+4554,95,NetED,2240515,NEC,Vitesse,2017-04-02,10:30:00,Excellent,Sun,12,-,4_3_3,5_3_2,20:48
+4550,91,NetED,2240517,Feyenoord,Ajax,2017-04-02,12:30:00,Good,Sun,10,-,4_3_3,4_3_3,88:02
+4551,92,NetED,2240516,Roda JC,ADO Den Haag,2017-04-02,12:30:00,"Artificial, Good","Cloud, Sun",16,-,4_3_3,4_4_2,76:30
+4552,93,NetED,2240516,Roda JC,ADO Den Haag,2017-04-02,12:30:00,"Artificial, Good","Cloud, Sun",16,-,4_3_3,4_2_3_1,30:17
+4548,89,NetED,2240921,Go Ahead Eagles,Twente,2017-04-02,14:45:00,"Excellent, Soft","Clear, Sun",14,Warm,4_3_3,5_4_1,87:04
+4549,90,NetED,2240921,Go Ahead Eagles,Twente,2017-04-02,14:45:00,"Excellent, Soft","Clear, Sun",14,Warm,4_3_3,4_3_3,81:31
+4547,88,NetED,2240518,Utrecht,Excelsior,2017-04-04,16:30:00,"Artificial, Dry, Good","Clear, Sun",14,Warm,4_3_3,4_1_2_1_2,73:05
+4546,87,NetED,2240519,Sparta Rotterdam,Heerenveen,2017-04-04,18:45:00,Good,Clear,9,-,4_3_3,3_5_2,85:34
+4544,85,NetED,2240521,Vitesse,Heracles,2017-04-05,16:30:00,Good,Clear,8,-,4_4_2,4_2_3_1,85:57
+4545,86,NetED,2240521,Vitesse,Heracles,2017-04-05,16:30:00,Good,Clear,8,-,4_3_3,4_2_3_1,00:00
+4542,83,NetED,2240522,NEC,Groningen,2017-04-05,17:45:00,"Good, Soft","Clear, Light Wind",9,Cold,4_4_2,4_3_3,76:27
+4543,84,NetED,2240522,NEC,Groningen,2017-04-05,17:45:00,"Good, Soft","Clear, Light Wind",9,Cold,4_4_2,3_4_3,78:25
+4538,79,NetED,2240523,Go Ahead Eagles,Feyenoord,2017-04-05,18:45:00,Good,Cloud,9,-,4_3_3,4_5_1,74:21
+4539,80,NetED,2240523,Go Ahead Eagles,Feyenoord,2017-04-05,18:45:00,Good,Cloud,9,-,4_3_3,4_3_3,45:00
+4540,81,NetED,2240524,ADO Den Haag,Willem II,2017-04-05,18:45:00,Good,"Cloud, Light Wind",8,Cold,4_2_3_1,4_3_3,79:08
+4541,82,NetED,2240520,AZ,Ajax,2017-04-05,18:45:00,Good,Clear,8,Cold,4_3_3,4_3_3,78:42
+4537,78,NetED,2240525,PEC Zwolle,Roda JC,2017-04-06,16:30:00,"Good, Wet",Cloud,10,Cold,4_2_3_1,4_2_3_1,82:44
+4536,77,NetED,2240922,PSV,Twente,2017-04-06,18:45:00,Good,Cloud,5,-,4_3_3,4_3_3,81:31
+4535,76,NetED,2240526,Excelsior,Sparta Rotterdam,2017-04-07,18:00:00,Good,Clear,10,-,4_3_3,4_3_3,78:53
+4534,75,NetED,2240527,Heerenveen,Vitesse,2017-04-08,16:30:00,Good,Sun,14,Warm,4_3_3,4_3_3,87:19
+4530,71,NetED,2240529,Ajax,NEC,2017-04-08,17:45:00,"Good, Soft",Clear,13,Warm,4_2_3_1,4_3_3,78:54
+4531,72,NetED,2240529,Ajax,NEC,2017-04-08,17:45:00,"Good, Soft",Clear,13,Warm,5_3_2,4_3_3,45:00
+4532,73,NetED,2240528,Groningen,ADO Den Haag,2017-04-08,17:45:00,"Artificial, Good","Cloud, Sun",12,-,4_3_3,4_2_3_1,75:34
+4533,74,NetED,2240528,Groningen,ADO Den Haag,2017-04-08,17:45:00,"Artificial, Good","Cloud, Sun",12,-,4_3_3,4_4_2,00:00
+4529,70,NetED,2240530,Heracles,Go Ahead Eagles,2017-04-08,18:45:00,Good,Clear,8,-,4_3_3,4_3_3,84:46
+4526,67,NetED,2240531,Roda JC,AZ,2017-04-09,10:30:00,Average,"Clear, Sun",16,Warm,4_2_2_2,4_2_3_1,69:10
+4527,68,NetED,2240531,Roda JC,AZ,2017-04-09,10:30:00,Average,"Clear, Sun",16,Warm,4_2_3_1,4_2_3_1,00:00
+4528,69,NetED,2240531,Roda JC,AZ,2017-04-09,10:30:00,Average,"Clear, Sun",16,Warm,4_2_2_2,4_3_3,93:38
+4522,63,NetED,2240532,Feyenoord,PEC Zwolle,2017-04-09,12:30:00,Artificial,"Clear, Sun",14,Warm,4_2_3_1,4_3_3,81:10
+4523,64,NetED,2240532,Feyenoord,PEC Zwolle,2017-04-09,12:30:00,Artificial,"Clear, Sun",14,Warm,4_3_3,4_3_3,00:00
+4524,65,NetED,2240532,Feyenoord,PEC Zwolle,2017-04-09,12:30:00,Artificial,"Clear, Sun",14,Warm,4_4_2,4_3_3,90:54
+4525,66,NetED,2240945,Twente,Utrecht,2017-04-09,12:30:00,Good,Sun,15,-,4_1_2_1_2,4_3_3,81:10
+4521,62,NetED,2240533,Willem II,PSV,2017-04-09,14:45:00,Good,Sun,20,Warm,4_3_3,4_4_2,78:10
+4520,61,NetED,2240534,AZ,Heracles,2017-04-14,18:00:00,Artificial,Clear,8,-,4_3_3,4_3_3,85:12
+4519,60,NetED,2240535,Sparta Rotterdam,Roda JC,2017-04-15,16:30:00,Artificial,Clear,11,-,4_2_3_1,4_3_3,68:27
+4516,57,NetED,2240536,PSV,ADO Den Haag,2017-04-15,17:45:00,"Artificial, Good","Clear, Sun",10,-,4_2_3_1,4_3_3,86:23
+4517,58,NetED,2240537,Vitesse,Excelsior,2017-04-15,17:45:00,"Artificial, Good",Clear,10,-,4_3_3,4_4_2,74:44
+4518,59,NetED,2240537,Vitesse,Excelsior,2017-04-15,17:45:00,"Artificial, Good",Clear,10,-,4_3_3,4_2_3_1,62:24
+4515,56,NetED,2240923,NEC,Twente,2017-04-15,18:45:00,Good,Cloud,7,-,4_2_3_1,4_4_2,75:43
+4512,53,NetED,2240538,Go Ahead Eagles,Willem II,2017-04-16,10:30:00,Excellent,"Cloud, Sun",11,-,4_4_2,4_2_3_1,79:55
+4513,54,NetED,2240538,Go Ahead Eagles,Willem II,2017-04-16,10:30:00,Excellent,"Cloud, Sun",11,-,4_2_3_1,4_2_3_1,00:00
+4514,55,NetED,2240538,Go Ahead Eagles,Willem II,2017-04-16,10:30:00,Excellent,"Cloud, Sun",11,-,4_4_2,3_4_1_2,88:19
+4510,51,NetED,2240540,PEC Zwolle,Groningen,2017-04-16,12:30:00,Good,Clear,10,-,4_4_2,4_4_2,74:58
+4511,52,NetED,2240539,Utrecht,Feyenoord,2017-04-16,12:30:00,"Excellent, Soft","Cloud, Sun, Wind",9,Cold,4_3_3,4_1_2_1_2,82:33
+4509,50,NetED,2240541,Heerenveen,Ajax,2017-04-16,14:45:00,Good,"Cloud, Sun",9,-,4_3_3,4_3_3,77:33
+4507,48,NetED,2240542,Willem II,Heerenveen,2017-04-21,18:00:00,"Good, Wet","Cloud, Light Rain",10,-,4_3_3,4_3_3,85:18
+4508,49,NetED,2240542,Willem II,Heerenveen,2017-04-21,18:00:00,"Good, Wet","Cloud, Light Rain",10,-,4_3_3,4_4_2,53:11
+4504,45,NetED,2240543,Excelsior,NEC,2017-04-22,16:30:00,Good,"Cloud, Sun",11,-,4_1_2_1_2,4_2_3_1,86:11
+4505,46,NetED,2240543,Excelsior,NEC,2017-04-22,16:30:00,Good,"Cloud, Sun",11,-,4_1_2_1_2,4_3_3,76:07
+4506,47,NetED,2240543,Excelsior,NEC,2017-04-22,16:30:00,Good,"Cloud, Sun",11,-,5_3_2,4_3_3,58:39
+4502,43,NetED,2240946,Twente,AZ,2017-04-22,17:45:00,Good,Clear,10,-,4_3_3,4_3_3,85:52
+4503,44,NetED,2240544,Heracles,PEC Zwolle,2017-04-22,17:45:00,Artificial,"Cloud, Sun",8,Cold,4_3_3,4_3_3,79:56
+4501,42,NetED,2240545,Groningen,Go Ahead Eagles,2017-04-22,18:45:00,Good,"Clear, Cloud",8,Cold,4_3_3,4_4_2,84:21
+4499,40,NetED,2240546,Roda JC,Utrecht,2017-04-23,10:30:00,Excellent,"Cloud, Rain, Sun",14,Warm,4_1_2_1_2,4_2_3_1,78:01
+4500,41,NetED,2240546,Roda JC,Utrecht,2017-04-23,10:30:00,Excellent,"Cloud, Rain, Sun",14,Warm,4_1_2_1_2,3_4_3,88:29
+4496,37,NetED,2240548,Feyenoord,Vitesse,2017-04-23,12:30:00,Excellent,"Cloud, Sun",8,Warm,4_3_3,4_3_3,84:17
+4497,38,NetED,2240547,ADO Den Haag,Sparta Rotterdam,2017-04-23,12:30:00,Artificial,"Cloud, Rain, Sun",12,Warm,4_4_2,4_2_3_1,80:47
+4498,39,NetED,2240547,ADO Den Haag,Sparta Rotterdam,2017-04-23,12:30:00,Artificial,"Cloud, Rain, Sun",12,Warm,4_2_3_1,4_2_3_1,45:00
+4495,36,NetED,2240549,Ajax,PSV,2017-04-23,14:45:00,Excellent,Clear,10,-,4_3_3,4_3_3,73:38
+4479,20,NetED,2240555,ADO Den Haag,Heracles,2017-05-07,12:30:00,Excellent,Clear,17,-,4_3_3,4_3_3,71:58
+4480,21,NetED,2240551,Feyenoord,Excelsior,2017-05-07,12:30:00,Artificial,Clear,15,-,4_3_3,4_3_3,81:55
+4481,22,NetED,2240554,Vitesse,Utrecht,2017-05-07,12:30:00,Good,Clear,15,-,4_3_1_2,4_3_3,59:25
+4482,23,NetED,2240550,Go Ahead Eagles,Ajax,2017-05-07,12:30:00,"Excellent, Soft","Cloud, Sun",11,Warm,4_3_3,4_5_1,85:25
+4483,24,NetED,2240550,Go Ahead Eagles,Ajax,2017-05-07,12:30:00,"Excellent, Soft","Cloud, Sun",11,Warm,4_3_3,4_4_2,45:00
+4484,25,NetED,2240552,PSV,Groningen,2017-05-07,12:30:00,Excellent,Clear,16,-,4_3_3,3_4_1_2,66:55
+4485,26,NetED,2240552,PSV,Groningen,2017-05-07,12:30:00,Excellent,Clear,16,-,4_4_2,4_3_3,45:00
+4486,27,NetED,2240552,PSV,Groningen,2017-05-07,12:30:00,Excellent,Clear,16,-,4_4_2,3_4_1_2,45:00
+4487,28,NetED,2240557,Heerenveen,PEC Zwolle,2017-05-07,12:30:00,"Artificial, Good",Cloud,14,Warm,3_5_1_1,3_5_2,72:24
+4488,29,NetED,2240557,Heerenveen,PEC Zwolle,2017-05-07,12:30:00,"Artificial, Good",Cloud,14,Warm,3_5_1_1,4_4_2,57:17
+4489,30,NetED,2240557,Heerenveen,PEC Zwolle,2017-05-07,12:30:00,"Artificial, Good",Cloud,14,Warm,3_5_1_1,4_3_3,27:12
+4490,31,NetED,2240557,Heerenveen,PEC Zwolle,2017-05-07,12:30:00,"Artificial, Good",Cloud,14,Warm,4_3_3,4_3_3,00:00
+4491,32,NetED,2240553,Willem II,Roda JC,2017-05-07,12:30:00,"Artificial, Excellent","Cloud, Sun",15,-,4_2_3_1,4_2_3_1,81:49
+4492,33,NetED,2240947,Twente,Sparta Rotterdam,2017-05-07,12:30:00,"Artificial, Excellent","Cloud, Sun",12,-,5_4_1,4_3_3,83:53
+4493,34,NetED,2240947,Twente,Sparta Rotterdam,2017-05-07,12:30:00,"Artificial, Excellent","Cloud, Sun",12,-,4_3_3,4_3_3,58:29
+4494,35,NetED,2240556,AZ,NEC,2017-05-07,12:30:00,Good,"Cloud, Sun",17,-,4_3_3,4_3_3,82:51
+4467,8,NetED,2240560,Heracles,Feyenoord,2017-05-14,12:30:00,Good,Clear,15,-,4_3_3,4_3_3,80:30
+4468,9,NetED,2240564,PEC Zwolle,PSV,2017-05-14,12:30:00,Good,Rain,15,-,4_3_3,4_4_2,72:24
+4469,10,NetED,2240564,PEC Zwolle,PSV,2017-05-14,12:30:00,Good,Clear,15,-,4_3_3,4_4_2,72:24
+4470,11,NetED,2240924,Groningen,Twente,2017-05-14,12:30:00,Good,Sun,18,-,4_3_3,4_4_2,66:09
+4471,12,NetED,2240563,Ajax,Willem II,2017-05-14,12:30:00,Good,"Cloud, Sun",18,-,4_4_2,4_3_3,68:14
+4472,13,NetED,2240565,Roda JC,Vitesse,2017-05-14,12:30:00,Excellent,"Cloud, Rain",20,Hot,4_3_3,4_3_3,81:34
+4473,14,NetED,2240565,Roda JC,Vitesse,2017-05-14,12:30:00,Excellent,Sun,20,Hot,4_3_3,4_3_3,81:34
+4474,15,NetED,2240561,Sparta Rotterdam,Go Ahead Eagles,2017-05-14,12:30:00,Good,"Cloud, Sun",20,-,4_3_3,4_3_3,74:40
+4475,16,NetED,2240562,NEC,Heerenveen,2017-05-14,12:30:00,Good,"Cloud, Light Rain",17,-,4_3_3,4_3_3,79:10
+4476,17,NetED,2240558,Excelsior,ADO Den Haag,2017-05-14,12:30:00,Artificial,"Cloud, Sun, Wind",14,Warm,4_3_3,4_2_3_1,75:23
+4477,18,NetED,2240558,Excelsior,ADO Den Haag,2017-05-14,12:30:00,Artificial,"Cloud, Sun, Wind",14,Warm,4_2_3_1,4_2_3_1,67:14
+4478,19,NetED,2240559,Utrecht,AZ,2017-05-14,12:30:00,Good,Cloud,10,-,4_3_3,4_1_2_1_2,78:19
+4466,7,NetED,2453051,Utrecht,Heerenveen,2017-05-17,16:30:00,Good,"Clear, Sun",18,-,4_1_2_1_2,4_4_2,71:22
+4464,5,NetED,2453052,AZ,Groningen,2017-05-17,18:45:00,Good,Clear,17,-,4_4_2,4_4_2,69:15
+4465,6,NetED,2453052,AZ,Groningen,2017-05-17,18:45:00,Good,Clear,17,-,4_4_2,4_3_3,00:00
+4463,4,NetED,2453053,Heerenveen,Utrecht,2017-05-20,16:30:00,Good,Clear,18,-,4_1_2_1_2,4_3_3,78:12
+4462,3,NetED,2453054,Groningen,AZ,2017-05-20,18:45:00,Good,"Clear, Cloud",15,-,4_3_3,4_4_2,70:56
+4461,2,NetED,2453172,Utrecht,AZ,2017-05-25,18:45:00,Excellent,"Cloud, Sun",17,-,4_3_3,4_1_2_1_2,69:49
+4459,0,NetED,2453173,AZ,Utrecht,2017-05-28,10:30:00,Excellent,Sun,25,Hot,4_1_2_1_2,4_2_3_1,88:00
+4460,1,NetED,2453173,AZ,Utrecht,2017-05-28,10:30:00,Excellent,Sun,25,Hot,3_4_1_2,4_2_3_1,107:45
+4094,0,NetED,2462338,Utrecht,ADO Den Haag,2017-08-11,17:00:00,"Artificial, Good","Clear, Sun",18,-,4_3_3,4_1_2_1_2,00:00
+4095,1,NetED,2462339,Sparta Rotterdam,VVV,2017-08-12,16:30:00,Average,Cloud,23,Warm,4_3_3,4_3_3,00:00
+4096,2,NetED,2462340,AZ,PSV,2017-08-12,16:30:00,Good,Clear,17,-,4_3_3,4_3_3,00:00
+4097,3,NetED,2462341,Ajax,Heracles,2017-08-12,18:45:00,Artificial,Clear,15,-,4_3_3,4_3_3,00:00
+4098,4,NetED,2462342,NAC Breda,Vitesse,2017-08-12,18:45:00,Good,Cloud,20,Warm,4_3_3,4_3_3,45:00
+4099,5,NetED,2462342,NAC Breda,Vitesse,2017-08-12,18:45:00,Good,Cloud,20,Warm,_,4_3_3,45:00
+4100,6,NetED,2462343,Roda JC,PEC Zwolle,2017-08-13,10:30:00,Artificial,Clear,17,-,4_3_3,4_3_3,00:00
+4101,7,NetED,2462345,Excelsior,Willem II,2017-08-13,12:30:00,Good,Clear,18,-,4_2_3_1,4_3_3,00:00
+4102,8,NetED,2462344,Twente,Feyenoord,2017-08-13,12:30:00,Excellent,Sun,21,Warm,4_3_3,4_2_3_1,00:00
+4103,9,NetED,2462346,Heerenveen,Groningen,2017-08-13,14:45:00,Good,Sun,18,-,4_4_2,4_3_3,00:00
+4104,10,NetED,2462347,Vitesse,Roda JC,2017-08-18,18:00:00,"Artificial, Good, Wet",Cloud,17,-,4_3_3,4_3_3,00:00
+4105,11,NetED,2462348,VVV,Twente,2017-08-19,16:30:00,Good,Sun,21,-,4_4_2,4_3_3,00:00
+4106,12,NetED,2462351,ADO Den Haag,AZ,2017-08-19,17:45:00,Good,"Cloud, Sun",16,Warm,4_3_3,4_2_3_1,00:00
+4107,13,NetED,2462351,ADO Den Haag,AZ,2017-08-19,17:45:00,Good,"Cloud, Sun",16,Warm,4_3_3,4_4_1_1,27:19
+4108,14,NetED,2462351,ADO Den Haag,AZ,2017-08-19,17:45:00,Good,"Cloud, Sun",16,Warm,4_4_2,4_4_1_1,73:10
+4109,15,NetED,2462349,Heracles,Heerenveen,2017-08-19,18:45:00,Good,Cloud,16,Warm,4_2_3_1,4_2_3_1,00:00
+4110,16,NetED,2462349,Heracles,Heerenveen,2017-08-19,18:45:00,Good,Cloud,16,Warm,4_2_3_1,4_1_4_1,66:43
+4111,17,NetED,2462349,Heracles,Heerenveen,2017-08-19,18:45:00,Good,Cloud,16,Warm,4_4_2,4_1_4_1,73:25
+4112,18,NetED,2462352,Feyenoord,Excelsior,2017-08-20,10:30:00,Average,Cloud,21,Hot,4_3_3,4_3_3,00:00
+4113,19,NetED,2462353,Willem II,Utrecht,2017-08-20,12:30:00,Good,Sun,23,-,4_3_1_2,4_3_3,00:00
+4114,20,NetED,2462350,Groningen,Ajax,2017-08-20,12:30:00,Good,"Clear, Light Wind",18,Warm,4_3_3,4_2_3_1,00:00
+4115,21,NetED,2462354,PEC Zwolle,Sparta Rotterdam,2017-08-20,14:45:00,Good,Sun,21,-,4_3_3,4_3_3,00:00
+4116,22,NetED,2462355,PSV,NAC Breda,2017-08-20,14:45:00,Excellent,"Cloud, Sun",18,-,4_3_3,4_3_3,00:00
+4117,23,NetED,2462355,PSV,NAC Breda,2017-08-20,14:45:00,Excellent,"Cloud, Sun",18,-,4_3_3,4_4_2,57:50
+4118,24,NetED,2462356,Sparta Rotterdam,NAC Breda,2017-08-25,18:00:00,Good,Clear,17,-,4_3_3,4_3_3,00:00
+4119,25,NetED,2462357,AZ,Vitesse,2017-08-26,16:30:00,Good,Sun,22,-,4_3_3,4_3_3,00:00
+4120,26,NetED,2462358,Heerenveen,ADO Den Haag,2017-08-26,17:45:00,"Artificial, Excellent","Cloud, Sun",20,Warm,4_3_3,4_3_3,00:00
+4121,27,NetED,2462359,Twente,PEC Zwolle,2017-08-26,17:45:00,"Artificial, Good","Cloud, Sun",18,Warm,4_2_3_1,4_2_3_1,00:00
+4122,28,NetED,2462360,Excelsior,Heracles,2017-08-26,18:45:00,"Artificial, Dry, Good","Cloud, Light Wind",21,Warm,4_3_3,4_3_3,00:00
+4123,29,NetED,2462360,Excelsior,Heracles,2017-08-26,18:45:00,"Artificial, Dry, Good","Cloud, Light Wind",21,Warm,4_2_3_1,4_3_3,45:00
+4124,30,NetED,2462361,Willem II,Feyenoord,2017-08-27,10:30:00,Excellent,"Cloud, Sun",23,Warm,4_3_3,4_1_2_1_2,00:00
+4125,31,NetED,2462361,Willem II,Feyenoord,2017-08-27,10:30:00,Excellent,"Cloud, Sun",23,Warm,4_3_3,3_4_1_2,45:00
+4126,32,NetED,2462361,Willem II,Feyenoord,2017-08-27,10:30:00,Excellent,"Cloud, Sun",23,Warm,4_3_3,3_4_3,52:03
+4127,33,NetED,2462362,Ajax,VVV,2017-08-27,12:30:00,"Artificial, Good",Sun,25,-,4_2_3_1,4_3_3,00:00
+4128,34,NetED,2462362,Ajax,VVV,2017-08-27,12:30:00,"Artificial, Good",Sun,25,-,4_2_3_1,3_5_2,45:00
+4129,35,NetED,2462363,Roda JC,PSV,2017-08-27,14:45:00,Excellent,Sun,20,-,4_3_3,4_2_3_1,00:00
+4130,36,NetED,2462364,Utrecht,Groningen,2017-08-27,14:45:00,Good,"Cloud, Sun",22,Warm,5_3_2,4_1_2_1_2,00:00
+4131,37,NetED,2462366,Feyenoord,Heracles,2017-09-09,16:30:00,"Artificial, Average","Clear, Sun",16,-,4_3_3,4_3_3,00:00
+4132,38,NetED,2462365,ADO Den Haag,Willem II,2017-09-09,16:30:00,Good,"Cloud, Light Rain, Sun",14,Cold,5_3_2,4_2_3_1,00:00
+4133,39,NetED,2462365,ADO Den Haag,Willem II,2017-09-09,16:30:00,Good,"Cloud, Light Rain, Sun",14,Cold,3_5_2,4_2_3_1,69:06
+4134,40,NetED,2462368,Vitesse,Excelsior,2017-09-09,18:45:00,Artificial,Clear,15,-,4_3_3,4_3_3,00:00
+4135,41,NetED,2462367,PEC Zwolle,Ajax,2017-09-09,18:45:00,Good,Clear,19,-,4_3_3,4_3_3,00:00
+4136,42,NetED,2462369,PSV,Heerenveen,2017-09-10,10:30:00,Good,Clear,14,-,4_3_3,4_3_3,00:00
+4137,43,NetED,2462370,Roda JC,Utrecht,2017-09-10,12:30:00,Excellent,Clear,17,-,4_1_2_1_2,4_5_1,00:00
+4138,44,NetED,2462370,Roda JC,Utrecht,2017-09-10,12:30:00,Excellent,Clear,17,-,4_1_2_1_2,4_2_3_1,77:58
+4139,45,NetED,2462372,NAC Breda,AZ,2017-09-10,12:30:00,Excellent,Sun,15,Warm,4_3_3,4_3_3,00:00
+4140,46,NetED,2462372,NAC Breda,AZ,2017-09-10,12:30:00,Excellent,"Cloud, Light Rain",15,Warm,4_3_3,4_3_3,00:00
+4141,47,NetED,2462371,Twente,Sparta Rotterdam,2017-09-10,12:30:00,Good,"Clear, Sun",16,Warm,4_3_3,4_3_3,00:00
+4142,48,NetED,2462373,VVV,Groningen,2017-09-10,14:45:00,"Good, Soft",Clear,18,-,4_4_2,4_3_3,00:00
+4143,49,NetED,2462374,AZ,Sparta Rotterdam,2017-09-15,18:00:00,Artificial,Clear,12,Cold,4_2_3_1,4_3_3,00:00
+4144,50,NetED,2462375,Heerenveen,Excelsior,2017-09-16,16:30:00,Artificial,"Clear, Cloud",13,Cold,4_2_3_1,4_3_3,00:00
+4145,51,NetED,2462375,Heerenveen,Excelsior,2017-09-16,16:30:00,Artificial,"Clear, Cloud",13,Cold,4_3_3,4_3_3,62:45
+4146,52,NetED,2462375,Heerenveen,Excelsior,2017-09-16,16:30:00,Artificial,"Clear, Cloud",13,Cold,4_3_3,4_2_3_1,66:27
+4147,53,NetED,2462375,Heerenveen,Excelsior,2017-09-16,16:30:00,Artificial,"Clear, Cloud",13,Cold,4_2_3_1,4_2_3_1,74:13
+4148,54,NetED,2462377,Groningen,NAC Breda,2017-09-16,17:45:00,Good,Clear,15,-,4_2_3_1,5_4_1,00:00
+4149,55,NetED,2462376,Willem II,Roda JC,2017-09-16,17:45:00,"Artificial, Good",Clear,13,Warm,4_3_3,5_3_2,00:00
+4150,56,NetED,2462376,Willem II,Roda JC,2017-09-16,17:45:00,"Artificial, Good",Clear,13,Warm,4_2_3_1,5_3_2,45:00
+4151,57,NetED,2462378,Heracles,PEC Zwolle,2017-09-16,18:45:00,Good,Cloud,13,Cold,4_3_3,4_3_3,00:00
+4152,58,NetED,2462381,Utrecht,Twente,2017-09-17,12:30:00,Good,Clear,15,-,4_3_3,4_3_1_2,00:00
+4153,59,NetED,2462380,Ajax,ADO Den Haag,2017-09-17,12:30:00,Artificial,"Cloud, Sun",16,Warm,4_2_3_1,4_3_3,00:00
+4154,60,NetED,2462380,Ajax,ADO Den Haag,2017-09-17,12:30:00,Artificial,"Cloud, Sun",16,Warm,4_2_3_1,4_4_2,84:38
+4155,61,NetED,2462382,Feyenoord,PSV,2017-09-17,14:45:00,Good,"Cloud, Sun",17,Warm,4_2_3_1,4_3_3,00:00
+4156,62,NetED,2462382,Feyenoord,PSV,2017-09-17,14:45:00,Good,"Cloud, Sun",17,Warm,4_2_3_1,4_4_1_1,42:28
+4157,63,NetED,2462382,Feyenoord,PSV,2017-09-17,14:45:00,Good,"Cloud, Sun",17,Warm,4_2_3_1,4_2_2_2,83:18
+4158,64,NetED,2462379,VVV,Vitesse,2017-09-17,14:45:00,Good,"Clear, Sun",19,-,4_3_3,4_3_3,00:00
+4159,65,NetED,2462383,Heerenveen,Willem II,2017-09-23,16:30:00,"Good, Soft","Clear, Sun",14,-,5_3_2,4_3_3,00:00
+4160,66,NetED,2462385,NAC Breda,Feyenoord,2017-09-23,17:45:00,Excellent,Clear,18,-,4_3_3,4_3_3,00:00
+4161,67,NetED,2462388,Roda JC,Heracles,2017-09-23,17:45:00,"Artificial, Average",Clear,14,-,4_3_3,4_3_3,00:00
+4162,68,NetED,2462386,Sparta Rotterdam,ADO Den Haag,2017-09-23,18:45:00,"Artificial, Good",Clear,14,Warm,4_3_3,4_3_3,00:00
+4163,69,NetED,2462387,PSV,Utrecht,2017-09-24,10:30:00,Good,"Clear, Sun",18,-,4_3_1_2,3_5_2,00:00
+4164,70,NetED,2462384,Vitesse,Ajax,2017-09-24,12:30:00,Good,"Clear, Sun",18,-,4_3_3,4_3_3,00:00
+4165,71,NetED,2462389,PEC Zwolle,VVV,2017-09-24,12:30:00,Average,Sun,18,-,4_3_3,4_3_3,00:00
+4166,72,NetED,2462390,Twente,Groningen,2017-09-24,12:30:00,Good,Clear,19,Warm,4_3_3,4_3_3,00:00
+4167,73,NetED,2462390,Twente,Groningen,2017-09-24,12:30:00,Good,Clear,19,Warm,4_3_3,4_4_2,80:04
+4168,74,NetED,2462391,Excelsior,AZ,2017-09-24,14:45:00,Excellent,"Cloud, Sun",18,-,4_3_3,4_3_3,00:00
+4169,75,NetED,2462391,Excelsior,AZ,2017-09-24,14:45:00,Excellent,"Cloud, Sun",18,-,3_5_2,4_3_3,45:47
+4170,76,NetED,2462391,Excelsior,AZ,2017-09-24,14:45:00,Excellent,"Cloud, Sun",18,-,3_5_2,5_4_1,71:08
+4171,77,NetED,2462392,Heracles,Twente,2017-09-29,18:00:00,"Good, Wet",Cloud,18,-,4_3_3,4_3_3,00:00
+4172,78,NetED,2462392,Heracles,Twente,2017-09-29,18:00:00,"Good, Wet",Light Rain,18,-,4_3_3,4_3_3,00:00
+4173,79,NetED,2462392,Heracles,Twente,2017-09-29,18:00:00,"Good, Wet",,18,-,4_3_3,4_3_3,00:00
+4174,80,NetED,2462393,ADO Den Haag,NAC Breda,2017-09-30,16:30:00,Good,Clear,15,-,4_3_3,4_3_3,00:00
+4175,81,NetED,2462400,Willem II,PSV,2017-09-30,17:45:00,Good,Cloud,11,Cold,4_3_3,5_4_1,00:00
+4176,82,NetED,2462394,Groningen,PEC Zwolle,2017-09-30,17:45:00,"Artificial, Good, Wet","Cloud, Light Rain",15,Warm,4_2_3_1,4_2_3_1,00:00
+4177,83,NetED,2462394,Groningen,PEC Zwolle,2017-09-30,17:45:00,"Artificial, Good, Wet","Cloud, Light Rain",15,Warm,4_2_3_1,4_4_1_1,86:35
+4178,84,NetED,2462395,VVV,Excelsior,2017-09-30,18:45:00,Artificial,Cloud,14,Cold,4_2_3_1,4_4_1_1,00:00
+4179,85,NetED,2462397,Feyenoord,AZ,2017-10-01,10:30:00,Good,Clear,15,-,4_3_3,4_3_3,00:00
+4180,86,NetED,2462398,Ajax,Heerenveen,2017-10-01,12:30:00,Good,"Cloud, Sun",16,Warm,4_2_3_1,4_3_3,00:00
+4181,87,NetED,2462398,Ajax,Heerenveen,2017-10-01,12:30:00,Good,"Cloud, Sun",16,Warm,4_4_2,4_3_3,75:22
+4182,88,NetED,2462399,Utrecht,Vitesse,2017-10-01,12:30:00,Good,"Cloud, Sun",18,Warm,4_3_3,4_1_2_1_2,00:00
+4183,89,NetED,2462396,Roda JC,Sparta Rotterdam,2017-10-01,14:45:00,Average,"Cloud, Light Wind",16,Warm,4_3_3,4_4_1_1,00:00
+4184,90,NetED,2462402,Sparta Rotterdam,Ajax,2017-10-14,16:30:00,Excellent,"Clear, Cloud",18,-,4_3_3,4_3_3,00:00
+4185,91,NetED,2462401,NAC Breda,Roda JC,2017-10-14,16:30:00,Good,Clear,21,-,4_2_3_1,4_3_3,00:00
+4186,92,NetED,2462403,PEC Zwolle,Feyenoord,2017-10-14,18:45:00,Excellent,Cloud,15,Warm,4_3_3,4_3_3,00:00
+4187,93,NetED,2462404,Heerenveen,Utrecht,2017-10-14,18:45:00,Good,Cloud,14,Cold,4_3_1_2,4_3_3,00:00
+4188,94,NetED,2462405,Vitesse,Heracles,2017-10-15,10:30:00,Artificial,Sun,19,Warm,4_3_3,4_3_3,00:00
+4189,95,NetED,2462405,Vitesse,Heracles,2017-10-15,10:30:00,Artificial,Sun,19,Warm,4_3_3,4_4_2,81:33
+4190,96,NetED,2462405,Vitesse,Heracles,2017-10-15,10:30:00,Artificial,Sun,19,Warm,4_3_3,3_5_2,85:24
+4191,97,NetED,2462406,Twente,Willem II,2017-10-15,12:30:00,Good,Sun,20,-,5_3_2,4_2_3_1,00:00
+4192,98,NetED,2462407,PSV,VVV,2017-10-15,12:30:00,Artificial,Sun,23,-,4_3_3,4_3_3,00:00
+4193,99,NetED,2462408,AZ,Groningen,2017-10-15,12:30:00,Good,Sun,21,-,4_3_3,4_3_3,00:00
+4194,100,NetED,2462409,Excelsior,ADO Den Haag,2017-10-15,14:45:00,Artificial,"Clear, Sun",20,-,4_3_3,4_3_3,00:00
+4195,101,NetED,2462410,Willem II,Groningen,2017-10-20,18:00:00,Good,Cloud,14,Cold,4_2_3_1,5_3_2,00:00
+4196,102,NetED,2462410,Willem II,Groningen,2017-10-20,18:00:00,Good,Cloud,14,Cold,4_4_1_1,5_3_2,22:09
+4197,103,NetED,2462411,PEC Zwolle,NAC Breda,2017-10-21,16:30:00,Good,"Cloud, Rain",13,Cold,4_2_3_1,4_3_3,00:00
+4198,104,NetED,2462411,PEC Zwolle,NAC Breda,2017-10-21,16:30:00,Good,"Cloud, Rain",13,Cold,4_4_2,4_3_3,77:04
+4199,105,NetED,2462412,Sparta Rotterdam,Excelsior,2017-10-21,17:45:00,Artificial,Clear,13,-,4_3_3,4_3_3,00:00
+4200,106,NetED,2462413,ADO Den Haag,VVV,2017-10-21,17:45:00,Poor,Clear,10,-,4_3_3,4_3_3,00:00
+4201,107,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Wet,Rain,16,Cold,4_2_3_1,4_2_3_1,00:00
+4202,108,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Wet,Light Rain,16,Cold,4_2_3_1,4_2_3_1,00:00
+4203,109,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Wet,Cloud,16,Cold,4_2_3_1,4_2_3_1,00:00
+4204,110,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Wet,Cloud,16,Cold,4_2_3_1,4_2_3_1,00:00
+4205,111,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Wet,Light Rain,16,Cold,4_2_3_1,4_2_3_1,00:00
+4206,112,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Wet,Light Rain,16,Cold,4_2_3_1,4_2_3_1,00:00
+4207,113,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Excellent,Rain,16,Cold,4_2_3_1,4_2_3_1,00:00
+4208,114,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Excellent,Light Rain,16,Cold,4_2_3_1,4_2_3_1,00:00
+4209,115,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Excellent,Cloud,16,Cold,4_2_3_1,4_2_3_1,00:00
+4210,116,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Excellent,Cloud,16,Cold,4_2_3_1,4_2_3_1,00:00
+4211,117,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Excellent,Light Rain,16,Cold,4_2_3_1,4_2_3_1,00:00
+4212,118,NetED,2462414,Roda JC,Twente,2017-10-21,18:45:00,Excellent,Light Rain,16,Cold,4_2_3_1,4_2_3_1,00:00
+4213,119,NetED,2462415,Heracles,PSV,2017-10-22,10:30:00,Good,Cloud,11,Cold,4_3_3,4_3_3,00:00
+4214,120,NetED,2462416,Ajax,Feyenoord,2017-10-22,12:30:00,"Excellent, Wet","Cloud, Rain",12,Cold,4_3_3,4_3_3,00:00
+4215,121,NetED,2462416,Ajax,Feyenoord,2017-10-22,12:30:00,"Excellent, Wet","Cloud, Rain",12,Cold,3_5_2,4_3_3,78:15
+4216,122,NetED,2462417,Utrecht,AZ,2017-10-22,12:30:00,Good,Rain,15,-,4_3_3,4_3_1_2,00:00
+4217,123,NetED,2462417,Utrecht,AZ,2017-10-22,12:30:00,Good,Clear,15,-,4_3_3,4_3_1_2,00:00
+4218,124,NetED,2462418,Vitesse,Heerenveen,2017-10-22,14:45:00,Good,"Cloud, Sun",14,Cold,4_2_3_1,4_3_3,00:00
+4219,125,NetED,2462418,Vitesse,Heerenveen,2017-10-22,14:45:00,Good,"Cloud, Sun",14,Cold,4_2_3_1,4_4_2,79:06
+4220,126,NetED,2462419,Excelsior,Twente,2017-10-27,18:00:00,Good,Cloud,14,-,4_2_3_1,4_3_3,00:00
+4221,127,NetED,2462421,Feyenoord,Roda JC,2017-10-28,16:30:00,"Artificial, Excellent","Cloud, Light Rain, Wind",11,Cold,4_2_3_1,4_3_3,00:00
+4222,128,NetED,2462420,VVV,Heracles,2017-10-28,16:30:00,Artificial,"Cloud, Rain",10,-,4_3_3,4_3_3,00:00
+4223,129,NetED,2462423,ADO Den Haag,PEC Zwolle,2017-10-28,18:45:00,Artificial,Cloud,12,-,4_3_3,4_3_3,00:00
+4224,130,NetED,2462423,ADO Den Haag,PEC Zwolle,2017-10-28,18:45:00,Artificial,"Cloud, Rain",12,-,4_3_3,4_3_3,00:00
+4225,131,NetED,2462422,Ajax,Willem II,2017-10-28,18:45:00,"Good, Wet",Light Rain,15,Cold,5_3_2,4_3_3,00:00
+4226,132,NetED,2462424,PSV,Vitesse,2017-10-29,11:30:00,Good,Sun,11,Cold,4_3_3,4_3_3,00:00
+4227,133,NetED,2462424,PSV,Vitesse,2017-10-29,11:30:00,Good,"Light Rain, Wind",11,Cold,4_3_3,4_3_3,00:00
+4228,134,NetED,2462424,PSV,Vitesse,2017-10-29,11:30:00,Good,Sun,11,Cold,4_3_3,4_3_3,00:00
+4229,135,NetED,2462425,NAC Breda,Utrecht,2017-10-29,13:30:00,Good,Clear,15,-,4_1_2_1_2,4_3_3,00:00
+4230,136,NetED,2462426,Groningen,Sparta Rotterdam,2017-10-29,13:30:00,"Artificial, Good","Clear, Light Rain, Wind",12,Cold,4_1_2_1_2,4_2_3_1,00:00
+4231,137,NetED,2462426,Groningen,Sparta Rotterdam,2017-10-29,13:30:00,"Artificial, Good","Clear, Light Rain, Wind",12,Cold,4_1_2_1_2,4_4_2,81:35
+4232,138,NetED,2462427,AZ,Heerenveen,2017-10-29,15:45:00,Excellent,Cloud,10,-,4_3_3,4_3_3,00:00
+4233,139,NetED,2462428,Heerenveen,Sparta Rotterdam,2017-11-03,19:00:00,"Artificial, Average",Cloud,11,-,4_3_1_2,4_3_3,00:00
+4234,140,NetED,2462429,Willem II,AZ,2017-11-04,17:30:00,Good,"Cloud, Rain",10,Cold,4_2_3_1,5_3_2,00:00
+4235,141,NetED,2462429,Willem II,AZ,2017-11-04,17:30:00,Good,"Cloud, Rain",10,Cold,4_2_3_1,4_3_3,71:10
+4236,142,NetED,2462431,Groningen,Heracles,2017-11-04,18:45:00,Artificial,Cloud,6,-,4_3_3,4_2_3_1,00:00
+4237,143,NetED,2462430,Roda JC,Excelsior,2017-11-04,18:45:00,"Artificial, Good",Cloud,11,Cold,4_3_3,4_2_3_1,00:00
+4238,144,NetED,2462430,Roda JC,Excelsior,2017-11-04,18:45:00,"Artificial, Good",Cloud,11,Cold,4_3_3,4_4_1_1,35:39
+4239,145,NetED,2462432,NAC Breda,VVV,2017-11-04,19:45:00,Poor,Clear,9,-,4_3_3,4_2_3_1,00:00
+4240,146,NetED,2462433,Feyenoord,ADO Den Haag,2017-11-05,11:30:00,Average,"Cloud, Sun",11,-,4_3_3,4_3_3,00:00
+4241,147,NetED,2462435,PEC Zwolle,Vitesse,2017-11-05,13:30:00,Average,Rain,10,-,4_3_3,4_3_3,00:00
+4242,148,NetED,2462434,Utrecht,Ajax,2017-11-05,13:30:00,Excellent,"Cloud, Light Rain",9,-,4_3_3,5_3_2,00:00
+4243,149,NetED,2462436,Twente,PSV,2017-11-05,15:45:00,Excellent,"Cloud, Light Rain",9,Cold,4_3_3,4_2_3_1,00:00
+4244,150,NetED,2462436,Twente,PSV,2017-11-05,15:45:00,Excellent,"Cloud, Light Rain",9,Cold,4_3_3,4_1_4_1,72:29
+4245,151,NetED,2462437,Heerenveen,Twente,2017-11-18,17:30:00,Good,Clear,9,-,4_3_3,4_3_3,00:00
+4246,152,NetED,2462438,VVV,Feyenoord,2017-11-18,17:30:00,Excellent,"Cloud, Light Wind",8,Cold,4_3_3,5_3_2,00:00
+4247,153,NetED,2462438,VVV,Feyenoord,2017-11-18,17:30:00,Excellent,"Cloud, Light Wind",8,Cold,4_3_3,4_1_2_1_2,71:30
+4248,154,NetED,2462439,Ajax,NAC Breda,2017-11-18,19:45:00,Good,Cloud,6,Cold,4_3_3,4_3_3,00:00
+4249,155,NetED,2462439,Ajax,NAC Breda,2017-11-18,19:45:00,Good,Cloud,6,Cold,3_4_1_2,4_3_3,45:00
+4250,156,NetED,2462440,Sparta Rotterdam,Willem II,2017-11-18,19:45:00,"Good, Wet","Cloud, Rain",7,Cold,5_3_2,4_1_4_1,00:00
+4251,157,NetED,2462440,Sparta Rotterdam,Willem II,2017-11-18,19:45:00,"Good, Wet","Cloud, Rain",7,Cold,4_1_4_1,4_1_4_1,45:00
+4252,158,NetED,2462440,Sparta Rotterdam,Willem II,2017-11-18,19:45:00,"Good, Wet","Cloud, Rain",7,Cold,4_4_2,4_1_4_1,48:43
+4253,159,NetED,2462441,Heracles,ADO Den Haag,2017-11-19,11:30:00,Artificial,"Clear, Cloud",12,-,4_3_3,4_3_3,00:00
+4254,160,NetED,2462441,Heracles,ADO Den Haag,2017-11-19,11:30:00,Artificial,,12,-,4_3_3,4_3_3,00:00
+4255,161,NetED,2462442,PSV,PEC Zwolle,2017-11-19,13:30:00,"Artificial, Good","Cloud, Light Rain, Sun",9,Cold,4_3_3,4_3_3,00:00
+4256,162,NetED,2462443,Excelsior,Utrecht,2017-11-19,13:30:00,Good,"Cloud, Light Rain, Wind",9,Cold,5_3_2,4_3_3,00:00
+4257,163,NetED,2462444,Vitesse,Groningen,2017-11-19,13:30:00,Good,"Cloud, Wind",8,-,4_3_3,4_3_3,00:00
+4258,164,NetED,2462445,AZ,Roda JC,2017-11-19,15:45:00,"Artificial, Good","Cloud, Light Rain",5,Cold,4_3_3,4_3_3,00:00
+4259,165,NetED,2462445,AZ,Roda JC,2017-11-19,15:45:00,"Artificial, Good","Cloud, Light Rain",5,Cold,4_4_2,4_3_3,84:59
+4260,166,NetED,2462446,Twente,AZ,2017-11-24,19:00:00,"Good, Wet","Cloud, Light Wind",10,-,4_3_3,5_3_2,00:00
+4261,167,NetED,2462446,Twente,AZ,2017-11-24,19:00:00,"Good, Wet","Cloud, Light Wind",10,-,4_3_3,3_4_1_2,72:50
+4262,168,NetED,2462447,Willem II,VVV,2017-11-25,17:30:00,Average,Clear,8,-,4_3_3,5_3_2,00:00
+4263,169,NetED,2462448,NAC Breda,Heracles,2017-11-25,18:45:00,Artificial,Cloud,5,Cold,4_2_3_1,4_1_4_1,00:00
+4264,170,NetED,2462449,Feyenoord,Groningen,2017-11-25,18:45:00,Good,Clear,3,Cold,4_3_3,4_3_3,00:00
+4265,171,NetED,2462450,PEC Zwolle,Heerenveen,2017-11-25,19:45:00,Good,"Cloud, Rain, Snow",5,Cold,4_2_3_1,4_3_3,00:00
+4266,172,NetED,2462451,Roda JC,Ajax,2017-11-26,11:30:00,Good,Closed Roof,7,-,4_3_3,4_3_3,00:00
+4267,173,NetED,2462451,Roda JC,Ajax,2017-11-26,11:30:00,Good,Closed Roof,7,-,4_3_3,4_4_2,71:55
+4268,174,NetED,2462452,PSV,Excelsior,2017-11-26,13:30:00,Artificial,Clear,8,-,4_3_3,4_3_3,00:00
+4269,175,NetED,2462453,Utrecht,Sparta Rotterdam,2017-11-26,13:30:00,Good,"Clear, Sun",10,-,4_3_3,5_3_2,00:00
+4270,176,NetED,2462453,Utrecht,Sparta Rotterdam,2017-11-26,13:30:00,Good,"Clear, Sun",10,-,4_4_2,5_3_2,79:34
+4271,177,NetED,2462454,ADO Den Haag,Vitesse,2017-11-26,15:45:00,Good,Clear,12,-,4_3_3,4_3_3,00:00
+4272,178,NetED,2462455,Utrecht,PEC Zwolle,2017-12-01,19:00:00,Artificial,Cloud,-1,Cold,4_3_3,5_3_2,00:00
+4273,179,NetED,2462457,Ajax,Twente,2017-12-02,17:30:00,Good,Clear,1,-,5_3_2,3_4_3,00:00
+4274,180,NetED,2462456,Groningen,ADO Den Haag,2017-12-02,17:30:00,Artificial,Clear,5,-,4_3_3,4_3_3,00:00
+4275,181,NetED,2462458,Vitesse,Feyenoord,2017-12-02,19:45:00,Good,Clear,2,-,4_3_3,4_3_3,00:00
+4276,182,NetED,2462459,Heracles,Willem II,2017-12-02,19:45:00,"Average, Wet",Cloud,-1,Cold,4_4_2,3_4_3,00:00
+4277,183,NetED,2462460,AZ,VVV,2017-12-03,11:30:00,Artificial,"Cloud, Rain",8,-,4_3_3,4_3_3,00:00
+4278,184,NetED,2462461,Sparta Rotterdam,PSV,2017-12-03,13:30:00,Excellent,"Cloud, Rain",5,Cold,4_2_3_1,4_4_2,00:00
+4279,185,NetED,2462461,Sparta Rotterdam,PSV,2017-12-03,13:30:00,Excellent,"Cloud, Rain",5,Cold,4_2_3_1,3_4_3,81:53
+4280,186,NetED,2462461,Sparta Rotterdam,PSV,2017-12-03,13:30:00,Excellent,"Cloud, Rain",5,Cold,4_3_3,3_4_3,84:36
+4281,187,NetED,2462462,Heerenveen,Roda JC,2017-12-03,13:30:00,Artificial,Clear,10,-,4_2_3_1,4_3_3,00:00
+4282,188,NetED,2462463,Excelsior,NAC Breda,2017-12-03,15:45:00,Good,"Cloud, Rain",5,Cold,4_2_3_1,4_2_3_1,00:00
+4283,189,NetED,2462464,NAC Breda,Willem II,2017-12-08,19:00:00,"Good, Wet","Cloud, Rain, Wind",3,Cold,4_4_2,4_3_3,00:00
+4284,190,NetED,2462464,NAC Breda,Willem II,2017-12-08,19:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",3,Cold,4_4_2,4_3_3,00:00
+4285,191,NetED,2462465,VVV,Heerenveen,2017-12-09,17:30:00,Good,Clear,4,-,4_3_3,4_3_3,00:00
+4286,192,NetED,2462467,PEC Zwolle,Excelsior,2017-12-09,18:45:00,"Artificial, Wet",Rain,4,Cold,4_3_3,4_3_3,00:00
+4287,193,NetED,2462467,PEC Zwolle,Excelsior,2017-12-09,18:45:00,"Artificial, Wet","Cloud, Light Rain",4,Cold,4_3_3,4_3_3,00:00
+4288,194,NetED,2462466,Heracles,AZ,2017-12-09,18:45:00,Average,"Cloud, Light Snow",4,Cold,4_3_3,4_3_3,00:00
+4289,195,NetED,2462468,ADO Den Haag,Twente,2017-12-09,19:45:00,Good,Cloud,1,Freezing,5_3_2,4_3_3,00:00
+4290,196,NetED,2462468,ADO Den Haag,Twente,2017-12-09,19:45:00,Good,Snow,1,Freezing,5_3_2,4_3_3,00:00
+4291,197,NetED,2462469,Groningen,Roda JC,2017-12-10,11:30:00,Artificial,Cloud,1,Freezing,4_2_3_1,4_2_3_1,00:00
+4292,198,NetED,2462472,PSV,Ajax,2017-12-10,15:45:00,Excellent,Closed Roof,7,Cold,4_3_3,4_3_3,00:00
+4293,199,NetED,2462472,PSV,Ajax,2017-12-10,15:45:00,Excellent,Closed Roof,7,Cold,4_2_3_1,4_3_3,86:58
+4294,200,NetED,2462473,Twente,NAC Breda,2017-12-12,17:30:00,Good,Cloud,1,-,4_3_3,5_3_2,00:00
+4295,201,NetED,2462473,Twente,NAC Breda,2017-12-12,17:30:00,Good,Cloud,1,-,4_4_2,5_3_2,76:06
+4296,202,NetED,2462474,AZ,PEC Zwolle,2017-12-12,19:45:00,"Artificial, Average",Clear,1,-,4_3_3,4_3_3,00:00
+4297,203,NetED,2462475,Willem II,Vitesse,2017-12-13,17:30:00,Good,Closed Roof,6,Cold,4_2_3_1,5_3_2,00:00
+4298,204,NetED,2462475,Willem II,Vitesse,2017-12-13,17:30:00,Good,Closed Roof,6,Cold,4_4_2,5_3_2,71:43
+4299,205,NetED,2462476,PSV,Groningen,2017-12-13,17:30:00,Good,Cloud,4,-,4_3_3,4_3_3,00:00
+4300,206,NetED,2462477,Utrecht,VVV,2017-12-13,18:45:00,"Artificial, Good, Wet","Cloud, Light Wind, Rain",5,Cold,4_3_3,5_3_2,00:00
+4301,207,NetED,2462479,Roda JC,ADO Den Haag,2017-12-13,19:45:00,"Artificial, Good, Wet","Cloud, Rain",6,-,4_3_3,4_2_3_1,00:00
+4302,208,NetED,2462479,Roda JC,ADO Den Haag,2017-12-13,19:45:00,"Artificial, Good, Wet","Cloud, Rain",6,-,4_3_3,3_4_1_2,76:44
+4303,209,NetED,2462478,Heerenveen,Feyenoord,2017-12-13,19:45:00,"Good, Wet","Cloud, Light Rain",7,-,4_3_3,4_4_2,00:00
+4304,210,NetED,2462480,Sparta Rotterdam,Heracles,2017-12-14,17:30:00,"Artificial, Average",Cloud,4,Cold,4_3_3,4_4_2,00:00
+4305,211,NetED,2462480,Sparta Rotterdam,Heracles,2017-12-14,17:30:00,"Artificial, Average",Cloud,4,Cold,4_4_2,4_4_2,87:45
+4306,212,NetED,2462481,Excelsior,Ajax,2017-12-14,19:45:00,"Excellent, Wet",Closed Roof,3,Cold,4_3_3,4_3_3,00:00
+4307,213,NetED,2462483,PEC Zwolle,Willem II,2017-12-16,17:30:00,Good,Clear,2,-,4_4_2,4_3_3,00:00
+4308,214,NetED,2462483,PEC Zwolle,Willem II,2017-12-16,17:30:00,Good,Rain,2,-,4_4_2,4_3_3,00:00
+4309,215,NetED,2462482,NAC Breda,Heerenveen,2017-12-16,17:30:00,Average,Cloud,4,Cold,4_3_3,4_3_3,00:00
+4310,216,NetED,2462484,ADO Den Haag,PSV,2017-12-16,18:45:00,Good,Light Rain,0,Freezing,4_3_3,4_3_3,00:00
+4311,217,NetED,2462484,ADO Den Haag,PSV,2017-12-16,18:45:00,Good,Clear,0,Freezing,4_3_3,4_3_3,00:00
+4312,218,NetED,2462486,VVV,Roda JC,2017-12-16,19:45:00,"Good, Wet","Cloud, Light Rain, Light Wind",2,Cold,4_3_1_2,4_3_3,00:00
+4313,219,NetED,2462486,VVV,Roda JC,2017-12-16,19:45:00,"Good, Wet","Cloud, Light Rain, Light Wind",2,Cold,4_3_1_2,4_4_2,91:30
+4314,220,NetED,2462485,Vitesse,Twente,2017-12-16,19:45:00,Excellent,Clear,4,-,5_3_2,5_3_2,00:00
+4315,221,NetED,2462487,Feyenoord,Sparta Rotterdam,2017-12-17,11:30:00,Excellent,Sun,6,Cold,4_4_2,4_3_3,00:00
+4316,222,NetED,2462489,Ajax,AZ,2017-12-17,13:30:00,Good,Cloud,5,Cold,4_2_3_1,4_3_3,00:00
+4317,223,NetED,2462489,Ajax,AZ,2017-12-17,13:30:00,Good,Cloud,5,Cold,3_4_1_2,4_3_3,76:29
+4318,224,NetED,2462489,Ajax,AZ,2017-12-17,13:30:00,Good,Cloud,5,Cold,3_4_1_2,4_2_3_1,79:12
+4319,225,NetED,2462488,Heracles,Utrecht,2017-12-17,13:30:00,Good,Clear,5,-,4_3_1_2,4_3_3,00:00
+4320,226,NetED,2462490,Groningen,Excelsior,2017-12-17,15:45:00,Artificial,Cloud,4,Cold,4_2_3_1,4_2_3_1,00:00
+4321,227,NetED,2462490,Groningen,Excelsior,2017-12-17,15:45:00,Artificial,Cloud,4,Cold,4_2_3_1,4_4_2,77:41
+4322,228,NetED,2462491,PEC Zwolle,ADO Den Haag,2017-12-22,19:00:00,"Artificial, Average","Cloud, Light Wind",9,Cold,4_3_3,4_2_3_1,00:00
+4323,229,NetED,2462496,Utrecht,NAC Breda,2017-12-23,17:30:00,Good,"Cloud, Rain",6,Cold,4_3_3,4_3_1_2,00:00
+4324,230,NetED,2462493,Heerenveen,AZ,2017-12-23,18:45:00,Good,Cloud,8,-,4_3_3,4_2_3_1,00:00
+4325,231,NetED,2462494,Vitesse,PSV,2017-12-23,18:45:00,Excellent,Clear,9,-,4_3_3,5_3_2,00:00
+4326,232,NetED,2462495,Twente,Excelsior,2017-12-23,19:45:00,"Artificial, Good, Wet","Cloud, Light Rain, Light Wind",8,-,4_3_3,4_2_3_1,00:00
+4327,233,NetED,2462498,Sparta Rotterdam,Groningen,2017-12-24,11:30:00,Good,"Cloud, Strong Wind",8,-,4_2_3_1,4_3_3,00:00
+4328,234,NetED,2462497,Willem II,Ajax,2017-12-24,13:30:00,Good,"Closed Roof, Cloud",8,Cold,4_3_3,4_2_3_1,00:00
+4329,235,NetED,2462492,Heracles,VVV,2017-12-24,13:30:00,Artificial,"Cloud, Sun",10,Cold,4_3_3,4_3_3,00:00
+4330,236,NetED,2462499,Roda JC,Feyenoord,2017-12-24,15:45:00,Good,"Cloud, Strong Wind",9,-,4_3_3,4_2_3_1,00:00
+4331,237,NetED,2462471,Vitesse,Sparta Rotterdam,2018-01-16,19:00:00,"Artificial, Good",Clear,5,-,4_3_3,4_3_3,00:00
+4332,238,NetED,2462471,Vitesse,Sparta Rotterdam,2018-01-16,19:00:00,"Artificial, Good",Clear,5,-,4_4_2,4_3_3,70:36
+4333,239,NetED,2462500,AZ,Utrecht,2018-01-19,19:00:00,Average,"Cloud, Light Rain",3,Cold,4_1_2_1_2,4_3_3,00:00
+4334,240,NetED,2462500,AZ,Utrecht,2018-01-19,19:00:00,Average,"Cloud, Light Rain",3,Cold,4_3_3,4_3_3,76:18
+4335,241,NetED,2462501,Twente,Roda JC,2018-01-20,17:30:00,"Artificial, Excellent, Wet","Cloud, Rain",2,Cold,4_3_1_2,5_3_2,00:00
+4336,242,NetED,2462501,Twente,Roda JC,2018-01-20,17:30:00,"Artificial, Excellent, Wet","Cloud, Rain",2,Cold,3_4_3,5_3_2,69:42
+4337,243,NetED,2462502,NAC Breda,PEC Zwolle,2018-01-20,18:45:00,"Artificial, Good",Cloud,3,Cold,4_3_3,4_3_3,00:00
+4338,244,NetED,2462502,NAC Breda,PEC Zwolle,2018-01-20,18:45:00,"Artificial, Good",Cloud,3,Cold,4_3_3,4_4_2,78:08
+4339,245,NetED,2462503,VVV,ADO Den Haag,2018-01-20,18:45:00,Artificial,"Cloud, Rain",4,Cold,4_1_4_1,4_2_3_1,00:00
+4340,246,NetED,2462503,VVV,ADO Den Haag,2018-01-20,18:45:00,Artificial,"Cloud, Rain",4,Cold,4_1_4_1,3_4_2_1,76:12
+4341,247,NetED,2462504,Heerenveen,Vitesse,2018-01-20,19:45:00,"Excellent, Soft, Wet",Cloud,1,Freezing,4_2_3_1,4_1_4_1,00:00
+4342,248,NetED,2462504,Heerenveen,Vitesse,2018-01-20,19:45:00,"Excellent, Soft, Wet",Cloud,1,Freezing,4_2_3_1,4_2_3_1,54:36
+4343,249,NetED,2462506,Excelsior,Sparta Rotterdam,2018-01-21,11:30:00,Artificial,"Cloud, Sun",5,Cold,4_2_3_1,4_3_3,00:00
+4344,250,NetED,2462506,Excelsior,Sparta Rotterdam,2018-01-21,11:30:00,Artificial,"Cloud, Sun",5,Cold,4_2_3_1,5_3_2,90:05
+4345,251,NetED,2462507,Feyenoord,Ajax,2018-01-21,13:30:00,Good,Cloud,8,Cold,4_1_4_1,4_2_3_1,00:00
+4346,252,NetED,2462507,Feyenoord,Ajax,2018-01-21,13:30:00,Good,Cloud,8,Cold,4_1_4_1,4_4_1_1,62:24
+4347,253,NetED,2462505,Groningen,Willem II,2018-01-21,13:30:00,Average,Cloud,5,Cold,4_1_2_1_2,4_2_3_1,00:00
+4348,254,NetED,2462508,PSV,Heracles,2018-01-21,15:45:00,Artificial,Cloud,3,Cold,4_1_4_1,4_4_1_1,00:00
+4349,255,NetED,2462470,Feyenoord,Utrecht,2018-01-24,19:00:00,"Patchy, Poor","Cloud, Light Rain, Wind",11,Cold,4_1_2_1_2,4_3_3,00:00
+4350,256,NetED,2462509,Sparta Rotterdam,Heerenveen,2018-01-26,19:00:00,Good,Cloud,4,Cold,4_2_3_1,4_2_3_1,00:00
+4351,257,NetED,2462509,Sparta Rotterdam,Heerenveen,2018-01-26,19:00:00,Good,Cloud,4,Cold,4_2_3_1,4_4_2,79:53
+4352,258,NetED,2462510,Heracles,Groningen,2018-01-27,17:30:00,Good,Rain,5,Cold,4_2_3_1,4_3_3,00:00
+4353,259,NetED,2462510,Heracles,Groningen,2018-01-27,17:30:00,Good,Clear,5,Cold,4_2_3_1,4_3_3,00:00
+4354,260,NetED,2462512,Vitesse,PEC Zwolle,2018-01-27,18:45:00,Good,"Cloud, Wind",6,Cold,4_2_3_1,4_3_3,00:00
+4355,261,NetED,2462511,PSV,Twente,2018-01-27,18:45:00,Good,Cloud,5,Cold,5_3_2,4_3_3,00:00
+4356,262,NetED,2462511,PSV,Twente,2018-01-27,18:45:00,Good,Light Rain,5,Cold,5_3_2,4_3_3,00:00
+4357,263,NetED,2462513,VVV,NAC Breda,2018-01-27,19:45:00,"Good, Wet","Cloud, Rain, Wind",6,Cold,4_3_3,4_3_3,00:00
+4358,264,NetED,2462514,Ajax,Utrecht,2018-01-28,11:30:00,"Patchy, Poor","Cloud, Sun",10,Cold,4_3_1_2,4_3_3,00:00
+4359,265,NetED,2462516,Excelsior,Roda JC,2018-01-28,13:30:00,"Artificial, Good","Cloud, Light Wind",10,Cold,4_1_2_1_2,4_3_3,00:00
+4360,266,NetED,2462516,Excelsior,Roda JC,2018-01-28,13:30:00,"Artificial, Good","Cloud, Light Wind",10,Cold,4_1_2_1_2,4_2_3_1,65:28
+4361,267,NetED,2462515,ADO Den Haag,Feyenoord,2018-01-28,13:30:00,Good,"Clear, Wind",11,Cold,4_3_3,4_3_3,00:00
+4362,268,NetED,2462517,AZ,Willem II,2018-01-28,15:45:00,Good,Cloud,11,-,4_4_2,4_3_3,00:00
+4363,269,NetED,2462518,Groningen,Vitesse,2018-02-02,19:00:00,Average,Cloud,3,Cold,4_3_3,4_2_3_1,00:00
+4364,270,NetED,2462518,Groningen,Vitesse,2018-02-02,19:00:00,Average,Cloud,3,Cold,5_4_1,4_2_3_1,75:45
+4365,271,NetED,2462519,Twente,Heerenveen,2018-02-03,17:30:00,Excellent,"Cloud, Light Wind",1,Cold,4_3_3,5_3_2,00:00
+4366,272,NetED,2462519,Twente,Heerenveen,2018-02-03,17:30:00,Excellent,"Cloud, Light Wind",1,Cold,4_3_3,4_4_2,81:32
+4367,273,NetED,2462521,PEC Zwolle,PSV,2018-02-03,18:45:00,Excellent,Clear,2,-,4_3_3,4_3_3,00:00
+4368,274,NetED,2462522,ADO Den Haag,Heracles,2018-02-03,19:45:00,"Artificial, Excellent","Clear, Light Wind",0,Freezing,4_3_3,4_3_3,00:00
+4369,275,NetED,2462523,Utrecht,Excelsior,2018-02-04,11:30:00,"Artificial, Good","Cloud, Sun",3,Cold,4_3_3,4_3_1_2,00:00
+4370,276,NetED,2462525,Feyenoord,VVV,2018-02-04,13:30:00,Good,Clear,1,Freezing,4_3_3,4_3_3,00:00
+4371,277,NetED,2462524,Willem II,Sparta Rotterdam,2018-02-04,13:30:00,"Artificial, Good","Cloud, Sun",3,Cold,4_3_3,5_3_2,00:00
+4372,278,NetED,2462524,Willem II,Sparta Rotterdam,2018-02-04,13:30:00,"Artificial, Good","Cloud, Sun",3,Cold,4_3_3,4_3_1_2,45:27
+4373,279,NetED,2462520,Roda JC,AZ,2018-02-04,13:30:00,Good,"Cloud, Light Rain",5,Cold,4_2_3_1,4_4_2,00:00
+4374,280,NetED,2462520,Roda JC,AZ,2018-02-04,13:30:00,Good,"Cloud, Light Rain",5,Cold,4_2_3_1,4_2_3_1,56:00
+4375,281,NetED,2462520,Roda JC,AZ,2018-02-04,13:30:00,Good,"Cloud, Light Rain",5,Cold,4_1_4_1,4_2_3_1,80:52
+4376,282,NetED,2462526,NAC Breda,Ajax,2018-02-04,15:45:00,Excellent,Cloud,3,Cold,4_3_3,4_3_3,00:00
+4377,283,NetED,2462526,NAC Breda,Ajax,2018-02-04,15:45:00,Excellent,Cloud,3,Cold,4_3_3,4_2_3_1,45:00
+4378,284,NetED,2462526,NAC Breda,Ajax,2018-02-04,15:45:00,Excellent,Cloud,3,Cold,4_1_4_1,4_2_3_1,78:50
+4379,285,NetED,2462528,Heerenveen,PEC Zwolle,2018-02-06,19:45:00,"Artificial, Average",Clear,-2,Freezing,4_3_3,4_3_3,00:00
+4380,286,NetED,2462528,Heerenveen,PEC Zwolle,2018-02-06,19:45:00,"Artificial, Average",Clear,-2,Freezing,4_3_3,4_4_2,77:35
+4381,287,NetED,2462530,Excelsior,PSV,2018-02-07,17:30:00,Good,Cloud,-1,Freezing,4_3_3,4_3_3,00:00
+4382,288,NetED,2462527,AZ,Twente,2018-02-07,17:30:00,Average,Cloud,-3,Freezing,3_5_2,4_3_3,00:00
+4383,289,NetED,2462527,AZ,Twente,2018-02-07,17:30:00,Average,Cloud,-3,Freezing,4_3_3,4_3_3,73:40
+4384,290,NetED,2462529,Sparta Rotterdam,Utrecht,2018-02-07,17:30:00,Good,Cloud,0,Freezing,4_1_2_1_2,3_5_2,00:00
+4385,291,NetED,2462529,Sparta Rotterdam,Utrecht,2018-02-07,17:30:00,Good,Cloud,0,Freezing,4_1_2_1_2,4_1_2_1_2,87:08
+4386,292,NetED,2462531,VVV,Willem II,2018-02-07,19:45:00,Average,Cloud,-3,Freezing,4_4_2,4_2_3_1,00:00
+4387,293,NetED,2462531,VVV,Willem II,2018-02-07,19:45:00,Average,Cloud,-3,Freezing,4_5_1,4_2_3_1,86:08
+4388,294,NetED,2462532,Heracles,NAC Breda,2018-02-07,19:45:00,Good,Cloud,1,Freezing,4_3_3,4_3_3,00:00
+4389,295,NetED,2462533,Ajax,Roda JC,2018-02-07,19:45:00,"Artificial, Good",Cloud,-4,Freezing,4_2_3_1,4_3_3,00:00
+4390,296,NetED,2462534,Vitesse,ADO Den Haag,2018-02-08,17:30:00,Good,Cloud,0,Freezing,4_3_3,4_3_3,00:00
+4391,297,NetED,2462535,Groningen,Feyenoord,2018-02-08,19:45:00,Good,Cloud,0,Freezing,4_3_3,4_2_3_1,00:00
+4392,298,NetED,2462537,PEC Zwolle,Utrecht,2018-02-10,17:30:00,"Good, Wet","Cloud, Wind",4,Cold,4_3_1_2,4_3_3,00:00
+4393,299,NetED,2462536,Willem II,Heracles,2018-02-10,17:30:00,"Artificial, Average",Clear,7,-,4_3_3,4_4_2,00:00
+4394,300,NetED,2462538,PSV,Sparta Rotterdam,2018-02-10,18:45:00,Artificial,"Cloud, Rain, Strong Wind",3,Cold,4_3_3,4_2_3_1,00:00
+4395,301,NetED,2462538,PSV,Sparta Rotterdam,2018-02-10,18:45:00,Artificial,"Cloud, Rain, Strong Wind",3,Cold,4_3_3,4_3_3,72:15
+4396,302,NetED,2462538,PSV,Sparta Rotterdam,2018-02-10,18:45:00,Artificial,"Cloud, Rain, Strong Wind",3,Cold,4_4_1_1,4_3_3,82:30
+4397,303,NetED,2462539,Roda JC,Heerenveen,2018-02-10,19:45:00,Good,"Cloud, Light Rain, Wind",2,Cold,4_3_3,4_1_2_1_2,00:00
+4398,304,NetED,2462540,VVV,AZ,2018-02-10,19:45:00,Good,Cloud,4,Cold,4_3_3,4_3_3,00:00
+4399,305,NetED,2462544,Twente,Ajax,2018-02-11,11:30:00,Good,"Clear, Wind",6,Cold,4_3_3,5_3_2,00:00
+4400,306,NetED,2462544,Twente,Ajax,2018-02-11,11:30:00,Good,"Clear, Wind",6,Cold,4_1_2_1_2,5_3_2,62:23
+4401,307,NetED,2462542,Feyenoord,Vitesse,2018-02-11,13:30:00,Good,Closed Roof,12,Warm,4_2_3_1,4_3_3,00:00
+4402,308,NetED,2462542,Feyenoord,Vitesse,2018-02-11,13:30:00,Good,Closed Roof,12,Warm,4_2_3_1,4_3_2_1,78:33
+4403,309,NetED,2462543,NAC Breda,Excelsior,2018-02-11,13:30:00,Artificial,Clear,4,-,4_3_3,4_4_2,00:00
+4404,310,NetED,2462541,ADO Den Haag,Groningen,2018-02-11,15:45:00,Good,Cloud,3,Cold,4_2_3_1,4_1_4_1,00:00
+4405,311,NetED,2462541,ADO Den Haag,Groningen,2018-02-11,15:45:00,Good,Cloud,3,Cold,4_4_2,4_1_4_1,16:22
+4406,312,NetED,2462545,Groningen,VVV,2018-02-16,19:00:00,Artificial,"Cloud, Light Rain",4,Cold,4_1_4_1,4_4_2,00:00
+4407,313,NetED,2462545,Groningen,VVV,2018-02-16,19:00:00,Artificial,"Cloud, Light Rain",4,Cold,4_2_3_1,4_4_2,54:54
+4408,314,NetED,2462546,Excelsior,Vitesse,2018-02-17,17:30:00,Good,Clear,6,-,4_3_3,4_3_3,00:00
+4409,315,NetED,2462548,Heerenveen,PSV,2018-02-17,18:45:00,Good,Clear,-2,Freezing,4_3_3,4_3_3,00:00
+4410,316,NetED,2462547,AZ,NAC Breda,2018-02-17,18:45:00,Average,Cloud,3,Cold,4_2_3_1,4_1_4_1,00:00
+4411,317,NetED,2462549,Willem II,ADO Den Haag,2018-02-17,19:45:00,Artificial,Clear,2,Cold,4_3_3,4_4_2,00:00
+4412,318,NetED,2462550,Utrecht,Roda JC,2018-02-18,11:30:00,Excellent,Sun,7,-,5_3_2,4_1_2_1_2,00:00
+4413,319,NetED,2462552,Sparta Rotterdam,Twente,2018-02-18,13:30:00,Good,Clear,7,-,5_3_2,4_3_3,00:00
+4414,320,NetED,2462551,Heracles,Feyenoord,2018-02-18,13:30:00,Good,Sun,4,Cold,4_2_3_1,4_3_3,00:00
+4415,321,NetED,2462551,Heracles,Feyenoord,2018-02-18,13:30:00,Good,Sun,4,Cold,4_2_3_1,4_4_2,82:43
+4416,322,NetED,2462551,Heracles,Feyenoord,2018-02-18,13:30:00,Good,Sun,4,Cold,5_4_1,4_4_2,90:20
+4417,323,NetED,2462553,Ajax,PEC Zwolle,2018-02-18,15:45:00,Good,Clear,6,Cold,4_3_3,4_3_3,00:00
+4418,324,NetED,2462554,NAC Breda,Groningen,2018-02-23,19:00:00,Good,Clear,-1,-,4_2_3_1,4_2_3_1,00:00
+4419,325,NetED,2462555,Sparta Rotterdam,AZ,2018-02-24,17:30:00,Good,"Cloud, Wind",1,Cold,4_3_3,5_3_2,00:00
+4420,326,NetED,2462555,Sparta Rotterdam,AZ,2018-02-24,17:30:00,Good,"Cloud, Wind",1,Cold,4_4_2,5_3_2,81:56
+4421,327,NetED,2462557,PEC Zwolle,Heracles,2018-02-24,18:45:00,Artificial,Cloud,1,Cold,4_3_3,4_2_3_1,00:00
+4422,328,NetED,2462557,PEC Zwolle,Heracles,2018-02-24,18:45:00,Artificial,Cloud,1,Cold,4_3_3,3_5_2,78:37
+4423,329,NetED,2462557,PEC Zwolle,Heracles,2018-02-24,18:45:00,Artificial,Cloud,1,Cold,4_3_3,4_4_2,81:03
+4424,330,NetED,2462556,Excelsior,Heerenveen,2018-02-24,18:45:00,Good,Clear,2,-,4_3_3,4_3_3,00:00
+4425,331,NetED,2462558,Vitesse,VVV,2018-02-24,19:45:00,Artificial,"Clear, Wind",-2,Freezing,4_3_3,4_3_3,00:00
+4426,332,NetED,2462559,ADO Den Haag,Ajax,2018-02-25,11:30:00,Excellent,Clear,1,-,4_3_3,4_3_3,00:00
+4427,333,NetED,2462561,Roda JC,Willem II,2018-02-25,13:30:00,Average,"Clear, Sun",3,Cold,4_4_2,4_4_2,00:00
+4428,334,NetED,2462561,Roda JC,Willem II,2018-02-25,13:30:00,Average,"Clear, Sun",3,Cold,4_4_2,3_5_2,76:10
+4429,335,NetED,2462560,PSV,Feyenoord,2018-02-25,13:30:00,Excellent,"Sun, Wind",2,Cold,4_3_3,4_3_3,00:00
+4430,336,NetED,2462562,Twente,Utrecht,2018-02-25,15:45:00,Average,Sun,0,Freezing,4_3_1_2,4_3_1_2,00:00
+4431,337,NetED,2462566,Heracles,Roda JC,2018-03-02,19:00:00,Artificial,"Cloud, Snow",-2,Freezing,4_4_2,4_3_3,00:00
+4432,338,NetED,2462564,Utrecht,PSV,2018-03-03,17:30:00,"Average, Wet",Cloud,-1,Freezing,4_3_3,4_1_2_1_2,00:00
+4433,339,NetED,2462565,AZ,Excelsior,2018-03-03,17:30:00,Average,Cloud,0,Cold,4_3_3,4_3_3,00:00
+4434,340,NetED,2462563,Willem II,Heerenveen,2018-03-03,19:45:00,"Dry, Excellent","Clear, Wind",-1,Freezing,4_5_1,4_2_2_2,00:00
+4435,341,NetED,2462563,Willem II,Heerenveen,2018-03-03,19:45:00,"Dry, Excellent","Clear, Wind",-1,Freezing,4_5_1,3_4_3,45:00
+4436,342,NetED,2462563,Willem II,Heerenveen,2018-03-03,19:45:00,"Dry, Excellent","Clear, Wind",-1,Freezing,4_5_1,3_5_2,65:50
+4437,343,NetED,2462563,Willem II,Heerenveen,2018-03-03,19:45:00,"Dry, Excellent","Clear, Wind",-1,Freezing,4_4_2,3_5_2,80:33
+4438,344,NetED,2462567,Feyenoord,NAC Breda,2018-03-03,19:45:00,Good,Cloud,7,Cold,4_2_3_1,4_3_3,00:00
+4439,345,NetED,2462567,Feyenoord,NAC Breda,2018-03-03,19:45:00,Good,Cloud,7,Cold,4_2_3_1,4_4_2,68:05
+4440,346,NetED,2462567,Feyenoord,NAC Breda,2018-03-03,19:45:00,Good,Cloud,7,Cold,4_2_3_1,3_4_3,83:00
+4441,347,NetED,2462568,VVV,PEC Zwolle,2018-03-04,11:30:00,Artificial,Sun,0,Cold,4_3_3,4_3_3,00:00
+4442,348,NetED,2462570,Ajax,Vitesse,2018-03-04,13:30:00,Good,"Sun, Wind",11,-,4_3_3,4_3_3,00:00
+4443,349,NetED,2462569,ADO Den Haag,Sparta Rotterdam,2018-03-04,13:30:00,Average,Cloud,8,-,4_3_3,4_3_3,00:00
+4444,350,NetED,2462571,Groningen,Twente,2018-03-04,15:45:00,Good,Clear,9,-,4_1_2_1_2,4_2_3_1,00:00
+4445,351,NetED,2462572,Twente,Heracles,2018-03-09,19:00:00,"Artificial, Excellent, Wet","Cloud, Light Wind, Rain",5,Cold,4_3_3,4_2_3_1,00:00
+4446,352,NetED,2462573,NAC Breda,ADO Den Haag,2018-03-10,17:30:00,Good,Clear,8,Cold,4_3_3,4_2_3_1,00:00
+4447,353,NetED,2462573,NAC Breda,ADO Den Haag,2018-03-10,17:30:00,Good,Clear,8,Cold,4_3_3,4_2_3_1,00:00
+4448,354,NetED,2462574,Excelsior,VVV,2018-03-10,18:45:00,"Artificial, Good",Cloud,13,Warm,4_3_3,4_3_3,00:00
+4449,355,NetED,2462575,PSV,Willem II,2018-03-10,18:45:00,"Good, Wet",Cloud,12,Cold,4_3_3,4_3_3,00:00
+4450,356,NetED,2462575,PSV,Willem II,2018-03-10,18:45:00,"Good, Wet",Rain,12,Cold,4_3_3,4_3_3,00:00
+4451,357,NetED,2462576,Sparta Rotterdam,Roda JC,2018-03-10,19:45:00,"Artificial, Average, Wet",Cloud,8,Cold,4_4_2,4_3_3,00:00
+4452,358,NetED,2462577,PEC Zwolle,Groningen,2018-03-11,11:30:00,Good,Cloud,12,Warm,4_2_3_1,4_3_3,00:00
+4453,359,NetED,2462577,PEC Zwolle,Groningen,2018-03-11,11:30:00,Good,Cloud,12,Warm,4_2_3_1,3_4_3,87:01
+4454,360,NetED,2462578,Vitesse,Utrecht,2018-03-11,13:30:00,Average,Cloud,11,Warm,4_3_1_2,4_3_3,00:00
+4455,361,NetED,2462578,Vitesse,Utrecht,2018-03-11,13:30:00,Average,Cloud,11,Warm,4_4_1_1,4_3_3,73:02
+4456,362,NetED,2462579,Heerenveen,Ajax,2018-03-11,13:30:00,Excellent,Clear,12,Warm,4_3_3,4_3_3,00:00
+4457,363,NetED,2462580,AZ,Feyenoord,2018-03-11,15:45:00,Good,Clear,13,Warm,4_3_3,4_3_3,00:00
+4458,364,NetED,2462580,AZ,Feyenoord,2018-03-11,15:45:00,Good,Clear,13,Warm,4_3_3,4_2_3_1,45:00

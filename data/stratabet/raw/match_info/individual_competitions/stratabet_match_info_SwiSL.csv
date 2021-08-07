@@ -1,0 +1,495 @@
+True,index,competition,gsm_id,awayteam_team2,hometeam_team1,kickoffDate,kickoffTime,pitchType,weatherType,tempCelcius,tempType,formation_team1,formation_team2,formation_time
+6794,294,SwiSL,2243181,Luzern,Lugano,2016-07-23,15:45:00,,Cloud,25,-,4_3_3,4_4_1_1,80:31
+6793,293,SwiSL,2243182,Young Boys,St. Gallen,2016-07-23,18:00:00,Good,Cloud,26,-,4_1_4_1,4_4_1_1,84:42
+6791,291,SwiSL,2243183,Lausanne Sport,Grasshopper,2016-07-24,11:45:00,Excellent,"Clear, Sun",26,-,4_1_4_1,4_1_2_1_2,84:49
+6792,292,SwiSL,2243184,Vaduz,Thun,2016-07-24,11:45:00,Artificial,Sun,25,-,4_4_2,4_3_1_2,81:36
+6790,290,SwiSL,2243185,Sion,Basel,2016-07-24,14:00:00,Excellent,"Clear, Sun",26,-,4_2_3_1,4_2_3_1,74:30
+6789,289,SwiSL,2243186,St. Gallen,Sion,2016-07-30,15:45:00,Poor,Cloud,28,-,4_2_3_1,4_4_1_1,75:21
+6788,288,SwiSL,2243187,Lugano,Young Boys,2016-07-30,18:00:00,"Artificial, Excellent",Clear,22,-,4_4_2,4_3_3,77:08
+6786,286,SwiSL,2243188,Thun,Lausanne Sport,2016-07-31,11:45:00,Good,"Cloud, Rain",23,-,4_1_2_1_2,4_4_1_1,75:09
+6787,287,SwiSL,2243189,Basel,Vaduz,2016-07-31,11:45:00,"Average, Uneven, Wet",Cloud,21,-,3_5_2,4_2_3_1,71:45
+6782,282,SwiSL,2243190,Grasshopper,Luzern,2016-07-31,14:00:00,Good,Rain,17,-,4_4_1_1,4_1_4_1,84:51
+6783,283,SwiSL,2243190,Grasshopper,Luzern,2016-07-31,14:00:00,Good,Rain,17,-,4_4_2,4_1_4_1,00:00
+6784,284,SwiSL,2243190,Grasshopper,Luzern,2016-07-31,14:00:00,Good,Cloud,17,-,4_4_1_1,4_1_4_1,84:51
+6785,285,SwiSL,2243190,Grasshopper,Luzern,2016-07-31,14:00:00,Good,Cloud,17,-,4_4_2,4_1_4_1,00:00
+6781,281,SwiSL,2243191,Thun,Young Boys,2016-08-06,15:45:00,Artificial,Sun,22,-,4_4_2,4_4_1_1,74:53
+6778,278,SwiSL,2243192,Lausanne Sport,Sion,2016-08-06,18:00:00,Average,Cloud,24,-,4_4_2,5_4_1,80:22
+6779,279,SwiSL,2243192,Lausanne Sport,Sion,2016-08-06,18:00:00,Average,Cloud,24,-,4_2_3_1,5_4_1,61:20
+6780,280,SwiSL,2243192,Lausanne Sport,Sion,2016-08-06,18:00:00,Average,Cloud,24,-,4_2_3_1,3_4_3,00:00
+6775,275,SwiSL,2243194,Basel,Luzern,2016-08-07,11:45:00,Excellent,Sun,21,-,4_4_2,4_2_3_1,79:34
+6776,276,SwiSL,2243194,Basel,Luzern,2016-08-07,11:45:00,Excellent,Sun,21,-,4_3_3,4_2_3_1,80:16
+6777,277,SwiSL,2243193,Vaduz,Lugano,2016-08-07,11:45:00,Average,"Clear, Sun",27,Warm,4_3_3,4_2_3_1,79:34
+6774,274,SwiSL,2243195,Grasshopper,St. Gallen,2016-08-07,14:00:00,"Dry, Good","Clear, Sun",17,Warm,4_4_2,4_2_3_1,69:45
+6772,272,SwiSL,2243197,Luzern,Vaduz,2016-08-10,17:45:00,Good,Rain,14,-,4_2_3_1,4_4_2,82:27
+6773,273,SwiSL,2243196,Sion,Lugano,2016-08-10,17:45:00,Average,Clear,18,-,4_3_3,4_2_3_1,74:29
+6770,270,SwiSL,2243198,Young Boys,Basel,2016-08-10,18:30:00,Excellent,Cloud,14,-,4_2_3_1,4_2_3_1,79:48
+6771,271,SwiSL,2243198,Young Boys,Basel,2016-08-10,18:30:00,Excellent,Cloud,14,-,4_2_3_1,5_4_1,66:14
+6766,266,SwiSL,2243200,Grasshopper,Thun,2016-08-11,17:45:00,Artificial,Cloud,16,-,4_4_2,4_1_4_1,72:35
+6767,267,SwiSL,2243200,Grasshopper,Thun,2016-08-11,17:45:00,Artificial,"Cloud, Sun",16,-,4_4_2,4_1_4_1,72:35
+6768,268,SwiSL,2243199,St. Gallen,Lausanne Sport,2016-08-11,17:45:00,"Excellent, Wet",Sun,14,Cold,3_5_1_1,4_4_2,74:04
+6769,269,SwiSL,2243199,St. Gallen,Lausanne Sport,2016-08-11,17:45:00,"Excellent, Wet",Sun,14,Cold,3_4_2_1,4_4_2,65:43
+6764,264,SwiSL,2243201,Lausanne Sport,Young Boys,2016-08-20,15:45:00,"Artificial, Good",Cloud,20,Warm,4_4_2,3_4_1_2,65:24
+6765,265,SwiSL,2243201,Lausanne Sport,Young Boys,2016-08-20,15:45:00,"Artificial, Good",Cloud,20,Warm,4_4_2,3_4_2_1,00:00
+6762,262,SwiSL,2243202,Lugano,Basel,2016-08-20,18:00:00,Excellent,"Cloud, Light Rain",17,Warm,4_2_3_1,4_4_2,76:35
+6763,263,SwiSL,2243202,Lugano,Basel,2016-08-20,18:00:00,Excellent,"Cloud, Light Rain",17,Warm,4_2_3_1,4_3_3,66:31
+6759,259,SwiSL,2243203,Sion,Grasshopper,2016-08-21,11:45:00,Excellent,"Clear, Sun",19,Warm,4_4_2,4_2_3_1,74:24
+6760,260,SwiSL,2243203,Sion,Grasshopper,2016-08-21,11:45:00,Excellent,"Clear, Sun",19,Warm,4_2_3_1,4_2_3_1,00:00
+6761,261,SwiSL,2243204,Thun,Luzern,2016-08-21,11:45:00,Average,"Cloud, Sun",22,-,4_4_2,4_4_1_1,79:10
+6755,255,SwiSL,2243205,St. Gallen,Vaduz,2016-08-21,14:00:00,Good,Clear,18,Warm,3_4_2_1,4_4_2,79:58
+6756,256,SwiSL,2243205,St. Gallen,Vaduz,2016-08-21,14:00:00,Good,Clear,18,Warm,4_2_3_1,4_2_3_1,65:50
+6757,257,SwiSL,2243205,St. Gallen,Vaduz,2016-08-21,14:00:00,Good,Clear,18,Warm,4_1_4_1,4_2_3_1,20:52
+6758,258,SwiSL,2243205,St. Gallen,Vaduz,2016-08-21,14:00:00,Good,Clear,18,Warm,3_4_2_1,4_2_3_1,71:29
+6754,254,SwiSL,2243206,Lausanne Sport,Lugano,2016-08-27,15:45:00,Average,Sun,29,-,4_3_3,3_4_2_1,77:16
+6748,248,SwiSL,2243207,Vaduz,Sion,2016-08-27,18:00:00,Good,Clear,27,Warm,4_3_3,4_2_3_1,85:54
+6749,249,SwiSL,2243207,Vaduz,Sion,2016-08-27,18:00:00,Good,Clear,27,Warm,4_3_3,4_1_4_1,14:09
+6750,250,SwiSL,2243207,Vaduz,Sion,2016-08-27,18:00:00,Good,Clear,27,Warm,4_3_3,3_4_2_1,00:00
+6751,251,SwiSL,2243207,Vaduz,Sion,2016-08-27,18:00:00,Good,Light Rain,27,Warm,4_3_3,4_2_3_1,85:54
+6752,252,SwiSL,2243207,Vaduz,Sion,2016-08-27,18:00:00,Good,Light Rain,27,Warm,4_3_3,4_1_4_1,14:09
+6753,253,SwiSL,2243207,Vaduz,Sion,2016-08-27,18:00:00,Good,Light Rain,27,Warm,4_3_3,3_4_2_1,00:00
+6745,245,SwiSL,2243209,Luzern,St. Gallen,2016-08-28,11:45:00,Excellent,Sun,27,Hot,4_4_2,4_4_2,84:57
+6746,246,SwiSL,2243208,Young Boys,Grasshopper,2016-08-28,11:45:00,Excellent,"Clear, Sun",29,Hot,4_2_3_1,4_4_2,75:10
+6747,247,SwiSL,2243208,Young Boys,Grasshopper,2016-08-28,11:45:00,Excellent,"Clear, Sun",29,Hot,4_2_3_1,3_4_3,81:32
+6744,244,SwiSL,2243210,Basel,Thun,2016-08-28,14:00:00,"Artificial, Good","Clear, Sun",31,Hot,4_2_3_1,4_2_3_1,78:31
+6741,241,SwiSL,2243212,Luzern,Young Boys,2016-09-10,18:00:00,Artificial,Clear,19,-,4_4_1_1,4_4_2,82:54
+6742,242,SwiSL,2243212,Luzern,Young Boys,2016-09-10,18:00:00,Artificial,Clear,19,-,4_4_2,4_4_2,71:09
+6743,243,SwiSL,2243211,Grasshopper,Basel,2016-09-10,18:00:00,Excellent,Clear,20,-,4_2_3_1,4_2_3_1,79:25
+6735,235,SwiSL,2243214,Thun,Sion,2016-09-11,11:45:00,Good,"Clear, Sun",29,Warm,4_3_3,4_4_2,76:33
+6736,236,SwiSL,2243214,Thun,Sion,2016-09-11,11:45:00,Good,"Clear, Sun",29,Warm,4_3_3,4_2_3_1,66:09
+6737,237,SwiSL,2243213,Vaduz,Lausanne Sport,2016-09-11,11:45:00,Good,"Clear, Sun",25,Warm,3_4_2_1,3_4_3,71:16
+6738,238,SwiSL,2243213,Vaduz,Lausanne Sport,2016-09-11,11:45:00,Good,"Clear, Sun",25,Warm,4_4_2,3_4_3,62:36
+6739,239,SwiSL,2243213,Vaduz,Lausanne Sport,2016-09-11,11:45:00,Good,"Clear, Sun",25,Warm,4_4_2,4_4_2,60:01
+6740,240,SwiSL,2243213,Vaduz,Lausanne Sport,2016-09-11,11:45:00,Good,"Clear, Sun",25,Warm,3_1_3_1_2,4_4_2,00:00
+6734,234,SwiSL,2243215,Lugano,St. Gallen,2016-09-11,14:00:00,Good,"Clear, Sun",23,-,4_2_3_1,4_3_3,82:06
+6732,232,SwiSL,2243216,St. Gallen,Thun,2016-09-20,17:45:00,Artificial,Cloud,13,Cold,4_4_2,4_4_2,86:46
+6733,233,SwiSL,2243216,St. Gallen,Thun,2016-09-20,17:45:00,Artificial,Cloud,13,Cold,4_2_3_1,4_4_2,75:08
+6730,230,SwiSL,2243217,Sion,Luzern,2016-09-21,17:45:00,Good,Cloud,13,-,4_4_2,4_3_3,78:38
+6731,231,SwiSL,2243218,Young Boys,Vaduz,2016-09-21,17:45:00,"Excellent, Wet",Cloud,12,Cold,4_1_2_1_2,4_4_2,73:42
+6729,229,SwiSL,2243219,Basel,Lausanne Sport,2016-09-21,18:30:00,Excellent,Cloud,12,-,3_5_2,3_5_2,77:44
+6727,227,SwiSL,2243220,Grasshopper,Lugano,2016-09-22,17:45:00,Average,Cloud,18,-,4_1_4_1,4_4_2,70:53
+6728,228,SwiSL,2243220,Grasshopper,Lugano,2016-09-22,17:45:00,Average,Cloud,18,-,4_1_4_1,4_2_3_1,64:00
+6726,226,SwiSL,2243221,Lausanne Sport,Luzern,2016-09-24,15:45:00,Good,Clear,19,Warm,4_4_2,3_5_2,69:23
+6725,225,SwiSL,2243222,Basel,St. Gallen,2016-09-24,18:00:00,Excellent,Clear,15,-,4_4_2,4_2_3_1,82:46
+6723,223,SwiSL,2243223,Vaduz,Grasshopper,2016-09-25,11:45:00,Excellent,"Clear, Sun",20,Warm,4_2_3_1,4_3_3,79:22
+6724,224,SwiSL,2243224,Lugano,Thun,2016-09-25,11:45:00,Artificial,"Clear, Sun",21,-,4_4_2,4_3_3,66:34
+6721,221,SwiSL,2243225,Young Boys,Sion,2016-09-25,14:00:00,Good,"Clear, Sun",22,Warm,4_3_3,4_4_2,82:43
+6722,222,SwiSL,2243225,Young Boys,Sion,2016-09-25,14:00:00,Good,"Clear, Sun",22,Warm,4_3_3,4_2_3_1,00:00
+6720,220,SwiSL,2243230,Sion,Vaduz,2016-10-01,15:45:00,Good,Cloud,14,-,4_1_2_1_2,4_1_4_1,83:34
+6718,218,SwiSL,2243226,Thun,Basel,2016-10-01,18:00:00,Good,"Cloud, Light Rain",16,-,4_2_3_1,4_4_2,76:46
+6719,219,SwiSL,2243226,Thun,Basel,2016-10-01,18:00:00,Good,"Cloud, Light Rain",16,-,4_4_2,4_4_2,57:30
+6716,216,SwiSL,2243228,Lugano,Lausanne Sport,2016-10-02,11:45:00,Average,Cloud,16,-,3_1_3_1_2,4_3_3,74:40
+6717,217,SwiSL,2243229,St. Gallen,Young Boys,2016-10-02,11:45:00,Artificial,"Cloud, Light Wind",13,Cold,4_4_2,4_4_2,77:35
+6714,214,SwiSL,2243227,Luzern,Grasshopper,2016-10-02,14:00:00,Good,Cloud,14,Cold,4_2_3_1,4_4_1_1,76:13
+6715,215,SwiSL,2243227,Luzern,Grasshopper,2016-10-02,14:00:00,Good,Cloud,14,Cold,4_2_3_1,4_4_2,55:41
+6713,213,SwiSL,2243235,Lausanne Sport,Thun,2016-10-15,15:45:00,Artificial,Cloud,14,-,4_4_2,3_5_2,75:07
+6712,212,SwiSL,2243231,Luzern,Basel,2016-10-15,18:00:00,Excellent,Clear,10,Cold,4_2_3_1,4_4_2,84:47
+6707,207,SwiSL,2243233,Grasshopper,Sion,2016-10-16,11:45:00,Good,"Clear, Sun",18,Warm,4_4_2,3_4_1_2,72:45
+6708,208,SwiSL,2243233,Grasshopper,Sion,2016-10-16,11:45:00,Good,"Clear, Sun",18,Warm,4_3_3,3_4_1_2,70:26
+6709,209,SwiSL,2243233,Grasshopper,Sion,2016-10-16,11:45:00,Good,"Clear, Sun",18,Warm,4_3_3,4_2_3_1,00:00
+6710,210,SwiSL,2243234,Vaduz,St. Gallen,2016-10-16,11:45:00,Good,"Clear, Sun",14,Warm,3_4_3,3_1_3_1_2,82:20
+6711,211,SwiSL,2243234,Vaduz,St. Gallen,2016-10-16,11:45:00,Good,"Clear, Sun",14,Warm,4_4_2,3_1_3_1_2,70:52
+6706,206,SwiSL,2243232,Young Boys,Lugano,2016-10-16,14:00:00,Average,"Cloud, Sun",18,-,4_3_3,4_4_2,83:36
+6705,205,SwiSL,2243239,Thun,Vaduz,2016-10-22,15:45:00,Good,Cloud,10,-,3_5_2,4_4_2,85:12
+6704,204,SwiSL,2243237,Basel,Lugano,2016-10-22,18:00:00,Average,Cloud,10,-,4_5_1,4_2_3_1,78:36
+6703,203,SwiSL,2243240,Grasshopper,Young Boys,2016-10-23,11:45:00,Artificial,Cloud,8,-,4_4_2,3_5_2,75:47
+6698,198,SwiSL,2243236,Sion,Lausanne Sport,2016-10-23,14:00:00,Good,Cloud,8,Cold,3_4_1_2,4_3_3,74:05
+6699,199,SwiSL,2243236,Sion,Lausanne Sport,2016-10-23,14:00:00,Good,Rain,8,Cold,3_4_1_2,4_3_3,74:05
+6700,200,SwiSL,2243238,St. Gallen,Luzern,2016-10-23,14:00:00,"Good, Wet","Cloud, Light Rain, Rain",5,Cold,4_4_1_1,4_4_2,76:38
+6701,201,SwiSL,2243238,St. Gallen,Luzern,2016-10-23,14:00:00,"Good, Wet","Cloud, Light Rain, Rain",5,Cold,4_3_3,4_4_2,61:47
+6702,202,SwiSL,2243238,St. Gallen,Luzern,2016-10-23,14:00:00,"Good, Wet","Cloud, Light Rain, Rain",5,Cold,4_4_2,4_4_2,00:00
+6697,197,SwiSL,2243243,Lugano,Sion,2016-10-29,15:45:00,"Excellent, Good",Clear,12,-,4_3_3,4_3_3,56:32
+6696,196,SwiSL,2243241,Basel,Grasshopper,2016-10-29,18:00:00,Good,Clear,8,-,4_4_2,4_2_3_1,80:08
+6694,194,SwiSL,2243245,Vaduz,Young Boys,2016-10-30,12:45:00,Artificial,Sun,5,Cold,4_4_2,3_4_1_2,80:48
+6695,195,SwiSL,2243242,Luzern,Lausanne Sport,2016-10-30,12:45:00,Average,Sun,12,Warm,3_5_2,4_4_2,84:37
+6693,193,SwiSL,2243244,Thun,St. Gallen,2016-10-30,15:00:00,Good,"Clear, Sun",11,-,4_4_2,4_4_2,77:00
+6692,192,SwiSL,2243249,Sion,Thun,2016-11-05,16:45:00,Artificial,Rain,7,-,4_4_2,4_3_3,78:59
+6686,186,SwiSL,2243246,Lausanne Sport,Basel,2016-11-05,19:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",8,Cold,3_4_3,3_4_3,81:00
+6687,187,SwiSL,2243246,Lausanne Sport,Basel,2016-11-05,19:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",8,Cold,4_2_2_2,3_4_3,63:52
+6688,188,SwiSL,2243246,Lausanne Sport,Basel,2016-11-05,19:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",8,Cold,4_2_3_1,3_4_3,58:52
+6689,189,SwiSL,2243246,Lausanne Sport,Basel,2016-11-05,19:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",8,Cold,4_2_2_2,3_5_2,67:41
+6690,190,SwiSL,2243246,Lausanne Sport,Basel,2016-11-05,19:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",8,Cold,4_3_3,3_4_3,77:55
+6691,191,SwiSL,2243246,Lausanne Sport,Basel,2016-11-05,19:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",8,Cold,3_4_3,3_5_2,81:31
+6684,184,SwiSL,2243250,Grasshopper,Vaduz,2016-11-06,12:45:00,"Average, Wet","Light Rain, Light Snow, Snow",3,Cold,4_1_2_1_2,4_2_3_1,81:19
+6685,185,SwiSL,2243247,St. Gallen,Lugano,2016-11-06,12:45:00,Good,"Cloud, Light Rain",11,-,4_3_3,3_4_1_2,87:58
+6682,182,SwiSL,2243248,Young Boys,Luzern,2016-11-06,15:00:00,Good,Cloud,5,Cold,3_5_2,4_4_2,74:43
+6683,183,SwiSL,2243248,Young Boys,Luzern,2016-11-06,15:00:00,Good,Light Rain,5,Cold,3_5_2,4_4_2,74:43
+6680,180,SwiSL,2243252,Thun,Grasshopper,2016-11-19,16:45:00,Excellent,Cloud,6,-,4_2_3_1,4_4_2,81:48
+6681,181,SwiSL,2243252,Thun,Grasshopper,2016-11-19,16:45:00,Excellent,Cloud,6,-,4_4_2,4_4_2,91:09
+6679,179,SwiSL,2243251,Vaduz,Basel,2016-11-19,19:00:00,Excellent,"Cloud, Light Rain",3,-,4_2_3_1,4_1_2_1_2,73:19
+6676,176,SwiSL,2243255,Sion,Young Boys,2016-11-20,12:45:00,Good,"Clear, Sun",9,-,4_2_3_1,4_3_3,81:49
+6677,177,SwiSL,2243255,Sion,Young Boys,2016-11-20,12:45:00,Good,"Clear, Sun",9,-,4_4_2,4_3_3,67:19
+6678,178,SwiSL,2243254,Lausanne Sport,St. Gallen,2016-11-20,12:45:00,Good,"Cloud, Sun",8,-,3_4_3,3_4_1_2,88:20
+6674,174,SwiSL,2243253,Lugano,Luzern,2016-11-20,15:00:00,Good,Clear,7,Cold,4_4_1_1,4_3_3,87:32
+6675,175,SwiSL,2243253,Lugano,Luzern,2016-11-20,15:00:00,Good,Clear,7,Cold,4_4_2,4_3_3,00:00
+6673,173,SwiSL,2243259,Luzern,Thun,2016-11-26,16:45:00,Artificial,Cloud,7,Cold,4_4_2,3_5_2,79:56
+6672,172,SwiSL,2243256,St. Gallen,Grasshopper,2016-11-26,19:00:00,Excellent,Cloud,6,Cold,4_2_3_1,3_4_2_1,80:02
+6669,169,SwiSL,2243257,Young Boys,Lausanne Sport,2016-11-27,12:45:00,Good,"Clear, Sun, Wind",8,Cold,3_5_2,4_3_3,76:17
+6670,170,SwiSL,2243257,Young Boys,Lausanne Sport,2016-11-27,12:45:00,Good,"Clear, Sun, Wind",8,Cold,3_5_2,4_4_2,11:59
+6671,171,SwiSL,2243260,Lugano,Vaduz,2016-11-27,12:45:00,Good,Cloud,8,-,4_4_2,4_4_2,84:06
+6668,168,SwiSL,2243258,Basel,Sion,2016-11-27,15:00:00,Average,Clear,9,-,4_3_3,4_2_3_1,82:51
+6667,167,SwiSL,2243263,Vaduz,Luzern,2016-12-03,16:45:00,Good,Cloud,1,Freezing,4_4_2,4_4_2,71:14
+6664,164,SwiSL,2243265,Basel,Young Boys,2016-12-03,19:00:00,"Artificial, Good",Clear,2,Cold,4_4_1_1,4_4_2,76:44
+6665,165,SwiSL,2243265,Basel,Young Boys,2016-12-03,19:00:00,"Artificial, Good",Clear,2,Cold,4_4_1_1,4_2_3_1,45:00
+6666,166,SwiSL,2243265,Basel,Young Boys,2016-12-03,19:00:00,"Artificial, Good",Clear,2,Cold,4_2_3_1,4_2_3_1,00:00
+6662,162,SwiSL,2243262,Thun,Lugano,2016-12-04,12:45:00,Good,Cloud,8,Cold,4_4_2,4_4_2,84:27
+6663,163,SwiSL,2243261,Grasshopper,Lausanne Sport,2016-12-04,12:45:00,Good,Sun,6,Cold,3_5_2,4_2_3_1,82:32
+6661,161,SwiSL,2243264,Sion,St. Gallen,2016-12-04,15:00:00,Good,Cloud,1,Freezing,3_5_2,4_3_3,67:03
+6659,159,SwiSL,2243270,Lausanne Sport,Vaduz,2016-12-10,16:45:00,Average,Clear,4,Cold,4_3_3,4_1_2_1_2,77:00
+6660,160,SwiSL,2243270,Lausanne Sport,Vaduz,2016-12-10,16:45:00,Average,Clear,4,Cold,4_3_3,4_3_1_2,00:00
+6658,158,SwiSL,2243266,St. Gallen,Basel,2016-12-10,19:00:00,Good,Clear,1,Freezing,4_2_3_1,3_4_3,75:43
+6654,154,SwiSL,2243268,Luzern,Sion,2016-12-11,12:45:00,"Average, Good","Clear, Sun",2,Cold,4_3_3,3_4_3,77:53
+6655,155,SwiSL,2243268,Luzern,Sion,2016-12-11,12:45:00,"Average, Good","Clear, Sun",2,Cold,4_3_3,3_4_2_1,45:00
+6656,156,SwiSL,2243268,Luzern,Sion,2016-12-11,12:45:00,"Average, Good","Clear, Sun",2,Cold,4_3_3,4_2_3_1,45:00
+6657,157,SwiSL,2243267,Lugano,Grasshopper,2016-12-11,12:45:00,Good,"Cloud, Light Wind",6,Cold,4_2_3_1,4_3_3,79:00
+6653,153,SwiSL,2243269,Young Boys,Thun,2016-12-11,15:00:00,Artificial,Cloud,2,Cold,4_4_2,4_4_2,86:30
+6650,150,SwiSL,2243272,Thun,Grasshopper,2017-02-04,16:45:00,Good,"Cloud, Light Rain",5,-,4_4_2,4_4_2,90:58
+6651,151,SwiSL,2243272,Thun,Grasshopper,2017-02-04,16:45:00,Good,"Cloud, Light Rain",5,-,4_2_3_1,4_4_2,74:30
+6652,152,SwiSL,2243272,Thun,Grasshopper,2017-02-04,16:45:00,Good,"Cloud, Light Rain",5,-,4_1_4_1,4_4_2,00:00
+6649,149,SwiSL,2243271,Lugano,Basel,2017-02-04,19:00:00,"Good, Soft","Cloud, Strong Wind",7,Cold,4_2_3_1,4_3_3,77:25
+6646,146,SwiSL,2243274,St. Gallen,Vaduz,2017-02-05,12:45:00,"Poor, Uneven",Cloud,6,Cold,4_3_3,3_1_3_1_2,86:07
+6647,147,SwiSL,2243274,St. Gallen,Vaduz,2017-02-05,12:45:00,Average,Cloud,6,Cold,4_3_3,3_1_3_1_2,86:07
+6648,148,SwiSL,2243273,Luzern,Lausanne Sport,2017-02-05,12:45:00,"Average, Wet","Cloud, Rain",4,-,3_5_1_1,3_4_3,86:20
+6644,144,SwiSL,2243275,Sion,Young Boys,2017-02-05,15:00:00,"Artificial, Wet",Light Snow,0,Freezing,4_2_3_1,3_4_3,84:59
+6645,145,SwiSL,2243275,Sion,Young Boys,2017-02-05,15:00:00,"Artificial, Wet",Light Snow,0,Freezing,4_2_3_1,4_3_3,65:48
+6643,143,SwiSL,2243280,Basel,Thun,2017-02-11,16:45:00,Artificial,Clear,2,Cold,4_4_2,4_2_3_1,80:52
+6642,142,SwiSL,2243276,Grasshopper,Lugano,2017-02-11,19:00:00,Good,Clear,4,Cold,4_3_3,4_2_3_1,81:44
+6639,139,SwiSL,2243278,Vaduz,Sion,2017-02-12,12:45:00,"Average, Poor","Clear, Light Wind, Sun",9,Cold,4_3_3,4_4_2,82:36
+6640,140,SwiSL,2243278,Vaduz,Sion,2017-02-12,12:45:00,"Average, Poor","Clear, Light Wind, Sun",9,Cold,4_3_3,4_2_3_1,73:42
+6641,141,SwiSL,2243279,Lausanne Sport,St. Gallen,2017-02-12,12:45:00,"Good, Wet",Cloud,2,Freezing,3_4_1_2,3_5_2,88:36
+6637,137,SwiSL,2243277,Young Boys,Luzern,2017-02-12,15:00:00,Average,"Cloud, Sun",8,-,3_4_3,4_4_2,81:07
+6638,138,SwiSL,2243277,Young Boys,Luzern,2017-02-12,15:00:00,Average,"Cloud, Sun",8,-,3_4_3,4_2_3_1,00:00
+6635,135,SwiSL,2243283,Thun,Luzern,2017-02-18,16:45:00,Good,Cloud,2,-,5_3_2,4_4_2,77:15
+6636,136,SwiSL,2243283,Thun,Luzern,2017-02-18,16:45:00,Good,Cloud,2,-,4_1_2_1_2,4_4_2,45:02
+6633,133,SwiSL,2243285,St. Gallen,Young Boys,2017-02-18,19:00:00,"Artificial, Average",Clear,2,Freezing,4_2_3_1,5_4_1,86:30
+6634,134,SwiSL,2243285,St. Gallen,Young Boys,2017-02-18,19:00:00,"Artificial, Average",Clear,2,Freezing,4_2_3_1,4_4_2,67:36
+6628,128,SwiSL,2243284,Lugano,Vaduz,2017-02-19,12:45:00,Average,"Light Wind, Sun",2,Cold,3_4_2_1,4_3_3,71:57
+6629,129,SwiSL,2243284,Lugano,Vaduz,2017-02-19,12:45:00,Average,"Light Wind, Sun",2,Cold,4_2_3_1,4_3_3,61:47
+6630,130,SwiSL,2243284,Lugano,Vaduz,2017-02-19,12:45:00,Average,"Light Wind, Sun",2,Cold,4_2_3_1,4_2_3_1,32:29
+6631,131,SwiSL,2243281,Lausanne Sport,Basel,2017-02-19,12:45:00,Good,"Clear, Sun, Wind",10,-,4_4_2,3_1_3_1_2,78:24
+6632,132,SwiSL,2243281,Lausanne Sport,Basel,2017-02-19,12:45:00,Good,"Clear, Sun, Wind",10,-,4_2_3_1,3_1_3_1_2,54:44
+6627,127,SwiSL,2243282,Sion,Grasshopper,2017-02-19,15:00:00,Good,"Cloud, Sun",7,-,4_2_3_1,4_3_3,89:11
+6626,126,SwiSL,2243290,Vaduz,Thun,2017-02-25,16:45:00,Artificial,"Cloud, Sun",8,-,4_4_2,3_4_1_2,76:53
+6625,125,SwiSL,2243287,Young Boys,Grasshopper,2017-02-25,19:00:00,Good,Cloud,4,Cold,4_2_3_1,4_4_2,81:39
+6620,120,SwiSL,2243288,Sion,Lausanne Sport,2017-02-26,12:45:00,Average,"Clear, Sun",10,-,4_3_3,4_3_3,74:27
+6621,121,SwiSL,2243288,Sion,Lausanne Sport,2017-02-26,12:45:00,Average,"Clear, Sun",10,-,3_5_2,4_3_3,60:03
+6622,122,SwiSL,2243288,Sion,Lausanne Sport,2017-02-26,12:45:00,Average,Cloud,10,-,4_3_3,4_3_3,74:27
+6623,123,SwiSL,2243288,Sion,Lausanne Sport,2017-02-26,12:45:00,Average,Cloud,10,-,3_5_2,4_3_3,60:03
+6624,124,SwiSL,2243286,Luzern,Basel,2017-02-26,12:45:00,Excellent,"Cloud, Sun",12,-,4_2_3_1,3_4_2_1,80:23
+6618,118,SwiSL,2243289,Lugano,St. Gallen,2017-02-26,15:00:00,"Average, Patchy",Clear,10,-,3_4_3,4_3_3,78:09
+6619,119,SwiSL,2243289,Lugano,St. Gallen,2017-02-26,15:00:00,"Average, Patchy",Clear,10,-,3_4_1_2,4_3_3,68:53
+6612,112,SwiSL,2243295,Thun,Young Boys,2017-03-04,16:45:00,Artificial,"Cloud, Strong Wind",7,Cold,4_4_2,4_4_2,78:06
+6613,113,SwiSL,2243295,Thun,Young Boys,2017-03-04,16:45:00,Artificial,"Cloud, Strong Wind",7,Cold,4_2_3_1,4_4_2,28:51
+6614,114,SwiSL,2243295,Thun,Young Boys,2017-03-04,16:45:00,Artificial,"Rain, Strong Wind",7,Cold,4_4_2,4_4_2,78:06
+6615,115,SwiSL,2243295,Thun,Young Boys,2017-03-04,16:45:00,Artificial,"Rain, Strong Wind",7,Cold,4_2_3_1,4_4_2,28:51
+6616,116,SwiSL,2243291,Lausanne Sport,Lugano,2017-03-04,16:45:00,Good,Cloud,10,-,4_3_3,4_2_3_1,85:21
+6617,117,SwiSL,2243291,Lausanne Sport,Lugano,2017-03-04,16:45:00,Good,Cloud,10,-,4_3_3,3_5_2,66:29
+6608,108,SwiSL,2243293,St. Gallen,Sion,2017-03-05,12:45:00,"Average, Patchy, Wet",Cloud,8,-,4_2_3_1,4_5_1,77:29
+6609,109,SwiSL,2243293,St. Gallen,Sion,2017-03-05,12:45:00,"Average, Patchy, Wet",Cloud,8,-,4_2_3_1,3_4_1_2,45:00
+6610,110,SwiSL,2243294,Basel,Vaduz,2017-03-05,12:45:00,Good,"Clear, Light Wind, Sun",11,-,4_1_2_1_2,4_4_2,82:57
+6611,111,SwiSL,2243294,Basel,Vaduz,2017-03-05,12:45:00,Good,"Clear, Light Wind, Sun",11,-,4_1_2_1_2,4_2_3_1,00:00
+6604,104,SwiSL,2243292,Grasshopper,Luzern,2017-03-05,15:00:00,Good,"Cloud, Wind",8,Cold,4_4_2,4_2_3_1,79:31
+6605,105,SwiSL,2243292,Grasshopper,Luzern,2017-03-05,15:00:00,Good,"Cloud, Wind",8,Cold,3_5_2,4_2_3_1,62:57
+6606,106,SwiSL,2243292,Grasshopper,Luzern,2017-03-05,15:00:00,Good,Light Rain,8,Cold,4_4_2,4_2_3_1,79:31
+6607,107,SwiSL,2243292,Grasshopper,Luzern,2017-03-05,15:00:00,Good,Light Rain,8,Cold,3_5_2,4_2_3_1,62:57
+6603,103,SwiSL,2243296,Vaduz,Grasshopper,2017-03-11,16:45:00,Good,Cloud,7,Cold,4_2_3_1,4_3_1_2,70:25
+6602,102,SwiSL,2243299,Luzern,St. Gallen,2017-03-11,19:00:00,Average,Clear,7,Cold,3_4_2_1,5_4_1,82:50
+6599,99,SwiSL,2243300,Lugano,Thun,2017-03-12,12:45:00,Artificial,"Clear, Sun",15,Warm,4_4_2,4_3_3,72:25
+6600,100,SwiSL,2243297,Young Boys,Lausanne Sport,2017-03-12,12:45:00,Good,Sun,16,-,5_4_1,4_4_2,79:53
+6601,101,SwiSL,2243297,Young Boys,Lausanne Sport,2017-03-12,12:45:00,Good,Sun,16,-,4_1_4_1,4_4_2,63:08
+6597,97,SwiSL,2243298,Basel,Sion,2017-03-12,15:00:00,Poor,"Clear, Strong Wind, Sun",17,Warm,4_4_2,4_2_3_1,85:43
+6598,98,SwiSL,2243298,Basel,Sion,2017-03-12,15:00:00,Poor,"Clear, Strong Wind, Sun",17,Warm,4_3_3,4_2_3_1,75:28
+6595,95,SwiSL,2243303,Sion,Luzern,2017-03-18,16:45:00,Average,"Cloud, Rain",7,Cold,3_4_1_2,4_3_3,69:00
+6596,96,SwiSL,2243303,Sion,Luzern,2017-03-18,16:45:00,Average,"Cloud, Rain",7,Cold,4_3_3,4_3_3,63:05
+6594,94,SwiSL,2243301,Grasshopper,Basel,2017-03-18,19:00:00,Good,Cloud,10,-,4_2_3_1,4_2_3_1,83:23
+6592,92,SwiSL,2243304,St. Gallen,Thun,2017-03-19,12:45:00,Artificial,"Cloud, Wind",14,-,4_4_2,3_4_2_1,79:09
+6593,93,SwiSL,2243302,Young Boys,Lugano,2017-03-19,12:45:00,Good,"Clear, Light Wind, Sun",20,-,5_3_2,4_4_2,79:00
+6589,89,SwiSL,2243305,Lausanne Sport,Vaduz,2017-03-19,15:00:00,Good,"Clear, Sun",14,Warm,4_4_1_1,4_4_2,77:57
+6590,90,SwiSL,2243305,Lausanne Sport,Vaduz,2017-03-19,15:00:00,Good,"Clear, Sun",14,Warm,4_1_2_1_2,4_4_2,62:07
+6591,91,SwiSL,2243305,Lausanne Sport,Vaduz,2017-03-19,15:00:00,Good,"Clear, Sun",14,Warm,4_1_2_1_2,4_1_4_1,00:00
+6587,87,SwiSL,2243308,Thun,Sion,2017-04-01,15:45:00,"Good, Wet","Cloud, Light Rain, Wind",15,-,4_3_3,3_5_2,87:02
+6588,88,SwiSL,2243308,Thun,Sion,2017-04-01,15:45:00,"Good, Wet","Cloud, Light Rain, Wind",15,-,4_3_3,4_4_2,76:35
+6586,86,SwiSL,2243309,Basel,St. Gallen,2017-04-01,18:00:00,"Average, Patchy","Clear, Light Wind",11,-,3_1_3_1_2,4_2_3_1,73:48
+6582,82,SwiSL,2243307,Lugano,Luzern,2017-04-02,11:45:00,"Average, Good",Cloud,13,Warm,4_4_2,3_1_3_1_2,77:14
+6583,83,SwiSL,2243307,Lugano,Luzern,2017-04-02,11:45:00,"Average, Good",Cloud,13,Warm,3_4_1_2,3_1_3_1_2,70:05
+6584,84,SwiSL,2243310,Vaduz,Young Boys,2017-04-02,11:45:00,Artificial,Cloud,12,-,4_4_2,4_4_1_1,81:21
+6585,85,SwiSL,2243310,Vaduz,Young Boys,2017-04-02,11:45:00,Artificial,Cloud,12,-,4_4_2,4_3_1_2,55:53
+6579,79,SwiSL,2243306,Grasshopper,Lausanne Sport,2017-04-02,14:00:00,Good,"Clear, Light Wind, Wind",10,Warm,4_4_1_1,4_2_3_1,85:58
+6580,80,SwiSL,2243306,Grasshopper,Lausanne Sport,2017-04-02,14:00:00,Good,"Clear, Light Wind, Wind",10,Warm,4_4_2,4_2_3_1,76:30
+6581,81,SwiSL,2243306,Grasshopper,Lausanne Sport,2017-04-02,14:00:00,Good,"Clear, Light Wind, Wind",10,Warm,4_1_4_1,4_2_3_1,64:22
+6578,78,SwiSL,2243314,Lausanne Sport,Thun,2017-04-08,15:45:00,Artificial,Clear,20,Warm,4_4_2,4_1_4_1,82:50
+6577,77,SwiSL,2243312,St. Gallen,Grasshopper,2017-04-08,18:00:00,Good,Cloud,13,-,4_2_3_1,3_5_2,84:03
+6573,73,SwiSL,2243313,Sion,Lugano,2017-04-09,11:45:00,Good,"Clear, Sun, Wind",19,Warm,3_1_3_1_2,4_3_3,76:45
+6574,74,SwiSL,2243313,Sion,Lugano,2017-04-09,11:45:00,Good,"Clear, Sun, Wind",19,Warm,3_1_3_1_2,4_4_2,67:37
+6575,75,SwiSL,2243313,Sion,Lugano,2017-04-09,11:45:00,Good,"Clear, Sun, Wind",19,Warm,3_1_3_1_2,4_2_3_1,45:00
+6576,76,SwiSL,2243315,Luzern,Vaduz,2017-04-09,11:45:00,Good,"Clear, Sun",22,-,4_3_3,3_4_1_2,79:10
+6571,71,SwiSL,2243311,Young Boys,Basel,2017-04-09,14:00:00,Excellent,"Clear, Sun",25,Warm,4_2_2_2,4_4_2,80:13
+6572,72,SwiSL,2243311,Young Boys,Basel,2017-04-09,14:00:00,Excellent,"Clear, Sun",25,Warm,4_2_3_1,4_4_2,45:00
+6570,70,SwiSL,2243319,Sion,Vaduz,2017-04-15,15:45:00,Good,"Cloud, Light Rain",14,-,4_4_1_1,4_3_1_2,86:57
+6568,68,SwiSL,2243316,Basel,Lausanne Sport,2017-04-15,18:00:00,Good,Clear,12,-,3_4_2_1,4_2_3_1,78:52
+6569,69,SwiSL,2243316,Basel,Lausanne Sport,2017-04-15,18:00:00,Good,Clear,12,-,4_1_4_1,4_2_3_1,55:18
+6566,66,SwiSL,2243320,Grasshopper,Young Boys,2017-04-17,11:45:00,Artificial,Cloud,14,-,4_2_3_1,4_2_3_1,85:29
+6567,67,SwiSL,2243317,Thun,Lugano,2017-04-17,11:45:00,Good,"Clear, Sun",17,Warm,3_5_2,4_4_2,86:02
+6564,64,SwiSL,2243318,St. Gallen,Luzern,2017-04-17,14:00:00,Good,"Cloud, Light Wind",13,-,3_5_2,3_4_1_2,87:33
+6565,65,SwiSL,2243318,St. Gallen,Luzern,2017-04-17,14:00:00,Good,"Cloud, Light Wind",13,-,3_5_2,3_4_2_1,66:23
+6562,62,SwiSL,2243322,Luzern,Grasshopper,2017-04-22,15:45:00,Good,Cloud,13,Warm,4_2_3_1,4_3_3,89:32
+6563,63,SwiSL,2243322,Luzern,Grasshopper,2017-04-22,15:45:00,Good,Cloud,13,Warm,4_2_3_1,5_3_2,45:00
+6561,61,SwiSL,2243321,Vaduz,Basel,2017-04-22,18:00:00,Excellent,Cloud,11,-,4_2_3_1,4_1_4_1,79:51
+6558,58,SwiSL,2243324,Thun,St. Gallen,2017-04-23,11:45:00,Good,"Clear, Light Wind",11,-,3_4_3,4_4_2,78:58
+6559,59,SwiSL,2243324,Thun,St. Gallen,2017-04-23,11:45:00,Good,"Clear, Light Wind",11,-,3_5_2,4_4_2,67:12
+6560,60,SwiSL,2243325,Lugano,Young Boys,2017-04-23,11:45:00,Artificial,Sun,13,-,4_4_2,3_5_2,58:45
+6557,57,SwiSL,2243323,Lausanne Sport,Sion,2017-04-23,14:00:00,Good,"Clear, Sun, Wind",19,Warm,4_2_3_1,4_1_4_1,81:34
+6555,55,SwiSL,2243328,Basel,Luzern,2017-04-28,17:45:00,Good,Cloud,11,-,4_4_2,4_2_3_1,76:52
+6556,56,SwiSL,2243328,Basel,Luzern,2017-04-28,17:45:00,Good,Cloud,11,-,4_1_4_1,4_2_3_1,74:03
+6552,52,SwiSL,2243327,Vaduz,Lausanne Sport,2017-04-29,15:45:00,Good,"Clear, Sun",14,Warm,3_4_3,4_1_4_1,75:45
+6553,53,SwiSL,2243327,Vaduz,Lausanne Sport,2017-04-29,15:45:00,Good,"Clear, Sun",14,Warm,4_1_4_1,4_1_4_1,57:19
+6554,54,SwiSL,2243327,Vaduz,Lausanne Sport,2017-04-29,15:45:00,Good,"Clear, Sun",14,Warm,4_4_2,4_1_4_1,59:47
+6549,49,SwiSL,2243329,Young Boys,St. Gallen,2017-04-30,11:45:00,Good,"Clear, Sun",14,Warm,4_4_1_1,4_4_2,79:25
+6550,50,SwiSL,2243329,Young Boys,St. Gallen,2017-04-30,11:45:00,Good,"Clear, Sun",14,Warm,3_5_2,4_4_2,74:18
+6551,51,SwiSL,2243330,Sion,Thun,2017-04-30,11:45:00,Artificial,Sun,18,Hot,4_4_2,4_3_3,88:45
+6548,48,SwiSL,2243326,Lugano,Grasshopper,2017-04-30,14:00:00,Excellent,"Clear, Sun",19,Warm,4_2_3_1,3_5_2,88:19
+6546,46,SwiSL,2243334,Luzern,Thun,2017-05-06,15:45:00,Artificial,"Cloud, Rain",11,-,4_1_4_1,4_2_3_1,80:35
+6547,47,SwiSL,2243334,Luzern,Thun,2017-05-06,15:45:00,Artificial,"Cloud, Rain",11,-,4_4_2,4_2_3_1,60:37
+6544,44,SwiSL,2243335,Grasshopper,Vaduz,2017-05-06,18:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",9,Cold,4_4_2,4_2_3_1,74:22
+6545,45,SwiSL,2243335,Grasshopper,Vaduz,2017-05-06,18:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",9,Cold,4_1_4_1,4_2_3_1,00:00
+6541,41,SwiSL,2243332,Basel,Lugano,2017-05-07,11:45:00,Good,Cloud,18,Warm,3_5_2,4_2_3_1,80:56
+6542,42,SwiSL,2243332,Basel,Lugano,2017-05-07,11:45:00,Good,Cloud,18,Warm,3_5_2,4_2_3_1,80:56
+6543,43,SwiSL,2243331,St. Gallen,Lausanne Sport,2017-05-07,11:45:00,Good,"Cloud, Light Rain",12,-,4_1_4_1,4_2_3_1,74:02
+6540,40,SwiSL,2243333,Young Boys,Sion,2017-05-07,14:00:00,Good,"Clear, Cloud, Wind",14,Warm,4_3_3,4_2_3_1,76:00
+6539,39,SwiSL,2243338,Lugano,Sion,2017-05-13,15:45:00,Good,"Cloud, Sun",21,-,4_2_3_1,3_5_2,80:10
+6537,37,SwiSL,2243339,Vaduz,St. Gallen,2017-05-13,18:00:00,Good,"Cloud, Light Rain, Wind",17,Warm,4_3_3,4_4_2,78:55
+6538,38,SwiSL,2243339,Vaduz,St. Gallen,2017-05-13,18:00:00,Good,"Cloud, Light Rain, Wind",17,Warm,4_3_3,4_1_4_1,00:00
+6533,33,SwiSL,2243336,Thun,Basel,2017-05-14,11:45:00,Excellent,"Clear, Sun",18,Warm,3_4_2_1,4_4_2,75:00
+6534,34,SwiSL,2243336,Thun,Basel,2017-05-14,11:45:00,Excellent,"Clear, Sun",18,Warm,4_2_3_1,4_4_2,65:16
+6535,35,SwiSL,2243337,Lausanne Sport,Grasshopper,2017-05-14,11:45:00,"Good, Wet","Cloud, Light Wind, Rain",14,Warm,4_2_3_1,4_4_2,71:05
+6536,36,SwiSL,2243337,Lausanne Sport,Grasshopper,2017-05-14,11:45:00,"Good, Wet",Clear,14,Warm,4_2_3_1,4_4_2,71:05
+6531,31,SwiSL,2243340,Luzern,Young Boys,2017-05-14,14:00:00,Artificial,"Cloud, Sun",17,-,4_2_3_1,4_4_2,78:32
+6532,32,SwiSL,2243340,Luzern,Young Boys,2017-05-14,14:00:00,Artificial,"Cloud, Sun",17,-,4_4_2,4_4_2,61:05
+6528,28,SwiSL,2243342,St. Gallen,Lugano,2017-05-16,17:45:00,Good,"Clear, Sun",22,Warm,3_5_2,4_4_2,78:48
+6529,29,SwiSL,2243342,St. Gallen,Lugano,2017-05-16,17:45:00,Good,"Clear, Sun",22,Warm,3_5_2,4_2_3_1,74:26
+6530,30,SwiSL,2243342,St. Gallen,Lugano,2017-05-16,17:45:00,Good,"Clear, Sun",22,Warm,3_5_2,3_4_3,87:02
+6525,25,SwiSL,2243345,Young Boys,Vaduz,2017-05-17,17:45:00,Good,"Clear, Sun",22,Warm,4_4_2,4_4_2,77:50
+6526,26,SwiSL,2243345,Young Boys,Vaduz,2017-05-17,17:45:00,Good,"Clear, Sun",22,Warm,4_3_2_1,4_4_2,56:10
+6527,27,SwiSL,2243343,Lausanne Sport,Luzern,2017-05-17,17:45:00,Good,Clear,20,Warm,3_5_2,4_3_3,68:40
+6524,24,SwiSL,2243344,Grasshopper,Thun,2017-05-17,18:30:00,Artificial,Clear,14,-,4_4_2,4_2_3_1,81:34
+6523,23,SwiSL,2243341,Sion,Basel,2017-05-18,17:45:00,Good,Cloud,19,-,4_2_3_1,4_3_3,89:15
+6522,22,SwiSL,2243346,Thun,Lausanne Sport,2017-05-20,15:45:00,Good,"Clear, Light Wind, Sun",15,Warm,4_3_3,4_4_2,76:55
+6519,19,SwiSL,2243347,Vaduz,Lugano,2017-05-20,18:00:00,Good,"Clear, Light Wind",11,Warm,4_4_1_1,4_4_2,75:20
+6520,20,SwiSL,2243347,Vaduz,Lugano,2017-05-20,18:00:00,Good,"Clear, Light Wind",11,Warm,4_4_1_1,4_2_3_1,45:00
+6521,21,SwiSL,2243347,Vaduz,Lugano,2017-05-20,18:00:00,Good,"Clear, Light Wind",11,Warm,3_5_1_1,4_2_3_1,00:00
+6517,17,SwiSL,2243348,Luzern,Sion,2017-05-21,11:45:00,Good,"Clear, Sun, Wind",23,Warm,4_3_3,3_5_2,74:29
+6518,18,SwiSL,2243349,Grasshopper,St. Gallen,2017-05-21,11:45:00,Good,Clear,15,-,4_3_3,4_2_3_1,85:28
+6516,16,SwiSL,2243350,Basel,Young Boys,2017-05-21,14:00:00,Artificial,"Clear, Light Wind, Sun",20,Warm,4_4_2,4_2_3_1,75:34
+6506,6,SwiSL,2243353,Vaduz,Luzern,2017-05-28,14:00:00,Average,"Cloud, Sun",24,Warm,4_4_2,3_5_1_1,77:48
+6507,7,SwiSL,2243353,Vaduz,Luzern,2017-05-28,14:00:00,Average,"Cloud, Sun",24,Warm,3_5_2,3_5_1_1,00:00
+6508,8,SwiSL,2243355,Young Boys,Thun,2017-05-28,14:00:00,"Artificial, Good","Clear, Sun",28,-,4_4_2,3_4_3,81:16
+6509,9,SwiSL,2243351,Basel,Grasshopper,2017-05-28,14:00:00,Good,"Cloud, Sun",26,Warm,4_2_3_1,4_4_2,71:48
+6510,10,SwiSL,2243354,Sion,St. Gallen,2017-05-28,14:00:00,Good,Sun,24,Warm,4_3_3,4_2_3_1,84:26
+6511,11,SwiSL,2243354,Sion,St. Gallen,2017-05-28,14:00:00,Good,Sun,24,Warm,4_2_2_2,4_3_3,61:52
+6512,12,SwiSL,2243354,Sion,St. Gallen,2017-05-28,14:00:00,Good,Sun,24,Warm,4_2_3_1,4_3_3,00:00
+6513,13,SwiSL,2243354,Sion,St. Gallen,2017-05-28,14:00:00,Good,Sun,24,Warm,4_3_3,4_3_3,72:37
+6514,14,SwiSL,2243352,Lugano,Lausanne Sport,2017-05-28,14:00:00,Good,Cloud,22,Warm,4_3_3,3_4_3,66:59
+6515,15,SwiSL,2243352,Lugano,Lausanne Sport,2017-05-28,14:00:00,Good,Cloud,22,Warm,4_3_3,3_5_2,56:06
+6500,0,SwiSL,2243360,Lausanne Sport,Young Boys,2017-06-02,18:30:00,"Artificial, Excellent","Cloud, Sun",15,Warm,3_4_1_2,4_3_3,81:49
+6501,1,SwiSL,2243358,Grasshopper,Sion,2017-06-02,18:30:00,Good,Cloud,22,Warm,4_3_3,4_2_3_1,84:35
+6502,2,SwiSL,2243357,Luzern,Lugano,2017-06-02,18:30:00,Good,Clear,15,-,4_1_2_1_2,3_1_3_1_2,81:25
+6503,3,SwiSL,2243357,Luzern,Lugano,2017-06-02,18:30:00,Good,Clear,15,-,4_3_3,3_5_2,00:00
+6504,4,SwiSL,2243356,St. Gallen,Basel,2017-06-02,18:30:00,Good,Cloud,23,-,4_2_3_1,4_1_2_1_2,78:50
+6505,5,SwiSL,2243359,Thun,Vaduz,2017-06-02,18:30:00,Good,Clear,20,Warm,4_1_2_1_2,4_4_2,79:16
+6301,0,SwiSL,2467021,Basel,Young Boys,2017-07-22,17:00:00,Artificial,"Clear, Sun",24,Warm,4_4_2,4_2_3_1,00:00
+6302,1,SwiSL,2467021,Basel,Young Boys,2017-07-22,17:00:00,Artificial,"Clear, Sun",24,Warm,4_4_2,3_4_2_1,68:01
+6303,2,SwiSL,2467020,St. Gallen,Lausanne Sport,2017-07-22,17:00:00,Average,Clear,20,-,3_5_2,4_2_3_1,00:00
+6304,3,SwiSL,2467024,Sion,Thun,2017-07-23,14:00:00,"Artificial, Good","Cloud, Sun",22,Hot,4_4_2,3_5_2,00:00
+6305,4,SwiSL,2467022,Zurich,Grasshopper,2017-07-23,14:00:00,Good,Cloud,18,Warm,4_2_3_1,3_4_3,00:00
+6306,5,SwiSL,2467023,Lugano,Luzern,2017-07-23,14:00:00,Good,Cloud,20,Warm,4_4_2,3_5_2,00:00
+6307,6,SwiSL,2467025,Young Boys,Grasshopper,2017-07-29,17:00:00,Average,Sun,23,-,4_2_3_1,4_4_2,00:00
+6308,7,SwiSL,2467029,Thun,Zurich,2017-07-30,14:00:00,Excellent,"Clear, Sun",26,Warm,3_4_3,4_4_2,00:00
+6309,8,SwiSL,2467066,Sion,Lausanne Sport,2017-07-30,14:00:00,Good,"Clear, Sun",28,Hot,3_5_2,3_5_2,00:00
+6310,9,SwiSL,2467066,Sion,Lausanne Sport,2017-07-30,14:00:00,Good,"Clear, Sun",28,Hot,3_4_2_1,3_5_2,53:31
+6311,10,SwiSL,2467066,Sion,Lausanne Sport,2017-07-30,14:00:00,Good,"Clear, Sun",28,Hot,3_4_1_2,3_5_2,57:46
+6312,11,SwiSL,2467027,Luzern,Basel,2017-07-30,14:00:00,Good,"Cloud, Sun",30,Hot,3_5_2,4_4_2,00:00
+6313,12,SwiSL,2467030,Zurich,Lugano,2017-08-05,17:00:00,Good,"Clear, Sun",34,Hot,3_5_2,4_4_1_1,00:00
+6314,13,SwiSL,2467030,Zurich,Lugano,2017-08-05,17:00:00,Good,"Clear, Sun",34,Hot,4_3_3,4_4_1_1,74:58
+6315,14,SwiSL,2467031,Basel,Thun,2017-08-05,17:00:00,Artificial,"Clear, Sun",24,Warm,4_4_2,3_5_2,00:00
+6316,15,SwiSL,2467031,Basel,Thun,2017-08-05,17:00:00,Artificial,"Clear, Sun",24,Warm,4_4_2,3_4_2_1,82:32
+6317,16,SwiSL,2467033,Sion,St. Gallen,2017-08-06,14:00:00,"Average, Wet","Cloud, Light Rain",14,-,4_2_3_1,3_5_1_1,00:00
+6318,17,SwiSL,2467034,Lausanne Sport,Young Boys,2017-08-06,14:00:00,Artificial,"Cloud, Light Wind, Sun",22,Warm,4_4_2,4_4_2,00:00
+6319,18,SwiSL,2467032,Grasshopper,Luzern,2017-08-06,14:00:00,Good,Cloud,17,-,4_4_2,3_4_3,00:00
+6320,19,SwiSL,2467036,Luzern,St. Gallen,2017-08-09,18:00:00,"Excellent, Wet",Cloud,18,Warm,4_2_3_1,4_4_1_1,00:00
+6321,20,SwiSL,2467037,Thun,Young Boys,2017-08-09,18:00:00,"Artificial, Dry, Good","Cloud, Sun",19,Warm,4_4_2,4_4_2,00:00
+6322,21,SwiSL,2467035,Lugano,Lausanne Sport,2017-08-09,18:00:00,Good,Cloud,13,-,3_4_1_2,3_5_2,00:00
+6323,22,SwiSL,2467038,Grasshopper,Basel,2017-08-10,18:00:00,Good,Cloud,16,-,3_5_2,3_4_3,00:00
+6324,23,SwiSL,2467039,Sion,Zurich,2017-08-10,18:00:00,Excellent,"Cloud, Sun",12,Cold,3_4_2_1,4_2_3_1,00:00
+6325,24,SwiSL,2467026,St. Gallen,Lugano,2017-08-16,16:30:00,Good,Cloud,22,-,3_5_2,3_4_1_2,00:00
+6326,25,SwiSL,2467040,Lausanne Sport,Thun,2017-08-19,17:00:00,Artificial,"Cloud, Sun, Wind",19,Warm,4_4_2,4_3_3,00:00
+6327,26,SwiSL,2467041,Young Boys,Zurich,2017-08-19,17:00:00,Excellent,"Clear, Sun, Wind",18,-,3_4_3,4_4_2,00:00
+6328,27,SwiSL,2467042,Lugano,Basel,2017-08-20,14:00:00,"Average, Patchy","Clear, Sun",21,-,3_5_2,3_5_2,00:00
+6329,28,SwiSL,2467043,St. Gallen,Grasshopper,2017-08-20,14:00:00,Average,"Cloud, Sun",19,-,3_4_3,3_4_1_2,00:00
+6330,29,SwiSL,2467043,St. Gallen,Grasshopper,2017-08-20,14:00:00,Average,"Cloud, Sun",19,-,3_4_3,4_4_2,64:37
+6331,30,SwiSL,2467044,Luzern,Sion,2017-08-20,14:00:00,Good,Sun,24,-,3_5_2,4_2_3_1,00:00
+6332,31,SwiSL,2467044,Luzern,Sion,2017-08-20,14:00:00,Good,Sun,24,-,3_5_2,4_4_2,21:32
+6333,32,SwiSL,2467045,Grasshopper,Lausanne Sport,2017-08-26,17:00:00,Good,"Cloud, Sun",25,-,4_4_2,4_1_4_1,00:00
+6334,33,SwiSL,2467045,Grasshopper,Lausanne Sport,2017-08-26,17:00:00,Good,"Cloud, Sun",25,-,4_4_1_1,4_1_4_1,12:05
+6335,34,SwiSL,2467046,Thun,Lugano,2017-08-26,17:00:00,"Average, Patchy, Uneven",Clear,27,-,3_1_3_1_2,4_4_2,00:00
+6336,35,SwiSL,2467047,Zurich,Luzern,2017-08-27,14:00:00,Good,"Clear, Light Wind, Sun",26,Hot,4_2_3_1,3_4_3,00:00
+6337,36,SwiSL,2467048,Basel,Sion,2017-08-27,14:00:00,Excellent,"Clear, Wind",28,Hot,3_5_1_1,4_2_3_1,00:00
+6338,37,SwiSL,2467048,Basel,Sion,2017-08-27,14:00:00,Excellent,"Clear, Wind",28,Hot,4_2_3_1,4_2_3_1,45:00
+6339,38,SwiSL,2467049,Young Boys,St. Gallen,2017-08-27,14:00:00,Excellent,"Cloud, Sun",21,Warm,4_4_2,4_4_2,00:00
+6340,39,SwiSL,2467049,Young Boys,St. Gallen,2017-08-27,14:00:00,Excellent,"Cloud, Sun",21,Warm,4_1_4_1,4_4_2,89:15
+6341,40,SwiSL,2467050,Lausanne Sport,Basel,2017-09-09,17:00:00,"Good, Wet",Rain,12,-,4_2_3_1,3_4_2_1,00:00
+6342,41,SwiSL,2467050,Lausanne Sport,Basel,2017-09-09,17:00:00,"Good, Wet",Rain,12,-,4_4_1_1,3_4_2_1,57:36
+6343,42,SwiSL,2467051,St. Gallen,Zurich,2017-09-09,17:00:00,"Average, Patchy","Cloud, Rain",12,Cold,3_4_3,4_2_3_1,00:00
+6344,43,SwiSL,2467051,St. Gallen,Zurich,2017-09-09,17:00:00,"Average, Patchy","Cloud, Rain",12,Cold,3_4_3,5_4_1,81:53
+6345,44,SwiSL,2467052,Sion,Grasshopper,2017-09-10,14:00:00,"Average, Good","Clear, Sun",17,Warm,3_4_2_1,4_3_2_1,00:00
+6346,45,SwiSL,2467052,Sion,Grasshopper,2017-09-10,14:00:00,"Average, Good","Clear, Sun",17,Warm,3_4_2_1,3_4_1_2,75:48
+6347,46,SwiSL,2467052,Sion,Grasshopper,2017-09-10,14:00:00,"Average, Good","Clear, Sun",17,Warm,3_4_2_1,3_4_3,79:49
+6348,47,SwiSL,2467054,Lugano,Young Boys,2017-09-10,14:00:00,Artificial,"Cloud, Sun",16,-,4_2_3_1,3_5_2,00:00
+6349,48,SwiSL,2467053,Thun,Luzern,2017-09-10,14:00:00,"Poor, Uneven","Cloud, Light Rain",15,-,4_4_2,4_4_2,00:00
+6350,49,SwiSL,2467057,Luzern,Young Boys,2017-09-20,18:00:00,"Artificial, Excellent",Clear,5,Freezing,4_4_2,3_5_2,00:00
+6351,50,SwiSL,2467055,Zurich,Lausanne Sport,2017-09-20,18:00:00,Good,Clear,12,-,3_4_3,3_4_3,00:00
+6352,51,SwiSL,2467056,Basel,St. Gallen,2017-09-20,18:00:00,Good,Cloud,11,-,4_4_2,4_4_2,00:00
+6353,52,SwiSL,2467056,Basel,St. Gallen,2017-09-20,18:00:00,Good,Cloud,11,-,4_4_2,3_4_3,59:42
+6354,53,SwiSL,2467056,Basel,St. Gallen,2017-09-20,18:00:00,Good,Cloud,11,-,5_4_1,3_4_3,72:35
+6355,54,SwiSL,2467058,Sion,Lugano,2017-09-21,18:00:00,Excellent,Clear,17,Warm,3_5_2,4_2_3_1,00:00
+6356,55,SwiSL,2467059,Grasshopper,Thun,2017-09-21,18:00:00,"Artificial, Excellent",Clear,18,Warm,4_5_1,3_4_2_1,00:00
+6357,56,SwiSL,2467060,Zurich,Basel,2017-09-23,17:00:00,"Good, Wet",Cloud,14,-,3_4_2_1,3_4_3,00:00
+6358,57,SwiSL,2467061,Lausanne Sport,Luzern,2017-09-23,17:00:00,Good,Cloud,15,-,4_4_2,3_4_2_1,00:00
+6359,58,SwiSL,2467061,Lausanne Sport,Luzern,2017-09-23,17:00:00,Good,Cloud,15,-,4_4_2,4_1_4_1,71:51
+6360,59,SwiSL,2467064,Thun,St. Gallen,2017-09-24,14:00:00,Good,"Clear, Light Wind, Sun",16,-,4_4_2,4_4_2,00:00
+6361,60,SwiSL,2467062,Grasshopper,Lugano,2017-09-24,14:00:00,Good,"Clear, Light Wind, Sun",24,Warm,3_5_2,3_4_2_1,00:00
+6362,61,SwiSL,2467063,Young Boys,Sion,2017-09-24,14:00:00,Average,"Light Wind, Sun",21,-,4_4_2,4_4_2,00:00
+6363,62,SwiSL,2467063,Young Boys,Sion,2017-09-24,14:00:00,Average,"Light Wind, Sun",21,-,4_4_2,5_4_1,88:15
+6364,63,SwiSL,2467063,Young Boys,Sion,2017-09-24,14:00:00,Average,"Light Wind, Sun",21,-,4_4_2,4_4_2,00:00
+6365,64,SwiSL,2467063,Young Boys,Sion,2017-09-24,14:00:00,Average,"Light Wind, Sun",21,-,4_4_2,5_4_1,88:15
+6366,65,SwiSL,2467028,Lausanne Sport,Sion,2017-09-27,16:30:00,Good,"Cloud, Sun",21,-,4_2_3_1,3_4_3,00:00
+6367,66,SwiSL,2467065,Basel,Grasshopper,2017-09-30,17:00:00,Excellent,"Cloud, Rain",13,-,3_5_2,3_4_2_1,00:00
+6368,67,SwiSL,2467068,St. Gallen,Young Boys,2017-10-01,14:00:00,"Artificial, Good","Clear, Sun",15,-,4_2_3_1,4_4_2,00:00
+6369,68,SwiSL,2467069,Lugano,Zurich,2017-10-01,14:00:00,Good,"Clear, Cloud",16,-,3_4_3,3_4_2_1,00:00
+6370,69,SwiSL,2467069,Lugano,Zurich,2017-10-01,14:00:00,Good,"Clear, Cloud",16,-,3_4_3,4_3_3,57:27
+6371,70,SwiSL,2467069,Lugano,Zurich,2017-10-01,14:00:00,Good,"Clear, Cloud",16,-,3_5_2,4_3_3,72:52
+6372,71,SwiSL,2467069,Lugano,Zurich,2017-10-01,14:00:00,Good,"Clear, Cloud",16,-,5_4_1,4_3_3,81:53
+6373,72,SwiSL,2467067,Luzern,Thun,2017-10-01,14:00:00,"Artificial, Good",Sun,17,Warm,4_4_2,4_4_2,00:00
+6374,73,SwiSL,2467072,Basel,Lugano,2017-10-14,17:00:00,Average,Cloud,12,-,5_3_2,4_2_3_1,00:00
+6375,74,SwiSL,2467072,Basel,Lugano,2017-10-14,17:00:00,Average,Cloud,12,-,4_3_3,4_2_3_1,65:14
+6376,75,SwiSL,2467071,Young Boys,Lausanne Sport,2017-10-14,17:00:00,Good,Clear,15,Warm,3_4_2_1,4_4_2,00:00
+6377,76,SwiSL,2467073,St. Gallen,Sion,2017-10-15,14:00:00,Good,Sun,19,Warm,4_2_3_1,4_4_2,00:00
+6378,77,SwiSL,2467073,St. Gallen,Sion,2017-10-15,14:00:00,Good,Sun,19,Warm,4_4_2,4_4_2,59:41
+6379,78,SwiSL,2467073,St. Gallen,Sion,2017-10-15,14:00:00,Good,Sun,19,Warm,4_3_3,4_4_2,86:33
+6380,79,SwiSL,2467070,Luzern,Grasshopper,2017-10-15,14:00:00,Good,"Clear, Sun",20,-,3_4_2_1,4_3_3,00:00
+6381,80,SwiSL,2467074,Zurich,Thun,2017-10-15,14:00:00,"Artificial, Good","Clear, Sun",23,Hot,4_4_2,3_4_2_1,00:00
+6382,81,SwiSL,2467075,Thun,Basel,2017-10-21,17:00:00,"Good, Wet","Cloud, Light Rain, Wind",13,-,4_4_2,4_3_2_1,00:00
+6383,82,SwiSL,2467075,Thun,Basel,2017-10-21,17:00:00,"Good, Wet","Cloud, Light Rain, Wind",13,-,4_4_2,4_4_2,41:05
+6384,83,SwiSL,2467075,Thun,Basel,2017-10-21,17:00:00,"Good, Wet","Cloud, Light Rain, Wind",13,-,4_2_3_1,4_4_2,64:41
+6385,84,SwiSL,2467075,Thun,Basel,2017-10-21,17:00:00,"Good, Wet",Rain,13,-,4_4_2,4_3_2_1,00:00
+6386,85,SwiSL,2467075,Thun,Basel,2017-10-21,17:00:00,"Good, Wet",Rain,13,-,4_4_2,4_4_2,41:05
+6387,86,SwiSL,2467075,Thun,Basel,2017-10-21,17:00:00,"Good, Wet",Rain,13,-,4_2_3_1,4_4_2,64:41
+6388,87,SwiSL,2467079,Grasshopper,Zurich,2017-10-21,17:00:00,Good,Cloud,13,-,3_4_3,3_4_2_1,00:00
+6389,88,SwiSL,2467078,Lausanne Sport,St. Gallen,2017-10-22,14:00:00,Average,Sun,18,-,4_4_2,3_4_2_1,00:00
+6390,89,SwiSL,2467077,Lugano,Sion,2017-10-22,14:00:00,Good,Rain,10,-,4_2_3_1,4_3_3,00:00
+6391,90,SwiSL,2467077,Lugano,Sion,2017-10-22,14:00:00,Good,"Cloud, Light Wind",10,-,4_2_3_1,4_3_3,00:00
+6392,91,SwiSL,2467076,Young Boys,Luzern,2017-10-22,14:00:00,Excellent,"Cloud, Sun",10,Cold,4_2_3_1,4_4_2,00:00
+6393,92,SwiSL,2467080,Thun,Lausanne Sport,2017-10-28,17:00:00,Excellent,Clear,8,-,3_4_2_1,4_4_2,00:00
+6394,93,SwiSL,2467084,Basel,Zurich,2017-10-28,17:00:00,"Good, Patchy",Cloud,9,Cold,3_4_2_1,4_2_3_1,00:00
+6395,94,SwiSL,2467082,Grasshopper,St. Gallen,2017-10-29,15:00:00,"Good, Wet",Cloud,6,Cold,4_4_2,3_4_2_1,00:00
+6396,95,SwiSL,2467082,Grasshopper,St. Gallen,2017-10-29,15:00:00,"Good, Wet",Cloud,6,Cold,5_4_1,3_4_2_1,86:20
+6397,96,SwiSL,2467082,Grasshopper,St. Gallen,2017-10-29,15:00:00,"Good, Wet",Cloud,6,Cold,5_4_1,3_4_1_2,87:42
+6398,97,SwiSL,2467083,Sion,Young Boys,2017-10-29,15:00:00,Artificial,Cloud,11,-,4_4_2,4_3_2_1,00:00
+6399,98,SwiSL,2467081,Luzern,Lugano,2017-10-29,15:00:00,Good,Sun,24,-,4_3_3,4_2_3_1,00:00
+6400,99,SwiSL,2467081,Luzern,Lugano,2017-10-29,15:00:00,Good,Sun,24,-,4_3_3,4_4_2,45:00
+6401,100,SwiSL,2467086,Lausanne Sport,Grasshopper,2017-11-04,18:00:00,Good,Clear,5,-,3_4_2_1,3_4_2_1,00:00
+6402,101,SwiSL,2467088,Zurich,Sion,2017-11-04,18:00:00,Good,Cloud,15,-,4_3_2_1,3_4_3,00:00
+6403,102,SwiSL,2467088,Zurich,Sion,2017-11-04,18:00:00,Good,Cloud,15,-,4_1_2_1_2,3_4_3,72:32
+6404,103,SwiSL,2467085,Young Boys,Basel,2017-11-05,15:00:00,"Good, Wet","Cloud, Light Wind",6,Cold,4_2_3_1,4_4_2,00:00
+6405,104,SwiSL,2467085,Young Boys,Basel,2017-11-05,15:00:00,"Good, Wet","Cloud, Light Wind",6,Cold,4_4_2,4_4_2,45:00
+6406,105,SwiSL,2467085,Young Boys,Basel,2017-11-05,15:00:00,"Good, Wet","Light Rain, Rain",6,Cold,4_2_3_1,4_4_2,00:00
+6407,106,SwiSL,2467085,Young Boys,Basel,2017-11-05,15:00:00,"Good, Wet","Light Rain, Rain",6,Cold,4_4_2,4_4_2,45:00
+6408,107,SwiSL,2467087,St. Gallen,Luzern,2017-11-05,15:00:00,"Average, Wet","Cloud, Light Rain, Rain",7,Cold,4_4_2,4_1_4_1,00:00
+6409,108,SwiSL,2467087,St. Gallen,Luzern,2017-11-05,15:00:00,"Average, Wet","Cloud, Light Rain, Rain",7,Cold,4_4_2,4_4_2,45:00
+6410,109,SwiSL,2467087,St. Gallen,Luzern,2017-11-05,15:00:00,"Average, Wet",Rain,7,Cold,4_4_2,4_1_4_1,00:00
+6411,110,SwiSL,2467087,St. Gallen,Luzern,2017-11-05,15:00:00,"Average, Wet",Rain,7,Cold,4_4_2,4_4_2,45:00
+6412,111,SwiSL,2467089,Lugano,Thun,2017-11-05,15:00:00,"Artificial, Good",Cloud,7,-,4_4_2,4_3_3,00:00
+6413,112,SwiSL,2467093,Lugano,St. Gallen,2017-11-18,18:00:00,Good,Clear,7,-,4_2_3_1,4_1_4_1,00:00
+6414,113,SwiSL,2467093,Lugano,St. Gallen,2017-11-18,18:00:00,Good,Clear,7,-,4_4_2,4_1_4_1,75:31
+6415,114,SwiSL,2467090,Sion,Basel,2017-11-18,18:00:00,Good,Cloud,3,Cold,4_2_3_1,4_3_3,00:00
+6416,115,SwiSL,2467091,Thun,Grasshopper,2017-11-19,15:00:00,Excellent,Clear,4,Cold,3_5_2,4_1_4_1,00:00
+6417,116,SwiSL,2467091,Thun,Grasshopper,2017-11-19,15:00:00,Excellent,Clear,4,Cold,3_5_2,3_5_2,78:41
+6418,117,SwiSL,2467091,Thun,Grasshopper,2017-11-19,15:00:00,Excellent,Clear,4,Cold,5_3_2,3_5_2,85:15
+6419,118,SwiSL,2467094,Zurich,Young Boys,2017-11-19,15:00:00,"Artificial, Good",Clear,5,Cold,4_4_2,3_4_1_2,00:00
+6420,119,SwiSL,2467092,Luzern,Lausanne Sport,2017-11-19,15:00:00,"Good, Wet","Cloud, Light Rain",6,Cold,3_4_3,4_2_3_1,00:00
+6421,120,SwiSL,2467096,Basel,Luzern,2017-11-25,18:00:00,Good,"Cloud, Light Rain, Light Wind",6,Cold,4_4_2,4_2_3_1,00:00
+6422,121,SwiSL,2467096,Basel,Luzern,2017-11-25,18:00:00,Good,"Cloud, Light Rain, Light Wind",6,Cold,4_4_2,4_4_2,62:41
+6423,122,SwiSL,2467096,Basel,Luzern,2017-11-25,18:00:00,Good,"Cloud, Light Rain, Light Wind",6,Cold,4_4_2,3_4_2_1,78:33
+6424,123,SwiSL,2467098,St. Gallen,Thun,2017-11-25,18:00:00,Artificial,"Cloud, Light Rain",4,Cold,4_4_2,4_4_2,00:00
+6425,124,SwiSL,2467095,Young Boys,Lugano,2017-11-26,15:00:00,Good,"Cloud, Light Rain, Strong Wind",6,Cold,4_1_4_1,4_4_2,00:00
+6426,125,SwiSL,2467095,Young Boys,Lugano,2017-11-26,15:00:00,Good,"Cloud, Light Rain, Strong Wind",6,Cold,4_4_2,4_4_2,59:36
+6427,126,SwiSL,2467099,Lausanne Sport,Zurich,2017-11-26,15:00:00,"Good, Soft",Clear,2,Freezing,3_4_1_2,3_4_2_1,00:00
+6428,127,SwiSL,2467099,Lausanne Sport,Zurich,2017-11-26,15:00:00,"Good, Soft","Cloud, Snow",2,Freezing,3_4_1_2,3_4_2_1,00:00
+6429,128,SwiSL,2467097,Grasshopper,Sion,2017-11-26,15:00:00,Good,"Cloud, Wind",4,Cold,4_1_2_1_2,3_4_2_1,00:00
+6430,129,SwiSL,2467097,Grasshopper,Sion,2017-11-26,15:00:00,Good,"Cloud, Wind",4,Cold,4_1_2_1_2,3_4_3,64:00
+6431,130,SwiSL,2467101,Basel,Lausanne Sport,2017-12-02,18:00:00,Average,"Clear, Wind",0,Freezing,3_4_2_1,3_4_2_1,00:00
+6432,131,SwiSL,2467102,Sion,Luzern,2017-12-02,18:00:00,"Average, Patchy","Cloud, Wind",1,Freezing,3_4_2_1,4_1_2_1_2,00:00
+6433,132,SwiSL,2467102,Sion,Luzern,2017-12-02,18:00:00,"Average, Patchy","Cloud, Wind",1,Freezing,3_4_2_1,4_3_3,71:09
+6434,133,SwiSL,2467103,Zurich,St. Gallen,2017-12-03,15:00:00,Good,"Clear, Cloud",-3,Freezing,4_4_2,3_4_2_1,00:00
+6435,134,SwiSL,2467100,Lugano,Grasshopper,2017-12-03,15:00:00,Average,Clear,2,-,3_5_1_1,4_4_1_1,00:00
+6436,135,SwiSL,2467104,Young Boys,Thun,2017-12-03,15:00:00,Artificial,Cloud,1,Cold,3_5_2,4_4_2,00:00
+6437,136,SwiSL,2467107,Thun,Sion,2017-12-09,18:00:00,Good,Clear,7,-,4_3_3,3_5_2,00:00
+6438,137,SwiSL,2467105,St. Gallen,Basel,2017-12-09,18:00:00,Good,Clear,-5,Freezing,4_2_3_1,3_5_2,00:00
+6439,138,SwiSL,2467105,St. Gallen,Basel,2017-12-09,18:00:00,Good,Clear,-5,Freezing,3_4_2_1,3_5_2,74:11
+6440,139,SwiSL,2467108,Grasshopper,Young Boys,2017-12-10,15:00:00,"Artificial, Excellent",Rain,3,Cold,4_4_2,4_1_4_1,00:00
+6441,140,SwiSL,2467109,Luzern,Zurich,2017-12-10,15:00:00,Average,Clear,2,Cold,3_4_3,3_4_3,00:00
+6442,141,SwiSL,2467106,Lausanne Sport,Lugano,2017-12-10,15:00:00,"Average, Wet",Light Snow,-1,Freezing,4_1_4_1,3_5_1_1,00:00
+6443,142,SwiSL,2467113,Sion,St. Gallen,2017-12-16,18:00:00,"Good, Wet","Cloud, Light Snow",-1,Freezing,3_5_2,3_5_2,00:00
+6444,143,SwiSL,2467114,Lugano,Thun,2017-12-16,18:00:00,Good,Clear,1,-,3_5_2,4_1_4_1,00:00
+6445,144,SwiSL,2467110,Basel,Grasshopper,2017-12-17,15:00:00,Good,Clear,1,Cold,4_1_4_1,4_2_3_1,00:00
+6446,145,SwiSL,2467110,Basel,Grasshopper,2017-12-17,15:00:00,Good,Clear,1,Cold,4_4_2,4_2_3_1,45:00
+6447,146,SwiSL,2467110,Basel,Grasshopper,2017-12-17,15:00:00,Good,Light Snow,1,Cold,4_1_4_1,4_2_3_1,00:00
+6448,147,SwiSL,2467110,Basel,Grasshopper,2017-12-17,15:00:00,Good,Light Snow,1,Cold,4_4_2,4_2_3_1,45:00
+6449,148,SwiSL,2467112,Young Boys,Luzern,2017-12-17,15:00:00,Average,Clear,1,Cold,3_4_3,4_4_2,00:00
+6450,149,SwiSL,2467111,Zurich,Lausanne Sport,2017-12-17,15:00:00,"Poor, Uneven","Cloud, Light Wind",-2,Freezing,3_4_3,3_4_3,00:00
+6451,150,SwiSL,2467111,Zurich,Lausanne Sport,2017-12-17,15:00:00,"Poor, Uneven","Cloud, Light Wind",-2,Freezing,3_4_3,4_4_2,45:00
+6452,151,SwiSL,2467111,Zurich,Lausanne Sport,2017-12-17,15:00:00,"Poor, Uneven","Cloud, Light Wind",-2,Freezing,3_5_2,4_4_2,90:45
+6453,152,SwiSL,2467116,Lausanne Sport,Luzern,2018-02-03,18:00:00,Good,"Cloud, Light Rain",1,Freezing,4_2_3_1,3_5_2,00:00
+6454,153,SwiSL,2467118,St. Gallen,Young Boys,2018-02-03,18:00:00,"Artificial, Good",Clear,0,Freezing,4_4_2,3_4_1_2,00:00
+6455,154,SwiSL,2467117,Grasshopper,Sion,2018-02-04,15:00:00,Good,Sun,5,-,4_3_3,3_5_2,00:00
+6456,155,SwiSL,2467117,Grasshopper,Sion,2018-02-04,15:00:00,Good,Sun,5,-,4_3_3,5_4_1,52:41
+6457,156,SwiSL,2467117,Grasshopper,Sion,2018-02-04,15:00:00,Good,Sun,5,-,3_4_2_1,5_4_1,71:19
+6458,157,SwiSL,2467115,Lugano,Basel,2018-02-04,15:00:00,Excellent,Clear,4,-,4_2_3_1,3_5_1_1,00:00
+6459,158,SwiSL,2467119,Thun,Zurich,2018-02-04,15:00:00,"Good, Soft",Clear,3,Cold,3_4_3,4_3_3,00:00
+6460,159,SwiSL,2467124,Basel,Thun,2018-02-10,18:00:00,Artificial,Cloud,1,Freezing,4_1_4_1,4_4_2,00:00
+6461,160,SwiSL,2467122,Sion,Lugano,2018-02-10,18:00:00,Good,Clear,4,-,3_5_1_1,4_2_3_1,00:00
+6462,161,SwiSL,2467121,Young Boys,Lausanne Sport,2018-02-11,15:00:00,Excellent,Light Snow,2,Cold,3_5_2,4_2_3_1,00:00
+6463,162,SwiSL,2467121,Young Boys,Lausanne Sport,2018-02-11,15:00:00,Excellent,Cloud,2,Cold,3_5_2,4_2_3_1,00:00
+6464,163,SwiSL,2467120,Luzern,Grasshopper,2018-02-11,15:00:00,"Good, Wet","Cloud, Light Rain",3,Cold,3_4_2_1,4_2_3_1,00:00
+6465,164,SwiSL,2467120,Luzern,Grasshopper,2018-02-11,15:00:00,"Good, Wet","Cloud, Light Rain",3,Cold,3_4_2_1,4_4_2,72:48
+6466,165,SwiSL,2467123,Zurich,St. Gallen,2018-02-11,15:00:00,Good,Clear,2,Cold,3_5_2,3_4_1_2,00:00
+6467,166,SwiSL,2467123,Zurich,St. Gallen,2018-02-11,15:00:00,Good,Light Rain,2,Cold,3_5_2,3_4_1_2,00:00
+6468,167,SwiSL,2467126,Grasshopper,Lugano,2018-02-17,18:00:00,"Good, Wet","Clear, Light Wind",6,Cold,3_5_2,3_4_2_1,00:00
+6469,168,SwiSL,2467126,Grasshopper,Lugano,2018-02-17,18:00:00,"Good, Wet","Clear, Light Wind",6,Cold,3_5_2,4_4_2,57:59
+6470,169,SwiSL,2467126,Grasshopper,Lugano,2018-02-17,18:00:00,"Good, Wet","Clear, Light Wind",6,Cold,3_5_1_1,4_4_2,68:51
+6471,170,SwiSL,2467125,St. Gallen,Basel,2018-02-17,18:00:00,Good,"Cloud, Snow",0,Freezing,4_4_2,3_5_2,00:00
+6472,171,SwiSL,2467127,Lausanne Sport,Sion,2018-02-18,15:00:00,Good,"Clear, Wind",6,Cold,4_4_2,3_4_2_1,00:00
+6473,172,SwiSL,2467127,Lausanne Sport,Sion,2018-02-18,15:00:00,Good,"Clear, Wind",6,Cold,4_4_2,3_4_1_2,54:14
+6474,173,SwiSL,2467127,Lausanne Sport,Sion,2018-02-18,15:00:00,Good,"Clear, Wind",6,Cold,4_4_1_1,3_4_1_2,62:34
+6475,174,SwiSL,2467127,Lausanne Sport,Sion,2018-02-18,15:00:00,Good,"Clear, Wind",6,Cold,4_4_1_1,3_4_3,78:56
+6476,175,SwiSL,2467128,Thun,Young Boys,2018-02-18,15:00:00,Artificial,Cloud,2,Cold,4_4_2,3_5_2,00:00
+6477,176,SwiSL,2467129,Luzern,Zurich,2018-02-18,15:00:00,"Average, Soft, Wet",Cloud,1,Cold,3_4_1_2,4_2_3_1,00:00
+6478,177,SwiSL,2467129,Luzern,Zurich,2018-02-18,15:00:00,"Average, Soft, Wet",Cloud,1,Cold,3_4_1_2,3_4_2_1,66:19
+6479,178,SwiSL,2467129,Luzern,Zurich,2018-02-18,15:00:00,"Average, Soft, Wet",Cloud,1,Cold,3_4_1_2,3_5_2,86:51
+6480,179,SwiSL,2467134,Sion,Young Boys,2018-02-24,18:00:00,"Artificial, Good",Cloud,-2,Freezing,4_4_2,4_4_2,00:00
+6481,180,SwiSL,2467130,Zurich,Grasshopper,2018-02-25,15:00:00,Excellent,Clear,-2,Cold,4_2_3_1,3_4_3,00:00
+6482,181,SwiSL,2467133,Lugano,St. Gallen,2018-02-25,15:00:00,Good,Clear,-6,-,3_5_2,3_4_1_2,00:00
+6483,182,SwiSL,2467132,Thun,Luzern,2018-02-25,15:00:00,Average,Clear,-2,Freezing,4_2_3_1,4_1_4_1,00:00
+6484,183,SwiSL,2467136,Lausanne Sport,Grasshopper,2018-03-03,18:00:00,Average,Cloud,1,Cold,4_2_3_1,4_4_2,00:00
+6485,184,SwiSL,2467137,Young Boys,Lugano,2018-03-04,15:00:00,Good,"Clear, Sun",8,Cold,3_5_2,4_4_2,00:00
+6486,185,SwiSL,2467137,Young Boys,Lugano,2018-03-04,15:00:00,Good,"Clear, Sun",8,Cold,3_5_2,4_4_1_1,79:04
+6487,186,SwiSL,2467139,St. Gallen,Thun,2018-03-04,15:00:00,Artificial,Cloud,4,Cold,4_1_4_1,3_5_1_1,00:00
+6488,187,SwiSL,2467138,Luzern,Sion,2018-03-04,15:00:00,Good,Sun,9,-,4_4_2,4_2_3_1,00:00
+6489,188,SwiSL,2467144,Lugano,Zurich,2018-03-10,18:00:00,Good,Clear,7,Warm,4_2_3_1,3_5_1_1,00:00
+6490,189,SwiSL,2467140,St. Gallen,Lausanne Sport,2018-03-10,18:00:00,Average,Clear,7,Cold,3_4_3,3_5_2,00:00
+6491,190,SwiSL,2467140,St. Gallen,Lausanne Sport,2018-03-10,18:00:00,Average,Clear,7,Cold,4_3_1_2,3_5_2,61:27
+6492,191,SwiSL,2467140,St. Gallen,Lausanne Sport,2018-03-10,18:00:00,Average,Clear,7,Cold,4_3_1_2,3_4_3,71:47
+6493,192,SwiSL,2467143,Grasshopper,Young Boys,2018-03-11,15:00:00,Artificial,"Cloud, Light Rain, Rain",8,Cold,4_4_2,4_4_2,00:00
+6494,193,SwiSL,2467143,Grasshopper,Young Boys,2018-03-11,15:00:00,Artificial,"Cloud, Light Rain, Rain",8,Cold,4_4_2,4_1_4_1,62:42
+6495,194,SwiSL,2467141,Basel,Luzern,2018-03-11,15:00:00,Average,Cloud,10,Warm,4_3_3,4_3_3,00:00
+6496,195,SwiSL,2467142,Thun,Sion,2018-03-11,15:00:00,Wet,Light Rain,12,Cold,4_2_3_1,4_4_2,00:00
+6497,196,SwiSL,2467142,Thun,Sion,2018-03-11,15:00:00,Wet,Cloud,12,Cold,4_2_3_1,4_4_2,00:00
+6498,197,SwiSL,2467142,Thun,Sion,2018-03-11,15:00:00,Excellent,Light Rain,12,Cold,4_2_3_1,4_4_2,00:00
+6499,198,SwiSL,2467142,Thun,Sion,2018-03-11,15:00:00,Excellent,Cloud,12,Cold,4_2_3_1,4_4_2,00:00

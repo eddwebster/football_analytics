@@ -1,0 +1,434 @@
+True,index,competition,gsm_id,awayteam_team2,hometeam_team1,kickoffDate,kickoffTime,pitchType,weatherType,tempCelcius,tempType,formation_team1,formation_team2,formation_time
+7227,432,TurSL,2291149,Bursaspor,Adanaspor,2016-08-19,18:45:00,"Average, Good, Patchy",Clear,26,-,4_2_3_1,4_2_3_1,83:04
+7221,426,TurSL,2291147,Kasimpasa,Trabzonspor,2016-08-20,16:30:00,Average,"Cloud, Light Rain",25,Warm,4_1_4_1,4_2_3_1,81:11
+7222,427,TurSL,2291147,Kasimpasa,Trabzonspor,2016-08-20,16:30:00,Average,Cloud,25,Warm,4_1_4_1,4_2_3_1,81:11
+7223,428,TurSL,2291147,Kasimpasa,Trabzonspor,2016-08-20,16:30:00,"Average, Wet","Cloud, Light Rain",25,Warm,4_1_4_1,4_2_3_1,81:11
+7224,429,TurSL,2291147,Kasimpasa,Trabzonspor,2016-08-20,16:30:00,"Average, Wet",Cloud,25,Warm,4_1_4_1,4_2_3_1,81:11
+7225,430,TurSL,2291151,Konyaspor,Rizespor,2016-08-20,16:30:00,Good,Clear,25,Warm,4_1_4_1,4_4_2,84:29
+7226,431,TurSL,2291151,Konyaspor,Rizespor,2016-08-20,16:30:00,Good,Clear,25,Warm,4_2_3_1,4_4_2,68:11
+7220,425,TurSL,2291146,Alanyaspor,Besiktas,2016-08-20,18:45:00,Excellent,Clear,27,Warm,4_2_3_1,4_2_3_1,83:30
+7217,422,TurSL,2291150,Gaziantepspor,Genclerbirligi,2016-08-21,16:30:00,Good,Clear,28,-,4_2_3_1,4_2_3_1,84:35
+7218,423,TurSL,2291145,Akhisar Belediyespor,Kayserispor,2016-08-21,16:30:00,Good,Clear,29,Warm,4_2_3_1,4_1_4_1,87:40
+7219,424,TurSL,2291145,Akhisar Belediyespor,Kayserispor,2016-08-21,16:30:00,Good,Clear,29,Warm,4_2_3_1,4_4_1_1,45:00
+7206,411,TurSL,2291144,Osmanlispor,Antalyaspor,2016-08-21,18:45:00,Average,Clear,29,Warm,4_4_1_1,4_4_2,82:12
+7207,412,TurSL,2291144,Osmanlispor,Antalyaspor,2016-08-21,18:45:00,Average,Clear,29,Warm,4_4_2,4_4_2,69:06
+7208,413,TurSL,2291144,Osmanlispor,Antalyaspor,2016-08-21,18:45:00,Average,Clear,29,Warm,4_4_1_1,4_2_3_1,39:25
+7209,414,TurSL,2291144,Osmanlispor,Antalyaspor,2016-08-21,18:45:00,Average,Clear,29,Warm,4_1_2_1_2,4_2_3_1,11:21
+7210,415,TurSL,2291144,Osmanlispor,Antalyaspor,2016-08-21,18:45:00,Average,Clear,29,Warm,4_4_2,4_2_3_1,46:13
+7211,416,TurSL,2291144,Osmanlispor,Antalyaspor,2016-08-21,18:45:00,Good,Clear,29,Warm,4_4_1_1,4_4_2,82:12
+7212,417,TurSL,2291144,Osmanlispor,Antalyaspor,2016-08-21,18:45:00,Good,Clear,29,Warm,4_4_2,4_4_2,69:06
+7213,418,TurSL,2291144,Osmanlispor,Antalyaspor,2016-08-21,18:45:00,Good,Clear,29,Warm,4_4_1_1,4_2_3_1,39:25
+7214,419,TurSL,2291144,Osmanlispor,Antalyaspor,2016-08-21,18:45:00,Good,Clear,29,Warm,4_1_2_1_2,4_2_3_1,11:21
+7215,420,TurSL,2291144,Osmanlispor,Antalyaspor,2016-08-21,18:45:00,Good,Clear,29,Warm,4_4_2,4_2_3_1,46:13
+7216,421,TurSL,2291152,Fenerbahce,Istanbul Basaksehir,2016-08-21,18:45:00,Average,Clear,30,Hot,4_4_2,4_4_2,76:58
+7205,410,TurSL,2291148,Karabukspor,Galatasaray,2016-08-22,18:45:00,Good,Clear,30,Hot,4_2_3_1,4_2_3_1,72:50
+7203,408,TurSL,2291154,Besiktas,Konyaspor,2016-08-26,18:45:00,Average,Clear,30,Warm,4_3_3,4_3_3,87:34
+7204,409,TurSL,2291160,Antalyaspor,Alanyaspor,2016-08-26,18:45:00,Average,Clear,30,Hot,4_2_3_1,4_3_1_2,78:11
+7202,407,TurSL,2291159,Adanaspor,Kasimpasa,2016-08-27,16:30:00,Good,Clear,30,Hot,4_2_3_1,4_3_3,85:09
+7200,405,TurSL,2291155,Trabzonspor,Gaziantepspor,2016-08-27,18:45:00,"Good, Wet",Clear,26,Hot,4_2_3_1,4_2_3_1,88:47
+7201,406,TurSL,2291157,Galatasaray,Akhisar Belediyespor,2016-08-27,18:45:00,"Average, Wet",Clear,17,Warm,4_2_3_1,4_2_3_1,80:03
+7198,403,TurSL,2291153,Istanbul Basaksehir,Bursaspor,2016-08-28,16:30:00,"Excellent, Wet",Clear,22,Warm,4_2_3_1,4_2_3_1,82:35
+7199,404,TurSL,2291158,Rizespor,Karabukspor,2016-08-28,16:30:00,"Good, Wet",Clear,22,Warm,4_2_3_1,4_2_3_1,70:40
+7196,401,TurSL,2291156,Kayserispor,Fenerbahce,2016-08-28,18:45:00,"Excellent, Wet",Clear,26,Hot,4_2_3_1,4_2_3_1,87:21
+7197,402,TurSL,2291161,Genclerbirligi,Osmanlispor,2016-08-28,18:45:00,"Excellent, Wet",Clear,22,Warm,4_2_3_1,4_2_3_1,77:35
+7195,400,TurSL,2291167,Kasimpasa,Istanbul Basaksehir,2016-09-10,14:00:00,Average,"Cloud, Sun",26,Hot,4_2_3_1,4_2_3_1,82:29
+7194,399,TurSL,2291163,Galatasaray,Kayserispor,2016-09-10,16:00:00,"Average, Patchy","Clear, Sun",29,Hot,4_2_3_1,4_2_3_1,85:45
+7189,394,TurSL,2291169,Alanyaspor,Genclerbirligi,2016-09-10,17:00:00,"Average, Dry",Clear,18,Warm,4_2_3_1,4_2_3_1,80:26
+7190,395,TurSL,2291169,Alanyaspor,Genclerbirligi,2016-09-10,17:00:00,"Average, Dry",Clear,18,Warm,4_2_2_2,4_2_3_1,45:00
+7191,396,TurSL,2291169,Alanyaspor,Genclerbirligi,2016-09-10,17:00:00,"Average, Dry",Clear,18,Warm,4_2_3_1,4_5_1,87:32
+7192,397,TurSL,2291170,Gaziantepspor,Adanaspor,2016-09-10,17:00:00,"Dry, Good, Soft","Clear, Light Wind",28,Hot,4_2_3_1,4_4_2,79:20
+7193,398,TurSL,2291170,Gaziantepspor,Adanaspor,2016-09-10,17:00:00,"Dry, Good, Soft","Clear, Light Wind",28,Hot,4_2_3_1,4_2_3_1,67:32
+7187,392,TurSL,2291164,Karabukspor,Besiktas,2016-09-10,18:15:00,Excellent,Cloud,25,Warm,4_2_3_1,4_3_3,79:59
+7188,393,TurSL,2291164,Karabukspor,Besiktas,2016-09-10,18:15:00,Excellent,Cloud,25,Warm,4_2_3_1,5_3_2,00:00
+7183,388,TurSL,2291166,Osmanlispor,Trabzonspor,2016-09-11,14:00:00,"Poor, Uneven",Sun,28,Hot,3_5_1_1,4_2_3_1,55:56
+7184,389,TurSL,2291166,Osmanlispor,Trabzonspor,2016-09-11,14:00:00,Patchy,Sun,28,Hot,3_5_1_1,4_2_3_1,55:56
+7185,390,TurSL,2291168,Akhisar Belediyespor,Rizespor,2016-09-11,14:00:00,"Dry, Good, Soft","Cloud, Sun",26,Hot,4_3_3,4_2_3_1,80:30
+7186,391,TurSL,2291168,Akhisar Belediyespor,Rizespor,2016-09-11,14:00:00,"Dry, Good, Soft","Cloud, Sun",26,Hot,4_2_3_1,4_2_3_1,45:00
+7177,382,TurSL,2291165,Bursaspor,Fenerbahce,2016-09-11,17:00:00,"Dry, Excellent, Soft",Clear,29,Hot,3_4_1_2,4_2_3_1,76:17
+7178,383,TurSL,2291165,Bursaspor,Fenerbahce,2016-09-11,17:00:00,"Dry, Excellent, Soft",Clear,29,Hot,4_4_2,4_2_3_1,72:29
+7179,384,TurSL,2291165,Bursaspor,Fenerbahce,2016-09-11,17:00:00,"Dry, Excellent, Soft",Clear,29,Hot,4_3_3,4_2_3_1,00:00
+7180,385,TurSL,2291162,Konyaspor,Antalyaspor,2016-09-11,17:00:00,"Good, Soft","Cloud, Sun",29,Hot,4_4_2,4_3_2_1,72:35
+7181,386,TurSL,2291162,Konyaspor,Antalyaspor,2016-09-11,17:00:00,"Good, Soft","Cloud, Sun",29,Hot,4_4_2,4_2_3_1,63:49
+7182,387,TurSL,2291162,Konyaspor,Antalyaspor,2016-09-11,17:00:00,"Good, Soft","Cloud, Sun",29,Hot,4_3_3,4_2_3_1,00:00
+7175,380,TurSL,2291178,Antalyaspor,Karabukspor,2016-09-16,16:00:00,"Dry, Good","Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,82:43
+7176,381,TurSL,2291178,Antalyaspor,Karabukspor,2016-09-16,16:00:00,"Dry, Good","Cloud, Sun",22,Warm,4_2_3_1,4_4_2,65:29
+7174,379,TurSL,2291173,Kayserispor,Bursaspor,2016-09-16,17:00:00,Good,Clear,22,-,4_2_3_1,4_3_3,79:50
+7173,378,TurSL,2291176,Trabzonspor,Alanyaspor,2016-09-17,15:00:00,Excellent,Sun,29,Hot,4_2_3_1,4_2_3_1,88:04
+7172,377,TurSL,2291171,Rizespor,Galatasaray,2016-09-17,17:30:00,"Excellent, Wet",Clear,23,Warm,4_2_3_1,4_2_3_1,74:04
+7170,375,TurSL,2291179,Adanaspor,Osmanlispor,2016-09-18,14:00:00,Good,Sun,27,Hot,4_2_3_1,4_2_3_1,77:57
+7171,376,TurSL,2291172,Genclerbirligi,Konyaspor,2016-09-18,14:00:00,"Dry, Good","Cloud, Sun",27,Hot,4_4_2,4_2_3_1,84:21
+7164,369,TurSL,2291174,Istanbul Basaksehir,Gaziantepspor,2016-09-18,16:30:00,Average,Clear,28,Hot,4_4_2,4_2_3_1,77:16
+7165,370,TurSL,2291174,Istanbul Basaksehir,Gaziantepspor,2016-09-18,16:30:00,Average,Clear,28,Hot,4_3_3,4_2_3_1,62:37
+7166,371,TurSL,2291174,Istanbul Basaksehir,Gaziantepspor,2016-09-18,16:30:00,Average,Clear,28,Hot,4_4_2,5_4_1,81:36
+7167,372,TurSL,2291174,Istanbul Basaksehir,Gaziantepspor,2016-09-18,16:30:00,Good,Clear,28,Hot,4_4_2,4_2_3_1,77:16
+7168,373,TurSL,2291174,Istanbul Basaksehir,Gaziantepspor,2016-09-18,16:30:00,Good,Clear,28,Hot,4_3_3,4_2_3_1,62:37
+7169,374,TurSL,2291174,Istanbul Basaksehir,Gaziantepspor,2016-09-18,16:30:00,Good,Clear,28,Hot,4_4_2,5_4_1,81:36
+7163,368,TurSL,2291175,Besiktas,Akhisar Belediyespor,2016-09-18,17:00:00,"Average, Uneven",Clear,23,Warm,4_1_4_1,4_2_3_1,82:03
+7162,367,TurSL,2291177,Fenerbahce,Kasimpasa,2016-09-19,17:00:00,Good,Cloud,25,-,4_2_3_1,4_3_3,78:42
+7161,366,TurSL,2291181,Akhisar Belediyespor,Antalyaspor,2016-09-23,17:00:00,Average,Clear,23,-,4_1_4_1,4_2_3_1,80:45
+7160,365,TurSL,2291180,Osmanlispor,Istanbul Basaksehir,2016-09-24,10:30:00,Good,"Cloud, Sun",21,Warm,4_2_3_1,4_2_3_1,79:50
+7158,363,TurSL,2291185,Konyaspor,Trabzonspor,2016-09-24,13:00:00,"Patchy, Poor, Uneven","Cloud, Light Rain, Sun",18,Warm,4_4_1_1,4_4_2,88:51
+7159,364,TurSL,2291185,Konyaspor,Trabzonspor,2016-09-24,13:00:00,"Patchy, Poor, Uneven","Cloud, Light Rain, Sun",18,Warm,5_4_1,4_4_2,96:43
+7157,362,TurSL,2291183,Galatasaray,Besiktas,2016-09-24,17:00:00,Good,Clear,25,Warm,4_2_3_1,4_2_3_1,84:44
+7156,361,TurSL,2291182,Rizespor,Kayserispor,2016-09-25,10:30:00,Good,"Cloud, Sun",17,Warm,4_2_3_1,4_2_3_1,74:14
+7155,360,TurSL,2291184,Kasimpasa,Bursaspor,2016-09-25,13:00:00,Good,"Cloud, Sun",22,Warm,4_2_3_1,4_5_1,81:02
+7153,358,TurSL,2291188,Karabukspor,Genclerbirligi,2016-09-25,16:00:00,Average,Clear,25,Warm,4_2_3_1,4_4_2,81:02
+7154,359,TurSL,2291186,Gaziantepspor,Fenerbahce,2016-09-25,16:00:00,Good,Clear,18,Warm,4_3_3,4_2_3_1,87:50
+7152,357,TurSL,2291187,Alanyaspor,Adanaspor,2016-09-26,17:00:00,Average,Clear,26,Warm,4_1_4_1,4_2_3_1,75:53
+7151,356,TurSL,2291193,Genclerbirligi,Akhisar Belediyespor,2016-09-30,17:00:00,"Average, Patchy",Clear,17,-,4_2_3_1,4_2_3_1,84:06
+7149,354,TurSL,2291195,Trabzonspor,Karabukspor,2016-10-01,13:00:00,"Average, Patchy",Sun,27,Hot,4_4_2,4_4_1_1,75:29
+7150,355,TurSL,2291196,Kayserispor,Kasimpasa,2016-10-01,13:00:00,Average,Sun,26,Hot,4_2_3_1,4_2_3_1,52:48
+7147,352,TurSL,2291192,Bursaspor,Gaziantepspor,2016-10-01,16:00:00,"Average, Patchy",Clear,23,Warm,4_2_2_2,4_5_1,79:44
+7148,353,TurSL,2291189,Besiktas,Rizespor,2016-10-01,16:00:00,Good,"Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,86:09
+7145,350,TurSL,2291191,Antalyaspor,Galatasaray,2016-10-02,13:00:00,Excellent,"Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,60:55
+7146,351,TurSL,2291194,Istanbul Basaksehir,Alanyaspor,2016-10-02,13:00:00,"Excellent, Good","Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,71:09
+7141,346,TurSL,2291197,Fenerbahce,Osmanlispor,2016-10-02,16:00:00,Average,Clear,16,-,4_2_3_1,4_2_3_1,76:46
+7142,347,TurSL,2291197,Fenerbahce,Osmanlispor,2016-10-02,16:00:00,Average,Clear,16,-,4_2_3_1,4_3_3,00:00
+7143,348,TurSL,2291197,Fenerbahce,Osmanlispor,2016-10-02,16:00:00,Average,Clear,16,-,4_3_3,4_2_3_1,85:54
+7144,349,TurSL,2291190,Adanaspor,Konyaspor,2016-10-02,16:00:00,Good,Clear,23,Warm,4_4_2,4_5_1,65:56
+7139,344,TurSL,2291199,Gaziantepspor,Kasimpasa,2016-10-15,11:00:00,"Dry, Good","Cloud, Sun",19,Warm,4_2_3_1,4_3_3,82:28
+7140,345,TurSL,2291199,Gaziantepspor,Kasimpasa,2016-10-15,11:00:00,"Dry, Good","Cloud, Sun",19,Warm,4_2_3_1,4_2_3_1,00:00
+7138,343,TurSL,2291201,Besiktas,Kayserispor,2016-10-15,14:00:00,Good,"Cloud, Sun",17,-,4_2_3_1,4_1_2_1_2,81:23
+7137,342,TurSL,2291206,Karabukspor,Adanaspor,2016-10-15,16:30:00,Average,Clear,20,Warm,4_2_3_1,4_4_2,86:17
+7134,339,TurSL,2291205,Galatasaray,Genclerbirligi,2016-10-15,17:00:00,Excellent,Cloud,11,-,4_2_3_1,4_3_3,84:09
+7135,340,TurSL,2291205,Galatasaray,Genclerbirligi,2016-10-15,17:00:00,Excellent,Cloud,11,-,4_2_3_1,4_2_3_1,67:34
+7136,341,TurSL,2291205,Galatasaray,Genclerbirligi,2016-10-15,17:00:00,Excellent,Cloud,11,-,4_4_2,4_2_3_1,84:20
+7132,337,TurSL,2291198,Konyaspor,Istanbul Basaksehir,2016-10-16,10:30:00,Good,"Clear, Sun",22,Warm,4_2_3_1,4_4_2,81:20
+7133,338,TurSL,2291203,Osmanlispor,Bursaspor,2016-10-16,10:30:00,Average,Sun,16,-,4_2_3_1,4_2_3_1,82:04
+7131,336,TurSL,2291202,Alanyaspor,Fenerbahce,2016-10-16,13:00:00,Average,"Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,85:46
+7130,335,TurSL,2291204,Akhisar Belediyespor,Trabzonspor,2016-10-16,16:00:00,Good,"Cloud, Sun",16,-,4_3_3,4_2_3_1,82:37
+7129,334,TurSL,2291200,Rizespor,Antalyaspor,2016-10-17,16:00:00,Good,Clear,17,-,4_2_3_1,4_4_2,77:54
+7127,332,TurSL,2291208,Genclerbirligi,Rizespor,2016-10-21,16:00:00,Good,Cloud,6,-,4_2_3_1,4_2_3_1,85:05
+7128,333,TurSL,2291208,Genclerbirligi,Rizespor,2016-10-21,16:00:00,Good,Cloud,6,-,5_4_1,4_2_3_1,87:42
+7126,331,TurSL,2291211,Kayserispor,Gaziantepspor,2016-10-21,17:00:00,"Dry, Poor, Uneven",Clear,22,-,4_2_3_1,4_2_3_1,88:15
+7125,330,TurSL,2291213,Bursaspor,Alanyaspor,2016-10-22,13:00:00,"Dry, Good","Clear, Sun",14,Warm,4_3_3,4_3_3,74:07
+7122,327,TurSL,2291207,Trabzonspor,Galatasaray,2016-10-22,16:00:00,Excellent,Cloud,15,-,3_4_2_1,4_2_3_1,78:19
+7123,328,TurSL,2291207,Trabzonspor,Galatasaray,2016-10-22,16:00:00,Excellent,Cloud,15,-,4_2_3_1,4_2_3_1,67:59
+7124,329,TurSL,2291212,Adanaspor,Akhisar Belediyespor,2016-10-22,16:00:00,"Dry, Excellent",Cloud,10,Cold,4_2_3_1,4_2_3_1,79:47
+7121,326,TurSL,2291214,Istanbul Basaksehir,Karabukspor,2016-10-23,10:30:00,Average,Clear,19,Warm,4_4_2,4_2_3_1,84:00
+7120,325,TurSL,2291215,Kasimpasa,Osmanlispor,2016-10-23,13:00:00,Good,Sun,22,Warm,4_2_3_1,4_2_3_1,84:46
+7119,324,TurSL,2291210,Antalyaspor,Besiktas,2016-10-23,16:00:00,Excellent,Cloud,16,-,4_2_3_1,4_2_3_1,84:50
+7118,323,TurSL,2291209,Fenerbahce,Konyaspor,2016-10-24,17:00:00,Good,Clear,17,-,4_2_3_1,4_2_3_1,78:13
+7117,322,TurSL,2291223,Besiktas,Genclerbirligi,2016-10-28,17:00:00,Good,Clear,13,-,4_2_3_1,4_2_3_1,88:33
+7115,320,TurSL,2291218,Osmanlispor,Gaziantepspor,2016-10-29,10:30:00,"Average, Dry, Patchy","Cloud, Sun",22,Hot,4_2_3_1,3_4_2_1,76:04
+7116,321,TurSL,2291218,Osmanlispor,Gaziantepspor,2016-10-29,10:30:00,"Average, Dry, Patchy","Cloud, Sun",22,Hot,4_2_3_1,4_2_3_1,64:51
+7114,319,TurSL,2291220,Konyaspor,Bursaspor,2016-10-29,13:00:00,Good,Clear,19,Warm,4_2_3_1,4_4_2,80:49
+7113,318,TurSL,2291224,Galatasaray,Adanaspor,2016-10-29,16:00:00,Good,Clear,18,Warm,4_2_3_1,4_2_3_1,83:06
+7111,316,TurSL,2291222,Akhisar Belediyespor,Istanbul Basaksehir,2016-10-30,10:30:00,Good,"Cloud, Sun",15,Warm,4_2_3_1,4_5_1,72:15
+7112,317,TurSL,2291222,Akhisar Belediyespor,Istanbul Basaksehir,2016-10-30,10:30:00,Good,"Cloud, Sun",15,Warm,4_2_3_1,4_2_3_1,45:00
+7105,310,TurSL,2291221,Rizespor,Trabzonspor,2016-10-30,13:00:00,"Good, Wet","Cloud, Wind",15,Warm,4_1_4_1,4_1_4_1,80:08
+7106,311,TurSL,2291221,Rizespor,Trabzonspor,2016-10-30,13:00:00,"Good, Wet","Cloud, Wind",15,Warm,4_1_4_1,4_2_2_2,00:00
+7107,312,TurSL,2291221,Rizespor,Trabzonspor,2016-10-30,13:00:00,"Good, Wet","Cloud, Wind",15,Warm,4_2_2_2,4_1_4_1,88:04
+7108,313,TurSL,2291221,Rizespor,Trabzonspor,2016-10-30,13:00:00,"Good, Wet",Rain,15,Warm,4_1_4_1,4_1_4_1,80:08
+7109,314,TurSL,2291221,Rizespor,Trabzonspor,2016-10-30,13:00:00,"Good, Wet",Rain,15,Warm,4_1_4_1,4_2_2_2,00:00
+7110,315,TurSL,2291221,Rizespor,Trabzonspor,2016-10-30,13:00:00,"Good, Wet",Rain,15,Warm,4_2_2_2,4_1_4_1,88:04
+7104,309,TurSL,2291219,Karabukspor,Fenerbahce,2016-10-30,16:00:00,Good,Cloud,12,-,4_2_3_1,4_2_3_1,76:56
+7102,307,TurSL,2291217,Antalyaspor,Kayserispor,2016-10-31,17:00:00,Good,Cloud,9,Cold,4_4_2,4_2_3_1,88:58
+7103,308,TurSL,2291216,Alanyaspor,Kasimpasa,2016-10-31,17:00:00,Good,Sun,20,Warm,4_2_3_1,4_2_3_1,75:50
+7100,305,TurSL,2291225,Istanbul Basaksehir,Galatasaray,2016-11-04,17:00:00,Good,Cloud,14,-,4_4_2,4_2_3_1,87:27
+7101,306,TurSL,2291225,Istanbul Basaksehir,Galatasaray,2016-11-04,17:00:00,Good,Cloud,14,-,4_2_3_1,4_2_3_1,81:11
+7098,303,TurSL,2291231,Gaziantepspor,Alanyaspor,2016-11-05,10:30:00,Good,Sun,17,-,4_4_2,4_2_3_1,81:43
+7099,304,TurSL,2291231,Gaziantepspor,Alanyaspor,2016-11-05,10:30:00,Good,Sun,17,-,4_2_3_1,4_2_3_1,21:19
+7097,302,TurSL,2291230,Bursaspor,Karabukspor,2016-11-05,13:00:00,"Excellent, Wet",Clear,18,Warm,4_2_3_1,4_2_3_1,70:15
+7094,299,TurSL,2291232,Genclerbirligi,Antalyaspor,2016-11-05,16:00:00,Average,"Cloud, Sun",22,Hot,4_2_3_1,4_2_3_1,77:17
+7095,300,TurSL,2291232,Genclerbirligi,Antalyaspor,2016-11-05,16:00:00,Average,"Cloud, Sun",22,Hot,4_2_3_1,4_4_2,45:00
+7096,301,TurSL,2291228,Trabzonspor,Besiktas,2016-11-05,16:00:00,Excellent,Clear,16,-,4_2_3_1,4_1_4_1,88:03
+7093,298,TurSL,2291226,Adanaspor,Rizespor,2016-11-06,10:30:00,"Dry, Good","Clear, Sun",16,Warm,4_2_3_1,4_2_3_1,89:22
+7092,297,TurSL,2291233,Kayserispor,Osmanlispor,2016-11-06,13:00:00,Good,Cloud,14,-,4_2_3_1,4_3_3,93:20
+7090,295,TurSL,2291229,Fenerbahce,Akhisar Belediyespor,2016-11-06,16:00:00,Good,Clear,18,-,4_2_3_1,4_2_3_1,77:59
+7091,296,TurSL,2291227,Kasimpasa,Konyaspor,2016-11-06,16:00:00,Good,Clear,15,-,4_3_3,4_2_3_1,83:15
+7089,294,TurSL,2291238,Konyaspor,Gaziantepspor,2016-11-19,10:30:00,Average,Sun,15,-,4_2_3_1,4_2_3_1,73:11
+7087,292,TurSL,2291241,Akhisar Belediyespor,Bursaspor,2016-11-19,13:00:00,"Average, Dry","Clear, Sun",17,Warm,4_3_3,4_1_4_1,82:06
+7088,293,TurSL,2291241,Akhisar Belediyespor,Bursaspor,2016-11-19,13:00:00,"Average, Dry","Clear, Sun",17,Warm,4_2_3_1,4_1_4_1,63:11
+7085,290,TurSL,2291242,Besiktas,Adanaspor,2016-11-19,16:00:00,Good,Cloud,17,Warm,4_2_3_1,4_2_3_1,87:20
+7086,291,TurSL,2291234,Alanyaspor,Osmanlispor,2016-11-19,16:00:00,"Dry, Excellent, Soft",Clear,4,Cold,4_2_3_1,4_2_3_1,82:43
+7083,288,TurSL,2291237,Genclerbirligi,Kayserispor,2016-11-20,11:00:00,Average,Sun,9,Cold,4_2_3_1,4_2_3_1,82:33
+7084,289,TurSL,2291236,Karabukspor,Kasimpasa,2016-11-20,11:00:00,Good,Sun,16,-,4_2_3_1,4_2_3_1,74:56
+7081,286,TurSL,2291240,Galatasaray,Fenerbahce,2016-11-20,17:00:00,Excellent,"Clear, Sun",13,-,4_2_3_1,4_2_3_1,84:57
+7082,287,TurSL,2291240,Galatasaray,Fenerbahce,2016-11-20,17:00:00,Excellent,"Clear, Sun",13,-,4_4_2,4_2_3_1,71:16
+7080,285,TurSL,2291235,Rizespor,Istanbul Basaksehir,2016-11-21,16:00:00,"Excellent, Wet",Cloud,15,Cold,4_2_3_1,4_2_3_1,84:38
+7078,283,TurSL,2291239,Antalyaspor,Trabzonspor,2016-11-21,17:00:00,Good,Clear,10,-,4_1_4_1,4_4_1_1,80:37
+7079,284,TurSL,2291239,Antalyaspor,Trabzonspor,2016-11-21,17:00:00,Good,Clear,10,-,4_1_4_1,4_4_2,45:06
+7076,281,TurSL,2291243,Bursaspor,Galatasaray,2016-11-25,17:00:00,Good,Cloud,9,Cold,4_2_3_1,4_2_3_1,86:20
+7077,282,TurSL,2291249,Kayserispor,Alanyaspor,2016-11-25,17:00:00,Average,Clear,13,Warm,4_2_3_1,4_2_3_1,85:11
+7075,280,TurSL,2291250,Gaziantepspor,Karabukspor,2016-11-26,10:30:00,Good,"Clear, Sun",13,-,4_2_3_1,4_2_3_1,91:19
+7074,279,TurSL,2291248,Kasimpasa,Akhisar Belediyespor,2016-11-26,13:00:00,Average,Sun,15,-,4_5_1,4_2_3_1,79:26
+7071,276,TurSL,2291247,Istanbul Basaksehir,Besiktas,2016-11-26,16:00:00,Good,Clear,15,-,4_2_3_1,4_2_3_1,82:36
+7072,277,TurSL,2291251,Adanaspor,Antalyaspor,2016-11-26,16:00:00,Good,Clear,14,Warm,4_2_3_1,4_2_3_1,86:00
+7073,278,TurSL,2291251,Adanaspor,Antalyaspor,2016-11-26,16:00:00,Good,Clear,14,Warm,4_3_3,4_2_3_1,90:00
+7070,275,TurSL,2291244,Trabzonspor,Genclerbirligi,2016-11-27,13:00:00,Good,Sun,10,Warm,4_1_4_1,4_2_3_1,89:17
+7069,274,TurSL,2291245,Fenerbahce,Rizespor,2016-11-27,16:00:00,"Good, Soft","Clear, Light Wind",12,Warm,4_2_3_1,4_2_3_1,78:44
+7068,273,TurSL,2291246,Osmanlispor,Konyaspor,2016-11-28,17:00:00,"Excellent, Wet",Cloud,6,Cold,4_4_2,4_2_3_1,89:53
+7067,272,TurSL,2291258,Antalyaspor,Istanbul Basaksehir,2016-12-03,11:00:00,Average,Sun,13,-,4_2_3_1,4_2_3_1,84:11
+7064,269,TurSL,2291257,Besiktas,Fenerbahce,2016-12-03,16:00:00,Average,Cloud,7,Cold,4_4_2,4_5_1,84:54
+7065,270,TurSL,2291257,Besiktas,Fenerbahce,2016-12-03,16:00:00,Average,Cloud,7,Cold,4_4_2,4_2_3_1,59:16
+7066,271,TurSL,2291257,Besiktas,Fenerbahce,2016-12-03,16:00:00,Average,Cloud,7,Cold,4_2_2_2,4_2_3_1,00:00
+7062,267,TurSL,2291252,Konyaspor,Alanyaspor,2016-12-04,10:30:00,"Excellent, Wet",Cloud,15,Warm,4_4_2,4_4_2,79:50
+7063,268,TurSL,2291252,Konyaspor,Alanyaspor,2016-12-04,10:30:00,"Excellent, Wet",Cloud,15,Warm,4_2_3_1,4_4_2,37:51
+7058,263,TurSL,2291260,Karabukspor,Osmanlispor,2016-12-04,13:00:00,Good,"Clear, Sun",3,Cold,4_2_3_1,4_3_3,76:04
+7059,264,TurSL,2291255,Akhisar Belediyespor,Gaziantepspor,2016-12-04,13:00:00,Average,Cloud,6,-,4_1_4_1,4_1_4_1,83:06
+7060,265,TurSL,2291255,Akhisar Belediyespor,Gaziantepspor,2016-12-04,13:00:00,Average,Cloud,6,-,4_2_3_1,4_1_4_1,69:42
+7061,266,TurSL,2291255,Akhisar Belediyespor,Gaziantepspor,2016-12-04,13:00:00,Average,Cloud,6,-,4_1_4_1,5_4_1,91:42
+7056,261,TurSL,2291259,Genclerbirligi,Adanaspor,2016-12-04,16:00:00,Good,Cloud,13,-,4_2_3_1,4_2_3_1,81:45
+7057,262,TurSL,2291253,Galatasaray,Kasimpasa,2016-12-04,16:00:00,Good,Clear,14,-,4_2_3_1,4_2_3_1,90:28
+7053,258,TurSL,2291254,Trabzonspor,Kayserispor,2016-12-05,17:00:00,"Excellent, Wet",Cloud,-2,Freezing,4_2_3_1,4_2_3_1,84:29
+7054,259,TurSL,2291256,Rizespor,Bursaspor,2016-12-05,17:00:00,Good,Clear,5,Cold,4_2_3_1,4_4_2,81:59
+7055,260,TurSL,2291256,Rizespor,Bursaspor,2016-12-05,17:00:00,Good,Clear,5,Cold,4_2_3_1,4_2_3_1,45:00
+7052,257,TurSL,2291265,Adanaspor,Trabzonspor,2016-12-09,17:00:00,Average,Cloud,8,Cold,4_2_3_1,4_2_3_1,82:32
+7051,256,TurSL,2291262,Kasimpasa,Rizespor,2016-12-10,13:00:00,Good,"Clear, Sun",14,-,4_2_3_1,4_2_3_1,82:55
+7049,254,TurSL,2291267,Bursaspor,Besiktas,2016-12-10,16:00:00,Good,Clear,14,-,4_2_3_1,4_2_3_1,91:38
+7050,255,TurSL,2291263,Istanbul Basaksehir,Genclerbirligi,2016-12-10,16:00:00,Average,Clear,15,-,4_2_3_1,4_2_3_1,84:55
+7048,253,TurSL,2291268,Alanyaspor,Karabukspor,2016-12-11,10:30:00,Good,"Cloud, Sun",8,Cold,4_2_3_1,4_2_3_1,87:17
+7046,251,TurSL,2291266,Osmanlispor,Akhisar Belediyespor,2016-12-11,13:00:00,Good,"Cloud, Sun",14,-,4_4_2,4_3_3,72:07
+7047,252,TurSL,2291266,Osmanlispor,Akhisar Belediyespor,2016-12-11,13:00:00,Good,"Cloud, Sun",14,-,4_3_3,4_3_3,09:57
+7044,249,TurSL,2291264,Kayserispor,Konyaspor,2016-12-11,16:00:00,Good,Cloud,4,Cold,4_2_3_1,4_2_3_1,74:41
+7045,250,TurSL,2291261,Gaziantepspor,Galatasaray,2016-12-11,16:00:00,"Excellent, Wet",Clear,10,Cold,4_2_3_1,4_2_3_1,79:55
+7043,248,TurSL,2291269,Fenerbahce,Antalyaspor,2016-12-12,17:00:00,Good,Clear,13,-,4_2_3_1,4_2_3_1,90:06
+7042,247,TurSL,2291276,Trabzonspor,Istanbul Basaksehir,2016-12-17,13:00:00,Good,Sun,12,-,4_2_3_1,4_1_4_1,81:45
+7041,246,TurSL,2291272,Besiktas,Kasimpasa,2016-12-17,16:00:00,Good,Clear,5,Cold,4_3_3,4_2_3_1,85:28
+7038,243,TurSL,2291270,Konyaspor,Karabukspor,2016-12-18,10:30:00,Average,Sun,-2,Freezing,4_2_3_1,4_5_1,86:58
+7039,244,TurSL,2291270,Konyaspor,Karabukspor,2016-12-18,10:30:00,Average,Sun,-2,Freezing,4_2_3_1,4_4_2,67:39
+7040,245,TurSL,2291273,Rizespor,Gaziantepspor,2016-12-18,10:30:00,"Poor, Uneven","Clear, Sun",3,Cold,4_2_3_1,4_2_3_1,83:32
+7037,242,TurSL,2291277,Kayserispor,Adanaspor,2016-12-18,13:00:00,Good,Sun,10,-,4_2_3_1,4_2_3_1,87:13
+7034,239,TurSL,2291278,Galatasaray,Osmanlispor,2016-12-18,16:00:00,Average,Clear,6,-,4_2_3_1,4_2_3_1,90:38
+7035,240,TurSL,2291271,Akhisar Belediyespor,Alanyaspor,2016-12-18,16:00:00,Average,Cloud,9,Cold,4_4_2,4_3_3,87:04
+7036,241,TurSL,2291271,Akhisar Belediyespor,Alanyaspor,2016-12-18,16:00:00,Average,Cloud,9,Cold,4_2_3_1,4_3_3,65:53
+7032,237,TurSL,2291274,Genclerbirligi,Fenerbahce,2016-12-19,17:00:00,"Excellent, Wet",Clear,3,Freezing,4_2_3_1,4_2_3_1,69:07
+7033,238,TurSL,2291275,Antalyaspor,Bursaspor,2016-12-19,17:00:00,Average,Clear,12,-,4_2_3_1,4_2_3_1,87:14
+7031,236,TurSL,2291279,Istanbul Basaksehir,Adanaspor,2016-12-24,13:00:00,Average,Cloud,13,-,4_2_3_1,4_2_3_1,86:18
+7030,235,TurSL,2291284,Gaziantepspor,Besiktas,2016-12-24,16:00:00,"Good, Soft","Cloud, Light Wind",5,Cold,4_2_3_1,4_2_3_1,85:20
+7029,234,TurSL,2291280,Osmanlispor,Rizespor,2016-12-25,10:30:00,"Excellent, Good","Cloud, Light Rain",5,-,4_2_3_1,4_1_4_1,86:32
+7027,232,TurSL,2291286,Karabukspor,Kayserispor,2016-12-25,13:00:00,Average,"Cloud, Light Snow",-1,Freezing,4_3_3,4_2_3_1,88:45
+7028,233,TurSL,2291285,Konyaspor,Akhisar Belediyespor,2016-12-25,13:00:00,"Average, Dry, Patchy",Cloud,6,Cold,4_2_3_1,4_2_2_2,88:17
+7025,230,TurSL,2291282,Alanyaspor,Galatasaray,2016-12-25,16:00:00,Good,Cloud,3,Cold,4_2_3_1,4_2_3_1,84:39
+7026,231,TurSL,2291287,Kasimpasa,Antalyaspor,2016-12-25,16:00:00,"Average, Patchy, Wet",Clear,11,Cold,4_2_3_1,4_2_3_1,80:52
+7024,229,TurSL,2291281,Bursaspor,Genclerbirligi,2016-12-26,16:00:00,Average,"Light Snow, Snow",-2,Freezing,4_2_3_1,4_2_3_1,85:01
+7022,227,TurSL,2291283,Fenerbahce,Trabzonspor,2016-12-26,17:00:00,Excellent,Cloud,8,Cold,4_3_3,4_2_3_1,80:57
+7023,228,TurSL,2291283,Fenerbahce,Trabzonspor,2016-12-26,17:00:00,Excellent,Cloud,8,Cold,4_1_4_1,4_2_3_1,00:00
+7019,224,TurSL,2291293,Trabzonspor,Bursaspor,2017-01-13,17:00:00,Average,Cloud,8,Cold,4_2_2_2,4_3_3,85:45
+7020,225,TurSL,2291293,Trabzonspor,Bursaspor,2017-01-13,17:00:00,Average,Cloud,8,Cold,4_2_3_1,4_3_3,62:53
+7021,226,TurSL,2291293,Trabzonspor,Bursaspor,2017-01-13,17:00:00,Average,Cloud,8,Cold,4_2_3_1,4_2_3_1,00:00
+7017,222,TurSL,2291288,Rizespor,Alanyaspor,2017-01-14,10:30:00,Average,Sun,12,-,4_2_3_1,4_2_3_1,74:55
+7018,223,TurSL,2291290,Akhisar Belediyespor,Karabukspor,2017-01-14,10:30:00,"Dry, Good",Clear,-3,Freezing,4_2_3_1,4_1_4_1,81:55
+7016,221,TurSL,2291295,Kayserispor,Istanbul Basaksehir,2017-01-14,13:00:00,Good,Clear,9,Cold,4_2_3_1,4_3_3,79:09
+7014,219,TurSL,2291294,Galatasaray,Konyaspor,2017-01-14,16:00:00,Good,Cloud,-4,Freezing,4_4_1_1,5_4_1,93:37
+7015,220,TurSL,2291294,Galatasaray,Konyaspor,2017-01-14,16:00:00,Good,Cloud,-4,Freezing,4_4_1_1,4_4_1_1,70:45
+7013,218,TurSL,2291289,Genclerbirligi,Kasimpasa,2017-01-15,10:30:00,Good,Sun,12,-,4_2_3_1,4_2_3_1,81:28
+7012,217,TurSL,2291291,Antalyaspor,Gaziantepspor,2017-01-15,13:00:00,Average,"Cloud, Sun",7,-,4_2_3_1,4_2_3_1,85:50
+7010,215,TurSL,2291292,Adanaspor,Fenerbahce,2017-01-15,16:00:00,Good,"Cloud, Light Rain",3,Cold,4_2_3_1,4_3_3,83:59
+7011,216,TurSL,2291292,Adanaspor,Fenerbahce,2017-01-15,16:00:00,Good,"Cloud, Light Rain",3,Cold,4_3_3,4_3_3,00:00
+7009,214,TurSL,2291296,Besiktas,Osmanlispor,2017-01-16,16:00:00,"Patchy, Poor","Cloud, Rain",1,Freezing,4_2_3_1,4_2_3_1,74:44
+7008,213,TurSL,2291302,Kayserispor,Akhisar Belediyespor,2017-01-21,10:30:00,"Patchy, Poor, Uneven","Clear, Sun",14,Warm,4_2_3_1,4_2_3_1,81:42
+7006,211,TurSL,2291298,Rizespor,Konyaspor,2017-01-21,13:00:00,"Good, Wet",Sun,0,Freezing,4_2_2_2,4_2_3_1,85:58
+7007,212,TurSL,2291298,Rizespor,Konyaspor,2017-01-21,13:00:00,"Good, Wet",Sun,0,Freezing,4_5_1,4_2_3_1,91:22
+7004,209,TurSL,2291299,Adanaspor,Bursaspor,2017-01-21,16:00:00,"Average, Patchy","Cloud, Sun",8,-,4_2_2_2,4_3_2_1,86:23
+7005,210,TurSL,2291303,Galatasaray,Karabukspor,2017-01-21,16:00:00,"Dry, Good",Clear,3,Cold,4_1_4_1,4_2_3_1,84:13
+7003,208,TurSL,2291297,Antalyaspor,Osmanlispor,2017-01-22,10:30:00,"Poor, Uneven","Clear, Sun",-4,Freezing,4_2_3_1,4_2_3_1,77:03
+7002,207,TurSL,2291304,Trabzonspor,Kasimpasa,2017-01-22,13:00:00,Average,Cloud,2,Freezing,4_2_3_1,4_2_3_1,79:16
+7001,206,TurSL,2291300,Istanbul Basaksehir,Fenerbahce,2017-01-22,16:00:00,"Average, Dry, Soft","Clear, Light Wind",6,Cold,4_2_3_1,4_2_3_1,83:02
+6999,204,TurSL,2291305,Besiktas,Alanyaspor,2017-01-23,17:00:00,Average,Clear,5,-,4_4_2,4_2_3_1,77:00
+7000,205,TurSL,2291305,Besiktas,Alanyaspor,2017-01-23,17:00:00,Average,Clear,5,-,4_2_3_1,4_2_3_1,65:48
+6995,200,TurSL,2291312,Karabukspor,Rizespor,2017-01-28,13:00:00,Average,"Cloud, Sun",1,Freezing,4_2_3_1,4_1_4_1,80:48
+6996,201,TurSL,2291312,Karabukspor,Rizespor,2017-01-28,13:00:00,Average,"Cloud, Sun",1,Freezing,4_2_3_1,4_3_2_1,67:21
+6997,202,TurSL,2291312,Karabukspor,Rizespor,2017-01-28,13:00:00,Average,,1,Freezing,4_2_3_1,4_1_4_1,80:48
+6998,203,TurSL,2291312,Karabukspor,Rizespor,2017-01-28,13:00:00,Average,,1,Freezing,4_2_3_1,4_3_2_1,67:21
+6993,198,TurSL,2291306,Alanyaspor,Antalyaspor,2017-01-28,16:00:00,Good,"Clear, Sun",13,-,4_2_3_1,4_2_3_1,84:05
+6994,199,TurSL,2291310,Akhisar Belediyespor,Galatasaray,2017-01-28,16:00:00,Good,"Cloud, Sun",2,Cold,4_2_3_1,4_2_3_1,77:49
+6992,197,TurSL,2291311,Osmanlispor,Genclerbirligi,2017-01-29,10:30:00,Average,"Clear, Sun",-2,Freezing,4_2_3_1,4_2_3_1,74:35
+6991,196,TurSL,2291314,Bursaspor,Istanbul Basaksehir,2017-01-29,12:00:00,Average,Clear,14,-,4_2_3_1,4_2_3_1,79:28
+6990,195,TurSL,2291309,Gaziantepspor,Trabzonspor,2017-01-29,13:00:00,Good,"Cloud, Rain",5,-,4_2_3_1,4_1_4_1,80:59
+6989,194,TurSL,2291307,Fenerbahce,Kayserispor,2017-01-29,16:00:00,"Good, Patchy",Clear,-3,Freezing,4_2_3_1,4_2_3_1,80:09
+6987,192,TurSL,2291313,Kasimpasa,Adanaspor,2017-01-30,17:00:00,"Good, Wet",Clear,5,Cold,4_3_3,4_2_3_1,76:39
+6988,193,TurSL,2291308,Konyaspor,Besiktas,2017-01-30,17:00:00,Good,"Cloud, Sun",4,Cold,4_2_3_1,4_4_2,76:02
+6985,190,TurSL,2291323,Besiktas,Karabukspor,2017-02-10,16:00:00,Average,Cloud,4,Cold,4_1_4_1,4_2_3_1,72:13
+6986,191,TurSL,2291323,Besiktas,Karabukspor,2017-02-10,16:00:00,Average,Cloud,4,Cold,5_3_2,4_2_3_1,00:00
+6983,188,TurSL,2291321,Genclerbirligi,Alanyaspor,2017-02-11,10:30:00,Excellent,"Clear, Sun",10,Warm,4_3_3,4_4_2,72:58
+6984,189,TurSL,2291321,Genclerbirligi,Alanyaspor,2017-02-11,10:30:00,Excellent,"Clear, Sun",10,Warm,4_3_3,4_2_3_1,23:36
+6981,186,TurSL,2291315,Trabzonspor,Osmanlispor,2017-02-11,13:00:00,Poor,Cloud,4,Cold,4_1_4_1,4_2_3_1,81:06
+6982,187,TurSL,2291315,Trabzonspor,Osmanlispor,2017-02-11,13:00:00,Poor,Cloud,4,Cold,4_2_3_1,4_2_3_1,65:58
+6980,185,TurSL,2291317,Fenerbahce,Bursaspor,2017-02-11,16:00:00,"Average, Uneven",Cloud,10,-,4_2_3_1,4_2_3_1,85:36
+6978,183,TurSL,2291320,Rizespor,Akhisar Belediyespor,2017-02-12,10:30:00,"Patchy, Poor, Uneven",Clear,12,-,4_5_1,4_2_3_1,76:10
+6979,184,TurSL,2291322,Istanbul Basaksehir,Kasimpasa,2017-02-12,10:30:00,"Excellent, Wet","Cloud, Rain",4,Freezing,4_2_3_1,4_2_3_1,82:06
+6977,182,TurSL,2291318,Antalyaspor,Konyaspor,2017-02-12,13:00:00,Good,Sun,-2,Freezing,4_2_3_1,4_2_3_1,76:02
+6975,180,TurSL,2291316,Kayserispor,Galatasaray,2017-02-12,16:00:00,"Excellent, Wet",Snow,4,Freezing,4_4_2,4_2_3_1,65:32
+6976,181,TurSL,2291316,Kayserispor,Galatasaray,2017-02-12,16:00:00,"Excellent, Wet",Snow,4,Freezing,4_2_3_1,4_2_3_1,00:00
+6973,178,TurSL,2291319,Adanaspor,Gaziantepspor,2017-02-13,17:00:00,Average,"Cloud, Light Rain",5,-,4_2_3_1,4_1_4_1,69:02
+6974,179,TurSL,2291319,Adanaspor,Gaziantepspor,2017-02-13,17:00:00,Average,"Cloud, Light Rain",5,-,4_1_4_1,4_1_4_1,00:00
+6971,176,TurSL,2291325,Bursaspor,Kayserispor,2017-02-17,16:00:00,Good,Cloud,-2,Freezing,4_2_3_1,4_4_1_1,81:40
+6972,177,TurSL,2291325,Bursaspor,Kayserispor,2017-02-17,16:00:00,Good,Cloud,-2,Freezing,4_2_3_1,4_2_3_1,45:00
+6969,174,TurSL,2291324,Karabukspor,Antalyaspor,2017-02-18,10:30:00,Good,"Cloud, Sun",11,-,4_2_3_1,4_1_4_1,80:07
+6970,175,TurSL,2291324,Karabukspor,Antalyaspor,2017-02-18,10:30:00,Good,"Cloud, Sun",11,-,4_2_3_1,4_4_2,82:18
+6968,173,TurSL,2291331,Gaziantepspor,Istanbul Basaksehir,2017-02-18,13:00:00,Excellent,"Clear, Sun",6,Cold,4_2_3_1,4_2_3_1,76:35
+6966,171,TurSL,2291332,Galatasaray,Rizespor,2017-02-18,16:00:00,"Average, Dry",Clear,4,Cold,4_1_4_1,4_2_3_1,78:02
+6967,172,TurSL,2291332,Galatasaray,Rizespor,2017-02-18,16:00:00,"Average, Dry",Clear,4,Cold,4_2_3_1,4_2_3_1,42:35
+6964,169,TurSL,2291330,Konyaspor,Genclerbirligi,2017-02-19,10:00:00,Good,Sun,8,Cold,5_4_1,4_4_1_1,85:21
+6965,170,TurSL,2291330,Konyaspor,Genclerbirligi,2017-02-19,10:00:00,Good,Sun,8,Cold,5_4_1,3_4_3,86:18
+6963,168,TurSL,2291327,Kasimpasa,Fenerbahce,2017-02-19,12:00:00,Excellent,Sun,12,Warm,4_2_3_1,4_2_3_1,84:49
+6962,167,TurSL,2291329,Osmanlispor,Adanaspor,2017-02-19,12:30:00,Average,Clear,13,-,4_2_3_1,4_4_2,78:26
+6961,166,TurSL,2291326,Akhisar Belediyespor,Besiktas,2017-02-19,16:00:00,Good,"Cloud, Sun",15,Warm,4_2_3_1,5_4_1,78:15
+6960,165,TurSL,2291328,Alanyaspor,Trabzonspor,2017-02-20,17:00:00,Average,"Clear, Sun",8,Cold,4_2_3_1,4_2_3_1,76:41
+6959,164,TurSL,2291333,Kayserispor,Rizespor,2017-02-24,16:00:00,"Dry, Good",Clear,10,Warm,4_2_3_1,4_2_3_1,83:30
+6957,162,TurSL,2291340,Bursaspor,Kasimpasa,2017-02-24,17:00:00,Excellent,Cloud,16,-,4_2_3_1,4_4_1_1,82:06
+6958,163,TurSL,2291340,Bursaspor,Kasimpasa,2017-02-24,17:00:00,Excellent,Cloud,16,-,4_2_3_1,4_2_3_1,00:00
+6956,161,TurSL,2291338,Adanaspor,Alanyaspor,2017-02-25,12:00:00,"Poor, Soft",Cloud,18,Warm,4_2_3_1,4_2_3_1,72:40
+6955,160,TurSL,2291337,Antalyaspor,Akhisar Belediyespor,2017-02-25,13:00:00,Poor,"Cloud, Sun",16,Warm,4_2_3_1,4_3_3,82:34
+6954,159,TurSL,2291335,Trabzonspor,Konyaspor,2017-02-25,16:00:00,Excellent,Clear,7,-,4_4_2,4_2_3_1,89:06
+6952,157,TurSL,2291339,Genclerbirligi,Karabukspor,2017-02-26,10:30:00,Average,Cloud,9,-,4_2_3_1,4_2_3_1,79:55
+6953,158,TurSL,2291339,Genclerbirligi,Karabukspor,2017-02-26,10:30:00,Average,Cloud,9,-,4_2_3_1,5_4_1,00:00
+6949,154,TurSL,2291341,Istanbul Basaksehir,Osmanlispor,2017-02-26,13:00:00,"Average, Good",Cloud,10,-,4_3_3,4_2_3_1,88:29
+6950,155,TurSL,2291341,Istanbul Basaksehir,Osmanlispor,2017-02-26,13:00:00,"Average, Good",Cloud,10,-,4_2_3_1,4_2_3_1,00:00
+6951,156,TurSL,2291341,Istanbul Basaksehir,Osmanlispor,2017-02-26,13:00:00,"Average, Good",Cloud,10,-,4_2_2_2,4_2_3_1,45:00
+6948,153,TurSL,2291336,Fenerbahce,Gaziantepspor,2017-02-26,16:00:00,Good,Clear,10,-,4_2_3_1,4_2_3_1,75:32
+6946,151,TurSL,2291334,Besiktas,Galatasaray,2017-02-27,17:00:00,Good,Cloud,8,Cold,4_4_2,4_2_3_1,75:13
+6947,152,TurSL,2291334,Besiktas,Galatasaray,2017-02-27,17:00:00,Good,Cloud,8,Cold,4_2_3_1,4_2_3_1,70:30
+6944,149,TurSL,2291346,Karabukspor,Trabzonspor,2017-03-03,17:00:00,"Good, Wet","Cloud, Rain",12,-,4_2_3_1,4_4_2,85:46
+6945,150,TurSL,2291346,Karabukspor,Trabzonspor,2017-03-03,17:00:00,"Good, Wet","Cloud, Rain",12,-,4_2_3_1,4_1_4_1,00:00
+6943,148,TurSL,2291344,Gaziantepspor,Bursaspor,2017-03-04,13:00:00,Excellent,"Clear, Sun",18,Warm,4_2_3_1,4_2_3_1,88:12
+6941,146,TurSL,2291347,Rizespor,Besiktas,2017-03-04,16:00:00,"Dry, Excellent","Clear, Wind",14,Warm,4_2_3_1,4_2_3_1,85:24
+6942,147,TurSL,2291347,Rizespor,Besiktas,2017-03-04,16:00:00,"Dry, Excellent","Clear, Wind",14,Warm,4_2_3_1,4_5_1,65:05
+6940,145,TurSL,2291350,Alanyaspor,Istanbul Basaksehir,2017-03-05,10:30:00,"Dry, Good, Soft","Clear, Sun",19,Warm,4_2_3_1,4_2_3_1,82:32
+6939,144,TurSL,2291348,Konyaspor,Adanaspor,2017-03-05,13:00:00,Good,"Clear, Sun",20,Warm,4_4_2,4_3_3,78:33
+6936,141,TurSL,2291345,Osmanlispor,Fenerbahce,2017-03-05,16:00:00,Excellent,"Cloud, Sun",17,Warm,4_4_2,4_2_3_1,79:09
+6937,142,TurSL,2291345,Osmanlispor,Fenerbahce,2017-03-05,16:00:00,Excellent,"Cloud, Sun",17,Warm,4_2_3_1,4_2_3_1,00:00
+6938,143,TurSL,2291342,Kasimpasa,Kayserispor,2017-03-05,16:00:00,Good,"Clear, Light Wind",9,Cold,4_2_3_1,4_2_3_1,85:25
+6935,140,TurSL,2291349,Akhisar Belediyespor,Genclerbirligi,2017-03-06,16:00:00,Good,Cloud,5,-,4_2_3_1,4_2_3_1,74:10
+6934,139,TurSL,2291343,Galatasaray,Antalyaspor,2017-03-06,17:00:00,Good,"Clear, Sun",15,-,4_2_3_1,4_2_3_1,77:16
+6933,138,TurSL,2291354,Fenerbahce,Alanyaspor,2017-03-10,17:00:00,"Average, Patchy",Cloud,14,-,4_3_3,4_2_3_1,80:47
+6932,137,TurSL,2291355,Adanaspor,Karabukspor,2017-03-11,10:30:00,Good,"Clear, Sun",13,Warm,4_2_3_1,4_3_3,84:42
+6931,136,TurSL,2291359,Bursaspor,Osmanlispor,2017-03-11,13:00:00,"Average, Patchy","Clear, Cloud",8,Cold,4_2_3_1,4_2_3_1,69:36
+6929,134,TurSL,2291356,Kasimpasa,Gaziantepspor,2017-03-11,16:00:00,"Dry, Good, Soft",Clear,9,Cold,4_2_3_1,4_2_3_1,89:06
+6930,135,TurSL,2291352,Genclerbirligi,Galatasaray,2017-03-11,16:00:00,"Dry, Excellent",Cloud,10,Cold,3_4_3,4_2_3_1,85:04
+6928,133,TurSL,2291353,Istanbul Basaksehir,Konyaspor,2017-03-12,13:00:00,"Poor, Wet","Cloud, Light Snow",1,Freezing,4_4_2,4_2_3_1,82:05
+6924,129,TurSL,2291358,Kayserispor,Besiktas,2017-03-12,16:00:00,"Excellent, Wet",Light Rain,9,Cold,4_2_2_2,4_2_3_1,86:00
+6925,130,TurSL,2291358,Kayserispor,Besiktas,2017-03-12,16:00:00,"Excellent, Wet",Light Rain,9,Cold,4_2_3_1,4_2_3_1,00:00
+6926,131,TurSL,2291358,Kayserispor,Besiktas,2017-03-12,16:00:00,"Excellent, Wet",Light Rain,9,Cold,4_2_2_2,_,93:38
+6927,132,TurSL,2291351,Antalyaspor,Rizespor,2017-03-12,16:00:00,"Dry, Excellent, Soft",Clear,18,Warm,4_2_3_1,4_2_3_1,70:08
+6923,128,TurSL,2291357,Trabzonspor,Akhisar Belediyespor,2017-03-13,17:00:00,Average,Cloud,8,-,4_2_3_1,4_2_3_1,81:20
+6920,125,TurSL,2291364,Konyaspor,Fenerbahce,2017-03-17,17:00:00,Good,Cloud,6,Cold,4_4_2,4_2_3_1,85:18
+6921,126,TurSL,2291364,Konyaspor,Fenerbahce,2017-03-17,17:00:00,Good,Cloud,6,Cold,4_3_3,4_2_3_1,35:56
+6922,127,TurSL,2291364,Konyaspor,Fenerbahce,2017-03-17,17:00:00,Good,Cloud,6,Cold,4_2_3_1,4_2_3_1,45:00
+6919,124,TurSL,2291360,Osmanlispor,Kasimpasa,2017-03-18,10:30:00,"Dry, Good","Clear, Sun",10,Warm,4_2_3_1,4_2_3_1,82:25
+6918,123,TurSL,2291362,Gaziantepspor,Kayserispor,2017-03-18,13:00:00,"Dry, Good","Clear, Sun",2,Cold,4_2_3_1,4_2_3_1,85:45
+6915,120,TurSL,2291366,Akhisar Belediyespor,Adanaspor,2017-03-18,16:00:00,Good,Clear,17,Warm,4_2_3_1,4_2_3_1,82:36
+6916,121,TurSL,2291365,Galatasaray,Trabzonspor,2017-03-18,16:00:00,Excellent,Cloud,7,Cold,4_4_1_1,3_4_2_1,78:45
+6917,122,TurSL,2291365,Galatasaray,Trabzonspor,2017-03-18,16:00:00,Excellent,Cloud,7,Cold,4_2_3_1,3_4_2_1,61:37
+6912,117,TurSL,2291367,Rizespor,Genclerbirligi,2017-03-19,10:30:00,Good,"Clear, Light Wind",8,Cold,3_4_2_1,4_4_2,71:34
+6913,118,TurSL,2291367,Rizespor,Genclerbirligi,2017-03-19,10:30:00,Good,"Clear, Light Wind",8,Cold,3_4_2_1,4_2_3_1,57:12
+6914,119,TurSL,2291367,Rizespor,Genclerbirligi,2017-03-19,10:30:00,Good,"Clear, Light Wind",8,Cold,4_1_4_1,4_2_3_1,00:00
+6908,113,TurSL,2291368,Karabukspor,Istanbul Basaksehir,2017-03-19,13:00:00,Good,"Clear, Sun",10,-,4_4_2,4_2_3_1,88:25
+6909,114,TurSL,2291368,Karabukspor,Istanbul Basaksehir,2017-03-19,13:00:00,Good,"Clear, Sun",10,-,4_2_3_1,4_2_3_1,70:50
+6910,115,TurSL,2291363,Alanyaspor,Bursaspor,2017-03-19,13:00:00,"Good, Wet",Cloud,16,Warm,4_2_3_1,4_2_3_1,90:13
+6911,116,TurSL,2291363,Alanyaspor,Bursaspor,2017-03-19,13:00:00,"Good, Wet",Cloud,16,Warm,4_4_2,4_2_3_1,78:20
+6907,112,TurSL,2291361,Besiktas,Antalyaspor,2017-03-19,16:00:00,Excellent,Sun,17,Warm,4_2_3_1,4_2_3_1,88:28
+6905,110,TurSL,2291376,Istanbul Basaksehir,Akhisar Belediyespor,2017-04-01,10:30:00,Good,Sun,11,Warm,4_2_3_1,3_5_2,84:49
+6906,111,TurSL,2291376,Istanbul Basaksehir,Akhisar Belediyespor,2017-04-01,10:30:00,Good,Sun,11,Warm,4_2_3_1,4_2_3_1,31:37
+6904,109,TurSL,2291373,Kasimpasa,Alanyaspor,2017-04-01,13:00:00,"Dry, Excellent","Clear, Sun",20,Warm,4_2_3_1,4_2_3_1,75:32
+6902,107,TurSL,2291372,Kayserispor,Antalyaspor,2017-04-01,16:00:00,Good,"Cloud, Light Wind",16,Warm,4_2_3_1,4_2_3_1,53:20
+6903,108,TurSL,2291374,Fenerbahce,Karabukspor,2017-04-01,16:00:00,Good,Clear,13,-,4_2_3_1,4_3_3,86:14
+6900,105,TurSL,2291369,Trabzonspor,Rizespor,2017-04-02,13:00:00,"Good, Wet","Cloud, Light Rain",9,-,4_4_2,4_2_3_1,74:35
+6901,106,TurSL,2291369,Trabzonspor,Rizespor,2017-04-02,13:00:00,"Good, Wet","Cloud, Light Rain",9,-,4_2_3_1,4_2_3_1,49:55
+6898,103,TurSL,2291377,Gaziantepspor,Osmanlispor,2017-04-02,13:30:00,"Average, Patchy","Clear, Sun",16,Warm,4_2_3_1,4_2_3_1,83:27
+6899,104,TurSL,2291377,Gaziantepspor,Osmanlispor,2017-04-02,13:30:00,"Average, Patchy","Clear, Sun",16,Warm,4_2_3_1,4_1_4_1,88:35
+6895,100,TurSL,2291371,Bursaspor,Konyaspor,2017-04-02,16:00:00,"Dry, Excellent, Soft",Clear,13,Cold,4_2_3_1,4_4_1_1,79:59
+6896,101,TurSL,2291375,Genclerbirligi,Besiktas,2017-04-02,16:00:00,Excellent,Cloud,12,Warm,4_2_3_1,4_2_3_1,83:08
+6897,102,TurSL,2291375,Genclerbirligi,Besiktas,2017-04-02,16:00:00,Excellent,Cloud,12,Warm,4_2_3_1,5_4_1,43:24
+6893,98,TurSL,2291370,Adanaspor,Galatasaray,2017-04-03,17:00:00,Good,Cloud,9,Cold,3_4_2_1,4_3_3,77:06
+6894,99,TurSL,2291370,Adanaspor,Galatasaray,2017-04-03,17:00:00,Good,Cloud,9,Cold,4_2_3_1,4_3_3,67:52
+6892,97,TurSL,2291383,Karabukspor,Bursaspor,2017-04-07,17:00:00,Average,Cloud,9,-,4_2_3_1,4_2_3_1,76:59
+6891,96,TurSL,2291386,Antalyaspor,Genclerbirligi,2017-04-08,12:30:00,"Good, Patchy, Soft","Clear, Cloud, Sun",7,Cold,5_4_1,4_2_3_1,70:58
+6890,95,TurSL,2291379,Alanyaspor,Gaziantepspor,2017-04-08,13:00:00,Good,Cloud,12,-,4_2_3_1,4_2_3_1,78:58
+6889,94,TurSL,2291384,Besiktas,Trabzonspor,2017-04-08,16:00:00,"Good, Wet",Cloud,8,Cold,4_2_3_1,4_2_3_1,83:32
+6888,93,TurSL,2291380,Osmanlispor,Kayserispor,2017-04-09,13:00:00,Average,"Cloud, Sun",6,Cold,4_2_3_1,4_2_3_1,76:08
+6885,90,TurSL,2291381,Akhisar Belediyespor,Fenerbahce,2017-04-09,16:00:00,Excellent,"Clear, Sun",11,-,4_2_3_1,4_2_3_1,67:41
+6886,91,TurSL,2291385,Rizespor,Adanaspor,2017-04-09,16:00:00,Excellent,Cloud,18,-,4_2_2_2,4_2_3_1,86:00
+6887,92,TurSL,2291385,Rizespor,Adanaspor,2017-04-09,16:00:00,Excellent,Cloud,18,-,4_2_3_1,4_2_3_1,00:00
+6883,88,TurSL,2291378,Galatasaray,Istanbul Basaksehir,2017-04-10,17:00:00,Excellent,Clear,12,-,4_2_3_1,4_2_3_1,79:06
+6884,89,TurSL,2291382,Konyaspor,Kasimpasa,2017-04-10,17:00:00,"Excellent, Wet",Clear,12,Cold,4_2_3_1,4_2_3_1,85:16
+6882,87,TurSL,2291301,Genclerbirligi,Gaziantepspor,2017-04-12,14:30:00,Excellent,Cloud,10,-,4_4_2,4_3_3,67:06
+6879,84,TurSL,2291391,Kasimpasa,Karabukspor,2017-04-21,17:00:00,"Good, Wet","Light Rain, Light Wind",5,Cold,4_1_4_1,4_2_3_1,71:35
+6880,85,TurSL,2291390,Gaziantepspor,Konyaspor,2017-04-21,17:00:00,Excellent,Cloud,9,-,4_2_3_1,5_4_1,81:54
+6881,86,TurSL,2291390,Gaziantepspor,Konyaspor,2017-04-21,17:00:00,Excellent,Cloud,9,-,4_2_3_1,4_2_3_1,64:15
+6878,83,TurSL,2291389,Istanbul Basaksehir,Rizespor,2017-04-22,10:30:00,Good,"Cloud, Sun, Wind",9,Cold,4_2_3_1,4_2_3_1,87:28
+6877,82,TurSL,2291392,Osmanlispor,Alanyaspor,2017-04-22,13:00:00,Excellent,"Cloud, Sun",24,Warm,4_2_3_1,4_2_3_1,84:36
+6874,79,TurSL,2291393,Trabzonspor,Antalyaspor,2017-04-22,16:00:00,Excellent,"Cloud, Sun",18,Warm,4_4_2,4_2_3_1,79:55
+6875,80,TurSL,2291387,Kayserispor,Genclerbirligi,2017-04-22,16:00:00,Good,Cloud,12,-,5_3_2,4_4_2,87:47
+6876,81,TurSL,2291387,Kayserispor,Genclerbirligi,2017-04-22,16:00:00,Good,Cloud,12,-,5_3_2,4_2_3_1,57:10
+6873,78,TurSL,2291395,Bursaspor,Akhisar Belediyespor,2017-04-23,10:30:00,Good,Clear,20,Warm,4_2_3_1,4_2_3_1,81:26
+6872,77,TurSL,2291388,Fenerbahce,Galatasaray,2017-04-23,16:00:00,Good,"Clear, Light Wind",12,Warm,4_2_3_1,4_2_3_1,89:03
+6869,74,TurSL,2291394,Adanaspor,Besiktas,2017-04-24,17:00:00,"Artificial, Excellent, Soft",Clear,12,Warm,4_2_3_1,4_2_3_1,76:37
+6870,75,TurSL,2291394,Adanaspor,Besiktas,2017-04-24,17:00:00,"Artificial, Excellent, Soft",Clear,12,Warm,4_3_1_2,4_2_3_1,00:00
+6871,76,TurSL,2291394,Adanaspor,Besiktas,2017-04-24,17:00:00,"Artificial, Excellent, Soft",Clear,12,Warm,4_4_1_1,4_2_3_1,81:56
+6867,72,TurSL,2291396,Karabukspor,Gaziantepspor,2017-04-28,17:00:00,"Good, Wet","Clear, Light Wind",19,Warm,4_1_4_1,4_2_3_1,83:17
+6868,73,TurSL,2291396,Karabukspor,Gaziantepspor,2017-04-28,17:00:00,"Good, Wet","Clear, Light Wind",19,Warm,4_2_3_1,4_2_3_1,74:55
+6864,69,TurSL,2291397,Alanyaspor,Kayserispor,2017-04-29,13:00:00,Excellent,Sun,23,Warm,4_3_3,4_2_2_2,71:58
+6865,70,TurSL,2291397,Alanyaspor,Kayserispor,2017-04-29,13:00:00,Excellent,Sun,23,Warm,4_2_3_1,4_2_2_2,68:39
+6866,71,TurSL,2291397,Alanyaspor,Kayserispor,2017-04-29,13:00:00,Excellent,Sun,23,Warm,4_2_3_1,4_2_3_1,00:00
+6863,68,TurSL,2291399,Genclerbirligi,Trabzonspor,2017-04-29,16:00:00,"Good, Soft, Wet","Clear, Cloud",16,Cold,4_2_3_1,5_4_1,76:58
+6862,67,TurSL,2291398,Akhisar Belediyespor,Kasimpasa,2017-04-30,10:00:00,Good,Sun,20,Warm,4_2_3_1,4_2_3_1,81:15
+6861,66,TurSL,2291400,Rizespor,Fenerbahce,2017-04-30,13:00:00,"Dry, Good","Clear, Cloud, Sun",25,Hot,4_2_3_1,4_2_3_1,89:18
+6859,64,TurSL,2291403,Antalyaspor,Adanaspor,2017-04-30,16:00:00,"Dry, Good","Clear, Sun",31,Hot,4_2_3_1,4_2_3_1,78:10
+6860,65,TurSL,2291402,Besiktas,Istanbul Basaksehir,2017-04-30,16:00:00,Excellent,"Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,80:49
+6854,59,TurSL,2291404,Konyaspor,Osmanlispor,2017-05-01,17:00:00,"Dry, Poor","Cloud, Light Wind",17,Warm,4_2_3_1,4_2_3_1,81:15
+6855,60,TurSL,2291404,Konyaspor,Osmanlispor,2017-05-01,17:00:00,"Dry, Poor","Cloud, Light Wind",17,Warm,4_2_3_1,4_4_2,60:59
+6856,61,TurSL,2291404,Konyaspor,Osmanlispor,2017-05-01,17:00:00,"Dry, Poor",Rain,17,Warm,4_2_3_1,4_2_3_1,81:15
+6857,62,TurSL,2291404,Konyaspor,Osmanlispor,2017-05-01,17:00:00,"Dry, Poor",Rain,17,Warm,4_2_3_1,4_4_2,60:59
+6858,63,TurSL,2291401,Galatasaray,Bursaspor,2017-05-01,17:00:00,"Excellent, Wet","Cloud, Sun",23,Warm,4_2_3_1,4_2_3_1,78:06
+6853,58,TurSL,2291411,Istanbul Basaksehir,Antalyaspor,2017-05-05,17:00:00,Excellent,"Cloud, Sun",21,Warm,4_1_4_1,4_2_3_1,86:37
+6851,56,TurSL,2291406,Adanaspor,Genclerbirligi,2017-05-06,13:00:00,"Good, Patchy, Soft","Clear, Cloud, Sun",20,Warm,4_2_3_1,4_2_3_1,74:08
+6852,57,TurSL,2291408,Kayserispor,Trabzonspor,2017-05-06,13:00:00,"Dry, Good, Soft","Clear, Cloud, Sun",15,Warm,4_2_3_1,4_2_3_1,83:20
+6848,53,TurSL,2291409,Alanyaspor,Konyaspor,2017-05-06,16:00:00,"Good, Wet","Rain, Wind",18,-,4_2_3_1,4_3_3,93:53
+6849,54,TurSL,2291407,Kasimpasa,Galatasaray,2017-05-06,16:00:00,Good,Cloud,12,-,4_4_2,4_2_3_1,83:59
+6850,55,TurSL,2291407,Kasimpasa,Galatasaray,2017-05-06,16:00:00,Good,Cloud,12,-,4_2_3_1,4_2_3_1,70:10
+6847,52,TurSL,2291405,Bursaspor,Rizespor,2017-05-07,13:00:00,Good,Clear,14,Warm,4_2_3_1,4_2_3_1,81:50
+6846,51,TurSL,2291413,Fenerbahce,Besiktas,2017-05-07,16:00:00,Good,Cloud,17,-,4_2_3_1,4_2_3_1,88:12
+6841,46,TurSL,2291410,Osmanlispor,Karabukspor,2017-05-08,17:00:00,"Average, Patchy, Soft","Clear, Cloud",21,Warm,4_1_4_1,4_2_3_1,79:55
+6842,47,TurSL,2291410,Osmanlispor,Karabukspor,2017-05-08,17:00:00,"Average, Patchy, Soft",Wind,21,Warm,4_1_4_1,4_2_3_1,79:55
+6843,48,TurSL,2291410,Osmanlispor,Karabukspor,2017-05-08,17:00:00,Wet,"Clear, Cloud",21,Warm,4_1_4_1,4_2_3_1,79:55
+6844,49,TurSL,2291410,Osmanlispor,Karabukspor,2017-05-08,17:00:00,Wet,Wind,21,Warm,4_1_4_1,4_2_3_1,79:55
+6845,50,TurSL,2291412,Gaziantepspor,Akhisar Belediyespor,2017-05-08,17:00:00,Good,"Clear, Sun",23,Hot,4_2_3_1,4_2_3_1,79:49
+6838,43,TurSL,2291418,Rizespor,Kasimpasa,2017-05-12,17:00:00,Good,Clear,20,-,4_2_3_1,4_4_2,82:40
+6839,44,TurSL,2291418,Rizespor,Kasimpasa,2017-05-12,17:00:00,Good,Clear,20,-,4_2_2_2,4_4_2,68:36
+6840,45,TurSL,2291416,Konyaspor,Kayserispor,2017-05-12,17:00:00,"Good, Patchy",Clear,22,Warm,4_2_3_1,4_5_1,82:52
+6837,42,TurSL,2291422,Genclerbirligi,Istanbul Basaksehir,2017-05-13,13:00:00,Excellent,Sun,26,Hot,4_2_3_1,4_2_3_1,73:56
+6835,40,TurSL,2291414,Antalyaspor,Fenerbahce,2017-05-13,16:00:00,"Dry, Good, Soft","Clear, Cloud, Sun",27,Hot,4_3_3,4_2_3_1,78:50
+6836,41,TurSL,2291420,Trabzonspor,Adanaspor,2017-05-13,16:00:00,Good,"Clear, Sun",29,Hot,4_2_3_1,4_2_3_1,88:50
+6834,39,TurSL,2291421,Akhisar Belediyespor,Osmanlispor,2017-05-14,13:00:00,"Dry, Patchy, Poor","Clear, Sun",26,Hot,4_2_3_1,4_2_3_1,76:34
+6832,37,TurSL,2291417,Karabukspor,Alanyaspor,2017-05-14,16:00:00,Good,Clear,19,Warm,4_2_3_1,4_3_3,88:06
+6833,38,TurSL,2291415,Galatasaray,Gaziantepspor,2017-05-14,16:00:00,Excellent,"Cloud, Sun",29,Hot,4_2_3_1,4_2_3_1,86:13
+6830,35,TurSL,2291419,Besiktas,Bursaspor,2017-05-15,17:00:00,Good,"Clear, Light Wind, Sun",21,Hot,4_2_3_1,4_2_2_2,81:57
+6831,36,TurSL,2291419,Besiktas,Bursaspor,2017-05-15,17:00:00,Good,"Clear, Light Wind, Sun",21,Hot,4_2_3_1,4_2_3_1,45:00
+6829,34,TurSL,2291424,Osmanlispor,Galatasaray,2017-05-19,17:00:00,Average,Cloud,9,Cold,4_2_3_1,4_1_4_1,62:46
+6825,30,TurSL,2291425,Gaziantepspor,Rizespor,2017-05-20,10:30:00,Good,"Cloud, Sun, Wind",13,Warm,4_2_3_1,4_3_3,72:19
+6826,31,TurSL,2291425,Gaziantepspor,Rizespor,2017-05-20,10:30:00,Good,"Cloud, Sun, Wind",13,Warm,4_2_3_1,4_2_3_1,67:34
+6827,32,TurSL,2291425,Gaziantepspor,Rizespor,2017-05-20,10:30:00,Good,,13,Warm,4_2_3_1,4_3_3,72:19
+6828,33,TurSL,2291425,Gaziantepspor,Rizespor,2017-05-20,10:30:00,Good,,13,Warm,4_2_3_1,4_2_3_1,67:34
+6824,29,TurSL,2291429,Adanaspor,Kayserispor,2017-05-20,13:00:00,"Average, Patchy, Wet",Cloud,11,-,4_2_3_1,4_2_3_1,85:56
+6822,27,TurSL,2291431,Kasimpasa,Besiktas,2017-05-20,16:00:00,Excellent,"Cloud, Sun",18,Warm,4_2_3_1,4_2_3_1,84:14
+6823,28,TurSL,2291428,Bursaspor,Antalyaspor,2017-05-20,16:00:00,"Dry, Good, Soft","Clear, Cloud, Sun",25,Hot,4_2_3_1,4_2_3_1,75:58
+6821,26,TurSL,2291426,Karabukspor,Konyaspor,2017-05-21,13:00:00,Good,"Cloud, Sun",20,Warm,4_2_3_1,4_2_3_1,79:11
+6820,25,TurSL,2291427,Istanbul Basaksehir,Trabzonspor,2017-05-21,16:00:00,Good,"Cloud, Wind",15,-,4_3_3,4_2_3_1,88:39
+6818,23,TurSL,2291430,Alanyaspor,Akhisar Belediyespor,2017-05-22,17:00:00,"Dry, Good, Soft","Clear, Cloud, Sun",14,Warm,4_2_3_1,4_1_4_1,75:31
+6819,24,TurSL,2291423,Fenerbahce,Genclerbirligi,2017-05-22,17:00:00,"Dry, Good, Soft","Clear, Cloud",14,Cold,4_2_3_1,4_2_3_1,82:37
+6815,20,TurSL,2291434,Antalyaspor,Kasimpasa,2017-05-27,13:00:00,Good,"Clear, Sun",27,-,4_2_3_1,4_2_3_1,78:13
+6816,21,TurSL,2291436,Akhisar Belediyespor,Konyaspor,2017-05-27,13:00:00,Good,"Cloud, Wind",15,-,4_4_2,4_2_3_1,81:34
+6817,22,TurSL,2291436,Akhisar Belediyespor,Konyaspor,2017-05-27,13:00:00,Good,Rain,15,-,4_4_2,4_2_3_1,81:34
+6814,19,TurSL,2291439,Adanaspor,Istanbul Basaksehir,2017-05-27,15:00:00,Average,"Cloud, Sun",20,Warm,4_2_3_1,4_3_3,79:17
+6813,18,TurSL,2291437,Trabzonspor,Fenerbahce,2017-05-27,16:00:00,Good,Sun,22,Warm,4_2_3_1,4_3_3,80:21
+6808,13,TurSL,2291440,Rizespor,Osmanlispor,2017-05-28,13:00:00,Good,"Cloud, Sun",10,Cold,4_2_3_1,4_2_3_1,76:34
+6809,14,TurSL,2291440,Rizespor,Osmanlispor,2017-05-28,13:00:00,Good,"Cloud, Sun",10,Cold,3_4_2_1,4_2_3_1,85:09
+6810,15,TurSL,2291438,Genclerbirligi,Bursaspor,2017-05-28,13:00:00,Excellent,"Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,83:19
+6811,16,TurSL,2291438,Genclerbirligi,Bursaspor,2017-05-28,13:00:00,Excellent,"Cloud, Sun",22,Warm,4_2_3_1,5_4_1,45:00
+6812,17,TurSL,2291435,Kayserispor,Karabukspor,2017-05-28,13:00:00,Good,Cloud,14,-,4_2_3_1,4_2_3_1,82:11
+6807,12,TurSL,2291432,Besiktas,Gaziantepspor,2017-05-28,16:00:00,"Dry, Good, Soft","Clear, Cloud, Sun",27,Hot,4_2_3_1,4_2_3_1,82:59
+6806,11,TurSL,2291433,Galatasaray,Alanyaspor,2017-05-29,17:00:00,Good,Cloud,21,-,4_1_4_1,4_2_3_1,76:17
+6802,7,TurSL,2291447,Karabukspor,Akhisar Belediyespor,2017-06-02,14:00:00,Average,"Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,84:06
+6803,8,TurSL,2291447,Karabukspor,Akhisar Belediyespor,2017-06-02,14:00:00,Average,"Cloud, Sun",22,Warm,4_2_3_1,5_4_1,89:54
+6804,9,TurSL,2291445,Kasimpasa,Genclerbirligi,2017-06-02,14:00:00,"Patchy, Poor",Cloud,20,Warm,4_5_1,4_2_3_1,70:50
+6805,10,TurSL,2291445,Kasimpasa,Genclerbirligi,2017-06-02,14:00:00,"Patchy, Poor",Cloud,20,Warm,4_2_3_1,4_2_3_1,66:26
+6801,6,TurSL,2291446,Gaziantepspor,Antalyaspor,2017-06-02,17:00:00,Good,Cloud,25,-,4_2_3_1,4_2_3_1,72:24
+6800,5,TurSL,2291448,Istanbul Basaksehir,Kayserispor,2017-06-03,11:00:00,Average,Sun,23,-,4_2_3_1,4_2_3_1,83:30
+6795,0,TurSL,2291442,Alanyaspor,Rizespor,2017-06-03,14:00:00,Good,"Clear, Sun",19,Warm,3_5_2,4_1_4_1,77:00
+6796,1,TurSL,2291449,Osmanlispor,Besiktas,2017-06-03,14:00:00,Excellent,"Cloud, Sun",28,-,4_2_3_1,4_2_3_1,74:10
+6797,2,TurSL,2291444,Fenerbahce,Adanaspor,2017-06-03,14:00:00,Good,Sun,28,Hot,4_5_1,4_2_3_1,80:52
+6798,3,TurSL,2291443,Konyaspor,Galatasaray,2017-06-03,14:00:00,"Average, Soft",Sun,27,Hot,4_2_3_1,4_2_2_2,80:14
+6799,4,TurSL,2291441,Bursaspor,Trabzonspor,2017-06-03,14:00:00,Excellent,"Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,73:59

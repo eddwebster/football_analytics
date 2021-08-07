@@ -1,0 +1,650 @@
+True,index,competition,gsm_id,awayteam_team2,hometeam_team1,kickoffDate,kickoffTime,pitchType,weatherType,tempCelcius,tempType,formation_team1,formation_team2,formation_time
+5928,398,ScoPr,2242424,Hamilton Academical,Rangers,2016-08-06,11:30:00,Excellent,Cloud,17,-,4_3_3,4_1_4_1,83:35
+5929,399,ScoPr,2242424,Hamilton Academical,Rangers,2016-08-06,11:30:00,Excellent,Cloud,17,-,4_3_3,5_4_1,89:54
+5916,386,ScoPr,2242420,Motherwell,Kilmarnock,2016-08-06,14:00:00,Artificial,Cloud,16,-,4_4_2,4_4_1_1,78:43
+5917,387,ScoPr,2242420,Motherwell,Kilmarnock,2016-08-06,14:00:00,Artificial,Cloud,16,-,4_4_2,4_2_3_1,53:40
+5918,388,ScoPr,2242420,Motherwell,Kilmarnock,2016-08-06,14:00:00,Artificial,Cloud,16,-,4_2_3_1,4_2_3_1,00:00
+5919,389,ScoPr,2242419,Inverness CT,Partick Thistle,2016-08-06,14:00:00,Excellent,Cloud,16,-,4_2_3_1,4_2_3_1,75:12
+5920,390,ScoPr,2242422,Dundee,Ross County,2016-08-06,14:00:00,Excellent,Cloud,16,-,3_4_1_2,4_1_4_1,72:15
+5921,391,ScoPr,2242422,Dundee,Ross County,2016-08-06,14:00:00,Excellent,Cloud,16,-,3_4_1_2,4_5_1,80:05
+5922,392,ScoPr,2242422,Dundee,Ross County,2016-08-06,14:00:00,Excellent,,16,-,3_4_1_2,4_1_4_1,72:15
+5923,393,ScoPr,2242422,Dundee,Ross County,2016-08-06,14:00:00,Excellent,,16,-,3_4_1_2,4_5_1,80:05
+5924,394,ScoPr,2242422,Dundee,Ross County,2016-08-06,14:00:00,Wet,Cloud,16,-,3_4_1_2,4_1_4_1,72:15
+5925,395,ScoPr,2242422,Dundee,Ross County,2016-08-06,14:00:00,Wet,Cloud,16,-,3_4_1_2,4_5_1,80:05
+5926,396,ScoPr,2242422,Dundee,Ross County,2016-08-06,14:00:00,Wet,,16,-,3_4_1_2,4_1_4_1,72:15
+5927,397,ScoPr,2242422,Dundee,Ross County,2016-08-06,14:00:00,Wet,,16,-,3_4_1_2,4_5_1,80:05
+5915,385,ScoPr,2242421,Aberdeen,St. Johnstone,2016-08-07,11:15:00,Average,"Cloud, Wind",17,-,4_4_1_1,4_3_3,66:11
+5914,384,ScoPr,2242423,Celtic,Hearts,2016-08-07,13:15:00,Good,"Cloud, Wind",17,-,4_4_2,4_4_1_1,78:00
+5912,382,ScoPr,2242426,Rangers,Dundee,2016-08-13,11:15:00,Excellent,Sun,17,-,4_2_3_1,4_3_3,67:39
+5913,383,ScoPr,2242426,Rangers,Dundee,2016-08-13,11:15:00,Excellent,Sun,17,-,4_4_1_1,4_3_3,67:47
+5906,376,ScoPr,2242425,Ross County,Inverness CT,2016-08-13,14:00:00,Good,"Cloud, Light Rain",17,-,4_4_1_1,4_4_2,91:57
+5907,377,ScoPr,2242429,St. Johnstone,Motherwell,2016-08-13,14:00:00,Average,Cloud,18,-,4_4_1_1,4_4_1_1,75:46
+5908,378,ScoPr,2242427,Kilmarnock,Hamilton Academical,2016-08-13,14:00:00,Artificial,Clear,16,-,4_4_2,4_4_2,83:03
+5909,379,ScoPr,2242427,Kilmarnock,Hamilton Academical,2016-08-13,14:00:00,Artificial,Clear,16,-,4_1_4_1,4_4_2,69:19
+5910,380,ScoPr,2242427,Kilmarnock,Hamilton Academical,2016-08-13,14:00:00,Artificial,Clear,16,-,4_1_4_1,4_2_3_1,00:00
+5911,381,ScoPr,2242428,Hearts,Aberdeen,2016-08-13,14:00:00,"Excellent, Wet",Cloud,16,Cold,4_4_1_1,4_4_2,71:35
+5905,375,ScoPr,2242432,Hamilton Academical,Dundee,2016-08-19,18:45:00,Good,"Cloud, Rain",19,-,3_5_2,4_1_4_1,78:00
+5904,374,ScoPr,2242434,Celtic,St. Johnstone,2016-08-20,11:15:00,Good,Cloud,16,-,4_1_4_1,4_2_3_1,70:45
+5898,368,ScoPr,2242436,Motherwell,Rangers,2016-08-20,14:00:00,Excellent,Light Rain,16,-,4_3_3,4_5_1,64:08
+5899,369,ScoPr,2242436,Motherwell,Rangers,2016-08-20,14:00:00,Excellent,Light Rain,16,-,4_3_3,4_4_1_1,86:40
+5900,370,ScoPr,2242433,Partick Thistle,Aberdeen,2016-08-20,14:00:00,Excellent,"Clear, Sun",16,-,4_2_3_1,4_2_3_1,87:59
+5901,371,ScoPr,2242433,Partick Thistle,Aberdeen,2016-08-20,14:00:00,Excellent,"Clear, Sun",16,-,4_4_2,4_2_3_1,63:16
+5902,372,ScoPr,2242431,Inverness CT,Hearts,2016-08-20,14:00:00,Average,"Cloud, Rain",16,-,4_4_2,4_2_3_1,73:30
+5903,373,ScoPr,2242435,Kilmarnock,Ross County,2016-08-20,14:00:00,Excellent,"Clear, Sun",17,-,4_4_2,4_4_2,84:53
+5895,365,ScoPr,2242442,Rangers,Kilmarnock,2016-08-26,18:45:00,Artificial,Clear,16,-,4_4_1_1,4_3_3,81:13
+5896,366,ScoPr,2242442,Rangers,Kilmarnock,2016-08-26,18:45:00,Artificial,Clear,16,-,4_1_4_1,4_3_3,57:50
+5897,367,ScoPr,2242442,Rangers,Kilmarnock,2016-08-26,18:45:00,Artificial,Clear,16,-,4_1_4_1,4_2_3_1,38:21
+5886,356,ScoPr,2242440,Dundee,Motherwell,2016-08-27,14:00:00,Average,Cloud,18,-,4_1_4_1,4_2_3_1,66:10
+5887,357,ScoPr,2242437,Hearts,Partick Thistle,2016-08-27,14:00:00,Excellent,Cloud,18,-,4_2_3_1,4_4_2,76:30
+5888,358,ScoPr,2242437,Hearts,Partick Thistle,2016-08-27,14:00:00,Excellent,Cloud,18,-,4_2_3_1,4_5_1,91:40
+5889,359,ScoPr,2242441,Aberdeen,Celtic,2016-08-27,14:00:00,Good,Cloud,19,-,4_2_3_1,4_4_2,86:13
+5890,360,ScoPr,2242441,Aberdeen,Celtic,2016-08-27,14:00:00,Good,Cloud,19,-,4_2_3_1,4_4_1_1,83:28
+5891,361,ScoPr,2242441,Aberdeen,Celtic,2016-08-27,14:00:00,Good,Cloud,19,-,4_2_3_1,5_4_1,00:00
+5892,362,ScoPr,2242438,St. Johnstone,Inverness CT,2016-08-27,14:00:00,Excellent,Cloud,16,-,4_4_2,4_4_2,81:45
+5893,363,ScoPr,2242438,St. Johnstone,Inverness CT,2016-08-27,14:00:00,Excellent,Cloud,16,-,4_2_3_1,4_4_2,67:01
+5894,364,ScoPr,2242439,Ross County,Hamilton Academical,2016-08-27,14:00:00,Artificial,Cloud,16,-,4_1_4_1,4_4_2,00:00
+5884,354,ScoPr,2242446,Rangers,Celtic,2016-09-10,11:00:00,"Dry, Excellent",Sun,17,Warm,4_2_3_1,4_1_4_1,73:34
+5885,355,ScoPr,2242446,Rangers,Celtic,2016-09-10,11:00:00,"Dry, Excellent",Sun,17,Warm,4_2_3_1,4_4_1_1,62:38
+5870,340,ScoPr,2242448,Motherwell,Ross County,2016-09-10,14:00:00,Excellent,"Cloud, Sun",16,-,4_4_2,4_4_1_1,71:28
+5871,341,ScoPr,2242444,Hamilton Academical,Hearts,2016-09-10,14:00:00,Excellent,Sun,16,-,4_4_2,5_4_1,70:16
+5872,342,ScoPr,2242444,Hamilton Academical,Hearts,2016-09-10,14:00:00,Excellent,Sun,16,-,4_4_2,4_1_4_1,00:00
+5873,343,ScoPr,2242443,St. Johnstone,Partick Thistle,2016-09-10,14:00:00,Average,"Clear, Sun",16,-,4_4_1_1,4_4_1_1,64:22
+5874,344,ScoPr,2242445,Kilmarnock,Dundee,2016-09-10,14:00:00,Good,"Cloud, Sun, Wind",18,-,4_4_2,4_1_4_1,81:17
+5875,345,ScoPr,2242445,Kilmarnock,Dundee,2016-09-10,14:00:00,Good,"Cloud, Sun, Wind",18,-,4_2_3_1,4_1_4_1,72:25
+5876,346,ScoPr,2242445,Kilmarnock,Dundee,2016-09-10,14:00:00,Good,"Cloud, Sun, Wind",18,-,4_2_3_1,4_5_1,00:00
+5877,347,ScoPr,2242445,Kilmarnock,Dundee,2016-09-10,14:00:00,Good,Cloud,18,-,4_4_2,4_1_4_1,81:17
+5878,348,ScoPr,2242445,Kilmarnock,Dundee,2016-09-10,14:00:00,Good,Cloud,18,-,4_2_3_1,4_1_4_1,72:25
+5879,349,ScoPr,2242445,Kilmarnock,Dundee,2016-09-10,14:00:00,Good,Cloud,18,-,4_2_3_1,4_5_1,00:00
+5880,350,ScoPr,2242445,Kilmarnock,Dundee,2016-09-10,14:00:00,Good,"Cloud, Sun",18,-,4_4_2,4_1_4_1,81:17
+5881,351,ScoPr,2242445,Kilmarnock,Dundee,2016-09-10,14:00:00,Good,"Cloud, Sun",18,-,4_2_3_1,4_1_4_1,72:25
+5882,352,ScoPr,2242445,Kilmarnock,Dundee,2016-09-10,14:00:00,Good,"Cloud, Sun",18,-,4_2_3_1,4_5_1,00:00
+5883,353,ScoPr,2242447,Inverness CT,Aberdeen,2016-09-10,14:00:00,Good,Clear,12,-,4_4_1_1,4_2_3_1,83:15
+5862,332,ScoPr,2242449,Hamilton Academical,Motherwell,2016-09-17,14:00:00,Good,"Cloud, Sun",14,-,4_4_1_1,3_4_2_1,73:30
+5863,333,ScoPr,2242449,Hamilton Academical,Motherwell,2016-09-17,14:00:00,Good,"Cloud, Sun",14,-,4_4_1_1,4_2_3_1,00:00
+5864,334,ScoPr,2242453,Ross County,Rangers,2016-09-17,14:00:00,Excellent,"Cloud, Sun",15,-,4_3_3,4_4_1_1,75:38
+5865,335,ScoPr,2242450,Partick Thistle,Kilmarnock,2016-09-17,14:00:00,"Artificial, Dry, Good",Sun,16,Warm,4_5_1,4_4_1_1,90:45
+5866,336,ScoPr,2242450,Partick Thistle,Kilmarnock,2016-09-17,14:00:00,"Artificial, Dry, Good",Sun,16,Warm,4_5_1,4_2_3_1,75:08
+5867,337,ScoPr,2242450,Partick Thistle,Kilmarnock,2016-09-17,14:00:00,"Artificial, Dry, Good",Sun,16,Warm,4_4_1_1,4_2_3_1,00:00
+5868,338,ScoPr,2242450,Partick Thistle,Kilmarnock,2016-09-17,14:00:00,"Artificial, Dry, Good",Sun,16,Warm,4_4_2,4_4_1_1,90:45
+5869,339,ScoPr,2242452,Hearts,St. Johnstone,2016-09-17,14:00:00,Good,Sun,16,-,4_4_2,4_4_2,83:12
+5860,330,ScoPr,2242454,Aberdeen,Dundee,2016-09-18,11:00:00,Excellent,Cloud,16,-,4_2_3_1,4_5_1,85:56
+5861,331,ScoPr,2242454,Aberdeen,Dundee,2016-09-18,11:00:00,Excellent,Cloud,16,-,4_2_3_1,4_4_2,80:05
+5859,329,ScoPr,2242451,Celtic,Inverness CT,2016-09-18,14:00:00,Good,Cloud,15,-,4_5_1,4_2_3_1,80:09
+5855,325,ScoPr,2242456,Dundee,Inverness CT,2016-09-24,14:00:00,"Average, Soft",Clear,19,Warm,4_2_3_1,4_2_3_1,75:46
+5856,326,ScoPr,2242459,Kilmarnock,Celtic,2016-09-24,14:00:00,"Good, Soft, Wet","Cloud, Rain, Wind",16,Warm,4_2_3_1,4_5_1,72:20
+5857,327,ScoPr,2242457,Ross County,Hearts,2016-09-24,14:00:00,Excellent,Cloud,16,-,4_4_2,4_4_1_1,78:52
+5858,328,ScoPr,2242455,Motherwell,Partick Thistle,2016-09-24,14:00:00,Average,"Cloud, Light Rain, Wind",16,-,4_2_3_1,4_4_2,79:29
+5853,323,ScoPr,2242460,Rangers,Aberdeen,2016-09-25,12:00:00,Excellent,Cloud,15,-,4_2_3_1,4_3_3,76:45
+5854,324,ScoPr,2242460,Rangers,Aberdeen,2016-09-25,12:00:00,Excellent,Cloud,15,-,5_4_1,4_3_3,91:04
+5850,320,ScoPr,2242458,St. Johnstone,Hamilton Academical,2016-09-25,14:00:00,Average,"Cloud, Light Rain, Sun",15,Warm,4_4_1_1,4_4_1_1,73:09
+5851,321,ScoPr,2242458,St. Johnstone,Hamilton Academical,2016-09-25,14:00:00,Average,"Cloud, Light Rain, Sun",15,Warm,5_3_2,4_4_1_1,00:00
+5852,322,ScoPr,2242458,St. Johnstone,Hamilton Academical,2016-09-25,14:00:00,Average,"Cloud, Light Rain, Sun",15,Warm,3_5_2,4_4_1_1,03:43
+5848,318,ScoPr,2242461,Hearts,Motherwell,2016-09-30,18:45:00,Excellent,Light Rain,10,-,4_4_2,4_4_2,80:08
+5849,319,ScoPr,2242461,Hearts,Motherwell,2016-09-30,18:45:00,Excellent,Light Rain,10,-,4_3_3,4_4_2,25:35
+5845,315,ScoPr,2242465,Celtic,Dundee,2016-10-01,11:15:00,Excellent,Sun,12,-,4_1_2_1_2,3_4_1_2,83:02
+5846,316,ScoPr,2242465,Celtic,Dundee,2016-10-01,11:15:00,Excellent,Sun,12,-,3_5_2,3_4_1_2,73:46
+5847,317,ScoPr,2242465,Celtic,Dundee,2016-10-01,11:15:00,Excellent,Sun,12,-,3_5_2,4_2_3_1,00:00
+5839,309,ScoPr,2242463,St. Johnstone,Ross County,2016-10-01,14:00:00,Good,Sun,16,-,4_4_2,4_4_2,73:47
+5840,310,ScoPr,2242466,Aberdeen,Kilmarnock,2016-10-01,14:00:00,Artificial,"Cloud, Sun",14,-,4_4_2,4_2_3_1,78:37
+5841,311,ScoPr,2242466,Aberdeen,Kilmarnock,2016-10-01,14:00:00,Artificial,Cloud,14,-,4_4_2,4_2_3_1,78:37
+5842,312,ScoPr,2242464,Partick Thistle,Rangers,2016-10-01,14:00:00,"Excellent, Wet","Cloud, Sun",12,Cold,4_3_3,4_2_3_1,74:08
+5843,313,ScoPr,2242462,Inverness CT,Hamilton Academical,2016-10-01,14:00:00,Average,"Cloud, Light Rain, Sun",14,Warm,4_4_1_1,4_4_2,81:09
+5844,314,ScoPr,2242462,Inverness CT,Hamilton Academical,2016-10-01,14:00:00,Average,"Cloud, Light Rain, Sun",14,Warm,4_4_1_1,4_5_1,00:00
+5838,308,ScoPr,2242468,Rangers,Inverness CT,2016-10-14,18:45:00,Excellent,"Cloud, Wind",10,-,4_2_3_1,4_3_3,74:35
+5830,300,ScoPr,2242467,Hamilton Academical,Partick Thistle,2016-10-15,14:00:00,"Excellent, Wet",,10,-,4_2_3_1,3_5_2,76:32
+5831,301,ScoPr,2242471,Ross County,Aberdeen,2016-10-15,14:00:00,"Good, Wet",,10,-,4_2_3_1,4_4_1_1,71:03
+5832,302,ScoPr,2242472,Motherwell,Celtic,2016-10-15,14:00:00,Average,Cloud,12,-,3_4_3,4_4_1_1,78:38
+5833,303,ScoPr,2242472,Motherwell,Celtic,2016-10-15,14:00:00,Average,Cloud,12,-,4_2_3_1,4_4_1_1,45:00
+5834,304,ScoPr,2242469,Dundee,Hearts,2016-10-15,14:00:00,"Good, Wet",Rain,10,-,4_2_3_1,4_2_2_2,85:38
+5835,305,ScoPr,2242469,Dundee,Hearts,2016-10-15,14:00:00,"Good, Wet",Rain,10,-,4_2_3_1,3_5_2,75:49
+5836,306,ScoPr,2242469,Dundee,Hearts,2016-10-15,14:00:00,"Good, Wet",Rain,10,-,4_4_2,3_5_2,00:00
+5837,307,ScoPr,2242470,Kilmarnock,St. Johnstone,2016-10-15,14:00:00,"Good, Wet",Rain,10,-,4_4_2,4_4_2,00:00
+5828,298,ScoPr,2242473,Ross County,Partick Thistle,2016-10-22,14:00:00,Excellent,Cloud,10,-,3_5_2,4_4_1_1,81:59
+5829,299,ScoPr,2242474,Kilmarnock,Inverness CT,2016-10-22,14:00:00,Good,Cloud,9,-,4_2_3_1,4_4_2,00:00
+5827,297,ScoPr,2242477,Dundee,St. Johnstone,2016-10-23,11:00:00,Good,Cloud,9,-,4_4_2,3_5_2,79:58
+5825,295,ScoPr,2242481,Aberdeen,Hamilton Academical,2016-10-25,18:45:00,Artificial,Light Rain,9,-,4_4_2,4_4_2,83:23
+5826,296,ScoPr,2242481,Aberdeen,Hamilton Academical,2016-10-25,18:45:00,Artificial,Light Rain,9,-,4_4_2,4_2_3_1,63:57
+5819,289,ScoPr,2242480,Hearts,Kilmarnock,2016-10-26,18:45:00,Artificial,Cloud,8,-,4_4_2,4_4_2,88:28
+5820,290,ScoPr,2242482,Partick Thistle,Dundee,2016-10-26,18:45:00,Excellent,Light Rain,9,-,3_5_2,3_5_2,87:38
+5821,291,ScoPr,2242483,Celtic,Ross County,2016-10-26,18:45:00,Good,Clear,13,-,4_4_2,4_2_3_1,68:58
+5822,292,ScoPr,2242483,Celtic,Ross County,2016-10-26,18:45:00,Good,Clear,13,-,3_4_3,4_2_3_1,82:04
+5823,293,ScoPr,2242484,St. Johnstone,Rangers,2016-10-26,18:45:00,Excellent,Light Rain,9,-,4_3_3,4_5_1,00:00
+5824,294,ScoPr,2242479,Inverness CT,Motherwell,2016-10-26,18:45:00,Excellent,Cloud,8,-,4_4_2,4_2_3_1,00:00
+5817,287,ScoPr,2242489,Celtic,Aberdeen,2016-10-29,11:00:00,Excellent,Sun,9,-,4_2_3_1,4_2_3_1,79:49
+5818,288,ScoPr,2242489,Celtic,Aberdeen,2016-10-29,11:00:00,Excellent,Sun,9,-,4_4_2,4_2_3_1,81:58
+5812,282,ScoPr,2242487,Partick Thistle,St. Johnstone,2016-10-29,14:00:00,Excellent,Cloud,9,-,4_4_2,3_5_2,79:28
+5813,283,ScoPr,2242488,Kilmarnock,Rangers,2016-10-29,14:00:00,Excellent,Clear,9,-,4_3_3,4_2_3_1,69:44
+5814,284,ScoPr,2242485,Hearts,Inverness CT,2016-10-29,14:00:00,Good,Cloud,8,-,4_1_4_1,4_4_2,81:03
+5815,285,ScoPr,2242486,Dundee,Hamilton Academical,2016-10-29,14:00:00,Artificial,Cloud,9,-,3_5_2,3_5_2,76:49
+5816,286,ScoPr,2242490,Ross County,Motherwell,2016-10-29,14:00:00,Good,"Cloud, Light Rain",9,-,4_4_2,4_4_1_1,00:00
+5810,280,ScoPr,2242496,Aberdeen,Partick Thistle,2016-11-04,19:45:00,Good,Cloud,5,Cold,3_5_2,4_4_2,82:08
+5811,281,ScoPr,2242496,Aberdeen,Partick Thistle,2016-11-04,19:45:00,Good,Cloud,5,Cold,3_5_2,4_2_3_1,87:15
+5805,275,ScoPr,2242495,Motherwell,Dundee,2016-11-05,15:00:00,Good,Cloud,8,-,3_5_2,4_4_2,58:17
+5806,276,ScoPr,2242492,St. Johnstone,Hearts,2016-11-05,15:00:00,Excellent,Cloud,8,-,4_1_2_1_2,4_4_2,80:31
+5807,277,ScoPr,2242493,Inverness CT,Celtic,2016-11-05,15:00:00,Excellent,Cloud,7,-,4_4_2,4_2_3_1,61:38
+5808,278,ScoPr,2242493,Inverness CT,Celtic,2016-11-05,15:00:00,Excellent,Cloud,7,-,3_5_2,4_2_3_1,00:00
+5809,279,ScoPr,2242491,Hamilton Academical,Kilmarnock,2016-11-05,15:00:00,Artificial,Clear,8,-,4_2_3_1,3_5_1_1,00:00
+5804,274,ScoPr,2242494,Rangers,Ross County,2016-11-06,12:00:00,Good,"Cloud, Light Rain",6,-,4_4_1_1,4_3_3,77:14
+5802,272,ScoPr,2242502,Celtic,Kilmarnock,2016-11-18,19:45:00,"Artificial, Good","Cloud, Light Rain",2,Cold,4_5_1,3_5_1_1,84:36
+5803,273,ScoPr,2242502,Celtic,Kilmarnock,2016-11-18,19:45:00,"Artificial, Good","Cloud, Light Rain",2,Cold,4_4_2,3_5_1_1,88:10
+5796,266,ScoPr,2242498,Aberdeen,Inverness CT,2016-11-19,15:00:00,"Good, Soft",Cloud,1,Freezing,4_2_3_1,4_1_4_1,91:35
+5797,267,ScoPr,2242498,Aberdeen,Inverness CT,2016-11-19,15:00:00,"Good, Soft",Cloud,1,Freezing,4_2_3_1,4_4_2,74:35
+5798,268,ScoPr,2242497,Partick Thistle,Motherwell,2016-11-19,15:00:00,Good,Cloud,3,Cold,4_4_2,3_5_2,67:57
+5799,269,ScoPr,2242497,Partick Thistle,Motherwell,2016-11-19,15:00:00,Good,Cloud,3,Cold,4_4_2,3_5_1_1,00:00
+5800,270,ScoPr,2242501,Dundee,Rangers,2016-11-19,15:00:00,Excellent,Cloud,3,Cold,4_3_3,5_3_2,78:24
+5801,271,ScoPr,2242500,Ross County,St. Johnstone,2016-11-19,15:00:00,Good,Cloud,3,Cold,4_4_1_1,4_4_2,00:00
+5795,265,ScoPr,2242499,Hearts,Hamilton Academical,2016-11-21,19:45:00,Artificial,Cloud,2,Freezing,3_5_2,4_4_2,88:45
+5793,263,ScoPr,2242503,Rangers,Partick Thistle,2016-11-26,12:15:00,Good,Cloud,1,Freezing,4_5_1,4_3_3,74:35
+5794,264,ScoPr,2242503,Rangers,Partick Thistle,2016-11-26,12:15:00,Good,Cloud,1,Freezing,4_4_1_1,4_3_3,45:00
+5788,258,ScoPr,2242505,Inverness CT,Dundee,2016-11-26,15:00:00,Good,Cloud,8,-,4_5_1,4_3_3,89:25
+5789,259,ScoPr,2242505,Inverness CT,Dundee,2016-11-26,15:00:00,Good,Cloud,8,-,3_5_2,4_3_3,74:07
+5790,260,ScoPr,2242504,Motherwell,Hearts,2016-11-26,15:00:00,Good,Clear,6,-,4_4_1_1,4_4_2,68:16
+5791,261,ScoPr,2242504,Motherwell,Hearts,2016-11-26,15:00:00,Good,Clear,6,-,4_4_1_1,5_3_2,26:14
+5792,262,ScoPr,2242507,Hamilton Academical,Ross County,2016-11-26,15:00:00,Good,Cloud,9,-,4_4_2,3_4_2_1,00:00
+5787,257,ScoPr,2242475,Rangers,Hearts,2016-11-30,19:45:00,Average,Cloud,9,Cold,4_4_1_1,4_3_3,83:04
+5784,254,ScoPr,2242512,Celtic,Motherwell,2016-12-03,12:15:00,Good,Cloud,5,-,4_4_2,3_4_3,92:05
+5785,255,ScoPr,2242512,Celtic,Motherwell,2016-12-03,12:15:00,Good,Cloud,5,-,4_2_3_1,3_4_3,72:41
+5786,256,ScoPr,2242512,Celtic,Motherwell,2016-12-03,12:15:00,Good,Cloud,5,-,4_2_3_1,4_1_4_1,22:20
+5778,248,ScoPr,2242513,Aberdeen,Rangers,2016-12-03,15:00:00,"Excellent, Wet",Clear,6,Cold,4_3_3,4_2_3_1,90:12
+5779,249,ScoPr,2242514,Dundee,Kilmarnock,2016-12-03,15:00:00,Artificial,Cloud,5,Cold,4_2_3_1,3_4_1_2,82:35
+5780,250,ScoPr,2242511,Hearts,Ross County,2016-12-03,15:00:00,Good,Cloud,3,Cold,4_2_3_1,4_4_2,83:50
+5781,251,ScoPr,2242511,Hearts,Ross County,2016-12-03,15:00:00,Good,Cloud,3,Cold,4_2_3_1,4_2_3_1,56:37
+5782,252,ScoPr,2242509,Partick Thistle,Hamilton Academical,2016-12-03,15:00:00,"Artificial, Average",Cloud,6,-,3_5_2,4_2_3_1,59:55
+5783,253,ScoPr,2242510,Inverness CT,St. Johnstone,2016-12-03,15:00:00,Good,Cloud,5,Cold,4_4_2,4_2_3_1,00:00
+5777,247,ScoPr,2242508,Kilmarnock,Aberdeen,2016-12-06,19:45:00,Good,"Cloud, Rain",8,-,4_4_1_1,4_2_3_1,77:11
+5776,246,ScoPr,2242515,Celtic,Partick Thistle,2016-12-09,19:45:00,Excellent,"Light Rain, Wind",7,-,4_4_1_1,4_2_3_1,75:02
+5769,239,ScoPr,2242520,St. Johnstone,Aberdeen,2016-12-10,15:00:00,Good,Cloud,7,Cold,4_2_3_1,4_4_2,71:01
+5770,240,ScoPr,2242518,Ross County,Dundee,2016-12-10,15:00:00,Average,Cloud,7,Cold,3_4_3,4_4_2,76:28
+5771,241,ScoPr,2242518,Ross County,Dundee,2016-12-10,15:00:00,Average,Cloud,7,Cold,3_4_3,4_3_3,60:31
+5772,242,ScoPr,2242518,Ross County,Dundee,2016-12-10,15:00:00,Average,Cloud,7,Cold,3_5_2,4_3_3,00:00
+5773,243,ScoPr,2242519,Hearts,Rangers,2016-12-10,15:00:00,Good,Cloud,8,-,4_3_3,4_2_3_1,87:37
+5774,244,ScoPr,2242516,Kilmarnock,Motherwell,2016-12-10,15:00:00,Good,"Cloud, Light Rain",10,-,4_4_1_1,4_4_2,00:00
+5775,245,ScoPr,2242517,Hamilton Academical,Inverness CT,2016-12-10,15:00:00,Good,"Clear, Cloud",9,-,4_4_1_1,3_4_2_1,00:00
+5768,238,ScoPr,2242476,Hamilton Academical,Celtic,2016-12-13,19:45:00,Good,Cloud,7,-,3_5_2,3_5_1_1,83:10
+5766,236,ScoPr,2242523,Rangers,Hamilton Academical,2016-12-16,19:45:00,Artificial,Clear,7,Cold,4_1_4_1,4_3_3,75:44
+5767,237,ScoPr,2242523,Rangers,Hamilton Academical,2016-12-16,19:45:00,Artificial,Clear,7,Cold,4_3_1_2,4_3_3,80:10
+5758,228,ScoPr,2242522,Partick Thistle,Hearts,2016-12-17,15:00:00,Excellent,Light Rain,7,-,4_4_2,4_3_1_2,73:18
+5759,229,ScoPr,2242522,Partick Thistle,Hearts,2016-12-17,15:00:00,Excellent,Light Rain,7,-,4_4_1_1,3_5_2,00:00
+5760,230,ScoPr,2242522,Partick Thistle,Hearts,2016-12-17,15:00:00,Excellent,Light Rain,7,-,4_4_2,3_5_2,45:00
+5761,231,ScoPr,2242524,Dundee,Celtic,2016-12-17,15:00:00,Good,Cloud,6,-,4_5_1,5_4_1,77:51
+5762,232,ScoPr,2242524,Dundee,Celtic,2016-12-17,15:00:00,Good,Cloud,6,-,4_5_1,5_3_2,86:10
+5763,233,ScoPr,2242526,Aberdeen,Ross County,2016-12-17,15:00:00,"Good, Wet","Cloud, Strong Wind",9,Cold,4_4_2,4_2_3_1,81:12
+5764,234,ScoPr,2242521,Inverness CT,Kilmarnock,2016-12-17,15:00:00,Artificial,Cloud,7,Cold,4_2_3_1,4_2_3_1,00:00
+5765,235,ScoPr,2242525,Motherwell,St. Johnstone,2016-12-17,15:00:00,Excellent,Cloud,6,Cold,4_4_2,5_3_2,00:00
+5757,227,ScoPr,2242430,Partick Thistle,Celtic,2016-12-20,19:45:00,Good,"Cloud, Rain",6,Cold,4_1_4_1,4_4_1_1,81:34
+5745,215,ScoPr,2242531,Partick Thistle,Ross County,2016-12-23,19:45:00,Average,"Cloud, Strong Wind",3,Cold,4_4_1_1,3_5_2,72:24
+5746,216,ScoPr,2242527,Aberdeen,Motherwell,2016-12-23,19:45:00,Good,"Clear, Strong Wind",4,-,3_5_2,4_2_3_1,85:24
+5747,217,ScoPr,2242527,Aberdeen,Motherwell,2016-12-23,19:45:00,Good,"Clear, Strong Wind",4,-,4_4_1_1,4_2_3_1,61:41
+5748,218,ScoPr,2242527,Aberdeen,Motherwell,2016-12-23,19:45:00,Good,"Clear, Strong Wind",4,-,3_5_2,5_4_1,91:47
+5749,219,ScoPr,2242527,Aberdeen,Motherwell,2016-12-23,19:45:00,Good,"Clear, Strong Wind",4,-,3_5_2,4_2_3_1,85:24
+5750,220,ScoPr,2242527,Aberdeen,Motherwell,2016-12-23,19:45:00,Good,"Clear, Strong Wind",4,-,4_4_1_1,4_2_3_1,61:41
+5751,221,ScoPr,2242527,Aberdeen,Motherwell,2016-12-23,19:45:00,Good,"Clear, Strong Wind",4,-,3_5_2,5_4_1,91:47
+5752,222,ScoPr,2242527,Aberdeen,Motherwell,2016-12-23,19:45:00,Good,"Cloud, Rain, Strong Wind",4,-,3_5_2,4_2_3_1,85:24
+5753,223,ScoPr,2242527,Aberdeen,Motherwell,2016-12-23,19:45:00,Good,"Cloud, Rain, Strong Wind",4,-,4_4_1_1,4_2_3_1,61:41
+5754,224,ScoPr,2242527,Aberdeen,Motherwell,2016-12-23,19:45:00,Good,"Cloud, Rain, Strong Wind",4,-,3_5_2,5_4_1,91:47
+5755,225,ScoPr,2242530,Hearts,Dundee,2016-12-23,19:45:00,Good,Cloud,7,-,3_5_2,4_4_2,91:34
+5756,226,ScoPr,2242528,St. Johnstone,Kilmarnock,2016-12-23,19:45:00,Artificial,"Rain, Wind",5,Cold,4_2_3_1,4_4_1_1,00:00
+5741,211,ScoPr,2242529,Celtic,Hamilton Academical,2016-12-24,12:30:00,"Artificial, Average","Cloud, Rain",7,Cold,3_4_1_2,4_3_1_2,72:12
+5742,212,ScoPr,2242529,Celtic,Hamilton Academical,2016-12-24,12:30:00,"Artificial, Average","Cloud, Rain",7,Cold,3_4_2_1,4_3_1_2,50:02
+5743,213,ScoPr,2242529,Celtic,Hamilton Academical,2016-12-24,12:30:00,"Artificial, Average","Cloud, Rain",7,Cold,3_4_2_1,4_2_3_1,45:00
+5744,214,ScoPr,2242532,Inverness CT,Rangers,2016-12-24,12:30:00,"Excellent, Wet","Cloud, Rain, Wind",6,Cold,4_3_3,4_5_1,00:00
+5738,208,ScoPr,2242537,Hamilton Academical,Aberdeen,2016-12-27,15:00:00,"Good, Wet",Clear,6,Cold,5_4_1,3_5_2,83:03
+5739,209,ScoPr,2242537,Hamilton Academical,Aberdeen,2016-12-27,15:00:00,"Good, Wet",Clear,6,Cold,3_5_2,3_5_2,75:23
+5740,210,ScoPr,2242537,Hamilton Academical,Aberdeen,2016-12-27,15:00:00,"Good, Wet",Clear,6,Cold,4_4_1_1,3_5_2,00:00
+5736,206,ScoPr,2242535,Kilmarnock,Hearts,2016-12-27,19:45:00,Average,Clear,4,Cold,4_3_2_1,4_1_4_1,72:04
+5737,207,ScoPr,2242535,Kilmarnock,Hearts,2016-12-27,19:45:00,Average,Clear,4,Cold,4_2_3_1,4_1_4_1,00:00
+5728,198,ScoPr,2242536,Ross County,Celtic,2016-12-28,19:45:00,Good,Cloud,8,-,4_3_3,4_1_4_1,75:46
+5729,199,ScoPr,2242538,Rangers,St. Johnstone,2016-12-28,19:45:00,Good,Cloud,6,Cold,3_5_2,4_3_3,78:04
+5730,200,ScoPr,2242538,Rangers,St. Johnstone,2016-12-28,19:45:00,Good,Cloud,6,Cold,3_5_2,3_5_2,43:10
+5731,201,ScoPr,2242538,Rangers,St. Johnstone,2016-12-28,19:45:00,Good,Cloud,6,Cold,4_4_2,3_5_2,00:00
+5732,202,ScoPr,2242533,Dundee,Partick Thistle,2016-12-28,19:45:00,Good,Cloud,8,Cold,5_3_2,3_4_3,65:03
+5733,203,ScoPr,2242533,Dundee,Partick Thistle,2016-12-28,19:45:00,Good,Cloud,8,Cold,5_3_2,3_5_2,45:00
+5734,204,ScoPr,2242533,Dundee,Partick Thistle,2016-12-28,19:45:00,Good,Cloud,8,Cold,5_3_2,4_3_3,76:41
+5735,205,ScoPr,2242534,Motherwell,Inverness CT,2016-12-28,19:45:00,Excellent,"Cloud, Wind",7,-,4_2_3_1,4_4_1_1,00:00
+5726,196,ScoPr,2242540,Aberdeen,Hearts,2016-12-30,19:45:00,Good,Cloud,9,-,3_1_3_1_2,4_2_3_1,81:41
+5727,197,ScoPr,2242540,Aberdeen,Hearts,2016-12-30,19:45:00,Good,Cloud,9,-,4_1_2_1_2,4_2_3_1,00:00
+5724,194,ScoPr,2242544,Celtic,Rangers,2016-12-31,12:15:00,Excellent,"Clear, Cloud",10,-,3_5_2,4_2_3_1,81:14
+5725,195,ScoPr,2242544,Celtic,Rangers,2016-12-31,12:15:00,Excellent,Rain,10,-,3_5_2,4_2_3_1,81:14
+5723,193,ScoPr,2242541,Motherwell,Hamilton Academical,2016-12-31,13:00:00,"Artificial, Average","Cloud, Rain",11,-,3_5_2,4_4_2,00:00
+5720,190,ScoPr,2242542,St. Johnstone,Dundee,2016-12-31,14:00:00,Average,"Cloud, Strong Wind, Sun",9,-,4_3_3,4_4_2,73:50
+5721,191,ScoPr,2242539,Kilmarnock,Partick Thistle,2016-12-31,14:00:00,Good,"Cloud, Light Rain",7,Cold,4_4_2,4_3_3,75:45
+5722,192,ScoPr,2242539,Kilmarnock,Partick Thistle,2016-12-31,14:00:00,Good,"Cloud, Light Rain",7,Cold,4_2_3_1,4_3_3,65:36
+5719,189,ScoPr,2242543,Inverness CT,Ross County,2016-12-31,15:00:00,"Average, Soft","Cloud, Wind",10,Cold,4_3_3,4_2_3_1,73:00
+5717,187,ScoPr,2242506,St. Johnstone,Celtic,2017-01-25,19:45:00,Excellent,Cloud,1,-,4_2_3_1,4_4_1_1,78:51
+5718,188,ScoPr,2242506,St. Johnstone,Celtic,2017-01-25,19:45:00,Excellent,Cloud,1,-,4_2_3_1,4_4_2,62:57
+5715,185,ScoPr,2242549,Dundee,Aberdeen,2017-01-27,19:45:00,Good,Cloud,1,-,4_2_3_1,4_2_3_1,83:39
+5716,186,ScoPr,2242549,Dundee,Aberdeen,2017-01-27,19:45:00,Good,Cloud,1,-,4_2_3_1,3_5_2,00:00
+5713,183,ScoPr,2242545,Rangers,Motherwell,2017-01-28,12:30:00,"Good, Soft","Cloud, Light Snow",2,Freezing,4_3_3,4_1_4_1,76:21
+5714,184,ScoPr,2242545,Rangers,Motherwell,2017-01-28,12:30:00,"Good, Soft","Cloud, Light Snow",2,Freezing,4_4_1_1,4_1_4_1,75:32
+5705,175,ScoPr,2242547,Partick Thistle,Inverness CT,2017-01-28,15:00:00,Good,Cloud,3,Cold,4_2_3_1,4_4_1_1,65:29
+5706,176,ScoPr,2242546,Ross County,Kilmarnock,2017-01-28,15:00:00,"Artificial, Average",Cloud,5,Cold,4_2_3_1,4_4_2,63:58
+5707,177,ScoPr,2242546,Ross County,Kilmarnock,2017-01-28,15:00:00,"Artificial, Average",Cloud,5,Cold,4_2_3_1,4_1_4_1,53:57
+5708,178,ScoPr,2242546,Ross County,Kilmarnock,2017-01-28,15:00:00,"Artificial, Average",Cloud,5,Cold,4_3_3,4_1_4_1,52:43
+5709,179,ScoPr,2242550,Hamilton Academical,St. Johnstone,2017-01-28,15:00:00,"Good, Wet","Cloud, Rain",6,Cold,4_5_1,3_5_2,77:44
+5710,180,ScoPr,2242550,Hamilton Academical,St. Johnstone,2017-01-28,15:00:00,"Good, Wet","Cloud, Rain",6,Cold,4_4_2,3_5_2,71:29
+5711,181,ScoPr,2242550,Hamilton Academical,St. Johnstone,2017-01-28,15:00:00,"Average, Wet","Cloud, Rain",6,Cold,4_5_1,3_5_2,77:44
+5712,182,ScoPr,2242550,Hamilton Academical,St. Johnstone,2017-01-28,15:00:00,"Average, Wet","Cloud, Rain",6,Cold,4_4_2,3_5_2,71:29
+5703,173,ScoPr,2242548,Hearts,Celtic,2017-01-29,13:00:00,Good,Cloud,5,-,4_1_4_1,4_4_2,80:40
+5704,174,ScoPr,2242548,Hearts,Celtic,2017-01-29,13:00:00,Good,Cloud,5,-,4_1_4_1,4_5_1,78:20
+5700,170,ScoPr,2242553,Inverness CT,Hamilton Academical,2017-01-31,19:45:00,"Artificial, Good",Clear,6,Cold,3_4_1_2,4_4_2,74:22
+5701,171,ScoPr,2242556,Motherwell,Ross County,2017-01-31,19:45:00,"Good, Soft",Clear,5,Cold,4_4_2,4_4_1_1,77:46
+5702,172,ScoPr,2242556,Motherwell,Ross County,2017-01-31,19:45:00,"Good, Soft",Clear,5,Cold,4_1_4_1,4_4_1_1,45:00
+5694,164,ScoPr,2242552,Rangers,Hearts,2017-02-01,19:45:00,Average,Cloud,5,-,4_4_2,4_3_3,70:40
+5695,165,ScoPr,2242555,Aberdeen,Celtic,2017-02-01,19:45:00,Good,Cloud,6,-,3_4_3,4_5_1,86:20
+5696,166,ScoPr,2242555,Aberdeen,Celtic,2017-02-01,19:45:00,Good,Cloud,6,-,3_4_2_1,4_5_1,00:00
+5697,167,ScoPr,2242555,Aberdeen,Celtic,2017-02-01,19:45:00,Good,Cloud,6,-,3_4_3,3_5_2,89:44
+5698,168,ScoPr,2242551,St. Johnstone,Partick Thistle,2017-02-01,19:45:00,Good,Cloud,9,Cold,3_5_2,4_4_2,72:08
+5699,169,ScoPr,2242551,St. Johnstone,Partick Thistle,2017-02-01,19:45:00,Good,Cloud,9,Cold,4_2_3_1,4_4_2,00:00
+5691,161,ScoPr,2242562,Hearts,Motherwell,2017-02-04,12:15:00,Good,"Cloud, Light Rain, Wind",6,-,4_4_1_1,4_3_3,62:17
+5692,162,ScoPr,2242562,Hearts,Motherwell,2017-02-04,12:15:00,Good,"Cloud, Light Rain, Wind",6,-,3_4_2_1,4_3_3,45:00
+5693,163,ScoPr,2242562,Hearts,Motherwell,2017-02-04,12:15:00,Good,"Cloud, Light Rain, Wind",6,-,3_4_2_1,4_4_2,17:19
+5684,154,ScoPr,2242559,Partick Thistle,Aberdeen,2017-02-04,15:00:00,Average,"Cloud, Sun, Wind",5,Cold,3_5_2,4_4_2,80:09
+5685,155,ScoPr,2242559,Partick Thistle,Aberdeen,2017-02-04,15:00:00,Average,"Cloud, Sun, Wind",5,Cold,3_5_2,4_2_3_1,64:13
+5686,156,ScoPr,2242559,Partick Thistle,Aberdeen,2017-02-04,15:00:00,Average,"Cloud, Sun, Wind",5,Cold,4_4_1_1,4_2_3_1,58:01
+5687,157,ScoPr,2242559,Partick Thistle,Aberdeen,2017-02-04,15:00:00,Average,"Cloud, Sun, Wind",5,Cold,4_4_1_1,4_4_2,83:08
+5688,158,ScoPr,2242557,Dundee,Inverness CT,2017-02-04,15:00:00,"Good, Wet","Cloud, Strong Wind",5,Cold,3_4_1_2,3_5_2,85:11
+5689,159,ScoPr,2242561,Ross County,Rangers,2017-02-04,15:00:00,Good,"Cloud, Sun",5,Cold,4_3_3,4_4_2,61:58
+5690,160,ScoPr,2242558,Kilmarnock,Hamilton Academical,2017-02-04,15:00:00,"Artificial, Good",Sun,6,-,3_4_1_2,4_2_3_1,81:13
+5683,153,ScoPr,2242560,Celtic,St. Johnstone,2017-02-05,12:30:00,Good,Cloud,7,-,4_4_1_1,4_2_3_1,85:56
+5681,151,ScoPr,2242554,Kilmarnock,Dundee,2017-02-11,15:00:00,Good,Cloud,6,Cold,4_4_2,4_4_2,87:13
+5682,152,ScoPr,2242554,Kilmarnock,Dundee,2017-02-11,15:00:00,Good,Cloud,6,Cold,3_4_3,4_4_2,31:24
+5679,149,ScoPr,2242478,Motherwell,Aberdeen,2017-02-15,19:45:00,Average,Cloud,6,-,4_2_3_1,4_4_2,71:25
+5680,150,ScoPr,2242478,Motherwell,Aberdeen,2017-02-15,19:45:00,Average,Cloud,6,-,4_2_3_1,4_1_4_1,00:00
+5675,145,ScoPr,2242567,Motherwell,Celtic,2017-02-18,15:00:00,Good,"Cloud, Light Wind",10,-,4_2_3_1,4_4_1_1,53:43
+5676,146,ScoPr,2242563,Hamilton Academical,Partick Thistle,2017-02-18,15:00:00,"Patchy, Poor",Light Rain,10,Cold,4_2_3_1,4_1_2_1_2,73:23
+5677,147,ScoPr,2242565,Inverness CT,Hearts,2017-02-18,15:00:00,"Poor, Uneven",Cloud,8,-,4_4_2,4_2_3_1,76:11
+5678,148,ScoPr,2242568,St. Johnstone,Ross County,2017-02-18,15:00:00,Good,"Cloud, Rain",5,-,4_4_1_1,4_2_3_1,64:28
+5670,140,ScoPr,2242564,Aberdeen,Kilmarnock,2017-02-19,13:00:00,"Artificial, Excellent","Clear, Cloud",11,Warm,4_4_2,3_5_2,88:05
+5671,141,ScoPr,2242564,Aberdeen,Kilmarnock,2017-02-19,13:00:00,"Artificial, Excellent","Clear, Cloud",11,Warm,4_3_3,3_5_2,77:02
+5672,142,ScoPr,2242564,Aberdeen,Kilmarnock,2017-02-19,13:00:00,"Artificial, Excellent","Clear, Cloud",11,Warm,4_3_3,3_4_2_1,71:56
+5673,143,ScoPr,2242564,Aberdeen,Kilmarnock,2017-02-19,13:00:00,"Artificial, Excellent","Clear, Cloud",11,Warm,4_3_3,4_4_1_1,00:00
+5674,144,ScoPr,2242564,Aberdeen,Kilmarnock,2017-02-19,13:00:00,"Artificial, Excellent","Clear, Cloud",11,Warm,4_4_2,4_4_2,89:07
+5668,138,ScoPr,2242566,Rangers,Dundee,2017-02-19,15:15:00,Average,Cloud,9,-,4_4_1_1,4_2_2_2,77:21
+5669,139,ScoPr,2242566,Rangers,Dundee,2017-02-19,15:15:00,Average,Cloud,9,-,4_4_1_1,4_2_3_1,29:46
+5666,136,ScoPr,2242570,Rangers,Inverness CT,2017-02-24,19:45:00,"Good, Soft, Wet","Cloud, Light Rain, Light Wind",2,Cold,4_2_3_1,4_3_3,79:39
+5667,137,ScoPr,2242570,Rangers,Inverness CT,2017-02-24,19:45:00,"Good, Soft, Wet","Cloud, Light Rain, Light Wind",2,Cold,4_2_3_1,4_2_2_2,91:19
+5653,123,ScoPr,2242571,Hamilton Academical,Celtic,2017-02-25,15:00:00,Good,Cloud,9,Cold,4_2_3_1,4_4_2,74:57
+5654,124,ScoPr,2242571,Hamilton Academical,Celtic,2017-02-25,15:00:00,Good,Cloud,9,Cold,4_2_3_1,4_4_1_1,00:00
+5655,125,ScoPr,2242571,Hamilton Academical,Celtic,2017-02-25,15:00:00,Good,Cloud,9,Cold,4_2_3_1,4_5_1,63:16
+5656,126,ScoPr,2242574,Hearts,Partick Thistle,2017-02-25,15:00:00,Average,"Cloud, Sun",8,-,3_5_1_1,3_5_2,79:56
+5657,127,ScoPr,2242574,Hearts,Partick Thistle,2017-02-25,15:00:00,Average,"Cloud, Sun",8,-,3_5_1_1,4_2_3_1,57:37
+5658,128,ScoPr,2242574,Hearts,Partick Thistle,2017-02-25,15:00:00,Average,"Cloud, Sun",8,-,3_5_1_1,4_4_1_1,00:00
+5659,129,ScoPr,2242573,Ross County,Aberdeen,2017-02-25,15:00:00,Average,"Cloud, Sun",8,-,3_5_2,3_5_2,79:10
+5660,130,ScoPr,2242573,Ross County,Aberdeen,2017-02-25,15:00:00,Average,"Cloud, Sun",8,-,4_2_3_1,3_5_2,75:29
+5661,131,ScoPr,2242573,Ross County,Aberdeen,2017-02-25,15:00:00,Average,"Cloud, Sun",8,-,5_4_1,3_5_2,85:15
+5662,132,ScoPr,2242569,Dundee,Motherwell,2017-02-25,15:00:00,Good,"Cloud, Sun",8,Cold,3_5_2,4_5_1,82:19
+5663,133,ScoPr,2242569,Dundee,Motherwell,2017-02-25,15:00:00,Good,"Cloud, Sun",8,Cold,3_5_2,4_4_2,62:47
+5664,134,ScoPr,2242569,Dundee,Motherwell,2017-02-25,15:00:00,Good,"Cloud, Sun",8,Cold,4_4_2,4_4_2,00:00
+5665,135,ScoPr,2242572,Kilmarnock,St. Johnstone,2017-02-25,15:00:00,Good,Sun,6,-,3_5_2,4_1_2_1_2,81:27
+5652,122,ScoPr,2242578,Aberdeen,Hamilton Academical,2017-02-28,19:45:00,Artificial,Clear,3,Cold,3_5_2,4_2_3_1,85:03
+5646,116,ScoPr,2242576,Celtic,Inverness CT,2017-03-01,19:45:00,Good,Clear,1,Cold,4_2_3_1,4_2_3_1,77:18
+5647,117,ScoPr,2242577,Ross County,Hearts,2017-03-01,19:45:00,Excellent,Clear,1,Freezing,4_4_2,3_5_2,78:27
+5648,118,ScoPr,2242577,Ross County,Hearts,2017-03-01,19:45:00,Excellent,Clear,1,Freezing,4_2_3_1,3_5_2,00:00
+5649,119,ScoPr,2242579,Partick Thistle,Dundee,2017-03-01,19:45:00,Good,Clear,2,Freezing,4_4_2,3_5_1_1,76:40
+5650,120,ScoPr,2242580,St. Johnstone,Rangers,2017-03-01,19:45:00,Excellent,Cloud,2,-,4_3_3,4_4_1_1,82:04
+5651,121,ScoPr,2242580,St. Johnstone,Rangers,2017-03-01,19:45:00,Excellent,Cloud,2,-,4_3_3,4_4_1_1,82:04
+5644,114,ScoPr,2242575,Motherwell,Kilmarnock,2017-03-04,15:00:00,"Artificial, Good","Cloud, Sun",7,-,4_4_2,3_4_3,75:13
+5645,115,ScoPr,2242575,Motherwell,Kilmarnock,2017-03-04,15:00:00,"Artificial, Good","Cloud, Sun",7,-,4_4_2,4_4_1_1,45:00
+5635,105,ScoPr,2242584,Motherwell,Aberdeen,2017-03-11,15:00:00,"Patchy, Poor",Cloud,11,Warm,3_5_2,3_4_2_1,75:25
+5636,106,ScoPr,2242584,Motherwell,Aberdeen,2017-03-11,15:00:00,"Patchy, Poor",Cloud,11,Warm,3_4_3,3_4_2_1,72:50
+5637,107,ScoPr,2242585,Dundee,St. Johnstone,2017-03-11,15:00:00,"Dry, Good",Clear,10,Cold,4_4_2,4_4_2,77:36
+5638,108,ScoPr,2242582,Hamilton Academical,Hearts,2017-03-11,15:00:00,"Dry, Good","Cloud, Light Wind",11,-,4_1_4_1,4_4_1_1,73:00
+5639,109,ScoPr,2242581,Inverness CT,Partick Thistle,2017-03-11,15:00:00,Average,Cloud,12,-,4_4_2,4_3_1_2,80:53
+5640,110,ScoPr,2242581,Inverness CT,Partick Thistle,2017-03-11,15:00:00,Average,Cloud,12,-,4_1_4_1,4_5_1,32:11
+5641,111,ScoPr,2242581,Inverness CT,Partick Thistle,2017-03-11,15:00:00,Average,Cloud,12,-,4_2_3_1,4_3_1_2,00:00
+5642,112,ScoPr,2242581,Inverness CT,Partick Thistle,2017-03-11,15:00:00,Average,Cloud,12,-,4_4_2,4_5_1,41:28
+5643,113,ScoPr,2242586,Kilmarnock,Ross County,2017-03-11,15:00:00,Good,"Cloud, Sun",6,-,4_4_1_1,4_1_4_1,79:41
+5632,102,ScoPr,2242583,Rangers,Celtic,2017-03-12,12:00:00,Average,"Cloud, Light Rain",9,Cold,4_2_2_2,4_3_3,80:43
+5633,103,ScoPr,2242583,Rangers,Celtic,2017-03-12,12:00:00,Average,"Cloud, Light Rain",9,Cold,4_2_3_1,4_3_3,68:11
+5634,104,ScoPr,2242583,Rangers,Celtic,2017-03-12,12:00:00,Average,"Cloud, Light Rain",9,Cold,4_2_3_1,4_4_1_1,00:00
+5631,101,ScoPr,2242592,Hearts,Aberdeen,2017-03-18,12:15:00,Average,Cloud,11,-,4_2_3_1,4_1_4_1,87:44
+5625,95,ScoPr,2242588,Partick Thistle,Kilmarnock,2017-03-18,15:00:00,"Artificial, Poor",Cloud,10,-,4_3_3,4_2_3_1,87:05
+5626,96,ScoPr,2242588,Partick Thistle,Kilmarnock,2017-03-18,15:00:00,"Artificial, Poor",Cloud,10,-,4_2_3_1,4_2_3_1,71:04
+5627,97,ScoPr,2242591,Hamilton Academical,Rangers,2017-03-18,15:00:00,Good,"Cloud, Sun",10,Cold,4_2_3_1,3_5_1_1,82:25
+5628,98,ScoPr,2242587,St. Johnstone,Motherwell,2017-03-18,15:00:00,Good,Cloud,9,Cold,3_4_1_2,4_4_2,81:47
+5629,99,ScoPr,2242587,St. Johnstone,Motherwell,2017-03-18,15:00:00,Good,Cloud,9,Cold,4_4_1_1,4_4_2,63:33
+5630,100,ScoPr,2242589,Ross County,Inverness CT,2017-03-18,15:00:00,Good,Cloud,5,-,5_3_2,4_3_3,84:34
+5623,93,ScoPr,2242590,Celtic,Dundee,2017-03-19,12:30:00,Good,"Cloud, Sun, Wind",9,-,4_4_1_1,4_1_4_1,73:50
+5624,94,ScoPr,2242590,Celtic,Dundee,2017-03-19,12:30:00,Good,"Cloud, Sun, Wind",9,-,4_4_1_1,5_3_2,82:35
+5621,91,ScoPr,2242597,Aberdeen,Dundee,2017-03-31,18:45:00,Good,Cloud,12,-,4_4_2,4_2_3_1,69:05
+5622,92,ScoPr,2242597,Aberdeen,Dundee,2017-03-31,18:45:00,Good,Cloud,12,-,4_4_1_1,4_2_3_1,00:00
+5613,83,ScoPr,2242593,Ross County,Partick Thistle,2017-04-01,14:00:00,"Good, Wet",Cloud,13,Cold,3_5_2,3_5_2,79:55
+5614,84,ScoPr,2242593,Ross County,Partick Thistle,2017-04-01,14:00:00,"Good, Wet",Cloud,13,Cold,4_2_3_1,3_5_2,00:00
+5615,85,ScoPr,2242596,St. Johnstone,Hamilton Academical,2017-04-01,14:00:00,Artificial,"Cloud, Rain, Sun",10,-,4_3_3,4_4_1_1,75:40
+5616,86,ScoPr,2242596,St. Johnstone,Hamilton Academical,2017-04-01,14:00:00,Artificial,"Cloud, Rain, Sun",10,-,3_5_2,4_4_1_1,52:07
+5617,87,ScoPr,2242594,Kilmarnock,Inverness CT,2017-04-01,14:00:00,Good,Cloud,12,-,4_1_4_1,4_1_4_1,78:10
+5618,88,ScoPr,2242598,Motherwell,Rangers,2017-04-01,14:00:00,Good,"Cloud, Sun",10,Cold,3_4_3,3_4_1_2,75:03
+5619,89,ScoPr,2242598,Motherwell,Rangers,2017-04-01,14:00:00,Good,"Cloud, Sun",10,Cold,4_3_3,3_4_1_2,45:12
+5620,90,ScoPr,2242598,Motherwell,Rangers,2017-04-01,14:00:00,Good,"Cloud, Sun",10,Cold,3_4_3,3_5_1_1,79:13
+5612,82,ScoPr,2242595,Celtic,Hearts,2017-04-02,11:30:00,Good,"Clear, Sun",10,-,4_4_2,3_4_2_1,79:10
+5609,79,ScoPr,2242602,Inverness CT,Aberdeen,2017-04-04,18:45:00,"Patchy, Poor","Cloud, Light Wind",8,Cold,4_3_3,_,79:17
+5610,80,ScoPr,2242602,Inverness CT,Aberdeen,2017-04-04,18:45:00,"Patchy, Poor","Cloud, Light Wind",8,Cold,4_3_3,4_3_3,85:12
+5611,81,ScoPr,2242604,Dundee,Ross County,2017-04-04,18:45:00,Good,Cloud,4,Cold,4_4_2,4_4_2,79:44
+5603,73,ScoPr,2242601,Partick Thistle,Celtic,2017-04-05,18:45:00,"Excellent, Soft, Wet",Cloud,9,Cold,4_3_3,3_5_2,71:51
+5604,74,ScoPr,2242601,Partick Thistle,Celtic,2017-04-05,18:45:00,"Excellent, Soft, Wet",Cloud,9,Cold,3_5_2,3_5_2,61:36
+5605,75,ScoPr,2242601,Partick Thistle,Celtic,2017-04-05,18:45:00,"Excellent, Soft, Wet",Cloud,9,Cold,4_4_2,3_5_2,76:33
+5606,76,ScoPr,2242600,Rangers,Kilmarnock,2017-04-05,18:45:00,Artificial,Cloud,8,-,4_1_4_1,4_2_3_1,80:12
+5607,77,ScoPr,2242603,Hearts,St. Johnstone,2017-04-05,18:45:00,Good,Cloud,9,-,4_4_2,4_1_2_1_2,82:26
+5608,78,ScoPr,2242599,Hamilton Academical,Motherwell,2017-04-05,18:45:00,Excellent,Cloud,6,-,3_4_2_1,4_1_2_1_2,76:17
+5594,64,ScoPr,2242608,Dundee,Hearts,2017-04-08,14:00:00,Good,Sun,13,-,4_4_1_1,3_5_2,63:55
+5595,65,ScoPr,2242606,Kilmarnock,Celtic,2017-04-08,14:00:00,"Good, Soft","Clear, Sun",13,Warm,4_2_3_1,5_3_2,80:21
+5596,66,ScoPr,2242606,Kilmarnock,Celtic,2017-04-08,14:00:00,"Good, Soft","Clear, Sun",13,Warm,4_2_3_1,5_4_1,71:58
+5597,67,ScoPr,2242610,Motherwell,Partick Thistle,2017-04-08,14:00:00,Good,"Light Wind, Sun",14,Warm,3_4_2_1,4_3_3,71:10
+5598,68,ScoPr,2242610,Motherwell,Partick Thistle,2017-04-08,14:00:00,Good,"Light Wind, Sun",14,Warm,3_4_2_1,4_4_2,45:00
+5599,69,ScoPr,2242610,Motherwell,Partick Thistle,2017-04-08,14:00:00,Good,"Light Wind, Sun",14,Warm,3_4_2_1,3_4_1_2,00:00
+5600,70,ScoPr,2242609,Ross County,Hamilton Academical,2017-04-08,14:00:00,Average,"Light Wind, Sun",15,-,4_1_4_1,4_4_2,79:06
+5601,71,ScoPr,2242605,St. Johnstone,Inverness CT,2017-04-08,14:00:00,"Good, Wet",Cloud,16,Warm,3_5_2,4_1_4_1,81:32
+5602,72,ScoPr,2242605,St. Johnstone,Inverness CT,2017-04-08,14:00:00,"Good, Wet",Cloud,16,Warm,3_5_2,4_4_2,56:56
+5592,62,ScoPr,2242607,Rangers,Aberdeen,2017-04-09,11:30:00,Average,Cloud,11,-,4_2_3_1,4_3_3,79:25
+5593,63,ScoPr,2242607,Rangers,Aberdeen,2017-04-09,11:30:00,Average,Cloud,11,-,3_5_2,4_3_3,81:58
+5588,58,ScoPr,2242614,Hearts,Kilmarnock,2017-04-14,18:45:00,Artificial,"Cloud, Rain",8,-,4_4_1_1,3_4_2_1,80:42
+5589,59,ScoPr,2242614,Hearts,Kilmarnock,2017-04-14,18:45:00,Artificial,"Cloud, Rain",8,-,4_4_1_1,4_2_3_1,69:35
+5590,60,ScoPr,2242614,Hearts,Kilmarnock,2017-04-14,18:45:00,Artificial,"Cloud, Light Rain",8,-,4_4_1_1,3_4_2_1,80:42
+5591,61,ScoPr,2242614,Hearts,Kilmarnock,2017-04-14,18:45:00,Artificial,"Cloud, Light Rain",8,-,4_4_1_1,4_2_3_1,69:35
+5582,52,ScoPr,2242611,Aberdeen,St. Johnstone,2017-04-15,14:00:00,Good,"Cloud, Sun, Wind",10,-,4_4_1_1,4_2_3_1,78:16
+5583,53,ScoPr,2242616,Partick Thistle,Rangers,2017-04-15,14:00:00,Good,Cloud,9,-,4_2_3_1,4_4_2,74:30
+5584,54,ScoPr,2242616,Partick Thistle,Rangers,2017-04-15,14:00:00,Good,Sun,9,-,4_2_3_1,4_4_2,74:30
+5585,55,ScoPr,2242616,Partick Thistle,Rangers,2017-04-15,14:00:00,Good,Cloud,9,-,4_2_3_1,4_4_2,74:30
+5586,56,ScoPr,2242615,Hamilton Academical,Dundee,2017-04-15,14:00:00,Good,Cloud,7,-,3_5_2,4_4_2,78:38
+5587,57,ScoPr,2242613,Inverness CT,Motherwell,2017-04-15,14:00:00,Excellent,Sun,8,-,3_4_1_2,4_4_1_1,82:29
+5580,50,ScoPr,2242612,Celtic,Ross County,2017-04-16,11:30:00,Average,Cloud,8,-,5_4_1,4_1_4_1,89:59
+5581,51,ScoPr,2242612,Celtic,Ross County,2017-04-16,11:30:00,Average,Cloud,8,-,5_4_1,3_4_2_1,00:00
+5577,47,ScoPr,2436108,Inverness CT,Ross County,2017-04-28,18:45:00,Good,Cloud,6,-,3_5_2,3_5_2,63:36
+5578,48,ScoPr,2436108,Inverness CT,Ross County,2017-04-28,18:45:00,Good,Cloud,6,-,_,4_2_3_1,00:00
+5579,49,ScoPr,2436108,Inverness CT,Ross County,2017-04-28,18:45:00,Good,Cloud,6,-,3_5_2,4_2_3_1,45:00
+5576,46,ScoPr,2432766,Celtic,Rangers,2017-04-29,11:00:00,"Excellent, Wet","Cloud, Light Rain",11,-,4_1_2_1_2,4_2_3_1,77:09
+5568,38,ScoPr,2436110,Dundee,Motherwell,2017-04-29,14:00:00,"Dry, Good, Soft","Clear, Cloud, Sun",12,Cold,3_4_3,4_4_2,80:14
+5569,39,ScoPr,2436094,St. Johnstone,Aberdeen,2017-04-29,14:00:00,Average,Clear,10,Cold,4_3_3,4_1_4_1,87:15
+5570,40,ScoPr,2436094,St. Johnstone,Aberdeen,2017-04-29,14:00:00,Average,Clear,10,Cold,4_3_3,4_4_1_1,65:29
+5571,41,ScoPr,2436094,St. Johnstone,Aberdeen,2017-04-29,14:00:00,Average,Clear,10,Cold,3_4_2_1,4_4_1_1,34:05
+5572,42,ScoPr,2436095,Partick Thistle,Hearts,2017-04-29,14:00:00,Good,Cloud,11,-,3_4_3,4_4_2,78:15
+5573,43,ScoPr,2436095,Partick Thistle,Hearts,2017-04-29,14:00:00,Good,Cloud,11,-,3_4_3,4_2_3_1,00:00
+5574,44,ScoPr,2436109,Kilmarnock,Hamilton Academical,2017-04-29,14:00:00,Artificial,"Cloud, Wind",9,Cold,4_4_2,4_2_3_1,80:00
+5575,45,ScoPr,2436109,Kilmarnock,Hamilton Academical,2017-04-29,14:00:00,Artificial,"Cloud, Wind",9,Cold,4_3_3,4_2_3_1,51:56
+5567,37,ScoPr,2436111,Hamilton Academical,Inverness CT,2017-05-06,11:15:00,Good,"Clear, Sun",13,Warm,4_2_3_1,4_3_3,90:18
+5563,33,ScoPr,2436113,Ross County,Motherwell,2017-05-06,14:00:00,Good,Sun,15,-,3_4_2_1,4_1_4_1,75:00
+5564,34,ScoPr,2436096,St. Johnstone,Celtic,2017-05-06,14:00:00,Good,Sun,15,-,4_2_3_1,4_2_3_1,79:08
+5565,35,ScoPr,2436096,St. Johnstone,Celtic,2017-05-06,14:00:00,Good,Sun,15,-,4_2_3_1,4_4_2,00:00
+5566,36,ScoPr,2436112,Dundee,Kilmarnock,2017-05-06,14:00:00,"Patchy, Poor","Light Wind, Sun",12,-,4_4_2,4_5_1,83:17
+5559,29,ScoPr,2436097,Rangers,Partick Thistle,2017-05-07,11:15:00,"Excellent, Soft","Clear, Sun",17,Warm,4_4_2,4_4_2,86:04
+5560,30,ScoPr,2436097,Rangers,Partick Thistle,2017-05-07,11:15:00,"Excellent, Soft","Clear, Sun",17,Warm,4_1_4_1,4_4_2,70:09
+5561,31,ScoPr,2436097,Rangers,Partick Thistle,2017-05-07,11:15:00,"Excellent, Soft","Clear, Sun",17,Warm,4_1_4_1,4_4_1_1,00:00
+5562,32,ScoPr,2436097,Rangers,Partick Thistle,2017-05-07,11:15:00,"Excellent, Soft","Clear, Sun",17,Warm,4_1_4_1,3_5_2,52:48
+5558,28,ScoPr,2436098,Aberdeen,Hearts,2017-05-07,14:00:00,Good,Sun,12,-,3_5_2,4_2_3_1,84:41
+5557,27,ScoPr,2436099,Celtic,Aberdeen,2017-05-12,18:45:00,"Average, Wet","Cloud, Light Rain",9,Cold,3_4_2_1,4_2_3_1,89:19
+5556,26,ScoPr,2436101,Hearts,Rangers,2017-05-13,11:15:00,"Excellent, Soft","Cloud, Light Rain",11,Cold,4_2_3_1,4_4_2,73:21
+5547,17,ScoPr,2436114,Ross County,Dundee,2017-05-13,14:00:00,"Average, Good","Clear, Sun",12,-,4_4_2,5_3_2,78:20
+5548,18,ScoPr,2436114,Ross County,Dundee,2017-05-13,14:00:00,"Average, Good","Clear, Sun",12,-,4_4_2,3_5_1_1,67:10
+5549,19,ScoPr,2436116,Inverness CT,Kilmarnock,2017-05-13,14:00:00,Artificial,"Cloud, Sun",11,-,4_2_3_1,4_2_3_1,69:29
+5550,20,ScoPr,2436116,Inverness CT,Kilmarnock,2017-05-13,14:00:00,Artificial,"Cloud, Sun",11,-,4_2_3_1,4_4_2,45:00
+5551,21,ScoPr,2436115,Motherwell,Hamilton Academical,2017-05-13,14:00:00,"Poor, Soft, Wet","Cloud, Rain, Wind",12,-,4_3_3,4_4_1_1,83:49
+5552,22,ScoPr,2436115,Motherwell,Hamilton Academical,2017-05-13,14:00:00,"Poor, Soft, Wet","Cloud, Rain, Wind",12,-,4_3_3,4_4_2,00:00
+5553,23,ScoPr,2436100,Partick Thistle,St. Johnstone,2017-05-13,14:00:00,"Poor, Uneven, Wet",Cloud,11,Cold,4_4_2,4_2_3_1,69:04
+5554,24,ScoPr,2436100,Partick Thistle,St. Johnstone,2017-05-13,14:00:00,"Poor, Uneven, Wet",Cloud,11,Cold,4_4_2,3_5_2,00:00
+5555,25,ScoPr,2436100,Partick Thistle,St. Johnstone,2017-05-13,14:00:00,"Poor, Uneven, Wet",Cloud,11,Cold,4_4_2,3_4_2_1,45:00
+5544,14,ScoPr,2436119,Hamilton Academical,Ross County,2017-05-16,18:45:00,"Dry, Good, Soft","Clear, Cloud, Sun",15,Warm,4_4_2,4_5_1,69:49
+5545,15,ScoPr,2436118,Kilmarnock,Motherwell,2017-05-16,18:45:00,Excellent,"Cloud, Sun",17,Warm,4_4_1_1,4_4_2,84:41
+5546,16,ScoPr,2436118,Kilmarnock,Motherwell,2017-05-16,18:45:00,Excellent,"Cloud, Sun",17,Warm,4_4_1_1,4_1_4_1,64:40
+5540,10,ScoPr,2436117,Inverness CT,Dundee,2017-05-17,18:45:00,Excellent,"Cloud, Sun",16,Warm,4_2_3_1,5_4_1,84:20
+5541,11,ScoPr,2436117,Inverness CT,Dundee,2017-05-17,18:45:00,Excellent,"Cloud, Sun",16,Warm,4_2_3_1,4_2_3_1,65:16
+5542,12,ScoPr,2436102,Aberdeen,Rangers,2017-05-17,18:45:00,Excellent,Cloud,13,-,4_3_3,3_4_2_1,67:26
+5543,13,ScoPr,2436103,Hearts,St. Johnstone,2017-05-17,18:45:00,Good,"Cloud, Sun",7,Cold,4_4_2,3_5_2,76:54
+5539,9,ScoPr,2436104,Celtic,Partick Thistle,2017-05-18,18:45:00,"Good, Wet","Cloud, Sun",13,Cold,4_2_3_1,4_2_3_1,68:26
+5535,5,ScoPr,2436120,Motherwell,Inverness CT,2017-05-20,14:00:00,Good,Light Rain,11,Warm,4_1_4_1,4_2_3_1,76:35
+5536,6,ScoPr,2436121,Ross County,Kilmarnock,2017-05-20,14:00:00,Average,Cloud,13,-,4_1_4_1,4_4_2,82:29
+5537,7,ScoPr,2436121,Ross County,Kilmarnock,2017-05-20,14:00:00,Average,Strong Wind,13,-,4_1_4_1,4_4_2,82:29
+5538,8,ScoPr,2436122,Dundee,Hamilton Academical,2017-05-20,14:00:00,Artificial,Light Rain,12,-,4_4_1_1,4_2_3_1,00:00
+5530,0,ScoPr,2436107,Rangers,St. Johnstone,2017-05-21,11:30:00,Good,"Cloud, Light Rain",14,Warm,4_4_2,4_3_3,84:21
+5531,1,ScoPr,2436106,Aberdeen,Partick Thistle,2017-05-21,11:30:00,Good,Cloud,14,-,4_4_2,4_2_3_1,66:55
+5532,2,ScoPr,2436106,Aberdeen,Partick Thistle,2017-05-21,11:30:00,Good,Cloud,14,-,3_4_2_1,4_2_3_1,00:00
+5533,3,ScoPr,2436105,Hearts,Celtic,2017-05-21,11:30:00,"Excellent, Soft",Cloud,14,Warm,3_5_1_1,3_5_2,77:56
+5534,4,ScoPr,2436105,Hearts,Celtic,2017-05-21,11:30:00,"Excellent, Soft",Cloud,14,Warm,4_2_3_1,3_5_2,00:00
+5281,0,ScoPr,2473823,Hearts,Celtic,2017-08-05,11:30:00,"Excellent, Soft","Clear, Sun",17,Warm,4_2_3_1,4_5_1,00:00
+5282,1,ScoPr,2473823,Hearts,Celtic,2017-08-05,11:30:00,"Excellent, Soft","Clear, Sun",17,Warm,4_2_3_1,4_4_2,68:13
+5283,2,ScoPr,2473823,Hearts,Celtic,2017-08-05,11:30:00,"Excellent, Soft","Cloud, Rain",17,Warm,4_2_3_1,4_5_1,00:00
+5284,3,ScoPr,2473823,Hearts,Celtic,2017-08-05,11:30:00,"Excellent, Soft","Cloud, Rain",17,Warm,4_2_3_1,4_4_2,68:13
+5285,4,ScoPr,2473824,Ross County,Dundee,2017-08-05,14:00:00,"Good, Soft","Cloud, Sun",16,Warm,4_2_3_1,4_5_1,00:00
+5286,5,ScoPr,2473824,Ross County,Dundee,2017-08-05,14:00:00,"Good, Soft","Cloud, Sun",16,Warm,4_2_3_1,5_4_1,72:13
+5287,6,ScoPr,2473825,Partick Thistle,Hibernian,2017-08-05,14:00:00,Average,"Cloud, Sun",15,-,4_4_1_1,4_2_3_1,00:00
+5288,7,ScoPr,2473825,Partick Thistle,Hibernian,2017-08-05,14:00:00,Average,"Cloud, Sun",15,-,4_4_1_1,3_5_1_1,69:45
+5289,8,ScoPr,2473826,St. Johnstone,Kilmarnock,2017-08-05,14:00:00,"Artificial, Good",Cloud,14,-,4_4_1_1,4_4_1_1,00:00
+5290,9,ScoPr,2473826,St. Johnstone,Kilmarnock,2017-08-05,14:00:00,"Artificial, Good",Cloud,14,-,4_4_2,4_4_1_1,55:41
+5291,10,ScoPr,2473827,Rangers,Motherwell,2017-08-06,12:30:00,Good,Cloud,14,-,4_4_1_1,4_4_2,00:00
+5292,11,ScoPr,2473827,Rangers,Motherwell,2017-08-06,12:30:00,Good,Cloud,14,-,4_4_1_1,5_4_1,76:39
+5293,12,ScoPr,2473822,Hamilton Academical,Aberdeen,2017-08-06,14:00:00,Good,Cloud,15,-,4_2_3_1,4_4_2,00:00
+5294,13,ScoPr,2473830,Celtic,Partick Thistle,2017-08-11,18:45:00,Excellent,"Cloud, Sun",16,Warm,4_2_3_1,4_2_3_1,00:00
+5295,14,ScoPr,2473828,Dundee,Hamilton Academical,2017-08-12,14:00:00,"Artificial, Good",Cloud,16,Warm,4_3_1_2,4_4_1_1,00:00
+5296,15,ScoPr,2473896,Hearts,Kilmarnock,2017-08-12,14:00:00,"Artificial, Average","Cloud, Sun",16,Warm,4_4_1_1,4_4_1_1,00:00
+5297,16,ScoPr,2473831,Hibernian,Rangers,2017-08-12,14:00:00,"Excellent, Soft","Cloud, Sun",17,Warm,4_4_1_1,3_5_2,00:00
+5298,17,ScoPr,2473833,Motherwell,St. Johnstone,2017-08-12,14:00:00,Good,Cloud,14,-,4_4_1_1,4_4_1_1,00:00
+5299,18,ScoPr,2473832,Aberdeen,Ross County,2017-08-12,14:00:00,Good,"Cloud, Sun",14,-,4_4_1_1,4_2_3_1,00:00
+5300,19,ScoPr,2473836,Celtic,Kilmarnock,2017-08-19,11:30:00,"Artificial, Good","Cloud, Light Rain, Wind",14,Warm,4_4_1_1,4_2_3_1,00:00
+5301,20,ScoPr,2473839,Partick Thistle,St. Johnstone,2017-08-19,14:00:00,"Good, Soft","Cloud, Sun",16,Warm,4_5_1,4_2_3_1,00:00
+5302,21,ScoPr,2473834,Dundee,Aberdeen,2017-08-19,14:00:00,Excellent,Cloud,16,-,4_2_3_1,4_4_1_1,00:00
+5303,22,ScoPr,2473834,Dundee,Aberdeen,2017-08-19,14:00:00,Excellent,Cloud,16,-,4_4_2,4_4_1_1,65:32
+5304,23,ScoPr,2473834,Dundee,Aberdeen,2017-08-19,14:00:00,Excellent,"Cloud, Sun",16,-,4_2_3_1,4_4_1_1,00:00
+5305,24,ScoPr,2473834,Dundee,Aberdeen,2017-08-19,14:00:00,Excellent,"Cloud, Sun",16,-,4_4_2,4_4_1_1,65:32
+5306,25,ScoPr,2473834,Dundee,Aberdeen,2017-08-19,14:00:00,Excellent,Rain,16,-,4_2_3_1,4_4_1_1,00:00
+5307,26,ScoPr,2473834,Dundee,Aberdeen,2017-08-19,14:00:00,Excellent,Rain,16,-,4_4_2,4_4_1_1,65:32
+5308,27,ScoPr,2473838,Hearts,Rangers,2017-08-19,14:00:00,Good,Cloud,15,-,4_4_2,4_4_2,00:00
+5309,28,ScoPr,2473838,Hearts,Rangers,2017-08-19,14:00:00,Good,Cloud,15,-,4_4_2,5_3_2,75:31
+5310,29,ScoPr,2473835,Hamilton Academical,Hibernian,2017-08-19,14:00:00,Good,"Cloud, Sun",15,-,3_4_1_2,5_3_2,00:00
+5311,30,ScoPr,2473835,Hamilton Academical,Hibernian,2017-08-19,14:00:00,Good,"Cloud, Sun",15,-,3_4_1_2,4_1_2_1_2,55:18
+5312,31,ScoPr,2473835,Hamilton Academical,Hibernian,2017-08-19,14:00:00,Good,"Cloud, Sun",15,-,4_4_2,4_1_2_1_2,62:12
+5313,32,ScoPr,2473835,Hamilton Academical,Hibernian,2017-08-19,14:00:00,Good,"Cloud, Sun",15,-,4_3_3,4_1_2_1_2,75:18
+5314,33,ScoPr,2473837,Ross County,Motherwell,2017-08-19,14:00:00,Excellent,"Cloud, Sun",16,Warm,4_4_1_1,3_5_2,00:00
+5315,34,ScoPr,2473837,Ross County,Motherwell,2017-08-19,14:00:00,Excellent,"Cloud, Sun",16,Warm,3_5_2,3_5_2,45:00
+5316,35,ScoPr,2473840,St. Johnstone,Celtic,2017-08-26,14:00:00,Good,Cloud,14,-,4_2_3_1,4_5_1,00:00
+5317,36,ScoPr,2473844,Aberdeen,Partick Thistle,2017-08-26,14:00:00,Good,Cloud,15,-,4_2_3_1,4_2_3_1,00:00
+5318,37,ScoPr,2473922,Hearts,Motherwell,2017-08-26,14:00:00,"Good, Soft","Cloud, Sun",16,Warm,4_4_2,4_4_2,00:00
+5319,38,ScoPr,2473922,Hearts,Motherwell,2017-08-26,14:00:00,"Good, Soft","Cloud, Sun",16,Warm,3_5_2,4_4_2,66:52
+5320,39,ScoPr,2473843,Hamilton Academical,Kilmarnock,2017-08-26,14:00:00,Artificial,Cloud,15,-,4_2_3_1,3_5_2,00:00
+5321,40,ScoPr,2473841,Hibernian,Dundee,2017-08-27,11:30:00,Good,Cloud,14,-,4_2_3_1,4_4_2,00:00
+5322,41,ScoPr,2473845,Rangers,Ross County,2017-08-27,14:00:00,Excellent,Cloud,17,Warm,4_5_1,4_4_2,00:00
+5323,42,ScoPr,2473845,Rangers,Ross County,2017-08-27,14:00:00,Excellent,Cloud,17,Warm,4_4_2,4_4_2,37:04
+5324,43,ScoPr,2473846,Celtic,Hamilton Academical,2017-09-08,18:45:00,"Artificial, Good, Wet",Cloud,12,-,5_3_2,3_4_3,00:00
+5325,44,ScoPr,2473846,Celtic,Hamilton Academical,2017-09-08,18:45:00,"Artificial, Good, Wet",Cloud,12,-,4_4_2,3_4_3,53:52
+5326,45,ScoPr,2473849,Dundee,Rangers,2017-09-09,14:00:00,Excellent,"Cloud, Sun",17,Warm,4_4_2,4_4_1_1,00:00
+5327,46,ScoPr,2473849,Dundee,Rangers,2017-09-09,14:00:00,Excellent,"Cloud, Sun",17,Warm,4_4_1_1,4_4_1_1,62:51
+5328,47,ScoPr,2473848,Kilmarnock,Motherwell,2017-09-09,14:00:00,Average,Cloud,16,Warm,3_4_1_2,4_4_1_1,00:00
+5329,48,ScoPr,2473850,Partick Thistle,Ross County,2017-09-09,14:00:00,"Good, Soft",Cloud,14,Warm,4_4_2,4_2_3_1,00:00
+5330,49,ScoPr,2473847,Aberdeen,Hearts,2017-09-09,14:00:00,Good,"Cloud, Sun",14,-,3_5_1_1,4_4_2,00:00
+5331,50,ScoPr,2473851,Hibernian,St. Johnstone,2017-09-09,14:00:00,"Dry, Excellent, Soft",Clear,17,Warm,4_4_1_1,4_4_2,00:00
+5332,51,ScoPr,2473857,Rangers,Partick Thistle,2017-09-15,18:45:00,Excellent,Clear,15,-,3_4_2_1,4_4_2,00:00
+5333,52,ScoPr,2473853,Ross County,Celtic,2017-09-16,14:00:00,Good,Cloud,15,-,3_5_2,5_4_1,00:00
+5334,53,ScoPr,2473853,Ross County,Celtic,2017-09-16,14:00:00,Good,Cloud,15,-,4_4_1_1,5_4_1,74:20
+5335,54,ScoPr,2473856,Motherwell,Hibernian,2017-09-16,14:00:00,"Excellent, Wet","Cloud, Rain",12,Warm,4_4_2,3_5_2,00:00
+5336,55,ScoPr,2473855,Hearts,Hamilton Academical,2017-09-16,14:00:00,"Artificial, Good",Cloud,9,-,4_2_3_1,4_4_2,00:00
+5337,56,ScoPr,2473852,Kilmarnock,Aberdeen,2017-09-16,14:00:00,Good,"Cloud, Sun",10,-,4_4_2,4_4_1_1,00:00
+5338,57,ScoPr,2473852,Kilmarnock,Aberdeen,2017-09-16,14:00:00,Good,"Cloud, Sun",10,-,4_2_3_1,4_4_1_1,58:03
+5339,58,ScoPr,2473854,St. Johnstone,Dundee,2017-09-16,14:00:00,Excellent,"Cloud, Sun",13,Warm,4_2_3_1,4_4_2,00:00
+5340,59,ScoPr,2473861,Celtic,Rangers,2017-09-23,11:00:00,Good,Cloud,14,-,4_3_3,4_2_3_1,00:00
+5341,60,ScoPr,2473861,Celtic,Rangers,2017-09-23,11:00:00,Good,Cloud,14,-,4_4_2,4_2_3_1,52:33
+5342,61,ScoPr,2473859,Dundee,Kilmarnock,2017-09-23,14:00:00,"Artificial, Average",Clear,13,-,4_2_3_1,4_4_2,00:00
+5343,62,ScoPr,2473859,Dundee,Kilmarnock,2017-09-23,14:00:00,"Artificial, Average",Clear,13,-,4_4_2,4_4_2,62:28
+5344,63,ScoPr,2473863,Hamilton Academical,St. Johnstone,2017-09-23,14:00:00,Excellent,Cloud,16,Warm,4_4_2,3_5_2,00:00
+5345,64,ScoPr,2473862,Hibernian,Ross County,2017-09-23,14:00:00,Excellent,"Cloud, Sun",18,Warm,4_4_2,4_4_2,00:00
+5346,65,ScoPr,2473903,Hearts,Partick Thistle,2017-09-23,15:00:00,"Good, Soft","Cloud, Light Wind",16,Warm,3_4_1_2,3_5_1_1,00:00
+5347,66,ScoPr,2473903,Hearts,Partick Thistle,2017-09-23,15:00:00,"Good, Soft","Cloud, Light Wind",16,Warm,3_4_1_2,4_2_3_1,72:51
+5348,67,ScoPr,2473860,Aberdeen,Motherwell,2017-09-24,11:15:00,"Good, Wet","Cloud, Rain",14,-,3_5_1_1,5_4_1,00:00
+5349,68,ScoPr,2473867,Rangers,Hamilton Academical,2017-09-29,18:45:00,"Artificial, Wet",Cloud,10,-,3_5_2,4_4_1_1,00:00
+5350,69,ScoPr,2473869,Partick Thistle,Motherwell,2017-09-30,14:00:00,Excellent,"Cloud, Light Wind, Sun",14,Warm,3_4_3,3_4_3,00:00
+5351,70,ScoPr,2473864,St. Johnstone,Aberdeen,2017-09-30,14:00:00,Good,"Cloud, Sun",13,-,4_2_3_1,3_4_1_2,00:00
+5352,71,ScoPr,2473864,St. Johnstone,Aberdeen,2017-09-30,14:00:00,Good,"Cloud, Sun",13,-,4_2_3_1,4_4_2,45:00
+5353,72,ScoPr,2473868,Ross County,Kilmarnock,2017-09-30,14:00:00,"Artificial, Average","Sun, Wind",12,Cold,4_2_3_1,4_5_1,00:00
+5354,73,ScoPr,2473868,Ross County,Kilmarnock,2017-09-30,14:00:00,"Artificial, Average","Sun, Wind",12,Cold,4_4_2,4_5_1,45:00
+5355,74,ScoPr,2473865,Hibernian,Celtic,2017-09-30,14:00:00,Excellent,"Cloud, Sun",11,Cold,3_5_2,4_3_1_2,00:00
+5356,75,ScoPr,2473865,Hibernian,Celtic,2017-09-30,14:00:00,Excellent,"Cloud, Sun",11,Cold,4_2_3_1,4_3_1_2,45:00
+5357,76,ScoPr,2473866,Hearts,Dundee,2017-09-30,14:00:00,Good,"Cloud, Sun",14,Warm,3_5_2,3_5_2,00:00
+5358,77,ScoPr,2473875,Rangers,St. Johnstone,2017-10-13,18:45:00,Good,Cloud,8,-,4_4_2,4_4_1_1,00:00
+5359,78,ScoPr,2473875,Rangers,St. Johnstone,2017-10-13,18:45:00,Good,Cloud,8,-,4_4_2,5_4_1,84:47
+5360,79,ScoPr,2473871,Motherwell,Hamilton Academical,2017-10-14,14:00:00,Artificial,"Clear, Cloud",12,-,3_5_2,5_3_2,00:00
+5361,80,ScoPr,2473870,Dundee,Celtic,2017-10-14,14:00:00,Good,Cloud,14,-,4_2_3_1,3_5_1_1,00:00
+5362,81,ScoPr,2473872,Aberdeen,Hibernian,2017-10-14,14:00:00,Good,Cloud,13,-,4_2_3_1,4_1_4_1,00:00
+5363,82,ScoPr,2473872,Aberdeen,Hibernian,2017-10-14,14:00:00,Good,Cloud,13,-,4_2_3_1,4_2_3_1,74:55
+5364,83,ScoPr,2473873,Kilmarnock,Partick Thistle,2017-10-14,14:00:00,Good,Cloud,14,-,4_2_3_1,3_5_2,00:00
+5365,84,ScoPr,2473874,Hearts,Ross County,2017-10-14,14:00:00,Good,Clear,10,Cold,4_4_2,4_4_2,00:00
+5366,85,ScoPr,2473879,Dundee,Partick Thistle,2017-10-21,14:00:00,Good,Cloud,13,-,4_1_4_1,3_4_1_2,00:00
+5367,86,ScoPr,2473879,Dundee,Partick Thistle,2017-10-21,14:00:00,Good,Cloud,13,-,3_4_1_2,3_4_1_2,45:00
+5368,87,ScoPr,2473876,St. Johnstone,Hearts,2017-10-21,14:00:00,Excellent,"Cloud, Sun, Wind",13,Cold,4_4_2,4_4_2,00:00
+5369,88,ScoPr,2473881,Hamilton Academical,Ross County,2017-10-21,14:00:00,Excellent,"Cloud, Sun, Wind",12,Cold,4_4_2,3_5_2,00:00
+5370,89,ScoPr,2473887,Ross County,St. Johnstone,2017-10-24,18:45:00,Excellent,Cloud,11,Cold,4_4_2,4_5_1,00:00
+5371,90,ScoPr,2473885,Hearts,Hibernian,2017-10-24,18:45:00,Good,Cloud,10,-,4_5_1,4_5_1,00:00
+5372,91,ScoPr,2473885,Hearts,Hibernian,2017-10-24,18:45:00,Good,Cloud,10,-,4_5_1,4_4_2,56:47
+5373,92,ScoPr,2473884,Partick Thistle,Hamilton Academical,2017-10-24,18:45:00,"Artificial, Good","Cloud, Light Rain",11,-,3_4_1_2,3_5_2,00:00
+5374,93,ScoPr,2473882,Celtic,Aberdeen,2017-10-25,18:45:00,Good,Cloud,10,-,4_2_3_1,4_2_3_1,00:00
+5375,94,ScoPr,2473886,Kilmarnock,Rangers,2017-10-25,18:45:00,Excellent,Cloud,10,Cold,4_1_4_1,4_4_1_1,00:00
+5376,95,ScoPr,2473886,Kilmarnock,Rangers,2017-10-25,18:45:00,Excellent,Cloud,10,Cold,4_4_2,4_4_1_1,21:39
+5377,96,ScoPr,2473883,Motherwell,Dundee,2017-10-25,18:45:00,Good,Cloud,8,-,3_4_2_1,3_5_2,00:00
+5378,97,ScoPr,2473891,Rangers,Hearts,2017-10-28,11:30:00,Excellent,"Cloud, Sun",14,Warm,4_3_1_2,4_3_3,00:00
+5379,98,ScoPr,2473891,Rangers,Hearts,2017-10-28,11:30:00,Excellent,"Cloud, Sun",14,Warm,4_2_2_2,4_3_3,69:00
+5380,99,ScoPr,2473892,Hibernian,Motherwell,2017-10-28,14:00:00,Good,"Cloud, Wind",13,-,3_5_2,4_3_1_2,00:00
+5381,100,ScoPr,2473888,Ross County,Aberdeen,2017-10-28,14:00:00,Good,"Cloud, Wind",14,-,4_2_3_1,4_1_4_1,00:00
+5382,101,ScoPr,2473888,Ross County,Aberdeen,2017-10-28,14:00:00,Good,"Cloud, Wind",14,-,4_2_3_1,4_4_2,74:46
+5383,102,ScoPr,2473893,St. Johnstone,Partick Thistle,2017-10-28,14:00:00,Good,Cloud,13,-,3_4_1_2,4_1_4_1,00:00
+5384,103,ScoPr,2473889,Kilmarnock,Celtic,2017-10-28,14:00:00,Good,Clear,14,-,4_2_3_1,5_4_1,00:00
+5385,104,ScoPr,2473889,Kilmarnock,Celtic,2017-10-28,14:00:00,Good,Clear,14,-,4_4_2,5_4_1,71:17
+5386,105,ScoPr,2473890,Hamilton Academical,Dundee,2017-10-28,14:00:00,Good,Cloud,13,-,3_4_1_2,3_4_1_2,00:00
+5387,106,ScoPr,2473890,Hamilton Academical,Dundee,2017-10-28,14:00:00,Good,Cloud,13,-,4_3_3,3_4_1_2,67:45
+5388,107,ScoPr,2473890,Hamilton Academical,Dundee,2017-10-28,14:00:00,Good,Cloud,13,-,4_3_3,3_5_2,74:15
+5389,108,ScoPr,2473877,Hibernian,Kilmarnock,2017-10-31,19:45:00,"Artificial, Average","Cloud, Light Rain",11,Cold,4_4_1_1,4_3_3,00:00
+5390,109,ScoPr,2473899,Celtic,St. Johnstone,2017-11-04,12:30:00,Excellent,"Clear, Sun",8,Cold,4_5_1,4_2_3_1,00:00
+5391,110,ScoPr,2473895,Dundee,Hibernian,2017-11-04,15:00:00,Good,Sun,7,Cold,4_5_1,4_2_3_1,00:00
+5392,111,ScoPr,2473895,Dundee,Hibernian,2017-11-04,15:00:00,Good,Sun,7,Cold,4_4_2,4_2_3_1,34:30
+5393,112,ScoPr,2473894,Aberdeen,Hamilton Academical,2017-11-04,15:00:00,"Artificial, Good",Cloud,7,Cold,4_2_3_1,4_4_2,00:00
+5394,113,ScoPr,2473894,Aberdeen,Hamilton Academical,2017-11-04,15:00:00,"Artificial, Good","Cloud, Sun",7,Cold,4_2_3_1,4_4_2,00:00
+5395,114,ScoPr,2473897,Partick Thistle,Rangers,2017-11-04,15:00:00,Excellent,"Cloud, Light Rain",6,Cold,4_4_2,3_5_2,00:00
+5396,115,ScoPr,2473898,Motherwell,Ross County,2017-11-04,15:00:00,Excellent,Cloud,8,Cold,4_4_2,3_5_2,00:00
+5397,116,ScoPr,2473829,Kilmarnock,Hearts,2017-11-05,15:00:00,Good,Cloud,7,Cold,4_4_2,4_4_1_1,00:00
+5398,117,ScoPr,2473905,Celtic,Ross County,2017-11-18,12:30:00,Good,"Clear, Sun",6,Cold,4_1_4_1,4_2_3_1,00:00
+5399,118,ScoPr,2473905,Celtic,Ross County,2017-11-18,12:30:00,Good,"Clear, Sun",6,Cold,4_1_4_1,4_4_2,64:54
+5400,119,ScoPr,2473905,Celtic,Ross County,2017-11-18,12:30:00,Good,"Clear, Sun",6,Cold,4_4_2,4_2_3_1,81:42
+5401,120,ScoPr,2473901,Kilmarnock,Dundee,2017-11-18,15:00:00,Good,"Cloud, Light Wind",7,Cold,3_5_2,4_4_2,00:00
+5402,121,ScoPr,2473902,St. Johnstone,Hibernian,2017-11-18,15:00:00,Good,"Clear, Light Wind",3,Cold,4_4_1_1,4_4_2,00:00
+5403,122,ScoPr,2473902,St. Johnstone,Hibernian,2017-11-18,15:00:00,Good,"Clear, Light Wind",3,Cold,4_4_2,4_4_2,80:14
+5404,123,ScoPr,2473904,Hamilton Academical,Rangers,2017-11-18,15:00:00,Good,"Cloud, Light Rain",7,Cold,4_4_2,4_2_3_1,00:00
+5405,124,ScoPr,2473900,Motherwell,Aberdeen,2017-11-18,15:00:00,Good,"Cloud, Wind",6,-,4_4_1_1,4_1_2_1_2,00:00
+5406,125,ScoPr,2473900,Motherwell,Aberdeen,2017-11-18,15:00:00,Good,"Cloud, Wind",6,-,4_4_2,4_1_2_1_2,45:00
+5407,126,ScoPr,2473900,Motherwell,Aberdeen,2017-11-18,15:00:00,Good,"Cloud, Wind",6,-,4_4_2,4_5_1,55:01
+5408,127,ScoPr,2473858,Partick Thistle,Hearts,2017-11-19,15:00:00,Good,Cloud,8,-,4_4_2,4_4_1_1,00:00
+5409,128,ScoPr,2473907,Rangers,Dundee,2017-11-24,19:45:00,Good,Clear,1,Freezing,3_5_2,4_4_2,00:00
+5410,129,ScoPr,2473909,Ross County,Hearts,2017-11-25,15:00:00,"Good, Wet","Cloud, Light Wind",3,Cold,4_4_2,4_5_1,00:00
+5411,130,ScoPr,2473908,Hibernian,Hamilton Academical,2017-11-25,15:00:00,Artificial,"Cloud, Sun",3,Freezing,3_5_1_1,4_4_2,00:00
+5412,131,ScoPr,2473910,Aberdeen,Kilmarnock,2017-11-26,12:30:00,"Artificial, Good","Cloud, Rain",7,Cold,4_4_1_1,4_2_3_1,00:00
+5413,132,ScoPr,2473880,Aberdeen,Rangers,2017-11-29,19:45:00,Excellent,Clear,0,Freezing,4_3_1_2,4_3_3,00:00
+5414,133,ScoPr,2473880,Aberdeen,Rangers,2017-11-29,19:45:00,Excellent,Clear,0,Freezing,4_3_1_2,4_4_2,42:24
+5415,134,ScoPr,2473880,Aberdeen,Rangers,2017-11-29,19:45:00,Excellent,Clear,0,Freezing,4_2_3_1,4_4_2,67:34
+5416,135,ScoPr,2473878,Celtic,Motherwell,2017-11-29,19:45:00,Good,Cloud,1,Freezing,3_4_1_2,4_2_3_1,00:00
+5417,136,ScoPr,2473916,Dundee,Ross County,2017-12-02,15:00:00,Good,"Cloud, Wind",8,-,4_4_1_1,4_2_3_1,00:00
+5418,137,ScoPr,2473916,Dundee,Ross County,2017-12-02,15:00:00,Good,"Cloud, Wind",8,-,4_4_1_1,5_4_1,79:03
+5419,138,ScoPr,2473917,Kilmarnock,St. Johnstone,2017-12-02,15:00:00,Good,Clear,7,Cold,4_4_2,4_4_2,00:00
+5420,139,ScoPr,2473917,Kilmarnock,St. Johnstone,2017-12-02,15:00:00,Good,Rain,7,Cold,4_4_2,4_4_2,00:00
+5421,140,ScoPr,2473915,Hibernian,Partick Thistle,2017-12-02,15:00:00,Average,Cloud,8,-,4_2_3_1,3_5_2,00:00
+5422,141,ScoPr,2473913,Motherwell,Celtic,2017-12-02,15:00:00,Excellent,Cloud,8,Cold,4_2_3_1,4_4_2,00:00
+5423,142,ScoPr,2473914,Hamilton Academical,Hearts,2017-12-02,15:15:00,"Good, Wet",Cloud,7,Cold,4_3_3,3_4_1_2,00:00
+5424,143,ScoPr,2473912,Rangers,Aberdeen,2017-12-03,12:30:00,Good,Cloud,5,Cold,4_2_3_1,4_1_2_1_2,00:00
+5425,144,ScoPr,2473918,Aberdeen,Dundee,2017-12-08,19:45:00,Good,Clear,1,-,4_5_1,4_4_1_1,00:00
+5426,145,ScoPr,2473919,St. Johnstone,Hamilton Academical,2017-12-09,15:00:00,"Average, Uneven","Light Wind, Sun",2,Freezing,3_5_2,4_4_1_1,00:00
+5427,146,ScoPr,2473842,Motherwell,Hearts,2017-12-09,15:00:00,Good,"Clear, Light Wind, Sun",-1,Freezing,4_1_4_1,3_5_2,00:00
+5428,147,ScoPr,2473921,Partick Thistle,Kilmarnock,2017-12-09,15:00:00,"Artificial, Good","Cloud, Sun",3,Freezing,4_3_1_2,4_2_3_1,00:00
+5429,148,ScoPr,2473921,Partick Thistle,Kilmarnock,2017-12-09,15:00:00,"Artificial, Good","Cloud, Rain",3,Freezing,4_3_1_2,4_2_3_1,00:00
+5430,149,ScoPr,2473921,Partick Thistle,Kilmarnock,2017-12-09,15:00:00,"Artificial, Good",Cloud,3,Freezing,4_3_1_2,4_2_3_1,00:00
+5431,150,ScoPr,2473923,Ross County,Rangers,2017-12-09,15:00:00,Good,Cloud,2,Freezing,4_1_2_1_2,4_1_4_1,00:00
+5432,151,ScoPr,2473920,Celtic,Hibernian,2017-12-10,12:30:00,Good,Sun,0,Freezing,4_5_1,4_2_3_1,00:00
+5433,152,ScoPr,2473925,Dundee,Hearts,2017-12-12,19:45:00,Good,Cloud,-1,Freezing,4_4_2,3_4_2_1,00:00
+5434,153,ScoPr,2473928,Kilmarnock,Ross County,2017-12-12,19:45:00,Good,Cloud,2,-,4_2_3_1,4_4_2,00:00
+5435,154,ScoPr,2473927,Motherwell,Partick Thistle,2017-12-13,19:45:00,"Good, Wet","Cloud, Light Rain",1,Cold,3_5_2,3_5_2,00:00
+5436,155,ScoPr,2473927,Motherwell,Partick Thistle,2017-12-13,19:45:00,"Good, Wet","Cloud, Light Rain",1,Cold,3_5_2,4_4_2,45:00
+5437,156,ScoPr,2473926,Rangers,Hibernian,2017-12-13,19:45:00,"Good, Soft","Cloud, Light Rain",1,Freezing,3_4_2_1,4_3_3,00:00
+5438,157,ScoPr,2473926,Rangers,Hibernian,2017-12-13,19:45:00,"Good, Soft","Cloud, Light Rain",1,Freezing,4_4_2,4_3_3,49:58
+5439,158,ScoPr,2473926,Rangers,Hibernian,2017-12-13,19:45:00,"Good, Soft","Cloud, Light Rain",1,Freezing,4_4_2,5_4_1,71:53
+5440,159,ScoPr,2473929,Aberdeen,St. Johnstone,2017-12-13,19:45:00,Good,Cloud,1,Freezing,4_4_1_1,4_2_3_1,00:00
+5441,160,ScoPr,2473924,Hamilton Academical,Celtic,2017-12-13,19:45:00,Good,"Cloud, Light Rain",1,-,4_2_3_1,3_5_2,00:00
+5442,161,ScoPr,2473924,Hamilton Academical,Celtic,2017-12-13,19:45:00,Good,"Cloud, Light Rain",1,-,3_5_2,3_5_2,49:20
+5443,162,ScoPr,2473930,Hibernian,Aberdeen,2017-12-16,12:30:00,Good,"Light Wind, Sun",3,Freezing,4_2_3_1,3_5_1_1,00:00
+5444,163,ScoPr,2473931,Partick Thistle,Dundee,2017-12-16,15:00:00,Excellent,Cloud,3,Cold,3_4_3,3_5_2,00:00
+5445,164,ScoPr,2473935,St. Johnstone,Rangers,2017-12-16,15:00:00,Excellent,Cloud,1,Cold,4_1_4_1,4_1_4_1,00:00
+5446,165,ScoPr,2473935,St. Johnstone,Rangers,2017-12-16,15:00:00,Excellent,Cloud,1,Cold,4_4_2,4_1_4_1,75:13
+5447,166,ScoPr,2473932,Ross County,Hamilton Academical,2017-12-16,15:00:00,"Artificial, Good",Cloud,0,Freezing,3_5_2,4_1_4_1,00:00
+5448,167,ScoPr,2473934,Motherwell,Kilmarnock,2017-12-16,15:00:00,Artificial,Cloud,0,Freezing,4_3_1_2,3_4_1_2,00:00
+5449,168,ScoPr,2473933,Celtic,Hearts,2017-12-17,12:30:00,Good,"Clear, Light Wind",10,Cold,4_2_3_1,4_2_3_1,00:00
+5450,169,ScoPr,2473933,Celtic,Hearts,2017-12-17,12:30:00,Good,"Clear, Light Wind",10,Cold,4_2_3_1,3_4_3,45:00
+5451,170,ScoPr,2473906,Partick Thistle,Celtic,2017-12-20,19:45:00,Excellent,Cloud,6,Cold,4_2_3_1,4_5_1,00:00
+5452,171,ScoPr,2473938,Rangers,Kilmarnock,2017-12-23,12:30:00,Artificial,"Clear, Strong Wind, Sun",13,-,4_3_3,4_4_2,00:00
+5453,172,ScoPr,2473936,Aberdeen,Celtic,2017-12-23,15:00:00,Excellent,"Cloud, Wind",12,Cold,4_2_3_1,4_1_4_1,00:00
+5454,173,ScoPr,2473939,Dundee,Motherwell,2017-12-23,15:00:00,Good,"Cloud, Strong Wind",12,-,3_5_1_1,4_4_1_1,00:00
+5455,174,ScoPr,2473941,Hearts,St. Johnstone,2017-12-23,15:00:00,Good,Cloud,11,Cold,4_4_1_1,4_2_3_1,00:00
+5456,175,ScoPr,2473937,Ross County,Hibernian,2017-12-23,15:00:00,Average,"Cloud, Sun",12,-,4_4_2,4_3_3,00:00
+5457,176,ScoPr,2473940,Hamilton Academical,Partick Thistle,2017-12-23,15:00:00,Good,"Cloud, Wind",12,-,3_4_1_2,3_4_1_2,00:00
+5458,177,ScoPr,2473943,Celtic,Dundee,2017-12-26,12:30:00,Good,Sun,4,Cold,4_4_2,4_2_3_1,00:00
+5459,178,ScoPr,2473942,Partick Thistle,Aberdeen,2017-12-27,19:45:00,"Good, Soft","Cloud, Snow",1,Freezing,4_2_3_1,4_5_1,00:00
+5460,179,ScoPr,2473942,Partick Thistle,Aberdeen,2017-12-27,19:45:00,"Good, Soft",Cloud,1,Freezing,4_2_3_1,4_5_1,00:00
+5461,180,ScoPr,2473945,Hibernian,Hearts,2017-12-27,19:45:00,"Average, Soft, Wet",Clear,-2,Freezing,4_2_3_1,4_3_1_2,00:00
+5462,181,ScoPr,2473945,Hibernian,Hearts,2017-12-27,19:45:00,"Average, Soft, Wet",Clear,-2,Freezing,4_4_2,4_3_1_2,69:03
+5463,182,ScoPr,2473946,Motherwell,Rangers,2017-12-27,19:45:00,Excellent,Clear,0,Freezing,4_3_1_2,3_5_2,00:00
+5464,183,ScoPr,2473947,St. Johnstone,Ross County,2017-12-27,19:45:00,Good,"Cloud, Light Snow",2,-,4_4_1_1,4_4_2,00:00
+5465,184,ScoPr,2473949,Rangers,Celtic,2017-12-30,12:00:00,Excellent,"Cloud, Light Rain",3,Freezing,4_1_4_1,4_2_3_1,00:00
+5466,185,ScoPr,2473948,Hearts,Aberdeen,2017-12-30,15:00:00,"Good, Wet","Cloud, Light Rain",1,Cold,4_4_2,4_1_4_1,00:00
+5467,186,ScoPr,2473950,Kilmarnock,Hibernian,2017-12-30,15:00:00,Good,"Cloud, Sun",1,Freezing,4_3_3,4_3_3,00:00
+5468,187,ScoPr,2473951,Hamilton Academical,Motherwell,2017-12-30,15:00:00,"Good, Wet",Rain,5,Cold,4_4_2,3_5_2,00:00
+5469,188,ScoPr,2473951,Hamilton Academical,Motherwell,2017-12-30,15:00:00,"Good, Wet","Light Rain, Strong Wind",5,Cold,4_4_2,3_5_2,00:00
+5470,189,ScoPr,2473952,Ross County,Partick Thistle,2017-12-30,15:00:00,Good,"Cloud, Light Rain",4,Freezing,3_4_1_2,3_5_2,00:00
+5471,190,ScoPr,2473953,Dundee,St. Johnstone,2017-12-30,15:00:00,Average,"Cloud, Sun",3,Cold,4_4_1_1,4_4_2,00:00
+5472,191,ScoPr,2473953,Dundee,St. Johnstone,2017-12-30,15:00:00,Average,"Cloud, Sun",3,Cold,4_4_1_1,4_5_1,92:33
+5473,192,ScoPr,2473958,Celtic,Partick Thistle,2018-01-23,19:45:00,Good,Cloud,2,Freezing,4_2_3_1,4_2_3_1,00:00
+5474,193,ScoPr,2473957,Ross County,Motherwell,2018-01-24,19:45:00,Average,"Cloud, Light Rain",6,-,3_5_2,4_4_2,00:00
+5475,194,ScoPr,2473957,Ross County,Motherwell,2018-01-24,19:45:00,Average,"Cloud, Light Rain",6,-,3_5_2,4_3_3,06:22
+5476,195,ScoPr,2473955,Hearts,Hamilton Academical,2018-01-24,19:45:00,"Artificial, Good",Cloud,6,Cold,3_5_2,4_5_1,00:00
+5477,196,ScoPr,2473959,Aberdeen,Rangers,2018-01-24,19:45:00,Good,"Cloud, Rain",5,Cold,4_2_3_1,4_2_3_1,00:00
+5478,197,ScoPr,2473954,Hibernian,Dundee,2018-01-24,19:45:00,Good,"Cloud, Light Rain, Wind",5,Cold,3_5_2,4_5_1,00:00
+5479,198,ScoPr,2473963,Motherwell,Hearts,2018-01-27,15:00:00,"Excellent, Good","Clear, Cloud, Sun",11,-,3_4_2_1,3_5_2,00:00
+5480,199,ScoPr,2473963,Motherwell,Hearts,2018-01-27,15:00:00,"Excellent, Good",Wind,11,-,3_4_2_1,3_5_2,00:00
+5481,200,ScoPr,2473962,Dundee,Hamilton Academical,2018-01-27,15:00:00,Poor,"Light Rain, Wind",7,-,3_5_2,4_4_2,00:00
+5482,201,ScoPr,2473961,Hibernian,Celtic,2018-01-27,15:00:00,"Good, Soft",Cloud,8,Cold,4_2_3_1,4_3_1_2,00:00
+5483,202,ScoPr,2473960,Kilmarnock,Aberdeen,2018-01-27,15:00:00,"Average, Soft","Cloud, Light Rain, Sun",8,Cold,4_2_3_1,4_3_3,00:00
+5484,203,ScoPr,2473965,Partick Thistle,St. Johnstone,2018-01-27,15:00:00,Average,Cloud,2,Freezing,4_4_2,4_2_3_1,00:00
+5485,204,ScoPr,2473964,Rangers,Ross County,2018-01-28,14:00:00,Average,"Cloud, Rain",1,Freezing,4_1_4_1,4_2_3_1,00:00
+5486,205,ScoPr,2473966,Hearts,Celtic,2018-01-30,19:45:00,"Good, Soft","Cloud, Light Rain",6,Cold,3_5_2,4_5_1,00:00
+5487,206,ScoPr,2473967,Motherwell,Hibernian,2018-01-31,19:45:00,Good,"Cloud, Rain",2,Freezing,4_5_1,3_5_2,00:00
+5488,207,ScoPr,2473970,Aberdeen,Ross County,2018-01-31,19:45:00,Average,"Cloud, Rain, Wind",3,Cold,4_4_2,4_2_3_1,00:00
+5489,208,ScoPr,2473975,Celtic,Kilmarnock,2018-02-03,12:30:00,"Artificial, Poor","Cloud, Sun",6,Cold,4_3_3,4_3_3,00:00
+5490,209,ScoPr,2473972,Hamilton Academical,Aberdeen,2018-02-03,15:00:00,Average,"Cloud, Wind",2,Freezing,4_2_3_1,3_5_1_1,00:00
+5491,210,ScoPr,2473974,St. Johnstone,Hearts,2018-02-03,15:00:00,"Good, Wet",Light Rain,3,Cold,4_1_4_1,3_5_2,00:00
+5492,211,ScoPr,2473974,St. Johnstone,Hearts,2018-02-03,15:00:00,"Good, Wet",Cloud,3,Cold,4_1_4_1,3_5_2,00:00
+5493,212,ScoPr,2473976,Partick Thistle,Motherwell,2018-02-03,15:00:00,Average,Clear,5,-,3_4_1_2,4_2_3_1,00:00
+5494,213,ScoPr,2473977,Hibernian,Rangers,2018-02-03,15:00:00,Average,Cloud,6,Cold,4_2_3_1,4_5_1,00:00
+5495,214,ScoPr,2473973,Ross County,Dundee,2018-02-03,15:00:00,Good,Cloud,3,Cold,4_4_2,4_4_2,00:00
+5496,215,ScoPr,2473969,Rangers,Partick Thistle,2018-02-06,19:45:00,Average,Cloud,0,Freezing,4_2_3_1,4_2_3_1,00:00
+5497,216,ScoPr,2473911,St. Johnstone,Motherwell,2018-02-06,19:45:00,Average,Cloud,1,Freezing,3_5_2,5_3_2,00:00
+5498,217,ScoPr,2473968,Dundee,Kilmarnock,2018-02-13,19:45:00,"Artificial, Good",Cloud,1,Freezing,4_4_2,3_5_2,00:00
+5499,218,ScoPr,2473968,Dundee,Kilmarnock,2018-02-13,19:45:00,"Artificial, Good",Cloud,1,Freezing,4_4_2,4_4_2,78:14
+5500,219,ScoPr,2473983,Hearts,Ross County,2018-02-17,12:30:00,Average,"Cloud, Sun",4,Cold,4_4_2,4_1_4_1,00:00
+5501,220,ScoPr,2473982,Dundee,Partick Thistle,2018-02-17,15:00:00,"Average, Soft","Cloud, Sun",6,Cold,4_2_3_1,4_4_2,00:00
+5502,221,ScoPr,2473980,Aberdeen,Hibernian,2018-02-17,15:00:00,Good,"Cloud, Sun",5,Cold,4_4_2,4_2_3_1,00:00
+5503,222,ScoPr,2473981,Kilmarnock,Motherwell,2018-02-17,15:00:00,Good,Sun,10,-,3_4_1_2,4_4_2,00:00
+5504,223,ScoPr,2473979,Rangers,Hamilton Academical,2018-02-18,14:15:00,"Artificial, Good","Cloud, Light Rain",6,Cold,3_5_1_1,4_4_1_1,00:00
+5505,224,ScoPr,2473979,Rangers,Hamilton Academical,2018-02-18,14:15:00,"Artificial, Good","Cloud, Light Rain",6,Cold,4_4_2,4_4_1_1,68:38
+5506,225,ScoPr,2473978,St. Johnstone,Celtic,2018-02-18,15:00:00,Excellent,Cloud,5,Cold,4_2_3_1,3_5_2,00:00
+5507,226,ScoPr,2473987,Hibernian,Kilmarnock,2018-02-24,12:30:00,Average,Clear,6,Cold,4_3_3,3_5_2,00:00
+5508,227,ScoPr,2473986,Partick Thistle,Hamilton Academical,2018-02-24,15:00:00,"Artificial, Average","Cloud, Sun",-1,Freezing,4_4_2,4_5_1,00:00
+5509,228,ScoPr,2473986,Partick Thistle,Hamilton Academical,2018-02-24,15:00:00,"Artificial, Average","Cloud, Sun",-1,Freezing,4_4_2,4_4_2,31:08
+5510,229,ScoPr,2473989,Ross County,St. Johnstone,2018-02-24,15:00:00,Good,"Sun, Wind",6,-,4_4_2,4_1_4_1,00:00
+5511,230,ScoPr,2473989,Ross County,St. Johnstone,2018-02-24,15:00:00,Good,"Sun, Wind",6,-,4_4_2,4_4_2,64:39
+5512,231,ScoPr,2473985,Motherwell,Dundee,2018-02-24,15:00:00,Good,"Clear, Sun, Wind",6,Cold,3_4_1_2,3_4_1_2,00:00
+5513,232,ScoPr,2473988,Hearts,Rangers,2018-02-24,15:00:00,"Good, Soft, Wet",Cloud,6,Cold,4_2_3_1,3_5_1_1,00:00
+5514,233,ScoPr,2473988,Hearts,Rangers,2018-02-24,15:00:00,"Good, Soft, Wet",Cloud,6,Cold,4_2_3_1,3_4_2_1,72:34
+5515,234,ScoPr,2473984,Celtic,Aberdeen,2018-02-25,13:30:00,Poor,"Cloud, Wind",4,Cold,4_2_3_1,3_4_2_1,00:00
+5516,235,ScoPr,2473984,Celtic,Aberdeen,2018-02-25,13:30:00,Poor,"Cloud, Wind",4,Cold,4_4_2,3_4_2_1,82:03
+5517,236,ScoPr,2473984,Celtic,Aberdeen,2018-02-25,13:30:00,Poor,"Cloud, Wind",4,Cold,4_3_3,3_4_2_1,90:08
+5518,237,ScoPr,2473991,Kilmarnock,Hearts,2018-02-27,19:45:00,Average,"Cloud, Snow",-3,Freezing,4_4_1_1,4_3_3,00:00
+5519,238,ScoPr,2473995,Rangers,St. Johnstone,2018-02-27,19:45:00,Average,"Cloud, Light Snow",-3,Freezing,4_5_1,4_2_3_1,00:00
+5520,239,ScoPr,2473956,St. Johnstone,Kilmarnock,2018-03-07,19:45:00,"Artificial, Average","Cloud, Rain",3,Freezing,4_4_2,4_4_1_1,00:00
+5521,240,ScoPr,2473998,Hearts,Hibernian,2018-03-09,19:45:00,Good,Clear,1,-,3_5_2,4_3_2_1,00:00
+5522,241,ScoPr,2474000,Aberdeen,Partick Thistle,2018-03-10,15:00:00,"Poor, Wet","Cloud, Light Rain",5,Cold,4_4_2,4_2_3_1,00:00
+5523,242,ScoPr,2473999,Ross County,Kilmarnock,2018-03-10,15:00:00,"Artificial, Wet","Cloud, Light Rain, Strong Wind",5,Cold,4_4_2,4_4_2,00:00
+5524,243,ScoPr,2473999,Ross County,Kilmarnock,2018-03-10,15:00:00,"Artificial, Wet","Cloud, Light Rain, Strong Wind",5,Cold,4_2_3_1,4_4_2,63:37
+5525,244,ScoPr,2473996,St. Johnstone,Dundee,2018-03-10,15:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",5,-,4_4_2,4_4_2,00:00
+5526,245,ScoPr,2473996,St. Johnstone,Dundee,2018-03-10,15:00:00,"Good, Wet","Cloud, Light Rain, Light Wind",5,-,4_3_3,4_4_2,45:00
+5527,246,ScoPr,2473997,Motherwell,Hamilton Academical,2018-03-10,15:00:00,"Artificial, Excellent, Wet","Cloud, Light Rain, Light Wind",5,-,3_5_2,3_5_1_1,00:00
+5528,247,ScoPr,2473997,Motherwell,Hamilton Academical,2018-03-10,15:00:00,"Artificial, Excellent, Wet","Cloud, Light Rain, Light Wind",5,-,3_5_2,3_4_3,75:30
+5529,248,ScoPr,2474001,Celtic,Rangers,2018-03-11,12:00:00,Good,Cloud,4,-,4_2_3_1,4_2_3_1,00:00

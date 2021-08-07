@@ -1,0 +1,903 @@
+True,index,competition,gsm_id,awayteam_team2,hometeam_team1,kickoffDate,kickoffTime,pitchType,weatherType,tempCelcius,tempType,formation_team1,formation_team2,formation_time
+3350,534,GerBL2,2255212,Hannover 96,Kaiserslautern,2016-08-05,18:30:00,Good,"Clear, Sun",22,Warm,4_2_2_2,4_2_3_1,80:29
+3351,535,GerBL2,2255212,Hannover 96,Kaiserslautern,2016-08-05,18:30:00,Good,"Clear, Sun",22,Warm,4_2_3_1,4_2_3_1,58:13
+3349,533,GerBL2,2255214,Union Berlin,Bochum,2016-08-06,11:00:00,Excellent,Cloud,21,Warm,4_2_3_1,4_3_3,79:30
+3346,530,GerBL2,2255220,Nurnberg,Dynamo Dresden,2016-08-06,13:30:00,Excellent,"Clear, Sun",20,Warm,4_3_3,4_1_4_1,86:28
+3347,531,GerBL2,2255219,Fortuna Dusseldorf,Sandhausen,2016-08-06,13:30:00,Excellent,"Cloud, Sun",23,Hot,4_1_4_1,4_2_3_1,72:49
+3348,532,GerBL2,2255219,Fortuna Dusseldorf,Sandhausen,2016-08-06,13:30:00,Excellent,"Cloud, Sun",23,Hot,4_4_2,4_2_3_1,59:50
+3345,529,GerBL2,2255216,1860 Munchen,Greuther Furth,2016-08-07,11:30:00,Average,Cloud,22,-,4_2_3_1,4_2_3_1,75:22
+3340,524,GerBL2,2255217,Erzgebirge Aue,Heidenheim,2016-08-07,13:30:00,Excellent,"Clear, Sun",23,Hot,4_2_3_1,4_2_2_2,77:19
+3341,525,GerBL2,2255217,Erzgebirge Aue,Heidenheim,2016-08-07,13:30:00,Excellent,"Clear, Sun",23,Hot,4_2_3_1,4_2_3_1,70:26
+3342,526,GerBL2,2255217,Erzgebirge Aue,Heidenheim,2016-08-07,13:30:00,Excellent,"Clear, Sun",23,Hot,4_4_2,4_2_3_1,56:35
+3343,527,GerBL2,2255215,Wurzburger Kickers,Eintracht Braunschweig,2016-08-07,13:30:00,"Dry, Excellent","Clear, Sun",20,Warm,4_4_2,4_2_3_1,84:24
+3344,528,GerBL2,2255218,Karlsruher SC,Arminia Bielefeld,2016-08-07,13:30:00,Good,Sun,23,Warm,4_4_2,4_2_3_1,88:40
+3337,521,GerBL2,2255213,St. Pauli,Stuttgart,2016-08-08,18:15:00,Excellent,"Cloud, Sun",24,Hot,4_2_3_1,4_2_3_1,69:18
+3338,522,GerBL2,2255213,St. Pauli,Stuttgart,2016-08-08,18:15:00,Excellent,"Cloud, Sun",24,Hot,4_2_3_1,4_4_2,67:12
+3339,523,GerBL2,2255213,St. Pauli,Stuttgart,2016-08-08,18:15:00,Excellent,"Cloud, Sun",24,Hot,4_2_3_1,5_4_1,78:23
+3333,517,GerBL2,2255222,Heidenheim,Nurnberg,2016-08-12,16:30:00,Average,Cloud,17,-,4_4_2,4_3_3,86:46
+3334,518,GerBL2,2255222,Heidenheim,Nurnberg,2016-08-12,16:30:00,Average,Cloud,17,-,4_1_4_1,4_3_3,02:16
+3335,519,GerBL2,2255228,Sandhausen,Erzgebirge Aue,2016-08-12,16:30:00,Average,Cloud,18,-,4_2_3_1,4_4_2,82:48
+3336,520,GerBL2,2255228,Sandhausen,Erzgebirge Aue,2016-08-12,16:30:00,Average,Light Rain,18,-,4_2_3_1,4_4_2,82:48
+3330,514,GerBL2,2255226,Stuttgart,Fortuna Dusseldorf,2016-08-12,18:30:00,Excellent,Clear,22,Warm,4_1_4_1,4_4_2,86:30
+3331,515,GerBL2,2255226,Stuttgart,Fortuna Dusseldorf,2016-08-12,18:30:00,Excellent,Clear,22,Warm,4_1_4_1,4_1_4_1,00:00
+3332,516,GerBL2,2255226,Stuttgart,Fortuna Dusseldorf,2016-08-12,18:30:00,Excellent,Clear,22,Warm,4_1_4_1,3_4_3,78:45
+3328,512,GerBL2,2255225,Bochum,Karlsruher SC,2016-08-13,11:00:00,Good,"Clear, Sun",26,Hot,4_4_2,4_1_4_1,81:28
+3329,513,GerBL2,2255225,Bochum,Karlsruher SC,2016-08-13,11:00:00,Good,"Clear, Sun",26,Hot,4_2_3_1,4_1_4_1,00:00
+3327,511,GerBL2,2255223,Eintracht Braunschweig,St. Pauli,2016-08-13,13:30:00,Excellent,Cloud,15,-,4_4_2,4_4_2,75:27
+3326,510,GerBL2,2255221,Greuther Furth,Hannover 96,2016-08-14,11:30:00,"Excellent, Wet","Cloud, Sun",18,Warm,4_2_3_1,4_2_3_1,74:30
+3322,506,GerBL2,2255229,Kaiserslautern,Wurzburger Kickers,2016-08-14,13:30:00,Excellent,"Clear, Cloud, Sun",25,Warm,4_3_3,4_4_2,79:05
+3323,507,GerBL2,2255229,Kaiserslautern,Wurzburger Kickers,2016-08-14,13:30:00,Excellent,"Clear, Cloud, Sun",25,Warm,4_3_3,4_2_3_1,63:17
+3324,508,GerBL2,2255227,Arminia Bielefeld,1860 Munchen,2016-08-14,13:30:00,Good,"Clear, Sun",23,Warm,4_4_2,4_4_2,78:16
+3325,509,GerBL2,2255227,Arminia Bielefeld,1860 Munchen,2016-08-14,13:30:00,Good,"Clear, Sun",23,Warm,4_1_4_1,4_4_2,60:42
+3320,504,GerBL2,2255224,Dynamo Dresden,Union Berlin,2016-08-15,18:15:00,Good,Cloud,17,Warm,4_3_3,4_2_2_2,84:59
+3321,505,GerBL2,2255224,Dynamo Dresden,Union Berlin,2016-08-15,18:15:00,Good,Cloud,17,Warm,4_3_3,4_3_3,75:49
+3315,499,GerBL2,2255230,Hannover 96,Bochum,2016-08-26,16:30:00,Excellent,Sun,30,Hot,4_2_3_1,4_2_3_1,80:06
+3316,500,GerBL2,2255237,Stuttgart,Sandhausen,2016-08-26,16:30:00,"Excellent, Good",Sun,30,Hot,4_1_4_1,4_2_3_1,74:32
+3317,501,GerBL2,2255235,Wurzburger Kickers,Heidenheim,2016-08-26,16:30:00,Good,"Clear, Sun",28,Hot,4_1_2_1_2,4_4_2,71:33
+3318,502,GerBL2,2255235,Wurzburger Kickers,Heidenheim,2016-08-26,16:30:00,Good,"Clear, Sun",28,Hot,4_4_2,4_4_2,54:30
+3319,503,GerBL2,2255235,Wurzburger Kickers,Heidenheim,2016-08-26,16:30:00,Good,"Clear, Sun",28,Hot,4_1_2_1_2,4_2_3_1,82:51
+3312,496,GerBL2,2255233,Erzgebirge Aue,Greuther Furth,2016-08-27,11:00:00,Good,"Clear, Sun",30,Hot,4_2_3_1,4_2_3_1,88:06
+3313,497,GerBL2,2255231,1860 Munchen,Karlsruher SC,2016-08-27,11:00:00,Excellent,"Clear, Sun",35,Hot,4_4_1_1,4_1_4_1,79:31
+3314,498,GerBL2,2255231,1860 Munchen,Karlsruher SC,2016-08-27,11:00:00,Excellent,"Clear, Sun",35,Hot,4_2_3_1,4_1_4_1,00:00
+3307,491,GerBL2,2255232,Nurnberg,Eintracht Braunschweig,2016-08-28,11:30:00,Average,"Clear, Sun",30,-,4_4_2,4_4_2,82:10
+3308,492,GerBL2,2255238,St. Pauli,Dynamo Dresden,2016-08-28,11:30:00,Excellent,"Clear, Sun",31,Hot,4_3_3,4_4_2,70:50
+3309,493,GerBL2,2255238,St. Pauli,Dynamo Dresden,2016-08-28,11:30:00,Excellent,"Clear, Sun",31,Hot,4_3_3,4_2_3_1,39:59
+3310,494,GerBL2,2255236,Union Berlin,Arminia Bielefeld,2016-08-28,11:30:00,Excellent,"Clear, Sun",33,Hot,4_2_3_1,4_3_3,90:50
+3311,495,GerBL2,2255236,Union Berlin,Arminia Bielefeld,2016-08-28,11:30:00,Excellent,"Clear, Sun",33,Hot,4_4_2,4_3_3,60:53
+3306,490,GerBL2,2255234,Fortuna Dusseldorf,Kaiserslautern,2016-08-29,18:15:00,Excellent,Clear,28,-,4_2_3_1,4_1_4_1,82:25
+3299,483,GerBL2,2255246,Eintracht Braunschweig,Erzgebirge Aue,2016-09-09,16:30:00,Average,Sun,23,Warm,4_2_3_1,5_4_1,74:49
+3300,484,GerBL2,2255246,Eintracht Braunschweig,Erzgebirge Aue,2016-09-09,16:30:00,Average,Sun,23,Warm,4_2_3_1,4_1_4_1,61:38
+3301,485,GerBL2,2255246,Eintracht Braunschweig,Erzgebirge Aue,2016-09-09,16:30:00,Average,Sun,23,Warm,4_2_3_1,4_4_2,23:41
+3302,486,GerBL2,2255247,Bochum,Wurzburger Kickers,2016-09-09,16:30:00,Good,"Clear, Sun",25,Warm,4_3_3,4_2_3_1,82:00
+3303,487,GerBL2,2255239,Heidenheim,Stuttgart,2016-09-09,16:30:00,Excellent,"Clear, Sun",26,Hot,4_3_3,4_4_2,80:03
+3304,488,GerBL2,2255239,Heidenheim,Stuttgart,2016-09-09,16:30:00,Excellent,"Clear, Sun",26,Hot,4_1_4_1,4_4_2,74:24
+3305,489,GerBL2,2255239,Heidenheim,Stuttgart,2016-09-09,16:30:00,Excellent,"Clear, Sun",26,Hot,4_3_3,5_3_2,85:03
+3296,480,GerBL2,2255242,Arminia Bielefeld,St. Pauli,2016-09-10,11:00:00,Excellent,"Clear, Sun",24,Warm,4_3_3,4_4_2,67:23
+3297,481,GerBL2,2255242,Arminia Bielefeld,St. Pauli,2016-09-10,11:00:00,Excellent,"Clear, Sun",24,Warm,4_2_3_1,4_4_2,12:14
+3298,482,GerBL2,2255243,Karlsruher SC,Union Berlin,2016-09-10,11:00:00,Excellent,"Clear, Sun",27,Hot,4_3_3,4_4_2,78:43
+3291,475,GerBL2,2255244,Kaiserslautern,Sandhausen,2016-09-11,11:30:00,Excellent,"Clear, Sun",29,Hot,4_4_2,4_4_2,76:30
+3292,476,GerBL2,2255244,Kaiserslautern,Sandhausen,2016-09-11,11:30:00,Excellent,"Clear, Sun",29,Hot,4_4_2,4_2_3_1,00:00
+3293,477,GerBL2,2255244,Kaiserslautern,Sandhausen,2016-09-11,11:30:00,Excellent,"Clear, Sun",29,Hot,4_4_2,3_4_2_1,73:20
+3294,478,GerBL2,2255240,Dynamo Dresden,Hannover 96,2016-09-11,11:30:00,Excellent,"Clear, Sun",26,Hot,4_2_3_1,4_3_3,75:32
+3295,479,GerBL2,2255245,Greuther Furth,Fortuna Dusseldorf,2016-09-11,11:30:00,Excellent,"Clear, Cloud, Sun",25,Warm,4_1_4_1,4_2_3_1,72:49
+3289,473,GerBL2,2255241,1860 Munchen,Nurnberg,2016-09-12,18:15:00,Good,Cloud,26,Warm,3_5_2,4_4_2,88:04
+3290,474,GerBL2,2255241,1860 Munchen,Nurnberg,2016-09-12,18:15:00,Good,Cloud,26,Warm,4_4_2,4_4_2,87:57
+3283,467,GerBL2,2255248,Nurnberg,Bochum,2016-09-16,16:30:00,Good,Cloud,18,Warm,4_2_3_1,4_3_3,76:21
+3284,468,GerBL2,2255248,Nurnberg,Bochum,2016-09-16,16:30:00,Good,Cloud,18,Warm,4_2_3_1,4_2_3_1,38:42
+3285,469,GerBL2,2255255,Union Berlin,1860 Munchen,2016-09-16,16:30:00,Good,"Cloud, Light Rain",20,Warm,4_4_2,4_4_1_1,85:19
+3286,470,GerBL2,2255255,Union Berlin,1860 Munchen,2016-09-16,16:30:00,Good,"Cloud, Light Rain",20,Warm,4_4_2,4_3_3,52:14
+3287,471,GerBL2,2255251,Wurzburger Kickers,Greuther Furth,2016-09-16,16:30:00,Excellent,Cloud,21,Warm,4_4_2,4_3_3,89:02
+3288,472,GerBL2,2255251,Wurzburger Kickers,Greuther Furth,2016-09-16,16:30:00,Excellent,Cloud,21,Warm,4_2_3_1,4_3_3,00:00
+3277,461,GerBL2,2255250,Sandhausen,Eintracht Braunschweig,2016-09-17,11:00:00,"Average, Dry, Patchy","Cloud, Light Wind",18,Warm,4_5_1,4_4_2,78:25
+3278,462,GerBL2,2255250,Sandhausen,Eintracht Braunschweig,2016-09-17,11:00:00,"Average, Dry, Patchy","Cloud, Light Wind",18,Warm,4_4_2,4_4_2,65:15
+3279,463,GerBL2,2255253,Fortuna Dusseldorf,Heidenheim,2016-09-17,11:00:00,Good,Cloud,20,Warm,4_4_2,4_4_2,81:38
+3280,464,GerBL2,2255253,Fortuna Dusseldorf,Heidenheim,2016-09-17,11:00:00,Good,Cloud,20,Warm,4_4_2,4_1_4_1,77:41
+3281,465,GerBL2,2255252,Stuttgart,Kaiserslautern,2016-09-17,11:00:00,Excellent,"Clear, Sun",21,Hot,4_1_2_1_2,4_2_3_1,83:09
+3282,466,GerBL2,2255252,Stuttgart,Kaiserslautern,2016-09-17,11:00:00,Excellent,"Clear, Sun",21,Hot,4_1_2_1_2,4_4_2,58:03
+3271,455,GerBL2,2255256,Erzgebirge Aue,Dynamo Dresden,2016-09-18,11:30:00,"Excellent, Wet","Cloud, Rain",13,Cold,4_4_2,4_2_3_1,83:20
+3272,456,GerBL2,2255256,Erzgebirge Aue,Dynamo Dresden,2016-09-18,11:30:00,"Excellent, Wet","Cloud, Rain",13,Cold,4_3_3,4_2_3_1,00:00
+3273,457,GerBL2,2255249,St. Pauli,Karlsruher SC,2016-09-18,11:30:00,Good,Cloud,16,Warm,4_4_2,4_2_3_1,85:25
+3274,458,GerBL2,2255249,St. Pauli,Karlsruher SC,2016-09-18,11:30:00,Good,Rain,16,Warm,4_4_2,4_2_3_1,85:25
+3275,459,GerBL2,2255254,Hannover 96,Arminia Bielefeld,2016-09-18,11:30:00,Excellent,Cloud,18,Warm,5_3_2,4_2_3_1,82:05
+3276,460,GerBL2,2255254,Hannover 96,Arminia Bielefeld,2016-09-18,11:30:00,Excellent,Cloud,18,Warm,4_4_2,4_2_3_1,60:42
+3264,448,GerBL2,2255259,Greuther Furth,Nurnberg,2016-09-20,15:30:00,Good,Cloud,14,-,4_4_2,4_4_2,83:13
+3265,449,GerBL2,2255259,Greuther Furth,Nurnberg,2016-09-20,15:30:00,Good,Cloud,14,-,4_2_3_1,4_4_2,61:08
+3266,450,GerBL2,2255262,Heidenheim,Sandhausen,2016-09-20,15:30:00,Good,Cloud,18,-,4_4_2,4_4_2,69:29
+3267,451,GerBL2,2255262,Heidenheim,Sandhausen,2016-09-20,15:30:00,Good,Cloud,18,-,4_4_2,4_1_4_1,45:00
+3268,452,GerBL2,2255263,Bochum,Fortuna Dusseldorf,2016-09-20,15:30:00,"Average, Patchy","Clear, Sun",19,Warm,4_1_4_1,4_2_3_1,81:15
+3269,453,GerBL2,2255257,Eintracht Braunschweig,Stuttgart,2016-09-20,15:30:00,Excellent,"Clear, Sun",16,Warm,4_1_4_1,4_4_2,77:06
+3270,454,GerBL2,2255257,Eintracht Braunschweig,Stuttgart,2016-09-20,15:30:00,Excellent,"Clear, Sun",16,Warm,4_1_4_1,3_5_2,00:00
+3258,442,GerBL2,2255258,Karlsruher SC,Hannover 96,2016-09-21,15:30:00,Excellent,Cloud,10,-,4_2_3_1,4_4_2,78:19
+3259,443,GerBL2,2255265,Union Berlin,Wurzburger Kickers,2016-09-21,15:30:00,Excellent,Sun,16,Warm,4_2_3_1,4_3_3,87:11
+3260,444,GerBL2,2255261,Dynamo Dresden,Kaiserslautern,2016-09-21,15:30:00,Excellent,"Cloud, Sun",14,-,4_2_3_1,4_2_3_1,72:43
+3261,445,GerBL2,2255261,Dynamo Dresden,Kaiserslautern,2016-09-21,15:30:00,Excellent,"Cloud, Sun",14,-,4_1_2_1_2,4_2_3_1,00:00
+3262,446,GerBL2,2255261,Dynamo Dresden,Kaiserslautern,2016-09-21,15:30:00,Excellent,"Cloud, Sun",14,-,4_2_3_1,4_1_4_1,45:00
+3263,447,GerBL2,2255264,Arminia Bielefeld,Erzgebirge Aue,2016-09-21,15:30:00,Good,Clear,15,Warm,4_2_3_1,4_4_2,75:36
+3257,441,GerBL2,2255260,1860 Munchen,St. Pauli,2016-09-22,18:15:00,Excellent,Clear,14,Warm,4_2_3_1,4_4_2,79:12
+3252,436,GerBL2,2255269,Fortuna Dusseldorf,Eintracht Braunschweig,2016-09-23,16:30:00,Good,"Cloud, Sun",18,-,4_4_2,4_1_4_1,84:11
+3253,437,GerBL2,2255270,Sandhausen,Greuther Furth,2016-09-23,16:30:00,Excellent,"Clear, Sun",17,Warm,4_3_3,4_4_2,82:57
+3254,438,GerBL2,2255270,Sandhausen,Greuther Furth,2016-09-23,16:30:00,Excellent,"Clear, Sun",17,Warm,4_4_2,4_4_2,67:03
+3255,439,GerBL2,2255266,Stuttgart,Bochum,2016-09-23,16:30:00,Excellent,Clear,19,Warm,4_2_3_1,4_1_4_1,75:03
+3256,440,GerBL2,2255266,Stuttgart,Bochum,2016-09-23,16:30:00,Excellent,Clear,19,Warm,4_4_2,4_1_4_1,65:30
+3247,431,GerBL2,2255271,Kaiserslautern,Heidenheim,2016-09-24,11:00:00,Excellent,"Clear, Cloud",20,Warm,4_4_2,4_3_3,79:10
+3248,432,GerBL2,2255271,Kaiserslautern,Heidenheim,2016-09-24,11:00:00,Excellent,"Clear, Cloud",20,Warm,4_4_2,4_3_1_2,00:00
+3249,433,GerBL2,2255268,Erzgebirge Aue,Karlsruher SC,2016-09-24,11:00:00,Good,"Clear, Sun",21,Warm,4_4_2,4_1_4_1,80:04
+3250,434,GerBL2,2255268,Erzgebirge Aue,Karlsruher SC,2016-09-24,11:00:00,Good,"Clear, Sun",21,Warm,4_4_2,4_2_3_1,79:50
+3251,435,GerBL2,2255268,Erzgebirge Aue,Karlsruher SC,2016-09-24,11:00:00,Good,"Clear, Sun",21,Warm,4_2_3_1,4_1_4_1,84:13
+3244,428,GerBL2,2255273,Hannover 96,1860 Munchen,2016-09-25,11:30:00,"Average, Patchy","Clear, Sun",20,Warm,4_4_2,4_2_3_1,81:30
+3245,429,GerBL2,2255272,Nurnberg,Arminia Bielefeld,2016-09-25,11:30:00,Excellent,"Clear, Sun",26,Hot,4_4_2,4_2_3_1,83:45
+3246,430,GerBL2,2255274,Wurzburger Kickers,Dynamo Dresden,2016-09-25,11:30:00,Good,"Clear, Sun",21,Warm,4_3_3,4_2_3_1,88:45
+3243,427,GerBL2,2255267,St. Pauli,Union Berlin,2016-09-26,18:15:00,Excellent,Clear,17,-,4_3_3,4_2_3_1,75:27
+3238,422,GerBL2,2255282,Bochum,Erzgebirge Aue,2016-09-30,16:30:00,Good,"Cloud, Sun",20,-,4_2_3_1,4_2_3_1,87:19
+3239,423,GerBL2,2255282,Bochum,Erzgebirge Aue,2016-09-30,16:30:00,Good,"Cloud, Sun",20,-,4_3_2_1,4_2_3_1,65:59
+3240,424,GerBL2,2255277,Union Berlin,Nurnberg,2016-09-30,16:30:00,Excellent,Cloud,14,Cold,4_2_3_1,4_3_3,89:16
+3241,425,GerBL2,2255280,Dynamo Dresden,Sandhausen,2016-09-30,16:30:00,Excellent,Cloud,17,Warm,4_5_1,4_3_3,79:53
+3242,426,GerBL2,2255280,Dynamo Dresden,Sandhausen,2016-09-30,16:30:00,Excellent,Cloud,17,Warm,4_4_2,4_3_3,65:45
+3235,419,GerBL2,2255281,Karlsruher SC,Fortuna Dusseldorf,2016-10-01,11:00:00,Good,"Clear, Sun",16,Warm,4_1_4_1,4_4_2,80:19
+3236,420,GerBL2,2255276,St. Pauli,Hannover 96,2016-10-01,11:00:00,Excellent,"Cloud, Rain",14,Warm,4_2_3_1,4_4_2,78:02
+3237,421,GerBL2,2255276,St. Pauli,Hannover 96,2016-10-01,11:00:00,Excellent,"Cloud, Rain",14,Warm,4_2_3_1,4_2_3_1,63:17
+3229,413,GerBL2,2255283,1860 Munchen,Wurzburger Kickers,2016-10-02,11:30:00,Excellent,"Clear, Sun",15,Warm,4_2_3_1,4_4_2,84:52
+3230,414,GerBL2,2255283,1860 Munchen,Wurzburger Kickers,2016-10-02,11:30:00,Excellent,"Clear, Sun",15,Warm,4_2_3_1,4_2_3_1,74:28
+3231,415,GerBL2,2255283,1860 Munchen,Wurzburger Kickers,2016-10-02,11:30:00,Excellent,"Clear, Sun",15,Warm,4_2_3_1,4_1_4_1,62:25
+3232,416,GerBL2,2255278,Arminia Bielefeld,Kaiserslautern,2016-10-02,11:30:00,Excellent,"Cloud, Sun",16,Warm,4_3_3,4_1_4_1,78:11
+3233,417,GerBL2,2255279,Eintracht Braunschweig,Heidenheim,2016-10-02,11:30:00,Average,"Clear, Sun",14,Cold,4_4_2,4_2_3_1,70:30
+3234,418,GerBL2,2255279,Eintracht Braunschweig,Heidenheim,2016-10-02,11:30:00,Average,"Clear, Sun",14,Cold,4_4_2,4_1_2_1_2,34:34
+3228,412,GerBL2,2255275,Greuther Furth,Stuttgart,2016-10-03,18:15:00,Excellent,"Cloud, Rain",12,Cold,4_1_4_1,4_2_3_1,81:28
+3223,407,GerBL2,2255284,Erzgebirge Aue,St. Pauli,2016-10-14,16:30:00,Excellent,Cloud,7,-,4_4_2,4_2_3_1,63:57
+3224,408,GerBL2,2255285,Sandhausen,Bochum,2016-10-14,16:30:00,Excellent,Clear,11,Cold,4_2_3_1,4_2_3_1,87:30
+3225,409,GerBL2,2255285,Sandhausen,Bochum,2016-10-14,16:30:00,Excellent,Clear,11,Cold,4_2_3_1,4_4_2,61:41
+3226,410,GerBL2,2255290,Wurzburger Kickers,Arminia Bielefeld,2016-10-14,16:30:00,Excellent,Clear,10,Cold,4_4_2,4_2_3_1,80:22
+3227,411,GerBL2,2255290,Wurzburger Kickers,Arminia Bielefeld,2016-10-14,16:30:00,Excellent,Clear,10,Cold,4_1_4_1,4_2_3_1,68:50
+3220,404,GerBL2,2255292,Stuttgart,Dynamo Dresden,2016-10-15,11:00:00,Excellent,"Clear, Sun",11,Cold,4_3_3,4_1_4_1,71:43
+3221,405,GerBL2,2255289,Heidenheim,Greuther Furth,2016-10-15,11:00:00,Excellent,"Cloud, Sun",17,Warm,4_1_2_1_2,4_4_2,81:36
+3222,406,GerBL2,2255289,Heidenheim,Greuther Furth,2016-10-15,11:00:00,Excellent,"Cloud, Sun",17,Warm,4_2_3_1,4_4_2,45:00
+3215,399,GerBL2,2255286,Hannover 96,Union Berlin,2016-10-16,11:30:00,"Excellent, Wet",Cloud,9,Cold,4_1_2_1_2,4_2_3_1,88:17
+3216,400,GerBL2,2255287,Nurnberg,Karlsruher SC,2016-10-16,11:30:00,Good,"Clear, Sun",11,Cold,4_4_2,4_2_3_1,90:18
+3217,401,GerBL2,2255291,Fortuna Dusseldorf,1860 Munchen,2016-10-16,11:30:00,Excellent,Sun,12,Warm,4_4_2,4_1_4_1,87:14
+3218,402,GerBL2,2255291,Fortuna Dusseldorf,1860 Munchen,2016-10-16,11:30:00,Excellent,Sun,12,Warm,4_4_1_1,4_1_4_1,45:00
+3219,403,GerBL2,2255291,Fortuna Dusseldorf,1860 Munchen,2016-10-16,11:30:00,Excellent,Sun,12,Warm,4_1_4_1,4_1_4_1,00:00
+3214,398,GerBL2,2255288,Kaiserslautern,Eintracht Braunschweig,2016-10-17,18:15:00,Good,Cloud,12,-,4_1_2_1_2,5_4_1,80:36
+3210,394,GerBL2,2255301,Karlsruher SC,Wurzburger Kickers,2016-10-21,16:30:00,Good,Cloud,6,-,4_2_3_1,4_4_2,82:09
+3211,395,GerBL2,2255301,Karlsruher SC,Wurzburger Kickers,2016-10-21,16:30:00,Good,Cloud,6,-,4_2_3_1,4_5_1,89:12
+3212,396,GerBL2,2255293,1860 Munchen,Stuttgart,2016-10-21,16:30:00,Excellent,Cloud,7,Cold,4_2_3_1,4_4_2,81:20
+3213,397,GerBL2,2255299,Arminia Bielefeld,Fortuna Dusseldorf,2016-10-21,16:30:00,Good,Cloud,8,Cold,4_2_3_1,4_4_2,77:32
+3207,391,GerBL2,2255297,Dynamo Dresden,Heidenheim,2016-10-22,11:00:00,Excellent,"Cloud, Sun",10,Cold,4_4_2,4_3_3,80:30
+3208,392,GerBL2,2255298,St. Pauli,Sandhausen,2016-10-22,11:00:00,Excellent,"Clear, Sun",11,Cold,4_4_2,4_4_2,74:35
+3209,393,GerBL2,2255298,St. Pauli,Sandhausen,2016-10-22,11:00:00,Excellent,"Clear, Sun",11,Cold,4_4_2,4_2_3_1,66:00
+3202,386,GerBL2,2255294,Hannover 96,Nurnberg,2016-10-23,11:30:00,Excellent,"Cloud, Sun",12,Warm,4_4_2,4_2_3_1,66:56
+3203,387,GerBL2,2255294,Hannover 96,Nurnberg,2016-10-23,11:30:00,Excellent,"Cloud, Sun",12,Warm,4_2_3_1,4_2_3_1,51:45
+3204,388,GerBL2,2255295,Greuther Furth,Eintracht Braunschweig,2016-10-23,11:30:00,Good,Sun,10,Cold,4_4_2,3_4_3,84:43
+3205,389,GerBL2,2255295,Greuther Furth,Eintracht Braunschweig,2016-10-23,11:30:00,Good,Sun,10,Cold,4_4_2,4_1_4_1,82:25
+3206,390,GerBL2,2255300,Union Berlin,Erzgebirge Aue,2016-10-23,11:30:00,Good,"Clear, Sun",7,-,4_2_3_1,4_1_2_1_2,79:13
+3200,384,GerBL2,2255296,Bochum,Kaiserslautern,2016-10-24,18:15:00,Good,"Cloud, Rain",8,-,5_3_2,4_2_3_1,86:31
+3201,385,GerBL2,2255296,Bochum,Kaiserslautern,2016-10-24,18:15:00,Good,"Cloud, Rain",8,-,4_1_2_1_2,4_2_3_1,62:34
+3194,378,GerBL2,2255309,Erzgebirge Aue,1860 Munchen,2016-10-28,16:30:00,Excellent,Clear,9,Cold,4_4_2,4_2_3_1,72:14
+3195,379,GerBL2,2255310,Eintracht Braunschweig,Dynamo Dresden,2016-10-28,16:30:00,"Average, Uneven, Wet",Cloud,11,Cold,4_4_2,4_4_2,84:36
+3196,380,GerBL2,2255310,Eintracht Braunschweig,Dynamo Dresden,2016-10-28,16:30:00,"Average, Uneven, Wet",Cloud,11,Cold,4_3_3,4_4_2,00:00
+3197,381,GerBL2,2255308,Sandhausen,Arminia Bielefeld,2016-10-28,16:30:00,Good,"Cloud, Light Rain",11,Warm,4_2_3_1,3_5_2,86:46
+3198,382,GerBL2,2255308,Sandhausen,Arminia Bielefeld,2016-10-28,16:30:00,Good,"Cloud, Light Rain",11,Warm,4_2_3_1,4_4_2,61:30
+3199,383,GerBL2,2255308,Sandhausen,Arminia Bielefeld,2016-10-28,16:30:00,Good,"Cloud, Light Rain",11,Warm,4_3_2_1,4_4_2,88:25
+3189,373,GerBL2,2255305,Fortuna Dusseldorf,Union Berlin,2016-10-29,11:00:00,Good,"Clear, Light Wind",11,Cold,4_2_2_2,4_2_3_1,90:25
+3190,374,GerBL2,2255305,Fortuna Dusseldorf,Union Berlin,2016-10-29,11:00:00,Good,"Clear, Light Wind",11,Cold,4_1_2_1_2,4_2_3_1,81:12
+3191,375,GerBL2,2255307,Kaiserslautern,Greuther Furth,2016-10-29,11:00:00,Good,Cloud,12,Cold,4_1_2_1_2,5_4_1,89:39
+3192,376,GerBL2,2255307,Kaiserslautern,Greuther Furth,2016-10-29,11:00:00,Good,Cloud,12,Cold,4_1_2_1_2,4_1_2_1_2,76:38
+3193,377,GerBL2,2255307,Kaiserslautern,Greuther Furth,2016-10-29,11:00:00,Good,Cloud,12,Cold,4_1_4_1,4_1_2_1_2,64:52
+3183,367,GerBL2,2255304,Heidenheim,Bochum,2016-10-30,12:30:00,Excellent,"Clear, Sun",12,Warm,4_4_2,4_4_2,79:20
+3184,368,GerBL2,2255304,Heidenheim,Bochum,2016-10-30,12:30:00,Excellent,"Clear, Sun",12,Warm,4_2_3_1,4_4_2,62:10
+3185,369,GerBL2,2255304,Heidenheim,Bochum,2016-10-30,12:30:00,Excellent,"Clear, Sun",12,Warm,4_2_3_1,4_1_4_1,45:00
+3186,370,GerBL2,2255302,Wurzburger Kickers,Hannover 96,2016-10-30,12:30:00,Excellent,"Clear, Sun",13,Cold,4_4_2,3_4_2_1,83:39
+3187,371,GerBL2,2255302,Wurzburger Kickers,Hannover 96,2016-10-30,12:30:00,Excellent,"Clear, Sun",13,Cold,4_4_2,4_2_3_1,00:00
+3188,372,GerBL2,2255306,Stuttgart,Karlsruher SC,2016-10-30,12:30:00,Excellent,Sun,14,Warm,4_4_2,4_3_3,76:05
+3182,366,GerBL2,2255303,Nurnberg,St. Pauli,2016-10-31,19:15:00,Good,Cloud,12,Warm,4_1_4_1,4_2_3_1,73:31
+3178,362,GerBL2,2255318,Nurnberg,Erzgebirge Aue,2016-11-04,17:30:00,Good,Clear,5,Cold,4_4_2,4_2_3_1,88:10
+3179,363,GerBL2,2255318,Nurnberg,Erzgebirge Aue,2016-11-04,17:30:00,Good,Clear,5,Cold,4_2_3_1,4_2_3_1,80:27
+3180,364,GerBL2,2255315,Karlsruher SC,Heidenheim,2016-11-04,17:30:00,Average,Clear,5,Cold,4_4_2,4_4_2,87:39
+3181,365,GerBL2,2255317,Dynamo Dresden,Fortuna Dusseldorf,2016-11-04,17:30:00,Excellent,"Cloud, Light Rain, Wind",9,Cold,4_2_3_1,4_3_3,76:23
+3171,355,GerBL2,2255314,Union Berlin,Kaiserslautern,2016-11-05,12:00:00,Excellent,Clear,8,Cold,5_4_1,4_4_2,88:15
+3172,356,GerBL2,2255314,Union Berlin,Kaiserslautern,2016-11-05,12:00:00,Excellent,Clear,8,Cold,4_4_2,4_4_2,81:11
+3173,357,GerBL2,2255314,Union Berlin,Kaiserslautern,2016-11-05,12:00:00,Excellent,Clear,8,Cold,4_4_2,4_1_4_1,72:39
+3174,358,GerBL2,2255314,Union Berlin,Kaiserslautern,2016-11-05,12:00:00,Excellent,Clear,8,Cold,4_1_2_1_2,4_1_4_1,00:00
+3175,359,GerBL2,2255313,Bochum,Greuther Furth,2016-11-05,12:00:00,"Excellent, Wet","Cloud, Rain, Sun",11,Warm,4_1_4_1,3_4_3,85:42
+3176,360,GerBL2,2255313,Bochum,Greuther Furth,2016-11-05,12:00:00,"Excellent, Wet","Cloud, Rain, Sun",11,Warm,4_1_4_1,4_2_3_1,67:10
+3177,361,GerBL2,2255313,Bochum,Greuther Furth,2016-11-05,12:00:00,"Excellent, Wet","Cloud, Rain, Sun",11,Warm,4_2_3_1,3_4_3,90:55
+3165,349,GerBL2,2255316,1860 Munchen,Sandhausen,2016-11-06,12:30:00,Good,"Cloud, Sun",8,Cold,4_4_2,4_4_2,83:02
+3166,350,GerBL2,2255316,1860 Munchen,Sandhausen,2016-11-06,12:30:00,Good,"Cloud, Sun",8,Cold,4_4_2,4_3_3,76:31
+3167,351,GerBL2,2255316,1860 Munchen,Sandhausen,2016-11-06,12:30:00,Good,"Cloud, Sun",8,Cold,4_5_1,4_4_2,89:47
+3168,352,GerBL2,2255312,Hannover 96,Eintracht Braunschweig,2016-11-06,12:30:00,Good,Cloud,6,Cold,4_4_2,4_4_2,77:13
+3169,353,GerBL2,2255311,Arminia Bielefeld,Stuttgart,2016-11-06,12:30:00,Average,Clear,6,Cold,4_1_4_1,4_1_4_1,73:22
+3170,354,GerBL2,2255311,Arminia Bielefeld,Stuttgart,2016-11-06,12:30:00,Average,Clear,6,Cold,4_1_4_1,4_2_3_1,59:11
+3164,348,GerBL2,2255319,St. Pauli,Wurzburger Kickers,2016-11-07,19:15:00,Good,Cloud,3,Cold,3_5_2,4_1_4_1,81:42
+3157,341,GerBL2,2255326,Heidenheim,Arminia Bielefeld,2016-11-18,17:30:00,"Excellent, Wet","Cloud, Rain",7,Cold,4_2_3_1,4_4_2,84:55
+3158,342,GerBL2,2255326,Heidenheim,Arminia Bielefeld,2016-11-18,17:30:00,"Excellent, Wet","Cloud, Rain",7,Cold,5_4_1,4_4_2,91:09
+3159,343,GerBL2,2255321,Wurzburger Kickers,Nurnberg,2016-11-18,17:30:00,Good,Clear,7,Cold,4_4_2,4_4_2,75:11
+3160,344,GerBL2,2255321,Wurzburger Kickers,Nurnberg,2016-11-18,17:30:00,Good,Clear,7,Cold,4_2_3_1,3_5_2,61:43
+3161,345,GerBL2,2255321,Wurzburger Kickers,Nurnberg,2016-11-18,17:30:00,Good,Clear,7,Cold,4_4_2,3_4_1_2,62:07
+3162,346,GerBL2,2255323,Eintracht Braunschweig,Bochum,2016-11-18,17:30:00,"Excellent, Wet","Cloud, Rain",6,Cold,3_5_2,4_4_2,86:50
+3163,347,GerBL2,2255323,Eintracht Braunschweig,Bochum,2016-11-18,17:30:00,"Excellent, Wet","Cloud, Rain",6,Cold,4_2_3_1,4_4_2,58:41
+3154,338,GerBL2,2255325,Sandhausen,Karlsruher SC,2016-11-19,12:00:00,"Average, Uneven","Cloud, Light Rain, Sun",7,Cold,4_4_2,4_4_2,81:23
+3155,339,GerBL2,2255325,Sandhausen,Karlsruher SC,2016-11-19,12:00:00,"Average, Uneven","Cloud, Light Rain, Sun",7,Cold,4_4_2,4_3_3,69:41
+3156,340,GerBL2,2255320,Erzgebirge Aue,Hannover 96,2016-11-19,12:00:00,Excellent,Clear,8,Cold,4_4_2,4_2_3_1,84:13
+3147,331,GerBL2,2255324,Stuttgart,Union Berlin,2016-11-20,12:30:00,Excellent,Cloud,9,Cold,4_1_2_1_2,3_4_3,78:28
+3148,332,GerBL2,2255324,Stuttgart,Union Berlin,2016-11-20,12:30:00,Excellent,Cloud,9,Cold,4_3_3,3_4_3,82:43
+3149,333,GerBL2,2255322,Fortuna Dusseldorf,St. Pauli,2016-11-20,12:30:00,Excellent,"Cloud, Rain",12,Warm,4_4_2,4_2_3_1,88:30
+3150,334,GerBL2,2255322,Fortuna Dusseldorf,St. Pauli,2016-11-20,12:30:00,Excellent,"Cloud, Rain",12,Warm,4_2_3_1,4_2_3_1,69:40
+3151,335,GerBL2,2255328,Greuther Furth,Dynamo Dresden,2016-11-20,12:30:00,Good,Clear,9,Cold,4_3_3,4_4_2,81:31
+3152,336,GerBL2,2255328,Greuther Furth,Dynamo Dresden,2016-11-20,12:30:00,Good,Clear,9,Cold,4_3_3,4_2_3_1,50:09
+3153,337,GerBL2,2255328,Greuther Furth,Dynamo Dresden,2016-11-20,12:30:00,Good,Clear,9,Cold,4_3_3,4_1_4_1,00:00
+3145,329,GerBL2,2255327,Kaiserslautern,1860 Munchen,2016-11-21,19:15:00,"Average, Wet",Cloud,13,Warm,4_4_2,4_1_2_1_2,88:02
+3146,330,GerBL2,2255327,Kaiserslautern,1860 Munchen,2016-11-21,19:15:00,"Average, Wet",Cloud,13,Warm,4_1_4_1,4_1_2_1_2,00:00
+3140,324,GerBL2,2255337,Erzgebirge Aue,Wurzburger Kickers,2016-11-25,17:30:00,Good,Cloud,8,Cold,3_5_2,4_2_3_1,89:04
+3141,325,GerBL2,2255335,Hannover 96,Fortuna Dusseldorf,2016-11-25,17:30:00,Good,Clear,5,Cold,4_4_2,4_4_2,86:24
+3142,326,GerBL2,2255331,Arminia Bielefeld,Greuther Furth,2016-11-25,17:30:00,Average,Cloud,8,Cold,4_2_3_1,4_4_2,73:49
+3143,327,GerBL2,2255331,Arminia Bielefeld,Greuther Furth,2016-11-25,17:30:00,Average,Cloud,8,Cold,4_2_3_1,4_2_3_1,45:00
+3144,328,GerBL2,2255331,Arminia Bielefeld,Greuther Furth,2016-11-25,17:30:00,Average,Cloud,8,Cold,4_4_2,4_4_2,77:14
+3138,322,GerBL2,2255333,St. Pauli,Heidenheim,2016-11-26,12:00:00,Excellent,Cloud,6,Cold,4_4_2,4_4_2,69:08
+3139,323,GerBL2,2255336,Bochum,Dynamo Dresden,2016-11-26,12:00:00,Average,Cloud,1,Freezing,4_3_3,4_2_3_1,77:32
+3134,318,GerBL2,2255332,Karlsruher SC,Kaiserslautern,2016-11-27,12:30:00,"Average, Patchy",Cloud,7,Cold,4_2_3_1,4_4_2,86:43
+3135,319,GerBL2,2255332,Karlsruher SC,Kaiserslautern,2016-11-27,12:30:00,"Average, Patchy",Cloud,7,Cold,4_1_2_1_2,4_4_2,00:00
+3136,320,GerBL2,2255330,1860 Munchen,Eintracht Braunschweig,2016-11-27,12:30:00,Excellent,"Clear, Sun",7,Cold,4_4_2,4_3_3,78:59
+3137,321,GerBL2,2255334,Union Berlin,Sandhausen,2016-11-27,12:30:00,Good,Clear,7,Cold,4_4_2,4_3_3,76:23
+3132,316,GerBL2,2255329,Nurnberg,Stuttgart,2016-11-28,19:15:00,Good,Clear,-1,Freezing,4_1_4_1,4_2_3_1,85:40
+3133,317,GerBL2,2255329,Nurnberg,Stuttgart,2016-11-28,19:15:00,Good,Clear,-1,Freezing,4_1_4_1,4_2_2_2,86:52
+3126,310,GerBL2,2255340,Kaiserslautern,St. Pauli,2016-12-02,17:30:00,Excellent,Cloud,0,Freezing,4_4_2,4_4_2,76:14
+3127,311,GerBL2,2255340,Kaiserslautern,St. Pauli,2016-12-02,17:30:00,Excellent,Cloud,0,Freezing,4_1_4_1,4_4_2,45:01
+3128,312,GerBL2,2255338,Heidenheim,Hannover 96,2016-12-02,17:30:00,Good,Clear,-2,Freezing,4_4_2,4_4_2,83:53
+3129,313,GerBL2,2255338,Heidenheim,Hannover 96,2016-12-02,17:30:00,Good,Clear,-2,Freezing,4_4_2,4_3_3,64:10
+3130,314,GerBL2,2255342,Greuther Furth,Karlsruher SC,2016-12-02,17:30:00,Average,Clear,4,Cold,3_4_3,4_4_2,77:40
+3131,315,GerBL2,2255342,Greuther Furth,Karlsruher SC,2016-12-02,17:30:00,Average,Clear,4,Cold,4_4_2,4_4_2,31:57
+3122,306,GerBL2,2255344,Dynamo Dresden,1860 Munchen,2016-12-03,12:00:00,Excellent,Clear,-1,Freezing,4_3_3,4_4_2,78:20
+3123,307,GerBL2,2255344,Dynamo Dresden,1860 Munchen,2016-12-03,12:00:00,Excellent,Clear,-1,Freezing,4_3_3,4_3_3,00:00
+3124,308,GerBL2,2255339,Sandhausen,Nurnberg,2016-12-03,12:00:00,Excellent,"Clear, Sun",1,Freezing,4_2_3_1,4_3_3,65:29
+3125,309,GerBL2,2255339,Sandhausen,Nurnberg,2016-12-03,12:00:00,Excellent,"Clear, Sun",1,Freezing,4_2_3_1,4_2_3_1,45:00
+3118,302,GerBL2,2255345,Stuttgart,Erzgebirge Aue,2016-12-04,12:30:00,Excellent,Clear,1,Freezing,4_2_3_1,5_4_1,81:40
+3119,303,GerBL2,2255345,Stuttgart,Erzgebirge Aue,2016-12-04,12:30:00,Excellent,Clear,1,Freezing,4_2_3_1,4_1_4_1,00:00
+3120,304,GerBL2,2255346,Fortuna Dusseldorf,Wurzburger Kickers,2016-12-04,12:30:00,Good,"Clear, Sun",0,Freezing,4_2_3_1,4_4_2,86:39
+3121,305,GerBL2,2255343,Bochum,Arminia Bielefeld,2016-12-04,12:30:00,Good,"Cloud, Sun",3,Freezing,4_2_3_1,4_2_3_1,79:32
+3116,300,GerBL2,2255341,Eintracht Braunschweig,Union Berlin,2016-12-05,19:15:00,Good,Cloud,-4,Freezing,4_3_3,4_4_2,85:54
+3117,301,GerBL2,2255341,Eintracht Braunschweig,Union Berlin,2016-12-05,19:15:00,Good,Cloud,-4,Freezing,4_3_3,3_4_3,64:20
+3111,295,GerBL2,2255352,Union Berlin,Heidenheim,2016-12-09,17:30:00,Good,Cloud,3,Cold,4_4_2,4_3_3,79:57
+3112,296,GerBL2,2255354,Nurnberg,Fortuna Dusseldorf,2016-12-09,17:30:00,Excellent,Clear,9,-,4_4_2,4_4_2,79:52
+3113,297,GerBL2,2255355,Karlsruher SC,Dynamo Dresden,2016-12-09,17:30:00,Average,Cloud,7,Cold,4_4_2,3_5_2,74:29
+3114,298,GerBL2,2255355,Karlsruher SC,Dynamo Dresden,2016-12-09,17:30:00,Average,Cloud,7,Cold,4_4_2,3_4_3,61:29
+3115,299,GerBL2,2255355,Karlsruher SC,Dynamo Dresden,2016-12-09,17:30:00,Average,Cloud,7,Cold,4_3_3,3_4_3,00:00
+3107,291,GerBL2,2255348,1860 Munchen,Bochum,2016-12-10,12:00:00,Average,"Clear, Sun",9,Cold,4_2_3_1,4_2_3_1,80:22
+3108,292,GerBL2,2255348,1860 Munchen,Bochum,2016-12-10,12:00:00,Average,"Clear, Sun",9,Cold,4_2_3_1,4_3_2_1,00:00
+3109,293,GerBL2,2255351,Erzgebirge Aue,Kaiserslautern,2016-12-10,12:00:00,Good,"Clear, Sun",3,Cold,4_3_3,4_1_4_1,85:09
+3110,294,GerBL2,2255351,Erzgebirge Aue,Kaiserslautern,2016-12-10,12:00:00,Good,"Clear, Sun",3,Cold,4_1_2_1_2,4_1_4_1,69:50
+3102,286,GerBL2,2255353,Wurzburger Kickers,Sandhausen,2016-12-11,12:30:00,Excellent,"Clear, Cloud",10,Cold,4_4_2,4_4_2,75:35
+3103,287,GerBL2,2255353,Wurzburger Kickers,Sandhausen,2016-12-11,12:30:00,Excellent,"Clear, Cloud",10,Cold,4_4_2,4_2_3_1,66:30
+3104,288,GerBL2,2255349,Arminia Bielefeld,Eintracht Braunschweig,2016-12-11,12:30:00,Excellent,"Cloud, Rain",8,Cold,4_4_2,4_2_3_1,81:10
+3105,289,GerBL2,2255350,St. Pauli,Greuther Furth,2016-12-11,12:30:00,Average,"Cloud, Rain",7,Cold,4_4_2,4_1_4_1,80:04
+3106,290,GerBL2,2255350,St. Pauli,Greuther Furth,2016-12-11,12:30:00,Average,"Cloud, Rain",7,Cold,4_3_3,4_1_4_1,00:00
+3101,285,GerBL2,2255347,Hannover 96,Stuttgart,2016-12-12,19:15:00,Good,Cloud,3,Cold,5_4_1,4_4_2,89:05
+3097,281,GerBL2,2255362,Heidenheim,1860 Munchen,2016-12-16,17:30:00,Good,Cloud,-1,Freezing,3_4_2_1,4_4_2,83:00
+3098,282,GerBL2,2255363,Fortuna Dusseldorf,Erzgebirge Aue,2016-12-16,17:30:00,Average,Clear,-3,Freezing,4_1_4_1,4_1_4_1,78:30
+3099,283,GerBL2,2255359,Greuther Furth,Union Berlin,2016-12-16,17:30:00,Good,Clear,1,Cold,4_4_2,3_5_2,94:25
+3100,284,GerBL2,2255359,Greuther Furth,Union Berlin,2016-12-16,17:30:00,Good,Clear,1,Cold,4_3_3,3_5_2,77:53
+3092,276,GerBL2,2255358,Bochum,St. Pauli,2016-12-17,12:00:00,"Good, Wet",Cloud,3,Cold,4_4_2,4_5_1,85:54
+3093,277,GerBL2,2255358,Bochum,St. Pauli,2016-12-17,12:00:00,"Good, Wet",Cloud,3,Cold,4_4_2,4_2_3_1,45:00
+3094,278,GerBL2,2255358,Bochum,St. Pauli,2016-12-17,12:00:00,"Good, Wet",Cloud,3,Cold,4_1_2_1_2,4_2_3_1,16:20
+3095,279,GerBL2,2255358,Bochum,St. Pauli,2016-12-17,12:00:00,"Good, Wet",Cloud,3,Cold,4_1_4_1,4_2_3_1,00:00
+3096,280,GerBL2,2255360,Eintracht Braunschweig,Karlsruher SC,2016-12-17,12:00:00,Average,"Clear, Sun",0,Freezing,3_4_2_1,4_4_2,79:55
+3086,270,GerBL2,2255364,Stuttgart,Wurzburger Kickers,2016-12-18,12:30:00,Average,Cloud,0,Freezing,4_2_3_1,4_2_3_1,82:06
+3087,271,GerBL2,2255361,Dynamo Dresden,Arminia Bielefeld,2016-12-18,12:30:00,Good,"Cloud, Light Rain",4,Cold,4_4_2,5_4_1,83:27
+3088,272,GerBL2,2255361,Dynamo Dresden,Arminia Bielefeld,2016-12-18,12:30:00,Good,"Cloud, Light Rain",4,Cold,4_2_3_1,4_4_2,67:08
+3089,273,GerBL2,2255361,Dynamo Dresden,Arminia Bielefeld,2016-12-18,12:30:00,Good,"Cloud, Light Rain",4,Cold,4_4_2,4_4_2,83:02
+3090,274,GerBL2,2255356,Sandhausen,Hannover 96,2016-12-18,12:30:00,Good,"Cloud, Light Rain",6,-,4_4_2,4_5_1,83:09
+3091,275,GerBL2,2255356,Sandhausen,Hannover 96,2016-12-18,12:30:00,Good,"Cloud, Light Rain",6,-,4_4_2,4_4_2,71:29
+3085,269,GerBL2,2255357,Kaiserslautern,Nurnberg,2016-12-19,19:15:00,Average,Cloud,1,Freezing,4_2_3_1,4_4_2,00:00
+3080,264,GerBL2,2255371,Greuther Furth,1860 Munchen,2017-01-27,17:30:00,Average,Clear,-3,Freezing,4_4_2,3_4_1_2,76:27
+3081,265,GerBL2,2255371,Greuther Furth,1860 Munchen,2017-01-27,17:30:00,Average,Clear,-3,Freezing,3_4_3,3_4_1_2,59:33
+3082,266,GerBL2,2255368,Bochum,Union Berlin,2017-01-27,17:30:00,Good,Clear,0,Freezing,4_2_3_1,4_2_3_1,88:40
+3083,267,GerBL2,2255368,Bochum,Union Berlin,2017-01-27,17:30:00,Good,Clear,0,Freezing,4_3_3,4_2_3_1,78:19
+3084,268,GerBL2,2255370,Sandhausen,Fortuna Dusseldorf,2017-01-27,17:30:00,Good,Clear,5,Cold,4_1_4_1,4_4_2,85:21
+3075,259,GerBL2,2255372,Heidenheim,Erzgebirge Aue,2017-01-28,12:00:00,Good,Sun,-8,Freezing,4_2_3_1,3_4_1_2,76:00
+3076,260,GerBL2,2255372,Heidenheim,Erzgebirge Aue,2017-01-28,12:00:00,Good,Sun,-8,Freezing,4_2_3_1,4_4_2,60:09
+3077,261,GerBL2,2255373,Eintracht Braunschweig,Wurzburger Kickers,2017-01-28,12:00:00,Average,"Cloud, Sun",0,Cold,4_2_3_1,3_4_2_1,76:40
+3078,262,GerBL2,2255373,Eintracht Braunschweig,Wurzburger Kickers,2017-01-28,12:00:00,Average,"Cloud, Sun",0,Cold,4_2_3_1,3_5_2,74:41
+3079,263,GerBL2,2255373,Eintracht Braunschweig,Wurzburger Kickers,2017-01-28,12:00:00,Average,"Cloud, Sun",0,Cold,4_2_3_1,4_4_2,00:00
+3068,252,GerBL2,2255369,Arminia Bielefeld,Karlsruher SC,2017-01-29,12:30:00,"Good, Uneven","Cloud, Sun",4,Cold,4_5_1,4_2_3_1,87:05
+3069,253,GerBL2,2255369,Arminia Bielefeld,Karlsruher SC,2017-01-29,12:30:00,"Good, Uneven","Cloud, Sun",4,Cold,4_4_2,4_2_3_1,77:20
+3070,254,GerBL2,2255367,Stuttgart,St. Pauli,2017-01-29,12:30:00,Poor,Cloud,6,Cold,4_2_3_1,4_4_2,78:07
+3071,255,GerBL2,2255367,Stuttgart,St. Pauli,2017-01-29,12:30:00,Poor,Cloud,6,Cold,4_2_3_1,4_1_4_1,72:35
+3072,256,GerBL2,2255366,Dynamo Dresden,Nurnberg,2017-01-29,12:30:00,Excellent,"Clear, Sun",3,Cold,4_4_1_1,4_3_3,77:26
+3073,257,GerBL2,2255366,Dynamo Dresden,Nurnberg,2017-01-29,12:30:00,Excellent,"Clear, Sun",3,Cold,4_2_3_1,4_3_3,12:10
+3074,258,GerBL2,2255366,Dynamo Dresden,Nurnberg,2017-01-29,12:30:00,Excellent,"Clear, Sun",3,Cold,3_5_2,4_3_3,84:19
+3066,250,GerBL2,2255365,Kaiserslautern,Hannover 96,2017-01-30,19:15:00,"Excellent, Wet","Cloud, Light Rain",5,Cold,4_4_2,4_4_2,81:24
+3067,251,GerBL2,2255365,Kaiserslautern,Hannover 96,2017-01-30,19:15:00,"Excellent, Wet","Cloud, Light Rain",5,Cold,4_4_2,4_2_3_1,68:40
+3061,245,GerBL2,2255377,Hannover 96,Greuther Furth,2017-02-03,17:30:00,Average,"Cloud, Light Wind",5,-,3_4_1_2,4_2_2_2,74:25
+3062,246,GerBL2,2255378,Wurzburger Kickers,Kaiserslautern,2017-02-03,17:30:00,Excellent,Cloud,4,Freezing,4_2_3_1,4_1_4_1,83:09
+3063,247,GerBL2,2255378,Wurzburger Kickers,Kaiserslautern,2017-02-03,17:30:00,Excellent,Cloud,4,Freezing,4_2_3_1,4_2_3_1,78:33
+3064,248,GerBL2,2255378,Wurzburger Kickers,Kaiserslautern,2017-02-03,17:30:00,Excellent,Cloud,4,Freezing,4_3_3,4_1_4_1,90:52
+3065,249,GerBL2,2255380,1860 Munchen,Arminia Bielefeld,2017-02-03,17:30:00,Good,Cloud,7,-,4_4_2,3_4_3,82:22
+3058,242,GerBL2,2255379,Nurnberg,Heidenheim,2017-02-04,12:00:00,Good,Cloud,3,Cold,4_1_4_1,4_2_3_1,83:55
+3059,243,GerBL2,2255379,Nurnberg,Heidenheim,2017-02-04,12:00:00,Good,Cloud,3,Cold,4_4_2,4_2_3_1,00:00
+3060,244,GerBL2,2255381,Erzgebirge Aue,Sandhausen,2017-02-04,12:00:00,"Dry, Good",Clear,6,Cold,4_2_3_1,4_2_3_1,75:50
+3054,238,GerBL2,2255382,Union Berlin,Dynamo Dresden,2017-02-05,12:30:00,"Average, Patchy",Clear,6,Cold,4_3_3,4_2_3_1,83:06
+3055,239,GerBL2,2255376,St. Pauli,Eintracht Braunschweig,2017-02-05,12:30:00,"Average, Uneven","Clear, Sun",3,Freezing,4_4_2,4_2_3_1,63:26
+3056,240,GerBL2,2255375,Karlsruher SC,Bochum,2017-02-05,12:30:00,Excellent,Sun,8,Cold,4_1_4_1,4_4_2,72:57
+3057,241,GerBL2,2255375,Karlsruher SC,Bochum,2017-02-05,12:30:00,Excellent,Sun,8,Cold,4_1_4_1,4_5_1,78:57
+3052,236,GerBL2,2255374,Fortuna Dusseldorf,Stuttgart,2017-02-06,19:15:00,Good,Cloud,4,Freezing,4_1_4_1,4_1_4_1,75:00
+3053,237,GerBL2,2255374,Fortuna Dusseldorf,Stuttgart,2017-02-06,19:15:00,Good,Cloud,4,Freezing,4_4_2,4_1_4_1,77:25
+3048,232,GerBL2,2255390,Greuther Furth,Erzgebirge Aue,2017-02-10,17:30:00,"Patchy, Poor",Clear,-1,Freezing,4_4_1_1,4_2_3_1,79:12
+3049,233,GerBL2,2255390,Greuther Furth,Erzgebirge Aue,2017-02-10,17:30:00,"Patchy, Poor",Clear,-1,Freezing,4_1_2_1_2,4_2_3_1,58:43
+3050,234,GerBL2,2255388,Kaiserslautern,Fortuna Dusseldorf,2017-02-10,17:30:00,Excellent,Cloud,1,Cold,4_2_3_1,4_2_3_1,80:27
+3051,235,GerBL2,2255385,Eintracht Braunschweig,Nurnberg,2017-02-10,17:30:00,Excellent,Clear,1,Freezing,4_2_3_1,4_4_2,82:10
+3044,228,GerBL2,2255391,Heidenheim,Wurzburger Kickers,2017-02-11,12:00:00,Good,Sun,6,-,4_3_1_2,4_3_1_2,86:43
+3045,229,GerBL2,2255391,Heidenheim,Wurzburger Kickers,2017-02-11,12:00:00,Good,Sun,6,-,4_2_3_1,4_3_1_2,00:00
+3046,230,GerBL2,2255389,Karlsruher SC,1860 Munchen,2017-02-11,12:00:00,Excellent,Sun,6,Cold,3_4_2_1,5_3_2,91:01
+3047,231,GerBL2,2255389,Karlsruher SC,1860 Munchen,2017-02-11,12:00:00,Excellent,Sun,6,Cold,3_4_2_1,4_4_2,76:20
+3038,222,GerBL2,2255387,Arminia Bielefeld,Union Berlin,2017-02-12,12:30:00,"Average, Uneven","Cloud, Sun",-1,Freezing,4_3_3,4_2_3_1,85:30
+3039,223,GerBL2,2255383,Sandhausen,Stuttgart,2017-02-12,12:30:00,Excellent,"Cloud, Sun",5,-,4_4_2,4_2_3_1,77:56
+3040,224,GerBL2,2255383,Sandhausen,Stuttgart,2017-02-12,12:30:00,Excellent,"Cloud, Sun",5,-,4_3_3,4_2_3_1,57:41
+3041,225,GerBL2,2255386,Dynamo Dresden,St. Pauli,2017-02-12,12:30:00,"Patchy, Poor",Cloud,0,Freezing,5_4_1,4_4_2,63:58
+3042,226,GerBL2,2255386,Dynamo Dresden,St. Pauli,2017-02-12,12:30:00,"Patchy, Poor",Cloud,0,Freezing,4_2_3_1,4_3_3,45:00
+3043,227,GerBL2,2255386,Dynamo Dresden,St. Pauli,2017-02-12,12:30:00,"Patchy, Poor",Cloud,0,Freezing,4_2_3_1,4_4_2,52:43
+3037,221,GerBL2,2255384,Bochum,Hannover 96,2017-02-13,19:15:00,Average,Cloud,-1,Freezing,4_4_2,4_2_3_1,82:25
+3031,215,GerBL2,2255396,Sandhausen,Kaiserslautern,2017-02-17,17:30:00,Good,Cloud,6,-,4_2_3_1,4_2_2_2,85:17
+3032,216,GerBL2,2255397,Stuttgart,Heidenheim,2017-02-17,17:30:00,Good,"Cloud, Rain",3,Freezing,4_4_2,4_1_4_1,75:49
+3033,217,GerBL2,2255397,Stuttgart,Heidenheim,2017-02-17,17:30:00,Good,"Cloud, Rain",3,Freezing,4_4_2,4_4_2,86:24
+3034,218,GerBL2,2255394,Erzgebirge Aue,Eintracht Braunschweig,2017-02-17,17:30:00,Good,Cloud,6,Cold,4_4_2,4_2_3_1,76:43
+3035,219,GerBL2,2255394,Erzgebirge Aue,Eintracht Braunschweig,2017-02-17,17:30:00,Good,Cloud,6,Cold,4_4_2,4_1_4_1,45:00
+3036,220,GerBL2,2255394,Erzgebirge Aue,Eintracht Braunschweig,2017-02-17,17:30:00,Good,Cloud,6,Cold,3_5_2,4_1_4_1,00:00
+3027,211,GerBL2,2255392,Wurzburger Kickers,Bochum,2017-02-18,12:00:00,Good,Sun,7,Cold,3_4_1_2,3_4_1_2,87:10
+3028,212,GerBL2,2255392,Wurzburger Kickers,Bochum,2017-02-18,12:00:00,Good,Sun,7,Cold,4_2_3_1,3_4_1_2,00:00
+3029,213,GerBL2,2255395,Fortuna Dusseldorf,Greuther Furth,2017-02-18,12:00:00,Average,Clear,6,Cold,3_4_1_2,3_4_2_1,76:54
+3030,214,GerBL2,2255395,Fortuna Dusseldorf,Greuther Furth,2017-02-18,12:00:00,Average,Clear,6,Cold,3_4_1_2,4_2_3_1,64:32
+3023,207,GerBL2,2255398,St. Pauli,Arminia Bielefeld,2017-02-19,12:30:00,Average,"Light Rain, Wind",6,-,4_2_3_1,4_2_3_1,81:11
+3024,208,GerBL2,2255393,Union Berlin,Karlsruher SC,2017-02-19,12:30:00,Good,Clear,8,Cold,4_4_2,4_3_3,87:42
+3025,209,GerBL2,2255400,Hannover 96,Dynamo Dresden,2017-02-19,12:30:00,Excellent,Cloud,6,Cold,4_4_2,4_2_3_1,83:45
+3026,210,GerBL2,2255400,Hannover 96,Dynamo Dresden,2017-02-19,12:30:00,Excellent,Cloud,6,Cold,4_3_3,4_2_3_1,00:00
+3022,206,GerBL2,2255399,Nurnberg,1860 Munchen,2017-02-20,19:15:00,Good,Cloud,7,Cold,3_4_3,4_2_3_1,76:42
+3019,203,GerBL2,2255406,Eintracht Braunschweig,Sandhausen,2017-02-24,17:30:00,Good,"Cloud, Rain",6,Cold,4_2_3_1,4_4_2,82:00
+3020,204,GerBL2,2255409,Greuther Furth,Wurzburger Kickers,2017-02-24,17:30:00,Good,Clear,3,Freezing,3_4_1_2,3_4_1_2,77:50
+3021,205,GerBL2,2255405,1860 Munchen,Union Berlin,2017-02-24,17:30:00,"Dry, Good",Clear,3,Cold,4_3_3,3_4_3,81:32
+3016,200,GerBL2,2255402,Arminia Bielefeld,Hannover 96,2017-02-25,12:00:00,Good,Cloud,6,-,4_2_3_1,4_4_2,75:19
+3017,201,GerBL2,2255402,Arminia Bielefeld,Hannover 96,2017-02-25,12:00:00,Good,Cloud,6,-,4_4_2,4_4_2,85:46
+3018,202,GerBL2,2255407,Heidenheim,Fortuna Dusseldorf,2017-02-25,12:00:00,Good,"Cloud, Sun",6,Cold,4_1_4_1,4_4_2,83:22
+3010,194,GerBL2,2255403,Bochum,Nurnberg,2017-02-26,12:30:00,Excellent,"Clear, Sun",9,Cold,4_1_4_1,4_2_3_1,76:54
+3011,195,GerBL2,2255403,Bochum,Nurnberg,2017-02-26,12:30:00,Excellent,"Clear, Sun",9,Cold,4_4_2,4_2_3_1,72:43
+3012,196,GerBL2,2255403,Bochum,Nurnberg,2017-02-26,12:30:00,Excellent,"Clear, Sun",9,Cold,4_4_2,3_4_1_2,60:37
+3013,197,GerBL2,2255403,Bochum,Nurnberg,2017-02-26,12:30:00,Excellent,"Clear, Sun",9,Cold,4_1_4_1,5_4_1,85:47
+3014,198,GerBL2,2255408,Dynamo Dresden,Erzgebirge Aue,2017-02-26,12:30:00,Excellent,Sun,13,Warm,4_4_2,4_3_3,77:20
+3015,199,GerBL2,2255401,Kaiserslautern,Stuttgart,2017-02-26,12:30:00,Good,Cloud,9,Cold,4_1_4_1,4_2_3_1,76:19
+3006,190,GerBL2,2255404,Karlsruher SC,St. Pauli,2017-02-27,19:15:00,Average,Cloud,10,Warm,4_2_3_1,4_4_2,69:45
+3007,191,GerBL2,2255404,Karlsruher SC,St. Pauli,2017-02-27,19:15:00,Average,Cloud,10,Warm,4_2_3_1,4_1_4_1,45:00
+3008,192,GerBL2,2255404,Karlsruher SC,St. Pauli,2017-02-27,19:15:00,Average,Rain,10,Warm,4_2_3_1,4_4_2,69:45
+3009,193,GerBL2,2255404,Karlsruher SC,St. Pauli,2017-02-27,19:15:00,Average,Rain,10,Warm,4_2_3_1,4_1_4_1,45:00
+3001,185,GerBL2,2255410,Fortuna Dusseldorf,Bochum,2017-03-03,17:30:00,"Good, Wet","Cloud, Light Rain",7,Cold,4_2_3_1,4_2_3_1,88:57
+3002,186,GerBL2,2255418,Kaiserslautern,Dynamo Dresden,2017-03-03,17:30:00,Excellent,Clear,9,Cold,4_3_3,4_2_3_1,83:37
+3003,187,GerBL2,2255411,Wurzburger Kickers,Union Berlin,2017-03-03,17:30:00,Average,Clear,9,-,4_4_1_1,4_4_2,82:59
+3004,188,GerBL2,2255411,Wurzburger Kickers,Union Berlin,2017-03-03,17:30:00,Average,Clear,9,-,4_4_1_1,4_1_2_1_2,45:00
+3005,189,GerBL2,2255411,Wurzburger Kickers,Union Berlin,2017-03-03,17:30:00,Average,Clear,9,-,4_2_3_1,4_1_2_1_2,00:00
+2997,181,GerBL2,2255417,St. Pauli,1860 Munchen,2017-03-04,12:00:00,Good,"Sun, Wind",17,-,3_4_2_1,4_2_3_1,74:34
+2998,182,GerBL2,2255412,Hannover 96,Karlsruher SC,2017-03-04,12:00:00,Good,"Clear, Sun",13,Warm,4_2_3_1,3_5_2,81:35
+2999,183,GerBL2,2255412,Hannover 96,Karlsruher SC,2017-03-04,12:00:00,Good,"Clear, Sun",13,Warm,4_2_3_1,4_2_2_2,66:03
+3000,184,GerBL2,2255412,Hannover 96,Karlsruher SC,2017-03-04,12:00:00,Good,"Clear, Sun",13,Warm,4_2_3_1,4_2_3_1,45:00
+2994,178,GerBL2,2255416,Erzgebirge Aue,Arminia Bielefeld,2017-03-05,12:30:00,"Good, Patchy",Clear,11,Warm,4_2_3_1,4_1_4_1,80:35
+2995,179,GerBL2,2255414,Nurnberg,Greuther Furth,2017-03-05,12:30:00,Excellent,"Cloud, Sun",17,Warm,3_4_2_1,3_5_2,85:15
+2996,180,GerBL2,2255415,Sandhausen,Heidenheim,2017-03-05,12:30:00,Good,Clear,10,Warm,4_4_1_1,4_4_2,90:42
+2992,176,GerBL2,2255413,Stuttgart,Eintracht Braunschweig,2017-03-06,19:15:00,Poor,"Cloud, Wind",9,Cold,4_4_2,4_4_1_1,74:32
+2993,177,GerBL2,2255413,Stuttgart,Eintracht Braunschweig,2017-03-06,19:15:00,Poor,"Cloud, Wind",9,Cold,4_4_2,4_1_4_1,00:00
+2985,169,GerBL2,2255422,Union Berlin,St. Pauli,2017-03-10,17:30:00,Good,Cloud,7,Cold,4_2_3_1,4_2_3_1,90:00
+2986,170,GerBL2,2255422,Union Berlin,St. Pauli,2017-03-10,17:30:00,Good,Cloud,7,Cold,4_4_2,4_2_3_1,00:00
+2987,171,GerBL2,2255426,Karlsruher SC,Erzgebirge Aue,2017-03-10,17:30:00,Average,Clear,3,Cold,3_4_3,4_4_2,81:34
+2988,172,GerBL2,2255426,Karlsruher SC,Erzgebirge Aue,2017-03-10,17:30:00,Average,Clear,3,Cold,3_4_3,4_2_3_1,61:07
+2989,173,GerBL2,2255419,Bochum,Stuttgart,2017-03-10,17:30:00,"Good, Wet",Clear,7,Cold,4_2_2_2,4_2_3_1,65:09
+2990,174,GerBL2,2255419,Bochum,Stuttgart,2017-03-10,17:30:00,"Good, Wet",Clear,7,Cold,4_1_4_1,4_2_3_1,57:16
+2991,175,GerBL2,2255419,Bochum,Stuttgart,2017-03-10,17:30:00,"Good, Wet",Clear,7,Cold,4_2_2_2,4_4_1_1,82:49
+2983,167,GerBL2,2255420,1860 Munchen,Hannover 96,2017-03-11,12:00:00,Good,"Clear, Sun",9,Cold,4_2_3_1,3_4_3,76:22
+2984,168,GerBL2,2255427,Dynamo Dresden,Wurzburger Kickers,2017-03-11,12:00:00,Average,"Cloud, Light Wind, Sun",10,Cold,4_5_1,4_3_3,82:53
+2977,161,GerBL2,2255424,Greuther Furth,Sandhausen,2017-03-12,12:30:00,Good,"Cloud, Sun",12,-,4_2_3_1,3_4_3,78:09
+2978,162,GerBL2,2255424,Greuther Furth,Sandhausen,2017-03-12,12:30:00,Good,"Cloud, Sun",12,-,4_2_3_1,3_4_1_2,63:03
+2979,163,GerBL2,2255423,Heidenheim,Kaiserslautern,2017-03-12,12:30:00,"Average, Patchy","Clear, Sun",13,Warm,4_2_3_1,4_4_2,85:10
+2980,164,GerBL2,2255423,Heidenheim,Kaiserslautern,2017-03-12,12:30:00,"Average, Patchy","Clear, Sun",13,Warm,4_2_3_1,4_1_4_1,71:38
+2981,165,GerBL2,2255421,Arminia Bielefeld,Nurnberg,2017-03-12,12:30:00,Excellent,"Clear, Sun",11,Warm,4_1_4_1,3_5_2,84:54
+2982,166,GerBL2,2255421,Arminia Bielefeld,Nurnberg,2017-03-12,12:30:00,Excellent,"Clear, Sun",11,Warm,4_1_4_1,4_2_3_1,75:40
+2976,160,GerBL2,2255425,Eintracht Braunschweig,Fortuna Dusseldorf,2017-03-13,19:15:00,Good,Cloud,7,-,4_1_4_1,4_3_1_2,84:36
+2971,155,GerBL2,2255434,Kaiserslautern,Arminia Bielefeld,2017-03-17,17:30:00,Good,Cloud,8,Cold,4_2_3_1,3_4_3,75:32
+2972,156,GerBL2,2255434,Kaiserslautern,Arminia Bielefeld,2017-03-17,17:30:00,Good,Cloud,8,Cold,4_2_3_1,4_3_3,61:30
+2973,157,GerBL2,2255434,Kaiserslautern,Arminia Bielefeld,2017-03-17,17:30:00,Good,Cloud,8,Cold,4_2_3_1,4_4_2,00:00
+2974,158,GerBL2,2255435,Wurzburger Kickers,1860 Munchen,2017-03-17,17:30:00,Excellent,Cloud,13,Warm,3_4_3,3_5_2,71:26
+2975,159,GerBL2,2255432,Heidenheim,Eintracht Braunschweig,2017-03-17,17:30:00,Good,Clear,7,Cold,4_1_2_1_2,4_1_4_1,74:57
+2969,153,GerBL2,2255433,Stuttgart,Greuther Furth,2017-03-18,12:00:00,Good,"Cloud, Strong Wind",8,-,4_2_3_1,3_4_2_1,85:30
+2970,154,GerBL2,2255428,Hannover 96,St. Pauli,2017-03-18,12:00:00,Good,"Cloud, Strong Wind",7,-,4_2_3_1,4_2_3_1,77:16
+2964,148,GerBL2,2255431,Fortuna Dusseldorf,Karlsruher SC,2017-03-19,12:30:00,Good,"Clear, Cloud, Sun",13,Warm,4_4_2,4_1_4_1,71:32
+2965,149,GerBL2,2255431,Fortuna Dusseldorf,Karlsruher SC,2017-03-19,12:30:00,Good,"Clear, Cloud, Sun",13,Warm,4_2_3_1,4_1_4_1,00:00
+2966,150,GerBL2,2255436,Sandhausen,Dynamo Dresden,2017-03-19,12:30:00,Good,"Light Rain, Wind",6,-,4_1_4_1,4_2_2_2,80:00
+2967,151,GerBL2,2255429,Erzgebirge Aue,Bochum,2017-03-19,12:30:00,Good,"Cloud, Sun",11,Warm,3_4_1_2,3_4_3,74:30
+2968,152,GerBL2,2255429,Erzgebirge Aue,Bochum,2017-03-19,12:30:00,Good,"Cloud, Sun",11,Warm,4_2_3_1,3_4_3,45:00
+2961,145,GerBL2,2255430,Nurnberg,Union Berlin,2017-03-20,19:15:00,Good,Cloud,12,Warm,4_3_3,4_4_2,87:47
+2962,146,GerBL2,2255430,Nurnberg,Union Berlin,2017-03-20,19:15:00,Good,Cloud,12,Warm,4_2_3_1,4_1_4_1,73:45
+2963,147,GerBL2,2255430,Nurnberg,Union Berlin,2017-03-20,19:15:00,Good,Cloud,12,Warm,4_3_3,4_1_4_1,51:07
+2955,139,GerBL2,2255439,Karlsruher SC,Nurnberg,2017-03-31,16:30:00,Good,"Cloud, Sun",23,-,4_1_4_1,4_2_3_1,81:01
+2956,140,GerBL2,2255443,1860 Munchen,Fortuna Dusseldorf,2017-03-31,16:30:00,Excellent,"Clear, Sun",21,Warm,4_2_3_1,5_3_2,85:25
+2957,141,GerBL2,2255443,1860 Munchen,Fortuna Dusseldorf,2017-03-31,16:30:00,Excellent,"Clear, Sun",21,Warm,4_2_3_1,3_4_3,72:43
+2958,142,GerBL2,2255443,1860 Munchen,Fortuna Dusseldorf,2017-03-31,16:30:00,Excellent,"Clear, Sun",21,Warm,4_1_4_1,3_4_3,59:58
+2959,143,GerBL2,2255444,St. Pauli,Erzgebirge Aue,2017-03-31,16:30:00,"Average, Soft, Wet",Sun,23,Warm,3_4_3,4_2_3_1,76:10
+2960,144,GerBL2,2255444,St. Pauli,Erzgebirge Aue,2017-03-31,16:30:00,"Average, Soft, Wet",Sun,23,Warm,3_4_3,4_1_4_1,85:34
+2949,133,GerBL2,2255442,Bochum,Sandhausen,2017-04-01,11:00:00,Good,"Clear, Sun",18,Warm,4_1_4_1,3_4_1_2,73:09
+2950,134,GerBL2,2255442,Bochum,Sandhausen,2017-04-01,11:00:00,Good,"Clear, Sun",18,Warm,4_4_2,3_4_1_2,62:27
+2951,135,GerBL2,2255442,Bochum,Sandhausen,2017-04-01,11:00:00,Good,"Clear, Sun",18,Warm,4_4_2,3_5_2,00:00
+2952,136,GerBL2,2255438,Union Berlin,Hannover 96,2017-04-01,11:00:00,Good,"Clear, Sun",20,-,4_5_1,4_3_3,82:10
+2953,137,GerBL2,2255438,Union Berlin,Hannover 96,2017-04-01,11:00:00,Good,"Clear, Sun",20,-,4_4_2,4_3_3,77:30
+2954,138,GerBL2,2255445,Arminia Bielefeld,Wurzburger Kickers,2017-04-01,11:00:00,Good,Sun,20,Warm,3_4_1_2,4_2_3_1,75:56
+2944,128,GerBL2,2255440,Eintracht Braunschweig,Kaiserslautern,2017-04-02,11:30:00,Good,"Cloud, Sun",15,-,3_5_2,4_3_3,86:27
+2945,129,GerBL2,2255441,Greuther Furth,Heidenheim,2017-04-02,11:30:00,"Dry, Good","Clear, Sun",16,Warm,4_2_2_2,4_2_3_1,82:04
+2946,130,GerBL2,2255441,Greuther Furth,Heidenheim,2017-04-02,11:30:00,"Dry, Good","Clear, Sun",16,Warm,3_5_2,4_2_3_1,00:00
+2947,131,GerBL2,2255437,Dynamo Dresden,Stuttgart,2017-04-02,11:30:00,Excellent,"Clear, Sun",14,Warm,4_2_3_1,4_2_3_1,71:16
+2948,132,GerBL2,2255437,Dynamo Dresden,Stuttgart,2017-04-02,11:30:00,Excellent,"Clear, Sun",14,Warm,4_2_3_1,4_3_3,67:10
+2935,119,GerBL2,2255447,Sandhausen,St. Pauli,2017-04-04,15:30:00,Good,Clear,13,Warm,4_1_4_1,_,82:30
+2936,120,GerBL2,2255447,Sandhausen,St. Pauli,2017-04-04,15:30:00,Good,Clear,13,Warm,4_2_3_1,4_2_3_1,14:56
+2937,121,GerBL2,2255447,Sandhausen,St. Pauli,2017-04-04,15:30:00,Good,Clear,13,Warm,4_1_4_1,4_2_3_1,00:00
+2938,122,GerBL2,2255446,Nurnberg,Hannover 96,2017-04-04,15:30:00,Excellent,Cloud,13,Warm,4_1_4_1,4_3_3,84:57
+2939,123,GerBL2,2255446,Nurnberg,Hannover 96,2017-04-04,15:30:00,Excellent,Cloud,13,Warm,4_4_2,4_3_3,77:08
+2940,124,GerBL2,2255452,Fortuna Dusseldorf,Arminia Bielefeld,2017-04-04,15:30:00,"Dry, Good","Clear, Sun",13,Warm,4_2_3_1,4_1_4_1,85:23
+2941,125,GerBL2,2255450,Wurzburger Kickers,Karlsruher SC,2017-04-04,15:30:00,"Good, Uneven","Light Wind, Sun",14,Warm,4_2_2_2,5_4_1,76:54
+2942,126,GerBL2,2255450,Wurzburger Kickers,Karlsruher SC,2017-04-04,15:30:00,"Good, Uneven","Light Wind, Sun",14,Warm,4_2_2_2,3_5_2,60:14
+2943,127,GerBL2,2255450,Wurzburger Kickers,Karlsruher SC,2017-04-04,15:30:00,"Good, Uneven","Light Wind, Sun",14,Warm,4_2_3_1,3_5_2,60:03
+2923,107,GerBL2,2255453,Stuttgart,1860 Munchen,2017-04-05,15:30:00,Good,Cloud,10,-,3_5_2,4_4_2,71:46
+2924,108,GerBL2,2255453,Stuttgart,1860 Munchen,2017-04-05,15:30:00,Good,Cloud,10,-,3_4_3,4_4_2,60:01
+2925,109,GerBL2,2255453,Stuttgart,1860 Munchen,2017-04-05,15:30:00,Good,Cloud,10,-,3_4_3,4_2_3_1,00:00
+2926,110,GerBL2,2255451,Eintracht Braunschweig,Greuther Furth,2017-04-05,15:30:00,Excellent,Cloud,11,Cold,4_2_3_1,4_4_1_1,74:13
+2927,111,GerBL2,2255451,Eintracht Braunschweig,Greuther Furth,2017-04-05,15:30:00,Excellent,Cloud,11,Cold,4_2_3_1,3_5_2,00:00
+2928,112,GerBL2,2255451,Eintracht Braunschweig,Greuther Furth,2017-04-05,15:30:00,Excellent,Cloud,11,Cold,4_2_3_1,4_3_3,45:05
+2929,113,GerBL2,2255448,Kaiserslautern,Bochum,2017-04-05,15:30:00,Good,"Cloud, Sun",9,Cold,4_1_2_1_2,3_5_2,80:56
+2930,114,GerBL2,2255448,Kaiserslautern,Bochum,2017-04-05,15:30:00,Good,"Cloud, Sun",9,Cold,3_4_1_2,3_5_2,68:33
+2931,115,GerBL2,2255449,Erzgebirge Aue,Union Berlin,2017-04-05,15:30:00,Good,Cloud,9,Cold,4_3_3,3_4_1_2,85:39
+2932,116,GerBL2,2255449,Erzgebirge Aue,Union Berlin,2017-04-05,15:30:00,Good,Cloud,9,Cold,4_2_3_1,3_4_2_1,55:57
+2933,117,GerBL2,2255449,Erzgebirge Aue,Union Berlin,2017-04-05,15:30:00,Good,Cloud,9,Cold,4_2_3_1,3_4_1_2,64:19
+2934,118,GerBL2,2255454,Heidenheim,Dynamo Dresden,2017-04-05,15:30:00,Excellent,Cloud,11,Cold,4_3_3,4_2_3_1,87:16
+2919,103,GerBL2,2255460,Arminia Bielefeld,Sandhausen,2017-04-07,16:30:00,Excellent,"Clear, Sun",11,Cold,4_4_2,4_2_3_1,69:55
+2920,104,GerBL2,2255463,Hannover 96,Wurzburger Kickers,2017-04-07,16:30:00,Good,Cloud,8,Cold,3_1_3_1_2,4_4_2,79:06
+2921,105,GerBL2,2255463,Hannover 96,Wurzburger Kickers,2017-04-07,16:30:00,Good,Cloud,8,Cold,3_5_1_1,4_4_2,87:24
+2922,106,GerBL2,2255456,St. Pauli,Nurnberg,2017-04-07,16:30:00,Good,"Cloud, Wind",10,-,3_4_1_2,4_2_2_2,75:37
+2916,100,GerBL2,2255458,Greuther Furth,Kaiserslautern,2017-04-08,11:00:00,Excellent,Sun,19,Warm,3_5_2,4_2_3_1,73:27
+2917,101,GerBL2,2255458,Greuther Furth,Kaiserslautern,2017-04-08,11:00:00,Excellent,Sun,19,Warm,3_5_2,4_4_2,68:41
+2918,102,GerBL2,2255459,Bochum,Heidenheim,2017-04-08,11:00:00,Good,Sun,16,Warm,4_4_2,3_4_1_2,82:38
+2909,93,GerBL2,2255461,Union Berlin,Fortuna Dusseldorf,2017-04-09,11:30:00,Excellent,"Clear, Sun",19,Warm,4_2_3_1,4_4_2,82:40
+2910,94,GerBL2,2255461,Union Berlin,Fortuna Dusseldorf,2017-04-09,11:30:00,Excellent,"Clear, Sun",19,Warm,4_3_3,4_4_2,57:08
+2911,95,GerBL2,2255461,Union Berlin,Fortuna Dusseldorf,2017-04-09,11:30:00,Excellent,"Clear, Sun",19,Warm,4_2_3_1,4_2_3_1,84:48
+2912,96,GerBL2,2255455,Karlsruher SC,Stuttgart,2017-04-09,11:30:00,Excellent,"Clear, Sun",17,Warm,4_1_4_1,3_4_2_1,71:32
+2913,97,GerBL2,2255455,Karlsruher SC,Stuttgart,2017-04-09,11:30:00,Excellent,"Clear, Sun",17,Warm,4_2_3_1,3_4_2_1,51:34
+2914,98,GerBL2,2255462,1860 Munchen,Erzgebirge Aue,2017-04-09,11:30:00,Excellent,Sun,19,Warm,3_4_3,3_4_3,67:21
+2915,99,GerBL2,2255462,1860 Munchen,Erzgebirge Aue,2017-04-09,11:30:00,Excellent,Sun,19,Warm,3_4_3,4_4_1_1,40:01
+2908,92,GerBL2,2255457,Dynamo Dresden,Eintracht Braunschweig,2017-04-10,18:15:00,Good,"Clear, Cloud",10,-,4_2_3_1,4_3_3,89:14
+2906,90,GerBL2,2255465,Erzgebirge Aue,Nurnberg,2017-04-15,11:00:00,Good,Cloud,12,-,4_1_4_1,3_4_3,84:35
+2907,91,GerBL2,2255464,Eintracht Braunschweig,Hannover 96,2017-04-15,11:00:00,"Excellent, Soft",Cloud,8,Cold,4_2_3_1,4_1_2_1_2,85:07
+2894,78,GerBL2,2255472,Fortuna Dusseldorf,Dynamo Dresden,2017-04-16,11:30:00,Excellent,"Cloud, Sun",6,Cold,4_3_3,4_2_3_1,63:50
+2895,79,GerBL2,2255469,Heidenheim,Karlsruher SC,2017-04-16,11:30:00,Good,"Cloud, Rain",7,Cold,3_4_1_2,4_4_2,75:54
+2896,80,GerBL2,2255469,Heidenheim,Karlsruher SC,2017-04-16,11:30:00,Good,"Cloud, Rain",7,Cold,3_4_1_2,4_4_1_1,79:08
+2897,81,GerBL2,2255471,Sandhausen,1860 Munchen,2017-04-16,11:30:00,"Good, Wet","Cloud, Light Rain, Sun",8,-,3_4_1_2,4_4_2,79:40
+2898,82,GerBL2,2255471,Sandhausen,1860 Munchen,2017-04-16,11:30:00,"Good, Wet","Cloud, Light Rain, Sun",8,-,3_4_3,4_4_2,70:13
+2899,83,GerBL2,2255471,Sandhausen,1860 Munchen,2017-04-16,11:30:00,"Good, Wet","Cloud, Light Rain, Sun",8,-,3_4_3,4_3_3,35:53
+2900,84,GerBL2,2255466,Wurzburger Kickers,St. Pauli,2017-04-16,11:30:00,"Good, Wet","Cloud, Rain, Sun",10,Cold,4_4_2,4_1_4_1,79:40
+2901,85,GerBL2,2255466,Wurzburger Kickers,St. Pauli,2017-04-16,11:30:00,"Good, Wet","Cloud, Rain, Sun",10,Cold,4_2_3_1,4_1_4_1,65:19
+2902,86,GerBL2,2255466,Wurzburger Kickers,St. Pauli,2017-04-16,11:30:00,"Good, Wet","Cloud, Rain, Sun",10,Cold,4_4_2,4_4_2,87:51
+2903,87,GerBL2,2255467,Greuther Furth,Bochum,2017-04-16,11:30:00,"Good, Soft",Cloud,8,Cold,3_4_1_2,3_4_1_2,81:53
+2904,88,GerBL2,2255468,Kaiserslautern,Union Berlin,2017-04-16,11:30:00,Good,Clear,16,-,4_4_2,5_3_2,83:32
+2905,89,GerBL2,2255468,Kaiserslautern,Union Berlin,2017-04-16,11:30:00,Good,Clear,16,-,4_2_3_1,5_3_2,19:46
+2892,76,GerBL2,2255470,Stuttgart,Arminia Bielefeld,2017-04-17,18:15:00,Excellent,Cloud,8,Cold,4_2_3_1,4_4_2,77:15
+2893,77,GerBL2,2255470,Stuttgart,Arminia Bielefeld,2017-04-17,18:15:00,Excellent,Cloud,8,Cold,4_2_3_1,4_2_3_1,60:54
+2886,70,GerBL2,2255476,1860 Munchen,Kaiserslautern,2017-04-21,16:30:00,Good,"Cloud, Sun",8,Cold,3_5_2,3_4_3,78:12
+2887,71,GerBL2,2255479,St. Pauli,Fortuna Dusseldorf,2017-04-21,16:30:00,Good,Cloud,13,-,4_4_1_1,4_4_2,85:14
+2888,72,GerBL2,2255479,St. Pauli,Fortuna Dusseldorf,2017-04-21,16:30:00,Good,Cloud,13,-,4_4_1_1,4_2_3_1,65:29
+2889,73,GerBL2,2255479,St. Pauli,Fortuna Dusseldorf,2017-04-21,16:30:00,Good,Cloud,13,-,4_2_3_1,4_2_3_1,41:55
+2890,74,GerBL2,2255475,Dynamo Dresden,Greuther Furth,2017-04-21,16:30:00,"Average, Soft","Clear, Light Wind",11,Cold,4_3_3,4_1_4_1,76:26
+2891,75,GerBL2,2255475,Dynamo Dresden,Greuther Furth,2017-04-21,16:30:00,"Average, Soft","Clear, Light Wind",11,Cold,4_3_3,4_3_2_1,45:00
+2884,68,GerBL2,2255477,Arminia Bielefeld,Heidenheim,2017-04-22,11:00:00,Excellent,Cloud,10,Warm,4_1_4_1,4_2_3_1,81:24
+2885,69,GerBL2,2255480,Hannover 96,Erzgebirge Aue,2017-04-22,11:00:00,Good,Cloud,7,-,3_4_3,4_2_3_1,79:08
+2879,63,GerBL2,2255474,Bochum,Eintracht Braunschweig,2017-04-23,11:30:00,"Good, Patchy",Clear,10,-,4_4_2,3_5_2,81:30
+2880,64,GerBL2,2255478,Karlsruher SC,Sandhausen,2017-04-23,11:30:00,Excellent,"Clear, Sun",9,Warm,4_2_3_1,4_3_3,71:57
+2881,65,GerBL2,2255478,Karlsruher SC,Sandhausen,2017-04-23,11:30:00,Excellent,"Clear, Sun",9,Warm,4_2_3_1,3_4_1_2,45:00
+2882,66,GerBL2,2255481,Nurnberg,Wurzburger Kickers,2017-04-23,11:30:00,Excellent,Cloud,8,Cold,4_2_3_1,4_2_3_1,72:45
+2883,67,GerBL2,2255481,Nurnberg,Wurzburger Kickers,2017-04-23,11:30:00,Excellent,Cloud,8,Cold,4_2_3_1,4_4_2,72:57
+2878,62,GerBL2,2255473,Union Berlin,Stuttgart,2017-04-24,18:15:00,Excellent,Cloud,15,Warm,4_2_3_1,4_3_3,79:38
+2873,57,GerBL2,2255486,Sandhausen,Union Berlin,2017-04-28,16:30:00,Good,"Clear, Sun",11,-,4_4_2,4_2_3_1,82:22
+2874,58,GerBL2,2255486,Sandhausen,Union Berlin,2017-04-28,16:30:00,Good,"Clear, Sun",11,-,4_3_3,4_2_3_1,00:00
+2875,59,GerBL2,2255485,Dynamo Dresden,Bochum,2017-04-28,16:30:00,Good,Cloud,10,Cold,3_4_1_2,4_3_3,77:44
+2876,60,GerBL2,2255484,Heidenheim,St. Pauli,2017-04-28,16:30:00,"Excellent, Wet","Cloud, Rain",8,Cold,4_4_2,4_4_1_1,80:57
+2877,61,GerBL2,2255484,Heidenheim,St. Pauli,2017-04-28,16:30:00,"Excellent, Wet","Cloud, Rain",8,Cold,4_4_2,4_4_2,75:18
+2867,51,GerBL2,2255487,Kaiserslautern,Karlsruher SC,2017-04-29,11:00:00,Good,"Clear, Cloud",14,-,3_4_1_2,3_5_2,79:43
+2868,52,GerBL2,2255487,Kaiserslautern,Karlsruher SC,2017-04-29,11:00:00,Good,"Clear, Cloud",14,-,3_4_3,3_5_2,69:09
+2869,53,GerBL2,2255487,Kaiserslautern,Karlsruher SC,2017-04-29,11:00:00,Good,"Clear, Cloud",14,-,3_5_2,3_5_2,61:25
+2870,54,GerBL2,2255483,Stuttgart,Nurnberg,2017-04-29,11:00:00,Good,Cloud,12,Warm,4_2_3_1,4_4_2,70:05
+2871,55,GerBL2,2255483,Stuttgart,Nurnberg,2017-04-29,11:00:00,Good,Cloud,12,Warm,4_2_3_1,4_2_3_1,00:00
+2872,56,GerBL2,2255488,Greuther Furth,Arminia Bielefeld,2017-04-29,11:00:00,Good,"Cloud, Sun",10,Cold,4_2_3_1,3_4_1_2,86:58
+2863,47,GerBL2,2255489,Eintracht Braunschweig,1860 Munchen,2017-04-30,11:30:00,Good,"Sun, Wind",13,-,3_4_2_1,4_2_3_1,72:33
+2864,48,GerBL2,2255482,Fortuna Dusseldorf,Hannover 96,2017-04-30,11:30:00,Good,"Sun, Wind",14,-,4_2_2_2,3_4_1_2,87:35
+2865,49,GerBL2,2255490,Wurzburger Kickers,Erzgebirge Aue,2017-04-30,11:30:00,"Average, Patchy","Cloud, Sun",13,Warm,3_4_1_2,3_4_1_2,74:05
+2866,50,GerBL2,2255490,Wurzburger Kickers,Erzgebirge Aue,2017-04-30,11:30:00,"Average, Patchy","Cloud, Sun",13,Warm,3_4_1_2,4_1_4_1,00:00
+2859,43,GerBL2,2255496,Hannover 96,Heidenheim,2017-05-05,16:30:00,Average,"Clear, Light Wind",12,-,4_2_2_2,4_2_2_2,91:02
+2860,44,GerBL2,2255495,St. Pauli,Kaiserslautern,2017-05-05,16:30:00,Good,Clear,13,-,3_4_3,4_4_2,77:32
+2861,45,GerBL2,2255495,St. Pauli,Kaiserslautern,2017-05-05,16:30:00,Good,Clear,13,-,3_1_3_1_2,4_4_2,00:00
+2862,46,GerBL2,2255499,1860 Munchen,Dynamo Dresden,2017-05-05,16:30:00,Good,"Cloud, Sun",11,-,4_3_3,3_4_3,82:03
+2857,41,GerBL2,2255497,Nurnberg,Sandhausen,2017-05-06,11:00:00,Good,Sun,22,Warm,4_4_2,4_1_4_1,88:50
+2858,42,GerBL2,2255498,Wurzburger Kickers,Fortuna Dusseldorf,2017-05-06,11:00:00,"Dry, Good","Clear, Sun",12,Warm,4_3_3,3_5_2,78:29
+2852,36,GerBL2,2255491,Erzgebirge Aue,Stuttgart,2017-05-07,11:30:00,"Excellent, Wet","Cloud, Light Rain",14,Warm,4_4_2,3_4_1_2,81:23
+2853,37,GerBL2,2255491,Erzgebirge Aue,Stuttgart,2017-05-07,11:30:00,"Excellent, Wet","Cloud, Light Rain",14,Warm,4_2_3_1,3_4_1_2,56:02
+2854,38,GerBL2,2255492,Arminia Bielefeld,Bochum,2017-05-07,11:30:00,"Dry, Good","Cloud, Sun",15,Warm,3_4_1_2,4_2_3_1,68:26
+2855,39,GerBL2,2255494,Karlsruher SC,Greuther Furth,2017-05-07,11:30:00,Good,"Cloud, Light Rain",11,-,4_4_2,3_4_1_2,76:15
+2856,40,GerBL2,2255494,Karlsruher SC,Greuther Furth,2017-05-07,11:30:00,Good,"Cloud, Light Rain",11,-,3_4_3,3_4_1_2,64:20
+2851,35,GerBL2,2255493,Union Berlin,Eintracht Braunschweig,2017-05-08,18:15:00,Good,"Cloud, Sun",10,Warm,4_1_2_1_2,4_2_3_1,70:10
+2833,17,GerBL2,2255502,Greuther Furth,St. Pauli,2017-05-14,13:30:00,Good,"Cloud, Sun",20,-,4_2_3_1,3_5_1_1,78:20
+2834,18,GerBL2,2255506,Bochum,1860 Munchen,2017-05-14,13:30:00,Good,Clear,16,Warm,3_4_3,3_4_1_2,83:21
+2835,19,GerBL2,2255506,Bochum,1860 Munchen,2017-05-14,13:30:00,Good,Clear,16,Warm,4_4_2,3_4_1_2,84:51
+2836,20,GerBL2,2255500,Stuttgart,Hannover 96,2017-05-14,13:30:00,"Excellent, Soft","Clear, Sun",20,Warm,4_2_3_1,4_4_2,81:21
+2837,21,GerBL2,2255500,Stuttgart,Hannover 96,2017-05-14,13:30:00,"Excellent, Soft","Clear, Sun",20,Warm,4_5_1,4_4_2,73:34
+2838,22,GerBL2,2255500,Stuttgart,Hannover 96,2017-05-14,13:30:00,"Excellent, Soft","Clear, Sun",20,Warm,4_4_2,4_4_2,51:02
+2839,23,GerBL2,2255500,Stuttgart,Hannover 96,2017-05-14,13:30:00,"Excellent, Soft","Clear, Sun",20,Warm,4_4_2,4_2_3_1,00:00
+2840,24,GerBL2,2255503,Heidenheim,Union Berlin,2017-05-14,13:30:00,Excellent,"Cloud, Rain",20,Warm,4_2_3_1,4_3_3,77:50
+2841,25,GerBL2,2255501,Fortuna Dusseldorf,Nurnberg,2017-05-14,13:30:00,,"Cloud, Rain",18,-,4_2_3_1,4_2_3_1,90:56
+2842,26,GerBL2,2255501,Fortuna Dusseldorf,Nurnberg,2017-05-14,13:30:00,"Average, Wet","Cloud, Rain",18,-,4_2_3_1,4_2_3_1,90:56
+2843,27,GerBL2,2255505,Eintracht Braunschweig,Arminia Bielefeld,2017-05-14,13:30:00,Excellent,"Clear, Sun",18,Warm,4_2_3_1,4_1_2_1_2,78:29
+2844,28,GerBL2,2255504,Dynamo Dresden,Karlsruher SC,2017-05-14,13:30:00,"Good, Patchy","Cloud, Light Rain, Wind",19,Warm,3_4_1_2,4_3_3,77:10
+2845,29,GerBL2,2255504,Dynamo Dresden,Karlsruher SC,2017-05-14,13:30:00,"Good, Patchy","Cloud, Light Rain, Wind",19,Warm,3_4_1_2,3_4_2_1,21:58
+2846,30,GerBL2,2255508,Sandhausen,Wurzburger Kickers,2017-05-14,13:30:00,Good,Cloud,18,Warm,3_4_2_1,4_5_1,55:16
+2847,31,GerBL2,2255508,Sandhausen,Wurzburger Kickers,2017-05-14,13:30:00,Good,Cloud,18,Warm,3_4_2_1,4_2_2_2,49:36
+2848,32,GerBL2,2255508,Sandhausen,Wurzburger Kickers,2017-05-14,13:30:00,Good,"Cloud, Rain, Wind",18,Warm,3_4_2_1,4_5_1,55:16
+2849,33,GerBL2,2255508,Sandhausen,Wurzburger Kickers,2017-05-14,13:30:00,Good,"Cloud, Rain, Wind",18,Warm,3_4_2_1,4_2_2_2,49:36
+2850,34,GerBL2,2255507,Kaiserslautern,Erzgebirge Aue,2017-05-14,13:30:00,Good,Cloud,20,Hot,3_4_3,3_5_2,79:36
+2816,0,GerBL2,2255511,Karlsruher SC,Eintracht Braunschweig,2017-05-21,13:30:00,Excellent,"Cloud, Sun",21,Warm,4_3_3,3_4_2_1,76:52
+2817,1,GerBL2,2255516,Erzgebirge Aue,Fortuna Dusseldorf,2017-05-21,13:30:00,Good,Sun,20,-,3_5_2,3_4_3,81:55
+2818,2,GerBL2,2255510,St. Pauli,Bochum,2017-05-21,13:30:00,Excellent,Sun,19,-,3_4_1_2,3_5_2,68:37
+2819,3,GerBL2,2255510,St. Pauli,Bochum,2017-05-21,13:30:00,Excellent,Sun,19,-,3_4_1_2,3_4_3,61:50
+2820,4,GerBL2,2255509,Wurzburger Kickers,Stuttgart,2017-05-21,13:30:00,Good,Sun,16,-,4_4_2,3_5_2,75:55
+2821,5,GerBL2,2255513,Nurnberg,Kaiserslautern,2017-05-21,13:30:00,Excellent,"Clear, Sun",20,Hot,4_4_2,4_2_3_1,82:42
+2822,6,GerBL2,2255515,Hannover 96,Sandhausen,2017-05-21,13:30:00,Good,"Clear, Sun",20,Hot,4_1_4_1,4_2_3_1,85:13
+2823,7,GerBL2,2255515,Hannover 96,Sandhausen,2017-05-21,13:30:00,Good,"Clear, Sun",20,Hot,4_2_3_1,4_2_3_1,76:19
+2824,8,GerBL2,2255514,1860 Munchen,Heidenheim,2017-05-21,13:30:00,"Good, Soft",Cloud,14,-,4_2_2_2,4_5_1,80:10
+2825,9,GerBL2,2255514,1860 Munchen,Heidenheim,2017-05-21,13:30:00,"Good, Soft",Cloud,14,-,4_2_2_2,3_4_2_1,77:27
+2826,10,GerBL2,2255514,1860 Munchen,Heidenheim,2017-05-21,13:30:00,"Good, Soft",Cloud,14,-,4_1_4_1,3_4_2_1,67:24
+2827,11,GerBL2,2255514,1860 Munchen,Heidenheim,2017-05-21,13:30:00,"Good, Soft",Cloud,14,-,4_2_3_1,3_4_2_1,00:00
+2828,12,GerBL2,2255514,1860 Munchen,Heidenheim,2017-05-21,13:30:00,"Good, Soft",Cloud,14,-,4_3_3,3_4_2_1,77:25
+2829,13,GerBL2,2255514,1860 Munchen,Heidenheim,2017-05-21,13:30:00,"Good, Soft",Cloud,14,-,4_2_2_2,3_4_3,91:21
+2830,14,GerBL2,2255512,Union Berlin,Greuther Furth,2017-05-21,13:30:00,Excellent,Cloud,18,Warm,4_1_2_1_2,4_4_2,85:03
+2831,15,GerBL2,2255517,Arminia Bielefeld,Dynamo Dresden,2017-05-21,13:30:00,Good,"Clear, Sun",19,Hot,3_4_2_1,4_4_2,78:34
+2832,16,GerBL2,2255517,Arminia Bielefeld,Dynamo Dresden,2017-05-21,13:30:00,Good,"Clear, Sun",19,Hot,3_4_3,4_4_2,65:18
+2450,0,GerBL2,2480569,St. Pauli,Bochum,2017-07-28,18:30:00,Excellent,"Cloud, Light Rain",18,Warm,3_4_1_2,4_4_2,00:00
+2451,1,GerBL2,2480569,St. Pauli,Bochum,2017-07-28,18:30:00,Excellent,"Cloud, Light Rain",18,Warm,3_4_1_2,4_4_1_1,69:21
+2452,2,GerBL2,2480570,Union Berlin,Ingolstadt,2017-07-29,11:00:00,Good,Sun,26,Hot,3_5_2,4_2_3_1,00:00
+2453,3,GerBL2,2480570,Union Berlin,Ingolstadt,2017-07-29,11:00:00,Good,Sun,26,Hot,3_4_3,4_2_3_1,84:00
+2454,4,GerBL2,2480570,Union Berlin,Ingolstadt,2017-07-29,11:00:00,Good,Sun,26,Hot,3_4_3,5_4_1,88:13
+2455,5,GerBL2,2480571,Greuther Furth,Darmstadt 98,2017-07-29,13:30:00,Good,"Cloud, Sun, Wind",28,Warm,4_2_3_1,4_2_2_2,00:00
+2456,6,GerBL2,2480576,Jahn Regensburg,Arminia Bielefeld,2017-07-29,13:30:00,Good,"Cloud, Sun",24,Hot,4_4_2,4_4_2,00:00
+2457,7,GerBL2,2480575,Kaiserslautern,Nurnberg,2017-07-30,11:30:00,Good,"Sun, Wind",30,Hot,4_1_4_1,4_4_1_1,00:00
+2458,8,GerBL2,2480577,Sandhausen,Holstein Kiel,2017-07-30,13:30:00,Good,"Cloud, Rain, Sun",23,Warm,4_1_4_1,4_4_2,00:00
+2459,9,GerBL2,2480577,Sandhausen,Holstein Kiel,2017-07-30,13:30:00,Good,"Cloud, Rain, Sun",23,Warm,4_1_4_1,4_2_3_1,63:30
+2460,10,GerBL2,2480577,Sandhausen,Holstein Kiel,2017-07-30,13:30:00,Good,"Cloud, Rain, Sun",23,Warm,4_1_4_1,5_4_1,82:29
+2461,11,GerBL2,2480577,Sandhausen,Holstein Kiel,2017-07-30,13:30:00,Good,"Cloud, Rain, Sun",23,Warm,4_4_2,5_4_1,86:41
+2462,12,GerBL2,2480572,MSV Duisburg,Dynamo Dresden,2017-07-30,13:30:00,Excellent,Sun,31,-,4_3_3,4_4_2,00:00
+2463,13,GerBL2,2480574,Eintracht Braunschweig,Fortuna Dusseldorf,2017-07-31,18:30:00,"Average, Soft, Wet",Cloud,21,Warm,3_5_2,3_4_2_1,00:00
+2464,14,GerBL2,2480574,Eintracht Braunschweig,Fortuna Dusseldorf,2017-07-31,18:30:00,"Average, Soft, Wet",Cloud,21,Warm,3_4_1_2,3_4_2_1,68:15
+2465,15,GerBL2,2480574,Eintracht Braunschweig,Fortuna Dusseldorf,2017-07-31,18:30:00,"Average, Soft, Wet",Cloud,21,Warm,3_4_1_2,5_4_1,89:18
+2466,16,GerBL2,2480579,Holstein Kiel,Union Berlin,2017-08-04,16:30:00,Good,"Sun, Wind",25,Warm,4_3_3,4_1_4_1,00:00
+2467,17,GerBL2,2480582,Ingolstadt,Sandhausen,2017-08-04,16:30:00,Excellent,"Cloud, Sun",21,Warm,4_4_2,3_5_2,00:00
+2468,18,GerBL2,2480583,Darmstadt 98,Kaiserslautern,2017-08-04,18:30:00,Excellent,"Cloud, Sun",21,Warm,3_4_2_1,4_2_3_1,00:00
+2469,19,GerBL2,2480583,Darmstadt 98,Kaiserslautern,2017-08-04,18:30:00,Excellent,"Cloud, Sun",21,Warm,3_4_2_1,4_4_2,62:37
+2470,20,GerBL2,2480585,Bochum,MSV Duisburg,2017-08-05,11:00:00,Excellent,"Cloud, Sun",20,Warm,4_4_2,4_4_2,00:00
+2471,21,GerBL2,2480585,Bochum,MSV Duisburg,2017-08-05,11:00:00,Excellent,"Cloud, Sun",20,Warm,4_4_2,4_2_3_1,45:00
+2472,22,GerBL2,2480578,Heidenheim,Eintracht Braunschweig,2017-08-05,13:30:00,Good,Cloud,18,Warm,3_4_2_1,4_1_4_1,00:00
+2473,23,GerBL2,2480578,Heidenheim,Eintracht Braunschweig,2017-08-05,13:30:00,Good,Cloud,18,Warm,3_4_2_1,4_4_2,59:51
+2474,24,GerBL2,2480586,Nurnberg,Jahn Regensburg,2017-08-06,11:30:00,"Good, Wet","Cloud, Light Rain",22,Warm,4_4_2,4_1_4_1,00:00
+2475,25,GerBL2,2480586,Nurnberg,Jahn Regensburg,2017-08-06,11:30:00,"Good, Wet","Cloud, Light Rain",22,Warm,3_4_3,4_1_4_1,83:50
+2476,26,GerBL2,2480586,Nurnberg,Jahn Regensburg,2017-08-06,11:30:00,"Good, Wet","Cloud, Light Rain",22,Warm,3_4_3,4_2_3_1,86:30
+2477,27,GerBL2,2480584,Fortuna Dusseldorf,Erzgebirge Aue,2017-08-06,13:30:00,Good,Clear,20,-,3_4_2_1,4_4_2,00:00
+2478,28,GerBL2,2480581,Arminia Bielefeld,Greuther Furth,2017-08-06,13:30:00,Good,Clear,22,-,4_2_3_1,4_4_2,00:00
+2479,29,GerBL2,2480580,Dynamo Dresden,St. Pauli,2017-08-07,18:30:00,Excellent,Sun,19,-,4_1_2_1_2,4_3_3,00:00
+2480,30,GerBL2,2480573,Erzgebirge Aue,Heidenheim,2017-08-09,18:00:00,"Good, Soft, Wet",Cloud,18,Warm,4_1_4_1,3_4_1_2,00:00
+2481,31,GerBL2,2480573,Erzgebirge Aue,Heidenheim,2017-08-09,18:00:00,"Good, Soft, Wet",Cloud,18,Warm,4_2_3_1,3_4_1_2,75:50
+2482,32,GerBL2,2480573,Erzgebirge Aue,Heidenheim,2017-08-09,18:00:00,"Good, Soft, Wet",Cloud,18,Warm,4_2_3_1,4_4_2,85:07
+2483,33,GerBL2,2480588,St. Pauli,Darmstadt 98,2017-08-18,16:30:00,"Good, Wet","Clear, Light Wind, Sun",22,-,4_2_3_1,4_3_1_2,00:00
+2484,34,GerBL2,2480588,St. Pauli,Darmstadt 98,2017-08-18,16:30:00,"Good, Wet","Clear, Light Wind, Sun",22,-,4_2_3_1,3_5_2,67:47
+2485,35,GerBL2,2480588,St. Pauli,Darmstadt 98,2017-08-18,16:30:00,"Good, Wet","Cloud, Rain",22,-,4_2_3_1,4_3_1_2,00:00
+2486,36,GerBL2,2480588,St. Pauli,Darmstadt 98,2017-08-18,16:30:00,"Good, Wet","Cloud, Rain",22,-,4_2_3_1,3_5_2,67:47
+2487,37,GerBL2,2480589,Erzgebirge Aue,Eintracht Braunschweig,2017-08-18,16:30:00,"Good, Wet","Cloud, Light Rain",19,-,4_1_4_1,3_4_2_1,00:00
+2488,38,GerBL2,2480592,Kaiserslautern,Fortuna Dusseldorf,2017-08-19,11:00:00,Good,Clear,18,Warm,3_4_1_2,3_4_2_1,00:00
+2489,39,GerBL2,2480592,Kaiserslautern,Fortuna Dusseldorf,2017-08-19,11:00:00,Good,Clear,18,Warm,4_1_4_1,_,00:00
+2490,40,GerBL2,2480592,Kaiserslautern,Fortuna Dusseldorf,2017-08-19,11:00:00,Good,Clear,18,Warm,4_3_3,3_5_2,00:00
+2491,41,GerBL2,2480591,MSV Duisburg,Heidenheim,2017-08-19,11:00:00,Excellent,Sun,17,Warm,4_1_4_1,4_4_2,00:00
+2492,42,GerBL2,2480591,MSV Duisburg,Heidenheim,2017-08-19,11:00:00,Excellent,Clear,17,Warm,4_1_4_1,4_4_2,00:00
+2493,43,GerBL2,2480590,Sandhausen,Dynamo Dresden,2017-08-19,11:00:00,Excellent,"Clear, Sun",20,Warm,4_3_3,3_4_1_2,00:00
+2494,44,GerBL2,2480595,Greuther Furth,Holstein Kiel,2017-08-20,11:30:00,Average,Cloud,17,Warm,4_1_4_1,4_2_3_1,04:52
+2495,45,GerBL2,2480593,Union Berlin,Nurnberg,2017-08-20,11:30:00,"Average, Soft, Wet",Cloud,19,Warm,4_1_4_1,4_2_3_1,00:00
+2496,46,GerBL2,2480593,Union Berlin,Nurnberg,2017-08-20,11:30:00,"Average, Soft, Wet",Cloud,19,Warm,4_3_3,4_2_3_1,87:01
+2497,47,GerBL2,2480593,Union Berlin,Nurnberg,2017-08-20,11:30:00,"Average, Soft, Wet",Cloud,19,Warm,4_3_3,4_5_1,87:23
+2498,48,GerBL2,2480587,Jahn Regensburg,Ingolstadt,2017-08-20,11:30:00,Excellent,"Cloud, Sun",20,Warm,3_4_2_1,4_4_2,00:00
+2499,49,GerBL2,2480594,Bochum,Arminia Bielefeld,2017-08-21,18:30:00,Good,Cloud,14,-,4_4_2,4_3_3,00:00
+2500,50,GerBL2,2480598,Ingolstadt,Greuther Furth,2017-08-25,16:30:00,Excellent,"Clear, Sun",24,Warm,3_4_2_1,4_3_3,00:00
+2501,51,GerBL2,2480598,Ingolstadt,Greuther Furth,2017-08-25,16:30:00,Excellent,"Clear, Sun",24,Warm,4_3_2_1,4_3_3,57:20
+2502,52,GerBL2,2480603,Darmstadt 98,MSV Duisburg,2017-08-25,16:30:00,"Good, Soft, Wet",Cloud,23,Warm,4_4_2,4_2_3_1,00:00
+2503,53,GerBL2,2480597,Heidenheim,St. Pauli,2017-08-26,11:00:00,Good,Clear,22,Warm,4_1_2_1_2,4_4_2,00:00
+2504,54,GerBL2,2480597,Heidenheim,St. Pauli,2017-08-26,11:00:00,Good,Clear,22,Warm,4_1_2_1_2,3_4_3,74:27
+2505,55,GerBL2,2480597,Heidenheim,St. Pauli,2017-08-26,11:00:00,Good,Clear,22,Warm,4_1_2_1_2,3_4_1_2,81:48
+2506,56,GerBL2,2480604,Holstein Kiel,Jahn Regensburg,2017-08-26,11:00:00,Good,Sun,28,Warm,4_2_2_2,4_1_4_1,00:00
+2507,57,GerBL2,2480602,Nurnberg,Erzgebirge Aue,2017-08-26,11:00:00,"Dry, Good","Clear, Sun",26,Hot,3_4_3,4_5_1,00:00
+2508,58,GerBL2,2480599,Dynamo Dresden,Bochum,2017-08-27,11:30:00,Excellent,"Clear, Sun",23,Hot,4_2_3_1,4_3_3,00:00
+2509,59,GerBL2,2480600,Fortuna Dusseldorf,Sandhausen,2017-08-27,11:30:00,Good,"Cloud, Sun",21,Warm,4_2_3_1,3_5_2,00:00
+2510,60,GerBL2,2480600,Fortuna Dusseldorf,Sandhausen,2017-08-27,11:30:00,Good,"Cloud, Sun",21,Warm,4_3_3,3_5_2,55:52
+2511,61,GerBL2,2480600,Fortuna Dusseldorf,Sandhausen,2017-08-27,11:30:00,Good,"Cloud, Sun",21,Warm,4_2_3_1,4_4_2,74:07
+2512,62,GerBL2,2480596,Arminia Bielefeld,Union Berlin,2017-08-27,11:30:00,Excellent,"Cloud, Sun",22,Warm,4_2_3_1,4_4_2,00:00
+2513,63,GerBL2,2480596,Arminia Bielefeld,Union Berlin,2017-08-27,11:30:00,Excellent,"Cloud, Sun",22,Warm,4_3_3,4_4_2,69:50
+2514,64,GerBL2,2480596,Arminia Bielefeld,Union Berlin,2017-08-27,11:30:00,Excellent,"Cloud, Sun",22,Warm,4_4_2,4_4_2,78:20
+2515,65,GerBL2,2480601,Eintracht Braunschweig,Kaiserslautern,2017-08-28,18:30:00,"Excellent, Soft, Wet",Cloud,23,Warm,3_4_1_2,4_2_3_1,00:00
+2516,66,GerBL2,2480609,Jahn Regensburg,Heidenheim,2017-09-08,16:30:00,"Good, Wet","Cloud, Light Rain",18,-,4_4_2,4_4_2,00:00
+2517,67,GerBL2,2480608,Greuther Furth,Dynamo Dresden,2017-09-08,16:30:00,Excellent,Cloud,17,-,4_3_3,4_2_3_1,00:00
+2518,68,GerBL2,2480608,Greuther Furth,Dynamo Dresden,2017-09-08,16:30:00,Excellent,Cloud,17,-,4_3_3,4_5_1,45:00
+2519,69,GerBL2,2480608,Greuther Furth,Dynamo Dresden,2017-09-08,16:30:00,Excellent,Cloud,17,-,4_3_3,4_4_2,78:33
+2520,70,GerBL2,2480605,Erzgebirge Aue,Ingolstadt,2017-09-09,11:00:00,Excellent,"Cloud, Sun",17,Warm,4_3_3,3_4_2_1,00:00
+2521,71,GerBL2,2480605,Erzgebirge Aue,Ingolstadt,2017-09-09,11:00:00,Excellent,"Cloud, Sun",17,Warm,4_4_2,3_4_2_1,51:01
+2522,72,GerBL2,2480605,Erzgebirge Aue,Ingolstadt,2017-09-09,11:00:00,Excellent,"Cloud, Sun",17,Warm,4_4_2,3_5_2,66:01
+2523,73,GerBL2,2480605,Erzgebirge Aue,Ingolstadt,2017-09-09,11:00:00,Excellent,"Cloud, Sun",17,Warm,4_4_2,4_5_1,86:29
+2524,74,GerBL2,2480612,MSV Duisburg,Arminia Bielefeld,2017-09-09,11:00:00,Average,Clear,17,-,4_4_2,4_4_2,00:00
+2525,75,GerBL2,2480613,Kaiserslautern,Holstein Kiel,2017-09-09,11:00:00,"Good, Soft, Wet","Cloud, Light Rain",15,Warm,4_1_4_1,4_4_2,00:00
+2526,76,GerBL2,2480607,Sandhausen,Eintracht Braunschweig,2017-09-10,11:30:00,"Average, Patchy","Clear, Sun",17,-,4_4_2,4_4_2,00:00
+2527,77,GerBL2,2480606,Bochum,Darmstadt 98,2017-09-10,11:30:00,Good,"Clear, Sun",19,Warm,4_2_3_1,4_1_4_1,00:00
+2528,78,GerBL2,2480606,Bochum,Darmstadt 98,2017-09-10,11:30:00,Good,"Clear, Sun",19,Warm,4_2_3_1,4_2_3_1,45:00
+2529,79,GerBL2,2480610,Union Berlin,Fortuna Dusseldorf,2017-09-10,11:30:00,Excellent,"Clear, Sun",19,Warm,4_1_4_1,4_2_3_1,00:00
+2530,80,GerBL2,2480610,Union Berlin,Fortuna Dusseldorf,2017-09-10,11:30:00,Excellent,"Clear, Sun",19,Warm,4_4_2,4_2_3_1,78:49
+2531,81,GerBL2,2480611,St. Pauli,Nurnberg,2017-09-11,18:30:00,Excellent,Clear,13,Warm,3_4_2_1,4_2_3_1,00:00
+2532,82,GerBL2,2480611,St. Pauli,Nurnberg,2017-09-11,18:30:00,Excellent,Clear,13,Warm,3_4_2_1,4_4_2,72:48
+2533,83,GerBL2,2480620,Holstein Kiel,Erzgebirge Aue,2017-09-15,16:30:00,Average,"Cloud, Sun",16,-,5_4_1,4_1_4_1,00:00
+2534,84,GerBL2,2480615,Eintracht Braunschweig,Union Berlin,2017-09-15,17:00:00,Good,"Cloud, Sun",14,-,4_2_3_1,4_2_3_1,00:00
+2535,85,GerBL2,2480615,Eintracht Braunschweig,Union Berlin,2017-09-15,17:00:00,Good,"Cloud, Sun",14,-,4_2_3_1,4_3_3,82:31
+2536,86,GerBL2,2480616,Ingolstadt,St. Pauli,2017-09-16,11:00:00,Excellent,"Cloud, Sun",13,Warm,4_2_3_1,4_3_3,00:00
+2537,87,GerBL2,2480616,Ingolstadt,St. Pauli,2017-09-16,11:00:00,Excellent,"Cloud, Sun",13,Warm,4_2_2_2,4_3_3,45:00
+2538,88,GerBL2,2480621,Nurnberg,MSV Duisburg,2017-09-16,11:00:00,Excellent,Clear,9,Cold,4_4_2,3_4_3,00:00
+2539,89,GerBL2,2480619,Kaiserslautern,Sandhausen,2017-09-16,11:00:00,Good,"Cloud, Sun",14,Warm,4_4_2,4_4_2,00:00
+2540,90,GerBL2,2480622,Dynamo Dresden,Jahn Regensburg,2017-09-17,11:30:00,Excellent,"Cloud, Sun",15,Warm,4_4_2,4_3_3,00:00
+2541,91,GerBL2,2480622,Dynamo Dresden,Jahn Regensburg,2017-09-17,11:30:00,Excellent,"Cloud, Sun",15,Warm,3_5_2,4_3_3,64:59
+2542,92,GerBL2,2480617,Fortuna Dusseldorf,Greuther Furth,2017-09-17,11:30:00,Excellent,"Cloud, Sun",13,Warm,4_2_3_1,4_1_4_1,00:00
+2543,93,GerBL2,2480617,Fortuna Dusseldorf,Greuther Furth,2017-09-17,11:30:00,Excellent,"Cloud, Sun",13,Warm,5_4_1,4_1_4_1,83:56
+2544,94,GerBL2,2480618,Heidenheim,Bochum,2017-09-17,11:30:00,Excellent,"Clear, Sun",14,Warm,4_4_2,4_1_4_1,00:00
+2545,95,GerBL2,2480618,Heidenheim,Bochum,2017-09-17,11:30:00,Excellent,"Clear, Sun",14,Warm,4_4_2,4_4_2,45:00
+2546,96,GerBL2,2480614,Arminia Bielefeld,Darmstadt 98,2017-09-17,11:30:00,Excellent,"Clear, Sun",15,Warm,4_2_3_1,4_4_2,00:00
+2547,97,GerBL2,2480630,Erzgebirge Aue,Kaiserslautern,2017-09-19,16:30:00,Excellent,"Clear, Cloud",11,-,4_1_4_1,3_4_2_1,00:00
+2548,98,GerBL2,2480630,Erzgebirge Aue,Kaiserslautern,2017-09-19,16:30:00,Excellent,"Clear, Cloud",11,-,4_4_2,3_4_2_1,45:00
+2549,99,GerBL2,2480630,Erzgebirge Aue,Kaiserslautern,2017-09-19,16:30:00,Excellent,"Clear, Cloud",11,-,4_4_2,3_5_2,65:54
+2550,100,GerBL2,2480630,Erzgebirge Aue,Kaiserslautern,2017-09-19,16:30:00,Excellent,"Clear, Cloud",11,-,3_4_2_1,3_5_2,72:35
+2551,101,GerBL2,2480623,MSV Duisburg,Ingolstadt,2017-09-19,16:30:00,Excellent,Cloud,10,Cold,4_3_3,4_4_2,00:00
+2552,102,GerBL2,2480623,MSV Duisburg,Ingolstadt,2017-09-19,16:30:00,Excellent,Cloud,10,Cold,4_4_2,4_4_2,67:03
+2553,103,GerBL2,2480627,Union Berlin,Sandhausen,2017-09-19,16:30:00,Average,Clear,15,Warm,3_4_1_2,4_2_3_1,00:00
+2554,104,GerBL2,2480631,St. Pauli,Holstein Kiel,2017-09-19,16:30:00,Good,Cloud,13,Warm,4_1_4_1,4_2_3_1,00:00
+2555,105,GerBL2,2480626,Darmstadt 98,Heidenheim,2017-09-20,16:30:00,"Dry, Excellent","Cloud, Sun",13,Warm,4_3_2_1,4_4_2,00:00
+2556,106,GerBL2,2480625,Arminia Bielefeld,Dynamo Dresden,2017-09-20,16:30:00,Excellent,"Clear, Cloud, Sun",13,-,4_3_3,4_4_2,00:00
+2557,107,GerBL2,2480624,Greuther Furth,Eintracht Braunschweig,2017-09-20,16:30:00,Good,"Clear, Cloud, Sun",13,-,4_2_3_1,4_2_3_1,00:00
+2558,108,GerBL2,2480628,Jahn Regensburg,Fortuna Dusseldorf,2017-09-20,16:30:00,Excellent,Cloud,15,Cold,4_4_2,4_4_2,00:00
+2559,109,GerBL2,2480629,Bochum,Nurnberg,2017-09-21,18:30:00,Good,Clear,10,-,4_3_1_2,4_3_3,00:00
+2560,110,GerBL2,2480629,Bochum,Nurnberg,2017-09-21,18:30:00,Good,Clear,10,-,4_3_1_2,4_2_2_2,62:20
+2561,111,GerBL2,2480629,Bochum,Nurnberg,2017-09-21,18:30:00,Good,Clear,10,-,4_3_1_2,3_4_3,82:33
+2562,112,GerBL2,2480639,Holstein Kiel,MSV Duisburg,2017-09-22,16:30:00,Good,Cloud,17,Warm,4_4_2,4_1_4_1,00:00
+2563,113,GerBL2,2480639,Holstein Kiel,MSV Duisburg,2017-09-22,16:30:00,Good,Cloud,17,Warm,3_5_2,4_1_4_1,83:14
+2564,114,GerBL2,2480637,Sandhausen,Erzgebirge Aue,2017-09-22,16:30:00,Good,"Cloud, Light Wind",14,-,3_4_3,3_4_3,00:00
+2565,115,GerBL2,2480637,Sandhausen,Erzgebirge Aue,2017-09-22,16:30:00,Good,"Cloud, Light Wind",14,-,3_4_3,4_2_3_1,58:14
+2566,116,GerBL2,2480637,Sandhausen,Erzgebirge Aue,2017-09-22,16:30:00,Good,"Cloud, Light Wind",14,-,3_4_3,4_1_4_1,70:23
+2567,117,GerBL2,2480638,Heidenheim,Arminia Bielefeld,2017-09-23,11:00:00,"Good, Soft","Clear, Cloud",15,-,4_4_2,4_1_4_1,00:00
+2568,118,GerBL2,2480634,Fortuna Dusseldorf,St. Pauli,2017-09-23,11:00:00,Good,Sun,19,Warm,4_2_3_1,4_4_1_1,00:00
+2569,119,GerBL2,2480634,Fortuna Dusseldorf,St. Pauli,2017-09-23,11:00:00,Good,Sun,19,Warm,4_2_3_1,4_4_2,58:34
+2570,120,GerBL2,2480640,Eintracht Braunschweig,Jahn Regensburg,2017-09-23,11:00:00,Good,"Cloud, Sun",18,Warm,4_4_2,4_4_2,00:00
+2571,121,GerBL2,2480632,Dynamo Dresden,Darmstadt 98,2017-09-24,11:30:00,Excellent,"Clear, Sun",17,Warm,4_2_3_1,4_3_3,00:00
+2572,122,GerBL2,2480632,Dynamo Dresden,Darmstadt 98,2017-09-24,11:30:00,Excellent,"Clear, Sun",17,Warm,4_2_3_1,4_4_2,91:28
+2573,123,GerBL2,2480635,Nurnberg,Greuther Furth,2017-09-24,11:30:00,Good,"Cloud, Sun",17,Warm,4_3_3,4_4_2,00:00
+2574,124,GerBL2,2480636,Ingolstadt,Bochum,2017-09-24,11:30:00,"Good, Patchy","Clear, Sun",17,Warm,4_3_3,4_2_3_1,00:00
+2575,125,GerBL2,2480633,Kaiserslautern,Union Berlin,2017-09-25,18:30:00,Excellent,Cloud,14,-,4_3_3,4_2_3_1,00:00
+2576,126,GerBL2,2480647,Greuther Furth,Kaiserslautern,2017-09-29,16:30:00,Good,Cloud,17,Warm,3_4_3,4_2_3_1,00:00
+2577,127,GerBL2,2480641,Darmstadt 98,Ingolstadt,2017-09-29,16:30:00,"Excellent, Wet",Clear,15,Warm,4_3_3,4_2_3_1,00:00
+2578,128,GerBL2,2480646,Arminia Bielefeld,Nurnberg,2017-09-30,11:00:00,Good,Clear,17,-,4_4_2,4_4_2,00:00
+2579,129,GerBL2,2480646,Arminia Bielefeld,Nurnberg,2017-09-30,11:00:00,Good,Clear,17,-,3_4_1_2,4_5_1,60:01
+2580,130,GerBL2,2480646,Arminia Bielefeld,Nurnberg,2017-09-30,11:00:00,Good,Clear,17,-,4_4_2,4_5_1,74:40
+2581,131,GerBL2,2480648,Union Berlin,Erzgebirge Aue,2017-09-30,11:00:00,Excellent,Sun,7,Cold,3_4_2_1,4_2_3_1,00:00
+2582,132,GerBL2,2480649,Bochum,Holstein Kiel,2017-09-30,11:00:00,"Good, Patchy",Cloud,14,Warm,4_1_4_1,4_2_3_1,00:00
+2583,133,GerBL2,2480642,St. Pauli,Eintracht Braunschweig,2017-10-01,11:30:00,Good,"Clear, Sun",16,Warm,3_4_3,4_2_3_1,00:00
+2584,134,GerBL2,2480643,Dynamo Dresden,Heidenheim,2017-10-01,11:30:00,Excellent,"Clear, Sun",14,Warm,4_4_2,4_3_3,00:00
+2585,135,GerBL2,2480644,Jahn Regensburg,Sandhausen,2017-10-01,11:30:00,Excellent,"Clear, Sun",17,Warm,4_2_3_1,4_4_2,00:00
+2586,136,GerBL2,2480645,MSV Duisburg,Fortuna Dusseldorf,2017-10-02,18:30:00,Good,Clear,17,-,4_2_3_1,4_4_2,00:00
+2587,137,GerBL2,2480653,Kaiserslautern,St. Pauli,2017-10-13,16:30:00,Good,Clear,15,Warm,4_2_3_1,3_4_2_1,00:00
+2588,138,GerBL2,2480657,Eintracht Braunschweig,MSV Duisburg,2017-10-13,16:30:00,Excellent,Cloud,17,-,4_4_2,3_4_3,00:00
+2589,139,GerBL2,2480656,Fortuna Dusseldorf,Arminia Bielefeld,2017-10-14,11:00:00,Good,"Cloud, Sun",19,Warm,4_2_2_2,3_5_2,00:00
+2590,140,GerBL2,2480655,Sandhausen,Bochum,2017-10-14,11:00:00,Good,"Clear, Sun",22,Hot,4_2_3_1,3_4_1_2,00:00
+2591,141,GerBL2,2480655,Sandhausen,Bochum,2017-10-14,11:00:00,Good,"Clear, Sun",22,Hot,4_2_3_1,4_1_4_1,45:00
+2592,142,GerBL2,2480655,Sandhausen,Bochum,2017-10-14,11:00:00,Good,"Clear, Sun",22,Hot,4_2_3_1,4_4_2,71:15
+2593,143,GerBL2,2480651,Ingolstadt,Dynamo Dresden,2017-10-14,11:00:00,Excellent,"Clear, Sun",20,Warm,4_3_3,4_3_3,00:00
+2594,144,GerBL2,2480651,Ingolstadt,Dynamo Dresden,2017-10-14,11:00:00,Excellent,"Clear, Sun",20,Warm,4_3_3,4_4_2,66:33
+2595,145,GerBL2,2480658,Union Berlin,Jahn Regensburg,2017-10-15,11:30:00,Good,Sun,15,-,4_4_2,4_2_3_1,00:00
+2596,146,GerBL2,2480652,Holstein Kiel,Heidenheim,2017-10-15,11:30:00,Good,"Clear, Sun",21,Warm,4_2_3_1,4_1_4_1,00:00
+2597,147,GerBL2,2480654,Erzgebirge Aue,Greuther Furth,2017-10-15,11:30:00,Excellent,Sun,19,Cold,3_4_2_1,3_4_2_1,00:00
+2598,148,GerBL2,2480650,Nurnberg,Darmstadt 98,2017-10-16,18:30:00,Excellent,Cloud,15,Warm,4_2_3_1,3_4_1_2,00:00
+2599,149,GerBL2,2480663,Darmstadt 98,Fortuna Dusseldorf,2017-10-20,16:30:00,Good,Cloud,14,-,4_2_3_1,4_2_3_1,00:00
+2600,150,GerBL2,2480663,Darmstadt 98,Fortuna Dusseldorf,2017-10-20,16:30:00,Good,Cloud,14,-,4_2_3_1,4_4_2,45:00
+2601,151,GerBL2,2480659,Heidenheim,Ingolstadt,2017-10-20,16:30:00,Good,Cloud,15,-,4_3_3,4_2_3_1,00:00
+2602,152,GerBL2,2480661,Greuther Furth,Union Berlin,2017-10-21,11:00:00,Good,Clear,13,Warm,4_2_3_1,3_4_3,00:00
+2603,153,GerBL2,2480660,Bochum,Eintracht Braunschweig,2017-10-21,11:00:00,Excellent,"Cloud, Light Wind, Rain",13,Warm,3_4_1_2,3_5_2,00:00
+2604,154,GerBL2,2480660,Bochum,Eintracht Braunschweig,2017-10-21,11:00:00,Excellent,"Cloud, Light Wind, Rain",13,Warm,4_1_4_1,3_5_2,45:00
+2605,155,GerBL2,2480667,Arminia Bielefeld,Holstein Kiel,2017-10-21,11:00:00,Average,Cloud,13,Warm,4_1_4_1,4_4_2,00:00
+2606,156,GerBL2,2480666,Jahn Regensburg,Erzgebirge Aue,2017-10-22,11:30:00,Good,"Clear, Sun",10,Cold,3_4_1_2,4_4_2,00:00
+2607,157,GerBL2,2480666,Jahn Regensburg,Erzgebirge Aue,2017-10-22,11:30:00,Good,"Clear, Sun",10,Cold,3_5_2,4_4_2,86:33
+2608,158,GerBL2,2480665,MSV Duisburg,Kaiserslautern,2017-10-22,11:30:00,Excellent,Cloud,10,Cold,3_4_2_1,4_4_2,00:00
+2609,159,GerBL2,2480665,MSV Duisburg,Kaiserslautern,2017-10-22,11:30:00,Excellent,Cloud,10,Cold,4_2_3_1,4_4_2,72:48
+2610,160,GerBL2,2480664,Dynamo Dresden,Nurnberg,2017-10-22,11:30:00,Good,"Cloud, Sun",12,Cold,4_1_2_1_2,4_3_3,00:00
+2611,161,GerBL2,2480664,Dynamo Dresden,Nurnberg,2017-10-22,11:30:00,Good,"Cloud, Sun",12,Cold,4_1_2_1_2,4_4_2,83:32
+2612,162,GerBL2,2480664,Dynamo Dresden,Nurnberg,2017-10-22,11:30:00,Good,"Cloud, Sun",12,Cold,4_1_4_1,4_4_2,91:43
+2613,163,GerBL2,2480662,St. Pauli,Sandhausen,2017-10-23,18:30:00,Good,Cloud,8,-,4_2_3_1,4_1_4_1,00:00
+2614,164,GerBL2,2480671,Erzgebirge Aue,St. Pauli,2017-10-27,16:30:00,Excellent,Clear,11,Cold,4_2_3_1,5_3_2,00:00
+2615,165,GerBL2,2480674,Ingolstadt,Arminia Bielefeld,2017-10-27,16:30:00,Excellent,Clear,10,Cold,4_4_2,4_3_3,00:00
+2616,166,GerBL2,2480672,Sandhausen,Greuther Furth,2017-10-28,11:00:00,Excellent,Cloud,9,Cold,3_4_1_2,4_2_3_1,00:00
+2617,167,GerBL2,2480672,Sandhausen,Greuther Furth,2017-10-28,11:00:00,Excellent,Cloud,9,Cold,3_4_1_2,4_4_2,51:07
+2618,168,GerBL2,2480676,Kaiserslautern,Jahn Regensburg,2017-10-28,11:00:00,Good,"Cloud, Sun",8,-,4_4_2,3_4_1_2,00:00
+2619,169,GerBL2,2480668,Holstein Kiel,Darmstadt 98,2017-10-28,11:00:00,Good,"Cloud, Light Rain, Sun",11,-,4_2_3_1,4_1_4_1,00:00
+2620,170,GerBL2,2480670,Nurnberg,Heidenheim,2017-10-29,12:30:00,Good,"Sun, Wind",10,-,4_2_2_2,4_3_1_2,00:00
+2621,171,GerBL2,2480675,Union Berlin,MSV Duisburg,2017-10-29,12:30:00,Good,"Cloud, Wind",10,-,4_2_2_2,4_3_3,00:00
+2622,172,GerBL2,2480675,Union Berlin,MSV Duisburg,2017-10-29,12:30:00,Good,Rain,10,-,4_2_2_2,4_3_3,00:00
+2623,173,GerBL2,2480669,Eintracht Braunschweig,Dynamo Dresden,2017-10-29,15:00:00,Good,Cloud,7,-,4_3_3,3_4_2_1,00:00
+2624,174,GerBL2,2480673,Fortuna Dusseldorf,Bochum,2017-10-30,19:30:00,Good,Clear,5,Cold,3_5_2,4_3_3,00:00
+2625,175,GerBL2,2480673,Fortuna Dusseldorf,Bochum,2017-10-30,19:30:00,Good,Clear,5,Cold,5_4_1,4_3_3,79:44
+2626,176,GerBL2,2480673,Fortuna Dusseldorf,Bochum,2017-10-30,19:30:00,Good,Clear,5,Cold,4_5_1,4_3_3,82:45
+2627,177,GerBL2,2480673,Fortuna Dusseldorf,Bochum,2017-10-30,19:30:00,Good,Clear,5,Cold,4_4_1_1,4_3_3,86:58
+2628,178,GerBL2,2480682,Bochum,Kaiserslautern,2017-11-03,17:30:00,Good,Cloud,7,-,3_4_2_1,3_5_1_1,00:00
+2629,179,GerBL2,2480679,MSV Duisburg,Sandhausen,2017-11-03,17:30:00,Good,Clear,9,Cold,4_2_3_1,4_4_2,00:00
+2630,180,GerBL2,2480679,MSV Duisburg,Sandhausen,2017-11-03,17:30:00,Good,Clear,9,Cold,4_2_3_1,4_5_1,75:53
+2631,181,GerBL2,2480679,MSV Duisburg,Sandhausen,2017-11-03,17:30:00,Good,Clear,9,Cold,3_5_2,4_5_1,80:38
+2632,182,GerBL2,2480678,St. Pauli,Union Berlin,2017-11-04,12:00:00,Good,"Clear, Sun",12,-,4_2_3_1,4_1_4_1,00:00
+2633,183,GerBL2,2480685,Greuther Furth,Jahn Regensburg,2017-11-04,12:00:00,Good,Clear,12,-,4_4_2,4_1_4_1,00:00
+2634,184,GerBL2,2480677,Darmstadt 98,Eintracht Braunschweig,2017-11-04,12:00:00,"Good, Soft",Sun,10,Cold,4_1_4_1,4_2_3_1,00:00
+2635,185,GerBL2,2480680,Heidenheim,Fortuna Dusseldorf,2017-11-05,12:30:00,Excellent,"Clear, Sun",10,Cold,3_5_2,4_2_3_1,00:00
+2636,186,GerBL2,2480683,Arminia Bielefeld,Erzgebirge Aue,2017-11-05,12:30:00,Good,"Clear, Sun",11,Cold,3_4_2_1,4_4_2,00:00
+2637,187,GerBL2,2480684,Dynamo Dresden,Holstein Kiel,2017-11-05,12:30:00,Average,"Cloud, Rain",10,Cold,4_1_4_1,4_3_3,00:00
+2638,188,GerBL2,2480681,Ingolstadt,Nurnberg,2017-11-06,19:30:00,Excellent,Cloud,5,Cold,3_4_1_2,4_3_3,00:00
+2639,189,GerBL2,2480687,Sandhausen,Darmstadt 98,2017-11-17,17:30:00,Good,Cloud,5,Cold,4_2_3_1,4_2_2_2,00:00
+2640,190,GerBL2,2480693,Eintracht Braunschweig,Arminia Bielefeld,2017-11-17,17:30:00,Good,Clear,2,Cold,4_4_2,4_1_4_1,00:00
+2641,191,GerBL2,2480693,Eintracht Braunschweig,Arminia Bielefeld,2017-11-17,17:30:00,Good,Clear,2,Cold,4_4_2,4_4_2,22:26
+2642,192,GerBL2,2480691,Greuther Furth,Bochum,2017-11-18,12:00:00,Average,"Cloud, Sun",4,Cold,5_3_2,3_4_2_1,00:00
+2643,193,GerBL2,2480692,Holstein Kiel,Nurnberg,2017-11-18,12:00:00,Good,"Cloud, Sun",6,-,4_1_4_1,4_1_4_1,00:00
+2644,194,GerBL2,2480689,Union Berlin,Heidenheim,2017-11-18,12:00:00,Good,Clear,4,Cold,4_4_2,4_3_3,00:00
+2645,195,GerBL2,2480689,Union Berlin,Heidenheim,2017-11-18,12:00:00,Good,Clear,4,Cold,4_4_2,4_4_2,66:45
+2646,196,GerBL2,2480694,Erzgebirge Aue,MSV Duisburg,2017-11-19,12:30:00,"Good, Soft",Cloud,6,Cold,4_4_2,3_4_3,00:00
+2647,197,GerBL2,2480694,Erzgebirge Aue,MSV Duisburg,2017-11-19,12:30:00,"Good, Soft",Cloud,6,Cold,4_4_2,4_2_3_1,83:00
+2648,198,GerBL2,2480694,Erzgebirge Aue,MSV Duisburg,2017-11-19,12:30:00,"Good, Soft",Rain,6,Cold,4_4_2,3_4_3,00:00
+2649,199,GerBL2,2480694,Erzgebirge Aue,MSV Duisburg,2017-11-19,12:30:00,"Good, Soft",Rain,6,Cold,4_4_2,4_2_3_1,83:00
+2650,200,GerBL2,2480690,Jahn Regensburg,St. Pauli,2017-11-19,12:30:00,Good,Cloud,6,Cold,4_1_4_1,4_4_2,00:00
+2651,201,GerBL2,2480686,Fortuna Dusseldorf,Ingolstadt,2017-11-19,12:30:00,Good,"Cloud, Wind",5,Cold,4_1_4_1,4_2_3_1,00:00
+2652,202,GerBL2,2480688,Kaiserslautern,Dynamo Dresden,2017-11-20,19:30:00,Good,Cloud,4,Cold,4_3_3,3_4_2_1,00:00
+2653,203,GerBL2,2480696,Darmstadt 98,Union Berlin,2017-11-24,17:30:00,Good,Cloud,7,Cold,4_2_3_1,4_2_3_1,00:00
+2654,204,GerBL2,2480698,Heidenheim,Sandhausen,2017-11-24,17:30:00,"Good, Wet","Cloud, Light Rain, Light Wind",10,-,3_4_1_2,4_4_2,00:00
+2655,205,GerBL2,2480703,MSV Duisburg,Jahn Regensburg,2017-11-25,12:00:00,Excellent,"Cloud, Light Rain",6,Cold,4_4_2,4_4_2,00:00
+2656,206,GerBL2,2480695,Nurnberg,Eintracht Braunschweig,2017-11-25,12:00:00,Poor,Cloud,5,Cold,4_2_3_1,4_1_4_1,00:00
+2657,207,GerBL2,2480702,Ingolstadt,Holstein Kiel,2017-11-25,12:00:00,Average,Cloud,2,Freezing,4_1_4_1,4_3_3,00:00
+2658,208,GerBL2,2480702,Ingolstadt,Holstein Kiel,2017-11-25,12:00:00,Average,Cloud,2,Freezing,4_2_3_1,4_3_3,84:14
+2659,209,GerBL2,2480701,Bochum,Erzgebirge Aue,2017-11-26,12:30:00,Average,Cloud,0,Freezing,3_4_1_2,3_4_1_2,00:00
+2660,210,GerBL2,2480697,St. Pauli,Greuther Furth,2017-11-26,12:30:00,Good,"Cloud, Sun",2,Freezing,3_4_2_1,4_4_2,00:00
+2661,211,GerBL2,2480697,St. Pauli,Greuther Furth,2017-11-26,12:30:00,Good,"Cloud, Sun",2,Freezing,3_4_2_1,4_5_1,47:06
+2662,212,GerBL2,2480700,Arminia Bielefeld,Kaiserslautern,2017-11-26,12:30:00,Good,Clear,2,Cold,4_4_2,4_4_2,00:00
+2663,213,GerBL2,2480700,Arminia Bielefeld,Kaiserslautern,2017-11-26,12:30:00,Good,Clear,2,Cold,4_4_2,5_4_1,83:29
+2664,214,GerBL2,2480699,Dynamo Dresden,Fortuna Dusseldorf,2017-11-27,19:30:00,"Average, Wet","Cloud, Rain",8,Cold,4_2_3_1,4_3_3,00:00
+2665,215,GerBL2,2480699,Dynamo Dresden,Fortuna Dusseldorf,2017-11-27,19:30:00,"Average, Wet","Cloud, Rain",8,Cold,4_4_2,4_3_3,08:55
+2666,216,GerBL2,2480710,St. Pauli,Arminia Bielefeld,2017-12-01,17:30:00,"Good, Wet",Cloud,0,Cold,4_4_2,4_1_4_1,00:00
+2667,217,GerBL2,2480710,St. Pauli,Arminia Bielefeld,2017-12-01,17:30:00,"Good, Wet",Cloud,0,Cold,4_4_2,4_4_2,58:08
+2668,218,GerBL2,2480707,Kaiserslautern,Heidenheim,2017-12-01,17:30:00,"Good, Wet",Cloud,-1,Freezing,4_4_2,4_4_2,00:00
+2669,219,GerBL2,2480711,Greuther Furth,MSV Duisburg,2017-12-02,12:00:00,Good,Clear,0,Freezing,4_4_2,3_4_3,00:00
+2670,220,GerBL2,2480711,Greuther Furth,MSV Duisburg,2017-12-02,12:00:00,Good,Clear,0,Freezing,4_4_2,4_4_2,73:30
+2671,221,GerBL2,2480709,Sandhausen,Nurnberg,2017-12-02,12:00:00,"Good, Wet",Cloud,-3,Cold,4_1_4_1,4_4_2,00:00
+2672,222,GerBL2,2480712,Fortuna Dusseldorf,Holstein Kiel,2017-12-02,12:00:00,Good,Cloud,0,Cold,4_1_4_1,4_4_2,00:00
+2673,223,GerBL2,2480708,Union Berlin,Bochum,2017-12-03,12:30:00,Average,"Cloud, Light Rain",1,Cold,3_5_2,4_2_3_1,00:00
+2674,224,GerBL2,2480708,Union Berlin,Bochum,2017-12-03,12:30:00,Average,"Cloud, Light Rain",1,Cold,3_4_2_1,4_2_3_1,77:05
+2675,225,GerBL2,2480708,Union Berlin,Bochum,2017-12-03,12:30:00,Average,"Cloud, Light Rain",1,Cold,5_4_1,4_2_3_1,92:26
+2676,226,GerBL2,2480705,Jahn Regensburg,Darmstadt 98,2017-12-03,12:30:00,"Soft, Wet",,-1,Freezing,4_2_3_1,4_4_2,00:00
+2677,227,GerBL2,2480705,Jahn Regensburg,Darmstadt 98,2017-12-03,12:30:00,"Soft, Wet",,-1,Freezing,4_4_2,4_4_2,57:30
+2678,228,GerBL2,2480706,Erzgebirge Aue,Dynamo Dresden,2017-12-03,12:30:00,Excellent,Clear,0,Freezing,4_3_3,3_4_1_2,00:00
+2679,229,GerBL2,2480704,Eintracht Braunschweig,Ingolstadt,2017-12-04,19:30:00,Good,Cloud,2,-,4_3_3,4_1_2_1_2,00:00
+2680,230,GerBL2,2480704,Eintracht Braunschweig,Ingolstadt,2017-12-04,19:30:00,Good,Cloud,2,-,4_3_3,4_4_2,45:00
+2681,231,GerBL2,2480704,Eintracht Braunschweig,Ingolstadt,2017-12-04,19:30:00,Good,Cloud,2,-,4_2_2_2,4_4_2,68:26
+2682,232,GerBL2,2480720,Darmstadt 98,Erzgebirge Aue,2017-12-08,17:30:00,"Average, Wet",Snow,0,Cold,3_4_3,4_2_3_1,00:00
+2683,233,GerBL2,2480720,Darmstadt 98,Erzgebirge Aue,2017-12-08,17:30:00,"Average, Wet",Cloud,0,Cold,3_4_3,4_2_3_1,00:00
+2684,234,GerBL2,2480720,Darmstadt 98,Erzgebirge Aue,2017-12-08,17:30:00,"Average, Wet",Light Snow,0,Cold,3_4_3,4_2_3_1,00:00
+2685,235,GerBL2,2480713,Holstein Kiel,Eintracht Braunschweig,2017-12-08,17:30:00,Good,"Cloud, Light Wind",1,Cold,4_2_3_1,4_1_4_1,00:00
+2686,236,GerBL2,2480716,Heidenheim,Greuther Furth,2017-12-09,12:00:00,Excellent,"Cloud, Sun, Wind",0,Freezing,3_4_3,4_4_2,00:00
+2687,237,GerBL2,2480714,Dynamo Dresden,Union Berlin,2017-12-09,12:00:00,Average,Clear,3,-,4_1_4_1,4_3_3,00:00
+2688,238,GerBL2,2480721,Bochum,Jahn Regensburg,2017-12-09,12:00:00,Average,"Cloud, Sun",-1,Freezing,4_1_2_1_2,4_2_3_1,00:00
+2689,239,GerBL2,2480717,Arminia Bielefeld,Sandhausen,2017-12-10,12:30:00,Poor,"Cloud, Snow",4,Cold,4_2_3_1,4_4_2,00:00
+2690,240,GerBL2,2480719,Ingolstadt,Kaiserslautern,2017-12-10,12:30:00,"Average, Wet",Clear,-1,Freezing,3_4_2_1,4_3_3,00:00
+2691,241,GerBL2,2480719,Ingolstadt,Kaiserslautern,2017-12-10,12:30:00,"Average, Wet",Clear,-1,Freezing,3_4_2_1,4_4_2,66:03
+2692,242,GerBL2,2480715,MSV Duisburg,St. Pauli,2017-12-10,12:30:00,Excellent,Cloud,1,Cold,4_2_3_1,4_4_2,00:00
+2693,243,GerBL2,2480718,Nurnberg,Fortuna Dusseldorf,2017-12-11,19:30:00,"Poor, Soft, Uneven","Cloud, Light Rain, Light Wind",8,Cold,4_1_4_1,4_1_4_1,00:00
+2694,244,GerBL2,2480718,Nurnberg,Fortuna Dusseldorf,2017-12-11,19:30:00,"Poor, Soft, Uneven","Cloud, Light Rain, Light Wind",8,Cold,4_4_2,4_1_4_1,73:03
+2695,245,GerBL2,2480722,Fortuna Dusseldorf,Eintracht Braunschweig,2017-12-15,17:30:00,Average,Cloud,3,-,4_1_4_1,4_1_4_1,00:00
+2696,246,GerBL2,2480723,Ingolstadt,Union Berlin,2017-12-15,17:30:00,Good,Cloud,2,-,4_2_3_1,4_3_3,00:00
+2697,247,GerBL2,2480728,Heidenheim,Erzgebirge Aue,2017-12-16,12:00:00,Good,"Cloud, Light Wind",2,Freezing,3_4_3,4_1_4_1,00:00
+2698,248,GerBL2,2480730,Arminia Bielefeld,Jahn Regensburg,2017-12-16,12:00:00,Good,Cloud,2,Freezing,4_1_2_1_2,4_4_2,00:00
+2699,249,GerBL2,2480730,Arminia Bielefeld,Jahn Regensburg,2017-12-16,12:00:00,Good,Cloud,2,Freezing,4_4_2,4_4_2,31:33
+2700,250,GerBL2,2480727,Nurnberg,Kaiserslautern,2017-12-16,12:00:00,Good,Clear,4,-,4_4_2,4_1_4_1,00:00
+2701,251,GerBL2,2480727,Nurnberg,Kaiserslautern,2017-12-16,12:00:00,Good,Rain,4,-,4_4_2,4_1_4_1,00:00
+2702,252,GerBL2,2480729,Dynamo Dresden,MSV Duisburg,2017-12-17,12:30:00,Good,Cloud,2,Cold,4_4_2,4_3_3,00:00
+2703,253,GerBL2,2480726,Holstein Kiel,Sandhausen,2017-12-17,12:30:00,Average,Cloud,2,Cold,3_5_2,4_1_4_1,00:00
+2704,254,GerBL2,2480726,Holstein Kiel,Sandhausen,2017-12-17,12:30:00,Average,Cloud,2,Cold,4_2_3_1,4_1_4_1,29:47
+2705,255,GerBL2,2480725,Darmstadt 98,Greuther Furth,2017-12-17,12:30:00,Good,Cloud,2,Cold,4_3_3,4_2_3_1,00:00
+2706,256,GerBL2,2480724,Bochum,St. Pauli,2017-12-18,19:30:00,Good,Cloud,3,-,4_2_3_1,3_5_2,00:00
+2707,257,GerBL2,2480724,Bochum,St. Pauli,2017-12-18,19:30:00,Good,Cloud,3,-,4_2_3_1,3_4_2_1,64:59
+2708,258,GerBL2,2480724,Bochum,St. Pauli,2017-12-18,19:30:00,Good,Cloud,3,-,4_2_3_1,4_3_3,88:56
+2709,259,GerBL2,2480735,MSV Duisburg,Bochum,2018-01-23,17:30:00,Good,"Cloud, Rain",7,-,3_5_2,4_4_2,00:00
+2710,260,GerBL2,2480739,Union Berlin,Holstein Kiel,2018-01-23,19:30:00,Excellent,"Cloud, Rain, Wind",6,Cold,4_1_4_1,4_2_3_1,00:00
+2711,261,GerBL2,2480737,Jahn Regensburg,Nurnberg,2018-01-23,19:30:00,Good,Cloud,6,-,4_3_3,4_4_2,00:00
+2712,262,GerBL2,2480731,Sandhausen,Ingolstadt,2018-01-23,19:30:00,Excellent,Cloud,5,Cold,4_3_3,4_2_3_1,00:00
+2713,263,GerBL2,2480734,Eintracht Braunschweig,Heidenheim,2018-01-24,19:30:00,Good,Cloud,5,-,4_4_2,3_4_3,00:00
+2714,264,GerBL2,2480734,Eintracht Braunschweig,Heidenheim,2018-01-24,19:30:00,Good,Cloud,5,-,4_4_2,4_3_3,67:00
+2715,265,GerBL2,2480738,Greuther Furth,Arminia Bielefeld,2018-01-24,19:30:00,"Good, Wet",Cloud,11,-,4_4_2,4_2_3_1,00:00
+2716,266,GerBL2,2480736,Erzgebirge Aue,Fortuna Dusseldorf,2018-01-24,19:30:00,Good,"Cloud, Wind",12,Cold,4_4_2,3_4_3,00:00
+2717,267,GerBL2,2480733,St. Pauli,Dynamo Dresden,2018-01-25,19:30:00,Good,Cloud,5,Cold,4_3_3,4_4_2,00:00
+2718,268,GerBL2,2480740,Nurnberg,Union Berlin,2018-01-26,17:30:00,Good,"Cloud, Light Rain",5,Cold,4_2_3_1,3_5_2,00:00
+2719,269,GerBL2,2480740,Nurnberg,Union Berlin,2018-01-26,17:30:00,Good,"Cloud, Light Rain",5,Cold,4_2_3_1,4_2_3_1,64:49
+2720,270,GerBL2,2480740,Nurnberg,Union Berlin,2018-01-26,17:30:00,Good,"Cloud, Light Rain",5,Cold,4_4_2,4_2_3_1,74:10
+2721,271,GerBL2,2480740,Nurnberg,Union Berlin,2018-01-26,17:30:00,Good,"Cloud, Light Rain",5,Cold,4_4_2,4_3_3,75:52
+2722,272,GerBL2,2480740,Nurnberg,Union Berlin,2018-01-26,17:30:00,Good,"Cloud, Light Rain",5,Cold,4_4_2,4_5_1,87:17
+2723,273,GerBL2,2480748,Ingolstadt,Jahn Regensburg,2018-01-26,17:30:00,"Good, Wet",Cloud,4,Cold,4_4_2,4_3_3,00:00
+2724,274,GerBL2,2480747,Heidenheim,MSV Duisburg,2018-01-27,12:00:00,"Good, Soft",Clear,5,Cold,4_4_2,4_4_2,00:00
+2725,275,GerBL2,2480745,Fortuna Dusseldorf,Kaiserslautern,2018-01-27,12:00:00,Poor,Cloud,4,Cold,4_4_2,3_5_2,00:00
+2726,276,GerBL2,2480745,Fortuna Dusseldorf,Kaiserslautern,2018-01-27,12:00:00,Poor,Cloud,4,Cold,4_4_2,4_1_2_1_2,75:32
+2727,277,GerBL2,2480742,Holstein Kiel,Greuther Furth,2018-01-27,12:00:00,Average,Cloud,7,Cold,4_2_3_1,4_1_4_1,00:00
+2728,278,GerBL2,2480744,Dynamo Dresden,Sandhausen,2018-01-28,12:30:00,"Average, Patchy",Cloud,9,Cold,3_4_1_2,4_4_2,00:00
+2729,279,GerBL2,2480744,Dynamo Dresden,Sandhausen,2018-01-28,12:30:00,"Average, Patchy",Cloud,9,Cold,3_4_1_2,3_5_2,85:14
+2730,280,GerBL2,2480741,Darmstadt 98,St. Pauli,2018-01-28,12:30:00,Average,Cloud,9,Cold,4_4_2,4_2_3_1,00:00
+2731,281,GerBL2,2480746,Eintracht Braunschweig,Erzgebirge Aue,2018-01-28,12:30:00,Good,Cloud,7,Cold,3_4_2_1,3_4_2_1,00:00
+2732,282,GerBL2,2480746,Eintracht Braunschweig,Erzgebirge Aue,2018-01-28,12:30:00,Good,Cloud,7,Cold,3_4_2_1,3_5_2,73:10
+2733,283,GerBL2,2480743,Arminia Bielefeld,Bochum,2018-01-29,19:30:00,"Average, Soft, Wet","Cloud, Light Rain",8,Cold,4_4_2,4_4_2,00:00
+2734,284,GerBL2,2480743,Arminia Bielefeld,Bochum,2018-01-29,19:30:00,"Average, Soft, Wet","Cloud, Light Rain",8,Cold,4_4_2,4_5_1,87:51
+2735,285,GerBL2,2480754,Sandhausen,Fortuna Dusseldorf,2018-02-02,17:30:00,"Good, Wet","Cloud, Light Wind",4,Cold,4_1_4_1,3_4_3,00:00
+2736,286,GerBL2,2480755,Erzgebirge Aue,Nurnberg,2018-02-02,17:30:00,"Average, Wet",Cloud,3,Cold,3_5_2,3_4_1_2,00:00
+2737,287,GerBL2,2480755,Erzgebirge Aue,Nurnberg,2018-02-02,17:30:00,"Average, Wet",Cloud,3,Cold,3_5_2,3_4_3,55:45
+2738,288,GerBL2,2480755,Erzgebirge Aue,Nurnberg,2018-02-02,17:30:00,"Average, Wet",Cloud,3,Cold,3_5_2,4_3_3,62:21
+2739,289,GerBL2,2480755,Erzgebirge Aue,Nurnberg,2018-02-02,17:30:00,"Average, Wet",Cloud,3,Cold,3_4_2_1,4_3_3,74:28
+2740,290,GerBL2,2480755,Erzgebirge Aue,Nurnberg,2018-02-02,17:30:00,"Average, Wet",Cloud,3,Cold,4_2_3_1,4_3_3,82:06
+2741,291,GerBL2,2480753,St. Pauli,Heidenheim,2018-02-03,12:00:00,"Excellent, Good","Clear, Cloud, Sun",2,Cold,4_4_2,4_4_2,00:00
+2742,292,GerBL2,2480749,Greuther Furth,Ingolstadt,2018-02-03,12:00:00,Excellent,"Clear, Sun",2,Cold,4_3_3,4_2_3_1,00:00
+2743,293,GerBL2,2480757,Jahn Regensburg,Holstein Kiel,2018-02-03,12:00:00,"Good, Soft",Clear,1,Cold,4_1_4_1,4_4_2,00:00
+2744,294,GerBL2,2480750,MSV Duisburg,Darmstadt 98,2018-02-04,12:30:00,Good,Cloud,1,Cold,4_2_3_1,4_4_2,00:00
+2745,295,GerBL2,2480750,MSV Duisburg,Darmstadt 98,2018-02-04,12:30:00,Good,Cloud,1,Cold,4_2_3_1,5_4_1,88:42
+2746,296,GerBL2,2480752,Bochum,Dynamo Dresden,2018-02-04,12:30:00,Good,Cloud,0,Freezing,4_3_3,3_4_1_2,00:00
+2747,297,GerBL2,2480751,Kaiserslautern,Eintracht Braunschweig,2018-02-04,12:30:00,Good,Cloud,0,Freezing,3_4_2_1,4_4_2,00:00
+2748,298,GerBL2,2480751,Kaiserslautern,Eintracht Braunschweig,2018-02-04,12:30:00,Good,Cloud,0,Freezing,4_3_3,4_4_2,45:00
+2749,299,GerBL2,2480756,Union Berlin,Arminia Bielefeld,2018-02-05,19:30:00,Good,Cloud,-1,-,4_4_2,3_5_2,00:00
+2750,300,GerBL2,2480763,Holstein Kiel,Kaiserslautern,2018-02-09,17:30:00,Poor,Cloud,0,Freezing,4_4_1_1,4_1_4_1,00:00
+2751,301,GerBL2,2480763,Holstein Kiel,Kaiserslautern,2018-02-09,17:30:00,Poor,Cloud,0,Freezing,4_4_1_1,4_4_2,70:29
+2752,302,GerBL2,2480761,Darmstadt 98,Bochum,2018-02-09,17:30:00,Good,Clear,-1,-,4_2_3_1,4_2_3_1,00:00
+2753,303,GerBL2,2480761,Darmstadt 98,Bochum,2018-02-09,17:30:00,Good,Clear,-1,-,4_4_2,4_4_1_1,63:06
+2754,304,GerBL2,2480761,Darmstadt 98,Bochum,2018-02-09,17:30:00,Good,Clear,-1,-,4_2_3_1,4_4_1_1,69:45
+2755,305,GerBL2,2480766,Heidenheim,Jahn Regensburg,2018-02-10,12:00:00,"Good, Wet",Cloud,1,Cold,4_4_2,4_4_2,00:00
+2756,306,GerBL2,2480758,Fortuna Dusseldorf,Union Berlin,2018-02-10,12:00:00,Good,Clear,5,-,3_5_2,3_4_1_2,00:00
+2757,307,GerBL2,2480765,Arminia Bielefeld,MSV Duisburg,2018-02-10,12:00:00,"Good, Wet","Cloud, Light Rain",4,Cold,4_2_2_2,4_2_2_2,00:00
+2758,308,GerBL2,2480760,Dynamo Dresden,Greuther Furth,2018-02-11,12:30:00,"Good, Soft, Wet","Cloud, Light Snow",2,Freezing,4_2_3_1,4_1_4_1,00:00
+2759,309,GerBL2,2480760,Dynamo Dresden,Greuther Furth,2018-02-11,12:30:00,"Good, Soft, Wet","Cloud, Light Snow",2,Freezing,4_2_3_1,4_2_2_2,61:33
+2760,310,GerBL2,2480760,Dynamo Dresden,Greuther Furth,2018-02-11,12:30:00,"Good, Soft, Wet","Cloud, Light Snow",2,Freezing,4_2_3_1,4_3_3,78:59
+2761,311,GerBL2,2480764,Ingolstadt,Erzgebirge Aue,2018-02-11,12:30:00,Average,"Cloud, Sun",4,Cold,3_4_3,4_3_3,00:00
+2762,312,GerBL2,2480762,Eintracht Braunschweig,Sandhausen,2018-02-11,12:30:00,Good,"Cloud, Wind",4,Cold,4_2_3_1,4_2_2_2,00:00
+2763,313,GerBL2,2480759,Nurnberg,St. Pauli,2018-02-12,19:30:00,Good,Cloud,2,Freezing,4_4_2,3_5_2,00:00
+2764,314,GerBL2,2480773,Sandhausen,Kaiserslautern,2018-02-16,17:30:00,Average,Clear,1,-,4_4_2,3_4_3,00:00
+2765,315,GerBL2,2480770,Bochum,Heidenheim,2018-02-16,17:30:00,Good,Cloud,2,Cold,4_4_2,4_2_3_1,00:00
+2766,316,GerBL2,2480770,Bochum,Heidenheim,2018-02-16,17:30:00,Good,Cloud,2,Cold,4_4_2,3_4_1_2,83:58
+2767,317,GerBL2,2480767,St. Pauli,Ingolstadt,2018-02-17,12:00:00,Excellent,"Cloud, Light Wind, Snow",0,Freezing,4_3_2_1,4_4_2,00:00
+2768,318,GerBL2,2480767,St. Pauli,Ingolstadt,2018-02-17,12:00:00,Excellent,"Cloud, Light Snow",0,Freezing,4_3_2_1,4_4_2,00:00
+2769,319,GerBL2,2480767,St. Pauli,Ingolstadt,2018-02-17,12:00:00,Excellent,"Cloud, Light Snow",0,Freezing,4_3_2_1,4_4_2,00:00
+2770,320,GerBL2,2480767,St. Pauli,Ingolstadt,2018-02-17,12:00:00,Excellent,"Cloud, Light Wind, Snow",0,Freezing,4_3_2_1,4_4_2,00:00
+2771,321,GerBL2,2480767,St. Pauli,Ingolstadt,2018-02-17,12:00:00,Excellent,"Cloud, Light Wind",0,Freezing,4_3_2_1,4_4_2,00:00
+2772,322,GerBL2,2480774,Darmstadt 98,Arminia Bielefeld,2018-02-17,12:00:00,Average,"Clear, Sun",3,Cold,4_4_2,4_2_3_1,00:00
+2773,323,GerBL2,2480775,Erzgebirge Aue,Holstein Kiel,2018-02-17,12:00:00,Excellent,Cloud,1,Cold,4_1_4_1,3_4_2_1,00:00
+2774,324,GerBL2,2480771,Greuther Furth,Fortuna Dusseldorf,2018-02-17,12:00:00,Average,Sun,0,Cold,4_2_3_1,4_2_3_1,00:00
+2775,325,GerBL2,2480769,Jahn Regensburg,Dynamo Dresden,2018-02-18,12:30:00,Good,"Clear, Sun",2,Cold,4_3_3,4_1_2_1_2,00:00
+2776,326,GerBL2,2480769,Jahn Regensburg,Dynamo Dresden,2018-02-18,12:30:00,Good,"Clear, Sun",2,Cold,3_5_2,4_1_2_1_2,81:57
+2777,327,GerBL2,2480768,Union Berlin,Eintracht Braunschweig,2018-02-18,12:30:00,Good,"Clear, Sun",5,Cold,4_4_2,3_5_2,00:00
+2778,328,GerBL2,2480768,Union Berlin,Eintracht Braunschweig,2018-02-18,12:30:00,Good,"Clear, Sun",5,Cold,4_4_2,4_3_3,62:18
+2779,329,GerBL2,2480772,MSV Duisburg,Nurnberg,2018-02-18,12:30:00,Average,Cloud,3,Cold,4_1_4_1,4_4_2,00:00
+2780,330,GerBL2,2480732,Kaiserslautern,Darmstadt 98,2018-02-21,17:30:00,Excellent,Clear,2,Freezing,4_4_1_1,4_4_2,00:00
+2781,331,GerBL2,2480784,Fortuna Dusseldorf,Jahn Regensburg,2018-02-23,17:30:00,Good,Clear,-2,-,4_4_2,4_2_3_1,00:00
+2782,332,GerBL2,2480784,Fortuna Dusseldorf,Jahn Regensburg,2018-02-23,17:30:00,Good,Clear,-2,-,4_4_2,4_2_2_2,76:26
+2783,333,GerBL2,2480784,Fortuna Dusseldorf,Jahn Regensburg,2018-02-23,17:30:00,Good,Clear,-2,-,4_5_1,4_2_2_2,79:22
+2784,334,GerBL2,2480782,Dynamo Dresden,Arminia Bielefeld,2018-02-23,17:30:00,Excellent,Cloud,-1,Freezing,4_4_2,4_2_2_2,00:00
+2785,335,GerBL2,2480782,Dynamo Dresden,Arminia Bielefeld,2018-02-23,17:30:00,Excellent,Cloud,-1,Freezing,4_4_2,5_4_1,86:46
+2786,336,GerBL2,2480777,Sandhausen,Union Berlin,2018-02-24,12:00:00,Good,"Sun, Wind",1,Freezing,4_3_2_1,4_2_3_1,00:00
+2787,337,GerBL2,2480779,Eintracht Braunschweig,Greuther Furth,2018-02-24,12:00:00,Excellent,"Clear, Sun",-3,Freezing,4_2_3_1,4_4_2,00:00
+2788,338,GerBL2,2480781,Kaiserslautern,Erzgebirge Aue,2018-02-24,12:00:00,Good,"Clear, Sun",1,Cold,3_5_2,4_4_2,00:00
+2789,339,GerBL2,2480783,Ingolstadt,MSV Duisburg,2018-02-24,12:00:00,Excellent,"Clear, Sun",0,Freezing,4_4_2,4_2_3_1,00:00
+2790,340,GerBL2,2480776,Heidenheim,Darmstadt 98,2018-02-25,12:30:00,Excellent,Sun,0,Freezing,4_2_3_1,4_1_2_1_2,00:00
+2791,341,GerBL2,2480776,Heidenheim,Darmstadt 98,2018-02-25,12:30:00,Excellent,Sun,0,Freezing,4_2_3_1,4_4_2,16:40
+2792,342,GerBL2,2480780,Nurnberg,Bochum,2018-02-25,12:30:00,Excellent,"Clear, Sun",-2,Freezing,4_2_3_1,4_1_4_1,00:00
+2793,343,GerBL2,2480778,Holstein Kiel,St. Pauli,2018-02-25,12:30:00,Average,"Cloud, Snow",-2,Freezing,4_4_2,4_1_4_1,00:00
+2794,344,GerBL2,2480778,Holstein Kiel,St. Pauli,2018-02-25,12:30:00,Average,"Cloud, Snow",-2,Freezing,5_4_1,4_1_4_1,90:51
+2795,345,GerBL2,2480787,Darmstadt 98,Dynamo Dresden,2018-03-02,17:30:00,Average,Cloud,-4,Freezing,4_2_2_2,4_2_3_1,00:00
+2796,346,GerBL2,2480792,Union Berlin,Kaiserslautern,2018-03-02,17:30:00,Average,"Cloud, Snow",-3,Freezing,4_4_2,3_5_2,00:00
+2797,347,GerBL2,2480792,Union Berlin,Kaiserslautern,2018-03-02,17:30:00,Average,"Cloud, Snow",-3,Freezing,5_4_1,3_5_2,88:31
+2798,348,GerBL2,2480789,Erzgebirge Aue,Sandhausen,2018-03-03,12:00:00,Excellent,"Clear, Sun",7,-,4_2_3_1,3_1_3_1_2,00:00
+2799,349,GerBL2,2480793,MSV Duisburg,Holstein Kiel,2018-03-03,12:00:00,Average,Cloud,-3,Freezing,4_1_4_1,4_4_2,00:00
+2800,350,GerBL2,2480791,Greuther Furth,Nurnberg,2018-03-03,12:00:00,Average,Cloud,1,Cold,3_4_3,4_2_3_1,00:00
+2801,351,GerBL2,2480791,Greuther Furth,Nurnberg,2018-03-03,12:00:00,Average,Cloud,1,Cold,3_4_3,5_4_1,88:11
+2802,352,GerBL2,2480786,Jahn Regensburg,Eintracht Braunschweig,2018-03-04,12:30:00,Excellent,Cloud,3,Cold,4_4_2,4_1_2_1_2,00:00
+2803,353,GerBL2,2480790,St. Pauli,Fortuna Dusseldorf,2018-03-04,12:30:00,Poor,"Clear, Sun",10,Warm,4_2_3_1,4_4_2,00:00
+2804,354,GerBL2,2480788,Arminia Bielefeld,Heidenheim,2018-03-04,12:30:00,Good,Cloud,7,Cold,4_2_3_1,4_1_4_1,00:00
+2805,355,GerBL2,2480785,Bochum,Ingolstadt,2018-03-05,19:30:00,Good,Cloud,1,Freezing,4_3_3,4_2_3_1,00:00
+2806,356,GerBL2,2480800,Nurnberg,Arminia Bielefeld,2018-03-09,17:30:00,Good,Clear,7,-,4_1_4_1,4_2_3_1,00:00
+2807,357,GerBL2,2480796,Heidenheim,Dynamo Dresden,2018-03-09,17:30:00,Good,Clear,5,Cold,4_2_2_2,4_4_2,00:00
+2808,358,GerBL2,2480799,Holstein Kiel,Bochum,2018-03-10,12:00:00,"Average, Patchy",Clear,13,Cold,4_2_3_1,4_1_4_1,00:00
+2809,359,GerBL2,2480794,Ingolstadt,Darmstadt 98,2018-03-10,12:00:00,Good,Cloud,6,Cold,4_2_3_1,4_2_3_1,00:00
+2810,360,GerBL2,2480798,Kaiserslautern,Greuther Furth,2018-03-10,12:00:00,Good,Clear,15,Warm,4_2_3_1,4_4_2,00:00
+2811,361,GerBL2,2480797,Eintracht Braunschweig,St. Pauli,2018-03-10,12:00:00,Poor,Cloud,15,Warm,4_4_2,4_4_2,00:00
+2812,362,GerBL2,2480801,Fortuna Dusseldorf,MSV Duisburg,2018-03-11,12:30:00,Excellent,Clear,15,Warm,4_4_2,4_2_3_1,00:00
+2813,363,GerBL2,2480801,Fortuna Dusseldorf,MSV Duisburg,2018-03-11,12:30:00,Excellent,Clear,15,Warm,4_4_2,4_3_3,92:17
+2814,364,GerBL2,2480802,Sandhausen,Jahn Regensburg,2018-03-11,12:30:00,Good,Cloud,13,Cold,4_4_2,4_4_2,00:00
+2815,365,GerBL2,2480795,Erzgebirge Aue,Union Berlin,2018-03-11,12:30:00,Excellent,"Clear, Sun",16,Warm,4_3_3,3_4_1_2,00:00

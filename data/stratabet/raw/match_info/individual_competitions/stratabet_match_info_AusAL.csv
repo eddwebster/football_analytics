@@ -1,0 +1,194 @@
+True,index,competition,gsm_id,awayteam_team2,hometeam_team1,kickoffDate,kickoffTime,pitchType,weatherType,tempCelcius,tempType,formation_team1,formation_team2,formation_time
+192,173,AusAL,2238877,Melbourne Victory,Brisbane Roar,2016-10-07,08:50:00,Excellent,Clear,21,Warm,4_3_3,4_3_3,88:06
+190,171,AusAL,2238878,Melbourne City,Wellington Phoenix,2016-10-08,06:35:00,Good,Cloud,14,-,4_2_3_1,4_4_2,69:06
+191,172,AusAL,2238878,Melbourne City,Wellington Phoenix,2016-10-08,06:35:00,Good,Cloud,14,-,4_2_3_1,3_5_2,61:19
+188,169,AusAL,2238879,Sydney,Western Sydney Wanderers,2016-10-08,08:50:00,Excellent,Clear,17,Warm,4_3_3,4_2_3_1,83:12
+189,170,AusAL,2238879,Sydney,Western Sydney Wanderers,2016-10-08,08:50:00,Excellent,Clear,17,Warm,4_3_3,5_4_1,91:47
+186,167,AusAL,2238880,Central Coast Mariners,Perth Glory,2016-10-08,11:00:00,Good,"Cloud, Light Rain, Wind",14,-,4_2_3_1,4_4_2,74:45
+187,168,AusAL,2238880,Central Coast Mariners,Perth Glory,2016-10-08,11:00:00,Good,"Cloud, Wind",14,-,4_2_3_1,4_4_2,74:45
+185,166,AusAL,2238881,Adelaide United,Newcastle Jets,2016-10-09,06:00:00,Good,Cloud,20,Warm,4_3_3,4_3_3,71:55
+184,165,AusAL,2238882,Western Sydney Wanderers,Adelaide United,2016-10-14,08:50:00,Excellent,"Clear, Sun",20,Warm,4_3_3,4_3_2_1,84:44
+183,164,AusAL,2238883,Central Coast Mariners,Sydney,2016-10-15,06:35:00,Excellent,"Clear, Sun",21,Warm,4_2_3_1,4_3_3,75:30
+181,162,AusAL,2238884,Melbourne City,Melbourne Victory,2016-10-15,08:50:00,Excellent,Clear,21,Warm,3_5_2,4_4_1_1,75:45
+182,163,AusAL,2238884,Melbourne City,Melbourne Victory,2016-10-15,08:50:00,Excellent,Clear,21,Warm,4_2_3_1,4_4_1_1,55:42
+180,161,AusAL,2238885,Brisbane Roar,Newcastle Jets,2016-10-16,06:00:00,Good,"Clear, Wind",22,Warm,4_2_3_1,4_2_3_1,75:48
+179,160,AusAL,2238886,Wellington Phoenix,Perth Glory,2016-10-16,08:00:00,Good,"Cloud, Sun",19,Warm,4_2_3_1,4_2_3_1,76:19
+178,159,AusAL,2238887,Perth Glory,Melbourne City,2016-10-21,08:50:00,Good,"Cloud, Light Rain",10,-,4_2_3_1,4_2_3_1,77:36
+176,157,AusAL,2238888,Brisbane Roar,Central Coast Mariners,2016-10-22,06:35:00,Good,"Cloud, Sun",18,Warm,4_2_3_1,4_2_3_1,84:25
+177,158,AusAL,2238888,Brisbane Roar,Central Coast Mariners,2016-10-22,06:35:00,Good,"Cloud, Sun",18,Warm,4_3_3,4_2_3_1,00:00
+174,155,AusAL,2238889,Melbourne Victory,Adelaide United,2016-10-22,08:50:00,Good,"Cloud, Sun",13,-,4_3_3,4_4_2,76:55
+175,156,AusAL,2238889,Melbourne Victory,Adelaide United,2016-10-22,08:50:00,Good,"Cloud, Sun",13,-,4_3_3,4_3_3,66:44
+172,153,AusAL,2238890,Sydney,Wellington Phoenix,2016-10-23,06:00:00,Good,"Cloud, Sun",14,-,4_4_2,4_2_3_1,79:11
+173,154,AusAL,2238890,Sydney,Wellington Phoenix,2016-10-23,06:00:00,Good,"Cloud, Sun",14,-,4_2_3_1,4_2_3_1,60:25
+171,152,AusAL,2238891,Newcastle Jets,Western Sydney Wanderers,2016-10-23,08:00:00,Good,"Cloud, Sun",16,Warm,4_2_3_1,4_2_3_1,74:35
+170,151,AusAL,2238892,Adelaide United,Melbourne City,2016-10-28,08:50:00,Good,"Clear, Sun",15,Warm,4_2_3_1,4_3_3,85:02
+168,149,AusAL,2238893,Sydney,Newcastle Jets,2016-10-29,06:35:00,Good,"Cloud, Light Rain",21,Warm,4_4_2,4_2_3_1,81:19
+169,150,AusAL,2238893,Sydney,Newcastle Jets,2016-10-29,06:35:00,Good,"Cloud, Light Rain",21,Warm,4_2_3_1,4_2_3_1,00:00
+167,148,AusAL,2238894,Central Coast Mariners,Western Sydney Wanderers,2016-10-29,08:50:00,Good,"Cloud, Sun",23,Warm,4_2_3_1,4_2_3_1,80:03
+166,147,AusAL,2238895,Perth Glory,Brisbane Roar,2016-10-30,06:00:00,Good,"Cloud, Sun",24,Warm,4_2_3_1,4_2_3_1,79:32
+164,145,AusAL,2238896,Wellington Phoenix,Melbourne Victory,2016-10-31,08:50:00,Good,Closed Roof,14,-,4_2_3_1,4_3_3,80:16
+165,146,AusAL,2238896,Wellington Phoenix,Melbourne Victory,2016-10-31,08:50:00,Good,Closed Roof,14,-,3_5_2,4_3_3,83:56
+163,144,AusAL,2238897,Melbourne City,Brisbane Roar,2016-11-04,08:50:00,Good,Clear,23,Warm,4_2_3_1,4_2_3_1,81:59
+160,141,AusAL,2238898,Newcastle Jets,Wellington Phoenix,2016-11-05,06:35:00,Good,"Cloud, Sun",15,-,4_3_3,3_5_2,89:22
+161,142,AusAL,2238898,Newcastle Jets,Wellington Phoenix,2016-11-05,06:35:00,Good,"Cloud, Sun",15,-,4_3_3,4_2_2_2,68:32
+162,143,AusAL,2238898,Newcastle Jets,Wellington Phoenix,2016-11-05,06:35:00,Good,"Cloud, Sun",15,-,4_3_3,4_2_3_1,00:00
+159,140,AusAL,2238899,Melbourne Victory,Sydney,2016-11-05,08:50:00,Good,Clear,22,Warm,4_2_3_1,4_2_3_1,92:12
+158,139,AusAL,2238900,Central Coast Mariners,Adelaide United,2016-11-06,06:00:00,Good,"Clear, Sun",20,Warm,4_3_3,4_2_3_1,75:39
+156,137,AusAL,2238901,Western Sydney Wanderers,Perth Glory,2016-11-06,08:00:00,Good,"Cloud, Sun",23,Warm,4_2_2_2,4_2_3_1,54:23
+157,138,AusAL,2238901,Western Sydney Wanderers,Perth Glory,2016-11-06,08:00:00,Good,"Cloud, Sun",23,Warm,4_2_3_1,4_2_3_1,00:00
+154,135,AusAL,2238902,Newcastle Jets,Melbourne City,2016-11-10,08:50:00,Good,"Cloud, Sun",15,-,4_3_3,4_2_3_1,85:21
+155,136,AusAL,2238902,Newcastle Jets,Melbourne City,2016-11-10,08:50:00,Good,"Cloud, Sun",15,-,4_3_3,4_1_2_1_2,00:00
+153,134,AusAL,2238903,Brisbane Roar,Adelaide United,2016-11-11,08:50:00,Good,"Cloud, Sun",23,Warm,4_3_3,4_2_3_1,73:33
+151,132,AusAL,2238904,Wellington Phoenix,Central Coast Mariners,2016-11-12,06:35:00,Good,"Clear, Strong Wind, Sun",24,Warm,4_2_3_1,4_5_1,85:30
+152,133,AusAL,2238904,Wellington Phoenix,Central Coast Mariners,2016-11-12,06:35:00,Good,"Clear, Strong Wind, Sun",24,Warm,4_2_3_1,4_4_2,00:00
+150,131,AusAL,2238905,Western Sydney Wanderers,Melbourne Victory,2016-11-12,08:50:00,Good,Cloud,17,-,4_2_3_1,4_2_3_1,81:46
+149,130,AusAL,2238906,Perth Glory,Sydney,2016-11-13,06:00:00,Excellent,Sun,27,Hot,4_3_3,4_2_3_1,77:59
+148,129,AusAL,2238907,Melbourne City,Western Sydney Wanderers,2016-11-18,08:50:00,Good,Clear,27,Hot,4_2_3_1,4_3_3,66:26
+147,128,AusAL,2238908,Adelaide United,Perth Glory,2016-11-18,11:00:00,Good,"Clear, Sun",26,Hot,4_2_3_1,4_3_3,80:21
+146,127,AusAL,2238910,Sydney,Brisbane Roar,2016-11-19,08:50:00,Good,Cloud,23,Warm,4_2_3_1,4_2_3_1,69:59
+145,126,AusAL,2238911,Central Coast Mariners,Newcastle Jets,2016-11-20,06:00:00,Good,"Cloud, Sun",22,Warm,4_2_3_1,4_3_3,84:53
+144,125,AusAL,2238912,Perth Glory,Central Coast Mariners,2016-11-24,08:50:00,Excellent,"Cloud, Sun",18,-,4_3_3,4_2_3_1,78:55
+143,124,AusAL,2238913,Brisbane Roar,Western Sydney Wanderers,2016-11-25,08:50:00,Good,Cloud,19,Warm,4_2_3_1,4_2_3_1,72:50
+141,122,AusAL,2238914,Newcastle Jets,Melbourne Victory,2016-11-26,06:35:00,Good,"Cloud, Sun",15,-,4_2_3_1,4_2_3_1,75:50
+142,123,AusAL,2238914,Newcastle Jets,Melbourne Victory,2016-11-26,06:35:00,Good,"Cloud, Sun",15,-,4_2_3_1,4_3_3,80:36
+140,121,AusAL,2238915,Adelaide United,Sydney,2016-11-26,08:50:00,Good,Cloud,21,Warm,4_2_3_1,4_2_3_1,80:27
+137,118,AusAL,2238916,Wellington Phoenix,Melbourne City,2016-11-27,06:00:00,Good,"Cloud, Sun",16,-,4_4_1_1,4_2_3_1,82:42
+138,119,AusAL,2238916,Wellington Phoenix,Melbourne City,2016-11-27,06:00:00,Good,"Cloud, Sun",16,-,4_4_1_1,4_3_3,76:01
+139,120,AusAL,2238916,Wellington Phoenix,Melbourne City,2016-11-27,06:00:00,Good,"Cloud, Sun",16,-,4_3_3,4_3_3,65:29
+136,117,AusAL,2238917,Perth Glory,Melbourne Victory,2016-12-02,08:50:00,Good,"Clear, Sun",17,-,4_2_3_1,4_2_3_1,87:25
+135,116,AusAL,2238918,Western Sydney Wanderers,Central Coast Mariners,2016-12-03,06:35:00,Excellent,"Cloud, Sun",20,-,4_3_3,4_2_3_1,84:27
+134,115,AusAL,2238919,Brisbane Roar,Melbourne City,2016-12-03,08:50:00,Good,"Clear, Sun",22,-,4_3_3,4_2_3_1,84:25
+133,114,AusAL,2238920,Sydney,Newcastle Jets,2016-12-04,06:00:00,Good,"Clear, Sun",27,Hot,4_2_3_1,4_2_3_1,75:08
+132,113,AusAL,2238921,Wellington Phoenix,Adelaide United,2016-12-04,08:00:00,Good,"Clear, Sun",29,Hot,4_3_3,4_3_3,82:29
+131,112,AusAL,2238922,Melbourne City,Sydney,2016-12-09,08:50:00,Good,"Cloud, Sun",21,Warm,4_2_3_1,4_3_3,81:08
+129,110,AusAL,2238923,Central Coast Mariners,Wellington Phoenix,2016-12-10,06:35:00,Excellent,"Cloud, Light Rain, Sun",20,-,4_2_3_1,4_3_3,83:26
+130,111,AusAL,2238923,Central Coast Mariners,Wellington Phoenix,2016-12-10,06:35:00,Excellent,"Cloud, Light Rain, Sun",20,-,5_4_1,4_3_3,88:21
+128,109,AusAL,2238924,Melbourne Victory,Western Sydney Wanderers,2016-12-10,08:50:00,Good,"Cloud, Sun",22,-,4_2_3_1,4_2_3_1,83:40
+127,108,AusAL,2238925,Newcastle Jets,Perth Glory,2016-12-10,11:00:00,Good,"Clear, Sun",28,Hot,4_2_3_1,4_2_3_1,83:10
+126,107,AusAL,2238926,Adelaide United,Brisbane Roar,2016-12-11,06:00:00,Average,"Cloud, Sun",24,-,4_2_3_1,4_3_3,73:20
+124,105,AusAL,2238927,Adelaide United,Newcastle Jets,2016-12-16,08:50:00,Good,"Cloud, Light Rain",21,-,4_2_3_1,4_2_3_1,87:42
+125,106,AusAL,2238927,Adelaide United,Newcastle Jets,2016-12-16,08:50:00,Good,Cloud,21,-,4_2_3_1,4_2_3_1,87:42
+123,104,AusAL,2238928,Western Sydney Wanderers,Wellington Phoenix,2016-12-17,06:35:00,Excellent,"Cloud, Sun",19,-,4_2_3_1,4_2_3_1,84:38
+122,103,AusAL,2238929,Melbourne Victory,Melbourne City,2016-12-17,08:50:00,Good,"Clear, Sun",18,-,4_3_3,4_2_3_1,91:04
+120,101,AusAL,2238930,Sydney,Perth Glory,2016-12-17,11:00:00,Good,"Clear, Sun",26,-,4_4_2,4_2_3_1,88:19
+121,102,AusAL,2238930,Sydney,Perth Glory,2016-12-17,11:00:00,Good,"Clear, Sun",26,-,4_4_2,5_4_1,91:52
+118,99,AusAL,2238931,Brisbane Roar,Central Coast Mariners,2016-12-18,06:00:00,Excellent,"Cloud, Sun",17,-,4_3_3,4_5_1,83:58
+119,100,AusAL,2238931,Brisbane Roar,Central Coast Mariners,2016-12-18,06:00:00,Excellent,"Cloud, Sun",17,-,4_3_3,4_2_3_1,70:35
+117,98,AusAL,2238932,Western Sydney Wanderers,Brisbane Roar,2016-12-23,08:50:00,"Average, Patchy","Cloud, Sun, Wind",25,Warm,4_2_3_1,4_2_3_1,87:55
+115,96,AusAL,2238933,Wellington Phoenix,Newcastle Jets,2016-12-26,06:35:00,Good,"Clear, Sun",23,Warm,4_2_3_1,4_2_3_1,86:37
+116,97,AusAL,2238933,Wellington Phoenix,Newcastle Jets,2016-12-26,06:35:00,Good,"Clear, Sun",23,Warm,4_2_3_1,4_3_3,45:34
+114,95,AusAL,2238934,Sydney,Adelaide United,2016-12-26,08:50:00,Good,"Cloud, Sun",24,Warm,4_2_3_1,4_2_3_1,77:29
+111,92,AusAL,2238935,Perth Glory,Melbourne City,2016-12-27,08:50:00,Good,Light Rain,23,Warm,4_4_2,4_5_1,92:30
+112,93,AusAL,2238935,Perth Glory,Melbourne City,2016-12-27,08:50:00,Good,Light Rain,23,Warm,4_4_2,4_4_2,76:53
+113,94,AusAL,2238935,Perth Glory,Melbourne City,2016-12-27,08:50:00,Good,Light Rain,23,Warm,3_5_2,4_4_2,55:44
+110,91,AusAL,2238936,Central Coast Mariners,Melbourne Victory,2016-12-28,08:50:00,Good,Clear,33,Hot,4_3_3,4_3_3,74:53
+107,88,AusAL,2238937,Brisbane Roar,Sydney,2016-12-30,08:50:00,Excellent,Clear,31,Hot,4_4_1_1,3_5_2,84:59
+108,89,AusAL,2238937,Brisbane Roar,Sydney,2016-12-30,08:50:00,Excellent,Clear,31,Hot,4_2_3_1,4_2_3_1,63:03
+109,90,AusAL,2238937,Brisbane Roar,Sydney,2016-12-30,08:50:00,Excellent,Clear,31,Hot,4_4_1_1,4_2_3_1,64:56
+106,87,AusAL,2238938,Melbourne City,Central Coast Mariners,2016-12-31,08:00:00,Good,Cloud,22,Warm,4_3_3,4_3_3,68:04
+105,86,AusAL,2238940,Adelaide United,Wellington Phoenix,2017-01-01,06:35:00,Good,"Cloud, Light Rain, Strong Wind",18,Warm,4_2_3_1,4_3_3,77:43
+103,84,AusAL,2238939,Perth Glory,Western Sydney Wanderers,2017-01-01,08:50:00,"Excellent, Wet",Cloud,24,Warm,4_2_3_1,4_1_4_1,78:24
+104,85,AusAL,2238939,Perth Glory,Western Sydney Wanderers,2017-01-01,08:50:00,"Excellent, Wet",Cloud,24,Warm,4_2_3_1,4_4_2,54:57
+101,82,AusAL,2238941,Newcastle Jets,Melbourne Victory,2017-01-02,08:50:00,Good,Cloud,17,-,4_3_3,4_4_2,81:03
+102,83,AusAL,2238941,Newcastle Jets,Melbourne Victory,2017-01-02,08:50:00,Good,Cloud,17,-,4_3_3,4_2_3_1,64:41
+97,78,AusAL,2238942,Wellington Phoenix,Perth Glory,2017-01-05,10:00:00,Good,"Cloud, Light Rain",21,-,4_4_2,4_4_1_1,81:50
+98,79,AusAL,2238942,Wellington Phoenix,Perth Glory,2017-01-05,10:00:00,Good,"Cloud, Light Rain",21,-,4_4_2,4_4_2,24:10
+99,80,AusAL,2238942,Wellington Phoenix,Perth Glory,2017-01-05,10:00:00,Good,"Cloud, Sun",21,-,4_4_2,4_4_1_1,81:50
+100,81,AusAL,2238942,Wellington Phoenix,Perth Glory,2017-01-05,10:00:00,Good,"Cloud, Sun",21,-,4_4_2,4_4_2,24:10
+95,76,AusAL,2238943,Western Sydney Wanderers,Melbourne City,2017-01-06,08:50:00,Good,Clear,30,Warm,4_3_3,4_4_1_1,80:52
+96,77,AusAL,2238943,Western Sydney Wanderers,Melbourne City,2017-01-06,08:50:00,Good,Clear,30,Warm,4_3_3,4_4_2,25:29
+94,75,AusAL,2238944,Newcastle Jets,Brisbane Roar,2017-01-07,06:35:00,"Average, Uneven","Cloud, Sun",23,Hot,4_2_3_1,4_2_3_1,87:29
+93,74,AusAL,2238945,Melbourne Victory,Adelaide United,2017-01-07,08:50:00,Good,"Cloud, Sun, Wind",27,-,4_3_3,4_2_3_1,84:46
+92,73,AusAL,2238946,Sydney,Central Coast Mariners,2017-01-08,06:00:00,Excellent,"Cloud, Sun, Wind",27,Warm,4_3_3,4_2_3_1,78:42
+91,72,AusAL,2238947,Melbourne City,Adelaide United,2017-01-12,08:50:00,Excellent,"Cloud, Sun",33,Hot,4_3_3,4_2_3_1,81:51
+89,70,AusAL,2238948,Brisbane Roar,Melbourne Victory,2017-01-13,08:50:00,Good,"Cloud, Light Rain",22,-,4_2_3_1,4_1_4_1,81:04
+90,71,AusAL,2238948,Brisbane Roar,Melbourne Victory,2017-01-13,08:50:00,Good,"Cloud, Light Rain",22,-,4_2_3_1,4_2_3_1,70:47
+87,68,AusAL,2238949,Central Coast Mariners,Wellington Phoenix,2017-01-14,06:35:00,Good,"Cloud, Sun",18,-,4_2_3_1,4_2_3_1,79:41
+88,69,AusAL,2238949,Central Coast Mariners,Wellington Phoenix,2017-01-14,06:35:00,Good,"Cloud, Sun",18,-,4_3_3,4_2_3_1,64:59
+86,67,AusAL,2238950,Western Sydney Wanderers,Sydney,2017-01-14,08:50:00,"Average, Patchy","Clear, Sun",28,Hot,4_2_3_1,4_2_3_1,84:19
+84,65,AusAL,2238951,Perth Glory,Newcastle Jets,2017-01-15,06:00:00,Good,"Cloud, Sun",23,Warm,4_2_3_1,4_4_2,85:06
+85,66,AusAL,2238951,Perth Glory,Newcastle Jets,2017-01-15,06:00:00,Good,"Cloud, Sun",23,Warm,4_2_2_2,4_4_2,80:35
+82,63,AusAL,2238909,Melbourne Victory,Wellington Phoenix,2017-01-17,06:45:00,Good,"Cloud, Wind",17,-,4_2_3_1,4_2_2_2,85:08
+83,64,AusAL,2238909,Melbourne Victory,Wellington Phoenix,2017-01-17,06:45:00,Good,"Cloud, Wind",17,-,4_2_3_1,4_2_3_1,67:12
+81,62,AusAL,2238952,Central Coast Mariners,Melbourne City,2017-01-19,08:50:00,"Good, Wet",Cloud,21,Warm,4_3_3,4_3_3,82:52
+80,61,AusAL,2238953,Adelaide United,Sydney,2017-01-20,08:50:00,Good,"Cloud, Light Wind",26,Warm,4_4_2,4_2_3_1,81:48
+77,58,AusAL,2238954,Brisbane Roar,Wellington Phoenix,2017-01-21,06:35:00,Excellent,"Cloud, Sun",16,-,4_2_3_1,4_2_3_1,87:51
+78,59,AusAL,2238954,Brisbane Roar,Wellington Phoenix,2017-01-21,06:35:00,Excellent,"Cloud, Sun",16,-,4_3_3,4_2_3_1,55:47
+79,60,AusAL,2238954,Brisbane Roar,Wellington Phoenix,2017-01-21,06:35:00,Excellent,"Cloud, Sun",16,-,4_2_3_1,4_3_2_1,89:21
+76,57,AusAL,2238955,Melbourne Victory,Perth Glory,2017-01-21,09:00:00,Good,"Clear, Sun",26,Hot,4_4_2,4_2_3_1,85:10
+75,56,AusAL,2238956,Newcastle Jets,Western Sydney Wanderers,2017-01-22,06:00:00,Good,"Clear, Sun",25,Warm,4_2_3_1,4_2_3_1,80:42
+74,55,AusAL,2238957,Sydney,Melbourne Victory,2017-01-26,08:50:00,Average,Sun,20,Warm,4_3_3,4_2_3_1,83:05
+73,54,AusAL,2238958,Melbourne City,Newcastle Jets,2017-01-27,08:50:00,Good,Cloud,24,Warm,4_2_3_1,4_3_3,86:01
+71,52,AusAL,2238959,Perth Glory,Central Coast Mariners,2017-01-28,06:35:00,Good,"Clear, Sun",30,Hot,4_2_3_1,4_4_1_1,85:53
+72,53,AusAL,2238959,Perth Glory,Central Coast Mariners,2017-01-28,06:35:00,Good,"Clear, Sun",30,Hot,4_2_3_1,4_4_2,00:00
+70,51,AusAL,2238960,Western Sydney Wanderers,Brisbane Roar,2017-01-28,08:50:00,"Average, Patchy","Cloud, Sun",28,Hot,4_2_3_1,4_2_3_1,81:19
+69,50,AusAL,2238961,Wellington Phoenix,Adelaide United,2017-01-29,06:00:00,Excellent,Sun,32,Hot,4_3_3,4_3_3,66:18
+68,49,AusAL,2238962,Sydney,Brisbane Roar,2017-02-03,08:50:00,Good,Cloud,26,Warm,4_2_3_1,4_4_2,78:33
+67,48,AusAL,2238963,Western Sydney Wanderers,Wellington Phoenix,2017-02-04,06:35:00,Good,"Cloud, Sun",18,Warm,4_4_1_1,4_3_3,86:08
+66,47,AusAL,2238964,Melbourne City,Melbourne Victory,2017-02-04,08:50:00,Good,"Clear, Sun",33,Hot,4_3_3,4_3_3,87:27
+65,46,AusAL,2238965,Newcastle Jets,Perth Glory,2017-02-04,11:00:00,Good,"Clear, Sun",23,Warm,4_4_2,4_3_3,82:29
+64,45,AusAL,2238966,Adelaide United,Central Coast Mariners,2017-02-05,06:00:00,"Dry, Good","Clear, Sun",32,Hot,4_3_3,4_3_3,79:52
+63,44,AusAL,2238967,Wellington Phoenix,Sydney,2017-02-09,08:50:00,Poor,Cloud,27,Hot,4_2_3_1,4_3_3,85:25
+62,43,AusAL,2238968,Perth Glory,Adelaide United,2017-02-10,09:50:00,Good,"Clear, Wind",28,Hot,4_3_3,4_4_2,67:35
+61,42,AusAL,2238970,Brisbane Roar,Melbourne City,2017-02-11,08:50:00,Good,"Cloud, Sun",25,Warm,4_3_3,4_2_3_1,75:19
+60,41,AusAL,2238971,Central Coast Mariners,Western Sydney Wanderers,2017-02-12,06:00:00,"Patchy, Poor, Uneven","Cloud, Sun",25,Warm,4_2_3_1,4_2_3_1,86:27
+59,40,AusAL,2238969,Melbourne Victory,Newcastle Jets,2017-02-13,08:50:00,"Average, Patchy",Cloud,22,Hot,4_2_3_1,4_3_3,78:41
+58,39,AusAL,2238972,Newcastle Jets,Adelaide United,2017-02-17,08:50:00,"Average, Dry",Clear,18,Warm,4_3_3,4_2_3_1,83:17
+57,38,AusAL,2238973,Melbourne City,Wellington Phoenix,2017-02-18,06:35:00,Good,Cloud,17,-,4_3_3,4_3_3,85:35
+55,36,AusAL,2238974,Sydney,Western Sydney Wanderers,2017-02-18,08:50:00,Good,"Cloud, Sun",25,Warm,4_2_3_1,4_1_2_1_2,84:23
+56,37,AusAL,2238974,Sydney,Western Sydney Wanderers,2017-02-18,08:50:00,Good,"Cloud, Sun",25,Warm,4_2_3_1,4_2_3_1,83:52
+54,35,AusAL,2238975,Brisbane Roar,Perth Glory,2017-02-18,11:00:00,Good,"Clear, Sun",30,Hot,4_4_1_1,4_2_3_1,81:00
+52,33,AusAL,2238976,Melbourne Victory,Central Coast Mariners,2017-02-19,06:00:00,"Average, Patchy, Uneven","Cloud, Sun",25,Warm,4_2_3_1,4_3_3,78:19
+53,34,AusAL,2238976,Melbourne Victory,Central Coast Mariners,2017-02-19,06:00:00,"Average, Patchy, Uneven","Cloud, Rain, Sun",25,Warm,4_2_3_1,4_3_3,78:19
+51,32,AusAL,2238977,Sydney,Melbourne City,2017-02-24,08:50:00,Good,"Cloud, Sun",17,-,4_4_1_1,4_2_3_1,76:53
+50,31,AusAL,2238981,Wellington Phoenix,Brisbane Roar,2017-02-25,06:35:00,"Average, Uneven","Clear, Sun",28,Hot,4_2_3_1,4_2_3_1,86:28
+49,30,AusAL,2238979,Adelaide United,Melbourne Victory,2017-02-25,08:50:00,Good,"Cloud, Sun",19,-,4_3_3,4_2_3_1,83:41
+48,29,AusAL,2238980,Western Sydney Wanderers,Perth Glory,2017-02-25,11:00:00,Average,"Clear, Sun",31,Hot,4_4_2,4_2_3_1,80:36
+46,27,AusAL,2238978,Central Coast Mariners,Newcastle Jets,2017-02-26,06:00:00,Good,"Cloud, Sun",21,-,4_2_3_1,4_2_3_1,87:37
+47,28,AusAL,2238978,Central Coast Mariners,Newcastle Jets,2017-02-26,06:00:00,Good,"Cloud, Sun",21,-,4_2_2_2,4_2_3_1,62:21
+45,26,AusAL,2238986,Melbourne Victory,Sydney,2017-03-03,08:50:00,"Patchy, Poor, Wet","Cloud, Rain",22,Warm,4_2_3_1,4_2_3_1,83:42
+44,25,AusAL,2238983,Perth Glory,Wellington Phoenix,2017-03-04,06:35:00,Good,Clear,18,-,4_3_3,4_4_2,77:53
+43,24,AusAL,2238984,Adelaide United,Western Sydney Wanderers,2017-03-04,08:50:00,"Average, Patchy, Uneven",Cloud,22,Warm,4_2_3_1,4_3_3,73:05
+42,23,AusAL,2238985,Melbourne City,Central Coast Mariners,2017-03-05,06:00:00,Average,Cloud,20,Warm,4_2_3_1,4_3_3,83:33
+40,21,AusAL,2238982,Brisbane Roar,Newcastle Jets,2017-03-05,08:00:00,Good,"Cloud, Sun",22,Warm,4_3_2_1,4_2_3_1,78:13
+41,22,AusAL,2238982,Brisbane Roar,Newcastle Jets,2017-03-05,08:00:00,Good,"Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,48:58
+39,20,AusAL,2238987,Central Coast Mariners,Sydney,2017-03-10,08:50:00,Average,Cloud,21,Warm,4_2_3_1,4_2_3_1,79:41
+38,19,AusAL,2238988,Perth Glory,Melbourne Victory,2017-03-11,08:50:00,Good,Clear,19,Warm,4_3_3,4_4_2,76:21
+37,18,AusAL,2238989,Newcastle Jets,Melbourne City,2017-03-18,08:50:00,Excellent,Clear,24,Warm,4_3_3,4_2_3_1,84:39
+35,16,AusAL,2238990,Brisbane Roar,Adelaide United,2017-03-19,06:00:00,Good,Sun,31,-,4_3_3,4_3_3,87:55
+36,17,AusAL,2238990,Brisbane Roar,Adelaide United,2017-03-19,06:00:00,Good,Sun,31,-,4_3_3,4_4_2,86:12
+34,15,AusAL,2238991,Wellington Phoenix,Western Sydney Wanderers,2017-03-19,08:00:00,Average,Cloud,24,-,4_2_3_1,4_3_3,76:32
+33,14,AusAL,2238992,Melbourne City,Western Sydney Wanderers,2017-03-24,08:50:00,"Poor, Uneven",Clear,20,-,4_2_3_1,4_2_3_1,85:32
+32,13,AusAL,2238993,Adelaide United,Central Coast Mariners,2017-03-25,06:35:00,Average,"Clear, Sun",22,-,4_2_3_1,4_2_3_1,79:48
+28,9,AusAL,2238994,Melbourne Victory,Brisbane Roar,2017-03-25,08:50:00,"Average, Patchy",Cloud,24,Warm,4_2_3_1,3_4_3,82:52
+29,10,AusAL,2238994,Melbourne Victory,Brisbane Roar,2017-03-25,08:50:00,"Average, Patchy",Cloud,24,Warm,4_2_3_1,3_5_2,71:42
+30,11,AusAL,2238994,Melbourne Victory,Brisbane Roar,2017-03-25,08:50:00,"Average, Patchy",Cloud,24,Warm,4_2_3_1,4_4_2,65:40
+31,12,AusAL,2238994,Melbourne Victory,Brisbane Roar,2017-03-25,08:50:00,"Average, Patchy",Cloud,24,Warm,4_2_3_1,4_3_3,00:00
+27,8,AusAL,2238995,Newcastle Jets,Wellington Phoenix,2017-03-26,06:00:00,Excellent,Cloud,16,-,4_1_2_1_2,4_2_3_1,70:22
+26,7,AusAL,2238996,Sydney,Perth Glory,2017-03-26,08:00:00,"Average, Patchy",Sun,20,-,4_4_2,4_2_3_1,65:50
+25,6,AusAL,2238997,Perth Glory,Adelaide United,2017-03-31,08:50:00,Average,Cloud,18,-,4_3_3,4_4_2,78:12
+24,5,AusAL,2238998,Western Sydney Wanderers,Newcastle Jets,2017-04-01,06:35:00,Good,"Cloud, Sun",22,-,4_2_3_1,4_2_3_1,80:57
+22,3,AusAL,2238999,Melbourne City,Sydney,2017-04-01,08:50:00,"Average, Patchy, Uneven",Cloud,22,-,4_2_3_1,4_4_2,81:28
+23,4,AusAL,2238999,Melbourne City,Sydney,2017-04-01,08:50:00,"Average, Patchy, Uneven",Cloud,22,-,4_2_3_1,4_3_3,60:21
+20,1,AusAL,2239000,Wellington Phoenix,Melbourne Victory,2017-04-02,07:00:00,Good,"Cloud, Sun",15,-,4_3_3,4_3_3,75:51
+21,2,AusAL,2239000,Wellington Phoenix,Melbourne Victory,2017-04-02,07:00:00,Good,"Cloud, Sun",15,-,4_3_3,4_1_2_1_2,16:19
+19,0,AusAL,2239001,Central Coast Mariners,Brisbane Roar,2017-04-02,09:00:00,Good,Cloud,22,Hot,4_2_3_1,4_2_3_1,84:08
+5,5,AusAL,2239002,Adelaide United,Melbourne City,2017-04-07,09:50:00,Good,Clear,20,-,4_3_3,4_2_3_1,76:25
+6,6,AusAL,2239002,Adelaide United,Melbourne City,2017-04-07,09:50:00,Good,Clear,20,-,4_3_3,4_4_2,78:44
+3,3,AusAL,2239003,Sydney,Wellington Phoenix,2017-04-08,07:35:00,Average,Cloud,13,-,3_1_3_1_2,4_2_3_1,84:35
+4,4,AusAL,2239003,Sydney,Wellington Phoenix,2017-04-08,07:35:00,Average,Cloud,13,-,4_1_2_1_2,4_2_3_1,65:16
+2,2,AusAL,2239004,Melbourne Victory,Western Sydney Wanderers,2017-04-08,09:50:00,Average,"Cloud, Sun",22,Warm,4_2_3_1,4_2_3_1,79:18
+1,1,AusAL,2239005,Brisbane Roar,Perth Glory,2017-04-08,12:00:00,Average,Clear,18,-,4_4_2,4_2_3_1,79:52
+0,0,AusAL,2239006,Newcastle Jets,Central Coast Mariners,2017-04-09,07:00:00,Average,"Cloud, Sun",23,-,4_1_4_1,4_2_3_1,83:35
+12,5,AusAL,2239007,Central Coast Mariners,Melbourne Victory,2017-04-14,09:50:00,Average,Cloud,14,-,4_2_3_1,4_2_3_1,85:27
+11,4,AusAL,2239008,Newcastle Jets,Sydney,2017-04-15,07:35:00,Poor,"Cloud, Sun",20,-,4_2_3_1,4_2_3_1,83:53
+10,3,AusAL,2239009,Western Sydney Wanderers,Adelaide United,2017-04-15,09:50:00,Average,Clear,18,-,4_3_3,4_3_3,76:52
+8,1,AusAL,2239010,Wellington Phoenix,Brisbane Roar,2017-04-16,07:00:00,Average,Clear,23,-,4_2_3_1,4_3_3,86:01
+9,2,AusAL,2239010,Wellington Phoenix,Brisbane Roar,2017-04-16,07:00:00,Average,Clear,23,-,4_2_3_1,4_1_2_1_2,00:00
+7,0,AusAL,2239011,Melbourne City,Perth Glory,2017-04-16,09:00:00,"Poor, Uneven","Cloud, Sun",25,Warm,4_4_2,4_2_3_1,73:59
+14,1,AusAL,2238519,Western Sydney Wanderers,Brisbane Roar,2017-04-21,09:50:00,Average,"Cloud, Light Rain",19,-,4_2_3_1,4_2_3_1,105:00
+13,0,AusAL,2238520,Perth Glory,Melbourne City,2017-04-23,09:00:00,Good,Cloud,17,-,4_2_3_1,4_4_2,70:31
+16,1,AusAL,2238521,Perth Glory,Sydney,2017-04-29,09:50:00,Poor,"Clear, Sun",19,-,4_2_3_1,4_4_2,80:43
+17,2,AusAL,2238521,Perth Glory,Sydney,2017-04-29,09:50:00,Poor,"Clear, Sun",19,-,4_4_2,4_4_2,85:24
+15,0,AusAL,2238522,Brisbane Roar,Melbourne Victory,2017-04-30,07:00:00,Good,Sun,15,-,4_3_3,4_2_3_1,67:09
+18,0,AusAL,2238523,Melbourne Victory,Sydney,2017-05-07,07:00:00,Good,Clear,17,-,4_2_3_1,4_3_3,100:41
