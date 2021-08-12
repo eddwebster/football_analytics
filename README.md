@@ -365,7 +365,7 @@ To learn more about the different types of data available, such as Event and Tra
 
 <h5 id="data-sources-financial"> Financial, Valuation, and Transfer data </h5>
 
-*    [Capology](https://www.capology.com/) - a sports salaries platform [requires an expensive licence, 7 day free trials available];
+*    [Capology](https://www.capology.com/) - a sports salaries platform;
 *    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
 *    [The Price of Football Master Spreadsheet](https://t.co/c1DYrIB14C?amp=1) - data from the finance/business aspect of football by [Kieran Maguire](https://twitter.com/KieranMaguire);
 *    [spotrac](https://www.spotrac.com/epl/) - player contracts, salaries, and transfer information for the Premier League, MLS, and NWSL;
