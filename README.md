@@ -433,7 +433,7 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    [Metrica Sports event definitions](https://github.com/metrica-sports/sample-data/blob/master/documentation/events-definitions.pdf);
 *    [SkillCorner](https://github.com/SkillCorner/opendata#documentation);
 *    [StatsBomb](https://github.com/statsbomb/open-data/tree/master/doc); and
-*    [Wyscout](https://apidocs.wyscout.com/_).
+*    [Wyscout](https://dataglossary.wyscout.com/).
 
   
 <h4 id="data-companies"> Data Types and Companies</h4>
