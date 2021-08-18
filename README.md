@@ -136,6 +136,7 @@ For more information about this repository and the author, I am available throug
             <li><a href="#radars">Radars</a></li>
             <li><a href="#recruitment-analysis">Recruitment Analysis</a></li>
             <li><a href="#player-valuation">Player Valuation Modeling</a></li>
+            <li><a href="#game-win-probability-modeling">Game Win Probability Modeling</a></li>
             <li><a href="#goalkeeper-analysis">Goalkeeper Analysis</a></li>
           </ul>
         </li>
@@ -1781,6 +1782,12 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 *    Transfers data:
      +    [`transfers`](https://github.com/ewenme/transfers) GitHub repo for European football clubs' player transfers from 1992/93-2020/21 (as per TransferMarkt) by [ewenme](https://github.com/ewenme)
      +    [Player Transfer Data](https://gist.github.com/Worville/c4149ece45a75928a404d316151ba0fe) collated by [Tom Worville](https://twitter.com/Worville) (see Tweet [[link](https://twitter.com/Worville/status/1420035521988993034)]
+
+
+<h4 id="game-win-probability-modeling"> Game Win Probability Modeling</h4>
+
+*    [A Bayesian Approach to In-Game Win Probability](https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability) by Jesse Davies, Pieter Robberechts, and Jan Van Haaren for DTAI Sports Analytics Lab. See paper [[link](https://dl.acm.org/doi/10.1145/3447548.3467194)]
+*    [We Have a New Win Probability Model](https://www.americansocceranalysis.com/home/2021/7/16/we-have-a-new-win-probability-model) by Tyler Richardett for American Soccer Analysis
 
 
 <h4 id="valuation-modeling"> Goalkeeper Analysis</h4>
