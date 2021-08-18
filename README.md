@@ -717,7 +717,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Dato Fútbol](https://www.datofutbol.cl/) by [Dato Fútbol](https://twitter.com/DatoFutbol_cl) ([Ismael Gómez Schmidt](https://twitter.com/ismaelgomezs));
 *    [DeepxG](https://deepxg.com/) by [Thom Lawrence](https://twitter.com/lemonwatcher) (last updated 29/11/2017);
 *    [Differentgame](https://differentgame.wordpress.com/) by [Paul Riley](https://twitter.com/footballfactman);
-*    [DTAI Sports Analytics Lab](https://dtai.cs.kuleuven.be/sports/) by KU Leuven;
+*    [DTAI Sports Analytics Lab](https://dtai.cs.kuleuven.be/sports/blog) by KU Leuven, featuring posts from Jesse Davis, Pieter Robberechts, Maaike Van Roy, Lotte Bransen, Jan Van Haaren,  Tom Decroos, and more;
 *    [The Economics of Sport](http://www.sportseconomics.org/);
 *    [EFL Numbers](https://eflnumbers.wordpress.com/) by [EFL Numbers](https://twitter.com/eflnumbers);
 *    [EightyFivePoints](http://eightyfivepoints.blogspot.com/) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
