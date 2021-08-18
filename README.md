@@ -1680,7 +1680,13 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h5 id="pv-general"> General</h5>
 
-*    [Why Possession Value Is Bollocks](https://differentgame.wordpress.com/2019/10/27/why-possession-value-is-bollocks/) by [Paul Riley](https://twitter.com/footballfactman)
+*    [A Framework for Tactical Analysis and Individual Offensive Production Assessment in Soccer Using Markov Chains](http://nessis.org/nessis11/rudd.pdf) (2011) by Sarah Rudd;
+*    [Attacking Contributions: Markov Models for Football](https://statsbomb.com/2019/02/attacking-contributions-markov-models-for-football/) by Derrick Yam for StatsBomb;
+*    [Introducing a Possession Value Framework](https://www.statsperform.com/resource/introducing-a-possession-value-framework/) by Nils Mackay for Stats Perform;
+*    [Expected Potential (xPo)](https://thecomeonman.github.io/xPo/) by Aditya Kothari;
+*    [Deep Soccer Analytics: Learning an Action-Value Function for Evaluating Soccer Players](https://link.springer.com/article/10.1007/s10618-020-00705-9) by Guiliang Liu, Yudong Luo, Oliver Schulte, Tarak Kharrat;
+*    [Evolving Our Possession Value Framework](https://www.statsperform.com/resource/evolving-our-possession-value-framework/) by Jonny Whitmore for Stats Perform; and
+*    [Why Possession Value Is Bollocks](https://differentgame.wordpress.com/2019/10/27/why-possession-value-is-bollocks/) by [Paul Riley](https://twitter.com/footballfactman).
 
 <h5 id="pv-frameworks-xt"> Expected Threat (xT)</h5>
 
@@ -1688,12 +1694,16 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h5 id="pv-frameworks-vaep"> Valuing Actions by Estimating Probabilities (VAEP) </h5>
 
-*    Lotte Bransen and Jan Van Haaren's 'Valuating Actions in Football' series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0), [Valuing Actions in Football 1: From Wyscout Data to Rating Players](https://www.youtube.com/watch?v=0ol_eLLEQ64), [Valuing Actions in Football 2: Generating Features](https://www.youtube.com/watch?v=Ep9wXQgAFaE&t=42s), [Valuing Actions in Football 3: Training Machine Learning Models](https://www.youtube.com/watch?v=WlORqYIb-Gg), and [Valuing Actions in Football 4: Analyzing Models and Results](https://www.youtube.com/watch?v=w9G0z3eGCj8). See the following for code [[link](https://github.com/SciSports-Labs/fot-valuing-actions)];
+*    Lotte Bransen and Jan Van Haaren's 'Valuing Actions in Football' series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0), [Valuing Actions in Football 1: From Wyscout Data to Rating Players](https://www.youtube.com/watch?v=0ol_eLLEQ64), [Valuing Actions in Football 2: Generating Features](https://www.youtube.com/watch?v=Ep9wXQgAFaE&t=42s), [Valuing Actions in Football 3: Training Machine Learning Models](https://www.youtube.com/watch?v=WlORqYIb-Gg), and [Valuing Actions in Football 4: Analyzing Models and Results](https://www.youtube.com/watch?v=w9G0z3eGCj8). See the following for code [[link](https://github.com/SciSports-Labs/fot-valuing-actions)];
+*    [STARSS: A Spatio-Temporal Action Rating System for Soccer](https://lirias.kuleuven.be/retrieve/465691) by Tom Decroos, Jan Van Haaren, Vladimir Dzyuba, Jesse Davis;
+*    [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer (V1)](https://arxiv.org/pdf/1802.07127v1) by Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis; and
+*    [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer (V2)](https://arxiv.org/pdf/1802.07127v2) by Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis.
 
 <h5 id="pv-frameworks-g+"> Goals Added (g+) </h5>
 
-*    [Goals Added: Introducing a New Way to Measure Soccer](https://www.americansocceranalysis.com/home/2020/4/22/37ucr0d5urxxtryn2cfhzormdziphq);
+*    [Goals Added: Introducing a New Way to Measure Soccer](https://www.americansocceranalysis.com/home/2020/4/22/37ucr0d5urxxtryn2cfhzormdziphq) by John Muller for American Soccer Analysis;
 *    [The future of possession value models](https://www.youtube.com/watch?v=GEp0TJoramM) with [David Sumpter](https://twitter.com/Soccermatics), [Catherine Pfaff](https://twitter.com/PfaffCatherine), [Matthias Kullowatz](https://twitter.com/MattyAnselmo) and [Jernej Flisar](https://twitter.com/jernejfl) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). The Goals Added (g+) model is focussed on in minutes 9-45 of the lecture.
+
 
 <h4 id="dixon-coles"> Dixon Coles Modeling</h4>
 
@@ -1787,14 +1797,18 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 <h4 id="game-win-probability-modeling"> Game Win Probability Modeling</h4>
 
 *    [A Bayesian Approach to In-Game Win Probability](https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability) by Jesse Davies, Pieter Robberechts, and Jan Van Haaren for DTAI Sports Analytics Lab. See paper [[link](https://dl.acm.org/doi/10.1145/3447548.3467194)]
+*    [Who Will Win It? An In-game Win Probability Model for Football](https://dtai.cs.kuleuven.be/events/MLSA19/papers/robberechts_MLSA19.pdf) by Pieter Robberechts, Jan Van Haaren, and Jesse Davies for DTAI Sports Analytics Lab 
 *    [We Have a New Win Probability Model](https://www.americansocceranalysis.com/home/2021/7/16/we-have-a-new-win-probability-model) by Tyler Richardett for American Soccer Analysis
+*    [Explained: What is ‘win probability’ and how does it work?](https://www.fourfourtwo.com/features/premier-league-what-win-probability-graphic-how-does-it-work-amazon-prime-opta-stats-perform) by Alex Jennings for FourFourTwo
+*    [Win probability Wiki](https://en.wikipedia.org/wiki/Win_probability)
+*    FiveThirtyEight’s [2018 World Cup Predictions](https://projects.fivethirtyeight.com/2018-world-cup-predictions/) featuring win probability visualisations
 
 
 <h4 id="valuation-modeling"> Goalkeeper Analysis</h4>
 
 *    [Profiling keepers with data](https://medium.com/@victor.renaud7/profiling-keepers-with-data-41c1af1fa37c) by Victor Renaud
 *    [Intro to Goalkeeper Analysis](https://statsbomb.com/2018/11/intro-to-goalkeeper-analysis/) by Ted Knutson (08/11/2018)
-*    Articles by [Paul Riley]()
+*    Articles by [Paul Riley](https://twitter.com/footballfactman)
      +    [What’s a Goalkeeper Worth to His Team?](https://differentgame.wordpress.com/2012/08/06/whats-a-goalkeeper-worth-to-his-team/) (06/07/2012)
      +    [Things to watch differently in the Premier League this season #2 – Goalkeepers](https://differentgame.wordpress.com/2012/10/06/things-to-watch-differently-in-the-premier-league-this-season-2-goalkeepers/) (06/10/2012)
      +    [Safe hands? Is your keeper performing as well as expected?](https://differentgame.wordpress.com/2014/06/11/marshalling-the-defence/) (11/06/2014)
