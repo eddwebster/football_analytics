@@ -1,0 +1,799 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Chelsea FC,Álvaro Morata,24,Centre-Forward,Real Madrid,£59.40m,in,Summer,59.4,Premier League,2017,2017/2018
+Chelsea FC,Tiemoué Bakayoko,22,Defensive Midfield,Monaco,£36.00m,in,Summer,36,Premier League,2017,2017/2018
+Chelsea FC,Danny Drinkwater,27,Central Midfield,Leicester,£34.11m,in,Summer,34.11,Premier League,2017,2017/2018
+Chelsea FC,Antonio Rüdiger,24,Centre-Back,AS Roma,£31.50m,in,Summer,31.5,Premier League,2017,2017/2018
+Chelsea FC,Davide Zappacosta,25,Right-Back,Torino,£22.50m,in,Summer,22.5,Premier League,2017,2017/2018
+Chelsea FC,Ethan Ampadu,16,Centre-Back,Exeter City,£2.52m,in,Summer,2.52,Premier League,2017,2017/2018
+Chelsea FC,Willy Caballero,35,Goalkeeper,Man City,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Todd Kane,24,Right-Back,Oxford United,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Fikayo Tomori,19,Centre-Back,Chelsea U23,-,in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Charly Musonda Jr.,20,Attacking Midfield,Chelsea U23,-,in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Tammy Abraham,19,Centre-Forward,Chelsea U23,-,in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Lucas Piazón,24,Left Winger,Fulham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Charly Musonda Jr.,21,Attacking Midfield,Celtic,"End of loanMay 17, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Fikayo Tomori,20,Centre-Back,Hull City,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Lewis Baker,23,Central Midfield,Middlesbrough,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Jamal Blackman,24,Goalkeeper,Sheffield Utd.,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Michael Hector,25,Centre-Back,Hull City,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Tomas Kalas,25,Centre-Back,Fulham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Kurt Zouma,23,Centre-Back,Stoke City,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Ruben Loftus-Cheek,22,Central Midfield,Crystal Palace,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Ola Aina,21,Right-Back,Hull City,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Tammy Abraham,20,Centre-Forward,Swansea,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Lewis Baker,22,Central Midfield,Vitesse,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Juan Cuadrado,29,Right-Back,Juventus,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Cristian Cuevas,22,Left-Back,Sint-Truiden,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Kenneth Omeruo,23,Centre-Back,Alanyaspor,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Mario Pasalic,22,Central Midfield,AC Milan,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Michael Hector,24,Centre-Back,E. Frankfurt,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Danilo Pantic,20,Central Midfield,Excelsior,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Bertrand Traoré,21,Right Winger,Ajax,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Abdul Rahman Baba,22,Left-Back,FC Schalke 04,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Matej Delac,24,Goalkeeper,Mouscron,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Nathan,21,Left Winger,Vitesse,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Wallace Oliveira,23,Right-Back,Grêmio,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Andreas Christensen,21,Centre-Back,Bor. M'gladbach,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Christian Atsu,25,Left Winger,Newcastle,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Nemanja Matic,28,Defensive Midfield,Man Utd,£40.23m,out,Summer,40.23,Premier League,2017,2017/2018
+Chelsea FC,Nathan Aké,22,Centre-Back,Bournemouth,£20.52m,out,Summer,20.52,Premier League,2017,2017/2018
+Chelsea FC,Juan Cuadrado,29,Right-Back,Juventus,£18.00m,out,Summer,18,Premier League,2017,2017/2018
+Chelsea FC,Asmir Begovic,30,Goalkeeper,Bournemouth,£10.35m,out,Summer,10.35,Premier League,2017,2017/2018
+Chelsea FC,Bertrand Traoré,21,Right Winger,Olympique Lyon,£9.00m,out,Summer,9,Premier League,2017,2017/2018
+Chelsea FC,Kurt Zouma,22,Centre-Back,Stoke City,Loan fee:£7.02m,out,Summer,7.02,Premier League,2017,2017/2018
+Chelsea FC,Christian Atsu,25,Left Winger,Newcastle,£6.75m,out,Summer,6.75,Premier League,2017,2017/2018
+Chelsea FC,Nathaniel Chalobah,22,Defensive Midfield,Watford,£5.67m,out,Summer,5.67,Premier League,2017,2017/2018
+Chelsea FC,John Terry,36,Centre-Back,Aston Villa,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Cristian Cuevas,22,Left-Back,Huachipato FC,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Loïc Rémy,30,Centre-Forward,UD Las Palmas,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Danilo Pantic,20,Central Midfield,Partizan,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Todd Kane,23,Right-Back,FC Groningen,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Ruben Loftus-Cheek,21,Central Midfield,Crystal Palace,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Fikayo Tomori,19,Centre-Back,Hull City,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Nathan,21,Left Winger,Amiens SC,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Kenneth Omeruo,23,Centre-Back,Kasimpasa,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Lewis Baker,22,Central Midfield,Middlesbrough,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Mario Pasalic,22,Central Midfield,Spartak Moscow,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Tammy Abraham,19,Centre-Forward,Swansea,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Ola Aina,20,Right-Back,Hull City,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Michael Hector,25,Centre-Back,Hull City,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Tomas Kalas,24,Centre-Back,Fulham,Loan,out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Jamal Blackman,23,Goalkeeper,Sheffield Utd.,Loan,out,Summer,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Davinson Sánchez,21,Centre-Back,Ajax,£36.00m,in,Summer,36,Premier League,2017,2017/2018
+Tottenham Hotspur,Serge Aurier,24,Right-Back,Paris SG,£22.50m,in,Summer,22.5,Premier League,2017,2017/2018
+Tottenham Hotspur,Fernando Llorente,32,Centre-Forward,Swansea,£13.59m,in,Summer,13.59,Premier League,2017,2017/2018
+Tottenham Hotspur,Juan Foyth,19,Centre-Back,Estudiantes,£11.70m,in,Summer,11.7,Premier League,2017,2017/2018
+Tottenham Hotspur,Paulo Gazzaniga,25,Goalkeeper,Southampton,?,in,Summer,NA,Premier League,2017,2017/2018
+Tottenham Hotspur,Josh Onomah,21,Attacking Midfield,Aston Villa,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Georges-Kevin N'Koudou,23,Left Winger,Burnley,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Cameron Carter-Vickers,20,Centre-Back,Ipswich,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Kyle Walker-Peters,20,Right-Back,Tottenham U23,-,in,Summer,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Federico Fazio,30,Centre-Back,AS Roma,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Nabil Bentaleb,22,Central Midfield,FC Schalke 04,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Clinton N'Jie,23,Centre-Forward,Marseille,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Kyle Walker,27,Right-Back,Man City,£47.43m,out,Summer,47.43,Premier League,2017,2017/2018
+Tottenham Hotspur,Kevin Wimmer,24,Centre-Back,Stoke City,£17.46m,out,Summer,17.46,Premier League,2017,2017/2018
+Tottenham Hotspur,Nabil Bentaleb,22,Central Midfield,FC Schalke 04,£17.10m,out,Summer,17.1,Premier League,2017,2017/2018
+Tottenham Hotspur,Clinton N'Jie,23,Centre-Forward,Marseille,£6.30m,out,Summer,6.3,Premier League,2017,2017/2018
+Tottenham Hotspur,Federico Fazio,30,Centre-Back,AS Roma,£2.88m,out,Summer,2.88,Premier League,2017,2017/2018
+Tottenham Hotspur,Vincent Janssen,23,Centre-Forward,Fenerbahce,Loan fee:£2.25m,out,Summer,2.25,Premier League,2017,2017/2018
+Tottenham Hotspur,Cameron Carter-Vickers,19,Centre-Back,Sheffield Utd.,Loan,out,Summer,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Josh Onomah,20,Attacking Midfield,Aston Villa,Loan,out,Summer,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Pau López,22,Goalkeeper,Espanyol,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Benjamin Mendy,23,Left-Back,Monaco,£51.75m,in,Summer,51.75,Premier League,2017,2017/2018
+Manchester City,Kyle Walker,27,Right-Back,Spurs,£47.43m,in,Summer,47.43,Premier League,2017,2017/2018
+Manchester City,Bernardo Silva,22,Right Winger,Monaco,£45.00m,in,Summer,45,Premier League,2017,2017/2018
+Manchester City,Ederson,23,Goalkeeper,Benfica,£36.00m,in,Summer,36,Premier League,2017,2017/2018
+Manchester City,Danilo,26,Right-Back,Real Madrid,£27.00m,in,Summer,27,Premier League,2017,2017/2018
+Manchester City,Douglas Luiz,19,Defensive Midfield,Vasco da Gama,£10.80m,in,Summer,10.8,Premier League,2017,2017/2018
+Manchester City,Olarenwaju Kayode,24,Centre-Forward,Austria Vienna,£3.42m,in,Summer,3.42,Premier League,2017,2017/2018
+Manchester City,Luka Ilic,18,Attacking Midfield,Red Star,£2.25m,in,Summer,2.25,Premier League,2017,2017/2018
+Manchester City,Angus Gunn,22,Goalkeeper,Norwich,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Bersant Celina,21,Attacking Midfield,Ipswich,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Joe Hart,31,Goalkeeper,West Ham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Patrick Roberts,21,Right Winger,Celtic,"End of loanMay 21, 2018",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Jack Harrison,21,Left Winger,Middlesbrough,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Eliaquim Mangala,27,Centre-Back,Everton,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Phil Foden,17,Central Midfield,Man City U18,-,in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Tosin Adarabioyo,19,Centre-Back,Man City U23,-,in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Rubén Sobrino,25,Centre-Forward,Alavés,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Pablo Maffeo,19,Right-Back,Girona,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Eliaquim Mangala,26,Centre-Back,Valencia,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Samir Nasri,30,Attacking Midfield,Sevilla FC,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Joe Hart,30,Goalkeeper,Torino,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Oleksandr Zinchenko,20,Left-Back,PSV Eindhoven,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Bersant Celina,20,Attacking Midfield,Twente FC,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Pablo Marí,23,Centre-Back,Girona,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Marlos Moreno,20,Left Winger,Dep. La Coruña,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Enes Ünal,20,Centre-Forward,Twente FC,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Bruno Zuculini,24,Defensive Midfield,Hellas Verona,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester City,Kelechi Iheanacho,20,Centre-Forward,Leicester,£24.93m,out,Summer,24.93,Premier League,2017,2017/2018
+Manchester City,Enes Ünal,20,Centre-Forward,Villarreal,£12.60m,out,Summer,12.6,Premier League,2017,2017/2018
+Manchester City,Wilfried Bony,28,Centre-Forward,Swansea,£11.70m,out,Summer,11.7,Premier League,2017,2017/2018
+Manchester City,Aaron Mooy,26,Central Midfield,Huddersfield,£8.19m,out,Summer,8.19,Premier League,2017,2017/2018
+Manchester City,Nolito,30,Left Winger,Sevilla FC,£6.30m,out,Summer,6.3,Premier League,2017,2017/2018
+Manchester City,Fernando Reges,30,Defensive Midfield,Galatasaray,£5.40m,out,Summer,5.4,Premier League,2017,2017/2018
+Manchester City,Aleksandar Kolarov,31,Left-Back,AS Roma,£4.50m,out,Summer,4.5,Premier League,2017,2017/2018
+Manchester City,Samir Nasri,30,Attacking Midfield,Antalyaspor,£3.15m,out,Summer,3.15,Premier League,2017,2017/2018
+Manchester City,Joe Hart,30,Goalkeeper,West Ham,Loan fee:£2.07m,out,Summer,2.07,Premier League,2017,2017/2018
+Manchester City,Rubén Sobrino,25,Centre-Forward,Alavés,£1.80m,out,Summer,1.8,Premier League,2017,2017/2018
+Manchester City,Bruno Zuculini,24,Defensive Midfield,Hellas Verona,£1.13m,out,Summer,1.13,Premier League,2017,2017/2018
+Manchester City,Jason Denayer,22,Centre-Back,Galatasaray,Loan fee:£450Th.,out,Summer,0.45,Premier League,2017,2017/2018
+Manchester City,Luka Ilic,18,Attacking Midfield,Red Star,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Jesús Navas,31,Right-Back,Sevilla FC,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Pablo Zabaleta,32,Right-Back,West Ham,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Gaël Clichy,31,Left-Back,Basaksehir,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Willy Caballero,35,Goalkeeper,Chelsea,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Pablo Maffeo,20,Right-Back,Girona,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Marlos Moreno,20,Left Winger,Girona,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Patrick Roberts,20,Right Winger,Celtic,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Olarenwaju Kayode,24,Centre-Forward,Girona,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Anthony Cáceres,24,Central Midfield,Al-Wasl,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Angus Gunn,21,Goalkeeper,Norwich,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Douglas Luiz,19,Defensive Midfield,Girona,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Aleix García,20,Central Midfield,Girona,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Pablo Marí,23,Centre-Back,NAC Breda,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Bersant Celina,20,Attacking Midfield,Ipswich,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester City,Bacary Sagna,34,Right-Back,Without Club,-,out,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Mohamed Salah,25,Right Winger,AS Roma,£37.80m,in,Summer,37.8,Premier League,2017,2017/2018
+Liverpool FC,Alex Oxlade-Chamberlain,24,Central Midfield,Arsenal,£34.20m,in,Summer,34.2,Premier League,2017,2017/2018
+Liverpool FC,Andrew Robertson,23,Left-Back,Hull City,£8.10m,in,Summer,8.1,Premier League,2017,2017/2018
+Liverpool FC,Dominic Solanke,19,Centre-Forward,Chelsea U23,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Connor Randall,22,Right-Back,Heart of Midl.,"End of loanMay 14, 2018",in,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Sheyi Ojo,20,Right Winger,Fulham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Marko Grujic,22,Central Midfield,Cardiff,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Daniel Sturridge,28,Centre-Forward,West Brom,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Ovie Ejaria,20,Central Midfield,Sunderland,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Jon Flanagan,25,Right-Back,Bolton,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Taiwo Awoniyi,19,Centre-Forward,NEC Nijmegen,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Andre Wisdom,24,Right-Back,RB Salzburg,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Mamadou Sakho,27,Centre-Back,Crystal Palace,£25.38m,out,Summer,25.38,Premier League,2017,2017/2018
+Liverpool FC,Divock Origi,22,Centre-Forward,VfL Wolfsburg,Loan fee:£5.85m,out,Summer,5.85,Premier League,2017,2017/2018
+Liverpool FC,Lucas Leiva,30,Defensive Midfield,Lazio,£5.13m,out,Summer,5.13,Premier League,2017,2017/2018
+Liverpool FC,Kevin Stewart,23,Defensive Midfield,Hull City,£4.05m,out,Summer,4.05,Premier League,2017,2017/2018
+Liverpool FC,Andre Wisdom,24,Right-Back,Derby,£2.07m,out,Summer,2.07,Premier League,2017,2017/2018
+Liverpool FC,Connor Randall,21,Right-Back,Heart of Midl.,Loan,out,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Taiwo Awoniyi,19,Centre-Forward,Mouscron,Loan,out,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Sheyi Ojo,20,Right Winger,Fulham,Loan,out,Summer,0,Premier League,2017,2017/2018
+Liverpool FC,Alexander Manninger,40,Goalkeeper,Retired,-,out,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Alexandre Lacazette,26,Centre-Forward,Olympique Lyon,£47.70m,in,Summer,47.7,Premier League,2017,2017/2018
+Arsenal FC,Sead Kolasinac,24,Left-Back,FC Schalke 04,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Cohen Bramall,22,Left-Back,Birmingham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Carl Jenkinson,26,Right-Back,Birmingham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Krystian Bielik,20,Defensive Midfield,Walsall,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Ainsley Maitland-Niles,19,Right-Back,Arsenal U23,-,in,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Wojciech Szczesny,27,Goalkeeper,AS Roma,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Joel Campbell,25,Right Winger,Sporting CP,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Alex Oxlade-Chamberlain,24,Central Midfield,Liverpool,£34.20m,out,Summer,34.2,Premier League,2017,2017/2018
+Arsenal FC,Wojciech Szczesny,27,Goalkeeper,Juventus,£12.60m,out,Summer,12.6,Premier League,2017,2017/2018
+Arsenal FC,Gabriel Paulista,26,Centre-Back,Valencia,£9.90m,out,Summer,9.9,Premier League,2017,2017/2018
+Arsenal FC,Kieran Gibbs,27,Left-Back,West Brom,£6.75m,out,Summer,6.75,Premier League,2017,2017/2018
+Arsenal FC,Yaya Sanogo,24,Centre-Forward,Toulouse,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Lucas Pérez,28,Centre-Forward,Dep. La Coruña,Loan,out,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Carl Jenkinson,25,Right-Back,Birmingham,Loan,out,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Cohen Bramall,21,Left-Back,Birmingham,Loan,out,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Emiliano Martínez,24,Goalkeeper,Getafe,Loan,out,Summer,0,Premier League,2017,2017/2018
+Arsenal FC,Joel Campbell,25,Right Winger,Real Betis,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester United,Romelu Lukaku,24,Centre-Forward,Everton,£76.23m,in,Summer,76.23,Premier League,2017,2017/2018
+Manchester United,Nemanja Matic,28,Defensive Midfield,Chelsea,£40.23m,in,Summer,40.23,Premier League,2017,2017/2018
+Manchester United,Victor Lindelöf,22,Centre-Back,Benfica,£31.50m,in,Summer,31.5,Premier League,2017,2017/2018
+Manchester United,Sam Johnstone,25,Goalkeeper,Aston Villa,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Manchester United,Timothy Fosu-Mensah,20,Right-Back,Crystal Palace,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Manchester United,James Wilson,22,Centre-Forward,Sheffield Utd.,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Manchester United,Axel Tuanzebe,20,Centre-Back,Aston Villa,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Manchester United,Joel Pereira,21,Goalkeeper,Man Utd U23,-,in,Summer,0,Premier League,2017,2017/2018
+Manchester United,Scott McTominay,20,Central Midfield,Man Utd U23,-,in,Summer,0,Premier League,2017,2017/2018
+Manchester United,Guillermo Varela,24,Right-Back,E. Frankfurt,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester United,Andreas Pereira,21,Attacking Midfield,Granada CF,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Manchester United,Adnan Januzaj,22,Right Winger,Real Sociedad,£7.65m,out,Summer,7.65,Premier League,2017,2017/2018
+Manchester United,Andreas Pereira,21,Attacking Midfield,Valencia,Loan fee:£2.70m,out,Summer,2.7,Premier League,2017,2017/2018
+Manchester United,Wayne Rooney,31,Attacking Midfield,Everton,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Manchester United,Cameron Borthwick-Jackson,20,Left-Back,Leeds,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester United,Sam Johnstone,24,Goalkeeper,Aston Villa,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester United,Timothy Fosu-Mensah,19,Right-Back,Crystal Palace,Loan,out,Summer,0,Premier League,2017,2017/2018
+Manchester United,Guillermo Varela,24,Right-Back,Peñarol,?,out,Summer,NA,Premier League,2017,2017/2018
+Everton FC,Gylfi Sigurdsson,27,Attacking Midfield,Swansea,£44.46m,in,Summer,44.46,Premier League,2017,2017/2018
+Everton FC,Michael Keane,24,Centre-Back,Burnley,£25.65m,in,Summer,25.65,Premier League,2017,2017/2018
+Everton FC,Jordan Pickford,23,Goalkeeper,Sunderland,£25.65m,in,Summer,25.65,Premier League,2017,2017/2018
+Everton FC,Davy Klaassen,24,Central Midfield,Ajax,£24.30m,in,Summer,24.3,Premier League,2017,2017/2018
+Everton FC,Nikola Vlasic,19,Attacking Midfield,Hajduk Split,£9.72m,in,Summer,9.72,Premier League,2017,2017/2018
+Everton FC,Henry Onyekuru,20,Left Winger,KAS Eupen,£7.20m,in,Summer,7.2,Premier League,2017,2017/2018
+Everton FC,Sandro Ramírez,21,Centre-Forward,Málaga CF,£5.40m,in,Summer,5.4,Premier League,2017,2017/2018
+Everton FC,Cuco Martina,27,Right-Back,Southampton,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Wayne Rooney,31,Attacking Midfield,Man Utd,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Kieran Dowell,20,Attacking Midfield,Nottm Forest,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Matthew Pennington,23,Centre-Back,Leeds,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Muhamed Besic,25,Defensive Midfield,Middlesbrough,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Jonjoe Kenny,20,Right-Back,Everton U23,-,in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Kieran Dowell,19,Attacking Midfield,Everton U23,-,in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Tyias Browning,24,Centre-Back,Sunderland,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Brendan Galloway,22,Left-Back,Sunderland,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Shani Tarashaj,22,Second Striker,E. Frankfurt,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Tom Cleverley,27,Central Midfield,Watford,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Gerard Deulofeu,23,Left Winger,AC Milan,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Everton FC,Romelu Lukaku,24,Centre-Forward,Man Utd,£76.23m,out,Summer,76.23,Premier League,2017,2017/2018
+Everton FC,Gerard Deulofeu,23,Left Winger,FC Barcelona,£10.80m,out,Summer,10.8,Premier League,2017,2017/2018
+Everton FC,Tom Cleverley,27,Central Midfield,Watford,£8.37m,out,Summer,8.37,Premier League,2017,2017/2018
+Everton FC,Gareth Barry,36,Defensive Midfield,West Brom,£990Th.,out,Summer,0.99,Premier League,2017,2017/2018
+Everton FC,Aiden McGeady,31,Left Winger,Sunderland,£252Th.,out,Summer,0.252,Premier League,2017,2017/2018
+Everton FC,Arouna Koné,33,Centre-Forward,Sivasspor,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Everton FC,Conor McAleny,24,Centre-Forward,Fleetwood,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Everton FC,Kieran Dowell,19,Attacking Midfield,Nottm Forest,Loan,out,Summer,0,Premier League,2017,2017/2018
+Everton FC,Leandro Rodríguez,24,Centre-Forward,Danubio FC,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Everton FC,Conor Grant,22,Central Midfield,Crewe Alexandra,Loan,out,Summer,0,Premier League,2017,2017/2018
+Everton FC,Henry Onyekuru,20,Left Winger,RSC Anderlecht,Loan,out,Summer,0,Premier League,2017,2017/2018
+Everton FC,Brendan Galloway,21,Left-Back,Sunderland,Loan,out,Summer,0,Premier League,2017,2017/2018
+Everton FC,Tyias Browning,23,Centre-Back,Sunderland,Loan,out,Summer,0,Premier League,2017,2017/2018
+Everton FC,Matthew Pennington,22,Centre-Back,Leeds,Loan,out,Summer,0,Premier League,2017,2017/2018
+Everton FC,Eliaquim Mangala,27,Centre-Back,Man City,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Mario Lemina,23,Defensive Midfield,Juventus,£15.53m,in,Summer,15.53,Premier League,2017,2017/2018
+Southampton FC,Wesley Hoedt,23,Centre-Back,Lazio,£14.40m,in,Summer,14.4,Premier League,2017,2017/2018
+Southampton FC,Jan Bednarek,21,Centre-Back,Lech Poznan,£5.40m,in,Summer,5.4,Premier League,2017,2017/2018
+Southampton FC,Jack Rose,22,Goalkeeper,West Brom U23,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Harrison Reed,23,Defensive Midfield,Norwich,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Sam Gallagher,22,Centre-Forward,Birmingham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Matt Targett,22,Left-Back,Fulham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Ryan Seager,22,Centre-Forward,Yeovil Town,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Jake Hesketh,21,Attacking Midfield,Southampton U23,-,in,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Paulo Gazzaniga,25,Goalkeeper,Rayo Vallecano,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Jay Rodríguez,27,Centre-Forward,West Brom,£12.33m,out,Summer,12.33,Premier League,2017,2017/2018
+Southampton FC,Cuco Martina,27,Right-Back,Everton,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Lloyd Isgrove,24,Left Winger,Barnsley FC,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Martín Cáceres,30,Centre-Back,Hellas Verona,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Harrison Reed,22,Defensive Midfield,Norwich,Loan,out,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Ryan Seager,21,Centre-Forward,MK Dons,Loan,out,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Sam Gallagher,21,Centre-Forward,Birmingham,Loan,out,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Paulo Gazzaniga,25,Goalkeeper,Spurs,?,out,Summer,NA,Premier League,2017,2017/2018
+Southampton FC,Jordy Clasie,26,Defensive Midfield,Club Brugge,Loan,out,Summer,0,Premier League,2017,2017/2018
+Southampton FC,Mouez Hassen,22,Goalkeeper,OGC Nice,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Nathan Aké,22,Centre-Back,Chelsea,£20.52m,in,Summer,20.52,Premier League,2017,2017/2018
+AFC Bournemouth,Asmir Begovic,30,Goalkeeper,Chelsea,£10.35m,in,Summer,10.35,Premier League,2017,2017/2018
+AFC Bournemouth,Jermain Defoe,34,Centre-Forward,Sunderland,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Connor Mahoney,20,Right Winger,Blackburn,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Aaron Ramsdale,20,Goalkeeper,Chesterfield FC,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Baily Cargill,22,Centre-Back,Partick Thistle,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Connor Mahoney,21,Right Winger,Barnsley FC,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Lewis Grabban,30,Centre-Forward,Aston Villa,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Ryan Allsop,25,Goalkeeper,Lincoln City,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Adam Federici,32,Goalkeeper,Nottm Forest,"End of loanSep 11, 2017",in,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Lewis Grabban,29,Centre-Forward,Reading,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Ryan Allsop,25,Goalkeeper,Blackpool,Loan,out,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Jordan Green,22,Right Winger,Yeovil Town,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Baily Cargill,22,Centre-Back,Fleetwood,Loan,out,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Marc Wilson,30,Centre-Back,Sunderland,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Lewis Grabban,29,Centre-Forward,Sunderland,Loan,out,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Harry Cornick,22,Right Winger,Luton,?,out,Summer,NA,Premier League,2017,2017/2018
+AFC Bournemouth,Max Gradel,29,Left Winger,Toulouse,Loan,out,Summer,0,Premier League,2017,2017/2018
+AFC Bournemouth,Adam Federici,32,Goalkeeper,Nottm Forest,Loan,out,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Oliver Burke,20,Right Winger,RB Leipzig,£13.68m,in,Summer,13.68,Premier League,2017,2017/2018
+West Bromwich Albion,Jay Rodríguez,27,Centre-Forward,Southampton,£12.33m,in,Summer,12.33,Premier League,2017,2017/2018
+West Bromwich Albion,Kieran Gibbs,27,Left-Back,Arsenal,£6.75m,in,Summer,6.75,Premier League,2017,2017/2018
+West Bromwich Albion,Yuning Zhang,20,Centre-Forward,Vitesse,£6.48m,in,Summer,6.48,Premier League,2017,2017/2018
+West Bromwich Albion,Gareth Barry,36,Defensive Midfield,Everton,£990Th.,in,Summer,0.99,Premier League,2017,2017/2018
+West Bromwich Albion,Ahmed Hegazy,26,Centre-Back,El Ahly,Loan fee:£900Th.,in,Summer,0.9,Premier League,2017,2017/2018
+West Bromwich Albion,Grzegorz Krychowiak,27,Defensive Midfield,Paris SG,Loan,in,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Alex Palmer,20,Goalkeeper,West Brom U23,-,in,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Kyle Edwards,19,Left Winger,West Brom U23,-,in,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Kyle Howkins,22,Centre-Back,Port Vale,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Kyle Edwards,20,Left Winger,Exeter City,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Craig Gardner,30,Central Midfield,Birmingham,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Craig Gardner,30,Central Midfield,Birmingham,£1.58m,out,Summer,1.58,Premier League,2017,2017/2018
+West Bromwich Albion,Yuning Zhang,20,Centre-Forward,Werder Bremen,Loan fee:£270Th.,out,Summer,0.27,Premier League,2017,2017/2018
+West Bromwich Albion,Darren Fletcher,33,Central Midfield,Stoke City,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Sébastien Pocognoli,29,Left-Back,Standard Liège,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Kyle Howkins,21,Centre-Back,Cambridge Utd.,Loan,out,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Kyle Edwards,19,Left Winger,Exeter City,Loan,out,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Callum McManaman,26,Right Winger,Sunderland,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Jonathan Leko,18,Right Winger,Bristol City,Loan,out,Summer,0,Premier League,2017,2017/2018
+West Bromwich Albion,Daniel Sturridge,28,Centre-Forward,Liverpool,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Marko Arnautovic,28,Centre-Forward,Stoke City,£20.07m,in,Summer,20.07,Premier League,2017,2017/2018
+West Ham United,Chicharito,29,Centre-Forward,Bay. Leverkusen,£16.02m,in,Summer,16.02,Premier League,2017,2017/2018
+West Ham United,Sead Haksabanovic,18,Left Midfield,Halmstad,£2.70m,in,Summer,2.7,Premier League,2017,2017/2018
+West Ham United,Joe Hart,30,Goalkeeper,Man City,Loan fee:£2.07m,in,Summer,2.07,Premier League,2017,2017/2018
+West Ham United,Pablo Zabaleta,32,Right-Back,Man City,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+West Ham United,Declan Rice,18,Defensive Midfield,West Ham U23,-,in,Summer,0,Premier League,2017,2017/2018
+West Ham United,Robert Snodgrass,30,Right Winger,Aston Villa,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+West Ham United,Reece Burke,21,Centre-Back,Bolton,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+West Ham United,Moses Makasi,22,Central Midfield,Plymouth,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+West Ham United,Domingos Quina,17,Central Midfield,West Ham U23,-,in,Summer,0,Premier League,2017,2017/2018
+West Ham United,Havard Nordtveit,27,Centre-Back,TSG Hoffenheim,£7.20m,out,Summer,7.2,Premier League,2017,2017/2018
+West Ham United,Ashley Fletcher,21,Centre-Forward,Middlesbrough,£6.57m,out,Summer,6.57,Premier League,2017,2017/2018
+West Ham United,Darren Randolph,30,Goalkeeper,Middlesbrough,£5.04m,out,Summer,5.04,Premier League,2017,2017/2018
+West Ham United,Enner Valencia,27,Centre-Forward,Tigres UANL,£4.95m,out,Summer,4.95,Premier League,2017,2017/2018
+West Ham United,Sofiane Feghouli,27,Right Winger,Galatasaray,£3.83m,out,Summer,3.83,Premier League,2017,2017/2018
+West Ham United,Raphael Spiegel,24,Goalkeeper,Boavista,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Stephen Hendrie,22,Left-Back,Southend United,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Josh Cullen,21,Central Midfield,Bolton,Loan,out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Reece Burke,20,Centre-Back,Bolton,Loan,out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Robert Snodgrass,29,Right Winger,Aston Villa,Loan,out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Reece Oxford,18,Centre-Back,Bor. M'gladbach,Loan,out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Jaanai Gordon,21,Centre-Forward,Without Club,-,out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Sam Westley,23,Right-Back,Retired,-,out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Álvaro Arbeloa,34,Right-Back,Retired,-,out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Joe Hart,31,Goalkeeper,Man City,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Gökhan Töre,25,Right Winger,Besiktas,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+West Ham United,Jonathan Calleri,23,Centre-Forward,Maldonado,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+Leicester City,Kelechi Iheanacho,20,Centre-Forward,Man City,£24.93m,in,Summer,24.93,Premier League,2017,2017/2018
+Leicester City,Adrien Silva,28,Central Midfield,Sporting CP,£22.50m,in,Summer,22.5,Premier League,2017,2017/2018
+Leicester City,Vicente Iborra,29,Central Midfield,Sevilla FC,£13.50m,in,Summer,13.5,Premier League,2017,2017/2018
+Leicester City,Harry Maguire,24,Centre-Back,Hull City,£12.33m,in,Summer,12.33,Premier League,2017,2017/2018
+Leicester City,Aleksandar Dragovic,26,Centre-Back,Bay. Leverkusen,Loan fee:£2.25m,in,Summer,2.25,Premier League,2017,2017/2018
+Leicester City,Eldin Jakupovic,32,Goalkeeper,Hull City,£2.07m,in,Summer,2.07,Premier League,2017,2017/2018
+Leicester City,George Thomas,20,Attacking Midfield,Coventry,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Leicester City,Callum Elder,23,Left-Back,Wigan,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Leicester City,Leonardo Ulloa,31,Centre-Forward,Brighton,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Leicester City,Islam Slimani,29,Centre-Forward,Newcastle,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Leicester City,Andy King,29,Central Midfield,Swansea,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Leicester City,Harvey Barnes,19,Left Midfield,Leicester U23,-,in,Summer,0,Premier League,2017,2017/2018
+Leicester City,Danny Drinkwater,27,Central Midfield,Chelsea,£34.11m,out,Summer,34.11,Premier League,2017,2017/2018
+Leicester City,Tom Lawrence,23,Left Winger,Derby,£4.95m,out,Summer,4.95,Premier League,2017,2017/2018
+Leicester City,Ron-Robert Zieler,28,Goalkeeper,VfB Stuttgart,£3.60m,out,Summer,3.6,Premier League,2017,2017/2018
+Leicester City,Bartosz Kapustka,20,Attacking Midfield,SC Freiburg,Loan fee:£450Th.,out,Summer,0.45,Premier League,2017,2017/2018
+Leicester City,Nampalys Mendy,25,Defensive Midfield,OGC Nice,Loan,out,Summer,0,Premier League,2017,2017/2018
+Leicester City,Callum Elder,22,Left-Back,Wigan,Loan,out,Summer,0,Premier League,2017,2017/2018
+Leicester City,Harvey Barnes,19,Left Midfield,Barnsley FC,Loan,out,Summer,0,Premier League,2017,2017/2018
+Leicester City,Marcin Wasilewski,37,Centre-Back,Without Club,-,out,Summer,0,Premier League,2017,2017/2018
+Leicester City,Michael Cain,23,Central Midfield,Without Club,-,out,Summer,0,Premier League,2017,2017/2018
+Leicester City,Molla Wagué,26,Centre-Back,Granada CF,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+Stoke City,Kevin Wimmer,24,Centre-Back,Spurs,£17.46m,in,Summer,17.46,Premier League,2017,2017/2018
+Stoke City,Kurt Zouma,22,Centre-Back,Chelsea,Loan fee:£7.02m,in,Summer,7.02,Premier League,2017,2017/2018
+Stoke City,Bruno Martins Indi,25,Centre-Back,FC Porto,£6.93m,in,Summer,6.93,Premier League,2017,2017/2018
+Stoke City,Darren Fletcher,33,Central Midfield,West Brom,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Josh Tymon,18,Left-Back,Hull City,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Eric Maxim Choupo-Moting,28,Centre-Forward,FC Schalke 04,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Jesé,24,Left Winger,Paris SG,Loan,in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Ryan Sweeney,21,Centre-Back,Bristol Rovers,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Dom Telford,21,Centre-Forward,Bristol Rovers,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Harry Souttar,19,Centre-Back,Ross County,"End of loanMay 14, 2018",in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Josh Tymon,19,Left-Back,MK Dons,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Tom Edwards,18,Right-Back,Stoke U23,-,in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Philipp Wollscheid,28,Centre-Back,VfL Wolfsburg,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Joselu,27,Centre-Forward,Dep. La Coruña,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Bojan Krkic,26,Second Striker,1.FSV Mainz 05,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Stoke City,Marko Arnautovic,28,Centre-Forward,West Ham,£20.07m,out,Summer,20.07,Premier League,2017,2017/2018
+Stoke City,Joselu,27,Centre-Forward,Newcastle,£4.95m,out,Summer,4.95,Premier League,2017,2017/2018
+Stoke City,Philipp Wollscheid,28,Centre-Back,FC Metz,£2.25m,out,Summer,2.25,Premier League,2017,2017/2018
+Stoke City,Jonathan Walters,33,Right Winger,Burnley,£2.07m,out,Summer,2.07,Premier League,2017,2017/2018
+Stoke City,Glenn Whelan,33,Defensive Midfield,Aston Villa,£1.53m,out,Summer,1.53,Premier League,2017,2017/2018
+Stoke City,Phil Bardsley,32,Right-Back,Burnley,£756Th.,out,Summer,0.756,Premier League,2017,2017/2018
+Stoke City,Daniel Bachmann,22,Goalkeeper,Watford,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Stoke City,George Waring,22,Centre-Forward,Tranmere Rovers,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Stoke City,Ryan Sweeney,20,Centre-Back,Bristol Rovers,Loan,out,Summer,0,Premier League,2017,2017/2018
+Stoke City,Dom Telford,20,Centre-Forward,Bristol Rovers,Loan,out,Summer,0,Premier League,2017,2017/2018
+Stoke City,Marc Muniesa,25,Centre-Back,Girona,Loan,out,Summer,0,Premier League,2017,2017/2018
+Stoke City,Giannelli Imbula,24,Defensive Midfield,Toulouse,Loan,out,Summer,0,Premier League,2017,2017/2018
+Stoke City,Bojan Krkic,27,Second Striker,Alavés,Loan,out,Summer,0,Premier League,2017,2017/2018
+Stoke City,Kurt Zouma,23,Centre-Back,Chelsea,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+Stoke City,Shay Given,41,Goalkeeper,Retired,-,out,Summer,0,Premier League,2017,2017/2018
+Stoke City,Bruno Martins Indi,25,Centre-Back,FC Porto,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Mamadou Sakho,27,Centre-Back,Liverpool,£25.38m,in,Summer,25.38,Premier League,2017,2017/2018
+Crystal Palace,Jairo Riedewald,20,Centre-Back,Ajax,£8.10m,in,Summer,8.1,Premier League,2017,2017/2018
+Crystal Palace,Ruben Loftus-Cheek,21,Central Midfield,Chelsea,Loan,in,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Timothy Fosu-Mensah,19,Right-Back,Man Utd,Loan,in,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Ryan Inniss,22,Centre-Back,Colchester Utd.,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Jonathan Williams,24,Attacking Midfield,Sunderland,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Sullay Kaikai,22,Left Winger,Charlton,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Luke Croll,22,Centre-Back,Exeter City,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Kwesi Appiah,26,Centre-Forward,Viking FK,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Steve Mandanda,32,Goalkeeper,Marseille,£2.70m,out,Summer,2.7,Premier League,2017,2017/2018
+Crystal Palace,Zeki Fryers,24,Left-Back,Barnsley FC,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Hiram Boateng,21,Defensive Midfield,Exeter City,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Luke Croll,22,Centre-Back,Exeter City,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Ryan Inniss,22,Centre-Back,Colchester Utd.,Loan,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Fraizer Campbell,29,Centre-Forward,Hull City,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Kwesi Appiah,26,Centre-Forward,AFC Wimbledon,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Keshi Anderson,22,Left Winger,Swindon Town,Loan,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Jonathan Williams,23,Attacking Midfield,Sunderland,Loan,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Ruben Loftus-Cheek,22,Central Midfield,Chelsea,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Joe Ledley,30,Central Midfield,Without Club,-,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Jonathan Benteke,22,Centre-Forward,Without Club,-,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Mathieu Flamini,33,Defensive Midfield,Without Club,-,out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Timothy Fosu-Mensah,20,Right-Back,Man Utd,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+Crystal Palace,Kleton Perntreou,22,Goalkeeper,Without Club,-,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Sam Clucas,26,Central Midfield,Hull City,£14.67m,in,Summer,14.67,Premier League,2017,2017/2018
+Swansea City,Wilfried Bony,28,Centre-Forward,Man City,£11.70m,in,Summer,11.7,Premier League,2017,2017/2018
+Swansea City,Roque Mesa,28,Central Midfield,UD Las Palmas,£11.25m,in,Summer,11.25,Premier League,2017,2017/2018
+Swansea City,Renato Sanches,20,Central Midfield,Bayern Munich,Loan fee:£7.65m,in,Summer,7.65,Premier League,2017,2017/2018
+Swansea City,Cian Harries,20,Centre-Back,Coventry,£257Th.,in,Summer,0.257,Premier League,2017,2017/2018
+Swansea City,Erwin Mulder,28,Goalkeeper,Heerenveen,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Swansea City,Tammy Abraham,19,Centre-Forward,Chelsea,Loan,in,Summer,0,Premier League,2017,2017/2018
+Swansea City,Courtney Baker-Richardson,21,Centre-Forward,Leamington,?,in,Summer,NA,Premier League,2017,2017/2018
+Swansea City,Jay Fulton,24,Central Midfield,Wigan,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Swansea City,Connor Roberts,21,Right-Back,Swansea U23,-,in,Summer,0,Premier League,2017,2017/2018
+Swansea City,Oliver McBurnie,21,Centre-Forward,Barnsley FC,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Swansea City,Adam King,22,Central Midfield,Mansfield Town,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Swansea City,Jack Withers,18,Centre-Back,Boston United,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Swansea City,Matt Grimes,22,Central Midfield,Northampton,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Swansea City,Bafétimbi Gomis,31,Centre-Forward,Marseille,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Swansea City,Franck Tabanou,28,Left-Back,Granada CF,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Swansea City,Gylfi Sigurdsson,27,Attacking Midfield,Everton,£44.46m,out,Summer,44.46,Premier League,2017,2017/2018
+Swansea City,Fernando Llorente,32,Centre-Forward,Spurs,£13.59m,out,Summer,13.59,Premier League,2017,2017/2018
+Swansea City,Jack Cork,28,Defensive Midfield,Burnley,£8.19m,out,Summer,8.19,Premier League,2017,2017/2018
+Swansea City,Stephen Kingsley,23,Left-Back,Hull City,£2.97m,out,Summer,2.97,Premier League,2017,2017/2018
+Swansea City,Bafétimbi Gomis,31,Centre-Forward,Galatasaray,£2.25m,out,Summer,2.25,Premier League,2017,2017/2018
+Swansea City,Modou Barrow,24,Left Winger,Reading,£1.53m,out,Summer,1.53,Premier League,2017,2017/2018
+Swansea City,Liam Shephard,22,Right-Back,Peterborough,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Franck Tabanou,28,Left-Back,Guingamp,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Mark Birighitti,26,Goalkeeper,NAC Breda,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Marvin Emnes,29,Centre-Forward,Akhisarspor,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Connor Roberts,21,Right-Back,Middlesbrough,Loan,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Jefferson Montero,28,Left Winger,Getafe,Loan,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Botti Biabi,21,Centre-Forward,Hamilton Acad.,Loan,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Matt Grimes,22,Central Midfield,Northampton,Loan,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Jordi Amat,25,Centre-Back,Real Betis,Loan,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Borja Bastón,24,Centre-Forward,Málaga CF,Loan,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Tammy Abraham,20,Centre-Forward,Chelsea,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Gerhard Tremmel,38,Goalkeeper,Retired,-,out,Summer,0,Premier League,2017,2017/2018
+Swansea City,Andy King,29,Central Midfield,Leicester,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Chris Wood,25,Centre-Forward,Leeds,£14.76m,in,Summer,14.76,Premier League,2017,2017/2018
+Burnley FC,Jack Cork,28,Defensive Midfield,Swansea,£8.19m,in,Summer,8.19,Premier League,2017,2017/2018
+Burnley FC,Nahki Wells,27,Centre-Forward,Huddersfield,£4.86m,in,Summer,4.86,Premier League,2017,2017/2018
+Burnley FC,Jonathan Walters,33,Right Winger,Stoke City,£2.07m,in,Summer,2.07,Premier League,2017,2017/2018
+Burnley FC,Phil Bardsley,32,Right-Back,Stoke City,£756Th.,in,Summer,0.756,Premier League,2017,2017/2018
+Burnley FC,Charlie Taylor,23,Left-Back,Leeds,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Adam Legzdins,30,Goalkeeper,Birmingham,?,in,Summer,NA,Premier League,2017,2017/2018
+Burnley FC,Chris Long,23,Centre-Forward,Northampton,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Tom Anderson,24,Centre-Back,Doncaster,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Anders Lindegaard,33,Goalkeeper,Without Club,-,in,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Rouwen Hennings,29,Centre-Forward,F. Düsseldorf,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Michael Keane,24,Centre-Back,Everton,£25.65m,out,Summer,25.65,Premier League,2017,2017/2018
+Burnley FC,Andre Gray,26,Centre-Forward,Watford,£18.36m,out,Summer,18.36,Premier League,2017,2017/2018
+Burnley FC,Tendayi Darikwa,25,Right-Back,Nottm Forest,£990Th.,out,Summer,0.99,Premier League,2017,2017/2018
+Burnley FC,George Green,21,Attacking Midfield,Viking FK,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Alex Whitmore,21,Centre-Back,Bury,Loan,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Tom Anderson,23,Centre-Back,Port Vale,Loan,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Ntumba Massanka,20,Centre-Forward,Wrexham,Loan,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Michael Kightly,31,Left Winger,Southend United,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Rouwen Hennings,29,Centre-Forward,F. Düsseldorf,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,George Boyd,31,Left Winger,Sheff Wed,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Chris Long,22,Centre-Forward,Northampton,Loan,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Aiden O'Neill,19,Central Midfield,Fleetwood,Loan,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Luke Hendrie,22,Right-Back,Bradford,Loan,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Paul Robinson,37,Goalkeeper,Retired,-,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Joey Barton,34,Central Midfield,Without Club,-,out,Summer,0,Premier League,2017,2017/2018
+Burnley FC,Georges-Kevin N'Koudou,23,Left Winger,Spurs,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Andre Gray,26,Centre-Forward,Burnley,£18.36m,in,Summer,18.36,Premier League,2017,2017/2018
+Watford FC,Richarlison,20,Centre-Forward,Fluminense,£11.16m,in,Summer,11.16,Premier League,2017,2017/2018
+Watford FC,Tom Cleverley,27,Central Midfield,Everton,£8.37m,in,Summer,8.37,Premier League,2017,2017/2018
+Watford FC,Will Hughes,22,Central Midfield,Derby,£8.19m,in,Summer,8.19,Premier League,2017,2017/2018
+Watford FC,Nathaniel Chalobah,22,Defensive Midfield,Chelsea,£5.67m,in,Summer,5.67,Premier League,2017,2017/2018
+Watford FC,Marvin Zeegelaar,27,Left-Back,Sporting CP,£2.70m,in,Summer,2.7,Premier League,2017,2017/2018
+Watford FC,André Carrillo,26,Right Winger,Benfica,Loan fee:£900Th.,in,Summer,0.9,Premier League,2017,2017/2018
+Watford FC,Jorge Segura,20,Centre-Back,Envigado,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Kiko Femenía,26,Right-Back,Alavés,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Daniel Bachmann,22,Goalkeeper,Stoke City,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Molla Wagué,26,Centre-Back,Udinese Calcio,Loan,in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Orestis Karnezis,32,Goalkeeper,Udinese Calcio,Loan,in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Dimitri Foulquier,24,Right-Back,Granada CF,?,in,Summer,NA,Premier League,2017,2017/2018
+Watford FC,Luis Suárez,19,Centre-Forward,Leones FC,?,in,Summer,NA,Premier League,2017,2017/2018
+Watford FC,Pervis Estupiñán,19,Left-Back,Udinese Calcio,?,in,Summer,NA,Premier League,2017,2017/2018
+Watford FC,Costel Pantilimon,31,Goalkeeper,Nottm Forest,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Steven Berghuis,25,Right Winger,Feyenoord,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Mario Suárez,30,Defensive Midfield,Valencia,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Sven Kums,29,Defensive Midfield,Udinese Calcio,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Obbi Oulare,21,Centre-Forward,Willem II,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Juan Carlos Paredes,29,Right-Back,Olympiacos,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Mathias Ranégie,33,Centre-Forward,Udinese Calcio,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Cucho Hernández,18,Centre-Forward,CD América,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Uche Agbo,21,Defensive Midfield,Granada CF,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Juanfran,28,Right-Back,Dep. La Coruña,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Watford FC,Sven Kums,29,Defensive Midfield,RSC Anderlecht,£5.85m,out,Summer,5.85,Premier League,2017,2017/2018
+Watford FC,Steven Berghuis,25,Right Winger,Feyenoord,£5.85m,out,Summer,5.85,Premier League,2017,2017/2018
+Watford FC,Uche Agbo,21,Defensive Midfield,Standard Liège,£2.25m,out,Summer,2.25,Premier League,2017,2017/2018
+Watford FC,Valon Behrami,32,Defensive Midfield,Udinese Calcio,£1.80m,out,Summer,1.8,Premier League,2017,2017/2018
+Watford FC,Juanfran,28,Right-Back,Dep. La Coruña,£900Th.,out,Summer,0.9,Premier League,2017,2017/2018
+Watford FC,Mathias Ranégie,33,Centre-Forward,Häcken,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Rene Gilmartin,30,Goalkeeper,Colchester Utd.,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Giedrius Arlauskis,29,Goalkeeper,CFR Cluj,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Luis Suárez,19,Centre-Forward,R. Valladolid B,Loan,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Dimitri Foulquier,24,Right-Back,R. Strasbourg,Loan,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Costel Pantilimon,30,Goalkeeper,Dep. La Coruña,Loan,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Nordin Amrabat,30,Right Winger,CD Leganés,Loan,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Mauro Zárate,30,Centre-Forward,Al-Nasr,Loan,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Juan Carlos Paredes,30,Right-Back,CS Emelec,?,out,Summer,NA,Premier League,2017,2017/2018
+Watford FC,Obbi Oulare,21,Centre-Forward,Royal Antwerp,Loan,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Pervis Estupiñán,19,Left-Back,UD Almería,Loan,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Mario Suárez,30,Defensive Midfield,GZ Hengfeng,?,out,Summer,NA,Premier League,2017,2017/2018
+Watford FC,Cucho Hernández,18,Centre-Forward,SD Huesca,Loan,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Jorge Segura,20,Centre-Back,R. Valladolid B,Loan,out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Didier Ndong,23,Central Midfield,Sunderland,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Camilo Zúñiga,31,Right-Back,SSC Napoli,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+Watford FC,Tom Cleverley,27,Central Midfield,Everton,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+Watford FC,M'Baye Niang,22,Centre-Forward,AC Milan,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Jacob Murphy,22,Right Winger,Norwich,£10.17m,in,Summer,10.17,Premier League,2017,2017/2018
+Newcastle United,Florian Lejeune,26,Centre-Back,SD Eibar,£9.00m,in,Summer,9,Premier League,2017,2017/2018
+Newcastle United,Christian Atsu,25,Left Winger,Chelsea,£6.75m,in,Summer,6.75,Premier League,2017,2017/2018
+Newcastle United,Joselu,27,Centre-Forward,Stoke City,£4.95m,in,Summer,4.95,Premier League,2017,2017/2018
+Newcastle United,Javier Manquillo,23,Right-Back,Atlético Madrid,£4.50m,in,Summer,4.5,Premier League,2017,2017/2018
+Newcastle United,Mikel Merino,21,Central Midfield,Bor. Dortmund,Loan fee:£2.70m,in,Summer,2.7,Premier League,2017,2017/2018
+Newcastle United,Dan Barlaser,21,Central Midfield,Crewe Alexandra,"End of loanApr 11, 2018",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Jack Colback,28,Defensive Midfield,Nottm Forest,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Freddie Woodman,21,Goalkeeper,Aberdeen FC,"End of loanMay 14, 2018",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Aleksandar Mitrovic,23,Centre-Forward,Fulham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Jamie Sterry,22,Right-Back,Crewe Alexandra,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Ivan Toney,22,Centre-Forward,Scunthorpe Utd.,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Adam Armstrong,21,Centre-Forward,Blackburn,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Stuart Findlay,22,Centre-Back,Kilmarnock FC,"End of loanMay 14, 2018",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Tim Krul,29,Goalkeeper,Brighton,"End of loanSep 19, 2017",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Florian Thauvin,24,Right Winger,Marseille,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Siem de Jong,28,Attacking Midfield,PSV Eindhoven,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Kevin Mbabu,22,Right-Back,BSC Young Boys,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Henri Saivet,26,Attacking Midfield,Saint-Étienne,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Emmanuel Rivière,27,Centre-Forward,CA Osasuna,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Lubomir Satka,21,Centre-Back,Dunajska Streda,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Tim Krul,29,Goalkeeper,AZ Alkmaar,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Florian Thauvin,24,Right Winger,Marseille,£9.90m,out,Summer,9.9,Premier League,2017,2017/2018
+Newcastle United,Grant Hanley,25,Centre-Back,Norwich,£3.42m,out,Summer,3.42,Premier League,2017,2017/2018
+Newcastle United,Siem de Jong,28,Attacking Midfield,Ajax,£2.07m,out,Summer,2.07,Premier League,2017,2017/2018
+Newcastle United,Daryl Murphy,34,Centre-Forward,Nottm Forest,£2.07m,out,Summer,2.07,Premier League,2017,2017/2018
+Newcastle United,Emmanuel Rivière,27,Centre-Forward,FC Metz,£990Th.,out,Summer,0.99,Premier League,2017,2017/2018
+Newcastle United,Kevin Mbabu,22,Right-Back,BSC Young Boys,£108Th.,out,Summer,0.108,Premier League,2017,2017/2018
+Newcastle United,Yoan Gouffran,31,Attacking Midfield,Göztepe,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Tim Krul,29,Goalkeeper,Brighton,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Lubomir Satka,21,Centre-Back,Dunajska Streda,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Haris Vuckic,24,Attacking Midfield,Twente FC,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Sammy Ameobi,25,Left Winger,Bolton,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Vurnon Anita,28,Defensive Midfield,Leeds,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Achraf Lazaar,25,Left-Back,Benevento,Loan,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Tim Krul,29,Goalkeeper,Brighton,Loan,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Stuart Findlay,21,Centre-Back,Kilmarnock FC,Loan,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Ivan Toney,21,Centre-Forward,Wigan,Loan,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Adam Armstrong,20,Centre-Forward,Bolton,Loan,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Matz Sels,25,Goalkeeper,RSC Anderlecht,Loan,out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Islam Slimani,29,Centre-Forward,Leicester,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+Newcastle United,Christian Atsu,25,Left Winger,Chelsea,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,José Izquierdo,25,Left Winger,Club Brugge,£13.50m,in,Summer,13.5,Premier League,2017,2017/2018
+Brighton & Hove Albion,Davy Pröpper,25,Central Midfield,PSV Eindhoven,£11.70m,in,Summer,11.7,Premier League,2017,2017/2018
+Brighton & Hove Albion,Mathew Ryan,25,Goalkeeper,Valencia,£5.40m,in,Summer,5.4,Premier League,2017,2017/2018
+Brighton & Hove Albion,Markus Suttner,30,Left-Back,FC Ingolstadt,£4.05m,in,Summer,4.05,Premier League,2017,2017/2018
+Brighton & Hove Albion,Ezequiel Schelotto,28,Right-Back,Sporting CP,£2.70m,in,Summer,2.7,Premier League,2017,2017/2018
+Brighton & Hove Albion,Pascal Groß,26,Attacking Midfield,FC Ingolstadt,£2.70m,in,Summer,2.7,Premier League,2017,2017/2018
+Brighton & Hove Albion,Ales Mateju,21,Right-Back,Viktoria Plzen,£2.25m,in,Summer,2.25,Premier League,2017,2017/2018
+Brighton & Hove Albion,Mathias Normann,21,Central Midfield,Bodø/Glimt,£1.26m,in,Summer,1.26,Premier League,2017,2017/2018
+Brighton & Hove Albion,Soufyan Ahannach,21,Attacking Midfield,Almere City,£540Th.,in,Summer,0.54,Premier League,2017,2017/2018
+Brighton & Hove Albion,Tim Krul,29,Goalkeeper,Newcastle,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Tim Krul,29,Goalkeeper,Newcastle,Loan,in,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Izzy Brown,20,Attacking Midfield,Chelsea U23,Loan,in,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Christian Walton,21,Goalkeeper,Wigan,"End of loanSep 1, 2017",in,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Christian Walton,22,Goalkeeper,Wigan,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Jamie Murphy,28,Left Winger,Rangers,"End of loanMay 14, 2018",in,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Richie Towell,26,Central Midfield,Rotherham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Rohan Ince,25,Defensive Midfield,Bury,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Oliver Norwood,27,Central Midfield,Fulham,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Rob Hunt,22,Right-Back,Oldham Athletic,£360Th.,out,Summer,0.36,Premier League,2017,2017/2018
+Brighton & Hove Albion,Vegard Forren,29,Centre-Back,Molde,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,David Stockdale,31,Goalkeeper,Birmingham,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Joe Ward,21,Right Midfield,Woking FC,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Chris O'Grady,31,Centre-Forward,Chesterfield FC,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Elvis Manu,23,Left Winger,Genclerbirligi,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Christian Walton,21,Goalkeeper,Wigan,Loan,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Tyler Hornby-Forbes,21,Right-Back,Accrington,Loan,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Rohan Ince,24,Defensive Midfield,Bury,Loan,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Oliver Norwood,26,Central Midfield,Fulham,Loan,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Kazenga LuaLua,26,Left Winger,QPR,Loan,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Mathias Normann,21,Central Midfield,Molde,Loan,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Richie Towell,26,Central Midfield,Rotherham,Loan,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Leonardo Ulloa,31,Centre-Forward,Leicester,"End of loanMay 31, 2018",out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Casper Ankergren,37,Goalkeeper,Retired,-,out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Tim Krul,29,Goalkeeper,Newcastle,"End of loanSep 19, 2017",out,Summer,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Sam Adekugbe,22,Left-Back,Vancouver,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Steve Mounié,22,Centre-Forward,Montpellier,£11.70m,in,Summer,11.7,Premier League,2017,2017/2018
+Huddersfield Town,Aaron Mooy,26,Central Midfield,Man City,£8.19m,in,Summer,8.19,Premier League,2017,2017/2018
+Huddersfield Town,Tom Ince,25,Right Winger,Derby,£8.19m,in,Summer,8.19,Premier League,2017,2017/2018
+Huddersfield Town,Scott Malone,26,Left-Back,Fulham,£3.51m,in,Summer,3.51,Premier League,2017,2017/2018
+Huddersfield Town,Laurent Depoitre,28,Centre-Forward,FC Porto,£3.42m,in,Summer,3.42,Premier League,2017,2017/2018
+Huddersfield Town,Zanka,27,Centre-Back,FC Copenhagen,£2.43m,in,Summer,2.43,Premier League,2017,2017/2018
+Huddersfield Town,Abdelhamid Sabiri,20,Attacking Midfield,1.FC Nuremberg,£1.35m,in,Summer,1.35,Premier League,2017,2017/2018
+Huddersfield Town,Elias Kachunga,25,Centre-Forward,FC Ingolstadt,£1.17m,in,Summer,1.17,Premier League,2017,2017/2018
+Huddersfield Town,Danny Williams,28,Defensive Midfield,Reading,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Rob Green,37,Goalkeeper,Leeds,Free transfer,in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Kasey Palmer,20,Attacking Midfield,Chelsea U23,Loan,in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Jonas Lössl,28,Goalkeeper,1.FSV Mainz 05,Loan,in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Florent Hadergjonaj,23,Right-Back,FC Ingolstadt,Loan,in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Jordy Hiwula,23,Centre-Forward,Fleetwood,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Ryan Schofield,17,Goalkeeper,Huddersf. U18,-,in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Jack Payne,23,Attacking Midfield,Blackburn,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Tareiq Holmes-Dennis,22,Left-Back,Portsmouth,"End of loanMay 31, 2018",in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Jason Davidson,26,Left-Back,FC Groningen,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Kyle Dempsey,21,Central Midfield,Fleetwood,"End of loanJun 30, 2017",in,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Nahki Wells,27,Centre-Forward,Burnley,£4.86m,out,Summer,4.86,Premier League,2017,2017/2018
+Huddersfield Town,Kyle Dempsey,21,Central Midfield,Fleetwood,£410Th.,out,Summer,0.41,Premier League,2017,2017/2018
+Huddersfield Town,Joe Murphy,35,Goalkeeper,Bury,Free transfer,out,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Jordy Hiwula,22,Centre-Forward,Fleetwood,Loan,out,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Tareiq Holmes-Dennis,21,Left-Back,Portsmouth,Loan,out,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Jack Payne,22,Attacking Midfield,Oxford United,Loan,out,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Harry Bunn,24,Left Winger,Bury,?,out,Summer,NA,Premier League,2017,2017/2018
+Huddersfield Town,Sean Scannell,26,Right Winger,Burton Albion,Loan,out,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Jason Davidson,26,Left-Back,HNK Rijeka,?,out,Summer,NA,Premier League,2017,2017/2018
+Huddersfield Town,Flo Bojaj,21,Centre-Forward,Without Club,-,out,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Mark Hudson,35,Centre-Back,Retired,-,out,Summer,0,Premier League,2017,2017/2018
+Huddersfield Town,Elias Kachunga,25,Centre-Forward,FC Ingolstadt,"End of loanJun 30, 2017",out,Summer,0,Premier League,2017,2017/2018
+Chelsea FC,Emerson,23,Left-Back,AS Roma,£18.00m,in,Winter,18,Premier League,2017,2017/2018
+Chelsea FC,Olivier Giroud,31,Centre-Forward,Arsenal,£15.30m,in,Winter,15.3,Premier League,2017,2017/2018
+Chelsea FC,Ross Barkley,24,Central Midfield,Everton,£15.12m,in,Winter,15.12,Premier League,2017,2017/2018
+Chelsea FC,Todd Kane,24,Right-Back,FC Groningen,"End of loanJan 30, 2018",in,Winter,0,Premier League,2017,2017/2018
+Chelsea FC,Nathan,21,Left Winger,Amiens SC,"End of loanDec 31, 2017",in,Winter,0,Premier League,2017,2017/2018
+Chelsea FC,Diego Costa,29,Centre-Forward,Atlético Madrid,£59.40m,out,Winter,59.4,Premier League,2017,2017/2018
+Chelsea FC,Charly Musonda Jr.,21,Attacking Midfield,Celtic,Loan fee:£2.25m,out,Winter,2.25,Premier League,2017,2017/2018
+Chelsea FC,Michy Batshuayi,24,Centre-Forward,Bor. Dortmund,Loan fee:£1.35m,out,Winter,1.35,Premier League,2017,2017/2018
+Chelsea FC,Nathan,21,Left Winger,Belenenses SAD,Loan,out,Winter,0,Premier League,2017,2017/2018
+Chelsea FC,Kenedy,21,Left Winger,Newcastle,Loan,out,Winter,0,Premier League,2017,2017/2018
+Chelsea FC,Abdul Rahman Baba,23,Left-Back,FC Schalke 04,Loan,out,Winter,0,Premier League,2017,2017/2018
+Chelsea FC,Todd Kane,24,Right-Back,Oxford United,Loan,out,Winter,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Lucas Moura,25,Right Winger,Paris SG,£25.56m,in,Winter,25.56,Premier League,2017,2017/2018
+Tottenham Hotspur,Cameron Carter-Vickers,20,Centre-Back,Sheffield Utd.,"End of loanJan 15, 2018",in,Winter,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Cameron Carter-Vickers,20,Centre-Back,Ipswich,Loan,out,Winter,0,Premier League,2017,2017/2018
+Tottenham Hotspur,Georges-Kevin N'Koudou,22,Left Winger,Burnley,Loan,out,Winter,0,Premier League,2017,2017/2018
+Manchester City,Aymeric Laporte,23,Centre-Back,Athletic,£58.50m,in,Winter,58.5,Premier League,2017,2017/2018
+Manchester City,Jack Harrison,21,Left Winger,NYCFC,£3.60m,in,Winter,3.6,Premier League,2017,2017/2018
+Manchester City,Olarenwaju Kayode,24,Centre-Forward,Girona,"End of loanJan 31, 2018",in,Winter,0,Premier League,2017,2017/2018
+Manchester City,Marlos Moreno,21,Left Winger,Girona,"End of loanJan 15, 2018",in,Winter,0,Premier League,2017,2017/2018
+Manchester City,Brahim Díaz,18,Attacking Midfield,Man City U23,-,in,Winter,0,Premier League,2017,2017/2018
+Manchester City,Marlos Moreno,21,Left Winger,Flamengo,Loan,out,Winter,0,Premier League,2017,2017/2018
+Manchester City,Jack Harrison,21,Left Winger,Middlesbrough,Loan,out,Winter,0,Premier League,2017,2017/2018
+Manchester City,Eliaquim Mangala,26,Centre-Back,Everton,Loan,out,Winter,0,Premier League,2017,2017/2018
+Manchester City,Olarenwaju Kayode,24,Centre-Forward,Shakhtar D.,Loan,out,Winter,0,Premier League,2017,2017/2018
+Liverpool FC,Virgil van Dijk,26,Centre-Back,Southampton,£76.19m,in,Winter,76.19,Premier League,2017,2017/2018
+Liverpool FC,Tony Gallacher,18,Left-Back,Falkirk FC,£205Th.,in,Winter,0.205,Premier League,2017,2017/2018
+Liverpool FC,Philippe Coutinho,25,Attacking Midfield,FC Barcelona,£130.50m,out,Winter,130.5,Premier League,2017,2017/2018
+Liverpool FC,Daniel Sturridge,28,Centre-Forward,West Brom,Loan fee:£2.07m,out,Winter,2.07,Premier League,2017,2017/2018
+Liverpool FC,Lazar Markovic,23,Right Winger,RSC Anderlecht,Loan,out,Winter,0,Premier League,2017,2017/2018
+Liverpool FC,Marko Grujic,21,Central Midfield,Cardiff,Loan,out,Winter,0,Premier League,2017,2017/2018
+Liverpool FC,Ovie Ejaria,20,Central Midfield,Sunderland,Loan,out,Winter,0,Premier League,2017,2017/2018
+Liverpool FC,Jon Flanagan,25,Right-Back,Bolton,Loan,out,Winter,0,Premier League,2017,2017/2018
+Arsenal FC,Pierre-Emerick Aubameyang,28,Centre-Forward,Bor. Dortmund,£57.38m,in,Winter,57.38,Premier League,2017,2017/2018
+Arsenal FC,Henrikh Mkhitaryan,29,Attacking Midfield,Man Utd,£30.60m,in,Winter,30.6,Premier League,2017,2017/2018
+Arsenal FC,Konstantinos Mavropanos,20,Centre-Back,PAS Giannina,£1.89m,in,Winter,1.89,Premier League,2017,2017/2018
+Arsenal FC,Alexis Sánchez,29,Centre-Forward,Man Utd,£30.60m,out,Winter,30.6,Premier League,2017,2017/2018
+Arsenal FC,Theo Walcott,28,Right Winger,Everton,£20.25m,out,Winter,20.25,Premier League,2017,2017/2018
+Arsenal FC,Olivier Giroud,31,Centre-Forward,Chelsea,£15.30m,out,Winter,15.3,Premier League,2017,2017/2018
+Arsenal FC,Francis Coquelin,26,Defensive Midfield,Valencia,£12.60m,out,Winter,12.6,Premier League,2017,2017/2018
+Arsenal FC,Mathieu Debuchy,32,Right-Back,Saint-Étienne,Free transfer,out,Winter,0,Premier League,2017,2017/2018
+Arsenal FC,Krystian Bielik,20,Defensive Midfield,Walsall,Loan,out,Winter,0,Premier League,2017,2017/2018
+Arsenal FC,Chuba Akpom,22,Centre-Forward,Sint-Truiden,Loan,out,Winter,0,Premier League,2017,2017/2018
+Manchester United,Alexis Sánchez,29,Centre-Forward,Arsenal,£30.60m,in,Winter,30.6,Premier League,2017,2017/2018
+Manchester United,Cameron Borthwick-Jackson,20,Left-Back,Leeds,"End of loanJan 16, 2018",in,Winter,0,Premier League,2017,2017/2018
+Manchester United,Henrikh Mkhitaryan,29,Attacking Midfield,Arsenal,£30.60m,out,Winter,30.6,Premier League,2017,2017/2018
+Manchester United,Axel Tuanzebe,20,Centre-Back,Aston Villa,Loan,out,Winter,0,Premier League,2017,2017/2018
+Manchester United,Zlatan Ibrahimovic,36,Centre-Forward,LA Galaxy,Free transfer,out,Winter,0,Premier League,2017,2017/2018
+Manchester United,James Wilson,22,Centre-Forward,Sheffield Utd.,Loan,out,Winter,0,Premier League,2017,2017/2018
+Everton FC,Cenk Tosun,26,Centre-Forward,Besiktas,£20.25m,in,Winter,20.25,Premier League,2017,2017/2018
+Everton FC,Theo Walcott,28,Right Winger,Arsenal,£20.25m,in,Winter,20.25,Premier League,2017,2017/2018
+Everton FC,Eliaquim Mangala,26,Centre-Back,Man City,Loan,in,Winter,0,Premier League,2017,2017/2018
+Everton FC,Conor Grant,22,Central Midfield,Crewe Alexandra,"End of loanJan 10, 2018",in,Winter,0,Premier League,2017,2017/2018
+Everton FC,Beni Baningime,19,Central Midfield,Everton U23,-,in,Winter,0,Premier League,2017,2017/2018
+Everton FC,Ross Barkley,24,Central Midfield,Chelsea,£15.12m,out,Winter,15.12,Premier League,2017,2017/2018
+Everton FC,Aaron Lennon,30,Right Winger,Burnley,£1.53m,out,Winter,1.53,Premier League,2017,2017/2018
+Everton FC,Ademola Lookman,20,Left Winger,RB Leipzig,Loan fee:£450Th.,out,Winter,0.45,Premier League,2017,2017/2018
+Everton FC,Muhamed Besic,25,Defensive Midfield,Middlesbrough,Loan,out,Winter,0,Premier League,2017,2017/2018
+Everton FC,Kevin Mirallas,30,Right Winger,Olympiacos,Loan,out,Winter,0,Premier League,2017,2017/2018
+Everton FC,Sandro Ramírez,22,Centre-Forward,Sevilla FC,Loan,out,Winter,0,Premier League,2017,2017/2018
+Southampton FC,Guido Carrillo,26,Centre-Forward,Monaco,£19.80m,in,Winter,19.8,Premier League,2017,2017/2018
+Southampton FC,Ryan Seager,21,Centre-Forward,MK Dons,"End of loanJan 25, 2018",in,Winter,0,Premier League,2017,2017/2018
+Southampton FC,Virgil van Dijk,26,Centre-Back,Liverpool,£76.19m,out,Winter,76.19,Premier League,2017,2017/2018
+Southampton FC,Ryan Seager,21,Centre-Forward,Yeovil Town,Loan,out,Winter,0,Premier League,2017,2017/2018
+Southampton FC,Florin Gardos,29,Centre-Back,CS U Craiova,Loan,out,Winter,0,Premier League,2017,2017/2018
+Southampton FC,Matt Targett,22,Left-Back,Fulham,Loan,out,Winter,0,Premier League,2017,2017/2018
+AFC Bournemouth,Ryan Allsop,25,Goalkeeper,Blackpool,"End of loanJan 8, 2018",in,Winter,0,Premier League,2017,2017/2018
+AFC Bournemouth,Lewis Grabban,29,Centre-Forward,Sunderland,"End of loanJan 5, 2018",in,Winter,0,Premier League,2017,2017/2018
+AFC Bournemouth,Baily Cargill,22,Centre-Back,Fleetwood,"End of loanJan 10, 2018",in,Winter,0,Premier League,2017,2017/2018
+AFC Bournemouth,Jack Simpson,21,Centre-Back,Bournemouth U21,-,in,Winter,0,Premier League,2017,2017/2018
+AFC Bournemouth,Aaron Ramsdale,19,Goalkeeper,Chesterfield FC,Loan,out,Winter,0,Premier League,2017,2017/2018
+AFC Bournemouth,Baily Cargill,22,Centre-Back,Partick Thistle,Loan,out,Winter,0,Premier League,2017,2017/2018
+AFC Bournemouth,Connor Mahoney,20,Right Winger,Barnsley FC,Loan,out,Winter,0,Premier League,2017,2017/2018
+AFC Bournemouth,Lewis Grabban,30,Centre-Forward,Aston Villa,Loan,out,Winter,0,Premier League,2017,2017/2018
+AFC Bournemouth,Benik Afobe,24,Centre-Forward,Wolves,Loan,out,Winter,0,Premier League,2017,2017/2018
+AFC Bournemouth,Ryan Allsop,25,Goalkeeper,Lincoln City,Loan,out,Winter,0,Premier League,2017,2017/2018
+West Bromwich Albion,Ahmed Hegazy,26,Centre-Back,El Ahly,£4.50m,in,Winter,4.5,Premier League,2017,2017/2018
+West Bromwich Albion,Daniel Sturridge,28,Centre-Forward,Liverpool,Loan fee:£2.07m,in,Winter,2.07,Premier League,2017,2017/2018
+West Bromwich Albion,Ali Gabr,29,Centre-Back,Zamalek,Loan fee:£450Th.,in,Winter,0.45,Premier League,2017,2017/2018
+West Bromwich Albion,Jonathan Leko,18,Right Winger,Bristol City,"End of loanJan 1, 2018",in,Winter,0,Premier League,2017,2017/2018
+West Bromwich Albion,Kyle Howkins,21,Centre-Back,Cambridge Utd.,"End of loanNov 12, 2017",in,Winter,0,Premier League,2017,2017/2018
+West Bromwich Albion,Kyle Howkins,21,Centre-Back,Port Vale,Loan,out,Winter,0,Premier League,2017,2017/2018
+West Bromwich Albion,Ahmed Hegazy,26,Centre-Back,El Ahly,"End of loanDec 31, 2017",out,Winter,0,Premier League,2017,2017/2018
+West Ham United,Jordan Hugill,25,Centre-Forward,Preston NE,£9.18m,in,Winter,9.18,Premier League,2017,2017/2018
+West Ham United,João Mário,25,Central Midfield,Inter,Loan fee:£1.08m,in,Winter,1.08,Premier League,2017,2017/2018
+West Ham United,Oladapo Afolayan,19,Centre-Forward,Solihull Moors,?,in,Winter,NA,Premier League,2017,2017/2018
+West Ham United,Reece Burke,21,Centre-Back,Bolton,"End of loanJan 1, 2018",in,Winter,0,Premier League,2017,2017/2018
+West Ham United,Josh Cullen,21,Central Midfield,Bolton,"End of loanJan 1, 2018",in,Winter,0,Premier League,2017,2017/2018
+West Ham United,Patrice Evra,36,Left-Back,Without Club,-,in,Winter,0,Premier League,2017,2017/2018
+West Ham United,Reece Oxford,19,Centre-Back,Bor. M'gladbach,"End of loanDec 31, 2017",in,Winter,0,Premier League,2017,2017/2018
+West Ham United,André Ayew,28,Left Winger,Swansea,£20.52m,out,Winter,20.52,Premier League,2017,2017/2018
+West Ham United,Diafra Sakho,28,Centre-Forward,Stade Rennais,£9.00m,out,Winter,9,Premier League,2017,2017/2018
+West Ham United,José Fonte,34,Centre-Back,DL Yifang,£5.01m,out,Winter,5.01,Premier League,2017,2017/2018
+West Ham United,Reece Oxford,19,Centre-Back,Bor. M'gladbach,Loan,out,Winter,0,Premier League,2017,2017/2018
+West Ham United,Moses Makasi,22,Central Midfield,Plymouth,Loan,out,Winter,0,Premier League,2017,2017/2018
+West Ham United,Reece Burke,21,Centre-Back,Bolton,Loan,out,Winter,0,Premier League,2017,2017/2018
+West Ham United,Doneil Henry,24,Centre-Back,Without Club,-,out,Winter,0,Premier League,2017,2017/2018
+Leicester City,Fousseni Diabaté,22,Right Winger,G. Ajaccio,£1.80m,in,Winter,1.8,Premier League,2017,2017/2018
+Leicester City,Harvey Barnes,20,Left Midfield,Barnsley FC,"End of loanJan 1, 2018",in,Winter,0,Premier League,2017,2017/2018
+Leicester City,Hamza Choudhury,20,Defensive Midfield,Leicester U23,-,in,Winter,0,Premier League,2017,2017/2018
+Leicester City,Islam Slimani,29,Centre-Forward,Newcastle,Loan fee:£1.98m,out,Winter,1.98,Premier League,2017,2017/2018
+Leicester City,Leonardo Ulloa,31,Centre-Forward,Brighton,Loan,out,Winter,0,Premier League,2017,2017/2018
+Leicester City,Ahmed Musa,25,Left Winger,CSKA Moscow,Loan,out,Winter,0,Premier League,2017,2017/2018
+Leicester City,Andy King,29,Central Midfield,Swansea,Loan,out,Winter,0,Premier League,2017,2017/2018
+Stoke City,Badou Ndiaye,27,Central Midfield,Galatasaray,£14.40m,in,Winter,14.4,Premier League,2017,2017/2018
+Stoke City,Moritz Bauer,25,Right-Back,Rubin Kazan,£5.58m,in,Winter,5.58,Premier League,2017,2017/2018
+Stoke City,Konstantinos Stafylidis,24,Left-Back,FC Augsburg,Loan fee:£540Th.,in,Winter,0.54,Premier League,2017,2017/2018
+Stoke City,Harry Souttar,19,Centre-Back,Ross County,Loan,out,Winter,0,Premier League,2017,2017/2018
+Stoke City,Josh Tymon,18,Left-Back,MK Dons,Loan,out,Winter,0,Premier League,2017,2017/2018
+Crystal Palace,Alexander Sörloth,22,Centre-Forward,FC Midtjylland,£8.10m,in,Winter,8.1,Premier League,2017,2017/2018
+Crystal Palace,Jaroslaw Jach,23,Centre-Back,Zaglebie Lubin,£2.48m,in,Winter,2.48,Premier League,2017,2017/2018
+Crystal Palace,Erdal Rakip,21,Central Midfield,Benfica,Loan,in,Winter,0,Premier League,2017,2017/2018
+Crystal Palace,Keshi Anderson,22,Left Winger,Swindon Town,"End of loanJan 15, 2018",in,Winter,0,Premier League,2017,2017/2018
+Crystal Palace,Aaron Wan-Bissaka,20,Right-Back,Palace U23,-,in,Winter,0,Premier League,2017,2017/2018
+Crystal Palace,Diego Cavalieri,35,Goalkeeper,Without Club,-,in,Winter,0,Premier League,2017,2017/2018
+Crystal Palace,Keshi Anderson,22,Left Winger,Swindon Town,?,out,Winter,NA,Premier League,2017,2017/2018
+Crystal Palace,Sullay Kaikai,22,Left Winger,Charlton,Loan,out,Winter,0,Premier League,2017,2017/2018
+Crystal Palace,Freddie Ladapo,24,Centre-Forward,Southend United,?,out,Winter,NA,Premier League,2017,2017/2018
+Crystal Palace,Jordon Mutch,26,Central Midfield,Vancouver,Loan,out,Winter,0,Premier League,2017,2017/2018
+Swansea City,André Ayew,28,Left Winger,West Ham,£20.52m,in,Winter,20.52,Premier League,2017,2017/2018
+Swansea City,Andy King,29,Central Midfield,Leicester,Loan,in,Winter,0,Premier League,2017,2017/2018
+Swansea City,Jack Withers,18,Centre-Back,Boston United,?,in,Winter,NA,Premier League,2017,2017/2018
+Swansea City,Connor Roberts,22,Right-Back,Middlesbrough,"End of loanJan 3, 2018",in,Winter,0,Premier League,2017,2017/2018
+Swansea City,Botti Biabi,21,Centre-Forward,Hamilton Acad.,"End of loanJan 1, 2018",in,Winter,0,Premier League,2017,2017/2018
+Swansea City,Adam King,22,Central Midfield,Mansfield Town,Loan,out,Winter,0,Premier League,2017,2017/2018
+Swansea City,Jack Withers,18,Centre-Back,Boston United,Loan,out,Winter,0,Premier League,2017,2017/2018
+Swansea City,Jay Fulton,23,Central Midfield,Wigan,Loan,out,Winter,0,Premier League,2017,2017/2018
+Swansea City,Roque Mesa,28,Central Midfield,Sevilla FC,Loan,out,Winter,0,Premier League,2017,2017/2018
+Swansea City,Oliver McBurnie,21,Centre-Forward,Barnsley FC,Loan,out,Winter,0,Premier League,2017,2017/2018
+Burnley FC,Aaron Lennon,30,Right Winger,Everton,£1.53m,in,Winter,1.53,Premier League,2017,2017/2018
+Burnley FC,Georges-Kevin N'Koudou,22,Left Winger,Spurs,Loan,in,Winter,0,Premier League,2017,2017/2018
+Burnley FC,Ntumba Massanka,21,Centre-Forward,Wrexham,"End of loanJan 2, 2018",in,Winter,0,Premier League,2017,2017/2018
+Burnley FC,Alex Whitmore,22,Centre-Back,Bury,"End of loanJan 4, 2018",in,Winter,0,Premier League,2017,2017/2018
+Burnley FC,Aiden O'Neill,19,Central Midfield,Fleetwood,"End of loanJan 2, 2018",in,Winter,0,Premier League,2017,2017/2018
+Burnley FC,Luke Hendrie,23,Right-Back,Bradford,"End of loanJan 6, 2018",in,Winter,0,Premier League,2017,2017/2018
+Burnley FC,Tom Anderson,24,Centre-Back,Port Vale,"End of loanJan 30, 2018",in,Winter,0,Premier League,2017,2017/2018
+Burnley FC,Harry Flowers,21,Centre-Back,Guiseley,Free transfer,out,Winter,0,Premier League,2017,2017/2018
+Burnley FC,Tom Anderson,24,Centre-Back,Doncaster,Loan,out,Winter,0,Premier League,2017,2017/2018
+Burnley FC,Fredrik Ulvestad,25,Central Midfield,Djurgarden,Free transfer,out,Winter,0,Premier League,2017,2017/2018
+Burnley FC,Luke Hendrie,23,Right-Back,Shrewsbury,?,out,Winter,NA,Premier League,2017,2017/2018
+Watford FC,Dodi Lukebakio,20,Right Winger,RSC Charleroi,£4.50m,in,Winter,4.5,Premier League,2017,2017/2018
+Watford FC,Pontus Dahlberg,19,Goalkeeper,IFK Göteborg,£3.51m,in,Winter,3.51,Premier League,2017,2017/2018
+Watford FC,Gerard Deulofeu,23,Left Winger,FC Barcelona,Loan fee:£900Th.,in,Winter,0.9,Premier League,2017,2017/2018
+Watford FC,Didier Ndong,23,Central Midfield,Sunderland,Loan,in,Winter,0,Premier League,2017,2017/2018
+Watford FC,Costel Pantilimon,30,Goalkeeper,Dep. La Coruña,"End of loanJan 30, 2018",in,Winter,0,Premier League,2017,2017/2018
+Watford FC,Mauro Zárate,30,Centre-Forward,Al-Nasr,"End of loanJan 3, 2018",in,Winter,0,Premier League,2017,2017/2018
+Watford FC,Jorge Segura,21,Centre-Back,R. Valladolid B,"End of loanFeb 5, 2018",in,Winter,0,Premier League,2017,2017/2018
+Watford FC,Mauro Zárate,30,Centre-Forward,Vélez Sarsfield,Loan fee:£216Th.,out,Winter,0.216,Premier League,2017,2017/2018
+Watford FC,Pontus Dahlberg,19,Goalkeeper,IFK Göteborg,Loan,out,Winter,0,Premier League,2017,2017/2018
+Watford FC,Ben Watson,32,Central Midfield,Nottm Forest,Free transfer,out,Winter,0,Premier League,2017,2017/2018
+Watford FC,Brice Dja Djédjé,27,Defensive Midfield,Lens,Loan,out,Winter,0,Premier League,2017,2017/2018
+Watford FC,Isaac Success,22,Left Winger,Málaga CF,Loan,out,Winter,0,Premier League,2017,2017/2018
+Watford FC,Costel Pantilimon,30,Goalkeeper,Nottm Forest,Loan,out,Winter,0,Premier League,2017,2017/2018
+Watford FC,Jorge Segura,21,Centre-Back,Indep. Medellín,Loan,out,Winter,0,Premier League,2017,2017/2018
+Watford FC,Mauro Zárate,30,Centre-Forward,Al-Nasr,Loan,out,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Islam Slimani,29,Centre-Forward,Leicester,Loan fee:£1.98m,in,Winter,1.98,Premier League,2017,2017/2018
+Newcastle United,Martin Dubravka,29,Goalkeeper,Sparta Praha,Loan fee:£1.80m,in,Winter,1.8,Premier League,2017,2017/2018
+Newcastle United,Kenedy,21,Left Winger,Chelsea,Loan,in,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Adam Armstrong,20,Centre-Forward,Bolton,"End of loanJan 1, 2018",in,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Ivan Toney,21,Centre-Forward,Wigan,"End of loanJan 10, 2018",in,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Aleksandar Mitrovic,23,Centre-Forward,Fulham,Loan fee:£540Th.,out,Winter,0.54,Premier League,2017,2017/2018
+Newcastle United,Ivan Toney,21,Centre-Forward,Scunthorpe Utd.,Loan,out,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Dan Barlaser,21,Central Midfield,Crewe Alexandra,Loan,out,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Jamie Sterry,22,Right-Back,Crewe Alexandra,Loan,out,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Jack Colback,28,Defensive Midfield,Nottm Forest,Loan,out,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Adam Armstrong,20,Centre-Forward,Blackburn,Loan,out,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Henri Saivet,27,Attacking Midfield,Sivasspor,Loan,out,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Rolando Aarons,22,Left Winger,Hellas Verona,Loan,out,Winter,0,Premier League,2017,2017/2018
+Newcastle United,Freddie Woodman,20,Goalkeeper,Aberdeen FC,Loan,out,Winter,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Jürgen Locadia,24,Centre-Forward,PSV Eindhoven,£15.30m,in,Winter,15.3,Premier League,2017,2017/2018
+Brighton & Hove Albion,Viktor Gyökeres,19,Centre-Forward,Brommapojkarna,£900Th.,in,Winter,0.9,Premier League,2017,2017/2018
+Brighton & Hove Albion,Leonardo Ulloa,31,Centre-Forward,Leicester,Loan,in,Winter,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Kazenga LuaLua,27,Left Winger,QPR,"End of loanJan 2, 2018",in,Winter,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Tyler Hornby-Forbes,21,Right-Back,Accrington,"End of loanNov 15, 2017",in,Winter,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Kazenga LuaLua,27,Left Winger,Sunderland,Free transfer,out,Winter,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Christian Walton,22,Goalkeeper,Wigan,Loan,out,Winter,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Jamie Murphy,28,Left Winger,Rangers,Loan,out,Winter,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Soufyan Ahannach,22,Attacking Midfield,Sparta R.,Loan,out,Winter,0,Premier League,2017,2017/2018
+Brighton & Hove Albion,Izzy Brown,21,Attacking Midfield,Chelsea U23,"End of loanJan 10, 2018",out,Winter,0,Premier League,2017,2017/2018
+Huddersfield Town,Alex Pritchard,24,Attacking Midfield,Norwich,£11.12m,in,Winter,11.12,Premier League,2017,2017/2018
+Huddersfield Town,Terence Kongolo,23,Centre-Back,Monaco,Loan,in,Winter,0,Premier League,2017,2017/2018
+Huddersfield Town,Jack Payne,23,Attacking Midfield,Oxford United,"End of loanJan 15, 2018",in,Winter,0,Premier League,2017,2017/2018
+Huddersfield Town,Sean Scannell,27,Right Winger,Burton Albion,"End of loanJan 11, 2018",in,Winter,0,Premier League,2017,2017/2018
+Huddersfield Town,Ryan Schofield,18,Goalkeeper,Telford Utd,"End of loanFeb 5, 2018",in,Winter,0,Premier League,2017,2017/2018
+Huddersfield Town,Joe Lolley,25,Right Winger,Nottm Forest,£540Th.,out,Winter,0.54,Premier League,2017,2017/2018
+Huddersfield Town,Ryan Schofield,18,Goalkeeper,Telford Utd,Loan,out,Winter,0,Premier League,2017,2017/2018
+Huddersfield Town,Jack Payne,23,Attacking Midfield,Blackburn,Loan,out,Winter,0,Premier League,2017,2017/2018
+Huddersfield Town,Martin Cranie,31,Centre-Back,Middlesbrough,?,out,Winter,NA,Premier League,2017,2017/2018
+Huddersfield Town,Kasey Palmer,21,Attacking Midfield,Chelsea U23,"End of loanJan 2, 2018",out,Winter,0,Premier League,2017,2017/2018

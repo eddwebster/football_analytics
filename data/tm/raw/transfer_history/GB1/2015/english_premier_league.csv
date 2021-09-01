@@ -1,0 +1,991 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Chelsea FC,Pedro,28,Right Winger,FC Barcelona,£24.30m,in,Summer,24.3,Premier League,2015,2015/2016
+Chelsea FC,Abdul Rahman Baba,21,Left-Back,FC Augsburg,£18.00m,in,Summer,18,Premier League,2015,2015/2016
+Chelsea FC,Asmir Begovic,28,Goalkeeper,Stoke City,£9.90m,in,Summer,9.9,Premier League,2015,2015/2016
+Chelsea FC,Kenedy,19,Left Winger,Fluminense,£7.20m,in,Summer,7.2,Premier League,2015,2015/2016
+Chelsea FC,Falcao,29,Centre-Forward,Monaco,Loan fee:£6.30m,in,Summer,6.3,Premier League,2015,2015/2016
+Chelsea FC,Michael Hector,23,Centre-Back,Reading,£4.86m,in,Summer,4.86,Premier League,2015,2015/2016
+Chelsea FC,Nathan,19,Left Winger,Atlético-PR,£3.60m,in,Summer,3.6,Premier League,2015,2015/2016
+Chelsea FC,Papy Djilobodji,26,Centre-Back,FC Nantes,£3.15m,in,Summer,3.15,Premier League,2015,2015/2016
+Chelsea FC,Danilo Pantic,18,Central Midfield,Partizan,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Marco Amelia,33,Goalkeeper,Without Club,-,in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Lucas Piazón,22,Left Winger,Reading,"End of loanApr 28, 2016",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Andreas Christensen,19,Centre-Back,Chelsea U21,-,in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Patrick Bamford,22,Centre-Forward,Norwich,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Victor Moses,25,Right Midfield,West Ham,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Nathan Aké,21,Centre-Back,Watford,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Tomas Kalas,23,Centre-Back,Middlesbrough,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Michael Hector,23,Centre-Back,Reading,"End of loanApr 28, 2016",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Bertrand Traoré,19,Right Winger,Vitesse,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Wallace Oliveira,21,Right-Back,Vitesse,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Thorgan Hazard,22,Left Winger,Bor. M'gladbach,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Cristian Cuevas,20,Left-Back,U. de Chile,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Mario Pasalic,20,Central Midfield,Elche CF,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Lucas Piazón,21,Left Winger,E. Frankfurt,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Gaël Kakuta,24,Attacking Midfield,Rayo Vallecano,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Oriol Romeu,23,Defensive Midfield,VfB Stuttgart,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Christian Atsu,23,Left Winger,Everton,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Josh McEachran,22,Central Midfield,Vitesse,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Marco van Ginkel,22,Central Midfield,AC Milan,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Marko Marin,26,Attacking Midfield,RSC Anderlecht,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Mohamed Salah,23,Right Winger,Fiorentina,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Matej Delac,22,Goalkeeper,FK Sarajevo,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Ulises Dávila,24,Second Striker,Vitória Setúbal,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Filipe Luís,29,Left-Back,Atlético Madrid,£14.40m,out,Summer,14.4,Premier League,2015,2015/2016
+Chelsea FC,Petr Cech,33,Goalkeeper,Arsenal,£12.60m,out,Summer,12.6,Premier League,2015,2015/2016
+Chelsea FC,Thorgan Hazard,22,Left Winger,Bor. M'gladbach,£7.20m,out,Summer,7.2,Premier League,2015,2015/2016
+Chelsea FC,Oriol Romeu,23,Defensive Midfield,Southampton,£6.30m,out,Summer,6.3,Premier League,2015,2015/2016
+Chelsea FC,Gaël Kakuta,24,Attacking Midfield,Sevilla FC,£5.40m,out,Summer,5.4,Premier League,2015,2015/2016
+Chelsea FC,Mohamed Salah,23,Right Winger,AS Roma,Loan fee:£4.50m,out,Summer,4.5,Premier League,2015,2015/2016
+Chelsea FC,Juan Cuadrado,27,Right-Back,Juventus,Loan fee:£1.62m,out,Summer,1.62,Premier League,2015,2015/2016
+Chelsea FC,Josh McEachran,22,Central Midfield,Brentford,£936Th.,out,Summer,0.936,Premier League,2015,2015/2016
+Chelsea FC,Nathaniel Chalobah,20,Defensive Midfield,SSC Napoli,Loan fee:£225Th.,out,Summer,0.225,Premier League,2015,2015/2016
+Chelsea FC,Michael Hector,23,Centre-Back,Reading,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Marko Marin,26,Attacking Midfield,Trabzonspor,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Nathan,19,Left Winger,Vitesse,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Didier Drogba,37,Centre-Forward,Montreal Impact,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Kenneth Omeruo,21,Centre-Back,Kasimpasa,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Danilo Pantic,18,Central Midfield,Vitesse,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Marco van Ginkel,22,Central Midfield,Stoke City,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Lewis Baker,20,Central Midfield,Vitesse,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Andreas Christensen,19,Centre-Back,Bor. M'gladbach,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Cristian Cuevas,20,Left-Back,Sint-Truiden,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Victor Moses,24,Right Midfield,West Ham,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Christian Atsu,23,Left Winger,Bournemouth,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Lucas Piazón,21,Left Winger,Reading,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Mario Pasalic,20,Central Midfield,Monaco,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Nathan Aké,20,Centre-Back,Watford,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Patrick Bamford,21,Centre-Forward,Crystal Palace,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Todd Kane,21,Right-Back,NEC Nijmegen,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Ulises Dávila,24,Second Striker,Vitória Setúbal,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Matej Delac,22,Goalkeeper,FK Sarajevo,Loan,out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Wallace Oliveira,21,Right-Back,Carpi,Loan,out,Summer,0,Premier League,2015,2015/2016
+Manchester City,Kevin De Bruyne,24,Attacking Midfield,VfL Wolfsburg,£68.40m,in,Summer,68.4,Premier League,2015,2015/2016
+Manchester City,Raheem Sterling,20,Left Winger,Liverpool,£57.33m,in,Summer,57.33,Premier League,2015,2015/2016
+Manchester City,Nicolás Otamendi,27,Centre-Back,Valencia,£40.05m,in,Summer,40.05,Premier League,2015,2015/2016
+Manchester City,Fabian Delph,25,Central Midfield,Aston Villa,£10.35m,in,Summer,10.35,Premier League,2015,2015/2016
+Manchester City,Patrick Roberts,18,Right Winger,Fulham,£6.48m,in,Summer,6.48,Premier League,2015,2015/2016
+Manchester City,Enes Ünal,18,Centre-Forward,Bursaspor,£3.96m,in,Summer,3.96,Premier League,2015,2015/2016
+Manchester City,Florian Lejeune,24,Centre-Back,Girona,£270Th.,in,Summer,0.27,Premier League,2015,2015/2016
+Manchester City,Rubén Sobrino,23,Centre-Forward,Ponferradina,£248Th.,in,Summer,0.248,Premier League,2015,2015/2016
+Manchester City,Luke Brattan,25,Defensive Midfield,Brisbane Roar,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Manchester City,Kelechi Iheanacho,18,Centre-Forward,Man City U18,-,in,Summer,0,Premier League,2015,2015/2016
+Manchester City,Rony Lopes,19,Right Winger,LOSC Lille,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester City,Jason Denayer,20,Centre-Back,Celtic,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester City,Karim Rekik,20,Centre-Back,PSV Eindhoven,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester City,Micah Richards,27,Right-Back,Fiorentina,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester City,Álvaro Negredo,29,Centre-Forward,Valencia,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester City,Matija Nastasic,22,Centre-Back,FC Schalke 04,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester City,Scott Sinclair,26,Left Winger,Aston Villa,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester City,Bruno Zuculini,22,Defensive Midfield,Córdoba CF,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester City,Álvaro Negredo,29,Centre-Forward,Valencia,£25.20m,out,Summer,25.2,Premier League,2015,2015/2016
+Manchester City,Rony Lopes,19,Right Winger,Monaco,£10.80m,out,Summer,10.8,Premier League,2015,2015/2016
+Manchester City,Matija Nastasic,22,Centre-Back,FC Schalke 04,£8.55m,out,Summer,8.55,Premier League,2015,2015/2016
+Manchester City,Karim Rekik,20,Centre-Back,Marseille,£4.50m,out,Summer,4.5,Premier League,2015,2015/2016
+Manchester City,Edin Dzeko,29,Centre-Forward,AS Roma,Loan fee:£3.60m,out,Summer,3.6,Premier League,2015,2015/2016
+Manchester City,Scott Sinclair,26,Left Winger,Aston Villa,£3.15m,out,Summer,3.15,Premier League,2015,2015/2016
+Manchester City,Stevan Jovetic,25,Centre-Forward,Inter,Loan fee:£2.25m,out,Summer,2.25,Premier League,2015,2015/2016
+Manchester City,Dedryck Boyata,24,Centre-Back,Celtic,£1.80m,out,Summer,1.8,Premier League,2015,2015/2016
+Manchester City,José Pozo,19,Attacking Midfield,UD Almería,£450Th.,out,Summer,0.45,Premier League,2015,2015/2016
+Manchester City,Jason Denayer,20,Centre-Back,Galatasaray,Loan fee:£392Th.,out,Summer,0.392,Premier League,2015,2015/2016
+Manchester City,Micah Richards,27,Right-Back,Aston Villa,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Manchester City,John Guidetti,23,Centre-Forward,Celta de Vigo,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Manchester City,James Milner,29,Central Midfield,Liverpool,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Manchester City,Adam Drury,21,Right-Back,Bristol Rovers,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Manchester City,Luke Brattan,25,Defensive Midfield,Bolton,Loan,out,Summer,0,Premier League,2015,2015/2016
+Manchester City,Enes Ünal,18,Centre-Forward,KRC Genk,Loan,out,Summer,0,Premier League,2015,2015/2016
+Manchester City,Rubén Sobrino,23,Centre-Forward,Girona,Loan,out,Summer,0,Premier League,2015,2015/2016
+Manchester City,Florian Lejeune,24,Centre-Back,Girona,Loan,out,Summer,0,Premier League,2015,2015/2016
+Manchester City,Bruno Zuculini,22,Defensive Midfield,Middlesbrough,Loan,out,Summer,0,Premier League,2015,2015/2016
+Manchester City,Frank Lampard,37,Central Midfield,NYCFC,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Petr Cech,33,Goalkeeper,Chelsea,£12.60m,in,Summer,12.6,Premier League,2015,2015/2016
+Arsenal FC,Chuba Akpom,20,Centre-Forward,Hull City,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Emiliano Martínez,23,Goalkeeper,Wolves,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Wellington Silva,23,Right Winger,Bolton,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Yaya Sanogo,23,Centre-Forward,Charlton,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Alex Iwobi,19,Left Winger,Arsenal U21,-,in,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Matt Macey,20,Goalkeeper,Arsenal U21,-,in,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Ryo Miyaichi,22,Right Winger,Twente FC,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Lukas Podolski,30,Second Striker,Inter,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Joel Campbell,23,Right Winger,Villarreal,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Lukas Podolski,30,Second Striker,Galatasaray,£2.25m,out,Summer,2.25,Premier League,2015,2015/2016
+Arsenal FC,Ryo Miyaichi,22,Right Winger,FC St. Pauli,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Abou Diaby,29,Central Midfield,Marseille,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Semi Ajayi,21,Centre-Back,Cardiff,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Yaya Sanogo,22,Centre-Forward,Ajax,Loan,out,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Wojciech Szczesny,25,Goalkeeper,AS Roma,Loan,out,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Chuba Akpom,19,Centre-Forward,Hull City,Loan,out,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Serge Gnabry,20,Right Winger,West Brom,Loan,out,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Emiliano Martínez,22,Goalkeeper,Wolves,Loan,out,Summer,0,Premier League,2015,2015/2016
+Arsenal FC,Wellington Silva,22,Right Winger,Bolton,Loan,out,Summer,0,Premier League,2015,2015/2016
+Manchester United,Anthony Martial,19,Centre-Forward,Monaco,£54.00m,in,Summer,54,Premier League,2015,2015/2016
+Manchester United,Morgan Schneiderlin,25,Defensive Midfield,Southampton,£31.50m,in,Summer,31.5,Premier League,2015,2015/2016
+Manchester United,Memphis Depay,21,Left Winger,PSV Eindhoven,£30.60m,in,Summer,30.6,Premier League,2015,2015/2016
+Manchester United,Matteo Darmian,25,Right-Back,Torino,£16.20m,in,Summer,16.2,Premier League,2015,2015/2016
+Manchester United,Bastian Schweinsteiger,30,Central Midfield,Bayern Munich,£8.10m,in,Summer,8.1,Premier League,2015,2015/2016
+Manchester United,Sergio Romero,28,Goalkeeper,Sampdoria,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Nick Powell,22,Attacking Midfield,Hull City,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Manchester United,James Wilson,20,Centre-Forward,Brighton,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Tyler Blackett,22,Left-Back,Celtic,"End of loanMay 16, 2016",in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Cameron Borthwick-Jackson,18,Left-Back,Man Utd U18,-,in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Andreas Pereira,19,Attacking Midfield,Man Utd U23,-,in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Guillermo Varela,22,Right-Back,Man Utd U23,-,in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Víctor Valdés,34,Goalkeeper,Standard Liège,"End of loanApr 29, 2016",in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Vanja Milinković-Savić,18,Goalkeeper,Vojvodina,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Ángelo Henríquez,21,Centre-Forward,Dinamo Zagreb,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Nani,28,Left Winger,Sporting CP,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Chicharito,27,Centre-Forward,Real Madrid,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Manchester United,Ángel Di María,27,Right Winger,Paris SG,£56.70m,out,Summer,56.7,Premier League,2015,2015/2016
+Manchester United,Chicharito,27,Centre-Forward,Bay. Leverkusen,£10.80m,out,Summer,10.8,Premier League,2015,2015/2016
+Manchester United,Jonny Evans,27,Centre-Back,West Brom,£7.47m,out,Summer,7.47,Premier League,2015,2015/2016
+Manchester United,Robin van Persie,31,Centre-Forward,Fenerbahce,£5.85m,out,Summer,5.85,Premier League,2015,2015/2016
+Manchester United,Nani,28,Left Winger,Fenerbahce,£5.40m,out,Summer,5.4,Premier League,2015,2015/2016
+Manchester United,Rafael,25,Right-Back,Olympique Lyon,£2.88m,out,Summer,2.88,Premier League,2015,2015/2016
+Manchester United,Ángelo Henríquez,21,Centre-Forward,Dinamo Zagreb,£1.50m,out,Summer,1.5,Premier League,2015,2015/2016
+Manchester United,Reece James,21,Left-Back,Wigan,£1.26m,out,Summer,1.26,Premier League,2015,2015/2016
+Manchester United,Tom Cleverley,25,Central Midfield,Everton,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Manchester United,Ben Amos,25,Goalkeeper,Bolton,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Manchester United,Tom Thorpe,22,Centre-Back,Rotherham,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Manchester United,Adnan Januzaj,20,Right Winger,Bor. Dortmund,Loan,out,Summer,0,Premier League,2015,2015/2016
+Manchester United,Anders Lindegaard,31,Goalkeeper,West Brom,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Manchester United,Will Keane,22,Centre-Forward,Preston NE,Loan,out,Summer,0,Premier League,2015,2015/2016
+Manchester United,Tyler Blackett,21,Left-Back,Celtic,Loan,out,Summer,0,Premier League,2015,2015/2016
+Manchester United,Falcao,29,Centre-Forward,Monaco,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Heung-min Son,23,Left Winger,Bay. Leverkusen,£27.00m,in,Summer,27,Premier League,2015,2015/2016
+Tottenham Hotspur,Toby Alderweireld,26,Centre-Back,Atlético Madrid,£14.40m,in,Summer,14.4,Premier League,2015,2015/2016
+Tottenham Hotspur,Clinton N'Jie,22,Centre-Forward,Olympique Lyon,£12.69m,in,Summer,12.69,Premier League,2015,2015/2016
+Tottenham Hotspur,Kevin Wimmer,22,Centre-Back,1. FC Köln,£5.40m,in,Summer,5.4,Premier League,2015,2015/2016
+Tottenham Hotspur,Kieran Trippier,24,Right-Back,Burnley,£4.41m,in,Summer,4.41,Premier League,2015,2015/2016
+Tottenham Hotspur,DeAndre Yedlin,22,Right-Back,Sunderland,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Alex Pritchard,23,Attacking Midfield,West Brom,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Josh Onomah,18,Attacking Midfield,Tottenham U18,-,in,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Tomislav Gomelt,20,Central Midfield,Bari,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Lewis Holtby,24,Attacking Midfield,Hamburger SV,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Jordan Archer,22,Goalkeeper,Millwall,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Roberto Soldado,30,Centre-Forward,Villarreal,£14.40m,out,Summer,14.4,Premier League,2015,2015/2016
+Tottenham Hotspur,Paulinho,26,Central Midfield,GZ Evergrande,£12.60m,out,Summer,12.6,Premier League,2015,2015/2016
+Tottenham Hotspur,Étienne Capoue,26,Defensive Midfield,Watford,£8.01m,out,Summer,8.01,Premier League,2015,2015/2016
+Tottenham Hotspur,Benjamin Stambouli,24,Centre-Back,Paris SG,£7.74m,out,Summer,7.74,Premier League,2015,2015/2016
+Tottenham Hotspur,Vlad Chiriches,25,Centre-Back,SSC Napoli,£6.30m,out,Summer,6.3,Premier League,2015,2015/2016
+Tottenham Hotspur,Lewis Holtby,24,Attacking Midfield,Hamburger SV,£5.85m,out,Summer,5.85,Premier League,2015,2015/2016
+Tottenham Hotspur,Aaron Lennon,28,Right Winger,Everton,£5.40m,out,Summer,5.4,Premier League,2015,2015/2016
+Tottenham Hotspur,Younès Kaboul,29,Centre-Back,Sunderland,£3.87m,out,Summer,3.87,Premier League,2015,2015/2016
+Tottenham Hotspur,Ryan Fredericks,22,Right-Back,Bristol City,£225Th.,out,Summer,0.225,Premier League,2015,2015/2016
+Tottenham Hotspur,Jonathan Miles,22,Goalkeeper,Ebbsfleet Utd,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Bongani Khumalo,28,Centre-Back,SuperSport Utd.,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Cristian Ceballos,22,Left Winger,Charlton,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Jordan Archer,22,Goalkeeper,Millwall,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Tomislav Gomelt,20,Central Midfield,Bari,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Grant Hall,23,Centre-Back,QPR,?,out,Summer,NA,Premier League,2015,2015/2016
+Tottenham Hotspur,DeAndre Yedlin,22,Right-Back,Sunderland,Loan,out,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Brad Friedel,44,Goalkeeper,Retired,-,out,Summer,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Emmanuel Adebayor,31,Centre-Forward,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Christian Benteke,24,Centre-Forward,Aston Villa,£41.85m,in,Summer,41.85,Premier League,2015,2015/2016
+Liverpool FC,Roberto Firmino,23,Centre-Forward,TSG Hoffenheim,£36.90m,in,Summer,36.9,Premier League,2015,2015/2016
+Liverpool FC,Nathaniel Clyne,24,Right-Back,Southampton,£15.93m,in,Summer,15.93,Premier League,2015,2015/2016
+Liverpool FC,Danny Ings,22,Centre-Forward,Burnley,£7.47m,in,Summer,7.47,Premier League,2015,2015/2016
+Liverpool FC,Joe Gomez,18,Centre-Back,Charlton,£4.41m,in,Summer,4.41,Premier League,2015,2015/2016
+Liverpool FC,Taiwo Awoniyi,18,Centre-Forward,Imperial Acad.,£990Th.,in,Summer,0.99,Premier League,2015,2015/2016
+Liverpool FC,Ádám Bogdán,27,Goalkeeper,Bolton,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,James Milner,29,Central Midfield,Man City,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Sheyi Ojo,18,Right Winger,Liverpool U18,-,in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Lawrence Vigouroux,22,Goalkeeper,Swindon Town,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Connor Randall,19,Right-Back,Liverpool U23,-,in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Andre Wisdom,23,Right-Back,Norwich,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Luis Alberto,22,Attacking Midfield,Málaga CF,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Iago Aspas,27,Centre-Forward,Sevilla FC,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Divock Origi,20,Centre-Forward,LOSC Lille,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Tiago Ilori,22,Centre-Back,G. Bordeaux,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Rafa Páez,20,Centre-Back,SD Eibar,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Raheem Sterling,20,Left Winger,Man City,£57.33m,out,Summer,57.33,Premier League,2015,2015/2016
+Liverpool FC,Fabio Borini,24,Left Winger,Sunderland,£9.63m,out,Summer,9.63,Premier League,2015,2015/2016
+Liverpool FC,Iago Aspas,27,Centre-Forward,Sevilla FC,£5.40m,out,Summer,5.4,Premier League,2015,2015/2016
+Liverpool FC,Rickie Lambert,33,Centre-Forward,West Brom,£3.78m,out,Summer,3.78,Premier League,2015,2015/2016
+Liverpool FC,Sebastián Coates,24,Centre-Back,Sunderland,£2.52m,out,Summer,2.52,Premier League,2015,2015/2016
+Liverpool FC,Andre Wisdom,22,Right-Back,Norwich,Loan fee:£1.62m,out,Summer,1.62,Premier League,2015,2015/2016
+Liverpool FC,Tiago Ilori,22,Centre-Back,Aston Villa,Loan fee:£315Th.,out,Summer,0.315,Premier League,2015,2015/2016
+Liverpool FC,Rafa Páez,20,Centre-Back,Alcorcón,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Samed Yesil,21,Centre-Forward,FC Luzern,Loan,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Brad Jones,33,Goalkeeper,Bradford,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Taiwo Awoniyi,18,Centre-Forward,FSV Frankfurt,Loan,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Steven Gerrard,35,Central Midfield,LA Galaxy,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Glen Johnson,30,Right-Back,Stoke City,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Luis Alberto,22,Attacking Midfield,Dep. La Coruña,Loan,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Kevin Stewart,21,Defensive Midfield,Swindon Town,Loan,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Lazar Markovic,21,Right Winger,Fenerbahce,Loan,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Danny Ward,22,Goalkeeper,Aberdeen FC,Loan,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Mario Balotelli,25,Centre-Forward,AC Milan,Loan,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Sheyi Ojo,18,Right Winger,Wolves,Loan,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Lawrence Vigouroux,21,Goalkeeper,Swindon Town,Loan,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,José Enrique,30,Left-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Javier Manquillo,21,Right-Back,Atlético Madrid,"End of loanJul 9, 2015",out,Summer,0,Premier League,2015,2015/2016
+Liverpool FC,Steven Caulker,24,Centre-Back,QPR,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Virgil van Dijk,24,Centre-Back,Celtic,£14.13m,in,Summer,14.13,Premier League,2015,2015/2016
+Southampton FC,Jordy Clasie,24,Defensive Midfield,Feyenoord,£13.50m,in,Summer,13.5,Premier League,2015,2015/2016
+Southampton FC,Oriol Romeu,23,Defensive Midfield,Chelsea,£6.30m,in,Summer,6.3,Premier League,2015,2015/2016
+Southampton FC,Juanmi,22,Right Winger,Málaga CF,£6.30m,in,Summer,6.3,Premier League,2015,2015/2016
+Southampton FC,Cédric Soares,23,Right-Back,Sporting CP,£6.30m,in,Summer,6.3,Premier League,2015,2015/2016
+Southampton FC,Steven Caulker,23,Centre-Back,QPR,Loan fee:£1.53m,in,Summer,1.53,Premier League,2015,2015/2016
+Southampton FC,Cuco Martina,25,Right-Back,Twente FC,£1.35m,in,Summer,1.35,Premier League,2015,2015/2016
+Southampton FC,Maarten Stekelenburg,32,Goalkeeper,Fulham,Loan,in,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Jack Stephens,22,Centre-Back,Coventry,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Gastón Ramírez,25,Attacking Midfield,Middlesbrough,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Lloyd Isgrove,23,Left Winger,Barnsley FC,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Daniel Osvaldo,29,Centre-Forward,Boca Juniors,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Morgan Schneiderlin,25,Defensive Midfield,Man Utd,£31.50m,out,Summer,31.5,Premier League,2015,2015/2016
+Southampton FC,Nathaniel Clyne,24,Right-Back,Liverpool,£15.93m,out,Summer,15.93,Premier League,2015,2015/2016
+Southampton FC,Jos Hooiveld,32,Centre-Back,AIK,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Artur Boruc,35,Goalkeeper,Bournemouth,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Daniel Osvaldo,29,Centre-Forward,FC Porto,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Emmanuel Mayuka,24,Centre-Forward,FC Metz,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Lloyd Isgrove,22,Left Winger,Barnsley FC,Loan,out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Sam Gallagher,19,Centre-Forward,MK Dons,Loan,out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Jack Stephens,21,Centre-Back,Middlesbrough,Loan,out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Maarten Stekelenburg,33,Goalkeeper,Fulham,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Jake Sinclair,20,Second Striker,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Toby Alderweireld,26,Centre-Back,Atlético Madrid,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Eljero Elia,28,Left Winger,Werder Bremen,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Southampton FC,Filip Djuricic,23,Attacking Midfield,Benfica,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Éder,27,Centre-Forward,Braga,£6.03m,in,Summer,6.03,Premier League,2015,2015/2016
+Swansea City,Franck Tabanou,26,Left-Back,Saint-Étienne,£4.41m,in,Summer,4.41,Premier League,2015,2015/2016
+Swansea City,Kristoffer Nordfeldt,26,Goalkeeper,Heerenveen,£765Th.,in,Summer,0.765,Premier League,2015,2015/2016
+Swansea City,Oliver McBurnie,19,Centre-Forward,Bradford,£315Th.,in,Summer,0.315,Premier League,2015,2015/2016
+Swansea City,Botti Biabi,19,Centre-Forward,Falkirk FC,£189Th.,in,Summer,0.189,Premier League,2015,2015/2016
+Swansea City,André Ayew,25,Left Winger,Marseille,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Swansea City,Nathan Dyer,28,Right Winger,Leicester,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Swansea City,Daniel Alfei,24,Right-Back,Mansfield Town,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Swansea City,Matt Grimes,20,Central Midfield,Blackburn,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Swansea City,Oliver McBurnie,19,Centre-Forward,Bristol Rovers,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Swansea City,Liam Shephard,21,Right-Back,Yeovil Town,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Swansea City,Modou Barrow,22,Left Winger,Blackburn,"End of loanSep 8, 2015",in,Summer,0,Premier League,2015,2015/2016
+Swansea City,Michu,29,Second Striker,SSC Napoli,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Swansea City,Jazz Richards,24,Right-Back,Fulham,£635Th.,out,Summer,0.635,Premier League,2015,2015/2016
+Swansea City,Jay Fulton,21,Central Midfield,Oldham Athletic,Loan,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,David Cornell,24,Goalkeeper,Oldham Athletic,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Curtis Obeng,26,Right-Back,Without Club,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Rory Donnelly,23,Centre-Forward,Gillingham FC,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Scott Tancock,21,Centre-Back,Merthyr Town,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Nathan Dyer,27,Right Winger,Leicester,Loan,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Stephen Kingsley,21,Left-Back,Crewe Alexandra,Loan,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Modou Barrow,22,Left Winger,Blackburn,Loan,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Kenji Gorré,20,Right Midfield,ADO Den Haag,Loan,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Adam King,19,Central Midfield,Crewe Alexandra,Loan,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Dwight Tiendalli,29,Right-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Alan Tate,32,Centre-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Leroy Fer,26,Central Midfield,QPR,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+Swansea City,Nélson Oliveira,23,Centre-Forward,Benfica,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Stoke City,Xherdan Shaqiri,23,Right Winger,Inter,£15.30m,in,Summer,15.3,Premier League,2015,2015/2016
+Stoke City,Joselu,25,Centre-Forward,Hannover 96,£7.20m,in,Summer,7.2,Premier League,2015,2015/2016
+Stoke City,Philipp Wollscheid,26,Centre-Back,Bay. Leverkusen,£3.42m,in,Summer,3.42,Premier League,2015,2015/2016
+Stoke City,Jakob Haugaard,23,Goalkeeper,FC Midtjylland,£540Th.,in,Summer,0.54,Premier League,2015,2015/2016
+Stoke City,Glen Johnson,30,Right-Back,Liverpool,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Ibrahim Afellay,29,Left Midfield,FC Barcelona,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Shay Given,39,Goalkeeper,Aston Villa,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Marco van Ginkel,22,Central Midfield,Chelsea,Loan,in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Dom Telford,18,Centre-Forward,Blackpool,?,in,Summer,NA,Premier League,2015,2015/2016
+Stoke City,George Waring,21,Centre-Forward,Oxford United,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Peter Odemwingie,34,Right Winger,Bristol City,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Daniel Bachmann,21,Goalkeeper,Ross County,"End of loanAug 31, 2015",in,Summer,0,Premier League,2015,2015/2016
+Stoke City,Asmir Begovic,28,Goalkeeper,Chelsea,£9.90m,out,Summer,9.9,Premier League,2015,2015/2016
+Stoke City,Steven Nzonzi,26,Defensive Midfield,Sevilla FC,£7.20m,out,Summer,7.2,Premier League,2015,2015/2016
+Stoke City,Robert Huth,30,Centre-Back,Leicester,£3.78m,out,Summer,3.78,Premier League,2015,2015/2016
+Stoke City,Daniel Bachmann,21,Goalkeeper,Bury,Loan,out,Summer,0,Premier League,2015,2015/2016
+Stoke City,Dionatan Teixeira,23,Centre-Back,Fleetwood,Loan,out,Summer,0,Premier League,2015,2015/2016
+Stoke City,Daniel Bachmann,21,Goalkeeper,Ross County,Loan,out,Summer,0,Premier League,2015,2015/2016
+Stoke City,Jamie Ness,24,Central Midfield,Scunthorpe Utd.,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Stoke City,Alex Grant,21,Centre-Back,Perth Glory,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Stoke City,Thomas Sörensen,39,Goalkeeper,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Stoke City,Wilson Palacios,30,Defensive Midfield,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Stoke City,Philipp Wollscheid,26,Centre-Back,Bay. Leverkusen,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Yohan Cabaye,29,Central Midfield,Paris SG,£12.51m,in,Summer,12.51,Premier League,2015,2015/2016
+Crystal Palace,Connor Wickham,22,Centre-Forward,Sunderland,£9.00m,in,Summer,9,Premier League,2015,2015/2016
+Crystal Palace,Alex McCarthy,25,Goalkeeper,QPR,£4.41m,in,Summer,4.41,Premier League,2015,2015/2016
+Crystal Palace,Kleton Perntreou,20,Goalkeeper,Hibernian FC,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Bakary Sako,27,Left Winger,Wolves,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Patrick Bamford,21,Centre-Forward,Chelsea,Loan,in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Ryan Inniss,20,Centre-Back,Port Vale,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Jonathan Williams,22,Attacking Midfield,MK Dons,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Hiram Boateng,20,Defensive Midfield,Plymouth,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Luke Croll,20,Centre-Back,Palace U23,-,in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Chris Kettings,22,Goalkeeper,Stevenage,"End of loanSep 14, 2015",in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Chris Kettings,22,Goalkeeper,Bromley,"End of loanOct 18, 2015",in,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Glenn Murray,31,Centre-Forward,Bournemouth,£4.86m,out,Summer,4.86,Premier League,2015,2015/2016
+Crystal Palace,Patrick McCarthy,32,Centre-Back,Preston NE,Loan,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Chris Kettings,22,Goalkeeper,Bromley,Loan,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Keshi Anderson,20,Left Winger,Doncaster,Loan,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Jonathan Williams,21,Attacking Midfield,Nottm Forest,Loan,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Barry Bannan,25,Central Midfield,Sheff Wed,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Chris Kettings,22,Goalkeeper,Stevenage,Loan,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Stephen Dobbie,32,Centre-Forward,Bolton,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Peter Ramage,31,Centre-Back,Kerala Blasters,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Owen Garvan,27,Central Midfield,Colchester Utd.,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Sam Magri,21,Right-Back,Dover Athletic,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Hiram Boateng,19,Defensive Midfield,Plymouth,Loan,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Jack Hunt,24,Right-Back,Sheff Wed,Loan,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Michael Chambers,21,Centre-Back,Welling,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Lewis Price,30,Goalkeeper,Sheff Wed,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Adlène Guédioura,29,Central Midfield,Watford,?,out,Summer,NA,Premier League,2015,2015/2016
+Crystal Palace,Ryan Inniss,20,Centre-Back,Port Vale,Loan,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Jerome Thomas,32,Left Winger,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Andy Johnson,34,Centre-Forward,Retired,-,out,Summer,0,Premier League,2015,2015/2016
+Crystal Palace,Shola Ameobi,33,Centre-Forward,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,Ramiro Funes Mori,24,Centre-Back,River Plate,£11.61m,in,Summer,11.61,Premier League,2015,2015/2016
+Everton FC,Gerard Deulofeu,21,Left Winger,FC Barcelona,£5.40m,in,Summer,5.4,Premier League,2015,2015/2016
+Everton FC,Aaron Lennon,28,Right Winger,Spurs,£5.40m,in,Summer,5.4,Premier League,2015,2015/2016
+Everton FC,Mason Holgate,18,Centre-Back,Barnsley FC,£1.26m,in,Summer,1.26,Premier League,2015,2015/2016
+Everton FC,Leandro Rodríguez,22,Centre-Forward,River Plate,£630Th.,in,Summer,0.63,Premier League,2015,2015/2016
+Everton FC,Tom Cleverley,25,Central Midfield,Man Utd,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Everton FC,Leandro Rodríguez,23,Centre-Forward,Brentford,"End of loanApr 14, 2016",in,Summer,0,Premier League,2015,2015/2016
+Everton FC,Matthew Pennington,21,Centre-Back,Walsall,"End of loanApr 22, 2016",in,Summer,0,Premier League,2015,2015/2016
+Everton FC,Luke Garbutt,23,Left-Back,Fulham,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Everton FC,Conor Grant,21,Central Midfield,Doncaster,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Everton FC,Aiden McGeady,30,Left Winger,Sheff Wed,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Everton FC,Conor McAleny,23,Centre-Forward,Wigan,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Everton FC,Felipe Mattioni,27,Right-Back,Without Club,-,in,Summer,0,Premier League,2015,2015/2016
+Everton FC,Sylvain Distin,37,Centre-Back,Bournemouth,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,Francisco Júnior,23,Central Midfield,Wigan,Loan,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,John Lundstram,21,Central Midfield,Oxford United,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,Antolín Alcaraz,33,Centre-Back,UD Las Palmas,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,Ben McLaughlin,20,Right-Back,Derry City,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,Conor McAleny,23,Centre-Forward,Charlton,Loan,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,Felipe Mattioni,27,Right-Back,Doncaster,Loan,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,Conor Grant,20,Central Midfield,Doncaster,Loan,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,Luke Garbutt,22,Left-Back,Fulham,Loan,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,Curtis Langton,19,Centre-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Everton FC,Christian Atsu,23,Left Winger,Chelsea,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Dimitri Payet,28,Left Winger,Marseille,£13.50m,in,Summer,13.5,Premier League,2015,2015/2016
+West Ham United,Angelo Ogbonna,27,Centre-Back,Juventus,£9.90m,in,Summer,9.9,Premier League,2015,2015/2016
+West Ham United,Michail Antonio,25,Centre-Forward,Nottm Forest,£8.55m,in,Summer,8.55,Premier League,2015,2015/2016
+West Ham United,Pedro Obiang,23,Central Midfield,Sampdoria,£5.40m,in,Summer,5.4,Premier League,2015,2015/2016
+West Ham United,Nikica Jelavic,30,Centre-Forward,Hull City,£3.69m,in,Summer,3.69,Premier League,2015,2015/2016
+West Ham United,Stephen Hendrie,20,Left-Back,Hamilton Acad.,£1.17m,in,Summer,1.17,Premier League,2015,2015/2016
+West Ham United,Darren Randolph,28,Goalkeeper,Birmingham,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Alex Song,27,Defensive Midfield,FC Barcelona,Loan,in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Victor Moses,24,Right Midfield,Chelsea,Loan,in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Manuel Lanzini,22,Attacking Midfield,Al-Jazira,Loan,in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Sam Westley,21,Right-Back,West Ham U21,-,in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Josh Cullen,19,Central Midfield,West Ham U21,-,in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Diego Poyet,21,Central Midfield,Charlton,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Reece Oxford,16,Centre-Back,West Ham U18,-,in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Reece Burke,19,Centre-Back,Bradford,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Josh Cullen,20,Central Midfield,Bradford,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Elliot Lee,21,Centre-Forward,Colchester Utd.,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Reece Burke,18,Centre-Back,West Ham U18,-,in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Modibo Maïga,27,Centre-Forward,FC Metz,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+West Ham United,Stewart Downing,30,Left Midfield,Middlesbrough,£7.11m,out,Summer,7.11,Premier League,2015,2015/2016
+West Ham United,Modibo Maïga,27,Centre-Forward,Al-Nassr,£3.60m,out,Summer,3.6,Premier League,2015,2015/2016
+West Ham United,Dan Potts,21,Left-Back,Luton,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Reece Burke,18,Centre-Back,Bradford,Loan,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Jussi Jääskeläinen,40,Goalkeeper,Wigan,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Paul McCallum,21,Centre-Forward,Leyton Orient,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Sean Maguire,21,Centre-Forward,Dundalk FC,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Nenê,34,Attacking Midfield,Vasco da Gama,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Matt Jarvis,29,Left Winger,Norwich,Loan,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Diego Poyet,20,Central Midfield,MK Dons,Loan,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Sam Westley,21,Right-Back,VVV-Venlo,Loan,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Kevin Nolan,33,Attacking Midfield,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Victor Moses,25,Right Midfield,Chelsea,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Guy Demel,34,Right-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Carlton Cole,31,Centre-Forward,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Morgan Amalfitano,30,Right Winger,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+West Ham United,Alex Song,27,Defensive Midfield,FC Barcelona,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Salomón Rondón,25,Centre-Forward,Zenit S-Pb,£15.30m,in,Summer,15.3,Premier League,2015,2015/2016
+West Bromwich Albion,James Chester,26,Centre-Back,Hull City,£10.17m,in,Summer,10.17,Premier League,2015,2015/2016
+West Bromwich Albion,Jonny Evans,27,Centre-Back,Man Utd,£7.47m,in,Summer,7.47,Premier League,2015,2015/2016
+West Bromwich Albion,Rickie Lambert,33,Centre-Forward,Liverpool,£3.78m,in,Summer,3.78,Premier League,2015,2015/2016
+West Bromwich Albion,James McClean,26,Left Midfield,Wigan,£1.89m,in,Summer,1.89,Premier League,2015,2015/2016
+West Bromwich Albion,Anders Lindegaard,31,Goalkeeper,Man Utd,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Serge Gnabry,20,Right Winger,Arsenal,Loan,in,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Anders Lindegaard,32,Goalkeeper,Preston NE,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Sebastián Blanco,27,Left Winger,San Lorenzo,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Georgios Samaras,30,Left Winger,Hilal,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Brown Ideye,26,Centre-Forward,Olympiacos,£4.88m,out,Summer,4.88,Premier League,2015,2015/2016
+West Bromwich Albion,Graham Dorrans,28,Central Midfield,Norwich,£3.69m,out,Summer,3.69,Premier League,2015,2015/2016
+West Bromwich Albion,Sebastián Blanco,27,Left Winger,San Lorenzo,£1.80m,out,Summer,1.8,Premier League,2015,2015/2016
+West Bromwich Albion,Joleon Lescott,33,Centre-Back,Aston Villa,£1.26m,out,Summer,1.26,Premier League,2015,2015/2016
+West Bromwich Albion,Jason Davidson,24,Left-Back,Huddersfield,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Chris Baird,33,Defensive Midfield,Derby,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Youssouf Mulumbu,28,Defensive Midfield,Norwich,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Liam O'Neil,22,Defensive Midfield,Chesterfield FC,?,out,Summer,NA,Premier League,2015,2015/2016
+West Bromwich Albion,Georgios Samaras,30,Left Winger,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Alex Pritchard,23,Attacking Midfield,Spurs,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+West Bromwich Albion,Sandro,27,Defensive Midfield,QPR,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Shinji Okazaki,29,Centre-Forward,1.FSV Mainz 05,£9.90m,in,Summer,9.9,Premier League,2015,2015/2016
+Leicester City,N'Golo Kanté,24,Central Midfield,SM Caen,£8.10m,in,Summer,8.1,Premier League,2015,2015/2016
+Leicester City,Gökhan Inler,31,Defensive Midfield,SSC Napoli,£6.30m,in,Summer,6.3,Premier League,2015,2015/2016
+Leicester City,Yohan Benalouane,28,Centre-Back,Atalanta,£6.30m,in,Summer,6.3,Premier League,2015,2015/2016
+Leicester City,Robert Huth,30,Centre-Back,Stoke City,£3.78m,in,Summer,3.78,Premier League,2015,2015/2016
+Leicester City,Christian Fuchs,29,Left-Back,FC Schalke 04,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Leicester City,Nathan Dyer,27,Right Winger,Swansea,Loan,in,Summer,0,Premier League,2015,2015/2016
+Leicester City,Jacob Blyth,23,Centre-Forward,Cambridge Utd.,"End of loanSep 21, 2015",in,Summer,0,Premier League,2015,2015/2016
+Leicester City,Simonas Stankevicius,19,Centre-Forward,Oldham Athletic,"End of loanSep 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Leicester City,Ben Hamer,27,Goalkeeper,Nottm Forest,"End of loanAug 4, 2015",in,Summer,0,Premier League,2015,2015/2016
+Leicester City,Ben Chilwell,18,Left-Back,Leicester U23,-,in,Summer,0,Premier League,2015,2015/2016
+Leicester City,Jacob Blyth,23,Centre-Forward,Blackpool,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Leicester City,Ritchie De Laet,27,Right-Back,Middlesbrough,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Leicester City,Tom Lawrence,22,Left Winger,Cardiff,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Leicester City,Dean Hammond,33,Central Midfield,Sheffield Utd.,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Leicester City,Paul Konchesky,35,Left-Back,QPR,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Leicester City,David Nugent,30,Centre-Forward,Middlesbrough,£5.04m,out,Summer,5.04,Premier League,2015,2015/2016
+Leicester City,Chris Wood,23,Centre-Forward,Leeds,£3.24m,out,Summer,3.24,Premier League,2015,2015/2016
+Leicester City,Tom Hopper,21,Centre-Forward,Scunthorpe Utd.,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Simonas Stankevicius,19,Centre-Forward,Oldham Athletic,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Tom Lawrence,21,Left Winger,Blackburn,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Ryan Watson,22,Defensive Midfield,Northampton,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Ben Hamer,27,Goalkeeper,Bristol City,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Esteban Cambiasso,34,Defensive Midfield,Olympiacos,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Jacob Blyth,23,Centre-Forward,Cambridge Utd.,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Ben Hamer,27,Goalkeeper,Nottm Forest,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Adam Smith,22,Goalkeeper,Northampton,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Matthew Upson,36,Centre-Back,MK Dons,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Joe Davis,21,Centre-Back,Fleetwood,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Paul Gallagher,30,Central Midfield,Preston NE,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Adam Dawson,22,Right Winger,Kidderminster,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Alie Sesay,21,Centre-Back,Cambridge Utd.,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Anthony Knockaert,23,Right Winger,Standard Liège,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Dean Hammond,32,Central Midfield,Sheffield Utd.,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Liam Moore,22,Centre-Back,Bristol City,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Paul Konchesky,34,Left-Back,QPR,Loan,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Gary Taylor-Fletcher,34,Right Winger,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Conrad Logan,29,Goalkeeper,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Zoumana Bakayogo,28,Left-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Leicester City,Nathan Dyer,28,Right Winger,Swansea,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Georginio Wijnaldum,24,Central Midfield,PSV Eindhoven,£18.00m,in,Summer,18,Premier League,2015,2015/2016
+Newcastle United,Aleksandar Mitrovic,20,Centre-Forward,RSC Anderlecht,£16.65m,in,Summer,16.65,Premier League,2015,2015/2016
+Newcastle United,Florian Thauvin,22,Right Winger,Marseille,£16.52m,in,Summer,16.52,Premier League,2015,2015/2016
+Newcastle United,Chancel Mbemba,20,Centre-Back,RSC Anderlecht,£10.80m,in,Summer,10.8,Premier League,2015,2015/2016
+Newcastle United,Ivan Toney,19,Centre-Forward,Northampton,£324Th.,in,Summer,0.324,Premier League,2015,2015/2016
+Newcastle United,Jamie Sterry,19,Right-Back,Newcastle U23,-,in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Sammy Ameobi,24,Left Winger,Cardiff,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Ivan Toney,20,Centre-Forward,Barnsley FC,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Gaël Bigirimana,22,Central Midfield,Coventry,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Haris Vuckic,23,Attacking Midfield,Wigan,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Adam Armstrong,19,Centre-Forward,Coventry,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Freddie Woodman,18,Goalkeeper,Crawley Town,"End of loanOct 11, 2015",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Sylvain Marveaux,29,Attacking Midfield,Guingamp,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Davide Santon,24,Right-Back,Inter,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Kevin Mbabu,20,Right-Back,Rangers,"End of loanJun 1, 2015",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Gaël Bigirimana,21,Central Midfield,Rangers,"End of loanJun 1, 2015",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Shane Ferguson,23,Left Midfield,Rangers,"End of loanJun 1, 2015",in,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Davide Santon,24,Right-Back,Inter,£3.33m,out,Summer,3.33,Premier League,2015,2015/2016
+Newcastle United,Mehdi Abeid,23,Central Midfield,Panathinaikos,£540Th.,out,Summer,0.54,Premier League,2015,2015/2016
+Newcastle United,Rémy Cabella,25,Attacking Midfield,Marseille,Loan fee:£540Th.,out,Summer,0.54,Premier League,2015,2015/2016
+Newcastle United,Ryan Taylor,30,Right-Back,Hull City,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Adam Campbell,20,Second Striker,Notts County,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Freddie Woodman,18,Goalkeeper,Crawley Town,Loan,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Jonás Gutiérrez,32,Central Midfield,Dep. La Coruña,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Jak Alnwick,22,Goalkeeper,Port Vale,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Shane Ferguson,24,Left Midfield,Millwall,Loan,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Mike Williamson,31,Centre-Back,Wolves,Loan,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Sammy Ameobi,23,Left Winger,Cardiff,Loan,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Adam Armstrong,18,Centre-Forward,Coventry,Loan,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Haris Vuckic,23,Attacking Midfield,Wigan,Loan,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Sylvain Marveaux,30,Attacking Midfield,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Gabriel Obertan,27,Attacking Midfield,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Newcastle United,Facundo Ferreyra,24,Centre-Forward,Shakhtar D.,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Jeremain Lens,27,Right Winger,Dynamo Kyiv,£10.26m,in,Summer,10.26,Premier League,2015,2015/2016
+Sunderland AFC,Fabio Borini,24,Left Winger,Liverpool,£9.63m,in,Summer,9.63,Premier League,2015,2015/2016
+Sunderland AFC,Ricardo Álvarez,27,Attacking Midfield,Inter,£9.45m,in,Summer,9.45,Premier League,2015,2015/2016
+Sunderland AFC,Younès Kaboul,29,Centre-Back,Spurs,£3.87m,in,Summer,3.87,Premier League,2015,2015/2016
+Sunderland AFC,Santiago Vergini,26,Centre-Back,Estudiantes,£2.57m,in,Summer,2.57,Premier League,2015,2015/2016
+Sunderland AFC,Sebastián Coates,24,Centre-Back,Liverpool,£2.52m,in,Summer,2.52,Premier League,2015,2015/2016
+Sunderland AFC,Adam Matthews,23,Right-Back,Celtic,£2.52m,in,Summer,2.52,Premier League,2015,2015/2016
+Sunderland AFC,Yann M'Vila,25,Defensive Midfield,Rubin Kazan,Loan,in,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Ola Toivonen,29,Centre-Forward,Stade Rennais,Loan,in,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,DeAndre Yedlin,22,Right-Back,Spurs,Loan,in,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Will Buckley,26,Right Winger,Birmingham,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Jordi Gómez,31,Central Midfield,Blackburn,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Adam Matthews,24,Right-Back,Bristol City,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,George Honeyman,20,Attacking Midfield,Sunderland U21,-,in,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,El-Hadji Ba,22,Defensive Midfield,SC Bastia,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Valentin Roberge,28,Centre-Back,Stade Reims,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Charalampos Mavrias,21,Right-Back,Panathinaikos,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Connor Wickham,22,Centre-Forward,Crystal Palace,£9.00m,out,Summer,9,Premier League,2015,2015/2016
+Sunderland AFC,El-Hadji Ba,22,Defensive Midfield,Charlton,£450Th.,out,Summer,0.45,Premier League,2015,2015/2016
+Sunderland AFC,Emanuele Giaccherini,30,Left Midfield,Bologna,Loan fee:£225Th.,out,Summer,0.225,Premier League,2015,2015/2016
+Sunderland AFC,Joel Dixon,21,Goalkeeper,Barrow,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Santiago Vergini,26,Centre-Back,Getafe,Loan,out,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,George Honeyman,21,Attacking Midfield,Gateshead FC,Loan,out,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Jordan Pickford,21,Goalkeeper,Preston NE,Loan,out,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Will Buckley,25,Right Winger,Leeds,Loan,out,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,DeAndre Yedlin,22,Right-Back,Spurs,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Anthony Réveillère,35,Right-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Santiago Vergini,26,Centre-Back,Estudiantes,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Sunderland AFC,Ricardo Álvarez,27,Attacking Midfield,Inter,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Jordan Ayew,23,Centre-Forward,FC Lorient,£10.80m,in,Summer,10.8,Premier League,2015,2015/2016
+Aston Villa,Jordan Amavi,21,Left-Back,OGC Nice,£9.90m,in,Summer,9.9,Premier League,2015,2015/2016
+Aston Villa,Adama Traoré,19,Right Winger,FC Barcelona B,£9.00m,in,Summer,9,Premier League,2015,2015/2016
+Aston Villa,Jordan Veretout,22,Central Midfield,FC Nantes,£9.00m,in,Summer,9,Premier League,2015,2015/2016
+Aston Villa,Idrissa Gueye,25,Defensive Midfield,LOSC Lille,£8.10m,in,Summer,8.1,Premier League,2015,2015/2016
+Aston Villa,Rudy Gestede,26,Centre-Forward,Blackburn,£7.65m,in,Summer,7.65,Premier League,2015,2015/2016
+Aston Villa,Scott Sinclair,26,Left Winger,Man City,£3.15m,in,Summer,3.15,Premier League,2015,2015/2016
+Aston Villa,Joleon Lescott,33,Centre-Back,West Brom,£1.26m,in,Summer,1.26,Premier League,2015,2015/2016
+Aston Villa,José Crespo,28,Centre-Back,Córdoba CF,£720Th.,in,Summer,0.72,Premier League,2015,2015/2016
+Aston Villa,Tiago Ilori,22,Centre-Back,Liverpool,Loan fee:£315Th.,in,Summer,0.315,Premier League,2015,2015/2016
+Aston Villa,Micah Richards,27,Right-Back,Man City,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Mark Bunn,30,Goalkeeper,Norwich,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Benjamin Siegrist,24,Goalkeeper,Wycombe,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Joe Bennett,26,Left-Back,Sheff Wed,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Janoi Donacien,21,Right-Back,Wycombe,"End of loanSep 21, 2015",in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Gary Gardner,23,Central Midfield,Nottm Forest,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Jed Steer,23,Goalkeeper,Huddersfield,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Nicklas Helenius,24,Centre-Forward,Aalborg BK,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Yacouba Sylla,24,Defensive Midfield,K. Erciyesspor,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Aleksandar Tonev,25,Left Winger,Celtic,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Antonio Luna,24,Left-Back,Spezia Calcio,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Janoi Donacien,21,Right-Back,Tranmere Rovers,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Christian Benteke,24,Centre-Forward,Liverpool,£41.85m,out,Summer,41.85,Premier League,2015,2015/2016
+Aston Villa,Fabian Delph,25,Central Midfield,Man City,£10.35m,out,Summer,10.35,Premier League,2015,2015/2016
+Aston Villa,Andreas Weimann,23,Right Winger,Derby,£3.42m,out,Summer,3.42,Premier League,2015,2015/2016
+Aston Villa,Yacouba Sylla,24,Defensive Midfield,Stade Rennais,£1.35m,out,Summer,1.35,Premier League,2015,2015/2016
+Aston Villa,Matthew Lowton,26,Right-Back,Burnley,£1.26m,out,Summer,1.26,Premier League,2015,2015/2016
+Aston Villa,Nathan Baker,24,Centre-Back,Bristol City,Loan,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Benjamin Siegrist,23,Goalkeeper,Solihull Moors,Loan,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Jed Steer,22,Goalkeeper,Huddersfield,Loan,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Aleksandar Tonev,25,Left Winger,Frosinone,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Janoi Donacien,21,Right-Back,Wycombe,Loan,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Callum Robinson,20,Left Winger,Bristol City,Loan,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Janoi Donacien,21,Right-Back,Newport County,Loan,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Darren Bent,31,Centre-Forward,Derby,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Enda Stevens,24,Left-Back,Portsmouth,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Graham Burke,21,Second Striker,Notts County,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Joe Cole,33,Attacking Midfield,Coventry,Loan,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Nicklas Helenius,24,Centre-Forward,Aalborg BK,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Antonio Luna,24,Left-Back,SD Eibar,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Shay Given,39,Goalkeeper,Stoke City,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Joe Bennett,25,Left-Back,Bournemouth,Loan,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Aly Cissokho,27,Left-Back,FC Porto,Loan,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Chris Herd,26,Defensive Midfield,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Ron Vlaar,30,Centre-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Aston Villa,Scott Sinclair,26,Left Winger,Man City,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Tyrone Mings,22,Centre-Back,Ipswich,£10.17m,in,Summer,10.17,Premier League,2015,2015/2016
+AFC Bournemouth,Max Gradel,27,Left Winger,Saint-Étienne,£9.00m,in,Summer,9,Premier League,2015,2015/2016
+AFC Bournemouth,Glenn Murray,31,Centre-Forward,Crystal Palace,£4.86m,in,Summer,4.86,Premier League,2015,2015/2016
+AFC Bournemouth,Lee Tomlin,26,Second Striker,Middlesbrough,£3.87m,in,Summer,3.87,Premier League,2015,2015/2016
+AFC Bournemouth,Sylvain Distin,37,Centre-Back,Everton,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Jordan Green,20,Right Winger,Banbury,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Joshua King,23,Second Striker,Blackburn,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Adam Federici,30,Goalkeeper,Reading,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Artur Boruc,35,Goalkeeper,Southampton,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Christian Atsu,23,Left Winger,Chelsea,Loan,in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Joe Bennett,25,Left-Back,Aston Villa,Loan,in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Tomás Andrade,18,Attacking Midfield,River Plate II,Loan,in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh Carmichael,20,Central Midfield,Torquay United,"End of loanSep 6, 2015",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Stéphane Zubar,28,Centre-Back,York City,"End of loanSep 7, 2015",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh Wakefield,21,Central Midfield,Yeovil Town,"End of loanSep 18, 2015",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Brandon Goodship,20,Centre-Forward,Bournemouth U21,-,in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Matt Butcher,18,Central Midfield,Bournemouth U18,-,in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Ryan Fraser,22,Left Winger,Ipswich,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Harry Cornick,21,Right Winger,Yeovil Town,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Jayden Stockley,22,Centre-Forward,Exeter City,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Lee Tomlin,27,Second Striker,Bristol City,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Ryan Allsop,23,Goalkeeper,Wycombe,"End of loanMay 9, 2016",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Baily Cargill,20,Centre-Back,Coventry,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Brandon Goodship,21,Centre-Forward,Yeovil Town,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh Wakefield,22,Central Midfield,Walsall,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Matt Butcher,19,Central Midfield,Woking FC,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Ryan Allsop,23,Goalkeeper,Portsmouth,"End of loanMay 17, 2016",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh O'Hanlon,20,Centre-Forward,Chester FC,"End of loanOct 1, 2015",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Stéphane Zubar,28,Centre-Back,York City,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Joe Partington,25,Right-Back,Eastleigh FC,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Elliott Ward,30,Centre-Back,Huddersfield,Loan,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Lee Camp,31,Goalkeeper,Rotherham,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh O'Hanlon,19,Centre-Forward,Chester FC,Loan,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh Wakefield,21,Central Midfield,Yeovil Town,Loan,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Stéphane Zubar,28,Centre-Back,York City,Loan,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Harry Cornick,20,Right Winger,Yeovil Town,Loan,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh Carmichael,20,Central Midfield,Torquay United,Loan,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Ryan Fraser,21,Left Winger,Ipswich,Loan,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Miles Addison,26,Centre-Back,Without Club,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh McQuoid,25,Centre-Forward,Luton,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Mohamed Coulibaly,26,Left Winger,Racing,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Ryan Allsop,23,Goalkeeper,Portsmouth,Loan,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Brett Pitman,27,Centre-Forward,Ipswich,?,out,Summer,NA,Premier League,2015,2015/2016
+AFC Bournemouth,Jayden Stockley,21,Centre-Forward,Portsmouth,Loan,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Aristide Bassele,21,Right Winger,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Ian Harte,37,Left-Back,Retired,-,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Darryl Flahavan,36,Goalkeeper,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Benjamin Büchel,25,Goalkeeper,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+AFC Bournemouth,Kenwyne Jones,30,Centre-Forward,Cardiff,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Étienne Capoue,26,Defensive Midfield,Spurs,£8.01m,in,Summer,8.01,Premier League,2015,2015/2016
+Watford FC,José Manuel Jurado,29,Attacking Midfield,Spartak Moscow,£7.74m,in,Summer,7.74,Premier League,2015,2015/2016
+Watford FC,Matej Vydra,23,Centre-Forward,Udinese Calcio,£7.56m,in,Summer,7.56,Premier League,2015,2015/2016
+Watford FC,Obbi Oulare,19,Centre-Forward,Club Brugge,£7.41m,in,Summer,7.41,Premier League,2015,2015/2016
+Watford FC,Steven Berghuis,23,Right Winger,AZ Alkmaar,£5.85m,in,Summer,5.85,Premier League,2015,2015/2016
+Watford FC,Valon Behrami,30,Defensive Midfield,Hamburger SV,£3.15m,in,Summer,3.15,Premier League,2015,2015/2016
+Watford FC,Jose Cholevas,31,Left-Back,AS Roma,£2.25m,in,Summer,2.25,Premier League,2015,2015/2016
+Watford FC,Víctor Ibarbo,25,Second Striker,AS Roma,Loan fee:£1.80m,in,Summer,1.8,Premier League,2015,2015/2016
+Watford FC,Giedrius Arlauskis,27,Goalkeeper,Steaua Bukarest,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Sebastian Prödl,28,Centre-Back,Werder Bremen,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Allan Nyom,27,Right-Back,Udinese Calcio,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Miguel Britos,30,Centre-Back,SSC Napoli,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Rafael Romo,25,Goalkeeper,Udinese Calcio,Loan,in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Adlène Guédioura,29,Central Midfield,Crystal Palace,?,in,Summer,NA,Premier League,2015,2015/2016
+Watford FC,Nathan Aké,20,Centre-Back,Chelsea,Loan,in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Alessandro Diamanti,32,Attacking Midfield,GZ Evergrande,Loan,in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Connor Smith,22,Central Midfield,Stevenage,"End of loanOct 1, 2015",in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Gabriele Angella,27,Centre-Back,QPR,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Uche Ikpeazu,21,Centre-Forward,Blackpool,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Daniel Pudil,30,Left-Back,Sheff Wed,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Matej Vydra,24,Centre-Forward,Reading,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Essaïd Belkalem,26,Centre-Back,Trabzonspor,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Cristian Battocchio,23,Central Midfield,Virtus Entella,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Watford FC,Fernando Forestieri,25,Second Striker,Sheff Wed,£3.71m,out,Summer,3.71,Premier League,2015,2015/2016
+Watford FC,Matej Vydra,23,Centre-Forward,Reading,Loan fee:£2.43m,out,Summer,2.43,Premier League,2015,2015/2016
+Watford FC,Miguel Layún,27,Right Midfield,FC Porto,Loan fee:£450Th.,out,Summer,0.45,Premier League,2015,2015/2016
+Watford FC,Lewis McGugan,26,Central Midfield,Sheff Wed,£387Th.,out,Summer,0.387,Premier League,2015,2015/2016
+Watford FC,Vujadin Savic,25,Centre-Back,Sheriff,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Connor Smith,22,Central Midfield,Stevenage,Loan,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Uche Ikpeazu,20,Centre-Forward,Port Vale,Loan,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Luke O'Nien,20,Right-Back,Wycombe,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Cristian Battocchio,23,Central Midfield,Stade Brest 29,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Daniel Pudil,29,Left-Back,Sheff Wed,Loan,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Gabriele Angella,26,Centre-Back,QPR,Loan,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Sean Murray,21,Central Midfield,Wigan,Loan,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Diego Fabbrini,24,Attacking Midfield,Middlesbrough,Loan,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Jonathan Bond,22,Goalkeeper,Reading,?,out,Summer,NA,Premier League,2015,2015/2016
+Watford FC,Rafael Romo,25,Goalkeeper,Udinese Calcio,"End of loanAug 19, 2015",out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Lloyd Doyley,32,Centre-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Marco Motta,29,Right-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Nathan Aké,21,Centre-Back,Chelsea,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Matej Vydra,23,Centre-Forward,Udinese Calcio,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Dániel Tőzsér,30,Central Midfield,Parma,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Watford FC,Gianni Munari,32,Central Midfield,Parma,"End of loanJun 30, 2015",out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Robbie Brady,23,Left Midfield,Hull City,£8.91m,in,Summer,8.91,Premier League,2015,2015/2016
+Norwich City,Graham Dorrans,28,Central Midfield,West Brom,£3.69m,in,Summer,3.69,Premier League,2015,2015/2016
+Norwich City,Andre Wisdom,22,Right-Back,Liverpool,Loan fee:£1.62m,in,Summer,1.62,Premier League,2015,2015/2016
+Norwich City,Youssouf Mulumbu,28,Defensive Midfield,West Brom,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Jake Kean,24,Goalkeeper,Blackburn,Free transfer,in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Matt Jarvis,29,Left Winger,West Ham,Loan,in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Dieumerci Mbokani,29,Centre-Forward,Dynamo Kyiv,Loan,in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Jake Kean,25,Goalkeeper,Swindon Town,"End of loanApr 23, 2016",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Kyle Lafferty,28,Centre-Forward,Birmingham,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Remi Matthews,22,Goalkeeper,Doncaster,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,James Maddison,19,Attacking Midfield,Coventry,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Louis Thompson,21,Defensive Midfield,Swindon Town,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Josh Murphy,21,Left Winger,MK Dons,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Michael Turner,32,Centre-Back,Sheff Wed,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Jacob Murphy,21,Right Winger,Coventry,"End of loanMay 31, 2016",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Vadis Odjidja-Ofoe,26,Central Midfield,Rotherham,"End of loanOct 1, 2015",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Ricky van Wolfswinkel,26,Centre-Forward,Saint-Étienne,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Kyle Lafferty,27,Centre-Forward,C. Rizespor,"End of loanJun 30, 2015",in,Summer,0,Premier League,2015,2015/2016
+Norwich City,Bradley Johnson,28,Central Midfield,Derby,£7.29m,out,Summer,7.29,Premier League,2015,2015/2016
+Norwich City,Cameron McGeehan,20,Central Midfield,Luton,£126Th.,out,Summer,0.126,Premier League,2015,2015/2016
+Norwich City,Jake Kean,25,Goalkeeper,Swindon Town,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Elliott Bennett,26,Right-Back,Bristol City,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Jamar Loza,21,Centre-Forward,Stevenage,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Louis Thompson,20,Defensive Midfield,Swindon Town,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Tony Andreu,27,Central Midfield,Rotherham,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Vadis Odjidja-Ofoe,26,Central Midfield,Rotherham,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Jacob Murphy,20,Right Winger,Coventry,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Carlos Cuéllar,33,Centre-Back,UD Almería,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Javier Garrido,30,Left-Back,UD Las Palmas,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Mark Bunn,30,Goalkeeper,Aston Villa,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Remi Matthews,21,Goalkeeper,Burton Albion,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Ignasi Miquel,22,Centre-Back,Ponferradina,Free transfer,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Gary Hooper,27,Centre-Forward,Sheff Wed,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Josh Murphy,20,Left Winger,MK Dons,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Ricky van Wolfswinkel,26,Centre-Forward,Real Betis,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Michael Turner,31,Centre-Back,Sheff Wed,Loan,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Kyle Callan-McFadden,20,Centre-Back,Without Club,-,out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Patrick Bamford,22,Centre-Forward,Chelsea,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+Norwich City,Andre Wisdom,23,Right-Back,Liverpool,"End of loanMay 31, 2016",out,Summer,0,Premier League,2015,2015/2016
+Chelsea FC,Matt Miazga,20,Centre-Back,NY Red Bulls,£4.14m,in,Winter,4.14,Premier League,2015,2015/2016
+Chelsea FC,Alexandre Pato,26,Centre-Forward,Corinthians,Loan,in,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Christian Atsu,23,Left Winger,Bournemouth,"End of loanJan 4, 2016",in,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Marco van Ginkel,23,Central Midfield,Stoke City,"End of loanJan 31, 2016",in,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Patrick Bamford,22,Centre-Forward,Crystal Palace,"End of loanJan 4, 2016",in,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Wallace Oliveira,21,Right-Back,Carpi,"End of loanJan 6, 2016",in,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Marco Amelia,33,Goalkeeper,Without Club,-,in,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Ulises Dávila,24,Second Striker,Vitória Setúbal,"End of loanDec 31, 2015",in,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Ramires,28,Central Midfield,JS Suning,£25.20m,out,Winter,25.2,Premier League,2015,2015/2016
+Chelsea FC,Papy Djilobodji,27,Centre-Back,Werder Bremen,Loan fee:£360Th.,out,Winter,0.36,Premier League,2015,2015/2016
+Chelsea FC,Ulises Dávila,24,Second Striker,Santos Laguna,Free transfer,out,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Wallace Oliveira,21,Right-Back,Grêmio,Loan,out,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Christian Atsu,24,Left Winger,Málaga CF,Loan,out,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Patrick Bamford,22,Centre-Forward,Norwich,Loan,out,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Marco van Ginkel,23,Central Midfield,PSV Eindhoven,Loan,out,Winter,0,Premier League,2015,2015/2016
+Chelsea FC,Jamal Blackman,22,Goalkeeper,Östersund,Loan,out,Winter,0,Premier League,2015,2015/2016
+Manchester City,Anthony Cáceres,23,Central Midfield,Central Coast,£288Th.,in,Winter,0.288,Premier League,2015,2015/2016
+Manchester City,Luke Brattan,25,Defensive Midfield,Brisbane Roar,Free transfer,in,Winter,0,Premier League,2015,2015/2016
+Manchester City,Enes Ünal,18,Centre-Forward,KRC Genk,"End of loanJan 29, 2016",in,Winter,0,Premier League,2015,2015/2016
+Manchester City,Bruno Zuculini,22,Defensive Midfield,Middlesbrough,"End of loanJan 2, 2016",in,Winter,0,Premier League,2015,2015/2016
+Manchester City,Luke Brattan,25,Defensive Midfield,Bolton,"End of loanDec 21, 2015",in,Winter,0,Premier League,2015,2015/2016
+Manchester City,Luke Brattan,25,Defensive Midfield,Bolton,Loan,out,Winter,0,Premier League,2015,2015/2016
+Manchester City,Anthony Cáceres,23,Central Midfield,Melbourne City,Loan,out,Winter,0,Premier League,2015,2015/2016
+Manchester City,Enes Ünal,18,Centre-Forward,NAC Breda,Loan,out,Winter,0,Premier League,2015,2015/2016
+Manchester City,Bruno Zuculini,22,Defensive Midfield,AEK Athens,Loan,out,Winter,0,Premier League,2015,2015/2016
+Manchester City,Patrick Roberts,18,Right Winger,Celtic,Loan,out,Winter,0,Premier League,2015,2015/2016
+Manchester City,Bruno Zuculini,22,Defensive Midfield,Middlesbrough,Loan,out,Winter,0,Premier League,2015,2015/2016
+Arsenal FC,Mohamed Elneny,23,Defensive Midfield,FC Basel,£11.25m,in,Winter,11.25,Premier League,2015,2015/2016
+Arsenal FC,Carl Jenkinson,23,Right-Back,West Ham,"End of loanJan 31, 2016",in,Winter,0,Premier League,2015,2015/2016
+Arsenal FC,Yaya Sanogo,23,Centre-Forward,Ajax,"End of loanJan 31, 2016",in,Winter,0,Premier League,2015,2015/2016
+Arsenal FC,Serge Gnabry,20,Right Winger,West Brom,"End of loanFeb 1, 2016",in,Winter,0,Premier League,2015,2015/2016
+Arsenal FC,Mathieu Debuchy,30,Right-Back,G. Bordeaux,Loan,out,Winter,0,Premier League,2015,2015/2016
+Arsenal FC,Yaya Sanogo,23,Centre-Forward,Charlton,Loan,out,Winter,0,Premier League,2015,2015/2016
+Manchester United,Will Keane,22,Centre-Forward,Preston NE,"End of loanJan 1, 2016",in,Winter,0,Premier League,2015,2015/2016
+Manchester United,Adnan Januzaj,20,Right Winger,Bor. Dortmund,"End of loanJan 7, 2016",in,Winter,0,Premier League,2015,2015/2016
+Manchester United,Timothy Fosu-Mensah,17,Right-Back,Man Utd U18,-,in,Winter,0,Premier League,2015,2015/2016
+Manchester United,Sam Johnstone,22,Goalkeeper,Preston NE,"End of loanJan 23, 2016",in,Winter,0,Premier League,2015,2015/2016
+Manchester United,Marcus Rashford,18,Left Winger,Man Utd U18,-,in,Winter,0,Premier League,2015,2015/2016
+Manchester United,Vanja Milinković-Savić,18,Goalkeeper,Lechia Gdansk,Free transfer,out,Winter,0,Premier League,2015,2015/2016
+Manchester United,Sam Johnstone,22,Goalkeeper,Preston NE,Loan,out,Winter,0,Premier League,2015,2015/2016
+Manchester United,Víctor Valdés,34,Goalkeeper,Standard Liège,Loan,out,Winter,0,Premier League,2015,2015/2016
+Manchester United,Nick Powell,21,Attacking Midfield,Hull City,Loan,out,Winter,0,Premier League,2015,2015/2016
+Manchester United,James Wilson,19,Centre-Forward,Brighton,Loan,out,Winter,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Andros Townsend,24,Right Winger,Newcastle,£14.13m,out,Winter,14.13,Premier League,2015,2015/2016
+Tottenham Hotspur,Milos Veljkovic,20,Centre-Back,Werder Bremen,£297Th.,out,Winter,0.297,Premier League,2015,2015/2016
+Tottenham Hotspur,Alex Pritchard,22,Attacking Midfield,West Brom,Loan,out,Winter,0,Premier League,2015,2015/2016
+Tottenham Hotspur,Federico Fazio,28,Centre-Back,Sevilla FC,Loan,out,Winter,0,Premier League,2015,2015/2016
+Liverpool FC,Marko Grujic,19,Central Midfield,Red Star,£6.30m,in,Winter,6.3,Premier League,2015,2015/2016
+Liverpool FC,Steven Caulker,24,Centre-Back,QPR,Loan,in,Winter,0,Premier League,2015,2015/2016
+Liverpool FC,Danny Ward,22,Goalkeeper,Aberdeen FC,"End of loanJan 10, 2016",in,Winter,0,Premier League,2015,2015/2016
+Liverpool FC,Kevin Stewart,22,Defensive Midfield,Swindon Town,"End of loanJan 8, 2016",in,Winter,0,Premier League,2015,2015/2016
+Liverpool FC,Sheyi Ojo,18,Right Winger,Wolves,"End of loanJan 7, 2016",in,Winter,0,Premier League,2015,2015/2016
+Liverpool FC,Tiago Ilori,22,Centre-Back,Aston Villa,"End of loanJan 1, 2016",in,Winter,0,Premier League,2015,2015/2016
+Liverpool FC,Brad Smith,21,Left-Back,Liverpool U23,-,in,Winter,0,Premier League,2015,2015/2016
+Liverpool FC,Marko Grujic,19,Central Midfield,Red Star,Loan fee:£900Th.,out,Winter,0.9,Premier League,2015,2015/2016
+Southampton FC,Charlie Austin,26,Centre-Forward,QPR,£4.68m,in,Winter,4.68,Premier League,2015,2015/2016
+Southampton FC,Jack Stephens,21,Centre-Back,Middlesbrough,"End of loanJan 4, 2016",in,Winter,0,Premier League,2015,2015/2016
+Southampton FC,Sam Gallagher,20,Centre-Forward,MK Dons,"End of loanJan 6, 2016",in,Winter,0,Premier League,2015,2015/2016
+Southampton FC,Ryan Seager,20,Centre-Forward,Crewe Alexandra,"End of loanFeb 18, 2016",in,Winter,0,Premier League,2015,2015/2016
+Southampton FC,Ryan Seager,19,Centre-Forward,Crewe Alexandra,Loan,out,Winter,0,Premier League,2015,2015/2016
+Southampton FC,Lloyd Isgrove,22,Left Winger,Barnsley FC,Loan,out,Winter,0,Premier League,2015,2015/2016
+Southampton FC,Gastón Ramírez,25,Attacking Midfield,Middlesbrough,Loan,out,Winter,0,Premier League,2015,2015/2016
+Southampton FC,Jack Stephens,22,Centre-Back,Coventry,Loan,out,Winter,0,Premier League,2015,2015/2016
+Southampton FC,Steven Caulker,24,Centre-Back,QPR,"End of loanJan 11, 2016",out,Winter,0,Premier League,2015,2015/2016
+Swansea City,Alberto Paloschi,26,Centre-Forward,Chievo Verona,£7.92m,in,Winter,7.92,Premier League,2015,2015/2016
+Swansea City,Leroy Fer,26,Central Midfield,QPR,Loan,in,Winter,0,Premier League,2015,2015/2016
+Swansea City,Adam King,20,Central Midfield,Crewe Alexandra,"End of loanJan 5, 2016",in,Winter,0,Premier League,2015,2015/2016
+Swansea City,Kenji Gorré,21,Right Midfield,ADO Den Haag,"End of loanJan 30, 2016",in,Winter,0,Premier League,2015,2015/2016
+Swansea City,Stephen Kingsley,21,Left-Back,Crewe Alexandra,"End of loanNov 27, 2015",in,Winter,0,Premier League,2015,2015/2016
+Swansea City,Jay Fulton,21,Central Midfield,Oldham Athletic,"End of loanDec 19, 2015",in,Winter,0,Premier League,2015,2015/2016
+Swansea City,Oliver McBurnie,19,Centre-Forward,Newport County,"End of loanDec 25, 2015",in,Winter,0,Premier League,2015,2015/2016
+Swansea City,Jonjo Shelvey,23,Central Midfield,Newcastle,£14.40m,out,Winter,14.4,Premier League,2015,2015/2016
+Swansea City,Gerhard Tremmel,37,Goalkeeper,Werder Bremen,Loan fee:£90Th.,out,Winter,0.09,Premier League,2015,2015/2016
+Swansea City,Franck Tabanou,26,Left-Back,Saint-Étienne,Loan,out,Winter,0,Premier League,2015,2015/2016
+Swansea City,Éder,28,Centre-Forward,LOSC Lille,Loan,out,Winter,0,Premier League,2015,2015/2016
+Swansea City,Daniel Alfei,23,Right-Back,Mansfield Town,Loan,out,Winter,0,Premier League,2015,2015/2016
+Swansea City,Oliver McBurnie,19,Centre-Forward,Bristol Rovers,Loan,out,Winter,0,Premier League,2015,2015/2016
+Swansea City,Liam Shephard,21,Right-Back,Yeovil Town,Loan,out,Winter,0,Premier League,2015,2015/2016
+Swansea City,Michu,29,Second Striker,UP Langreo,Free transfer,out,Winter,0,Premier League,2015,2015/2016
+Swansea City,Oliver McBurnie,19,Centre-Forward,Newport County,Loan,out,Winter,0,Premier League,2015,2015/2016
+Swansea City,Matt Grimes,20,Central Midfield,Blackburn,Loan,out,Winter,0,Premier League,2015,2015/2016
+Stoke City,Giannelli Imbula,23,Defensive Midfield,FC Porto,£21.83m,in,Winter,21.83,Premier League,2015,2015/2016
+Stoke City,Dionatan Teixeira,23,Centre-Back,Fleetwood,"End of loanJan 2, 2016",in,Winter,0,Premier League,2015,2015/2016
+Stoke City,Daniel Bachmann,21,Goalkeeper,Bury,"End of loanJan 9, 2016",in,Winter,0,Premier League,2015,2015/2016
+Stoke City,Steve Sidwell,33,Central Midfield,Brighton,Loan,out,Winter,0,Premier League,2015,2015/2016
+Stoke City,George Waring,21,Centre-Forward,Oxford United,Loan,out,Winter,0,Premier League,2015,2015/2016
+Stoke City,Dionatan Teixeira,23,Centre-Back,Fleetwood,Loan,out,Winter,0,Premier League,2015,2015/2016
+Stoke City,Daniel Bachmann,21,Goalkeeper,Bury,Loan,out,Winter,0,Premier League,2015,2015/2016
+Stoke City,Peter Odemwingie,34,Right Winger,Bristol City,Loan,out,Winter,0,Premier League,2015,2015/2016
+Stoke City,Andy Wilkinson,31,Right-Back,Without Club,-,out,Winter,0,Premier League,2015,2015/2016
+Stoke City,Marco van Ginkel,23,Central Midfield,Chelsea,"End of loanJan 31, 2016",out,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Freddie Ladapo,23,Centre-Forward,Margate FC,?,in,Winter,NA,Premier League,2015,2015/2016
+Crystal Palace,Jack Hunt,25,Right-Back,Sheff Wed,"End of loanJan 12, 2016",in,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Hiram Boateng,19,Defensive Midfield,Plymouth,"End of loanJan 2, 2016",in,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Jonathan Williams,22,Attacking Midfield,Nottm Forest,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Keshi Anderson,20,Left Winger,Doncaster,"End of loanJan 2, 2016",in,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Patrick McCarthy,32,Centre-Back,Preston NE,"End of loanJan 4, 2016",in,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Luke Croll,20,Centre-Back,Plymouth,"End of loanJan 2, 2016",in,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Emmanuel Adebayor,31,Centre-Forward,Without Club,-,in,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Connor Dymond,21,Defensive Midfield,Newport County,"End of loanFeb 13, 2016",in,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Chris Kettings,22,Goalkeeper,Bromley,"End of loanOct 18, 2015",in,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Connor Dymond,21,Defensive Midfield,Newport County,Loan,out,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Jonathan Williams,22,Attacking Midfield,MK Dons,Loan,out,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Hiram Boateng,20,Defensive Midfield,Plymouth,Loan,out,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Patrick McCarthy,32,Centre-Back,Preston NE,Loan,out,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Luke Croll,20,Centre-Back,Plymouth,Loan,out,Winter,0,Premier League,2015,2015/2016
+Crystal Palace,Jack Hunt,25,Right-Back,Sheff Wed,?,out,Winter,NA,Premier League,2015,2015/2016
+Crystal Palace,Patrick Bamford,22,Centre-Forward,Chelsea,"End of loanJan 4, 2016",out,Winter,0,Premier League,2015,2015/2016
+Everton FC,Oumar Niasse,25,Centre-Forward,Loko Moscow,£16.11m,in,Winter,16.11,Premier League,2015,2015/2016
+Everton FC,Shani Tarashaj,20,Second Striker,Grasshoppers,£3.60m,in,Winter,3.6,Premier League,2015,2015/2016
+Everton FC,Francisco Júnior,23,Central Midfield,Wigan,"End of loanJan 16, 2016",in,Winter,0,Premier League,2015,2015/2016
+Everton FC,Felipe Mattioni,27,Right-Back,Doncaster,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+Everton FC,Matthew Pennington,21,Centre-Back,Everton U21,-,in,Winter,0,Premier League,2015,2015/2016
+Everton FC,Felipe Mattioni,27,Right-Back,Without Club,-,in,Winter,0,Premier League,2015,2015/2016
+Everton FC,Conor McAleny,23,Centre-Forward,Charlton,"End of loanNov 7, 2015",in,Winter,0,Premier League,2015,2015/2016
+Everton FC,Steven Naismith,29,Second Striker,Norwich,£9.90m,out,Winter,9.9,Premier League,2015,2015/2016
+Everton FC,Leandro Rodríguez,23,Centre-Forward,Brentford,Loan,out,Winter,0,Premier League,2015,2015/2016
+Everton FC,Matthew Pennington,21,Centre-Back,Walsall,Loan,out,Winter,0,Premier League,2015,2015/2016
+Everton FC,Felipe Mattioni,27,Right-Back,Doncaster,Loan,out,Winter,0,Premier League,2015,2015/2016
+Everton FC,Conor Grant,20,Central Midfield,Doncaster,Loan,out,Winter,0,Premier League,2015,2015/2016
+Everton FC,Shani Tarashaj,20,Second Striker,Grasshoppers,Loan,out,Winter,0,Premier League,2015,2015/2016
+Everton FC,Aiden McGeady,29,Left Winger,Sheff Wed,Loan,out,Winter,0,Premier League,2015,2015/2016
+Everton FC,Conor McAleny,23,Centre-Forward,Wigan,Loan,out,Winter,0,Premier League,2015,2015/2016
+Everton FC,Francisco Júnior,24,Central Midfield,Strømsgodset,?,out,Winter,NA,Premier League,2015,2015/2016
+West Ham United,Sam Byram,22,Right-Back,Leeds,£4.32m,in,Winter,4.32,Premier League,2015,2015/2016
+West Ham United,Emmanuel Emenike,28,Centre-Forward,Fenerbahce,Loan fee:£900Th.,in,Winter,0.9,Premier League,2015,2015/2016
+West Ham United,Diego Poyet,20,Central Midfield,MK Dons,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+West Ham United,Matt Jarvis,29,Left Winger,Norwich,"End of loanJan 1, 2016",in,Winter,0,Premier League,2015,2015/2016
+West Ham United,Doneil Henry,22,Centre-Back,Blackburn,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+West Ham United,Elliot Lee,21,Centre-Forward,Blackpool,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+West Ham United,Stephen Hendrie,21,Left-Back,Southend United,"End of loanFeb 14, 2016",in,Winter,0,Premier League,2015,2015/2016
+West Ham United,Reece Burke,18,Centre-Back,West Ham U18,-,in,Winter,0,Premier League,2015,2015/2016
+West Ham United,Matt Jarvis,29,Left Winger,Norwich,£3.06m,out,Winter,3.06,Premier League,2015,2015/2016
+West Ham United,Mauro Zárate,28,Centre-Forward,Fiorentina,£1.89m,out,Winter,1.89,Premier League,2015,2015/2016
+West Ham United,Nikica Jelavic,30,Centre-Forward,BJ Renhe,£1.00m,out,Winter,1,Premier League,2015,2015/2016
+West Ham United,Stephen Hendrie,21,Left-Back,Southend United,Loan,out,Winter,0,Premier League,2015,2015/2016
+West Ham United,Elliot Lee,21,Centre-Forward,Colchester Utd.,Loan,out,Winter,0,Premier League,2015,2015/2016
+West Ham United,Jaanai Gordon,20,Centre-Forward,Sligo Rovers,Loan,out,Winter,0,Premier League,2015,2015/2016
+West Ham United,Josh Cullen,19,Central Midfield,Bradford,Loan,out,Winter,0,Premier League,2015,2015/2016
+West Ham United,Doneil Henry,22,Centre-Back,Blackburn,Loan,out,Winter,0,Premier League,2015,2015/2016
+West Ham United,Elliot Lee,20,Centre-Forward,Blackpool,Loan,out,Winter,0,Premier League,2015,2015/2016
+West Ham United,Diego Poyet,20,Central Midfield,Charlton,Loan,out,Winter,0,Premier League,2015,2015/2016
+West Ham United,Carl Jenkinson,23,Right-Back,Arsenal,"End of loanJan 31, 2016",out,Winter,0,Premier League,2015,2015/2016
+West Ham United,Morgan Amalfitano,30,Right Winger,Without Club,-,out,Winter,0,Premier League,2015,2015/2016
+West Bromwich Albion,Alex Pritchard,22,Attacking Midfield,Spurs,Loan,in,Winter,0,Premier League,2015,2015/2016
+West Bromwich Albion,Sandro,26,Defensive Midfield,QPR,Loan,in,Winter,0,Premier League,2015,2015/2016
+West Bromwich Albion,Anders Lindegaard,31,Goalkeeper,Preston NE,Loan,out,Winter,0,Premier League,2015,2015/2016
+West Bromwich Albion,Serge Gnabry,20,Right Winger,Arsenal,"End of loanFeb 1, 2016",out,Winter,0,Premier League,2015,2015/2016
+Leicester City,Daniel Amartey,21,Defensive Midfield,FC Copenhagen,£5.94m,in,Winter,5.94,Premier League,2015,2015/2016
+Leicester City,Demarai Gray,19,Left Winger,Birmingham,£4.59m,in,Winter,4.59,Premier League,2015,2015/2016
+Leicester City,Ryan Watson,22,Defensive Midfield,Northampton,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+Leicester City,Tom Lawrence,22,Left Winger,Blackburn,"End of loanJan 31, 2016",in,Winter,0,Premier League,2015,2015/2016
+Leicester City,Liam Moore,22,Centre-Back,Bristol City,"End of loanJan 4, 2016",in,Winter,0,Premier League,2015,2015/2016
+Leicester City,Joe Davis,22,Centre-Back,Fleetwood,"End of loanJan 10, 2016",in,Winter,0,Premier League,2015,2015/2016
+Leicester City,Ben Chilwell,19,Left-Back,Huddersfield,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+Leicester City,Ben Hamer,27,Goalkeeper,Bristol City,"End of loanNov 17, 2015",in,Winter,0,Premier League,2015,2015/2016
+Leicester City,Alie Sesay,21,Centre-Back,Cambridge Utd.,"End of loanNov 15, 2015",in,Winter,0,Premier League,2015,2015/2016
+Leicester City,Yohan Benalouane,28,Centre-Back,Fiorentina,Loan fee:£225Th.,out,Winter,0.225,Premier League,2015,2015/2016
+Leicester City,Alie Sesay,21,Centre-Back,Barnet,Free transfer,out,Winter,0,Premier League,2015,2015/2016
+Leicester City,Andrej Kramaric,24,Centre-Forward,TSG Hoffenheim,Loan,out,Winter,0,Premier League,2015,2015/2016
+Leicester City,Jacob Blyth,23,Centre-Forward,Blackpool,Loan,out,Winter,0,Premier League,2015,2015/2016
+Leicester City,Joe Davis,21,Centre-Back,Fleetwood,Loan,out,Winter,0,Premier League,2015,2015/2016
+Leicester City,Alie Sesay,21,Centre-Back,Cambridge Utd.,Loan,out,Winter,0,Premier League,2015,2015/2016
+Leicester City,Ben Chilwell,18,Left-Back,Huddersfield,Loan,out,Winter,0,Premier League,2015,2015/2016
+Leicester City,Joe Davis,22,Centre-Back,Fleetwood,?,out,Winter,NA,Premier League,2015,2015/2016
+Leicester City,Simonas Stankevicius,20,Centre-Forward,Zalgiris,?,out,Winter,NA,Premier League,2015,2015/2016
+Leicester City,Tom Lawrence,22,Left Winger,Cardiff,Loan,out,Winter,0,Premier League,2015,2015/2016
+Leicester City,Ritchie De Laet,27,Right-Back,Middlesbrough,Loan,out,Winter,0,Premier League,2015,2015/2016
+Leicester City,Dean Hammond,32,Central Midfield,Sheffield Utd.,Loan,out,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Jonjo Shelvey,23,Central Midfield,Swansea,£14.40m,in,Winter,14.4,Premier League,2015,2015/2016
+Newcastle United,Andros Townsend,24,Right Winger,Spurs,£14.13m,in,Winter,14.13,Premier League,2015,2015/2016
+Newcastle United,Henri Saivet,25,Attacking Midfield,G. Bordeaux,£5.40m,in,Winter,5.4,Premier League,2015,2015/2016
+Newcastle United,Seydou Doumbia,28,Centre-Forward,AS Roma,Loan fee:£900Th.,in,Winter,0.9,Premier League,2015,2015/2016
+Newcastle United,Shane Ferguson,24,Left Midfield,Millwall,"End of loanJan 23, 2016",in,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Lubomir Satka,20,Centre-Back,York City,"End of loanFeb 29, 2016",in,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Freddie Woodman,18,Goalkeeper,Crawley Town,"End of loanOct 11, 2015",in,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Ivan Toney,19,Centre-Forward,Barnsley FC,"End of loanDec 23, 2015",in,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Mike Williamson,32,Centre-Back,Wolves,"End of loanDec 1, 2015",in,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Shane Ferguson,24,Left Midfield,Millwall,£360Th.,out,Winter,0.36,Premier League,2015,2015/2016
+Newcastle United,Mike Williamson,32,Centre-Back,Wolves,£297Th.,out,Winter,0.297,Premier League,2015,2015/2016
+Newcastle United,Lubomir Satka,20,Centre-Back,York City,Loan,out,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Florian Thauvin,23,Right Winger,Marseille,Loan,out,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Mike Williamson,31,Centre-Back,Wolves,Loan,out,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Ivan Toney,19,Centre-Forward,Barnsley FC,Loan,out,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Gaël Bigirimana,22,Central Midfield,Coventry,Loan,out,Winter,0,Premier League,2015,2015/2016
+Newcastle United,Ivan Toney,20,Centre-Forward,Barnsley FC,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Wahbi Khazri,24,Centre-Forward,G. Bordeaux,£10.62m,in,Winter,10.62,Premier League,2015,2015/2016
+Sunderland AFC,Lamine Koné,26,Centre-Back,FC Lorient,£5.85m,in,Winter,5.85,Premier League,2015,2015/2016
+Sunderland AFC,Dame N'Doye,30,Centre-Forward,Trabzonspor,Loan fee:£1.26m,in,Winter,1.26,Premier League,2015,2015/2016
+Sunderland AFC,Jan Kirchhoff,25,Centre-Back,Bayern Munich,£900Th.,in,Winter,0.9,Premier League,2015,2015/2016
+Sunderland AFC,Emmanuel Eboué,32,Right-Back,Without Club,-,in,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Steve Harper,40,Goalkeeper,Without Club,-,in,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Jordan Pickford,21,Goalkeeper,Preston NE,"End of loanJan 1, 2016",in,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Liam Bridcutt,27,Defensive Midfield,Leeds,"End of loanMay 31, 2016",in,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Mikael Mandron,21,Centre-Forward,Hartlepool Utd.,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,George Honeyman,21,Attacking Midfield,Gateshead FC,"End of loanJan 10, 2016",in,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Will Buckley,26,Right Winger,Leeds,"End of loanNov 26, 2015",in,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Sebastián Coates,25,Centre-Back,Sporting CP,Loan fee:£225Th.,out,Winter,0.225,Premier League,2015,2015/2016
+Sunderland AFC,Ricardo Álvarez,27,Attacking Midfield,Sampdoria,Free transfer,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Danny Graham,30,Centre-Forward,Blackburn,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Steven Fletcher,28,Centre-Forward,Marseille,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,George Honeyman,21,Attacking Midfield,Gateshead FC,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Mikael Mandron,21,Centre-Forward,Hartlepool Utd.,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Liam Bridcutt,26,Defensive Midfield,Leeds,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Will Buckley,26,Right Winger,Birmingham,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Costel Pantilimon,28,Goalkeeper,Watford,?,out,Winter,NA,Premier League,2015,2015/2016
+Sunderland AFC,Charalampos Mavrias,21,Right-Back,F. Düsseldorf,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Jordi Gómez,30,Central Midfield,Blackburn,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Adam Matthews,24,Right-Back,Bristol City,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Will Buckley,25,Right Winger,Leeds,Loan,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Adam Johnson,28,Right Winger,Without Club,-,out,Winter,0,Premier League,2015,2015/2016
+Sunderland AFC,Emmanuel Eboué,32,Right-Back,Retired,-,out,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Aly Cissokho,28,Left-Back,FC Porto,"End of loanJan 1, 2016",in,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Callum Robinson,20,Left Winger,Bristol City,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Joe Bennett,25,Left-Back,Bournemouth,"End of loanJan 2, 2016",in,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Joe Cole,34,Attacking Midfield,Coventry,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Jordan Lyden,19,Defensive Midfield,Aston Villa U23,-,in,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Benjamin Siegrist,24,Goalkeeper,Solihull Moors,"End of loanMar 18, 2016",in,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Joe Cole,34,Attacking Midfield,Coventry,Free transfer,out,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Philippe Senderos,30,Centre-Back,Grasshoppers,Free transfer,out,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Benjamin Siegrist,24,Goalkeeper,Wycombe,Loan,out,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Benjamin Siegrist,23,Goalkeeper,Solihull Moors,Loan,out,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Joe Cole,33,Attacking Midfield,Coventry,Loan,out,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Callum Robinson,20,Left Winger,Preston NE,Loan,out,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Gary Gardner,23,Central Midfield,Nottm Forest,Loan,out,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Joe Bennett,25,Left-Back,Sheff Wed,Loan,out,Winter,0,Premier League,2015,2015/2016
+Aston Villa,José Crespo,28,Centre-Back,Rayo Vallecano,Loan,out,Winter,0,Premier League,2015,2015/2016
+Aston Villa,Tiago Ilori,22,Centre-Back,Liverpool,"End of loanJan 1, 2016",out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Benik Afobe,22,Centre-Forward,Wolves,£11.97m,in,Winter,11.97,Premier League,2015,2015/2016
+AFC Bournemouth,Lewis Grabban,27,Centre-Forward,Norwich,£8.42m,in,Winter,8.42,Premier League,2015,2015/2016
+AFC Bournemouth,Juan Iturbe,22,Left Winger,AS Roma,Loan fee:£1.08m,in,Winter,1.08,Premier League,2015,2015/2016
+AFC Bournemouth,Rhoys Wiggins,28,Left-Back,Sheff Wed,£234Th.,in,Winter,0.234,Premier League,2015,2015/2016
+AFC Bournemouth,Marius Adamonis,18,Goalkeeper,Atlantas,Loan,in,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Jayden Stockley,22,Centre-Forward,Portsmouth,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh O'Hanlon,20,Centre-Forward,Chester FC,"End of loanOct 1, 2015",in,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Elliott Ward,30,Centre-Back,Huddersfield,"End of loanDec 28, 2015",in,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Yann Kermorgant,34,Centre-Forward,Reading,£585Th.,out,Winter,0.585,Premier League,2015,2015/2016
+AFC Bournemouth,Matt Butcher,18,Central Midfield,Woking FC,Loan,out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh Wakefield,22,Central Midfield,Walsall,Loan,out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Brandon Goodship,21,Centre-Forward,Yeovil Town,Loan,out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Baily Cargill,20,Centre-Back,Coventry,Loan,out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Ryan Allsop,23,Goalkeeper,Wycombe,Loan,out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Lee Tomlin,27,Second Striker,Bristol City,Loan,out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Elliott Ward,31,Centre-Back,Blackburn,Free transfer,out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Josh O'Hanlon,20,Centre-Forward,Longford Town,Loan,out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Jayden Stockley,22,Centre-Forward,Exeter City,Loan,out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Tomás Andrade,19,Attacking Midfield,River Plate II,"End of loanFeb 1, 2016",out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Joe Bennett,25,Left-Back,Aston Villa,"End of loanJan 2, 2016",out,Winter,0,Premier League,2015,2015/2016
+AFC Bournemouth,Christian Atsu,23,Left Winger,Chelsea,"End of loanJan 4, 2016",out,Winter,0,Premier League,2015,2015/2016
+Watford FC,Adalberto Peñaranda,18,Centre-Forward,Udinese Calcio,£9.54m,in,Winter,9.54,Premier League,2015,2015/2016
+Watford FC,Abdoulaye Doucouré,23,Central Midfield,Stade Rennais,£9.54m,in,Winter,9.54,Premier League,2015,2015/2016
+Watford FC,Nordin Amrabat,28,Right Winger,Málaga CF,£7.56m,in,Winter,7.56,Premier League,2015,2015/2016
+Watford FC,Mario Suárez,28,Defensive Midfield,Fiorentina,£4.77m,in,Winter,4.77,Premier League,2015,2015/2016
+Watford FC,Costel Pantilimon,28,Goalkeeper,Sunderland,?,in,Winter,NA,Premier League,2015,2015/2016
+Watford FC,Mathias Ranégie,31,Centre-Forward,DL Yifang,"End of loanNov 30, 2015",in,Winter,0,Premier League,2015,2015/2016
+Watford FC,Connor Smith,22,Central Midfield,Stevenage,"End of loanOct 1, 2015",in,Winter,0,Premier League,2015,2015/2016
+Watford FC,Uche Ikpeazu,20,Centre-Forward,Port Vale,"End of loanJan 1, 2016",in,Winter,0,Premier League,2015,2015/2016
+Watford FC,Sean Murray,22,Central Midfield,Wigan,"End of loanJan 16, 2016",in,Winter,0,Premier League,2015,2015/2016
+Watford FC,Diego Fabbrini,25,Attacking Midfield,Middlesbrough,"End of loanJan 26, 2016",in,Winter,0,Premier League,2015,2015/2016
+Watford FC,Luke Simpson,21,Goalkeeper,Without Club,-,in,Winter,0,Premier League,2015,2015/2016
+Watford FC,Diego Fabbrini,25,Attacking Midfield,Birmingham,£1.80m,out,Winter,1.8,Premier League,2015,2015/2016
+Watford FC,Uche Ikpeazu,20,Centre-Forward,Blackpool,Loan,out,Winter,0,Premier League,2015,2015/2016
+Watford FC,Connor Smith,22,Central Midfield,AFC Wimbledon,Free transfer,out,Winter,0,Premier League,2015,2015/2016
+Watford FC,Abdoulaye Doucouré,23,Central Midfield,Granada CF,Loan,out,Winter,0,Premier League,2015,2015/2016
+Watford FC,Mathias Ranégie,31,Centre-Forward,Djurgarden,Loan,out,Winter,0,Premier League,2015,2015/2016
+Watford FC,Adalberto Peñaranda,18,Centre-Forward,Granada CF,Loan,out,Winter,0,Premier League,2015,2015/2016
+Watford FC,Víctor Ibarbo,25,Second Striker,Atl. Nacional,Loan,out,Winter,0,Premier League,2015,2015/2016
+Watford FC,Giedrius Arlauskis,28,Goalkeeper,Espanyol,Loan,out,Winter,0,Premier League,2015,2015/2016
+Watford FC,Lloyd Dyer,33,Left Midfield,Without Club,-,out,Winter,0,Premier League,2015,2015/2016
+Watford FC,Alessandro Diamanti,32,Attacking Midfield,GZ Evergrande,"End of loanJan 12, 2016",out,Winter,0,Premier League,2015,2015/2016
+Norwich City,Steven Naismith,29,Second Striker,Everton,£9.90m,in,Winter,9.9,Premier League,2015,2015/2016
+Norwich City,Timm Klose,27,Centre-Back,VfL Wolfsburg,£9.90m,in,Winter,9.9,Premier League,2015,2015/2016
+Norwich City,Matt Jarvis,29,Left Winger,West Ham,£3.06m,in,Winter,3.06,Premier League,2015,2015/2016
+Norwich City,James Maddison,19,Attacking Midfield,Coventry,£2.39m,in,Winter,2.39,Premier League,2015,2015/2016
+Norwich City,Ebou Adams,20,Central Midfield,Dartford,?,in,Winter,NA,Premier League,2015,2015/2016
+Norwich City,Ben Godfrey,18,Centre-Back,York City,?,in,Winter,NA,Premier League,2015,2015/2016
+Norwich City,Patrick Bamford,22,Centre-Forward,Chelsea,Loan,in,Winter,0,Premier League,2015,2015/2016
+Norwich City,Vadis Odjidja-Ofoe,26,Central Midfield,Rotherham,"End of loanOct 1, 2015",in,Winter,0,Premier League,2015,2015/2016
+Norwich City,Conor McGrandles,20,Central Midfield,Falkirk FC,"End of loanFeb 21, 2016",in,Winter,0,Premier League,2015,2015/2016
+Norwich City,Jake Kean,25,Goalkeeper,Colchester Utd.,"End of loanFeb 4, 2016",in,Winter,0,Premier League,2015,2015/2016
+Norwich City,Remi Matthews,21,Goalkeeper,Burton Albion,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+Norwich City,Gary Hooper,27,Centre-Forward,Sheff Wed,"End of loanJan 17, 2016",in,Winter,0,Premier League,2015,2015/2016
+Norwich City,Elliott Bennett,27,Right-Back,Bristol City,"End of loanJan 3, 2016",in,Winter,0,Premier League,2015,2015/2016
+Norwich City,Tony Andreu,27,Central Midfield,Rotherham,"End of loanJan 2, 2016",in,Winter,0,Premier League,2015,2015/2016
+Norwich City,Jamar Loza,21,Centre-Forward,Stevenage,"End of loanNov 3, 2015",in,Winter,0,Premier League,2015,2015/2016
+Norwich City,Lewis Grabban,27,Centre-Forward,Bournemouth,£8.42m,out,Winter,8.42,Premier League,2015,2015/2016
+Norwich City,Gary Hooper,27,Centre-Forward,Sheff Wed,£3.51m,out,Winter,3.51,Premier League,2015,2015/2016
+Norwich City,Jake Kean,24,Goalkeeper,Colchester Utd.,Loan,out,Winter,0,Premier League,2015,2015/2016
+Norwich City,Jamar Loza,21,Centre-Forward,Southend United,Loan,out,Winter,0,Premier League,2015,2015/2016
+Norwich City,Ivo Pinto,29,Right-Back,Dinamo Zagreb,Free transfer,out,Winter,0,Premier League,2015,2015/2016
+Norwich City,James Maddison,19,Attacking Midfield,Coventry,Loan,out,Winter,0,Premier League,2015,2015/2016
+Norwich City,Remi Matthews,22,Goalkeeper,Doncaster,Loan,out,Winter,0,Premier League,2015,2015/2016
+Norwich City,Kyle Lafferty,28,Centre-Forward,Birmingham,Loan,out,Winter,0,Premier League,2015,2015/2016
+Norwich City,Jamar Loza,21,Centre-Forward,Stevenage,Loan,out,Winter,0,Premier League,2015,2015/2016
+Norwich City,Elliott Bennett,26,Right-Back,Bristol City,Loan,out,Winter,0,Premier League,2015,2015/2016
+Norwich City,Gary Hooper,27,Centre-Forward,Sheff Wed,Loan,out,Winter,0,Premier League,2015,2015/2016
+Norwich City,Elliott Bennett,27,Right-Back,Blackburn,?,out,Winter,NA,Premier League,2015,2015/2016
+Norwich City,Conor McGrandles,20,Central Midfield,Falkirk FC,Loan,out,Winter,0,Premier League,2015,2015/2016
+Norwich City,Matt Jarvis,29,Left Winger,West Ham,"End of loanJan 1, 2016",out,Winter,0,Premier League,2015,2015/2016

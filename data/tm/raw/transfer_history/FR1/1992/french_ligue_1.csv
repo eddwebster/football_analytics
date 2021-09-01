@@ -1,0 +1,359 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+FC Girondins Bordeaux,Zinédine Zidane,20,Attacking Midfield,Cannes,£6.30m,in,Summer,6.3,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Laurent Croci,27,Defensive Midfield,FC Sochaux,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Philippe Lucas,28,Defensive Midfield,FC Sochaux,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Márcio Santos,22,Centre-Back,Botafogo,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Jean-Francois Daniel,28,Central Midfield,Cannes,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Michel Flos,27,Midfielder,US Marseille Endoume,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Christophe Vecchioni,23,Defender,US Marseille Endoume,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Eric Guérit,27,Defensive Midfield,Cannes,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Valdeir,24,Second Striker,Botafogo,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Philippe Raschke,24,Right-Back,Cannes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Rainer Ernst,30,Midfielder,Cannes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Philippe Fargeon,28,Second Striker,FC Chiasso,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Patrice Lestage,30,Left-Back,Cannes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Jean-Pierre Bade,32,Left-Back,Saint-Pierroise,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Thierry Fernier,27,Attacking Midfield,US Valenciennes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Philippe Lalanne,26,Midfielder,ASOA Valence,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Jean-Michel Lavaud,23,Forward,Trélissac FC,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Jean-Marc Ferratge,33,Attacking Midfield,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Pascal Monbrun,24,Midfielder,G. Bordeaux B,-,out,Summer,0,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Pavlo Yakovenko,27,Defensive Midfield,Dynamo Kyiv,Free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Bertrand Piton,21,Defender,AS Red Star 93,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Benjamin Clément,26,Defensive Midfield,Monaco,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Patrice Garande,31,Centre-Forward,AC Le Havre,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Frédéric Darras,25,Right-Back,AJ Auxerre,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,André Blanc,25,Midfielder,SC Toulon Var,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Stéphane Cassard,19,Goalkeeper,FC Sochaux B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Jean-Marc Frotey,23,Forward,FC Sochaux B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Thierry Couppé,21,Midfielder,FC Sochaux U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Mickaël Madar,24,Centre-Forward,Cannes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Zlatko Vujovic,33,Centre-Forward,OGC Nice,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Christophe Gardié,27,Goalkeeper,Louh.-Cuiseaux,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Eric Dufournet,23,Centre-Back,Louh.-Cuiseaux,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Laurent Croci,27,Defensive Midfield,G. Bordeaux,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Philippe Lucas,28,Defensive Midfield,G. Bordeaux,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Chérif Oudjani,27,Centre-Forward,Beauvais,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Jean-Christophe Thomas,27,Defensive Midfield,Marseille,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Pierre-Yves Bricon,28,Defender,Montpellier,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Sochaux-Montbéliard,Lobo Carrasco,33,Right Winger,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+RC Lens,Guillaume Warmuz,22,Goalkeeper,Louh.-Cuiseaux,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Emmanuel Hutteau,23,Left-Back,Bourges,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Nasko Sirakov,30,Attacking Midfield,Levski Sofia,Loan,in,Summer,0,Ligue 1,1992,1992/1993
+RC Lens,Didier Dubois,25,Centre-Back,USL Dunkerque,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Jean-François Péron,26,Left Midfield,R. Strasbourg,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Franck Raviot,18,Goalkeeper,INF Clairefontaine,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Bernard Héréson,23,Right-Back,Paris SG,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,François Omam-Biyik,26,Centre-Forward,Marseille,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Ryszard Tarasiewicz,30,Central Midfield,AS Nancy,,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Bernard Lama,29,Goalkeeper,Paris SG,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Jules Bocandé,33,Centre-Forward,Eendracht Aalst,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,David François,22,Midfielder,La Roche Vendée,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Patrice Zeré,21,Left-Back,US Créteil,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Shalom Tikva,27,Attacking Midfield,Boom FC,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Christophe Baïocco,26,Goalkeeper,S. O. Châtellerault,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Pascal Peltier,30,Attacking Midfield,RC Arras,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Anicet Saussé,23,Defender,FC Martigues,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+RC Lens,Stéphane Gilet,28,Defender,Quimper,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Franck Toffard,22,Defender,Unknown,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Boban Bozovic,28,Midfielder,FC Istres,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Lens,Nasko Sirakov,31,Attacking Midfield,Levski Sofia,"End of loanJun 30, 1993",out,Summer,0,Ligue 1,1992,1992/1993
+Montpellier HSC,Aljosa Asanovic,26,Central Midfield,Cannes,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,Franck Rizzetto,21,Attacking Midfield,Olympique Alès,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,Olivier Pickeu,22,Centre-Forward,SM Caen,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,Joël Fréchet,26,Midfielder,SCO Angers,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,Pierre-Yves Bricon,28,Defender,FC Sochaux,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,Jérôme Bonnissel,19,Left-Back,HSC Montpellier B,-,in,Summer,0,Ligue 1,1992,1992/1993
+Montpellier HSC,Christophe Sanchez,19,Centre-Forward,HSC Montpellier B,-,in,Summer,0,Ligue 1,1992,1992/1993
+Montpellier HSC,Alain Bonnafous,23,Centre-Back,Olympique Alès,"End of loanJun 30, 1992",in,Summer,0,Ligue 1,1992,1992/1993
+Montpellier HSC,Vincent Guérin,26,Central Midfield,Paris SG,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,Régis Brouard,25,Attacking Midfield,Bourges,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,François Lemasson,28,Goalkeeper,Cannes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,Franck Lucchesi,28,Left-Back,Nîmes Olympique,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,Nikolay Todorov,27,Midfielder,Cannes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,Clément Garcia,24,Forward,SM Caen,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+Montpellier HSC,Alain Bonnafous,23,Centre-Back,Chamois Niort,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Montpellier HSC,Stéphane Blondeau,24,Right-Back,FC Martigues,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+Montpellier HSC,Laurent Vacher,19,Defender,HSC Montpellier B,-,out,Summer,0,Ligue 1,1992,1992/1993
+FC Nantes,Serge Le Dizet,28,Right-Back,Stade Rennais,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Nantes,Fabien Debotté,28,Defensive Midfield,SM Caen,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Nantes,José Dalmao,22,Forward,ES La Rochelle,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Nantes,Anthony Martins,21,Midfielder,FC Nantes B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Nantes,Claude Makélélé,19,Defensive Midfield,FC Nantes B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Nantes,Marcel Desailly,23,Centre-Back,Marseille,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Nantes,Johnny Mölby,23,Central Midfield,Bor. M'gladbach,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Nantes,Jorge Burruchaga,29,Attacking Midfield,US Valenciennes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Nantes,Jean-Jacques Eydelie,26,Defensive Midfield,Marseille,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Nantes,Thierry Bonalair,26,Left-Back,AJ Auxerre,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Nantes,Thierno Youm,32,Forward,Esperance,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Nantes,Joël Henry,30,Attacking Midfield,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+Olympique Lyon,James Debbah,22,Centre-Forward,Monaco,Free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+Olympique Lyon,Patrice Ferri,28,Centre-Back,SC Toulon Var,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Torben Frank,24,Centre-Forward,Lyngby BK,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Samassi Abou,19,Centre-Forward,FC Martigues,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Franck Gava,22,Left Midfield,AS Nancy,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Éric Péan,28,Sweeper,SC Toulon Var,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Laurent Delamontagne,26,Centre-Forward,Stade Rennais,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Maxence Flachez,19,Centre-Back,Olymp. Lyon B,-,in,Summer,0,Ligue 1,1992,1992/1993
+Olympique Lyon,Florian Maurice,18,Centre-Forward,Olymp. Lyon U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+Olympique Lyon,Alain Colacicco,19,Defender,Olymp. Lyon B,-,in,Summer,0,Ligue 1,1992,1992/1993
+Olympique Lyon,Thomas Pfannkuch,22,Centre-Back,E. Braunschweig,Free transfer,out,Summer,0,Ligue 1,1992,1992/1993
+Olympique Lyon,Pierre Chavrondier,20,Midfielder,FC Martigues,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+Olympique Lyon,Aziz Bouderbala,31,Attacking Midfield,Estoril,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Stéphane Roche,21,Central Midfield,FC Martigues,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Ali Bouafia,27,Left Winger,R. Strasbourg,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Milos Bursac,27,Centre-Forward,Celta de Vigo,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Laurent Lassagne,26,Defender,Amiens SC,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Jean-Marc Knapp,29,Centre-Back,Amiens SC,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Alain Baré,25,Forward,Unknown,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Lyon,Alim Ben Mabrouk,32,Defensive Midfield,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+LOSC Lille,Pascal Nouma,20,Centre-Forward,Paris SG,Loan,in,Summer,0,Ligue 1,1992,1992/1993
+LOSC Lille,Samba N'Diaye,19,Centre-Forward,FC Metz B,Loan,in,Summer,0,Ligue 1,1992,1992/1993
+LOSC Lille,José Bray,27,Midfielder,Cannes,?,in,Summer,NA,Ligue 1,1992,1992/1993
+LOSC Lille,Walquir Mota,24,Forward,FC Tours,?,in,Summer,NA,Ligue 1,1992,1992/1993
+LOSC Lille,Edgar Borges,22,Attacking Midfield,Nacional,?,in,Summer,NA,Ligue 1,1992,1992/1993
+LOSC Lille,Carl Tourenne,20,Defensive Midfield,LOSC Lille B,-,in,Summer,0,Ligue 1,1992,1992/1993
+LOSC Lille,Antoine Sibierski,17,Attacking Midfield,LOSC Lille U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+LOSC Lille,Joël Dolignon,19,Defender,LOSC Lille B,-,in,Summer,0,Ligue 1,1992,1992/1993
+LOSC Lille,Oumar Dieng,19,Centre-Back,Louh.-Cuiseaux,"End of loanJun 30, 1992",in,Summer,0,Ligue 1,1992,1992/1993
+LOSC Lille,Michael Mio-Nielsen,27,Right-Back,BK Frem,?,out,Summer,NA,Ligue 1,1992,1992/1993
+LOSC Lille,Racine Amadou Kané,32,Defender,Beauvais,?,out,Summer,NA,Ligue 1,1992,1992/1993
+LOSC Lille,Antoine Cervetti,30,Left-Back,AS Porto Vecchio,?,out,Summer,NA,Ligue 1,1992,1992/1993
+LOSC Lille,Victor Da Silva,30,Midfielder,La Roche Vendée,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Laurent Blanc,26,Sweeper,SSC Napoli,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Camille Derramond,18,Midfielder,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Christophe Buffat,22,Forward,OGC Nice B,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Franck Lucchesi,28,Left-Back,Montpellier,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Didier Monczuk,31,Centre-Forward,R. Strasbourg,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Didier Martel,20,Forward,AJ Auxerre B,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Ludovic Gros,19,Midfielder,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Antoine Préget,19,Defender,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Eric Allibert,16,Goalkeeper,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Nicolas Marx,18,Left Winger,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Gilles Leclerc,25,Centre-Back,Perpignan,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Philippe Mazzuchetti,25,Attacking Midfield,OGC Nice,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Dusan Tittel,25,Centre-Back,Slo. Bratislava,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Stéphan Lerda,21,Centre-Back,Ol. Avignon,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Stéphane Flory,21,Goalkeeper,Nîmes B,-,in,Summer,0,Ligue 1,1992,1992/1993
+Nîmes Olympique,Yannick Liron,18,Defender,Nîmes Ol. U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+Nîmes Olympique,Hassan Kachloul,19,Left Midfield,Nîmes B,-,in,Summer,0,Ligue 1,1992,1992/1993
+Nîmes Olympique,William Ayache,31,Left-Back,Cannes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Frédéric Arpinon,23,Attacking Midfield,OGC Nice,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+Nîmes Olympique,Fouzi Alidra,20,Midfielder,Olympique Alès,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Vincent Bracigliano,33,Midfielder,Luçon VF,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Aboubacar Cissé,22,Forward,OGC Nice,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Nîmes Olympique,Didier Combe,23,Left-Back,Olympique Alès,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+SM Caen,Gabriel Calderón,32,Attacking Midfield,FC Sion,?,in,Summer,NA,Ligue 1,1992,1992/1993
+SM Caen,Faouzi Rouissi,21,Centre-Forward,Club Africain,?,in,Summer,NA,Ligue 1,1992,1992/1993
+SM Caen,Stéphane Dedebant,21,Central Midfield,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+SM Caen,Christophe Duboscq,25,Midfielder,US Avranches,?,in,Summer,NA,Ligue 1,1992,1992/1993
+SM Caen,Clément Garcia,24,Forward,Montpellier,Loan,in,Summer,0,Ligue 1,1992,1992/1993
+SM Caen,Stéphane Lièvre,19,Left-Back,SM Caen U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+SM Caen,Wally Dieng,18,Defender,SM Caen B,-,in,Summer,0,Ligue 1,1992,1992/1993
+SM Caen,Didier Thimothée,22,Centre-Forward,AS Red Star 93,?,out,Summer,NA,Ligue 1,1992,1992/1993
+SM Caen,Olivier Pickeu,22,Centre-Forward,Montpellier,?,out,Summer,NA,Ligue 1,1992,1992/1993
+SM Caen,Franck Dumas,24,Centre-Back,Monaco,?,out,Summer,NA,Ligue 1,1992,1992/1993
+SM Caen,Michel Rio,29,Attacking Midfield,AC Le Havre,?,out,Summer,NA,Ligue 1,1992,1992/1993
+SM Caen,Fabien Debotté,28,Defensive Midfield,FC Nantes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+SM Caen,Rubens,20,Forward,Unknown,?,out,Summer,NA,Ligue 1,1992,1992/1993
+SM Caen,Jesper Olsen,31,Left Midfield,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+AC Le Havre,Didier Angibeaud,17,Forward,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AC Le Havre,Jean-Roch Testa,27,Forward,FC Gueugnon,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AC Le Havre,Gia Guruli,28,Centre-Forward,GKS Katowice,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AC Le Havre,Michel Rio,29,Attacking Midfield,SM Caen,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AC Le Havre,Christophe Revault,20,Goalkeeper,Le Havre B,-,in,Summer,0,Ligue 1,1992,1992/1993
+AC Le Havre,Vaclav Danek,31,Centre-Forward,FC Wacker,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AC Le Havre,Graham Rix,34,Left Midfield,Dundee FC,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AC Le Havre,Patrice Garande,31,Centre-Forward,FC Sochaux,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AC Le Havre,Hubert Castets,20,Centre-Back,Le Havre B,-,out,Summer,0,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Michael Hughes,20,Attacking Midfield,Man City,£450Th.,in,Summer,0.45,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Tomasz Frankowski,17,Centre-Forward,Jagiellonia,£180Th.,in,Summer,0.18,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Martin Djetou,17,Centre-Back,US Créteil B,Free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Franck Mary,28,Goalkeeper,Saint-Quentin,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Ali Bouafia,27,Left Winger,Olympique Lyon,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Pascal Baills,27,Right-Back,Marseille,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Frank Farina,27,Forward,Bari,?,in,Summer,NA,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Yannick Rott,17,Left-Back,R. Strasbourg B,-,in,Summer,0,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Olivier Dacourt,17,Defensive Midfield,Strasbourg U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Laurent Weber,19,Goalkeeper,Strasbourg U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Jean-François Péron,26,Left Midfield,Lens,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Didier Monczuk,31,Centre-Forward,Nîmes Olympique,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Cyriaque Didaux,32,Midfielder,SAS Epinal,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Serge Jenner,32,Centre-Back,FC Haguenau,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,José Guerra,27,Forward,La Roche Vendée,?,out,Summer,NA,Ligue 1,1992,1992/1993
+RC Strasbourg Alsace,Olivier Dall'Oglio,28,Right-Back,Perpignan,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Jürgen Klinsmann,27,Centre-Forward,Inter,£6.30m,in,Summer,6.3,Ligue 1,1992,1992/1993
+AS Monaco,Sylvain Legwinski,19,Left Midfield,Racing Club Vichy,Free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+AS Monaco,Christian Perez,29,Attacking Midfield,Paris SG,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Franck Dumas,24,Centre-Back,SM Caen,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Stjepan Andrijasevic,25,Right Midfield,Hajduk Split,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Luiz Henrique,23,Central Midfield,Palmeiras,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Denis Schaer,29,Midfielder,Annecy FC,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,George Weah,25,Centre-Forward,Paris SG,£5.85m,out,Summer,5.85,Ligue 1,1992,1992/1993
+AS Monaco,James Debbah,22,Centre-Forward,Olympique Lyon,Free transfer,out,Summer,0,Ligue 1,1992,1992/1993
+AS Monaco,John Sivebaek,30,Right-Back,Pescara,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Roger Mendy,32,Sweeper,Pescara,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Jimmy Algérino,20,Right-Back,SAS Epinal,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Gérald Passi,28,Attacking Midfield,Saint-Étienne,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Benjamin Clément,26,Defensive Midfield,FC Sochaux,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Christophe Robert,28,Left Winger,US Valenciennes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Monaco,Christophe Métais,24,Midfielder,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+AS Monaco,Cyril Granon,20,Midfielder,FC Lorient,"End of loanJul 1, 1992",out,Summer,0,Ligue 1,1992,1992/1993
+Olympique Marseille,Rudi Völler,32,Centre-Forward,AS Roma,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Fabien Barthez,21,Goalkeeper,Toulouse,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Marcel Desailly,23,Centre-Back,FC Nantes,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,François Omam-Biyik,26,Centre-Forward,Cannes,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Rafael Martin Vazquez,26,Attacking Midfield,Torino,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Jean-Christophe Thomas,27,Defensive Midfield,FC Sochaux,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Jean-Jacques Eydelie,26,Defensive Midfield,FC Nantes,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Jean-Marc Ferreri,29,Attacking Midfield,AJ Auxerre,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Alen Boksic,22,Centre-Forward,Cannes,"End of loanJun 30, 1992",in,Summer,0,Ligue 1,1992,1992/1993
+Olympique Marseille,Dragan Stojkovic,27,Attacking Midfield,Verona,"End of loanJun 30, 1992",in,Summer,0,Ligue 1,1992,1992/1993
+Olympique Marseille,Jean-Pierre Papin,28,Centre-Forward,Milan,£10.80m,out,Summer,10.8,Ligue 1,1992,1992/1993
+Olympique Marseille,Trevor Steven,28,Right Midfield,Rangers,£2.34m,out,Summer,2.34,Ligue 1,1992,1992/1993
+Olympique Marseille,Chris Waddle,31,Attacking Midfield,Sheff Wed,£1.35m,out,Summer,1.35,Ligue 1,1992,1992/1993
+Olympique Marseille,Marc Libbra,19,Centre-Forward,FC Istres,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+Olympique Marseille,Alain Casanova,30,Goalkeeper,Toulouse,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Alain Boghossian,21,Central Midfield,FC Istres,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+Olympique Marseille,Éric Lada,26,Forward,Toulouse,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Patrice Eyraud,24,Defensive Midfield,SC Toulon Var,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Pascal Baills,27,Right-Back,R. Strasbourg,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Daniel Xuereb,32,Centre-Forward,SC Toulon Var,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,Carlos Mozer,31,Centre-Back,Benfica,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,François Omam-Biyik,26,Centre-Forward,Lens,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AJ Auxerre,Moussa Saïb,23,Left Midfield,JS Kabylie,£34Th.,in,Summer,0.034,Ligue 1,1992,1992/1993
+AJ Auxerre,Frank Verlaat,24,Centre-Back,Lausanne-Sport,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AJ Auxerre,Lilian Laslandes,20,Centre-Forward,AS Saint-Seurin,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AJ Auxerre,Thierry Bonalair,26,Left-Back,FC Nantes,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AJ Auxerre,Bernard Diomède,18,Left Winger,AJ Auxerre U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+AJ Auxerre,Jacques-Désiré Périatambée,16,Defensive Midfield,AJ Auxerre U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+AJ Auxerre,Franck Rabarivony,21,Left-Back,AJ Auxerre B,-,in,Summer,0,Ligue 1,1992,1992/1993
+AJ Auxerre,Fabien Cool,19,Goalkeeper,AJ Auxerre B,-,in,Summer,0,Ligue 1,1992,1992/1993
+AJ Auxerre,Laurent Ciechelski,21,Right-Back,AJ Auxerre U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+AJ Auxerre,Kevin Sharp,18,Left-Back,Leeds,£81Th.,out,Summer,0.081,Ligue 1,1992,1992/1993
+AJ Auxerre,Franco Vignola,25,Forward,Guingamp,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+AJ Auxerre,Frédéric Darras,25,Right-Back,FC Sochaux,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AJ Auxerre,Zbigniew Kaczmarek,30,Defensive Midfield,Guingamp,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AJ Auxerre,Jean-Marc Ferreri,29,Attacking Midfield,Marseille,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AJ Auxerre,Alain Roche,24,Centre-Back,Paris SG,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Robert Pirès,18,Left Midfield,Stade Reims B,Free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Anthony Baffoe,27,Attacking Midfield,F. Düsseldorf,Free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,David Zitelli,23,Centre-Forward,AS Nancy,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Mohamed Chaouch,25,Centre-Forward,FC Istres,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Olivier Ichoua,21,Midfielder,La Roche Vendée,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Franck Meyrignac,21,Defender,US Orléans 45,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Éric Bertrand,28,Defender,AS Nancy,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Frédéric Hantz,26,Midfielder,FC Istres,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,François Darcy,24,Goalkeeper,Besançon RC,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Jean-Phillippe Séchet,24,Central Midfield,AS Nancy,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Thomas Kokkinis,20,Goalkeeper,AS Red Star 93,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,David Terrier,18,Centre-Back,FC Metz B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Didier Lang,21,Defensive Midfield,FC Metz B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Christophe Boulard,19,Midfielder,FC Metz B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Christophe Paul,20,Defender,FC Metz B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Dario Saint-Hilaire,20,Defender,FC Metz B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Emmanuel Clément,20,Defensive Midfield,Amiens SC,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Kwame Ayew,18,Centre-Forward,Al-Ahli SC,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Yannick Stopyra,31,Centre-Forward,Mulhouse S-A,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Philippe Gaillot,27,Left-Back,US Valenciennes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Serge Romano,28,Midfielder,Toulouse,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Thierry Pauk,26,Defender,Famalicão,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Francois Calderaro,28,Centre-Forward,Paris SG,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,François Darcy,25,Goalkeeper,AS Poissy,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Metz,Dragoljub Brnovic,28,Midfielder,Without Club,-,out,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Philippe Schuth,25,Goalkeeper,Without Club,-,out,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Michel Ettorre,34,Goalkeeper,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Didier Casini,29,Right-Back,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+FC Metz,Philippe Hinschberger,32,Attacking Midfield,Career break,-,out,Summer,0,Ligue 1,1992,1992/1993
+FC Toulouse,Dominique Arribagé,21,Centre-Back,AS Muret,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Vaclav Nemecek,25,Central Midfield,Sparta Praha,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Rémy Loret,19,Midfielder,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Serge Romano,28,Midfielder,FC Metz,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Éric Lada,26,Forward,Marseille,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Alain Casanova,30,Goalkeeper,Marseille,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Philippe Lafon,21,Goalkeeper,RC Paris,?,in,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Vincent Candela,18,Left-Back,Toulouse B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Toulouse,Olivier Frapolli,20,Defender,Toulouse B,-,in,Summer,0,Ligue 1,1992,1992/1993
+FC Toulouse,Olivier Pédémas,23,Goalkeeper,Rodez AF,"End of loanJun 30, 1992",in,Summer,0,Ligue 1,1992,1992/1993
+FC Toulouse,Fabien Barthez,21,Goalkeeper,Marseille,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Viliam Hyravy,29,Attacking Midfield,Banik Ostrava,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Leonardo Rodríguez,25,Attacking Midfield,Atalanta,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Robin Huc,27,Goalkeeper,Saint-Étienne,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Pascal Despeyroux,27,Defensive Midfield,Saint-Étienne,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Alberto Márcico,32,Second Striker,Boca Juniors,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Frederic Pons,30,Defender,ASOA Valence,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Toulouse,Jean-Luc Ruty,32,Centre-Back,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+FC Toulouse,Norbert Almendoz,22,Forward,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+FC Toulouse,Franck Tiriakian,21,Forward,Toulouse B,-,out,Summer,0,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Éric Roy,24,Defensive Midfield,OGC Nice,Free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Daniel Xuereb,32,Centre-Forward,Marseille,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Patrice Eyraud,24,Defensive Midfield,Marseille,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Frédéric Martin,23,Right-Back,OGC Nice,Loan,in,Summer,0,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Cédric Charlet,19,Defender,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Pascal Danieri,16,Defender,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Frédéric Brando,18,Central Midfield,SC Toulon U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Jacques Songo'o,28,Goalkeeper,Le Mans UC 72,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Éric Péan,28,Sweeper,Olympique Lyon,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Patrice Ferri,28,Centre-Back,Olympique Lyon,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,André Blanc,25,Midfielder,FC Sochaux,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Dumè Murati,32,Goalkeeper,CA Bastia,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Bernard Rodriguez,28,Midfielder,Unknown,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Jean-Paul Péronin,21,Defender,FC Martigues,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Francois Zahoui,30,Attacking Midfield,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+Paris Saint-Germain,George Weah,25,Centre-Forward,Monaco,£5.85m,in,Summer,5.85,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Bernard Lama,29,Goalkeeper,Lens,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Vincent Guérin,26,Central Midfield,Montpellier,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,David Ginola,25,Left Winger,Stade Brest 29,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Jean-Luc Sassus,29,Right-Back,Cannes,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Francois Calderaro,28,Centre-Forward,FC Metz,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Joël Cloarec,26,Forward,LB Châteauroux,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Alain Roche,24,Centre-Back,AJ Auxerre,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Djamel Belmadi,16,Right Midfield,Paris SG U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Patrick M'Boma,21,Centre-Forward,LB Châteauroux,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Pascal Nouma,20,Centre-Forward,LOSC Lille,Loan,out,Summer,0,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Christian Perez,29,Attacking Midfield,Monaco,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Liazid Sandjak,25,Second Striker,OGC Nice,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Jean-Luc Vasseur,23,Right-Back,Stade Rennais,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Bernard Héréson,23,Right-Back,Lens,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Joël Bats,35,Goalkeeper,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Oumar Sène,32,Attacking Midfield,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+Paris Saint-Germain,Dominique Leclercq,34,Goalkeeper,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Miklos Molnar,22,Centre-Forward,Standard Liège,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Gérald Passi,28,Attacking Midfield,Monaco,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Stéphane Santini,19,Right Midfield,Unknown,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Robin Huc,27,Goalkeeper,Toulouse,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Pascal Despeyroux,27,Defensive Midfield,Toulouse,?,in,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Pierre Haon,25,Defensive Midfield,Perpignan,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Fabrice Mège,27,Attacking Midfield,OGC Nice,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Gilles Giuliano,21,Centre-Back,Unknown,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Dominique Corroyer,27,Centre-Forward,US Valenciennes,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Gilbert Ceccarelli,29,Goalkeeper,Olympique Alès,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Franck Solacroup,21,Midfielder,Toulouse Font.,?,out,Summer,NA,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Thierry Courault,27,Midfielder,Retired,-,out,Summer,0,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Laurent Dufresne,20,Centre-Forward,RUFC Calais,Free transfer,in,Summer,0,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Jorge Burruchaga,29,Attacking Midfield,FC Nantes,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Arnold Oosterveer,29,Centre-Back,Stade Rennais,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Kálmán Kovács,26,Centre-Forward,Honvéd FC,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Philippe Gaillot,27,Left-Back,FC Metz,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Yves Bouger,22,Left-Back,FC Lorient,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Christophe Robert,28,Left Winger,Monaco,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Thierry Fernier,27,Attacking Midfield,G. Bordeaux,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Dominique Corroyer,27,Centre-Forward,Saint-Étienne,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Sylvain Matrisciano,28,Goalkeeper,AS Nancy,?,in,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Thierry Cygan,17,Centre-Back,Valencienne U19,-,in,Summer,0,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Jean-Jacques Allais,23,Forward,USL Dunkerque,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Gérard Buscher,32,Centre-Forward,OGC Nice,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Alain Garraud,30,Defender,FC Istres,?,out,Summer,NA,Ligue 1,1992,1992/1993
+Union Sportive Valenciennes-Anzin Arrondissement,Eugéne Ekéké,32,Forward,Maubeuge,?,out,Summer,NA,Ligue 1,1992,1992/1993
+FC Girondins Bordeaux,Arnór Gudjohnsen,31,Centre-Forward,Häcken,?,out,Winter,NA,Ligue 1,1992,1992/1993
+RC Lens,François Omam-Biyik,26,Centre-Forward,Marseille,?,in,Winter,NA,Ligue 1,1992,1992/1993
+RC Lens,Francis Gillot,32,Centre-Back,Mulhouse S-A,?,out,Winter,NA,Ligue 1,1992,1992/1993
+AC Le Havre,Jean-Roch Testa,28,Forward,FC Martigues,Loan,out,Winter,0,Ligue 1,1992,1992/1993
+Olympique Marseille,Igor Dobrovolski,25,Attacking Midfield,Genoa,?,in,Winter,NA,Ligue 1,1992,1992/1993
+Olympique Marseille,François Omam-Biyik,26,Centre-Forward,Lens,?,out,Winter,NA,Ligue 1,1992,1992/1993
+AJ Auxerre,Kevin Sharp,18,Left-Back,Leeds,£81Th.,out,Winter,0.081,Ligue 1,1992,1992/1993
+FC Metz,Claude Massa,30,Defensive Midfield,Guingamp,?,out,Winter,NA,Ligue 1,1992,1992/1993
+FC Metz,Thomas Kokkinis,21,Goalkeeper,Rouen,Loan,out,Winter,0,Ligue 1,1992,1992/1993
+FC Toulouse,Olivier Pédémas,24,Goalkeeper,Le Mans UC 72,?,out,Winter,NA,Ligue 1,1992,1992/1993
+Sporting Club de Toulon et du Var,Jean-Louis Bérenguier,35,Right-Back,Retired,-,out,Winter,0,Ligue 1,1992,1992/1993
+AS Saint-Étienne,Milan Luhovy,30,Centre-Forward,Sporting Gijón,?,in,Winter,NA,Ligue 1,1992,1992/1993

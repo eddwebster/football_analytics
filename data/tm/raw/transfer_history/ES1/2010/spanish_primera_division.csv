@@ -1,0 +1,545 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Atlético Madrid,Filipe Luís,24,Left-Back,Dep. La Coruña,£10.80m,in,Summer,10.8,Primera Division,2010,2010/2011
+Atlético Madrid,Diego Godín,24,Centre-Back,Villarreal,£7.20m,in,Summer,7.2,Primera Division,2010,2010/2011
+Atlético Madrid,Mario Suárez,23,Defensive Midfield,RCD Mallorca,£1.62m,in,Summer,1.62,Primera Division,2010,2010/2011
+Atlético Madrid,Diego Costa,21,Centre-Forward,Real Valladolid,£900Th.,in,Summer,0.9,Primera Division,2010,2010/2011
+Atlético Madrid,Fran Mérida,20,Central Midfield,Arsenal,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Atlético Madrid,Rubén Pérez,21,Defensive Midfield,Atl. Madrid B,-,in,Summer,0,Primera Division,2010,2010/2011
+Atlético Madrid,Roberto,24,Goalkeeper,Real Zaragoza,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Atlético Madrid,José Manuel Jurado,24,Attacking Midfield,FC Schalke 04,£9.90m,out,Summer,9.9,Primera Division,2010,2010/2011
+Atlético Madrid,Roberto,24,Goalkeeper,Benfica,£7.65m,out,Summer,7.65,Primera Division,2010,2010/2011
+Atlético Madrid,Eduardo Salvio,20,Right Winger,Benfica,Loan fee:£1.80m,out,Summer,1.8,Primera Division,2010,2010/2011
+Atlético Madrid,Pablo Ibáñez,28,Centre-Back,West Brom,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Atlético Madrid,Mariano Pernía,33,Left-Back,Nacional,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Atlético Madrid,Rubén Pérez,21,Defensive Midfield,Dep. La Coruña,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Atlético Madrid,Leandro Cabrera,19,Centre-Back,Recr. Huelva,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Atlético Madrid,Ibrahima Balde,21,Centre-Forward,CD Numancia,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Yves Desmarets,30,Left Winger,Vit. Guimarães,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Saúl,25,Attacking Midfield,Elche CF,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Felipe Ramos,22,Goalkeeper,RM Castilla,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Claudio Morel,32,Left-Back,Boca Juniors,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Míchel,21,Central Midfield,Valencia,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Jonathan Urretaviscaya,20,Right Winger,Benfica,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Rubén Pérez,21,Defensive Midfield,Atlético Madrid,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Knut Olav Rindaröy,25,Left-Back,Molde,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Diego Seoane,22,Right-Back,Deportivo B,-,in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Rodolfo Bodipo,32,Centre-Forward,FC Vaslui,"End of loanAug 1, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Rubén Castro,29,Centre-Forward,Rayo Vallecano,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Álex Bergantiños,25,Defensive Midfield,Xerez CD,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Omar Bravo,30,Centre-Forward,Chivas,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Aythami Artiles,24,Centre-Back,Xerez CD,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Filipe Luís,24,Left-Back,Atlético Madrid,£10.80m,out,Summer,10.8,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Rubén Castro,29,Centre-Forward,Real Betis,£1.53m,out,Summer,1.53,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Brayan Angulo,20,Left-Back,Rayo Vallecano,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Sergio,33,Central Midfield,Levante,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Rodolfo Bodipo,32,Centre-Forward,FC Vaslui,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Álex Bergantiños,25,Defensive Midfield,Granada CF,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Omar Bravo,30,Centre-Forward,Kansas,?,out,Summer,NA,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Iván Pérez,24,Attacking Midfield,Ponferradina,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Rodolfo Bodipo,32,Centre-Forward,Elche CF,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Roberto Soldado,25,Centre-Forward,Getafe,£9.00m,in,Summer,9,Primera Division,2010,2010/2011
+Valencia CF,Tino Costa,25,Central Midfield,Montpellier,£5.85m,in,Summer,5.85,Primera Division,2010,2010/2011
+Valencia CF,Mehmet Topal,24,Defensive Midfield,Galatasaray,£4.95m,in,Summer,4.95,Primera Division,2010,2010/2011
+Valencia CF,Aritz Aduriz,29,Centre-Forward,RCD Mallorca,£3.87m,in,Summer,3.87,Primera Division,2010,2010/2011
+Valencia CF,Marius Stankevicius,29,Centre-Back,Sampdoria,Loan fee:£270Th.,in,Summer,0.27,Primera Division,2010,2010/2011
+Valencia CF,Ricardo Costa,29,Centre-Back,LOSC Lille,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Sofiane Feghouli,20,Right Winger,Grenoble,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Vicente Guaita,23,Goalkeeper,Recr. Huelva,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Sunny,21,Defensive Midfield,Real Betis,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Renan,25,Goalkeeper,Xerez CD,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Hugo Viana,27,Central Midfield,Braga,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Aarón Ñíguez,21,Right Winger,Celta de Vigo,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Ignacio González,28,Attacking Midfield,APO Levadiakos,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Asier del Horno,29,Left-Back,Real Valladolid,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,David Villa,28,Centre-Forward,FC Barcelona,£36.00m,out,Summer,36,Primera Division,2010,2010/2011
+Valencia CF,David Silva,24,Attacking Midfield,Man City,£25.88m,out,Summer,25.88,Primera Division,2010,2010/2011
+Valencia CF,Nikola Zigic,29,Centre-Forward,Birmingham,£6.30m,out,Summer,6.3,Primera Division,2010,2010/2011
+Valencia CF,Alexis Ruano,25,Centre-Back,Sevilla FC,£4.50m,out,Summer,4.5,Primera Division,2010,2010/2011
+Valencia CF,Carlos Marchena,31,Centre-Back,Villarreal,£2.25m,out,Summer,2.25,Primera Division,2010,2010/2011
+Valencia CF,Renan,25,Goalkeeper,Internacional,Loan fee:£270Th.,out,Summer,0.27,Primera Division,2010,2010/2011
+Valencia CF,Arturo Navarro,20,Centre-Back,Ontinyent CF,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Aarón Ñíguez,21,Right Winger,Recr. Huelva,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Asier del Horno,29,Left-Back,Levante,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Ignacio González,28,Attacking Midfield,Levante,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Hugo Viana,27,Central Midfield,Braga,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Míchel,21,Central Midfield,Dep. La Coruña,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Valencia CF,Rubén Baraja,34,Central Midfield,Retired,-,out,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Carlos Marchena,31,Centre-Back,Valencia,£2.25m,in,Summer,2.25,Primera Division,2010,2010/2011
+Villarreal CF,Nicki Bille Nielsen,22,Centre-Forward,Nordsjaelland,£1.58m,in,Summer,1.58,Primera Division,2010,2010/2011
+Villarreal CF,Borja Valero,25,Central Midfield,West Brom,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,José Manuel Catalá,25,Centre-Back,Villarreal CF B,-,in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Mateo Musacchio,19,Centre-Back,Villarreal CF B,-,in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Jefferson Montero,20,Left Winger,Villarreal CF B,-,in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Marco Ruben,23,Centre-Forward,Villarreal CF B,-,in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Joan Oriol,23,Left-Back,Villarreal CF B,-,in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Javier Matilla,21,Central Midfield,Villarreal CF B,-,in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Cristóbal Márquez,26,Attacking Midfield,Villarreal CF B,-,in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Juan Carlos,22,Goalkeeper,Villarreal CF B,-,in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Leonardo Sigali,23,Centre-Back,Godoy Cruz,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Jozy Altidore,20,Centre-Forward,Hull City,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Sebastián Eguren,29,Defensive Midfield,AIK,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Diego Godín,24,Centre-Back,Atlético Madrid,£7.20m,out,Summer,7.2,Primera Division,2010,2010/2011
+Villarreal CF,Joseba Llorente,30,Centre-Forward,Real Sociedad,£2.25m,out,Summer,2.25,Primera Division,2010,2010/2011
+Villarreal CF,Damián Escudero,23,Attacking Midfield,Boca Juniors,£2.25m,out,Summer,2.25,Primera Division,2010,2010/2011
+Villarreal CF,David Fuster,28,Attacking Midfield,Olympiacos,£1.35m,out,Summer,1.35,Primera Division,2010,2010/2011
+Villarreal CF,Leonardo Sigali,23,Centre-Back,Godoy Cruz,£738Th.,out,Summer,0.738,Primera Division,2010,2010/2011
+Villarreal CF,Cristóbal Márquez,26,Attacking Midfield,Elche CF,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Ariel Ibagaza,33,Attacking Midfield,Olympiacos,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Sebastián Eguren,29,Defensive Midfield,Sporting Gijón,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Javi Venta,34,Right-Back,Levante,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Iván Marcano,23,Centre-Back,Getafe,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Villarreal CF,Robert Pirès,36,Left Midfield,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Sebastián Fernández,25,Second Striker,CA Banfield,£3.24m,in,Summer,3.24,Primera Division,2010,2010/2011
+Málaga CF,Salomón Rondón,20,Centre-Forward,UD Las Palmas,£3.15m,in,Summer,3.15,Primera Division,2010,2010/2011
+Málaga CF,Sandro Silva,26,Defensive Midfield,Desp. Brasil,£1.98m,in,Summer,1.98,Primera Division,2010,2010/2011
+Málaga CF,Kris Stadsgaard,25,Centre-Back,Rosenborg BK,£1.80m,in,Summer,1.8,Primera Division,2010,2010/2011
+Málaga CF,Eliseu,26,Left-Back,Lazio,£1.80m,in,Summer,1.8,Primera Division,2010,2010/2011
+Málaga CF,Galatto,27,Goalkeeper,Atlético-PR,£1.44m,in,Summer,1.44,Primera Division,2010,2010/2011
+Málaga CF,Rubén Martínez,26,Goalkeeper,FC Cartagena,£1.17m,in,Summer,1.17,Primera Division,2010,2010/2011
+Málaga CF,Javier Malagueño,27,Centre-Back,Indios,£851Th.,in,Summer,0.851,Primera Division,2010,2010/2011
+Málaga CF,Quincy Owusu-Abeyie,24,Left Winger,Al-Sadd SC,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Francisco Portillo,20,Right Winger,A. Malagueño,-,in,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,David González,20,Central Midfield,A. Malagueño,-,in,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Miguel Ángel,31,Defensive Midfield,Gimnàstic,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Pere Martí,28,Defensive Midfield,Real Murcia,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Edinho,27,Centre-Forward,PAOK Salonika,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Galatto,28,Goalkeeper,Xamax,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,David González,20,Central Midfield,Cádiz CF,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Jordi Pablo,20,Right Midfield,FC Cartagena,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Gustavo Munúa,32,Goalkeeper,Levante,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Pere Martí,28,Defensive Midfield,CD Castellón,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Miguel Ángel,31,Defensive Midfield,Ponferradina,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Javi López,22,Right Winger,Ponferradina,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Xavi Torres,23,Central Midfield,Levante,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Daniel Orozco,23,Centre-Back,Asteras Tripoli,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Dani Toribio,21,Defensive Midfield,Ponferradina,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Selim Benachour,29,Attacking Midfield,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Valdo,29,Right Winger,Espanyol,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Fernando Forestieri,20,Second Striker,Genoa,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Milan Stepanov,27,Centre-Back,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Victor Obinna,23,Second Striker,Inter,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Roberto Santamaría,25,Goalkeeper,UD Las Palmas,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Málaga CF,Felipe Caicedo,21,Centre-Forward,Man City,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Gastón Sangoy,25,Right Winger,Apol. Limassol,£720Th.,in,Summer,0.72,Primera Division,2010,2010/2011
+Sporting Gijón,Ayoze,24,Left-Back,CD Tenerife,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Nacho Novo,31,Right Winger,Rangers,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Alberto Botía,21,Centre-Back,FC Barcelona B,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Sebastián Eguren,29,Defensive Midfield,Villarreal,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Cristian Portilla,21,Central Midfield,Sporting B,-,in,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Kike Mateo,30,Attacking Midfield,Elche CF,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Gerard Autet,31,Centre-Back,Xerez CD,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Francisco Maldonado,29,Attacking Midfield,FC Cartagena,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Pedro,26,Central Midfield,Albacete,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Diego Camacho,33,Defensive Midfield,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Alberto Botía,21,Centre-Back,FC Barcelona B,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Sporting Gijón,Milan Smiljanic,23,Defensive Midfield,Espanyol,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Marcelo Silva,21,Centre-Back,Danubio FC,£1.17m,in,Summer,1.17,Primera Division,2010,2010/2011
+UD Almería,Michael Jakobsen,24,Centre-Back,Aalborg BK,£900Th.,in,Summer,0.9,Primera Division,2010,2010/2011
+UD Almería,Leonardo Ulloa,23,Centre-Forward,CD Castellón,£810Th.,in,Summer,0.81,Primera Division,2010,2010/2011
+UD Almería,Miguel Ángel Luque,19,Central Midfield,FC Barcelona B,?,in,Summer,NA,Primera Division,2010,2010/2011
+UD Almería,Diego Váleri,24,Attacking Midfield,Lanús,Loan,in,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Baltasar Rigo,25,Centre-Back,UD Almería B,-,in,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Carlos García,26,Centre-Back,Real Betis,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Natalio,25,Right Winger,Real Murcia,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Chico,23,Centre-Back,Genoa,£4.50m,out,Summer,4.5,Primera Division,2010,2010/2011
+UD Almería,Álex Quillo,23,Central Midfield,Recr. Huelva,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Natalio,25,Right Winger,CD Tenerife,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Esteban Solari,30,Centre-Forward,APOEL Nicosia,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Fernando Soriano,30,Attacking Midfield,CA Osasuna,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Domingo Cisma,28,Left-Back,Racing,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Guilherme Santos,22,Left-Back,Real Valladolid,Loan,out,Summer,0,Primera Division,2010,2010/2011
+UD Almería,David Rodríguez,24,Centre-Forward,Celta de Vigo,?,out,Summer,NA,Primera Division,2010,2010/2011
+UD Almería,Leonardo Borzani,28,Defensive Midfield,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+UD Almería,Miguel Ángel Luque,19,Central Midfield,UD Almería B,-,out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Juanfran,33,Left-Back,AEK Athens,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Sergio,33,Central Midfield,Dep. La Coruña,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Xavi Torres,23,Central Midfield,Málaga CF,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Cristhian Stuani,23,Centre-Forward,Reggina,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Valdo,29,Right Winger,Espanyol,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Javi Venta,34,Right-Back,Villarreal,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Gustavo Munúa,32,Goalkeeper,Málaga CF,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Nano,30,Centre-Back,Real Betis,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Asier del Horno,29,Left-Back,Valencia,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Ignacio González,28,Attacking Midfield,Valencia,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Felipe Caicedo,21,Centre-Forward,Man City,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Ángel Sánchez,28,Left-Back,Alcorcón,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Jorge Pina,27,Attacking Midfield,Albacete,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Manu Herrera,28,Goalkeeper,Alcorcón,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Samuel Baños,30,Central Midfield,Alcorcón,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Albert Serra,31,Centre-Back,Girona,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Dani Carril,29,Left-Back,UD Las Palmas,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Álvaro del Moral,26,Centre-Forward,UD Logroñés,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Marc Mateu,20,Attacking Midfield,Real Unión,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Juan Luis Mora,37,Goalkeeper,Retired,-,out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Pau Cendrós,23,Right-Back,RCD Mallorca B,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Javi Guerra,28,Centre-Forward,RCD Mallorca,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Levante UD,Juanfran,33,Left-Back,AEK Athens,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,Adrián Colunga,25,Centre-Forward,Recr. Huelva,£2.25m,in,Summer,2.25,Primera Division,2010,2010/2011
+Getafe CF,Pablo Pintos,23,Right-Back,San Lorenzo,£1.26m,in,Summer,1.26,Primera Division,2010,2010/2011
+Getafe CF,Borja Fernández,29,Defensive Midfield,Real Valladolid,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,Javier Arizmendi,26,Centre-Forward,Real Zaragoza,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,Iván Marcano,23,Centre-Back,Villarreal,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,Pedro Mosquera,22,Central Midfield,RM Castilla,?,in,Summer,NA,Primera Division,2010,2010/2011
+Getafe CF,Víctor Sánchez,22,Central Midfield,FC Barcelona,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,Joffre Guerrón,25,Centre-Forward,Cruzeiro,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,Franck Signorino,28,Left-Back,FC Cartagena,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,Roberto Soldado,25,Centre-Forward,Valencia,£9.00m,out,Summer,9,Primera Division,2010,2010/2011
+Getafe CF,Pedro León,23,Right Winger,Real Madrid,£9.00m,out,Summer,9,Primera Division,2010,2010/2011
+Getafe CF,Joffre Guerrón,25,Centre-Forward,Atlético-PR,£900Th.,out,Summer,0.9,Primera Division,2010,2010/2011
+Getafe CF,Fabio Celestini,34,Defensive Midfield,Lausanne-Sport,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,David Belenguer,37,Centre-Back,Real Betis,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,David Cortés,30,Right-Back,Hércules CF,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,Kepa Blanco,26,Centre-Forward,Recr. Huelva,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,Adrián González,22,Attacking Midfield,Racing,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Getafe CF,Franck Signorino,28,Left-Back,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Daniel Osvaldo,24,Centre-Forward,Bologna,£4.14m,in,Summer,4.14,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Felipe Mattioni,21,Right-Back,Maga,£1.80m,in,Summer,1.8,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Sergio García,27,Centre-Forward,Real Betis,£1.62m,in,Summer,1.62,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Jesús Dátolo,26,Attacking Midfield,SSC Napoli,Loan fee:£315Th.,in,Summer,0.315,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Aldo Duscher,31,Defensive Midfield,Sevilla FC,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Manu Molina,18,Attacking Midfield,RCD Espanyol B,-,in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Álvaro Vázquez,19,Centre-Forward,RCD Espanyol B,-,in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Ernesto Galán,24,Right-Back,RCD Espanyol B,-,in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Kiko Casilla,23,Goalkeeper,Cádiz CF,"End of loanJun 1, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Wellington Baroni,21,Left-Back,Panionios,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Valdo,29,Right Winger,Málaga CF,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Grégory Béranger,28,Left-Back,UD Las Palmas,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Ángel Martínez,24,Central Midfield,Rayo Vallecano,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Román Martínez,27,Central Midfield,CD Tenerife,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Milan Smiljanic,23,Defensive Midfield,Sporting Gijón,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Nicolás Pareja,26,Centre-Back,Spartak Moscow,£9.00m,out,Summer,9,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Moisés Hurtado,29,Defensive Midfield,Olympiacos,£1.62m,out,Summer,1.62,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Fernando Marqués,25,Right Winger,Parma,Loan fee:£180Th.,out,Summer,0.18,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Raúl Tamudo,32,Centre-Forward,Real Sociedad,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Milan Smiljanic,23,Defensive Midfield,Partizan,Loan,out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Valdo,29,Right Winger,Levante,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Grégory Béranger,28,Left-Back,CD Tenerife,?,out,Summer,NA,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Ben Sahar,20,Centre-Forward,Hapoel Tel Aviv,Loan,out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Román Martínez,27,Central Midfield,Tigre,Loan,out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Ángel Martínez,24,Central Midfield,Girona,Loan,out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Kiko Casilla,23,Goalkeeper,FC Cartagena,Loan,out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Javi Ruiz,30,Goalkeeper,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Jônatas,28,Central Midfield,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Iván Pillud,24,Right-Back,Tiro Federal,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Facundo Roncaglia,23,Centre-Back,Boca Juniors,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Daniel Osvaldo,24,Centre-Forward,Bologna,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Joseba Llorente,30,Centre-Forward,Villarreal,£2.25m,in,Summer,2.25,Primera Division,2010,2010/2011
+Real Sociedad,Diego Ifrán,23,Centre-Forward,Danubio FC,£1.35m,in,Summer,1.35,Primera Division,2010,2010/2011
+Real Sociedad,Jeffrey Sarpong,21,Left Winger,Ajax,£180Th.,in,Summer,0.18,Primera Division,2010,2010/2011
+Real Sociedad,Paco Sutil,25,Attacking Midfield,SD Eibar,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Raúl Tamudo,32,Centre-Forward,Espanyol,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Iosu Esnaola,24,Centre-Back,Real Unión,?,in,Summer,NA,Primera Division,2010,2010/2011
+Real Sociedad,Iosu Esnaola,24,Centre-Back,UD Lanzarote,?,in,Summer,NA,Primera Division,2010,2010/2011
+Real Sociedad,Toño,23,Goalkeeper,Real Sociedad B,-,in,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Asier Illarramendi,20,Defensive Midfield,Real Sociedad B,-,in,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Asier Riesgo,26,Goalkeeper,CA Osasuna,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Iosu Esnaola,24,Centre-Back,UD Lanzarote,?,out,Summer,NA,Primera Division,2010,2010/2011
+Real Sociedad,Iñigo Sarasola,23,Left-Back,Real Unión,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Iosu Esnaola,23,Centre-Back,Real Unión,?,out,Summer,NA,Primera Division,2010,2010/2011
+Real Sociedad,Sergio Rodríguez,31,Central Midfield,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Johnatan Estrada,27,Attacking Midfield,Millonarios,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Emilio Nsue,20,Right-Back,RCD Mallorca,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Franck Songo'o,23,Right Winger,Real Zaragoza,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Sociedad,Carlos Bueno,30,Centre-Forward,Peñarol,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+FC Barcelona,David Villa,28,Centre-Forward,Valencia,£36.00m,in,Summer,36,Primera Division,2010,2010/2011
+FC Barcelona,Javier Mascherano,26,Defensive Midfield,Liverpool,£18.00m,in,Summer,18,Primera Division,2010,2010/2011
+FC Barcelona,Adriano,25,Left-Back,Sevilla FC,£8.55m,in,Summer,8.55,Primera Division,2010,2010/2011
+FC Barcelona,Aleksandr Hleb,29,Attacking Midfield,VfB Stuttgart,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+FC Barcelona,Martín Cáceres,23,Centre-Back,Juventus,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+FC Barcelona,Keirrison,21,Centre-Forward,Fiorentina,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+FC Barcelona,Víctor Sánchez,22,Central Midfield,Xerez CD,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+FC Barcelona,Yaya Touré,27,Central Midfield,Man City,£27.00m,out,Summer,27,Primera Division,2010,2010/2011
+FC Barcelona,Dmytro Chygrynskyi,23,Centre-Back,Shakhtar D.,£13.50m,out,Summer,13.5,Primera Division,2010,2010/2011
+FC Barcelona,Zlatan Ibrahimovic,28,Centre-Forward,AC Milan,Loan fee:£5.40m,out,Summer,5.4,Primera Division,2010,2010/2011
+FC Barcelona,Aleksandr Hleb,29,Attacking Midfield,Birmingham,Loan fee:£1.08m,out,Summer,1.08,Primera Division,2010,2010/2011
+FC Barcelona,Martín Cáceres,23,Centre-Back,Sevilla FC,Loan fee:£450Th.,out,Summer,0.45,Primera Division,2010,2010/2011
+FC Barcelona,Keirrison,21,Centre-Forward,Santos FC,Loan,out,Summer,0,Primera Division,2010,2010/2011
+FC Barcelona,Thierry Henry,32,Centre-Forward,NY Red Bulls,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+FC Barcelona,Rafael Márquez,31,Centre-Back,NY Red Bulls,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+FC Barcelona,Víctor Sánchez,22,Central Midfield,Getafe,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Matteo Contini,30,Centre-Back,SSC Napoli,£2.07m,in,Summer,2.07,Primera Division,2010,2010/2011
+Real Zaragoza,Ádám Pintér,22,Centre-Back,MTK Budapest,£1.08m,in,Summer,1.08,Primera Division,2010,2010/2011
+Real Zaragoza,Florent Sinama-Pongolle,25,Second Striker,Sporting CP,Loan fee:£450Th.,in,Summer,0.45,Primera Division,2010,2010/2011
+Real Zaragoza,Toni Doblas,29,Goalkeeper,SD Huesca,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Maurizio Lanzaro,28,Centre-Back,Reggina,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Leo Franco,33,Goalkeeper,Galatasaray,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Marco Pérez,19,Centre-Forward,Boyacá Chicó,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Nicolás Bertolo,24,Left Winger,US Palermo,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Víctor Laguardia,20,Centre-Back,Real Zaragoza B,-,in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Saïd Boutahar,28,Attacking Midfield,Without Club,-,in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Franck Songo'o,23,Right Winger,Real Sociedad,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Braulio Nóbrega,24,Centre-Forward,Recr. Huelva,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Pablo,21,Right Midfield,Gimnàstic,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Rubén Pulido,31,Centre-Back,Asteras Tripoli,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Javier Arizmendi,26,Centre-Forward,Getafe,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Pablo Amo,32,Centre-Back,Panserraikos,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Francisco Pavón,30,Centre-Back,AC Arles,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Jermaine Pennant,27,Right Winger,Stoke City,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Raúl Goni,21,Centre-Back,RM Castilla,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Pablo,21,Right Midfield,Cruzeiro,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Peter Luccin,31,Defensive Midfield,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Marko Babic,29,Left Midfield,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Franck Songo'o,23,Right Winger,Without Club,-,out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Juan Pablo Carrizo,26,Goalkeeper,Lazio,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Abel Aguilar,25,Defensive Midfield,Udinese,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Eliseu,26,Left-Back,Lazio,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Humberto Suazo,29,Centre-Forward,Monterrey,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Adrián Colunga,25,Centre-Forward,Recr. Huelva,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Roberto,24,Goalkeeper,Atlético Madrid,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Zaragoza,Matteo Contini,30,Centre-Back,SSC Napoli,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Jonathan de Guzmán,22,Central Midfield,Feyenoord,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,João Victor,21,Defensive Midfield,Bunyodkor,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Edson Ratinho,24,Right-Back,Bunyodkor,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Fernando Cavenaghi,26,Centre-Forward,G. Bordeaux,Loan,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Pau Cendrós,23,Right-Back,RCD Mallorca B,-,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Tomás Pina,22,Central Midfield,RCD Mallorca B,-,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Sergi Enrich,20,Centre-Forward,RCD Mallorca B,-,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Michaël Pereira,22,Right Winger,RCD Mallorca B,-,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Sergio Tejera,20,Central Midfield,RCD Mallorca B,-,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Kevin García,20,Left-Back,RCD Mallorca B,-,in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Emilio Nsue,20,Right-Back,Real Sociedad,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Juanmi Callejón,23,Left Winger,Albacete,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Javi Guerra,28,Centre-Forward,Levante,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Óscar Trejo,22,Attacking Midfield,Elche CF,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Martí Crespí,23,Centre-Back,Elche CF,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Óscar Díaz,26,Centre-Forward,Recr. Huelva,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Aritz Aduriz,29,Centre-Forward,Valencia,£3.87m,out,Summer,3.87,Primera Division,2010,2010/2011
+RCD Mallorca,Mario Suárez,23,Defensive Midfield,Atlético Madrid,£1.62m,out,Summer,1.62,Primera Division,2010,2010/2011
+RCD Mallorca,Javi Guerra,28,Centre-Forward,Real Valladolid,£270Th.,out,Summer,0.27,Primera Division,2010,2010/2011
+RCD Mallorca,Nauzet Pérez,25,Goalkeeper,AD Ceuta,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Julio Álvarez,29,Attacking Midfield,CD Tenerife,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Fernando Varela,30,Right-Back,Kasimpasa,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Bruno China,27,Central Midfield,Rio Ave FC,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Óscar Trejo,22,Attacking Midfield,Rayo Vallecano,Loan,out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Juanmi Callejón,23,Left Winger,Córdoba CF,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Josemi,30,Centre-Back,Iraklis,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Óscar Díaz,26,Centre-Forward,Xerez CD,?,out,Summer,NA,Primera Division,2010,2010/2011
+RCD Mallorca,Alhassane Keita,27,Centre-Forward,Real Valladolid,Loan,out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Felipe Mattioni,21,Right-Back,Maga,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Borja Valero,25,Central Midfield,West Brom,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+RCD Mallorca,Paulo Pezzolano,27,Attacking Midfield,Liverpool FC,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Dejan Lekic,25,Centre-Forward,Red Star,£2.22m,in,Summer,2.22,Primera Division,2010,2010/2011
+CA Osasuna,Fernando Soriano,30,Attacking Midfield,UD Almería,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Asier Riesgo,26,Goalkeeper,Real Sociedad,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Damià,28,Right-Back,Real Betis,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Lolo,25,Defensive Midfield,Sevilla FC,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Nélson,27,Right-Back,Real Betis,Loan,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Nacho Zabal,23,Goalkeeper,CA Osasuna Prom,-,in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Nicolás Medina,23,Centre-Forward,CD Castellón,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Kike Sola,24,Centre-Forward,APO Levadiakos,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,César Azpilicueta,20,Right-Back,Marseille,£5.40m,out,Summer,5.4,Primera Division,2010,2010/2011
+CA Osasuna,Jokin Esparza,22,Left Winger,SD Huesca,Loan,out,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Roberto Fernández,31,Goalkeeper,Granada CF,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Ludovic Delporte,30,Left Winger,Gimnàstic,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Dady,28,Centre-Forward,Bucaspor,?,out,Summer,NA,Primera Division,2010,2010/2011
+CA Osasuna,Jorge Galán,21,Centre-Forward,SD Huesca,Loan,out,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Andrés Fernández,23,Goalkeeper,SD Huesca,Loan,out,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Rovérsio,26,Centre-Back,Real Betis,Loan,out,Summer,0,Primera Division,2010,2010/2011
+CA Osasuna,Jon Echaide,22,Centre-Back,SD Huesca,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Tiberio Guarente,24,Central Midfield,Atalanta,£4.95m,in,Summer,4.95,Primera Division,2010,2010/2011
+Sevilla FC,Alexis Ruano,25,Centre-Back,Valencia,£4.50m,in,Summer,4.5,Primera Division,2010,2010/2011
+Sevilla FC,Martín Cáceres,23,Centre-Back,FC Barcelona,Loan fee:£450Th.,in,Summer,0.45,Primera Division,2010,2010/2011
+Sevilla FC,Luca Cigarini,24,Defensive Midfield,SSC Napoli,Loan fee:£270Th.,in,Summer,0.27,Primera Division,2010,2010/2011
+Sevilla FC,Mouhamadou Dabo,23,Right-Back,Saint-Étienne,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,José Carlos,22,Attacking Midfield,Sevilla Atl.,-,in,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Antonio Luna,19,Left-Back,Sevilla Atl.,-,in,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Rodri,20,Centre-Forward,Sevilla Atl.,-,in,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,José Crespo,23,Centre-Back,Racing,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Alejandro Alfaro,23,Left Winger,CD Tenerife,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,David Prieto,27,Centre-Back,Xerez CD,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Javier Chevantón,29,Centre-Forward,Atalanta,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Arouna Koné,26,Centre-Forward,Hannover 96,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Emiliano Armenteros,24,Left Winger,Xerez CD,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Adriano,25,Left-Back,FC Barcelona,£8.55m,out,Summer,8.55,Primera Division,2010,2010/2011
+Sevilla FC,Sébastien Squillaci,30,Centre-Back,Arsenal,£5.85m,out,Summer,5.85,Primera Division,2010,2010/2011
+Sevilla FC,Renato,31,Central Midfield,Botafogo,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Aldo Duscher,31,Defensive Midfield,Espanyol,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,José Crespo,23,Centre-Back,Padova,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,David Prieto,27,Centre-Back,CD Tenerife,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Lolo,25,Defensive Midfield,CA Osasuna,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Javier Chevantón,30,Centre-Forward,Lecce,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Tom De Mul,24,Right Midfield,Standard Liège,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Emiliano Armenteros,24,Left Winger,Rayo Vallecano,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Juan Cala,20,Centre-Back,FC Cartagena,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Sevilla FC,Marius Stankevicius,28,Centre-Back,Sampdoria,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Real Madrid,Ángel Di María,22,Right Winger,Benfica,£29.70m,in,Summer,29.7,Primera Division,2010,2010/2011
+Real Madrid,Mesut Özil,21,Attacking Midfield,Werder Bremen,£16.20m,in,Summer,16.2,Primera Division,2010,2010/2011
+Real Madrid,Sami Khedira,23,Central Midfield,VfB Stuttgart,£12.60m,in,Summer,12.6,Primera Division,2010,2010/2011
+Real Madrid,Pedro León,23,Right Winger,Getafe,£9.00m,in,Summer,9,Primera Division,2010,2010/2011
+Real Madrid,Ricardo Carvalho,32,Centre-Back,Chelsea,£7.20m,in,Summer,7.2,Primera Division,2010,2010/2011
+Real Madrid,Sergio Canales,19,Attacking Midfield,Racing,£5.40m,in,Summer,5.4,Primera Division,2010,2010/2011
+Real Madrid,Rafael van der Vaart,27,Attacking Midfield,Spurs,£9.45m,out,Summer,9.45,Primera Division,2010,2010/2011
+Real Madrid,Christoph Metzelder,29,Centre-Back,FC Schalke 04,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Real Madrid,Guti,33,Central Midfield,Besiktas,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Real Madrid,Raúl,33,Second Striker,FC Schalke 04,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Real Madrid,Royston Drenthe,23,Left Midfield,Hércules CF,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Markus Rosenberg,27,Centre-Forward,Werder Bremen,Loan fee:£675Th.,in,Summer,0.675,Primera Division,2010,2010/2011
+Racing Santander,Waldo Ponce,27,Centre-Back,O'Higgins,Loan fee:£284Th.,in,Summer,0.284,Primera Division,2010,2010/2011
+Racing Santander,Alexandros Tziolis,25,Defensive Midfield,Siena,Loan fee:£90Th.,in,Summer,0.09,Primera Division,2010,2010/2011
+Racing Santander,Domingo Cisma,28,Left-Back,UD Almería,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Francis Pérez,28,Right-Back,Xerez CD,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Kennedy,29,Right Midfield,Ajax,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Ariel Nahuelpán,22,Centre-Forward,Coritiba FC,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Adrián González,22,Attacking Midfield,Getafe,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Mario Fernández,22,Goalkeeper,Racing B,-,in,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Osmar,22,Defensive Midfield,Racing B,-,in,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,José Picón,22,Centre-Back,Racing B,-,in,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Jorge Gonçalves,26,Right Winger,Vit. Guimarães,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Juanjo Expósito,24,Centre-Forward,Córdoba CF,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Sergio Canales,19,Attacking Midfield,Real Madrid,£5.40m,out,Summer,5.4,Primera Division,2010,2010/2011
+Racing Santander,Mémé Tchité,26,Centre-Forward,Standard Liège,£3.60m,out,Summer,3.6,Primera Division,2010,2010/2011
+Racing Santander,Jorge Gonçalves,26,Right Winger,Olhanense,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Oriol Lozano,29,Centre-Back,Aris Saloniki,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Toni Moral,28,Left Winger,FC Cartagena,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Luis García,32,Right Winger,Panathinaikos,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Juanjo Expósito,24,Centre-Forward,UD Salamanca,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,José Picón,22,Centre-Back,Pontevedra,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Brian Sarmiento,20,Attacking Midfield,UD Salamanca,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,José Moratón,30,Centre-Back,UD Salamanca,?,out,Summer,NA,Primera Division,2010,2010/2011
+Racing Santander,José Crespo,23,Centre-Back,Sevilla FC,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Nasief Morris,29,Centre-Back,Panathinaikos,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Racing Santander,Xisco,24,Centre-Forward,Newcastle,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Nelson Haedo Valdez,26,Centre-Forward,Bor. Dortmund,£3.15m,in,Summer,3.15,Primera Division,2010,2010/2011
+Hércules CF,Abel Aguilar,25,Defensive Midfield,Udinese Calcio,£1.35m,in,Summer,1.35,Primera Division,2010,2010/2011
+Hércules CF,Cristian Pulhac,25,Left-Back,Dinamo Bucarest,Loan fee:£225Th.,in,Summer,0.225,Primera Division,2010,2010/2011
+Hércules CF,Matías Fritzler,23,Defensive Midfield,Lanús,Loan fee:£144Th.,in,Summer,0.144,Primera Division,2010,2010/2011
+Hércules CF,David Cortés,30,Right-Back,Getafe,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,David Trézéguet,32,Centre-Forward,Juventus,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Mohamed Sarr,26,Centre-Back,Standard Liège,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Royston Drenthe,23,Left Midfield,Real Madrid,Loan,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Olivier Thomert,30,Left Midfield,Le Mans FC,Free transfer,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Piet Velthuizen,23,Goalkeeper,Vitesse,?,in,Summer,NA,Primera Division,2010,2010/2011
+Hércules CF,Jhon Mosquera,20,Left Winger,Hércules CF B,-,in,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Edu Moya,29,Right-Back,Xerez CD,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Gerardo Noriega,28,Attacking Midfield,Gimnàstic,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Sergio Díaz,25,Centre-Back,Gimnàstic,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Ionel Danciulescu,33,Centre-Forward,Dinamo Bucarest,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Jorge Alonso,25,Central Midfield,Real Valladolid,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Dani Bautista,29,Left-Back,Girona,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Andrija Delibasic,29,Centre-Forward,Rayo Vallecano,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Rodri Gimeno,30,Defensive Midfield,Gimnàstic,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Jhon Mosquera,20,Left Winger,Villajoyosa CF,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Joseba del Olmo,29,Left Winger,Ponferradina,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Hércules CF,Manuel Ruz,24,Right-Back,Gimnàstic,?,out,Summer,NA,Primera Division,2010,2010/2011
+Hércules CF,Francisco Rufete,34,Right Winger,Retired,-,out,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Mikel San José,21,Defensive Midfield,Liverpool U23,£2.43m,in,Summer,2.43,Primera Division,2010,2010/2011
+Athletic Bilbao,Raúl Fernández,22,Goalkeeper,Bilbao Athletic,-,in,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Jon Aurtenetxe,18,Centre-Back,Bilbao U19,-,in,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Iñigo Pérez,22,Central Midfield,Bilbao Athletic,-,in,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Mikel Balenziaga,22,Left-Back,CD Numancia,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Ander Murillo,26,Centre-Back,UD Salamanca,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Xabi Etxeita,22,Centre-Back,FC Cartagena,"End of loanJun 30, 2010",in,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Iñaki Muñoz,31,Defensive Midfield,FC Cartagena,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Fran Yeste,30,Attacking Midfield,Al-Wasl,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Iban Zubiaurre,27,Right-Back,Albacete,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Xabi Etxeita,22,Centre-Back,Elche CF,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Ander Murillo,26,Centre-Back,Celta de Vigo,Free transfer,out,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Iñigo Díaz de Cerio,26,Centre-Forward,Córdoba CF,Loan,out,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Joseba Etxeberria,32,Right Winger,Retired,-,out,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Armando,39,Goalkeeper,Retired,-,out,Summer,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Mikel San José,21,Defensive Midfield,Liverpool U23,"End of loanJun 30, 2010",out,Summer,0,Primera Division,2010,2010/2011
+Atlético Madrid,Elias,25,Central Midfield,Corinthians,£6.30m,in,Winter,6.3,Primera Division,2010,2010/2011
+Atlético Madrid,Juanfran,25,Right-Back,CA Osasuna,£3.83m,in,Winter,3.83,Primera Division,2010,2010/2011
+Atlético Madrid,Koke,18,Central Midfield,Atl. Madrid B,-,in,Winter,0,Primera Division,2010,2010/2011
+Atlético Madrid,Ignacio Camacho,20,Defensive Midfield,Málaga CF,£1.35m,out,Winter,1.35,Primera Division,2010,2010/2011
+Atlético Madrid,Simão,31,Left Winger,Besiktas,£810Th.,out,Winter,0.81,Primera Division,2010,2010/2011
+Atlético Madrid,Juanito,34,Centre-Back,Real Valladolid,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+Atlético Madrid,Sergio Asenjo,21,Goalkeeper,Málaga CF,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,José Sand,30,Centre-Forward,Al-Ain FC,Loan fee:£450Th.,in,Winter,0.45,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Javito,27,Left Winger,Aris Saloniki,Loan fee:£135Th.,in,Winter,0.135,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Xisco,24,Centre-Forward,Newcastle,Loan,in,Winter,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Álex Bergantiños,25,Defensive Midfield,Granada CF,"End of loanDec 1, 2010",in,Winter,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Adrián López,23,Centre-Back,Wigan,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Álex Bergantiños,25,Defensive Midfield,Gimnàstic,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Deportivo de La Coruña,Jonathan Urretaviscaya,20,Right Winger,Benfica,"End of loanDec 31, 2010",out,Winter,0,Primera Division,2010,2010/2011
+Valencia CF,Jonas,26,Second Striker,Grêmio,£1.13m,in,Winter,1.13,Primera Division,2010,2010/2011
+Valencia CF,Ignacio González,28,Attacking Midfield,Levante,"End of loanDec 31, 2010",in,Winter,0,Primera Division,2010,2010/2011
+Valencia CF,Manuel Fernandes,24,Attacking Midfield,Besiktas,Loan fee:£720Th.,out,Winter,0.72,Primera Division,2010,2010/2011
+Valencia CF,Sunny,22,Defensive Midfield,CD Numancia,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Valencia CF,Sofiane Feghouli,21,Right Winger,UD Almería,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Villarreal CF,Cicinho,30,Right-Back,AS Roma,Loan,in,Winter,0,Primera Division,2010,2010/2011
+Villarreal CF,Mubarak Wakaso,20,Central Midfield,Elche CF,Free transfer,in,Winter,0,Primera Division,2010,2010/2011
+Villarreal CF,Mario Gaspar,20,Right-Back,Villarreal CF B,-,in,Winter,0,Primera Division,2010,2010/2011
+Villarreal CF,Leandro Somoza,29,Defensive Midfield,Vélez Sarsfield,"End of loanDec 1, 2010",in,Winter,0,Primera Division,2010,2010/2011
+Villarreal CF,Jefferson Montero,21,Left Winger,Levante,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Villarreal CF,Jozy Altidore,21,Centre-Forward,Bursaspor,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Villarreal CF,Leandro Somoza,29,Defensive Midfield,Boca Juniors,?,out,Winter,NA,Primera Division,2010,2010/2011
+Málaga CF,Martín Demichelis,30,Centre-Back,Bayern Munich,£2.70m,in,Winter,2.7,Primera Division,2010,2010/2011
+Málaga CF,Júlio Baptista,29,Attacking Midfield,AS Roma,£2.25m,in,Winter,2.25,Primera Division,2010,2010/2011
+Málaga CF,Ignacio Camacho,20,Defensive Midfield,Atlético Madrid,£1.35m,in,Winter,1.35,Primera Division,2010,2010/2011
+Málaga CF,Willy Caballero,29,Goalkeeper,Elche CF,£810Th.,in,Winter,0.81,Primera Division,2010,2010/2011
+Málaga CF,Sergio Asenjo,21,Goalkeeper,Atlético Madrid,Loan,in,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,Recio,19,Central Midfield,A. Malagueño,-,in,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,Juanmi,17,Right Winger,A. Malagueño,-,in,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,David González,20,Central Midfield,Cádiz CF,"End of loanDec 1, 2010",in,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,Enzo Maresca,30,Central Midfield,Without Club,-,in,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,Juanito,30,Defensive Midfield,UD Almería,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,Iván González,22,Centre-Back,RM Castilla,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,Nabil Baha,29,Centre-Forward,AEK Athens,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,David González,20,Central Midfield,Oviedo Vetusta,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,Edu Ramos,18,Central Midfield,CD Leganés,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,Edinho,28,Centre-Forward,Marítimo,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Málaga CF,Albert Luque,32,Left Winger,Retired,-,out,Winter,0,Primera Division,2010,2010/2011
+Sporting Gijón,André Castro,22,Central Midfield,FC Porto,Loan,in,Winter,0,Primera Division,2010,2010/2011
+Sporting Gijón,Nacho Cases,23,Central Midfield,Sporting B,-,in,Winter,0,Primera Division,2010,2010/2011
+Sporting Gijón,Cristian Portilla,22,Central Midfield,Aris Saloniki,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+Sporting Gijón,Sergio Matabuena,31,Defensive Midfield,Real Valladolid,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+Sporting Gijón,Marcos Landeira,23,Central Midfield,Real Unión,Loan,out,Winter,0,Primera Division,2010,2010/2011
+UD Almería,Juanito,30,Defensive Midfield,Málaga CF,Free transfer,in,Winter,0,Primera Division,2010,2010/2011
+UD Almería,Antonio Luna,19,Left-Back,Sevilla FC,Loan,in,Winter,0,Primera Division,2010,2010/2011
+UD Almería,Sofiane Feghouli,21,Right Winger,Valencia,Loan,in,Winter,0,Primera Division,2010,2010/2011
+UD Almería,Guilherme Santos,22,Left-Back,Real Valladolid,"End of loanFeb 1, 2011",in,Winter,0,Primera Division,2010,2010/2011
+UD Almería,Miguel Ángel Nieto,24,Left Winger,Xerez CD,Loan,out,Winter,0,Primera Division,2010,2010/2011
+UD Almería,Baltasar Rigo,25,Centre-Back,SD Huesca,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+UD Almería,Guilherme Santos,23,Left-Back,Atlético-MG,?,out,Winter,NA,Primera Division,2010,2010/2011
+UD Almería,Diego Váleri,24,Attacking Midfield,Lanús,"End of loanDec 1, 2010",out,Winter,0,Primera Division,2010,2010/2011
+Levante UD,Wellington Silva,18,Right Winger,Arsenal,Loan,in,Winter,0,Primera Division,2010,2010/2011
+Levante UD,Jefferson Montero,21,Left Winger,Villarreal,Loan,in,Winter,0,Primera Division,2010,2010/2011
+Levante UD,Marc Mateu,20,Attacking Midfield,Real Unión,"End of loanDec 1, 2010",in,Winter,0,Primera Division,2010,2010/2011
+Levante UD,Marc Mateu,20,Attacking Midfield,CD Badajoz,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Levante UD,Ignacio González,28,Attacking Midfield,Valencia,"End of loanDec 31, 2010",out,Winter,0,Primera Division,2010,2010/2011
+Getafe CF,Eugen Polanski,24,Defensive Midfield,1.FSV Mainz 05,"End of loanNov 5, 2010",in,Winter,0,Primera Division,2010,2010/2011
+Getafe CF,Eugen Polanski,24,Defensive Midfield,1.FSV Mainz 05,£990Th.,out,Winter,0.99,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Jesús Dátolo,26,Attacking Midfield,SSC Napoli,£2.25m,in,Winter,2.25,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Víctor Ruiz,21,Centre-Back,SSC Napoli,£7.65m,out,Winter,7.65,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Dídac Vilà,21,Left-Back,AC Milan,£3.60m,out,Winter,3.6,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Wellington Baroni,21,Left-Back,Lajeadense,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Coro,27,Centre-Forward,CA Osasuna,Loan,out,Winter,0,Primera Division,2010,2010/2011
+RCD Espanyol Barcelona,Jesús Dátolo,26,Attacking Midfield,SSC Napoli,"End of loanJan 24, 2011",out,Winter,0,Primera Division,2010,2010/2011
+Real Sociedad,Vadim Demidov,24,Centre-Back,Rosenborg BK,Free transfer,in,Winter,0,Primera Division,2010,2010/2011
+Real Sociedad,Borja Viguera,23,Centre-Forward,Gimnàstic,Loan,out,Winter,0,Primera Division,2010,2010/2011
+FC Barcelona,Ibrahim Afellay,24,Left Midfield,PSV Eindhoven,£2.70m,in,Winter,2.7,Primera Division,2010,2010/2011
+FC Barcelona,Andreu Fontàs,21,Centre-Back,FC Barcelona B,-,in,Winter,0,Primera Division,2010,2010/2011
+Real Zaragoza,Paulo da Silva,30,Centre-Back,Sunderland,£315Th.,in,Winter,0.315,Primera Division,2010,2010/2011
+Real Zaragoza,Guirane N'Daw,26,Defensive Midfield,Saint-Étienne,Loan,in,Winter,0,Primera Division,2010,2010/2011
+Real Zaragoza,Jermaine Pennant,27,Right Winger,Stoke City,"End of loanDec 31, 2010",in,Winter,0,Primera Division,2010,2010/2011
+Real Zaragoza,Jermaine Pennant,27,Right Winger,Stoke City,£1.80m,out,Winter,1.8,Primera Division,2010,2010/2011
+RCD Mallorca,Akihiro Ienaga,24,Attacking Midfield,Gamba Osaka,?,in,Winter,NA,Primera Division,2010,2010/2011
+RCD Mallorca,Alhassane Keita,27,Centre-Forward,Real Valladolid,"End of loanDec 31, 2010",in,Winter,0,Primera Division,2010,2010/2011
+RCD Mallorca,Tuni,28,Right Winger,Gimnàstic,Loan,out,Winter,0,Primera Division,2010,2010/2011
+RCD Mallorca,Alhassane Keita,27,Centre-Forward,Shabab,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+RCD Mallorca,Edson Ratinho,24,Right-Back,São Paulo,Loan,out,Winter,0,Primera Division,2010,2010/2011
+RCD Mallorca,Fernando Cavenaghi,27,Centre-Forward,G. Bordeaux,"End of loanJan 25, 2011",out,Winter,0,Primera Division,2010,2010/2011
+CA Osasuna,Álvaro Cejudo,26,Second Striker,UD Las Palmas,£288Th.,in,Winter,0.288,Primera Division,2010,2010/2011
+CA Osasuna,Coro,27,Centre-Forward,Espanyol,Loan,in,Winter,0,Primera Division,2010,2010/2011
+CA Osasuna,Juanfran,25,Right-Back,Atlético Madrid,£3.83m,out,Winter,3.83,Primera Division,2010,2010/2011
+CA Osasuna,Nicolás Medina,23,Centre-Forward,Akademik Sofia,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+Sevilla FC,Gary Medel,23,Defensive Midfield,CDUC,£2.70m,in,Winter,2.7,Primera Division,2010,2010/2011
+Sevilla FC,Ivan Rakitic,22,Central Midfield,FC Schalke 04,£2.25m,in,Winter,2.25,Primera Division,2010,2010/2011
+Sevilla FC,Luís Fabiano,30,Centre-Forward,São Paulo,£6.84m,out,Winter,6.84,Primera Division,2010,2010/2011
+Sevilla FC,Abdoulay Konko,26,Right-Back,Genoa,£5.40m,out,Winter,5.4,Primera Division,2010,2010/2011
+Sevilla FC,Antonio Luna,19,Left-Back,UD Almería,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Sevilla FC,José Carlos,23,Attacking Midfield,FC Cartagena,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Real Madrid,Emmanuel Adebayor,26,Centre-Forward,Man City,Loan fee:£3.60m,in,Winter,3.6,Primera Division,2010,2010/2011
+Real Madrid,Mahamadou Diarra,29,Defensive Midfield,Monaco,Free transfer,out,Winter,0,Primera Division,2010,2010/2011
+Racing Santander,Giovani dos Santos,21,Second Striker,Spurs,Loan fee:£270Th.,in,Winter,0.27,Primera Division,2010,2010/2011
+Racing Santander,Damián Ísmodes,21,Attacking Midfield,Sport. Cristal,"End of loanDec 31, 2010",in,Winter,0,Primera Division,2010,2010/2011
+Racing Santander,Damián Ísmodes,21,Attacking Midfield,Universitario,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Racing Santander,Edu Bedia,21,Central Midfield,UD Salamanca,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Racing Santander,Waldo Ponce,27,Centre-Back,O'Higgins,"End of loanDec 1, 2010",out,Winter,0,Primera Division,2010,2010/2011
+Hércules CF,Rodri,26,Centre-Back,Spartak Moscow,£360Th.,out,Winter,0.36,Primera Division,2010,2010/2011
+Athletic Bilbao,Urko Vera,23,Centre-Forward,Lemona,£18Th.,in,Winter,0.018,Primera Division,2010,2010/2011
+Athletic Bilbao,Borja Ekiza,22,Centre-Back,Bilbao Athletic,-,in,Winter,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Iñigo Díaz de Cerio,26,Centre-Forward,Córdoba CF,"End of loanDec 31, 2010",in,Winter,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Iñigo Pérez,23,Central Midfield,SD Huesca,Loan,out,Winter,0,Primera Division,2010,2010/2011
+Athletic Bilbao,Ion Vélez,25,Centre-Forward,CD Numancia,Loan,out,Winter,0,Primera Division,2010,2010/2011

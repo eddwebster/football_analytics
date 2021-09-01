@@ -1,0 +1,588 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Real Sociedad,Diego Rivas,26,Central Midfield,Getafe,£3.15m,in,Summer,3.15,Primera Division,2006,2006/2007
+Real Sociedad,Claudio Bravo,23,Goalkeeper,Colo Colo,£1.08m,in,Summer,1.08,Primera Division,2006,2006/2007
+Real Sociedad,Fábio Felicio,24,Central Midfield,Leiria,£270Th.,in,Summer,0.27,Primera Division,2006,2006/2007
+Real Sociedad,Juanito,26,Defensive Midfield,Alavés,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Gerardo,31,Right-Back,Málaga CF,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Jesuli,28,Attacking Midfield,Sevilla FC,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Mikel González,20,Centre-Back,Real Sociedad B,-,in,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Markel Bergara,21,Defensive Midfield,Real Sociedad B,-,in,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Fabiano Rossato,28,Left-Back,Braga,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Miguel Ángel Sebastián Romero,26,Right Midfield,CA Banfield,"End of loanJun 5, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Nihat Kahveci,26,Centre-Forward,Villarreal,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Igor Gabilondo,27,Left Midfield,Athletic,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Juan Domínguez,22,Attacking Midfield,Real Unión,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Alberto López,37,Goalkeeper,Real Valladolid,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Jérémie Bréchet,26,Centre-Back,FC Sochaux,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Sociedad,José Javier Barkero,27,Attacking Midfield,Albacete,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Sociedad,Oskitz Estefanía,19,Left Winger,SD Eibar,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Sociedad,Gorka Larrea,22,Central Midfield,UD Almería,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Óscar de Paula,31,Centre-Forward,Cádiz CF,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Sociedad,Sergio Boris,26,Centre-Back,CD Numancia,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Sociedad,Fabiano Rossato,28,Left-Back,Leiria,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Real Sociedad,Mark González,21,Left Winger,Liverpool,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Óscar López,26,Right-Back,Real Betis,Loan fee:£180Th.,in,Summer,0.18,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Alejandro Campano,27,Right Midfield,RCD Mallorca,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Fede Bessone,22,Left-Back,RCD Espanyol B,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Juan Díaz,29,Central Midfield,Sporting Gijón,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Ariza Makukula,25,Centre-Forward,Sevilla FC,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Javier Portillo,24,Centre-Forward,Real Madrid,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,David Generelo,23,Central Midfield,Real Zaragoza,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Aníbal Matellán,29,Centre-Back,Getafe,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Mingo,29,Left-Back,Albacete,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Gil,25,Centre-Forward,Cruzeiro,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Julio Cáceres,26,Centre-Back,River Plate,?,in,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Constantin Galca,34,Defensive Midfield,UD Almería,?,in,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Albano Bizzarri,28,Goalkeeper,Real Valladolid,?,in,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Bolo,32,Centre-Forward,CD Numancia,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Vaqueriza,31,Centre-Back,CD Colonia Ofigevi,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Nano,21,Left-Back,FC Barcelona B,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Lluís Codina,33,Attacking Midfield,SD Eibar,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Fernando López,25,Midfielder,CyD Leonesa,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Alfonso Vera,32,Midfielder,Unknown,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Felip Ortiz,29,Goalkeeper,UD Salamanca,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Óscar Álvarez,29,Centre-Back,Orihuela CF,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Diego Torres,27,Centre-Forward,Rayo Vallecano,?,out,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Cristian Lupidio,29,Left-Back,Benidorm,?,out,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Abdulrazak Ekpoki,23,Centre-Forward,UD Vecindario,?,out,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Ibon Begoña,32,Left-Back,Alavés,?,out,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Egoitz Jaio,25,Centre-Back,CD Numancia,?,out,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Miguel Pérez,26,Right Midfield,Alavés,?,out,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Luis Miguel Carrión,27,Centre-Back,Córdoba CF,?,out,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Pablo Lusarreta,29,Defender,FC Cartagena,?,out,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Carlos Alberto Moreno,33,Midfielder,Deportivo Cali,?,out,Summer,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Álex Pérez,21,Left Winger,RM Castilla,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Iván Romero,25,Left-Back,Real Jaén CF,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,Alexis Ruano,20,Centre-Back,Málaga CF,£2.25m,in,Summer,2.25,Primera Division,2006,2006/2007
+Getafe CF,Roberto Abbondanzieri,33,Goalkeeper,Boca Juniors,£1.35m,in,Summer,1.35,Primera Division,2006,2006/2007
+Getafe CF,Juan Albín,19,Attacking Midfield,Nacional,£270Th.,in,Summer,0.27,Primera Division,2006,2006/2007
+Getafe CF,Manu del Moral,22,Centre-Forward,Atlético Madrid,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,Nacho,26,Left-Back,Málaga CF,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,David Cortés,26,Right-Back,RCD Mallorca,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,Lucas Licht,25,Left-Back,Gimnasia,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,David Sousa,26,Attacking Midfield,Real Valladolid,?,in,Summer,NA,Primera Division,2006,2006/2007
+Getafe CF,Javier Casquero,30,Defensive Midfield,Racing,?,in,Summer,NA,Primera Division,2006,2006/2007
+Getafe CF,Quique Medina,31,Centre-Back,Elche CF,?,in,Summer,NA,Primera Division,2006,2006/2007
+Getafe CF,Riki,25,Centre-Forward,Dep. La Coruña,£4.18m,out,Summer,4.18,Primera Division,2006,2006/2007
+Getafe CF,Mariano Pernía,29,Left-Back,Atlético Madrid,£3.60m,out,Summer,3.6,Primera Division,2006,2006/2007
+Getafe CF,Diego Rivas,26,Central Midfield,Real Sociedad,£3.15m,out,Summer,3.15,Primera Division,2006,2006/2007
+Getafe CF,Nano,24,Centre-Back,Cádiz CF,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,Aníbal Matellán,29,Centre-Back,Gimnàstic,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,David Cubillo,28,Defensive Midfield,Rayo Vallecano,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,Jajá,20,Centre-Forward,Flamengo,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,Sergio Pachón,29,Centre-Forward,Rayo Vallecano,?,out,Summer,NA,Primera Division,2006,2006/2007
+Getafe CF,Gheorghe Craioveanu,38,Centre-Forward,Retired,-,out,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,Juan Calatayud,26,Goalkeeper,Málaga CF,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Getafe CF,Jaime Gavilán,21,Left Winger,Valencia,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Nino,26,Centre-Forward,Elche CF,£1.35m,in,Summer,1.35,Primera Division,2006,2006/2007
+Levante UD,Meyong,25,Centre-Forward,Belenenses SAD,£1.08m,in,Summer,1.08,Primera Division,2006,2006/2007
+Levante UD,Álvaro,28,Centre-Back,Real Zaragoza,£810Th.,in,Summer,0.81,Primera Division,2006,2006/2007
+Levante UD,Mathieu Berson,26,Defensive Midfield,Aston Villa,£225Th.,in,Summer,0.225,Primera Division,2006,2006/2007
+Levante UD,José Francisco Molina,35,Goalkeeper,Dep. La Coruña,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Olivier Kapo,25,Attacking Midfield,Juventus,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Manolo Gaspar,25,Right-Back,UD Almería,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Zé Maria,32,Right-Back,Inter,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Damiano Tommasi,32,Defensive Midfield,AS Roma,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Laurent Robert,31,Left Winger,Benfica,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Frédéric Déhu,33,Centre-Back,Marseille,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Levante UD,César Martín,29,Centre-Back,Dep. La Coruña,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Péguy Luyindula,27,Centre-Forward,Marseille,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Sandro,31,Central Midfield,Málaga CF,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Jesule,33,Centre-Back,Málaga CF,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Juanma,25,Right Winger,Recr. Huelva,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Carmelo,22,Attacking Midfield,Hércules CF,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Txomin Nagore,31,Central Midfield,CD Numancia,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Edwin Congo,29,Centre-Forward,Sporting Gijón,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Levante UD,José Antonio Culebras,27,Centre-Back,CD Tenerife,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Juan Carlos Ceballos,23,Right-Back,Ciudad Murcia,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Manuel Tello,22,Central Midfield,Levante B,-,out,Summer,0,Primera Division,2006,2006/2007
+Levante UD,Fernando Lombardi,24,Centre-Back,Paraná,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Santi Cazorla,21,Central Midfield,Villarreal,£360Th.,in,Summer,0.36,Primera Division,2006,2006/2007
+Recreativo Huelva,Florent Sinama-Pongolle,21,Second Striker,Liverpool,Loan fee:£113Th.,in,Summer,0.113,Primera Division,2006,2006/2007
+Recreativo Huelva,Mario Álvarez,24,Centre-Back,Real Valladolid,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Bertrand Laquait,29,Goalkeeper,RSC Charleroi,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Juanma,25,Right Winger,Levante,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Javi Guerrero,29,Centre-Forward,Celta de Vigo,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Poli,29,Left-Back,Alavés,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Edu Moya,25,Right-Back,CD Tenerife,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Pablo Amo,28,Centre-Back,Dep. La Coruña,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Iago Bouzón,23,Centre-Back,Celta de Vigo,?,in,Summer,NA,Primera Division,2006,2006/2007
+Recreativo Huelva,César Arzo,20,Centre-Back,Villarreal,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Javier López Vallejo,30,Goalkeeper,Villarreal,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Jesús Vázquez,26,Attacking Midfield,CD Tenerife,?,in,Summer,NA,Primera Division,2006,2006/2007
+Recreativo Huelva,Beto Severo,30,Centre-Back,G. Bordeaux,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Joselito,21,Attacking Midfield,Racing Ferrol,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Chuchú,25,Centre-Back,Algeciras CF,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Chuchú,25,Centre-Back,Ayamonte CF,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Joselito,21,Attacking Midfield,Real Jaén CF,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Pablo Coira,26,Right-Back,Aris Saloniki,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Iker Begoña,29,Defensive Midfield,Lorca Dep.,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,José Ignacio Benítez,26,Left Midfield,Hércules CF,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Xavi Jiménez,27,Central Midfield,Ciudad Murcia,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Xavi Valero,33,Goalkeeper,Gramenet,?,out,Summer,NA,Primera Division,2006,2006/2007
+Recreativo Huelva,Ramón,31,Centre-Back,Real Murcia,?,out,Summer,NA,Primera Division,2006,2006/2007
+Recreativo Huelva,Antonio Calle,27,Centre-Forward,Albacete,?,out,Summer,NA,Primera Division,2006,2006/2007
+Recreativo Huelva,Gastón Casas,28,Centre-Forward,Elche CF,?,out,Summer,NA,Primera Division,2006,2006/2007
+Recreativo Huelva,Jesús Galván,31,Right-Back,UE Lleida,?,out,Summer,NA,Primera Division,2006,2006/2007
+Recreativo Huelva,Mariano Toedtli,30,Centre-Forward,Poli Ejido,?,out,Summer,NA,Primera Division,2006,2006/2007
+Recreativo Huelva,José Mateo,31,Centre-Back,Alavés,?,out,Summer,NA,Primera Division,2006,2006/2007
+Recreativo Huelva,Antonio Valencia,20,Right-Back,Villarreal,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Iago Bouzón,23,Centre-Back,Celta de Vigo,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Toño,26,Goalkeeper,Racing,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Cani,24,Attacking Midfield,Real Zaragoza,£9.90m,in,Summer,9.9,Primera Division,2006,2006/2007
+Villarreal CF,Leandro Somoza,25,Defensive Midfield,Vélez Sarsfield,£3.60m,in,Summer,3.6,Primera Division,2006,2006/2007
+Villarreal CF,Pascal Cygan,32,Centre-Back,Arsenal,£2.61m,in,Summer,2.61,Primera Division,2006,2006/2007
+Villarreal CF,Nihat Kahveci,26,Centre-Forward,Real Sociedad,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Robert Pirès,32,Left Midfield,Arsenal,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,José Enrique,20,Left-Back,Valencia,?,in,Summer,NA,Primera Division,2006,2006/2007
+Villarreal CF,Fabricio Fuentes,29,Centre-Back,Atlas,?,in,Summer,NA,Primera Division,2006,2006/2007
+Villarreal CF,Bruno Soriano,22,Defensive Midfield,Villarreal CF B,-,in,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Marquitos,19,Attacking Midfield,Villarreal CF B,-,in,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Jonathan Pereira,19,Centre-Forward,Villarreal CF B,-,in,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Armando Sá,30,Right-Back,Espanyol,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Antonio Valencia,20,Right-Back,Recr. Huelva,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Juan Pablo Sorín,30,Left-Back,Hamburger SV,£2.70m,out,Summer,2.7,Primera Division,2006,2006/2007
+Villarreal CF,Antonio Valencia,20,Right-Back,Wigan,Loan fee:£360Th.,out,Summer,0.36,Primera Division,2006,2006/2007
+Villarreal CF,Santi Cazorla,21,Central Midfield,Recr. Huelva,£360Th.,out,Summer,0.36,Primera Division,2006,2006/2007
+Villarreal CF,Carlos Alcántara,21,Left-Back,Real Jaén CF,Loan fee:£135Th.,out,Summer,0.135,Primera Division,2006,2006/2007
+Villarreal CF,Armando Sá,30,Right-Back,Espanyol,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Antonio Guayre,26,Right Winger,Celta de Vigo,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Héctor Font,22,Central Midfield,CA Osasuna,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Roger García,29,Left Midfield,Ajax,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,Javier Calleja,28,Left Midfield,Málaga CF,?,out,Summer,NA,Primera Division,2006,2006/2007
+Villarreal CF,Javier López Vallejo,30,Goalkeeper,Recr. Huelva,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Villarreal CF,César Arzo,20,Centre-Back,Recr. Huelva,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Joaquín,25,Right Winger,Real Betis,£22.50m,in,Summer,22.5,Primera Division,2006,2006/2007
+Valencia CF,Francesco Tavano,27,Centre-Forward,FC Empoli,£9.00m,in,Summer,9,Primera Division,2006,2006/2007
+Valencia CF,Asier del Horno,25,Left-Back,Chelsea,£6.75m,in,Summer,6.75,Primera Division,2006,2006/2007
+Valencia CF,Fernando Morientes,30,Centre-Forward,Liverpool,£4.50m,in,Summer,4.5,Primera Division,2006,2006/2007
+Valencia CF,Hugo Viana,23,Central Midfield,Newcastle,£2.07m,in,Summer,2.07,Primera Division,2006,2006/2007
+Valencia CF,David Cerra,22,Right-Back,Valencia B,-,in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Sisinio,20,Attacking Midfield,Valencia B,-,in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Natxo Insa,20,Central Midfield,Valencia B,-,in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Stefano Fiore,31,Attacking Midfield,Fiorentina,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Bernardo Corradi,30,Centre-Forward,Parma,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Marco Di Vaio,29,Centre-Forward,Monaco,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,David Silva,20,Attacking Midfield,Celta de Vigo,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Jaime Gavilán,21,Left Winger,Getafe,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,José Enrique,20,Left-Back,Celta de Vigo,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Fabián Estoyanoff,23,Right Midfield,Cádiz CF,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Javier Garrido,26,Right-Back,Albacete,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Pablo Aimar,26,Attacking Midfield,Real Zaragoza,£9.90m,out,Summer,9.9,Primera Division,2006,2006/2007
+Valencia CF,Mista,27,Centre-Forward,Atlético Madrid,£3.60m,out,Summer,3.6,Primera Division,2006,2006/2007
+Valencia CF,Bernardo Corradi,30,Centre-Forward,Man City,£1.80m,out,Summer,1.8,Primera Division,2006,2006/2007
+Valencia CF,Fabián Estoyanoff,23,Right Midfield,Dep. La Coruña,Loan fee:£225Th.,out,Summer,0.225,Primera Division,2006,2006/2007
+Valencia CF,Gonzalo de los Santos,29,Defensive Midfield,Hércules CF,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Fábio Aurélio,26,Left-Back,Liverpool,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Francisco Rufete,29,Right Winger,Espanyol,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Marco Di Vaio,29,Centre-Forward,Monaco,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Patrick Kluivert,30,Centre-Forward,PSV Eindhoven,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,José Enrique,20,Left-Back,Villarreal,?,out,Summer,NA,Primera Division,2006,2006/2007
+Valencia CF,Pablo Hernández,21,Attacking Midfield,Cádiz CF,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Stefano Fiore,31,Attacking Midfield,Torino,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Sisinio,20,Attacking Midfield,Real Valladolid,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Amedeo Carboni,41,Left-Back,Retired,-,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Javier Garrido,27,Right-Back,Retired,-,out,Summer,0,Primera Division,2006,2006/2007
+Valencia CF,Hugo Viana,23,Central Midfield,Newcastle,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Nenê,24,Attacking Midfield,Alavés,£3.60m,in,Summer,3.6,Primera Division,2006,2006/2007
+Celta de Vigo,Matías Lequi,25,Centre-Back,Lazio,£675Th.,in,Summer,0.675,Primera Division,2006,2006/2007
+Celta de Vigo,Antonio Guayre,26,Right Winger,Villarreal,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Jorge Larena,24,Central Midfield,Atlético Madrid,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Pablo García,29,Defensive Midfield,Real Madrid,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Daniël de Ridder,22,Left Winger,Ajax,?,in,Summer,NA,Primera Division,2006,2006/2007
+Celta de Vigo,George Lucas,22,Right-Back,Grêmio,?,in,Summer,NA,Primera Division,2006,2006/2007
+Celta de Vigo,Gabriel Tamas,22,Centre-Back,Spartak Moscow,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Iago Bouzón,23,Centre-Back,Recr. Huelva,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Javi Guerrero,29,Centre-Forward,Recr. Huelva,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Fernando Correa,32,Forward,River Plate,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Sergio,29,Centre-Back,Real Zaragoza,?,out,Summer,NA,Primera Division,2006,2006/2007
+Celta de Vigo,Iago Bouzón,23,Centre-Back,Recr. Huelva,?,out,Summer,NA,Primera Division,2006,2006/2007
+Celta de Vigo,Sebastián Méndez,28,Centre-Back,San Lorenzo,?,out,Summer,NA,Primera Division,2006,2006/2007
+Celta de Vigo,Roberto Sousa,21,Defensive Midfield,UD Salamanca,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Manolo Sánchez,30,Left-Back,Racing Ferrol,?,out,Summer,NA,Primera Division,2006,2006/2007
+Celta de Vigo,Juan Sánchez,34,Centre-Forward,Retired,-,out,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Everton Giovanella,35,Central Midfield,Retired,-,out,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Matías Lequi,25,Centre-Back,Lazio,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Carlos Vela,17,Right Winger,Arsenal,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,David Silva,20,Attacking Midfield,Valencia,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,Jorge Larena,24,Central Midfield,Atlético Madrid,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Celta de Vigo,José Enrique,20,Left-Back,Valencia,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Riki,25,Centre-Forward,Getafe,£4.18m,in,Summer,4.18,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Antonio Barragán,19,Right-Back,Liverpool,£2.25m,in,Summer,2.25,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Rodolfo Bodipo,28,Centre-Forward,Alavés,£1.80m,in,Summer,1.8,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Álvaro Arbeloa,23,Right-Back,Real Madrid,£1.17m,in,Summer,1.17,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Adrián López,18,Centre-Forward,Real Oviedo,£297Th.,in,Summer,0.297,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Fabián Estoyanoff,23,Right Midfield,Valencia,Loan fee:£225Th.,in,Summer,0.225,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Ángel Guirado,21,Centre-Forward,Córdoba CF,£45Th.,in,Summer,0.045,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Antonio Tomás,21,Central Midfield,Racing,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Pablo Álvarez,26,Right Winger,Sporting Gijón,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Juan Rodríguez,24,Defensive Midfield,Málaga CF,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Joan Verdú,23,Attacking Midfield,FC Barcelona B,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Cristian Hidalgo,22,Left Winger,FC Barcelona B,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Alberto Lopo,26,Centre-Back,Espanyol,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Dudu Aouate,28,Goalkeeper,Racing,?,in,Summer,NA,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Filipe Luís,20,Left-Back,Rentistas,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Changui,29,Centre-Forward,Skoda Xanthi,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Lionel Scaloni,28,Right-Back,West Ham,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Pablo Amo,28,Centre-Back,Real Valladolid,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,José Francisco Molina,35,Goalkeeper,Levante,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Senel,22,Centre-Forward,Málaga B,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Momo,24,Left Winger,Racing,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Rubén Castro,25,Centre-Forward,Racing,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Pablo Amo,28,Centre-Back,Recr. Huelva,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Roberto Acuña,34,Central Midfield,CA Rosario,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Antonio Tomás,21,Central Midfield,Racing,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Ángel Guirado,21,Centre-Forward,UD Vecindario,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Diego Tristán,30,Centre-Forward,RCD Mallorca,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,David Yañez,23,Goalkeeper,R. Valladolid B,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Iván Carril,21,Attacking Midfield,UD Vecindario,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Romero,35,Left-Back,Real Betis,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,César Martín,29,Centre-Back,Levante,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Jesús Muñoz,30,Central Midfield,RSD Alcalá,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Changui,29,Centre-Forward,CF Extremadura,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Víctor Sánchez,30,Right Winger,Panathinaikos,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Dani Mallo,27,Goalkeeper,Braga,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Héctor Berenguel,31,Right-Back,RCD Mallorca,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Xisco,20,Centre-Forward,UD Vecindario,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Lionel Scaloni,28,Right-Back,Racing,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Pedro Munitis,31,Second Striker,Racing,?,out,Summer,NA,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Paco Gallardo,26,Right Midfield,Sevilla FC,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Jônatas,24,Central Midfield,Flamengo,£1.80m,in,Summer,1.8,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Moha,28,Attacking Midfield,CA Osasuna,£270Th.,in,Summer,0.27,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Mari Lacruz,28,Right-Back,Athletic,£270Th.,in,Summer,0.27,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,César Peixoto,26,Left Midfield,FC Porto,Loan fee:£113Th.,in,Summer,0.113,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Francisco Rufete,29,Right Winger,Valencia,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Armando Sá,30,Right-Back,Villarreal,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Juan Velasco,29,Right-Back,Atlético Madrid,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Armando Sá,31,Right-Back,Leeds,"End of loanMay 1, 2007",in,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Javi Chica,21,Right-Back,RCD Espanyol B,-,in,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Marc Torrejón,20,Centre-Back,RCD Espanyol B,-,in,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Jonathan Soriano,20,Centre-Forward,UD Almería,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Didier Domi,28,Left-Back,Olympiacos,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Alberto Lopo,26,Centre-Back,Dep. La Coruña,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Jofre,26,Left Winger,Real Murcia,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Martín Posse,30,Right Winger,Castelldefels,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Sergio Sánchez,20,Centre-Back,RM Castilla,Loan,out,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Mauricio Pochettino,34,Centre-Back,Retired,-,out,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Juanfran,21,Right-Back,Real Madrid,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Armando Sá,30,Right-Back,Villarreal,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Sergio Agüero,18,Centre-Forward,Independiente,£19.53m,in,Summer,19.53,Primera Division,2006,2006/2007
+Atlético Madrid,Maniche,28,Central Midfield,Dynamo Moscow,£8.10m,in,Summer,8.1,Primera Division,2006,2006/2007
+Atlético Madrid,Georgios Seitaridis,25,Right-Back,Dynamo Moscow,£5.40m,in,Summer,5.4,Primera Division,2006,2006/2007
+Atlético Madrid,Costinha,31,Defensive Midfield,Dynamo Moscow,£5.40m,in,Summer,5.4,Primera Division,2006,2006/2007
+Atlético Madrid,Mariano Pernía,29,Left-Back,Getafe,£3.60m,in,Summer,3.6,Primera Division,2006,2006/2007
+Atlético Madrid,Mista,27,Centre-Forward,Valencia,£3.60m,in,Summer,3.6,Primera Division,2006,2006/2007
+Atlético Madrid,José Manuel Jurado,20,Attacking Midfield,Real Madrid,£2.70m,in,Summer,2.7,Primera Division,2006,2006/2007
+Atlético Madrid,Diego Costa,18,Centre-Forward,Braga,£1.35m,in,Summer,1.35,Primera Division,2006,2006/2007
+Atlético Madrid,Miguel de las Cuevas,20,Right Winger,Hércules CF,£383Th.,in,Summer,0.383,Primera Division,2006,2006/2007
+Atlético Madrid,Zé Castro,23,Centre-Back,Coimbra,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Ismael Falcón,22,Goalkeeper,Atl. Madrid B,-,in,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Marcelo Sosa,28,Defensive Midfield,CA Osasuna,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Jorge Larena,24,Central Midfield,Celta de Vigo,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Braulio Nóbrega,20,Centre-Forward,RCD Mallorca,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Juanma Ortiz,24,Right-Back,CA Osasuna,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Raúl Medina,23,Central Midfield,Ciudad Murcia,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Toché,23,Centre-Forward,Hércules CF,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Mateja Kezman,27,Centre-Forward,Fenerbahce,£6.30m,out,Summer,6.3,Primera Division,2006,2006/2007
+Atlético Madrid,Manu del Moral,22,Centre-Forward,Getafe,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Toché,23,Centre-Forward,Real Valladolid,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Kiki Musampa,28,Left Winger,Trabzonspor,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Ariel Ibagaza,29,Attacking Midfield,RCD Mallorca,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Sergio Aragoneses,29,Goalkeeper,Hércules CF,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Jorge Larena,24,Central Midfield,Celta de Vigo,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Juanma Ortiz,24,Right-Back,Poli Ejido,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Braulio Nóbrega,20,Centre-Forward,UD Salamanca,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Juan Velasco,29,Right-Back,Espanyol,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,García Calvo,31,Centre-Back,Real Valladolid,?,out,Summer,NA,Primera Division,2006,2006/2007
+Atlético Madrid,Marcelo Sosa,28,Defensive Midfield,River Plate,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Gonzalo Colsa,27,Defensive Midfield,Racing,?,out,Summer,NA,Primera Division,2006,2006/2007
+Atlético Madrid,Mario Suárez,19,Defensive Midfield,Real Valladolid,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Atlético Madrid,Raúl Medina,23,Central Midfield,Xerez CD,?,out,Summer,NA,Primera Division,2006,2006/2007
+Atlético Madrid,Germán Burgos,37,Goalkeeper,Retired,-,out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Nikola Zigic,25,Centre-Forward,Red Star,£5.40m,in,Summer,5.4,Primera Division,2006,2006/2007
+Racing Santander,Lionel Scaloni,28,Right-Back,Dep. La Coruña,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Cristian Álvarez,28,Right-Back,CD Tenerife,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Antonio Tomás,21,Central Midfield,Dep. La Coruña,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Rubén Castro,25,Centre-Forward,Dep. La Coruña,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Momo,24,Left Winger,Dep. La Coruña,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Rubén González,24,Centre-Back,Real Madrid,?,in,Summer,NA,Primera Division,2006,2006/2007
+Racing Santander,Javier Balboa,21,Right Winger,Real Madrid,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Pedro Munitis,31,Second Striker,Dep. La Coruña,?,in,Summer,NA,Primera Division,2006,2006/2007
+Racing Santander,Gonzalo Colsa,27,Defensive Midfield,Atlético Madrid,?,in,Summer,NA,Primera Division,2006,2006/2007
+Racing Santander,Juan Calatayud,26,Goalkeeper,Málaga CF,?,in,Summer,NA,Primera Division,2006,2006/2007
+Racing Santander,Luis Fernández,33,Left-Back,Real Betis,?,in,Summer,NA,Primera Division,2006,2006/2007
+Racing Santander,David Aganzo,25,Centre-Forward,B. Jerusalem,"End of loanJun 1, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Toño,26,Goalkeeper,Recr. Huelva,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Fernando Marqués,21,Right Winger,Atl. Madrid B,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Wilfried Dalmat,24,Right Winger,RAEC Mons,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Jonathan Valle,21,Attacking Midfield,Málaga CF,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Samuel San José,22,Centre-Back,CF Gavà,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Antonio Tomás,21,Central Midfield,Dep. La Coruña,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Fernando Marqués,21,Right Winger,Atl. Madrid B,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Stéphane Dalmat,27,Central Midfield,G. Bordeaux,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Javier Casquero,30,Defensive Midfield,Getafe,?,out,Summer,NA,Primera Division,2006,2006/2007
+Racing Santander,Dudu Aouate,28,Goalkeeper,Dep. La Coruña,?,out,Summer,NA,Primera Division,2006,2006/2007
+Racing Santander,Ayoze Díaz,24,Left-Back,Ciudad Murcia,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Icham Mouissi,23,Right Winger,FC Gueugnon,?,out,Summer,NA,Primera Division,2006,2006/2007
+Racing Santander,Juan José Valencia,34,Goalkeeper,Retired,-,out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Damià,24,Right-Back,FC Barcelona,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Mauricio Pinilla,22,Centre-Forward,Sporting CP,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Racing Santander,Antoñito,28,Centre-Forward,Sevilla FC,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Javi Martínez,17,Defensive Midfield,CA Osasuna Prom,£5.40m,in,Summer,5.4,Primera Division,2006,2006/2007
+Athletic Bilbao,Josu Sarriegi,27,Centre-Back,Alavés,£1.80m,in,Summer,1.8,Primera Division,2006,2006/2007
+Athletic Bilbao,Igor Gabilondo,27,Left Midfield,Real Sociedad,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Javier Iturriaga,22,Defensive Midfield,Bilbao Athletic,-,in,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Joseba Garmendia,20,Attacking Midfield,Bilbao Athletic,-,in,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Beñat Etxebarria,19,Central Midfield,CD Basconia,-,in,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Gorka Azkorra,23,Right Winger,CD Numancia,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Javi González,32,Right Midfield,FC Ashdod,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Aritz Solabarrieta,22,Right Midfield,SD Eibar,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Roberto Pampín,22,Goalkeeper,Real Unión,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Joseba Arriaga,23,Centre-Forward,SD Eibar,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Mari Lacruz,28,Right-Back,Espanyol,£270Th.,out,Summer,0.27,Primera Division,2006,2006/2007
+Athletic Bilbao,Eder Martínez,22,Defender,CD Logroñés,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Ibon Gutiérrez,21,Central Midfield,CD Castellón,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Felipe Guréndez,30,Right-Back,CD Numancia,?,out,Summer,NA,Primera Division,2006,2006/2007
+Athletic Bilbao,Joseba Arriaga,23,Centre-Forward,UD Las Palmas,?,out,Summer,NA,Primera Division,2006,2006/2007
+Athletic Bilbao,Andoitz Galdós,21,Central Midfield,FC Cartagena,?,out,Summer,NA,Primera Division,2006,2006/2007
+Athletic Bilbao,Roberto Pampín,22,Goalkeeper,Sestao River,?,out,Summer,NA,Primera Division,2006,2006/2007
+Athletic Bilbao,Gorka Azkorra,23,Right Winger,Albacete,?,out,Summer,NA,Primera Division,2006,2006/2007
+Athletic Bilbao,Julen Guerrero,32,Attacking Midfield,Retired,-,out,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Mahamadou Diarra,25,Defensive Midfield,Olympique Lyon,£23.40m,in,Summer,23.4,Primera Division,2006,2006/2007
+Real Madrid,Émerson,30,Defensive Midfield,Juventus,£14.40m,in,Summer,14.4,Primera Division,2006,2006/2007
+Real Madrid,Ruud van Nistelrooy,30,Centre-Forward,Man Utd,£13.50m,in,Summer,13.5,Primera Division,2006,2006/2007
+Real Madrid,Fabio Cannavaro,32,Centre-Back,Juventus,£6.30m,in,Summer,6.3,Primera Division,2006,2006/2007
+Real Madrid,José Antonio Reyes,22,Right Winger,Arsenal,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Javier Balboa,21,Right Winger,RM Castilla,-,in,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Borja Fernández,25,Defensive Midfield,RCD Mallorca,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Juanfran,21,Right-Back,Espanyol,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Javier Portillo,24,Centre-Forward,Club Brugge,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Carlos Sánchez,28,Goalkeeper,UD Almería,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Thomas Gravesen,30,Defensive Midfield,Celtic,£2.70m,out,Summer,2.7,Primera Division,2006,2006/2007
+Real Madrid,José Manuel Jurado,20,Attacking Midfield,Atlético Madrid,£2.70m,out,Summer,2.7,Primera Division,2006,2006/2007
+Real Madrid,Álvaro Arbeloa,23,Right-Back,Dep. La Coruña,£1.17m,out,Summer,1.17,Primera Division,2006,2006/2007
+Real Madrid,Juanfran,21,Right-Back,CA Osasuna,£360Th.,out,Summer,0.36,Primera Division,2006,2006/2007
+Real Madrid,Pablo García,29,Defensive Midfield,Celta de Vigo,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Jonathan Woodgate,26,Centre-Back,Middlesbrough,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Carlos Sánchez,28,Goalkeeper,CD Castellón,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Javier Portillo,24,Centre-Forward,Gimnàstic,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Roberto Soldado,21,Centre-Forward,CA Osasuna,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,David Cobeño,24,Goalkeeper,Sevilla FC,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Borja Fernández,25,Defensive Midfield,Real Valladolid,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Madrid,Júlio Baptista,24,Attacking Midfield,Arsenal,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Carlos Diogo,23,Right-Back,Real Zaragoza,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Rubén González,24,Centre-Back,Racing,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Madrid,Javier Balboa,21,Right Winger,Racing,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Real Madrid,Zinédine Zidane,34,Attacking Midfield,Retired,-,out,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Javier Chevantón,25,Centre-Forward,Monaco,£8.01m,in,Summer,8.01,Primera Division,2006,2006/2007
+Sevilla FC,Andreas Hinkel,24,Right-Back,VfB Stuttgart,£3.60m,in,Summer,3.6,Primera Division,2006,2006/2007
+Sevilla FC,Christian Poulsen,26,Defensive Midfield,FC Schalke 04,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,David Cobeño,24,Goalkeeper,Real Madrid,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Duda,26,Left Midfield,Málaga CF,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Paco Gallardo,26,Right Midfield,Dep. La Coruña,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Antoñito,28,Centre-Forward,Racing,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Carlos Aranda,25,Centre-Forward,Albacete,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Antonio López,26,Left Midfield,Málaga CF,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Marco Navas,23,Right Winger,Poli Ejido,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Jordi López,25,Central Midfield,RCD Mallorca,£1.35m,out,Summer,1.35,Primera Division,2006,2006/2007
+Sevilla FC,Antonio Notario,33,Goalkeeper,Real Murcia,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Ariza Makukula,25,Centre-Forward,Gimnàstic,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Antoñito,28,Centre-Forward,Real Murcia,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Carlos Aranda,26,Centre-Forward,Real Murcia,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Jesuli,28,Attacking Midfield,Real Sociedad,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Paco Gallardo,26,Right Midfield,Real Murcia,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Sevilla FC,Marco Navas,23,Right Winger,Xerez CD,?,out,Summer,NA,Primera Division,2006,2006/2007
+Sevilla FC,Pablo Ruiz,25,Centre-Back,Real Murcia,?,out,Summer,NA,Primera Division,2006,2006/2007
+Sevilla FC,Javier Saviola,24,Second Striker,FC Barcelona,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Juanfran,21,Right-Back,Real Madrid,£360Th.,in,Summer,0.36,Primera Division,2006,2006/2007
+CA Osasuna,Javad Nekounam,25,Defensive Midfield,Sharjah FC,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Héctor Font,22,Central Midfield,Villarreal,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Roberto Soldado,21,Centre-Forward,Real Madrid,Loan,in,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Juanlu,26,Left Midfield,Real Betis,Loan,in,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Nacho Monreal,20,Left-Back,CA Osasuna Prom,-,in,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Iñaki Astiz,22,Centre-Back,Osasuna U19,-,in,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Moha,28,Attacking Midfield,Espanyol,£270Th.,out,Summer,0.27,Primera Division,2006,2006/2007
+CA Osasuna,Rafael Clavero,29,Left-Back,CD Tenerife,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Gorka Brit,28,Centre-Forward,CD Numancia,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Fran Moreno,22,Attacking Midfield,CD Numancia,Loan,out,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Marcelo Sosa,28,Defensive Midfield,Atlético Madrid,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+CA Osasuna,Juanma Ortiz,24,Right-Back,Atlético Madrid,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Fernando Navarro,24,Left-Back,FC Barcelona,£5.40m,in,Summer,5.4,Primera Division,2006,2006/2007
+RCD Mallorca,Boško Janković,22,Right Winger,Red Star,£2.70m,in,Summer,2.7,Primera Division,2006,2006/2007
+RCD Mallorca,Jordi López,25,Central Midfield,Sevilla FC,£1.35m,in,Summer,1.35,Primera Division,2006,2006/2007
+RCD Mallorca,Ariel Ibagaza,29,Attacking Midfield,Atlético Madrid,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Héctor Berenguel,31,Right-Back,Dep. La Coruña,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Diego Tristán,30,Centre-Forward,Dep. La Coruña,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Maxi López,22,Centre-Forward,FC Barcelona,Loan,in,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Paíto,23,Left-Back,Sporting CP,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Daniel Komé,26,Right Winger,Real Murcia,?,in,Summer,NA,Primera Division,2006,2006/2007
+RCD Mallorca,Juanjo,23,Goalkeeper,Unknown,?,in,Summer,NA,Primera Division,2006,2006/2007
+RCD Mallorca,Fernando Varela,26,Right-Back,Real Betis,?,in,Summer,NA,Primera Division,2006,2006/2007
+RCD Mallorca,Andrija Delibasic,25,Centre-Forward,Braga,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Iván Ramis,21,Centre-Back,Real Valladolid,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Francisco Farinós,28,Defensive Midfield,Hércules CF,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Andrija Delibasic,25,Centre-Forward,AEK Athens,Loan,out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Rafita,23,Right-Back,Ciudad Murcia,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Yoshito Okubo,24,Centre-Forward,Cerezo Osaka,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Yordi,31,Centre-Forward,Xerez CD,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,David Cortés,26,Right-Back,Getafe,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Alejandro Campano,27,Right Midfield,Gimnàstic,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Cristiano Doni,33,Attacking Midfield,Atalanta,?,out,Summer,NA,Primera Division,2006,2006/2007
+RCD Mallorca,Carlos Carmona,19,Right Winger,FC Cartagena,Loan,out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Paíto,24,Left-Back,Braga,Loan,out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Fernando Navarro,24,Left-Back,FC Barcelona,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Borja Fernández,25,Defensive Midfield,Real Madrid,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Eduardo Tuzzio,31,Centre-Back,River Plate,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Francisco Diego Maciel,28,Right-Back,Real Murcia,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Braulio Nóbrega,20,Centre-Forward,Atlético Madrid,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+RCD Mallorca,Alessandro Potenza,22,Centre-Back,Inter,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Rafael Sóbis,21,Centre-Forward,Internacional,£7.65m,in,Summer,7.65,Primera Division,2006,2006/2007
+Real Betis Balompié,David Odonkor,22,Right Winger,Bor. Dortmund,£5.85m,in,Summer,5.85,Primera Division,2006,2006/2007
+Real Betis Balompié,Johann Vogel,29,Defensive Midfield,AC Milan,£4.05m,in,Summer,4.05,Primera Division,2006,2006/2007
+Real Betis Balompié,Jorge Wagner,27,Left Winger,Internacional,£1.80m,in,Summer,1.8,Primera Division,2006,2006/2007
+Real Betis Balompié,Damià,24,Right-Back,FC Barcelona,£900Th.,in,Summer,0.9,Primera Division,2006,2006/2007
+Real Betis Balompié,Francisco Maldonado,25,Attacking Midfield,Lorca Dep.,£56Th.,in,Summer,0.056,Primera Division,2006,2006/2007
+Real Betis Balompié,Romero,35,Left-Back,Dep. La Coruña,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Fernando Vega,21,Left-Back,Lorca Dep.,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Óscar López,26,Right-Back,FC Barcelona,?,in,Summer,NA,Primera Division,2006,2006/2007
+Real Betis Balompié,José Ángel,21,Attacking Midfield,CD Badajoz,-,in,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Juande,19,Defensive Midfield,Betis B,-,in,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Benjamín,30,Left Midfield,Cádiz CF,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Ricardo Oliveira,26,Centre-Forward,São Paulo,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Juanlu,26,Left Midfield,Albacete,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Joaquín,25,Right Winger,Valencia,£22.50m,out,Summer,22.5,Primera Division,2006,2006/2007
+Real Betis Balompié,Ricardo Oliveira,26,Centre-Forward,AC Milan,£13.50m,out,Summer,13.5,Primera Division,2006,2006/2007
+Real Betis Balompié,Óscar López,26,Right-Back,Gimnàstic,Loan fee:£180Th.,out,Summer,0.18,Primera Division,2006,2006/2007
+Real Betis Balompié,Juanlu,26,Left Midfield,CA Osasuna,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Paolo Castellini,27,Left-Back,Parma,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Fernando Varela,26,Right-Back,RCD Mallorca,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Betis Balompié,Luis Fernández,33,Left-Back,Racing,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Betis Balompié,Juanjo Cañas,34,Defensive Midfield,CD Alcalá,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Betis Balompié,Benjamín,30,Left Midfield,Unknown,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Betis Balompié,Branko Ilic,24,Centre-Back,NK Domzale,"End of loanMay 1, 2007",out,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Óscar López,26,Right-Back,FC Barcelona,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Diego Tardelli,21,Centre-Forward,São Paulo,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Pablo Aimar,26,Attacking Midfield,Valencia,£9.90m,in,Summer,9.9,Primera Division,2006,2006/2007
+Real Zaragoza,Diego Milito,27,Centre-Forward,Genoa,£4.50m,in,Summer,4.5,Primera Division,2006,2006/2007
+Real Zaragoza,Andrés D'Alessandro,25,Attacking Midfield,VfL Wolfsburg,Loan fee:£900Th.,in,Summer,0.9,Primera Division,2006,2006/2007
+Real Zaragoza,Juanfran,29,Left-Back,Besiktas,Free transfer,in,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Gerard Piqué,19,Centre-Back,Man Utd,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Carlos Diogo,23,Right-Back,Real Madrid,Loan,in,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Sergio,29,Centre-Back,Celta de Vigo,?,in,Summer,NA,Primera Division,2006,2006/2007
+Real Zaragoza,Íñigo Rodríguez,30,Right Midfield,Real Zaragoza B,-,in,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Miguel Martínez,24,Goalkeeper,Real Zaragoza B,-,in,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Antonio Longás,21,Central Midfield,Real Zaragoza B,-,in,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Piti,25,Attacking Midfield,Ciudad Murcia,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Cani,24,Attacking Midfield,Villarreal,£9.90m,out,Summer,9.9,Primera Division,2006,2006/2007
+Real Zaragoza,Álvaro,28,Centre-Back,Levante,£810Th.,out,Summer,0.81,Primera Division,2006,2006/2007
+Real Zaragoza,Piti,25,Attacking Midfield,Hércules CF,£162Th.,out,Summer,0.162,Primera Division,2006,2006/2007
+Real Zaragoza,Delio Toledo,29,Left-Back,Kayserispor,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Sávio,32,Left Winger,Flamengo,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,David Generelo,23,Central Midfield,Gimnàstic,Loan,out,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Capi,25,Centre-Back,Real Murcia,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Raúl Valbuena,31,Goalkeeper,Albacete,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+Real Zaragoza,Corona,25,Central Midfield,UD Almería,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Zaragoza,Diego Milito,27,Centre-Forward,Genoa,"End of loanJun 30, 2006",out,Summer,0,Primera Division,2006,2006/2007
+FC Barcelona,Gianluca Zambrotta,29,Right-Back,Juventus,£12.60m,in,Summer,12.6,Primera Division,2006,2006/2007
+FC Barcelona,Eidur Gudjohnsen,27,Centre-Forward,Chelsea,£10.80m,in,Summer,10.8,Primera Division,2006,2006/2007
+FC Barcelona,Lilian Thuram,34,Centre-Back,Juventus,£4.50m,in,Summer,4.5,Primera Division,2006,2006/2007
+FC Barcelona,Rüstü Recber,33,Goalkeeper,Fenerbahce,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+FC Barcelona,Fernando Navarro,24,Left-Back,RCD Mallorca,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+FC Barcelona,Javier Saviola,24,Second Striker,Sevilla FC,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+FC Barcelona,Óscar López,26,Right-Back,Real Betis,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+FC Barcelona,Damià,24,Right-Back,Racing,"End of loanJun 30, 2006",in,Summer,0,Primera Division,2006,2006/2007
+FC Barcelona,Fernando Navarro,24,Left-Back,RCD Mallorca,£5.40m,out,Summer,5.4,Primera Division,2006,2006/2007
+FC Barcelona,Mark van Bommel,29,Defensive Midfield,Bayern Munich,£5.40m,out,Summer,5.4,Primera Division,2006,2006/2007
+FC Barcelona,Damià,24,Right-Back,Real Betis,£900Th.,out,Summer,0.9,Primera Division,2006,2006/2007
+FC Barcelona,Henrik Larsson,34,Centre-Forward,Helsingborg,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+FC Barcelona,Gabri,27,Defensive Midfield,Ajax,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+FC Barcelona,Maxi López,22,Centre-Forward,RCD Mallorca,Loan,out,Summer,0,Primera Division,2006,2006/2007
+FC Barcelona,Rüstü Recber,33,Goalkeeper,Fenerbahce,Free transfer,out,Summer,0,Primera Division,2006,2006/2007
+FC Barcelona,Óscar López,26,Right-Back,Real Betis,?,out,Summer,NA,Primera Division,2006,2006/2007
+Real Sociedad,Sávio,32,Left Winger,Flamengo,£1.35m,in,Winter,1.35,Primera Division,2006,2006/2007
+Real Sociedad,Germán Herrera,23,Centre-Forward,Grêmio,£1.35m,in,Winter,1.35,Primera Division,2006,2006/2007
+Real Sociedad,Víctor López,28,Centre-Back,Arsenal FC,£405Th.,in,Winter,0.405,Primera Division,2006,2006/2007
+Real Sociedad,Jesuli,28,Attacking Midfield,Sevilla FC,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Real Sociedad,Fábio Felicio,24,Central Midfield,Rubin Kazan,£315Th.,out,Winter,0.315,Primera Division,2006,2006/2007
+Real Sociedad,Daniel Cifuentes,26,Right-Back,Ponferradina,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Real Sociedad,Iban Zubiaurre,23,Right-Back,Athletic,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Real Sociedad,Germán Herrera,23,Centre-Forward,San Lorenzo,?,out,Winter,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Tobias Grahn,26,Central Midfield,Aarhus GF,£900Th.,in,Winter,0.9,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,César Navas,26,Centre-Back,Málaga CF,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,José Calvo,25,Right-Back,Boca Juniors,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Rubén Castro,25,Centre-Forward,Dep. La Coruña,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Sebastien Chabaud,29,Defensive Midfield,RSC Charleroi,?,in,Winter,NA,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Nano,22,Left-Back,FC Barcelona B,"End of loanDec 31, 2006",in,Winter,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Manolo Martínez,26,Centre-Back,CD Tenerife,£68Th.,out,Winter,0.068,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Miguel Llera,27,Centre-Back,Hércules CF,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Abel Buades,29,Defensive Midfield,Cádiz CF,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Nano,22,Left-Back,Córdoba CF,Loan,out,Winter,0,Primera Division,2006,2006/2007
+Gimnàstic de Tarragona,Julio Cáceres,27,Centre-Back,Tigres UANL,?,out,Winter,NA,Primera Division,2006,2006/2007
+Getafe CF,Maris Verpakovskis,27,Centre-Forward,Dynamo Kyiv,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Getafe CF,Jajá,20,Centre-Forward,Flamengo,"End of loanDec 31, 2006",in,Winter,0,Primera Division,2006,2006/2007
+Getafe CF,Veljko Paunovic,29,Centre-Forward,Rubin Kazan,£720Th.,out,Winter,0.72,Primera Division,2006,2006/2007
+Getafe CF,Jajá,20,Centre-Forward,KRC Genk,Loan,out,Winter,0,Primera Division,2006,2006/2007
+Getafe CF,Quique Medina,32,Centre-Back,Retired,-,out,Winter,0,Primera Division,2006,2006/2007
+Levante UD,Salva Ballesta,31,Centre-Forward,Málaga CF,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Levante UD,José Serrano,25,Centre-Back,Levante B,-,in,Winter,0,Primera Division,2006,2006/2007
+Levante UD,Vladimir Manchev,29,Centre-Forward,Real Valladolid,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Levante UD,César Martín,29,Centre-Back,Bolton,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Levante UD,Ignacio Aizpurúa,36,Goalkeeper,Retired,-,out,Winter,0,Primera Division,2006,2006/2007
+Levante UD,Péguy Luyindula,27,Centre-Forward,Marseille,"End of loanDec 31, 2006",out,Winter,0,Primera Division,2006,2006/2007
+Recreativo Huelva,José Antonio Luque,32,Goalkeeper,R. B. Linense,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Recreativo Huelva,Juvenal Edjogo,27,Central Midfield,CD Tenerife,?,out,Winter,NA,Primera Division,2006,2006/2007
+Villarreal CF,Matías Fernández,20,Attacking Midfield,Colo Colo,£7.83m,in,Winter,7.83,Primera Division,2006,2006/2007
+Villarreal CF,Jon Dahl Tomasson,30,Centre-Forward,VfB Stuttgart,Loan fee:£450Th.,in,Winter,0.45,Primera Division,2006,2006/2007
+Villarreal CF,Juan Román Riquelme,28,Attacking Midfield,Boca Juniors,Loan fee:£1.35m,out,Winter,1.35,Primera Division,2006,2006/2007
+Valencia CF,Stefano Fiore,31,Attacking Midfield,Torino,"End of loanDec 1, 2006",in,Winter,0,Primera Division,2006,2006/2007
+Valencia CF,Francesco Tavano,27,Centre-Forward,AS Roma,Loan fee:£522Th.,out,Winter,0.522,Primera Division,2006,2006/2007
+Valencia CF,Stefano Fiore,31,Attacking Midfield,AS Livorno,Loan,out,Winter,0,Primera Division,2006,2006/2007
+Celta de Vigo,Habib Bamogo,24,Second Striker,Marseille,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Celta de Vigo,Areias,29,Left-Back,FC Porto,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Rubén Castro,25,Centre-Forward,Racing,"End of loanNov 1, 2006",in,Winter,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Iván Carril,21,Attacking Midfield,UD Vecindario,"End of loanDec 1, 2006",in,Winter,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Ángel Guirado,22,Centre-Forward,UD Vecindario,"End of loanDec 31, 2006",in,Winter,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Álvaro Arbeloa,24,Right-Back,Liverpool,£3.51m,out,Winter,3.51,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Rodri,22,Centre-Back,UD Almería,Loan,out,Winter,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Ángel Guirado,22,Centre-Forward,CD Lugo,Loan,out,Winter,0,Primera Division,2006,2006/2007
+Deportivo de La Coruña,Rubén Castro,25,Centre-Forward,Gimnàstic,Loan,out,Winter,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Julián López,19,Attacking Midfield,RCD Espanyol B,-,in,Winter,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Frédson,25,Defensive Midfield,São Paulo,Loan fee:£270Th.,out,Winter,0.27,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Jonathan Soriano,21,Centre-Forward,Poli Ejido,Loan fee:£135Th.,out,Winter,0.135,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,Armando Sá,31,Right-Back,Leeds,Loan,out,Winter,0,Primera Division,2006,2006/2007
+RCD Espanyol Barcelona,André Luiz,23,Right-Back,Paraná,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Atlético Madrid,Fabiano Eller,29,Centre-Back,Trabzonspor,£1.35m,in,Winter,1.35,Primera Division,2006,2006/2007
+Atlético Madrid,Víctor Bravo,23,Attacking Midfield,Atl. Madrid B,-,in,Winter,0,Primera Division,2006,2006/2007
+Atlético Madrid,Marcelo Sosa,28,Defensive Midfield,River Plate,"End of loanDec 31, 2006",in,Winter,0,Primera Division,2006,2006/2007
+Atlético Madrid,Marcelo Sosa,28,Defensive Midfield,Nacional,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Atlético Madrid,José Ignacio Zahinos,29,Defensive Midfield,Albacete,Loan,out,Winter,0,Primera Division,2006,2006/2007
+Atlético Madrid,Ismael Falcón,22,Goalkeeper,Hércules CF,Loan,out,Winter,0,Primera Division,2006,2006/2007
+Atlético Madrid,Diego Costa,18,Centre-Forward,Braga,Loan,out,Winter,0,Primera Division,2006,2006/2007
+Atlético Madrid,Francisco Molinero,21,Right-Back,Málaga CF,?,out,Winter,NA,Primera Division,2006,2006/2007
+Racing Santander,Walid Regragui,31,Right-Back,Dijon,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Racing Santander,Neru,32,Left-Back,Cádiz CF,?,out,Winter,NA,Primera Division,2006,2006/2007
+Racing Santander,Rubén Castro,25,Centre-Forward,Dep. La Coruña,"End of loanNov 1, 2006",out,Winter,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Unai Alba,28,Goalkeeper,Barakaldo CF,Free transfer,in,Winter,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Iban Zubiaurre,23,Right-Back,Real Sociedad,Free transfer,in,Winter,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Endika Bordas,24,Central Midfield,Córdoba CF,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Athletic Bilbao,Aritz Solabarrieta,23,Right Midfield,Atl. Madrid B,?,out,Winter,NA,Primera Division,2006,2006/2007
+Real Madrid,Fernando Gago,20,Defensive Midfield,Boca Juniors,£18.45m,in,Winter,18.45,Primera Division,2006,2006/2007
+Real Madrid,Gonzalo Higuaín,19,Centre-Forward,River Plate,£10.80m,in,Winter,10.8,Primera Division,2006,2006/2007
+Real Madrid,Marcelo,18,Left-Back,Fluminense,£5.85m,in,Winter,5.85,Primera Division,2006,2006/2007
+Real Madrid,Ronaldo,30,Centre-Forward,AC Milan,£6.75m,out,Winter,6.75,Primera Division,2006,2006/2007
+Sevilla FC,Aleksandr Kerzhakov,24,Centre-Forward,Zenit S-Pb,£4.50m,in,Winter,4.5,Primera Division,2006,2006/2007
+Sevilla FC,Federico Fazio,19,Centre-Back,Ferro,£720Th.,in,Winter,0.72,Primera Division,2006,2006/2007
+Sevilla FC,Kepa Blanco,22,Centre-Forward,West Ham,Loan,out,Winter,0,Primera Division,2006,2006/2007
+Sevilla FC,Antonio López,26,Left Midfield,CD Castellón,Free transfer,out,Winter,0,Primera Division,2006,2006/2007
+Sevilla FC,Jesuli,28,Attacking Midfield,Real Sociedad,Loan,out,Winter,0,Primera Division,2006,2006/2007
+RCD Mallorca,Óscar Trejo,18,Attacking Midfield,Boca Juniors,£2.25m,in,Winter,2.25,Primera Division,2006,2006/2007
+RCD Mallorca,Andrija Delibasic,25,Centre-Forward,AEK Athens,"End of loanDec 1, 2006",in,Winter,0,Primera Division,2006,2006/2007
+RCD Mallorca,Leonardo Pisculichi,22,Attacking Midfield,Al-Arabi SC,£3.24m,out,Winter,3.24,Primera Division,2006,2006/2007
+RCD Mallorca,Andrija Delibasic,25,Centre-Forward,Beira-Mar,Loan,out,Winter,0,Primera Division,2006,2006/2007
+RCD Mallorca,Daniel Komé,26,Right Winger,Real Valladolid,?,out,Winter,NA,Primera Division,2006,2006/2007
+Real Betis Balompié,Juan Pablo Caffa,22,Left Midfield,Arsenal FC,£1.80m,in,Winter,1.8,Primera Division,2006,2006/2007
+Real Betis Balompié,Branko Ilic,23,Centre-Back,NK Domzale,Loan fee:£158Th.,in,Winter,0.158,Primera Division,2006,2006/2007
+Real Betis Balompié,Fabrice Pancrate,26,Right Winger,Paris SG,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Real Betis Balompié,Jorge Wagner,28,Left Winger,São Paulo,Loan,out,Winter,0,Primera Division,2006,2006/2007
+Real Zaragoza,Gustavo Nery,29,Left-Back,Corinthians,Loan,in,Winter,0,Primera Division,2006,2006/2007
+Real Zaragoza,Leonardo Ponzio,24,Defensive Midfield,River Plate,£2.70m,out,Winter,2.7,Primera Division,2006,2006/2007

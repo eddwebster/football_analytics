@@ -1,0 +1,732 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Paris Saint-Germain,Grzegorz Krychowiak,26,Defensive Midfield,Sevilla FC,£24.75m,in,Summer,24.75,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Jesé,23,Left Winger,Real Madrid,£22.50m,in,Summer,22.5,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Giovani Lo Celso,20,Central Midfield,CA Rosario,£9.00m,in,Summer,9,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Thomas Meunier,24,Right-Back,Club Brugge,£5.40m,in,Summer,5.4,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Hatem Ben Arfa,29,Attacking Midfield,OGC Nice,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Odsonne Edouard,19,Centre-Forward,Toulouse,"End of loanApr 4, 2017",in,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Jonathan Ikoné,18,Attacking Midfield,Paris SG U19,-,in,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Odsonne Edouard,18,Centre-Forward,Paris SG B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Alphonse Areola,23,Goalkeeper,Villarreal,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Jean-Christophe Bahebeck,23,Centre-Forward,Saint-Étienne,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Lucas Digne,22,Left-Back,AS Roma,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Youssouf Sabaly,23,Right-Back,FC Nantes,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,David Luiz,29,Centre-Back,Chelsea,£31.50m,out,Summer,31.5,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Lucas Digne,22,Left-Back,FC Barcelona,£14.85m,out,Summer,14.85,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Benjamin Stambouli,26,Centre-Back,FC Schalke 04,£7.20m,out,Summer,7.2,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Gregory van der Wiel,28,Right-Back,Fenerbahce,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Zlatan Ibrahimovic,34,Centre-Forward,Man Utd,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Nicolas Douchez,36,Goalkeeper,Lens,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Giovani Lo Celso,20,Central Midfield,CA Rosario,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Youssouf Sabaly,23,Right-Back,G. Bordeaux,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Odsonne Edouard,18,Centre-Forward,Toulouse,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Jean-Christophe Bahebeck,23,Centre-Forward,Pescara,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Salvatore Sirigu,29,Goalkeeper,Sevilla FC,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Emanuel Mammana,20,Centre-Back,River Plate,£7.65m,in,Summer,7.65,Ligue 1,2016,2016/2017
+Olympique Lyon,Jean-Philippe Mateta,19,Centre-Forward,LB Châteauroux,£3.69m,in,Summer,3.69,Ligue 1,2016,2016/2017
+Olympique Lyon,Nicolas N'Koulou,26,Centre-Back,Marseille,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Maciej Rybus,26,Left-Back,Terek Grozny,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Romain Del Castillo,20,Right Winger,Olymp. Lyon B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Gaëtan Perrin,20,Right Midfield,Olymp. Lyon B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Houssem Aouar,18,Central Midfield,Olymp. Lyon U19,-,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Mouctar Diakhaby,19,Centre-Back,Olymp. Lyon B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Jordy Gaspar,19,Right-Back,Olymp. Lyon B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Louis Nganioni,21,Left-Back,FC Utrecht,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Lindsay Rose,24,Centre-Back,FC Lorient,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Samuel Umtiti,22,Centre-Back,FC Barcelona,£22.50m,out,Summer,22.5,Ligue 1,2016,2016/2017
+Olympique Lyon,Lindsay Rose,24,Centre-Back,FC Lorient,£1.35m,out,Summer,1.35,Ligue 1,2016,2016/2017
+Olympique Lyon,Bakary Koné,28,Centre-Back,Málaga CF,£720Th.,out,Summer,0.72,Ligue 1,2016,2016/2017
+Olympique Lyon,Henri Bedimo,32,Left-Back,Marseille,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Steed Malbranque,36,Central Midfield,SM Caen,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Romain Del Castillo,20,Right Winger,Bourg-en-Bresse,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Louis Nganioni,21,Left-Back,Stade Brest 29,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Zakarie Labidi,21,Attacking Midfield,Stade Brest 29,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Arnold Mvuemba,31,Defensive Midfield,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Djibril Sidibé,23,Right-Back,LOSC Lille,£13.50m,in,Summer,13.5,Ligue 1,2016,2016/2017
+AS Monaco,Benjamin Mendy,21,Left-Back,Marseille,£11.70m,in,Summer,11.7,Ligue 1,2016,2016/2017
+AS Monaco,Kamil Glik,28,Centre-Back,Torino,£9.90m,in,Summer,9.9,Ligue 1,2016,2016/2017
+AS Monaco,Youssef Aït Bennasser,19,Central Midfield,AS Nancy,£2.70m,in,Summer,2.7,Ligue 1,2016,2016/2017
+AS Monaco,Morgan De Sanctis,39,Goalkeeper,AS Roma,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Loïc Badiashile,18,Goalkeeper,Monaco U19,-,in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Kévin N'Doram,20,Defensive Midfield,Monaco B,-,in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Jessy Pi,22,Defensive Midfield,Troyes,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Gil Dias,19,Right Winger,Varzim,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Edgar Salli,23,Right Winger,FC St. Gallen,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Allan Saint-Maximin,19,Left Winger,Hannover 96,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Dylan Bahamboula,21,Attacking Midfield,Paris FC,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Delvin N'Dinga,28,Defensive Midfield,Loko Moscow,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Valère Germain,26,Centre-Forward,OGC Nice,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Falcao,30,Centre-Forward,Chelsea,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Corentin Jean,20,Right Winger,Troyes,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Abdou Diallo,20,Centre-Back,Zulte Waregem,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Marcel Tisserand,23,Centre-Back,Toulouse,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Gabriel Boschilia,20,Attacking Midfield,Standard Liège,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Ivan Cavaleiro,22,Left Winger,Wolves,£7.20m,out,Summer,7.2,Ligue 1,2016,2016/2017
+AS Monaco,Marcel Tisserand,23,Centre-Back,FC Ingolstadt,£3.15m,out,Summer,3.15,Ligue 1,2016,2016/2017
+AS Monaco,Delvin N'Dinga,28,Defensive Midfield,Loko Moscow,£2.25m,out,Summer,2.25,Ligue 1,2016,2016/2017
+AS Monaco,Jessy Pi,22,Defensive Midfield,Toulouse,£630Th.,out,Summer,0.63,Ligue 1,2016,2016/2017
+AS Monaco,Elderson,28,Left-Back,Standard Liège,Loan fee:£225Th.,out,Summer,0.225,Ligue 1,2016,2016/2017
+AS Monaco,Allan Saint-Maximin,19,Left Winger,SC Bastia,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Farès Bahlouli,21,Attacking Midfield,Standard Liège,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Jonathan Mexique,21,Central Midfield,Red Star FC,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Raphaël Diarra,21,Centre-Back,Cercle Brugge,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Vágner Love,32,Centre-Forward,Alanyaspor,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Edgar Salli,23,Right Winger,1.FC Nuremberg,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Gil Dias,19,Right Winger,Rio Ave FC,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Dylan Bahamboula,21,Attacking Midfield,Dijon,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Youssef Aït Bennasser,19,Central Midfield,AS Nancy,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Jérémy Toulalan,32,Defensive Midfield,G. Bordeaux,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Paul Nardi,22,Goalkeeper,Stade Rennais,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Lacina Traore,26,Centre-Forward,CSKA Moscow,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Ricardo Carvalho,38,Centre-Back,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Abdou Aziz Thiam,19,Defensive Midfield,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Wallace,21,Centre-Back,Braga,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Mario Pasalic,21,Central Midfield,Chelsea,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Hélder Costa,22,Right Winger,Benfica,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+AS Monaco,Fábio Coentrão,28,Left-Back,Real Madrid,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Wylan Cyprien,21,Central Midfield,Lens,£4.50m,in,Summer,4.5,Ligue 1,2016,2016/2017
+OGC Nice,Dante,32,Centre-Back,VfL Wolfsburg,£2.25m,in,Summer,2.25,Ligue 1,2016,2016/2017
+OGC Nice,Arnaud Lusamba,19,Central Midfield,AS Nancy,£2.25m,in,Summer,2.25,Ligue 1,2016,2016/2017
+OGC Nice,Dalbert,22,Left-Back,Vit. Guimarães,£1.80m,in,Summer,1.8,Ligue 1,2016,2016/2017
+OGC Nice,Arnaud Souquet,24,Right-Back,Dijon,£1.13m,in,Summer,1.13,Ligue 1,2016,2016/2017
+OGC Nice,Paul Baysse,28,Centre-Back,Saint-Étienne,£450Th.,in,Summer,0.45,Ligue 1,2016,2016/2017
+OGC Nice,Walter Benítez,23,Goalkeeper,Quilmes,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Mario Balotelli,26,Centre-Forward,Liverpool,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Anastasios Donis,19,Centre-Forward,Juventus,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Younès Belhanda,26,Attacking Midfield,Dynamo Kyiv,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Patrick Burner,20,Right-Back,OGC Nice B,-,in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Vincent Marcel,19,Left Winger,OGC Nice B,-,in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Malang Sarr,17,Centre-Back,OGC Nice B,-,in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Lucas Rougeaux,22,Centre-Back,US Boulogne,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Valentin Eysseric,24,Attacking Midfield,Saint-Étienne,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Julien Vercauteren,23,Attacking Midfield,KVC Westerlo,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Saïd Benrahma,20,Left Winger,SCO Angers,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Bryan Constant,22,Centre-Forward,Fréjus-St-Raph.,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Albert Rafetraniaina,19,Defensive Midfield,Red Star FC,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Nampalys Mendy,24,Defensive Midfield,Leicester,£13.95m,out,Summer,13.95,Ligue 1,2016,2016/2017
+OGC Nice,Niklas Hult,26,Left-Back,Panathinaikos,£270Th.,out,Summer,0.27,Ligue 1,2016,2016/2017
+OGC Nice,Hatem Ben Arfa,29,Attacking Midfield,Paris SG,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Stéphan Raheriharimanana,22,Central Midfield,Red Star FC,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Alexandre Mendy,22,Centre-Forward,Guingamp,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Franck Honorat,19,Right Winger,FC Sochaux,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Jérémy Pied,27,Right-Back,Southampton,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Kévin Gomis,27,Centre-Back,Dundee FC,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Romain Genevois,28,Centre-Back,SM Caen,?,out,Summer,NA,Ligue 1,2016,2016/2017
+OGC Nice,Lucas Rougeaux,22,Centre-Back,KV Kortrijk,?,out,Summer,NA,Ligue 1,2016,2016/2017
+OGC Nice,Mahamane Traoré,27,Central Midfield,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Valère Germain,26,Centre-Forward,Monaco,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Paul Baysse,28,Centre-Back,Saint-Étienne,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+OGC Nice,Wallyson Mallmann,22,Defensive Midfield,Sporting CP,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Éder,28,Centre-Forward,Swansea,£4.05m,in,Summer,4.05,Ligue 1,2016,2016/2017
+LOSC Lille,Julian Palmieri,29,Left-Back,SC Bastia,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Nicolas de Préville,25,Centre-Forward,KV Oostende,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Naïm Sliti,24,Left Winger,Red Star FC,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Younousse Sankharé,26,Central Midfield,Guingamp,?,in,Summer,NA,Ligue 1,2016,2016/2017
+LOSC Lille,Stoppila Sunzu,27,Centre-Back,SH Shenhua,?,in,Summer,NA,Ligue 1,2016,2016/2017
+LOSC Lille,Jean Butez,21,Goalkeeper,LOSC Lille B,-,in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Yves Bissouma,19,Central Midfield,LOSC Lille B,-,in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Kevin Koubemba,23,Right Winger,Stade Brest 29,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,John Jairo Ruiz,22,Left Winger,Dnipro,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Ronny Rodelin,26,Right Winger,SM Caen,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Julian Jeanvier,24,Centre-Back,Red Star FC,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Ryan Mendes,26,Left Winger,Nottm Forest,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Serhou Guirassy,20,Centre-Forward,AJ Auxerre,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Alexis Araujo,19,Attacking Midfield,US Boulogne,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Michael Frey,21,Centre-Forward,FC Luzern,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Sofiane Boufal,22,Left Winger,Southampton,£16.83m,out,Summer,16.83,Ligue 1,2016,2016/2017
+LOSC Lille,Djibril Sidibé,23,Right-Back,Monaco,£13.50m,out,Summer,13.5,Ligue 1,2016,2016/2017
+LOSC Lille,Benjamin Pavard,20,Right-Back,VfB Stuttgart,£4.50m,out,Summer,4.5,Ligue 1,2016,2016/2017
+LOSC Lille,Serhou Guirassy,20,Centre-Forward,1. FC Köln,£3.42m,out,Summer,3.42,Ligue 1,2016,2016/2017
+LOSC Lille,Ronny Rodelin,26,Right Winger,SM Caen,£900Th.,out,Summer,0.9,Ligue 1,2016,2016/2017
+LOSC Lille,Michael Frey,21,Centre-Forward,BSC Young Boys,£450Th.,out,Summer,0.45,Ligue 1,2016,2016/2017
+LOSC Lille,Nolan Mbemba,21,Defensive Midfield,Guimarães B,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Steeve Elana,35,Goalkeeper,G. Ajaccio,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,John Jairo Ruiz,22,Left Winger,Red Star,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Julian Jeanvier,24,Centre-Back,Stade Reims,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Baptiste Guillaume,21,Centre-Forward,R. Strasbourg,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Florent Balmont,36,Central Midfield,Dijon,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Marvin Martin,28,Attacking Midfield,Dijon,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Alexis Araujo,19,Attacking Midfield,USL Dunkerque,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Lenny Nangis,22,Left Winger,SC Bastia,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Kevin Koubemba,23,Right Winger,Sint-Truiden,?,out,Summer,NA,Ligue 1,2016,2016/2017
+LOSC Lille,Yaw Yeboah,19,Right Winger,Man City U21,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+LOSC Lille,Éder,28,Centre-Forward,Swansea,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Bryan Dabo,24,Central Midfield,Montpellier,£3.60m,in,Summer,3.6,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Léo Lacroix,24,Centre-Back,FC Sion,£2.70m,in,Summer,2.7,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Cheikh M'Bengue,27,Left-Back,Stade Rennais,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Henri Saivet,25,Attacking Midfield,Newcastle,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Jordan Veretout,23,Central Midfield,Aston Villa,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Ronaël Pierre-Gabriel,18,Right-Back,Saint-Étienne B,-,in,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Paul Baysse,28,Centre-Back,OGC Nice,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Yohan Mollo,26,Left Winger,KS Samara,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Jonathan Bamba,20,Left Winger,Paris FC,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Ismaël Diomandé,23,Defensive Midfield,SM Caen,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Dylan Saint-Louis,21,Centre-Forward,Évian,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Moustapha Sall,30,Centre-Back,Al-Arabi SC,£900Th.,out,Summer,0.9,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Ismaël Diomandé,23,Defensive Midfield,SM Caen,£675Th.,out,Summer,0.675,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Paul Baysse,28,Centre-Back,OGC Nice,£450Th.,out,Summer,0.45,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Jonathan Bamba,20,Left Winger,Sint-Truiden,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Benoît Assou-Ekotto,32,Left-Back,FC Metz,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Neal Maupay,19,Centre-Forward,Stade Brest 29,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Jonathan Brison,33,Left-Back,Chamois Niort,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,François Clerc,33,Right-Back,G. Ajaccio,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Dylan Saint-Louis,21,Centre-Forward,Stade Lavallois,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Renaud Cohade,31,Central Midfield,FC Metz,?,out,Summer,NA,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Yohan Mollo,27,Left Winger,KS Samara,?,out,Summer,NA,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Jean-Christophe Bahebeck,23,Centre-Forward,Paris SG,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Valentin Eysseric,24,Attacking Midfield,OGC Nice,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Franck Tabanou,27,Left-Back,Swansea,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Ivan Santini,27,Centre-Forward,Standard Liège,£2.25m,in,Summer,2.25,Ligue 1,2016,2016/2017
+SM Caen,Ronny Rodelin,26,Right Winger,LOSC Lille,£900Th.,in,Summer,0.9,Ligue 1,2016,2016/2017
+SM Caen,Ismaël Diomandé,23,Defensive Midfield,Saint-Étienne,£675Th.,in,Summer,0.675,Ligue 1,2016,2016/2017
+SM Caen,Steed Malbranque,36,Central Midfield,Olympique Lyon,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Mouhamadou Dabo,29,Right-Back,Troyes,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Matthieu Dreyer,27,Goalkeeper,Troyes,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Frédéric Guilbert,21,Right-Back,G. Bordeaux,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Romain Genevois,28,Centre-Back,OGC Nice,?,in,Summer,NA,Ligue 1,2016,2016/2017
+SM Caen,Valentin Voisin,20,Defensive Midfield,SM Caen B,-,in,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Cheick Traoré,21,Right-Back,US Avranches,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Pape Sané,24,Centre-Forward,Bourg-en-Bresse,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Andy Delort,24,Centre-Forward,Tigres UANL,£7.20m,out,Summer,7.2,Ligue 1,2016,2016/2017
+SM Caen,Dennis Appiah,24,Right-Back,RSC Anderlecht,£2.70m,out,Summer,2.7,Ligue 1,2016,2016/2017
+SM Caen,Florian Le Joncour,21,Centre-Back,US Avranches,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Alexandre Raineau,30,Left-Back,LB Châteauroux,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Cheick Traoré,21,Right-Back,LB Châteauroux,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Christian Kouakou,25,Left Winger,Nîmes Olympique,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Saidi Ntibazonkiza,29,Left Winger,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Jonathan Beaulieu,23,Defensive Midfield,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Ronny Rodelin,26,Right Winger,LOSC Lille,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+SM Caen,Ismaël Diomandé,23,Defensive Midfield,Saint-Étienne,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Ramy Bensebaini,21,Left-Back,Paradou AC,£1.80m,in,Summer,1.8,Ligue 1,2016,2016/2017
+Stade Rennais FC,Afonso Figueiredo,23,Left-Back,Boavista,£243Th.,in,Summer,0.243,Ligue 1,2016,2016/2017
+Stade Rennais FC,Clément Chantôme,28,Defensive Midfield,G. Bordeaux,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Paul Nardi,22,Goalkeeper,Monaco,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Anthony Ribelin,20,Central Midfield,Montpellier,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Adama Diakhaby,19,Left Winger,Rennes B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Séga Coulibaly,20,Centre-Back,Rennes B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Joris Gnagnon,19,Centre-Back,Rennes B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Sébastien Salles-Lamonge,20,Attacking Midfield,Rennes B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Namakoro Diallo,20,Left-Back,Rennes B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Philipp Hosiner,27,Centre-Forward,1. FC Köln,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Ermir Lenjani,26,Left Midfield,FC Nantes,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Christian Brüls,27,Attacking Midfield,Standard Liège,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Gjoko Zajkov,21,Centre-Back,RSC Charleroi,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Adrien Hunou,22,Centre-Forward,Clermont Foot,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Ola Toivonen,29,Centre-Forward,Sunderland,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Cédric Hountondji,22,Centre-Back,AJ Auxerre,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Wesley Saïd,21,Right Winger,Dijon,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Habib Habibou,29,Centre-Forward,Gaziantepspor,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Sanjin Prcic,22,Central Midfield,Torino,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Ousmane Dembélé,19,Right Winger,Bor. Dortmund,£13.50m,out,Summer,13.5,Ligue 1,2016,2016/2017
+Stade Rennais FC,Ola Toivonen,30,Centre-Forward,Toulouse,£1.35m,out,Summer,1.35,Ligue 1,2016,2016/2017
+Stade Rennais FC,Fallou Diagne,26,Centre-Back,Werder Bremen,£1.35m,out,Summer,1.35,Ligue 1,2016,2016/2017
+Stade Rennais FC,Steven Moreira,22,Right-Back,FC Lorient,£1.08m,out,Summer,1.08,Ligue 1,2016,2016/2017
+Stade Rennais FC,Philipp Hosiner,27,Centre-Forward,Union Berlin,£450Th.,out,Summer,0.45,Ligue 1,2016,2016/2017
+Stade Rennais FC,Yacouba Sylla,25,Defensive Midfield,Montpellier,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Abdoulaye Diallo,24,Goalkeeper,C. Rizespor,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Sébastien Salles-Lamonge,20,Attacking Midfield,AC Le Havre,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Cédric Hountondji,22,Centre-Back,G. Ajaccio,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Séga Coulibaly,20,Centre-Back,CS Sedan,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Cheikh M'Bengue,27,Left-Back,Saint-Étienne,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Gjoko Zajkov,21,Centre-Back,RSC Charleroi,?,out,Summer,NA,Ligue 1,2016,2016/2017
+Stade Rennais FC,Olivier Sorin,35,Goalkeeper,Retired,-,out,Summer,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Jérémie Boga,19,Left Winger,Chelsea U21,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Famara Diédhiou,23,Centre-Forward,Clermont Foot,£1.44m,in,Summer,1.44,Ligue 1,2016,2016/2017
+SCO Angers,Karl Toko Ekambi,23,Centre-Forward,FC Sochaux,£900Th.,in,Summer,0.9,Ligue 1,2016,2016/2017
+SCO Angers,Mathieu Michel,24,Goalkeeper,Nîmes Olympique,£900Th.,in,Summer,0.9,Ligue 1,2016,2016/2017
+SCO Angers,Jamel Saihi,29,Defensive Midfield,Montpellier,£720Th.,in,Summer,0.72,Ligue 1,2016,2016/2017
+SCO Angers,Baptiste Santamaria,21,Defensive Midfield,Tours FC,£450Th.,in,Summer,0.45,Ligue 1,2016,2016/2017
+SCO Angers,Flavien Tait,23,Left Winger,LB Châteauroux,£270Th.,in,Summer,0.27,Ligue 1,2016,2016/2017
+SCO Angers,Mateo Pavlovic,26,Centre-Back,Werder Bremen,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Pablo Martinez,27,Centre-Back,G. Ajaccio,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Yoane Wissa,19,Left Winger,LB Châteauroux,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Mehdi Tahrat,26,Centre-Back,Red Star FC,?,in,Summer,NA,Ligue 1,2016,2016/2017
+SCO Angers,Gabriel Mutombo,20,Centre-Back,SCO Angers B,-,in,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Dickson Nwakaeme,30,Centre-Forward,Without Club,-,in,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Nicolas Pépé,21,Right Winger,US Orléans,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Ludovic Ajorque,22,Centre-Forward,Luçon VF,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Anthar Yahia,34,Centre-Back,US Orléans,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Diego Gómez,32,Attacking Midfield,US Boulogne,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Jonas Pessalli,25,Right Winger,Luçon VF,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Romain Saïss,26,Centre-Back,Wolves,£3.60m,out,Summer,3.6,Ligue 1,2016,2016/2017
+SCO Angers,Arnold Bouka Moutou,27,Left-Back,Dijon,£360Th.,out,Summer,0.36,Ligue 1,2016,2016/2017
+SCO Angers,Anthar Yahia,34,Centre-Back,US Orléans,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Diego Gómez,32,Attacking Midfield,SO Cholet,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Goran Karanovic,28,Centre-Forward,FC Sochaux,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Gaël Angoula,33,Right-Back,Nîmes Olympique,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Jean-Pierre Nsame,23,Centre-Forward,Servette FC,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Gabriel Mutombo,20,Centre-Back,CA Bastia,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Guy N'Gosso,31,Defensive Midfield,Amiens SC,?,out,Summer,NA,Ligue 1,2016,2016/2017
+SCO Angers,Slimane Sissoko,25,Centre-Forward,Nîmes Olympique,?,out,Summer,NA,Ligue 1,2016,2016/2017
+SCO Angers,Kalifa Traoré,25,Centre-Back,Les Herbiers VF,?,out,Summer,NA,Ligue 1,2016,2016/2017
+SCO Angers,Ludovic Ajorque,22,Centre-Forward,Clermont Foot,?,out,Summer,NA,Ligue 1,2016,2016/2017
+SCO Angers,Jonas Pessalli,25,Right Winger,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Olivier Auriac,32,Defensive Midfield,Retired,-,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Yohann Eudeline,34,Right Winger,Retired,-,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Charles Diers,35,Central Midfield,Retired,-,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Ibrahima Diallo,31,Left-Back,Retired,-,out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Mohamed Yattara,22,Forward,Standard Liège,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+SCO Angers,Saïd Benrahma,20,Left Winger,OGC Nice,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Farid Boulaya,23,Right Winger,Clermont Foot,£225Th.,in,Summer,0.225,Ligue 1,2016,2016/2017
+SC Bastia,Jerson Cabral,25,Left Winger,Twente FC,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Thievy Bifouma,24,Right Winger,Espanyol,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Paul Charruau,23,Goalkeeper,Valenciennes FC,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Allan Saint-Maximin,19,Left Winger,Monaco,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Geoffrey Acheampong,19,Central Midfield,UCSB Gauchos,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Enzo Crivelli,21,Centre-Forward,G. Bordeaux,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Lenny Nangis,22,Left Winger,LOSC Lille,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Abdelhamid El Kaoutari,26,Centre-Back,US Palermo,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Pierre Bengtsson,28,Left-Back,1.FSV Mainz 05,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Famoussa Kone,22,Centre-Forward,Samsunspor,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Lyes Houri,20,Central Midfield,ASM Belfort,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,François Kamano,20,Left Winger,G. Bordeaux,£2.25m,out,Summer,2.25,Ligue 1,2016,2016/2017
+SC Bastia,Floyd Ayité,27,Left Winger,Fulham,£1.80m,out,Summer,1.8,Ligue 1,2016,2016/2017
+SC Bastia,Julien Romain,20,Centre-Forward,G. Ajaccio,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Jesper Hansen,31,Goalkeeper,Lyngby BK,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Julian Palmieri,29,Left-Back,LOSC Lille,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Christopher Maboulou,26,Centre-Forward,PAS Giannina,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Famoussa Kone,22,Centre-Forward,Göztepe,?,out,Summer,NA,Ligue 1,2016,2016/2017
+SC Bastia,François Modesto,37,Centre-Back,Retired,-,out,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Brandão,36,Centre-Forward,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Yassine Jebbour,24,Right-Back,Retired,-,out,Summer,0,Ligue 1,2016,2016/2017
+SC Bastia,Seko Fofana,21,Central Midfield,Man City U21,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Jérémy Ménez,29,Right Winger,AC Milan,£2.57m,in,Summer,2.57,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Paul Bernardoni,19,Goalkeeper,Troyes,£2.25m,in,Summer,2.25,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,François Kamano,20,Left Winger,SC Bastia,£2.25m,in,Summer,2.25,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Igor Lewczuk,31,Centre-Back,Legia Warszawa,£900Th.,in,Summer,0.9,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Jérémy Toulalan,32,Defensive Midfield,Monaco,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Youssouf Sabaly,23,Right-Back,Paris SG,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Jorris Romil,21,Centre-Forward,G. Bordeaux B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Younès Kaabouni,21,Defensive Midfield,Red Star FC,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Gaëtan Laborde,22,Centre-Forward,Clermont Foot,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,André Poko,23,Defensive Midfield,Karabükspor,£360Th.,out,Summer,0.36,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Cheick Diabaté,28,Centre-Forward,Osmanlispor,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Clément Chantôme,28,Defensive Midfield,Stade Rennais,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Cédric Yambéré,25,Centre-Back,Anzhi,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Lamine Sané,29,Centre-Back,Werder Bremen,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Enzo Crivelli,21,Centre-Forward,SC Bastia,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Kévin Soni,18,Centre-Forward,Pau FC,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Frédéric Guilbert,21,Right-Back,SM Caen,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Jussiê,32,Attacking Midfield,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Paul Bernardoni,19,Goalkeeper,Troyes,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Mathieu Debuchy,30,Right-Back,Arsenal,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Killian Sanson,19,Defensive Midfield,Thonon Évian,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Yacouba Sylla,25,Defensive Midfield,Stade Rennais,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Anthony Vanden Borre,28,Right-Back,RSC Anderlecht,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Stéphane Sessègnon,32,Attacking Midfield,Without Club,-,in,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Cédric Mongongu,27,Centre-Back,Without Club,-,in,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Nicolas Saint-Ruf,23,Centre-Back,US Orléans,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Steve Mounié,21,Centre-Forward,Nîmes Olympique,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Bryan Dabo,24,Central Midfield,Saint-Étienne,£3.60m,out,Summer,3.6,Ligue 1,2016,2016/2017
+Montpellier HSC,Jonas Martin,26,Central Midfield,Real Betis,£2.34m,out,Summer,2.34,Ligue 1,2016,2016/2017
+Montpellier HSC,Jamel Saihi,29,Defensive Midfield,SCO Angers,£720Th.,out,Summer,0.72,Ligue 1,2016,2016/2017
+Montpellier HSC,Jean Deza,23,Right Winger,Levski Sofia,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Florian Sotoca,25,Centre-Forward,Grenoble,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Sébastien Wüthrich,26,Left Midfield,FC Aarau,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Anthony Ribelin,20,Central Midfield,Stade Rennais,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Quentin Cornette,22,Right Winger,Amiens SC,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Dylan Gissi,25,Centre-Back,CA Rosario,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Djamel Bakar,27,Centre-Forward,RSC Charleroi,?,out,Summer,NA,Ligue 1,2016,2016/2017
+Montpellier HSC,Ramy Bensebaini,21,Left-Back,Paradou AC,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Mustapha Yatabaré,30,Centre-Forward,Trabzonspor,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Rémy Cabella,26,Attacking Midfield,Newcastle,£7.20m,in,Summer,7.2,Ligue 1,2016,2016/2017
+Olympique Marseille,Tomas Hubocan,30,Right-Back,Dynamo Moscow,£1.08m,in,Summer,1.08,Ligue 1,2016,2016/2017
+Olympique Marseille,Saîf-Eddine Khaoui,21,Attacking Midfield,Tours FC,£900Th.,in,Summer,0.9,Ligue 1,2016,2016/2017
+Olympique Marseille,Henri Bedimo,32,Left-Back,Olympique Lyon,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Hiroki Sakai,26,Right-Back,Hannover 96,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Clinton N'Jie,23,Centre-Forward,Spurs,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Rod Fanni,34,Right-Back,Al-Arabi SC,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Florian Thauvin,23,Right Winger,Newcastle,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Bafétimbi Gomis,30,Centre-Forward,Swansea,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Zinédine Machach,20,Second Striker,Toulouse,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Aaron Leya Iseka,18,Centre-Forward,RSC Anderlecht,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,William Vainqueur,27,Defensive Midfield,AS Roma,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,André Zambo Anguissa,20,Defensive Midfield,Marseille B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Florian Escales,20,Goalkeeper,Marseille B,-,in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Saber Khalifa,29,Centre-Forward,Club Africain,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Brice Samba,22,Goalkeeper,AS Nancy,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Baptiste Aloé,22,Centre-Back,Valenciennes FC,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Bill Tuiloma,21,Centre-Back,R. Strasbourg,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Dória,21,Centre-Back,Granada CF,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Mario Lemina,22,Defensive Midfield,Juventus,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Gaël Andonian,21,Centre-Back,Dijon,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Michy Batshuayi,22,Centre-Forward,Chelsea,£35.10m,out,Summer,35.1,Ligue 1,2016,2016/2017
+Olympique Marseille,Benjamin Mendy,21,Left-Back,Monaco,£11.70m,out,Summer,11.7,Ligue 1,2016,2016/2017
+Olympique Marseille,Georges-Kevin N'Koudou,21,Left Winger,Spurs,£9.90m,out,Summer,9.9,Ligue 1,2016,2016/2017
+Olympique Marseille,Mario Lemina,22,Defensive Midfield,Juventus,£8.82m,out,Summer,8.82,Ligue 1,2016,2016/2017
+Olympique Marseille,Brice Dja Djédjé,25,Defensive Midfield,Watford,£3.24m,out,Summer,3.24,Ligue 1,2016,2016/2017
+Olympique Marseille,Abdelaziz Barrada,27,Attacking Midfield,Al-Nasr,£1.80m,out,Summer,1.8,Ligue 1,2016,2016/2017
+Olympique Marseille,Saber Khalifa,29,Centre-Forward,Club Africain,£900Th.,out,Summer,0.9,Ligue 1,2016,2016/2017
+Olympique Marseille,Steve Mandanda,31,Goalkeeper,Crystal Palace,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Nicolas N'Koulou,26,Centre-Back,Olympique Lyon,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Lucas Ocampos,21,Right Winger,Genoa,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Stéphane Sparagna,21,Centre-Back,AJ Auxerre,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Alaixys Romao,32,Defensive Midfield,Olympiacos,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Baptiste Aloé,22,Centre-Back,Valenciennes FC,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Billel Omrani,23,Centre-Forward,CFR Cluj,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Javier Manquillo,22,Right-Back,Atlético Madrid,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Rémy Cabella,26,Attacking Midfield,Newcastle,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Lucas Silva,23,Defensive Midfield,Real Madrid,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Mauricio Isla,28,Right-Back,Juventus,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Paolo De Ceglie,29,Left-Back,Juventus,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Florian Thauvin,23,Right Winger,Newcastle,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Steven Fletcher,29,Centre-Forward,Sunderland,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Mariusz Stepinski,21,Centre-Forward,Ruch Chorzow,£1.80m,in,Summer,1.8,Ligue 1,2016,2016/2017
+FC Nantes,Diego Carlos,23,Centre-Back,Estoril,£1.17m,in,Summer,1.17,Ligue 1,2016,2016/2017
+FC Nantes,Lucas Lima,24,Left-Back,Arouca,£990Th.,in,Summer,0.99,Ligue 1,2016,2016/2017
+FC Nantes,Nicolaj Thomsen,23,Left Midfield,Aalborg BK,£540Th.,in,Summer,0.54,Ligue 1,2016,2016/2017
+FC Nantes,Alexander Kacaniklic,24,Right Winger,Fulham,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Amine Harit,19,Attacking Midfield,FC Nantes B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Quentin Braat,18,Goalkeeper,FC Nantes B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Alexandre Olliero,20,Goalkeeper,FC Nantes B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Fernando Aristeguieta,24,Centre-Forward,Red Star FC,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Alejandro Bedoya,29,Central Midfield,Philadelphia,£806Th.,out,Summer,0.806,Ligue 1,2016,2016/2017
+FC Nantes,Kolbeinn Sigthórsson,26,Centre-Forward,Galatasaray,Loan fee:£630Th.,out,Summer,0.63,Ligue 1,2016,2016/2017
+FC Nantes,Birama Touré,24,Defensive Midfield,Standard Liège,£495Th.,out,Summer,0.495,Ligue 1,2016,2016/2017
+FC Nantes,Rémi Gomis,32,Defensive Midfield,FC Wil 1900,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Johan Audel,32,Left Winger,B. Jerusalem,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Aristote N'Dongala,22,Left Winger,Sprimont,?,out,Summer,NA,Ligue 1,2016,2016/2017
+FC Nantes,Lorik Cana,33,Defensive Midfield,Career break,-,out,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Adryan,21,Attacking Midfield,Flamengo,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Ermir Lenjani,26,Left Midfield,Stade Rennais,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Nantes,Youssouf Sabaly,23,Right-Back,Paris SG,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Cafú,23,Central Midfield,Vit. Guimarães,£1.80m,in,Summer,1.8,Ligue 1,2016,2016/2017
+FC Lorient,Lindsay Rose,24,Centre-Back,Olympique Lyon,£1.35m,in,Summer,1.35,Ligue 1,2016,2016/2017
+FC Lorient,Steven Moreira,22,Right-Back,Stade Rennais,£1.08m,in,Summer,1.08,Ligue 1,2016,2016/2017
+FC Lorient,Faïz Selemani,22,Left Winger,Chamois Niort,£810Th.,in,Summer,0.81,Ligue 1,2016,2016/2017
+FC Lorient,Paul Delecroix,27,Goalkeeper,Chamois Niort,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Mattéo Guendouzi,17,Central Midfield,Lorient B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Yohann Wachter,25,Centre-Back,CS Sedan,"End of loanJun 30, 2017",in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Jérémie Aliadière,33,Centre-Forward,Without Club,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Erwin Koffi,21,Right-Back,Lorient B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Michaël Ciani,32,Centre-Back,Without Club,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Arnold Mvuemba,31,Defensive Midfield,Without Club,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Pierre-Yves Hamel,22,Centre-Forward,Lorient B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Alexis Claude-Maurice,18,Left Winger,Lorient B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Mohamed Mara,19,Left Winger,Lorient B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Sylvain Marveaux,30,Attacking Midfield,Without Club,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Bradley Mazikou,20,Left-Back,Lorient B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Anthony Lamonge,20,Goalkeeper,Lorient B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Issam Ben Khemis,20,Central Midfield,Lorient B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Maxence Derrien,22,Centre-Back,US Avranches,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Pierre Lavenant,20,Attacking Midfield,CS Sedan,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Denis Bouanga,21,Left Winger,R. Strasbourg,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Valentin Lavigne,22,Centre-Forward,Stade Lavallois,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Didier Ndong,22,Central Midfield,Sunderland,£18.00m,out,Summer,18,Ligue 1,2016,2016/2017
+FC Lorient,Raphaël Guerreiro,22,Left Midfield,Bor. Dortmund,£10.80m,out,Summer,10.8,Ligue 1,2016,2016/2017
+FC Lorient,Rafidine Abdullah,22,Defensive Midfield,Cádiz CF,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Alain Traoré,27,Attacking Midfield,Kayserispor,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Lamine Gassama,26,Right-Back,Alanyaspor,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Denis Bouanga,21,Left Winger,Tours FC,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Maxence Derrien,22,Centre-Back,US Avranches,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Pierre Lavenant,20,Attacking Midfield,US Avranches,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Valentin Lavigne,22,Centre-Forward,Stade Brest 29,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Marvin Gakpa,22,Central Midfield,AC Ajaccio,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Rémi Mulumba,23,Defensive Midfield,G. Ajaccio,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Yann Jouffre,31,Right Midfield,FC Metz,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Florent Chaigneau,32,Goalkeeper,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Hamadou Karamoko,20,Centre-Back,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Ibrahima Sy,20,Goalkeeper,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Yrondu Musavu-King,24,Centre-Back,Granada CF,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Lorient,Lindsay Rose,24,Centre-Back,Olympique Lyon,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Romain Salin,31,Goalkeeper,Marítimo,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Marçal,27,Left-Back,Benfica,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Alexandre Mendy,22,Centre-Forward,OGC Nice,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Étienne Didot,32,Central Midfield,Toulouse,?,in,Summer,NA,Ligue 1,2016,2016/2017
+EA Guingamp,Lucas Deaux,27,Defensive Midfield,KAA Gent,?,in,Summer,NA,Ligue 1,2016,2016/2017
+EA Guingamp,Sloan Privat,26,Centre-Forward,KAA Gent,?,in,Summer,NA,Ligue 1,2016,2016/2017
+EA Guingamp,Jordan Ikoko,22,Right-Back,Paris SG B,?,in,Summer,NA,Ligue 1,2016,2016/2017
+EA Guingamp,Karl-Johan Johnsson,26,Goalkeeper,Randers FC,?,in,Summer,NA,Ligue 1,2016,2016/2017
+EA Guingamp,Sullivan Martinet,20,Centre-Forward,EA Guingamp B,-,in,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Jérémy Livolant,18,Right Midfield,EA Guingamp B,-,in,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Rachid Alioui,24,Centre-Forward,Stade Lavallois,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Karim Achahbar,20,Left Winger,Luçon VF,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Julien Bègue,22,Centre-Forward,Bourg-en-Bresse,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Ronnie Schwartz,26,Centre-Forward,Esbjerg fB,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Jonas Lössl,27,Goalkeeper,1.FSV Mainz 05,£2.25m,out,Summer,2.25,Ligue 1,2016,2016/2017
+EA Guingamp,Ronnie Schwartz,26,Centre-Forward,Waasl.-Beveren,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Franck Héry,23,Centre-Back,Les Herbiers VF,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Karim Achahbar,20,Left Winger,Quevilly-Rouen,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Mamadou Samassa,26,Goalkeeper,Troyes,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Rachid Alioui,24,Centre-Forward,Nîmes Olympique,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Julien Bègue,22,Centre-Forward,Bourg-en-Bresse,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Lionel Mathis,34,Defensive Midfield,AJ Auxerre,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Mana Dembélé,27,Centre-Forward,AC Le Havre,?,out,Summer,NA,Ligue 1,2016,2016/2017
+EA Guingamp,Laurent Dos Santos,23,Right-Back,R. Strasbourg,?,out,Summer,NA,Ligue 1,2016,2016/2017
+EA Guingamp,Younousse Sankharé,26,Central Midfield,LOSC Lille,?,out,Summer,NA,Ligue 1,2016,2016/2017
+EA Guingamp,Maxime Baca,33,Right-Back,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Julien Cardy,34,Defensive Midfield,Retired,-,out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Lars Jacobsen,36,Right-Back,Retired,-,out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Sloan Privat,26,Centre-Forward,KAA Gent,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+EA Guingamp,Mevlüt Erdinc,29,Centre-Forward,Hannover 96,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Christopher Jullien,23,Centre-Back,SC Freiburg,£2.52m,in,Summer,2.52,Ligue 1,2016,2016/2017
+FC Toulouse,Jimmy Durmaz,27,Right Winger,Olympiacos,£1.80m,in,Summer,1.8,Ligue 1,2016,2016/2017
+FC Toulouse,Ola Toivonen,30,Centre-Forward,Stade Rennais,£1.35m,in,Summer,1.35,Ligue 1,2016,2016/2017
+FC Toulouse,Jessy Pi,22,Defensive Midfield,Monaco,£630Th.,in,Summer,0.63,Ligue 1,2016,2016/2017
+FC Toulouse,Odsonne Edouard,18,Centre-Forward,Paris SG,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Ibrahim Sangaré,18,Defensive Midfield,AS Denguélé,?,in,Summer,NA,Ligue 1,2016,2016/2017
+FC Toulouse,Dodi Lukebakio,18,Right Winger,RSC Anderlecht,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Yrondu Musavu-King,24,Centre-Back,Udinese Calcio,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Clément Michelin,19,Right-Back,Toulouse B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Mathieu Cafaro,19,Attacking Midfield,Toulouse B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Kelvin Amian,18,Right-Back,FC Toulouse U19,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Issiaga Sylla,22,Left-Back,G. Ajaccio,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Dusan Veskovac,30,Centre-Back,Troyes,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Dominik Furman,23,Central Midfield,Hellas Verona,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Wissam Ben Yedder,25,Centre-Forward,Sevilla FC,£8.55m,out,Summer,8.55,Ligue 1,2016,2016/2017
+FC Toulouse,Jean-Armel Kana-Biyik,27,Centre-Back,Kayserispor,£450Th.,out,Summer,0.45,Ligue 1,2016,2016/2017
+FC Toulouse,Maxime Spano,21,Centre-Back,Grenoble,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Mihai Roman,31,Right Winger,FC Botosani,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Adrien Regattin,25,Right Midfield,Osmanlispor,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Youssef Ben Ali,21,Left Winger,CR Al Hoceima,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Aleksandar Pesic,24,Centre-Forward,Atalanta,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Dominik Furman,23,Central Midfield,Wisla Plock,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Étienne Didot,32,Central Midfield,Guingamp,?,out,Summer,NA,Ligue 1,2016,2016/2017
+FC Toulouse,Zinédine Machach,20,Second Striker,Marseille,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Uros Spajic,23,Centre-Back,RSC Anderlecht,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Odsonne Edouard,19,Centre-Forward,Paris SG,"End of loanApr 4, 2017",out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Mathieu Cafaro,20,Attacking Midfield,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+FC Toulouse,Marcel Tisserand,23,Centre-Back,Monaco,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Vincent Marchetti,19,Defensive Midfield,AC Ajaccio,£1.35m,in,Summer,1.35,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Sergey Chernik,27,Goalkeeper,BATE Borisov,£450Th.,in,Summer,0.45,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Erick Cabaco,21,Centre-Back,Nacional,Loan fee:£270Th.,in,Summer,0.27,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Alou Diarra,35,Defensive Midfield,Charlton,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Issiar Dia,29,Right Winger,Al-Kharaitiyat,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Christophe Mandanne,31,Centre-Forward,Fujairah SC,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Youssef Aït Bennasser,19,Central Midfield,Monaco,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Anthony Koura,23,Centre-Forward,Nîmes Olympique,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Serge N'Guessan,21,Central Midfield,AFAD Djékanou,?,in,Summer,NA,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Yann Mabella,20,Centre-Forward,AS Nancy B,-,in,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Alexandre Menay,19,Goalkeeper,AS Nancy B,-,in,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Romain Bauchet,22,Centre-Forward,SAS Epinal,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Quentin Beunardeau,22,Goalkeeper,AFC Tubize,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Youssef Aït Bennasser,19,Central Midfield,Monaco,£2.70m,out,Summer,2.7,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Arnaud Lusamba,19,Central Midfield,OGC Nice,£2.25m,out,Summer,2.25,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Quentin Beunardeau,22,Goalkeeper,AFC Tubize,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Alexis Busin,20,Right Winger,Clermont Foot,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Romain Bauchet,22,Centre-Forward,RUFC Calais,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Pape Diakhaté,32,Centre-Back,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Jonathan Iglesias,27,Central Midfield,Tanque Sisley,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Brice Samba,22,Goalkeeper,Marseille,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Ádám Lang,23,Centre-Back,Videoton FC,£900Th.,in,Summer,0.9,Ligue 1,2016,2016/2017
+Dijon FCO,Arnold Bouka Moutou,27,Left-Back,SCO Angers,£360Th.,in,Summer,0.36,Ligue 1,2016,2016/2017
+Dijon FCO,Mehdi Abeid,24,Central Midfield,Panathinaikos,£225Th.,in,Summer,0.225,Ligue 1,2016,2016/2017
+Dijon FCO,Yunis Abdelhamid,28,Centre-Back,Valenciennes FC,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Valentin Rosier,19,Right-Back,Rodez AF,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Fouad Chafik,29,Right-Back,Stade Lavallois,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Dylan Bahamboula,21,Attacking Midfield,Monaco,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Florent Balmont,36,Central Midfield,LOSC Lille,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Marvin Martin,28,Attacking Midfield,LOSC Lille,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Vincent Rüfli,28,Right-Back,FC Sion,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Bobby Allain,24,Goalkeeper,Red Star FC,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Benjamin Leroy,27,Goalkeeper,Thonon Évian,?,in,Summer,NA,Ligue 1,2016,2016/2017
+Dijon FCO,Arnaud Souquet,24,Right-Back,OGC Nice,£1.13m,out,Summer,1.13,Ligue 1,2016,2016/2017
+Dijon FCO,Mamadou Thiam,21,Centre-Forward,Clermont Foot,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Christopher Dilo,22,Goalkeeper,FC Sochaux,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Jessy Benet,21,Central Midfield,US Avranches,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Enzo Basilio,21,Goalkeeper,Quevilly-Rouen,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Erwan Maury,20,Defensive Midfield,Quevilly-Rouen,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Mouhameth Sané,20,Centre-Back,AJ Auxerre,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Steven Paulle,30,Centre-Back,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Abdoulaye Bamba,26,Right-Back,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Christopher Jullien,23,Centre-Back,SC Freiburg,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Granddi N'Goyi,28,Defensive Midfield,US Palermo,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Wesley Saïd,21,Right Winger,Stade Rennais,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Dijon FCO,Gaël Andonian,21,Centre-Back,Marseille,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Milan Bisevac,32,Centre-Back,Lazio,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Benoît Assou-Ekotto,32,Left-Back,Saint-Étienne,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Florent Mollet,24,Attacking Midfield,US Créteil,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Simon Falette,24,Centre-Back,Stade Brest 29,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Opa Nguette,21,Left Winger,Valenciennes FC,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Eiji Kawashima,33,Goalkeeper,Dundee United,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Franck Signorino,34,Left-Back,Stade Reims,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Yann Jouffre,31,Right Midfield,FC Lorient,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Ismaïla Sarr,18,Right Winger,Génération Foot,Free transfer,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Mevlüt Erdinc,29,Centre-Forward,Hannover 96,Loan,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Renaud Cohade,31,Central Midfield,Saint-Étienne,?,in,Summer,NA,Ligue 1,2016,2016/2017
+FC Metz,Popoola Sodiq,21,Defensive Midfield,FC Metz B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Vincent Thill,16,Attacking Midfield,FC Metz U19,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Vahid Selimovic,19,Centre-Back,FC Metz B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Gauthier Hein,19,Right Winger,FC Metz B,-,in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Janis Ikaunieks,22,Attacking Midfield,AE Larisa,"End of loanMay 31, 2017",in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Kwame Nsor,23,Centre-Forward,RFC Seraing,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Chris Philipps,22,Defensive Midfield,Preußen Münster,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Marouane Sahraoui,20,Centre-Back,RFC Seraing,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Anthony Mfa Mezui,25,Goalkeeper,RFC Seraing,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Thibaut Vion,22,Right-Back,RFC Seraing,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Médéric Deher,21,Right-Back,AFC Tubize,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Juan Falcón,27,Centre-Forward,Al-Fateh,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Fadil Sido,23,Attacking Midfield,Luçon VF,"End of loanJun 30, 2016",in,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Ferjani Sassi,24,Central Midfield,Esperance,£698Th.,out,Summer,0.698,Ligue 1,2016,2016/2017
+FC Metz,Romain Métanire,26,Right-Back,KV Kortrijk,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Oumar Gonzalez,18,Centre-Back,SAS Epinal,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Dieudonné Gbaklé,20,Left Winger,Genclerbirligi,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Médéric Deher,21,Right-Back,US Avranches,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Lucas Toussaint,20,Defensive Midfield,RFC Seraing,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,André Santos,27,Defensive Midfield,Arouca,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Nuno Reis,25,Centre-Back,Panathinaikos,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Sergey Krivets,30,Attacking Midfield,Wisla Plock,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,José Luis Palomino,26,Centre-Back,Ludogorets,Free transfer,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Hamza Sakhi,20,Attacking Midfield,SAS Epinal,Loan,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Yeni N'Gbakoto,24,Right Winger,QPR,?,out,Summer,NA,Ligue 1,2016,2016/2017
+FC Metz,Kwame Nsor,24,Centre-Forward,União Madeira,?,out,Summer,NA,Ligue 1,2016,2016/2017
+FC Metz,Kevin Lejeune,32,Left Midfield,AC Ajaccio,?,out,Summer,NA,Ligue 1,2016,2016/2017
+FC Metz,Marouane Sahraoui,20,Centre-Back,Guimarães B,?,out,Summer,NA,Ligue 1,2016,2016/2017
+FC Metz,Juan Falcón,27,Centre-Forward,Indep. Santa Fe,?,out,Summer,NA,Ligue 1,2016,2016/2017
+FC Metz,Samy Kehli,25,Attacking Midfield,KSV Roeselare,?,out,Summer,NA,Ligue 1,2016,2016/2017
+FC Metz,Anthony Mfa Mezui,25,Goalkeeper,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Fadil Sido,23,Attacking Midfield,Without Club,-,out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Célestin Djim,21,Right Winger,FC Porto B,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Juan Cruz Kaprof,21,Centre-Forward,River Plate II,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Daniel Candeias,28,Right Winger,Benfica,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Tiago Gomes,29,Left-Back,Braga,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+FC Metz,Christian Bekamenga,30,Centre-Forward,Troyes,"End of loanJun 30, 2016",out,Summer,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Julian Draxler,23,Attacking Midfield,VfL Wolfsburg,£32.40m,in,Winter,32.4,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Gonçalo Guedes,20,Left Winger,Benfica,£27.00m,in,Winter,27,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Salvatore Sirigu,30,Goalkeeper,Sevilla FC,"End of loanJan 30, 2017",in,Winter,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Giovani Lo Celso,20,Central Midfield,CA Rosario,"End of loanDec 31, 2016",in,Winter,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Hervin Ongenda,21,Left Winger,PEC Zwolle,£270Th.,out,Winter,0.27,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Jonathan Ikoné,18,Attacking Midfield,Montpellier,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Jesé,23,Left Winger,UD Las Palmas,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Paris Saint-Germain,Salvatore Sirigu,30,Goalkeeper,CA Osasuna,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Memphis Depay,22,Left Winger,Man Utd,£14.40m,in,Winter,14.4,Ligue 1,2016,2016/2017
+Olympique Lyon,Elisha Owusu,19,Defensive Midfield,Olymp. Lyon B,-,in,Winter,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Aldo Kalulu,20,Right Winger,Stade Rennais,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Olivier Kemen,20,Central Midfield,G. Ajaccio,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Clément Grenier,26,Central Midfield,AS Roma,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Olympique Lyon,Gueïda Fofana,25,Defensive Midfield,Retired,-,out,Winter,0,Ligue 1,2016,2016/2017
+AS Monaco,Jorge,20,Left-Back,Flamengo,£7.65m,in,Winter,7.65,Ligue 1,2016,2016/2017
+AS Monaco,Lacina Traore,26,Centre-Forward,CSKA Moscow,"End of loanJan 30, 2017",in,Winter,0,Ligue 1,2016,2016/2017
+AS Monaco,Elderson,28,Left-Back,Standard Liège,"End of loanJan 16, 2017",in,Winter,0,Ligue 1,2016,2016/2017
+AS Monaco,Farès Bahlouli,21,Attacking Midfield,Standard Liège,"End of loanJan 4, 2017",in,Winter,0,Ligue 1,2016,2016/2017
+AS Monaco,Paul Nardi,22,Goalkeeper,Stade Rennais,"End of loanDec 31, 2016",in,Winter,0,Ligue 1,2016,2016/2017
+AS Monaco,Farès Bahlouli,21,Attacking Midfield,LOSC Lille,£3.15m,out,Winter,3.15,Ligue 1,2016,2016/2017
+AS Monaco,Corentin Jean,21,Right Winger,Toulouse,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+AS Monaco,Adama Traoré,21,Central Midfield,Rio Ave FC,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+AS Monaco,Paul Nardi,22,Goalkeeper,Cercle Brugge,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+AS Monaco,Lacina Traore,26,Centre-Forward,Sporting Gijón,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+AS Monaco,Elderson,29,Left-Back,Sporting Gijón,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+OGC Nice,Bassem Srarfi,19,Right Winger,Club Africain,£1.35m,in,Winter,1.35,Ligue 1,2016,2016/2017
+OGC Nice,Mounir Obbadi,33,Central Midfield,LOSC Lille,Free transfer,in,Winter,0,Ligue 1,2016,2016/2017
+OGC Nice,Saïd Benrahma,21,Left Winger,G. Ajaccio,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+OGC Nice,Mathieu Bodmer,34,Defensive Midfield,Guingamp,Free transfer,out,Winter,0,Ligue 1,2016,2016/2017
+OGC Nice,Mouez Hassen,21,Goalkeeper,Southampton,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+OGC Nice,Julien Vercauteren,24,Attacking Midfield,RNK Split,Free transfer,out,Winter,0,Ligue 1,2016,2016/2017
+OGC Nice,Dorian Caddy,21,Centre-Forward,Clermont Foot,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+LOSC Lille,Anwar El Ghazi,21,Right Winger,Ajax,£6.30m,in,Winter,6.3,Ligue 1,2016,2016/2017
+LOSC Lille,Farès Bahlouli,21,Attacking Midfield,Monaco,£3.15m,in,Winter,3.15,Ligue 1,2016,2016/2017
+LOSC Lille,Gabriel Magalhães,19,Centre-Back,Avaí FC,£2.70m,in,Winter,2.7,Ligue 1,2016,2016/2017
+LOSC Lille,Júnior Alonso,23,Centre-Back,Cerro Porteño,£2.25m,in,Winter,2.25,Ligue 1,2016,2016/2017
+LOSC Lille,Xeka,22,Central Midfield,Braga,Loan fee:£180Th.,in,Winter,0.18,Ligue 1,2016,2016/2017
+LOSC Lille,Ricardo Kishna,22,Left Winger,Lazio,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+LOSC Lille,Younousse Sankharé,27,Central Midfield,G. Bordeaux,£2.70m,out,Winter,2.7,Ligue 1,2016,2016/2017
+LOSC Lille,Renato Civelli,33,Centre-Back,CA Banfield,Free transfer,out,Winter,0,Ligue 1,2016,2016/2017
+LOSC Lille,Mounir Obbadi,33,Central Midfield,OGC Nice,Free transfer,out,Winter,0,Ligue 1,2016,2016/2017
+LOSC Lille,Ryan Mendes,27,Left Winger,Kayserispor,Free transfer,out,Winter,0,Ligue 1,2016,2016/2017
+LOSC Lille,Morgan Amalfitano,31,Right Winger,Stade Rennais,Free transfer,out,Winter,0,Ligue 1,2016,2016/2017
+LOSC Lille,Stoppila Sunzu,27,Centre-Back,Arsenal Tula,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+LOSC Lille,Junior Tallo,24,Centre-Forward,Amiens SC,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Jorginho,21,Left Winger,Arouca,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Jonathan Bamba,20,Left Winger,Sint-Truiden,"End of loanJan 3, 2017",in,Winter,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Habib Maïga,21,Defensive Midfield,Saint-Étienne B,-,in,Winter,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Arnaud Nordin,18,Left Winger,St-Étienne U19,-,in,Winter,0,Ligue 1,2016,2016/2017
+AS Saint-Étienne,Jonathan Bamba,20,Left Winger,SCO Angers,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+SM Caen,Frédéric Guilbert,21,Right-Back,G. Bordeaux,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+SM Caen,Jordan N'Kololo,24,Left Winger,Stade Lavallois,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Aldo Kalulu,20,Right Winger,Olympique Lyon,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Raïs M'Bolhi,30,Goalkeeper,Antalyaspor,Free transfer,in,Winter,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Morgan Amalfitano,31,Right Winger,LOSC Lille,Free transfer,in,Winter,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Firmin Mubele,22,Centre-Forward,Al-Ahli SC,?,in,Winter,NA,Ligue 1,2016,2016/2017
+Stade Rennais FC,Denis Will Poha,19,Central Midfield,Rennes B,-,in,Winter,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Kamil Grosicki,28,Left Winger,Hull City,£8.10m,out,Winter,8.1,Ligue 1,2016,2016/2017
+Stade Rennais FC,Paul-Georges Ntep,24,Left Winger,VfL Wolfsburg,£4.50m,out,Winter,4.5,Ligue 1,2016,2016/2017
+Stade Rennais FC,Pedro Henrique,26,Forward,PAOK Salonika,£1.44m,out,Winter,1.44,Ligue 1,2016,2016/2017
+Stade Rennais FC,Kermit Erasmus,26,Centre-Forward,Lens,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Anthony Ribelin,20,Central Midfield,Paris FC,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Stade Rennais FC,Christian Brüls,28,Attacking Midfield,KAS Eupen,?,out,Winter,NA,Ligue 1,2016,2016/2017
+Stade Rennais FC,Habib Habibou,29,Centre-Forward,Lens,?,out,Winter,NA,Ligue 1,2016,2016/2017
+Stade Rennais FC,Paul Nardi,22,Goalkeeper,Monaco,"End of loanDec 31, 2016",out,Winter,0,Ligue 1,2016,2016/2017
+SCO Angers,Jonathan Bamba,20,Left Winger,Saint-Étienne,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+SCO Angers,Kévin Bérigaud,28,Centre-Forward,Montpellier,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+SCO Angers,Issa Cissokho,31,Right-Back,Genoa,Free transfer,in,Winter,0,Ligue 1,2016,2016/2017
+SCO Angers,Abdoulaye Bamba,26,Right-Back,Without Club,-,in,Winter,0,Ligue 1,2016,2016/2017
+SCO Angers,Yoane Wissa,20,Left Winger,Stade Lavallois,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+SCO Angers,Ibrahima Diallo,31,Left-Back,Retired,-,out,Winter,0,Ligue 1,2016,2016/2017
+SC Bastia,Lindsay Rose,24,Centre-Back,FC Lorient,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+SC Bastia,Prince Oniangué,28,Defensive Midfield,Wolves,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+SC Bastia,Nicolas Saint-Ruf,24,Centre-Back,Montpellier,Free transfer,in,Winter,0,Ligue 1,2016,2016/2017
+SC Bastia,Alexis Thébaux,31,Goalkeeper,Paris FC,?,in,Winter,NA,Ligue 1,2016,2016/2017
+SC Bastia,Julien Romain,20,Centre-Forward,G. Ajaccio,"End of loanJan 12, 2017",in,Winter,0,Ligue 1,2016,2016/2017
+SC Bastia,Mathieu Peybernes,26,Centre-Back,FC Lorient,£1.80m,out,Winter,1.8,Ligue 1,2016,2016/2017
+SC Bastia,Thievy Bifouma,24,Right Winger,Osmanlispor,£450Th.,out,Winter,0.45,Ligue 1,2016,2016/2017
+SC Bastia,Julien Romain,20,Centre-Forward,Pau FC,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+SC Bastia,Lyes Houri,21,Central Midfield,Roda JC,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+SC Bastia,Julien Benhaim,20,Attacking Midfield,UE Engordany,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+SC Bastia,Jerson Cabral,26,Left Winger,Sparta R.,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+SC Bastia,Paul Charruau,23,Goalkeeper,Paris FC,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Younousse Sankharé,27,Central Midfield,LOSC Lille,£2.70m,in,Winter,2.7,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Vukasin Jovanovic,20,Centre-Back,Zenit S-Pb,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Daniel Mancini,20,Right Winger,Newell's,?,in,Winter,NA,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Jorris Romil,21,Centre-Forward,G. Bordeaux B,-,in,Winter,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Cédric Yambéré,26,Centre-Back,Anzhi,"End of loanDec 31, 2016",in,Winter,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Grégory Sertic,27,Defensive Midfield,Marseille,£1.35m,out,Winter,1.35,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Isaac Kiese Thelin,24,Centre-Forward,RSC Anderlecht,Loan fee:£630Th.,out,Winter,0.63,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Pablo,25,Centre-Back,Corinthians,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Cédric Yambéré,26,Centre-Back,APOEL Nicosia,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+FC Girondins Bordeaux,Frédéric Guilbert,21,Right-Back,SM Caen,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Keagan Dolly,24,Left Winger,Sundowns,£1.53m,in,Winter,1.53,Ligue 1,2016,2016/2017
+Montpellier HSC,Isaac Mbenza,20,Left Winger,Standard Liège,£1.53m,in,Winter,1.53,Ligue 1,2016,2016/2017
+Montpellier HSC,Nordi Mukiele,19,Right-Back,Stade Lavallois,£1.35m,in,Winter,1.35,Ligue 1,2016,2016/2017
+Montpellier HSC,Lukas Pokorny,23,Centre-Back,Slovan Liberec,£1.35m,in,Winter,1.35,Ligue 1,2016,2016/2017
+Montpellier HSC,Jonathan Ikoné,18,Attacking Midfield,Paris SG,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Morgan Poaty,19,Left-Back,HSC Montpellier B,-,in,Winter,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Cédric Mongongu,27,Centre-Back,Without Club,-,in,Winter,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Alexandre Llovet,18,Forward,HSC Montpellier B,-,in,Winter,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Morgan Sanson,22,Central Midfield,Marseille,£8.10m,out,Winter,8.1,Ligue 1,2016,2016/2017
+Montpellier HSC,Kévin Bérigaud,28,Centre-Forward,SCO Angers,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Nicolas Saint-Ruf,24,Centre-Back,SC Bastia,Free transfer,out,Winter,0,Ligue 1,2016,2016/2017
+Montpellier HSC,Anthony Vanden Borre,29,Right-Back,RSC Anderlecht,"End of loanDec 31, 2016",out,Winter,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Dimitri Payet,29,Left Winger,West Ham,£26.37m,in,Winter,26.37,Ligue 1,2016,2016/2017
+Olympique Marseille,Morgan Sanson,22,Central Midfield,Montpellier,£8.10m,in,Winter,8.1,Ligue 1,2016,2016/2017
+Olympique Marseille,Grégory Sertic,27,Defensive Midfield,G. Bordeaux,£1.35m,in,Winter,1.35,Ligue 1,2016,2016/2017
+Olympique Marseille,Patrice Evra,35,Left-Back,Juventus,Free transfer,in,Winter,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Lucas Ocampos,22,Right Winger,Genoa,"End of loanJan 29, 2017",in,Winter,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Romain Alessandrini,27,Right Winger,LA Galaxy,£2.70m,out,Winter,2.7,Ligue 1,2016,2016/2017
+Olympique Marseille,Lucas Ocampos,22,Right Winger,AC Milan,Loan fee:£450Th.,out,Winter,0.45,Ligue 1,2016,2016/2017
+Olympique Marseille,Gaël Andonian,21,Centre-Back,PAE Veria,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+Olympique Marseille,Lassana Diarra,31,Defensive Midfield,Without Club,-,out,Winter,0,Ligue 1,2016,2016/2017
+FC Nantes,Felipe Pardo,26,Right Winger,Olympiacos,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+FC Nantes,Sérgio Oliveira,24,Central Midfield,FC Porto,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+FC Nantes,Préjuce Nakoulma,29,Centre-Forward,Without Club,-,in,Winter,0,Ligue 1,2016,2016/2017
+FC Nantes,Kolbeinn Sigthórsson,26,Centre-Forward,Galatasaray,"End of loanDec 31, 2016",in,Winter,0,Ligue 1,2016,2016/2017
+FC Nantes,Nicolaj Thomsen,23,Left Midfield,FC Copenhagen,£450Th.,out,Winter,0.45,Ligue 1,2016,2016/2017
+FC Nantes,Fernando Aristeguieta,24,Centre-Forward,Nacional,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+FC Lorient,Mathieu Peybernes,26,Centre-Back,SC Bastia,£1.80m,in,Winter,1.8,Ligue 1,2016,2016/2017
+FC Lorient,Alhassan Wakaso,25,Defensive Midfield,Rio Ave FC,£900Th.,in,Winter,0.9,Ligue 1,2016,2016/2017
+FC Lorient,Ibrahima Conté,20,Centre-Back,Lorient B,-,in,Winter,0,Ligue 1,2016,2016/2017
+FC Lorient,Moryké Fofana,25,Left Winger,Konyaspor,£135Th.,out,Winter,0.135,Ligue 1,2016,2016/2017
+FC Lorient,Lindsay Rose,24,Centre-Back,SC Bastia,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+FC Lorient,Faïz Selemani,23,Left Winger,Tours FC,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+EA Guingamp,Mathieu Bodmer,34,Defensive Midfield,OGC Nice,Free transfer,in,Winter,0,Ligue 1,2016,2016/2017
+EA Guingamp,Johny Placide,29,Goalkeeper,Without Club,-,in,Winter,0,Ligue 1,2016,2016/2017
+EA Guingamp,Benjamin Angoua,30,Centre-Back,Revolution,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+FC Toulouse,Andy Delort,25,Centre-Forward,Tigres UANL,£5.40m,in,Winter,5.4,Ligue 1,2016,2016/2017
+FC Toulouse,Corentin Jean,21,Right Winger,Monaco,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+FC Toulouse,William Matheus,26,Left-Back,Fluminense,"End of loanJan 30, 2017",in,Winter,0,Ligue 1,2016,2016/2017
+FC Toulouse,Quentin Boisgard,19,Attacking Midfield,Toulouse B,-,in,Winter,0,Ligue 1,2016,2016/2017
+FC Toulouse,Jordan Sebban,20,Central Midfield,Toulouse B,-,in,Winter,0,Ligue 1,2016,2016/2017
+FC Toulouse,Clément Michelin,19,Right-Back,Toulouse B,-,in,Winter,0,Ligue 1,2016,2016/2017
+FC Toulouse,Mathieu Cafaro,19,Attacking Midfield,Toulouse B,-,in,Winter,0,Ligue 1,2016,2016/2017
+FC Toulouse,Kelvin Amian,18,Right-Back,FC Toulouse U19,-,in,Winter,0,Ligue 1,2016,2016/2017
+FC Toulouse,William Matheus,26,Left-Back,Coritiba FC,?,out,Winter,NA,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Alexis Busin,21,Right Winger,Clermont Foot,"End of loanJan 16, 2017",in,Winter,0,Ligue 1,2016,2016/2017
+AS Nancy-Lorraine,Clément Lenglet,21,Centre-Back,Sevilla FC,£4.86m,out,Winter,4.86,Ligue 1,2016,2016/2017
+Dijon FCO,Chang-hoon Kwon,22,Right Winger,Suwon Bluewings,£1.35m,in,Winter,1.35,Ligue 1,2016,2016/2017
+Dijon FCO,Oussama Haddadi,25,Left-Back,Club Africain,?,in,Winter,NA,Ligue 1,2016,2016/2017
+Dijon FCO,Quentin Bernard,27,Left-Back,Stade Brest 29,?,out,Winter,NA,Ligue 1,2016,2016/2017
+Dijon FCO,Johan Gastien,28,Defensive Midfield,Stade Brest 29,?,out,Winter,NA,Ligue 1,2016,2016/2017
+FC Metz,Fallou Diagne,27,Centre-Back,Werder Bremen,Loan fee:£360Th.,in,Winter,0.36,Ligue 1,2016,2016/2017
+FC Metz,Cheick Diabaté,28,Centre-Forward,Osmanlispor,Loan,in,Winter,0,Ligue 1,2016,2016/2017
+FC Metz,Habib Diallo,21,Centre-Forward,Stade Brest 29,Loan,out,Winter,0,Ligue 1,2016,2016/2017
+FC Metz,Popoola Sodiq,22,Defensive Midfield,Khémisset,Free transfer,out,Winter,0,Ligue 1,2016,2016/2017
+FC Metz,Janis Ikaunieks,21,Attacking Midfield,AE Larisa,Loan,out,Winter,0,Ligue 1,2016,2016/2017
