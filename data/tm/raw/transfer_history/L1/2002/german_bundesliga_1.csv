@@ -1,0 +1,362 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Bayern Munich,Zé Roberto,27,Left Midfield,Bay. Leverkusen,£8.55m,in,Summer,8.55,1 Bundesliga,2002,2002/2003
+Bayern Munich,Sebastian Deisler,22,Right Midfield,Hertha BSC,£8.10m,in,Summer,8.1,1 Bundesliga,2002,2002/2003
+Bayern Munich,Michael Ballack,25,Central Midfield,Bay. Leverkusen,£5.40m,in,Summer,5.4,1 Bundesliga,2002,2002/2003
+Bayern Munich,Bastian Schweinsteiger,17,Central Midfield,FC Bayern U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+Bayern Munich,Philipp Lahm,18,Right-Back,FC Bayern II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+Bayern Munich,Alexander Bugera,23,Left-Back,Unterhaching,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+Bayern Munich,Carsten Jancker,27,Centre-Forward,Udinese,£2.25m,out,Summer,2.25,1 Bundesliga,2002,2002/2003
+Bayern Munich,Stephan Kling,21,Left-Back,Hamburger SV,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayern Munich,Stefan Effenberg,33,Central Midfield,VfL Wolfsburg,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayern Munich,Paulo Sérgio,33,Left Winger,Al-Wahda FC,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayern Munich,Alou Diarra,20,Defensive Midfield,Liverpool,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayern Munich,Ciriaco Sforza,32,Central Midfield,1.FC K'lautern,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Torsten Frings,25,Defensive Midfield,Werder Bremen,£7.65m,in,Summer,7.65,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Juan Fernández,22,Right-Back,Estudiantes,£1.49m,in,Summer,1.49,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Roman Weidenfeller,21,Goalkeeper,1.FC K'lautern,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,David Odonkor,18,Right Winger,B. Dortmund U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Fredi Bobic,30,Centre-Forward,Bolton,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Victor Ikpeba,29,Centre-Forward,Real Betis,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Victor Ikpeba,29,Centre-Forward,Al-Ittihad,£900Th.,out,Summer,0.9,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Fredi Bobic,30,Centre-Forward,Hannover 96,£450Th.,out,Summer,0.45,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Florian Kringe,19,Central Midfield,1. FC Köln,Loan fee:£45Th.,out,Summer,0.045,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Miroslav Stevic,32,Defensive Midfield,Fenerbahce,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Dr. Philipp Laux,29,Goalkeeper,E. Braunschweig,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Jürgen Kohler,36,Centre-Back,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Francis Bugri,21,Attacking Midfield,B. Dortmund II,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,França,26,Centre-Forward,São Paulo,£7.65m,in,Summer,7.65,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Jan Simak,23,Attacking Midfield,Hannover 96,£5.85m,in,Summer,5.85,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Daniel Bierofka,23,Left Midfield,1860 Munich,£3.78m,in,Summer,3.78,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Juan,23,Centre-Back,Flamengo,£3.15m,in,Summer,3.15,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Christoph Preuß,20,Defensive Midfield,E. Frankfurt,£1.98m,in,Summer,1.98,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Hanno Balitsch,21,Defensive Midfield,1. FC Köln,£1.80m,in,Summer,1.8,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Clemens Fritz,21,Central Midfield,Karlsruher SC,£1.35m,in,Summer,1.35,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Du-ri Cha,22,Right-Back,Korea University,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Paulo Rink,29,Centre-Forward,1.FC Nuremberg,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Markus Daun,21,Centre-Forward,Alem. Aachen,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Andreas Voss,23,Defensive Midfield,MSV Duisburg,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Zé Roberto,27,Left Midfield,Bayern Munich,£8.55m,out,Summer,8.55,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Michael Ballack,25,Central Midfield,Bayern Munich,£5.40m,out,Summer,5.4,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Frankie Hejduk,27,Right-Back,FC St. Gallen,Loan fee:£225Th.,out,Summer,0.225,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Markus Daun,21,Centre-Forward,Werder Bremen,Loan fee:£180Th.,out,Summer,0.18,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Du-ri Cha,22,Right-Back,Arm. Bielefeld,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Clemens Fritz,21,Central Midfield,Karlsruher SC,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Thorsten Wittek,25,Attacking Midfield,SV Elversberg,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Thorsten Burkhardt,21,Central Midfield,Greuther Fürth,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Michael Zepek,21,Centre-Back,LR Ahlen,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Emanuel Pogatetz,19,Centre-Back,FC Aarau,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Marquinhos,20,Attacking Midfield,Flamengo,?,out,Summer,NA,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Paulo Rink,29,Centre-Forward,Without Club,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Christian Poulsen,22,Defensive Midfield,FC Copenhagen,£6.30m,in,Summer,6.3,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Frank Rost,29,Goalkeeper,Werder Bremen,£5.63m,in,Summer,5.63,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Darío Rodríguez,27,Left-Back,Peñarol,£3.60m,in,Summer,3.6,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Gustavo Varela,24,Right Midfield,Nacional,£1.80m,in,Summer,1.8,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Mike Hanke,18,Centre-Forward,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Fabian Lamotte,19,Right-Back,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Volkan Ünlü,18,Goalkeeper,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Christofer Heimeroth,20,Goalkeeper,Schalke 04 II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Christian Mikolajczak,21,Defensive Midfield,Hannover 96,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Marcel Rozgonyi,26,Centre-Back,Energie Cottbus,£135Th.,out,Summer,0.135,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Christian Mikolajczak,21,Defensive Midfield,LR Ahlen,£45Th.,out,Summer,0.045,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Frode Grodas,37,Goalkeeper,Hönefoss,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Jiri Nemec,36,Defensive Midfield,Chmel Blsany,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Youri Mulder,33,Centre-Forward,De Tubanters,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Markus Happe,30,Centre-Back,1. FC Köln,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Toni Tapalovic,21,Goalkeeper,VfL Bochum,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Sladan Peric,20,Centre-Back,B.93,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Olaf Thon,36,Central Midfield,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Yves Eigenrauch,31,Centre-Back,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Mike Büskens,34,Left Midfield,Schalke 04 II,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Krisztián Szóllar,21,Defensive Midfield,Schalke 04 II,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Cristian Ledesma,23,Central Midfield,River Plate,£3.60m,in,Summer,3.6,1 Bundesliga,2002,2002/2003
+Hamburger SV,Stephan Kling,21,Left-Back,Bayern Munich,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Christian Rahn,23,Left-Back,FC St. Pauli,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Richard Kitzbichler,28,Right Midfield,Wüstenrot Sbg,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Michael Baur,33,Centre-Back,Wattens-Wacker,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Collin Benjamin,23,Defensive Midfield,Hamburger SV II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Volker Schmidt,23,Right-Back,Hamburger SV II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Fabian Bröcker,19,Central Midfield,Hamburg U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Carsten Wehlmann,30,Goalkeeper,Hannover 96,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Marcel Ketelaer,24,Left Midfield,Bor. M'gladbach,Loan fee:£225Th.,out,Summer,0.225,1 Bundesliga,2002,2002/2003
+Hamburger SV,Roy Präger,30,Centre-Forward,VfL Wolfsburg,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Jan Sandmann,24,Right-Back,Union Berlin,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,René Schneider,29,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Hervé Nzelo-Lembi,26,Centre-Back,Club Brugge,£2.25m,in,Summer,2.25,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Christian Timm,23,Right Winger,1. FC Köln,£900Th.,in,Summer,0.9,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Selim Teber,21,Central Midfield,Waldh. Mannheim,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Markus Anfang,28,Central Midfield,Wattens-Wacker,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Ciriaco Sforza,32,Central Midfield,Bayern Munich,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Jeff Strasser,27,Centre-Back,Bor. M'gladbach,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Jörgen Pettersson,26,Left Winger,FC Copenhagen,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Olaf Marschall,36,Centre-Forward,Al-Gharafa SC,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Roman Weidenfeller,21,Goalkeeper,Bor. Dortmund,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Andreas Buck,34,Right Midfield,1.FSV Mainz 05,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Markus Kullig,27,Defensive Midfield,VfB Lübeck,?,out,Summer,NA,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Morten Skoubo,22,Centre-Forward,FC Midtjylland,£2.43m,in,Summer,2.43,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Joris Van Hout,25,Centre-Back,RSC Anderlecht,£450Th.,in,Summer,0.45,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Marcel Ketelaer,24,Left Midfield,Hamburger SV,Loan fee:£225Th.,in,Summer,0.225,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Jeff Strasser,27,Centre-Back,1.FC K'lautern,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Jan Schlaudraff,18,Second Striker,Hassia Bingen,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Daniel Embers,21,Left-Back,M'gladbach II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Benjamin Auer,21,Centre-Forward,1.FSV Mainz 05,£540Th.,out,Summer,0.54,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Peter Nielsen,34,Attacking Midfield,FC Copenhagen,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Bernd Meier,30,Goalkeeper,LR Ahlen,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Markus Osthoff,33,Left Winger,E. Braunschweig,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Dirk Schreiber,28,Centre-Back,Union Solingen,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Quido Lanzaat,22,Centre-Back,Alem. Aachen,£32Th.,out,Summer,0.032,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Mikael Forssell,22,Centre-Forward,Chelsea,"End of loanMay 25, 2003",out,Summer,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Marcin Mieciel,26,Centre-Forward,Legia Warszawa,"End of loanJun 30, 2002",out,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Jiri Stajner,26,Second Striker,Slovan Liberec,£2.79m,in,Summer,2.79,1 Bundesliga,2002,2002/2003
+Hannover 96,Blaise Nkufo,27,Centre-Forward,1.FSV Mainz 05,£1.26m,in,Summer,1.26,1 Bundesliga,2002,2002/2003
+Hannover 96,Fredi Bobic,30,Centre-Forward,Bor. Dortmund,£450Th.,in,Summer,0.45,1 Bundesliga,2002,2002/2003
+Hannover 96,Mohamadou Idrissou,22,Centre-Forward,SV Wehen,£270Th.,in,Summer,0.27,1 Bundesliga,2002,2002/2003
+Hannover 96,Gerhard Tremmel,23,Goalkeeper,Unterhaching,£270Th.,in,Summer,0.27,1 Bundesliga,2002,2002/2003
+Hannover 96,Konstantinos Konstantinidis,29,Centre-Back,Hertha BSC,£180Th.,in,Summer,0.18,1 Bundesliga,2002,2002/2003
+Hannover 96,Fernando,30,Left Midfield,Dep. La Coruña,Loan,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Kai Oswald,24,Centre-Back,Hansa Rostock,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Kosta Rodrigues,22,Left Midfield,E. Braunschweig,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Daniel Haas,18,Goalkeeper,E. Frankfurt,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Julian de Guzmán,21,Defensive Midfield,Saarbrücken,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Markus Schuler,24,Left-Back,1.FSV Mainz 05,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,José Manuel,28,Right Midfield,Dep. La Coruña,Loan,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Jaime,29,Defensive Midfield,Dep. La Coruña,Loan,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Guido Gorges,29,Centre-Back,Schweinfurt 05,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Jan Simak,23,Attacking Midfield,Bay. Leverkusen,£5.85m,out,Summer,5.85,1 Bundesliga,2002,2002/2003
+Hannover 96,Igoris Morinas,27,Centre-Forward,1.FSV Mainz 05,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Oliver Schäfer,33,Centre-Back,Saarbrücken,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Salif Keita,26,Centre-Forward,Union Berlin,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,André Astorga,22,Centre-Back,UA Barbarense,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Heiner Backhaus,20,Defensive Midfield,Union Berlin,£36Th.,out,Summer,0.036,1 Bundesliga,2002,2002/2003
+Hannover 96,Marco Rose,25,Left-Back,1.FSV Mainz 05,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Kosta Rodrigues,22,Left Midfield,Saarbrücken,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Mirko Baschetti,30,Defender,Without Club,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Mourad Bounoua,29,Attacking Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Carsten Wehlmann,30,Goalkeeper,Hamburger SV,"End of loanJun 30, 2002",out,Summer,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Christian Mikolajczak,21,Defensive Midfield,FC Schalke 04,"End of loanJun 30, 2002",out,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Remo Meyer,21,Centre-Back,Lausanne-Sport,£743Th.,in,Summer,0.743,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Sandro Cescutti,20,Left Midfield,SpVgg Ansbach,£90Th.,in,Summer,0.09,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Danny Schwarz,27,Defensive Midfield,Unterhaching,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Rafael,23,Centre-Back,Ipiranga,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Rodrigo Costa,26,Centre-Back,Santos FC,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Andreas Görlitz,20,Right-Back,1860 München II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Necat Aygün,22,Centre-Back,Besiktas,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Sascha Rösler,24,Second Striker,RW Oberhausen,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Daniel Bierofka,23,Left Midfield,Bay. Leverkusen,£3.78m,out,Summer,3.78,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Filip Tapalovic,25,Defensive Midfield,VfL Bochum,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Didier Dheedene,30,Left-Back,Austria Vienna,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Holger Greilich,30,Centre-Back,Omonia Nikosia,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Samuel Ipoua,29,Centre-Forward,LR Ahlen,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Thomas Weller,21,Defensive Midfield,FC Winterthur,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Bernhard Winkler,36,Centre-Forward,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Sascha Rösler,24,Second Striker,Greuther Fürth,,out,Summer,NA,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Rade Todorovic,28,Right Winger,Slavia Sofia,£90Th.,in,Summer,0.09,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Milorad Popovic,23,Left-Back,OFK Beograd,Loan fee:£45Th.,in,Summer,0.045,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Michael Kügler,20,Right Midfield,B. Dortmund II,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Sasa Ciric,34,Centre-Forward,E. Frankfurt,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Dusan Petkovic,28,Centre-Back,VfL Wolfsburg,Loan,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Milan Belic,24,Forward,OFK Beograd,Loan fee:£45Th.,in,Summer,0.045,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Andreas Wolf,20,Centre-Back,Nuremberg II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Stefan Kießling,18,Centre-Forward,Nürnberg U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Stoycho Stoilov,30,Central Midfield,Litex Lovetch,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Rajko Tavcar,27,Left-Back,W. Burghausen,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Louis Gomis,27,Centre-Forward,MSV Duisburg,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Dusan Petkovic,28,Centre-Back,VfL Wolfsburg,"End of loanMay 1, 2003",out,Summer,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Paulo Rink,29,Centre-Forward,Bay. Leverkusen,"End of loanJun 30, 2002",out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Kim Madsen,24,Centre-Back,FC Copenhagen,£720Th.,in,Summer,0.72,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Stefan Effenberg,33,Central Midfield,Bayern Munich,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Roy Präger,30,Centre-Forward,Hamburger SV,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Jesper Christiansen,24,Goalkeeper,Rangers,Loan,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Michael Madsen,29,Left Midfield,Farum BK,"End of loanApr 1, 2003",in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Dusan Petkovic,28,Centre-Back,1.FC Nuremberg,"End of loanMay 1, 2003",in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Patrick Platins,19,Goalkeeper,Wolfsburg U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Mike Busch,21,Centre-Forward,VfL Bochum,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Andrzej Juskowiak,31,Centre-Forward,Energie Cottbus,£225Th.,out,Summer,0.225,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Jürgen Rische,31,Centre-Forward,E. Braunschweig,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Waldemar Kryger,33,Centre-Back,Lech Poznan,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Dusan Petkovic,28,Centre-Back,1.FC Nuremberg,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Dietmar Kühbauer,31,Central Midfield,SV Mattersburg,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Gernot Plassnegger,24,Right-Back,Waldh. Mannheim,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Joshua Kennedy,19,Centre-Forward,Stuttg. Kickers,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Emeka Ifejiagwa,24,Centre-Back,Waldh. Mannheim,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Michael Madsen,28,Left Midfield,Farum BK,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Stefan Effenberg,34,Central Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Krzysztof Nowak,26,Central Midfield,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Claus Thomsen,32,Centre-Back,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Benjamin Siegert,20,Right Midfield,Wolfsburg II,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Diego Benaglio,18,Goalkeeper,Grasshoppers,£135Th.,in,Summer,0.135,1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Michael Mutzel,22,Defensive Midfield,E. Frankfurt,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Giannis Amanatidis,20,Centre-Forward,Greuther Fürth,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Jochen Endreß,29,Centre-Back,SSV Reutlingen,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Fabio Morena,22,Centre-Back,Alicante CF,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Adhemar,30,Centre-Forward,São Caetano,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Robert Vujevic,21,Defensive Midfield,Stuttgart II,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Zsolt Löw,23,Left-Back,Újpest FC,£225Th.,in,Summer,0.225,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Andrzej Juskowiak,31,Centre-Forward,VfL Wolfsburg,£225Th.,in,Summer,0.225,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Robert Vagner,28,Forward,Újpest FC,£225Th.,in,Summer,0.225,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Marcel Rozgonyi,26,Centre-Back,FC Schalke 04,£135Th.,in,Summer,0.135,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Rayk Schröder,27,Right-Back,Hansa Rostock,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Marco Gebhardt,29,Left Midfield,E. Frankfurt,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Torsten Mattuschka,21,Attacking Midfield,E. Cottbus II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Paulo Rink,29,Centre-Forward,Without Club,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Patryk Rachwal,21,Defensive Midfield,Widzew Lodz,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Sebastian Helbig,25,Centre-Forward,1. FC Köln,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Dawid Ditrich,18,Goalkeeper,Lechia Gdansk,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Holger Fraedrich,33,Midfielder,BG Laubsdorf,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Tamás Szekeres,29,Centre-Back,Debrecen,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Martin Neubert,21,Centre-Back,Hansa Rostock,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Toni Micevski,32,Attacking Midfield,VfL Osnabrück,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Ottó Vincze,27,Attacking Midfield,Zalaegerszeg,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Jörg Scherbe,24,Defensive Midfield,KFC Uerdingen,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Witold Wawrzyczek,29,Centre-Back,Karlsruher SC,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,János Mátyus,27,Centre-Back,Hibernian FC,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Patryk Rachwal,21,Defensive Midfield,Widzew Lodz,?,out,Summer,NA,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Vasile Miriuta,34,Attacking Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Angelos Charisteas,22,Centre-Forward,Aris Saloniki,£2.70m,in,Summer,2.7,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Manuel Friedrich,22,Centre-Back,1.FSV Mainz 05,£2.25m,in,Summer,2.25,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Marco Reich,24,Left Midfield,1. FC Köln,£225Th.,in,Summer,0.225,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Markus Daun,21,Centre-Forward,Bay. Leverkusen,Loan fee:£180Th.,in,Summer,0.18,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Michael Jürgen,28,Goalkeeper,Preußen Münster,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Johan Micoud,29,Attacking Midfield,AC Parma,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Christian Schulz,19,Centre-Back,W. Bremen II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Stefan Beckert,20,Defensive Midfield,W. Bremen II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Marco Stier,18,Left Winger,W. Bremen U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Blaise Mamoum,22,Centre-Forward,W. Bremen II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Torsten Frings,25,Defensive Midfield,Bor. Dortmund,£7.65m,out,Summer,7.65,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Frank Rost,29,Goalkeeper,FC Schalke 04,£5.63m,out,Summer,5.63,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Enrico Kern,23,Centre-Forward,Waldh. Mannheim,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Rade Bogdanovic,32,Centre-Forward,Arm. Bielefeld,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Roberto Silva,26,Centre-Forward,CA Unión,?,out,Summer,NA,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Dieter Eilts,37,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Marco Bode,32,Left Winger,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Rade Prica,22,Centre-Forward,Helsingborg,£1.98m,in,Summer,1.98,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Thomas Meggle,27,Attacking Midfield,FC St. Pauli,£428Th.,in,Summer,0.428,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Michal Kovar,28,Centre-Back,SSV Reutlingen,£45Th.,in,Summer,0.045,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Godfried Aduobe,26,Defensive Midfield,SSV Reutlingen,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Martin Neubert,21,Centre-Back,Energie Cottbus,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Jochen Kientz,29,Centre-Back,FC St. Pauli,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Uwe Möhrle,22,Centre-Back,SC Pfullendorf,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Joakim Persson,27,Centre-Back,Esbjerg fB,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Gerd Wimmer,25,Right-Back,E. Frankfurt,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Kevin Hansen,22,Central Midfield,H. Rostock II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Carsten Busch,21,Goalkeeper,H. Rostock II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Marcel von Walsleben-Schied (Schied),18,Second Striker,H. Rostock U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Kai Oswald,24,Centre-Back,Hannover 96,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Rayk Schröder,27,Right-Back,Energie Cottbus,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Yasser Radwan,30,Defensive Midfield,El Ahly,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Christian Brand,30,Attacking Midfield,FC Luzern,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Steffen Baumgart,30,Centre-Forward,Union Berlin,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Kreso Kovacec,32,Centre-Forward,FC Augsburg,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Marco Haber,30,Defensive Midfield,Omonia Nikosia,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Mohamed Emara,28,Left-Back,El Ahly,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Marco Weißhaupt,30,Attacking Midfield,VfB Lübeck,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Perry Bräutigam,39,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Hilmar Weilandt,35,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Sven Benken,32,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Marco Vorbeck,21,Centre-Forward,H. Rostock II,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Bernd Rauw,22,Centre-Back,Alem. Aachen,£270Th.,in,Summer,0.27,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Jesús Sinisterra,26,Left-Back,CA Banfield,£225Th.,in,Summer,0.225,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Benjamin Lense,23,Right-Back,SV Darmstadt 98,£180Th.,in,Summer,0.18,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Torjus Hansén,28,Right-Back,Lillestrøm SK,£135Th.,in,Summer,0.135,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Sasa Janic,27,Left-Back,SSV Reutlingen,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Rade Bogdanovic,32,Centre-Forward,Werder Bremen,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Maciej Murawski,28,Defensive Midfield,Legia Warszawa,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Mirnel Sadovic,18,Centre-Forward,A. Vienna Res.,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Du-ri Cha,22,Right-Back,Bay. Leverkusen,Loan,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Sebastian Völzow,19,Goalkeeper,Bielefeld U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Martin Amedick,19,Centre-Back,A. Bielefeld II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Arne Friedrich,23,Centre-Back,Hertha BSC,£1.62m,out,Summer,1.62,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,André Hofschneider,32,Defensive Midfield,FC Augsburg,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Bartosz Partyka,21,Left-Back,Pogon Szczecin,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Alexander Klitzpera,24,Centre-Back,Alem. Aachen,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Jörg Bode,32,Right Midfield,FC Augsburg,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Christian Wück,29,Second Striker,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Carsten Rump,21,Centre-Back,A. Bielefeld II,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Tobias Schäper,22,Left Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Lawrence Adjei,23,Midfielder,Spartak Moscow,"End of loanJun 30, 2002",out,Summer,0,1 Bundesliga,2002,2002/2003
+Hertha BSC,Arne Friedrich,23,Centre-Back,Arm. Bielefeld,£1.62m,in,Summer,1.62,1 Bundesliga,2002,2002/2003
+Hertha BSC,Bartosz Karwan,26,Right Midfield,Legia Warszawa,£450Th.,in,Summer,0.45,1 Bundesliga,2002,2002/2003
+Hertha BSC,Nando Rafael,18,Centre-Forward,Ajax U21,£225Th.,in,Summer,0.225,1 Bundesliga,2002,2002/2003
+Hertha BSC,Luizão,26,Centre-Forward,Grêmio,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hertha BSC,Alexander Mladenov,20,Attacking Midfield,Hertha BSC II,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+Hertha BSC,Benjamin Köhler,21,Left Midfield,MSV Duisburg,"End of loanJun 30, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+Hertha BSC,Konstantinos Konstantinidis,29,Centre-Back,Bolton,"End of loanJun 1, 2002",in,Summer,0,1 Bundesliga,2002,2002/2003
+Hertha BSC,Sebastian Deisler,22,Right Midfield,Bayern Munich,£8.10m,out,Summer,8.1,1 Bundesliga,2002,2002/2003
+Hertha BSC,Konstantinos Konstantinidis,29,Centre-Back,Hannover 96,£180Th.,out,Summer,0.18,1 Bundesliga,2002,2002/2003
+Hertha BSC,Oliver Schröder,22,Defensive Midfield,1. FC Köln,Loan fee:£45Th.,out,Summer,0.045,1 Bundesliga,2002,2002/2003
+Hertha BSC,Ali Daei,33,Centre-Forward,Al-Shaab,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+Hertha BSC,Trond Ludvigsen,20,Right Winger,Rosenborg BK,Loan,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Anton Vriesde,33,Centre-Back,KFC Uerdingen,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Filip Tapalovic,25,Defensive Midfield,1860 Munich,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Raymond Kalla,27,Centre-Back,CF Extremadura,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Thórdur Gudjónsson,28,Right Winger,Preston NE,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Toni Tapalovic,21,Goalkeeper,FC Schalke 04,Free transfer,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Alexander Thamm,19,Centre-Back,VfL Bochum U19,-,in,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Axel Sundermann,34,Centre-Back,SC Verl,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Samir Toplak,32,Right-Back,Varteks,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Hilko Ristau,28,Centre-Back,Saarbrücken,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Rouven Schröder,26,Centre-Back,MSV Duisburg,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Dino Toppmöller,21,Centre-Forward,E. Frankfurt,Free transfer,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Thomas Stickroth,37,Right-Back,Retired,-,out,Summer,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Mike Busch,21,Centre-Forward,VfL Wolfsburg,"End of loanJun 30, 2002",out,Summer,0,1 Bundesliga,2002,2002/2003
+Bayern Munich,Pablo Thiam,28,Defensive Midfield,VfL Wolfsburg,£900Th.,out,Winter,0.9,1 Bundesliga,2002,2002/2003
+Bayern Munich,Ciriaco Sforza,32,Central Midfield,1.FC K'lautern,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Sunday Oliseh,28,Defensive Midfield,VfL Bochum,Loan,out,Winter,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Emmanuel Krontiris,19,Centre-Forward,Alem. Aachen,Loan,out,Winter,0,1 Bundesliga,2002,2002/2003
+Borussia Dortmund,Jan Derek Sörensen,31,Right Winger,FK Lyn,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Radoslaw Kaluzny,28,Defensive Midfield,Energie Cottbus,£1.08m,in,Winter,1.08,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Cris,25,Centre-Back,Cruzeiro,Loan fee:£720Th.,in,Winter,0.72,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Sebastian Schoof,22,Centre-Forward,Leverkusen II,-,in,Winter,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Frankie Hejduk,28,Right-Back,FC St. Gallen,"End of loanDec 31, 2002",in,Winter,0,1 Bundesliga,2002,2002/2003
+Bayer 04 Leverkusen,Frankie Hejduk,28,Right-Back,Columbus Crew,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+FC Schalke 04,Marc Wilmots,34,Attacking Midfield,Retired,-,out,Winter,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Naohiro Takahara,23,Centre-Forward,Júbilo Iwata,£180Th.,in,Winter,0.18,1 Bundesliga,2002,2002/2003
+Hamburger SV,Carsten Wehlmann,30,Goalkeeper,VfB Lübeck,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Marek Heinz,25,Centre-Forward,Arm. Bielefeld,Loan,out,Winter,0,1 Bundesliga,2002,2002/2003
+Hamburger SV,Jörg Albertz,32,Left Midfield,SH Shenhua,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Bill Tchato,27,Left-Back,Montpellier,£1.26m,in,Winter,1.26,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Ciriaco Sforza,32,Central Midfield,Bayern Munich,Free transfer,in,Winter,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Perica Ognjenovic,25,Right Winger,DL Shide,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+1.FC Kaiserslautern,Petr Gabriel,29,Centre-Back,FK Teplice,Loan,out,Winter,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Mikael Forssell,21,Centre-Forward,Chelsea,Loan fee:£450Th.,in,Winter,0.45,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Berthil ter Avest,32,Left Midfield,De Graafschap,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Benjamin Schüßler,21,Right Winger,VfL Osnabrück,Loan,out,Winter,0,1 Bundesliga,2002,2002/2003
+Borussia Mönchengladbach,Markus Münch,30,Left-Back,Without Club,-,out,Winter,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Vinícius,22,Centre-Back,SE Gama,Loan,in,Winter,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Gheorghe Popescu,35,Centre-Back,Dinamo Bucarest,Free transfer,in,Winter,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Babacar N'Diaye,29,Centre-Forward,FC St. Pauli,Loan,out,Winter,0,1 Bundesliga,2002,2002/2003
+Hannover 96,Guido Gorges,29,Centre-Back,E. Braunschweig,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Jiayi Shao,22,Left Midfield,BJ Guoan,£1.17m,in,Winter,1.17,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Benjamin Lauth,21,Centre-Forward,1860 München II,-,in,Winter,0,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Vidar Riseth,30,Centre-Back,Rosenborg BK,£225Th.,out,Winter,0.225,1 Bundesliga,2002,2002/2003
+TSV 1860 Munich,Necat Aygün,22,Centre-Back,Unterhaching,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+1.FC Nuremberg,Christian Möckel,29,Second Striker,TSG Hoffenheim,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Pablo Thiam,28,Defensive Midfield,Bayern Munich,£900Th.,in,Winter,0.9,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Peter Madsen,24,Centre-Forward,Bröndby IF,Loan fee:£306Th.,in,Winter,0.306,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Pablo Quattrocchi,28,Centre-Back,Estudiantes,Free transfer,in,Winter,0,1 Bundesliga,2002,2002/2003
+VfL Wolfsburg,Mike Busch,21,Centre-Forward,SG Egelsbach,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+VfB Stuttgart,Horst Heldt,33,Left Midfield,Sturm Graz,Free transfer,in,Winter,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Gregg Berhalter,29,Centre-Back,Crystal Palace,Free transfer,in,Winter,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Radoslaw Kaluzny,28,Defensive Midfield,Bay. Leverkusen,£1.08m,out,Winter,1.08,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Cristiano Brasília,25,Centre-Forward,Zaglebie Lubin,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Markus Feldhoff,28,Centre-Forward,KFC Uerdingen,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Bruno Akrapovic,35,Defensive Midfield,Rot-Weiß Erfurt,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+FC Energie Cottbus,Vasile Miriuta,34,Attacking Midfield,Without Club,-,out,Winter,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Simon Rolfes,20,Defensive Midfield,SSV Reutlingen,Loan fee:£90Th.,out,Winter,0.09,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Holger Wehlage,26,Right Midfield,Union Berlin,Loan fee:£90Th.,out,Winter,0.09,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Stefan Blank,25,Left-Back,FC St. Pauli,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+SV Werder Bremen,Blaise Mamoum,23,Centre-Forward,Waldh. Mannheim,Loan,out,Winter,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Marco Vorbeck,21,Centre-Forward,H. Rostock II,-,in,Winter,0,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Markus Beierle,30,Centre-Forward,E. Frankfurt,£90Th.,out,Winter,0.09,1 Bundesliga,2002,2002/2003
+FC Hansa Rostock,Martin Neubert,22,Centre-Back,H. Rostock II,-,out,Winter,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Marek Heinz,25,Centre-Forward,Hamburger SV,Loan,in,Winter,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Simon Henzler,26,Goalkeeper,FC St. Pauli,?,in,Winter,NA,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Erhan Albayrak,25,Left Midfield,Fenerbahce,£225Th.,out,Winter,0.225,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Dirk van der Ven,32,Centre-Forward,Yokohama FC,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+Arminia Bielefeld,Heinz Müller,24,Goalkeeper,FC St. Pauli,?,out,Winter,NA,1 Bundesliga,2002,2002/2003
+Hertha BSC,Nené,27,Centre-Back,Grêmio,Free transfer,in,Winter,0,1 Bundesliga,2002,2002/2003
+Hertha BSC,Sead Zilic,20,Centre-Forward,FK Sarajevo,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Sunday Oliseh,28,Defensive Midfield,Bor. Dortmund,Loan,in,Winter,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Cristian Fiél,22,Central Midfield,Union Berlin,?,in,Winter,NA,1 Bundesliga,2002,2002/2003
+VfL Bochum,Mirko Dickhaut,32,Defensive Midfield,SW Bregenz,£248Th.,out,Winter,0.248,1 Bundesliga,2002,2002/2003
+VfL Bochum,Dietmar Berchtold,28,Central Midfield,SW Bregenz,Free transfer,out,Winter,0,1 Bundesliga,2002,2002/2003
+VfL Bochum,Peter Graulund,26,Centre-Forward,Aarhus GF,Loan,out,Winter,0,1 Bundesliga,2002,2002/2003

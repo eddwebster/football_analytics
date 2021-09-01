@@ -1,0 +1,379 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Hamburger SV,Nico-Jan Hoogma,29,Centre-Back,Twente FC,£900Th.,in,Summer,0.9,1 Bundesliga,1998,1998/1999
+Hamburger SV,Vanja Grubac,27,Centre-Forward,OFK Beograd,£540Th.,in,Summer,0.54,1 Bundesliga,1998,1998/1999
+Hamburger SV,Dimitrios Grammozis,19,Defensive Midfield,KFC Uerdingen,£315Th.,in,Summer,0.315,1 Bundesliga,1998,1998/1999
+Hamburger SV,Alexander Bade,27,Goalkeeper,KFC Uerdingen,£270Th.,in,Summer,0.27,1 Bundesliga,1998,1998/1999
+Hamburger SV,Martin Dahlin,30,Centre-Forward,Blackburn,Loan fee:£180Th.,in,Summer,0.18,1 Bundesliga,1998,1998/1999
+Hamburger SV,Martin Groth,28,Right Midfield,Hansa Rostock,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Fabian Ernst,19,Defensive Midfield,Hannover 96,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Oliver Straube,26,Left Midfield,KFC Uerdingen,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Sergey Kiryakov,28,Centre-Forward,Karlsruher SC,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Thomas Doll,32,Attacking Midfield,Bari,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Josip Simunic,20,Centre-Back,Hamburger SV II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Mahmut Yilmaz,18,Centre-Forward,Hamburg U19,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Rodolfo Cardoso,29,Attacking Midfield,Boca Juniors,"End of loanJun 30, 1998",in,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Soner Uysal,20,Centre-Forward,FC Gütersloh,"End of loanJun 30, 1998",in,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Pawel Wojtala,25,Centre-Back,Werder Bremen,£450Th.,out,Summer,0.45,1 Bundesliga,1998,1998/1999
+Hamburger SV,Andreas Zeyer,30,Defensive Midfield,Karlsruher SC,£315Th.,out,Summer,0.315,1 Bundesliga,1998,1998/1999
+Hamburger SV,Michael Molata,25,Centre-Back,Karlsruher SC,£293Th.,out,Summer,0.293,1 Bundesliga,1998,1998/1999
+Hamburger SV,Richard Golz,30,Goalkeeper,SC Freiburg,£221Th.,out,Summer,0.221,1 Bundesliga,1998,1998/1999
+Hamburger SV,Rodolfo Cardoso,29,Attacking Midfield,Estudiantes,Loan fee:£158Th.,out,Summer,0.158,1 Bundesliga,1998,1998/1999
+Hamburger SV,Stefan Schnoor,27,Centre-Back,Derby,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Hasan Salihamidzic,21,Right Midfield,Bayern Munich,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Sven Kmetsch,27,Defensive Midfield,FC Schalke 04,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Martin Zafirov,24,Right-Back,Spartak Varna,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+Hamburger SV,Jakob Friis-Hansen,31,Centre-Back,Retired,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Uwe Jähnig,28,Centre-Forward,Retired,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Aílton,25,Centre-Forward,Tigres UANL,£2.48m,in,Summer,2.48,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Rade Bogdanovic,28,Centre-Forward,Atlético Madrid,£1.22m,in,Summer,1.22,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Pawel Wojtala,25,Centre-Back,Hamburger SV,£450Th.,in,Summer,0.45,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Lodewijk Roembiak,29,Defensive Midfield,FC Aarau,£405Th.,in,Summer,0.405,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Pascal Borel,19,Goalkeeper,Waldh. Mannheim,£90Th.,in,Summer,0.09,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Stefan Brasas,30,Goalkeeper,SV Meppen,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Thiago,22,Centre-Back,Joinville-SC,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Alexander Nouri,18,Attacking Midfield,W. Bremen U19,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Christoph Dabrowski,20,Defensive Midfield,W. Bremen II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Hany Ramzy,29,Centre-Back,1.FC K'lautern,£1.04m,out,Summer,1.04,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Oliver Reck,33,Goalkeeper,FC Schalke 04,£630Th.,out,Summer,0.63,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Arie van Lent,27,Centre-Forward,Greuther Fürth,£135Th.,out,Summer,0.135,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Bruno Labbadia,32,Centre-Forward,Arm. Bielefeld,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Heimo Pfeifenberger,31,Right Winger,Wüstenrot Sbg,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Dr. Uwe Harttgen,33,Attacking Midfield,W. Bremen II,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Jens Lellek,30,Defender,W. Bremen II,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Thomas Penshorn,20,Centre-Back,W. Bremen II,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Thomas Wolter,34,Right Midfield,W. Bremen II,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Andrzej Juskowiak,27,Centre-Forward,Bor. M'gladbach,£1.13m,in,Summer,1.13,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Brian O'Neil,25,Centre-Back,Aberdeen FC,£594Th.,in,Summer,0.594,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Charles Akonnor,24,Central Midfield,SC Fortuna Köln,£540Th.,in,Summer,0.54,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Krzysztof Nowak,22,Central Midfield,Atlético-PR,£450Th.,in,Summer,0.45,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Steffen Baumgart,26,Centre-Forward,Hansa Rostock,£450Th.,in,Summer,0.45,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Vitus Nagorny,20,Centre-Forward,SpVgg Landshut,£90Th.,in,Summer,0.09,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Guido Koltermann,23,Goalkeeper,1.FC Bocholt,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Nico Däbritz,26,Defensive Midfield,VfB Leipzig,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Claus Reitmaier,34,Goalkeeper,Karlsruher SC,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Jonathan Akonnor,19,Left Midfield,Okwawu United,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Gerald Schröder,22,Left Midfield,Wolfsburg II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Jens Keller,27,Centre-Back,VfB Stuttgart,£270Th.,out,Summer,0.27,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Zoran Tomcic,28,Centre-Back,KFC Uerdingen,£135Th.,out,Summer,0.135,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Dragan Stevanovic,26,Centre-Forward,FC St. Pauli,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Marco Ament,19,Midfielder,SSV Vorsfelde,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Chad Deering,27,Defensive Midfield,Dallas Burn,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Sven Ratke,26,Attacking Midfield,VfB Hellerau,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Michael Spies,32,Attacking Midfield,Unterhaching,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Maximilian Heidenreich,31,Sweeper,Wattenscheid 09,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Pavel Novotny,24,Left-Back,Sparta Praha,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Jann Jensen,29,Centre-Back,Odense BK,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Piotr Tyszkiewicz,27,Centre-Forward,E. Braunschweig,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Stefan Meissner,25,Centre-Forward,Karlsruher SC,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Markus Kullig,23,Defensive Midfield,VfB Lübeck,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Jörg Hoßbach,33,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Bochum,Stefan Kuntz,35,Centre-Forward,Arm. Bielefeld,£315Th.,in,Summer,0.315,1 Bundesliga,1998,1998/1999
+VfL Bochum,Samir Toplak,28,Right-Back,Varteks,£225Th.,in,Summer,0.225,1 Bundesliga,1998,1998/1999
+VfL Bochum,Zdravko Drincic,26,Forward,Vojvodina,£135Th.,in,Summer,0.135,1 Bundesliga,1998,1998/1999
+VfL Bochum,Maurizio Gaudino,31,Central Midfield,FC Basel,£113Th.,in,Summer,0.113,1 Bundesliga,1998,1998/1999
+VfL Bochum,Jacek Ratajczak,24,Centre-Forward,F. Swinoujscie,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Bochum,Maik Kischko,31,Goalkeeper,Carl Zeiss Jena,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Bochum,Emir Dzafic,25,Midfielder,Beltinci,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Bochum,Alen Petrovic,28,Defender,Croatia Zagreb,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+VfL Bochum,Michael Bemben,22,Right-Back,VfL Bochum II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Bochum,Sebastian Schindzielorz,19,Defensive Midfield,VfL Bochum II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Bochum,Dariusz Wosz,29,Attacking Midfield,Hertha BSC,£2.34m,out,Summer,2.34,1 Bundesliga,1998,1998/1999
+VfL Bochum,Georgi Donkov,28,Centre-Forward,1. FC Köln,£900Th.,out,Summer,0.9,1 Bundesliga,1998,1998/1999
+VfL Bochum,Zoran Mamic,26,Centre-Back,Bay. Leverkusen,£720Th.,out,Summer,0.72,1 Bundesliga,1998,1998/1999
+VfL Bochum,Henryk Baluszynski,25,Centre-Forward,Arm. Bielefeld,£180Th.,out,Summer,0.18,1 Bundesliga,1998,1998/1999
+VfL Bochum,Uwe Gospodarek,24,Goalkeeper,1.FC K'lautern,£158Th.,out,Summer,0.158,1 Bundesliga,1998,1998/1999
+VfL Bochum,Peter Közle,30,Centre-Forward,Union Berlin,£113Th.,out,Summer,0.113,1 Bundesliga,1998,1998/1999
+VfL Bochum,Mirko Reichel,27,Defensive Midfield,Greuther Fürth,£90Th.,out,Summer,0.09,1 Bundesliga,1998,1998/1999
+VfL Bochum,Daniel Winkler,24,Centre-Forward,Stuttg. Kickers,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+VfL Bochum,Karsten Hutwelker,26,Left Midfield,1. FC Köln,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Sasa Markovic,26,Midfielder,Red Star,£1.44m,in,Summer,1.44,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Mitko Stojkovski,25,Defensive Midfield,Real Oviedo,£450Th.,in,Summer,0.45,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Jens Keller,27,Centre-Back,VfL Wolfsburg,£270Th.,in,Summer,0.27,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Pablo Thiam,24,Defensive Midfield,1. FC Köln,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Rüdiger Kauf,23,Defensive Midfield,VfL Kirchheim,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Bradley Carnell,21,Left-Back,Kaizer Chiefs,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Michael Zeyer,30,Central Midfield,MSV Duisburg,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Tobias Iseli,19,Left-Back,Stuttgart II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Kai Oswald,20,Centre-Back,Stuttgart II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Murat Yakin,23,Centre-Back,Fenerbahce,£3.60m,out,Summer,3.6,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Matthias Hagner,23,Right Midfield,Bor. M'gladbach,£675Th.,out,Summer,0.675,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Marco Grimm,26,Centre-Back,Grazer AK,£135Th.,out,Summer,0.135,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Marco Haber,26,Defensive Midfield,UD Las Palmas,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Danny Schwarz,23,Defensive Midfield,Karlsruher SC,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Matthias Becker,24,Centre-Forward,Hannover 96,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Florin Raducioiu,28,Centre-Forward,Espanyol,"End of loanJun 30, 1998",out,Summer,0,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Michél Dinzey,25,Left Midfield,Hertha BSC,£900Th.,in,Summer,0.9,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Roman Tyce,21,Defensive Midfield,Slovan Liberec,£540Th.,in,Summer,0.54,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Markus Schroth,23,Centre-Forward,Karlsruher SC,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Marco Kurz,29,Centre-Back,FC Schalke 04,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Gerald Vanenburg,34,Right Winger,Cannes,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Jens Jeremies,24,Defensive Midfield,Bayern Munich,£720Th.,out,Summer,0.72,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Abédi Pelé,33,Attacking Midfield,Al-Ain FC,£405Th.,out,Summer,0.405,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Marco Walker,28,Centre-Back,TeBe Berlin,£383Th.,out,Summer,0.383,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Besnik Hasi,26,Defensive Midfield,KRC Genk,£383Th.,out,Summer,0.383,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,André Hofschneider,28,Defensive Midfield,Arm. Bielefeld,£315Th.,out,Summer,0.315,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Jörg Böhme,24,Left Midfield,Arm. Bielefeld,£270Th.,out,Summer,0.27,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Rayk Schröder,23,Right-Back,Energie Cottbus,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Christian Holzer,21,Goalkeeper,SV Lohhof,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+SC Freiburg,Richard Golz,30,Goalkeeper,Hamburger SV,£221Th.,in,Summer,0.221,1 Bundesliga,1998,1998/1999
+SC Freiburg,Levan Tskitishvili,21,Left Midfield,Dinamo Tbilisi,£113Th.,in,Summer,0.113,1 Bundesliga,1998,1998/1999
+SC Freiburg,Levan Kobiashvili,20,Left Midfield,Dinamo Tbilisi,£113Th.,in,Summer,0.113,1 Bundesliga,1998,1998/1999
+SC Freiburg,Thomas Radlspeck,25,Centre-Forward,Unterhaching,£90Th.,in,Summer,0.09,1 Bundesliga,1998,1998/1999
+SC Freiburg,Mike Rietpietsch,24,Right Midfield,F. Düsseldorf,£45Th.,in,Summer,0.045,1 Bundesliga,1998,1998/1999
+SC Freiburg,Lars Hermel,27,Sweeper,FSV Zwickau,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+SC Freiburg,Adel Sellimi,25,Centre-Forward,FC Nantes,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+SC Freiburg,Stefan Hampl,23,Right Winger,SC 04 Schwabach,£18Th.,in,Summer,0.018,1 Bundesliga,1998,1998/1999
+SC Freiburg,Tobias Willi,18,Right-Back,SC Freiburg U19,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+SC Freiburg,Thomas Herz,22,Left Midfield,Waldh. Mannheim,£18Th.,out,Summer,0.018,1 Bundesliga,1998,1998/1999
+SC Freiburg,Marco Buchheit,21,Centre-Forward,SC Freiburg II,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+SC Freiburg,Levan Kobiashvili,20,Left Midfield,Dinamo Tbilisi,"End of loanJun 30, 1998",out,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Erik Bo Andersen,27,Centre-Forward,Odense BK,£900Th.,in,Summer,0.9,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Marcus Wedau,22,Attacking Midfield,KFC Uerdingen,£450Th.,in,Summer,0.45,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Thomas Hoersen,26,Right-Back,Bor. M'gladbach,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Markus Beierle,26,Centre-Forward,Stuttg. Kickers,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Lubomir Moravcik,33,Attacking Midfield,SC Bastia,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Yasser El-Hamrouni,21,Midfielder,Stade Tunisien,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Carsten Krämer,23,Goalkeeper,Union Solingen,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Martin Frydek,29,Central Midfield,Bay. Leverkusen,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Pascal Thüler,28,Left-Back,Grasshoppers,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Peter Schyrba,17,Centre-Back,Duisburg U19,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Bachirou Salou,27,Centre-Forward,Bor. Dortmund,£3.78m,out,Summer,3.78,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Lubomir Moravcik,33,Attacking Midfield,Celtic,£315Th.,out,Summer,0.315,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Joachim Hopp,31,Centre-Back,RW Oberhausen,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Niklas Skoog,24,Centre-Forward,1.FC Nuremberg,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Michael Zeyer,30,Central Midfield,VfB Stuttgart,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Thomas Puschmann,25,Defensive Midfield,FC St. Pauli,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Marc Kienle,25,Right-Back,Karlsruher SC,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Markus Reiter,21,Centre-Back,Bor. M'gladbach,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Holger Gehrke,37,Goalkeeper,Karlsruher SC,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Mamadou Diallo,27,Centre-Forward,Lillestrøm SK,"End of loanMay 31, 1999",out,Summer,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Alexandru Popovici,21,Centre-Forward,Tiligul-Tiras,"End of loanJun 30, 1998",out,Summer,0,1 Bundesliga,1998,1998/1999
+Hertha BSC,Dariusz Wosz,29,Attacking Midfield,VfL Bochum,£2.34m,in,Summer,2.34,1 Bundesliga,1998,1998/1999
+Hertha BSC,René Tretschok,29,Defensive Midfield,1. FC Köln,£900Th.,in,Summer,0.9,1 Bundesliga,1998,1998/1999
+Hertha BSC,Ivica Olic,19,Centre-Forward,NK Marsonia,£225Th.,in,Summer,0.225,1 Bundesliga,1998,1998/1999
+Hertha BSC,Rob Maas,28,Defensive Midfield,Arm. Bielefeld,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Hertha BSC,René Renno,19,Goalkeeper,Hertha BSC II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+Hertha BSC,Michél Dinzey,25,Left Midfield,1860 Munich,£900Th.,out,Summer,0.9,1 Bundesliga,1998,1998/1999
+Hertha BSC,Christian Fährmann,22,Attacking Midfield,Karlsruher SC,£270Th.,out,Summer,0.27,1 Bundesliga,1998,1998/1999
+Hertha BSC,Carsten Lakies,27,Centre-Forward,Waldh. Mannheim,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Hertha BSC,Oliver Schmidt,24,Centre-Back,Greuther Fürth,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Kaiserslautern,Hany Ramzy,29,Centre-Back,Werder Bremen,£1.04m,in,Summer,1.04,1 Bundesliga,1998,1998/1999
+1.FC Kaiserslautern,Samir Kamouna,26,Sweeper,El Ahly,£540Th.,in,Summer,0.54,1 Bundesliga,1998,1998/1999
+1.FC Kaiserslautern,Uwe Gospodarek,24,Goalkeeper,VfL Bochum,£158Th.,in,Summer,0.158,1 Bundesliga,1998,1998/1999
+1.FC Kaiserslautern,Uwe Rösler,29,Centre-Forward,Man City,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Kaiserslautern,Júnior,20,Right Midfield,K'lautern II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Kaiserslautern,Pavel Kuka,29,Centre-Forward,1.FC Nuremberg,£1.58m,out,Summer,1.58,1 Bundesliga,1998,1998/1999
+1.FC Kaiserslautern,Miroslav Kadlec,34,Sweeper,Drnovice,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Kaiserslautern,Thomas Franck,27,Defensive Midfield,Waldh. Mannheim,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+1.FC Kaiserslautern,Andreas Brehme,37,Left-Back,Retired,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Kaiserslautern,Gerry Ehrmann,39,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Hami Mandirali,29,Centre-Forward,Trabzonspor,£3.15m,in,Summer,3.15,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Nico Van Kerckhoven,27,Left-Back,Lierse SK,£1.58m,in,Summer,1.58,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Oliver Reck,33,Goalkeeper,Werder Bremen,£630Th.,in,Summer,0.63,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Frode Grodas,33,Goalkeeper,Spurs,£135Th.,in,Summer,0.135,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Sven Kmetsch,27,Defensive Midfield,Hamburger SV,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Sascha Wolf,26,Centre-Forward,Schalke 04 II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Jens Lehmann,28,Goalkeeper,Milan,£3.87m,out,Summer,3.87,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Markus Anfang,24,Central Midfield,FC Tirol,£90Th.,out,Summer,0.09,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Thomas Linke,28,Centre-Back,Bayern Munich,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Marco Kurz,29,Centre-Back,1860 Munich,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Mike Möllensiep,22,Centre-Forward,VfB Lübeck,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Zoran Milinkovic,29,Midfielder,OGC Nice,£360Th.,in,Summer,0.36,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Peter Wibran,29,Defensive Midfield,Helsingborg,£270Th.,in,Summer,0.27,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Victor Agali,19,Centre-Forward,Sp. Toulon Var,£230Th.,in,Summer,0.23,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Aleksandar Jovic,26,Centre-Forward,Cukaricki,£158Th.,in,Summer,0.158,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Miroslav Bicanic,28,Midfielder,Hapoel Haifa,£68Th.,in,Summer,0.068,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Henri Fuchs,28,Centre-Forward,VfB Leipzig,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Olaf Holetschek,29,Sweeper,Carl Zeiss Jena,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Abder Ramdane,24,Centre-Forward,Nîmes Olympique,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Björn Laars,23,Centre-Back,H. Rostock II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Matthias Breitkreutz,27,Attacking Midfield,Arm. Bielefeld,"End of loanJun 30, 1998",in,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Jens Kunath,31,Goalkeeper,Vanguard Huandao,"End of loanJun 1, 1998",in,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Sergej Barbarez,26,Second Striker,Bor. Dortmund,£990Th.,out,Summer,0.99,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Steffen Baumgart,26,Centre-Forward,VfL Wolfsburg,£450Th.,out,Summer,0.45,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Toni Micevski,28,Attacking Midfield,TeBe Berlin,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Martin Groth,28,Right Midfield,Hamburger SV,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Borislav Tomoski,25,Attacking Midfield,Erzgebirge Aue,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Peter Bosz,34,Right-Back,NAC Breda,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Stefan Studer,34,Left Midfield,VSV Hedendorf,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Jens Kunath,31,Goalkeeper,EFC Stahl,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+Bayern Munich,Stefan Effenberg,29,Central Midfield,Bor. M'gladbach,£3.83m,in,Summer,3.83,1 Bundesliga,1998,1998/1999
+Bayern Munich,Ali Daei,29,Centre-Forward,Arm. Bielefeld,£2.30m,in,Summer,2.3,1 Bundesliga,1998,1998/1999
+Bayern Munich,Jens Jeremies,24,Defensive Midfield,1860 Munich,£720Th.,in,Summer,0.72,1 Bundesliga,1998,1998/1999
+Bayern Munich,Thomas Linke,28,Centre-Back,FC Schalke 04,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Bayern Munich,Hasan Salihamidzic,21,Right Midfield,Hamburger SV,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Bayern Munich,Frank Wiblishauser,20,Left-Back,FC Bayern II,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+Bayern Munich,Berkant Göktan,17,Centre-Forward,FC Bayern U19,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+Bayern Munich,Markus Münch,25,Left-Back,1. FC Köln,"End of loanJun 30, 1998",in,Summer,0,1 Bundesliga,1998,1998/1999
+Bayern Munich,Dietmar Hamann,24,Defensive Midfield,Newcastle,£6.75m,out,Summer,6.75,1 Bundesliga,1998,1998/1999
+Bayern Munich,Markus Münch,25,Left-Back,Genoa,£783Th.,out,Summer,0.783,1 Bundesliga,1998,1998/1999
+Bayern Munich,Frank Gerster,22,Central Midfield,E. Frankfurt,£72Th.,out,Summer,0.072,1 Bundesliga,1998,1998/1999
+Bayern Munich,Christian Nerlinger,25,Defensive Midfield,Bor. Dortmund,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Bayern Munich,Ruggiero Rizzitelli,30,Centre-Forward,Piacenza,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Bayern Munich,Stefan Leitl,20,Attacking Midfield,SV Lohhof,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Frank Gerster,22,Central Midfield,Bayern Munich,£72Th.,in,Summer,0.072,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,István Pisont,28,Central Midfield,B. Jerusalem,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Zsolt Petry,31,Goalkeeper,Feyenoord,Loan,in,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Uwe Schneider,26,Centre-Back,1.FC Nuremberg,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Donald Agu,22,Centre-Back,FC Augsburg,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Bernd Schneider,24,Right Midfield,Carl Zeiss Jena,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Alexander Rosen,19,Defensive Midfield,FC Augsburg U19,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Chen Yang,24,Centre-Forward,BJ Guoan,Loan,in,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Stefan Zinnow,18,Right Midfield,W. Mannheim U19,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Tore Pedersen,28,Centre-Back,Blackburn,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Damir Stojak,23,Centre-Forward,SSC Napoli,Loan,in,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Alexander Lorenz,19,Left Midfield,Frankfurt U19,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Michael Eckhardt,19,Goalkeeper,Frankfurt U19,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Patrick Glöckner,21,Right Midfield,Stuttg. Kickers,"End of loanJun 30, 1998",in,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Oscar Corrochano,21,Central Midfield,SV Darmstadt 98,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Oliver Bunzenthal,25,Attacking Midfield,SV Wehen,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Dirk Wolf,25,Left Midfield,FC St. Pauli,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Renato Levy,20,Central Midfield,FC Grenchen,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Sead Mehic,23,Defensive Midfield,SV Meppen,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,René Beuchel,24,Defensive Midfield,FSV Zwickau,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Urs Güntensperger,30,Centre-Forward,Lausanne-Sport,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Nduka Anyanwu,18,Centre-Back,E. Frankfurt II,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Markus Feldhoff,23,Centre-Forward,Bay. Leverkusen,£1.26m,in,Summer,1.26,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Toni Polster,34,Centre-Forward,1. FC Köln,£900Th.,in,Summer,0.9,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Matthias Hagner,23,Right Midfield,VfB Stuttgart,£675Th.,in,Summer,0.675,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Vladimir Ivanov,25,Right-Back,Levski Sofia,£450Th.,in,Summer,0.45,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Sladjan Asanin,26,Centre-Back,Slavia Prague,£225Th.,in,Summer,0.225,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Jörg Schmadtke,34,Goalkeeper,Bay. Leverkusen,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Zeljko Sopic,23,Defensive Midfield,NK Zagreb,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Markus Reiter,21,Centre-Back,MSV Duisburg,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Sebastian Deisler,18,Right Midfield,M'gladbach U19,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Stefan Effenberg,29,Central Midfield,Bayern Munich,£3.83m,out,Summer,3.83,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Andrzej Juskowiak,27,Centre-Forward,VfL Wolfsburg,£1.13m,out,Summer,1.13,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Ioan Lupescu,29,Central Midfield,Dinamo Bucarest,£180Th.,out,Summer,0.18,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Thomas Hoersen,26,Right-Back,MSV Duisburg,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Hubert Fournier,30,Centre-Back,Olympique Lyon,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Per Pedersen,29,Centre-Forward,R. Strasbourg,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Thomas Kastenmaier,32,Right-Back,Retired,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Christian Hochstätter,34,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Bachirou Salou,27,Centre-Forward,MSV Duisburg,£3.78m,in,Summer,3.78,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Dedê,20,Left-Back,Atlético-MG,£2.97m,in,Summer,2.97,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Sergej Barbarez,26,Second Striker,Hansa Rostock,£990Th.,in,Summer,0.99,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Karsten Baumann,28,Centre-Back,1. FC Köln,£900Th.,in,Summer,0.9,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Alfred Nijhuis,32,Centre-Back,Urawa Reds,£450Th.,in,Summer,0.45,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Christian Nerlinger,25,Defensive Midfield,Bayern Munich,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Thomas Hengen,23,Sweeper,Karlsruher SC,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Thomas Häßler,32,Attacking Midfield,Karlsruher SC,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Scott Booth,26,Centre-Forward,FC Utrecht,"End of loanJun 30, 1998",in,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Jörg Heinrich,28,Left-Back,Fiorentina,£11.34m,out,Summer,11.34,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Júlio César,35,Centre-Back,Botafogo,Loan fee:£225Th.,out,Summer,0.225,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Jovan Kirovski,22,Right Winger,SC Fortuna Köln,Loan fee:£45Th.,out,Summer,0.045,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Michael Zorc,35,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Matthias Sammer,30,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Zé Roberto,23,Left Midfield,Real Madrid,£6.30m,in,Summer,6.3,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Adam Matysek,29,Goalkeeper,FC Gütersloh,£900Th.,in,Summer,0.9,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Zoran Mamic,26,Centre-Back,VfL Bochum,£720Th.,in,Summer,0.72,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Jörg Reeb,26,Defensive Midfield,Arm. Bielefeld,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Aaron Mokoena,17,Centre-Back,Jomo Cosmos,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Frankie Hejduk,23,Right-Back,Tampa Bay,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Mehdi Pashazadeh,24,Centre-Back,Esteghlal FC,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Markus Feldhoff,23,Centre-Forward,Bor. M'gladbach,£1.26m,out,Summer,1.26,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Thorsten Nehrbauer,20,Defensive Midfield,F. Düsseldorf,£90Th.,out,Summer,0.09,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Christian Wörns,26,Centre-Back,Paris SG,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Sebastian Helbig,21,Centre-Forward,Rot-Weiß Erfurt,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Manuel Cardoni,25,Attacking Midfield,Jeunesse Esch,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Jörg Schmadtke,34,Goalkeeper,Bor. M'gladbach,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Andreas Gellert,17,Defensive Midfield,F. Düsseldorf,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Martin Frydek,29,Central Midfield,MSV Duisburg,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Daniel Addo,21,Midfielder,F. Düsseldorf,?,out,Summer,NA,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Pavel Kuka,29,Centre-Forward,1.FC K'lautern,£1.58m,in,Summer,1.58,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Andriy Polunin,27,Central Midfield,Karpaty,£450Th.,in,Summer,0.45,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Stephan Täuber,31,Centre-Back,Unterhaching,£383Th.,in,Summer,0.383,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Darius Kampa,21,Goalkeeper,FC Augsburg,£270Th.,in,Summer,0.27,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Jochen Weigl,27,Right Midfield,Greuther Fürth,£225Th.,in,Summer,0.225,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Heiko Gerber,25,Left-Back,Arm. Bielefeld,Loan fee:£135Th.,in,Summer,0.135,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Tobias Zellner,20,Central Midfield,1.FC Miltach,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Martin Molz,26,Centre-Back,Idar-Oberstein,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Niklas Skoog,24,Centre-Forward,MSV Duisburg,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Christian Horcher,20,Goalkeeper,Jahn Forchheim,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Markus Lösch,26,Defensive Midfield,Stuttg. Kickers,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Sven Günther,24,Defensive Midfield,FSV Zwickau,Free transfer,in,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Matthias Maucksch,29,Sweeper,VfB Leipzig,?,in,Summer,NA,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Ersen Martin,19,Centre-Forward,Nürnberg U19,-,in,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Daniel Smejkal,27,Attacking Midfield,KFC Uerdingen,£113Th.,out,Summer,0.113,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Christian Möckel,25,Second Striker,Greuther Fürth,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Uwe Schneider,26,Centre-Back,E. Frankfurt,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Peter Knäbel,31,Attacking Midfield,FC Winterthur,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Peter Jenkner,23,Midfielder,1.SC Feucht,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Christoph Müller,23,Goalkeeper,RW Oberhausen,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Cheriffe Maman-Touré,20,Midfielder,Marseille,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Ivica Simunec,30,Defender,Union Berlin,Free transfer,out,Summer,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Roman Hogen,27,Centre-Forward,Chmel Blsany,"End of loanJun 30, 1998",out,Summer,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Martin Dahlin,30,Centre-Forward,Blackburn,Loan fee:£180Th.,in,Winter,0.18,1 Bundesliga,1998,1998/1999
+Hamburger SV,Alexandru Curtianu,24,Attacking Midfield,Zenit S-Pb,Loan,in,Winter,0,1 Bundesliga,1998,1998/1999
+Hamburger SV,Dirk Weetendorf,26,Centre-Forward,Werder Bremen,£360Th.,out,Winter,0.36,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Aílton,25,Centre-Forward,Tigres UANL,£2.48m,in,Winter,2.48,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Dirk Flock,26,Right Midfield,FC Gütersloh,£450Th.,in,Winter,0.45,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Dirk Weetendorf,26,Centre-Forward,Hamburger SV,£360Th.,in,Winter,0.36,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Danny Fütterer,23,Defensive Midfield,W. Bremen II,-,in,Winter,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Björn Schierenbeck,24,Centre-Back,Greuther Fürth,"End of loanDec 31, 1998",in,Winter,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Havard Flo,28,Centre-Forward,Wolves,£900Th.,out,Winter,0.9,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Sören Seidel,26,Central Midfield,Hannover 96,Loan,out,Winter,0,1 Bundesliga,1998,1998/1999
+SV Werder Bremen,Adrian Kunz,31,Centre-Forward,FC Zürich,Loan,out,Winter,0,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Marcel Maltritz,20,Centre-Back,1.FC Magdeburg,?,in,Winter,NA,1 Bundesliga,1998,1998/1999
+VfL Wolfsburg,Claus Thomsen,28,Centre-Back,Akademisk BK,?,in,Winter,NA,1 Bundesliga,1998,1998/1999
+VfL Bochum,Mehdi Mahdavikia,21,Right-Back,Persepolis,Loan,in,Winter,0,1 Bundesliga,1998,1998/1999
+VfL Bochum,Andreas Zeyer,30,Defensive Midfield,Karlsruher SC,?,in,Winter,NA,1 Bundesliga,1998,1998/1999
+VfL Bochum,Viorel Ion,31,Centre-Forward,Otelul Galati,Loan,in,Winter,0,1 Bundesliga,1998,1998/1999
+VfL Bochum,Sergey Yuran,29,Centre-Forward,Spartak Moscow,?,out,Winter,NA,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Ahmed Salah Hosny,19,Centre-Forward,Stuttgart II,-,in,Winter,0,1 Bundesliga,1998,1998/1999
+VfB Stuttgart,Gerhard Poschner,29,Defensive Midfield,AC Venezia 1907,?,out,Winter,NA,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Martin Cizek,24,Left Midfield,Sparta Praha,£549Th.,in,Winter,0.549,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Thomas Richter,28,Defender,1.FC Nuremberg,Free transfer,in,Winter,0,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Miroslav Stevic,28,Defensive Midfield,Bor. Dortmund,£720Th.,out,Winter,0.72,1 Bundesliga,1998,1998/1999
+TSV 1860 Munich,Hristo Yovov,21,Attacking Midfield,Lok. Sofia,?,out,Winter,NA,1 Bundesliga,1998,1998/1999
+SC Freiburg,Thomas Radlspeck,26,Centre-Forward,Grazer AK,£90Th.,out,Winter,0.09,1 Bundesliga,1998,1998/1999
+SC Freiburg,Michael Frontzeck,34,Left-Back,Bor. M'gladbach,?,out,Winter,NA,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Alexander Bugera,20,Left-Back,Bayern Munich,Loan fee:£113Th.,in,Winter,0.113,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Andreas Menger,26,Goalkeeper,1. FC Köln,Free transfer,in,Winter,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Mamadou Diallo,27,Centre-Forward,Lillestrøm SK,Loan,in,Winter,0,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Lubomir Moravcik,33,Attacking Midfield,Celtic,£315Th.,out,Winter,0.315,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Adem Kapic,23,Defensive Midfield,ND Gorica,?,out,Winter,NA,1 Bundesliga,1998,1998/1999
+MSV Duisburg,Thomas Gill,33,Goalkeeper,FC Copenhagen,?,out,Winter,NA,1 Bundesliga,1998,1998/1999
+Hertha BSC,Piotr Reiss,26,Centre-Forward,Lech Poznan,£855Th.,in,Winter,0.855,1 Bundesliga,1998,1998/1999
+Hertha BSC,Ilija Aracic,28,Centre-Forward,TeBe Berlin,£428Th.,in,Winter,0.428,1 Bundesliga,1998,1998/1999
+Hertha BSC,Ivica Olic,19,Centre-Forward,NK Marsonia,£225Th.,in,Winter,0.225,1 Bundesliga,1998,1998/1999
+Hertha BSC,Christian Saba,20,Centre-Back,FC Bayern II,Loan fee:£90Th.,in,Winter,0.09,1 Bundesliga,1998,1998/1999
+Hertha BSC,Tony Sanneh,27,Right-Back,D.C. United,Free transfer,in,Winter,0,1 Bundesliga,1998,1998/1999
+Hertha BSC,Marc Arnold,28,Attacking Midfield,Karlsruher SC,£158Th.,out,Winter,0.158,1 Bundesliga,1998,1998/1999
+Hertha BSC,Steffen Karl,28,Defensive Midfield,FC St. Pauli,£113Th.,out,Winter,0.113,1 Bundesliga,1998,1998/1999
+Hertha BSC,Axel Kruse,31,Centre-Forward,Retired,-,out,Winter,0,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Ünal Alpugan,25,Defensive Midfield,Schalke 04 II,-,in,Winter,0,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Denis Klyuev,25,Central Midfield,Dynamo Moscow,Free transfer,out,Winter,0,1 Bundesliga,1998,1998/1999
+FC Schalke 04,Frode Grodas,34,Goalkeeper,Racing,Loan,out,Winter,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Mohamed Emara,24,Left-Back,El Ahly,£450Th.,in,Winter,0.45,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Igor Pamic,29,Centre-Forward,Grazer AK,£675Th.,out,Winter,0.675,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Heiko März,33,Centre-Back,Babelsberg 03,Free transfer,out,Winter,0,1 Bundesliga,1998,1998/1999
+FC Hansa Rostock,Aleksandar Jovic,26,Centre-Forward,Hapoel Haifa,Loan,out,Winter,0,1 Bundesliga,1998,1998/1999
+Bayern Munich,Nils-Eric Johansson,18,Left-Back,FC Bayern II,-,in,Winter,0,1 Bundesliga,1998,1998/1999
+Bayern Munich,Alexander Bugera,20,Left-Back,MSV Duisburg,Loan fee:£113Th.,out,Winter,0.113,1 Bundesliga,1998,1998/1999
+Bayern Munich,Berkant Göktan,18,Centre-Forward,Bor. M'gladbach,Loan,out,Winter,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Jan Aage Fjörtoft,31,Centre-Forward,Barnsley FC,£675Th.,in,Winter,0.675,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Mourad Bounoua,26,Attacking Midfield,Stuttg. Kickers,£135Th.,in,Winter,0.135,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Thorsten Flick,22,Central Midfield,SSC Napoli,Free transfer,out,Winter,0,1 Bundesliga,1998,1998/1999
+Eintracht Frankfurt,Jonathan Sawieh,23,Centre-Forward,Kocaelispor,?,out,Winter,NA,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Max Eberl,25,Right-Back,Greuther Fürth,Free transfer,in,Winter,0,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Berkant Göktan,18,Centre-Forward,Bayern Munich,Loan,in,Winter,0,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Michael Frontzeck,34,Left-Back,SC Freiburg,?,in,Winter,NA,1 Bundesliga,1998,1998/1999
+Borussia Mönchengladbach,Jörg Schmadtke,34,Goalkeeper,Retired,-,out,Winter,0,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Jens Lehmann,29,Goalkeeper,Milan,£3.60m,in,Winter,3.6,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Miroslav Stevic,28,Defensive Midfield,1860 Munich,£720Th.,in,Winter,0.72,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Júlio César,35,Centre-Back,Botafogo,"End of loanNov 1, 1998",in,Winter,0,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Steffen Freund,28,Defensive Midfield,Spurs,£1.01m,out,Winter,1.01,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Stefan Klos,27,Goalkeeper,Rangers,£923Th.,out,Winter,0.923,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Knut Reinhardt,30,Left Midfield,1.FC Nuremberg,Free transfer,out,Winter,0,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Steinar Pedersen,23,Right-Back,IFK Göteborg,?,out,Winter,NA,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Júlio César,35,Centre-Back,Panathinaikos,?,out,Winter,NA,1 Bundesliga,1998,1998/1999
+Borussia Dortmund,Scott Booth,26,Centre-Forward,Vitesse,?,out,Winter,NA,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Dariush Yazdani,21,Attacking Midfield,Esteghlal FC,?,in,Winter,NA,1 Bundesliga,1998,1998/1999
+Bayer 04 Leverkusen,Dirk Lottner,26,Attacking Midfield,1. FC Köln,Free transfer,out,Winter,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Andreas Köpke,36,Goalkeeper,Marseille,Free transfer,in,Winter,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Zivojin Juskic,29,Defensive Midfield,FK Obilic,Free transfer,in,Winter,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Knut Reinhardt,30,Left Midfield,Bor. Dortmund,Free transfer,in,Winter,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,René van Eck,32,Centre-Back,FC Luzern,Free transfer,in,Winter,0,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Marek Nikl,22,Centre-Back,Bohemians Praha,?,in,Winter,NA,1 Bundesliga,1998,1998/1999
+1.FC Nuremberg,Thomas Richter,28,Defender,1860 Munich,Free transfer,out,Winter,0,1 Bundesliga,1998,1998/1999

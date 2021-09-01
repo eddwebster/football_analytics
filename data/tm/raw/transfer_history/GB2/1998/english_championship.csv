@@ -1,0 +1,585 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Cardiff City,Richard Carpenter,25,Central Midfield,Fulham,£54k,in,0.054,Championship,1998,1998/1999
+Cardiff City,Jason Bowen,26,Central Midfield,Reading,Free Transfer,in,0,Championship,1998,1998/1999
+Cardiff City,John Williams,30,Centre-Forward,Exeter City,Free Transfer,in,0,Championship,1998,1998/1999
+Cardiff City,Mark Bonner,24,Defensive Midfield,Blackpool,Free Transfer,in,0,Championship,1998,1998/1999
+Cardiff City,Mark Delaney,22,Right-Back,Carmarthen,?,in,NA,Championship,1998,1998/1999
+Cardiff City,Andy Legg,31,Left-Back,Reading,?,in,NA,Championship,1998,1998/1999
+Cardiff City,Danny Hill,24,Midfielder,Oxford United,?,in,NA,Championship,1998,1998/1999
+Cardiff City,Matt Brazier,21,Midfielder,Fulham,Loan,in,0,Championship,1998,1998/1999
+Cardiff City,Andy Saville,33,Centre-Forward,Hull City,"End of loanOct 19, 1998",in,0,Championship,1998,1998/1999
+Cardiff City,Christian Roberts,19,Centre-Forward,Hereford Utd.,"End of loanApr 1, 1999",in,0,Championship,1998,1998/1999
+Cardiff City,Mark Delaney,22,Right-Back,Aston Villa,£338k,out,0.338,Championship,1998,1998/1999
+Cardiff City,Christian Roberts,19,Centre-Forward,Hereford Utd.,Loan,out,0,Championship,1998,1998/1999
+Cardiff City,Jimmy Rollo,22,Centre-Back,Forest Green,Free Transfer,out,0,Championship,1998,1998/1999
+Cardiff City,Andy Saville,34,Centre-Forward,Scarborough,Free Transfer,out,0,Championship,1998,1998/1999
+Cardiff City,Andy Saville,33,Centre-Forward,Hull City,Loan,out,0,Championship,1998,1998/1999
+Cardiff City,Dave Penney,34,Midfielder,Doncaster,?,out,NA,Championship,1998,1998/1999
+Cardiff City,George Wood,45,Goalkeeper,Retired,-,out,0,Championship,1998,1998/1999
+Cardiff City,Matt Brazier,22,Midfielder,Fulham,"End of loanDec 1, 1998",out,0,Championship,1998,1998/1999
+Fulham FC,Barry Hayles,26,Centre-Forward,Bristol Rovers,£2.70m,in,2.7,Championship,1998,1998/1999
+Fulham FC,Steve Finnan,22,Right-Back,Notts County,£810k,in,0.81,Championship,1998,1998/1999
+Fulham FC,Rufus Brevett,28,Left-Back,QPR,£473k,in,0.473,Championship,1998,1998/1999
+Fulham FC,Geoff Horsfield,24,Centre-Forward,Halifax Town,£405k,in,0.405,Championship,1998,1998/1999
+Fulham FC,Kevin Betsy,20,Left Midfield,Woking FC,£108k,in,0.108,Championship,1998,1998/1999
+Fulham FC,Philippe Albert,31,Centre-Back,Newcastle,Free Transfer,in,0,Championship,1998,1998/1999
+Fulham FC,Rob Scott,25,Defender,Rotherham,Loan,in,0,Championship,1998,1998/1999
+Fulham FC,Dirk Lehmann,26,Attacking Midfield,Energie Cottbus,Free Transfer,in,0,Championship,1998,1998/1999
+Fulham FC,John Salako,29,Left Midfield,Coventry,Free Transfer,in,0,Championship,1998,1998/1999
+Fulham FC,Peter Beardsley,37,Second Striker,Bolton,Free Transfer,in,0,Championship,1998,1998/1999
+Fulham FC,Jamie Smith,24,Right-Back,Crystal Palace,Loan,in,0,Championship,1998,1998/1999
+Fulham FC,Kit Symons,27,Centre-Back,Man City,Free Transfer,in,0,Championship,1998,1998/1999
+Fulham FC,François Keller,25,Midfielder,R. Strasbourg,£40k,in,0.04,Championship,1998,1998/1999
+Fulham FC,Guus Uhlenbeek,27,Right-Back,Ipswich,?,in,NA,Championship,1998,1998/1999
+Fulham FC,Matt Brazier,22,Midfielder,Cardiff,"End of loanDec 1, 1998",in,0,Championship,1998,1998/1999
+Fulham FC,Paul Brooker,21,Attacking Midfield,Stevenage FC,"End of loanSep 14, 1998",in,0,Championship,1998,1998/1999
+Fulham FC,Luke Cornwall,18,Centre-Forward,QPR,"End of loanApr 1, 1999",in,0,Championship,1998,1998/1999
+Fulham FC,Luke Cornwall,17,Centre-Forward,Fulham U18,-,in,0,Championship,1998,1998/1999
+Fulham FC,Tony Thorpe,24,Centre-Forward,Bristol City,£1.35m,out,1.35,Championship,1998,1998/1999
+Fulham FC,Richard Carpenter,25,Central Midfield,Cardiff,£54k,out,0.054,Championship,1998,1998/1999
+Fulham FC,Luke Cornwall,18,Centre-Forward,QPR,Loan,out,0,Championship,1998,1998/1999
+Fulham FC,Simon Stewart,24,Defender,Kingstonian FC,Free Transfer,out,0,Championship,1998,1998/1999
+Fulham FC,Peter Beardsley,37,Second Striker,Hartlepool Utd.,Free Transfer,out,0,Championship,1998,1998/1999
+Fulham FC,Mark Blake,30,Centre-Back,Cannes,Free Transfer,out,0,Championship,1998,1998/1999
+Fulham FC,Paul Brooker,21,Attacking Midfield,Stevenage FC,Loan,out,0,Championship,1998,1998/1999
+Fulham FC,Matt Lawrence,24,Centre-Back,Wycombe,Free Transfer,out,0,Championship,1998,1998/1999
+Fulham FC,Darren Freeman,24,Right Winger,Brentford,?,out,NA,Championship,1998,1998/1999
+Fulham FC,Matt Brazier,21,Midfielder,Cardiff,Loan,out,0,Championship,1998,1998/1999
+Fulham FC,Robbie Herrera,28,Right-Back,Torquay United,?,out,NA,Championship,1998,1998/1999
+Fulham FC,Jimmy Aggrey,19,Defender,Torquay United,?,out,NA,Championship,1998,1998/1999
+Fulham FC,Peter Beardsley,37,Second Striker,Bolton,"End of loanNov 9, 1998",out,0,Championship,1998,1998/1999
+Fulham FC,Jamie Smith,24,Right-Back,Crystal Palace,"End of loanMay 9, 1999",out,0,Championship,1998,1998/1999
+Huddersfield Town,Craig Armstrong,23,Left Midfield,Nottm Forest,£1.01m,in,1.01,Championship,1998,1998/1999
+Huddersfield Town,Jamie Vincent,23,Left-Back,Bournemouth,£675k,in,0.675,Championship,1998,1998/1999
+Huddersfield Town,Kenny Irons,28,Midfielder,Tranmere Rovers,£544k,in,0.544,Championship,1998,1998/1999
+Huddersfield Town,Nico Vaesen,28,Goalkeeper,Eendracht Aalst,£113k,in,0.113,Championship,1998,1998/1999
+Huddersfield Town,Mark Jackson,21,Defender,Leeds,Loan,in,0,Championship,1998,1998/1999
+Huddersfield Town,Danny Schofield,18,Left Midfield,Brodsworth,£2k,in,0.002,Championship,1998,1998/1999
+Huddersfield Town,Chris Beech,24,Midfielder,Hartlepool Utd.,?,in,NA,Championship,1998,1998/1999
+Huddersfield Town,Martin Nielsen,24,Centre-Back,FC Copenhagen,?,in,NA,Championship,1998,1998/1999
+Huddersfield Town,Darren Edmondson,26,Defender,Plymouth,"End of loanOct 12, 1998",in,0,Championship,1998,1998/1999
+Huddersfield Town,Dwayne Mattis,16,Central Midfield,Huddersf. U18,-,in,0,Championship,1998,1998/1999
+Huddersfield Town,Marcus Browning,27,Defensive Midfield,Gillingham FC,£270k,out,0.27,Championship,1998,1998/1999
+Huddersfield Town,Steve Francis,34,Goalkeeper,Northampt. Town,£135k,out,0.135,Championship,1998,1998/1999
+Huddersfield Town,Paul Barnes,31,Centre-Forward,Bury,£51k,out,0.051,Championship,1998,1998/1999
+Huddersfield Town,Darren Edmondson,26,Defender,Plymouth,Loan,out,0,Championship,1998,1998/1999
+Huddersfield Town,Tom Cowan,29,Left-Back,Burnley,?,out,NA,Championship,1998,1998/1999
+Huddersfield Town,Martin Nielsen,25,Centre-Back,FC Copenhagen,?,out,NA,Championship,1998,1998/1999
+Huddersfield Town,Andy Morrison,27,Centre-Back,Man City,?,out,NA,Championship,1998,1998/1999
+Huddersfield Town,Mark Jackson,21,Defender,Leeds,"End of loanNov 28, 1998",out,0,Championship,1998,1998/1999
+Huddersfield Town,Vince Bartram,29,Goalkeeper,Arsenal,"End of loanJun 30, 1998",out,0,Championship,1998,1998/1999
+Leeds United,David Batty,30,Defensive Midfield,Newcastle,£5.72m,in,5.72,Championship,1998,1998/1999
+Leeds United,Clyde Wijnhard,24,Centre-Forward,Willem II,£1.89m,in,1.89,Championship,1998,1998/1999
+Leeds United,Nuno Santos,25,Goalkeeper,Vitória Setúbal,?,in,NA,Championship,1998,1998/1999
+Leeds United,Willem Korsten,23,Left Winger,Vitesse,Loan,in,0,Championship,1998,1998/1999
+Leeds United,Lee Sharpe,27,Left Midfield,Sampdoria,"End of loanMar 1, 1999",in,0,Championship,1998,1998/1999
+Leeds United,Jonathan Woodgate,18,Centre-Back,Leeds U18,-,in,0,Championship,1998,1998/1999
+Leeds United,Warren Feeney,17,Centre-Forward,Leeds U18,-,in,0,Championship,1998,1998/1999
+Leeds United,Mark Jackson,21,Defender,Huddersfield,"End of loanNov 28, 1998",in,0,Championship,1998,1998/1999
+Leeds United,Derek Lilley,24,Centre-Forward,Heart of Midl.,"End of loanFeb 1, 1999",in,0,Championship,1998,1998/1999
+Leeds United,Lee Sharpe,27,Left Midfield,Bradford,"End of loanMay 1, 1999",in,0,Championship,1998,1998/1999
+Leeds United,Alan Smith,17,Central Midfield,Leeds U18,-,in,0,Championship,1998,1998/1999
+Leeds United,Lee Matthews,19,Central Midfield,Notts County,"End of loanOct 1, 1998",in,0,Championship,1998,1998/1999
+Leeds United,Derek Lilley,25,Centre-Forward,Bury,"End of loanApr 1, 1999",in,0,Championship,1998,1998/1999
+Leeds United,Paul Robinson,18,Goalkeeper,Leeds U18,-,in,0,Championship,1998,1998/1999
+Leeds United,Alan Cawley,16,Central Midfield,Leeds U18,-,in,0,Championship,1998,1998/1999
+Leeds United,Gareth Evans,17,Defender,Leeds U18,-,in,0,Championship,1998,1998/1999
+Leeds United,Paul Shepherd,20,Centre-Forward,Ayr United,"End of loanJun 30, 1998",in,0,Championship,1998,1998/1999
+Leeds United,Jason Blunt,20,Midfielder,Raith Rovers,"End of loanJun 30, 1998",in,0,Championship,1998,1998/1999
+Leeds United,Andy Gray,20,Centre-Forward,Nottm Forest,£180k,out,0.18,Championship,1998,1998/1999
+Leeds United,Mark Jackson,21,Defender,Huddersfield,Loan,out,0,Championship,1998,1998/1999
+Leeds United,Lee Matthews,19,Central Midfield,Notts County,Loan,out,0,Championship,1998,1998/1999
+Leeds United,Derek Lilley,25,Centre-Forward,Bury,Loan,out,0,Championship,1998,1998/1999
+Leeds United,Derek Lilley,24,Centre-Forward,Heart of Midl.,Loan,out,0,Championship,1998,1998/1999
+Leeds United,Paul Shepherd,21,Centre-Forward,Tranmere Rovers,Loan,out,0,Championship,1998,1998/1999
+Leeds United,Lee Sharpe,27,Left Midfield,Bradford,Loan,out,0,Championship,1998,1998/1999
+Leeds United,Jason Blunt,20,Midfielder,Blackpool,?,out,NA,Championship,1998,1998/1999
+Leeds United,Rod Wallace,28,Forward,Rangers,?,out,NA,Championship,1998,1998/1999
+Leeds United,Lee Sharpe,27,Left Midfield,Sampdoria,Loan,out,0,Championship,1998,1998/1999
+Leeds United,Paul Evans,24,Goalkeeper,SuperSport Utd.,?,out,NA,Championship,1998,1998/1999
+Leeds United,Mark Beeney,31,Goalkeeper,Retired,-,out,0,Championship,1998,1998/1999
+West Bromwich Albion,Phil Whitehead,28,Goalkeeper,Oxford United,£269k,in,0.269,Championship,1998,1998/1999
+West Bromwich Albion,Matt Carbon,23,Centre-Back,Derby,Free Transfer,in,0,Championship,1998,1998/1999
+West Bromwich Albion,Enzo Maresca,18,Central Midfield,Cagliari U19,Free Transfer,in,0,Championship,1998,1998/1999
+West Bromwich Albion,Mario Bortolazzi,33,Defensive Midfield,Genoa,?,in,NA,Championship,1998,1998/1999
+West Bromwich Albion,Mark Angel,23,Left Winger,Oxford United,?,in,NA,Championship,1998,1998/1999
+West Bromwich Albion,Fabian de Freitas,25,Forward,CA Osasuna,?,in,NA,Championship,1998,1998/1999
+West Bromwich Albion,Chris Adamson,20,Goalkeeper,Brage,"End of loanMar 1, 1999",in,0,Championship,1998,1998/1999
+West Bromwich Albion,Paul Raven,28,Defender,Rotherham,"End of loanJan 16, 1999",in,0,Championship,1998,1998/1999
+West Bromwich Albion,Danny Gabbidon,18,Centre-Back,West Brom U18,-,in,0,Championship,1998,1998/1999
+West Bromwich Albion,Chris Adamson,20,Goalkeeper,Mansfield Town,"End of loanMay 1, 1999",in,0,Championship,1998,1998/1999
+West Bromwich Albion,Stacy Coldicott,24,Midfielder,Grimsby Town,£131k,out,0.131,Championship,1998,1998/1999
+West Bromwich Albion,Chris Adamson,20,Goalkeeper,Brage,Loan,out,0,Championship,1998,1998/1999
+West Bromwich Albion,Franz Carr,31,Forward,Pittsburgh,Free Transfer,out,0,Championship,1998,1998/1999
+West Bromwich Albion,Tony James,19,Centre-Back,Hereford Utd.,Free Transfer,out,0,Championship,1998,1998/1999
+West Bromwich Albion,Paul Raven,28,Defender,Rotherham,Loan,out,0,Championship,1998,1998/1999
+West Bromwich Albion,Chris Adamson,20,Goalkeeper,Mansfield Town,Loan,out,0,Championship,1998,1998/1999
+West Bromwich Albion,Andy Hunt,28,Forward,Charlton,Free Transfer,out,0,Championship,1998,1998/1999
+West Bromwich Albion,Tony Dobson,29,Midfielder,Gillingham FC,£28k,out,0.028,Championship,1998,1998/1999
+West Bromwich Albion,Shane Nicholson,28,Left-Back,Chesterfield FC,?,out,NA,Championship,1998,1998/1999
+West Bromwich Albion,Peter Butler,31,Midfielder,Halifax Town,?,out,NA,Championship,1998,1998/1999
+West Bromwich Albion,Bob Taylor,31,Centre-Forward,Bolton,?,out,NA,Championship,1998,1998/1999
+West Bromwich Albion,Steve Nicol,36,Right-Back,Doncaster,?,out,NA,Championship,1998,1998/1999
+Derby County,Horacio Carbonari,24,Centre-Back,CA Rosario,£2.70m,in,2.7,Championship,1998,1998/1999
+Derby County,Mikkel Beck,25,Centre-Forward,Middlesbrough,£630k,in,0.63,Championship,1998,1998/1999
+Derby County,Kevin Harper,22,Right Midfield,Hibernian FC,£405k,in,0.405,Championship,1998,1998/1999
+Derby County,Paul Boertien,20,Left-Back,Carlisle United,£338k,in,0.338,Championship,1998,1998/1999
+Derby County,Malcolm Christie,19,Right Winger,Nuneaton,£68k,in,0.068,Championship,1998,1998/1999
+Derby County,Stefan Schnoor,27,Centre-Back,Hamburger SV,Free Transfer,in,0,Championship,1998,1998/1999
+Derby County,Spencer Prior,27,Centre-Back,Leicester,Free Transfer,in,0,Championship,1998,1998/1999
+Derby County,Vasilios Borbokis,29,Right-Back,Sheffield Utd.,Free Transfer,in,0,Championship,1998,1998/1999
+Derby County,Richard Jackson,18,Right-Back,Scarborough Athletic,£45k,in,0.045,Championship,1998,1998/1999
+Derby County,Tony Dorigo,32,Left-Back,Torino,?,in,NA,Championship,1998,1998/1999
+Derby County,Brian Launders,22,Midfielder,Veendam,?,in,NA,Championship,1998,1998/1999
+Derby County,Jonathan Hunt,26,Forward,Sheffield Utd.,"End of loanSep 1, 1998",in,0,Championship,1998,1998/1999
+Derby County,Marvin Robinson,18,Centre-Forward,Derby U18,-,in,0,Championship,1998,1998/1999
+Derby County,Jonathan Hunt,26,Forward,Ipswich,"End of loanNov 1, 1998",in,0,Championship,1998,1998/1999
+Derby County,Marc Bridge-Wilkinson,20,Central Midfield,Carlisle United,"End of loanMay 1, 1999",in,0,Championship,1998,1998/1999
+Derby County,Richard Knight,19,Goalkeeper,Carlisle United,"End of loanApr 26, 1999",in,0,Championship,1998,1998/1999
+Derby County,Adam Murray,16,Central Midfield,Derby U18,-,in,0,Championship,1998,1998/1999
+Derby County,Deon Burton,22,Centre-Forward,Barnsley FC,"End of loanDec 31, 1998",in,0,Championship,1998,1998/1999
+Derby County,Christian Dailly,24,Centre-Back,Blackburn,£7.16m,out,7.16,Championship,1998,1998/1999
+Derby County,Lee Carsley,25,Defensive Midfield,Blackburn,£4.59m,out,4.59,Championship,1998,1998/1999
+Derby County,Gary Rowett,24,Right-Back,Birmingham,£1.26m,out,1.26,Championship,1998,1998/1999
+Derby County,Chris Powell,28,Left-Back,Charlton,£1.13m,out,1.13,Championship,1998,1998/1999
+Derby County,Robin van der Laan,29,Attacking Midfield,Barnsley FC,£405k,out,0.405,Championship,1998,1998/1999
+Derby County,Matt Carbon,23,Centre-Back,West Brom,Free Transfer,out,0,Championship,1998,1998/1999
+Derby County,Dean Yates,30,Defender,Watford,Free Transfer,out,0,Championship,1998,1998/1999
+Derby County,Deon Burton,22,Centre-Forward,Barnsley FC,Loan,out,0,Championship,1998,1998/1999
+Derby County,Jonathan Hunt,26,Forward,Ipswich,Loan,out,0,Championship,1998,1998/1999
+Derby County,Marc Bridge-Wilkinson,19,Central Midfield,Carlisle United,Loan,out,0,Championship,1998,1998/1999
+Derby County,Jonathan Hunt,26,Forward,Sheffield Utd.,Loan,out,0,Championship,1998,1998/1999
+Derby County,Brian Launders,22,Midfielder,Colchester Utd.,Loan,out,0,Championship,1998,1998/1999
+Derby County,Jonathan Hunt,27,Forward,Sheffield Utd.,?,out,NA,Championship,1998,1998/1999
+Derby County,Mauricio Solís,25,Left Midfield,Comunicaciones,?,out,NA,Championship,1998,1998/1999
+Derby County,Richard Knight,19,Goalkeeper,Carlisle United,Loan,out,0,Championship,1998,1998/1999
+Derby County,Ron Willems,31,Forward,Retired,-,out,0,Championship,1998,1998/1999
+Middlesbrough FC,Brian Deane,30,Centre-Forward,Benfica,£3.76m,in,3.76,Championship,1998,1998/1999
+Middlesbrough FC,Colin Cooper,31,Left-Back,Nottm Forest,£3.38m,in,3.38,Championship,1998,1998/1999
+Middlesbrough FC,Gary Pallister,33,Centre-Back,Man Utd,£2.52m,in,2.52,Championship,1998,1998/1999
+Middlesbrough FC,Dean Gordon,25,Left-Back,Crystal Palace,£1.22m,in,1.22,Championship,1998,1998/1999
+Middlesbrough FC,Luke Wilkshire,16,Right-Back,Wolves FC,Free Transfer,in,0,Championship,1998,1998/1999
+Middlesbrough FC,Gustavo Lombardi,22,Right-Back,UD Salamanca,?,in,NA,Championship,1998,1998/1999
+Middlesbrough FC,Marco Branca,33,Centre-Forward,Inter,?,in,NA,Championship,1998,1998/1999
+Middlesbrough FC,Ben Roberts,23,Goalkeeper,Millwall,"End of loanMay 1, 1999",in,0,Championship,1998,1998/1999
+Middlesbrough FC,Craig Harrison,21,Defender,Preston NE,"End of loanFeb 13, 1999",in,0,Championship,1998,1998/1999
+Middlesbrough FC,Jason Gavin,18,Defender,Hartlepool Utd.,"End of loanJun 30, 1998",in,0,Championship,1998,1998/1999
+Middlesbrough FC,Émerson,26,Defensive Midfield,CD Tenerife,£5.76m,out,5.76,Championship,1998,1998/1999
+Middlesbrough FC,Paul Merson,30,Right Midfield,Aston Villa,£5.40m,out,5.4,Championship,1998,1998/1999
+Middlesbrough FC,Ronnie O´Brien,20,Midfielder,Juventus,£810k,out,0.81,Championship,1998,1998/1999
+Middlesbrough FC,Mikkel Beck,25,Centre-Forward,Derby,£630k,out,0.63,Championship,1998,1998/1999
+Middlesbrough FC,Ben Roberts,23,Goalkeeper,Millwall,Loan,out,0,Championship,1998,1998/1999
+Middlesbrough FC,Craig Harrison,21,Defender,Preston NE,Loan,out,0,Championship,1998,1998/1999
+Middlesbrough FC,Craig Hignett,28,Right Winger,Aberdeen FC,Free Transfer,out,0,Championship,1998,1998/1999
+Middlesbrough FC,Andy Dibble,33,Goalkeeper,Altrincham,Free Transfer,out,0,Championship,1998,1998/1999
+Middlesbrough FC,Paul Connor,19,Forward,Stoke City,Free Transfer,out,0,Championship,1998,1998/1999
+Middlesbrough FC,Nigel Pearson,34,Centre-Back,Retired,-,out,0,Championship,1998,1998/1999
+Middlesbrough FC,Bryan Robson,41,Central Midfield,Retired,-,out,0,Championship,1998,1998/1999
+Bristol City,Tony Thorpe,24,Centre-Forward,Fulham,£1.35m,in,1.35,Championship,1998,1998/1999
+Bristol City,Sören Andersen,28,Centre-Forward,Aalborg BK,£585k,in,0.585,Championship,1998,1998/1999
+Bristol City,Ivan Testemiţanu,24,Right-Back,Zimbru Chisinau,£203k,in,0.203,Championship,1998,1998/1999
+Bristol City,Julian Watts,27,Defender,Leicester,Free Transfer,in,0,Championship,1998,1998/1999
+Bristol City,Ben Wright,18,Centre-Forward,Kettering Town,£36k,in,0.036,Championship,1998,1998/1999
+Bristol City,Bo Andersen,22,Goalkeeper,Lyngby BK,?,in,NA,Championship,1998,1998/1999
+Bristol City,Neil Heaney,27,Right Winger,Man City,Loan,in,0,Championship,1998,1998/1999
+Bristol City,David Howells,31,Defensive Midfield,Southampton,Loan,in,0,Championship,1998,1998/1999
+Bristol City,Clemens Zwijnenberg,28,Right-Back,Aalborg BK,Loan,in,0,Championship,1998,1998/1999
+Bristol City,Paul Tisdale,25,Midfielder,Dundee United,"End of loanSep 1, 1998",in,0,Championship,1998,1998/1999
+Bristol City,Matthew Hewlett,22,Midfielder,Burnley,"End of loanDec 12, 1998",in,0,Championship,1998,1998/1999
+Bristol City,Joe Burnell,17,Central Midfield,Bristol City U18,-,in,0,Championship,1998,1998/1999
+Bristol City,Steve Torpey,27,Centre-Forward,Notts County,"End of loanSep 1, 1998",in,0,Championship,1998,1998/1999
+Bristol City,Colin Cramb,24,Centre-Forward,Walsall,"End of loanMar 1, 1999",in,0,Championship,1998,1998/1999
+Bristol City,Matt Hill,17,Left-Back,Bristol City U18,-,in,0,Championship,1998,1998/1999
+Bristol City,Aaron Brown,18,Left-Back,Bristol City U18,-,in,0,Championship,1998,1998/1999
+Bristol City,Lorenzo Pinamonte,20,Forward,Bristol City U18,-,in,0,Championship,1998,1998/1999
+Bristol City,Tony Thorpe,24,Centre-Forward,Reading,"End of loanMar 1, 1999",in,0,Championship,1998,1998/1999
+Bristol City,Lorenzo Pinamonte,20,Forward,Carlisle United,"End of loanMar 31, 1999",in,0,Championship,1998,1998/1999
+Bristol City,Sean Dyche,27,Centre-Back,Luton Town,"End of loanApr 18, 1999",in,0,Championship,1998,1998/1999
+Bristol City,Paul Tisdale,25,Midfielder,FinnPa,Free Transfer,out,0,Championship,1998,1998/1999
+Bristol City,Tony Thorpe,24,Centre-Forward,Luton Town,Free Transfer,out,0,Championship,1998,1998/1999
+Bristol City,Scott Paterson,26,Centre-Back,Carlisle United,Free Transfer,out,0,Championship,1998,1998/1999
+Bristol City,Paul Tisdale,25,Midfielder,Dundee United,Loan,out,0,Championship,1998,1998/1999
+Bristol City,Tony Thorpe,24,Centre-Forward,Reading,Loan,out,0,Championship,1998,1998/1999
+Bristol City,Keith Welch,30,Goalkeeper,Northampt. Town,Free Transfer,out,0,Championship,1998,1998/1999
+Bristol City,Steve Torpey,27,Centre-Forward,Notts County,Loan,out,0,Championship,1998,1998/1999
+Bristol City,Matthew Hewlett,22,Midfielder,Burnley,Loan,out,0,Championship,1998,1998/1999
+Bristol City,Gary Owers,29,Midfielder,Notts County,£16k,out,0.016,Championship,1998,1998/1999
+Bristol City,Sean Dyche,27,Centre-Back,Luton Town,Loan,out,0,Championship,1998,1998/1999
+Bristol City,Colin Cramb,24,Centre-Forward,Walsall,Loan,out,0,Championship,1998,1998/1999
+Bristol City,Lorenzo Pinamonte,20,Forward,Carlisle United,Loan,out,0,Championship,1998,1998/1999
+Bristol City,Neil Heaney,27,Right Winger,Man City,"End of loanMar 1, 1999",out,0,Championship,1998,1998/1999
+Bristol City,David Howells,31,Defensive Midfield,Southampton,"End of loanMay 1, 1999",out,0,Championship,1998,1998/1999
+Bristol City,Clemens Zwijnenberg,28,Right-Back,Aalborg BK,"End of loanNov 19, 1998",out,0,Championship,1998,1998/1999
+Nottingham Forest,Nigel Quashie,19,Central Midfield,QPR,£3.38m,in,3.38,Championship,1998,1998/1999
+Nottingham Forest,Neil Shipperley,23,Centre-Forward,Crystal Palace,£1.89m,in,1.89,Championship,1998,1998/1999
+Nottingham Forest,Carlton Palmer,33,Defensive Midfield,Southampton,£1.22m,in,1.22,Championship,1998,1998/1999
+Nottingham Forest,Dougie Freedman,24,Centre-Forward,Wolves,£990k,in,0.99,Championship,1998,1998/1999
+Nottingham Forest,Andy Gray,20,Centre-Forward,Leeds,£180k,in,0.18,Championship,1998,1998/1999
+Nottingham Forest,Richard Gough,36,Centre-Back,San Jose Clash,Loan,in,0,Championship,1998,1998/1999
+Nottingham Forest,Jean-Claude Darcheville,22,Centre-Forward,Stade Rennais,Loan,in,0,Championship,1998,1998/1999
+Nottingham Forest,Porfírio,25,Left Midfield,Benfica,Loan,in,0,Championship,1998,1998/1999
+Nottingham Forest,Bernard Allou,23,Right Winger,Nagoya Grampus,?,in,NA,Championship,1998,1998/1999
+Nottingham Forest,Mathieu Louis-Jean,22,Right-Back,AC Le Havre,Loan,in,0,Championship,1998,1998/1999
+Nottingham Forest,Jesper Mattsson,30,Defender,Halmstad,?,in,NA,Championship,1998,1998/1999
+Nottingham Forest,Gareth Edds,17,Defensive Midfield,Nottingham U18,-,in,0,Championship,1998,1998/1999
+Nottingham Forest,Marlon Harewood,19,Centre-Forward,FC Haka,"End of loanDec 1, 1998",in,0,Championship,1998,1998/1999
+Nottingham Forest,Andy Todd,20,Central Midfield,Scarborough Athletic,"End of loanMar 5, 1999",in,0,Championship,1998,1998/1999
+Nottingham Forest,Andy Gray,21,Centre-Forward,Oldham Athletic,"End of loanMay 1, 1999",in,0,Championship,1998,1998/1999
+Nottingham Forest,Steve Guinan,23,Centre-Forward,Halifax Town,"End of loanDec 31, 1998",in,0,Championship,1998,1998/1999
+Nottingham Forest,Marlon Harewood,19,Centre-Forward,Ipswich,"End of loanMar 1, 1999",in,0,Championship,1998,1998/1999
+Nottingham Forest,Steve Guinan,23,Centre-Forward,Plymouth,"End of loanMay 1, 1999",in,0,Championship,1998,1998/1999
+Nottingham Forest,Andy Gray,21,Centre-Forward,Preston NE,"End of loanMar 1, 1999",in,0,Championship,1998,1998/1999
+Nottingham Forest,Gareth Williams,16,Central Midfield,Nottingham U18,-,in,0,Championship,1998,1998/1999
+Nottingham Forest,Nikola Jerkan,33,Centre-Back,Rapid Vienna,"End of loanJun 30, 1998",in,0,Championship,1998,1998/1999
+Nottingham Forest,Steve Stone,27,Right Midfield,Aston Villa,£7.20m,out,7.2,Championship,1998,1998/1999
+Nottingham Forest,Kevin Campbell,28,Centre-Forward,Trabzonspor,£3.60m,out,3.6,Championship,1998,1998/1999
+Nottingham Forest,Colin Cooper,31,Left-Back,Middlesbrough,£3.38m,out,3.38,Championship,1998,1998/1999
+Nottingham Forest,Ian Thomas-Moore,19,Centre-Forward,Stockport,£1.08m,out,1.08,Championship,1998,1998/1999
+Nottingham Forest,Craig Armstrong,23,Left Midfield,Huddersfield,£1.01m,out,1.01,Championship,1998,1998/1999
+Nottingham Forest,Andy Dawson,20,Left-Back,Scunthorpe Utd.,£68k,out,0.068,Championship,1998,1998/1999
+Nottingham Forest,Paul McGregor,23,Centre-Forward,Carlisle United,Free Transfer,out,0,Championship,1998,1998/1999
+Nottingham Forest,Marlon Harewood,19,Centre-Forward,Ipswich,Loan,out,0,Championship,1998,1998/1999
+Nottingham Forest,Andy Gray,21,Centre-Forward,Preston NE,Loan,out,0,Championship,1998,1998/1999
+Nottingham Forest,Andy Gray,21,Centre-Forward,Oldham Athletic,Loan,out,0,Championship,1998,1998/1999
+Nottingham Forest,Steve Guinan,23,Centre-Forward,Plymouth,Loan,out,0,Championship,1998,1998/1999
+Nottingham Forest,Steve Guinan,22,Centre-Forward,Halifax Town,Loan,out,0,Championship,1998,1998/1999
+Nottingham Forest,Andy Todd,19,Central Midfield,Scarborough Athletic,Loan,out,0,Championship,1998,1998/1999
+Nottingham Forest,Stephen Howe,24,Midfielder,Swindon Town,?,out,NA,Championship,1998,1998/1999
+Nottingham Forest,Marco Pascolo,32,Goalkeeper,FC Zürich,?,out,NA,Championship,1998,1998/1999
+Nottingham Forest,Chris Allen,25,Midfielder,Port Vale,?,out,NA,Championship,1998,1998/1999
+Swansea City,Stuart Roberts,17,Forward,Swansea U18,-,in,0,Championship,1998,1998/1999
+Swansea City,Jamie Harris,19,Centre-Back,Swansea U18,-,in,0,Championship,1998,1998/1999
+Swansea City,Lee Jones,27,Goalkeeper,Bristol Rovers,Free Transfer,out,0,Championship,1998,1998/1999
+Swansea City,David O'Gorman,26,Right Winger,Connah's Quay,?,out,NA,Championship,1998,1998/1999
+Swansea City,Shaun Chapple,25,Midfielder,Merthyr Town,?,out,NA,Championship,1998,1998/1999
+Brentford FC,Hermann Hreidarsson,23,Centre-Back,Crystal Palace,£1.13m,in,1.13,Championship,1998,1998/1999
+Brentford FC,Paul Evans,24,Central Midfield,Shrewsbury,£144k,in,0.144,Championship,1998,1998/1999
+Brentford FC,Drewe Broughton,19,Centre-Forward,Norwich,£117k,in,0.117,Championship,1998,1998/1999
+Brentford FC,Anthony Folan,20,Midfielder,Crystal Palace,£113k,in,0.113,Championship,1998,1998/1999
+Brentford FC,Gavin Mahon,21,Central Midfield,Hereford Utd.,£68k,in,0.068,Championship,1998,1998/1999
+Brentford FC,Martin Rowlands,19,Central Midfield,Farnborough,£54k,in,0.054,Championship,1998,1998/1999
+Brentford FC,Danny Boxall,20,Defender,Crystal Palace,Free Transfer,in,0,Championship,1998,1998/1999
+Brentford FC,Chris Coyne,19,Centre-Back,West Ham,Loan,in,0,Championship,1998,1998/1999
+Brentford FC,Lloyd Owusu,21,Centre-Forward,Slough Town,Free Transfer,in,0,Championship,1998,1998/1999
+Brentford FC,Darren Powell,22,Centre-Back,Hampton & Rich.,£23k,in,0.023,Championship,1998,1998/1999
+Brentford FC,Darren Freeman,24,Right Winger,Fulham,?,in,NA,Championship,1998,1998/1999
+Brentford FC,Dirk Hebel,25,Defensive Midfield,Tranmere Rovers,?,in,NA,Championship,1998,1998/1999
+Brentford FC,Kevin Rapley,21,Forward,Southend United,"End of loanFeb 20, 1999",in,0,Championship,1998,1998/1999
+Brentford FC,Charlie Oatway,24,Central Midfield,Lincoln City,"End of loanNov 1, 1998",in,0,Championship,1998,1998/1999
+Brentford FC,Drewe Broughton,20,Centre-Forward,Peterborough,£117k,out,0.117,Championship,1998,1998/1999
+Brentford FC,Kevin Rapley,21,Forward,Notts County,£52k,out,0.052,Championship,1998,1998/1999
+Brentford FC,Kevin Rapley,21,Forward,Southend United,Loan,out,0,Championship,1998,1998/1999
+Brentford FC,Simon Wormull,21,Midfielder,Brighton,Free Transfer,out,0,Championship,1998,1998/1999
+Brentford FC,Charlie Oatway,24,Central Midfield,Lincoln City,Loan,out,0,Championship,1998,1998/1999
+Brentford FC,Warren Aspinall,31,Midfielder,Colchester Utd.,?,out,NA,Championship,1998,1998/1999
+Brentford FC,Graeme Hogg,34,Centre-Back,Linlithgow Rose,?,out,NA,Championship,1998,1998/1999
+Brentford FC,Gus Hurdle,24,Defender,Plymouth,?,out,NA,Championship,1998,1998/1999
+Brentford FC,Jamie Bates,31,Defender,Wycombe,?,out,NA,Championship,1998,1998/1999
+Brentford FC,Niall Thompson,24,Forward,Vancouver,?,out,NA,Championship,1998,1998/1999
+Brentford FC,Robert Taylor,27,Centre-Forward,Gillingham FC,?,out,NA,Championship,1998,1998/1999
+Brentford FC,Chris Coyne,19,Centre-Back,West Ham,"End of loanSep 1, 1998",out,0,Championship,1998,1998/1999
+Brentford FC,Glenn Cockerill,38,Central Midfield,Retired,-,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Wim Jonk,31,Defensive Midfield,PSV Eindhoven,£2.52m,in,2.52,Championship,1998,1998/1999
+Sheffield Wednesday,Richard Cresswell,21,Centre-Forward,York City,£1.44m,in,1.44,Championship,1998,1998/1999
+Sheffield Wednesday,Phil Scott,24,Midfielder,St. Johnstone,£99k,in,0.099,Championship,1998,1998/1999
+Sheffield Wednesday,Danny Sonner,26,Defensive Midfield,Ipswich,£90k,in,0.09,Championship,1998,1998/1999
+Sheffield Wednesday,Peter Holmes,17,Central Midfield,Liverpool U18,?,in,NA,Championship,1998,1998/1999
+Sheffield Wednesday,Pavel Srnicek,30,Goalkeeper,Banik Ostrava,?,in,NA,Championship,1998,1998/1999
+Sheffield Wednesday,Guy Whittingham,34,Forward,Wolves,"End of loanDec 1, 1998",in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Owen Morrison,16,Left Midfield,Sheff Wed U18,-,in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Kevin Nicholson,17,Left-Back,Sheff Wed U18,-,in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Lee Briscoe,23,Left-Back,Man City,"End of loanDec 31, 1998",in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Mark McKeever,20,Midfielder,Bristol Rovers,"End of loanFeb 7, 1999",in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Stuart Jones,21,Goalkeeper,Crewe Alexandra,"End of loanDec 14, 1998",in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Mark Platts,19,Forward,Torquay United,"End of loanMar 1, 1999",in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Matt Hamshaw,16,Right Midfield,Sheff Wed U18,-,in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Jon Newsome,28,Defender,Bolton,"End of loanDec 1, 1998",in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Guy Whittingham,34,Forward,Portsmouth,"End of loanMar 1, 1999",in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Guy Whittingham,34,Forward,Watford,"End of loanApr 1, 1999",in,0,Championship,1998,1998/1999
+Sheffield Wednesday,Paolo Di Canio,29,Centre-Forward,West Ham,£2.00m,out,2,Championship,1998,1998/1999
+Sheffield Wednesday,Jim Magilton,29,Right Midfield,Ipswich,£810k,out,0.81,Championship,1998,1998/1999
+Sheffield Wednesday,Dejan Stefanovic,24,Centre-Back,Perugia,Free Transfer,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Mark Platts,19,Forward,Torquay United,Free Transfer,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Simon Weaver,20,Centre-Back,Ilkeston Town,Free Transfer,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Jon Newsome,28,Defender,Bolton,Loan,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Graham Hyde,28,Defensive Midfield,Birmingham,Free Transfer,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Mark Platts,19,Forward,Torquay United,Loan,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Christian Mayrleb,26,Centre-Forward,Austria Vienna,Free Transfer,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Guy Whittingham,33,Forward,Wolves,Loan,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Guy Whittingham,34,Forward,Portsmouth,Loan,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Guy Whittingham,34,Forward,Watford,Loan,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Ryan Anthony Jones,24,Midfielder,Worksop,Free Transfer,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Stuart Jones,21,Goalkeeper,Crewe Alexandra,Loan,out,0,Championship,1998,1998/1999
+Sheffield Wednesday,Mark McKeever,20,Midfielder,Bristol Rovers,Loan,out,0,Championship,1998,1998/1999
+Hull City,David D'Auria,28,Midfielder,Scunthorpe Utd.,Free Transfer,in,0,Championship,1998,1998/1999
+Hull City,Andy Oakes,21,Goalkeeper,Winsford,Free Transfer,in,0,Championship,1998,1998/1999
+Hull City,Craig Faulconbridge,20,Centre-Forward,Coventry,Loan,in,0,Championship,1998,1998/1999
+Hull City,Duane Darby,25,Forward,Notts County,Loan,in,0,Championship,1998,1998/1999
+Hull City,Colin Alcide,26,Centre-Forward,Lincoln City,£41k,in,0.041,Championship,1998,1998/1999
+Hull City,Gareth Williams,31,Midfielder,Scarborough,?,in,NA,Championship,1998,1998/1999
+Hull City,Gary Brabin,28,Defensive Midfield,Blackpool,?,in,NA,Championship,1998,1998/1999
+Hull City,Gerry Harrison,26,Midfielder,Sunderland,Loan,in,0,Championship,1998,1998/1999
+Hull City,Andy Saville,33,Centre-Forward,Cardiff,Loan,in,0,Championship,1998,1998/1999
+Hull City,Adam Bolder,17,Midfielder,Hull U18,-,in,0,Championship,1998,1998/1999
+Hull City,Steve Swales,24,Defender,Without Club,-,in,0,Championship,1998,1998/1999
+Hull City,Michael Quigley,27,Midfielder,Altrincham,?,out,NA,Championship,1998,1998/1999
+Hull City,Scott Thomson,31,Goalkeeper,Airdrie,?,out,NA,Championship,1998,1998/1999
+Hull City,Darren O'Keeffe,19,Right Midfield,Drogheda United,?,out,NA,Championship,1998,1998/1999
+Hull City,Andy Brown,21,Left-Back,Clydebank FC,?,out,NA,Championship,1998,1998/1999
+Hull City,Craig Faulconbridge,21,Centre-Forward,Coventry,"End of loanMay 1, 1999",out,0,Championship,1998,1998/1999
+Hull City,Antonio Doncel Valcárcel,31,Defender,Retired,-,out,0,Championship,1998,1998/1999
+Hull City,Mark Hateley,36,Centre-Forward,Without Club,-,out,0,Championship,1998,1998/1999
+Hull City,Gerry Harrison,27,Midfielder,Sunderland,"End of loanMay 9, 1999",out,0,Championship,1998,1998/1999
+Hull City,Andy Saville,33,Centre-Forward,Cardiff,"End of loanOct 19, 1998",out,0,Championship,1998,1998/1999
+Hull City,Duane Darby,25,Forward,Notts County,"End of loanMay 2, 1999",out,0,Championship,1998,1998/1999
+Hull City,Steven Boyack,21,Midfielder,Rangers,"End of loanJun 30, 1998",out,0,Championship,1998,1998/1999
+Preston North End,Graham Alexander,27,Right-Back,Luton Town,£68k,in,0.068,Championship,1998,1998/1999
+Preston North End,Craig Harrison,21,Defender,Middlesbrough,Loan,in,0,Championship,1998,1998/1999
+Preston North End,Neil Clement,20,Centre-Back,Chelsea,Loan,in,0,Championship,1998,1998/1999
+Preston North End,Darren Byfield,22,Centre-Forward,Aston Villa,Loan,in,0,Championship,1998,1998/1999
+Preston North End,Andy Gray,21,Centre-Forward,Nottm Forest,Loan,in,0,Championship,1998,1998/1999
+Preston North End,Paul McGregor,24,Centre-Forward,Carlisle United,Free Transfer,in,0,Championship,1998,1998/1999
+Preston North End,Adam Eaton,19,Defender,Everton,£5k,in,0.005,Championship,1998,1998/1999
+Preston North End,Mark Winstanley,31,Centre-Back,Burnley,Loan,in,0,Championship,1998,1998/1999
+Preston North End,Jason Harris,21,Forward,Leyton Orient,?,in,NA,Championship,1998,1998/1999
+Preston North End,John Mullin,23,Right Winger,Burnley,"End of loanApr 1, 1999",in,0,Championship,1998,1998/1999
+Preston North End,Craig Dootson,19,Goalkeeper,Preston U18,-,in,0,Championship,1998,1998/1999
+Preston North End,Mark Beesley,17,Forward,Preston U18,-,in,0,Championship,1998,1998/1999
+Preston North End,Dean Barrick,28,Left-Back,Bury,Free Transfer,out,0,Championship,1998,1998/1999
+Preston North End,John Mullin,23,Right Winger,Burnley,Loan,out,0,Championship,1998,1998/1999
+Preston North End,Paul McGregor,24,Centre-Forward,Plymouth,Free Transfer,out,0,Championship,1998,1998/1999
+Preston North End,John Maduka,27,Central Midfield,Bush Bucks FC,?,out,NA,Championship,1998,1998/1999
+Preston North End,Habib Sissoko,27,Centre-Forward,Airdrie,?,out,NA,Championship,1998,1998/1999
+Preston North End,Darren Byfield,22,Centre-Forward,Aston Villa,"End of loanJan 1, 1999",out,0,Championship,1998,1998/1999
+Preston North End,Andy Gray,21,Centre-Forward,Nottm Forest,"End of loanMar 1, 1999",out,0,Championship,1998,1998/1999
+Preston North End,Mark Winstanley,31,Centre-Back,Burnley,"End of loanMay 10, 1999",out,0,Championship,1998,1998/1999
+Preston North End,Neil McDonald,32,Right-Back,Retired,-,out,0,Championship,1998,1998/1999
+Preston North End,Craig Harrison,21,Defender,Middlesbrough,"End of loanFeb 13, 1999",out,0,Championship,1998,1998/1999
+Preston North End,Neil Clement,20,Centre-Back,Chelsea,"End of loanMay 1, 1999",out,0,Championship,1998,1998/1999
+Blackburn Rovers,Kevin Davies,21,Centre-Forward,Southampton,£10.13m,in,10.13,Championship,1998,1998/1999
+Blackburn Rovers,Christian Dailly,24,Centre-Back,Derby,£7.16m,in,7.16,Championship,1998,1998/1999
+Blackburn Rovers,Ashley Ward,27,Centre-Forward,Barnsley FC,£5.66m,in,5.66,Championship,1998,1998/1999
+Blackburn Rovers,Matt Jansen,21,Centre-Forward,Crystal Palace,£5.40m,in,5.4,Championship,1998,1998/1999
+Blackburn Rovers,Nathan Blake,26,Centre-Forward,Bolton,£5.36m,in,5.36,Championship,1998,1998/1999
+Blackburn Rovers,Jason McAteer,28,Right Midfield,Liverpool,£5.00m,in,5,Championship,1998,1998/1999
+Blackburn Rovers,Lee Carsley,25,Defensive Midfield,Derby,£4.59m,in,4.59,Championship,1998,1998/1999
+Blackburn Rovers,Sébastien Pérez,24,Right-Back,SC Bastia,£3.24m,in,3.24,Championship,1998,1998/1999
+Blackburn Rovers,Keith Gillespie,23,Central Midfield,Newcastle,£3.15m,in,3.15,Championship,1998,1998/1999
+Blackburn Rovers,Oumar Kondé,19,Centre-Back,FC Basel,£675k,in,0.675,Championship,1998,1998/1999
+Blackburn Rovers,David McNamee,18,Right-Back,St. Mirren FC U17,£405k,in,0.405,Championship,1998,1998/1999
+Blackburn Rovers,Dario Marcolin,27,Defensive Midfield,Lazio,Loan,in,0,Championship,1998,1998/1999
+Blackburn Rovers,Darren Peacock,30,Centre-Back,Newcastle,?,in,NA,Championship,1998,1998/1999
+Blackburn Rovers,David Dunn,18,Attacking Midfield,Blackburn U18,-,in,0,Championship,1998,1998/1999
+Blackburn Rovers,Peter Murphy,17,Centre-Back,Blackburn U18,-,in,0,Championship,1998,1998/1999
+Blackburn Rovers,Robbie Doyle,16,Forward,Blackburn U18,-,in,0,Championship,1998,1998/1999
+Blackburn Rovers,Anthony Williams,21,Goalkeeper,Macclesfield,"End of loanFeb 1, 1999",in,0,Championship,1998,1998/1999
+Blackburn Rovers,Anthony Williams,21,Goalkeeper,Bristol Rovers,"End of loanMay 1, 1999",in,0,Championship,1998,1998/1999
+Blackburn Rovers,David McNamee,18,Right-Back,St. Mirren,"End of loanMay 1, 1999",in,0,Championship,1998,1998/1999
+Blackburn Rovers,Martin Taylor,18,Centre-Back,Blackburn U18,-,in,0,Championship,1998,1998/1999
+Blackburn Rovers,Ben Burgess,16,Centre-Forward,Blackburn U18,-,in,0,Championship,1998,1998/1999
+Blackburn Rovers,Tim Sherwood,29,Central Midfield,Spurs,£5.40m,out,5.4,Championship,1998,1998/1999
+Blackburn Rovers,Colin Hendry,32,Centre-Back,Rangers,£5.40m,out,5.4,Championship,1998,1998/1999
+Blackburn Rovers,Stuart Ripley,30,Midfielder,Southampton,£2.03m,out,2.03,Championship,1998,1998/1999
+Blackburn Rovers,James Beattie,20,Centre-Forward,Southampton,£1.26m,out,1.26,Championship,1998,1998/1999
+Blackburn Rovers,Martin Dahlin,30,Centre-Forward,Hamburger SV,Loan fee:£180k,out,0.18,Championship,1998,1998/1999
+Blackburn Rovers,Patrick Valéry,28,Right-Back,SC Bastia,£108k,out,0.108,Championship,1998,1998/1999
+Blackburn Rovers,David Worrell,21,Right-Back,Dundee United,£68k,out,0.068,Championship,1998,1998/1999
+Blackburn Rovers,David McNamee,18,Right-Back,St. Mirren,Loan,out,0,Championship,1998,1998/1999
+Blackburn Rovers,Graham Coughlan,24,Centre-Back,Livingston FC,Free Transfer,out,0,Championship,1998,1998/1999
+Blackburn Rovers,Anthony Williams,21,Goalkeeper,Macclesfield,Loan,out,0,Championship,1998,1998/1999
+Blackburn Rovers,Anthony Williams,21,Goalkeeper,Bristol Rovers,Loan,out,0,Championship,1998,1998/1999
+Blackburn Rovers,Anders Andersson,24,Defensive Midfield,Aalborg BK,?,out,NA,Championship,1998,1998/1999
+Blackburn Rovers,Eddie McCallion,19,Right-Back,Derry City,?,out,NA,Championship,1998,1998/1999
+Blackburn Rovers,Sébastien Pérez,25,Right-Back,SC Bastia,Loan,out,0,Championship,1998,1998/1999
+Blackburn Rovers,Tore Pedersen,28,Centre-Back,E. Frankfurt,?,out,NA,Championship,1998,1998/1999
+Blackburn Rovers,Michael Watt,27,Goalkeeper,Aberdeen FC,"End of loanJun 30, 1998",out,0,Championship,1998,1998/1999
+Stoke City,Greg Strong,23,Centre-Back,Bolton,Loan,in,0,Championship,1998,1998/1999
+Stoke City,Paul Connor,19,Forward,Middlesbrough,Free Transfer,in,0,Championship,1998,1998/1999
+Stoke City,Chris Short,28,Defender,Sheffield Utd.,Free Transfer,in,0,Championship,1998,1998/1999
+Stoke City,Gavin Ward,28,Goalkeeper,Bolton,Free Transfer,in,0,Championship,1998,1998/1999
+Stoke City,Ronnie Sinclair,34,Goalkeeper,Without Club,?,in,NA,Championship,1998,1998/1999
+Stoke City,Nicky Mohan,28,Midfielder,Wycombe,?,in,NA,Championship,1998,1998/1999
+Stoke City,Phil Robinson,31,Midfielder,Notts County,?,in,NA,Championship,1998,1998/1999
+Stoke City,Tosh McKinlay,34,Left-Back,Celtic,Loan,in,0,Championship,1998,1998/1999
+Stoke City,Nicky Mohan,28,Defender,Wycombe,?,in,NA,Championship,1998,1998/1999
+Stoke City,Bryan Small,26,Defender,Bolton,?,in,NA,Championship,1998,1998/1999
+Stoke City,Steven Tweed,26,Centre-Back,Dundee FC,£225k,out,0.225,Championship,1998,1998/1999
+Stoke City,Neil MacKenzie,22,Central Midfield,Cambridge Utd.,£54k,out,0.054,Championship,1998,1998/1999
+Stoke City,Marco Gabbiadini,30,Centre-Forward,Darlington,Free Transfer,out,0,Championship,1998,1998/1999
+Stoke City,Mark Birch,21,Right-Back,Northwich Victoria,Free Transfer,out,0,Championship,1998,1998/1999
+Stoke City,Ally Pickering,31,Defender,Burnley,Free Transfer,out,0,Championship,1998,1998/1999
+Stoke City,Richard Forsyth,28,Midfielder,Blackpool,Free Transfer,out,0,Championship,1998,1998/1999
+Stoke City,Dick Schreuder,26,Defensive Midfield,Helmond Sport,Free Transfer,out,0,Championship,1998,1998/1999
+Stoke City,O'Neill Donaldson,28,Centre-Forward,Torquay United,Free Transfer,out,0,Championship,1998,1998/1999
+Stoke City,Neville Southall,39,Goalkeeper,Torquay United,?,out,NA,Championship,1998,1998/1999
+Stoke City,Mark McNally,27,Centre-Back,Dundee United,?,out,NA,Championship,1998,1998/1999
+Stoke City,Paul Stewart,33,Defensive Midfield,Workington AFC,?,out,NA,Championship,1998,1998/1999
+Stoke City,Phil Morgan,23,Goalkeeper,Macclesfield,?,out,NA,Championship,1998,1998/1999
+Stoke City,Gerry McMahon,24,Central Midfield,St. Johnstone,?,out,NA,Championship,1998,1998/1999
+Stoke City,Greg Strong,23,Centre-Back,Bolton,"End of loanApr 1, 1999",out,0,Championship,1998,1998/1999
+Stoke City,Tosh McKinlay,34,Left-Back,Celtic,"End of loanFeb 1, 1999",out,0,Championship,1998,1998/1999
+Stoke City,Jörg Sobiech,29,Left-Back,NEC Nijmegen,"End of loanJun 30, 1998",out,0,Championship,1998,1998/1999
+Birmingham City,David Holdsworth,30,Defender,Sheffield Utd.,£1.36m,in,1.36,Championship,1998,1998/1999
+Birmingham City,Gary Rowett,24,Right-Back,Derby,£1.26m,in,1.26,Championship,1998,1998/1999
+Birmingham City,Lee Bradbury,23,Centre-Forward,Crystal Palace,Loan,in,0,Championship,1998,1998/1999
+Birmingham City,Graham Hyde,28,Defensive Midfield,Sheff Wed,Free Transfer,in,0,Championship,1998,1998/1999
+Birmingham City,Chris Marsden,29,Left Midfield,Southampton,£1.08m,out,1.08,Championship,1998,1998/1999
+Birmingham City,Craig Hinton,20,Right-Back,Kidderminster,Free Transfer,out,0,Championship,1998,1998/1999
+Birmingham City,Steve Bruce,37,Centre-Back,Sheffield Utd.,?,out,NA,Championship,1998,1998/1999
+Birmingham City,Lee Bradbury,23,Centre-Forward,Crystal Palace,"End of loanMay 1, 1999",out,0,Championship,1998,1998/1999
+Birmingham City,Ricky Otto,30,Left Winger,Without Club,-,out,0,Championship,1998,1998/1999
+Wigan Athletic,Andy Liddell,25,Forward,Barnsley FC,£428k,in,0.428,Championship,1998,1998/1999
+Wigan Athletic,Stuart Balmer,28,Right-Back,Charlton,£270k,in,0.27,Championship,1998,1998/1999
+Wigan Athletic,Eric Nixon,36,Goalkeeper,Stockport,Free Transfer,in,0,Championship,1998,1998/1999
+Wigan Athletic,Eric Nixon,35,Goalkeeper,Stockport,Free Transfer,in,0,Championship,1998,1998/1999
+Wigan Athletic,Michael O'Neill,28,Attacking Midfield,Coventry,Free Transfer,in,0,Championship,1998,1998/1999
+Wigan Athletic,Simon Haworth,21,Forward,Coventry,?,in,NA,Championship,1998,1998/1999
+Wigan Athletic,Jörg Smeets,28,Midfielder,Chester City,"End of loanMar 1, 1999",in,0,Championship,1998,1998/1999
+Wigan Athletic,Paul Warne,25,Right Winger,Kettering Town,"End of loanDec 1, 1998",in,0,Championship,1998,1998/1999
+Wigan Athletic,Paul Warne,25,Right Winger,Rotherham,Free Transfer,out,0,Championship,1998,1998/1999
+Wigan Athletic,Lee Butler,32,Goalkeeper,Dunfermline A.,Free Transfer,out,0,Championship,1998,1998/1999
+Wigan Athletic,Paul Warne,25,Right Winger,Kettering Town,Loan,out,0,Championship,1998,1998/1999
+Wigan Athletic,Steve Morgan,29,Left-Back,Burnley,Free Transfer,out,0,Championship,1998,1998/1999
+Wigan Athletic,Neil Mustoe,21,Midfielder,Cambridge Utd.,?,out,NA,Championship,1998,1998/1999
+Wigan Athletic,Leigh Jenkinson,28,Midfielder,Heart of Midl.,?,out,NA,Championship,1998,1998/1999
+Wigan Athletic,Jörg Smeets,28,Midfielder,Chester City,Loan,out,0,Championship,1998,1998/1999
+Wigan Athletic,Pasquale Bruno,36,Right-Back,Retired,-,out,0,Championship,1998,1998/1999
+Wigan Athletic,Eric Nixon,36,Goalkeeper,Stockport,"End of loanOct 9, 1998",out,0,Championship,1998,1998/1999
+Wigan Athletic,Neil Whitworth,26,Centre-Back,Kilmarnock FC,"End of loanJun 30, 1998",out,0,Championship,1998,1998/1999
+Queens Park Rangers,Tim Breacker,33,Right-Back,West Ham,Loan,in,0,Championship,1998,1998/1999
+Queens Park Rangers,Ademola Bankole,28,Goalkeeper,Crewe Alexandra,Free Transfer,in,0,Championship,1998,1998/1999
+Queens Park Rangers,Chris Kiwomya,28,Centre-Forward,Arsenal,Free Transfer,in,0,Championship,1998,1998/1999
+Queens Park Rangers,Tim Breacker,33,Right-Back,West Ham,Free Transfer,in,0,Championship,1998,1998/1999
+Queens Park Rangers,Luke Cornwall,18,Centre-Forward,Fulham,Loan,in,0,Championship,1998,1998/1999
+Queens Park Rangers,Stuart Wardley,24,Midfielder,Saffron Walden,£16k,in,0.016,Championship,1998,1998/1999
+Queens Park Rangers,Richard Ord,28,Defender,Sunderland,?,in,NA,Championship,1998,1998/1999
+Queens Park Rangers,Andy Linighan,36,Centre-Back,Crystal Palace,Loan,in,0,Championship,1998,1998/1999
+Queens Park Rangers,Paul Bruce,21,Midfielder,Cambridge Utd.,?,in,NA,Championship,1998,1998/1999
+Queens Park Rangers,Ludek Miklosko,36,Goalkeeper,West Ham,?,in,NA,Championship,1998,1998/1999
+Queens Park Rangers,Nigel Quashie,19,Central Midfield,Nottm Forest,£3.38m,out,3.38,Championship,1998,1998/1999
+Queens Park Rangers,Rufus Brevett,28,Left-Back,Fulham,£473k,out,0.473,Championship,1998,1998/1999
+Queens Park Rangers,Christophe Borbiconi,25,Centre-Back,Nîmes Olympique,Free Transfer,out,0,Championship,1998,1998/1999
+Queens Park Rangers,David Bardsley,33,Right-Back,Blackpool,Free Transfer,out,0,Championship,1998,1998/1999
+Queens Park Rangers,Tony Roberts,28,Goalkeeper,Millwall,Free Transfer,out,0,Championship,1998,1998/1999
+Queens Park Rangers,Lee Charles,26,Forward,Hayes FC,Free Transfer,out,0,Championship,1998,1998/1999
+Queens Park Rangers,Trevor Challis,22,Defender,Bristol Rovers,?,out,NA,Championship,1998,1998/1999
+Queens Park Rangers,Paul Bruce,21,Midfielder,Cambridge Utd.,Loan,out,0,Championship,1998,1998/1999
+Queens Park Rangers,Vinnie Jones,34,Defensive Midfield,Retired,-,out,0,Championship,1998,1998/1999
+Queens Park Rangers,Andy Linighan,36,Centre-Back,Crystal Palace,"End of loanMay 31, 1999",out,0,Championship,1998,1998/1999
+Queens Park Rangers,Luke Cornwall,18,Centre-Forward,Fulham,"End of loanApr 1, 1999",out,0,Championship,1998,1998/1999
+Queens Park Rangers,Tim Breacker,33,Right-Back,West Ham,"End of loanNov 1, 1998",out,0,Championship,1998,1998/1999
+Reading FC,Graeme Murty,23,Right-Back,York City,£900k,in,0.9,Championship,1998,1998/1999
+Reading FC,Grant Brebner,20,Defensive Midfield,Man Utd,£405k,in,0.405,Championship,1998,1998/1999
+Reading FC,Andy McLaren,25,Left Winger,Dundee United,£135k,in,0.135,Championship,1998,1998/1999
+Reading FC,Grant Smith,18,Defensive Midfield,Wycombe,Free Transfer,in,0,Championship,1998,1998/1999
+Reading FC,Chris Westwood,21,Centre-Back,Wolves,Free Transfer,in,0,Championship,1998,1998/1999
+Reading FC,Tony Thorpe,24,Centre-Forward,Bristol City,Loan,in,0,Championship,1998,1998/1999
+Reading FC,Neil Clement,20,Centre-Back,Chelsea,Loan,in,0,Championship,1998,1998/1999
+Reading FC,Tony Barras,27,Defender,York City,£22k,in,0.022,Championship,1998,1998/1999
+Reading FC,Mass Sarr Jr,25,Forward,Hajduk Split,?,in,NA,Championship,1998,1998/1999
+Reading FC,Scott Howie,26,Goalkeeper,Coventry,?,in,NA,Championship,1998,1998/1999
+Reading FC,Peter van der Kwaak,29,Goalkeeper,Dordrecht'90,?,in,NA,Championship,1998,1998/1999
+Reading FC,Robert Fleck,32,Centre-Forward,Norwich,?,in,NA,Championship,1998,1998/1999
+Reading FC,Elroy Kromheer,28,Sweeper,FC Zwolle,?,in,NA,Championship,1998,1998/1999
+Reading FC,Jamie Ashdown,17,Goalkeeper,Reading U18,-,in,0,Championship,1998,1998/1999
+Reading FC,Chris Casper,23,Defender,Without Club,-,in,0,Championship,1998,1998/1999
+Reading FC,Neville Roach,20,Forward,Southend United,"End of loanMar 3, 1999",in,0,Championship,1998,1998/1999
+Reading FC,Phil Hadland,17,Midfielder,Reading U18,-,in,0,Championship,1998,1998/1999
+Reading FC,Carl Asaba,25,Centre-Forward,Gillingham FC,£797k,out,0.797,Championship,1998,1998/1999
+Reading FC,Grant Smith,18,Defensive Midfield,Heart of Midl.,Free Transfer,out,0,Championship,1998,1998/1999
+Reading FC,Stuart Lovell,26,Attacking Midfield,Hibernian FC,Free Transfer,out,0,Championship,1998,1998/1999
+Reading FC,Dariusz Wdowczyk,35,Left-Back,Pol. Warsaw,Free Transfer,out,0,Championship,1998,1998/1999
+Reading FC,Jason Bowen,26,Central Midfield,Cardiff,Free Transfer,out,0,Championship,1998,1998/1999
+Reading FC,Chris Westwood,22,Centre-Back,Hartlepool Utd.,Free Transfer,out,0,Championship,1998,1998/1999
+Reading FC,Gareth Davies,25,Centre-Back,Swindon Town,Free Transfer,out,0,Championship,1998,1998/1999
+Reading FC,Neville Roach,20,Forward,Southend United,Loan,out,0,Championship,1998,1998/1999
+Reading FC,Neville Roach,20,Forward,Southend United,£32k,out,0.032,Championship,1998,1998/1999
+Reading FC,Andy Legg,31,Left-Back,Cardiff,?,out,NA,Championship,1998,1998/1999
+Reading FC,Trevor Morley,37,Centre-Forward,Sogndal,?,out,NA,Championship,1998,1998/1999
+Reading FC,Paul Bodin,33,Left-Back,Bath City,?,out,NA,Championship,1998,1998/1999
+Reading FC,Barry Hunter,30,Centre-Back,Southend United,Loan,out,0,Championship,1998,1998/1999
+Reading FC,Robert Fleck,33,Centre-Forward,Without Club,-,out,0,Championship,1998,1998/1999
+Reading FC,Steve Swales,24,Defender,Without Club,-,out,0,Championship,1998,1998/1999
+Reading FC,Neil Clement,20,Centre-Back,Chelsea,"End of loanFeb 1, 1999",out,0,Championship,1998,1998/1999
+Reading FC,Tony Thorpe,24,Centre-Forward,Bristol City,"End of loanMar 1, 1999",out,0,Championship,1998,1998/1999
+Millwall FC,Tony Roberts,28,Goalkeeper,QPR,Free Transfer,in,0,Championship,1998,1998/1999
+Millwall FC,David McDougald,23,Centre-Forward,Cambridge Utd.,Free Transfer,in,0,Championship,1998,1998/1999
+Millwall FC,Jimmy Carter,32,Right Winger,Portsmouth,Free Transfer,in,0,Championship,1998,1998/1999
+Millwall FC,Ben Roberts,23,Goalkeeper,Middlesbrough,Loan,in,0,Championship,1998,1998/1999
+Millwall FC,Jamie Stuart,21,Centre-Back,Charlton,Free Transfer,in,0,Championship,1998,1998/1999
+Millwall FC,Joe Dolan,18,Centre-Back,Chelsea U18,?,in,NA,Championship,1998,1998/1999
+Millwall FC,Paul Ifill,18,Right Winger,Millwall U18,-,in,0,Championship,1998,1998/1999
+Millwall FC,Paul Terry,19,Defensive Midfield,Millwall U18,-,in,0,Championship,1998,1998/1999
+Millwall FC,Phil Smith,18,Goalkeeper,Millwall U18,-,in,0,Championship,1998,1998/1999
+Millwall FC,Ronnie Bull,17,Left-Back,Millwall U18,-,in,0,Championship,1998,1998/1999
+Millwall FC,Tony Witter,34,Centre-Back,Northampt. Town,Free Transfer,out,0,Championship,1998,1998/1999
+Millwall FC,David McDougald,23,Centre-Forward,Leyton Orient,Free Transfer,out,0,Championship,1998,1998/1999
+Millwall FC,Paul Wilkinson,33,Centre-Forward,Northampt. Town,Free Transfer,out,0,Championship,1998,1998/1999
+Millwall FC,Kenny Brown,30,Defender,Gillingham FC,?,out,NA,Championship,1998,1998/1999
+Millwall FC,Dave Savage,25,Midfielder,Northampt. Town,?,out,NA,Championship,1998,1998/1999
+Millwall FC,Kim Grant,26,Centre-Forward,Notts County,?,out,NA,Championship,1998,1998/1999
+Millwall FC,David Nurse,21,Goalkeeper,Barry Town,?,out,NA,Championship,1998,1998/1999
+Millwall FC,Carl Veart,28,Centre-Forward,FC Adelaide City,?,out,NA,Championship,1998,1998/1999
+Millwall FC,Maurice Doyle,28,Midfielder,Telford Utd,?,out,NA,Championship,1998,1998/1999
+Millwall FC,Paul Allen,35,Midfielder,Retired,-,out,0,Championship,1998,1998/1999
+Millwall FC,Ben Roberts,23,Goalkeeper,Middlesbrough,"End of loanMay 1, 1999",out,0,Championship,1998,1998/1999
+Luton Town,Gavin McGowan,22,Defender,Arsenal,Free Transfer,in,0,Championship,1998,1998/1999
+Luton Town,Tony Thorpe,24,Centre-Forward,Bristol City,Free Transfer,in,0,Championship,1998,1998/1999
+Luton Town,Sean Dyche,27,Centre-Back,Bristol City,Loan,in,0,Championship,1998,1998/1999
+Luton Town,Maxime Agueh,20,Goalkeeper,LOSC Lille B,?,in,NA,Championship,1998,1998/1999
+Luton Town,Gerry Harrison,26,Midfielder,Sunderland,Loan,in,0,Championship,1998,1998/1999
+Luton Town,Ray McKinnon,27,Midfielder,Dundee United,?,in,NA,Championship,1998,1998/1999
+Luton Town,Michael McIndoe,18,Left Winger,Luton U18,-,in,0,Championship,1998,1998/1999
+Luton Town,Emmerson Boyce,18,Right-Back,Luton U18,-,in,0,Championship,1998,1998/1999
+Luton Town,Tresor Kandol,16,Centre-Forward,Luton U18,-,in,0,Championship,1998,1998/1999
+Luton Town,Steve Davis,30,Centre-Back,Burnley,£801k,out,0.801,Championship,1998,1998/1999
+Luton Town,Graham Alexander,27,Right-Back,Preston NE,£68k,out,0.068,Championship,1998,1998/1999
+Luton Town,Richard Harvey,29,Defender,Aylesbury Utd.,Free Transfer,out,0,Championship,1998,1998/1999
+Luton Town,Darren Patterson,28,Right-Back,Dundee United,Free Transfer,out,0,Championship,1998,1998/1999
+Luton Town,Dwight Marshall,33,Forward,Plymouth,Free Transfer,out,0,Championship,1998,1998/1999
+Luton Town,Simon Davies,24,Midfielder,Macclesfield,?,out,NA,Championship,1998,1998/1999
+Luton Town,Sean Dyche,27,Centre-Back,Bristol City,"End of loanApr 18, 1999",out,0,Championship,1998,1998/1999
+Luton Town,Gary Waddock,36,Defensive Midfield,Retired,-,out,0,Championship,1998,1998/1999
+Luton Town,Gerry Harrison,26,Midfielder,Sunderland,"End of loanMar 23, 1999",out,0,Championship,1998,1998/1999
+Luton Town,Rory Allen,20,Forward,Spurs,"End of loanJun 30, 1998",out,0,Championship,1998,1998/1999
+Barnsley FC,Craig Hignett,28,Right Winger,Aberdeen FC,£1.08m,in,1.08,Championship,1998,1998/1999
+Barnsley FC,Bruce Dyer,23,Centre-Forward,Crystal Palace,£878k,in,0.878,Championship,1998,1998/1999
+Barnsley FC,Robin van der Laan,29,Attacking Midfield,Derby,£405k,in,0.405,Championship,1998,1998/1999
+Barnsley FC,Don Goodman,32,Forward,Sanf. Hiroshima,Loan,in,0,Championship,1998,1998/1999
+Barnsley FC,Brian O'Callaghan,17,Centre-Back,Pike Rovers,Free Transfer,in,0,Championship,1998,1998/1999
+Barnsley FC,Deon Burton,22,Centre-Forward,Derby,Loan,in,0,Championship,1998,1998/1999
+Barnsley FC,Kevin Richardson,35,Central Midfield,Southampton,Free Transfer,in,0,Championship,1998,1998/1999
+Barnsley FC,Pirri Mori,28,Attacking Midfield,CP Mérida,?,in,NA,Championship,1998,1998/1999
+Barnsley FC,Ashley Ward,27,Centre-Forward,Blackburn,£5.66m,out,5.66,Championship,1998,1998/1999
+Barnsley FC,Jan Aage Fjörtoft,31,Centre-Forward,E. Frankfurt,£675k,out,0.675,Championship,1998,1998/1999
+Barnsley FC,Andy Liddell,25,Forward,Wigan,£428k,out,0.428,Championship,1998,1998/1999
+Barnsley FC,Neil Thompson,34,Defender,York City,Free Transfer,out,0,Championship,1998,1998/1999
+Barnsley FC,Jovo Bosancic,27,Right Winger,Guingamp,?,out,NA,Championship,1998,1998/1999
+Barnsley FC,Peter Markstedt,26,Centre-Forward,Helsingborg,?,out,NA,Championship,1998,1998/1999
+Barnsley FC,Don Goodman,32,Forward,Sanf. Hiroshima,"End of loanMar 10, 1999",out,0,Championship,1998,1998/1999
+Barnsley FC,Deon Burton,22,Centre-Forward,Derby,"End of loanDec 31, 1998",out,0,Championship,1998,1998/1999
+Charlton Athletic,Chris Powell,28,Left-Back,Derby,£1.13m,in,1.13,Championship,1998,1998/1999
+Charlton Athletic,Martin Pringle,28,Centre-Forward,Benfica,£990k,in,0.99,Championship,1998,1998/1999
+Charlton Athletic,Carl Tiler,28,Defender,Everton,£787k,in,0.787,Championship,1998,1998/1999
+Charlton Athletic,Eddie Youds,28,Defender,Bradford,£585k,in,0.585,Championship,1998,1998/1999
+Charlton Athletic,Mark McCammon,20,Centre-Forward,Cambridge Utd.,£59k,in,0.059,Championship,1998,1998/1999
+Charlton Athletic,Paul Smith,18,Goalkeeper,Walton & Hersham FC,Free Transfer,in,0,Championship,1998,1998/1999
+Charlton Athletic,Simon Royce,26,Goalkeeper,Southend United,Free Transfer,in,0,Championship,1998,1998/1999
+Charlton Athletic,Andy Hunt,28,Forward,West Brom,Free Transfer,in,0,Championship,1998,1998/1999
+Charlton Athletic,John Barnes,35,Left Midfield,Newcastle,?,in,NA,Championship,1998,1998/1999
+Charlton Athletic,Dave Tuttle,27,Defender,Crystal Palace,Loan,in,0,Championship,1998,1998/1999
+Charlton Athletic,Jonathan Fortune,17,Centre-Back,Charlton U18,-,in,0,Championship,1998,1998/1999
+Charlton Athletic,Mike Salmon,34,Goalkeeper,Oxford United,"End of loanDec 12, 1998",in,0,Championship,1998,1998/1999
+Charlton Athletic,Kevin Nicholls,20,Right Midfield,Brighton,"End of loanMar 1, 1999",in,0,Championship,1998,1998/1999
+Charlton Athletic,Kevin Lisbie,20,Centre-Forward,Gillingham FC,"End of loanApr 14, 1999",in,0,Championship,1998,1998/1999
+Charlton Athletic,Kemal Izzet,17,Central Midfield,Charlton U18,-,in,0,Championship,1998,1998/1999
+Charlton Athletic,Kevin James,18,Centre-Forward,Charlton U18,-,in,0,Championship,1998,1998/1999
+Charlton Athletic,Stuart Balmer,28,Right-Back,Wigan,£270k,out,0.27,Championship,1998,1998/1999
+Charlton Athletic,Jamie Stuart,21,Centre-Back,Millwall,Free Transfer,out,0,Championship,1998,1998/1999
+Charlton Athletic,Kevin Nicholls,20,Right Midfield,Brighton,Loan,out,0,Championship,1998,1998/1999
+Charlton Athletic,Jason Tindall,20,Defender,Bournemouth,Free Transfer,out,0,Championship,1998,1998/1999
+Charlton Athletic,Kevin Lisbie,20,Centre-Forward,Gillingham FC,Loan,out,0,Championship,1998,1998/1999
+Charlton Athletic,Mike Salmon,34,Goalkeeper,Oxford United,Loan,out,0,Championship,1998,1998/1999
+Charlton Athletic,Adrian Webster,18,Defensive Midfield,Colchester Utd.,?,out,NA,Championship,1998,1998/1999
+Charlton Athletic,Mark Bright,36,Forward,Retired,-,out,0,Championship,1998,1998/1999
+Charlton Athletic,Dave Tuttle,27,Defender,Crystal Palace,"End of loanMay 1, 1999",out,0,Championship,1998,1998/1999

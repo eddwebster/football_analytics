@@ -1,0 +1,528 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Bayern Munich,Mario Götze,21,Attacking Midfield,Bor. Dortmund,£33.30m,in,Summer,33.3,1 Bundesliga,2013,2013/2014
+Bayern Munich,Thiago,22,Central Midfield,FC Barcelona,£22.50m,in,Summer,22.5,1 Bundesliga,2013,2013/2014
+Bayern Munich,Jan Kirchhoff,22,Centre-Back,1.FSV Mainz 05,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayern Munich,Pierre-Emile Höjbjerg,17,Central Midfield,FC Bayern II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayern Munich,Nils Petersen,24,Centre-Forward,Werder Bremen,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayern Munich,Mitchell Weiser,19,Right-Back,1.FC K'lautern,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayern Munich,Luiz Gustavo,26,Defensive Midfield,VfL Wolfsburg,£14.40m,out,Summer,14.4,1 Bundesliga,2013,2013/2014
+Bayern Munich,Mario Gómez,28,Centre-Forward,Fiorentina,£13.95m,out,Summer,13.95,1 Bundesliga,2013,2013/2014
+Bayern Munich,Emre Can,19,Defensive Midfield,Bay. Leverkusen,£4.50m,out,Summer,4.5,1 Bundesliga,2013,2013/2014
+Bayern Munich,Nils Petersen,24,Centre-Forward,Werder Bremen,£2.70m,out,Summer,2.7,1 Bundesliga,2013,2013/2014
+Bayern Munich,Maximilian Riedmüller,25,Goalkeeper,Holstein Kiel,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Bayern Munich,Anatoliy Tymoshchuk,34,Defensive Midfield,Zenit S-Pb,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Henrikh Mkhitaryan,24,Attacking Midfield,Shakhtar D.,£24.75m,in,Summer,24.75,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Pierre-Emerick Aubameyang,24,Centre-Forward,Saint-Étienne,£11.70m,in,Summer,11.7,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Sokratis,25,Centre-Back,Werder Bremen,£8.91m,in,Summer,8.91,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Marian Sarr,18,Centre-Back,B. Dortmund U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Marvin Ducksch,19,Centre-Forward,B. Dortmund II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Jonas Hofmann,20,Central Midfield,B. Dortmund II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Erik Durm,21,Left-Back,B. Dortmund II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Julian Koch,22,Defensive Midfield,MSV Duisburg,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Lasse Sobiech,22,Centre-Back,Greuther Fürth,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Daniel Ginczek,22,Centre-Forward,FC St. Pauli,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Mario Götze,21,Attacking Midfield,Bayern Munich,£33.30m,out,Summer,33.3,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Leonardo Bittencourt,19,Attacking Midfield,Hannover 96,£2.52m,out,Summer,2.52,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Daniel Ginczek,22,Centre-Forward,1.FC Nuremberg,£1.35m,out,Summer,1.35,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Lasse Sobiech,22,Centre-Back,Hamburger SV,£1.26m,out,Summer,1.26,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Felipe Santana,27,Centre-Back,FC Schalke 04,£900Th.,out,Summer,0.9,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Julian Koch,22,Defensive Midfield,1.FSV Mainz 05,£540Th.,out,Summer,0.54,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Moritz Leitner,20,Central Midfield,VfB Stuttgart,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Marvin Bakalorz,23,Central Midfield,E. Frankfurt,£68Th.,out,Summer,0.068,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Marc Hornschuh,22,Centre-Back,B. Dortmund II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Patrick Owomoyela,33,Right-Back,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Heung-min Son,20,Left Winger,Hamburger SV,£9.00m,in,Summer,9,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Emre Can,19,Defensive Midfield,Bayern Munich,£4.50m,in,Summer,4.5,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Giulio Donati,23,Right-Back,Inter,£2.70m,in,Summer,2.7,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Robbie Kruse,24,Left Winger,F. Düsseldorf,£1.35m,in,Summer,1.35,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Eren Derdiyok,25,Centre-Forward,TSG Hoffenheim,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Joel Pohjanpalo,18,Centre-Forward,HJK Helsinki,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Emir Spahic,32,Centre-Back,Sevilla FC,£360Th.,in,Summer,0.36,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Andrés Palop,39,Goalkeeper,Sevilla FC,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Roberto Hilbert,28,Right-Back,Besiktas,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Levin Öztunali,17,Right Midfield,Hamburg U19,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Jonas Meffert,18,Defensive Midfield,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Christoph Kramer,22,Defensive Midfield,VfL Bochum,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Nicolai Jörgensen,22,Centre-Forward,FC Copenhagen,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Carlinhos,19,Attacking Midfield,Jahn Regensburg,"End of loanJun 29, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Konstantinos Stafylidis,19,Left-Back,PAOK Salonika,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,André Schürrle,22,Left Winger,Chelsea,£19.80m,out,Summer,19.8,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Daniel Carvajal,21,Right-Back,Real Madrid,£5.85m,out,Summer,5.85,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Michal Kadlec,28,Centre-Back,Fenerbahce,£4.05m,out,Summer,4.05,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Hajime Hosogai,27,Defensive Midfield,Hertha BSC,£900Th.,out,Summer,0.9,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Nicolai Jörgensen,22,Centre-Forward,FC Copenhagen,£603Th.,out,Summer,0.603,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Junior Fernandes,25,Left Winger,Dinamo Zagreb,Loan fee:£225Th.,out,Summer,0.225,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Christoph Kramer,22,Defensive Midfield,Bor. M'gladbach,Loan fee:£180Th.,out,Summer,0.18,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Karim Bellarabi,23,Right Winger,E. Braunschweig,Loan fee:£135Th.,out,Summer,0.135,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Arkadiusz Milik,19,Centre-Forward,FC Augsburg,Loan fee:£135Th.,out,Summer,0.135,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Daniel Schwaab,24,Centre-Back,VfB Stuttgart,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Michael Rensing,29,Goalkeeper,F. Düsseldorf,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Kolja Pusch,20,Attacking Midfield,Chemnitzer FC,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Joel Pohjanpalo,18,Centre-Forward,VfR Aalen,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Manuel Friedrich,33,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Carlinhos,19,Attacking Midfield,Desp. Brasil,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Kevin-Prince Boateng,26,Attacking Midfield,AC Milan,£9.00m,in,Summer,9,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Ádám Szalai,25,Centre-Forward,1.FSV Mainz 05,£7.20m,in,Summer,7.2,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Leon Goretzka,18,Central Midfield,VfL Bochum,£2.93m,in,Summer,2.93,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Christian Clemens,21,Right Midfield,1. FC Köln,£2.52m,in,Summer,2.52,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Felipe Santana,27,Centre-Back,Bor. Dortmund,£900Th.,in,Summer,0.9,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Dennis Aogo,26,Defensive Midfield,Hamburger SV,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Kaan Ayhan,18,Centre-Back,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Tim Hoogland,28,Centre-Back,VfB Stuttgart,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Philipp Hofmann,20,Centre-Forward,SC Paderborn,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Anthony Annan,26,Defensive Midfield,CA Osasuna,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,José Manuel Jurado,27,Attacking Midfield,Spartak Moscow,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Sergio Escudero,23,Left-Back,Getafe,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,José Manuel Jurado,27,Attacking Midfield,Spartak Moscow,£2.70m,out,Summer,2.7,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Teemu Pukki,23,Centre-Forward,Celtic,£2.25m,out,Summer,2.25,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Sergio Escudero,23,Left-Back,Getafe,£1.35m,out,Summer,1.35,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Tranquillo Barnetta,28,Attacking Midfield,E. Frankfurt,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Philipp Hofmann,20,Centre-Forward,FC Ingolstadt,Loan fee:£180Th.,out,Summer,0.18,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Christoph Moritz,23,Central Midfield,1.FSV Mainz 05,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Christoph Metzelder,32,Centre-Back,TuS Haltern,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Michel Bastos,29,Left Midfield,Olympique Lyon,"End of loanJul 31, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Ciprian Marica,27,Centre-Forward,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,René Klingenburg,19,Central Midfield,Schalke 04 II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Ibrahim Afellay,27,Left Midfield,FC Barcelona,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Raffael,28,Second Striker,Dynamo Kyiv,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Vladimir Darida,23,Central Midfield,Viktoria Plzen,£3.60m,in,Summer,3.6,1 Bundesliga,2013,2013/2014
+SC Freiburg,Felix Klaus,20,Right Winger,Greuther Fürth,£990Th.,in,Summer,0.99,1 Bundesliga,2013,2013/2014
+SC Freiburg,Gelson Fernandes,26,Defensive Midfield,Sporting CP,£360Th.,in,Summer,0.36,1 Bundesliga,2013,2013/2014
+SC Freiburg,Admir Mehmedi,22,Second Striker,Dynamo Kyiv,Loan fee:£270Th.,in,Summer,0.27,1 Bundesliga,2013,2013/2014
+SC Freiburg,Vaclav Pilar,24,Left Midfield,VfL Wolfsburg,Loan fee:£180Th.,in,Summer,0.18,1 Bundesliga,2013,2013/2014
+SC Freiburg,Francis Coquelin,22,Defensive Midfield,Arsenal,Loan fee:£180Th.,in,Summer,0.18,1 Bundesliga,2013,2013/2014
+SC Freiburg,Mike Hanke,29,Centre-Forward,Bor. M'gladbach,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Christopher Jullien,20,Centre-Back,AJ Auxerre,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Denis Perger,20,Left-Back,FC Koper,£27Th.,in,Summer,0.027,1 Bundesliga,2013,2013/2014
+SC Freiburg,Sebastian Kerk,19,Left Winger,SC Freiburg U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Nicolas Höfler,23,Defensive Midfield,Erzgebirge Aue,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Simon Brandstetter,23,Centre-Forward,Karlsruher SC,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Erich Sautner,21,Attacking Midfield,Hallescher FC,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Beg Ferati,26,Centre-Back,FC Winterthur,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Daniel Caligiuri,25,Right Midfield,VfL Wolfsburg,£4.05m,out,Summer,4.05,1 Bundesliga,2013,2013/2014
+SC Freiburg,Cédric Makiadi,29,Central Midfield,Werder Bremen,£2.70m,out,Summer,2.7,1 Bundesliga,2013,2013/2014
+SC Freiburg,Max Kruse,25,Second Striker,Bor. M'gladbach,£2.25m,out,Summer,2.25,1 Bundesliga,2013,2013/2014
+SC Freiburg,Johannes Flum,25,Central Midfield,E. Frankfurt,£1.80m,out,Summer,1.8,1 Bundesliga,2013,2013/2014
+SC Freiburg,Beg Ferati,26,Centre-Back,FC Sion,£180Th.,out,Summer,0.18,1 Bundesliga,2013,2013/2014
+SC Freiburg,Erich Sautner,21,Attacking Midfield,Waldh. Mannheim,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Erik Jendrisek,26,Centre-Forward,Energie Cottbus,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Simon Brandstetter,23,Centre-Forward,Rot-Weiß Erfurt,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Mounir Bouziane,22,Centre-Forward,FSV Mainz 05 II,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Jan Rosenthal,27,Second Striker,E. Frankfurt,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Denis Perger,20,Left-Back,Wehen Wiesbaden,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Garra Dembélé,28,Centre-Forward,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Ivan Santini,24,Centre-Forward,NK Zadar,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+SC Freiburg,Ezequiel Calvente,22,Right Winger,Real Betis,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Vaclav Kadlec,21,Centre-Forward,Sparta Praha,£2.88m,in,Summer,2.88,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Johannes Flum,25,Central Midfield,SC Freiburg,£1.80m,in,Summer,1.8,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Joselu,23,Centre-Forward,TSG Hoffenheim,Loan fee:£720Th.,in,Summer,0.72,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Stephan Schröck,26,Attacking Midfield,TSG Hoffenheim,£450Th.,in,Summer,0.45,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Tranquillo Barnetta,28,Attacking Midfield,FC Schalke 04,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Marco Russ,27,Centre-Back,VfL Wolfsburg,£360Th.,in,Summer,0.36,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Marvin Bakalorz,23,Central Midfield,Bor. Dortmund,£68Th.,in,Summer,0.068,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Jan Rosenthal,27,Second Striker,SC Freiburg,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Felix Wiedwald,23,Goalkeeper,MSV Duisburg,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Marco Aulbach,19,Goalkeeper,W. Burghausen,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Luca Waldschmidt,17,Centre-Forward,Frankfurt U17,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Vadim Demidov,26,Centre-Back,Celta de Vigo,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Olivier Occéan,31,Centre-Forward,1.FC K'lautern,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Heiko Butscher,32,Centre-Back,VfL Bochum,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Martin Amedick,30,Centre-Back,SC Paderborn,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Julian Dudda,20,Centre-Back,W. Bremen II,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Oka Nikolov,39,Goalkeeper,Philadelphia,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Karim Matmour,28,Right Winger,1.FC K'lautern,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Vadim Demidov,26,Centre-Back,Anzhi,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Marco Russ,27,Centre-Back,VfL Wolfsburg,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Lasse Sobiech,22,Centre-Back,Bor. Dortmund,£1.26m,in,Summer,1.26,1 Bundesliga,2013,2013/2014
+Hamburger SV,Jacques Zoua,21,Centre-Forward,FC Basel,£540Th.,in,Summer,0.54,1 Bundesliga,2013,2013/2014
+Hamburger SV,Pierre-Michel Lasogga,21,Centre-Forward,Hertha BSC,Loan fee:£315Th.,in,Summer,0.315,1 Bundesliga,2013,2013/2014
+Hamburger SV,Kerem Demirbay,19,Central Midfield,B. Dortmund II,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Johan Djourou,26,Centre-Back,Arsenal,Loan,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Jonathan Tah,17,Centre-Back,Hamburg U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Valmir Nafiu,19,Right Winger,Hamburger SV II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Hakan Calhanoglu,19,Attacking Midfield,Karlsruher SC,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Robert Tesche,26,Central Midfield,F. Düsseldorf,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Paul Scharner,33,Centre-Back,Wigan,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Heung-min Son,20,Left Winger,Bay. Leverkusen,£9.00m,out,Summer,9,1 Bundesliga,2013,2013/2014
+Hamburger SV,Dennis Aogo,26,Defensive Midfield,FC Schalke 04,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2013,2013/2014
+Hamburger SV,Christian Nörgaard,19,Defensive Midfield,Bröndby IF,£315Th.,out,Summer,0.315,1 Bundesliga,2013,2013/2014
+Hamburger SV,Jacopo Sala,21,Right-Back,Hellas Verona,£90Th.,out,Summer,0.09,1 Bundesliga,2013,2013/2014
+Hamburger SV,Marcus Berg,26,Centre-Forward,Panathinaikos,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Per Ciljan Skjelbred,26,Central Midfield,Hertha BSC,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Paul Scharner,33,Centre-Back,Career break,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Jeffrey Bruma,21,Centre-Back,Chelsea,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Raffael,28,Second Striker,Dynamo Kyiv,£4.50m,in,Summer,4.5,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Max Kruse,25,Second Striker,SC Freiburg,£2.25m,in,Summer,2.25,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Joel Mero,18,Centre-Back,FC Lahti,£180Th.,in,Summer,0.18,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Christoph Kramer,22,Defensive Midfield,Bay. Leverkusen,Loan fee:£180Th.,in,Summer,0.18,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Nico Brandenburger,18,Defensive Midfield,M'gladbach U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Mahmoud Dahoud,17,Central Midfield,M'gladbach U17,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Mathew Leckie,22,Right Winger,FSV Frankfurt,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Matthias Zimmermann,21,Right-Back,Greuther Fürth,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Igor de Camargo,30,Centre-Forward,TSG Hoffenheim,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Igor de Camargo,30,Centre-Forward,TSG Hoffenheim,£1.26m,out,Summer,1.26,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Mathew Leckie,22,Right Winger,FSV Frankfurt,£270Th.,out,Summer,0.27,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Matthias Zimmermann,21,Right-Back,SV Sandhausen,Loan fee:£45Th.,out,Summer,0.045,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Niklas Dams,23,Centre-Back,Servette FC,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Mike Hanke,29,Centre-Forward,SC Freiburg,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Alexander Mühling,20,Central Midfield,M'gladbach II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Tolga Cigerci,21,Central Midfield,VfL Wolfsburg,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Alexander Ring,22,Central Midfield,HJK Helsinki,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Leonardo Bittencourt,19,Attacking Midfield,Bor. Dortmund,£2.52m,in,Summer,2.52,1 Bundesliga,2013,2013/2014
+Hannover 96,Marcelo,26,Centre-Back,PSV Eindhoven,£2.48m,in,Summer,2.48,1 Bundesliga,2013,2013/2014
+Hannover 96,Edgar Prib,23,Central Midfield,Greuther Fürth,£2.25m,in,Summer,2.25,1 Bundesliga,2013,2013/2014
+Hannover 96,Salif Sané,22,Centre-Back,AS Nancy,£1.80m,in,Summer,1.8,1 Bundesliga,2013,2013/2014
+Hannover 96,Konstantin Fuhry,18,Goalkeeper,Stuttgart U19,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Florian Ballas,20,Centre-Back,Nuremberg II,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Yannik Schulze,18,Defensive Midfield,Hannover 96 U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Almir Kasumovic,19,Centre-Forward,Hannover 96 U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Deniz Kadah,27,Centre-Forward,Hannover 96 II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Ali Gökdemir,21,Left-Back,Hannover 96 II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Tim Dierßen,18,Attacking Midfield,Hannover 96 II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Daniel Royer,23,Left Winger,1. FC Köln,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Christopher Avevor,21,Centre-Back,FC St. Pauli,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Mohammed Abdellaoue,27,Centre-Forward,VfB Stuttgart,£3.15m,out,Summer,3.15,1 Bundesliga,2013,2013/2014
+Hannover 96,Karim Haggui,29,Centre-Back,VfB Stuttgart,£900Th.,out,Summer,0.9,1 Bundesliga,2013,2013/2014
+Hannover 96,Daniel Royer,23,Left Winger,Austria Vienna,£180Th.,out,Summer,0.18,1 Bundesliga,2013,2013/2014
+Hannover 96,Niko Gießelmann,21,Left-Back,Greuther Fürth,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Konstantin Rausch,23,Left-Back,VfB Stuttgart,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Sérgio da Silva Pinto,32,Central Midfield,Levante,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Mario Eggimann,32,Centre-Back,Union Berlin,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Sascha Schünemann,21,Central Midfield,Hansa Rostock,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Deniz Aycicek,23,Attacking Midfield,MSV Duisburg,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Samuel Sahin-Radlinger,20,Goalkeeper,Rapid Vienna,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Sofian Chahed,30,Right-Back,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Johan Djourou,26,Centre-Back,Arsenal,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Makoto Hasebe,29,Defensive Midfield,VfL Wolfsburg,£2.25m,in,Summer,2.25,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Josip Drmic,20,Centre-Forward,FC Zürich,£1.98m,in,Summer,1.98,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Daniel Ginczek,22,Centre-Forward,Bor. Dortmund,£1.35m,in,Summer,1.35,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Mariusz Stepinski,18,Centre-Forward,Widzew Lodz,£108Th.,in,Summer,0.108,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Nick Weber,18,Centre-Forward,B. Dortmund U19,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Martin Angha,19,Centre-Back,Arsenal,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Emanuel Pogatetz,30,Centre-Back,VfL Wolfsburg,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Benjamin Uphoff,19,Goalkeeper,Nuremberg II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Sebastian Gärtner,20,Defensive Midfield,Nuremberg II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Manuel Zeitz,22,Defensive Midfield,SC Paderborn,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Julian Wießmeier,20,Attacking Midfield,Jahn Regensburg,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Wilson Kamavuaka,23,Defensive Midfield,Jahn Regensburg,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Philipp Klement,20,Attacking Midfield,Hansa Rostock,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Almog Cohen,24,Central Midfield,Hapoel Tel Aviv,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Timm Klose,25,Centre-Back,VfL Wolfsburg,£5.40m,out,Summer,5.4,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Timmy Simons,36,Defensive Midfield,Club Brugge,£450Th.,out,Summer,0.45,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Marcos António,30,Centre-Back,Johor DT,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Manuel Zeitz,22,Defensive Midfield,SC Paderborn,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Almog Cohen,24,Central Midfield,FC Ingolstadt,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Nick Weber,18,Centre-Forward,B. Dortmund II,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Mu Kanazaki,24,Centre-Forward,Portimonense,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Julian Wießmeier,20,Attacking Midfield,Wehen Wiesbaden,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Wilson Kamavuaka,23,Defensive Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Philipp Klement,20,Attacking Midfield,Nuremberg II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Roussel Ngankam,19,Centre-Forward,Nuremberg II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Sebastian Polter,22,Centre-Forward,VfL Wolfsburg,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Luiz Gustavo,26,Defensive Midfield,Bayern Munich,£14.40m,in,Summer,14.4,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Timm Klose,25,Centre-Back,1.FC Nuremberg,£5.40m,in,Summer,5.4,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Daniel Caligiuri,25,Right Midfield,SC Freiburg,£4.05m,in,Summer,4.05,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Junior Malanda,18,Defensive Midfield,Zulte Waregem,£1.53m,in,Summer,1.53,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Max Grün,26,Goalkeeper,Greuther Fürth,£360Th.,in,Summer,0.36,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Stefan Kutschke,24,Centre-Forward,RB Leipzig,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Tolga Cigerci,21,Central Midfield,Bor. M'gladbach,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Ja-cheol Koo,24,Central Midfield,FC Augsburg,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Sebastian Polter,22,Centre-Forward,1.FC Nuremberg,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Kevin Scheidhauer,21,Second Striker,VfL Bochum,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Bjarne Thoelke,21,Centre-Back,Dynamo Dresden,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Ibrahim Sissoko,21,Right Winger,Panathinaikos,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Akaki Gogia,21,Right Winger,FC St. Pauli,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Patrick Ochs,29,Right-Back,TSG Hoffenheim,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Marco Russ,27,Centre-Back,E. Frankfurt,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Felipe Lopes,25,Centre-Back,VfB Stuttgart,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Emanuel Pogatetz,30,Centre-Back,West Ham,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Michael Schulze,24,Right-Back,Energie Cottbus,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Rasmus Jönsson,23,Centre-Forward,FSV Frankfurt,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Mateusz Klich,23,Central Midfield,PEC Zwolle,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Giovanni Sio,24,Centre-Forward,FC Sochaux,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Simon Kjaer,24,Centre-Back,LOSC Lille,£2.25m,out,Summer,2.25,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Makoto Hasebe,29,Defensive Midfield,1.FC Nuremberg,£2.25m,out,Summer,2.25,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Giovanni Sio,24,Centre-Forward,FC Basel,£1.80m,out,Summer,1.8,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Sebastian Polter,22,Centre-Forward,1.FSV Mainz 05,£675Th.,out,Summer,0.675,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Marco Russ,27,Centre-Back,E. Frankfurt,£360Th.,out,Summer,0.36,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Ferhan Hasani,23,Attacking Midfield,Bröndby IF,£315Th.,out,Summer,0.315,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Tolga Cigerci,21,Central Midfield,Hertha BSC,Loan fee:£270Th.,out,Summer,0.27,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Mateusz Klich,23,Central Midfield,PEC Zwolle,£180Th.,out,Summer,0.18,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Vaclav Pilar,24,Left Midfield,SC Freiburg,Loan fee:£180Th.,out,Summer,0.18,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Michael Schulze,24,Right-Back,Energie Cottbus,£135Th.,out,Summer,0.135,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Rasmus Jönsson,23,Centre-Forward,Aalborg BK,Loan fee:£90Th.,out,Summer,0.09,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Ibrahim Sissoko,21,Right Winger,Saint-Étienne,Loan fee:£90Th.,out,Summer,0.09,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Emanuel Pogatetz,30,Centre-Back,1.FC Nuremberg,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Marwin Hitz,25,Goalkeeper,FC Augsburg,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Patrick Helmes,29,Centre-Forward,1. FC Köln,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Yohandry Orozco,22,Attacking Midfield,Táchira,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Junior Malanda,18,Defensive Midfield,Zulte Waregem,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Thomas Kahlenberg,30,Central Midfield,Bröndby IF,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Akaki Gogia,21,Right Winger,Hallescher FC,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Fágner,24,Right-Back,Vasco da Gama,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Bjarne Thoelke,21,Centre-Back,Wolfsburg II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Kevin Pannewitz,21,Defensive Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Kevin Scheidhauer,21,Second Striker,Wolfsburg II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Alexander Madlung,30,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Sotiris Kyrgiakos,33,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Mohammed Abdellaoue,27,Centre-Forward,Hannover 96,£3.15m,in,Summer,3.15,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Gotoku Sakai,22,Left-Back,Albirex Niigata,£1.08m,in,Summer,1.08,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Karim Haggui,29,Centre-Back,Hannover 96,£900Th.,in,Summer,0.9,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Moritz Leitner,20,Central Midfield,Bor. Dortmund,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Konstantin Rausch,23,Left-Back,Hannover 96,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Marco Rojas,21,Right Winger,Melbourne,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Thorsten Kirschbaum,26,Goalkeeper,Energie Cottbus,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Sercan Sararer,23,Left Winger,Greuther Fürth,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Daniel Schwaab,24,Centre-Back,Bay. Leverkusen,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Timo Werner,17,Centre-Forward,Stuttgart U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Patrick Funk,23,Defensive Midfield,FC St. Pauli,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Patrick Bauer,20,Centre-Back,Marítimo B,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Serdar Tasci,26,Centre-Back,Spartak Moscow,£3.60m,out,Summer,3.6,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Shinji Okazaki,27,Centre-Forward,1.FSV Mainz 05,£1.35m,out,Summer,1.35,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Kevin Stöger,19,Attacking Midfield,1.FC K'lautern,Loan fee:£270Th.,out,Summer,0.27,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Raphael Holzhauser,20,Central Midfield,FC Augsburg,Loan fee:£270Th.,out,Summer,0.27,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Tamás Hajnal,32,Attacking Midfield,FC Ingolstadt,£225Th.,out,Summer,0.225,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,André Weis,23,Goalkeeper,FC Ingolstadt,£180Th.,out,Summer,0.18,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Patrick Bauer,20,Centre-Back,Marítimo,£135Th.,out,Summer,0.135,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Johan Audel,29,Left Winger,FC Nantes,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Mamadou Bah,25,Defensive Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Marc Ziegler,37,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Gotoku Sakai,22,Left-Back,Albirex Niigata,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Tim Hoogland,28,Centre-Back,FC Schalke 04,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Felipe Lopes,25,Centre-Back,VfL Wolfsburg,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Federico Macheda,21,Centre-Forward,Man Utd,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Shinji Okazaki,27,Centre-Forward,VfB Stuttgart,£1.35m,in,Summer,1.35,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Dani Schahin,23,Centre-Forward,F. Düsseldorf,£1.35m,in,Summer,1.35,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Ju-ho Park,26,Left-Back,FC Basel,£1.04m,in,Summer,1.04,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Johannes Geis,19,Defensive Midfield,Greuther Fürth,£810Th.,in,Summer,0.81,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Sebastian Polter,22,Centre-Forward,VfL Wolfsburg,£675Th.,in,Summer,0.675,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Julian Koch,22,Defensive Midfield,Bor. Dortmund,£540Th.,in,Summer,0.54,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Christoph Moritz,23,Central Midfield,FC Schalke 04,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Fabian Schönheim,26,Centre-Back,Union Berlin,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Deniz Yilmaz,25,Centre-Forward,SC Paderborn,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Anthony Ujah,22,Centre-Forward,1. FC Köln,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Malik Fathi,29,Left-Back,1860 Munich,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Ádám Szalai,25,Centre-Forward,FC Schalke 04,£7.20m,out,Summer,7.2,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Anthony Ujah,22,Centre-Forward,1. FC Köln,£2.07m,out,Summer,2.07,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Marcel Risse,23,Right Midfield,1. FC Köln,£630Th.,out,Summer,0.63,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Fabian Schönheim,26,Centre-Back,Union Berlin,£270Th.,out,Summer,0.27,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Deniz Yilmaz,25,Centre-Forward,Elazigspor,£225Th.,out,Summer,0.225,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Jan Kirchhoff,22,Centre-Back,Bayern Munich,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Andreas Ivanschitz,29,Attacking Midfield,Levante,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Marco Caligiuri,29,Centre-Back,E. Braunschweig,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Radoslav Zabavnik,32,Left-Back,SV Sandhausen,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Nikita Rukavytsya,26,Centre-Forward,FSV Frankfurt,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Tobias Schilk,21,Right-Back,FSV Mainz 05 II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Ivan Klasnic,33,Centre-Forward,Retired,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Nils Petersen,24,Centre-Forward,Bayern Munich,£2.70m,in,Summer,2.7,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Cédric Makiadi,29,Central Midfield,SC Freiburg,£2.70m,in,Summer,2.7,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Luca Caldirola,22,Centre-Back,Inter,£2.03m,in,Summer,2.03,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Santiago García,25,Left-Back,Rangers Talca,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Franco Di Santo,24,Centre-Forward,Wigan,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Johannes Wurtz,21,Centre-Forward,W. Bremen II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Denni Avdic,24,Centre-Forward,PEC Zwolle,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Sokratis,25,Centre-Back,Bor. Dortmund,£8.91m,out,Summer,8.91,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Marko Arnautovic,24,Centre-Forward,Stoke City,£2.52m,out,Summer,2.52,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Denni Avdic,24,Centre-Forward,AZ Alkmaar,£225Th.,out,Summer,0.225,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Joseph Akpala,27,Centre-Forward,Karabükspor,Loan fee:£225Th.,out,Summer,0.225,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Florian Hartherz,20,Left-Back,SC Paderborn,£135Th.,out,Summer,0.135,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Niclas Füllkrug,20,Centre-Forward,Greuther Fürth,Loan fee:£90Th.,out,Summer,0.09,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Johannes Wurtz,21,Centre-Forward,SC Paderborn,Loan fee:£45Th.,out,Summer,0.045,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Christian Vander,32,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Nils Petersen,24,Centre-Forward,Bayern Munich,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Kevin De Bruyne,22,Attacking Midfield,Chelsea,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Jung-ho Hong,24,Centre-Back,Jeju Utd.,£1.80m,in,Summer,1.8,1 Bundesliga,2013,2013/2014
+FC Augsburg,Raúl Bobadilla,26,Centre-Forward,FC Basel,£1.35m,in,Summer,1.35,1 Bundesliga,2013,2013/2014
+FC Augsburg,Raphael Holzhauser,20,Central Midfield,VfB Stuttgart,Loan fee:£270Th.,in,Summer,0.27,1 Bundesliga,2013,2013/2014
+FC Augsburg,Mathias Fetsch,24,Centre-Forward,K. Offenbach,£180Th.,in,Summer,0.18,1 Bundesliga,2013,2013/2014
+FC Augsburg,Arkadiusz Milik,19,Centre-Forward,Bay. Leverkusen,Loan fee:£135Th.,in,Summer,0.135,1 Bundesliga,2013,2013/2014
+FC Augsburg,Marwin Hitz,25,Goalkeeper,VfL Wolfsburg,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Halil Altintop,30,Attacking Midfield,Trabzonspor,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Panagiotis Vlachodimos,21,Left Winger,Olympiacos,Loan,in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Bajram Nebihi,24,Second Striker,FC Augsburg II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Arif Ekin,17,Left-Back,FC Augsburg U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Maik Uhde,19,Defensive Midfield,FC Augsburg U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Torsten Oehrl,27,Centre-Forward,E. Braunschweig,£450Th.,out,Summer,0.45,1 Bundesliga,2013,2013/2014
+FC Augsburg,Aristide Bancé,28,Centre-Forward,F. Düsseldorf,Loan fee:£90Th.,out,Summer,0.09,1 Bundesliga,2013,2013/2014
+FC Augsburg,Sebastian Langkamp,25,Centre-Back,Hertha BSC,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Stephan Hain,24,Centre-Forward,1860 Munich,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Marco Thiede,21,Right-Back,SV Sandhausen,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Milan Petrzela,30,Right Midfield,Viktoria Plzen,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Simon Jentzsch,37,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Somen Tchoyi,30,Attacking Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Ja-cheol Koo,24,Central Midfield,VfL Wolfsburg,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Knowledge Musona,23,Left Winger,TSG Hoffenheim,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Dong-won Ji,22,Centre-Forward,Sunderland,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Tarik Elyounoussi,25,Left Winger,Rosenborg BK,£2.70m,in,Summer,2.7,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Anthony Modeste,25,Centre-Forward,G. Bordeaux,£2.70m,in,Summer,2.7,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Bruno Nazário,18,Left Winger,Tombense,£1.35m,in,Summer,1.35,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Igor de Camargo,30,Centre-Forward,Bor. M'gladbach,£1.26m,in,Summer,1.26,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Kevin Akpoguma,18,Centre-Back,Karlsruher SC,£900Th.,in,Summer,0.9,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Kai Herdling,29,Left Winger,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Jeremy Toljan,18,Right-Back,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Alexander Stolz,29,Goalkeeper,Without Club,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Patrick Schorr,18,Left-Back,Hoffenheim U19,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Niklas Süle,17,Centre-Back,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Kenan Karaman,19,Centre-Forward,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Tobias Strobl,23,Defensive Midfield,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Tim Paterok,20,Goalkeeper,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Robin Szarka,21,Defensive Midfield,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Andreas Ludwig,22,Attacking Midfield,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Vincenzo Grifo,20,Left Winger,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Guilherme Biteco,20,Left Midfield,Grêmio,"End of loanApr 30, 2014",in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Knowledge Musona,23,Left Winger,FC Augsburg,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Edson Braafheid,30,Left-Back,Twente FC,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Joseph-Claude Gyau,20,Left Winger,FC St. Pauli,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Danny Williams,24,Defensive Midfield,Reading,£1.80m,out,Summer,1.8,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Joselu,23,Centre-Forward,E. Frankfurt,Loan fee:£720Th.,out,Summer,0.72,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Stephan Schröck,26,Attacking Midfield,E. Frankfurt,£450Th.,out,Summer,0.45,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Eren Derdiyok,25,Centre-Forward,Bay. Leverkusen,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Michael Gregoritsch,19,Second Striker,FC St. Pauli,Loan fee:£90Th.,out,Summer,0.09,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Igor de Camargo,30,Centre-Forward,Standard Liège,£90Th.,out,Summer,0.09,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Chris,34,Centre-Back,Tombense,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Knowledge Musona,23,Left Winger,Kaizer Chiefs,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Guilherme Biteco,20,Left Midfield,Vasco da Gama,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Sandro Wieser,20,Defensive Midfield,SV Ried,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Filip Malbašić,20,Right Winger,Partizan,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Luis Advíncula,23,Right-Back,Ponte Preta,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Júnior Ponce,19,Right Winger,Alianza Lima,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Afriyie Acquah,21,Central Midfield,Parma,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Takashi Usami,21,Left Winger,Gamba Osaka,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Patrick Ochs,29,Right-Back,VfL Wolfsburg,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Igor de Camargo,30,Centre-Forward,Bor. M'gladbach,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Heurelho Gomes,32,Goalkeeper,Spurs,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Hajime Hosogai,27,Defensive Midfield,Bay. Leverkusen,£900Th.,in,Summer,0.9,1 Bundesliga,2013,2013/2014
+Hertha BSC,Tolga Cigerci,21,Central Midfield,VfL Wolfsburg,Loan fee:£270Th.,in,Summer,0.27,1 Bundesliga,2013,2013/2014
+Hertha BSC,Sebastian Langkamp,25,Centre-Back,FC Augsburg,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Johannes van den Bergh,26,Left-Back,F. Düsseldorf,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Alexander Baumjohann,26,Attacking Midfield,1.FC K'lautern,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Per Ciljan Skjelbred,26,Central Midfield,Hamburger SV,Loan,in,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Marco Djuricin,20,Centre-Forward,Jahn Regensburg,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Fanol Perdedaj,21,Central Midfield,Lyngby BK,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Daniel Beichler,24,Second Striker,SV Sandhausen,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Pierre-Michel Lasogga,21,Centre-Forward,Hamburger SV,Loan fee:£315Th.,out,Summer,0.315,1 Bundesliga,2013,2013/2014
+Hertha BSC,Alfredo Morales,23,Central Midfield,FC Ingolstadt,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Marco Djuricin,20,Centre-Forward,Sturm Graz,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Daniel Beichler,24,Second Striker,Sturm Graz,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Shervin Radjabali-Fardi,22,Left-Back,Hansa Rostock,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Marvin Knoll,22,Defensive Midfield,SV Sandhausen,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Roman Hubnik,29,Centre-Back,Viktoria Plzen,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Felix Bastians,25,Centre-Back,VfL Bochum,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Fanol Perdedaj,21,Central Midfield,Hertha BSC II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Robert Andrich,18,Central Midfield,Hertha BSC II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Omar Elabdellaoui,21,Right-Back,Man City U21,£450Th.,in,Summer,0.45,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Torsten Oehrl,27,Centre-Forward,FC Augsburg,£450Th.,in,Summer,0.45,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Jan Hochscheidt,25,Attacking Midfield,Erzgebirge Aue,£360Th.,in,Summer,0.36,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Karim Bellarabi,23,Right Winger,Bay. Leverkusen,Loan fee:£135Th.,in,Summer,0.135,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Marco Caligiuri,29,Centre-Back,1.FSV Mainz 05,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Timo Perthel,24,Left-Back,MSV Duisburg,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Simeon Jackson,26,Centre-Forward,Norwich,Free transfer,in,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Jan Washausen,24,Defensive Midfield,K. Offenbach,"End of loanJun 30, 2013",in,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Raffael Korte,22,Right Winger,Saarbrücken,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Oliver Petersch,24,Right Midfield,Arm. Bielefeld,Free transfer,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Pierre Merkel,24,Centre-Forward,Hallescher FC,?,out,Summer,NA,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Björn Kluft,23,Second Striker,SV Sandhausen,Loan,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Randy Edwini-Bonsu,23,Right Winger,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Steffen Bohl,29,Defensive Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Benjamin Later,26,Goalkeeper,Braunschweig II,-,out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Chengdong Zhang,24,Right Winger,Mafra,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Omar Elabdellaoui,21,Right-Back,Man City U21,"End of loanJun 30, 2013",out,Summer,0,1 Bundesliga,2013,2013/2014
+Bayern Munich,Alessandro Schöpf,19,Right Midfield,FC Bayern II,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+Bayern Munich,Julian Green,18,Attacking Midfield,FC Bayern II,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+Bayern Munich,Jan Kirchhoff,23,Centre-Back,FC Schalke 04,Loan fee:£450Th.,out,Winter,0.45,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Milos Jojic,21,Central Midfield,Partizan,£1.98m,in,Winter,1.98,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Manuel Friedrich,34,Centre-Back,Without Club,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Jannik Bandowski,19,Left-Back,B. Dortmund II,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+Borussia Dortmund,Koray Günter,19,Centre-Back,Galatasaray,£2.25m,out,Winter,2.25,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Andrés Guardado,27,Central Midfield,Valencia,Loan fee:£900Th.,in,Winter,0.9,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Julian Brandt,17,Central Midfield,Wolfsburg U19,£450Th.,in,Winter,0.45,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Seung-woo Ryu,20,Attacking Midfield,Jeju Utd.,Loan fee:£68Th.,in,Winter,0.068,1 Bundesliga,2013,2013/2014
+Bayer 04 Leverkusen,Dominik Kohr,19,Central Midfield,FC Augsburg,Loan fee:£135Th.,out,Winter,0.135,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Jan Kirchhoff,23,Centre-Back,Bayern Munich,Loan fee:£450Th.,in,Winter,0.45,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Lars Unnerstall,23,Goalkeeper,FC Aarau,Loan fee:£180Th.,out,Winter,0.18,1 Bundesliga,2013,2013/2014
+FC Schalke 04,Jermaine Jones,32,Defensive Midfield,Besiktas,£180Th.,out,Winter,0.18,1 Bundesliga,2013,2013/2014
+SC Freiburg,Philipp Zulechner,23,Centre-Forward,Grödig,£630Th.,in,Winter,0.63,1 Bundesliga,2013,2013/2014
+SC Freiburg,Garra Dembélé,27,Centre-Forward,WH Zall,"End of loanDec 31, 2013",in,Winter,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Tobias Weis,28,Central Midfield,TSG Hoffenheim,Loan,in,Winter,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Rob Friend,32,Centre-Forward,1860 Munich,"End of loanJan 12, 2014",in,Winter,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Alexander Madlung,31,Centre-Back,Without Club,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Rob Friend,32,Centre-Forward,LA Galaxy,Free transfer,out,Winter,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Marvin Bakalorz,24,Central Midfield,SC Paderborn,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+Eintracht Frankfurt,Srdjan Lakic,30,Centre-Forward,VfL Wolfsburg,"End of loanJan 30, 2014",out,Winter,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Ola John,21,Left Winger,Benfica,Loan,in,Winter,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Ouasim Bouy,20,Defensive Midfield,Juventus,Loan,in,Winter,0,1 Bundesliga,2013,2013/2014
+Hamburger SV,Artjoms Rudnevs,25,Centre-Forward,Hannover 96,Loan fee:£270Th.,out,Winter,0.27,1 Bundesliga,2013,2013/2014
+Hamburger SV,Gojko Kacar,27,Defensive Midfield,Cerezo Osaka,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+Borussia Mönchengladbach,Luuk de Jong,23,Centre-Forward,Newcastle,Loan fee:£1.35m,out,Winter,1.35,1 Bundesliga,2013,2013/2014
+Hannover 96,Artjoms Rudnevs,25,Centre-Forward,Hamburger SV,Loan fee:£270Th.,in,Winter,0.27,1 Bundesliga,2013,2013/2014
+Hannover 96,Frantisek Rajtoral,27,Right-Back,Viktoria Plzen,Loan fee:£135Th.,in,Winter,0.135,1 Bundesliga,2013,2013/2014
+Hannover 96,Valmir Sulejmani,17,Centre-Forward,Hannover 96 II,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Tim Dierßen,18,Attacking Midfield,Hannover 96 II,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Deniz Kadah,27,Centre-Forward,C. Rizespor,Free transfer,out,Winter,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Ali Gökdemir,22,Left-Back,Elazigspor,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+Hannover 96,França,22,Defensive Midfield,Palmeiras,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Florian Ballas,21,Centre-Back,Saarbrücken,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Adrian Nikci,24,Left Winger,FC Thun,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+Hannover 96,Steven Cherundolo,35,Right-Back,Retired,-,out,Winter,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Ondrej Petrak,21,Defensive Midfield,Slavia Prague,£900Th.,in,Winter,0.9,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,José Campaña,20,Central Midfield,Crystal Palace,Loan,in,Winter,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Julian Wießmeier,21,Attacking Midfield,Wehen Wiesbaden,"End of loanJan 29, 2014",in,Winter,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Antonio Colak,20,Centre-Forward,Nuremberg II,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Alexander Esswein,23,Right Winger,FC Augsburg,£225Th.,out,Winter,0.225,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Muhammed Ildiz,22,Central Midfield,Gaziantepspor,Free transfer,out,Winter,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Noah Korczowski,20,Centre-Back,Wolfsburg II,Free transfer,out,Winter,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Markus Mendler,21,Left Winger,SV Sandhausen,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+1.FC Nuremberg,Julian Wießmeier,21,Attacking Midfield,Nuremberg II,-,out,Winter,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Kevin De Bruyne,22,Attacking Midfield,Chelsea,£19.80m,in,Winter,19.8,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Srdjan Lakic,30,Centre-Forward,E. Frankfurt,"End of loanJan 30, 2014",in,Winter,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Ibrahim Sissoko,22,Right Winger,Saint-Étienne,"End of loanJan 29, 2014",in,Winter,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Moritz Sprenger,18,Centre-Back,Wolfsburg U19,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Paul Seguin,18,Defensive Midfield,Wolfsburg U19,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Fágner,24,Right-Back,Vasco da Gama,"End of loanDec 31, 2013",in,Winter,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Junior Malanda,19,Defensive Midfield,Zulte Waregem,"End of loanDec 31, 2013",in,Winter,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Ja-cheol Koo,24,Central Midfield,1.FSV Mainz 05,£4.50m,out,Winter,4.5,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Diego,28,Attacking Midfield,Atlético Madrid,£1.35m,out,Winter,1.35,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Ibrahim Sissoko,22,Right Winger,Dep. La Coruña,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Srdjan Lakic,30,Centre-Forward,1.FC K'lautern,Free transfer,out,Winter,0,1 Bundesliga,2013,2013/2014
+VfL Wolfsburg,Fágner,24,Right-Back,Corinthians,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Carlos Gruezo,18,Defensive Midfield,Barcelona SC,£900Th.,in,Winter,0.9,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Robin Yalcin,20,Defensive Midfield,Stuttgart II,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Tunay Torun,23,Right Winger,Kasimpasa,£450Th.,out,Winter,0.45,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Benedikt Röcker,24,Centre-Back,Greuther Fürth,Free transfer,out,Winter,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Cristian Molinaro,30,Left-Back,Parma,Free transfer,out,Winter,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,William Kvist,28,Defensive Midfield,Fulham,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+VfB Stuttgart,Patrick Funk,23,Defensive Midfield,Stuttgart II,-,out,Winter,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Ja-cheol Koo,24,Central Midfield,VfL Wolfsburg,£4.50m,in,Winter,4.5,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Todor Nedelev,20,Right Winger,Botev Plovdiv,£2.52m,in,Winter,2.52,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Dario Kresic,29,Goalkeeper,Loko Moscow,Free transfer,in,Winter,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Chinedu Ede,26,Right Winger,1.FC K'lautern,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+1.FSV Mainz 05,Heinz Müller,35,Goalkeeper,FSV Mainz 05 II,-,out,Winter,0,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Ludovic Obraniak,29,Attacking Midfield,G. Bordeaux,£1.35m,in,Winter,1.35,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Julian von Haacke,19,Central Midfield,W. Bremen II,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Martin Kobylanski,19,Attacking Midfield,W. Bremen II,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Tom Trybull,20,Defensive Midfield,FC St. Pauli,£90Th.,out,Winter,0.09,1 Bundesliga,2013,2013/2014
+SV Werder Bremen,Mateo Pavlovic,23,Centre-Back,Ferencváros,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Alexander Esswein,23,Right Winger,1.FC Nuremberg,£225Th.,in,Winter,0.225,1 Bundesliga,2013,2013/2014
+FC Augsburg,Dominik Kohr,19,Central Midfield,Bay. Leverkusen,Loan fee:£135Th.,in,Winter,0.135,1 Bundesliga,2013,2013/2014
+FC Augsburg,Dong-won Ji,22,Centre-Forward,Sunderland,?,in,Winter,NA,1 Bundesliga,2013,2013/2014
+FC Augsburg,Erik Thommy,19,Left Midfield,FC Augsburg II,-,in,Winter,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Michael Parkhurst,29,Centre-Back,Columbus Crew,Free transfer,out,Winter,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Mathias Fetsch,25,Centre-Forward,Energie Cottbus,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+FC Augsburg,Panagiotis Vlachodimos,22,Left Winger,Olympiacos,"End of loanDec 31, 2013",out,Winter,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Jiloan Hamad,23,Attacking Midfield,Malmö FF,Free transfer,in,Winter,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Luis Advíncula,23,Right-Back,Ponte Preta,"End of loanJan 4, 2014",in,Winter,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Júnior Ponce,20,Right Winger,Alianza Lima,"End of loanJun 30, 2014",in,Winter,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Vincenzo Grifo,20,Left Winger,Dynamo Dresden,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Matthieu Delpierre,32,Centre-Back,FC Utrecht,Free transfer,out,Winter,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Luis Advíncula,23,Right-Back,Sport. Cristal,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Tobias Weis,28,Central Midfield,E. Frankfurt,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Andreas Ludwig,23,Attacking Midfield,1860 Munich,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Tim Wiese,32,Goalkeeper,Without Club,-,out,Winter,0,1 Bundesliga,2013,2013/2014
+TSG 1899 Hoffenheim,Matthias Jaissle,25,Centre-Back,Retired,-,out,Winter,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Rune Jarstein,29,Goalkeeper,Viking FK,Free transfer,in,Winter,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Ben Sahar,24,Centre-Forward,Arm. Bielefeld,Loan,out,Winter,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Maik Franz,32,Centre-Back,Hertha BSC II,-,out,Winter,0,1 Bundesliga,2013,2013/2014
+Hertha BSC,Peer Kluge,33,Defensive Midfield,Hertha BSC II,-,out,Winter,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Salim Khelifi,20,Right Winger,Lausanne-Sport,£225Th.,in,Winter,0.225,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Havard Nielsen,20,Centre-Forward,RB Salzburg,Loan,in,Winter,0,1 Bundesliga,2013,2013/2014
+Eintracht Braunschweig,Simeon Jackson,26,Centre-Forward,Millwall,Free transfer,out,Winter,0,1 Bundesliga,2013,2013/2014

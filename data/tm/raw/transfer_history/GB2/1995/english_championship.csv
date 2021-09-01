@@ -1,0 +1,473 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Cardiff City,Paul Shaw,21,Centre-Forward,Arsenal,Loan,in,0,Championship,1995,1995/1996
+Cardiff City,Tony Scully,19,Midfielder,Crystal Palace,Loan,in,0,Championship,1995,1995/1996
+Cardiff City,Pat O'Hagan,24,Goalkeeper,Cwmbran,?,in,NA,Championship,1995,1995/1996
+Cardiff City,Simon Haworth,18,Forward,Unknown,?,in,NA,Championship,1995,1995/1996
+Cardiff City,Alan Harper,35,Centre-Back,Burnley,Loan,in,0,Championship,1995,1995/1996
+Cardiff City,Russell Osman,36,Centre-Back,Brighton,?,in,NA,Championship,1995,1995/1996
+Cardiff City,Charlie Oatway,22,Central Midfield,Torquay United,Free Transfer,out,0,Championship,1995,1995/1996
+Cardiff City,Terry Evans,19,Right-Back,Barry Town,?,out,NA,Championship,1995,1995/1996
+Cardiff City,Mark Aizlewood,36,Centre-Back,Merthyr Town,?,out,NA,Championship,1995,1995/1996
+Cardiff City,Tony Bird,21,Forward,Barry Town,?,out,NA,Championship,1995,1995/1996
+Cardiff City,Pat O'Hagan,24,Goalkeeper,Briton Ferry Athletic,?,out,NA,Championship,1995,1995/1996
+Cardiff City,Tony Scully,19,Midfielder,Crystal Palace,"End of loanMar 1, 1996",out,0,Championship,1995,1995/1996
+Cardiff City,Wayne Fereday,32,Right Winger,Retired,-,out,0,Championship,1995,1995/1996
+Cardiff City,John Pearson,32,Forward,Retired,-,out,0,Championship,1995,1995/1996
+Cardiff City,Russell Osman,37,Centre-Back,Retired,-,out,0,Championship,1995,1995/1996
+Cardiff City,Paul Shaw,22,Centre-Forward,Arsenal,"End of loanOct 1, 1995",out,0,Championship,1995,1995/1996
+Cardiff City,Alan Harper,35,Centre-Back,Burnley,"End of loanMay 31, 1996",out,0,Championship,1995,1995/1996
+Fulham FC,Martin Gray,24,Midfielder,Sunderland,Loan,in,0,Championship,1995,1995/1996
+Fulham FC,Simon Stewart,22,Defender,Sheff Wed,Free Transfer,in,0,Championship,1995,1995/1996
+Fulham FC,Phil Barber,30,Midfielder,Bristol City,Loan,in,0,Championship,1995,1995/1996
+Fulham FC,Paul Brooker,18,Attacking Midfield,Fulham U18,-,in,0,Championship,1995,1995/1996
+Fulham FC,Ara Bedrossian,28,Defensive Midfield,Stevenage FC,?,out,NA,Championship,1995,1995/1996
+Fulham FC,Jim Stannard,32,Goalkeeper,Gillingham FC,?,out,NA,Championship,1995,1995/1996
+Fulham FC,Alan Cork,36,Forward,Retired,-,out,0,Championship,1995,1995/1996
+Fulham FC,Martin Gray,24,Midfielder,Sunderland,"End of loanMar 27, 1996",out,0,Championship,1995,1995/1996
+Fulham FC,Phil Barber,30,Midfielder,Bristol City,"End of loanMay 31, 1996",out,0,Championship,1995,1995/1996
+Huddersfield Town,Lee Makel,22,Attacking Midfield,Blackburn,£405k,in,0.405,Championship,1995,1995/1996
+Huddersfield Town,Rob Edwards,26,Left-Back,Crewe Alexandra,£157k,in,0.157,Championship,1995,1995/1996
+Huddersfield Town,Andy Turner,20,Midfielder,Spurs,Loan,in,0,Championship,1995,1995/1996
+Huddersfield Town,Steve Jenkins,23,Defender,Swansea,?,in,NA,Championship,1995,1995/1996
+Huddersfield Town,Mark Ward,33,Left-Back,Birmingham,?,in,NA,Championship,1995,1995/1996
+Huddersfield Town,Tony Norman,37,Goalkeeper,Sunderland,?,in,NA,Championship,1995,1995/1996
+Huddersfield Town,Thomas Heary,16,Centre-Back,Huddersf. U18,-,in,0,Championship,1995,1995/1996
+Huddersfield Town,Lee Duxbury,26,Midfielder,Bradford,£142k,out,0.142,Championship,1995,1995/1996
+Huddersfield Town,Kevin Blackwell,36,Goalkeeper,Plymouth,Free Transfer,out,0,Championship,1995,1995/1996
+Huddersfield Town,Paul Moulden,27,Forward,Rochdale,Free Transfer,out,0,Championship,1995,1995/1996
+Huddersfield Town,Chris Billy,22,Midfielder,Plymouth,?,out,NA,Championship,1995,1995/1996
+Huddersfield Town,Andy Turner,21,Midfielder,Spurs,"End of loanMar 27, 1996",out,0,Championship,1995,1995/1996
+Leeds United,Anthony Yeboah,29,Centre-Forward,E. Frankfurt,£2.93m,in,2.93,Championship,1995,1995/1996
+Leeds United,Richard Jobson,32,Centre-Back,Oldham Athletic,£1.04m,in,1.04,Championship,1995,1995/1996
+Leeds United,Paul Beesley,30,Centre-Back,Sheffield Utd.,£270k,in,0.27,Championship,1995,1995/1996
+Leeds United,Lee Chapman,36,Centre-Forward,Ipswich,Loan,in,0,Championship,1995,1995/1996
+Leeds United,Harry Kewell,16,Left Winger,Marconi Stallions,Free Transfer,in,0,Championship,1995,1995/1996
+Leeds United,Paul Evans,21,Goalkeeper,Bidvest Wits FC,?,in,NA,Championship,1995,1995/1996
+Leeds United,Tomas Brolin,25,Centre-Forward,AC Parma,?,in,NA,Championship,1995,1995/1996
+Leeds United,Alan Maybury,16,Right-Back,Leeds U18,-,in,0,Championship,1995,1995/1996
+Leeds United,Andy Gray,17,Centre-Forward,Leeds U18,-,in,0,Championship,1995,1995/1996
+Leeds United,Ian Harte,17,Left-Back,Leeds U18,-,in,0,Championship,1995,1995/1996
+Leeds United,Wesley Boyle,16,Midfielder,Leeds U18,-,in,0,Championship,1995,1995/1996
+Leeds United,Mark Jackson,17,Defender,Leeds U18,-,in,0,Championship,1995,1995/1996
+Leeds United,Rob Bowman,19,Right-Back,Leeds U23,-,in,0,Championship,1995,1995/1996
+Leeds United,Gary Speed,25,Left Midfield,Everton,£4.38m,out,4.38,Championship,1995,1995/1996
+Leeds United,Kevin Sharp,21,Left-Back,Wigan,£135k,out,0.135,Championship,1995,1995/1996
+Leeds United,Paul Pettinger,20,Goalkeeper,Gillingham FC,Free Transfer,out,0,Championship,1995,1995/1996
+Leeds United,Ryan Nicholls,22,Forward,Merthyr Town,?,out,NA,Championship,1995,1995/1996
+Leeds United,Paul Evans,22,Goalkeeper,Crystal Palace,Loan,out,0,Championship,1995,1995/1996
+Leeds United,Chris Fairclough,31,Centre-Back,Bolton,?,out,NA,Championship,1995,1995/1996
+Leeds United,Noel Whelan,20,Centre-Forward,Coventry,?,out,NA,Championship,1995,1995/1996
+Leeds United,Gordon Strachan,38,Central Midfield,Coventry,?,out,NA,Championship,1995,1995/1996
+Leeds United,Lee Chapman,36,Centre-Forward,Ipswich,"End of loanMar 27, 1996",out,0,Championship,1995,1995/1996
+Leeds United,David O'Leary,37,Centre-Back,Retired,-,out,0,Championship,1995,1995/1996
+Leeds United,Anthony Yeboah,29,Centre-Forward,E. Frankfurt,"End of loanJun 30, 1995",out,0,Championship,1995,1995/1996
+West Bromwich Albion,Julian Darby,28,Midfielder,Coventry,£270k,in,0.27,Championship,1995,1995/1996
+West Bromwich Albion,Peter Butler,29,Midfielder,Notts County,Loan,in,0,Championship,1995,1995/1996
+West Bromwich Albion,Chris Hargreaves,23,Midfielder,Hull City,Free Transfer,in,0,Championship,1995,1995/1996
+West Bromwich Albion,Brett Angell,27,Centre-Forward,Sunderland,Loan,in,0,Championship,1995,1995/1996
+West Bromwich Albion,Paul Holmes,27,Midfielder,Everton,Loan,in,0,Championship,1995,1995/1996
+West Bromwich Albion,Phil King,27,Left-Back,Aston Villa,Loan,in,0,Championship,1995,1995/1996
+West Bromwich Albion,Andy Comyn,27,Centre-Back,Plymouth,?,in,NA,Championship,1995,1995/1996
+West Bromwich Albion,Paul Reece,26,Goalkeeper,Notts County,?,in,NA,Championship,1995,1995/1996
+West Bromwich Albion,Alan Fettis,24,Goalkeeper,Hull City,Loan,in,0,Championship,1995,1995/1996
+West Bromwich Albion,Nigel Spink,37,Goalkeeper,Aston Villa,?,in,NA,Championship,1995,1995/1996
+West Bromwich Albion,Shaun Cunnington,29,Defender,Sunderland,?,in,NA,Championship,1995,1995/1996
+West Bromwich Albion,Neil Cutler,19,Goalkeeper,Coventry,"End of loanDec 1, 1995",in,0,Championship,1995,1995/1996
+West Bromwich Albion,Paul Edwards,32,Left-Back,Bury,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+West Bromwich Albion,Neil Cutler,19,Goalkeeper,Chester City,"End of loanApr 1, 1996",in,0,Championship,1995,1995/1996
+West Bromwich Albion,Chris Hargreaves,23,Midfielder,Hereford Utd.,Free Transfer,out,0,Championship,1995,1995/1996
+West Bromwich Albion,Darren Bradley,29,Midfielder,Walsall,Free Transfer,out,0,Championship,1995,1995/1996
+West Bromwich Albion,Neil Cutler,19,Goalkeeper,Chester City,Loan,out,0,Championship,1995,1995/1996
+West Bromwich Albion,Neil Cutler,19,Goalkeeper,Coventry,Loan,out,0,Championship,1995,1995/1996
+West Bromwich Albion,Gary Strodder,30,Centre-Back,Notts County,?,out,NA,Championship,1995,1995/1996
+West Bromwich Albion,Alan Fettis,24,Goalkeeper,Hull City,"End of loanDec 20, 1995",out,0,Championship,1995,1995/1996
+West Bromwich Albion,Paul Edwards,32,Left-Back,Bury,Loan,out,0,Championship,1995,1995/1996
+West Bromwich Albion,Brett Angell,27,Centre-Forward,Sunderland,"End of loanMay 1, 1996",out,0,Championship,1995,1995/1996
+West Bromwich Albion,Peter Butler,29,Midfielder,Notts County,"End of loanMay 31, 1996",out,0,Championship,1995,1995/1996
+Derby County,Igor Stimac,27,Centre-Back,Hajduk Split,£1.53m,in,1.53,Championship,1995,1995/1996
+Derby County,Ashley Ward,25,Centre-Forward,Norwich,£1.26m,in,1.26,Championship,1995,1995/1996
+Derby County,Darryl Powell,23,Centre-Back,Portsmouth,£1.01m,in,1.01,Championship,1995,1995/1996
+Derby County,Mart Poom,23,Goalkeeper,Portsmouth,£630k,in,0.63,Championship,1995,1995/1996
+Derby County,Robin van der Laan,26,Attacking Midfield,Port Vale,£630k,in,0.63,Championship,1995,1995/1996
+Derby County,Ron Willems,28,Forward,Grasshoppers,£405k,in,0.405,Championship,1995,1995/1996
+Derby County,Sean Flynn,27,Midfielder,Coventry,£248k,in,0.248,Championship,1995,1995/1996
+Derby County,Glyn Hodges,32,Midfielder,Sheffield Utd.,Free Transfer,in,0,Championship,1995,1995/1996
+Derby County,Simon Webster,31,Defender,West Ham,Loan,in,0,Championship,1995,1995/1996
+Derby County,David Preece,32,Midfielder,Luton Town,?,in,NA,Championship,1995,1995/1996
+Derby County,Chris Boden,22,Defender,Shrewsbury,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Derby County,Mark Stallard,21,Centre-Forward,Bradford,"End of loanJan 17, 1996",in,0,Championship,1995,1995/1996
+Derby County,Steve Sutton,35,Goalkeeper,Reading,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Derby County,Andy Quy,19,Goalkeeper,Stalybridge Celtic FC,"End of loanOct 1, 1995",in,0,Championship,1995,1995/1996
+Derby County,Craig Short,27,Centre-Back,Everton,£3.24m,out,3.24,Championship,1995,1995/1996
+Derby County,Mark Pembridge,24,Left Midfield,Sheff Wed,£1.13m,out,1.13,Championship,1995,1995/1996
+Derby County,Paul Williams,24,Centre-Back,Coventry,£1.02m,out,1.02,Championship,1995,1995/1996
+Derby County,Lee Mills,25,Forward,Port Vale,£225k,out,0.225,Championship,1995,1995/1996
+Derby County,Michael Forsyth,29,Defender,Notts County,£207k,out,0.207,Championship,1995,1995/1996
+Derby County,Mark Stallard,21,Centre-Forward,Bradford,£119k,out,0.119,Championship,1995,1995/1996
+Derby County,Chris Boden,22,Defender,Shrewsbury,Loan,out,0,Championship,1995,1995/1996
+Derby County,Mark Stallard,21,Centre-Forward,Bradford,Loan,out,0,Championship,1995,1995/1996
+Derby County,Andy Quy,19,Goalkeeper,Stalybridge Celtic FC,Loan,out,0,Championship,1995,1995/1996
+Derby County,Steve Sutton,34,Goalkeeper,Reading,Loan,out,0,Championship,1995,1995/1996
+Derby County,Steve Round,25,Centre-Back,Nuneaton,?,out,NA,Championship,1995,1995/1996
+Derby County,John Harkes,28,Right Midfield,West Ham,?,out,NA,Championship,1995,1995/1996
+Derby County,David Preece,32,Midfielder,Birmingham,"End of loanNov 24, 1995",out,0,Championship,1995,1995/1996
+Derby County,Simon Webster,32,Defender,West Ham,"End of loanMay 31, 1996",out,0,Championship,1995,1995/1996
+Middlesbrough FC,Nick Barmby,21,Left Midfield,Spurs,£6.75m,in,6.75,Championship,1995,1995/1996
+Middlesbrough FC,Juninho Paulista,22,Attacking Midfield,São Paulo,£4.95m,in,4.95,Championship,1995,1995/1996
+Middlesbrough FC,Jaime Moreno,21,Centre-Forward,Indep. Santa Fe,Free Transfer,in,0,Championship,1995,1995/1996
+Middlesbrough FC,Phil Whelan,22,Defender,Ipswich,?,in,NA,Championship,1995,1995/1996
+Middlesbrough FC,Branco,31,Left-Back,Corinthians,?,in,NA,Championship,1995,1995/1996
+Middlesbrough FC,Mark Summerbell,18,Midfielder,Unknown,?,in,NA,Championship,1995,1995/1996
+Middlesbrough FC,Ben Roberts,20,Goalkeeper,Wycombe,"End of loanDec 31, 1995",in,0,Championship,1995,1995/1996
+Middlesbrough FC,Paul Wilkinson,31,Centre-Forward,Watford,"End of loanMar 27, 1996",in,0,Championship,1995,1995/1996
+Middlesbrough FC,Paul Wilkinson,31,Centre-Forward,Oldham Athletic,"End of loanNov 30, 1995",in,0,Championship,1995,1995/1996
+Middlesbrough FC,Paul Wilkinson,31,Centre-Forward,Luton Town,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Middlesbrough FC,Ben Roberts,20,Goalkeeper,Hartlepool Utd.,"End of loanNov 1, 1995",in,0,Championship,1995,1995/1996
+Middlesbrough FC,Keith O'Halloran,20,Midfielder,Scunthorpe Utd.,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Middlesbrough FC,Andy Todd,20,Centre-Back,Bolton,£338k,out,0.338,Championship,1995,1995/1996
+Middlesbrough FC,Keith O'Halloran,20,Midfielder,Scunthorpe Utd.,Loan,out,0,Championship,1995,1995/1996
+Middlesbrough FC,Stephen Pears,33,Goalkeeper,Liverpool,Free Transfer,out,0,Championship,1995,1995/1996
+Middlesbrough FC,Ben Roberts,20,Goalkeeper,Hartlepool Utd.,Loan,out,0,Championship,1995,1995/1996
+Middlesbrough FC,Ben Roberts,20,Goalkeeper,Wycombe,Loan,out,0,Championship,1995,1995/1996
+Middlesbrough FC,Tommy Wright,29,Left Winger,Bradford,Free Transfer,out,0,Championship,1995,1995/1996
+Middlesbrough FC,Paul Wilkinson,31,Centre-Forward,Watford,Loan,out,0,Championship,1995,1995/1996
+Middlesbrough FC,Paul Wilkinson,31,Centre-Forward,Luton Town,Loan,out,0,Championship,1995,1995/1996
+Middlesbrough FC,Paul Wilkinson,30,Centre-Forward,Oldham Athletic,Loan,out,0,Championship,1995,1995/1996
+Middlesbrough FC,Viv Anderson,38,Right-Back,Retired,-,out,0,Championship,1995,1995/1996
+Middlesbrough FC,Uwe Fuchs,28,Centre-Forward,SC Fortuna Köln,"End of loanJun 30, 1995",out,0,Championship,1995,1995/1996
+Bristol City,Darren Barnard,23,Left-Back,Chelsea,£180k,in,0.18,Championship,1995,1995/1996
+Bristol City,Kevin Nugent,26,Forward,Plymouth,£90k,in,0.09,Championship,1995,1995/1996
+Bristol City,Phil Barber,30,Midfielder,Millwall,Free Transfer,in,0,Championship,1995,1995/1996
+Bristol City,Alan McLeary,30,Defender,Charlton,Free Transfer,in,0,Championship,1995,1995/1996
+Bristol City,Paul Agostino,20,Centre-Forward,BSC Young Boys,Free Transfer,in,0,Championship,1995,1995/1996
+Bristol City,Sieb Dijkstra,28,Goalkeeper,QPR,Loan,in,0,Championship,1995,1995/1996
+Bristol City,Gordon Armstrong,28,Central Midfield,Sunderland,Loan,in,0,Championship,1995,1995/1996
+Bristol City,Phil Barber,30,Midfielder,Fulham,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Bristol City,Shane Higgs,18,Goalkeeper,Bristol City U18,-,in,0,Championship,1995,1995/1996
+Bristol City,Louis Carey,18,Centre-Back,Bristol City U18,-,in,0,Championship,1995,1995/1996
+Bristol City,Wayne Brown,18,Goalkeeper,Bristol City U18,-,in,0,Championship,1995,1995/1996
+Bristol City,Stuart Munro,32,Left-Back,Falkirk FC,?,out,NA,Championship,1995,1995/1996
+Bristol City,Phil Barber,30,Midfielder,Fulham,Loan,out,0,Championship,1995,1995/1996
+Bristol City,Ian Baird,31,Centre-Forward,Plymouth,?,out,NA,Championship,1995,1995/1996
+Bristol City,Gordon Armstrong,28,Central Midfield,Sunderland,"End of loanJan 1, 1996",out,0,Championship,1995,1995/1996
+Bristol City,Sieb Dijkstra,29,Goalkeeper,QPR,"End of loanMar 1, 1996",out,0,Championship,1995,1995/1996
+Nottingham Forest,Chris Bart-Williams,21,Attacking Midfield,Sheff Wed,£3.38m,in,3.38,Championship,1995,1995/1996
+Nottingham Forest,Richard Irving,19,Forward,Man Utd,£84k,in,0.084,Championship,1995,1995/1996
+Nottingham Forest,Simon Tracey,27,Goalkeeper,Sheffield Utd.,Loan,in,0,Championship,1995,1995/1996
+Nottingham Forest,Chris Allen,23,Midfielder,Oxford United,Loan,in,0,Championship,1995,1995/1996
+Nottingham Forest,Andrea Silenzi,29,Centre-Forward,Torino,?,in,NA,Championship,1995,1995/1996
+Nottingham Forest,Lutz Pfannenstiel,22,Goalkeeper,AFC Wimbledon,?,in,NA,Championship,1995,1995/1996
+Nottingham Forest,Alan Fettis,24,Goalkeeper,Hull City,?,in,NA,Championship,1995,1995/1996
+Nottingham Forest,Kingsley Black,27,Left Midfield,Millwall,"End of loanMay 1, 1996",in,0,Championship,1995,1995/1996
+Nottingham Forest,Gary Bull,29,Forward,Brighton,"End of loanDec 28, 1995",in,0,Championship,1995,1995/1996
+Nottingham Forest,Craig Armstrong,20,Left Midfield,Bristol Rovers,"End of loanMay 1, 1996",in,0,Championship,1995,1995/1996
+Nottingham Forest,John Finnigan,19,Midfielder,Nottingham U18,-,in,0,Championship,1995,1995/1996
+Nottingham Forest,Steve Guinan,20,Centre-Forward,Darlington,"End of loanDec 31, 1995",in,0,Championship,1995,1995/1996
+Nottingham Forest,Gary Bull,29,Forward,Brighton,"End of loanAug 16, 1995",in,0,Championship,1995,1995/1996
+Nottingham Forest,Kingsley Black,27,Left Midfield,Sheffield Utd.,"End of loanJun 30, 1995",in,0,Championship,1995,1995/1996
+Nottingham Forest,Stan Collymore,24,Centre-Forward,Liverpool,£11.70m,out,11.7,Championship,1995,1995/1996
+Nottingham Forest,Carl Tiler,25,Defender,Aston Villa,£843k,out,0.843,Championship,1995,1995/1996
+Nottingham Forest,Vance Warner,21,Defender,Grimsby Town,Loan,out,0,Championship,1995,1995/1996
+Nottingham Forest,Gary Bull,29,Forward,Brighton,Loan,out,0,Championship,1995,1995/1996
+Nottingham Forest,Gary Bull,29,Forward,Birmingham,Free Transfer,out,0,Championship,1995,1995/1996
+Nottingham Forest,Craig Armstrong,20,Left Midfield,Bristol Rovers,Loan,out,0,Championship,1995,1995/1996
+Nottingham Forest,Gary Bull,29,Forward,Brighton,Loan,out,0,Championship,1995,1995/1996
+Nottingham Forest,Steve Guinan,19,Centre-Forward,Darlington,Loan,out,0,Championship,1995,1995/1996
+Nottingham Forest,Kingsley Black,27,Left Midfield,Millwall,Loan,out,0,Championship,1995,1995/1996
+Nottingham Forest,Lars Bohinen,26,Central Midfield,Blackburn,?,out,NA,Championship,1995,1995/1996
+Nottingham Forest,Simon Tracey,27,Goalkeeper,Sheffield Utd.,"End of loanNov 1, 1995",out,0,Championship,1995,1995/1996
+Swansea City,Lee Chapman,36,Centre-Forward,Ipswich,Free Transfer,in,0,Championship,1995,1995/1996
+Swansea City,David Beresford,18,Midfielder,Oldham Athletic,Loan,in,0,Championship,1995,1995/1996
+Swansea City,Jamie Barnwell-Edinboro,19,Forward,Coventry,Loan,in,0,Championship,1995,1995/1996
+Swansea City,Frank Lampard,17,Central Midfield,West Ham,Loan,in,0,Championship,1995,1995/1996
+Swansea City,Steve Mardenborough,31,Central Midfield,Colchester Utd.,Free Transfer,in,0,Championship,1995,1995/1996
+Swansea City,Steve Jones,24,Defender,Cheltenham Town,£27k,in,0.027,Championship,1995,1995/1996
+Swansea City,Kristian O'Leary,17,Central Midfield,Swansea U18,-,in,0,Championship,1995,1995/1996
+Swansea City,Lee Jones,25,Goalkeeper,Crewe Alexandra,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Swansea City,Shaun Chapple,22,Midfielder,Barry Town,"End of loanJun 1, 1995",in,0,Championship,1995,1995/1996
+Swansea City,Jason Bowen,22,Central Midfield,Birmingham,£369k,out,0.369,Championship,1995,1995/1996
+Swansea City,John Cornforth,28,Midfielder,Birmingham,£354k,out,0.354,Championship,1995,1995/1996
+Swansea City,Colin Pascoe,30,Left Midfield,Blackpool,Free Transfer,out,0,Championship,1995,1995/1996
+Swansea City,Lee Chapman,36,Centre-Forward,Strømsgodset,Free Transfer,out,0,Championship,1995,1995/1996
+Swansea City,Lee Jones,25,Goalkeeper,Crewe Alexandra,Loan,out,0,Championship,1995,1995/1996
+Swansea City,Steve Mardenborough,31,Central Midfield,Newport County,Free Transfer,out,0,Championship,1995,1995/1996
+Swansea City,Martin Hayes,29,Left Winger,Southend United,?,out,NA,Championship,1995,1995/1996
+Swansea City,Steve Jenkins,23,Defender,Huddersfield,?,out,NA,Championship,1995,1995/1996
+Swansea City,Frank Lampard,17,Central Midfield,West Ham,"End of loanJan 1, 1996",out,0,Championship,1995,1995/1996
+Swansea City,Jamie Barnwell-Edinboro,20,Forward,Coventry,"End of loanFeb 1, 1996",out,0,Championship,1995,1995/1996
+Swansea City,David Beresford,19,Midfielder,Oldham Athletic,"End of loanMay 31, 1996",out,0,Championship,1995,1995/1996
+Swansea City,John Hendry,25,Centre-Forward,Spurs,"End of loanDec 31, 1995",out,0,Championship,1995,1995/1996
+Swansea City,John Williams,27,Centre-Forward,Coventry,"End of loanJun 30, 1995",out,0,Championship,1995,1995/1996
+Brentford FC,David Greene,22,Defender,Colchester Utd.,?,in,NA,Championship,1995,1995/1996
+Brentford FC,Marcus Bent,17,Centre-Forward,Brentford U18,-,in,0,Championship,1995,1995/1996
+Brentford FC,Carl Asaba,22,Centre-Forward,Colchester Utd.,Loan,out,0,Championship,1995,1995/1996
+Brentford FC,Paul Stephenson,27,Right-Back,York City,£36k,out,0.036,Championship,1995,1995/1996
+Brentford FC,Laurence Batty,31,Goalkeeper,Woking FC,?,out,NA,Championship,1995,1995/1996
+Sheffield Wednesday,Darko Kovacevic,22,Centre-Forward,Red Star,£4.50m,in,4.5,Championship,1995,1995/1996
+Sheffield Wednesday,Dejan Stefanovic,20,Centre-Back,Red Star,£2.70m,in,2.7,Championship,1995,1995/1996
+Sheffield Wednesday,Jon Newsome,25,Defender,Norwich,£2.03m,in,2.03,Championship,1995,1995/1996
+Sheffield Wednesday,Marc Degryse,29,Centre-Forward,RSC Anderlecht,£1.13m,in,1.13,Championship,1995,1995/1996
+Sheffield Wednesday,Mark Pembridge,24,Left Midfield,Derby,£1.13m,in,1.13,Championship,1995,1995/1996
+Sheffield Wednesday,Steve Nicol,33,Right-Back,Notts County,?,in,NA,Championship,1995,1995/1996
+Sheffield Wednesday,Regi Blinker,26,Left Midfield,Feyenoord,?,in,NA,Championship,1995,1995/1996
+Sheffield Wednesday,Chris Woods,36,Goalkeeper,Reading,"End of loanDec 31, 1995",in,0,Championship,1995,1995/1996
+Sheffield Wednesday,Simon Stewart,22,Defender,Shrewsbury,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Sheffield Wednesday,Ritchie Humphreys,17,Defensive Midfield,Sheff Wed U18,-,in,0,Championship,1995,1995/1996
+Sheffield Wednesday,Mark Bright,34,Forward,Millwall,"End of loanDec 26, 1996",in,0,Championship,1995,1995/1996
+Sheffield Wednesday,Mark Platts,16,Forward,Sheff Wed U18,-,in,0,Championship,1995,1995/1996
+Sheffield Wednesday,Chris Bart-Williams,21,Attacking Midfield,Nottm Forest,£3.38m,out,3.38,Championship,1995,1995/1996
+Sheffield Wednesday,Andy Sinton,29,Left Midfield,Spurs,£1.64m,out,1.64,Championship,1995,1995/1996
+Sheffield Wednesday,Andy Pearce,29,Centre-Back,Wimbledon FC,£657k,out,0.657,Championship,1995,1995/1996
+Sheffield Wednesday,Ryan Anthony Jones,22,Midfielder,Scunthorpe Utd.,Loan,out,0,Championship,1995,1995/1996
+Sheffield Wednesday,Simon Stewart,22,Defender,Fulham,Free Transfer,out,0,Championship,1995,1995/1996
+Sheffield Wednesday,Mark Bright,34,Forward,Millwall,Loan,out,0,Championship,1995,1995/1996
+Sheffield Wednesday,John Sheridan,31,Central Midfield,Birmingham,Loan,out,0,Championship,1995,1995/1996
+Sheffield Wednesday,Chris Woods,35,Goalkeeper,Reading,Loan,out,0,Championship,1995,1995/1996
+Sheffield Wednesday,Chris Woods,36,Goalkeeper,Colorado,?,out,NA,Championship,1995,1995/1996
+Sheffield Wednesday,Simon Stewart,21,Defender,Shrewsbury,Loan,out,0,Championship,1995,1995/1996
+Sheffield Wednesday,Dan Petrescu,28,Right-Back,Chelsea,?,out,NA,Championship,1995,1995/1996
+Sheffield Wednesday,Julian Watts,24,Defender,Leicester,?,out,NA,Championship,1995,1995/1996
+Sheffield Wednesday,Klas Ingesson,27,Defensive Midfield,Bari,?,out,NA,Championship,1995,1995/1996
+Hull City,Michael Quigley,24,Midfielder,Man City,Free Transfer,in,0,Championship,1995,1995/1996
+Hull City,Duane Darby,24,Forward,Doncaster,£27k,in,0.027,Championship,1995,1995/1996
+Hull City,Kenny Gilbert,20,Central Midfield,Aberdeen FC,?,in,NA,Championship,1995,1995/1996
+Hull City,Bobby Davison,36,Forward,Rotherham,Loan,in,0,Championship,1995,1995/1996
+Hull City,Andy Williams,32,Midfielder,Rotherham,?,in,NA,Championship,1995,1995/1996
+Hull City,Alan Fettis,24,Goalkeeper,West Brom,"End of loanDec 20, 1995",in,0,Championship,1995,1995/1996
+Hull City,Gavin Gordon,16,Centre-Forward,Hull U18,-,in,0,Championship,1995,1995/1996
+Hull City,Roy Carroll,17,Goalkeeper,Hull U18,-,in,0,Championship,1995,1995/1996
+Hull City,Dean Windass,26,Centre-Forward,Aberdeen FC,£945k,out,0.945,Championship,1995,1995/1996
+Hull City,Nicky Mohan,24,Defender,Bradford,£270k,out,0.27,Championship,1995,1995/1996
+Hull City,Chris Hargreaves,23,Midfielder,West Brom,Free Transfer,out,0,Championship,1995,1995/1996
+Hull City,Alan Fettis,24,Goalkeeper,Nottm Forest,?,out,NA,Championship,1995,1995/1996
+Hull City,Alan Fettis,24,Goalkeeper,West Brom,Loan,out,0,Championship,1995,1995/1996
+Hull City,Bobby Davison,36,Forward,Rotherham,"End of loanMay 31, 1996",out,0,Championship,1995,1995/1996
+Hull City,Steve Moran,34,Second Striker,Retired,-,out,0,Championship,1995,1995/1996
+Preston North End,Teuvo Moilanen,22,Goalkeeper,FF Jaro,£121k,in,0.121,Championship,1995,1995/1996
+Preston North End,Andy Saville,30,Centre-Forward,Birmingham,£101k,in,0.101,Championship,1995,1995/1996
+Preston North End,Neil McDonald,30,Right-Back,Bolton,£54k,in,0.054,Championship,1995,1995/1996
+Preston North End,Kevin Gage,31,Midfielder,Sheffield Utd.,Free Transfer,in,0,Championship,1995,1995/1996
+Preston North End,Paul Birch,33,Midfielder,Wolves,?,in,NA,Championship,1995,1995/1996
+Preston North End,Joe Jakub,37,Right-Back,Wigan,?,in,NA,Championship,1995,1995/1996
+Preston North End,Dean Barrick,25,Left-Back,Cambridge Utd.,?,in,NA,Championship,1995,1995/1996
+Preston North End,David Lucas,18,Goalkeeper,Darlington,"End of loanDec 31, 1995",in,0,Championship,1995,1995/1996
+Preston North End,Kevin Kilbane,18,Left Midfield,Preston U18,-,in,0,Championship,1995,1995/1996
+Preston North End,David Lucas,18,Goalkeeper,Darlington,Loan,out,0,Championship,1995,1995/1996
+Preston North End,Gareth Ainsworth,22,Right Midfield,Lincoln City,£34k,out,0.034,Championship,1995,1995/1996
+Preston North End,Barry Richardson,26,Goalkeeper,Lincoln City,£27k,out,0.027,Championship,1995,1995/1996
+Preston North End,Terry Fleming,22,Midfielder,Lincoln City,?,out,NA,Championship,1995,1995/1996
+Preston North End,Paul Raynor,29,Midfielder,Cambridge Utd.,?,out,NA,Championship,1995,1995/1996
+Blackburn Rovers,Garry Flitcroft,23,Central Midfield,Man City,£4.73m,in,4.73,Championship,1995,1995/1996
+Blackburn Rovers,Chris Coleman,25,Centre-Back,Crystal Palace,£4.41m,in,4.41,Championship,1995,1995/1996
+Blackburn Rovers,Gary Croft,22,Centre-Back,Grimsby Town,£1.35m,in,1.35,Championship,1995,1995/1996
+Blackburn Rovers,Matt Holmes,26,Midfielder,West Ham,£1.35m,in,1.35,Championship,1995,1995/1996
+Blackburn Rovers,Niklas Gudmundsson,23,Midfielder,Halmstad,£837k,in,0.837,Championship,1995,1995/1996
+Blackburn Rovers,Graham Coughlan,20,Centre-Back,Bray Wanderers,£135k,in,0.135,Championship,1995,1995/1996
+Blackburn Rovers,Billy McKinlay,26,Right Midfield,Dundee United,Free Transfer,in,0,Championship,1995,1995/1996
+Blackburn Rovers,Lars Bohinen,26,Central Midfield,Nottm Forest,?,in,NA,Championship,1995,1995/1996
+Blackburn Rovers,Shay Given,20,Goalkeeper,Sunderland,"End of loanMay 30, 1996",in,0,Championship,1995,1995/1996
+Blackburn Rovers,Shay Given,19,Goalkeeper,Swindon Town,"End of loanSep 4, 1995",in,0,Championship,1995,1995/1996
+Blackburn Rovers,James Beattie,17,Centre-Forward,Blackburn U18,-,in,0,Championship,1995,1995/1996
+Blackburn Rovers,David Batty,27,Defensive Midfield,Newcastle,£4.64m,out,4.64,Championship,1995,1995/1996
+Blackburn Rovers,Lee Makel,22,Attacking Midfield,Huddersfield,£405k,out,0.405,Championship,1995,1995/1996
+Blackburn Rovers,Shay Given,19,Goalkeeper,Sunderland,Loan,out,0,Championship,1995,1995/1996
+Blackburn Rovers,Shay Given,19,Goalkeeper,Swindon Town,Loan,out,0,Championship,1995,1995/1996
+Blackburn Rovers,Tony Gale,35,Centre-Back,Crystal Palace,Free Transfer,out,0,Championship,1995,1995/1996
+Blackburn Rovers,Robbie Slater,30,Central Midfield,West Ham,?,out,NA,Championship,1995,1995/1996
+Blackburn Rovers,Mark Atkins,27,Right-Back,Wolves,?,out,NA,Championship,1995,1995/1996
+Blackburn Rovers,Richard Witschge,25,Central Midfield,Ajax,?,out,NA,Championship,1995,1995/1996
+Stoke City,Mike Sheron,23,Centre-Forward,Norwich,£558k,in,0.558,Championship,1995,1995/1996
+Stoke City,Phil Morgan,20,Goalkeeper,Ipswich,?,in,NA,Championship,1995,1995/1996
+Stoke City,Ronnie Sinclair,30,Goalkeeper,Bradford,"End of loanJun 30, 1995",in,0,Championship,1995,1995/1996
+Stoke City,Paul Peschisolido,24,Centre-Forward,Birmingham,£540k,out,0.54,Championship,1995,1995/1996
+Stoke City,Thorvaldur Örlygsson,29,Midfielder,Oldham Athletic,£243k,out,0.243,Championship,1995,1995/1996
+Stoke City,Gary Holt,22,Central Midfield,Kilmarnock FC,Free Transfer,out,0,Championship,1995,1995/1996
+Stoke City,Wayne Biggins,33,Centre-Forward,Oxford United,Free Transfer,out,0,Championship,1995,1995/1996
+Stoke City,Mohammed Gargo,20,Centre-Back,Udinese,?,out,NA,Championship,1995,1995/1996
+Stoke City,José Gomes Andrade,25,Centre-Forward,Académico Viseu,?,out,NA,Championship,1995,1995/1996
+Stoke City,Micky Gynn,33,Midfielder,Retired,-,out,0,Championship,1995,1995/1996
+Stoke City,Paul Allen,32,Midfielder,Southampton,"End of loanJun 30, 1995",out,0,Championship,1995,1995/1996
+Birmingham City,Paul Peschisolido,24,Centre-Forward,Stoke City,£540k,in,0.54,Championship,1995,1995/1996
+Birmingham City,Andy Edwards,23,Defender,Southend United,£423k,in,0.423,Championship,1995,1995/1996
+Birmingham City,Jason Bowen,22,Central Midfield,Swansea,£369k,in,0.369,Championship,1995,1995/1996
+Birmingham City,John Cornforth,28,Midfielder,Swansea,£354k,in,0.354,Championship,1995,1995/1996
+Birmingham City,Gary Breen,22,Centre-Back,Peterborough,£338k,in,0.338,Championship,1995,1995/1996
+Birmingham City,Michael Johnson,21,Centre-Back,Notts County,£315k,in,0.315,Championship,1995,1995/1996
+Birmingham City,Steve Finnan,19,Right-Back,Welling,£135k,in,0.135,Championship,1995,1995/1996
+Birmingham City,Ian Muir,32,Second Striker,Tranmere Rovers,£130k,in,0.13,Championship,1995,1995/1996
+Birmingham City,Ian Richardson,24,Defender,Dag & Red FC,£68k,in,0.068,Championship,1995,1995/1996
+Birmingham City,Richard Forsyth,24,Midfielder,Kidderminster,£55k,in,0.055,Championship,1995,1995/1996
+Birmingham City,Danny Hill,21,Midfielder,Spurs,Loan,in,0,Championship,1995,1995/1996
+Birmingham City,Gary Bull,29,Forward,Nottm Forest,Free Transfer,in,0,Championship,1995,1995/1996
+Birmingham City,Paul Sansome,34,Goalkeeper,Southend United,Loan,in,0,Championship,1995,1995/1996
+Birmingham City,John Sheridan,31,Central Midfield,Sheff Wed,Loan,in,0,Championship,1995,1995/1996
+Birmingham City,Vinny Samways,27,Central Midfield,Everton,Loan,in,0,Championship,1995,1995/1996
+Birmingham City,Sigurd Rushfeldt,22,Centre-Forward,Tromsø,Loan,in,0,Championship,1995,1995/1996
+Birmingham City,Steve Robinson,20,Midfielder,Kidderminster,"End of loanMar 14, 1996",in,0,Championship,1995,1995/1996
+Birmingham City,Kenny Lowe,34,Central Midfield,Hartlepool Utd.,"End of loanDec 31, 1995",in,0,Championship,1995,1995/1996
+Birmingham City,Steve Robinson,20,Midfielder,Peterborough,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Birmingham City,Ian Muir,32,Second Striker,Darlington,"End of loanOct 8, 1995",in,0,Championship,1995,1995/1996
+Birmingham City,Scott Hiley,27,Defender,Man City,"End of loanMar 31, 1996",in,0,Championship,1995,1995/1996
+Birmingham City,Simon Rea,19,Defender,Kettering Town,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Birmingham City,David Preece,32,Midfielder,Derby,"End of loanNov 24, 1995",in,0,Championship,1995,1995/1996
+Birmingham City,Liam Daish,27,Centre-Back,Coventry,£1.62m,out,1.62,Championship,1995,1995/1996
+Birmingham City,Steve Claridge,29,Centre-Forward,Leicester,£1.62m,out,1.62,Championship,1995,1995/1996
+Birmingham City,Scott Hiley,27,Defender,Man City,£281k,out,0.281,Championship,1995,1995/1996
+Birmingham City,Ian Richardson,25,Defender,Notts County,£171k,out,0.171,Championship,1995,1995/1996
+Birmingham City,Andy Saville,30,Centre-Forward,Preston NE,£101k,out,0.101,Championship,1995,1995/1996
+Birmingham City,Simon Rea,20,Defender,Kettering Town,Loan,out,0,Championship,1995,1995/1996
+Birmingham City,Steve Robinson,20,Midfielder,Peterborough,Loan,out,0,Championship,1995,1995/1996
+Birmingham City,Gary Bull,29,Forward,York City,Free Transfer,out,0,Championship,1995,1995/1996
+Birmingham City,Kenny Lowe,33,Central Midfield,Hartlepool Utd.,Loan,out,0,Championship,1995,1995/1996
+Birmingham City,Kenny Lowe,34,Central Midfield,Gateshead FC,Free Transfer,out,0,Championship,1995,1995/1996
+Birmingham City,Steve Robinson,20,Midfielder,Kidderminster,Loan,out,0,Championship,1995,1995/1996
+Birmingham City,George Parris,30,Midfielder,Norrköping,?,out,NA,Championship,1995,1995/1996
+Birmingham City,Mark Ward,33,Left-Back,Huddersfield,?,out,NA,Championship,1995,1995/1996
+Birmingham City,Ian Muir,32,Second Striker,Darlington,Loan,out,0,Championship,1995,1995/1996
+Birmingham City,José Dominguez,21,Left Winger,Sporting CP,?,out,NA,Championship,1995,1995/1996
+Birmingham City,Scott Hiley,27,Defender,Man City,Loan,out,0,Championship,1995,1995/1996
+Birmingham City,Danny Hill,21,Midfielder,Spurs,"End of loanFeb 14, 1996",out,0,Championship,1995,1995/1996
+Birmingham City,Sigurd Rushfeldt,23,Centre-Forward,Tromsø,"End of loanMar 31, 1996",out,0,Championship,1995,1995/1996
+Birmingham City,Paul Sansome,34,Goalkeeper,Southend United,"End of loanMay 31, 1996",out,0,Championship,1995,1995/1996
+Birmingham City,Rui Esteves,28,Midfielder,Benfica,"End of loanJun 30, 1995",out,0,Championship,1995,1995/1996
+Wigan Athletic,David Lowe,30,Right Midfield,Leicester,£135k,in,0.135,Championship,1995,1995/1996
+Wigan Athletic,Kevin Sharp,21,Left-Back,Leeds,£135k,in,0.135,Championship,1995,1995/1996
+Wigan Athletic,Roberto Martínez,21,Midfielder,CF Balaguer,Free Transfer,in,0,Championship,1995,1995/1996
+Wigan Athletic,Jamie Barnwell-Edinboro,20,Forward,Coventry,Loan,in,0,Championship,1995,1995/1996
+Wigan Athletic,Wayne Biggins,33,Centre-Forward,Oxford United,Free Transfer,in,0,Championship,1995,1995/1996
+Wigan Athletic,Gavin Johnson,25,Midfielder,Luton Town,£15k,in,0.015,Championship,1995,1995/1996
+Wigan Athletic,Colin Greenall,31,Defender,Lincoln City,?,in,NA,Championship,1995,1995/1996
+Wigan Athletic,John Pender,31,Centre-Back,Burnley,?,in,NA,Championship,1995,1995/1996
+Wigan Athletic,Andy Mutch,31,Forward,Swindon Town,Loan,in,0,Championship,1995,1995/1996
+Wigan Athletic,Gavin Johnson,25,Midfielder,Dunfermline A.,Free Transfer,out,0,Championship,1995,1995/1996
+Wigan Athletic,Greg Strong,19,Centre-Back,Bolton,Free Transfer,out,0,Championship,1995,1995/1996
+Wigan Athletic,Joe Jakub,37,Right-Back,Preston NE,?,out,NA,Championship,1995,1995/1996
+Wigan Athletic,Dave McKearney,27,Left-Back,Chorley FC,?,out,NA,Championship,1995,1995/1996
+Wigan Athletic,Neil Ogden,19,Defender,Northwich Victoria,?,out,NA,Championship,1995,1995/1996
+Wigan Athletic,Andy Mutch,32,Forward,Swindon Town,"End of loanMar 14, 1996",out,0,Championship,1995,1995/1996
+Wigan Athletic,Jamie Barnwell-Edinboro,20,Forward,Coventry,"End of loanMar 28, 1996",out,0,Championship,1995,1995/1996
+Queens Park Rangers,Mark Hateley,33,Centre-Forward,Rangers,£1.53m,in,1.53,Championship,1995,1995/1996
+Queens Park Rangers,Simon Osborn,23,Central Midfield,Reading,£1.49m,in,1.49,Championship,1995,1995/1996
+Queens Park Rangers,Ned Zelic,23,Defensive Midfield,Bor. Dortmund,£1.26m,in,1.26,Championship,1995,1995/1996
+Queens Park Rangers,Paul Murray,19,Central Midfield,Carlisle United,£405k,in,0.405,Championship,1995,1995/1996
+Queens Park Rangers,Lee Charles,23,Forward,Chertsey,£76k,in,0.076,Championship,1995,1995/1996
+Queens Park Rangers,Mark Perry,16,Defender,Unknown,?,in,NA,Championship,1995,1995/1996
+Queens Park Rangers,Greg Goodridge,23,Forward,Torquay United,?,in,NA,Championship,1995,1995/1996
+Queens Park Rangers,Matt Lockwood,18,Left-Back,Southend U18,?,in,NA,Championship,1995,1995/1996
+Queens Park Rangers,Juergen Sommer,26,Goalkeeper,Luton Town,?,in,NA,Championship,1995,1995/1996
+Queens Park Rangers,Nigel Quashie,16,Central Midfield,QPR U18,-,in,0,Championship,1995,1995/1996
+Queens Park Rangers,Lee Charles,24,Forward,Barnet,"End of loanDec 22, 1995",in,0,Championship,1995,1995/1996
+Queens Park Rangers,Sieb Dijkstra,29,Goalkeeper,Bristol City,"End of loanMar 1, 1996",in,0,Championship,1995,1995/1996
+Queens Park Rangers,Les Ferdinand,28,Centre-Forward,Newcastle,£8.55m,out,8.55,Championship,1995,1995/1996
+Queens Park Rangers,Simon Osborn,23,Central Midfield,Wolves,£1.35m,out,1.35,Championship,1995,1995/1996
+Queens Park Rangers,Bradley Allen,24,Centre-Forward,Charlton,£540k,out,0.54,Championship,1995,1995/1996
+Queens Park Rangers,Gary Penrice,31,Centre-Forward,Watford,£340k,out,0.34,Championship,1995,1995/1996
+Queens Park Rangers,Ned Zelic,24,Defensive Midfield,E. Frankfurt,£99k,out,0.099,Championship,1995,1995/1996
+Queens Park Rangers,Dennis Bailey,29,Forward,Gillingham FC,Free Transfer,out,0,Championship,1995,1995/1996
+Queens Park Rangers,Lee Charles,24,Forward,Barnet,Loan,out,0,Championship,1995,1995/1996
+Queens Park Rangers,Clive Wilson,33,Left Midfield,Spurs,Free Transfer,out,0,Championship,1995,1995/1996
+Queens Park Rangers,Marvin Bryan,20,Midfielder,Blackpool,Free Transfer,out,0,Championship,1995,1995/1996
+Queens Park Rangers,Steve Hodge,33,Central Midfield,Watford,?,out,NA,Championship,1995,1995/1996
+Queens Park Rangers,Alan McCarthy,23,Defender,Leyton Orient,?,out,NA,Championship,1995,1995/1996
+Queens Park Rangers,Sieb Dijkstra,28,Goalkeeper,Bristol City,Loan,out,0,Championship,1995,1995/1996
+Queens Park Rangers,Sieb Dijkstra,29,Goalkeeper,Wycombe,Loan,out,0,Championship,1995,1995/1996
+Reading FC,Steve Swales,21,Defender,Scarborough,£72k,in,0.072,Championship,1995,1995/1996
+Reading FC,Eric Nixon,33,Goalkeeper,Tranmere Rovers,Loan,in,0,Championship,1995,1995/1996
+Reading FC,Nick Hammond,28,Goalkeeper,Plymouth,£45k,in,0.045,Championship,1995,1995/1996
+Reading FC,Borislav Mihaylov,32,Goalkeeper,Botev Plovdiv,?,in,NA,Championship,1995,1995/1996
+Reading FC,Trevor Morley,34,Centre-Forward,West Ham,?,in,NA,Championship,1995,1995/1996
+Reading FC,Steve Sutton,34,Goalkeeper,Derby,Loan,in,0,Championship,1995,1995/1996
+Reading FC,Chris Woods,35,Goalkeeper,Sheff Wed,Loan,in,0,Championship,1995,1995/1996
+Reading FC,Robert Codner,30,Centre-Forward,Without Club,-,in,0,Championship,1995,1995/1996
+Reading FC,Shaka Hislop,26,Goalkeeper,Newcastle,£1.98m,out,1.98,Championship,1995,1995/1996
+Reading FC,Simon Osborn,23,Central Midfield,QPR,£1.49m,out,1.49,Championship,1995,1995/1996
+Reading FC,Scott Taylor,24,Midfielder,Leicester,£675k,out,0.675,Championship,1995,1995/1996
+Reading FC,Uwe Hartenberger,27,Forward,Waldh. Mannheim,?,out,NA,Championship,1995,1995/1996
+Reading FC,Eric Nixon,33,Goalkeeper,Tranmere Rovers,"End of loanFeb 4, 1996",out,0,Championship,1995,1995/1996
+Reading FC,Ray Ranson,35,Right-Back,Retired,-,out,0,Championship,1995,1995/1996
+Reading FC,Robert Codner,30,Centre-Forward,Without Club,-,out,0,Championship,1995,1995/1996
+Reading FC,Steve Sutton,35,Goalkeeper,Derby,"End of loanMay 31, 1996",out,0,Championship,1995,1995/1996
+Reading FC,Chris Woods,36,Goalkeeper,Sheff Wed,"End of loanDec 31, 1995",out,0,Championship,1995,1995/1996
+Reading FC,Darren Barnard,23,Left-Back,Chelsea,"End of loanJun 1, 1995",out,0,Championship,1995,1995/1996
+Millwall FC,Uwe Fuchs,29,Centre-Forward,SC Fortuna Köln,£720k,in,0.72,Championship,1995,1995/1996
+Millwall FC,Ricky Newman,24,Central Midfield,Crystal Palace,£675k,in,0.675,Championship,1995,1995/1996
+Millwall FC,Kingsley Black,27,Left Midfield,Nottm Forest,Loan,in,0,Championship,1995,1995/1996
+Millwall FC,Nick Colgan,21,Goalkeeper,Chelsea,Loan,in,0,Championship,1995,1995/1996
+Millwall FC,Mark Bright,34,Forward,Sheff Wed,Loan,in,0,Championship,1995,1995/1996
+Millwall FC,Anton Rogan,29,Centre-Back,Oxford United,Free Transfer,in,0,Championship,1995,1995/1996
+Millwall FC,Lucas Neill,17,Centre-Back,A.I.S.,Free Transfer,in,0,Championship,1995,1995/1996
+Millwall FC,Dale Gordon,28,Right Midfield,West Ham,?,in,NA,Championship,1995,1995/1996
+Millwall FC,Sergey Yuran,26,Centre-Forward,Spartak Moscow,?,in,NA,Championship,1995,1995/1996
+Millwall FC,Bobby Bowry,24,Midfielder,Crystal Palace,?,in,NA,Championship,1995,1995/1996
+Millwall FC,Vasili Kulkov,29,Centre-Back,Spartak Moscow,?,in,NA,Championship,1995,1995/1996
+Millwall FC,Jason Dair,21,Midfielder,Raith Rovers,?,in,NA,Championship,1995,1995/1996
+Millwall FC,Greg Berry,25,Midfielder,Leyton Orient,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Millwall FC,Greg Berry,25,Midfielder,Brighton,"End of loanMar 21, 1996",in,0,Championship,1995,1995/1996
+Millwall FC,Andy Roberts,21,Central Midfield,Crystal Palace,£2.57m,out,2.57,Championship,1995,1995/1996
+Millwall FC,Scott Taylor,19,Centre-Forward,Bolton,£153k,out,0.153,Championship,1995,1995/1996
+Millwall FC,Phil Barber,30,Midfielder,Bristol City,Free Transfer,out,0,Championship,1995,1995/1996
+Millwall FC,Greg Berry,25,Midfielder,Leyton Orient,Loan,out,0,Championship,1995,1995/1996
+Millwall FC,Clive Allen,34,Centre-Forward,Carlisle United,Free Transfer,out,0,Championship,1995,1995/1996
+Millwall FC,Kerry Dixon,34,Centre-Forward,Watford,£27k,out,0.027,Championship,1995,1995/1996
+Millwall FC,Greg Berry,24,Midfielder,Brighton,Loan,out,0,Championship,1995,1995/1996
+Millwall FC,John Kerr,30,Forward,Walsall,?,out,NA,Championship,1995,1995/1996
+Millwall FC,David Mitchell,33,Centre-Forward,Selangor FA,?,out,NA,Championship,1995,1995/1996
+Millwall FC,Ian Dawes,32,Left-Back,Bromley,?,out,NA,Championship,1995,1995/1996
+Millwall FC,Andy May,31,Midfielder,Welling,?,out,NA,Championship,1995,1995/1996
+Millwall FC,Nick Colgan,22,Goalkeeper,Chelsea,"End of loanMay 1, 1996",out,0,Championship,1995,1995/1996
+Millwall FC,Kingsley Black,27,Left Midfield,Nottm Forest,"End of loanMay 1, 1996",out,0,Championship,1995,1995/1996
+Millwall FC,Mark Bright,34,Forward,Sheff Wed,"End of loanDec 26, 1996",out,0,Championship,1995,1995/1996
+Luton Town,Steve Davis,26,Centre-Back,Burnley,£801k,in,0.801,Championship,1995,1995/1996
+Luton Town,Ian Feuer,24,Goalkeeper,West Ham,£585k,in,0.585,Championship,1995,1995/1996
+Luton Town,Darren Patterson,25,Right-Back,Crystal Palace,£311k,in,0.311,Championship,1995,1995/1996
+Luton Town,Graham Alexander,23,Right-Back,Scunthorpe Utd.,£113k,in,0.113,Championship,1995,1995/1996
+Luton Town,Graeme Tomlinson,20,Forward,Man Utd,Loan,in,0,Championship,1995,1995/1996
+Luton Town,Gavin Johnson,24,Midfielder,Ipswich,Free Transfer,in,0,Championship,1995,1995/1996
+Luton Town,Paul Wilkinson,31,Centre-Forward,Middlesbrough,Loan,in,0,Championship,1995,1995/1996
+Luton Town,Andrew Fotiadis,17,Forward,Unknown,?,in,NA,Championship,1995,1995/1996
+Luton Town,Vidar Riseth,23,Centre-Back,Kongsvinger,Loan,in,0,Championship,1995,1995/1996
+Luton Town,Bontcho Guentchev,31,Attacking Midfield,Ipswich,?,in,NA,Championship,1995,1995/1996
+Luton Town,Boncho Genchev,31,Midfielder,Ipswich,?,in,NA,Championship,1995,1995/1996
+Luton Town,Nathan Abbey,16,Goalkeeper,Luton U18,-,in,0,Championship,1995,1995/1996
+Luton Town,Paul Telfer,23,Right-Back,Coventry,£1.49m,out,1.49,Championship,1995,1995/1996
+Luton Town,Rob Matthews,24,Central Midfield,York City,£93k,out,0.093,Championship,1995,1995/1996
+Luton Town,Jamie Campbell,22,Left-Back,Barnet,Free Transfer,out,0,Championship,1995,1995/1996
+Luton Town,Gavin Johnson,25,Midfielder,Wigan,£15k,out,0.015,Championship,1995,1995/1996
+Luton Town,David Preece,32,Midfielder,Derby,?,out,NA,Championship,1995,1995/1996
+Luton Town,Juergen Sommer,26,Goalkeeper,QPR,?,out,NA,Championship,1995,1995/1996
+Luton Town,David Greene,22,Defender,Colchester Utd.,?,out,NA,Championship,1995,1995/1996
+Luton Town,Vidar Riseth,23,Centre-Back,Kongsvinger,"End of loanApr 1, 1996",out,0,Championship,1995,1995/1996
+Luton Town,Paul Wilkinson,31,Centre-Forward,Middlesbrough,"End of loanMay 31, 1996",out,0,Championship,1995,1995/1996
+Luton Town,Graeme Tomlinson,20,Forward,Man Utd,"End of loanMay 31, 1996",out,0,Championship,1995,1995/1996
+Barnsley FC,Arjan de Zeeuw,25,Centre-Back,Telstar,£338k,in,0.338,Championship,1995,1995/1996
+Barnsley FC,Peter Shirtliff,34,Centre-Back,Wolves,£129k,in,0.129,Championship,1995,1995/1996
+Barnsley FC,Laurens ten Heuvel,19,Centre-Forward,FC Den Bosch,£90k,in,0.09,Championship,1995,1995/1996
+Barnsley FC,Paul Kane,30,Midfielder,Aberdeen FC,Loan,in,0,Championship,1995,1995/1996
+Barnsley FC,Lee Butler,29,Goalkeeper,Scunthorpe Utd.,End of loan-,in,0,Championship,1995,1995/1996
+Barnsley FC,Gerry Taggart,24,Centre-Back,Bolton,£2.03m,out,2.03,Championship,1995,1995/1996
+Barnsley FC,Lee Butler,29,Goalkeeper,Scunthorpe Utd.,Loan,out,0,Championship,1995,1995/1996
+Barnsley FC,Glynn Snodin,35,Left-Back,Gainsborough Trinity,?,out,NA,Championship,1995,1995/1996
+Barnsley FC,Andy Rammell,29,Forward,Southend United,?,out,NA,Championship,1995,1995/1996
+Barnsley FC,Paul Kane,30,Midfielder,Aberdeen FC,"End of loanDec 31, 1995",out,0,Championship,1995,1995/1996
+Barnsley FC,Danny Wilson,35,Midfielder,Retired,-,out,0,Championship,1995,1995/1996
+Barnsley FC,Malcolm Shotton,38,Centre-Back,Retired,-,out,0,Championship,1995,1995/1996
+Barnsley FC,Jan Mölby,31,Central Midfield,Liverpool,"End of loanJun 30, 1995",out,0,Championship,1995,1995/1996
+Charlton Athletic,Bradley Allen,24,Centre-Forward,QPR,£540k,in,0.54,Championship,1995,1995/1996
+Charlton Athletic,Matt Jackson,24,Right-Back,Everton,Loan,in,0,Championship,1995,1995/1996
+Charlton Athletic,John Humphrey,34,Defender,Crystal Palace,Free Transfer,in,0,Championship,1995,1995/1996
+Charlton Athletic,Tom Henning Hovi,23,Left-Back,HamKam,Free Transfer,in,0,Championship,1995,1995/1996
+Charlton Athletic,Paul Williams,30,Forward,Crystal Palace,Free Transfer,in,0,Championship,1995,1995/1996
+Charlton Athletic,Richard Rufus,20,Centre-Back,Charlton U18,-,in,0,Championship,1995,1995/1996
+Charlton Athletic,Jamie Stuart,18,Centre-Back,Charlton U18,-,in,0,Championship,1995,1995/1996
+Charlton Athletic,Alan Pardew,34,Midfielder,Spurs,"End of loanAug 1, 1995",in,0,Championship,1995,1995/1996
+Charlton Athletic,Paul Williams,30,Forward,Torquay United,"End of loanMay 31, 1996",in,0,Championship,1995,1995/1996
+Charlton Athletic,Kevin Nicholls,16,Right Midfield,Charlton U18,-,in,0,Championship,1995,1995/1996
+Charlton Athletic,Jason Tindall,17,Defender,Charlton U18,-,in,0,Championship,1995,1995/1996
+Charlton Athletic,Alan McLeary,30,Defender,Bristol City,Free Transfer,out,0,Championship,1995,1995/1996
+Charlton Athletic,Paul Williams,30,Forward,Torquay United,Loan,out,0,Championship,1995,1995/1996
+Charlton Athletic,Scott McGleish,21,Centre-Forward,Peterborough,Free Transfer,out,0,Championship,1995,1995/1996
+Charlton Athletic,Alan Pardew,34,Midfielder,Barnet,?,out,NA,Championship,1995,1995/1996
+Charlton Athletic,Mike Ammann,25,Goalkeeper,Kansas City Wiz,?,out,NA,Championship,1995,1995/1996
+Charlton Athletic,Alan Pardew,33,Midfielder,Spurs,Loan,out,0,Championship,1995,1995/1996
+Charlton Athletic,Colin Walsh,33,Left Midfield,Retired,-,out,0,Championship,1995,1995/1996
+Charlton Athletic,Matt Jackson,24,Right-Back,Everton,"End of loanMay 1, 1996",out,0,Championship,1995,1995/1996

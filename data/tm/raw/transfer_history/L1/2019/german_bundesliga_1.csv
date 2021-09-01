@@ -1,0 +1,591 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Bayern Munich,Lucas Hernández,23,Centre-Back,Atlético Madrid,£72.00m,in,Summer,72,1 Bundesliga,2019,2019/2020
+Bayern Munich,Benjamin Pavard,23,Right-Back,VfB Stuttgart,£31.50m,in,Summer,31.5,1 Bundesliga,2019,2019/2020
+Bayern Munich,Michaël Cuisance,20,Central Midfield,Bor. M'gladbach,£10.80m,in,Summer,10.8,1 Bundesliga,2019,2019/2020
+Bayern Munich,Philippe Coutinho,27,Attacking Midfield,FC Barcelona,Loan fee:£7.65m,in,Summer,7.65,1 Bundesliga,2019,2019/2020
+Bayern Munich,Ivan Perisic,30,Left Winger,Inter,Loan fee:£4.50m,in,Summer,4.5,1 Bundesliga,2019,2019/2020
+Bayern Munich,Fiete Arp,19,Centre-Forward,Hamburger SV,£2.70m,in,Summer,2.7,1 Bundesliga,2019,2019/2020
+Bayern Munich,Lars Lukas Mai,19,Centre-Back,FC Bayern II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+Bayern Munich,Adrian Fein,20,Defensive Midfield,FC Bayern II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+Bayern Munich,Marco Friedl,21,Centre-Back,Werder Bremen,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Bayern Munich,Mats Hummels,30,Centre-Back,Bor. Dortmund,£27.45m,out,Summer,27.45,1 Bundesliga,2019,2019/2020
+Bayern Munich,Renato Sanches,22,Central Midfield,LOSC Lille,£18.00m,out,Summer,18,1 Bundesliga,2019,2019/2020
+Bayern Munich,Marco Friedl,21,Centre-Back,Werder Bremen,£3.15m,out,Summer,3.15,1 Bundesliga,2019,2019/2020
+Bayern Munich,Rafinha,33,Right-Back,Flamengo,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Bayern Munich,Franck Ribéry,36,Left Winger,Fiorentina,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Bayern Munich,Adrian Fein,20,Defensive Midfield,Hamburger SV,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Bayern Munich,Arjen Robben,35,Right Winger,Career break,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+Bayern Munich,James Rodríguez,27,Attacking Midfield,Real Madrid,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Mats Hummels,30,Centre-Back,Bayern Munich,£27.45m,in,Summer,27.45,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Nico Schulz,26,Left-Back,TSG Hoffenheim,£22.95m,in,Summer,22.95,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Thorgan Hazard,26,Left Winger,Bor. M'gladbach,£22.95m,in,Summer,22.95,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Julian Brandt,23,Central Midfield,Bay. Leverkusen,£22.50m,in,Summer,22.5,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Paco Alcácer,25,Centre-Forward,FC Barcelona,£18.90m,in,Summer,18.9,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Mateu Morey,19,Right-Back,Barça U19,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Luca Unbehaun,18,Goalkeeper,B. Dortmund U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Tobias Raschl,19,Defensive Midfield,B. Dortmund U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Felix Passlack,21,Right-Back,Norwich,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,André Schürrle,28,Left Winger,Fulham,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Sebastian Rode,28,Central Midfield,E. Frankfurt,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Alexander Isak,19,Centre-Forward,Willem II,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Shinji Kagawa,30,Attacking Midfield,Besiktas,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Jeremy Toljan,24,Right-Back,Celtic,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Abdou Diallo,23,Centre-Back,Paris SG,£28.80m,out,Summer,28.8,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Maximilian Philipp,25,Second Striker,Dynamo Moscow,£18.00m,out,Summer,18,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Alexander Isak,19,Centre-Forward,Real Sociedad,£5.85m,out,Summer,5.85,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Sebastian Rode,28,Central Midfield,E. Frankfurt,£3.60m,out,Summer,3.6,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Shinji Kagawa,30,Attacking Midfield,Real Zaragoza,£2.70m,out,Summer,2.7,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Jeremy Toljan,24,Right-Back,Sassuolo,Loan fee:£2.03m,out,Summer,2.03,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Marius Wolf,24,Right Winger,Hertha BSC,Loan fee:£1.80m,out,Summer,1.8,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Ömer Toprak,30,Centre-Back,Werder Bremen,Loan fee:£900Th.,out,Summer,0.9,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,André Schürrle,28,Left Winger,Spartak Moscow,Loan fee:£900Th.,out,Summer,0.9,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Felix Passlack,21,Right-Back,Fortuna Sittard,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Sergio Gómez,18,Attacking Midfield,SD Huesca,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Paco Alcácer,25,Centre-Forward,FC Barcelona,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Christian Pulisic,20,Left Winger,Chelsea,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Ademola Lookman,21,Left Winger,Everton,£16.20m,in,Summer,16.2,1 Bundesliga,2019,2019/2020
+RB Leipzig,Christopher Nkunku,21,Attacking Midfield,Paris SG,£11.70m,in,Summer,11.7,1 Bundesliga,2019,2019/2020
+RB Leipzig,Hannes Wolf,20,Attacking Midfield,RB Salzburg,£10.80m,in,Summer,10.8,1 Bundesliga,2019,2019/2020
+RB Leipzig,Luan Cândido,18,Left-Back,Palmeiras U20,£7.20m,in,Summer,7.2,1 Bundesliga,2019,2019/2020
+RB Leipzig,Patrik Schick,23,Centre-Forward,AS Roma,Loan fee:£3.15m,in,Summer,3.15,1 Bundesliga,2019,2019/2020
+RB Leipzig,Ethan Ampadu,18,Centre-Back,Chelsea,Loan fee:£585Th.,in,Summer,0.585,1 Bundesliga,2019,2019/2020
+RB Leipzig,Philipp Tschauner,33,Goalkeeper,Hannover 96,£315Th.,in,Summer,0.315,1 Bundesliga,2019,2019/2020
+RB Leipzig,Frederik Jäkel,18,Centre-Back,RB Leipzig U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Fabrice Hartmann,18,Right Winger,RB Leipzig U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Tom Krauß,18,Defensive Midfield,RB Leipzig U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Malik Talabidi,18,Centre-Back,RB Leipzig U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Mads Bidstrup,18,Central Midfield,RB Leipzig U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Bruma,24,Left Winger,PSV Eindhoven,£13.50m,out,Summer,13.5,1 Bundesliga,2019,2019/2020
+RB Leipzig,Jean-Kévin Augustin,22,Centre-Forward,Monaco,Loan fee:£3.60m,out,Summer,3.6,1 Bundesliga,2019,2019/2020
+RB Leipzig,Julian Krahl,19,Goalkeeper,1. FC Köln,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Atinc Nukan,26,Centre-Back,Göztepe,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Marius Müller,25,Goalkeeper,FC Luzern,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+RB Leipzig,Emile Smith Rowe,18,Attacking Midfield,Arsenal U23,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Kerem Demirbay,25,Central Midfield,TSG Hoffenheim,£28.80m,in,Summer,28.8,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Moussa Diaby,19,Left Winger,Paris SG,£13.50m,in,Summer,13.5,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Nadiem Amiri,22,Attacking Midfield,TSG Hoffenheim,£8.10m,in,Summer,8.1,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Daley Sinkgraven,23,Left-Back,Ajax,£4.50m,in,Summer,4.5,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Adrian Stanilewicz,19,Defensive Midfield,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Niklas Lomb,25,Goalkeeper,SV Sandhausen,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Tomasz Kucz,19,Goalkeeper,Dunajska Streda,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Julian Brandt,23,Central Midfield,Bor. Dortmund,£22.50m,out,Summer,22.5,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Dominik Kohr,25,Central Midfield,E. Frankfurt,£7.65m,out,Summer,7.65,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Thorsten Kirschbaum,32,Goalkeeper,VVV-Venlo,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Tomasz Kucz,20,Goalkeeper,Guimarães B,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Sam Schreck,20,Attacking Midfield,FC Groningen,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Jan Boller,19,Centre-Back,LASK,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Tin Jedvaj,23,Centre-Back,FC Augsburg,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Isaac Kiese Thelin,27,Centre-Forward,RSC Anderlecht,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Stefan Lainer,26,Right-Back,RB Salzburg,£11.25m,in,Summer,11.25,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Breel Embolo,22,Centre-Forward,FC Schalke 04,£9.90m,in,Summer,9.9,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Marcus Thuram,21,Left Winger,Guingamp,£8.10m,in,Summer,8.1,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Ramy Bensebaini,24,Left-Back,Stade Rennais,£7.20m,in,Summer,7.2,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Max Grün,32,Goalkeeper,SV Darmstadt 98,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Lászlo Bénes,21,Central Midfield,Holstein Kiel,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Thorgan Hazard,26,Left Winger,Bor. Dortmund,£22.95m,out,Summer,22.95,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Michaël Cuisance,20,Central Midfield,Bayern Munich,£10.80m,out,Summer,10.8,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Michael Lang,28,Right-Back,Werder Bremen,Loan fee:£540Th.,out,Summer,0.54,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Josip Drmic,26,Centre-Forward,Norwich,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Moritz Nicolas,21,Goalkeeper,Union Berlin,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Florian Mayer,21,Centre-Back,M'gladbach II,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Xaver Schlager,21,Central Midfield,RB Salzburg,£13.50m,in,Summer,13.5,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Kevin Mbabu,24,Right-Back,BSC Young Boys,£8.28m,in,Summer,8.28,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,João Victor,25,Left Winger,LASK,£3.15m,in,Summer,3.15,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Paulo Otávio,24,Left-Back,FC Ingolstadt,£990Th.,in,Summer,0.99,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Lukas Nmecha,20,Centre-Forward,Man City U23,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,John Yeboah,19,Left Winger,Wolfsburg U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Niklas Klinger,23,Goalkeeper,Wolfsburg II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Landry Dimata,21,Centre-Forward,RSC Anderlecht,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Victor Osimhen,20,Centre-Forward,RSC Charleroi,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Riechedly Bazoer,22,Central Midfield,FC Utrecht,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Paul Seguin,24,Defensive Midfield,Greuther Fürth,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Jeffrey Bruma,27,Centre-Back,FC Schalke 04,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Landry Dimata,21,Centre-Forward,RSC Anderlecht,£4.50m,out,Summer,4.5,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Victor Osimhen,20,Centre-Forward,RSC Charleroi,£3.15m,out,Summer,3.15,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Luca Itter,20,Left-Back,SC Freiburg,£2.25m,out,Summer,2.25,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Riechedly Bazoer,22,Central Midfield,Vitesse,£1.35m,out,Summer,1.35,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Felix Uduokhai,21,Centre-Back,FC Augsburg,Loan fee:£1.35m,out,Summer,1.35,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Paul Seguin,24,Defensive Midfield,Greuther Fürth,£270Th.,out,Summer,0.27,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Sebastian Jung,29,Right-Back,Hannover 96,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Paul Verhaegh,35,Right-Back,Twente FC,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Marvin Stefaniak,24,Right Midfield,Greuther Fürth,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Paul-Georges Ntep,27,Left Winger,Kayserispor,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,John Yeboah,19,Left Winger,VVV-Venlo,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Luka Jovic,21,Centre-Forward,Benfica,£20.25m,in,Summer,20.25,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Martin Hinteregger,26,Centre-Back,FC Augsburg,£8.10m,in,Summer,8.1,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Djibril Sow,22,Central Midfield,BSC Young Boys,£8.10m,in,Summer,8.1,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Dominik Kohr,25,Central Midfield,Bay. Leverkusen,£7.65m,in,Summer,7.65,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Kevin Trapp,29,Goalkeeper,Paris SG,£6.30m,in,Summer,6.3,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Bas Dost,30,Centre-Forward,Sporting CP,£6.30m,in,Summer,6.3,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Filip Kostic,26,Left Midfield,Hamburger SV,£5.40m,in,Summer,5.4,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Dejan Joveljic,19,Centre-Forward,Red Star,£3.60m,in,Summer,3.6,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Sebastian Rode,28,Central Midfield,Bor. Dortmund,£3.60m,in,Summer,3.6,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,André Silva,23,Centre-Forward,AC Milan,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Erik Durm,27,Left-Back,Huddersfield,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Rodrigo Zalazar,19,Central Midfield,A. Malagueño,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Rodrigo Zalazar,20,Central Midfield,Korona Kielce,"End of loanApr 30, 2020",in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Andersson Ordóñez,25,Centre-Back,LDU Quito,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Max Besuschkow,22,Central Midfield,Saint Gilloise,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Danny Blum,28,Left Winger,UD Las Palmas,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Marijan Cavar,21,Central Midfield,NK Osijek,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Daichi Kamada,22,Attacking Midfield,Sint-Truiden,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Deji Beyreuther,19,Left-Back,Chemnitzer FC,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Nicolai Müller,31,Right Winger,Hannover 96,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Felix Wiedwald,29,Goalkeeper,MSV Duisburg,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Noel Knothe,20,Centre-Back,FC Pipinsried,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Luka Jovic,21,Centre-Forward,Real Madrid,£54.00m,out,Summer,54,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Sébastien Haller,25,Centre-Forward,West Ham,£45.00m,out,Summer,45,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Jetro Willems,25,Left-Back,Newcastle,Loan fee:£900Th.,out,Summer,0.9,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Andersson Ordóñez,25,Centre-Back,LDU Quito,£405Th.,out,Summer,0.405,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Danny Blum,28,Left Winger,VfL Bochum,£225Th.,out,Summer,0.225,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Max Besuschkow,22,Central Midfield,Jahn Regensburg,£90Th.,out,Summer,0.09,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Deji Beyreuther,19,Left-Back,Hoffenheim II,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Nicolai Müller,32,Right Winger,Western Sydney,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Marc Stendera,23,Central Midfield,Hannover 96,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Branimir Hrgota,26,Centre-Forward,Greuther Fürth,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Nelson Mandela Mbouhom,20,Central Midfield,SF Lotte,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Rodrigo Zalazar,19,Central Midfield,Korona Kielce,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Mischa Häuser,19,Right Midfield,FSV Frankfurt,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Tobias Stirl,19,Goalkeeper,Wolfsburg II,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Noel Knothe,20,Centre-Back,Nuremberg II,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Patrice Kabuya,19,Right Winger,Hamburger SV II,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Tuta,20,Centre-Back,KV Kortrijk,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Ante Rebic,25,Left Winger,AC Milan,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Taleb Tawatha,27,Left-Back,Without Club,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Luka Jovic,21,Centre-Forward,Benfica,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Filip Kostic,26,Left Midfield,Hamburger SV,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Kevin Trapp,28,Goalkeeper,Paris SG,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Sebastian Rode,28,Central Midfield,Bor. Dortmund,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Martin Hinteregger,26,Centre-Back,FC Augsburg,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Niclas Füllkrug,26,Centre-Forward,Hannover 96,£5.85m,in,Summer,5.85,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Marco Friedl,21,Centre-Back,Bayern Munich,£3.15m,in,Summer,3.15,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Ömer Toprak,30,Centre-Back,Bor. Dortmund,Loan fee:£900Th.,in,Summer,0.9,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Michael Lang,28,Right-Back,Bor. M'gladbach,Loan fee:£540Th.,in,Summer,0.54,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Leonardo Bittencourt,25,Attacking Midfield,TSG Hoffenheim,Loan fee:£540Th.,in,Summer,0.54,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Benjamin Goller,20,Right Winger,FC Schalke 04,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,David Philipp,19,Right Winger,W. Bremen U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Ilia Gruev,19,Defensive Midfield,W. Bremen U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Simon Straudi,20,Right-Back,W. Bremen II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Thore Jacobsen,23,Defensive Midfield,1.FC Magdeburg,"End of loanJul 5, 2020",in,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Robert Bauer,24,Right-Back,1.FC Nuremberg,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Niklas Schmidt,21,Attacking Midfield,Wehen Wiesbaden,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Ole Käuper,22,Defensive Midfield,Erzgebirge Aue,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Michael Zetterer,23,Goalkeeper,A. Klagenfurt,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Max Kruse,31,Second Striker,Fenerbahce,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Ole Käuper,22,Defensive Midfield,Carl Zeiss Jena,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Aron Jóhannsson,28,Centre-Forward,Hammarby,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Robert Bauer,24,Right-Back,Arsenal Tula,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Martin Harnik,32,Right Winger,Hamburger SV,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Thore Jacobsen,22,Defensive Midfield,1.FC Magdeburg,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Niklas Schmidt,21,Attacking Midfield,VfL Osnabrück,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Jan-Niklas Beste,20,Left-Back,FC Emmen,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Michael Zetterer,23,Goalkeeper,PEC Zwolle,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Jean Manuel Mbom,19,Defensive Midfield,KFC Uerdingen,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Felix Beijmo,21,Right-Back,Malmö FF,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Thanos Petsos,28,Defensive Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Marco Friedl,21,Centre-Back,Bayern Munich,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Diadié Samassékou,23,Defensive Midfield,RB Salzburg,£12.60m,in,Summer,12.6,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Robert Skov,23,Right Winger,FC Copenhagen,£9.00m,in,Summer,9,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Ihlas Bebou,25,Right Winger,Hannover 96,£7.65m,in,Summer,7.65,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Sargis Adamyan,26,Left Winger,Jahn Regensburg,£1.35m,in,Summer,1.35,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Sebastian Rudy,29,Defensive Midfield,FC Schalke 04,Loan fee:£765Th.,in,Summer,0.765,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Philipp Pentke,34,Goalkeeper,Jahn Regensburg,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Konstantinos Stafylidis,25,Left-Back,FC Augsburg,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Jürgen Locadia,25,Centre-Forward,Brighton,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Felipe Pires,24,Left Winger,Palmeiras,"End of loanJul 21, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Antonio Colak,25,Centre-Forward,HNK Rijeka,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Philipp Ochs,22,Left Winger,Aalborg BK,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Robert Zulj,27,Attacking Midfield,Union Berlin,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Kevin Akpoguma,24,Centre-Back,Hannover 96,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Gregor Kobel,21,Goalkeeper,FC Augsburg,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Vincenzo Grifo,26,Left Winger,SC Freiburg,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Steven Zuber,27,Left Midfield,VfB Stuttgart,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Justin Hoogma,21,Centre-Back,FC St. Pauli,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Havard Nordtveit,29,Centre-Back,Fulham,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Joelinton,22,Centre-Forward,Newcastle,£39.60m,out,Summer,39.6,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Kerem Demirbay,25,Central Midfield,Bay. Leverkusen,£28.80m,out,Summer,28.8,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Nico Schulz,26,Left-Back,Bor. Dortmund,£22.95m,out,Summer,22.95,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Nadiem Amiri,22,Attacking Midfield,Bay. Leverkusen,£8.10m,out,Summer,8.1,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Vincenzo Grifo,26,Left Winger,SC Freiburg,£6.30m,out,Summer,6.3,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Antonio Colak,25,Centre-Forward,HNK Rijeka,£765Th.,out,Summer,0.765,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Leonardo Bittencourt,25,Attacking Midfield,Werder Bremen,Loan fee:£540Th.,out,Summer,0.54,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Gregor Kobel,21,Goalkeeper,VfB Stuttgart,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Robin Hack,20,Left Winger,1.FC Nuremberg,£450Th.,out,Summer,0.45,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Ádám Szalai,31,Centre-Forward,1.FSV Mainz 05,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,David Otto,20,Centre-Forward,1.FC Heidenheim,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Justin Hoogma,21,Centre-Back,FC Utrecht,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Kasim Adams,24,Centre-Back,F. Düsseldorf,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Felipe Pires,24,Left Winger,Fortaleza,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Reiss Nelson,19,Right Winger,Arsenal U23,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Nana Ampomah,23,Left Winger,Waasl.-Beveren,£2.52m,in,Summer,2.52,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Erik Thommy,24,Left Midfield,VfB Stuttgart,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Bernard Tekpetey,21,Right Winger,FC Schalke 04,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Kelvin Ofori,18,Attacking Midfield,Right to Dream,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Markus Suttner,32,Left-Back,Brighton,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Thomas Pledl,25,Attacking Midfield,FC Ingolstadt,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Florian Kastenmeier,22,Goalkeeper,Stuttgart II,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Zack Steffen,24,Goalkeeper,Man City,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Lewis Baker,24,Central Midfield,Chelsea,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Kasim Adams,24,Centre-Back,TSG Hoffenheim,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Jannick Theißen,21,Goalkeeper,F. Düsseldorf II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Emmanuel Iyoha,21,Centre-Forward,Erzgebirge Aue,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Havard Nielsen,25,Centre-Forward,MSV Duisburg,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Johannes Bühler,21,Defensive Midfield,VfR Aalen,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Benito Raman,24,Left Winger,FC Schalke 04,£5.85m,out,Summer,5.85,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Marvin Ducksch,25,Centre-Forward,Hannover 96,£1.35m,out,Summer,1.35,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Kianz Froese,23,Central Midfield,Saarbrücken,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Emir Kujovic,31,Centre-Forward,Djurgarden,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Jannick Theißen,21,Goalkeeper,Rot-Weiß Erfurt,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Emmanuel Iyoha,21,Centre-Forward,Holstein Kiel,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Havard Nielsen,26,Centre-Forward,Greuther Fürth,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Jaroslav Drobny,39,Goalkeeper,Without Club,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Georgios Siadas,19,Left-Back,F. Düsseldorf II,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Dodi Lukebakio,21,Right Winger,Watford,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Takashi Usami,27,Left Winger,FC Augsburg,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Marcin Kaminski,27,Centre-Back,VfB Stuttgart,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Markus Suttner,32,Left-Back,Brighton,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Dodi Lukebakio,21,Right Winger,Watford,£18.00m,in,Summer,18,1 Bundesliga,2019,2019/2020
+Hertha BSC,Eduard Löwen,22,Central Midfield,1.FC Nuremberg,£6.30m,in,Summer,6.3,1 Bundesliga,2019,2019/2020
+Hertha BSC,Daishawn Redan,18,Centre-Forward,Chelsea U23,£2.43m,in,Summer,2.43,1 Bundesliga,2019,2019/2020
+Hertha BSC,Marko Grujic,23,Central Midfield,Liverpool,Loan fee:£1.80m,in,Summer,1.8,1 Bundesliga,2019,2019/2020
+Hertha BSC,Marius Wolf,24,Right Winger,Bor. Dortmund,Loan fee:£1.80m,in,Summer,1.8,1 Bundesliga,2019,2019/2020
+Hertha BSC,Dedryck Boyata,28,Centre-Back,Celtic,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Alexander Esswein,29,Right Winger,VfB Stuttgart,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Maximilian Pronichev,21,Centre-Forward,Hallescher FC,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Sidney Friede,21,Central Midfield,Mouscron,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Muhammed Kiprit,19,Centre-Forward,FC Wacker,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Valentino Lazaro,23,Right Midfield,Inter,£20.16m,out,Summer,20.16,1 Bundesliga,2019,2019/2020
+Hertha BSC,Fabian Lustenberger,31,Centre-Back,BSC Young Boys,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Jonathan Klinsmann,22,Goalkeeper,FC St. Gallen,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Julius Kade,20,Attacking Midfield,Union Berlin,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Marius Gersbeck,24,Goalkeeper,Karlsruher SC,£41Th.,out,Summer,0.041,1 Bundesliga,2019,2019/2020
+Hertha BSC,Maximilian Pronichev,21,Centre-Forward,Hertha BSC II,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Marko Grujic,23,Central Midfield,Liverpool,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Derrick Luckassen,23,Centre-Back,PSV Eindhoven,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Jeremiah St. Juste,22,Centre-Back,Feyenoord,£7.20m,in,Summer,7.2,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Edimilson Fernandes,23,Central Midfield,West Ham,£6.75m,in,Summer,6.75,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Aarón Martín,22,Left-Back,Espanyol,£5.40m,in,Summer,5.4,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Ronaël Pierre-Gabriel,21,Right-Back,Monaco,£4.95m,in,Summer,4.95,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Jonathan Meier,19,Left-Back,FC Bayern II,£1.08m,in,Summer,1.08,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Taiwo Awoniyi,21,Centre-Forward,Liverpool,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Cyrill Akono,19,Centre-Forward,Preußen Münster,£315Th.,in,Summer,0.315,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Dong-won Ji,28,Centre-Forward,FC Augsburg,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Omer Hanin,21,Goalkeeper,Hapoel Hadera,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Ádám Szalai,31,Centre-Forward,TSG Hoffenheim,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Merveille Papela,18,Central Midfield,Mainz 05 U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Niklas Tauer,18,Defensive Midfield,Mainz 05 U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Aaron Seydel,23,Left Winger,Holstein Kiel,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Marin Sverko,21,Left-Back,Karlsruher SC,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,José Rodríguez,24,Central Midfield,Fortuna Sittard,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Jean-Philippe Gbamin,23,Defensive Midfield,Everton,£22.50m,out,Summer,22.5,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Anthony Ujah,28,Centre-Forward,Union Berlin,£1.80m,out,Summer,1.8,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Emil Berggreen,26,Centre-Forward,Twente FC,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,José Rodríguez,24,Central Midfield,Málaga CF,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Jannik Huth,25,Goalkeeper,SC Paderborn,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Gerrit Holtmann,24,Left Winger,SC Paderborn,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Niko Bungert,32,Centre-Back,Retired,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,René Adler,34,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Giulio Donati,29,Right-Back,Without Club,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Gaëtan Bussmann,28,Left-Back,Without Club,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Abass Issah,20,Centre-Forward,FC Utrecht,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Marin Sverko,21,Left-Back,FSV Mainz 05 II,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Erkan Eyibil,19,Attacking Midfield,FSV Mainz 05 II,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Aarón Martín,22,Left-Back,Espanyol,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Vincenzo Grifo,26,Left Winger,TSG Hoffenheim,£6.30m,in,Summer,6.3,1 Bundesliga,2019,2019/2020
+SC Freiburg,Jonathan Schmid,29,Right-Back,FC Augsburg,£3.60m,in,Summer,3.6,1 Bundesliga,2019,2019/2020
+SC Freiburg,Chang-hoon Kwon,25,Right Winger,Dijon,£2.70m,in,Summer,2.7,1 Bundesliga,2019,2019/2020
+SC Freiburg,Luca Itter,20,Left-Back,VfL Wolfsburg,£2.25m,in,Summer,2.25,1 Bundesliga,2019,2019/2020
+SC Freiburg,Woo-yeong Jeong,19,Right Winger,FC Bayern II,£1.80m,in,Summer,1.8,1 Bundesliga,2019,2019/2020
+SC Freiburg,Niclas Thiede,20,Goalkeeper,SC Freiburg II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Yannik Keitel,20,Defensive Midfield,SC Freiburg II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Christoph Daferner,21,Centre-Forward,SC Freiburg II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Nico Schlotterbeck,19,Centre-Back,SC Freiburg II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Lino Tempelmann,20,Central Midfield,SC Freiburg II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Fabian Schleusener,27,Right Winger,SV Sandhausen,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Jonas Föhrenbach,23,Left-Back,Jahn Regensburg,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Vincent Sierro,23,Central Midfield,FC St. Gallen,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Patrick Kammerbauer,22,Defensive Midfield,Holstein Kiel,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Yoric Ravet,29,Right Winger,Grasshoppers,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Tim Kleindienst,24,Centre-Forward,1.FC Heidenheim,£2.70m,out,Summer,2.7,1 Bundesliga,2019,2019/2020
+SC Freiburg,Florian Niederlechner,28,Centre-Forward,FC Augsburg,£2.25m,out,Summer,2.25,1 Bundesliga,2019,2019/2020
+SC Freiburg,Vincent Sierro,23,Central Midfield,BSC Young Boys,£1.35m,out,Summer,1.35,1 Bundesliga,2019,2019/2020
+SC Freiburg,Jonas Föhrenbach,23,Left-Back,1.FC Heidenheim,£450Th.,out,Summer,0.45,1 Bundesliga,2019,2019/2020
+SC Freiburg,Fabian Schleusener,27,Right Winger,1.FC Nuremberg,£405Th.,out,Summer,0.405,1 Bundesliga,2019,2019/2020
+SC Freiburg,Patrick Kammerbauer,22,Defensive Midfield,E. Braunschweig,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Christoph Daferner,21,Centre-Forward,Erzgebirge Aue,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Chima Okoroji,22,Left-Back,Jahn Regensburg,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Constantin Frommann,21,Goalkeeper,Sonnenhof-Gr.,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Keven Schlotterbeck,22,Centre-Back,Union Berlin,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Pascal Stenzel,23,Right-Back,VfB Stuttgart,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Vincenzo Grifo,26,Left Winger,TSG Hoffenheim,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Ozan Kabak,19,Centre-Back,VfB Stuttgart,£13.50m,in,Summer,13.5,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Benito Raman,24,Left Winger,F. Düsseldorf,£5.85m,in,Summer,5.85,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Bernard Tekpetey,21,Right Winger,SC Paderborn,£2.25m,in,Summer,2.25,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Markus Schubert,21,Goalkeeper,Dynamo Dresden,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Jonjoe Kenny,22,Right-Back,Everton,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Juan Miranda,19,Left-Back,FC Barcelona,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Jonas Carls,22,Left-Back,Schalke 04 II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Levent Mercan,18,Attacking Midfield,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Fabian Reese,21,Centre-Forward,Greuther Fürth,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Pablo Insua,25,Centre-Back,SD Huesca,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Breel Embolo,22,Centre-Forward,Bor. M'gladbach,£9.90m,out,Summer,9.9,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Ralf Fährmann,30,Goalkeeper,Norwich,Loan fee:£2.70m,out,Summer,2.7,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Yevgen Konoplyanka,29,Left Winger,Shakhtar D.,£1.35m,out,Summer,1.35,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Sebastian Rudy,29,Defensive Midfield,TSG Hoffenheim,Loan fee:£765Th.,out,Summer,0.765,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Cedric Teuchert,22,Centre-Forward,Hannover 96,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Bernard Tekpetey,21,Right Winger,F. Düsseldorf,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Hamza Mendyl,21,Left-Back,Dijon,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Benjamin Goller,20,Right Winger,Werder Bremen,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Pablo Insua,25,Centre-Back,SD Huesca,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Sascha Riether,36,Right-Back,Retired,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Jeffrey Bruma,27,Centre-Back,VfL Wolfsburg,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Tomas Koubek,26,Goalkeeper,Stade Rennais,£6.75m,in,Summer,6.75,1 Bundesliga,2019,2019/2020
+FC Augsburg,Iago,22,Left-Back,Internacional,£5.85m,in,Summer,5.85,1 Bundesliga,2019,2019/2020
+FC Augsburg,Ruben Vargas,20,Left Winger,FC Luzern,£3.60m,in,Summer,3.6,1 Bundesliga,2019,2019/2020
+FC Augsburg,Carlos Gruezo,24,Defensive Midfield,FC Dallas,£3.60m,in,Summer,3.6,1 Bundesliga,2019,2019/2020
+FC Augsburg,Florian Niederlechner,28,Centre-Forward,SC Freiburg,£2.25m,in,Summer,2.25,1 Bundesliga,2019,2019/2020
+FC Augsburg,Reece Oxford,20,Centre-Back,West Ham,£1.80m,in,Summer,1.8,1 Bundesliga,2019,2019/2020
+FC Augsburg,Noah Sarenren Bazee,22,Right Winger,Hannover 96,£1.53m,in,Summer,1.53,1 Bundesliga,2019,2019/2020
+FC Augsburg,Felix Uduokhai,21,Centre-Back,VfL Wolfsburg,Loan fee:£1.35m,in,Summer,1.35,1 Bundesliga,2019,2019/2020
+FC Augsburg,Marvin Friedrich,23,Centre-Back,Union Berlin,£900Th.,in,Summer,0.9,1 Bundesliga,2019,2019/2020
+FC Augsburg,Mads Pedersen,22,Left-Back,Nordsjaelland,£720Th.,in,Summer,0.72,1 Bundesliga,2019,2019/2020
+FC Augsburg,Marek Suchy,31,Centre-Back,FC Basel,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Stephan Lichtsteiner,35,Right-Back,Arsenal,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Tin Jedvaj,23,Centre-Back,Bay. Leverkusen,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Maurice Malone,18,Centre-Forward,FC Augsburg U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Julian Günther-Schmidt,24,Centre-Forward,Carl Zeiss Jena,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Takashi Usami,27,Left Winger,F. Düsseldorf,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Tim Rieder,25,Defensive Midfield,SV Darmstadt 98,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Martin Hinteregger,26,Centre-Back,E. Frankfurt,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Caiuby,30,Centre-Forward,Grasshoppers,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Martin Hinteregger,26,Centre-Back,E. Frankfurt,£8.10m,out,Summer,8.1,1 Bundesliga,2019,2019/2020
+FC Augsburg,Jonathan Schmid,29,Right-Back,SC Freiburg,£3.60m,out,Summer,3.6,1 Bundesliga,2019,2019/2020
+FC Augsburg,Kevin Danso,20,Centre-Back,Southampton,Loan fee:£3.60m,out,Summer,3.6,1 Bundesliga,2019,2019/2020
+FC Augsburg,Marvin Friedrich,23,Centre-Back,Union Berlin,£1.80m,out,Summer,1.8,1 Bundesliga,2019,2019/2020
+FC Augsburg,Dong-won Ji,28,Centre-Forward,1.FSV Mainz 05,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Konstantinos Stafylidis,25,Left-Back,TSG Hoffenheim,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Ja-cheol Koo,30,Central Midfield,Al-Gharafa SC,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Takashi Usami,27,Left Winger,Gamba Osaka,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+FC Augsburg,Julian Günther-Schmidt,24,Centre-Forward,Carl Zeiss Jena,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+FC Augsburg,Tim Rieder,25,Defensive Midfield,1860 Munich,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Christoph Janker,34,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Kilian Jakob,21,Left-Back,FC Augsburg II,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Felix Schwarzholz,19,Defensive Midfield,FC Augsburg II,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Jan-Ingwer Callsen-Bracker,34,Centre-Back,Retired,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Caiuby,31,Centre-Forward,Without Club,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Gregor Kobel,21,Goalkeeper,TSG Hoffenheim,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Reece Oxford,20,Centre-Back,West Ham,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Sebastiaan Bornauw,20,Centre-Back,RSC Anderlecht,£5.40m,in,Summer,5.4,1 Bundesliga,2019,2019/2020
+1. FC Köln,Ellyes Skhiri,24,Defensive Midfield,Montpellier,£5.40m,in,Summer,5.4,1 Bundesliga,2019,2019/2020
+1. FC Köln,Birger Verstraete,25,Defensive Midfield,KAA Gent,£3.60m,in,Summer,3.6,1 Bundesliga,2019,2019/2020
+1. FC Köln,Kingsley Ehizibue,24,Right-Back,PEC Zwolle,£1.80m,in,Summer,1.8,1 Bundesliga,2019,2019/2020
+1. FC Köln,Kingsley Schindler,25,Right Winger,Holstein Kiel,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Julian Krahl,19,Goalkeeper,RB Leipzig,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Tomas Ostrak,19,Attacking Midfield,1.FC Köln U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Darko Churlinov,18,Left Winger,1.FC Köln U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Ismail Jakobs,19,Left Winger,1.FC Köln II,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Yann Aurel Bisseck,18,Centre-Back,Holstein Kiel,"End of loanAug 21, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Noah Katterbach,18,Left-Back,1.FC Köln U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Tim Handwerker,21,Left-Back,FC Groningen,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,João Queirós,21,Centre-Back,Sporting CP U23,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Serhou Guirassy,23,Centre-Forward,Amiens SC,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Serhou Guirassy,23,Centre-Forward,Amiens SC,£5.40m,out,Summer,5.4,1 Bundesliga,2019,2019/2020
+1. FC Köln,Tim Handwerker,21,Left-Back,1.FC Nuremberg,£270Th.,out,Summer,0.27,1 Bundesliga,2019,2019/2020
+1. FC Köln,Jannes Horn,22,Left-Back,Hannover 96,Loan fee:£90Th.,out,Summer,0.09,1 Bundesliga,2019,2019/2020
+1. FC Köln,Chris Führich,21,Left Winger,B. Dortmund II,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Johannes Geis,25,Defensive Midfield,1.FC Nuremberg,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Tomas Ostrak,19,Attacking Midfield,TSV Hartberg,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,João Queirós,21,Centre-Back,Willem II,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Jan-Christoph Bartels,20,Goalkeeper,Wehen Wiesbaden,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Frederik Sörensen,27,Centre-Back,BSC Young Boys,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Yann Aurel Bisseck,18,Centre-Back,Roda JC,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Salih Özcan,21,Central Midfield,Holstein Kiel,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Nikolas Nartey,19,Central Midfield,VfB Stuttgart,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+1. FC Köln,Matthias Lehmann,36,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Rifet Kapic,23,Central Midfield,Grasshoppers,£135Th.,in,Summer,0.135,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Marcel Hilßner,24,Right Winger,Hansa Rostock,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Jan-Luca Rumpf,19,Centre-Back,Spfr. Siegen,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Cauly,23,Right Winger,MSV Duisburg,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Johannes Dörfler,22,Right Winger,KFC Uerdingen,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Luca Kilian,19,Centre-Back,B. Dortmund II,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Streli Mamba,25,Centre-Forward,Energie Cottbus,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Abdelhamid Sabiri,22,Attacking Midfield,Huddersfield,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Jannik Huth,25,Goalkeeper,1.FSV Mainz 05,?,in,Summer,NA,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Gerrit Holtmann,24,Left Winger,1.FSV Mainz 05,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Laurent Jans,26,Right-Back,FC Metz,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Sergio Gucciardo,20,Left Winger,Alem. Aachen,"End of loanAug 27, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Luca Pfeiffer,22,Centre-Forward,VfL Osnabrück,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Phillip Tietz,21,Centre-Forward,Carl Zeiss Jena,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Julius Düker,23,Centre-Forward,E. Braunschweig,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Felix Drinkuth,24,Left Winger,SF Lotte,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Bernard Tekpetey,21,Right Winger,FC Schalke 04,£2.25m,out,Summer,2.25,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Philipp Klement,26,Attacking Midfield,VfB Stuttgart,£2.25m,out,Summer,2.25,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Lukas Boeder,22,Centre-Back,MSV Duisburg,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Felix Herzenbruch,26,Left-Back,RW Essen,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Julius Düker,23,Centre-Forward,SV Meppen,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Olivér Schindler,19,Central Midfield,SV Lippstadt 08,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Sergio Gucciardo,20,Left Winger,Alem. Aachen,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Sascha Heil,20,Centre-Back,FC Gießen,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Mohammed Kamara,21,Centre-Forward,LA Galaxy II,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Tobias Schwede,25,Left Midfield,Wehen Wiesbaden,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Sergio Gucciardo,20,Left Winger,SV Lippstadt 08,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Luca Pfeiffer,22,Centre-Forward,Würzb. Kickers,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Phillip Tietz,21,Centre-Forward,Wehen Wiesbaden,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Felix Drinkuth,24,Left Winger,Hallescher FC,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Leon Fesser,24,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Massih Wassey,31,Attacking Midfield,SC Paderborn II,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Marvin Friedrich,23,Centre-Back,FC Augsburg,£1.80m,in,Summer,1.8,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Anthony Ujah,28,Centre-Forward,1.FSV Mainz 05,£1.80m,in,Summer,1.8,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Marcus Ingvartsen,23,Right Winger,KRC Genk,£1.35m,in,Summer,1.35,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Robert Andrich,24,Central Midfield,1.FC Heidenheim,£900Th.,in,Summer,0.9,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Suleiman Abdullahi,22,Centre-Forward,E. Braunschweig,£450Th.,in,Summer,0.45,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Marius Bülter,26,Left Winger,1.FC Magdeburg,Loan fee:£360Th.,in,Summer,0.36,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Julius Kade,20,Attacking Midfield,Hertha BSC,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Florian Flecker,23,Right Winger,TSV Hartberg,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Christian Gentner,33,Central Midfield,VfB Stuttgart,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Sheraldo Becker,24,Right Winger,ADO Den Haag,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Neven Subotic,30,Centre-Back,Saint-Étienne,Free transfer,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Manuel Schmiedebach,30,Defensive Midfield,Hannover 96,?,in,Summer,NA,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Keven Schlotterbeck,22,Centre-Back,SC Freiburg,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Moritz Nicolas,21,Goalkeeper,Bor. M'gladbach,Loan,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Maurice Opfermann Arcones,19,Defensive Midfield,U. Berlin U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Laurenz Dehl,17,Attacking Midfield,U. Berlin U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Leo Oppermann,18,Goalkeeper,U. Berlin U19,-,in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Cihan Kahraman,20,Attacking Midfield,U. Fürstenwalde,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Peter Kurzweg,25,Left-Back,Würzb. Kickers,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Lars Dietz,22,Centre-Back,SF Lotte,"End of loanJun 30, 2019",in,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Marvin Friedrich,23,Centre-Back,FC Augsburg,£900Th.,out,Summer,0.9,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Marcel Hartel,23,Attacking Midfield,Arm. Bielefeld,£225Th.,out,Summer,0.225,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Lennart Moser,19,Goalkeeper,Energie Cottbus,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Eroll Zejnullahu,24,Central Midfield,Carl Zeiss Jena,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Cihan Kahraman,20,Attacking Midfield,Berliner AK,Free transfer,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Peter Kurzweg,25,Left-Back,FC Ingolstadt,?,out,Summer,NA,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Berkan Taz,20,Left Winger,Energie Cottbus,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Lars Dietz,22,Centre-Back,Viktoria Köln,Loan,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Marc Torrejón,33,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Fabian Schönheim,32,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Manuel Schmiedebach,30,Defensive Midfield,Hannover 96,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Suleiman Abdullahi,22,Centre-Forward,E. Braunschweig,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Robert Zulj,27,Attacking Midfield,TSG Hoffenheim,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Carlos Mané,25,Right Winger,Sporting CP,"End of loanJun 30, 2019",out,Summer,0,1 Bundesliga,2019,2019/2020
+Bayern Munich,Álvaro Odriozola,24,Right-Back,Real Madrid,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Erling Haaland,19,Centre-Forward,RB Salzburg,£18.00m,in,Winter,18,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Emre Can,26,Defensive Midfield,Juventus,Loan fee:£900Th.,in,Winter,0.9,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Giovanni Reyna,17,Attacking Midfield,B. Dortmund U19,-,in,Winter,0,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Paco Alcácer,26,Centre-Forward,Villarreal,£20.70m,out,Winter,20.7,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Julian Weigl,24,Defensive Midfield,Benfica,£18.00m,out,Winter,18,1 Bundesliga,2019,2019/2020
+Borussia Dortmund,Jacob Bruun Larsen,21,Left Winger,TSG Hoffenheim,£8.10m,out,Winter,8.1,1 Bundesliga,2019,2019/2020
+RB Leipzig,Dani Olmo,21,Attacking Midfield,Dinamo Zagreb,£18.90m,in,Winter,18.9,1 Bundesliga,2019,2019/2020
+RB Leipzig,Angeliño,23,Left-Back,Man City,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Elias Abouchabaka,19,Attacking Midfield,Greuther Fürth,"End of loanJan 17, 2020",in,Winter,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Jean-Kévin Augustin,22,Centre-Forward,Monaco,"End of loanJan 26, 2020",in,Winter,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Matheus Cunha,20,Centre-Forward,Hertha BSC,£16.20m,out,Winter,16.2,1 Bundesliga,2019,2019/2020
+RB Leipzig,Diego Demme,28,Defensive Midfield,SSC Napoli,£10.80m,out,Winter,10.8,1 Bundesliga,2019,2019/2020
+RB Leipzig,Marcelo Saracchi,21,Left-Back,Galatasaray,Loan fee:£450Th.,out,Winter,0.45,1 Bundesliga,2019,2019/2020
+RB Leipzig,Stefan Ilsanker,30,Defensive Midfield,E. Frankfurt,£450Th.,out,Winter,0.45,1 Bundesliga,2019,2019/2020
+RB Leipzig,Elias Abouchabaka,19,Attacking Midfield,Vit. Guimarães,Free transfer,out,Winter,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Luan Cândido,18,Left-Back,RB Bragantino,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+RB Leipzig,Jean-Kévin Augustin,22,Centre-Forward,Leeds,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Edmond Tapsoba,20,Centre-Back,Vit. Guimarães,£16.20m,in,Winter,16.2,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Exequiel Palacios,21,Central Midfield,River Plate,£15.30m,in,Winter,15.3,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Joel Pohjanpalo,25,Centre-Forward,Hamburger SV,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Bayer 04 Leverkusen,Panagiotis Retsos,21,Centre-Back,Sheffield Utd.,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Jordan Beyer,19,Right-Back,Hamburger SV,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Andreas Poulsen,20,Left-Back,Austria Vienna,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Borussia Mönchengladbach,Julio Villalba,21,Centre-Forward,SCR Altach,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Marin Pongracic,22,Centre-Back,RB Salzburg,£9.00m,in,Winter,9,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Paul-Georges Ntep,27,Left Winger,Kayserispor,"End of loanFeb 10, 2020",in,Winter,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Elvis Rexhbecaj,22,Central Midfield,1. FC Köln,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Yunus Malli,27,Attacking Midfield,Union Berlin,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Jeffrey Bruma,28,Centre-Back,1.FSV Mainz 05,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Lukas Nmecha,21,Centre-Forward,Man City U23,"End of loanJan 2, 2020",out,Winter,0,1 Bundesliga,2019,2019/2020
+VfL Wolfsburg,Paul-Georges Ntep,27,Left Winger,Without Club,-,out,Winter,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Stefan Ilsanker,30,Defensive Midfield,RB Leipzig,£450Th.,in,Winter,0.45,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Simon Falette,27,Centre-Back,Fenerbahce,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Nicolai Müller,32,Right Winger,Western Sydney,Free transfer,out,Winter,0,1 Bundesliga,2019,2019/2020
+Eintracht Frankfurt,Dejan Joveljic,20,Centre-Forward,RSC Anderlecht,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Davie Selke,25,Centre-Forward,Hertha BSC,Loan fee:£900Th.,in,Winter,0.9,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Kevin Vogt,28,Centre-Back,TSG Hoffenheim,Loan fee:£675Th.,in,Winter,0.675,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Felix Beijmo,21,Right-Back,Malmö FF,"End of loanDec 31, 2019",in,Winter,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,Felix Beijmo,22,Right-Back,Greuther Fürth,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+SV Werder Bremen,David Philipp,19,Right Winger,W. Bremen II,-,out,Winter,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Munas Dabbur,27,Centre-Forward,Sevilla FC,£10.80m,in,Winter,10.8,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Jacob Bruun Larsen,21,Left Winger,Bor. Dortmund,£8.10m,in,Winter,8.1,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Michael Esser,32,Goalkeeper,Hannover 96,Free transfer,in,Winter,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Ilay Elmkies,19,Central Midfield,Hoffenheim II,-,in,Winter,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Bruno Nazário,24,Left Winger,Athletico-PR,"End of loanDec 31, 2019",in,Winter,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Felipe Pires,24,Left Winger,Fortaleza,"End of loanDec 31, 2019",in,Winter,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Kevin Vogt,28,Centre-Back,Werder Bremen,Loan fee:£675Th.,out,Winter,0.675,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Lukas Rupp,29,Central Midfield,Norwich,£450Th.,out,Winter,0.45,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Philipp Ochs,22,Left Winger,Hannover 96,Free transfer,out,Winter,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Robert Zulj,27,Attacking Midfield,VfL Bochum,?,out,Winter,NA,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Bruno Nazário,24,Left Winger,Botafogo,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Joshua Brenet,25,Right-Back,Vitesse,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Felipe Pires,24,Left Winger,HNK Rijeka,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+TSG 1899 Hoffenheim,Jürgen Locadia,26,Centre-Forward,Brighton,"End of loanJan 31, 2020",out,Winter,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Dawid Kownacki,22,Centre-Forward,Sampdoria,£6.08m,in,Winter,6.08,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Steven Skrzybski,27,Right Winger,FC Schalke 04,Loan fee:£180Th.,in,Winter,0.18,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Valon Berisha,26,Central Midfield,Lazio,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Zanka,29,Centre-Back,Fenerbahce,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Jannick Theißen,22,Goalkeeper,Rot-Weiß Erfurt,"End of loanJan 29, 2020",in,Winter,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Davor Lovren,21,Left Winger,Slaven Belupo,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Lewis Baker,24,Central Midfield,Chelsea,"End of loanJan 22, 2020",out,Winter,0,1 Bundesliga,2019,2019/2020
+Fortuna Düsseldorf,Dawid Kownacki,22,Centre-Forward,Sampdoria,"End of loanDec 31, 2019",out,Winter,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Lucas Tousart,22,Defensive Midfield,Olympique Lyon,£22.50m,in,Winter,22.5,1 Bundesliga,2019,2019/2020
+Hertha BSC,Krzysztof Piatek,24,Centre-Forward,AC Milan,£21.60m,in,Winter,21.6,1 Bundesliga,2019,2019/2020
+Hertha BSC,Matheus Cunha,20,Centre-Forward,RB Leipzig,£16.20m,in,Winter,16.2,1 Bundesliga,2019,2019/2020
+Hertha BSC,Santiago Ascacíbar,22,Defensive Midfield,VfB Stuttgart,£9.00m,in,Winter,9,1 Bundesliga,2019,2019/2020
+Hertha BSC,Davie Selke,25,Centre-Forward,Werder Bremen,Loan fee:£900Th.,out,Winter,0.9,1 Bundesliga,2019,2019/2020
+Hertha BSC,Sidney Friede,21,Central Midfield,Wehen Wiesbaden,Free transfer,out,Winter,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Lucas Tousart,22,Defensive Midfield,Olympique Lyon,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Eduard Löwen,22,Central Midfield,FC Augsburg,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Maurice Covic,21,Left Winger,Ascoli,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Ondrej Duda,25,Attacking Midfield,Norwich,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Dennis Jastrzembski,19,Left Winger,SC Paderborn,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+Hertha BSC,Daishawn Redan,18,Centre-Forward,FC Groningen,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Jeffrey Bruma,28,Centre-Back,VfL Wolfsburg,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Erkan Eyibil,18,Attacking Midfield,Mainz 05 U19,-,in,Winter,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Alexandru Maxim,29,Attacking Midfield,Gaziantep FK,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Aaron Seydel,23,Left Winger,Jahn Regensburg,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+1.FSV Mainz 05,Ahmet Gürleyen,20,Centre-Back,FC Liefering,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+SC Freiburg,Marco Terrazzino,28,Left Winger,Dynamo Dresden,Loan fee:£68Th.,out,Winter,0.068,1 Bundesliga,2019,2019/2020
+SC Freiburg,Jérôme Gondorf,31,Central Midfield,Karlsruher SC,Loan fee:£68Th.,out,Winter,0.068,1 Bundesliga,2019,2019/2020
+SC Freiburg,Woo-yeong Jeong,20,Right Winger,FC Bayern II,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Jean-Clair Todibo,20,Centre-Back,FC Barcelona,Loan fee:£1.35m,in,Winter,1.35,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Michael Gregoritsch,25,Second Striker,FC Augsburg,Loan fee:£450Th.,in,Winter,0.45,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Ralf Fährmann,31,Goalkeeper,Norwich,"End of loanMar 9, 2020",in,Winter,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Nabil Bentaleb,25,Central Midfield,Newcastle,Loan fee:£900Th.,out,Winter,0.9,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Steven Skrzybski,27,Right Winger,F. Düsseldorf,Loan fee:£180Th.,out,Winter,0.18,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Fabian Reese,22,Centre-Forward,Holstein Kiel,£90Th.,out,Winter,0.09,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Jonas Carls,22,Left-Back,Viktoria Köln,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Mark Uth,28,Second Striker,1. FC Köln,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+FC Schalke 04,Ralf Fährmann,31,Goalkeeper,SK Brann,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Eduard Löwen,22,Central Midfield,Hertha BSC,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Michael Gregoritsch,25,Second Striker,FC Schalke 04,Loan fee:£450Th.,out,Winter,0.45,1 Bundesliga,2019,2019/2020
+FC Augsburg,Mads Pedersen,23,Left-Back,FC Zürich,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+FC Augsburg,Caiuby,31,Centre-Forward,Without Club,-,out,Winter,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Mark Uth,28,Second Striker,FC Schalke 04,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Elvis Rexhbecaj,22,Central Midfield,VfL Wolfsburg,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Toni Leistner,29,Centre-Back,QPR,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Jan Thielmann,17,Right Winger,1.FC Köln U19,-,in,Winter,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Matthias Bader,22,Right-Back,SV Darmstadt 98,£405Th.,out,Winter,0.405,1 Bundesliga,2019,2019/2020
+1. FC Köln,Louis Schaub,25,Attacking Midfield,Hamburger SV,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Darko Churlinov,19,Left Winger,VfB Stuttgart,?,out,Winter,NA,1 Bundesliga,2019,2019/2020
+1. FC Köln,Lasse Sobiech,29,Centre-Back,Mouscron,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+1. FC Köln,Vincent Koziello,24,Central Midfield,Paris FC,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Samúel Fridjónsson,23,Defensive Midfield,Vålerenga,£360Th.,in,Winter,0.36,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Dennis Srbeny,25,Centre-Forward,Norwich,£180Th.,in,Winter,0.18,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Antony Evans,21,Attacking Midfield,Everton U23,?,in,Winter,NA,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Dennis Jastrzembski,19,Left Winger,Hertha BSC,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Adrian Oeynhausen,17,Defensive Midfield,Paderborn U19,-,in,Winter,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Cauly,24,Right Winger,Ludogorets,£540Th.,out,Winter,0.54,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Khiry Shelton,26,Centre-Forward,Kansas,Free transfer,out,Winter,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Michael Ratajczak,37,Goalkeeper,Hannover 96,Free transfer,out,Winter,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Babacar Gueye,25,Centre-Forward,Karlsruher SC,Free transfer,out,Winter,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Marcel Hilßner,24,Right Winger,Hallescher FC,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+SC Paderborn 07,Johannes Dörfler,23,Right Winger,FSV Zwickau,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Yunus Malli,27,Attacking Midfield,VfL Wolfsburg,Loan,in,Winter,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Lennart Moser,20,Goalkeeper,Energie Cottbus,"End of loanJan 20, 2020",in,Winter,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Lennard Maloney,20,Centre-Back,Chemnitzer FC,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Nicolai Rapp,23,Centre-Back,SV Darmstadt 98,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020
+1.FC Union Berlin,Lennart Moser,20,Goalkeeper,Cercle Brugge,Loan,out,Winter,0,1 Bundesliga,2019,2019/2020

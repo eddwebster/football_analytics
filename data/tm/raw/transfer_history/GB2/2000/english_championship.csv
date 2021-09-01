@@ -1,0 +1,657 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Cardiff City,David Hughes,23,Left-Back,Shrewsbury,£630k,in,0.63,Championship,2000,2000/2001
+Cardiff City,Rhys Weston,20,Right-Back,Arsenal,£405k,in,0.405,Championship,2000,2000/2001
+Cardiff City,Gavin Gordon,21,Centre-Forward,Lincoln City,£360k,in,0.36,Championship,2000,2000/2001
+Cardiff City,Danny Gabbidon,21,Centre-Back,West Brom,£234k,in,0.234,Championship,2000,2000/2001
+Cardiff City,Andy Thompson,32,Defender,Tranmere Rovers,Free Transfer,in,0,Championship,2000,2000/2001
+Cardiff City,Kyle Lightbourne,32,Forward,Stoke City,Loan,in,0,Championship,2000,2000/2001
+Cardiff City,Mark Walton,31,Goalkeeper,Brighton,Free Transfer,in,0,Championship,2000,2000/2001
+Cardiff City,James Harper,20,Central Midfield,Arsenal,Loan,in,0,Championship,2000,2000/2001
+Cardiff City,Paul Brayson,22,Forward,Reading,Free Transfer,in,0,Championship,2000,2000/2001
+Cardiff City,Ian Feuer,29,Goalkeeper,Colorado,Free Transfer,in,0,Championship,2000,2000/2001
+Cardiff City,Andy Jordan,20,Defender,Bristol City,£33k,in,0.033,Championship,2000,2000/2001
+Cardiff City,Scott McCulloch,24,Left-Back,Dundee United,?,in,NA,Championship,2000,2000/2001
+Cardiff City,David Greene,26,Defender,Colchester Utd.,?,in,NA,Championship,2000,2000/2001
+Cardiff City,Gethin Jones,18,Centre-Back,Cardiff U18,-,in,0,Championship,2000,2000/2001
+Cardiff City,Christian Roberts,20,Centre-Forward,Exeter City,Free Transfer,out,0,Championship,2000,2000/2001
+Cardiff City,Jon Hallworth,35,Goalkeeper,Newport County,Free Transfer,out,0,Championship,2000,2000/2001
+Cardiff City,Russell Perrett,27,Centre-Back,Luton Town,Free Transfer,out,0,Championship,2000,2000/2001
+Cardiff City,Ian Feuer,29,Goalkeeper,West Ham,Free Transfer,out,0,Championship,2000,2000/2001
+Cardiff City,Richard Carpenter,27,Central Midfield,Brighton,Free Transfer,out,0,Championship,2000,2000/2001
+Cardiff City,David Greene,27,Defender,Cambridge Utd.,?,out,NA,Championship,2000,2000/2001
+Cardiff City,Winston Faerber,29,Right-Back,FC Den Bosch,?,out,NA,Championship,2000,2000/2001
+Cardiff City,Jörn Schwinkendorf,29,Centre-Back,VfL Osnabrück,?,out,NA,Championship,2000,2000/2001
+Cardiff City,James Harper,20,Central Midfield,Arsenal,"End of loanJan 25, 2001",out,0,Championship,2000,2000/2001
+Cardiff City,Kyle Lightbourne,32,Forward,Stoke City,"End of loanMar 1, 2001",out,0,Championship,2000,2000/2001
+Fulham FC,Alain Goma,28,Centre-Back,Newcastle,£5.40m,in,5.4,Championship,2000,2000/2001
+Fulham FC,Louis Saha,21,Centre-Forward,FC Metz,£2.84m,in,2.84,Championship,2000,2000/2001
+Fulham FC,Andrejs Stolcers,26,Attacking Midfield,Shakhtar D.,£2.70m,in,2.7,Championship,2000,2000/2001
+Fulham FC,John Collins,32,Left Midfield,Everton,£2.48m,in,2.48,Championship,2000,2000/2001
+Fulham FC,Bjarne Goldbaek,32,Central Midfield,Chelsea,£878k,in,0.878,Championship,2000,2000/2001
+Fulham FC,Kieran McAnespie,20,Left-Back,St. Johnstone,£108k,in,0.108,Championship,2000,2000/2001
+Fulham FC,Fabrice Fernandes,20,Left Winger,Stade Rennais,Loan,in,0,Championship,2000,2000/2001
+Fulham FC,Luís Boa Morte,22,Left Midfield,Southampton,Loan,in,0,Championship,2000,2000/2001
+Fulham FC,Nicolas Sahnoun,20,Defensive Midfield,G. Bordeaux,Loan,in,0,Championship,2000,2000/2001
+Fulham FC,Glyn Thompson,19,Goalkeeper,Shrewsbury,"End of loanFeb 1, 2001",in,0,Championship,2000,2000/2001
+Fulham FC,Luke Cornwall,20,Centre-Forward,Grimsby Town,"End of loanMay 8, 2001",in,0,Championship,2000,2000/2001
+Fulham FC,Calum Willock,18,Centre-Forward,Fulham U18,-,in,0,Championship,2000,2000/2001
+Fulham FC,Kieran McAnespie,21,Left-Back,Heart of Midl.,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Fulham FC,Elvis Hammond,19,Centre-Forward,Fulham U18,-,in,0,Championship,2000,2000/2001
+Fulham FC,Paul Peschisolido,29,Centre-Forward,Sheffield Utd.,"End of loanMar 1, 2001",in,0,Championship,2000,2000/2001
+Fulham FC,Paul Peschisolido,29,Centre-Forward,Norwich,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Fulham FC,Geoff Horsfield,26,Centre-Forward,Birmingham,£3.04m,out,3.04,Championship,2000,2000/2001
+Fulham FC,Dirk Lehmann,28,Attacking Midfield,Hibernian FC,Free Transfer,out,0,Championship,2000,2000/2001
+Fulham FC,André Arendse,33,Goalkeeper,Oxford United,Free Transfer,out,0,Championship,2000,2000/2001
+Fulham FC,Paul Peschisolido,29,Centre-Forward,Sheffield Utd.,Loan,out,0,Championship,2000,2000/2001
+Fulham FC,Paul Peschisolido,29,Centre-Forward,Norwich,Loan,out,0,Championship,2000,2000/2001
+Fulham FC,Shaun Maher,22,Centre-Back,Bohemians,Free Transfer,out,0,Championship,2000,2000/2001
+Fulham FC,Glyn Thompson,19,Goalkeeper,Shrewsbury,Loan,out,0,Championship,2000,2000/2001
+Fulham FC,Paul Brooker,23,Attacking Midfield,Brighton,£34k,out,0.034,Championship,2000,2000/2001
+Fulham FC,Steve McAnespie,28,Right-Back,Cambridge Utd.,?,out,NA,Championship,2000,2000/2001
+Fulham FC,Steven Hayward,29,Midfielder,Barnsley FC,?,out,NA,Championship,2000,2000/2001
+Fulham FC,Kevin Ball,35,Midfielder,Burnley,?,out,NA,Championship,2000,2000/2001
+Fulham FC,Kieran McAnespie,21,Left-Back,Heart of Midl.,Loan,out,0,Championship,2000,2000/2001
+Fulham FC,Guus Uhlenbeek,29,Right-Back,Sheffield Utd.,?,out,NA,Championship,2000,2000/2001
+Fulham FC,Luke Cornwall,20,Centre-Forward,Grimsby Town,Loan,out,0,Championship,2000,2000/2001
+Fulham FC,Fabrice Fernandes,21,Left Winger,Stade Rennais,"End of loanMar 1, 2001",out,0,Championship,2000,2000/2001
+Fulham FC,Luís Boa Morte,23,Left Midfield,Southampton,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Fulham FC,Nicolas Sahnoun,20,Defensive Midfield,G. Bordeaux,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Huddersfield Town,Andy Booth,27,Centre-Forward,Sheff Wed,£270k,in,0.27,Championship,2000,2000/2001
+Huddersfield Town,Adie Moses,25,Centre-Back,Barnsley FC,£270k,in,0.27,Championship,2000,2000/2001
+Huddersfield Town,Chris Hay,26,Forward,Swindon Town,Free Transfer,in,0,Championship,2000,2000/2001
+Huddersfield Town,Lee Morris,20,Centre-Forward,Derby,Loan,in,0,Championship,2000,2000/2001
+Huddersfield Town,Kevin Kyle,19,Centre-Forward,Sunderland,Loan,in,0,Championship,2000,2000/2001
+Huddersfield Town,Jim Brennan,23,Left Midfield,Nottm Forest,Loan,in,0,Championship,2000,2000/2001
+Huddersfield Town,Kevin Gallen,24,Forward,QPR,Free Transfer,in,0,Championship,2000,2000/2001
+Huddersfield Town,Rob Kozluk,23,Right-Back,Sheffield Utd.,Loan,in,0,Championship,2000,2000/2001
+Huddersfield Town,Martin Smith,25,Centre-Forward,Sheffield Utd.,?,in,NA,Championship,2000,2000/2001
+Huddersfield Town,Nat Brown,19,Centre-Back,Huddersf. U18,-,in,0,Championship,2000,2000/2001
+Huddersfield Town,Kevin Gray,28,Centre-Back,Stockport,"End of loanSep 1, 2000",in,0,Championship,2000,2000/2001
+Huddersfield Town,David Beresford,23,Midfielder,Port Vale,"End of loanOct 15, 2000",in,0,Championship,2000,2000/2001
+Huddersfield Town,Wayne Allison,31,Centre-Forward,Tranmere Rovers,£374k,out,0.374,Championship,2000,2000/2001
+Huddersfield Town,Kiatisuk Senamuang,26,Centre-Forward,Rajpracha FC,Free Transfer,out,0,Championship,2000,2000/2001
+Huddersfield Town,Kevin Gray,28,Centre-Back,Stockport,Loan,out,0,Championship,2000,2000/2001
+Huddersfield Town,Mark Farren,18,Centre-Forward,Finn Harps,Free Transfer,out,0,Championship,2000,2000/2001
+Huddersfield Town,David Beresford,23,Midfielder,Port Vale,Loan,out,0,Championship,2000,2000/2001
+Huddersfield Town,Rob Edwards,30,Left-Back,Chesterfield FC,£21k,out,0.021,Championship,2000,2000/2001
+Huddersfield Town,Grant Johnson,28,Left Midfield,Clydebank FC,?,out,NA,Championship,2000,2000/2001
+Huddersfield Town,Scott Sellars,35,Left Midfield,Aarhus GF,?,out,NA,Championship,2000,2000/2001
+Huddersfield Town,Rob Kozluk,23,Right-Back,Sheffield Utd.,"End of loanNov 1, 2000",out,0,Championship,2000,2000/2001
+Huddersfield Town,Ken Monkou,36,Centre-Back,Retired,-,out,0,Championship,2000,2000/2001
+Huddersfield Town,Lee Morris,21,Centre-Forward,Derby,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Huddersfield Town,Georgios Donis,30,Right Winger,Retired,-,out,0,Championship,2000,2000/2001
+Huddersfield Town,Kevin Kyle,19,Centre-Forward,Sunderland,"End of loanOct 1, 2000",out,0,Championship,2000,2000/2001
+Huddersfield Town,Jim Brennan,23,Left Midfield,Nottm Forest,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Leeds United,Rio Ferdinand,22,Centre-Back,West Ham,£23.40m,in,23.4,Championship,2000,2000/2001
+Leeds United,Olivier Dacourt,25,Defensive Midfield,Lens,£9.45m,in,9.45,Championship,2000,2000/2001
+Leeds United,Mark Viduka,24,Centre-Forward,Celtic,£8.24m,in,8.24,Championship,2000,2000/2001
+Leeds United,Dominic Matteo,26,Left-Back,Liverpool,£6.41m,in,6.41,Championship,2000,2000/2001
+Leeds United,Jacob Burns,22,Defensive Midfield,Parra. Power,£338k,in,0.338,Championship,2000,2000/2001
+Leeds United,Jamie McMaster,17,Central Midfield,NSWIS,Free Transfer,in,0,Championship,2000,2000/2001
+Leeds United,Chad Harpur,17,Goalkeeper,Chelsea U18,Free Transfer,in,0,Championship,2000,2000/2001
+Leeds United,Robbie Keane,20,Centre-Forward,Inter,Loan,in,0,Championship,2000,2000/2001
+Leeds United,Shane Cansdell-Sherriff,17,Centre-Back,NSWIS,?,in,NA,Championship,2000,2000/2001
+Leeds United,Harpal Singh,18,Left Midfield,Leeds U18,-,in,0,Championship,2000,2000/2001
+Leeds United,Darren Huckerby,24,Right Winger,Man City,£3.42m,out,3.42,Championship,2000,2000/2001
+Leeds United,David Hopkin,29,Right Midfield,Bradford,£3.38m,out,3.38,Championship,2000,2000/2001
+Leeds United,Alf-Inge Haland,27,Defensive Midfield,Man City,£3.38m,out,3.38,Championship,2000,2000/2001
+Leeds United,Robert Molenaar,31,Centre-Back,Bradford,£612k,out,0.612,Championship,2000,2000/2001
+Leeds United,Lee Matthews,22,Central Midfield,Bristol City,£135k,out,0.135,Championship,2000,2000/2001
+Leeds United,Warren Feeney,20,Centre-Forward,Bournemouth,Free Transfer,out,0,Championship,2000,2000/2001
+Leeds United,Martin Hiden,27,Centre-Back,Austria Vienna,Free Transfer,out,0,Championship,2000,2000/2001
+Leeds United,Tommy Knarvik,20,Central Midfield,SK Brann,?,out,NA,Championship,2000,2000/2001
+Leeds United,Alan Cawley,18,Central Midfield,Sheff Wed,?,out,NA,Championship,2000,2000/2001
+West Bromwich Albion,Jason Roberts,22,Centre-Forward,Bristol Rovers,£2.70m,in,2.7,Championship,2000,2000/2001
+West Bromwich Albion,Michael Appleton,25,Midfielder,Preston NE,£1.04m,in,1.04,Championship,2000,2000/2001
+West Bromwich Albion,Phil Gilchrist,26,Centre-Back,Leicester,£675k,in,0.675,Championship,2000,2000/2001
+West Bromwich Albion,Russell Hoult,28,Goalkeeper,Portsmouth,£630k,in,0.63,Championship,2000,2000/2001
+West Bromwich Albion,Derek McInnes,28,Defensive Midfield,Rangers,£608k,in,0.608,Championship,2000,2000/2001
+West Bromwich Albion,Jordão,28,Defensive Midfield,Braga,£405k,in,0.405,Championship,2000,2000/2001
+West Bromwich Albion,Igor Balis,30,Right-Back,Slo. Bratislava,£225k,in,0.225,Championship,2000,2000/2001
+West Bromwich Albion,Fernando Derveld,24,Left-Back,Norwich,Loan,in,0,Championship,2000,2000/2001
+West Bromwich Albion,Uwe Rösler,32,Centre-Forward,Southampton,Loan,in,0,Championship,2000,2000/2001
+West Bromwich Albion,Ruel Fox,32,Right Winger,Spurs,?,in,NA,Championship,2000,2000/2001
+West Bromwich Albion,Mickey Evans,27,Centre-Forward,Bristol Rovers,"End of loanSep 1, 2000",in,0,Championship,2000,2000/2001
+West Bromwich Albion,Mickey Evans,27,Centre-Forward,Bristol Rovers,£270k,out,0.27,Championship,2000,2000/2001
+West Bromwich Albion,Danny Gabbidon,21,Centre-Back,Cardiff,£234k,out,0.234,Championship,2000,2000/2001
+West Bromwich Albion,Daryl Burgess,30,Defender,Northampt. Town,Free Transfer,out,0,Championship,2000,2000/2001
+West Bromwich Albion,Sean Flynn,32,Midfielder,Tranmere Rovers,Free Transfer,out,0,Championship,2000,2000/2001
+West Bromwich Albion,Mickey Evans,27,Centre-Forward,Bristol Rovers,Loan,out,0,Championship,2000,2000/2001
+West Bromwich Albion,Georges Santos,29,Centre-Back,Sheffield Utd.,Free Transfer,out,0,Championship,2000,2000/2001
+West Bromwich Albion,Paul Raven,29,Defender,Grimsby Town,Free Transfer,out,0,Championship,2000,2000/2001
+West Bromwich Albion,Mark Angel,25,Left Winger,Darlington,?,out,NA,Championship,2000,2000/2001
+West Bromwich Albion,Richard Sneekes,32,Midfielder,Stockport,?,out,NA,Championship,2000,2000/2001
+West Bromwich Albion,Fabian de Freitas,28,Forward,Cambuur L.,?,out,NA,Championship,2000,2000/2001
+West Bromwich Albion,Andy Townsend,36,Central Midfield,Retired,-,out,0,Championship,2000,2000/2001
+Derby County,Giorgi Kinkladze,26,Attacking Midfield,Ajax,£4.50m,in,4.5,Championship,2000,2000/2001
+Derby County,Bjørn Otto Bragstad,29,Centre-Back,Rosenborg BK,£2.70m,in,2.7,Championship,2000,2000/2001
+Derby County,Danny Higginbotham,21,Centre-Back,Man Utd,£2.70m,in,2.7,Championship,2000,2000/2001
+Derby County,Brian O'Neil,28,Centre-Back,VfL Wolfsburg,£675k,in,0.675,Championship,2000,2000/2001
+Derby County,Taribo West,26,Left-Back,Milan,Loan fee:£675k,in,0.675,Championship,2000,2000/2001
+Derby County,Youl Mawéné,21,Centre-Back,Lens,£630k,in,0.63,Championship,2000,2000/2001
+Derby County,Adam Bolder,19,Midfielder,Hull City,£113k,in,0.113,Championship,2000,2000/2001
+Derby County,Con Blatsis,22,Centre-Back,South Melbourne,Free Transfer,in,0,Championship,2000,2000/2001
+Derby County,Thórdur Gudjónsson,27,Right Winger,UD Las Palmas,Loan,in,0,Championship,2000,2000/2001
+Derby County,Simo Valakari,27,Defensive Midfield,Motherwell FC,Free Transfer,in,0,Championship,2000,2000/2001
+Derby County,Matt O'Halloran,17,Midfielder,Unknown,?,in,NA,Championship,2000,2000/2001
+Derby County,Lilian Martin,29,Right-Back,Marseille,?,in,NA,Championship,2000,2000/2001
+Derby County,Lewis Hunt,17,Right-Back,Derby U18,-,in,0,Championship,2000,2000/2001
+Derby County,Gary Twigg,16,Centre-Forward,Derby U18,-,in,0,Championship,2000,2000/2001
+Derby County,Tonton Zola Moukoko,16,Midfielder,Derby U18,-,in,0,Championship,2000,2000/2001
+Derby County,Lee Morris,21,Centre-Forward,Huddersfield,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Derby County,Esteban Fuertes,27,Centre-Forward,Lens,£5.40m,out,5.4,Championship,2000,2000/2001
+Derby County,Dean Sturridge,27,Centre-Forward,Leicester,£540k,out,0.54,Championship,2000,2000/2001
+Derby County,Mikkel Beck,27,Centre-Forward,LOSC Lille,£315k,out,0.315,Championship,2000,2000/2001
+Derby County,Con Blatsis,23,Centre-Back,Sheff Wed,Loan,out,0,Championship,2000,2000/2001
+Derby County,Lee Morris,20,Centre-Forward,Huddersfield,Loan,out,0,Championship,2000,2000/2001
+Derby County,Marc Bridge-Wilkinson,21,Central Midfield,Port Vale,Free Transfer,out,0,Championship,2000,2000/2001
+Derby County,Stefan Schnoor,29,Centre-Back,VfL Wolfsburg,Free Transfer,out,0,Championship,2000,2000/2001
+Derby County,Vasilios Borbokis,31,Right-Back,PAOK Salonika,Free Transfer,out,0,Championship,2000,2000/2001
+Derby County,Tony Dorigo,34,Left-Back,Stoke City,Free Transfer,out,0,Championship,2000,2000/2001
+Derby County,Richard Knight,20,Goalkeeper,Oxford United,?,out,NA,Championship,2000,2000/2001
+Derby County,Lars Bohinen,31,Central Midfield,Lyngby BK,?,out,NA,Championship,2000,2000/2001
+Derby County,Giorgi Kinkladze,26,Attacking Midfield,Ajax,"End of loanJun 30, 2000",out,0,Championship,2000,2000/2001
+Middlesbrough FC,Ugo Ehiogu,27,Centre-Back,Aston Villa,£10.98m,in,10.98,Championship,2000,2000/2001
+Middlesbrough FC,Christian Karembeu,29,Defensive Midfield,Real Madrid,£7.88m,in,7.88,Championship,2000,2000/2001
+Middlesbrough FC,Joseph-Désiré Job,22,Centre-Forward,Lens,£4.05m,in,4.05,Championship,2000,2000/2001
+Middlesbrough FC,Alen Boksic,30,Centre-Forward,Lazio,£3.11m,in,3.11,Championship,2000,2000/2001
+Middlesbrough FC,Noel Whelan,25,Centre-Forward,Coventry,£2.70m,in,2.7,Championship,2000,2000/2001
+Middlesbrough FC,Dean Windass,31,Centre-Forward,Bradford,£810k,in,0.81,Championship,2000,2000/2001
+Middlesbrough FC,Mark Crossley,31,Goalkeeper,Nottm Forest,Free Transfer,in,0,Championship,2000,2000/2001
+Middlesbrough FC,Paul Okon,28,Defensive Midfield,Fiorentina,?,in,NA,Championship,2000,2000/2001
+Middlesbrough FC,Arthuro,17,Centre-Forward,Criciúma EC,?,in,NA,Championship,2000,2000/2001
+Middlesbrough FC,Sam Russell,17,Goalkeeper,Boro U18,-,in,0,Championship,2000,2000/2001
+Middlesbrough FC,Stuart Parnaby,17,Right-Back,Boro U18,-,in,0,Championship,2000,2000/2001
+Middlesbrough FC,Andy Campbell,22,Centre-Forward,Bolton,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Middlesbrough FC,Stuart Parnaby,18,Right-Back,Halifax Town,"End of loanDec 1, 2000",in,0,Championship,2000,2000/2001
+Middlesbrough FC,Brad Jones,18,Goalkeeper,Boro U18,-,in,0,Championship,2000,2000/2001
+Middlesbrough FC,Christian Hanson,18,Defender,Boro U18,-,in,0,Championship,2000,2000/2001
+Middlesbrough FC,Marlon Beresford,30,Goalkeeper,Wolves,"End of loanSep 1, 2000",in,0,Championship,2000,2000/2001
+Middlesbrough FC,Christian Hanson,19,Defender,Cambridge Utd.,"End of loanMay 7, 2001",in,0,Championship,2000,2000/2001
+Middlesbrough FC,Neil Maddison,31,Midfielder,Barnsley FC,"End of loanNov 13, 2000",in,0,Championship,2000,2000/2001
+Middlesbrough FC,Marlon Beresford,31,Goalkeeper,Sheff Wed,"End of loanFeb 1, 2001",in,0,Championship,2000,2000/2001
+Middlesbrough FC,Craig Harrison,22,Defender,Crystal Palace,"End of loanAug 31, 2000",in,0,Championship,2000,2000/2001
+Middlesbrough FC,Neil Maddison,31,Midfielder,Bristol City,"End of loanMay 7, 2001",in,0,Championship,2000,2000/2001
+Middlesbrough FC,Steve Baker,22,Defender,Hartlepool Utd.,"End of loanNov 12, 2000",in,0,Championship,2000,2000/2001
+Middlesbrough FC,Christian Ziege,28,Left Midfield,Liverpool,£8.10m,out,8.1,Championship,2000,2000/2001
+Middlesbrough FC,Alun Armstrong,25,Centre-Forward,Ipswich,£675k,out,0.675,Championship,2000,2000/2001
+Middlesbrough FC,Craig Harrison,22,Defender,Crystal Palace,£225k,out,0.225,Championship,2000,2000/2001
+Middlesbrough FC,Stuart Parnaby,18,Right-Back,Halifax Town,Loan,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Neil Maddison,31,Midfielder,Bristol City,Loan,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Sean Prunty,19,Defender,Shamrock Rovers,Free Transfer,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Neil Maddison,31,Midfielder,Darlington,Free Transfer,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Ben Roberts,25,Goalkeeper,Charlton,Free Transfer,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Steve Baker,22,Defender,Hartlepool Utd.,Loan,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Neil Maddison,31,Midfielder,Barnsley FC,Loan,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Marlon Beresford,31,Goalkeeper,Sheff Wed,Loan,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Christian Hanson,19,Defender,Cambridge Utd.,Loan,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Paul Gascoigne,33,Attacking Midfield,Everton,Free Transfer,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Marlon Beresford,30,Goalkeeper,Wolves,Loan,out,0,Championship,2000,2000/2001
+Middlesbrough FC,Andy Campbell,21,Centre-Forward,Bolton,"End of loanMar 1, 2001",out,0,Championship,2000,2000/2001
+Middlesbrough FC,Juninho Paulista,27,Attacking Midfield,Atlético Madrid,"End of loanJun 30, 2000",out,0,Championship,2000,2000/2001
+Bristol City,Lee Peacock,23,Centre-Forward,Man City,£810k,in,0.81,Championship,2000,2000/2001
+Bristol City,Lee Matthews,22,Central Midfield,Leeds,£135k,in,0.135,Championship,2000,2000/2001
+Bristol City,Mark Lever,30,Defender,Grimsby Town,Free Transfer,in,0,Championship,2000,2000/2001
+Bristol City,Neil Maddison,31,Midfielder,Middlesbrough,Loan,in,0,Championship,2000,2000/2001
+Bristol City,Lourenço,17,Centre-Forward,Sporting B,Loan,in,0,Championship,2000,2000/2001
+Bristol City,Graham Barrett,19,Centre-Forward,Arsenal,Loan,in,0,Championship,2000,2000/2001
+Bristol City,Dani Rodrigues,20,Left Winger,Southampton,Loan,in,0,Championship,2000,2000/2001
+Bristol City,Ben Wright,20,Centre-Forward,Woking FC,?,in,NA,Championship,2000,2000/2001
+Bristol City,Damian Spencer,19,Centre-Forward,Exeter City,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Bristol City,Steve Jones,30,Forward,Wycombe,"End of loanNov 8, 2000",in,0,Championship,2000,2000/2001
+Bristol City,Craig Woodman,17,Left-Back,Bristol City U18,-,in,0,Championship,2000,2000/2001
+Bristol City,Alan Miller,30,Goalkeeper,Blackburn,,in,NA,Championship,2000,2000/2001
+Bristol City,Damian Spencer,19,Centre-Forward,Exeter City,Loan,out,0,Championship,2000,2000/2001
+Bristol City,Steve Jones,30,Forward,Wycombe,Loan,out,0,Championship,2000,2000/2001
+Bristol City,Ben Wright,20,Centre-Forward,Viking FK,Free Transfer,out,0,Championship,2000,2000/2001
+Bristol City,Ben Wright,20,Centre-Forward,Woking FC,Free Transfer,out,0,Championship,2000,2000/2001
+Bristol City,Matthew Hewlett,24,Midfielder,Swindon Town,Free Transfer,out,0,Championship,2000,2000/2001
+Bristol City,Andy Jordan,20,Defender,Cardiff,£33k,out,0.033,Championship,2000,2000/2001
+Bristol City,Ivan Testemiţanu,27,Right-Back,Zimbru Chisinau,?,out,NA,Championship,2000,2000/2001
+Bristol City,Greg Goodridge,29,Forward,Cheltenham Town,?,out,NA,Championship,2000,2000/2001
+Bristol City,Neil Maddison,31,Midfielder,Middlesbrough,"End of loanMay 7, 2001",out,0,Championship,2000,2000/2001
+Bristol City,Graham Barrett,19,Centre-Forward,Arsenal,"End of loanDec 31, 2000",out,0,Championship,2000,2000/2001
+Bristol City,Alan Miller,30,Goalkeeper,Coventry,,out,NA,Championship,2000,2000/2001
+Nottingham Forest,David Johnson,24,Left Winger,Ipswich,£4.05m,in,4.05,Championship,2000,2000/2001
+Nottingham Forest,Eugen Bopp,16,Central Midfield,FC Bayern U19,£450k,in,0.45,Championship,2000,2000/2001
+Nottingham Forest,Jack Lester,24,Centre-Forward,Grimsby Town,£315k,in,0.315,Championship,2000,2000/2001
+Nottingham Forest,Robbie Blake,24,Second Striker,Bradford,Loan,in,0,Championship,2000,2000/2001
+Nottingham Forest,Pascal Formann,17,Goalkeeper,Duisburg U19,Free Transfer,in,0,Championship,2000,2000/2001
+Nottingham Forest,Matthew Upson,21,Centre-Back,Arsenal,Loan,in,0,Championship,2000,2000/2001
+Nottingham Forest,Francis Benali,32,Left-Back,Southampton,Loan,in,0,Championship,2000,2000/2001
+Nottingham Forest,Steve Collis,19,Goalkeeper,Barnet,Free Transfer,in,0,Championship,2000,2000/2001
+Nottingham Forest,Jim Brennan,23,Left Midfield,Huddersfield,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Nottingham Forest,Andy Reid,17,Left Midfield,Nottingham U18,-,in,0,Championship,2000,2000/2001
+Nottingham Forest,Barry Roche,18,Goalkeeper,Nottingham U18,-,in,0,Championship,2000,2000/2001
+Nottingham Forest,Matthew Turner,18,Forward,Nottingham U18,-,in,0,Championship,2000,2000/2001
+Nottingham Forest,Nigel Quashie,21,Central Midfield,Portsmouth,£810k,out,0.81,Championship,2000,2000/2001
+Nottingham Forest,Dougie Freedman,26,Centre-Forward,Crystal Palace,£675k,out,0.675,Championship,2000,2000/2001
+Nottingham Forest,Jim Brennan,23,Left Midfield,Huddersfield,Loan,out,0,Championship,2000,2000/2001
+Nottingham Forest,Mark Crossley,31,Goalkeeper,Middlesbrough,Free Transfer,out,0,Championship,2000,2000/2001
+Nottingham Forest,Ian Woan,32,Attacking Midfield,Barnsley FC,Free Transfer,out,0,Championship,2000,2000/2001
+Nottingham Forest,Francis Benali,32,Left-Back,Southampton,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Nottingham Forest,Carlos Merino,20,Attacking Midfield,Athletic,Free Transfer,out,0,Championship,2000,2000/2001
+Nottingham Forest,Thierry Bonalair,34,Left-Back,FC Zürich,?,out,NA,Championship,2000,2000/2001
+Nottingham Forest,Mark Goodlad,20,Goalkeeper,Port Vale,?,out,NA,Championship,2000,2000/2001
+Nottingham Forest,Gianluca Petrachi,31,Midfielder,Perugia,?,out,NA,Championship,2000,2000/2001
+Nottingham Forest,Ben Olsen,23,Right Midfield,D.C. United,"End of loanDec 31, 2000",out,0,Championship,2000,2000/2001
+Nottingham Forest,Matthew Upson,21,Centre-Back,Arsenal,"End of loanDec 31, 2000",out,0,Championship,2000,2000/2001
+Nottingham Forest,Robbie Blake,24,Second Striker,Bradford,"End of loanNov 1, 2000",out,0,Championship,2000,2000/2001
+Swansea City,Matthias Verschave,22,Centre-Forward,Paris SG B,Free Transfer,in,0,Championship,2000,2000/2001
+Swansea City,Nicolas Fabiano,19,Central Midfield,Paris SG B,Loan,in,0,Championship,2000,2000/2001
+Swansea City,Giovanni Savarese,30,Centre-Forward,Quakes,?,in,NA,Championship,2000,2000/2001
+Swansea City,Julian Alsop,27,Centre-Forward,Cheltenham Town,Free Transfer,out,0,Championship,2000,2000/2001
+Swansea City,Jamie Harris,21,Centre-Back,Waterford Bohemians,Free Transfer,out,0,Championship,2000,2000/2001
+Swansea City,Tommy Mutton,23,Forward,Rhyl FC,?,out,NA,Championship,2000,2000/2001
+Swansea City,Tony Bird,25,Forward,Kidderminster,?,out,NA,Championship,2000,2000/2001
+Swansea City,Nicolas Fabiano,19,Central Midfield,Paris SG B,"End of loanJan 31, 2001",out,0,Championship,2000,2000/2001
+Brentford FC,Mark McCammon,21,Centre-Forward,Charlton,£135k,in,0.135,Championship,2000,2000/2001
+Brentford FC,Eddie Hutchinson,18,Central Midfield,Sutton Utd,£95k,in,0.095,Championship,2000,2000/2001
+Brentford FC,Jay Lovett,22,Centre-Back,Crawley Town,Free Transfer,in,0,Championship,2000,2000/2001
+Brentford FC,Jean-Philippe Javary,22,Midfielder,Raith Rovers,Free Transfer,in,0,Championship,2000,2000/2001
+Brentford FC,Kevin Austin,27,Centre-Back,Barnsley FC,Loan,in,0,Championship,2000,2000/2001
+Brentford FC,Paul Smith,20,Goalkeeper,Carshalton Ath.,Free Transfer,in,0,Championship,2000,2000/2001
+Brentford FC,Jason Crowe,21,Right-Back,Portsmouth,Loan,in,0,Championship,2000,2000/2001
+Brentford FC,Lee Fieldwick,17,Defender,Unknown,?,in,NA,Championship,2000,2000/2001
+Brentford FC,Adrián Cáceres,18,Central Midfield,Southampton,Loan,in,0,Championship,2000,2000/2001
+Brentford FC,Lorenzo Pinamonte,22,Forward,Leyton Orient,"End of loanMay 8, 2001",in,0,Championship,2000,2000/2001
+Brentford FC,Matt Somner,17,Defensive Midfield,Brentford U18,-,in,0,Championship,2000,2000/2001
+Brentford FC,Michael Dobson,19,Centre-Back,Brentford U18,-,in,0,Championship,2000,2000/2001
+Brentford FC,Jean-Philippe Javary,23,Midfielder,Plymouth,Free Transfer,out,0,Championship,2000,2000/2001
+Brentford FC,Lorenzo Pinamonte,22,Forward,Leyton Orient,Loan,out,0,Championship,2000,2000/2001
+Brentford FC,Andy Scott,28,Centre-Forward,Oxford United,?,out,NA,Championship,2000,2000/2001
+Brentford FC,Lakhdar Adjali,27,Attacking Midfield,SC Amiens,?,out,NA,Championship,2000,2000/2001
+Brentford FC,Kevin Austin,27,Centre-Back,Barnsley FC,"End of loanNov 1, 2000",out,0,Championship,2000,2000/2001
+Brentford FC,Jason Crowe,22,Right-Back,Portsmouth,"End of loanNov 1, 2000",out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Steve Harkness,29,Left-Back,Blackburn,£270k,in,0.27,Championship,2000,2000/2001
+Sheffield Wednesday,Ashley Westwood,23,Centre-Back,Bradford,£158k,in,0.158,Championship,2000,2000/2001
+Sheffield Wednesday,Aaron Lescott,22,Left-Back,Aston Villa,£135k,in,0.135,Championship,2000,2000/2001
+Sheffield Wednesday,Stuart Ripley,33,Midfielder,Southampton,Loan,in,0,Championship,2000,2000/2001
+Sheffield Wednesday,Efan Ekoku,33,Centre-Forward,Grasshoppers,Free Transfer,in,0,Championship,2000,2000/2001
+Sheffield Wednesday,Marlon Beresford,31,Goalkeeper,Middlesbrough,Loan,in,0,Championship,2000,2000/2001
+Sheffield Wednesday,Carlton Palmer,35,Defensive Midfield,Coventry,Loan,in,0,Championship,2000,2000/2001
+Sheffield Wednesday,Michele Di Piedi,19,Centre-Forward,Perugia,Free Transfer,in,0,Championship,2000,2000/2001
+Sheffield Wednesday,Con Blatsis,23,Centre-Back,Derby,Loan,in,0,Championship,2000,2000/2001
+Sheffield Wednesday,Ian Hendon,28,Centre-Back,Northampt. Town,£45k,in,0.045,Championship,2000,2000/2001
+Sheffield Wednesday,Jesper Johansson,20,Midfielder,FC Flora,?,in,NA,Championship,2000,2000/2001
+Sheffield Wednesday,Alan Cawley,18,Central Midfield,Leeds,?,in,NA,Championship,2000,2000/2001
+Sheffield Wednesday,Simon Grayson,30,Right-Back,Blackburn,Loan,in,0,Championship,2000,2000/2001
+Sheffield Wednesday,Trond Soltvedt,34,Attacking Midfield,Southampton,?,in,NA,Championship,2000,2000/2001
+Sheffield Wednesday,Gilles De Bilde,29,Centre-Forward,Aston Villa,"End of loanFeb 1, 2001",in,0,Championship,2000,2000/2001
+Sheffield Wednesday,Andy Booth,27,Centre-Forward,Spurs,"End of loanMar 1, 2001",in,0,Championship,2000,2000/2001
+Sheffield Wednesday,Kevin Nicholson,20,Left-Back,Forest Green,"End of loanFeb 9, 2001",in,0,Championship,2000,2000/2001
+Sheffield Wednesday,Niclas Alexandersson,28,Right Midfield,Everton,£3.42m,out,3.42,Championship,2000,2000/2001
+Sheffield Wednesday,Richard Cresswell,22,Centre-Forward,Leicester,£945k,out,0.945,Championship,2000,2000/2001
+Sheffield Wednesday,Andy Booth,27,Centre-Forward,Huddersfield,£270k,out,0.27,Championship,2000,2000/2001
+Sheffield Wednesday,Ian Nolan,29,Defender,Bradford,Free Transfer,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Kevin Nicholson,20,Left-Back,Forest Green,Loan,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Mark McKeever,22,Midfielder,Bristol Rovers,Free Transfer,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Danny Sonner,28,Defensive Midfield,Birmingham,Free Transfer,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Andy Booth,27,Centre-Forward,Spurs,Loan,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Kevin Nicholson,20,Left-Back,Northampt. Town,Free Transfer,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Pavel Srnicek,32,Goalkeeper,Brescia,Free Transfer,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Peter Holmes,19,Central Midfield,Luton Town,Free Transfer,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Gilles De Bilde,29,Centre-Forward,Aston Villa,Loan,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Scott Oakes,NA,Forward,Burnley,?,out,NA,Championship,2000,2000/2001
+Sheffield Wednesday,Lee Briscoe,24,Left-Back,Burnley,?,out,NA,Championship,2000,2000/2001
+Sheffield Wednesday,Jesper Johansson,21,Midfielder,Djurgarden,?,out,NA,Championship,2000,2000/2001
+Sheffield Wednesday,Barry Horne,38,Defensive Midfield,Kidderminster,?,out,NA,Championship,2000,2000/2001
+Sheffield Wednesday,Peter Atherton,30,Right-Back,Birmingham,?,out,NA,Championship,2000,2000/2001
+Sheffield Wednesday,Marlon Beresford,31,Goalkeeper,Middlesbrough,"End of loanFeb 1, 2001",out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Earl Barrett,33,Right-Back,Retired,-,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Simon Grayson,30,Right-Back,Blackburn,"End of loanSep 1, 2000",out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Carlton Palmer,35,Defensive Midfield,Coventry,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Jon Newsome,29,Defender,Retired,-,out,0,Championship,2000,2000/2001
+Sheffield Wednesday,Stuart Ripley,33,Midfielder,Southampton,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Hull City,Rob Matthews,30,Central Midfield,Stockport,Free Transfer,in,0,Championship,2000,2000/2001
+Hull City,David Brightwell,29,Centre-Back,Carlisle United,Free Transfer,in,0,Championship,2000,2000/2001
+Hull City,David Lee,21,Midfielder,Southend United,Free Transfer,in,0,Championship,2000,2000/2001
+Hull City,Paul Musselwhite,31,Goalkeeper,Port Vale,Free Transfer,in,0,Championship,2000,2000/2001
+Hull City,Gary Taylor-Fletcher,19,Right Winger,Northwich Victoria,Loan,in,0,Championship,2000,2000/2001
+Hull City,Lee Philpott,30,Midfielder,Lincoln City,Free Transfer,in,0,Championship,2000,2000/2001
+Hull City,Kevin Francis,33,Centre-Forward,Exeter City,Free Transfer,in,0,Championship,2000,2000/2001
+Hull City,Clint Marcelle,31,Midfielder,Barnsley FC,?,in,NA,Championship,2000,2000/2001
+Hull City,Mark Atkins,32,Right-Back,Doncaster,?,in,NA,Championship,2000,2000/2001
+Hull City,Jason Harris,24,Forward,Shrewsbury,"End of loanMay 8, 2001",in,0,Championship,2000,2000/2001
+Hull City,Adam Bolder,19,Midfielder,Derby,£113k,out,0.113,Championship,2000,2000/2001
+Hull City,Neil Whitworth,28,Centre-Back,Exeter City,Free Transfer,out,0,Championship,2000,2000/2001
+Hull City,John Schofield,35,Central Midfield,Lincoln City,Free Transfer,out,0,Championship,2000,2000/2001
+Hull City,Matt Baker,20,Goalkeeper,Hereford Utd.,Free Transfer,out,0,Championship,2000,2000/2001
+Hull City,Steve Morgan,31,Left-Back,Halifax Town,Free Transfer,out,0,Championship,2000,2000/2001
+Hull City,Steve Harper,32,Midfielder,Darlington,Free Transfer,out,0,Championship,2000,2000/2001
+Hull City,Clint Marcelle,32,Midfielder,Darlington,?,out,NA,Championship,2000,2000/2001
+Hull City,Jason Harris,24,Forward,Shrewsbury,Loan,out,0,Championship,2000,2000/2001
+Hull City,Michael Quigley,29,Midfielder,Northwich Victoria,?,out,NA,Championship,2000,2000/2001
+Hull City,Gary Taylor-Fletcher,19,Right Winger,Northwich Victoria,"End of loanMay 8, 2001",out,0,Championship,2000,2000/2001
+Preston North End,David Healy,21,Centre-Forward,Man Utd,£1.80m,in,1.8,Championship,2000,2000/2001
+Preston North End,Iain Anderson,22,Right Winger,Toulouse,£675k,in,0.675,Championship,2000,2000/2001
+Preston North End,Steve Robinson,25,Attacking Midfield,Bournemouth,£540k,in,0.54,Championship,2000,2000/2001
+Preston North End,Pawel Abbott,18,Centre-Forward,LKS Lodz,£158k,in,0.158,Championship,2000,2000/2001
+Preston North End,Richard Cresswell,23,Centre-Forward,Leicester,Loan,in,0,Championship,2000,2000/2001
+Preston North End,Derek Collins,31,Right-Back,Hibernian FC,Free Transfer,in,0,Championship,2000,2000/2001
+Preston North End,Brian McBride,28,Centre-Forward,Columbus Crew,Loan,in,0,Championship,2000,2000/2001
+Preston North End,David Healy,21,Centre-Forward,Man Utd,Loan,in,0,Championship,2000,2000/2001
+Preston North End,Tobias Zellner,22,Central Midfield,1.FC Nuremberg,Free Transfer,in,0,Championship,2000,2000/2001
+Preston North End,Maikel Renfurm,24,Right Winger,KR Reykjavík,?,in,NA,Championship,2000,2000/2001
+Preston North End,Michael Keane,17,Left Winger,Preston U18,-,in,0,Championship,2000,2000/2001
+Preston North End,Stuart King,19,Midfielder,Ross County,"End of loanNov 1, 2000",in,0,Championship,2000,2000/2001
+Preston North End,Michael Appleton,25,Midfielder,West Brom,£1.04m,out,1.04,Championship,2000,2000/2001
+Preston North End,Julian Darby,32,Midfielder,Carlisle United,Free Transfer,out,0,Championship,2000,2000/2001
+Preston North End,David Eyres,36,Midfielder,Oldham Athletic,Free Transfer,out,0,Championship,2000,2000/2001
+Preston North End,Tobias Zellner,22,Central Midfield,Carlisle United,Free Transfer,out,0,Championship,2000,2000/2001
+Preston North End,Mark Beesley,19,Forward,Chester City,Free Transfer,out,0,Championship,2000,2000/2001
+Preston North End,Farid Diaf,29,Midfielder,Boston United,?,out,NA,Championship,2000,2000/2001
+Preston North End,Maikel Renfurm,24,Right Winger,St. Mirren,?,out,NA,Championship,2000,2000/2001
+Preston North End,Stuart King,19,Midfielder,Queen o. t. S.,?,out,NA,Championship,2000,2000/2001
+Preston North End,Stuart King,19,Midfielder,Ross County,Loan,out,0,Championship,2000,2000/2001
+Preston North End,Richard Cresswell,23,Centre-Forward,Leicester,"End of loanMay 31, 2001",out,0,Championship,2000,2000/2001
+Preston North End,Brian McBride,28,Centre-Forward,Columbus Crew,"End of loanMay 29, 2001",out,0,Championship,2000,2000/2001
+Preston North End,David Healy,21,Centre-Forward,Man Utd,"End of loanJan 1, 2001",out,0,Championship,2000,2000/2001
+Blackburn Rovers,Craig Hignett,30,Right Winger,Barnsley FC,£3.60m,in,3.6,Championship,2000,2000/2001
+Blackburn Rovers,Marcus Bent,22,Centre-Forward,Sheffield Utd.,£2.84m,in,2.84,Championship,2000,2000/2001
+Blackburn Rovers,Henning Berg,30,Right-Back,Man Utd,£2.36m,in,2.36,Championship,2000,2000/2001
+Blackburn Rovers,Alan Mahon,22,Left Midfield,Sporting CP,£2.07m,in,2.07,Championship,2000,2000/2001
+Blackburn Rovers,John Curtis,21,Right-Back,Man Utd,£2.03m,in,2.03,Championship,2000,2000/2001
+Blackburn Rovers,Stig Inge Björnebye,30,Left-Back,Liverpool,£360k,in,0.36,Championship,2000,2000/2001
+Blackburn Rovers,Marc Keller,32,Right Midfield,West Ham,Free Transfer,in,0,Championship,2000,2000/2001
+Blackburn Rovers,Kaba Diawara,25,Centre-Forward,Paris SG,Loan,in,0,Championship,2000,2000/2001
+Blackburn Rovers,Brad Friedel,29,Goalkeeper,Liverpool,Free Transfer,in,0,Championship,2000,2000/2001
+Blackburn Rovers,Mark Hughes,37,Centre-Forward,Everton,Free Transfer,in,0,Championship,2000,2000/2001
+Blackburn Rovers,Eyal Berkovic,28,Attacking Midfield,Celtic,Loan,in,0,Championship,2000,2000/2001
+Blackburn Rovers,Simon Grayson,30,Right-Back,Sheff Wed,"End of loanSep 1, 2000",in,0,Championship,2000,2000/2001
+Blackburn Rovers,Marlon Broomes,22,Centre-Back,QPR,"End of loanNov 1, 2000",in,0,Championship,2000,2000/2001
+Blackburn Rovers,Peter Murphy,20,Centre-Back,Halifax Town,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Blackburn Rovers,Keith Gillespie,25,Central Midfield,Wigan,"End of loanDec 31, 2000",in,0,Championship,2000,2000/2001
+Blackburn Rovers,Marc Richards,17,Centre-Forward,Blackburn U18,-,in,0,Championship,2000,2000/2001
+Blackburn Rovers,Jeff Kenna,30,Right-Back,Tranmere Rovers,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Blackburn Rovers,James Thomas,22,Forward,Sheffield Utd.,"End of loanMay 8, 2001",in,0,Championship,2000,2000/2001
+Blackburn Rovers,Gary Hamilton,19,Centre-Forward,Rochdale,"End of loanSep 1, 2000",in,0,Championship,2000,2000/2001
+Blackburn Rovers,Ben Burgess,19,Centre-Forward,Northern Spirit,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Blackburn Rovers,Simon Grayson,31,Right-Back,Stockport,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Blackburn Rovers,Darren Peacock,32,Centre-Back,Wolves,"End of loanDec 1, 2000",in,0,Championship,2000,2000/2001
+Blackburn Rovers,Jonathan Douglas,18,Central Midfield,Blackburn U18,-,in,0,Championship,2000,2000/2001
+Blackburn Rovers,Ryan Baldacchino,19,Right Winger,Blackburn U18,-,in,0,Championship,2000,2000/2001
+Blackburn Rovers,Lee Carsley,26,Defensive Midfield,Coventry,£3.38m,out,3.38,Championship,2000,2000/2001
+Blackburn Rovers,Christian Dailly,27,Centre-Back,West Ham,£2.34m,out,2.34,Championship,2000,2000/2001
+Blackburn Rovers,Callum Davidson,24,Left-Back,Leicester,£2.25m,out,2.25,Championship,2000,2000/2001
+Blackburn Rovers,Per Frandsen,30,Right Midfield,Bolton,£2.16m,out,2.16,Championship,2000,2000/2001
+Blackburn Rovers,Ashley Ward,29,Centre-Forward,Bradford,£1.89m,out,1.89,Championship,2000,2000/2001
+Blackburn Rovers,Steve Harkness,29,Left-Back,Sheff Wed,£270k,out,0.27,Championship,2000,2000/2001
+Blackburn Rovers,Anthony Williams,22,Goalkeeper,Hartlepool Utd.,Free Transfer,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Jeff Kenna,30,Right-Back,Tranmere Rovers,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Ben Burgess,18,Centre-Forward,Northern Spirit,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Ryan Baldacchino,19,Right Winger,Bolton,Free Transfer,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Wayne Gill,24,Midfielder,Tranmere Rovers,Free Transfer,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Robbie Doyle,18,Forward,St. Patricks,Free Transfer,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Peter Murphy,19,Centre-Back,Halifax Town,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Leam Richardson,20,Left-Back,Bolton,Free Transfer,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Billy McKinlay,31,Right Midfield,Bradford,Free Transfer,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Marlon Broomes,22,Centre-Back,QPR,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Keith Gillespie,25,Central Midfield,Wigan,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Simon Grayson,30,Right-Back,Sheff Wed,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Alan Kelly,32,Goalkeeper,Stockport,?,out,NA,Championship,2000,2000/2001
+Blackburn Rovers,James Thomas,21,Forward,Sheffield Utd.,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Egil Östenstad,28,Centre-Forward,Man City,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Simon Grayson,31,Right-Back,Stockport,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Darren Peacock,32,Centre-Back,Wolves,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Gary Hamilton,19,Centre-Forward,Rochdale,Loan,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Darren Peacock,32,Centre-Back,Retired,-,out,0,Championship,2000,2000/2001
+Blackburn Rovers,Kaba Diawara,25,Centre-Forward,Paris SG,"End of loanMar 1, 2001",out,0,Championship,2000,2000/2001
+Blackburn Rovers,Alan Miller,30,Goalkeeper,Bristol City,,out,NA,Championship,2000,2000/2001
+Stoke City,Wayne Thomas,21,Centre-Back,Torquay United,£270k,in,0.27,Championship,2000,2000/2001
+Stoke City,Bjarni Gudjónsson,21,Right Midfield,KRC Genk,Free Transfer,in,0,Championship,2000,2000/2001
+Stoke City,David Rowson,23,Central Midfield,Aberdeen FC,Free Transfer,in,0,Championship,2000,2000/2001
+Stoke City,Tony Dorigo,34,Left-Back,Derby,Free Transfer,in,0,Championship,2000,2000/2001
+Stoke City,Andrew Cooke,26,Centre-Forward,Burnley,?,in,NA,Championship,2000,2000/2001
+Stoke City,Ríkhardur Dadason,28,Centre-Forward,Viking FK,?,in,NA,Championship,2000,2000/2001
+Stoke City,Birkir Kristinsson,36,Goalkeeper,ÍBV,?,in,NA,Championship,2000,2000/2001
+Stoke City,Henrik Risom,31,Right-Back,Vejle BK,?,in,NA,Championship,2000,2000/2001
+Stoke City,Frode Kippe,22,Centre-Back,Liverpool,Loan,in,0,Championship,2000,2000/2001
+Stoke City,Hjörvar Haflidason,20,Goalkeeper,Valur,?,in,NA,Championship,2000,2000/2001
+Stoke City,Stefán Thórdarson,25,Centre-Forward,KFC Uerdingen,?,in,NA,Championship,2000,2000/2001
+Stoke City,Chris Iwelumo,22,Centre-Forward,Cheltenham Town,"End of loanMar 12, 2001",in,0,Championship,2000,2000/2001
+Stoke City,Kyle Lightbourne,32,Forward,Swindon Town,"End of loanFeb 1, 2001",in,0,Championship,2000,2000/2001
+Stoke City,Paul Connor,21,Forward,Cambridge Utd.,"End of loanDec 1, 2000",in,0,Championship,2000,2000/2001
+Stoke City,Kyle Lightbourne,32,Forward,Cardiff,"End of loanMar 1, 2001",in,0,Championship,2000,2000/2001
+Stoke City,Chris Iwelumo,22,Centre-Forward,York City,"End of loanFeb 11, 2001",in,0,Championship,2000,2000/2001
+Stoke City,Marc Goodfellow,19,Right Midfield,ÍBV,"End of loanMar 1, 2001",in,0,Championship,2000,2000/2001
+Stoke City,Lewis Neal,18,Central Midfield,Stoke U18,-,in,0,Championship,2000,2000/2001
+Stoke City,Marc Goodfellow,18,Right Midfield,Stoke U18,-,in,0,Championship,2000,2000/2001
+Stoke City,Paul Connor,21,Forward,Rochdale,£203k,out,0.203,Championship,2000,2000/2001
+Stoke City,Chris Iwelumo,22,Centre-Forward,Cheltenham Town,Loan,out,0,Championship,2000,2000/2001
+Stoke City,Kyle Lightbourne,32,Forward,Norrköping,Free Transfer,out,0,Championship,2000,2000/2001
+Stoke City,Chris Iwelumo,22,Centre-Forward,York City,Loan,out,0,Championship,2000,2000/2001
+Stoke City,Kyle Lightbourne,32,Forward,Swindon Town,Loan,out,0,Championship,2000,2000/2001
+Stoke City,Kyle Lightbourne,32,Forward,Cardiff,Loan,out,0,Championship,2000,2000/2001
+Stoke City,Paul Connor,21,Forward,Cambridge Utd.,Loan,out,0,Championship,2000,2000/2001
+Stoke City,Marc Goodfellow,19,Right Midfield,ÍBV,Loan,out,0,Championship,2000,2000/2001
+Stoke City,Arnar Gunnlaugsson,27,Centre-Forward,Dundee United,Free Transfer,out,0,Championship,2000,2000/2001
+Stoke City,Kristján Örn Sigurdsson,20,Centre-Back,KA Akureyri,?,out,NA,Championship,2000,2000/2001
+Stoke City,Phil Robinson,33,Midfielder,Hereford Utd.,?,out,NA,Championship,2000,2000/2001
+Stoke City,Kevin Keen,33,Midfielder,Macclesfield,?,out,NA,Championship,2000,2000/2001
+Stoke City,Hjörvar Haflidason,20,Goalkeeper,Valur,?,out,NA,Championship,2000,2000/2001
+Stoke City,Birkir Kristinsson,36,Goalkeeper,ÍBV,?,out,NA,Championship,2000,2000/2001
+Stoke City,Anders Jacobsen,32,Centre-Back,Notts County,?,out,NA,Championship,2000,2000/2001
+Stoke City,Frode Kippe,23,Centre-Back,Liverpool,"End of loanMay 17, 2001",out,0,Championship,2000,2000/2001
+Birmingham City,Geoff Horsfield,26,Centre-Forward,Fulham,£3.04m,in,3.04,Championship,2000,2000/2001
+Birmingham City,Curtis Woodhouse,20,Attacking Midfield,Sheffield Utd.,£1.35m,in,1.35,Championship,2000,2000/2001
+Birmingham City,Nicky Eaden,27,Right-Back,Barnsley FC,Free Transfer,in,0,Championship,2000,2000/2001
+Birmingham City,Carl Tiler,30,Defender,Charlton,Loan,in,0,Championship,2000,2000/2001
+Birmingham City,David Burrows,31,Left-Back,Coventry,Free Transfer,in,0,Championship,2000,2000/2001
+Birmingham City,Danny Sonner,28,Defensive Midfield,Sheff Wed,Free Transfer,in,0,Championship,2000,2000/2001
+Birmingham City,Mark Burchill,20,Centre-Forward,Celtic,Loan,in,0,Championship,2000,2000/2001
+Birmingham City,Peter Atherton,30,Right-Back,Sheff Wed,?,in,NA,Championship,2000,2000/2001
+Birmingham City,Paul Furlong,32,Centre-Forward,QPR,"End of loanMar 1, 2001",in,0,Championship,2000,2000/2001
+Birmingham City,Tony Capaldi,18,Left-Back,Birmingham U18,-,in,0,Championship,2000,2000/2001
+Birmingham City,Joey Hutchinson,18,Defender,Birmingham U18,-,in,0,Championship,2000,2000/2001
+Birmingham City,Gary Rowett,26,Right-Back,Leicester,£4.05m,out,4.05,Championship,2000,2000/2001
+Birmingham City,Steve Robinson,25,Midfielder,Swindon Town,£55k,out,0.055,Championship,2000,2000/2001
+Birmingham City,Darren Wassall,32,Defender,Burton Albion,Free Transfer,out,0,Championship,2000,2000/2001
+Birmingham City,Paul Furlong,31,Centre-Forward,QPR,Loan,out,0,Championship,2000,2000/2001
+Birmingham City,Simon Charlton,28,Centre-Back,Bolton,?,out,NA,Championship,2000,2000/2001
+Birmingham City,Carl Tiler,31,Defender,Charlton,"End of loanFeb 21, 2001",out,0,Championship,2000,2000/2001
+Birmingham City,Mark Burchill,20,Centre-Forward,Celtic,"End of loanDec 31, 2000",out,0,Championship,2000,2000/2001
+Birmingham City,Richard Edghill,26,Right-Back,Man City,"End of loanDec 1, 2000",out,0,Championship,2000,2000/2001
+Wigan Athletic,Stefan Bidstrup,25,Midfielder,Lyngby BK,£563k,in,0.563,Championship,2000,2000/2001
+Wigan Athletic,Gino Padula,23,Left-Back,Walsall,Free Transfer,in,0,Championship,2000,2000/2001
+Wigan Athletic,Alex O'Reilly,21,Goalkeeper,West Ham,Loan,in,0,Championship,2000,2000/2001
+Wigan Athletic,Keith Gillespie,25,Central Midfield,Blackburn,Loan,in,0,Championship,2000,2000/2001
+Wigan Athletic,Peter Beagrie,35,Midfielder,Bradford,?,in,NA,Championship,2000,2000/2001
+Wigan Athletic,Raffaele Nuzzo,28,Goalkeeper,Reggiana,?,in,NA,Championship,2000,2000/2001
+Wigan Athletic,Ferdino Hernández,29,Left Winger,AZ Alkmaar,?,in,NA,Championship,2000,2000/2001
+Wigan Athletic,Paul Mitchell,19,Central Midfield,Halifax Town,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Wigan Athletic,Andy Porter,32,Midfielder,Chester City,Free Transfer,out,0,Championship,2000,2000/2001
+Wigan Athletic,Neil Redfearn,35,Midfielder,Halifax Town,Free Transfer,out,0,Championship,2000,2000/2001
+Wigan Athletic,Paul Mitchell,19,Central Midfield,Halifax Town,Loan,out,0,Championship,2000,2000/2001
+Wigan Athletic,Neil Fitzhenry,21,Left-Back,Chester City,Free Transfer,out,0,Championship,2000,2000/2001
+Wigan Athletic,Michael O'Neill,31,Attacking Midfield,St. Johnstone,Free Transfer,out,0,Championship,2000,2000/2001
+Wigan Athletic,Stefan Bidstrup,26,Midfielder,Aalborg BK,Free Transfer,out,0,Championship,2000,2000/2001
+Wigan Athletic,Ferdino Hernández,29,Left Winger,H. Kfar Saba,?,out,NA,Championship,2000,2000/2001
+Wigan Athletic,Jean-François Péron,34,Left Midfield,AC Bayeux,?,out,NA,Championship,2000,2000/2001
+Wigan Athletic,Peter Beagrie,35,Midfielder,Bradford,?,out,NA,Championship,2000,2000/2001
+Wigan Athletic,Stuart Barlow,32,Centre-Forward,Tranmere Rovers,?,out,NA,Championship,2000,2000/2001
+Wigan Athletic,Colin Greenall,36,Defender,Retired,-,out,0,Championship,2000,2000/2001
+Wigan Athletic,Alex O'Reilly,21,Goalkeeper,West Ham,"End of loanDec 13, 2000",out,0,Championship,2000,2000/2001
+Wigan Athletic,Keith Gillespie,25,Central Midfield,Blackburn,"End of loanDec 31, 2000",out,0,Championship,2000,2000/2001
+Queens Park Rangers,Clarke Carlisle,20,Centre-Back,Blackpool,£338k,in,0.338,Championship,2000,2000/2001
+Queens Park Rangers,Samuel Koejoe,25,Centre-Forward,Wüstenrot Sbg,£315k,in,0.315,Championship,2000,2000/2001
+Queens Park Rangers,Peter Crouch,19,Centre-Forward,Spurs,£77k,in,0.077,Championship,2000,2000/2001
+Queens Park Rangers,Andy Thomson,29,Centre-Forward,Gillingham FC,Free Transfer,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Kevin Lisbie,22,Centre-Forward,Charlton,Loan,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Bertie Brayley,18,Forward,West Ham,Free Transfer,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Paul Furlong,31,Centre-Forward,Birmingham,Loan,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Marcus Bignot,26,Right-Back,Bristol Rovers,Free Transfer,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Wayne Brown,23,Centre-Back,Ipswich,Loan,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Leon Knight,18,Centre-Forward,Chelsea,Loan,in,0,Championship,2000,2000/2001
+Queens Park Rangers,James Coppinger,20,Right Midfield,Newcastle,Loan,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Christer Warren,25,Midfielder,Bournemouth,Free Transfer,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Carl Leaburn,31,Centre-Forward,Wimbledon FC,Free Transfer,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Marlon Broomes,22,Centre-Back,Blackburn,Loan,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Andrew Thomson,29,Forward,Gillingham FC,?,in,NA,Championship,2000,2000/2001
+Queens Park Rangers,Dean Lodge,18,Midfielder,Unknown,?,in,NA,Championship,2000,2000/2001
+Queens Park Rangers,Keith Rowland,29,Left-Back,Luton Town,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Queens Park Rangers,Nikki Bull,18,Goalkeeper,QPR U18,-,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Akpo Sodje,19,Centre-Forward,Hayes & Yeading,"End of loanOct 1, 2000",in,0,Championship,2000,2000/2001
+Queens Park Rangers,Akpo Sodje,19,Centre-Forward,QPR U18,-,in,0,Championship,2000,2000/2001
+Queens Park Rangers,Ademola Bankole,30,Goalkeeper,Crewe Alexandra,£68k,out,0.068,Championship,2000,2000/2001
+Queens Park Rangers,Akpo Sodje,19,Centre-Forward,Hayes & Yeading,Loan,out,0,Championship,2000,2000/2001
+Queens Park Rangers,Akpo Sodje,20,Centre-Forward,Stevenage FC,Free Transfer,out,0,Championship,2000,2000/2001
+Queens Park Rangers,Kevin Gallen,24,Forward,Huddersfield,Free Transfer,out,0,Championship,2000,2000/2001
+Queens Park Rangers,Steve Slade,24,Forward,Cambridge Utd.,Free Transfer,out,0,Championship,2000,2000/2001
+Queens Park Rangers,Keith Rowland,29,Left-Back,Luton Town,Loan,out,0,Championship,2000,2000/2001
+Queens Park Rangers,Steve Morrow,30,Right-Back,Peterborough,Loan,out,0,Championship,2000,2000/2001
+Queens Park Rangers,Wayne Purser,20,Forward,Barnet,?,out,NA,Championship,2000,2000/2001
+Queens Park Rangers,Felix Michel Ngonge,32,Forward,Kilmarnock FC,?,out,NA,Championship,2000,2000/2001
+Queens Park Rangers,Marlon Broomes,22,Centre-Back,Blackburn,"End of loanNov 1, 2000",out,0,Championship,2000,2000/2001
+Queens Park Rangers,Wayne Brown,23,Centre-Back,Ipswich,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Queens Park Rangers,Richard Ord,30,Defender,Retired,-,out,0,Championship,2000,2000/2001
+Queens Park Rangers,Leon Knight,18,Centre-Forward,Chelsea,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Queens Park Rangers,Iain Dowie,35,Centre-Forward,Retired,-,out,0,Championship,2000,2000/2001
+Queens Park Rangers,Paul Furlong,32,Centre-Forward,Birmingham,"End of loanMar 1, 2001",out,0,Championship,2000,2000/2001
+Queens Park Rangers,Kevin Lisbie,22,Centre-Forward,Charlton,"End of loanDec 31, 2000",out,0,Championship,2000,2000/2001
+Queens Park Rangers,Tim Breacker,35,Right-Back,Retired,-,out,0,Championship,2000,2000/2001
+Queens Park Rangers,James Coppinger,20,Right Midfield,Newcastle,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Reading FC,James Harper,20,Central Midfield,Arsenal,£450k,in,0.45,Championship,2000,2000/2001
+Reading FC,Jamie Cureton,25,Centre-Forward,Bristol Rovers,£331k,in,0.331,Championship,2000,2000/2001
+Reading FC,Sammy Igoe,25,Central Midfield,Portsmouth,£135k,in,0.135,Championship,2000,2000/2001
+Reading FC,John Salako,31,Left Midfield,Charlton,£63k,in,0.063,Championship,2000,2000/2001
+Reading FC,Adrian Whitbread,29,Centre-Back,Portsmouth,Loan,in,0,Championship,2000,2000/2001
+Reading FC,Joe Gamble,18,Central Midfield,Cork City U20,Free Transfer,in,0,Championship,2000,2000/2001
+Reading FC,Keith Jones,34,Midfielder,Charlton,Free Transfer,in,0,Championship,2000,2000/2001
+Reading FC,Anthony Rougier,28,Midfielder,Port Vale,?,in,NA,Championship,2000,2000/2001
+Reading FC,Matthew Robinson,26,Defender,Portsmouth,?,in,NA,Championship,2000,2000/2001
+Reading FC,Jamie Ashdown,20,Goalkeeper,GNFC,"End of loanApr 12, 2001",in,0,Championship,2000,2000/2001
+Reading FC,Adam Lockwood,19,Centre-Back,Forest Green,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Reading FC,Nathan Tyson,18,Centre-Forward,Reading U18,-,in,0,Championship,2000,2000/2001
+Reading FC,Chris Smith,19,Centre-Back,York City,"End of loanApr 15, 2001",in,0,Championship,2000,2000/2001
+Reading FC,Nathan Tyson,18,Centre-Forward,Maidenhead Utd.,"End of loanApr 12, 2001",in,0,Championship,2000,2000/2001
+Reading FC,Darius Henderson,18,Centre-Forward,Reading U18,-,in,0,Championship,2000,2000/2001
+Reading FC,Peter van der Kwaak,31,Goalkeeper,Carlisle United,"End of loanJun 30, 2000",in,0,Championship,2000,2000/2001
+Reading FC,Paul Brayson,22,Forward,Cardiff,Free Transfer,out,0,Championship,2000,2000/2001
+Reading FC,Jamie Ashdown,20,Goalkeeper,GNFC,Loan,out,0,Championship,2000,2000/2001
+Reading FC,Stuart Gray,27,Right-Back,Rush. & Diamon.,Free Transfer,out,0,Championship,2000,2000/2001
+Reading FC,Linvoy Primus,26,Centre-Back,Portsmouth,Free Transfer,out,0,Championship,2000,2000/2001
+Reading FC,Peter Grant,34,Central Midfield,Bournemouth,Free Transfer,out,0,Championship,2000,2000/2001
+Reading FC,Adam Lockwood,19,Centre-Back,Forest Green,Loan,out,0,Championship,2000,2000/2001
+Reading FC,Phil Hadland,19,Midfielder,Rochdale,Free Transfer,out,0,Championship,2000,2000/2001
+Reading FC,Chris Smith,19,Centre-Back,York City,Loan,out,0,Championship,2000,2000/2001
+Reading FC,Andy McLaren,27,Left Winger,Kilmarnock FC,Free Transfer,out,0,Championship,2000,2000/2001
+Reading FC,Nathan Tyson,18,Centre-Forward,Maidenhead Utd.,Loan,out,0,Championship,2000,2000/2001
+Reading FC,Jim Crawford,27,Midfielder,Shelbourne,?,out,NA,Championship,2000,2000/2001
+Reading FC,Peter van der Kwaak,31,Goalkeeper,Go Ahead Eagles,?,out,NA,Championship,2000,2000/2001
+Reading FC,Mass Sarr Jr,27,Forward,Sydney Olympic,?,out,NA,Championship,2000,2000/2001
+Reading FC,Mark Bowen,36,Left-Back,Retired,-,out,0,Championship,2000,2000/2001
+Reading FC,Nick Hammond,32,Goalkeeper,Retired,-,out,0,Championship,2000,2000/2001
+Reading FC,John Polston,32,Centre-Back,Retired,-,out,0,Championship,2000,2000/2001
+Reading FC,Adrian Whitbread,29,Centre-Back,Portsmouth,"End of loanMay 28, 2001",out,0,Championship,2000,2000/2001
+Millwall FC,Tony Cottee,35,Centre-Forward,Barnet,Free Transfer,in,0,Championship,2000,2000/2001
+Millwall FC,Steve Claridge,34,Centre-Forward,Portsmouth,Free Transfer,in,0,Championship,2000,2000/2001
+Millwall FC,Willy Guéret,26,Goalkeeper,Le Mans UC 72,Free Transfer,in,0,Championship,2000,2000/2001
+Millwall FC,Sam Parkin,19,Centre-Forward,Chelsea,Loan,in,0,Championship,2000,2000/2001
+Millwall FC,Jordão,25,Centre-Forward,Olhanense,?,in,NA,Championship,2000,2000/2001
+Millwall FC,Alan Dunne,17,Right-Back,Millwall U18,-,in,0,Championship,2000,2000/2001
+Millwall FC,Leon Cort,21,Centre-Back,Forest Green,"End of loanFeb 1, 2001",in,0,Championship,2000,2000/2001
+Millwall FC,Leon Cort,21,Centre-Back,Stevenage FC,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Millwall FC,Mark Phillips,18,Centre-Back,Millwall U18,-,in,0,Championship,2000,2000/2001
+Millwall FC,Paul Shaw,26,Centre-Forward,Gillingham FC,£518k,out,0.518,Championship,2000,2000/2001
+Millwall FC,Leon Cort,21,Centre-Back,Stevenage FC,Loan,out,0,Championship,2000,2000/2001
+Millwall FC,Leon Cort,21,Centre-Back,Forest Green,Loan,out,0,Championship,2000,2000/2001
+Millwall FC,Scott Fitzgerald,30,Centre-Back,Colchester Utd.,?,out,NA,Championship,2000,2000/2001
+Millwall FC,Richard Barnard,19,Goalkeeper,Maidenhead Utd.,?,out,NA,Championship,2000,2000/2001
+Millwall FC,Nigel Spink,41,Goalkeeper,Forest Green,?,out,NA,Championship,2000,2000/2001
+Millwall FC,Sam Parkin,19,Centre-Forward,Chelsea,"End of loanNov 1, 2000",out,0,Championship,2000,2000/2001
+Millwall FC,Keith Stevens,36,Right-Back,Retired,-,out,0,Championship,2000,2000/2001
+Millwall FC,Andy Cook,30,Left-Back,Retired,-,out,0,Championship,2000,2000/2001
+Luton Town,Mark Ovendale,26,Goalkeeper,Bournemouth,£462k,in,0.462,Championship,2000,2000/2001
+Luton Town,Steve Howard,24,Centre-Forward,Northampt. Town,£68k,in,0.068,Championship,2000,2000/2001
+Luton Town,Peter Holmes,19,Central Midfield,Sheff Wed,Free Transfer,in,0,Championship,2000,2000/2001
+Luton Town,Mark Stein,34,Centre-Forward,Bournemouth,Free Transfer,in,0,Championship,2000,2000/2001
+Luton Town,Adrian Whitbread,29,Centre-Back,Portsmouth,Loan,in,0,Championship,2000,2000/2001
+Luton Town,Russell Perrett,27,Centre-Back,Cardiff,Free Transfer,in,0,Championship,2000,2000/2001
+Luton Town,Rocky Baptiste,27,Centre-Forward,Hayes & Yeading,£5k,in,0.005,Championship,2000,2000/2001
+Luton Town,Keith Rowland,29,Left-Back,QPR,Loan,in,0,Championship,2000,2000/2001
+Luton Town,Kent Karlsen,27,Defender,Vålerenga,?,in,NA,Championship,2000,2000/2001
+Luton Town,Peter Thomson,23,Forward,NAC Breda,?,in,NA,Championship,2000,2000/2001
+Luton Town,Petri Helin,30,Right-Back,FC Jokerit,?,in,NA,Championship,2000,2000/2001
+Luton Town,Richard Dryden,31,Defender,Southampton,?,in,NA,Championship,2000,2000/2001
+Luton Town,Paul Shepherd,23,Centre-Forward,Without Club,-,in,0,Championship,2000,2000/2001
+Luton Town,Daryl Murphy,17,Centre-Forward,Luton U18,-,in,0,Championship,2000,2000/2001
+Luton Town,Rocky Baptiste,27,Centre-Forward,Hayes & Yeading,"End of loanMay 1, 2001",in,0,Championship,2000,2000/2001
+Luton Town,Lee Mansell,17,Central Midfield,Luton U18,-,in,0,Championship,2000,2000/2001
+Luton Town,Friedrich Breitenfelder,20,Centre-Back,Without Club,-,in,0,Championship,2000,2000/2001
+Luton Town,Kelvin Davis,23,Goalkeeper,Wimbledon FC,£900k,out,0.9,Championship,2000,2000/2001
+Luton Town,Rocky Baptiste,27,Centre-Forward,Hayes & Yeading,Loan,out,0,Championship,2000,2000/2001
+Luton Town,Michael McIndoe,20,Left Winger,Hereford Utd.,Free Transfer,out,0,Championship,2000,2000/2001
+Luton Town,Phil Gray,31,Centre-Forward,Burnley,Free Transfer,out,0,Championship,2000,2000/2001
+Luton Town,Maxime Agueh,22,Goalkeeper,FC Denderleeuw,?,out,NA,Championship,2000,2000/2001
+Luton Town,Adrian Whitbread,29,Centre-Back,Portsmouth,"End of loanJan 24, 2001",out,0,Championship,2000,2000/2001
+Luton Town,Keith Rowland,29,Left-Back,QPR,"End of loanMay 1, 2001",out,0,Championship,2000,2000/2001
+Barnsley FC,Isaiah Rankin,22,Centre-Forward,Bradford,£495k,in,0.495,Championship,2000,2000/2001
+Barnsley FC,Janne Salli,22,Defender,FC Haka,£286k,in,0.286,Championship,2000,2000/2001
+Barnsley FC,Mitchum Ward,29,Midfielder,Everton,£225k,in,0.225,Championship,2000,2000/2001
+Barnsley FC,Carl Regan,19,Right-Back,Everton,Free Transfer,in,0,Championship,2000,2000/2001
+Barnsley FC,Andy Marriott,30,Goalkeeper,Sunderland,Free Transfer,in,0,Championship,2000,2000/2001
+Barnsley FC,Neil Maddison,31,Midfielder,Middlesbrough,Loan,in,0,Championship,2000,2000/2001
+Barnsley FC,Stuart Ripley,32,Midfielder,Southampton,Loan,in,0,Championship,2000,2000/2001
+Barnsley FC,Alex Neil,19,Defensive Midfield,Airdrie United,Free Transfer,in,0,Championship,2000,2000/2001
+Barnsley FC,Ian Woan,32,Attacking Midfield,Nottm Forest,Free Transfer,in,0,Championship,2000,2000/2001
+Barnsley FC,Lee Jones,27,Centre-Forward,Tranmere Rovers,?,in,NA,Championship,2000,2000/2001
+Barnsley FC,Steven Hayward,29,Midfielder,Fulham,?,in,NA,Championship,2000,2000/2001
+Barnsley FC,Mateo Corbo,24,Left-Back,Real Oviedo,?,in,NA,Championship,2000,2000/2001
+Barnsley FC,Kevin Austin,27,Centre-Back,Brentford,"End of loanNov 1, 2000",in,0,Championship,2000,2000/2001
+Barnsley FC,Keith Brown,20,Defender,Oxford United,"End of loanDec 10, 2000",in,0,Championship,2000,2000/2001
+Barnsley FC,David Mulligan,18,Defensive Midfield,Barnsley U18,-,in,0,Championship,2000,2000/2001
+Barnsley FC,Darren Young,19,Centre-Back,Barnsley U18,-,in,0,Championship,2000,2000/2001
+Barnsley FC,Scott Jones,25,Defender,Bristol Rovers,"End of loanSep 1, 2000",in,0,Championship,2000,2000/2001
+Barnsley FC,Rory Fallon,18,Centre-Forward,Barnsley U18,-,in,0,Championship,2000,2000/2001
+Barnsley FC,Ricky Ravenhill,19,Central Midfield,Barnsley U18,-,in,0,Championship,2000,2000/2001
+Barnsley FC,Carl Barrowclough,18,Midfielder,Barnsley FC,-,in,0,Championship,2000,2000/2001
+Barnsley FC,Craig Hignett,30,Right Winger,Blackburn,£3.60m,out,3.6,Championship,2000,2000/2001
+Barnsley FC,Adie Moses,25,Centre-Back,Huddersfield,£270k,out,0.27,Championship,2000,2000/2001
+Barnsley FC,Scott Jones,25,Defender,Bristol Rovers,£207k,out,0.207,Championship,2000,2000/2001
+Barnsley FC,Gjorgji Hristov,24,Centre-Forward,NEC Nijmegen,Free Transfer,out,0,Championship,2000,2000/2001
+Barnsley FC,Kevin Austin,27,Centre-Back,Brentford,Loan,out,0,Championship,2000,2000/2001
+Barnsley FC,Keith Brown,20,Defender,Oxford United,Loan,out,0,Championship,2000,2000/2001
+Barnsley FC,Tony Bullock,28,Goalkeeper,Macclesfield,Free Transfer,out,0,Championship,2000,2000/2001
+Barnsley FC,Scott Jones,25,Defender,Bristol Rovers,Loan,out,0,Championship,2000,2000/2001
+Barnsley FC,Geoff Thomas,36,Central Midfield,Notts County,Free Transfer,out,0,Championship,2000,2000/2001
+Barnsley FC,Nicky Eaden,27,Right-Back,Birmingham,Free Transfer,out,0,Championship,2000,2000/2001
+Barnsley FC,Ales Krizan,28,Defender,NK Maribor,Free Transfer,out,0,Championship,2000,2000/2001
+Barnsley FC,Ian Woan,32,Attacking Midfield,Swindon Town,Free Transfer,out,0,Championship,2000,2000/2001
+Barnsley FC,Clint Marcelle,31,Midfielder,Hull City,?,out,NA,Championship,2000,2000/2001
+Barnsley FC,Carl Barrowclough,18,Midfielder,Barnsley FC,-,out,0,Championship,2000,2000/2001
+Barnsley FC,Dave Watson,27,Goalkeeper,Retired,-,out,0,Championship,2000,2000/2001
+Barnsley FC,Neil Maddison,31,Midfielder,Middlesbrough,"End of loanNov 13, 2000",out,0,Championship,2000,2000/2001
+Barnsley FC,Stuart Ripley,33,Midfielder,Southampton,"End of loanDec 31, 2000",out,0,Championship,2000,2000/2001
+Barnsley FC,Robin van der Laan,32,Attacking Midfield,Retired,-,out,0,Championship,2000,2000/2001
+Charlton Athletic,Claus Jensen,23,Attacking Midfield,Bolton,£5.40m,in,5.4,Championship,2000,2000/2001
+Charlton Athletic,Radostin Kishishev,25,Defensive Midfield,Litex Lovetch,£4.05m,in,4.05,Championship,2000,2000/2001
+Charlton Athletic,Jonatan Johansson,24,Centre-Forward,Rangers,£3.87m,in,3.87,Championship,2000,2000/2001
+Charlton Athletic,Shaun Bartlett,28,Centre-Forward,FC Zürich,£2.70m,in,2.7,Championship,2000,2000/2001
+Charlton Athletic,Mark Fish,26,Centre-Back,Bolton,£1.40m,in,1.4,Championship,2000,2000/2001
+Charlton Athletic,Mathias Svensson,25,Centre-Forward,Crystal Palace,£810k,in,0.81,Championship,2000,2000/2001
+Charlton Athletic,Karim Bagheri,26,Defensive Midfield,Persepolis,£495k,in,0.495,Championship,2000,2000/2001
+Charlton Athletic,Tony Caig,26,Goalkeeper,Blackpool,Free Transfer,in,0,Championship,2000,2000/2001
+Charlton Athletic,Ben Roberts,25,Goalkeeper,Middlesbrough,Free Transfer,in,0,Championship,2000,2000/2001
+Charlton Athletic,Danny Shittu,20,Centre-Back,Blackpool,"End of loanMay 18, 2001",in,0,Championship,2000,2000/2001
+Charlton Athletic,Jonathan Fortune,20,Centre-Back,Mansfield Town,"End of loanNov 12, 2000",in,0,Championship,2000,2000/2001
+Charlton Athletic,Carl Tiler,31,Defender,Birmingham,"End of loanFeb 21, 2001",in,0,Championship,2000,2000/2001
+Charlton Athletic,Scott Parker,20,Central Midfield,Norwich,"End of loanNov 30, 2000",in,0,Championship,2000,2000/2001
+Charlton Athletic,Kevin Lisbie,22,Centre-Forward,QPR,"End of loanDec 31, 2000",in,0,Championship,2000,2000/2001
+Charlton Athletic,Charlie MacDonald,20,Centre-Forward,Cheltenham Town,"End of loanMay 6, 2001",in,0,Championship,2000,2000/2001
+Charlton Athletic,Carl Tiler,31,Defender,Portsmouth,£281k,out,0.281,Championship,2000,2000/2001
+Charlton Athletic,Mark McCammon,21,Centre-Forward,Brentford,£135k,out,0.135,Championship,2000,2000/2001
+Charlton Athletic,John Salako,31,Left Midfield,Reading,£63k,out,0.063,Championship,2000,2000/2001
+Charlton Athletic,Kevin James,20,Centre-Forward,Gillingham FC,Free Transfer,out,0,Championship,2000,2000/2001
+Charlton Athletic,Jonathan Fortune,20,Centre-Back,Mansfield Town,Loan,out,0,Championship,2000,2000/2001
+Charlton Athletic,Danny Shittu,20,Centre-Back,Blackpool,Loan,out,0,Championship,2000,2000/2001
+Charlton Athletic,Charlie MacDonald,20,Centre-Forward,Cheltenham Town,Loan,out,0,Championship,2000,2000/2001
+Charlton Athletic,Simon Royce,28,Goalkeeper,Leicester,Free Transfer,out,0,Championship,2000,2000/2001
+Charlton Athletic,Matt Holmes,30,Midfielder,Dorchester,Free Transfer,out,0,Championship,2000,2000/2001
+Charlton Athletic,Kevin Lisbie,22,Centre-Forward,QPR,Loan,out,0,Championship,2000,2000/2001
+Charlton Athletic,Kemal Izzet,20,Central Midfield,Colchester Utd.,Free Transfer,out,0,Championship,2000,2000/2001
+Charlton Athletic,Anthony Barness,27,Right-Back,Bolton,Free Transfer,out,0,Championship,2000,2000/2001
+Charlton Athletic,Keith Jones,34,Midfielder,Reading,Free Transfer,out,0,Championship,2000,2000/2001
+Charlton Athletic,Scott Parker,20,Central Midfield,Norwich,Loan,out,0,Championship,2000,2000/2001
+Charlton Athletic,Carl Tiler,30,Defender,Birmingham,Loan,out,0,Championship,2000,2000/2001
+Charlton Athletic,Steve Barbé,21,Defensive Midfield,KRC Harelbeke,?,out,NA,Championship,2000,2000/2001

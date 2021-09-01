@@ -1,0 +1,550 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Bayern Munich,Leroy Sané,24,Left Winger,Man City,£40.50m,in,Summer,40.5,1 Bundesliga,2020,2020/2021
+Bayern Munich,Marc Roca,23,Defensive Midfield,Espanyol,£8.10m,in,Summer,8.1,1 Bundesliga,2020,2020/2021
+Bayern Munich,Bouna Sarr,28,Right-Back,Marseille,£7.20m,in,Summer,7.2,1 Bundesliga,2020,2020/2021
+Bayern Munich,Alexander Nübel,23,Goalkeeper,FC Schalke 04,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Tanguy Nianzou,18,Centre-Back,Paris SG,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Eric Maxim Choupo-Moting,31,Centre-Forward,Paris SG,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Douglas Costa,30,Right Winger,Juventus,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Tiago Dantas,19,Central Midfield,Benfica,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Joshua Zirkzee,19,Centre-Forward,FC Bayern II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Bayern Munich,Jamal Musiala,17,Attacking Midfield,FC Bayern U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Bayern Munich,Chris Richards,20,Centre-Back,FC Bayern II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Bayern Munich,Adrian Fein,21,Defensive Midfield,Hamburger SV,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Bayern Munich,Thiago,29,Central Midfield,Liverpool,£19.80m,out,Summer,19.8,1 Bundesliga,2020,2020/2021
+Bayern Munich,Sven Ulreich,32,Goalkeeper,Hamburger SV,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Lars Lukas Mai,20,Centre-Back,SV Darmstadt 98,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Christian Früchtl,20,Goalkeeper,1.FC Nuremberg,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Michaël Cuisance,21,Central Midfield,Marseille,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Adrian Fein,21,Defensive Midfield,PSV Eindhoven,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Fiete Arp,20,Centre-Forward,FC Bayern II,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Bayern Munich,Ivan Perisic,31,Left Winger,Inter,"End of loanAug 31, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+Bayern Munich,Philippe Coutinho,28,Attacking Midfield,FC Barcelona,"End of loanAug 31, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+Bayern Munich,Álvaro Odriozola,24,Right-Back,Real Madrid,"End of loanAug 24, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Emre Can,26,Defensive Midfield,Juventus,£22.50m,in,Summer,22.5,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Jude Bellingham,17,Central Midfield,Birmingham,£20.70m,in,Summer,20.7,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Thomas Meunier,28,Right-Back,Paris SG,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Reinier,18,Attacking Midfield,Real Madrid,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Immanuel Pherai,19,Attacking Midfield,B. Dortmund U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Youssoufa Moukoko,15,Centre-Forward,B. Dortmund U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Dzenis Burnic,22,Defensive Midfield,Dynamo Dresden,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Felix Passlack,22,Right-Back,Fortuna Sittard,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,André Schürrle,29,Left Winger,Spartak Moscow,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Ömer Toprak,30,Centre-Back,Werder Bremen,"End of loanJul 7, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Marius Wolf,25,Right Winger,Hertha BSC,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Ömer Toprak,30,Centre-Back,Werder Bremen,£3.60m,out,Summer,3.6,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Leonardo Balerdi,21,Centre-Back,Marseille,Loan fee:£900Th.,out,Summer,0.9,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Dzenis Burnic,22,Defensive Midfield,1.FC Heidenheim,£450Th.,out,Summer,0.45,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Eric Oelschlägel,25,Goalkeeper,FC Utrecht,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Mario Götze,28,Attacking Midfield,PSV Eindhoven,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Immanuel Pherai,19,Attacking Midfield,PEC Zwolle,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Marius Wolf,25,Right Winger,1. FC Köln,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,André Schürrle,29,Left Winger,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Achraf Hakimi,21,Right Midfield,Real Madrid,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Emre Can,26,Defensive Midfield,Juventus,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+RB Leipzig,Alexander Sörloth,24,Centre-Forward,Crystal Palace,£18.00m,in,Summer,18,1 Bundesliga,2020,2020/2021
+RB Leipzig,Hee-chan Hwang,24,Centre-Forward,RB Salzburg,£8.10m,in,Summer,8.1,1 Bundesliga,2020,2020/2021
+RB Leipzig,Josep Martínez,22,Goalkeeper,UD Las Palmas,£2.25m,in,Summer,2.25,1 Bundesliga,2020,2020/2021
+RB Leipzig,Justin Kluivert,21,Left Winger,AS Roma,Loan fee:£900Th.,in,Summer,0.9,1 Bundesliga,2020,2020/2021
+RB Leipzig,Lazar Samardzic,18,Attacking Midfield,Hertha BSC U19,£450Th.,in,Summer,0.45,1 Bundesliga,2020,2020/2021
+RB Leipzig,Benjamin Henrichs,23,Right-Back,Monaco,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+RB Leipzig,Tim Schreiber,18,Goalkeeper,RB Leipzig U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+RB Leipzig,Dennis Borkowski,18,Centre-Forward,RB Leipzig U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+RB Leipzig,Jean-Kévin Augustin,23,Centre-Forward,Leeds,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+RB Leipzig,Timo Werner,24,Centre-Forward,Chelsea,£47.70m,out,Summer,47.7,1 Bundesliga,2020,2020/2021
+RB Leipzig,Ademola Lookman,22,Left Winger,Fulham,Loan fee:£1.80m,out,Summer,1.8,1 Bundesliga,2020,2020/2021
+RB Leipzig,Hannes Wolf,21,Attacking Midfield,Bor. M'gladbach,Loan fee:£1.35m,out,Summer,1.35,1 Bundesliga,2020,2020/2021
+RB Leipzig,Jean-Kévin Augustin,23,Centre-Forward,FC Nantes,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+RB Leipzig,Frederik Jäkel,19,Centre-Back,KV Oostende,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+RB Leipzig,Mads Bidstrup,19,Central Midfield,Brentford B,?,out,Summer,NA,1 Bundesliga,2020,2020/2021
+RB Leipzig,Tom Krauß,19,Defensive Midfield,1.FC Nuremberg,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+RB Leipzig,Yvon Mvogo,26,Goalkeeper,PSV Eindhoven,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+RB Leipzig,Malik Talabidi,19,Centre-Back,FC Wil 1900,?,out,Summer,NA,1 Bundesliga,2020,2020/2021
+RB Leipzig,Ethan Ampadu,19,Centre-Back,Chelsea,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+RB Leipzig,Patrik Schick,24,Centre-Forward,AS Roma,"End of loanAug 24, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Hannes Wolf,21,Attacking Midfield,RB Leipzig,Loan fee:£1.35m,in,Summer,1.35,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Valentino Lazaro,24,Right Midfield,Inter,Loan fee:£1.08m,in,Summer,1.08,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Jan Olschowsky,18,Goalkeeper,M'gladbach II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Rocco Reitz,18,Central Midfield,M'gladbach U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Moritz Nicolas,22,Goalkeeper,Union Berlin,"End of loanAug 14, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Famana Quizera,18,Attacking Midfield,M'gladbach U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Kaan Kurt,18,Right-Back,M'gladbach II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Michael Lang,29,Right-Back,Werder Bremen,"End of loanJul 7, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Andreas Poulsen,20,Left-Back,Austria Vienna,"End of loanJul 31, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Julio Villalba,21,Centre-Forward,SCR Altach,"End of loanJul 31, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Jordan Beyer,20,Right-Back,Hamburger SV,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Tobias Strobl,30,Defensive Midfield,FC Augsburg,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Moritz Nicolas,22,Goalkeeper,VfL Osnabrück,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Keanan Bennetts,21,Left Winger,Ipswich,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Fabian Johnson,32,Left Winger,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Raffael,35,Second Striker,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Patrik Schick,24,Centre-Forward,AS Roma,£23.85m,in,Summer,23.85,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Santiago Arias,28,Right-Back,Atlético Madrid,Loan fee:£2.70m,in,Summer,2.7,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Lennart Grill,21,Goalkeeper,1.FC K'lautern,£1.80m,in,Summer,1.8,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Florian Wirtz,17,Attacking Midfield,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Ayman Azhil,19,Defensive Midfield,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Cem Türkmen,18,Central Midfield,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Tin Jedvaj,24,Centre-Back,FC Augsburg,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Joel Pohjanpalo,25,Centre-Forward,Hamburger SV,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Panagiotis Retsos,21,Centre-Back,Sheff Utd,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Kai Havertz,21,Attacking Midfield,Chelsea,£72.00m,out,Summer,72,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Kevin Volland,28,Centre-Forward,Monaco,£13.95m,out,Summer,13.95,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Adrian Stanilewicz,20,Defensive Midfield,SV Darmstadt 98,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Panagiotis Retsos,22,Centre-Back,Saint-Étienne,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Ayman Azhil,19,Defensive Midfield,RKC Waalwijk,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Joel Pohjanpalo,26,Centre-Forward,Union Berlin,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Ramazan Özcan,36,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Mijat Gacinovic,25,Attacking Midfield,E. Frankfurt,£2.70m,in,Summer,2.7,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Sebastian Rudy,30,Defensive Midfield,FC Schalke 04,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Ryan Sessegnon,20,Left-Back,Spurs,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Melayro Bogarde,18,Centre-Back,Hoffenheim U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Maximilian Beier,17,Centre-Forward,Hoffenheim U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Marco John,18,Attacking Midfield,Hoffenheim U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Luca Philipp,19,Goalkeeper,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,João Klauss,23,Centre-Forward,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Gregor Kobel,22,Goalkeeper,VfB Stuttgart,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Kasim Adams,25,Centre-Back,F. Düsseldorf,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Leonardo Bittencourt,26,Attacking Midfield,Werder Bremen,"End of loanJul 7, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Kevin Vogt,28,Centre-Back,Werder Bremen,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Joshua Brenet,26,Right-Back,Vitesse,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Felipe Pires,25,Left Winger,HNK Rijeka,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Leonardo Bittencourt,26,Attacking Midfield,Werder Bremen,£6.30m,out,Summer,6.3,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Gregor Kobel,22,Goalkeeper,VfB Stuttgart,£3.60m,out,Summer,3.6,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Steven Zuber,28,Left Midfield,E. Frankfurt,£2.70m,out,Summer,2.7,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Michael Esser,32,Goalkeeper,Hannover 96,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Lucas Ribeiro,21,Centre-Back,Internacional,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Felipe Pires,25,Left Winger,Moreirense,?,out,Summer,NA,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Ilay Elmkies,20,Central Midfield,ADO Den Haag,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Alexander Stolz,36,Goalkeeper,Hoffenheim II,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Sebastian Rudy,30,Defensive Midfield,FC Schalke 04,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Ridle Baku,22,Right-Back,1.FSV Mainz 05,£9.00m,in,Summer,9,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Bartosz Bialek,18,Centre-Forward,Zaglebie Lubin,£4.50m,in,Summer,4.5,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Maxence Lacroix,20,Centre-Back,FC Sochaux,£4.50m,in,Summer,4.5,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Maximilian Philipp,26,Second Striker,Dynamo Moscow,Loan fee:£1.80m,in,Summer,1.8,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Omar Marmoush,21,Centre-Forward,Wolfsburg II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Lino Kasten,19,Goalkeeper,Wolfsburg U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Marvin Stefaniak,25,Attacking Midfield,Greuther Fürth,"End of loanOct 4, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Felix Uduokhai,22,Centre-Back,FC Augsburg,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,John Yeboah,20,Left Winger,VVV-Venlo,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Yunus Malli,28,Attacking Midfield,Union Berlin,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Jeffrey Bruma,28,Centre-Back,1.FSV Mainz 05,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Felix Uduokhai,22,Centre-Back,FC Augsburg,£6.30m,out,Summer,6.3,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Marcel Tisserand,27,Centre-Back,Fenerbahce,£3.60m,out,Summer,3.6,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Robin Knoche,28,Centre-Back,Union Berlin,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Phillip Menzel,21,Goalkeeper,A. Klagenfurt,?,out,Summer,NA,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,John Yeboah,20,Left Winger,Willem II,?,out,Summer,NA,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Marvin Stefaniak,25,Attacking Midfield,Dynamo Dresden,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Ismail Azzaoui,22,Right Winger,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Ignacio Camacho,30,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Baptiste Santamaria,25,Defensive Midfield,SCO Angers,£9.00m,in,Summer,9,1 Bundesliga,2020,2020/2021
+SC Freiburg,Ermedin Demirovic,22,Centre-Forward,Alavés,£3.33m,in,Summer,3.33,1 Bundesliga,2020,2020/2021
+SC Freiburg,Guus Til,22,Attacking Midfield,Spartak Moscow,Loan fee:£405Th.,in,Summer,0.405,1 Bundesliga,2020,2020/2021
+SC Freiburg,Florian Müller,22,Goalkeeper,1.FSV Mainz 05,Loan fee:£180Th.,in,Summer,0.18,1 Bundesliga,2020,2020/2021
+SC Freiburg,Benjamin Uphoff,26,Goalkeeper,Karlsruher SC,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+SC Freiburg,Mohamed Dräger,24,Right-Back,SC Paderborn,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Pascal Stenzel,24,Right-Back,VfB Stuttgart,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Chima Okoroji,23,Left-Back,Jahn Regensburg,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Christoph Daferner,22,Centre-Forward,Erzgebirge Aue,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Constantin Frommann,22,Goalkeeper,Sonnenhof-Gr.,"End of loanJul 5, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Keven Schlotterbeck,23,Centre-Back,Union Berlin,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Marco Terrazzino,29,Attacking Midfield,Dynamo Dresden,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Jérôme Gondorf,32,Central Midfield,Karlsruher SC,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Woo-yeong Jeong,20,Right Winger,FC Bayern II,"End of loanJul 5, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Luca Waldschmidt,24,Second Striker,Benfica,£13.50m,out,Summer,13.5,1 Bundesliga,2020,2020/2021
+SC Freiburg,Robin Koch,24,Centre-Back,Leeds,£11.70m,out,Summer,11.7,1 Bundesliga,2020,2020/2021
+SC Freiburg,Alexander Schwolow,28,Goalkeeper,Hertha BSC,£6.30m,out,Summer,6.3,1 Bundesliga,2020,2020/2021
+SC Freiburg,Pascal Stenzel,24,Right-Back,VfB Stuttgart,£1.17m,out,Summer,1.17,1 Bundesliga,2020,2020/2021
+SC Freiburg,Mohamed Dräger,24,Right-Back,Olympiacos,£900Th.,out,Summer,0.9,1 Bundesliga,2020,2020/2021
+SC Freiburg,Jérôme Gondorf,32,Central Midfield,Karlsruher SC,£450Th.,out,Summer,0.45,1 Bundesliga,2020,2020/2021
+SC Freiburg,Yoric Ravet,30,Right Winger,Grenoble,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SC Freiburg,Mike Frantz,33,Central Midfield,Hannover 96,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SC Freiburg,Christoph Daferner,22,Centre-Forward,Dynamo Dresden,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SC Freiburg,Chima Okoroji,23,Left-Back,SC Paderborn,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SC Freiburg,Nico Schlotterbeck,20,Centre-Back,Union Berlin,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SC Freiburg,Brandon Borrello,25,Right Winger,F. Düsseldorf,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SC Freiburg,Florian Kath,25,Left Winger,1.FC Magdeburg,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SC Freiburg,Marco Terrazzino,29,Attacking Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+SC Freiburg,Constantin Frommann,22,Goalkeeper,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Steven Zuber,28,Left Midfield,TSG Hoffenheim,£2.70m,in,Summer,2.7,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,André Silva,24,Centre-Forward,AC Milan,£2.70m,in,Summer,2.7,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Ragnar Ache,21,Centre-Forward,Sparta R.,£1.80m,in,Summer,1.8,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Ajdin Hrustic,24,Attacking Midfield,FC Groningen,£900Th.,in,Summer,0.9,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Amin Younes,27,Left Winger,SSC Napoli,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Markus Schubert,22,Goalkeeper,FC Schalke 04,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Jabez Makanda,18,Centre-Forward,Frankfurt U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Fynn Otto,18,Centre-Back,Frankfurt U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Yannick Brugger,19,Centre-Back,Frankfurt U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Lukas Fahrnberger,19,Defensive Midfield,Frankfurt U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Felix Irorere,18,Centre-Back,Frankfurt U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Ante Rebic,26,Left Winger,AC Milan,"End of loanSep 11, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Aymen Barkok,22,Attacking Midfield,F. Düsseldorf,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Jetro Willems,26,Left-Back,Newcastle,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Tuta,20,Centre-Back,KV Kortrijk,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Simon Falette,28,Centre-Back,Fenerbahce,"End of loanAug 3, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Dejan Joveljic,20,Centre-Forward,RSC Anderlecht,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Ante Rebic,26,Left Winger,AC Milan,£4.50m,out,Summer,4.5,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Mijat Gacinovic,25,Attacking Midfield,TSG Hoffenheim,£2.70m,out,Summer,2.7,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Lucas Torró,26,Defensive Midfield,CA Osasuna,£1.80m,out,Summer,1.8,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Gonçalo Paciência,26,Centre-Forward,FC Schalke 04,Loan fee:£1.80m,out,Summer,1.8,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Simon Falette,28,Centre-Back,Hannover 96,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Felix Wiedwald,30,Goalkeeper,FC Emmen,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Patrick Finger,19,Attacking Midfield,SVO Biebesheim,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Sahverdi Cetin,19,Central Midfield,Ankaragücü,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Dejan Joveljic,21,Centre-Forward,Wolfsberger AC,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Frederik Rönnow,28,Goalkeeper,FC Schalke 04,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Nils Stendera,19,Central Midfield,Lok Leipzig,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Rodrigo Zalazar,20,Central Midfield,FC St. Pauli,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,André Silva,24,Centre-Forward,AC Milan,"End of loanSep 9, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Gelson Fernandes,33,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Jan Zimmermann,35,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Jonathan de Guzmán,32,Central Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Marco Russ,34,Centre-Back,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Jhon Córdoba,27,Centre-Forward,1. FC Köln,£13.50m,in,Summer,13.5,1 Bundesliga,2020,2020/2021
+Hertha BSC,Alexander Schwolow,28,Goalkeeper,SC Freiburg,£6.30m,in,Summer,6.3,1 Bundesliga,2020,2020/2021
+Hertha BSC,Omar Alderete,23,Centre-Back,FC Basel,£5.85m,in,Summer,5.85,1 Bundesliga,2020,2020/2021
+Hertha BSC,Deyovaisio Zeefuik,22,Right-Back,FC Groningen,£3.60m,in,Summer,3.6,1 Bundesliga,2020,2020/2021
+Hertha BSC,Mattéo Guendouzi,21,Central Midfield,Arsenal,Loan fee:£900Th.,in,Summer,0.9,1 Bundesliga,2020,2020/2021
+Hertha BSC,Jessic Ngankam,19,Centre-Forward,Hertha BSC II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Luca Netz,17,Left-Back,Hertha BSC U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Eduard Löwen,23,Central Midfield,FC Augsburg,"End of loanOct 5, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Nils Körber,23,Goalkeeper,VfL Osnabrück,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Maurice Covic,22,Left Winger,Ascoli,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Ondrej Duda,25,Attacking Midfield,Norwich,"End of loanJul 11, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Lucas Tousart,23,Defensive Midfield,Olympique Lyon,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Daishawn Redan,19,Centre-Forward,FC Groningen,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Ondrej Duda,25,Attacking Midfield,1. FC Köln,£6.30m,out,Summer,6.3,1 Bundesliga,2020,2020/2021
+Hertha BSC,Karim Rekik,25,Centre-Back,Sevilla FC,£1.80m,out,Summer,1.8,1 Bundesliga,2020,2020/2021
+Hertha BSC,Pascal Köpke,24,Centre-Forward,1.FC Nuremberg,£720Th.,out,Summer,0.72,1 Bundesliga,2020,2020/2021
+Hertha BSC,Arne Maier,21,Defensive Midfield,Arm. Bielefeld,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2020,2020/2021
+Hertha BSC,Dennis Smarsch,21,Goalkeeper,FC St. Pauli,£135Th.,out,Summer,0.135,1 Bundesliga,2020,2020/2021
+Hertha BSC,Per Ciljan Skjelbred,33,Central Midfield,Rosenborg,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Hertha BSC,Salomon Kalou,34,Left Winger,Botafogo,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Hertha BSC,Vedad Ibisevic,36,Centre-Forward,FC Schalke 04,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Hertha BSC,Muhammed Kiprit,21,Centre-Forward,KFC Uerdingen,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Hertha BSC,Thomas Kraft,31,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Alexander Esswein,30,Right Winger,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Palkó Dárdai,21,Right Winger,Hertha BSC II,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Maurice Covic,22,Left Winger,Hertha BSC II,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Florian Baak,21,Centre-Back,Hertha BSC II,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Julian Albrecht,18,Central Midfield,Hertha BSC II,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Marko Grujic,24,Defensive Midfield,Liverpool,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Marius Wolf,25,Right Winger,Bor. Dortmund,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Marius Bülter,27,Left Winger,1.FC Magdeburg,£1.35m,in,Summer,1.35,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Sebastian Griesbeck,29,Defensive Midfield,1.FC Heidenheim,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Niko Gießelmann,28,Left-Back,F. Düsseldorf,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Robin Knoche,28,Centre-Back,VfL Wolfsburg,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Cedric Teuchert,23,Attacking Midfield,FC Schalke 04,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Andreas Luthe,33,Goalkeeper,FC Augsburg,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Keita Endo,22,Left Winger,Yokohama F. M.,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Nico Schlotterbeck,20,Centre-Back,SC Freiburg,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Taiwo Awoniyi,23,Centre-Forward,Liverpool,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Loris Karius,27,Goalkeeper,Liverpool,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Joel Pohjanpalo,26,Centre-Forward,Bay. Leverkusen,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Tim Maciejewski,19,Right Winger,U. Berlin U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Max Kruse,32,Second Striker,Without Club,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Berkan Taz,21,Left Winger,Energie Cottbus,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Lars Dietz,23,Centre-Back,Viktoria Köln,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Nicolai Rapp,23,Centre-Back,SV Darmstadt 98,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Lennart Moser,20,Goalkeeper,Cercle Brugge,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Lennard Maloney,20,Centre-Back,Chemnitzer FC,"End of loanJul 5, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Sebastian Andersson,29,Centre-Forward,1. FC Köln,£5.85m,out,Summer,5.85,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Joshua Mees,24,Left Winger,Holstein Kiel,£270Th.,out,Summer,0.27,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Lars Dietz,23,Centre-Back,Würzb. Kickers,£63Th.,out,Summer,0.063,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Berkan Taz,21,Left Winger,SC Verl,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Rafal Gikiewicz,32,Goalkeeper,FC Augsburg,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Leo Oppermann,18,Goalkeeper,Hamburger SV II,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Sebastian Polter,29,Centre-Forward,Fortuna Sittard,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Ken Reichel,33,Left-Back,VfL Osnabrück,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Felix Kroos,29,Central Midfield,E. Braunschweig,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Florian Flecker,24,Right Midfield,Würzb. Kickers,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Lennard Maloney,20,Centre-Back,B. Dortmund II,?,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Neven Subotic,31,Centre-Back,Denizlispor,?,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Suleiman Abdullahi,23,Centre-Forward,E. Braunschweig,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Nicolai Rapp,23,Centre-Back,SV Darmstadt 98,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Julius Kade,21,Central Midfield,Dynamo Dresden,?,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Laurenz Dehl,18,Attacking Midfield,Hallescher FC,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Michael Parensen,34,Centre-Back,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Moritz Nicolas,22,Goalkeeper,Bor. M'gladbach,"End of loanAug 14, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Maurice Opfermann Arcones,20,Defensive Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Manuel Schmiedebach,31,Defensive Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Keven Schlotterbeck,23,Centre-Back,SC Freiburg,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Marius Bülter,27,Left Winger,1.FC Magdeburg,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Yunus Malli,28,Attacking Midfield,VfL Wolfsburg,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Gonçalo Paciência,26,Centre-Forward,E. Frankfurt,Loan fee:£1.80m,in,Summer,1.8,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Vedad Ibisevic,36,Centre-Forward,Hertha BSC,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Frederik Rönnow,28,Goalkeeper,E. Frankfurt,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Kilian Ludewig,20,Right-Back,RB Salzburg,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Can Bozdogan,19,Attacking Midfield,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Malick Thiaw,18,Centre-Back,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Timo Becker,23,Centre-Back,Schalke 04 II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Nick Taitague,21,Attacking Midfield,Schalke 04 II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Kerim Calhanoglu,18,Left Midfield,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Cedric Teuchert,23,Attacking Midfield,Hannover 96,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Jonas Carls,23,Left-Back,Viktoria Köln,"End of loanJul 5, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Nabil Bentaleb,25,Central Midfield,Newcastle,"End of loanJul 31, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Mark Uth,28,Second Striker,1. FC Köln,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Steven Skrzybski,27,Right Winger,F. Düsseldorf,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Hamza Mendyl,22,Left-Back,Dijon,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Pablo Insua,26,Centre-Back,SD Huesca,"End of loanJul 21, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Sebastian Rudy,30,Defensive Midfield,TSG Hoffenheim,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Bernard Tekpetey,22,Right Winger,F. Düsseldorf,"End of loanJul 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Ralf Fährmann,31,Goalkeeper,Brann,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Weston McKennie,22,Central Midfield,Juventus,Loan fee:£4.05m,out,Summer,4.05,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Pablo Insua,26,Centre-Back,SD Huesca,£225Th.,out,Summer,0.225,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Alexander Nübel,23,Goalkeeper,Bayern Munich,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Daniel Caligiuri,32,Right Midfield,FC Augsburg,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Cedric Teuchert,23,Attacking Midfield,Union Berlin,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Guido Burgstaller,31,Centre-Forward,FC St. Pauli,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Sebastian Rudy,30,Defensive Midfield,TSG Hoffenheim,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Jonas Carls,23,Left-Back,Vit. Guimarães,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Markus Schubert,22,Goalkeeper,E. Frankfurt,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Bernard Tekpetey,22,Right Winger,Ludogorets,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Jonjoe Kenny,23,Right-Back,Everton,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Michael Gregoritsch,26,Second Striker,FC Augsburg,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Jean-Clair Todibo,20,Centre-Back,FC Barcelona,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Juan Miranda,20,Left-Back,FC Barcelona,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Luca Kilian,20,Centre-Back,SC Paderborn,£1.80m,in,Summer,1.8,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Dimitri Lavalée,23,Centre-Back,Standard Liège,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Marius Liesegang,20,Goalkeeper,FSV Mainz 05 II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Marlon Mustapha,19,Centre-Forward,Mainz 05 U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Paul Nebel,17,Right Winger,Mainz 05 U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Kevin Stöger,27,Attacking Midfield,Without Club,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Issah Abass,21,Centre-Forward,FC Utrecht,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Gerrit Holtmann,25,Left Winger,SC Paderborn,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Aaron Seydel,24,Centre-Forward,Jahn Regensburg,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Alexandru Maxim,30,Attacking Midfield,Gaziantep FK,"End of loanAug 5, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Ahmet Gürleyen,21,Centre-Back,FC Liefering,"End of loanJul 31, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Ridle Baku,22,Right-Back,VfL Wolfsburg,£9.00m,out,Summer,9,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Florian Müller,22,Goalkeeper,SC Freiburg,Loan fee:£180Th.,out,Summer,0.18,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Ronaël Pierre-Gabriel,22,Right-Back,Stade Brest 29,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Aaron Seydel,24,Centre-Forward,SV Darmstadt 98,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Alexandru Maxim,30,Attacking Midfield,Gaziantep FK,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Gerrit Holtmann,25,Left Winger,VfL Bochum,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Jonathan Meier,20,Left-Back,Dynamo Dresden,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Ahmet Gürleyen,21,Centre-Back,FSV Mainz 05 II,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Taiwo Awoniyi,22,Centre-Forward,Liverpool,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Jeffrey Bruma,28,Centre-Back,VfL Wolfsburg,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Ondrej Duda,25,Attacking Midfield,Hertha BSC,£6.30m,in,Summer,6.3,1 Bundesliga,2020,2020/2021
+1. FC Köln,Sebastian Andersson,29,Centre-Forward,Union Berlin,£5.85m,in,Summer,5.85,1 Bundesliga,2020,2020/2021
+1. FC Köln,Dimitrios Limnios,22,Right Winger,PAOK Salonika,£2.97m,in,Summer,2.97,1 Bundesliga,2020,2020/2021
+1. FC Köln,Tolu Arokodare,19,Centre-Forward,Valmiera,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2020,2020/2021
+1. FC Köln,Ron-Robert Zieler,31,Goalkeeper,Hannover 96,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Marius Wolf,25,Right Winger,Bor. Dortmund,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Robert Voloder,19,Centre-Back,1.FC Köln U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Tim Lemperle,18,Right Winger,1.FC Köln U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Tomas Ostrak,20,Attacking Midfield,TSV Hartberg,"End of loanJul 31, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Lasse Sobiech,29,Centre-Back,Mouscron,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Louis Schaub,25,Attacking Midfield,Hamburger SV,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Salih Özcan,22,Central Midfield,Holstein Kiel,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Yann Aurel Bisseck,19,Centre-Back,Roda JC,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Frederik Sörensen,28,Centre-Back,BSC Young Boys,"End of loanAug 10, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Jannes Horn,23,Left-Back,Hannover 96,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,João Queirós,22,Centre-Back,Willem II,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Jan-Christoph Bartels,21,Goalkeeper,Wehen Wiesbaden,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Vincent Koziello,24,Central Midfield,Paris FC,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Jhon Córdoba,27,Centre-Forward,Hertha BSC,£13.50m,out,Summer,13.5,1 Bundesliga,2020,2020/2021
+1. FC Köln,Jan-Christoph Bartels,21,Goalkeeper,Waldh. Mannheim,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Brady Scott,21,Goalkeeper,Nashville SC,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Simon Terodde,32,Centre-Forward,Hamburger SV,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Birger Verstraete,26,Defensive Midfield,Royal Antwerp,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Niklas Hauptmann,24,Central Midfield,Holstein Kiel,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Yann Aurel Bisseck,19,Centre-Back,Vit. Guimarães,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Kingsley Schindler,27,Right Winger,Hannover 96,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Tomas Ostrak,20,Attacking Midfield,MFK Karvina,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Vincent Koziello,24,Central Midfield,Nacional,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Marcel Risse,30,Right Midfield,Viktoria Köln,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Lasse Sobiech,29,Centre-Back,FC Zürich,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Louis Schaub,25,Attacking Midfield,FC Luzern,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Thomas Kessler,34,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Mark Uth,28,Second Striker,FC Schalke 04,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Toni Leistner,29,Centre-Back,QPR,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+FC Augsburg,Felix Uduokhai,22,Centre-Back,VfL Wolfsburg,£6.30m,in,Summer,6.3,1 Bundesliga,2020,2020/2021
+FC Augsburg,Robert Gumny,22,Right-Back,Lech Poznan,£1.80m,in,Summer,1.8,1 Bundesliga,2020,2020/2021
+FC Augsburg,Frederik Winther,19,Centre-Back,Lyngby BK,£1.17m,in,Summer,1.17,1 Bundesliga,2020,2020/2021
+FC Augsburg,Rafal Gikiewicz,32,Goalkeeper,Union Berlin,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Tobias Strobl,30,Defensive Midfield,Bor. M'gladbach,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Daniel Caligiuri,32,Right Midfield,FC Schalke 04,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Kevin Danso,21,Centre-Back,Southampton,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Augsburg,Tim Rieder,26,Defensive Midfield,1860 Munich,"End of loanJul 5, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Augsburg,Michael Gregoritsch,26,Second Striker,FC Schalke 04,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Augsburg,Mads Pedersen,23,Left-Back,FC Zürich,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+FC Augsburg,Philipp Max,26,Left-Back,PSV Eindhoven,£7.20m,out,Summer,7.2,1 Bundesliga,2020,2020/2021
+FC Augsburg,Kevin Danso,21,Centre-Back,F. Düsseldorf,Loan fee:£450Th.,out,Summer,0.45,1 Bundesliga,2020,2020/2021
+FC Augsburg,Tim Rieder,26,Defensive Midfield,1.FC K'lautern,£45Th.,out,Summer,0.045,1 Bundesliga,2020,2020/2021
+FC Augsburg,Maurice Malone,19,Second Striker,Wehen Wiesbaden,Loan fee:£45Th.,out,Summer,0.045,1 Bundesliga,2020,2020/2021
+FC Augsburg,Andreas Luthe,33,Goalkeeper,Union Berlin,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Fabian Giefer,30,Goalkeeper,Würzb. Kickers,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Jozo Stanic,21,Centre-Back,FSV Zwickau,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Simon Asta,19,Right-Back,Greuther Fürth,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Georg Teigl,29,Right-Back,Austria Vienna,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Frederik Winther,19,Centre-Back,Lyngby BK,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Sergio Córdova,23,Centre-Forward,Arm. Bielefeld,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Daniel Baier,36,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+FC Augsburg,Eduard Löwen,23,Central Midfield,Hertha BSC,"End of loanOct 5, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+FC Augsburg,Stephan Lichtsteiner,36,Right-Back,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+FC Augsburg,Tin Jedvaj,24,Centre-Back,Bay. Leverkusen,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+FC Augsburg,Felix Uduokhai,22,Centre-Back,VfL Wolfsburg,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Leonardo Bittencourt,26,Attacking Midfield,TSG Hoffenheim,£6.30m,in,Summer,6.3,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Ömer Toprak,30,Centre-Back,Bor. Dortmund,£3.60m,in,Summer,3.6,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Felix Agu,20,Right-Back,VfL Osnabrück,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Oscar Schönfelder,19,Left Winger,Mainz 05 U19,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Patrick Erras,25,Defensive Midfield,1.FC Nuremberg,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Tahith Chong,20,Right Winger,Man Utd,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Eduardo dos Santos Haesler,21,Goalkeeper,W. Bremen II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Nick Woltemade,18,Second Striker,W. Bremen U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Christian Groß,31,Defensive Midfield,W. Bremen II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Romano Schmid,20,Attacking Midfield,Wolfsberger AC,"End of loanJul 31, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Jan-Niklas Beste,21,Left-Back,FC Emmen,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Ole Käuper,23,Defensive Midfield,Carl Zeiss Jena,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Jean Manuel Mbom,20,Central Midfield,KFC Uerdingen,"End of loanJul 5, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Martin Harnik,33,Right Winger,Hamburger SV,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Felix Beijmo,22,Right-Back,Greuther Fürth,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Davy Klaassen,27,Central Midfield,Ajax,£9.90m,out,Summer,9.9,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Nuri Sahin,31,Defensive Midfield,Antalyaspor,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Fin Bartels,33,Left Winger,Holstein Kiel,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Martin Harnik,33,Right Winger,TuS Dassendorf,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Jan-Niklas Beste,21,Left-Back,Jahn Regensburg,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Benjamin Goller,21,Right Winger,Karlsruher SC,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Felix Beijmo,22,Right-Back,Malmö FF,?,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Luca Plogmann,20,Goalkeeper,SV Meppen,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Thore Jacobsen,23,Defensive Midfield,1.FC Magdeburg,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Johannes Eggestein,22,Centre-Forward,LASK,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Claudio Pizarro,41,Centre-Forward,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Sebastian Langkamp,32,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Philipp Bargfrede,31,Defensive Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Simon Straudi,21,Right Midfield,W. Bremen II,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Ole Käuper,23,Defensive Midfield,W. Bremen II,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Ömer Toprak,30,Centre-Back,Bor. Dortmund,"End of loanJul 7, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Michael Lang,29,Right-Back,Bor. M'gladbach,"End of loanJul 7, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Leonardo Bittencourt,26,Attacking Midfield,TSG Hoffenheim,"End of loanJul 7, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Kevin Vogt,28,Centre-Back,TSG Hoffenheim,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Arne Maier,21,Defensive Midfield,Hertha BSC,Loan fee:£450Th.,in,Summer,0.45,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Ritsu Doan,22,Right Winger,PSV Eindhoven,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Mike van der Hoorn,27,Centre-Back,Swansea,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Noel Niemann,20,Second Striker,1860 Munich,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Nathan de Medina,22,Right-Back,Mouscron,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Jacob Barrett Laursen,25,Left-Back,Odense BK,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Christian Gebauer,26,Right Winger,SCR Altach,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Sergio Córdova,23,Centre-Forward,FC Augsburg,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Mervin Kalac,18,Centre-Forward,Bielefeld U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Prince Osei Owusu,23,Centre-Forward,1860 Munich,"End of loanJul 5, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Can Hayri Özkan,20,Defensive Midfield,Alem. Aachen,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Nikolai Rehnen,23,Goalkeeper,Alem. Aachen,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Jonathan Clauss,27,Right-Back,Lens,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Patrick Weihrauch,26,Attacking Midfield,Dynamo Dresden,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Keanu Staude,23,Left Winger,Würzb. Kickers,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Florian Hartherz,27,Left-Back,F. Düsseldorf,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Philipp Klewin,26,Goalkeeper,Erzgebirge Aue,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Álex Pérez,29,Centre-Back,UD Logroñés,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Stephan Salger,30,Centre-Back,1860 Munich,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Mervin Kalac,19,Centre-Forward,SV Lippstadt 08,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Prince Osei Owusu,23,Centre-Forward,SC Paderborn,?,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Can Hayri Özkan,20,Defensive Midfield,Naestved BK,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Nils Quaschner,26,Centre-Forward,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Tom Schütz,32,Defensive Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Ágoston Kiss,19,Goalkeeper,Haladás,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Waldemar Anton,24,Centre-Back,Hannover 96,£3.60m,in,Summer,3.6,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Gregor Kobel,22,Goalkeeper,TSG Hoffenheim,£3.60m,in,Summer,3.6,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Wataru Endo,27,Defensive Midfield,Sint-Truiden,£1.53m,in,Summer,1.53,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Pascal Stenzel,24,Right-Back,SC Freiburg,£1.17m,in,Summer,1.17,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Konstantinos Mavropanos,22,Centre-Back,Arsenal,Loan fee:£225Th.,in,Summer,0.225,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Momo Cissé,17,Right Winger,Le Havre B,free transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Naouirou Ahamada,18,Central Midfield,Juventus U23,loan transfer,in,Summer,NA,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Lilian Egloff,17,Attacking Midfield,Stuttgart U19,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Antonis Aidonis,19,Centre-Back,Stuttgart II,-,in,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Pablo Maffeo,23,Right-Back,Girona,"End of loanAug 24, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Aílton,25,Left-Back,Qarabag Agdam,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Erik Thommy,25,Left Midfield,F. Düsseldorf,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,David Kopacz,21,Attacking Midfield,Górnik Zabrze,"End of loanJul 20, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Chadrac Akolo,25,Left Winger,Amiens SC,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Nikolas Nartey,20,Central Midfield,Hansa Rostock,"End of loanJul 5, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Anastasios Donis,23,Centre-Forward,Stade Reims,"End of loanJun 30, 2020",in,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Anastasios Donis,23,Centre-Forward,Stade Reims,£3.60m,out,Summer,3.6,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Chadrac Akolo,25,Left Winger,Amiens SC,£3.15m,out,Summer,3.15,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,David Kopacz,21,Attacking Midfield,Würzb. Kickers,free transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Nikolas Nartey,20,Central Midfield,SV Sandhausen,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Pablo Maffeo,23,Right-Back,SD Huesca,loan transfer,out,Summer,NA,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Mario Gómez,34,Centre-Forward,Retired,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Holger Badstuber,31,Centre-Back,Stuttgart II,-,out,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Pascal Stenzel,24,Right-Back,SC Freiburg,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Gregor Kobel,22,Goalkeeper,TSG Hoffenheim,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Wataru Endo,27,Defensive Midfield,Sint-Truiden,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Nathaniel Phillips,23,Centre-Back,Liverpool,"End of loanJun 30, 2020",out,Summer,0,1 Bundesliga,2020,2020/2021
+Bayern Munich,Chris Richards,20,Centre-Back,TSG Hoffenheim,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Bayern Munich,Joshua Zirkzee,19,Centre-Forward,Parma,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Borussia Dortmund,Steffen Tigges,22,Centre-Forward,B. Dortmund II,-,in,Winter,0,1 Bundesliga,2020,2020/2021
+RB Leipzig,Dominik Szoboszlai,20,Left Midfield,RB Salzburg,£18.00m,in,Winter,18,1 Bundesliga,2020,2020/2021
+RB Leipzig,Eric Martel,18,Centre-Back,RB Leipzig U19,-,in,Winter,0,1 Bundesliga,2020,2020/2021
+RB Leipzig,Eric Martel,18,Centre-Back,Austria Vienna,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+RB Leipzig,Dennis Borkowski,19,Centre-Forward,1.FC Nuremberg,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+RB Leipzig,Tim Schreiber,18,Goalkeeper,Hallescher FC,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Kouadio Koné,19,Central Midfield,Toulouse,£8.10m,in,Winter,8.1,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Joe Scally,18,Right-Back,NYCFC,£1.62m,in,Winter,1.62,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Kouadio Koné,19,Central Midfield,Toulouse,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Borussia Mönchengladbach,Lászlo Bénes,23,Central Midfield,FC Augsburg,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Jeremie Frimpong,20,Right-Back,Celtic,£9.90m,in,Winter,9.9,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Demarai Gray,24,Left Winger,Leicester,£1.80m,in,Winter,1.8,1 Bundesliga,2020,2020/2021
+Bayer 04 Leverkusen,Timothy Fosu-Mensah,23,Right-Back,Man Utd,£1.53m,in,Winter,1.53,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Georginio Rutter,18,Centre-Forward,Stade Rennais,£450Th.,in,Winter,0.45,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Chris Richards,20,Centre-Back,Bayern Munich,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,David Otto,21,Centre-Forward,1.FC Heidenheim,"End of loanJan 19, 2021",in,Winter,0,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,João Klauss,23,Centre-Forward,Standard Liège,Loan fee:£495Th.,out,Winter,0.495,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,David Otto,21,Centre-Forward,Jahn Regensburg,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+TSG 1899 Hoffenheim,Jacob Bruun Larsen,22,Left Winger,RSC Anderlecht,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Tim Siersleben,20,Centre-Back,Wolfsburg II,-,in,Winter,0,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Omar Marmoush,21,Centre-Forward,FC St. Pauli,Loan fee:£90Th.,out,Winter,0.09,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Yunus Malli,28,Attacking Midfield,Trabzonspor,free transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,Felix Klaus,28,Right Winger,F. Düsseldorf,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+VfL Wolfsburg,William,25,Right-Back,FC Schalke 04,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+SC Freiburg,Luca Itter,22,Left-Back,Greuther Fürth,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+SC Freiburg,Amir Abrashi,30,Defensive Midfield,FC Basel,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Luka Jovic,23,Centre-Forward,Real Madrid,Loan fee:£900Th.,in,Winter,0.9,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Bas Dost,31,Centre-Forward,Club Brugge,£3.60m,out,Winter,3.6,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,David Abraham,34,Centre-Back,CA Huracán,free transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Marijan Cavar,22,Central Midfield,Greuther Fürth,free transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Dominik Kohr,26,Central Midfield,1.FSV Mainz 05,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Eintracht Frankfurt,Danny da Costa,27,Right Midfield,1.FSV Mainz 05,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Hertha BSC,Sami Khedira,33,Central Midfield,Juventus,free transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+Hertha BSC,Nemanja Radonjic,24,Left Winger,Marseille,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+Hertha BSC,Dennis Jastrzembski,20,Left Winger,SC Paderborn,"End of loanJan 26, 2021",in,Winter,0,1 Bundesliga,2020,2020/2021
+Hertha BSC,Dennis Jastrzembski,20,Left Winger,Waldh. Mannheim,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Petar Musa,22,Centre-Forward,Slavia Prague,Loan fee:£180Th.,in,Winter,0.18,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Leon Dajaku,19,Attacking Midfield,FC Bayern II,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+1.FC Union Berlin,Lennart Moser,21,Goalkeeper,A. Klagenfurt,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Sead Kolasinac,27,Left-Back,Arsenal,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Klaas-Jan Huntelaar,37,Centre-Forward,Ajax,free transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Shkodran Mustafi,28,Centre-Back,Arsenal,free transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,William,25,Right-Back,VfL Wolfsburg,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Matthew Hoppe,19,Centre-Forward,Schalke 04 II,-,in,Winter,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Ozan Kabak,20,Centre-Back,Liverpool,Loan fee:£990Th.,out,Winter,0.99,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Rabbi Matondo,20,Right Winger,Stoke City,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Ahmed Kutucu,20,Centre-Forward,Heracles Almelo,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Vedad Ibisevic,36,Centre-Forward,Without Club,-,out,Winter,0,1 Bundesliga,2020,2020/2021
+FC Schalke 04,Nick Taitague,21,Attacking Midfield,Without Club,-,out,Winter,0,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Dominik Kohr,26,Central Midfield,E. Frankfurt,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Danny da Costa,27,Right Midfield,E. Frankfurt,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Robert Glatzel,27,Centre-Forward,Cardiff,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Jean-Philippe Mateta,23,Centre-Forward,Crystal Palace,Loan fee:£3.15m,out,Winter,3.15,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Issah Abass,22,Centre-Forward,Twente FC,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Dimitri Lavalée,24,Centre-Back,Sint-Truiden,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Dong-won Ji,29,Centre-Forward,E. Braunschweig,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+1.FSV Mainz 05,Aarón Martín,23,Left-Back,Celta de Vigo,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Emmanuel Dennis,23,Centre-Forward,Club Brugge,Loan fee:£1.08m,in,Winter,1.08,1 Bundesliga,2020,2020/2021
+1. FC Köln,Max Meyer,25,Attacking Midfield,Crystal Palace,free transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Marvin Obuz,18,Left Winger,1.FC Köln U19,-,in,Winter,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Sava-Arangel Cestic,19,Centre-Back,1.FC Köln II,-,in,Winter,0,1 Bundesliga,2020,2020/2021
+1. FC Köln,Christian Clemens,29,Right Winger,SV Darmstadt 98,free transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Frederik Sörensen,28,Centre-Back,Pescara,free transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+1. FC Köln,Anthony Modeste,32,Centre-Forward,Saint-Étienne,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Lászlo Bénes,23,Central Midfield,Bor. M'gladbach,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+FC Augsburg,Felix Götze,22,Centre-Back,1.FC K'lautern,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Michael Zetterer,25,Goalkeeper,PEC Zwolle,"End of loanJan 30, 2021",in,Winter,0,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Stefanos Kapino,26,Goalkeeper,SV Sandhausen,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+SV Werder Bremen,Tahith Chong,21,Right Winger,Man Utd,"End of loanJan 30, 2021",out,Winter,0,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Masaya Okugawa,24,Left Midfield,RB Salzburg,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Michel Vlap,23,Attacking Midfield,RSC Anderlecht,loan transfer,in,Winter,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Brian Behrendt,29,Centre-Back,E. Braunschweig,£90Th.,out,Winter,0.09,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Noel Niemann,21,Second Striker,Türkgücü Münch.,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+Arminia Bielefeld,Sebastian Müller,20,Centre-Forward,VfL Osnabrück,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Aílton,25,Left-Back,FC Midtjylland,free transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021
+VfB Stuttgart,Maxime Awoudja,22,Centre-Back,Türkgücü Münch.,loan transfer,out,Winter,NA,1 Bundesliga,2020,2020/2021

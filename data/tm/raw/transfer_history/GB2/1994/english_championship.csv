@@ -1,0 +1,355 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Cardiff City,Charlie Oatway,20,Central Midfield,Yeading FC,Free Transfer,in,0,Championship,1994,1994/1995
+Cardiff City,Paul Ramsey,31,Defensive Midfield,St. Johnstone,Loan,in,0,Championship,1994,1994/1995
+Cardiff City,Wayne Fereday,31,Right Winger,West Brom,?,in,NA,Championship,1994,1994/1995
+Cardiff City,John Pearson,31,Forward,Mansfield Town,?,in,NA,Championship,1994,1994/1995
+Cardiff City,Mark Aizlewood,34,Centre-Back,Bristol City,?,in,NA,Championship,1994,1994/1995
+Cardiff City,Scott Young,18,Centre-Back,Cardiff U18,-,in,0,Championship,1994,1994/1995
+Cardiff City,Kevin Bartley,18,Forward,Afan Lido,?,out,NA,Championship,1994,1994/1995
+Cardiff City,Alan Walsh,37,Left Midfield,Hartlepool Utd.,?,out,NA,Championship,1994,1994/1995
+Cardiff City,Garry Thompson,35,Forward,Northampt. Town,?,out,NA,Championship,1994,1994/1995
+Cardiff City,Paul Ramsey,32,Defensive Midfield,St. Johnstone,"End of loanNov 1, 1994",out,0,Championship,1994,1994/1995
+Fulham FC,Micky Adams,32,Left-Back,Southampton,Free Transfer,in,0,Championship,1994,1994/1995
+Fulham FC,Alan Cork,35,Forward,Sheffield Utd.,Free Transfer,in,0,Championship,1994,1994/1995
+Fulham FC,Mark Stallard,19,Centre-Forward,Derby,Loan,in,0,Championship,1994,1994/1995
+Fulham FC,Kevin Moore,36,Defender,Southampton,Free Transfer,in,0,Championship,1994,1994/1995
+Fulham FC,Mark Blake,26,Centre-Back,Shrewsbury,Free Transfer,in,0,Championship,1994,1994/1995
+Fulham FC,Nicholas Cusack,28,Midfielder,Oxford United,?,in,NA,Championship,1994,1994/1995
+Fulham FC,Terry Hurlock,35,Central Midfield,Southampton,?,in,NA,Championship,1994,1994/1995
+Fulham FC,Sean Farrell,25,Forward,Peterborough,£151k,out,0.151,Championship,1994,1994/1995
+Fulham FC,Martin Pike,29,Right-Back,Rotherham,Free Transfer,out,0,Championship,1994,1994/1995
+Fulham FC,Glen Thomas,26,Centre-Back,Peterborough,Free Transfer,out,0,Championship,1994,1994/1995
+Fulham FC,Peter Baah,21,Right Winger,Northwich Victoria,?,out,NA,Championship,1994,1994/1995
+Fulham FC,Steve Archibald,37,Centre-Forward,East Fife,?,out,NA,Championship,1994,1994/1995
+Fulham FC,Jeff Eckhardt,28,Centre-Back,Stockport,?,out,NA,Championship,1994,1994/1995
+Fulham FC,Mark Stallard,20,Centre-Forward,Derby,"End of loanDec 31, 1994",out,0,Championship,1994,1994/1995
+Huddersfield Town,Lee Duxbury,25,Midfielder,Bradford,£263k,in,0.263,Championship,1994,1994/1995
+Huddersfield Town,Paul Moulden,27,Forward,Birmingham,Free Transfer,in,0,Championship,1994,1994/1995
+Huddersfield Town,Robbie Ryan,17,Left-Back,Belvedere FC,Free Transfer,in,0,Championship,1994,1994/1995
+Huddersfield Town,Paul Williams,25,Defender,Coventry,Loan,in,0,Championship,1994,1994/1995
+Huddersfield Town,Paul Williams,25,Defender,Coventry,Loan,in,0,Championship,1994,1994/1995
+Huddersfield Town,Gary Crosby,30,Midfielder,Nottm Forest,Free Transfer,in,0,Championship,1994,1994/1995
+Huddersfield Town,Kevin Gray,22,Centre-Back,Mansfield Town,£27k,in,0.027,Championship,1994,1994/1995
+Huddersfield Town,Chris Short,24,Defender,Notts County,Loan,in,0,Championship,1994,1994/1995
+Huddersfield Town,Tom Cowan,24,Left-Back,Sheffield Utd.,?,in,NA,Championship,1994,1994/1995
+Huddersfield Town,Sam Collins,17,Centre-Back,Huddersf. U18,-,in,0,Championship,1994,1994/1995
+Huddersfield Town,Peter Jackson,33,Centre-Back,Chester City,Free Transfer,out,0,Championship,1994,1994/1995
+Huddersfield Town,Gerry Harrison,22,Midfielder,Burnley,Free Transfer,out,0,Championship,1994,1994/1995
+Huddersfield Town,Phil Robinson,27,Midfielder,Chesterfield FC,?,out,NA,Championship,1994,1994/1995
+Huddersfield Town,Phil Starbuck,25,Centre-Forward,Sheffield Utd.,?,out,NA,Championship,1994,1994/1995
+Huddersfield Town,Paul Williams,25,Defender,Coventry,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Huddersfield Town,Paul Williams,25,Defender,Coventry,"End of loanDec 17, 1994",out,0,Championship,1994,1994/1995
+Huddersfield Town,Chris Short,25,Defender,Notts County,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Leeds United,Carlton Palmer,28,Defensive Midfield,Sheff Wed,£2.84m,in,2.84,Championship,1994,1994/1995
+Leeds United,Anthony Yeboah,28,Centre-Forward,E. Frankfurt,Loan fee:£900k,in,0.9,Championship,1994,1994/1995
+Leeds United,Nigel Worthington,32,Left-Back,Sheff Wed,£360k,in,0.36,Championship,1994,1994/1995
+Leeds United,Lucas Radebe,25,Centre-Back,Kaizer Chiefs,£338k,in,0.338,Championship,1994,1994/1995
+Leeds United,Philemon Masinga,25,Centre-Forward,Sundowns,?,in,NA,Championship,1994,1994/1995
+Leeds United,Nathan Lowndes,17,Centre-Forward,Leeds U18,-,in,0,Championship,1994,1994/1995
+Leeds United,Paul Pettinger,19,Goalkeeper,Halifax Town,"End of loanMay 1, 1995",in,0,Championship,1994,1994/1995
+Leeds United,Ryan Nicholls,21,Forward,Strømsgodset,"End of loanAug 31, 1994",in,0,Championship,1994,1994/1995
+Leeds United,Paul Pettinger,19,Goalkeeper,Torquay United,"End of loanJan 1, 1995",in,0,Championship,1994,1994/1995
+Leeds United,Jon Newsome,23,Defender,Norwich,£1.35m,out,1.35,Championship,1994,1994/1995
+Leeds United,Steve Hodge,31,Central Midfield,QPR,£324k,out,0.324,Championship,1994,1994/1995
+Leeds United,Ray Wallace,24,Defender,Stoke City,Free Transfer,out,0,Championship,1994,1994/1995
+Leeds United,Paul Pettinger,19,Goalkeeper,Halifax Town,Loan,out,0,Championship,1994,1994/1995
+Leeds United,Ryan Nicholls,21,Forward,Strømsgodset,Loan,out,0,Championship,1994,1994/1995
+Leeds United,Paul Pettinger,19,Goalkeeper,Torquay United,Loan,out,0,Championship,1994,1994/1995
+Leeds United,Jamie Forrester,19,Left Winger,Scunthorpe Utd.,?,out,NA,Championship,1994,1994/1995
+West Bromwich Albion,Mike Phelan,31,Defensive Midfield,Man Utd,Free Transfer,in,0,Championship,1994,1994/1995
+West Bromwich Albion,Jeroen Boere,26,Centre-Forward,West Ham,Loan,in,0,Championship,1994,1994/1995
+West Bromwich Albion,Micky Mellon,22,Midfielder,Blackpool,£52k,out,0.052,Championship,1994,1994/1995
+West Bromwich Albion,Wayne Fereday,31,Right Winger,Cardiff,?,out,NA,Championship,1994,1994/1995
+West Bromwich Albion,Jeroen Boere,27,Centre-Forward,West Ham,"End of loanDec 31, 1994",out,0,Championship,1994,1994/1995
+Derby County,Lee Mills,24,Forward,Wolves,£450k,in,0.45,Championship,1994,1994/1995
+Derby County,Russell Hoult,22,Goalkeeper,Leicester,£270k,in,0.27,Championship,1994,1994/1995
+Derby County,Chris Boden,21,Defender,Aston Villa,£169k,in,0.169,Championship,1994,1994/1995
+Derby County,Paul Trollope,22,Attacking Midfield,Torquay United,£135k,in,0.135,Championship,1994,1994/1995
+Derby County,Andy Quy,17,Goalkeeper,Spurs,Free Transfer,in,0,Championship,1994,1994/1995
+Derby County,Dean Yates,27,Defender,Notts County,?,in,NA,Championship,1994,1994/1995
+Derby County,Martin Kuhl,29,Midfielder,Notts County,"End of loanDec 29, 1994",in,0,Championship,1994,1994/1995
+Derby County,Darren Wrack,18,Central Midfield,Derby U18,-,in,0,Championship,1994,1994/1995
+Derby County,Mark Stallard,20,Centre-Forward,Fulham,"End of loanDec 31, 1994",in,0,Championship,1994,1994/1995
+Derby County,Ian Ashbee,17,Defensive Midfield,Derby U18,-,in,0,Championship,1994,1994/1995
+Derby County,Paul Kitson,23,Centre-Forward,Newcastle,£3.04m,out,3.04,Championship,1994,1994/1995
+Derby County,Tommy Johnson,23,Centre-Forward,Aston Villa,£1.96m,out,1.96,Championship,1994,1994/1995
+Derby County,Martin Kuhl,29,Midfielder,Bristol City,£342k,out,0.342,Championship,1994,1994/1995
+Derby County,Steven Hayward,23,Midfielder,Carlisle United,£113k,out,0.113,Championship,1994,1994/1995
+Derby County,Craig Ramage,24,Midfielder,Watford,£104k,out,0.104,Championship,1994,1994/1995
+Derby County,Mark Stallard,19,Centre-Forward,Fulham,Loan,out,0,Championship,1994,1994/1995
+Derby County,Gordon Cowans,36,Midfielder,Wolves,£18k,out,0.018,Championship,1994,1994/1995
+Derby County,Kevin Ratcliffe,33,Centre-Back,Chester City,?,out,NA,Championship,1994,1994/1995
+Derby County,Martin Kuhl,29,Midfielder,Notts County,Loan,out,0,Championship,1994,1994/1995
+Derby County,Gary Charles,24,Right-Back,Aston Villa,?,out,NA,Championship,1994,1994/1995
+Derby County,Richard Goulooze,26,Right-Back,Cambuur L.,?,out,NA,Championship,1994,1994/1995
+Middlesbrough FC,Jan Aage Fjörtoft,27,Centre-Forward,Swindon Town,£1.62m,in,1.62,Championship,1994,1994/1995
+Middlesbrough FC,Neil Cox,22,Centre-Back,Aston Villa,£1.26m,in,1.26,Championship,1994,1994/1995
+Middlesbrough FC,Nigel Pearson,30,Centre-Back,Sheff Wed,£810k,in,0.81,Championship,1994,1994/1995
+Middlesbrough FC,Gary Walsh,26,Goalkeeper,Man Utd,£630k,in,0.63,Championship,1994,1994/1995
+Middlesbrough FC,Craig Liddle,22,Centre-Back,Blyth Spartans,Free Transfer,in,0,Championship,1994,1994/1995
+Middlesbrough FC,Chris Freestone,23,Forward,Arnold Town,£17k,in,0.017,Championship,1994,1994/1995
+Middlesbrough FC,Viv Anderson,37,Right-Back,Barnsley FC,?,in,NA,Championship,1994,1994/1995
+Middlesbrough FC,Clayton Blackmore,29,Left-Back,Man Utd,?,in,NA,Championship,1994,1994/1995
+Middlesbrough FC,David Winnie,27,Defender,Aberdeen FC,Loan,in,0,Championship,1994,1994/1995
+Middlesbrough FC,Uwe Fuchs,28,Centre-Forward,SC Fortuna Köln,Loan,in,0,Championship,1994,1994/1995
+Middlesbrough FC,Bryan Robson,37,Central Midfield,Man Utd,?,in,NA,Championship,1994,1994/1995
+Middlesbrough FC,Andy Todd,20,Centre-Back,Swindon Town,"End of loanMay 1, 1995",in,0,Championship,1994,1994/1995
+Middlesbrough FC,Alan Miller,24,Goalkeeper,Arsenal,,in,NA,Championship,1994,1994/1995
+Middlesbrough FC,Nicky Mohan,23,Midfielder,Leicester,£405k,out,0.405,Championship,1994,1994/1995
+Middlesbrough FC,Nicky Mohan,23,Defender,Hull City,£360k,out,0.36,Championship,1994,1994/1995
+Middlesbrough FC,Richard Liburd,20,Defender,Bradford,£212k,out,0.212,Championship,1994,1994/1995
+Middlesbrough FC,Andy Todd,20,Centre-Back,Swindon Town,Loan,out,0,Championship,1994,1994/1995
+Middlesbrough FC,Andy Collett,20,Goalkeeper,Bristol Rovers,£11k,out,0.011,Championship,1994,1994/1995
+Middlesbrough FC,David Winnie,27,Defender,Aberdeen FC,"End of loanSep 1, 1994",out,0,Championship,1994,1994/1995
+Bristol City,Martin Kuhl,29,Midfielder,Derby,£342k,in,0.342,Championship,1994,1994/1995
+Bristol City,Gary Owers,26,Midfielder,Sunderland,£269k,in,0.269,Championship,1994,1994/1995
+Bristol City,Kevin Watson,20,Central Midfield,Brentford,Free Transfer,in,0,Championship,1994,1994/1995
+Bristol City,Scott Paterson,22,Centre-Back,Liverpool,Free Transfer,in,0,Championship,1994,1994/1995
+Bristol City,Jim Brennan,17,Left Midfield,AS Sora Calcio,Free Transfer,in,0,Championship,1994,1994/1995
+Bristol City,Colin Loss,20,Right Midfield,Gresley,?,in,NA,Championship,1994,1994/1995
+Bristol City,Wayne Allison,26,Centre-Forward,Swindon Town,£585k,out,0.585,Championship,1994,1994/1995
+Bristol City,Liam Robinson,28,Centre-Forward,Burnley,£249k,out,0.249,Championship,1994,1994/1995
+Bristol City,Russell Osman,36,Centre-Back,Plymouth,Free Transfer,out,0,Championship,1994,1994/1995
+Bristol City,Gary Shelton,36,Midfielder,Chester City,Free Transfer,out,0,Championship,1994,1994/1995
+Bristol City,Mark Aizlewood,34,Centre-Back,Cardiff,?,out,NA,Championship,1994,1994/1995
+Bristol City,Leroy Rosenior,29,Forward,Fleet Town FC,?,out,NA,Championship,1994,1994/1995
+Bristol City,Colin Loss,21,Right Midfield,Merthyr Town,?,out,NA,Championship,1994,1994/1995
+Bristol City,Fitzroy Simpson,24,Midfielder,Man City,"End of loanJun 30, 1994",out,0,Championship,1994,1994/1995
+Bristol City,Brian Borrows,33,Right-Back,Coventry,"End of loanJun 1, 1994",out,0,Championship,1994,1994/1995
+Nottingham Forest,Kevin Campbell,24,Centre-Forward,Arsenal,£3.78m,in,3.78,Championship,1994,1994/1995
+Nottingham Forest,Bryan Roy,24,Right Winger,Foggia,£2.25m,in,2.25,Championship,1994,1994/1995
+Nottingham Forest,Carl Tiler,25,Defender,Swindon Town,"End of loanMay 31, 1995",in,0,Championship,1994,1994/1995
+Nottingham Forest,Craig Armstrong,19,Left Midfield,Burnley,"End of loanDec 31, 1994",in,0,Championship,1994,1994/1995
+Nottingham Forest,Gary Bull,28,Forward,Birmingham,"End of loanMay 31, 1995",in,0,Championship,1994,1994/1995
+Nottingham Forest,Vance Warner,20,Defender,Nottingham U18,-,in,0,Championship,1994,1994/1995
+Nottingham Forest,Lee Glover,24,Forward,Port Vale,£216k,out,0.216,Championship,1994,1994/1995
+Nottingham Forest,Gary Crosby,30,Midfielder,Huddersfield,Free Transfer,out,0,Championship,1994,1994/1995
+Nottingham Forest,Kingsley Black,26,Left Midfield,Sheffield Utd.,Loan,out,0,Championship,1994,1994/1995
+Nottingham Forest,Brian Laws,33,Right-Back,Grimsby Town,Free Transfer,out,0,Championship,1994,1994/1995
+Nottingham Forest,Craig Armstrong,19,Left Midfield,Burnley,Loan,out,0,Championship,1994,1994/1995
+Nottingham Forest,Carl Tiler,24,Defender,Swindon Town,Loan,out,0,Championship,1994,1994/1995
+Nottingham Forest,Gary Bull,28,Forward,Birmingham,Loan,out,0,Championship,1994,1994/1995
+Swansea City,John Williams,26,Centre-Forward,Coventry,Loan,in,0,Championship,1994,1994/1995
+Swansea City,Chris Burns,27,Midfielder,Portsmouth,Free Transfer,in,0,Championship,1994,1994/1995
+Swansea City,John Hendry,24,Centre-Forward,Spurs,Loan,in,0,Championship,1994,1994/1995
+Swansea City,Chris Burns,27,Midfielder,Northampt. Town,Free Transfer,out,0,Championship,1994,1994/1995
+Swansea City,Richard Jones,25,Midfielder,Barry Town,?,out,NA,Championship,1994,1994/1995
+Swansea City,Shaun Chapple,21,Midfielder,Barry Town,Loan,out,0,Championship,1994,1994/1995
+Brentford FC,Nicky Forster,20,Centre-Forward,Gillingham FC,£135k,in,0.135,Championship,1994,1994/1995
+Brentford FC,Dennis Bailey,29,Forward,QPR,Loan,in,0,Championship,1994,1994/1995
+Brentford FC,Carl Asaba,21,Centre-Forward,Dulwich Hamlet FC,Free Transfer,in,0,Championship,1994,1994/1995
+Brentford FC,Paul Davis,32,Central Midfield,Stabæk,"End of loanSep 1, 1994",in,0,Championship,1994,1994/1995
+Brentford FC,Gus Hurdle,20,Defender,Dorchester,?,in,NA,Championship,1994,1994/1995
+Brentford FC,Kevin Watson,21,Central Midfield,Barnet,"End of loanMay 1, 1995",in,0,Championship,1994,1994/1995
+Brentford FC,Kevin Watson,21,Central Midfield,Barnet,Loan,out,0,Championship,1994,1994/1995
+Brentford FC,Kevin Watson,20,Central Midfield,Bristol City,Free Transfer,out,0,Championship,1994,1994/1995
+Brentford FC,David Thompson,25,Centre-Back,Blackpool,?,out,NA,Championship,1994,1994/1995
+Brentford FC,Graham Benstead,30,Goalkeeper,Kettering Town,?,out,NA,Championship,1994,1994/1995
+Brentford FC,Dennis Bailey,29,Forward,QPR,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Sheffield Wednesday,Ian Nolan,24,Defender,Tranmere Rovers,£2.03m,in,2.03,Championship,1994,1994/1995
+Sheffield Wednesday,Peter Atherton,24,Right-Back,Coventry,£1.04m,in,1.04,Championship,1994,1994/1995
+Sheffield Wednesday,Guy Whittingham,30,Forward,Aston Villa,£900k,in,0.9,Championship,1994,1994/1995
+Sheffield Wednesday,O'Neill Donaldson,25,Centre-Forward,Doncaster,£52k,in,0.052,Championship,1994,1994/1995
+Sheffield Wednesday,Dan Petrescu,26,Right-Back,Genoa,?,in,NA,Championship,1994,1994/1995
+Sheffield Wednesday,Klas Ingesson,25,Defensive Midfield,PSV Eindhoven,?,in,NA,Championship,1994,1994/1995
+Sheffield Wednesday,Ian Taylor,26,Midfielder,Port Vale,?,in,NA,Championship,1994,1994/1995
+Sheffield Wednesday,Lee Briscoe,18,Left-Back,Sheff Wed U18,-,in,0,Championship,1994,1994/1995
+Sheffield Wednesday,Phil King,26,Left-Back,Notts County,"End of loanJun 30, 1994",in,0,Championship,1994,1994/1995
+Sheffield Wednesday,Carlton Palmer,28,Defensive Midfield,Leeds,£2.84m,out,2.84,Championship,1994,1994/1995
+Sheffield Wednesday,Ian Taylor,26,Midfielder,Aston Villa,£1.35m,out,1.35,Championship,1994,1994/1995
+Sheffield Wednesday,Gordon Watson,23,Centre-Forward,Southampton,£1.31m,out,1.31,Championship,1994,1994/1995
+Sheffield Wednesday,Nigel Pearson,30,Centre-Back,Middlesbrough,£810k,out,0.81,Championship,1994,1994/1995
+Sheffield Wednesday,Nigel Worthington,32,Left-Back,Leeds,£360k,out,0.36,Championship,1994,1994/1995
+Sheffield Wednesday,Nigel Jemson,25,Forward,Notts County,£338k,out,0.338,Championship,1994,1994/1995
+Sheffield Wednesday,Simon Coleman,26,Defender,Bolton,£286k,out,0.286,Championship,1994,1994/1995
+Sheffield Wednesday,Phil King,26,Left-Back,Aston Villa,£216k,out,0.216,Championship,1994,1994/1995
+Sheffield Wednesday,Roland Nilsson,30,Right-Back,Helsingborg,?,out,NA,Championship,1994,1994/1995
+Sheffield Wednesday,Trevor Francis,40,Centre-Forward,Retired,-,out,0,Championship,1994,1994/1995
+Hull City,Nicky Mohan,23,Defender,Middlesbrough,£360k,in,0.36,Championship,1994,1994/1995
+Hull City,Ian Ormondroyd,30,Forward,Leicester,Loan,in,0,Championship,1994,1994/1995
+Hull City,Ray Wallace,25,Defender,Stoke City,Loan,in,0,Championship,1994,1994/1995
+Hull City,Gary Lund,30,Centre-Forward,Notts County,Loan,in,0,Championship,1994,1994/1995
+Hull City,Dave Norton,29,Midfielder,Northampt. Town,£32k,out,0.032,Championship,1994,1994/1995
+Hull City,Ian Ormondroyd,30,Forward,Leicester,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Hull City,Brian Mitchell,30,Right-Back,Retired,-,out,0,Championship,1994,1994/1995
+Hull City,Gary Lund,30,Centre-Forward,Notts County,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Hull City,Ray Wallace,25,Defender,Stoke City,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Preston North End,David Beckham,19,Right Midfield,Man Utd,Loan,in,0,Championship,1994,1994/1995
+Preston North End,Terry Fleming,21,Midfielder,Northampt. Town,Free Transfer,in,0,Championship,1994,1994/1995
+Preston North End,Barry Richardson,24,Goalkeeper,Northampt. Town,£27k,in,0.027,Championship,1994,1994/1995
+Preston North End,Allan Smart,20,Centre-Forward,Inverness Cal.,£15k,in,0.015,Championship,1994,1994/1995
+Preston North End,David Lucas,16,Goalkeeper,Preston U18,-,in,0,Championship,1994,1994/1995
+Preston North End,Tony Ellis,29,Forward,Blackpool,£179k,out,0.179,Championship,1994,1994/1995
+Preston North End,Stevie Woods,24,Goalkeeper,Motherwell FC,£81k,out,0.081,Championship,1994,1994/1995
+Preston North End,Aaron Callaghan,27,Defender,Shelbourne,?,out,NA,Championship,1994,1994/1995
+Preston North End,David Beckham,19,Right Midfield,Man Utd,"End of loanMar 31, 1995",out,0,Championship,1994,1994/1995
+Preston North End,Chris Sulley,34,Left-Back,Retired,-,out,0,Championship,1994,1994/1995
+Preston North End,Steve Welsh,26,Defender,Peterborough,"End of loanJun 1, 1994",out,0,Championship,1994,1994/1995
+Blackburn Rovers,Chris Sutton,21,Centre-Forward,Norwich,£6.75m,in,6.75,Championship,1994,1994/1995
+Blackburn Rovers,Jeff Kenna,24,Right-Back,Southampton,£2.03m,in,2.03,Championship,1994,1994/1995
+Blackburn Rovers,Tony Gale,34,Centre-Back,West Ham,Free Transfer,in,0,Championship,1994,1994/1995
+Blackburn Rovers,Shay Given,18,Goalkeeper,Celtic,Free Transfer,in,0,Championship,1994,1994/1995
+Blackburn Rovers,Richard Witschge,25,Central Midfield,G. Bordeaux,?,in,NA,Championship,1994,1994/1995
+Blackburn Rovers,Robbie Slater,29,Central Midfield,Lens,?,in,NA,Championship,1994,1994/1995
+Blackburn Rovers,Wayne Gill,18,Midfielder,Blackburn U18,-,in,0,Championship,1994,1994/1995
+Blackburn Rovers,Thomas Morgan,17,Defensive Midfield,Blackburn U18,-,in,0,Championship,1994,1994/1995
+Blackburn Rovers,Marlon Broomes,16,Centre-Back,Blackburn U18,-,in,0,Championship,1994,1994/1995
+Blackburn Rovers,David May,24,Centre-Back,Man Utd,£1.89m,out,1.89,Championship,1994,1994/1995
+Blackburn Rovers,Alan Wright,23,Left-Back,Aston Villa,£1.35m,out,1.35,Championship,1994,1994/1995
+Blackburn Rovers,Peter Thorne,21,Centre-Forward,Swindon Town,£306k,out,0.306,Championship,1994,1994/1995
+Blackburn Rovers,Simon Ireland,22,Midfielder,Mansfield Town,£68k,out,0.068,Championship,1994,1994/1995
+Blackburn Rovers,Matt Dickins,24,Goalkeeper,Stockport,?,out,NA,Championship,1994,1994/1995
+Blackburn Rovers,Richard Brown,28,Right-Back,Stockport,?,out,NA,Championship,1994,1994/1995
+Blackburn Rovers,Andy Morrison,23,Centre-Back,Blackpool,?,out,NA,Championship,1994,1994/1995
+Blackburn Rovers,Kevin Moran,38,Centre-Back,Retired,-,out,0,Championship,1994,1994/1995
+Stoke City,Paul Peschisolido,23,Centre-Forward,Birmingham,£540k,in,0.54,Championship,1994,1994/1995
+Stoke City,John Gayle,30,Forward,Burnley,£90k,in,0.09,Championship,1994,1994/1995
+Stoke City,Gary Holt,21,Central Midfield,Celtic,Free Transfer,in,0,Championship,1994,1994/1995
+Stoke City,Ray Wallace,24,Defender,Leeds,Free Transfer,in,0,Championship,1994,1994/1995
+Stoke City,John Williams,26,Centre-Forward,Coventry,Loan,in,0,Championship,1994,1994/1995
+Stoke City,Mohammed Gargo,19,Centre-Back,FC Bayern II,Free Transfer,in,0,Championship,1994,1994/1995
+Stoke City,John Clark,29,Centre-Back,Dundee United,?,in,NA,Championship,1994,1994/1995
+Stoke City,Kevin Keen,27,Midfielder,Wolves,?,in,NA,Championship,1994,1994/1995
+Stoke City,Paul Allen,32,Midfielder,Southampton,Loan,in,0,Championship,1994,1994/1995
+Stoke City,John Dreyer,31,Defender,Luton Town,?,in,NA,Championship,1994,1994/1995
+Stoke City,Lárus Orri Sigurdsson,21,Centre-Back,Thór,?,in,NA,Championship,1994,1994/1995
+Stoke City,José Gomes Andrade,24,Centre-Forward,Académico Viseu,?,in,NA,Championship,1994,1994/1995
+Stoke City,Ray Wallace,25,Defender,Hull City,"End of loanMay 31, 1995",in,0,Championship,1994,1994/1995
+Stoke City,Graham Shaw,27,Centre-Forward,Plymouth,"End of loanMar 22, 1995",in,0,Championship,1994,1994/1995
+Stoke City,Mark Bailey,17,Right-Back,Stoke U18,-,in,0,Championship,1994,1994/1995
+Stoke City,Wayne Biggins,33,Centre-Forward,Luton Town,"End of loanMay 31, 1995",in,0,Championship,1994,1994/1995
+Stoke City,Mark Birch,17,Right-Back,Stoke U18,-,in,0,Championship,1994,1994/1995
+Stoke City,Graham Shaw,27,Centre-Forward,Plymouth,Loan,out,0,Championship,1994,1994/1995
+Stoke City,Graham Shaw,27,Centre-Forward,Rochdale,Free Transfer,out,0,Championship,1994,1994/1995
+Stoke City,Wayne Biggins,33,Centre-Forward,Luton Town,Loan,out,0,Championship,1994,1994/1995
+Stoke City,Dave Regis,30,Forward,Birmingham,?,out,NA,Championship,1994,1994/1995
+Stoke City,Ronnie Sinclair,29,Goalkeeper,Bradford,Loan,out,0,Championship,1994,1994/1995
+Stoke City,Ray Wallace,25,Defender,Hull City,Loan,out,0,Championship,1994,1994/1995
+Stoke City,Bruce Grobbelaar,36,Goalkeeper,Southampton,?,out,NA,Championship,1994,1994/1995
+Stoke City,John Clark,30,Centre-Back,Falkirk FC,?,out,NA,Championship,1994,1994/1995
+Stoke City,John Williams,26,Centre-Forward,Coventry,"End of loanFeb 1, 1995",out,0,Championship,1994,1994/1995
+Stoke City,Mark Walters,30,Left Midfield,Liverpool,"End of loanJun 30, 1994",out,0,Championship,1994,1994/1995
+Birmingham City,Kevin Francis,27,Centre-Forward,Stockport,£821k,in,0.821,Championship,1994,1994/1995
+Birmingham City,Ricky Otto,27,Left Winger,Southend United,£810k,in,0.81,Championship,1994,1994/1995
+Birmingham City,Jonathan Hunt,22,Forward,Southend United,£675k,in,0.675,Championship,1994,1994/1995
+Birmingham City,Paul Barnes,27,Centre-Forward,York City,£360k,in,0.36,Championship,1994,1994/1995
+Birmingham City,Gary Poole,27,Right-Back,Southend United,£51k,in,0.051,Championship,1994,1994/1995
+Birmingham City,Paul Williams,29,Forward,Crystal Palace,Loan,in,0,Championship,1994,1994/1995
+Birmingham City,Ian Hendon,23,Centre-Back,Leyton Orient,Loan,in,0,Championship,1994,1994/1995
+Birmingham City,Dave Regis,30,Forward,Stoke City,?,in,NA,Championship,1994,1994/1995
+Birmingham City,Gary Bull,28,Forward,Nottm Forest,Loan,in,0,Championship,1994,1994/1995
+Birmingham City,Mick Bodley,27,Centre-Back,Southend United,Loan,in,0,Championship,1994,1994/1995
+Birmingham City,Tommy Mooney,22,Centre-Forward,Watford,?,in,NA,Championship,1994,1994/1995
+Birmingham City,Bryan Small,22,Defender,Aston Villa,Loan,in,0,Championship,1994,1994/1995
+Birmingham City,Rui Esteves,27,Midfielder,Benfica,Loan,in,0,Championship,1994,1994/1995
+Birmingham City,Mark Ward,31,Left-Back,Everton,?,in,NA,Championship,1994,1994/1995
+Birmingham City,José Dominguez,20,Left Winger,Benfica,?,in,NA,Championship,1994,1994/1995
+Birmingham City,Jon Bass,18,Right-Back,Birmingham U18,-,in,0,Championship,1994,1994/1995
+Birmingham City,Andy Saville,30,Centre-Forward,Burnley,"End of loanMay 31, 1995",in,0,Championship,1994,1994/1995
+Birmingham City,Paul Peschisolido,23,Centre-Forward,Stoke City,£540k,out,0.54,Championship,1994,1994/1995
+Birmingham City,Kevin Miller,25,Goalkeeper,Watford,£270k,out,0.27,Championship,1994,1994/1995
+Birmingham City,Steve McGavin,26,Centre-Forward,Wycombe,£176k,out,0.176,Championship,1994,1994/1995
+Birmingham City,Roger Willis,27,Forward,Southend United,£109k,out,0.109,Championship,1994,1994/1995
+Birmingham City,Paul Moulden,27,Forward,Huddersfield,Free Transfer,out,0,Championship,1994,1994/1995
+Birmingham City,Danny Wallace,31,Attacking Midfield,Wycombe,Free Transfer,out,0,Championship,1994,1994/1995
+Birmingham City,Lyndon Hooper,28,Midfielder,Unknown,?,out,NA,Championship,1994,1994/1995
+Birmingham City,Andy Saville,30,Centre-Forward,Burnley,Loan,out,0,Championship,1994,1994/1995
+Birmingham City,Paul Fenwick,24,Centre-Back,Dunfermline A.,?,out,NA,Championship,1994,1994/1995
+Birmingham City,Dave Regis,30,Forward,Southend United,?,out,NA,Championship,1994,1994/1995
+Birmingham City,Richard Scott,20,Midfielder,Shrewsbury,?,out,NA,Championship,1994,1994/1995
+Birmingham City,Ian Hendon,23,Centre-Back,Leyton Orient,"End of loanMay 1, 1995",out,0,Championship,1994,1994/1995
+Birmingham City,Gary Bull,28,Forward,Nottm Forest,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Birmingham City,Paul Williams,29,Forward,Crystal Palace,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Birmingham City,Bryan Small,23,Defender,Aston Villa,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Birmingham City,Mick Bodley,27,Centre-Back,Southend United,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Wigan Athletic,Ray Woods,29,Attacking Midfield,Coventry,Loan,in,0,Championship,1994,1994/1995
+Wigan Athletic,Joe Jakub,36,Right-Back,Chester City,?,in,NA,Championship,1994,1994/1995
+Wigan Athletic,Brendan Ormsby,33,Defender,Scarborough Athletic,?,in,NA,Championship,1994,1994/1995
+Wigan Athletic,David Campbell,29,Midfielder,Unknown,?,in,NA,Championship,1994,1994/1995
+Wigan Athletic,Tony Pennock,23,Goalkeeper,Hereford Utd.,Free Transfer,out,0,Championship,1994,1994/1995
+Wigan Athletic,Kevin Langley,30,Central Midfield,Halifax Town,?,out,NA,Championship,1994,1994/1995
+Wigan Athletic,David Campbell,29,Midfielder,Unknown,?,out,NA,Championship,1994,1994/1995
+Wigan Athletic,Ray Woods,29,Attacking Midfield,Shrewsbury,?,out,NA,Championship,1994,1994/1995
+Wigan Athletic,Brendan Ormsby,34,Defender,Retired,-,out,0,Championship,1994,1994/1995
+Wigan Athletic,Mick Kennedy,33,Midfielder,Retired,-,out,0,Championship,1994,1994/1995
+Queens Park Rangers,Steve Hodge,31,Central Midfield,Leeds,£324k,in,0.324,Championship,1994,1994/1995
+Queens Park Rangers,Matt Brazier,17,Midfielder,Unknown,?,in,NA,Championship,1994,1994/1995
+Queens Park Rangers,Sieb Dijkstra,27,Goalkeeper,Motherwell FC,?,in,NA,Championship,1994,1994/1995
+Queens Park Rangers,Trevor Challis,18,Defender,QPR U18,-,in,0,Championship,1994,1994/1995
+Queens Park Rangers,Dennis Bailey,29,Forward,Brentford,"End of loanMay 31, 1995",in,0,Championship,1994,1994/1995
+Queens Park Rangers,Chris Plummer,17,Defender,QPR U18,-,in,0,Championship,1994,1994/1995
+Queens Park Rangers,Marvin Bryan,19,Midfielder,Doncaster,"End of loanMay 31, 1995",in,0,Championship,1994,1994/1995
+Queens Park Rangers,Darren Peacock,26,Centre-Back,Newcastle,£4.50m,out,4.5,Championship,1994,1994/1995
+Queens Park Rangers,Devon White,30,Forward,Notts County,£125k,out,0.125,Championship,1994,1994/1995
+Queens Park Rangers,Dennis Bailey,29,Forward,Brentford,Loan,out,0,Championship,1994,1994/1995
+Queens Park Rangers,Dougie Freedman,20,Centre-Forward,Barnet,Free Transfer,out,0,Championship,1994,1994/1995
+Queens Park Rangers,Marvin Bryan,19,Midfielder,Doncaster,Loan,out,0,Championship,1994,1994/1995
+Queens Park Rangers,Darren Finlay,20,Midfielder,Doncaster,?,out,NA,Championship,1994,1994/1995
+Queens Park Rangers,Jan Stejskal,32,Goalkeeper,Slavia Prag,?,out,NA,Championship,1994,1994/1995
+Queens Park Rangers,Maurice Doyle,25,Midfielder,Millwall,?,out,NA,Championship,1994,1994/1995
+Queens Park Rangers,Ray Wilkins,37,Central Midfield,Crystal Palace,?,out,NA,Championship,1994,1994/1995
+Reading FC,Simon Osborn,22,Central Midfield,Crystal Palace,£135k,in,0.135,Championship,1994,1994/1995
+Reading FC,Darren Barnard,22,Left-Back,Chelsea,Loan,in,0,Championship,1994,1994/1995
+Reading FC,Dariusz Wdowczyk,31,Left-Back,Celtic,?,in,NA,Championship,1994,1994/1995
+Reading FC,Michael Thorp,18,Defender,Reading U18,-,in,0,Championship,1994,1994/1995
+Reading FC,Paul Kee,24,Goalkeeper,Ards FC,?,out,NA,Championship,1994,1994/1995
+Millwall FC,Jason van Blerk,26,Left Midfield,Go Ahead Eagles,£301k,in,0.301,Championship,1994,1994/1995
+Millwall FC,Scott Taylor,18,Centre-Forward,Staines Town FC,£15k,in,0.015,Championship,1994,1994/1995
+Millwall FC,Kerry Dixon,33,Centre-Forward,Luton Town,£9k,in,0.009,Championship,1994,1994/1995
+Millwall FC,Richard Cadette,29,Centre-Forward,Falkirk FC,?,in,NA,Championship,1994,1994/1995
+Millwall FC,Dave Savage,20,Midfielder,Longford Town,?,in,NA,Championship,1994,1994/1995
+Millwall FC,Maurice Doyle,25,Midfielder,QPR,?,in,NA,Championship,1994,1994/1995
+Millwall FC,Richard Huxford,25,Right-Back,Bradford,"End of loanJan 8, 1995",in,0,Championship,1994,1994/1995
+Millwall FC,Bruce Murray,28,Centre-Forward,Stockport,"End of loanJun 1, 1994",in,0,Championship,1994,1994/1995
+Millwall FC,Gavin Maguire,26,Centre-Back,Scarborough,"End of loanJun 30, 1994",in,0,Championship,1994,1994/1995
+Millwall FC,Mark Kennedy,18,Left-Back,Liverpool,£1.85m,out,1.85,Championship,1994,1994/1995
+Millwall FC,Kenny Cunningham,23,Centre-Back,Wimbledon FC,£810k,out,0.81,Championship,1994,1994/1995
+Millwall FC,Neil Emblen,23,Defensive Midfield,Wolves,£657k,out,0.657,Championship,1994,1994/1995
+Millwall FC,Jermaine Wright,19,Central Midfield,Wolves,£81k,out,0.081,Championship,1994,1994/1995
+Millwall FC,Richard Huxford,25,Right-Back,Bradford,£68k,out,0.068,Championship,1994,1994/1995
+Millwall FC,Carl Emberson,20,Goalkeeper,Colchester Utd.,£27k,out,0.027,Championship,1994,1994/1995
+Millwall FC,Richard Huxford,25,Right-Back,Bradford,Loan,out,0,Championship,1994,1994/1995
+Millwall FC,Bruce Murray,28,Centre-Forward,Ayr United,?,out,NA,Championship,1994,1994/1995
+Millwall FC,Jon Goodman,23,Forward,Wimbledon FC,?,out,NA,Championship,1994,1994/1995
+Millwall FC,Jamie Moralee,22,Forward,Watford,?,out,NA,Championship,1994,1994/1995
+Millwall FC,Gavin Maguire,26,Centre-Back,Retired,-,out,0,Championship,1994,1994/1995
+Millwall FC,Pat van den Hauwe,34,Left-Back,Without Club,-,out,0,Championship,1994,1994/1995
+Luton Town,Dwight Marshall,28,Forward,Plymouth,£170k,in,0.17,Championship,1994,1994/1995
+Luton Town,Rob Matthews,24,Central Midfield,Notts County,£83k,in,0.083,Championship,1994,1994/1995
+Luton Town,Martyn Margetson,23,Goalkeeper,Man City,Loan,in,0,Championship,1994,1994/1995
+Luton Town,Wayne Biggins,33,Centre-Forward,Stoke City,Loan,in,0,Championship,1994,1994/1995
+Luton Town,Paul Allen,32,Midfielder,Southampton,Loan,in,0,Championship,1994,1994/1995
+Luton Town,Gary Waddock,32,Defensive Midfield,Bristol Rovers,?,in,NA,Championship,1994,1994/1995
+Luton Town,Jamie Campbell,22,Left-Back,Mansfield Town,"End of loanDec 1, 1994",in,0,Championship,1994,1994/1995
+Luton Town,Kelvin Davis,17,Goalkeeper,Luton U18,-,in,0,Championship,1994,1994/1995
+Luton Town,Kelvin Davis,18,Goalkeeper,Torquay United,"End of loanOct 1, 1994",in,0,Championship,1994,1994/1995
+Luton Town,Jamie Campbell,22,Left-Back,Cambridge Utd.,"End of loanMay 1, 1995",in,0,Championship,1994,1994/1995
+Luton Town,John Hartson,19,Centre-Forward,Arsenal,£3.38m,out,3.38,Championship,1994,1994/1995
+Luton Town,Andy Petterson,24,Goalkeeper,Charlton,£87k,out,0.087,Championship,1994,1994/1995
+Luton Town,Kelvin Davis,17,Goalkeeper,Torquay United,Loan,out,0,Championship,1994,1994/1995
+Luton Town,Jamie Campbell,22,Left-Back,Cambridge Utd.,Loan,out,0,Championship,1994,1994/1995
+Luton Town,Alan Harper,33,Centre-Back,Burnley,Free Transfer,out,0,Championship,1994,1994/1995
+Luton Town,Jamie Campbell,22,Left-Back,Mansfield Town,Loan,out,0,Championship,1994,1994/1995
+Luton Town,Kerry Dixon,33,Centre-Forward,Millwall,£9k,out,0.009,Championship,1994,1994/1995
+Luton Town,John Dreyer,31,Defender,Stoke City,?,out,NA,Championship,1994,1994/1995
+Luton Town,Wayne Biggins,33,Centre-Forward,Stoke City,"End of loanMay 31, 1995",out,0,Championship,1994,1994/1995
+Luton Town,Paul Allen,32,Midfielder,Southampton,"End of loanDec 31, 1994",out,0,Championship,1994,1994/1995
+Luton Town,Martyn Margetson,23,Goalkeeper,Man City,"End of loanMay 1, 1995",out,0,Championship,1994,1994/1995
+Barnsley FC,Malcolm Shotton,37,Centre-Back,Ayr United,Free Transfer,in,0,Championship,1994,1994/1995
+Barnsley FC,Jan Mölby,31,Central Midfield,Liverpool,Loan,in,0,Championship,1994,1994/1995
+Barnsley FC,Gareth Williams,27,Midfielder,Wolves,Free Transfer,out,0,Championship,1994,1994/1995
+Barnsley FC,David Currie,31,Forward,Carlisle United,?,out,NA,Championship,1994,1994/1995
+Barnsley FC,Viv Anderson,37,Right-Back,Middlesbrough,?,out,NA,Championship,1994,1994/1995
+Charlton Athletic,David Whyte,23,Forward,Crystal Palace,£513k,in,0.513,Championship,1994,1994/1995
+Charlton Athletic,Paul Mortimer,26,Midfielder,Crystal Palace,£226k,in,0.226,Championship,1994,1994/1995
+Charlton Athletic,Keith Jones,28,Midfielder,Southend United,£203k,in,0.203,Championship,1994,1994/1995
+Charlton Athletic,Andy Petterson,24,Goalkeeper,Luton Town,£87k,in,0.087,Championship,1994,1994/1995
+Charlton Athletic,Scott McGleish,20,Centre-Forward,Unknown,Free Transfer,in,0,Championship,1994,1994/1995
+Charlton Athletic,Mike Ammann,23,Goalkeeper,CSU Fullerton,?,in,NA,Championship,1994,1994/1995
+Charlton Athletic,Scott McGleish,21,Centre-Forward,Leyton Orient,"End of loanMay 1, 1995",in,0,Championship,1994,1994/1995
+Charlton Athletic,Lee Bowyer,17,Central Midfield,Charlton U18,-,in,0,Championship,1994,1994/1995
+Charlton Athletic,Scott Minto,22,Left-Back,Chelsea,£1.04m,out,1.04,Championship,1994,1994/1995
+Charlton Athletic,Darren Pitcher,24,Defender,Crystal Palace,£801k,out,0.801,Championship,1994,1994/1995
+Charlton Athletic,Scott McGleish,21,Centre-Forward,Leyton Orient,Loan,out,0,Championship,1994,1994/1995
+Charlton Athletic,Bob Bolder,35,Goalkeeper,Margate FC,Free Transfer,out,0,Championship,1994,1994/1995
+Charlton Athletic,Linvoy Primus,20,Centre-Back,Barnet,Free Transfer,out,0,Championship,1994,1994/1995

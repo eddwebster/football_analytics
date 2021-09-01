@@ -1,0 +1,330 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Cardiff City,Kevin Ratcliffe,32,Centre-Back,Dundee FC,?,in,NA,Championship,1992,1992/1993
+Cardiff City,Robbie James,35,Midfielder,Bradford,?,in,NA,Championship,1992,1992/1993
+Cardiff City,Ken DeMange,27,Central Midfield,Limerick FC,?,out,NA,Championship,1992,1992/1993
+Cardiff City,Pat Heard,32,Left-Back,Hull City,?,out,NA,Championship,1992,1992/1993
+Cardiff City,Roger Hansbury,37,Goalkeeper,Retired,-,out,0,Championship,1992,1992/1993
+Fulham FC,Lee Harrison,21,Goalkeeper,Charlton,Free Transfer,in,0,Championship,1992,1992/1993
+Fulham FC,Steve Archibald,36,Centre-Forward,Clyde FC,?,in,NA,Championship,1992,1992/1993
+Fulham FC,Ara Bedrossian,25,Defensive Midfield,APOEL Nicosia,?,in,NA,Championship,1992,1992/1993
+Fulham FC,Peter Baah,19,Right Winger,Blackburn,?,in,NA,Championship,1992,1992/1993
+Fulham FC,Peter Scott,29,Defensive Midfield,Bournemouth,?,out,NA,Championship,1992,1992/1993
+Fulham FC,Keith Branagan,25,Goalkeeper,Millwall,"End of loanJun 30, 1992",out,0,Championship,1992,1992/1993
+Huddersfield Town,Phil Robinson,25,Midfielder,Notts County,?,in,NA,Championship,1992,1992/1993
+Huddersfield Town,Gerry Harrison,20,Midfielder,Bristol City,?,in,NA,Championship,1992,1992/1993
+Huddersfield Town,Simon Ireland,20,Midfielder,Blackburn,£227k,out,0.227,Championship,1992,1992/1993
+Huddersfield Town,Kevin Donovan,20,Central Midfield,West Brom,£81k,out,0.081,Championship,1992,1992/1993
+Leeds United,David Rocastle,25,Attacking Midfield,Arsenal,£2.16m,in,2.16,Championship,1992,1992/1993
+Leeds United,David Kerslake,26,Right-Back,Swindon Town,£563k,in,0.563,Championship,1992,1992/1993
+Leeds United,Frank Strandli,20,Centre-Forward,Start,£315k,in,0.315,Championship,1992,1992/1993
+Leeds United,Kevin Sharp,18,Left-Back,AJ Auxerre,£81k,in,0.081,Championship,1992,1992/1993
+Leeds United,Mark Beeney,25,Goalkeeper,Brighton,?,in,NA,Championship,1992,1992/1993
+Leeds United,Scott Sellars,26,Left Midfield,Blackburn,?,in,NA,Championship,1992,1992/1993
+Leeds United,Jamie Forrester,18,Left Winger,AJ Auxerre B,?,in,NA,Championship,1992,1992/1993
+Leeds United,Paul Pettinger,17,Goalkeeper,Leeds U18,-,in,0,Championship,1992,1992/1993
+Leeds United,Mark Tinkler,17,Defender,Leeds U18,-,in,0,Championship,1992,1992/1993
+Leeds United,Mervyn Day,37,Goalkeeper,Sheffield Utd.,"End of loanJun 30, 1992",in,0,Championship,1992,1992/1993
+Leeds United,Glynn Snodin,32,Left-Back,Rotherham,"End of loanJun 30, 1992",in,0,Championship,1992,1992/1993
+Leeds United,Eric Cantona,26,Second Striker,Man Utd,£1.62m,out,1.62,Championship,1992,1992/1993
+Leeds United,Bobby Davison,33,Forward,Leicester,£59k,out,0.059,Championship,1992,1992/1993
+Leeds United,Imre Varadi,33,Centre-Forward,Rotherham,Free Transfer,out,0,Championship,1992,1992/1993
+Leeds United,Glynn Snodin,32,Left-Back,Heart of Midl.,Free Transfer,out,0,Championship,1992,1992/1993
+Leeds United,Andy Williams,29,Midfielder,Notts County,?,out,NA,Championship,1992,1992/1993
+Leeds United,John McClelland,36,Centre-Back,St. Johnstone,?,out,NA,Championship,1992,1992/1993
+Leeds United,Frank Strandli,20,Centre-Forward,Start,Loan,out,0,Championship,1992,1992/1993
+West Bromwich Albion,Andy Hunt,23,Forward,Newcastle,£113k,in,0.113,Championship,1992,1992/1993
+West Bromwich Albion,Kevin Donovan,20,Central Midfield,Huddersfield,£81k,in,0.081,Championship,1992,1992/1993
+West Bromwich Albion,Micky Mellon,20,Midfielder,Bristol City,£78k,in,0.078,Championship,1992,1992/1993
+West Bromwich Albion,Andy Hunt,22,Forward,Newcastle,Loan,in,0,Championship,1992,1992/1993
+West Bromwich Albion,Nicky Reid,32,Centre-Back,Blackburn,?,in,NA,Championship,1992,1992/1993
+West Bromwich Albion,David Speedie,32,Centre-Forward,Southampton,Loan,in,0,Championship,1992,1992/1993
+West Bromwich Albion,Paul Williams,29,Forward,Coventry,"End of loanNov 23, 1992",in,0,Championship,1992,1992/1993
+West Bromwich Albion,Jonathan Gould,23,Goalkeeper,Coventry,Free Transfer,out,0,Championship,1992,1992/1993
+West Bromwich Albion,Gary Bannister,32,Centre-Forward,Nottm Forest,Free Transfer,out,0,Championship,1992,1992/1993
+West Bromwich Albion,Winston White,33,Right Midfield,Bury,Free Transfer,out,0,Championship,1992,1992/1993
+West Bromwich Albion,Paul Williams,29,Forward,Stockport,£29k,out,0.029,Championship,1992,1992/1993
+West Bromwich Albion,Colin West,29,Centre-Forward,Swansea,?,out,NA,Championship,1992,1992/1993
+West Bromwich Albion,David Speedie,33,Centre-Forward,Southampton,"End of loanMar 1, 1993",out,0,Championship,1992,1992/1993
+West Bromwich Albion,Steve Parkin,26,Right-Back,Mansfield Town,?,out,NA,Championship,1992,1992/1993
+West Bromwich Albion,Paul Williams,29,Forward,Coventry,Loan,out,0,Championship,1992,1992/1993
+West Bromwich Albion,Andy Hunt,22,Forward,Newcastle,"End of loanMay 31, 1993",out,0,Championship,1992,1992/1993
+West Bromwich Albion,Frank Sinclair,20,Centre-Back,Chelsea,"End of loanJun 30, 1992",out,0,Championship,1992,1992/1993
+Derby County,Craig Short,24,Centre-Back,Notts County,£3.38m,in,3.38,Championship,1992,1992/1993
+Derby County,Mark Pembridge,21,Left Midfield,Luton Town,£1.57m,in,1.57,Championship,1992,1992/1993
+Derby County,Martin Kuhl,27,Midfielder,Portsmouth,£674k,in,0.674,Championship,1992,1992/1993
+Derby County,Colin Loss,18,Right Midfield,Norwich,?,in,NA,Championship,1992,1992/1993
+Derby County,Richard Goulooze,24,Right-Back,Heerenveen,?,in,NA,Championship,1992,1992/1993
+Derby County,Shane Nicholson,22,Left-Back,Lincoln City,?,in,NA,Championship,1992,1992/1993
+Derby County,Lee Carsley,18,Defensive Midfield,Derby U18,-,in,0,Championship,1992,1992/1993
+Derby County,Geraint Williams,30,Defensive Midfield,Ipswich,£675k,out,0.675,Championship,1992,1992/1993
+Derby County,Jonathan Davidson,22,Defender,Preston NE,?,out,NA,Championship,1992,1992/1993
+Derby County,Mel Sage,28,Centre-Back,Retired,-,out,0,Championship,1992,1992/1993
+Middlesbrough FC,Derek Whyte,24,Centre-Back,Rangers,£1.13m,in,1.13,Championship,1992,1992/1993
+Middlesbrough FC,Tommy Wright,26,Left Winger,Leicester,£819k,in,0.819,Championship,1992,1992/1993
+Middlesbrough FC,Craig Hignett,22,Right Winger,Crewe Alexandra,£675k,in,0.675,Championship,1992,1992/1993
+Middlesbrough FC,Jonathan Gittens,28,Defender,Southampton,£225k,in,0.225,Championship,1992,1992/1993
+Middlesbrough FC,Dwight Marshall,27,Forward,Plymouth,Loan,in,0,Championship,1992,1992/1993
+Middlesbrough FC,Chris Kamara,35,Defensive Midfield,Luton Town,Loan,in,0,Championship,1992,1992/1993
+Middlesbrough FC,Richard Liburd,19,Defender,Eastwood Town,£21k,in,0.021,Championship,1992,1992/1993
+Middlesbrough FC,Chris Morris,28,Right-Back,Celtic,?,in,NA,Championship,1992,1992/1993
+Middlesbrough FC,Andy Todd,17,Centre-Back,Boro U18,-,in,0,Championship,1992,1992/1993
+Middlesbrough FC,Ben Roberts,17,Goalkeeper,Boro U18,-,in,0,Championship,1992,1992/1993
+Middlesbrough FC,Stuart Ripley,24,Midfielder,Blackburn,£1.80m,out,1.8,Championship,1992,1992/1993
+Middlesbrough FC,Gary Parkinson,24,Right-Back,Southend United,Loan,out,0,Championship,1992,1992/1993
+Middlesbrough FC,Mark Proctor,32,Midfielder,Tranmere Rovers,Free Transfer,out,0,Championship,1992,1992/1993
+Middlesbrough FC,Bernie Slaven,31,Centre-Forward,Port Vale,?,out,NA,Championship,1992,1992/1993
+Middlesbrough FC,Andy Payton,24,Forward,Celtic,?,out,NA,Championship,1992,1992/1993
+Middlesbrough FC,Dwight Marshall,27,Forward,Plymouth,"End of loanMay 31, 1993",out,0,Championship,1992,1992/1993
+Middlesbrough FC,Brian Marwood,32,Attacking Midfield,Sheffield Utd.,"End of loanJun 30, 1992",out,0,Championship,1992,1992/1993
+Bristol City,Brian Tinnion,24,Midfielder,Bradford,£243k,in,0.243,Championship,1992,1992/1993
+Bristol City,Glenn Pennyfather,30,Defender,Ipswich,£90k,in,0.09,Championship,1992,1992/1993
+Bristol City,Leroy Rosenior,27,Forward,Charlton,?,in,NA,Championship,1992,1992/1993
+Bristol City,Bjørn Kristensen,28,Defender,Newcastle,Loan,in,0,Championship,1992,1992/1993
+Bristol City,David Thompson,23,Centre-Back,Millwall,?,in,NA,Championship,1992,1992/1993
+Bristol City,Glenn Pennyfather,29,Defender,Ipswich,Loan,in,0,Championship,1992,1992/1993
+Bristol City,Brian Mitchell,28,Right-Back,Bradford,?,in,NA,Championship,1992,1992/1993
+Bristol City,Nicky Reid,31,Centre-Back,Blackburn,Loan,in,0,Championship,1992,1992/1993
+Bristol City,Stuart Munro,29,Left-Back,Blackburn,?,in,NA,Championship,1992,1992/1993
+Bristol City,Jason Fowler,18,Midfielder,Bristol City U18,-,in,0,Championship,1992,1992/1993
+Bristol City,Jim McIntyre,20,Left Winger,Exeter City,"End of loanMay 1, 1993",in,0,Championship,1992,1992/1993
+Bristol City,Micky Mellon,20,Midfielder,West Brom,£78k,out,0.078,Championship,1992,1992/1993
+Bristol City,Andy May,28,Midfielder,Millwall,?,out,NA,Championship,1992,1992/1993
+Bristol City,Jim McIntyre,20,Left Winger,Exeter City,Loan,out,0,Championship,1992,1992/1993
+Bristol City,Gerry Harrison,20,Midfielder,Huddersfield,?,out,NA,Championship,1992,1992/1993
+Bristol City,Bjørn Kristensen,29,Defender,Newcastle,"End of loanDec 31, 1992",out,0,Championship,1992,1992/1993
+Bristol City,Glenn Pennyfather,30,Defender,Ipswich,"End of loanMar 1, 1993",out,0,Championship,1992,1992/1993
+Bristol City,Nicky Reid,32,Centre-Back,Blackburn,"End of loanNov 1, 1992",out,0,Championship,1992,1992/1993
+Nottingham Forest,Neil Webb,28,Right Midfield,Man Utd,£833k,in,0.833,Championship,1992,1992/1993
+Nottingham Forest,Robert Rosario,26,Forward,Coventry,£437k,in,0.437,Championship,1992,1992/1993
+Nottingham Forest,Gary Bannister,32,Centre-Forward,West Brom,Free Transfer,in,0,Championship,1992,1992/1993
+Nottingham Forest,Stephen Blatherwick,18,Centre-Back,Notts County,?,in,NA,Championship,1992,1992/1993
+Nottingham Forest,Ray McKinnon,21,Midfielder,Dundee United,?,in,NA,Championship,1992,1992/1993
+Nottingham Forest,Craig Armstrong,17,Left Midfield,Nottingham U18,-,in,0,Championship,1992,1992/1993
+Nottingham Forest,Steve Guinan,16,Centre-Forward,Nottingham U18,-,in,0,Championship,1992,1992/1993
+Nottingham Forest,Teddy Sheringham,26,Centre-Forward,Spurs,£2.84m,out,2.84,Championship,1992,1992/1993
+Nottingham Forest,Des Walker,26,Centre-Back,Sampdoria,£1.53m,out,1.53,Championship,1992,1992/1993
+Nottingham Forest,Gary Bannister,32,Centre-Forward,Stoke City,Free Transfer,out,0,Championship,1992,1992/1993
+Nottingham Forest,Tommy Gaynor,29,Forward,Millwall,?,out,NA,Championship,1992,1992/1993
+Nottingham Forest,Alan Mahood,19,Central Midfield,Morton,?,out,NA,Championship,1992,1992/1993
+Swansea City,Colin Pascoe,27,Left Midfield,Sunderland,Loan,in,0,Championship,1992,1992/1993
+Swansea City,Martin Hayes,26,Left Winger,Celtic,?,in,NA,Championship,1992,1992/1993
+Swansea City,Colin West,29,Centre-Forward,West Brom,?,in,NA,Championship,1992,1992/1993
+Swansea City,David Hodgson,31,Centre-Forward,FC Metz,?,in,NA,Championship,1992,1992/1993
+Swansea City,Mark Kendall,33,Goalkeeper,Burnley,"End of loanJun 1, 1992",in,0,Championship,1992,1992/1993
+Swansea City,John Williams,24,Centre-Forward,Coventry,£270k,out,0.27,Championship,1992,1992/1993
+Swansea City,Jimmy Gilligan,28,Forward,Boreham Wood,?,out,NA,Championship,1992,1992/1993
+Swansea City,Mark Kendall,33,Goalkeeper,Ebbw Vale,?,out,NA,Championship,1992,1992/1993
+Swansea City,Paul Chalmers,28,Forward,Dunfermline A.,?,out,NA,Championship,1992,1992/1993
+Swansea City,Colin Pascoe,28,Left Midfield,Sunderland,"End of loanMay 31, 1993",out,0,Championship,1992,1992/1993
+Swansea City,David Hodgson,32,Centre-Forward,Retired,-,out,0,Championship,1992,1992/1993
+Brentford FC,Joe Allon,26,Centre-Forward,Chelsea,£284k,in,0.284,Championship,1992,1992/1993
+Brentford FC,Martin Grainger,19,Left-Back,Colchester Utd.,£90k,in,0.09,Championship,1992,1992/1993
+Brentford FC,Paul Mortimer,24,Midfielder,Crystal Palace,Loan,in,0,Championship,1992,1992/1993
+Brentford FC,Paul Stephenson,25,Right-Back,Millwall,£31k,in,0.031,Championship,1992,1992/1993
+Brentford FC,Gerry Peyton,36,Goalkeeper,Everton,Loan,in,0,Championship,1992,1992/1993
+Brentford FC,Tim O'Shea,25,Defender,Gillingham FC,?,in,NA,Championship,1992,1992/1993
+Brentford FC,Dean Holdsworth,23,Centre-Forward,Wimbledon FC,£900k,out,0.9,Championship,1992,1992/1993
+Brentford FC,Tony Sealy,33,Forward,Sun Hei,?,out,NA,Championship,1992,1992/1993
+Brentford FC,Gerry Peyton,36,Goalkeeper,Everton,"End of loanDec 31, 1992",out,0,Championship,1992,1992/1993
+Sheffield Wednesday,Mark Bright,30,Forward,Crystal Palace,£1.53m,in,1.53,Championship,1992,1992/1993
+Sheffield Wednesday,Chris Waddle,31,Attacking Midfield,Marseille,£1.35m,in,1.35,Championship,1992,1992/1993
+Sheffield Wednesday,Mike Williams,23,Forward,Halifax Town,"End of loanApr 1, 1993",in,0,Championship,1992,1992/1993
+Sheffield Wednesday,Simon Stewart,18,Defender,Sheff Wed U18,-,in,0,Championship,1992,1992/1993
+Sheffield Wednesday,Marlon Beresford,22,Goalkeeper,Burnley,£126k,out,0.126,Championship,1992,1992/1993
+Sheffield Wednesday,Steve MacKenzie,31,Attacking Midfield,Shrewsbury,?,out,NA,Championship,1992,1992/1993
+Sheffield Wednesday,Paul Williams,27,Forward,Crystal Palace,?,out,NA,Championship,1992,1992/1993
+Sheffield Wednesday,David Johnson,22,Forward,Lincoln City,?,out,NA,Championship,1992,1992/1993
+Sheffield Wednesday,Mike Williams,23,Forward,Halifax Town,Loan,out,0,Championship,1992,1992/1993
+Hull City,Martin Carruthers,20,Centre-Forward,Aston Villa,Loan,in,0,Championship,1992,1992/1993
+Hull City,Pat Heard,32,Left-Back,Cardiff,?,in,NA,Championship,1992,1992/1993
+Hull City,Gary Lund,27,Centre-Forward,Notts County,Loan,in,0,Championship,1992,1992/1993
+Hull City,Gareth Williams,25,Midfielder,Barnsley FC,Loan,in,0,Championship,1992,1992/1993
+Hull City,Malcolm Shotton,35,Centre-Back,Ayr United,Free Transfer,out,0,Championship,1992,1992/1993
+Hull City,Neil Buckley,23,Centre-Back,Brigg Town,Free Transfer,out,0,Championship,1992,1992/1993
+Hull City,Stuart Young,20,Centre-Forward,Northampt. Town,?,out,NA,Championship,1992,1992/1993
+Hull City,Pat Heard,32,Left-Back,Brunei,?,out,NA,Championship,1992,1992/1993
+Hull City,Martin Carruthers,20,Centre-Forward,Aston Villa,"End of loanMay 31, 1993",out,0,Championship,1992,1992/1993
+Hull City,Gareth Williams,26,Midfielder,Barnsley FC,"End of loanMay 31, 1993",out,0,Championship,1992,1992/1993
+Hull City,Gary Lund,28,Centre-Forward,Notts County,"End of loanMay 31, 1993",out,0,Championship,1992,1992/1993
+Preston North End,Tony Ellis,27,Forward,Stoke City,£152k,in,0.152,Championship,1992,1992/1993
+Preston North End,Gareth Ainsworth,19,Right Midfield,Cambridge Utd.,Free Transfer,in,0,Championship,1992,1992/1993
+Preston North End,Ryan Kidd,20,Defender,Port Vale,Free Transfer,in,0,Championship,1992,1992/1993
+Preston North End,Sam Allardyce,37,Centre-Back,Limerick FC,?,in,NA,Championship,1992,1992/1993
+Preston North End,Colin Greenall,28,Defender,Bury,?,in,NA,Championship,1992,1992/1993
+Preston North End,Jonathan Davidson,22,Defender,Derby,?,in,NA,Championship,1992,1992/1993
+Preston North End,Aaron Callaghan,25,Defender,Crewe Alexandra,?,in,NA,Championship,1992,1992/1993
+Preston North End,Barry Siddall,37,Goalkeeper,Chester City,?,in,NA,Championship,1992,1992/1993
+Preston North End,George Berry,34,Centre-Back,Aldershot Town,"End of loanJun 1, 1992",in,0,Championship,1992,1992/1993
+Preston North End,Alan Kelly,23,Goalkeeper,Sheffield Utd.,£189k,out,0.189,Championship,1992,1992/1993
+Preston North End,Mike Flynn,24,Defender,Stockport,£131k,out,0.131,Championship,1992,1992/1993
+Preston North End,Graham Shaw,25,Centre-Forward,Stoke City,£70k,out,0.07,Championship,1992,1992/1993
+Preston North End,Gareth Ainsworth,19,Right Midfield,Cambridge Utd.,Free Transfer,out,0,Championship,1992,1992/1993
+Preston North End,Steve Senior,29,Right-Back,Witton Albion,Free Transfer,out,0,Championship,1992,1992/1993
+Preston North End,George Berry,34,Centre-Back,Stafford Rangers,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Alan Shearer,21,Centre-Forward,Southampton,£4.05m,in,4.05,Championship,1992,1992/1993
+Blackburn Rovers,Stuart Ripley,24,Midfielder,Middlesbrough,£1.80m,in,1.8,Championship,1992,1992/1993
+Blackburn Rovers,Duncan Shearer,29,Centre-Forward,Swindon Town,£1.26m,in,1.26,Championship,1992,1992/1993
+Blackburn Rovers,Graeme Le Saux,24,Left-Back,Chelsea,£945k,in,0.945,Championship,1992,1992/1993
+Blackburn Rovers,Tim Sherwood,23,Central Midfield,Norwich,£675k,in,0.675,Championship,1992,1992/1993
+Blackburn Rovers,Henning Berg,23,Right-Back,Lillestrøm SK,£495k,in,0.495,Championship,1992,1992/1993
+Blackburn Rovers,Patrik Andersson,20,Centre-Back,Malmö FF,£450k,in,0.45,Championship,1992,1992/1993
+Blackburn Rovers,Simon Ireland,20,Midfielder,Huddersfield,£227k,in,0.227,Championship,1992,1992/1993
+Blackburn Rovers,Lee Makel,19,Attacking Midfield,Newcastle,£216k,in,0.216,Championship,1992,1992/1993
+Blackburn Rovers,Wayne Burnett,20,Midfielder,Leyton Orient,£86k,in,0.086,Championship,1992,1992/1993
+Blackburn Rovers,Nicholas Marker,27,Defender,Plymouth,?,in,NA,Championship,1992,1992/1993
+Blackburn Rovers,Mickey Evans,19,Centre-Forward,Plymouth,Loan,in,0,Championship,1992,1992/1993
+Blackburn Rovers,Steve Agnew,27,Central Midfield,Portsmouth,"End of loanDec 31, 1992",in,0,Championship,1992,1992/1993
+Blackburn Rovers,Nicky Reid,32,Centre-Back,Bristol City,"End of loanNov 1, 1992",in,0,Championship,1992,1992/1993
+Blackburn Rovers,Duncan Shearer,30,Centre-Forward,Aberdeen FC,£675k,out,0.675,Championship,1992,1992/1993
+Blackburn Rovers,David Speedie,32,Centre-Forward,Southampton,£540k,out,0.54,Championship,1992,1992/1993
+Blackburn Rovers,Steve Livingstone,23,Centre-Forward,Chelsea,£360k,out,0.36,Championship,1992,1992/1993
+Blackburn Rovers,Steve Agnew,27,Central Midfield,Leicester,£338k,out,0.338,Championship,1992,1992/1993
+Blackburn Rovers,Peter Baah,19,Right Winger,Fulham,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Craig Skinner,21,Midfielder,Plymouth,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Lee Richardson,23,Midfielder,Aberdeen FC,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Chris Price,32,Centre-Back,Portsmouth,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Roy Wegerle,28,Forward,Coventry,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Stuart Munro,29,Left-Back,Bristol City,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Chris Sulley,32,Left-Back,Port Vale,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Nicky Reid,31,Centre-Back,Bristol City,Loan,out,0,Championship,1992,1992/1993
+Blackburn Rovers,Nicky Reid,32,Centre-Back,West Brom,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Scott Sellars,26,Left Midfield,Leeds,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Paul Shepstone,21,Midfielder,Motherwell FC,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Keith Hill,23,Centre-Back,Plymouth,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Howard Gayle,34,Right Winger,Halifax Town,?,out,NA,Championship,1992,1992/1993
+Blackburn Rovers,Steve Agnew,27,Central Midfield,Portsmouth,Loan,out,0,Championship,1992,1992/1993
+Stoke City,Nigel Gleghorn,30,Centre-Forward,Birmingham,£104k,in,0.104,Championship,1992,1992/1993
+Stoke City,Graham Shaw,25,Centre-Forward,Preston NE,£70k,in,0.07,Championship,1992,1992/1993
+Stoke City,Gary Bannister,32,Centre-Forward,Nottm Forest,Free Transfer,in,0,Championship,1992,1992/1993
+Stoke City,Dave Regis,28,Forward,Plymouth,?,in,NA,Championship,1992,1992/1993
+Stoke City,Bruce Grobbelaar,35,Goalkeeper,Liverpool,?,in,NA,Championship,1992,1992/1993
+Stoke City,Wayne Biggins,30,Centre-Forward,Barnsley FC,£203k,out,0.203,Championship,1992,1992/1993
+Stoke City,Tony Ellis,27,Forward,Preston NE,£152k,out,0.152,Championship,1992,1992/1993
+Stoke City,Paul Barnes,24,Centre-Forward,York City,£51k,out,0.051,Championship,1992,1992/1993
+Stoke City,Noel Blake,30,Centre-Back,Bradford,Free Transfer,out,0,Championship,1992,1992/1993
+Stoke City,Adrian Heath,31,Attacking Midfield,Burnley,Free Transfer,out,0,Championship,1992,1992/1993
+Stoke City,Tony Gallimore,21,Defender,Carlisle United,£16k,out,0.016,Championship,1992,1992/1993
+Stoke City,Stevie Farrell,19,Defensive Midfield,St. Mirren,?,out,NA,Championship,1992,1992/1993
+Stoke City,Tony Parks,29,Goalkeeper,Falkirk FC,?,out,NA,Championship,1992,1992/1993
+Stoke City,Mick Kennedy,31,Midfielder,Chesterfield FC,?,out,NA,Championship,1992,1992/1993
+Birmingham City,Paul Peschisolido,21,Centre-Forward,Toronto Bliz.,£360k,in,0.36,Championship,1992,1992/1993
+Birmingham City,Paul Moulden,25,Forward,Oldham Athletic,£168k,in,0.168,Championship,1992,1992/1993
+Birmingham City,Andy Saville,28,Centre-Forward,Hartlepool Utd.,£156k,in,0.156,Championship,1992,1992/1993
+Birmingham City,Scott Hiley,24,Defender,Exeter City,£113k,in,0.113,Championship,1992,1992/1993
+Birmingham City,Les Sealey,35,Goalkeeper,Aston Villa,Loan,in,0,Championship,1992,1992/1993
+Birmingham City,David Smith,25,Attacking Midfield,Coventry,Free Transfer,in,0,Championship,1992,1992/1993
+Birmingham City,Paul Fitzpatrick,27,Centre-Back,Leicester,?,in,NA,Championship,1992,1992/1993
+Birmingham City,Paul Holmes,24,Midfielder,Torquay United,?,in,NA,Championship,1992,1992/1993
+Birmingham City,Andy Gosney,28,Goalkeeper,Portsmouth,?,in,NA,Championship,1992,1992/1993
+Birmingham City,David Speedie,32,Centre-Forward,Southampton,Loan,in,0,Championship,1992,1992/1993
+Birmingham City,George Parris,27,Midfielder,West Ham,?,in,NA,Championship,1992,1992/1993
+Birmingham City,Graham Potter,17,Midfielder,Birmingham U18,-,in,0,Championship,1992,1992/1993
+Birmingham City,David Rennie,28,Defensive Midfield,Coventry,£108k,out,0.108,Championship,1992,1992/1993
+Birmingham City,Nigel Gleghorn,30,Centre-Forward,Stoke City,£104k,out,0.104,Championship,1992,1992/1993
+Birmingham City,David Speedie,32,Centre-Forward,Southampton,"End of loanFeb 1, 1993",out,0,Championship,1992,1992/1993
+Birmingham City,Andy Gosney,29,Goalkeeper,Exeter City,?,out,NA,Championship,1992,1992/1993
+Birmingham City,John Cheesewright,19,Goalkeeper,Cobh Ramblers,?,out,NA,Championship,1992,1992/1993
+Birmingham City,Ian Atkins,35,Centre-Back,Cambridge Utd.,?,out,NA,Championship,1992,1992/1993
+Birmingham City,Les Sealey,35,Goalkeeper,Aston Villa,"End of loanDec 31, 1992",out,0,Championship,1992,1992/1993
+Birmingham City,Alan Miller,22,Goalkeeper,Arsenal,,out,NA,Championship,1992,1992/1993
+Wigan Athletic,Chris Makin,19,Left-Back,Oldham Athletic,Loan,in,0,Championship,1992,1992/1993
+Wigan Athletic,Winston White,34,Right Midfield,Carlisle United,?,in,NA,Championship,1992,1992/1993
+Wigan Athletic,Ian Wilson,34,Central Midfield,Bury,?,in,NA,Championship,1992,1992/1993
+Wigan Athletic,Neil Ogden,16,Defender,Wigan U18,-,in,0,Championship,1992,1992/1993
+Wigan Athletic,Greg Strong,16,Centre-Back,Wigan U23,-,in,0,Championship,1992,1992/1993
+Wigan Athletic,Darren Patterson,22,Right-Back,Crystal Palace,£306k,out,0.306,Championship,1992,1992/1993
+Wigan Athletic,Chris Makin,19,Left-Back,Oldham Athletic,"End of loanMay 1, 1993",out,0,Championship,1992,1992/1993
+Wigan Athletic,Ian Wilson,35,Central Midfield,Retired,-,out,0,Championship,1992,1992/1993
+Queens Park Rangers,Devon White,28,Forward,Cambridge Utd.,£113k,in,0.113,Championship,1992,1992/1993
+Queens Park Rangers,Tony Witter,28,Centre-Back,Millwall,Loan,in,0,Championship,1992,1992/1993
+Queens Park Rangers,Andy Tillson,26,Defender,Grimsby Town,"End of loanNov 6, 1992",in,0,Championship,1992,1992/1993
+Queens Park Rangers,Darren Finlay,18,Midfielder,QPR U18,-,in,0,Championship,1992,1992/1993
+Queens Park Rangers,Gary Waddock,30,Defensive Midfield,Swindon Town,"End of loanJun 30, 1992",in,0,Championship,1992,1992/1993
+Queens Park Rangers,Andy Tillson,26,Defender,Bristol Rovers,£401k,out,0.401,Championship,1992,1992/1993
+Queens Park Rangers,Andy Tillson,26,Defender,Grimsby Town,Loan,out,0,Championship,1992,1992/1993
+Queens Park Rangers,Justin Channing,23,Midfielder,Bristol Rovers,?,out,NA,Championship,1992,1992/1993
+Queens Park Rangers,Gary Waddock,30,Defensive Midfield,Bristol Rovers,?,out,NA,Championship,1992,1992/1993
+Reading FC,Jimmy Quinn,32,Centre-Forward,Bournemouth,£72k,in,0.072,Championship,1992,1992/1993
+Reading FC,Jeff Hopkins,28,Centre-Back,Bristol Rovers,Free Transfer,in,0,Championship,1992,1992/1993
+Reading FC,David McDonald,22,Defender,Spurs,Loan,in,0,Championship,1992,1992/1993
+Reading FC,Omid Namazi,27,Defender,Fort Lauderdale Strikers (Original),?,in,NA,Championship,1992,1992/1993
+Reading FC,Phil Parkinson,24,Central Midfield,Bury,?,in,NA,Championship,1992,1992/1993
+Reading FC,Craig Maskell,24,Centre-Forward,Swindon Town,£270k,out,0.27,Championship,1992,1992/1993
+Reading FC,Allan Cockram,28,Midfielder,St. Albans City,?,out,NA,Championship,1992,1992/1993
+Reading FC,Omid Namazi,27,Defender,LA Salsa,?,out,NA,Championship,1992,1992/1993
+Reading FC,Dave Leworthy,29,Forward,Farnborough,?,out,NA,Championship,1992,1992/1993
+Reading FC,Trevor Senior,30,Centre-Forward,Woking FC,?,out,NA,Championship,1992,1992/1993
+Reading FC,Mark McGhee,36,Centre-Forward,Retired,-,out,0,Championship,1992,1992/1993
+Reading FC,David McDonald,21,Defender,Spurs,End of loan-,out,0,Championship,1992,1992/1993
+Millwall FC,John Byrne,31,Centre-Forward,Sunderland,£338k,in,0.338,Championship,1992,1992/1993
+Millwall FC,Danny Wallace,29,Attacking Midfield,Man Utd,Loan,in,0,Championship,1992,1992/1993
+Millwall FC,Jamie Moralee,20,Forward,Crystal Palace,?,in,NA,Championship,1992,1992/1993
+Millwall FC,Andy May,28,Midfielder,Bristol City,?,in,NA,Championship,1992,1992/1993
+Millwall FC,John Kerr,27,Forward,Chertsey,?,in,NA,Championship,1992,1992/1993
+Millwall FC,Tommy Gaynor,29,Forward,Nottm Forest,?,in,NA,Championship,1992,1992/1993
+Millwall FC,Jermaine Wright,16,Central Midfield,Millwall U18,-,in,0,Championship,1992,1992/1993
+Millwall FC,Alan McLeary,28,Defender,Wimbledon FC,"End of loanMar 26, 1993",in,0,Championship,1992,1992/1993
+Millwall FC,Mark Kennedy,16,Left-Back,Millwall U18,-,in,0,Championship,1992,1992/1993
+Millwall FC,Alan McLeary,28,Defender,Sheffield Utd.,"End of loanOct 15, 1992",in,0,Championship,1992,1992/1993
+Millwall FC,Paul Stephenson,25,Right-Back,Gillingham FC,"End of loanMar 3, 1993",in,0,Championship,1992,1992/1993
+Millwall FC,Keith Branagan,25,Goalkeeper,Fulham,"End of loanJun 30, 1992",in,0,Championship,1992,1992/1993
+Millwall FC,John Colquhoun,28,Right Winger,Sunderland,£405k,out,0.405,Championship,1992,1992/1993
+Millwall FC,Paul Kerr,28,Midfielder,Port Vale,£158k,out,0.158,Championship,1992,1992/1993
+Millwall FC,John McGinlay,28,Forward,Bolton,£135k,out,0.135,Championship,1992,1992/1993
+Millwall FC,Tony Witter,28,Centre-Back,QPR,Loan,out,0,Championship,1992,1992/1993
+Millwall FC,Alan McLeary,28,Defender,Charlton,Free Transfer,out,0,Championship,1992,1992/1993
+Millwall FC,Keith Branagan,25,Goalkeeper,Bolton,Free Transfer,out,0,Championship,1992,1992/1993
+Millwall FC,Alan McLeary,27,Defender,Sheffield Utd.,Loan,out,0,Championship,1992,1992/1993
+Millwall FC,Paul Stephenson,25,Right-Back,Brentford,£31k,out,0.031,Championship,1992,1992/1993
+Millwall FC,Paul Stephenson,24,Right-Back,Gillingham FC,Loan,out,0,Championship,1992,1992/1993
+Millwall FC,David Thompson,23,Centre-Back,Bristol City,?,out,NA,Championship,1992,1992/1993
+Millwall FC,Alan McLeary,28,Defender,Wimbledon FC,Loan,out,0,Championship,1992,1992/1993
+Millwall FC,John Byrne,32,Centre-Forward,Brighton,Loan,out,0,Championship,1992,1992/1993
+Millwall FC,Brian Horne,25,Goalkeeper,Portsmouth,?,out,NA,Championship,1992,1992/1993
+Millwall FC,Paul Goddard,32,Centre-Forward,Ipswich,?,out,NA,Championship,1992,1992/1993
+Millwall FC,Danny Wallace,29,Attacking Midfield,Man Utd,"End of loanMay 31, 1993",out,0,Championship,1992,1992/1993
+Millwall FC,Mark Falco,31,Centre-Forward,Retired,-,out,0,Championship,1992,1992/1993
+Luton Town,Steve Claridge,26,Centre-Forward,Cambridge Utd.,£216k,in,0.216,Championship,1992,1992/1993
+Luton Town,Tony Thorpe,18,Centre-Forward,Leicester,Free Transfer,in,0,Championship,1992,1992/1993
+Luton Town,Paul Holsgrove,22,Midfielder,Heracles,?,in,NA,Championship,1992,1992/1993
+Luton Town,Damian Matthew,22,Midfielder,Chelsea,Loan,in,0,Championship,1992,1992/1993
+Luton Town,Chris Kamara,35,Defensive Midfield,Sheffield Utd.,"End of loanFeb 18, 1993",in,0,Championship,1992,1992/1993
+Luton Town,John Hartson,17,Centre-Forward,Luton U18,-,in,0,Championship,1992,1992/1993
+Luton Town,Aaron Skelton,18,Defender,Luton U18,-,in,0,Championship,1992,1992/1993
+Luton Town,Juergen Sommer,24,Goalkeeper,Torquay United,"End of loanMay 31, 1993",in,0,Championship,1992,1992/1993
+Luton Town,Alec Chamberlain,28,Goalkeeper,Chelsea,"End of loanOct 1, 1992",in,0,Championship,1992,1992/1993
+Luton Town,Richard Harvey,24,Defender,Blackpool,"End of loanMay 31, 1993",in,0,Championship,1992,1992/1993
+Luton Town,Mark Pembridge,21,Left Midfield,Derby,£1.57m,out,1.57,Championship,1992,1992/1993
+Luton Town,Mick Harford,33,Centre-Forward,Chelsea,£315k,out,0.315,Championship,1992,1992/1993
+Luton Town,Steve Claridge,26,Centre-Forward,Cambridge Utd.,£252k,out,0.252,Championship,1992,1992/1993
+Luton Town,Chris Kamara,34,Defensive Midfield,Sheffield Utd.,Loan,out,0,Championship,1992,1992/1993
+Luton Town,Alec Chamberlain,28,Goalkeeper,Chelsea,Loan,out,0,Championship,1992,1992/1993
+Luton Town,Chris Kamara,35,Defensive Midfield,Middlesbrough,Loan,out,0,Championship,1992,1992/1993
+Luton Town,Brian Stein,34,Centre-Forward,Barnet,?,out,NA,Championship,1992,1992/1993
+Luton Town,Richard Harvey,23,Defender,Blackpool,Loan,out,0,Championship,1992,1992/1993
+Luton Town,Juergen Sommer,23,Goalkeeper,Torquay United,Loan,out,0,Championship,1992,1992/1993
+Luton Town,Damian Matthew,22,Midfielder,Chelsea,"End of loanMay 31, 1993",out,0,Championship,1992,1992/1993
+Barnsley FC,Wayne Biggins,30,Centre-Forward,Stoke City,£203k,in,0.203,Championship,1992,1992/1993
+Barnsley FC,Ian Hendon,21,Centre-Back,Spurs,Loan,in,0,Championship,1992,1992/1993
+Barnsley FC,Dave Watson,18,Goalkeeper,Barnsley U18,-,in,0,Championship,1992,1992/1993
+Barnsley FC,Phil Whitehead,23,Goalkeeper,Bradford,"End of loanMay 31, 1993",in,0,Championship,1992,1992/1993
+Barnsley FC,Phil Whitehead,22,Goalkeeper,Scunthorpe Utd.,"End of loanNov 18, 1992",in,0,Championship,1992,1992/1993
+Barnsley FC,Gareth Williams,26,Midfielder,Hull City,"End of loanMay 31, 1993",in,0,Championship,1992,1992/1993
+Barnsley FC,Mark Robinson,24,Defender,Newcastle,£504k,out,0.504,Championship,1992,1992/1993
+Barnsley FC,Phil Whitehead,22,Goalkeeper,Scunthorpe Utd.,Loan,out,0,Championship,1992,1992/1993
+Barnsley FC,David Currie,29,Forward,Rotherham,Loan,out,0,Championship,1992,1992/1993
+Barnsley FC,Mark Smith,32,Defender,Notts County,?,out,NA,Championship,1992,1992/1993
+Barnsley FC,Ian Banks,31,Midfielder,Rotherham,?,out,NA,Championship,1992,1992/1993
+Barnsley FC,Gareth Williams,25,Midfielder,Hull City,Loan,out,0,Championship,1992,1992/1993
+Barnsley FC,Phil Whitehead,22,Goalkeeper,Bradford,Loan,out,0,Championship,1992,1992/1993
+Barnsley FC,Colin Marshall,22,Defender,Unknown,-,out,0,Championship,1992,1992/1993
+Barnsley FC,Ian Hendon,21,Centre-Back,Spurs,"End of loanMay 1, 1993",out,0,Championship,1992,1992/1993
+Charlton Athletic,Alan McLeary,28,Defender,Millwall,Free Transfer,in,0,Championship,1992,1992/1993
+Charlton Athletic,John Hendry,23,Centre-Forward,Spurs,Loan,in,0,Championship,1992,1992/1993
+Charlton Athletic,Linvoy Primus,18,Centre-Back,Charlton U18,-,in,0,Championship,1992,1992/1993
+Charlton Athletic,Rob Lee,26,Central Midfield,Newcastle,£945k,out,0.945,Championship,1992,1992/1993
+Charlton Athletic,Anthony Barness,19,Right-Back,Chelsea,£473k,out,0.473,Championship,1992,1992/1993
+Charlton Athletic,Lee Harrison,21,Goalkeeper,Fulham,Free Transfer,out,0,Championship,1992,1992/1993
+Charlton Athletic,Leroy Rosenior,27,Forward,Bristol City,?,out,NA,Championship,1992,1992/1993
+Charlton Athletic,Tommy Caton,30,Centre-Back,Retired,-,out,0,Championship,1992,1992/1993
+Charlton Athletic,David Whyte,21,Forward,Crystal Palace,"End of loanMay 31, 1992",out,0,Championship,1992,1992/1993

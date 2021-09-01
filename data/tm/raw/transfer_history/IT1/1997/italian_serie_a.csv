@@ -1,0 +1,584 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Juventus FC,Filippo Inzaghi,23,Centre-Forward,Atalanta,£10.69m,in,Summer,10.69,Serie A,1997,1997/1998
+Juventus FC,Fabio Pecchia,23,Right Midfield,SSC Napoli,£4.65m,in,Summer,4.65,Serie A,1997,1997/1998
+Juventus FC,Alessandro Birindelli,22,Right-Back,FC Empoli,£2.52m,in,Summer,2.52,Serie A,1997,1997/1998
+Juventus FC,Marcelo Zalayeta,18,Centre-Forward,Peñarol,£2.32m,in,Summer,2.32,Serie A,1997,1997/1998
+Juventus FC,Morgan De Sanctis,20,Goalkeeper,Pescara,£675Th.,in,Summer,0.675,Serie A,1997,1997/1998
+Juventus FC,Stefano Sorrentino,18,Goalkeeper,Lazio U19,?,in,Summer,NA,Serie A,1997,1997/1998
+Juventus FC,Edoardo Braiati,17,Central Midfield,SPAL,?,in,Summer,NA,Serie A,1997,1997/1998
+Juventus FC,Marco Zamboni,19,Centre-Back,Chievo Verona,?,in,Summer,NA,Serie A,1997,1997/1998
+Juventus FC,Daniel Fonseca,27,Centre-Forward,AS Roma,?,in,Summer,NA,Serie A,1997,1997/1998
+Juventus FC,Christian Vieri,23,Centre-Forward,Atlético Madrid,£15.80m,out,Summer,15.8,Serie A,1997,1997/1998
+Juventus FC,Vladimir Jugovic,27,Left Midfield,Lazio,£3.60m,out,Summer,3.6,Serie A,1997,1997/1998
+Juventus FC,Alen Boksic,27,Centre-Forward,Lazio,£990Th.,out,Summer,0.99,Serie A,1997,1997/1998
+Juventus FC,Sergio Porrini,28,Right-Back,Rangers,?,out,Summer,NA,Serie A,1997,1997/1998
+Juventus FC,Christian Manfredini,22,Left Winger,Fermana,Loan,out,Summer,0,Serie A,1997,1997/1998
+Juventus FC,Attilio Lombardo,31,Right Winger,Crystal Palace,?,out,Summer,NA,Serie A,1997,1997/1998
+Juventus FC,Raffaele Ametrano,24,Right-Back,FC Empoli,Loan,out,Summer,0,Serie A,1997,1997/1998
+Juventus FC,Davide Falcioni,22,Goalkeeper,Treviso,?,out,Summer,NA,Serie A,1997,1997/1998
+Juventus FC,Marco Zamboni,19,Centre-Back,SSC Napoli,?,out,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,José Luis Calderón,26,Centre-Forward,Independiente,£3.49m,in,Summer,3.49,Serie A,1997,1997/1998
+SSC Napoli,Fabio Rossitto,25,Right Midfield,Udinese,?,in,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Reynald Pedros,25,Left Midfield,AC Parma,Loan,in,Summer,0,Serie A,1997,1997/1998
+SSC Napoli,Claudio Bellucci,22,Centre-Forward,Sampdoria,?,in,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Raffaele Sergio,30,Left-Back,Udinese,?,in,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Mauro Facci,25,Centre-Back,Salernitana,?,in,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Igor Protti,29,Centre-Forward,Lazio,?,in,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Massimiliano Allegri,29,Central Midfield,Padova,?,in,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Giuseppe Giannini,32,Attacking Midfield,Sturm Graz,?,in,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Aljosa Asanovic,31,Central Midfield,Derby,?,in,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Roberto Goretti,21,Defensive Midfield,Perugia,?,in,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Marco Zamboni,19,Centre-Back,Juventus,?,in,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Luigi Malafronte,18,Centre-Back,Napoli U19,-,in,Summer,0,Serie A,1997,1997/1998
+SSC Napoli,Salvatore Bruno,17,Centre-Forward,Napoli U19,-,in,Summer,0,Serie A,1997,1997/1998
+SSC Napoli,Guglielmo Stendardo,16,Centre-Back,Napoli U19,-,in,Summer,0,Serie A,1997,1997/1998
+SSC Napoli,Fabio Pecchia,23,Right Midfield,Juventus,£4.65m,out,Summer,4.65,Serie A,1997,1997/1998
+SSC Napoli,André Cruz,28,Centre-Back,Milan,£2.70m,out,Summer,2.7,Serie A,1997,1997/1998
+SSC Napoli,Mauro Milanese,25,Left-Back,AC Parma,£540Th.,out,Summer,0.54,Serie A,1997,1997/1998
+SSC Napoli,Francesco Colonnese,25,Centre-Back,AS Roma,?,out,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Carmelo Imbriani,21,Midfielder,Casarano,Loan,out,Summer,0,Serie A,1997,1997/1998
+SSC Napoli,Alfredo Aglietti,26,Centre-Forward,Hellas Verona,?,out,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Alain Boghossian,26,Central Midfield,Sampdoria,?,out,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Roberto Bordin,32,Defensive Midfield,Piacenza,?,out,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Luigi Morgante,19,Left-Back,Lecco,?,out,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Antonio Amita,21,Defensive Midfield,Lecco,?,out,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Massimiliano Esposito,25,Right Midfield,Hellas Verona,Loan,out,Summer,0,Serie A,1997,1997/1998
+SSC Napoli,Roberto Policano,33,Left-Back,Casarano,?,out,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Antonio Pietropaolo,20,Goalkeeper,Albanova,?,out,Summer,NA,Serie A,1997,1997/1998
+SSC Napoli,Caio,21,Centre-Forward,Santos FC,?,out,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Francesco Coco,20,Left-Back,Milan,Loan fee:£675Th.,in,Summer,0.675,Serie A,1997,1997/1998
+Vicenza Calcio,Lamberto Zauli,25,Attacking Midfield,Ravenna,?,in,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Lorenzo Stovini,20,Centre-Back,AS Roma,?,in,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Giacomo Dicara,27,Centre-Back,Perugia,?,in,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Arturo Di Napoli,23,Centre-Forward,Inter,?,in,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Massimo Ambrosini,20,Central Midfield,Milan,Loan,in,Summer,0,Serie A,1997,1997/1998
+Vicenza Calcio,Roberto Baronio,19,Defensive Midfield,Lazio,Loan,in,Summer,0,Serie A,1997,1997/1998
+Vicenza Calcio,Pasquale Luiso,27,Centre-Forward,Piacenza,?,in,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Marco Schenardi,29,Right Midfield,Bologna,?,in,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Riccardo Maspero,26,Attacking Midfield,Lecce,Loan,in,Summer,0,Serie A,1997,1997/1998
+Vicenza Calcio,Roberto Verdi,20,Goalkeeper,Vicenza U19,-,in,Summer,0,Serie A,1997,1997/1998
+Vicenza Calcio,Luigi Sartor,22,Right-Back,Inter,£1.80m,out,Summer,1.8,Serie A,1997,1997/1998
+Vicenza Calcio,Giampiero Maini,25,Defensive Midfield,Milan,?,out,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Daniele Amerini,22,Central Midfield,Hellas Verona,?,out,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Giovanni Lopez,30,Centre-Back,Lazio,?,out,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Giuliano Gentilini,26,Central Midfield,Padova,?,out,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Giovanni Cornacchini,31,Centre-Forward,Padova,?,out,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Pierre Womé,18,Left-Back,Lucchese,?,out,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Roberto Murgita,28,Centre-Forward,Piacenza,?,out,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Maurizio Rossi,27,Midfielder,Lecce,?,out,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Luca Mondini,27,Goalkeeper,Treviso,?,out,Summer,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Gilberto D'Ignazio Pulpito,28,Defender,Udinese,,out,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Renato Buso,27,Right Midfield,Lazio,£698Th.,in,Summer,0.698,Serie A,1997,1997/1998
+Piacenza FC,Marco Piovanelli,23,Midfielder,Lazio,?,in,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Roberto Murgita,28,Centre-Forward,Vicenza,?,in,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Roberto Bordin,32,Defensive Midfield,SSC Napoli,?,in,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Massimo Rastelli,28,Right Winger,Lucchese,?,in,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Giovanni Stroppa,29,Attacking Midfield,Udinese,?,in,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Pietro Vierchowod,38,Centre-Back,Milan,?,in,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Marco Rossi,32,Sweeper,E. Frankfurt,?,in,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Matteo Sereni,22,Goalkeeper,Sampdoria,?,in,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Francesco Zerbini,17,Centre-Forward,Piacenza U19,-,in,Summer,0,Serie A,1997,1997/1998
+Piacenza FC,Massimo Taibi,27,Goalkeeper,Milan,£585Th.,out,Summer,0.585,Serie A,1997,1997/1998
+Piacenza FC,Simone Inzaghi,21,Centre-Forward,Brescello Calcio,Loan,out,Summer,0,Serie A,1997,1997/1998
+Piacenza FC,Eusebio Di Francesco,27,Central Midfield,AS Roma,?,out,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Alessandro Lucarelli,19,Centre-Back,UC AlbinoLeffe,Loan,out,Summer,0,Serie A,1997,1997/1998
+Piacenza FC,Fausto Pari,34,Defensive Midfield,SPAL,?,out,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Pasquale Luiso,27,Centre-Forward,Vicenza,?,out,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Settimio Lucci,31,Defender,Hellas Verona,?,out,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Massimo Brioschi,28,Left-Back,Padova,?,out,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Andrea Tentoni,28,Forward,Chievo Verona,?,out,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Daniele Moretti,25,Midfielder,Pescara,?,out,Summer,NA,Serie A,1997,1997/1998
+Piacenza FC,Gabriele Pin,35,Central Midfield,Retired,-,out,Summer,0,Serie A,1997,1997/1998
+Piacenza FC,Stefano Maccoppi,35,Centre-Back,Retired,-,out,Summer,0,Serie A,1997,1997/1998
+UC Sampdoria,Ángel Morales,22,Attacking Midfield,Independiente,£3.60m,in,Summer,3.6,Serie A,1997,1997/1998
+UC Sampdoria,Jürgen Klinsmann,32,Centre-Forward,Bayern Munich,Free transfer,in,Summer,0,Serie A,1997,1997/1998
+UC Sampdoria,Giovanni Sannino,20,Goalkeeper,Solbiatese Arno Calcio,?,in,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Paco Soares,17,Forward,CD Motagua,?,in,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Alain Boghossian,26,Central Midfield,SSC Napoli,?,in,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Stefano Nava,28,Centre-Back,Servette FC,?,in,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Ángel Morales,23,Attacking Midfield,CP Mérida,?,in,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Marcello Castellini,24,Centre-Back,Perugia,?,in,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Hugo,20,Centre-Back,Braga,?,in,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Alessio Scarchilli,24,Attacking Midfield,Torino,?,in,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Marco Ambrosio,24,Goalkeeper,Prato,?,in,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Andrea Pierotti,19,Centre-Forward,Carrarese,?,in,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Christian Karembeu,26,Defensive Midfield,Real Madrid,£11.25m,out,Summer,11.25,Serie A,1997,1997/1998
+UC Sampdoria,Roberto Mancini,32,Second Striker,Lazio,£3.60m,out,Summer,3.6,Serie A,1997,1997/1998
+UC Sampdoria,Danny Dichio,22,Centre-Forward,Lecce,Loan,out,Summer,0,Serie A,1997,1997/1998
+UC Sampdoria,Marco Carparelli,21,Second Striker,Torino,?,out,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Marcello Cottafava,19,Centre-Back,Saronno,?,out,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Mattia Biso,20,Central Midfield,Carrarese,Loan,out,Summer,0,Serie A,1997,1997/1998
+UC Sampdoria,Matteo Sereni,22,Goalkeeper,Piacenza,?,out,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Mauro Bertarelli,26,Forward,Ravenna,?,out,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Sandro Tovalieri,32,Centre-Forward,Perugia,?,out,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Alessandro Giovinazzo,19,Goalkeeper,Virtus Entella,?,out,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Claudio Bellucci,22,Centre-Forward,SSC Napoli,?,out,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Alberico Evani,34,Left Midfield,Reggina,?,out,Summer,NA,Serie A,1997,1997/1998
+UC Sampdoria,Giovanni Invernizzi,33,Defensive Midfield,Retired,-,out,Summer,0,Serie A,1997,1997/1998
+Bologna FC 1909,Roberto Baggio,30,Second Striker,Milan,£1.62m,in,Summer,1.62,Serie A,1997,1997/1998
+Bologna FC 1909,Massimo Paganin,26,Centre-Back,Inter,Free transfer,in,Summer,0,Serie A,1997,1997/1998
+Bologna FC 1909,Mohamed Kallon,17,Centre-Forward,FC Lugano,?,in,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Giorgio Sterchele,27,Goalkeeper,AS Roma,Loan,in,Summer,0,Serie A,1997,1997/1998
+Bologna FC 1909,Paolo Cristallini,25,Attacking Midfield,Torino,?,in,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Mauro Bonomi,24,Centre-Back,Cesena,?,in,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Giovanni Dall'Igna,24,Right-Back,Cremonese,?,in,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Daniele Carnasciali,30,Right-Back,Fiorentina,?,in,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Antonio Foschini,19,Right-Back,Taranto,?,in,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Massimo Tarantino,26,Left-Back,Inter,?,in,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Matteo Melara,17,Right-Back,Bologna U19,-,in,Summer,0,Serie A,1997,1997/1998
+Bologna FC 1909,Andrea Ferrari,20,Goalkeeper,Bologna U19,-,in,Summer,0,Serie A,1997,1997/1998
+Bologna FC 1909,Giuseppe Cardone,23,Right-Back,Milan,?,out,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Giuseppe Anaclerio,23,Defensive Midfield,Avellino,?,out,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Andrea Tarozzi,23,Right-Back,Fiorentina,?,out,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Marco De Marchi,30,Centre-Back,Vitesse,?,out,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Pierpaolo Bresciani,26,Right Winger,AC Venezia 1907,?,out,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Andrea Seno,31,Central Midfield,Padova,?,out,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Cristiano Scapolo,26,Attacking Midfield,AS Roma,?,out,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Andrea Bergamo,32,Central Midfield,Ravenna,?,out,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Marco Schenardi,29,Right Midfield,Vicenza,?,out,Summer,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Gregorio Vaira,18,Forward,USC Baracca Lugo 1909,-,out,Summer,0,Serie A,1997,1997/1998
+Bologna FC 1909,Andrew Bangura,18,Midfielder,Retired,-,out,Summer,0,Serie A,1997,1997/1998
+Bologna FC 1909,Francesco Gnudi,25,Goalkeeper,USC Baracca Lugo 1909,-,out,Summer,0,Serie A,1997,1997/1998
+US Lecce,Danny Dichio,22,Centre-Forward,Sampdoria,Loan,in,Summer,0,Serie A,1997,1997/1998
+US Lecce,Raffaele Costantino,21,Forward,Stabia,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Jean-Pierre Cyprien,28,Centre-Back,Xamax,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Maurizio Rossi,27,Midfielder,Vicenza,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Riccardo Maspero,26,Attacking Midfield,Cremonese,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Giuseppe Baronchelli,26,Centre-Back,Fiorenzuola,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Andrés Martínez,24,Central Midfield,Defensor,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Francesco De Francesco,19,Second Striker,Milan,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Giovanni Pittalis,26,Midfielder,Casarano,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Dejan Govedarica,27,Central Midfield,FC Volendam,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Paolo Annoni,27,Left-Back,Bari,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Giuseppe Anastasi,23,Defender,Atletico Catania,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Francesco Cozza,23,Attacking Midfield,Milan,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Sergiy Atelkin,25,Centre-Forward,Shakhtar D.,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Alessandro Conticchio,23,Central Midfield,Gualdo,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Michael Hatz,26,Centre-Back,Reggiana,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Orazio Russo,23,Right Winger,Catania,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Luigi Piangerelli,23,Defensive Midfield,Cesena,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,William Viali,22,Centre-Back,Ascoli,?,in,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Alessandro Quarta,20,Goalkeeper,Lecce U19,-,in,Summer,0,Serie A,1997,1997/1998
+US Lecce,Francesco Zanoncelli,29,Centre-Back,Cagliari Calcio,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Riccardo Maspero,26,Attacking Midfield,Vicenza,Loan,out,Summer,0,Serie A,1997,1997/1998
+US Lecce,Fabio Macellari,23,Left-Back,Cagliari Calcio,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Simone Greco,19,Midfielder,Pistoiese,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Cosimo Francioso,30,Left Winger,Ravenna,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Luca Evangelisti,31,Midfielder,Ischia,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Walter Dondoni,31,Sweeper,Ascoli,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Matteo Centurioni,23,Centre-Back,Cagliari Calcio,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Gianni Cavezzi,27,Right Midfield,Cagliari Calcio,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Cristian Baglieri,23,Centre-Forward,Castel di Sangr,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Tiziano De Patre,28,Left Midfield,Cagliari Calcio,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Vincenzo Mazzeo,28,Midfielder,Padova,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Cristian Servidei,24,Centre-Back,AS Roma,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Jonathan Bachini,22,Right Midfield,Udinese,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Alessandro Cucciari,27,Defensive Midfield,Perugia,?,out,Summer,NA,Serie A,1997,1997/1998
+US Lecce,Giuseppe Quaranta,20,Midfielder,Retired,-,out,Summer,0,Serie A,1997,1997/1998
+US Lecce,Massimiliano Marzano,20,Midfielder,Casarano,-,out,Summer,0,Serie A,1997,1997/1998
+US Lecce,Riccardo Maspero,26,Attacking Midfield,Cremonese,"End of loanJun 30, 1997",out,Summer,0,Serie A,1997,1997/1998
+Atalanta BC,Robert Englaro,27,Defender,Foggia,?,in,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Gianluca Gibellini,21,Centre-Back,Pistoiese,?,in,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Liam Ardigò,21,Goalkeeper,Lecco,?,in,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Cristiano Lucarelli,21,Centre-Forward,Padova,?,in,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Alberto Fontana,30,Goalkeeper,Bari,?,in,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Ljubisa Dundjerski,25,Central Midfield,Vojvodina,?,in,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Massimo Orlando,26,Forward,Fiorentina,?,in,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Filippo Carobbio,17,Central Midfield,Atalanta U19,-,in,Summer,0,Serie A,1997,1997/1998
+Atalanta BC,Gianpaolo Bellini,17,Left-Back,Atalanta U19,-,in,Summer,0,Serie A,1997,1997/1998
+Atalanta BC,Cesare Natali,18,Centre-Back,Atalanta U19,-,in,Summer,0,Serie A,1997,1997/1998
+Atalanta BC,Alex Pinardi,16,Defensive Midfield,Atalanta U19,-,in,Summer,0,Serie A,1997,1997/1998
+Atalanta BC,Vincenzo Mirabile,18,Midfielder,Atalanta U19,-,in,Summer,0,Serie A,1997,1997/1998
+Atalanta BC,Filippo Inzaghi,23,Centre-Forward,Juventus,£10.69m,out,Summer,10.69,Serie A,1997,1997/1998
+Atalanta BC,Domenico Morfeo,21,Attacking Midfield,Fiorentina,£6.93m,out,Summer,6.93,Serie A,1997,1997/1998
+Atalanta BC,Mario Morfeo,18,Attacking Midfield,Prato,?,out,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Franco Rotella,30,Right Midfield,Imperia,?,out,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Gianluigi Lentini,28,Right Winger,Torino,?,out,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Damiano Zenoni,20,Right-Back,Alzano Virescit,Loan,out,Summer,0,Serie A,1997,1997/1998
+Atalanta BC,Kewullay Conteh,19,Centre-Back,Cafe Opera,?,out,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Luciano Zauri,19,Right-Back,Chievo Verona,Loan,out,Summer,0,Serie A,1997,1997/1998
+Atalanta BC,Marco Zanchi,20,Centre-Back,Udinese,?,out,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Massimo Mutarelli,19,Central Midfield,Genoa,?,out,Summer,NA,Serie A,1997,1997/1998
+Atalanta BC,Fausto Rossini,19,Centre-Forward,OGC Nice,Loan,out,Summer,0,Serie A,1997,1997/1998
+Atalanta BC,Davide Micillo,26,Goalkeeper,Reggina,Loan,out,Summer,0,Serie A,1997,1997/1998
+Atalanta BC,Federico Pisani,22,Forward,Retired,-,out,Summer,0,Serie A,1997,1997/1998
+FC Empoli,Miodrag Vukotic,23,Centre-Back,Milan,Free transfer,in,Summer,0,Serie A,1997,1997/1998
+FC Empoli,Marco Roccati,22,Goalkeeper,Ravenna,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Luca Bonfanti,21,Midfielder,Frosinone,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Andrea Mussi,19,Centre-Forward,Fiorentina U19,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Emanuele Masini,23,Defender,Arezzo,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Vincenzo Langone,18,Midfielder,Rondinella,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Fabio Eduardo Cribari,22,Defender,Londrina-PR,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Luca Bonfanti,20,Midfielder,Massese,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Antonio Arcadio,24,Right Winger,Siena,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Vittorio Pusceddu,33,Left-Back,Fiorentina,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Angelo Pagotto,23,Goalkeeper,Milan,Loan,in,Summer,0,Serie A,1997,1997/1998
+FC Empoli,Giacomo Mazzi,18,Goalkeeper,Siena,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Fabio Artico,23,Centre-Forward,Pro Vercelli,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Pierpaolo Bisoli,30,Right Midfield,Cagliari Calcio,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Raffaele Ametrano,24,Right-Back,Juventus,Loan,in,Summer,0,Serie A,1997,1997/1998
+FC Empoli,Francesco D'Aniello,17,Central Midfield,Albanova,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Matjaz Florjancic,29,Midfielder,Torino,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Marco Pecorari,19,Centre-Back,Fiorenzuola,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Max Tonetto,22,Left-Back,Reggiana,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Pietro Fusco,25,Defender,Castel di Sangr,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Salvatore Mastronunzio,17,Centre-Forward,Empoli U19,-,in,Summer,0,Serie A,1997,1997/1998
+FC Empoli,Alessandro Birindelli,22,Right-Back,Juventus,£2.52m,out,Summer,2.52,Serie A,1997,1997/1998
+FC Empoli,Flavio Giampieretti,23,Defensive Midfield,AS Lodigiani,Loan,out,Summer,0,Serie A,1997,1997/1998
+FC Empoli,Luca Bonfanti,20,Midfielder,Frosinone,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Antonio Arcadio,24,Right Winger,Ternana,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Fabio Artico,23,Centre-Forward,Giulianova,Loan,out,Summer,0,Serie A,1997,1997/1998
+FC Empoli,Paolo Cozzi,23,Right-Back,Foggia,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Stefano Cognata,19,Central Midfield,Carrarese,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Gianfranco Ciccone,21,Centre-Back,Iperzola,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Mauro Musco,19,Defender,Tolentino,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Rosario Guarino,25,Defender,Foggia,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Filippo Dal Moro,26,Left-Back,AS Roma,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Fabio Tricarico,27,Midfielder,Torino,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Daniele Balli,29,Goalkeeper,Salernitana,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Antonio Di Natale,19,Centre-Forward,Iperzola,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Massimo Gazzoli,21,Goalkeeper,Biellese,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Luca Toni,20,Centre-Forward,Fiorenzuola,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Empoli,Olaf Peruzzi,20,Midfielder,Retired,-,out,Summer,0,Serie A,1997,1997/1998
+FC Empoli,Leonardo Lombardi,19,Goalkeeper,Retired,-,out,Summer,0,Serie A,1997,1997/1998
+FC Empoli,Christian Amoroso,20,Central Midfield,Fiorentina,"End of loanJun 30, 1997",out,Summer,0,Serie A,1997,1997/1998
+FC Empoli,Mauro Bertarelli,26,Forward,Sampdoria,"End of loanJun 30, 1997",out,Summer,0,Serie A,1997,1997/1998
+Milan AC,Ibrahim Bá,23,Right Midfield,G. Bordeaux,£10.80m,in,Summer,10.8,Serie A,1997,1997/1998
+Milan AC,Leonardo,27,Attacking Midfield,Paris SG,£7.65m,in,Summer,7.65,Serie A,1997,1997/1998
+Milan AC,Christian Ziege,25,Left Midfield,Bayern Munich,£4.61m,in,Summer,4.61,Serie A,1997,1997/1998
+Milan AC,Andreas Andersson,23,Centre-Forward,IFK Göteborg,£3.15m,in,Summer,3.15,Serie A,1997,1997/1998
+Milan AC,André Cruz,28,Centre-Back,SSC Napoli,£2.70m,in,Summer,2.7,Serie A,1997,1997/1998
+Milan AC,Patrick Kluivert,21,Centre-Forward,Ajax,£1.80m,in,Summer,1.8,Serie A,1997,1997/1998
+Milan AC,Steinar Nilsen,25,Centre-Back,Tromsø IL,£900Th.,in,Summer,0.9,Serie A,1997,1997/1998
+Milan AC,Dario Smoje,18,Centre-Back,HNK Rijeka,£720Th.,in,Summer,0.72,Serie A,1997,1997/1998
+Milan AC,Massimo Taibi,27,Goalkeeper,Piacenza,£585Th.,in,Summer,0.585,Serie A,1997,1997/1998
+Milan AC,Roberto Donadoni,33,Right Midfield,MetroStars,Free transfer,in,Summer,0,Serie A,1997,1997/1998
+Milan AC,Giampiero Maini,25,Defensive Midfield,Vicenza,?,in,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Marcello Campolonghi,22,Second Striker,Brescia,?,in,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Francesco Moriero,28,Right Winger,AS Roma,?,in,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Marco Bonura,17,Central Midfield,Calcio Monza,?,in,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Samir Beloufa,17,Centre-Back,Cannes,?,in,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Giuseppe Cardone,23,Right-Back,Bologna,?,in,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Winston Bogarde,26,Centre-Back,Ajax,?,in,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Simone Braglia,34,Goalkeeper,Lucchese,?,in,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Matteo Pelatti,19,Centre-Forward,Milan U19,-,in,Summer,0,Serie A,1997,1997/1998
+Milan AC,Roberto De Zerbi,18,Attacking Midfield,Milan U19,-,in,Summer,0,Serie A,1997,1997/1998
+Milan AC,Daniele Daino,17,Right-Back,Milan U19,-,in,Summer,0,Serie A,1997,1997/1998
+Milan AC,Massimo Maccarone,18,Centre-Forward,Milan U19,-,in,Summer,0,Serie A,1997,1997/1998
+Milan AC,Michael Reiziger,24,Right-Back,FC Barcelona,£7.20m,out,Summer,7.2,Serie A,1997,1997/1998
+Milan AC,Jesper Blomqvist,23,Left Midfield,AC Parma,£4.50m,out,Summer,4.5,Serie A,1997,1997/1998
+Milan AC,Christophe Dugarry,25,Centre-Forward,FC Barcelona,£3.60m,out,Summer,3.6,Serie A,1997,1997/1998
+Milan AC,Roberto Baggio,30,Second Striker,Bologna,£1.62m,out,Summer,1.62,Serie A,1997,1997/1998
+Milan AC,Marco Simone,28,Centre-Forward,Paris SG,£900Th.,out,Summer,0.9,Serie A,1997,1997/1998
+Milan AC,Francesco Coco,20,Left-Back,Vicenza,Loan fee:£675Th.,out,Summer,0.675,Serie A,1997,1997/1998
+Milan AC,Zizi Roberts,18,Centre-Forward,Calcio Monza,Loan,out,Summer,0,Serie A,1997,1997/1998
+Milan AC,Miodrag Vukotic,23,Centre-Back,FC Empoli,Free transfer,out,Summer,0,Serie A,1997,1997/1998
+Milan AC,Cristian Brocchi,21,Central Midfield,Lumezzane,Loan,out,Summer,0,Serie A,1997,1997/1998
+Milan AC,Massimo Oddo,21,Right-Back,Lecco,Loan fee:£41Th.,out,Summer,0.041,Serie A,1997,1997/1998
+Milan AC,Francesco Moriero,28,Right Winger,Inter,£450,out,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Matteo Placida,18,Defender,Calcio Monza,?,out,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Vincenzo Maiolo,18,Forward,Pro Sesto,?,out,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Francesco De Francesco,19,Second Striker,Lecce,?,out,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Angelo Pagotto,23,Goalkeeper,FC Empoli,Loan,out,Summer,0,Serie A,1997,1997/1998
+Milan AC,Francesco Cozza,23,Attacking Midfield,Lecce,?,out,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Pietro Vierchowod,38,Centre-Back,Piacenza,?,out,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Roberto Colombo,21,Goalkeeper,Solbiatese Arno Calcio,Loan,out,Summer,0,Serie A,1997,1997/1998
+Milan AC,Gabriele Aldegani,21,Goalkeeper,Prato,?,out,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Massimo Ambrosini,20,Central Midfield,Vicenza,Loan,out,Summer,0,Serie A,1997,1997/1998
+Milan AC,Stefano Eranio,30,Right Midfield,Derby,?,out,Summer,NA,Serie A,1997,1997/1998
+Milan AC,Marcello Campolonghi,22,Second Striker,Calcio Monza,Loan,out,Summer,0,Serie A,1997,1997/1998
+Milan AC,Mauro Tassotti,37,Right-Back,Retired,-,out,Summer,0,Serie A,1997,1997/1998
+Milan AC,Franco Baresi,37,Sweeper,Retired,-,out,Summer,0,Serie A,1997,1997/1998
+AC Fiorentina,Domenico Morfeo,21,Attacking Midfield,Atalanta,£6.93m,in,Summer,6.93,Serie A,1997,1997/1998
+AC Fiorentina,Stefano Bettarini,25,Left-Back,Cagliari Calcio,£1.35m,in,Summer,1.35,Serie A,1997,1997/1998
+AC Fiorentina,Valerio Fiori,28,Goalkeeper,Cesena,?,in,Summer,NA,Serie A,1997,1997/1998
+AC Fiorentina,Davide Dionigi,23,Centre-Forward,Reggina,?,in,Summer,NA,Serie A,1997,1997/1998
+AC Fiorentina,Edmundo,26,Second Striker,Vasco da Gama,?,in,Summer,NA,Serie A,1997,1997/1998
+AC Fiorentina,Andrea Tarozzi,23,Right-Back,Bologna,?,in,Summer,NA,Serie A,1997,1997/1998
+AC Fiorentina,Riccardo Taddei,16,Left Winger,Fiorentina U19,-,in,Summer,0,Serie A,1997,1997/1998
+AC Fiorentina,Alessandro Agostini,17,Left-Back,Fiorentina U19,-,in,Summer,0,Serie A,1997,1997/1998
+AC Fiorentina,Lorenzo Amoruso,26,Centre-Back,Rangers,£5.40m,out,Summer,5.4,Serie A,1997,1997/1998
+AC Fiorentina,Daniele Chiarini,18,Centre-Back,Arezzo,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Fiorentina,Luca Vigiani,20,Right Midfield,Saronno,Loan,out,Summer,0,Serie A,1997,1997/1998
+AC Fiorentina,Francesco Baiano,29,Right Winger,Derby,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Fiorentina,Massimo Orlando,26,Forward,Atalanta,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Fiorentina,Daniele Carnasciali,30,Right-Back,Bologna,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Fiorentina,Vittorio Pusceddu,33,Left-Back,FC Empoli,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Fiorentina,Gianmatteo Mareggini,30,Goalkeeper,Siena,Loan,out,Summer,0,Serie A,1997,1997/1998
+AC Fiorentina,Marco Vendrame,20,Right Midfield,Lucchese,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Fiorentina,Riccardo Taddei,16,Left Winger,Pontedera,Loan,out,Summer,0,Serie A,1997,1997/1998
+Udinese Calcio,Johan Walem,25,Left Midfield,RSC Anderlecht,£4.05m,in,Summer,4.05,Serie A,1997,1997/1998
+Udinese Calcio,Stephen Appiah,16,Defensive Midfield,Hearts of Oak,Free transfer,in,Summer,0,Serie A,1997,1997/1998
+Udinese Calcio,Martin Jörgensen,21,Central Midfield,Aarhus GF,?,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Vito Lasalandra,22,Right Midfield,Acireale,?,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Ousmane Sanda Sanda,15,Midfielder,Cotonsport,?,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Joachim Fernandez,24,Defender,SM Caen,?,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Elijah Louhenapessy,20,Defensive Midfield,Ajax,?,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Francesco Statuto,26,Central Midfield,AS Roma,?,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Maurizio Bedin,18,Central Midfield,Padova,?,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Jonathan Bachini,22,Right Midfield,Lecce,?,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Marco Zanchi,20,Centre-Back,Atalanta,?,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Adil Ramzi,19,Left Midfield,Kawkab Marrakech,?,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Andrea Chiopris Gori,19,Right Midfield,Udinese U19,-,in,Summer,0,Serie A,1997,1997/1998
+Udinese Calcio,Gilberto D'Ignazio Pulpito,28,Defender,Vicenza,,in,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Marek Koźmiński,26,Left-Back,Brescia,?,out,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,David Stefani,22,Central Midfield,Acireale,Loan,out,Summer,0,Serie A,1997,1997/1998
+Udinese Calcio,Andrea Chiopris Gori,19,Right Midfield,Prato,Loan,out,Summer,0,Serie A,1997,1997/1998
+Udinese Calcio,Claudio Clementi,28,Centre-Forward,Treviso,?,out,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Pier Luigi Nicoli,31,Right-Back,Padova,?,out,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Luca Compagnon,24,Right-Back,Cremonese,?,out,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Raffaele Sergio,30,Left-Back,SSC Napoli,?,out,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Giovanni Stroppa,29,Attacking Midfield,Piacenza,?,out,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Graziano Battistini,26,Goalkeeper,Hellas Verona,?,out,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Fabio Rossitto,25,Right Midfield,SSC Napoli,?,out,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Joachim Fernandez,24,Defender,Calcio Monza,?,out,Summer,NA,Serie A,1997,1997/1998
+Udinese Calcio,Stefano Desideri,31,Right Midfield,Without Club,-,out,Summer,0,Serie A,1997,1997/1998
+SS Lazio,Vladimir Jugovic,27,Left Midfield,Juventus,£3.60m,in,Summer,3.6,Serie A,1997,1997/1998
+SS Lazio,Roberto Mancini,32,Second Striker,Sampdoria,£3.60m,in,Summer,3.6,Serie A,1997,1997/1998
+SS Lazio,Giuseppe Pancaro,25,Right-Back,Cagliari Calcio,£1.08m,in,Summer,1.08,Serie A,1997,1997/1998
+SS Lazio,Alen Boksic,27,Centre-Forward,Juventus,£990Th.,in,Summer,0.99,Serie A,1997,1997/1998
+SS Lazio,Marco Ballotta,33,Goalkeeper,Reggiana,£900Th.,in,Summer,0.9,Serie A,1997,1997/1998
+SS Lazio,Matías Almeyda,23,Defensive Midfield,Sevilla FC,£765Th.,in,Summer,0.765,Serie A,1997,1997/1998
+SS Lazio,Giovanni Lopez,30,Centre-Back,Vicenza,?,in,Summer,NA,Serie A,1997,1997/1998
+SS Lazio,Marco Di Vaio,20,Centre-Forward,Salernitana,£2.32m,out,Summer,2.32,Serie A,1997,1997/1998
+SS Lazio,Mark Fish,23,Centre-Back,Bolton,£2.09m,out,Summer,2.09,Serie A,1997,1997/1998
+SS Lazio,Renato Buso,27,Right Midfield,Piacenza,£698Th.,out,Summer,0.698,Serie A,1997,1997/1998
+SS Lazio,Carlo Cudicini,23,Goalkeeper,Castel di Sangr,Free transfer,out,Summer,0,Serie A,1997,1997/1998
+SS Lazio,Andrea Cano,21,Goalkeeper,Narnese Calcio,?,out,Summer,NA,Serie A,1997,1997/1998
+SS Lazio,Roberto Baronio,19,Defensive Midfield,Vicenza,Loan,out,Summer,0,Serie A,1997,1997/1998
+SS Lazio,Igor Protti,29,Centre-Forward,SSC Napoli,?,out,Summer,NA,Serie A,1997,1997/1998
+SS Lazio,Marco Piovanelli,23,Midfielder,Piacenza,?,out,Summer,NA,Serie A,1997,1997/1998
+SS Lazio,Daniele Federici,20,Forward,Castel di Sangr,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Gianluca Zambrotta,20,Right-Back,Como,Free transfer,in,Summer,0,Serie A,1997,1997/1998
+AS Bari,Michele Marcolini,21,Central Midfield,Sora,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Philemon Masinga,28,Centre-Forward,Salernitana,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Gianluca Sordo,27,Right Midfield,Reggiana,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Francesco Mancini,28,Goalkeeper,Foggia,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Mauro Bressan,26,Defensive Midfield,Cagliari Calcio,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Paolo Giometti,19,Forward,Rimini,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Carlo Sassarini,25,Left-Back,Como,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Gaetano De Rosa,24,Centre-Back,Savoia,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Alberto Fontana,30,Goalkeeper,Atalanta,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Antonio Bellavista,19,Defensive Midfield,Giulianova,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Paolo Annoni,27,Left-Back,Lecce,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Giuseppe Alberga,30,Goalkeeper,Taranto,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Marcello Montanari,31,Sweeper,Lucchese,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Omar Lepri,20,Defender,Tempio,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Danilo Macera,19,Defender,Giulianova,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Bari,Francesco Flachi,22,Centre-Forward,Fiorentina,"End of loanJun 30, 1997",out,Summer,0,Serie A,1997,1997/1998
+AS Bari,Marco Zanchi,20,Centre-Back,Atalanta,"End of loanJun 30, 1997",out,Summer,0,Serie A,1997,1997/1998
+AS Bari,Marco Di Vaio,20,Centre-Forward,Lazio,"End of loanJun 30, 1997",out,Summer,0,Serie A,1997,1997/1998
+AC Parma,Jesper Blomqvist,23,Left Midfield,Milan,£4.50m,in,Summer,4.5,Serie A,1997,1997/1998
+AC Parma,Adaílton,20,Second Striker,Guarani,£1.35m,in,Summer,1.35,Serie A,1997,1997/1998
+AC Parma,Matteo Guardalben,23,Goalkeeper,Hellas Verona,£900Th.,in,Summer,0.9,Serie A,1997,1997/1998
+AC Parma,Stefano Fiore,22,Attacking Midfield,Chievo Verona,£900Th.,in,Summer,0.9,Serie A,1997,1997/1998
+AC Parma,Mauro Milanese,25,Left-Back,SSC Napoli,£540Th.,in,Summer,0.54,Serie A,1997,1997/1998
+AC Parma,Federico Giunti,25,Defensive Midfield,Perugia,£360Th.,in,Summer,0.36,Serie A,1997,1997/1998
+AC Parma,Filippo Maniero,24,Centre-Forward,Hellas Verona,?,in,Summer,NA,Serie A,1997,1997/1998
+AC Parma,Pierluigi Orlandini,24,Right Midfield,Hellas Verona,?,in,Summer,NA,Serie A,1997,1997/1998
+AC Parma,Genny Del Prete,17,Centre-Forward,Andria,Loan,in,Summer,0,Serie A,1997,1997/1998
+AC Parma,Armando Tuani,19,Goalkeeper,Saronno,?,in,Summer,NA,Serie A,1997,1997/1998
+AC Parma,Amaral,24,Defensive Midfield,Benfica,£3.15m,out,Summer,3.15,Serie A,1997,1997/1998
+AC Parma,Alessio Sarti,17,Goalkeeper,Prato,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Parma,Daniel Bravo,34,Defensive Midfield,Olympique Lyon,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Parma,Tomas Brolin,27,Centre-Forward,Hudiksvall,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Parma,Alessandro Melli,27,Centre-Forward,Perugia,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Parma,Gianluca Triuzzi,18,Centre-Forward,US Palermo,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Parma,Mario Massimo Caruso,27,Attacking Midfield,Ascoli,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Parma,Luca Pinton,19,Defender,Prato,?,out,Summer,NA,Serie A,1997,1997/1998
+AC Parma,Reynald Pedros,25,Left Midfield,SSC Napoli,Loan,out,Summer,0,Serie A,1997,1997/1998
+AC Parma,Mauro Ghillani,19,Forward,Ischia,-,out,Summer,0,Serie A,1997,1997/1998
+FC Internazionale,Ronaldo,20,Centre-Forward,FC Barcelona,£25.20m,in,Summer,25.2,Serie A,1997,1997/1998
+FC Internazionale,Álvaro Recoba,21,Second Striker,Nacional,£15.30m,in,Summer,15.3,Serie A,1997,1997/1998
+FC Internazionale,Zé Elias,20,Central Midfield,Bay. Leverkusen,£5.04m,in,Summer,5.04,Serie A,1997,1997/1998
+FC Internazionale,Benoît Cauet,28,Central Midfield,Paris SG,£3.60m,in,Summer,3.6,Serie A,1997,1997/1998
+FC Internazionale,Taribo West,23,Left-Back,AJ Auxerre,£2.70m,in,Summer,2.7,Serie A,1997,1997/1998
+FC Internazionale,Luigi Sartor,22,Right-Back,Vicenza,£1.80m,in,Summer,1.8,Serie A,1997,1997/1998
+FC Internazionale,Francesco Moriero,28,Right Winger,Milan,£450,in,Summer,NA,Serie A,1997,1997/1998
+FC Internazionale,Luca Mezzano,19,Centre-Back,Torino,?,in,Summer,NA,Serie A,1997,1997/1998
+FC Internazionale,Matteo Ferrari,17,Centre-Back,Inter U19,-,in,Summer,0,Serie A,1997,1997/1998
+FC Internazionale,Andrea Polizzano,18,Defender,Inter U19,-,in,Summer,0,Serie A,1997,1997/1998
+FC Internazionale,Alessandro Pistone,21,Left-Back,Newcastle,£5.85m,out,Summer,5.85,Serie A,1997,1997/1998
+FC Internazionale,Paul Ince,29,Defensive Midfield,Liverpool,£5.67m,out,Summer,5.67,Serie A,1997,1997/1998
+FC Internazionale,Ciriaco Sforza,27,Central Midfield,1.FC K'lautern,£2.97m,out,Summer,2.97,Serie A,1997,1997/1998
+FC Internazionale,Jocelyn Angloma,31,Right-Back,Valencia,£1.08m,out,Summer,1.08,Serie A,1997,1997/1998
+FC Internazionale,Massimo Paganin,26,Centre-Back,Bologna,Free transfer,out,Summer,0,Serie A,1997,1997/1998
+FC Internazionale,Sebastián Rambert,23,Centre-Forward,River Plate,Free transfer,out,Summer,0,Serie A,1997,1997/1998
+FC Internazionale,Armando Pantanelli,26,Goalkeeper,Reggiana,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Internazionale,Arturo Di Napoli,23,Centre-Forward,Vicenza,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Internazionale,Gianluca Festa,28,Right-Back,Middlesbrough,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Internazionale,Sergio D'Autilia,19,Central Midfield,Foggia,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Internazionale,Massimo Tarantino,26,Left-Back,Bologna,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Internazionale,Misha Djorkaeff,23,Midfielder,Etoile Carouge,Loan,out,Summer,0,Serie A,1997,1997/1998
+FC Internazionale,Paolo Orlandoni,24,Goalkeeper,Acireale,?,out,Summer,NA,Serie A,1997,1997/1998
+FC Internazionale,Matteo Ferrari,17,Centre-Back,Genoa,Loan,out,Summer,0,Serie A,1997,1997/1998
+AS Roma,Cafú,27,Right-Back,Palmeiras,£6.84m,in,Summer,6.84,Serie A,1997,1997/1998
+AS Roma,Vágner,24,Defensive Midfield,Santos FC,£4.50m,in,Summer,4.5,Serie A,1997,1997/1998
+AS Roma,César Gómez,29,Centre-Back,CD Tenerife,£3.15m,in,Summer,3.15,Serie A,1997,1997/1998
+AS Roma,Paulo Sérgio,28,Left Winger,Bay. Leverkusen,£3.15m,in,Summer,3.15,Serie A,1997,1997/1998
+AS Roma,Antonio Chimenti,27,Goalkeeper,Salernitana,£1.39m,in,Summer,1.39,Serie A,1997,1997/1998
+AS Roma,Giorgio Lucenti,21,Right-Back,US Palermo,£900Th.,in,Summer,0.9,Serie A,1997,1997/1998
+AS Roma,Iván Helguera,22,Centre-Back,Albacete,£180Th.,in,Summer,0.18,Serie A,1997,1997/1998
+AS Roma,Michael Konsel,35,Goalkeeper,Rapid Vienna,Free transfer,in,Summer,0,Serie A,1997,1997/1998
+AS Roma,Andrea Campagnolo,19,Goalkeeper,Cittadella,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Eusebio Di Francesco,27,Central Midfield,Piacenza,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Francesco Colonnese,25,Centre-Back,SSC Napoli,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Carmine Gautieri,26,Right Winger,Perugia,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Cristian Servidei,24,Centre-Back,Lecce,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Cristiano Scapolo,26,Attacking Midfield,Bologna,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Giorgio Sterchele,27,Goalkeeper,Cagliari Calcio,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Filippo Dal Moro,26,Left-Back,FC Empoli,?,in,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Daniele De Vezze,17,Central Midfield,Roma U19,-,in,Summer,0,Serie A,1997,1997/1998
+AS Roma,Stefano Fanucci,18,Centre-Back,Roma U19,-,in,Summer,0,Serie A,1997,1997/1998
+AS Roma,Manuele Blasi,16,Central Midfield,Roma U19,-,in,Summer,0,Serie A,1997,1997/1998
+AS Roma,Andrea Conti,19,Right Winger,Roma U19,-,in,Summer,0,Serie A,1997,1997/1998
+AS Roma,Amedeo Carboni,32,Left-Back,Valencia,£3.60m,out,Summer,3.6,Serie A,1997,1997/1998
+AS Roma,Martin Dahlin,29,Centre-Forward,Blackburn,£2.70m,out,Summer,2.7,Serie A,1997,1997/1998
+AS Roma,Gianluca Berti,30,Goalkeeper,Reggiana,Free transfer,out,Summer,0,Serie A,1997,1997/1998
+AS Roma,Lorenzo Stovini,20,Centre-Back,Vicenza,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Antonino Bernardini,23,Defensive Midfield,Perugia,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Giorgio Sterchele,27,Goalkeeper,Bologna,Loan,out,Summer,0,Serie A,1997,1997/1998
+AS Roma,Jonas Thern,30,Central Midfield,Rangers,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Andrea Conti,19,Right Winger,Carpi,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Francesco Moriero,28,Right Winger,Milan,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Daniel Fonseca,27,Centre-Forward,Juventus,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Enrico Annoni,30,Right-Back,Celtic,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Marco Lanna,28,Centre-Back,UD Salamanca,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Giovanni Cervone,34,Goalkeeper,Brescia,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Giampaolo Di Magno,23,Goalkeeper,Carpi,?,out,Summer,NA,Serie A,1997,1997/1998
+AS Roma,Francesco Statuto,26,Central Midfield,Udinese,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Tal Banin,26,Defensive Midfield,Hapoel Haifa,£531Th.,in,Summer,0.531,Serie A,1997,1997/1998
+Brescia Calcio,Dario Hübner,30,Centre-Forward,Cesena,Free transfer,in,Summer,0,Serie A,1997,1997/1998
+Brescia Calcio,Marek Koźmiński,26,Left-Back,Udinese,?,in,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Ovidiu Sabau,29,Central Midfield,Reggiana,?,in,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Giovanni Cervone,34,Goalkeeper,AS Roma,?,in,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Salvatore Bacci,32,Midfielder,Ravenna,?,in,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Antonio Criniti,26,Forward,Reggina,?,in,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Ivan Javorcic,18,Defensive Midfield,Brescia U19,-,in,Summer,0,Serie A,1997,1997/1998
+Brescia Calcio,Massimiliano Caputo,16,Left Winger,Brescia U19,-,in,Summer,0,Serie A,1997,1997/1998
+Brescia Calcio,Marcello Campolonghi,22,Second Striker,Milan,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Rosario Pergolizzi,28,Left-Back,Padova,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Paolo Di Sarno,29,Goalkeeper,Pistoiese,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Luca Luzardi,27,Centre-Back,Ascoli,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Massimiliano Corrado,25,Right-Back,Genoa,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Marco Ciganotto,18,Goalkeeper,Sanvitese,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Graziano Beltrami,18,Midfielder,Atletico Catania,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Omar Forlani,18,Defender,CPR Ospitaletto,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Nicola Borra,19,Midfielder,CPR Ospitaletto,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Dario Dossi,20,Defender,Atletico Catania,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Salvatore Bacci,32,Midfielder,Treviso,?,out,Summer,NA,Serie A,1997,1997/1998
+Brescia Calcio,Matteo Rigamonti,19,Goalkeeper,Viterbese,-,out,Summer,0,Serie A,1997,1997/1998
+Brescia Calcio,Sergio Piovanelli,19,Forward,CPR Ospitaletto,-,out,Summer,0,Serie A,1997,1997/1998
+Juventus FC,Edgar Davids,24,Central Midfield,Milan,£7.20m,in,Winter,7.2,Serie A,1997,1997/1998
+Juventus FC,Marcelo Zalayeta,18,Centre-Forward,Peñarol,£2.32m,in,Winter,2.32,Serie A,1997,1997/1998
+Juventus FC,Michele Padovano,31,Centre-Forward,Crystal Palace,£1.76m,out,Winter,1.76,Serie A,1997,1997/1998
+Juventus FC,Riccardo Bonetto,18,Left-Back,Novara,Loan,out,Winter,0,Serie A,1997,1997/1998
+Juventus FC,Marco Zamboni,19,Centre-Back,SSC Napoli,?,out,Winter,NA,Serie A,1997,1997/1998
+SSC Napoli,Mirko Conte,23,Centre-Back,Piacenza,?,in,Winter,NA,Serie A,1997,1997/1998
+SSC Napoli,Damir Stojak,22,Centre-Forward,Vojvodina,?,in,Winter,NA,Serie A,1997,1997/1998
+SSC Napoli,Marco Zamboni,19,Centre-Back,Juventus,?,in,Winter,NA,Serie A,1997,1997/1998
+SSC Napoli,José Luis Calderón,27,Centre-Forward,Independiente,£929Th.,out,Winter,0.929,Serie A,1997,1997/1998
+SSC Napoli,Beto,22,Attacking Midfield,Flamengo,Free transfer,out,Winter,0,Serie A,1997,1997/1998
+SSC Napoli,Marco Zamboni,20,Centre-Back,Chievo Verona,?,out,Winter,NA,Serie A,1997,1997/1998
+SSC Napoli,Alessandro Sbrizzo,22,Centre-Back,Padova,Loan,out,Winter,0,Serie A,1997,1997/1998
+SSC Napoli,Mirko Conte,23,Centre-Back,Vicenza,?,out,Winter,NA,Serie A,1997,1997/1998
+SSC Napoli,Mirko Taccola,27,Centre-Back,Lucchese,?,out,Winter,NA,Serie A,1997,1997/1998
+SSC Napoli,Giuseppe Giannini,33,Attacking Midfield,Lecce,?,out,Winter,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Mirko Conte,23,Centre-Back,SSC Napoli,?,in,Winter,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Riccardo Maspero,26,Attacking Midfield,Lecce,Loan,in,Winter,0,Serie A,1997,1997/1998
+Vicenza Calcio,Davide Falcioni,22,Goalkeeper,Treviso,?,in,Winter,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Alessandro Iannuzzi,22,Forward,Lecce,?,out,Winter,NA,Serie A,1997,1997/1998
+Vicenza Calcio,Luca Mondini,27,Goalkeeper,Treviso,?,out,Winter,NA,Serie A,1997,1997/1998
+Piacenza FC,Renato Buso,27,Right Midfield,Lazio,£698Th.,in,Winter,0.698,Serie A,1997,1997/1998
+Piacenza FC,Davide Dionigi,23,Centre-Forward,Fiorentina,?,in,Winter,NA,Serie A,1997,1997/1998
+Piacenza FC,Mirko Conte,23,Centre-Back,SSC Napoli,?,out,Winter,NA,Serie A,1997,1997/1998
+UC Sampdoria,Giuseppe Signori,29,Centre-Forward,Lazio,£360Th.,in,Winter,0.36,Serie A,1997,1997/1998
+UC Sampdoria,François Omam-Biyik,31,Centre-Forward,Unknown,?,in,Winter,NA,Serie A,1997,1997/1998
+UC Sampdoria,Danny Dichio,23,Centre-Forward,Sunderland,£990Th.,out,Winter,0.99,Serie A,1997,1997/1998
+UC Sampdoria,Jürgen Klinsmann,33,Centre-Forward,Spurs,Free transfer,out,Winter,0,Serie A,1997,1997/1998
+UC Sampdoria,Danny Dichio,22,Centre-Forward,Lecce,Loan,out,Winter,0,Serie A,1997,1997/1998
+UC Sampdoria,Ángel Morales,22,Attacking Midfield,CP Mérida,Loan,out,Winter,0,Serie A,1997,1997/1998
+UC Sampdoria,Mattia Biso,20,Central Midfield,Tempio,Loan,out,Winter,0,Serie A,1997,1997/1998
+UC Sampdoria,Nicola Zanini,23,Attacking Midfield,Atalanta,Loan,out,Winter,0,Serie A,1997,1997/1998
+Bologna FC 1909,Andrés Martínez,25,Central Midfield,Lecce,?,in,Winter,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Giuliano Gentilini,27,Central Midfield,Padova,?,in,Winter,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Massimo Brambilla,24,Central Midfield,Torino,?,out,Winter,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Mauro Bonomi,25,Centre-Back,Torino,?,out,Winter,NA,Serie A,1997,1997/1998
+Bologna FC 1909,Mohamed Kallon,18,Centre-Forward,Genoa,?,out,Winter,NA,Serie A,1997,1997/1998
+US Lecce,Danny Dichio,22,Centre-Forward,Sampdoria,Loan,in,Winter,0,Serie A,1997,1997/1998
+US Lecce,Alessandro Iannuzzi,22,Forward,Vicenza,?,in,Winter,NA,Serie A,1997,1997/1998
+US Lecce,Giuseppe Giannini,33,Attacking Midfield,SSC Napoli,?,in,Winter,NA,Serie A,1997,1997/1998
+US Lecce,Stefano Rossini,26,Left-Back,Atalanta,?,in,Winter,NA,Serie A,1997,1997/1998
+US Lecce,Richard Vanigli,26,Right-Back,Castel di Sangr,Loan,out,Winter,0,Serie A,1997,1997/1998
+US Lecce,Michael Hatz,27,Centre-Back,Rapid Vienna,?,out,Winter,NA,Serie A,1997,1997/1998
+US Lecce,Orazio Russo,24,Right Winger,SPAL,?,out,Winter,NA,Serie A,1997,1997/1998
+US Lecce,Andrés Martínez,25,Central Midfield,Bologna,?,out,Winter,NA,Serie A,1997,1997/1998
+US Lecce,Riccardo Maspero,26,Attacking Midfield,Vicenza,Loan,out,Winter,0,Serie A,1997,1997/1998
+US Lecce,Cosimo Nobile,19,Centre-Forward,Lecco,Loan,out,Winter,0,Serie A,1997,1997/1998
+Atalanta BC,Massimiliano Cappioli,29,Attacking Midfield,Udinese,Loan,in,Winter,0,Serie A,1997,1997/1998
+Atalanta BC,Nicola Zanini,23,Attacking Midfield,Sampdoria,Loan,in,Winter,0,Serie A,1997,1997/1998
+Atalanta BC,Giovanni Piacentini,29,Defensive Midfield,Fiorentina,?,in,Winter,NA,Serie A,1997,1997/1998
+Atalanta BC,Liam Ardigò,21,Goalkeeper,Siena,?,out,Winter,NA,Serie A,1997,1997/1998
+Atalanta BC,Stefano Rossini,26,Left-Back,Lecce,?,out,Winter,NA,Serie A,1997,1997/1998
+FC Empoli,Giorgio Lucenti,22,Right-Back,AS Roma,£720Th.,in,Winter,0.72,Serie A,1997,1997/1998
+FC Empoli,Aleksandar Kocić,28,Goalkeeper,Perugia,?,in,Winter,NA,Serie A,1997,1997/1998
+FC Empoli,Claudio Bonomi,25,Left Midfield,Torino,?,in,Winter,NA,Serie A,1997,1997/1998
+FC Empoli,Tonino Martino,28,Forward,Castel di Sangr,?,in,Winter,NA,Serie A,1997,1997/1998
+FC Empoli,Vittorio Pusceddu,33,Left-Back,Torino,Free transfer,out,Winter,0,Serie A,1997,1997/1998
+FC Empoli,Andrea Mussi,20,Centre-Forward,Ravenna,?,out,Winter,NA,Serie A,1997,1997/1998
+FC Empoli,Fabio Artico,23,Centre-Forward,Giulianova,Loan,out,Winter,0,Serie A,1997,1997/1998
+FC Empoli,Antonio Arcadio,24,Right Winger,Ternana,?,out,Winter,NA,Serie A,1997,1997/1998
+FC Empoli,Luca Bonfanti,20,Midfielder,Frosinone,?,out,Winter,NA,Serie A,1997,1997/1998
+FC Empoli,Emanuele Masini,24,Defender,Siena,?,out,Winter,NA,Serie A,1997,1997/1998
+Milan AC,Maurizio Ganz,29,Centre-Forward,Inter,£450Th.,in,Winter,0.45,Serie A,1997,1997/1998
+Milan AC,Gianluca Zanetti,20,Centre-Back,Calcio Monza,?,in,Winter,NA,Serie A,1997,1997/1998
+Milan AC,Filippo Maniero,25,Centre-Forward,AC Parma,?,in,Winter,NA,Serie A,1997,1997/1998
+Milan AC,Edgar Davids,24,Central Midfield,Juventus,£7.20m,out,Winter,7.2,Serie A,1997,1997/1998
+Milan AC,Andreas Andersson,23,Centre-Forward,Newcastle,£3.71m,out,Winter,3.71,Serie A,1997,1997/1998
+Milan AC,Winston Bogarde,27,Centre-Back,FC Barcelona,£3.33m,out,Winter,3.33,Serie A,1997,1997/1998
+Milan AC,Angelo Pagotto,23,Goalkeeper,Perugia,?,out,Winter,NA,Serie A,1997,1997/1998
+Milan AC,Matteo Pelatti,19,Centre-Forward,Como,Loan,out,Winter,0,Serie A,1997,1997/1998
+AC Fiorentina,Francesco Flachi,22,Centre-Forward,Ancona,Loan,out,Winter,0,Serie A,1997,1997/1998
+AC Fiorentina,Davide Dionigi,23,Centre-Forward,Piacenza,?,out,Winter,NA,Serie A,1997,1997/1998
+AC Fiorentina,Giovanni Piacentini,29,Defensive Midfield,Atalanta,?,out,Winter,NA,Serie A,1997,1997/1998
+Udinese Calcio,Mauro Navas,23,Right Midfield,Racing Club,?,in,Winter,NA,Serie A,1997,1997/1998
+Udinese Calcio,Mauricio Pineda,22,Left-Back,Boca Juniors,?,in,Winter,NA,Serie A,1997,1997/1998
+Udinese Calcio,Giorgio Frezzolini,21,Goalkeeper,Andria,?,in,Winter,NA,Serie A,1997,1997/1998
+Udinese Calcio,Daniele Chiarini,18,Centre-Back,Arezzo,?,in,Winter,NA,Serie A,1997,1997/1998
+Udinese Calcio,Adil Ramzi,20,Left Midfield,Willem II,Loan,out,Winter,0,Serie A,1997,1997/1998
+Udinese Calcio,Elijah Louhenapessy,21,Defensive Midfield,Genoa,Loan,out,Winter,0,Serie A,1997,1997/1998
+Udinese Calcio,Massimiliano Cappioli,29,Attacking Midfield,Atalanta,Loan,out,Winter,0,Serie A,1997,1997/1998
+Udinese Calcio,Massimiliano Caniato,30,Goalkeeper,Chievo Verona,?,out,Winter,NA,Serie A,1997,1997/1998
+Udinese Calcio,Vito Lasalandra,22,Right Midfield,Andria,Loan,out,Winter,0,Serie A,1997,1997/1998
+Udinese Calcio,Joachim Fernandez,24,Defender,Calcio Monza,?,out,Winter,NA,Serie A,1997,1997/1998
+Udinese Calcio,Maurizio Bedin,18,Central Midfield,Eintracht Wels,Loan,out,Winter,0,Serie A,1997,1997/1998
+Udinese Calcio,Giovanni Bia,29,Centre-Back,Brescia,Loan,out,Winter,0,Serie A,1997,1997/1998
+SS Lazio,Maurizio Domizzi,17,Centre-Back,Lazio U19,-,in,Winter,0,Serie A,1997,1997/1998
+SS Lazio,Renato Buso,27,Right Midfield,Piacenza,£698Th.,out,Winter,0.698,Serie A,1997,1997/1998
+SS Lazio,Giuseppe Signori,29,Centre-Forward,Sampdoria,£360Th.,out,Winter,0.36,Serie A,1997,1997/1998
+AS Bari,Marcus Allbäck,24,Centre-Forward,Lyngby FC,Loan,in,Winter,0,Serie A,1997,1997/1998
+AS Bari,Grégory Campi,21,Left Midfield,OG Rouen,?,in,Winter,NA,Serie A,1997,1997/1998
+AS Bari,Lorenzo Sibilano,19,Centre-Back,Bari U19,-,in,Winter,0,Serie A,1997,1997/1998
+AS Bari,Carlo Sassarini,26,Left-Back,Andria,?,out,Winter,NA,Serie A,1997,1997/1998
+AS Bari,Roberto Ripa,30,Centre-Back,Ancona,?,out,Winter,NA,Serie A,1997,1997/1998
+AC Parma,Nicola Antonio Calabro,21,Defender,Castel di Sangr,?,in,Winter,NA,Serie A,1997,1997/1998
+AC Parma,Mauro Milanese,26,Left-Back,Inter,£3.60m,out,Winter,3.6,Serie A,1997,1997/1998
+AC Parma,Luca Bucci,28,Goalkeeper,Torino,?,out,Winter,NA,Serie A,1997,1997/1998
+AC Parma,Filippo Maniero,25,Centre-Forward,Milan,?,out,Winter,NA,Serie A,1997,1997/1998
+AC Parma,Reynald Pedros,26,Left Midfield,Olympique Lyon,Loan,out,Winter,0,Serie A,1997,1997/1998
+FC Internazionale,Paulo Sousa,27,Central Midfield,Bor. Dortmund,£6.84m,in,Winter,6.84,Serie A,1997,1997/1998
+FC Internazionale,Mauro Milanese,26,Left-Back,AC Parma,£3.60m,in,Winter,3.6,Serie A,1997,1997/1998
+FC Internazionale,Francesco Colonnese,26,Centre-Back,AS Roma,£1.35m,in,Winter,1.35,Serie A,1997,1997/1998
+FC Internazionale,Martín Rivas,20,Centre-Back,Danubio FC,?,in,Winter,NA,Serie A,1997,1997/1998
+FC Internazionale,Maurizio Ganz,29,Centre-Forward,Milan,£450Th.,out,Winter,0.45,Serie A,1997,1997/1998
+FC Internazionale,Nicola Berti,30,Central Midfield,Spurs,?,out,Winter,NA,Serie A,1997,1997/1998
+FC Internazionale,Andrea Polizzano,18,Defender,Gualdo,?,out,Winter,NA,Serie A,1997,1997/1998
+AS Roma,Iván Helguera,22,Centre-Back,Espanyol,£4.05m,out,Winter,4.05,Serie A,1997,1997/1998
+AS Roma,Francesco Colonnese,26,Centre-Back,Inter,£1.35m,out,Winter,1.35,Serie A,1997,1997/1998
+AS Roma,Giorgio Lucenti,22,Right-Back,FC Empoli,£720Th.,out,Winter,0.72,Serie A,1997,1997/1998
+Brescia Calcio,Massimiliano Corrado,26,Right-Back,Genoa,?,in,Winter,NA,Serie A,1997,1997/1998
+Brescia Calcio,Giovanni Bia,29,Centre-Back,Udinese,Loan,in,Winter,0,Serie A,1997,1997/1998
+Brescia Calcio,Manfred Binz,32,Sweeper,Bor. Dortmund,Free transfer,out,Winter,0,Serie A,1997,1997/1998
+Brescia Calcio,Antonio Criniti,27,Forward,Avellino,?,out,Winter,NA,Serie A,1997,1997/1998
+Brescia Calcio,Salvatore Bacci,32,Midfielder,Treviso,?,out,Winter,NA,Serie A,1997,1997/1998
+Brescia Calcio,Alessandro Romano,28,Defensive Midfield,Genoa,?,out,Winter,NA,Serie A,1997,1997/1998

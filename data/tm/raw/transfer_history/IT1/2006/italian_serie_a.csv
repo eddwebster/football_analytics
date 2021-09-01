@@ -1,0 +1,801 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+AC Milan,Ricardo Oliveira,26,Centre-Forward,Real Betis,£13.50m,in,Summer,13.5,Serie A,2006,2006/2007
+AC Milan,Yoann Gourcuff,19,Attacking Midfield,Stade Rennais,£4.05m,in,Summer,4.05,Serie A,2006,2006/2007
+AC Milan,Daniele Bonera,25,Centre-Back,Parma,£2.97m,in,Summer,2.97,Serie A,2006,2006/2007
+AC Milan,Giuseppe Favalli,34,Left-Back,Inter,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+AC Milan,Ferdinando Coppola,28,Goalkeeper,Ascoli,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Milan,Pasquale Foggia,23,Attacking Midfield,FC Empoli,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Milan,Davide Di Gennaro,18,Defensive Midfield,Milan U19,-,in,Summer,0,Serie A,2006,2006/2007
+AC Milan,Luca Antonelli,19,Left-Back,Milan U19,-,in,Summer,0,Serie A,2006,2006/2007
+AC Milan,Andriy Shevchenko,29,Centre-Forward,Chelsea,£39.49m,out,Summer,39.49,Serie A,2006,2006/2007
+AC Milan,Johann Vogel,29,Defensive Midfield,Real Betis,£4.05m,out,Summer,4.05,Serie A,2006,2006/2007
+AC Milan,Pasquale Foggia,23,Attacking Midfield,Lazio,£2.84m,out,Summer,2.84,Serie A,2006,2006/2007
+AC Milan,Jaap Stam,33,Centre-Back,Ajax,£2.70m,out,Summer,2.7,Serie A,2006,2006/2007
+AC Milan,Nicola Pozzi,20,Centre-Forward,FC Empoli,£2.25m,out,Summer,2.25,Serie A,2006,2006/2007
+AC Milan,Christian Abbiati,29,Goalkeeper,Torino,Loan fee:£270Th.,out,Summer,0.27,Serie A,2006,2006/2007
+AC Milan,Catilina Aubameyang,22,Left Midfield,Paris FC,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Sandro Bloudek,20,Attacking Midfield,Pistoiese,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Samuele Dalla Bona,25,Central Midfield,SSC Napoli,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Rui Costa,34,Attacking Midfield,Benfica,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Márcio Amoroso,32,Centre-Forward,Corinthians,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Romano Perticone,19,Centre-Back,Hellas Verona,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Dimitrios Eleftheropoulos,29,Goalkeeper,Ascoli,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Michele Piccolo,20,Centre-Forward,AS Pizzighettone,£900,out,Summer,NA,Serie A,2006,2006/2007
+AC Milan,Ferdinando Coppola,28,Goalkeeper,Piacenza,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Davide Astori,19,Centre-Back,AS Pizzighettone,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Eros Favaretto,19,Goalkeeper,Viterbese,?,out,Summer,NA,Serie A,2006,2006/2007
+AC Milan,Ignazio Abate,19,Right-Back,Modena,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Filippo Porcari,22,Defensive Midfield,Avellino,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Patrick Kalambay,22,Right Midfield,Triestina,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Alessandro Matri,21,Centre-Forward,Rimini,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Massimo Donati,25,Defensive Midfield,Atalanta,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Lino Marzorati,19,Centre-Back,FC Empoli,Loan,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Emiliano Bonazzoli,27,Centre-Forward,Parma,£4.73m,in,Summer,4.73,Serie A,2006,2006/2007
+UC Sampdoria,Pietro Accardi,23,Left-Back,US Palermo,£1.80m,in,Summer,1.8,Serie A,2006,2006/2007
+UC Sampdoria,Massimo Bonanni,24,Left Midfield,US Palermo,£1.80m,in,Summer,1.8,Serie A,2006,2006/2007
+UC Sampdoria,Christian Terlizzi,26,Centre-Back,US Palermo,£1.35m,in,Summer,1.35,Serie A,2006,2006/2007
+UC Sampdoria,Fabio Quagliarella,23,Centre-Forward,Udinese,£1.35m,in,Summer,1.35,Serie A,2006,2006/2007
+UC Sampdoria,Andrea Parola,27,Defensive Midfield,Ascoli,£810Th.,in,Summer,0.81,Serie A,2006,2006/2007
+UC Sampdoria,Mirko Pieri,27,Left-Back,Udinese,£540Th.,in,Summer,0.54,Serie A,2006,2006/2007
+UC Sampdoria,Christian Maggio,24,Right-Back,Fiorentina,Loan fee:£135Th.,in,Summer,0.135,Serie A,2006,2006/2007
+UC Sampdoria,Christian Vieri,32,Centre-Forward,Monaco,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Daniele Franceschini,30,Left Midfield,Chievo Verona,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Gianluca Berti,39,Goalkeeper,Fiorentina,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Ivan Zivanovic,24,Centre-Back,Smederevo,?,in,Summer,NA,Serie A,2006,2006/2007
+UC Sampdoria,Saidi Oluseyi Adeshokan,21,Centre-Forward,FC Chiasso,?,in,Summer,NA,Serie A,2006,2006/2007
+UC Sampdoria,Rubén Olivera,23,Central Midfield,Juventus,Loan,in,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Bidre'ce Azor,18,Forward,Sampdoria U19,-,in,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Vitali Kutuzov,26,Centre-Forward,Parma,£1.80m,out,Summer,1.8,Serie A,2006,2006/2007
+UC Sampdoria,Moris Carrozzieri,25,Centre-Back,Atalanta,£1.77m,out,Summer,1.77,Serie A,2006,2006/2007
+UC Sampdoria,Luca Antonini,23,Left-Back,Siena,Loan fee:£180Th.,out,Summer,0.18,Serie A,2006,2006/2007
+UC Sampdoria,Mark Iuliano,32,Centre-Back,Messina Peloro,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Christian Vieri,33,Centre-Forward,Atalanta,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Francesco Antonioli,36,Goalkeeper,Bologna,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Marcello Castellini,33,Centre-Back,Bologna,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Max Tonetto,31,Left-Back,AS Roma,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Simone Pavan,32,Centre-Back,AS Livorno,?,out,Summer,NA,Serie A,2006,2006/2007
+UC Sampdoria,Corrado Colombo,26,Centre-Forward,Brescia,?,out,Summer,NA,Serie A,2006,2006/2007
+UC Sampdoria,Fabrizio Cacciatore,19,Right-Back,Reggiana,Loan,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Thomas Job,21,Right Winger,Ascoli,?,out,Summer,NA,Serie A,2006,2006/2007
+UC Sampdoria,Giovanni Taormina,18,Left Midfield,Alessandria,Loan,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Daniele Padelli,20,Goalkeeper,FC Crotone,Loan,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Francesco Virdis,21,Centre-Forward,Cesena,Loan,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Aimo Diana,28,Right Midfield,US Palermo,?,out,Summer,NA,Serie A,2006,2006/2007
+UC Sampdoria,Gionata Mingozzi,21,Central Midfield,Lecce,?,out,Summer,NA,Serie A,2006,2006/2007
+UC Sampdoria,Marco Pisano,24,Left-Back,US Palermo,?,out,Summer,NA,Serie A,2006,2006/2007
+UC Sampdoria,Francesco Flachi,32,Centre-Forward,Without Club,-,out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Samuele Dalla Bona,25,Central Midfield,AC Milan,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Marco Zamboni,28,Centre-Back,Reggina,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Mattia Marchesetti,22,Left Winger,Chievo Verona,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Emiliano Bonazzoli,27,Centre-Forward,Parma,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+UC Sampdoria,Andrea Gasbarroni,24,Second Striker,US Palermo,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Adrian Mutu,27,Centre-Forward,Juventus,£7.20m,in,Summer,7.2,Serie A,2006,2006/2007
+ACF Fiorentina,Sébastien Frey,26,Goalkeeper,Parma,£5.18m,in,Summer,5.18,Serie A,2006,2006/2007
+ACF Fiorentina,Mario Santana,24,Right Winger,US Palermo,£4.95m,in,Summer,4.95,Serie A,2006,2006/2007
+ACF Fiorentina,Massimo Gobbi,26,Left-Back,Treviso,£3.42m,in,Summer,3.42,Serie A,2006,2006/2007
+ACF Fiorentina,Reginaldo,22,Centre-Forward,Treviso,£1.35m,in,Summer,1.35,Serie A,2006,2006/2007
+ACF Fiorentina,Vlada Avramov,27,Goalkeeper,Vicenza,£1.08m,in,Summer,1.08,Serie A,2006,2006/2007
+ACF Fiorentina,Fabio Liverani,30,Defensive Midfield,Lazio,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Manuele Blasi,25,Central Midfield,Juventus,Loan,in,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Alessandro Potenza,22,Centre-Back,Inter,?,in,Summer,NA,Serie A,2006,2006/2007
+ACF Fiorentina,Francesco Parravicini,24,Defensive Midfield,Treviso,?,in,Summer,NA,Serie A,2006,2006/2007
+ACF Fiorentina,Davide Brivio,18,Left-Back,Fiorentina U19,-,in,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Luis Jiménez,22,Attacking Midfield,Ternana,£2.70m,out,Summer,2.7,Serie A,2006,2006/2007
+ACF Fiorentina,Marco Di Loreto,31,Centre-Back,Torino,£450Th.,out,Summer,0.45,Serie A,2006,2006/2007
+ACF Fiorentina,Gianni Guigou,31,Defensive Midfield,Treviso,£450Th.,out,Summer,0.45,Serie A,2006,2006/2007
+ACF Fiorentina,Christian Maggio,24,Right-Back,Sampdoria,Loan fee:£135Th.,out,Summer,0.135,Serie A,2006,2006/2007
+ACF Fiorentina,Gianluca Berti,39,Goalkeeper,Sampdoria,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Marco Roccati,31,Goalkeeper,Ivrea,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Francesco Parravicini,24,Defensive Midfield,US Palermo,?,out,Summer,NA,Serie A,2006,2006/2007
+ACF Fiorentina,Federico Bini,17,Goalkeeper,AC Pisa,?,out,Summer,NA,Serie A,2006,2006/2007
+ACF Fiorentina,Christian Riganó,32,Centre-Forward,Messina Peloro,?,out,Summer,NA,Serie A,2006,2006/2007
+ACF Fiorentina,Giuseppe Pancaro,34,Right-Back,Torino,?,out,Summer,NA,Serie A,2006,2006/2007
+ACF Fiorentina,Valeri Bojinov,20,Centre-Forward,Juventus,Loan,out,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Vlada Avramov,27,Goalkeeper,Treviso,Loan,out,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Hidetoshi Nakata,29,Attacking Midfield,Retired,-,out,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Cristian Brocchi,30,Central Midfield,AC Milan,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Sébastien Frey,26,Goalkeeper,Parma,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+ACF Fiorentina,Stefano Fiore,31,Attacking Midfield,Valencia,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Torino FC,Simone Barone,28,Central Midfield,US Palermo,£3.69m,in,Summer,3.69,Serie A,2006,2006/2007
+Torino FC,Ivan Franceschini,29,Centre-Back,Reggina,£720Th.,in,Summer,0.72,Serie A,2006,2006/2007
+Torino FC,Marco Di Loreto,31,Centre-Back,Fiorentina,£450Th.,in,Summer,0.45,Serie A,2006,2006/2007
+Torino FC,Christian Abbiati,29,Goalkeeper,AC Milan,Loan fee:£270Th.,in,Summer,0.27,Serie A,2006,2006/2007
+Torino FC,Gabriele Cioffi,30,Centre-Back,Mantova,?,in,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Giuseppe Pancaro,34,Right-Back,Fiorentina,?,in,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Stefano Fiore,31,Attacking Midfield,Valencia,Loan,in,Summer,0,Serie A,2006,2006/2007
+Torino FC,Axel Konan,23,Left Winger,Lecce,Loan,in,Summer,0,Serie A,2006,2006/2007
+Torino FC,Davide Bottone,20,Central Midfield,Torino U19,-,in,Summer,0,Serie A,2006,2006/2007
+Torino FC,André Pinga,25,Attacking Midfield,Internacional,£810Th.,out,Summer,0.81,Serie A,2006,2006/2007
+Torino FC,Zisis Vryzas,32,Centre-Forward,Skoda Xanthi,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Torino FC,Claudio Ferrarese,27,Right Winger,Hellas Verona,?,out,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Angelo Pagotto,32,Goalkeeper,Grosseto,?,out,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Tommaso Vailatti,20,Right Midfield,Vicenza,Loan,out,Summer,0,Serie A,2006,2006/2007
+Torino FC,Raffaele Longo,28,Central Midfield,Genoa,?,out,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Fabio Piroli,21,Forward,Taranto,?,out,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Vito Falconieri,20,Centre-Forward,Brindisi,Loan,out,Summer,0,Serie A,2006,2006/2007
+Torino FC,Martin Lejsal,23,Goalkeeper,1. FC Brno,?,out,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Enrico Fantini,30,Centre-Forward,Bologna,?,out,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Luca Ungari,31,Centre-Back,Modena,?,out,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Davide Nicola,33,Right-Back,Spezia,?,out,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Mark Edusei,29,Defensive Midfield,Catania,?,out,Summer,NA,Serie A,2006,2006/2007
+Torino FC,Davide Bottone,20,Central Midfield,Biellese,Loan,out,Summer,0,Serie A,2006,2006/2007
+Torino FC,Andrea Gentile,26,Central Midfield,Messina Peloro,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Torino FC,Elvis Abbruscato,25,Centre-Forward,Arezzo,"End of loanJun 1, 2006",out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Alexis Sánchez,17,Centre-Forward,Cobreloa,£2.70m,in,Summer,2.7,Serie A,2006,2006/2007
+Udinese Calcio,Aleksandar Lukovic,23,Centre-Back,Red Star,£2.43m,in,Summer,2.43,Serie A,2006,2006/2007
+Udinese Calcio,Andrea Coda,21,Centre-Back,FC Empoli,£2.08m,in,Summer,2.08,Serie A,2006,2006/2007
+Udinese Calcio,Gaetano D'Agostino,24,Central Midfield,AS Roma,£1.08m,in,Summer,1.08,Serie A,2006,2006/2007
+Udinese Calcio,Michele Rinaldi,19,Centre-Back,Atalanta U19,£720Th.,in,Summer,0.72,Serie A,2006,2006/2007
+Udinese Calcio,Andrea Dossena,24,Left Midfield,Treviso,£450Th.,in,Summer,0.45,Serie A,2006,2006/2007
+Udinese Calcio,Schumacher,19,Centre-Forward,Atlético-PR,£225Th.,in,Summer,0.225,Serie A,2006,2006/2007
+Udinese Calcio,José Montiel,18,Attacking Midfield,Olimpia,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Igor Djuric,17,Centre-Back,AC Bellinzona,?,in,Summer,NA,Serie A,2006,2006/2007
+Udinese Calcio,Juan Surraco,18,Second Striker,Central,?,in,Summer,NA,Serie A,2006,2006/2007
+Udinese Calcio,Christian Tiboni,18,Centre-Forward,Atalanta,?,in,Summer,NA,Serie A,2006,2006/2007
+Udinese Calcio,Guilherme Siqueira,20,Left-Back,Inter U19,?,in,Summer,NA,Serie A,2006,2006/2007
+Udinese Calcio,Emanuele Politti,18,Centre-Back,Udinese U19,-,in,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Federico Gerardi,18,Centre-Forward,Udinese U19,-,in,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Andrea Peron,19,Centre-Forward,Udinese U19,-,in,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Stefano Mauri,26,Attacking Midfield,Lazio,£3.15m,out,Summer,3.15,Serie A,2006,2006/2007
+Udinese Calcio,Cribari,26,Centre-Back,Lazio,£2.70m,out,Summer,2.7,Serie A,2006,2006/2007
+Udinese Calcio,Valerio Bertotto,33,Right-Back,Siena,£2.25m,out,Summer,2.25,Serie A,2006,2006/2007
+Udinese Calcio,Fabio Quagliarella,23,Centre-Forward,Sampdoria,£1.35m,out,Summer,1.35,Serie A,2006,2006/2007
+Udinese Calcio,Mirko Pieri,27,Left-Back,Sampdoria,£540Th.,out,Summer,0.54,Serie A,2006,2006/2007
+Udinese Calcio,Alexis Sánchez,17,Centre-Forward,Colo Colo,Loan fee:£135Th.,out,Summer,0.135,Serie A,2006,2006/2007
+Udinese Calcio,Vincent Candela,32,Left-Back,Siena,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Fausto Rossini,28,Centre-Forward,Catania,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Al-Saadi Al Gaddafi,33,Attacking Midfield,Al-Jamahiriyah,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,José Luís Vidigal,33,Defensive Midfield,AS Livorno,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Ferdinando Sforzini,21,Centre-Forward,Modena,Loan,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Fernando Tissone,20,Central Midfield,Atalanta,?,out,Summer,NA,Serie A,2006,2006/2007
+Udinese Calcio,Samir Handanovic,22,Goalkeeper,Rimini,Loan,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Flavio Lazzari,19,Left Winger,Modena,Loan,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Aleksandar Lukovic,23,Centre-Back,Ascoli,Loan,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Olivier Renard,27,Goalkeeper,Standard Liège,?,out,Summer,NA,Serie A,2006,2006/2007
+Udinese Calcio,Ivan Buonocunto,20,Attacking Midfield,Prato,Loan,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Zlatan Muslimovic,25,Centre-Forward,Parma,Loan,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Piermario Morosini,19,Central Midfield,Bologna,Loan,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Simone Pepe,22,Right Winger,Cagliari Calcio,Loan,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Salvatore Masiello,24,Left-Back,Messina Peloro,Loan,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Andrea Peron,19,Centre-Forward,Rivignano,Loan,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Juarez,32,Right-Back,Retired,-,out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Rodrigo Defendi,20,Centre-Back,Spurs,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Udinese Calcio,Roberto Baronio,28,Defensive Midfield,Lazio,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Stephen Makinwa,22,Centre-Forward,US Palermo,£5.67m,in,Summer,5.67,Serie A,2006,2006/2007
+SS Lazio,Cristian Ledesma,23,Defensive Midfield,Lecce,£4.77m,in,Summer,4.77,Serie A,2006,2006/2007
+SS Lazio,Stefano Mauri,26,Attacking Midfield,Udinese,£3.15m,in,Summer,3.15,Serie A,2006,2006/2007
+SS Lazio,Pasquale Foggia,23,Attacking Midfield,AC Milan,£2.84m,in,Summer,2.84,Serie A,2006,2006/2007
+SS Lazio,Cribari,26,Centre-Back,Udinese,£2.70m,in,Summer,2.7,Serie A,2006,2006/2007
+SS Lazio,Libis Arenas,19,Goalkeeper,Envigado,£720Th.,in,Summer,0.72,Serie A,2006,2006/2007
+SS Lazio,Modibo Diakité,19,Centre-Back,Pescara,£270Th.,in,Summer,0.27,Serie A,2006,2006/2007
+SS Lazio,Massimo Mutarelli,28,Central Midfield,US Palermo,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Riccardo Bonetto,27,Left-Back,FC Empoli,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Lucas Correa,22,Defensive Midfield,Virtus Lanciano,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Alberto Quadri,23,Defensive Midfield,Inter,?,in,Summer,NA,Serie A,2006,2006/2007
+SS Lazio,Matías Lequi,25,Centre-Back,Celta de Vigo,£675Th.,out,Summer,0.675,Serie A,2006,2006/2007
+SS Lazio,Fabio Liverani,30,Defensive Midfield,Fiorentina,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Ousmane Dabo,29,Defensive Midfield,Man City,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Paolo Di Canio,37,Centre-Forward,Cisco Roma,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,César,31,Left Midfield,Inter,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Alessio De Angelis,21,Goalkeeper,Morolo Calcio,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Simone Sannibale,20,Centre-Back,Juve Stabia,Loan,out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Braian Robert,22,Left Midfield,La Plata FC,?,out,Summer,NA,Serie A,2006,2006/2007
+SS Lazio,Fabio Zaccardi,19,Defender,Paganese,Loan,out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Christian Keller,25,Defensive Midfield,Stabæk Fotball,?,out,Summer,NA,Serie A,2006,2006/2007
+SS Lazio,Lucas Correa,22,Defensive Midfield,Lucchese,Loan,out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Francesco Torroni,20,Midfielder,Without Club,-,out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Samir Handanovic,21,Goalkeeper,Udinese,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Andrea Giallombardo,25,Left-Back,AS Livorno,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Cribari,26,Centre-Back,Udinese,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Stefano Mauri,26,Attacking Midfield,Udinese,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Massimo Bonanni,24,Left Midfield,US Palermo,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+SS Lazio,Felice Piccolo,22,Centre-Back,Juventus,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Paolo Bianco,28,Centre-Back,Catania,Loan fee:£630Th.,in,Summer,0.63,Serie A,2006,2006/2007
+Cagliari Calcio,José Semedo,21,Defensive Midfield,Sporting CP,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Leonardo Colucci,33,Central Midfield,Bologna,?,in,Summer,NA,Serie A,2006,2006/2007
+Cagliari Calcio,Davide Biondini,23,Central Midfield,Reggina,Loan,in,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Antonino D'Agostino,27,Right Midfield,Atalanta,Loan,in,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Gabriel Peñalba,21,Central Midfield,Quilmes,Loan,in,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Simone Pepe,22,Right Winger,Udinese,Loan,in,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Cristiano Del Grosso,23,Left-Back,Ascoli,?,in,Summer,NA,Serie A,2006,2006/2007
+Cagliari Calcio,Marco Fortin,31,Goalkeeper,Siena,?,in,Summer,NA,Serie A,2006,2006/2007
+Cagliari Calcio,Andrea Peana,20,Centre-Back,Cagliari U19,-,in,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Simone Aresti,21,Goalkeeper,Cagliari U19,-,in,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Massimo Gobbi,26,Left-Back,Treviso,£1.80m,out,Summer,1.8,Serie A,2006,2006/2007
+Cagliari Calcio,Andrea Campagnolo,29,Goalkeeper,Reggina,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Nelson Abeijón,33,Defensive Midfield,Atalanta,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Francesco Bega,31,Centre-Back,Genoa,?,out,Summer,NA,Serie A,2006,2006/2007
+Cagliari Calcio,Fabio Vignati,22,Centre-Back,Cesena,?,out,Summer,NA,Serie A,2006,2006/2007
+Cagliari Calcio,Claudio Pani,20,Defensive Midfield,Pistoiese,Loan,out,Summer,0,Serie A,2006,2006/2007
+Cagliari Calcio,Luca Tomasig,23,Goalkeeper,Catanzaro,?,out,Summer,NA,Serie A,2006,2006/2007
+Cagliari Calcio,Nicola Lai,20,Midfielder,Rieti,?,out,Summer,NA,Serie A,2006,2006/2007
+Cagliari Calcio,Andrea Cossu,26,Attacking Midfield,Hellas Verona,?,out,Summer,NA,Serie A,2006,2006/2007
+Cagliari Calcio,Fabián Carini,26,Goalkeeper,Inter,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Zlatan Ibrahimovic,24,Centre-Forward,Juventus,£22.32m,in,Summer,22.32,Serie A,2006,2006/2007
+FC Internazionale,Patrick Vieira,30,Defensive Midfield,Juventus,£8.55m,in,Summer,8.55,Serie A,2006,2006/2007
+FC Internazionale,Maicon,24,Right-Back,Monaco,£6.12m,in,Summer,6.12,Serie A,2006,2006/2007
+FC Internazionale,Fabio Grosso,28,Left-Back,US Palermo,£4.95m,in,Summer,4.95,Serie A,2006,2006/2007
+FC Internazionale,Rincón,19,Centre-Back,FC São Paulo B,£1.62m,in,Summer,1.62,Serie A,2006,2006/2007
+FC Internazionale,Hernán Crespo,31,Centre-Forward,Chelsea,Loan,in,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Olivier Dacourt,31,Defensive Midfield,AS Roma,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,César,31,Left Midfield,Lazio,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Mariano González,25,Right Midfield,US Palermo,Loan,in,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Abdoulaye Diarra,20,Left Midfield,NK Maribor,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Internazionale,Abdoulaye Diarra,19,Left Midfield,Inter U19,-,in,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Jonathan Biabiany,18,Right Winger,Inter U19,-,in,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Leonardo Bonucci,19,Centre-Back,Inter U19,-,in,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Tijani Belaid,18,Attacking Midfield,Inter U19,-,in,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Ibrahim Maaroufi,17,Defensive Midfield,Inter U19,-,in,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Obafemi Martins,21,Centre-Forward,Newcastle,£14.40m,out,Summer,14.4,Serie A,2006,2006/2007
+FC Internazionale,David Pizarro,26,Central Midfield,AS Roma,£11.03m,out,Summer,11.03,Serie A,2006,2006/2007
+FC Internazionale,Paolo Dellafiore,21,Centre-Back,US Palermo,£1.35m,out,Summer,1.35,Serie A,2006,2006/2007
+FC Internazionale,Giovanni Pasquale,24,Left-Back,AS Livorno,£720Th.,out,Summer,0.72,Serie A,2006,2006/2007
+FC Internazionale,Ianis Zicu,22,Attacking Midfield,Rapid Bucharest,Loan fee:£158Th.,out,Summer,0.158,Serie A,2006,2006/2007
+FC Internazionale,Daniel Maa Boumsong,19,Defensive Midfield,Spezia,Loan fee:£90Th.,out,Summer,0.09,Serie A,2006,2006/2007
+FC Internazionale,Aco Stojkov,23,Left Winger,Partizan,£77Th.,out,Summer,0.077,Serie A,2006,2006/2007
+FC Internazionale,César,31,Left Midfield,Corinthians,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Giuseppe Favalli,34,Left-Back,AC Milan,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Kily González,31,Left Midfield,CA Rosario,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Pierre Womé,27,Left-Back,Werder Bremen,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Rincón,19,Centre-Back,FC Empoli,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Cristiano Zanetti,29,Defensive Midfield,Juventus,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Zé Maria,32,Right-Back,Levante,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Jacopo Ravasi,19,Centre-Forward,Pergolettese,?,out,Summer,NA,Serie A,2006,2006/2007
+FC Internazionale,Edoardo Soloni,18,Defender,AC Montichiari,?,out,Summer,NA,Serie A,2006,2006/2007
+FC Internazionale,Giacomo Bindi,19,Goalkeeper,Varese,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Luca Ceccarelli,23,Centre-Back,Lucchese,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Alberto Quadri,23,Defensive Midfield,Lazio,?,out,Summer,NA,Serie A,2006,2006/2007
+FC Internazionale,Mattia Altobelli,22,Attacking Midfield,FC Chiasso,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Alessandro Potenza,22,Centre-Back,Fiorentina,?,out,Summer,NA,Serie A,2006,2006/2007
+FC Internazionale,Ilario Aloe,19,Right Winger,Ravenna,?,out,Summer,NA,Serie A,2006,2006/2007
+FC Internazionale,Matteo Momentè,19,Centre-Forward,Sambenedettese,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Matteo Lombardo,21,Left Midfield,Pistoiese,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Sinisa Mihajlovic,37,Centre-Back,Retired,-,out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,Juan Sebastián Verón,31,Central Midfield,Chelsea,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Internazionale,César,31,Left Midfield,Lazio,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AS Roma,David Pizarro,26,Central Midfield,Inter,£11.03m,in,Summer,11.03,Serie A,2006,2006/2007
+AS Roma,Mirko Vucinic,22,Second Striker,Lecce,Loan fee:£2.93m,in,Summer,2.93,Serie A,2006,2006/2007
+AS Roma,Marco Cassetti,29,Right-Back,Lecce,£2.12m,in,Summer,2.12,Serie A,2006,2006/2007
+AS Roma,Valerio Virga,20,Right-Back,US Palermo,£450Th.,in,Summer,0.45,Serie A,2006,2006/2007
+AS Roma,Édgar Álvarez,26,Right Midfield,Peñarol,£360Th.,in,Summer,0.36,Serie A,2006,2006/2007
+AS Roma,Júlio Sérgio,27,Goalkeeper,Juventude,£360Th.,in,Summer,0.36,Serie A,2006,2006/2007
+AS Roma,Rodrigo Defendi,20,Centre-Back,Spurs,Loan fee:£338Th.,in,Summer,0.338,Serie A,2006,2006/2007
+AS Roma,Ricardo Faty,19,Defensive Midfield,R. Strasbourg,£324Th.,in,Summer,0.324,Serie A,2006,2006/2007
+AS Roma,Gilberto Martínez,26,Centre-Back,Brescia,Loan fee:£225Th.,in,Summer,0.225,Serie A,2006,2006/2007
+AS Roma,Max Tonetto,31,Left-Back,Sampdoria,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+AS Roma,Daniele Magliocchetti,20,Centre-Back,Roma U19,-,in,Summer,0,Serie A,2006,2006/2007
+AS Roma,Mido,23,Centre-Forward,Spurs,£6.08m,out,Summer,6.08,Serie A,2006,2006/2007
+AS Roma,Cesare Bovo,23,Centre-Back,US Palermo,£3.20m,out,Summer,3.2,Serie A,2006,2006/2007
+AS Roma,Leandro Cufré,28,Left-Back,Monaco,£1.89m,out,Summer,1.89,Serie A,2006,2006/2007
+AS Roma,Ivan Pelizzoli,25,Goalkeeper,Reggina,£1.80m,out,Summer,1.8,Serie A,2006,2006/2007
+AS Roma,Gaetano D'Agostino,24,Central Midfield,Udinese,£1.08m,out,Summer,1.08,Serie A,2006,2006/2007
+AS Roma,Samuel Kuffour,29,Centre-Back,AS Livorno,Loan fee:£495Th.,out,Summer,0.495,Serie A,2006,2006/2007
+AS Roma,Daniele Corvia,21,Centre-Forward,Siena,£360Th.,out,Summer,0.36,Serie A,2006,2006/2007
+AS Roma,Édgar Álvarez,26,Right Midfield,Messina Peloro,Loan fee:£270Th.,out,Summer,0.27,Serie A,2006,2006/2007
+AS Roma,Gianluca Galasso,22,Right-Back,Frosinone,Loan fee:£225Th.,out,Summer,0.225,Serie A,2006,2006/2007
+AS Roma,Daniele Galloppa,21,Central Midfield,Ascoli,Loan fee:£135Th.,out,Summer,0.135,Serie A,2006,2006/2007
+AS Roma,Olivier Dacourt,31,Defensive Midfield,Inter,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AS Roma,Damiano Tommasi,32,Defensive Midfield,Levante,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AS Roma,Adewale Dauda Wahab,21,Central Midfield,Catanzaro,Loan,out,Summer,0,Serie A,2006,2006/2007
+AS Roma,Leandro Greco,19,Central Midfield,Hellas Verona,Loan,out,Summer,0,Serie A,2006,2006/2007
+AS Roma,Alessio Cerci,19,Right Winger,Brescia,Loan,out,Summer,0,Serie A,2006,2006/2007
+AS Roma,Daniele Magliocchetti,20,Centre-Back,Hellas Verona,Loan,out,Summer,0,Serie A,2006,2006/2007
+AS Roma,Shabani Nonda,29,Centre-Forward,Blackburn,Loan,out,Summer,0,Serie A,2006,2006/2007
+AS Roma,Édgar Álvarez,26,Right Midfield,Peñarol,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AS Roma,Houssine Kharja,23,Central Midfield,Ternana,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AS Roma,Dimitrios Eleftheropoulos,29,Goalkeeper,AC Milan,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Moris Carrozzieri,25,Centre-Back,Sampdoria,£1.77m,in,Summer,1.77,Serie A,2006,2006/2007
+Atalanta BC,Leonardo Talamonti,24,Centre-Back,River Plate,Loan fee:£675Th.,in,Summer,0.675,Serie A,2006,2006/2007
+Atalanta BC,Nelson Abeijón,33,Defensive Midfield,Cagliari Calcio,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Christian Vieri,33,Centre-Forward,Sampdoria,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Massimo Donati,25,Defensive Midfield,AC Milan,Loan,in,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Ferreira Pinto,26,Right Winger,Cesena,?,in,Summer,NA,Serie A,2006,2006/2007
+Atalanta BC,Fernando Tissone,20,Central Midfield,Udinese,?,in,Summer,NA,Serie A,2006,2006/2007
+Atalanta BC,Kewullay Conteh,28,Centre-Back,US Palermo,Loan,in,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Cristiano Doni,33,Attacking Midfield,RCD Mallorca,?,in,Summer,NA,Serie A,2006,2006/2007
+Atalanta BC,Andrea Consigli,19,Goalkeeper,Atalanta U19,-,in,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Alessio Manzoni,19,Central Midfield,Atalanta U19,-,in,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Karamoko Cissé,17,Centre-Forward,Atalanta U19,-,in,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Igor Budan,26,Centre-Forward,US Palermo,£900Th.,out,Summer,0.9,Serie A,2006,2006/2007
+Atalanta BC,Andrea Lombardo,19,Forward,Rieti,Loan fee:£158Th.,out,Summer,0.158,Serie A,2006,2006/2007
+Atalanta BC,Duccio Innocenti,30,Centre-Back,UC AlbinoLeffe,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Andrea Lazzari,21,Central Midfield,Cesena,Loan,out,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Andrea Stucchi,20,Midfielder,Varese,?,out,Summer,NA,Serie A,2006,2006/2007
+Atalanta BC,Alberto Filippini,19,Attacking Midfield,Salernitana,Loan,out,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Antonino D'Agostino,27,Right Midfield,Cagliari Calcio,Loan,out,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Ernesto Terra,28,Centre-Back,Arezzo,?,out,Summer,NA,Serie A,2006,2006/2007
+Atalanta BC,Christian Tiboni,18,Centre-Forward,Udinese,?,out,Summer,NA,Serie A,2006,2006/2007
+Atalanta BC,Andrea Consigli,19,Goalkeeper,Sambenedettese,Loan,out,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Daniele Capelli,20,Centre-Back,Arezzo,Loan,out,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Michele Marcolini,30,Central Midfield,Chievo Verona,?,out,Summer,NA,Serie A,2006,2006/2007
+Atalanta BC,Daniel Osvaldo,20,Centre-Forward,Lecce,Loan,out,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Luca Saudati,27,Centre-Forward,FC Empoli,?,out,Summer,NA,Serie A,2006,2006/2007
+Atalanta BC,Thomas Manfredini,26,Centre-Back,Bologna,Loan,out,Summer,0,Serie A,2006,2006/2007
+Atalanta BC,Andrea Lombardo,19,Forward,Perugia,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+US Palermo,Amauri,26,Centre-Forward,Chievo Verona,£7.88m,in,Summer,7.88,Serie A,2006,2006/2007
+US Palermo,Fábio Simplício,26,Central Midfield,Parma,£4.95m,in,Summer,4.95,Serie A,2006,2006/2007
+US Palermo,Cesare Bovo,23,Centre-Back,AS Roma,£3.20m,in,Summer,3.2,Serie A,2006,2006/2007
+US Palermo,Roberto Guana,25,Central Midfield,Brescia,£3.15m,in,Summer,3.15,Serie A,2006,2006/2007
+US Palermo,Mattia Cassani,22,Right-Back,Hellas Verona,£2.25m,in,Summer,2.25,Serie A,2006,2006/2007
+US Palermo,Paolo Dellafiore,21,Centre-Back,Inter,£1.35m,in,Summer,1.35,Serie A,2006,2006/2007
+US Palermo,Ciro Capuano,24,Centre-Back,Bologna,£900Th.,in,Summer,0.9,Serie A,2006,2006/2007
+US Palermo,Igor Budan,26,Centre-Forward,Atalanta,£900Th.,in,Summer,0.9,Serie A,2006,2006/2007
+US Palermo,Alberto Fontana,39,Goalkeeper,Chievo Verona,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+US Palermo,Marco Pisano,24,Left-Back,Sampdoria,?,in,Summer,NA,Serie A,2006,2006/2007
+US Palermo,Aimo Diana,28,Right Midfield,Sampdoria,?,in,Summer,NA,Serie A,2006,2006/2007
+US Palermo,Mark Bresciano,26,Central Midfield,Parma,?,in,Summer,NA,Serie A,2006,2006/2007
+US Palermo,Gianni Munari,23,Central Midfield,Hellas Verona,?,in,Summer,NA,Serie A,2006,2006/2007
+US Palermo,Francesco Parravicini,24,Defensive Midfield,Fiorentina,?,in,Summer,NA,Serie A,2006,2006/2007
+US Palermo,Nicola Ficano,19,Left-Back,US Palermo Yout,-,in,Summer,0,Serie A,2006,2006/2007
+US Palermo,Salvatore Sirigu,19,Goalkeeper,Palermo U19,-,in,Summer,0,Serie A,2006,2006/2007
+US Palermo,Stephen Makinwa,22,Centre-Forward,Lazio,£5.67m,out,Summer,5.67,Serie A,2006,2006/2007
+US Palermo,Mario Santana,24,Right Winger,Fiorentina,£4.95m,out,Summer,4.95,Serie A,2006,2006/2007
+US Palermo,Fabio Grosso,28,Left-Back,Inter,£4.95m,out,Summer,4.95,Serie A,2006,2006/2007
+US Palermo,Simone Barone,28,Central Midfield,Torino,£3.69m,out,Summer,3.69,Serie A,2006,2006/2007
+US Palermo,Pietro Accardi,23,Left-Back,Sampdoria,£1.80m,out,Summer,1.8,Serie A,2006,2006/2007
+US Palermo,Massimo Bonanni,24,Left Midfield,Sampdoria,£1.80m,out,Summer,1.8,Serie A,2006,2006/2007
+US Palermo,Christian Terlizzi,26,Centre-Back,Sampdoria,£1.35m,out,Summer,1.35,Serie A,2006,2006/2007
+US Palermo,Valerio Virga,20,Right-Back,AS Roma,£450Th.,out,Summer,0.45,Serie A,2006,2006/2007
+US Palermo,Davide Matteini,24,Left Winger,FC Empoli,Loan,out,Summer,0,Serie A,2006,2006/2007
+US Palermo,Massimo Mutarelli,28,Central Midfield,Lazio,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+US Palermo,Leandro Rinaudo,23,Centre-Back,Siena,Loan,out,Summer,0,Serie A,2006,2006/2007
+US Palermo,Mariano González,25,Right Midfield,Inter,Loan,out,Summer,0,Serie A,2006,2006/2007
+US Palermo,Paul Codrea,25,Central Midfield,Siena,?,out,Summer,NA,Serie A,2006,2006/2007
+US Palermo,Kewullay Conteh,28,Centre-Back,Atalanta,Loan,out,Summer,0,Serie A,2006,2006/2007
+US Palermo,Igor Budan,26,Centre-Forward,Parma,Loan,out,Summer,0,Serie A,2006,2006/2007
+US Palermo,Andrea Gasbarroni,24,Second Striker,Parma,?,out,Summer,NA,Serie A,2006,2006/2007
+US Palermo,Matteo Guardalben,32,Goalkeeper,Vicenza,?,out,Summer,NA,Serie A,2006,2006/2007
+US Palermo,Maurizio Ciaramitaro,24,Central Midfield,Parma,Loan,out,Summer,0,Serie A,2006,2006/2007
+US Palermo,Denis Godeas,31,Centre-Forward,Chievo Verona,?,out,Summer,NA,Serie A,2006,2006/2007
+US Palermo,Andrea Bovo,20,Central Midfield,Bari,Loan,out,Summer,0,Serie A,2006,2006/2007
+US Palermo,Mariano Andújar,22,Goalkeeper,Huracán,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+US Palermo,Cristiano Lupatelli,28,Goalkeeper,Fiorentina,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Angelo Rea,24,Centre-Back,Cesena,£450Th.,in,Summer,0.45,Serie A,2006,2006/2007
+FC Messina Peloro,Édgar Álvarez,26,Right Midfield,AS Roma,Loan fee:£270Th.,in,Summer,0.27,Serie A,2006,2006/2007
+FC Messina Peloro,Nicolás Córdova,27,Central Midfield,AS Livorno,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Mark Iuliano,32,Centre-Back,Sampdoria,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Saul Santarelli,32,Goalkeeper,Forlì,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Daniele De Vezze,26,Central Midfield,Genoa,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Christian Riganó,32,Centre-Forward,Fiorentina,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Mitsuo Ogasawara,27,Central Midfield,Kashima Antlers,Loan,in,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Enrico Morello,29,Centre-Back,Torres,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Salvatore Masiello,24,Left-Back,Udinese,Loan,in,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Antonio Ghomsi,20,Left-Back,Perugia,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Luigi Lavecchia,24,Right Midfield,Juventus,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Gennaro Scafaro,26,Defender,Acri,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Massimo Minetti,28,Second Striker,Torres,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Andrea Gaveglia,22,Left-Back,Giugliano,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Gaetano Calà,17,Centre-Back,Messina U19,-,in,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Salvatore Aronica,28,Centre-Back,Reggina,£720Th.,out,Summer,0.72,Serie A,2006,2006/2007
+FC Messina Peloro,Rahman Rezaei,31,Centre-Back,AS Livorno,£450Th.,out,Summer,0.45,Serie A,2006,2006/2007
+FC Messina Peloro,Filippo Cristante,29,Centre-Back,Mantova,£270Th.,out,Summer,0.27,Serie A,2006,2006/2007
+FC Messina Peloro,Giuseppe Santoro,18,Goalkeeper,Villacidrese,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Andrea Pansera,26,Goalkeeper,Padova,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Francesco Morga,20,Centre-Forward,Biellese,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Andrea Gentile,26,Central Midfield,FC Crotone,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Carmine Coppola,27,Central Midfield,AS Livorno,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Davide Arigò,21,Right Winger,Martina,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Vittorio Bernardo,20,Centre-Forward,Martina,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Andrea Gaveglia,22,Left-Back,Martina,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Alessandro Cesaretti,38,Goalkeeper,Retired,-,out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Giuseppe Sculli,25,Left Winger,Juventus,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Massimo Donati,25,Defensive Midfield,AC Milan,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Renato Bondi,25,Attacking Midfield,Teramo,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Filippo Antonelli Agomeri,27,Right Winger,Chievo Verona,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Gaetano D'Agostino,24,Central Midfield,AS Roma,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Duccio Innocenti,30,Centre-Back,Atalanta,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Antonio Nocerino,21,Central Midfield,Genoa,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Roberto Nanni,24,Centre-Forward,Dynamo Kyiv,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Messina Peloro,Zlatan Muslimovic,25,Centre-Forward,Udinese,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Nicola Pozzi,20,Centre-Forward,AC Milan,£2.25m,in,Summer,2.25,Serie A,2006,2006/2007
+FC Empoli,Davide Matteini,24,Left Winger,US Palermo,Loan,in,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Rincón,19,Centre-Back,Inter,Loan,in,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Lino Marzorati,19,Centre-Back,AC Milan,Loan,in,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Francesco Marianini,27,Central Midfield,Lecce,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Empoli,Luca Saudati,27,Centre-Forward,Atalanta,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Empoli,Davide Bassi,21,Goalkeeper,Massese,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Empoli,Dezmon Giraldi,20,Centre-Forward,Cappiano Romano,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Empoli,Daniele Adani,32,Centre-Back,Ascoli,?,in,Summer,NA,Serie A,2006,2006/2007
+FC Empoli,Gianluca Musacci,19,Central Midfield,Empoli U19,-,in,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Éder,19,Second Striker,Empoli U19,-,in,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Francesco Tavano,27,Centre-Forward,Valencia,£9.00m,out,Summer,9,Serie A,2006,2006/2007
+FC Empoli,Andrea Coda,21,Centre-Back,Udinese,£2.08m,out,Summer,2.08,Serie A,2006,2006/2007
+FC Empoli,Riccardo Bonetto,27,Left-Back,Lazio,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Paolo Zanetti,23,Defensive Midfield,Ascoli,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Claudio Sciannamè,18,Centre-Back,Rovigo Calcio,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Francesco Lodi,22,Defensive Midfield,Frosinone,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Matteo Serafini,28,Centre-Forward,Brescia,?,out,Summer,NA,Serie A,2006,2006/2007
+FC Empoli,Claudio Coralli,23,Centre-Forward,Lucchese,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Tommaso Pieroni,19,Right Midfield,Cecina,?,out,Summer,NA,Serie A,2006,2006/2007
+FC Empoli,Pasquale Foggia,23,Attacking Midfield,AC Milan,?,out,Summer,NA,Serie A,2006,2006/2007
+FC Empoli,Vincenzo Pellecchia,20,Forward,Bologna,Loan,out,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Nicola Pozzi,20,Centre-Forward,AC Milan,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Christian Riganó,32,Centre-Forward,Fiorentina,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+FC Empoli,Maxwell,24,Left-Back,Inter,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Giovanni Pasquale,24,Left-Back,Inter,£720Th.,in,Summer,0.72,Serie A,2006,2006/2007
+AS Livorno,Samuel Kuffour,29,Centre-Back,AS Roma,Loan fee:£495Th.,in,Summer,0.495,Serie A,2006,2006/2007
+AS Livorno,Dario Knezevic,24,Centre-Back,HNK Rijeka,£450Th.,in,Summer,0.45,Serie A,2006,2006/2007
+AS Livorno,Rahman Rezaei,31,Centre-Back,Messina Peloro,£450Th.,in,Summer,0.45,Serie A,2006,2006/2007
+AS Livorno,José Luís Vidigal,33,Defensive Midfield,Udinese,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Edo,22,Centre-Forward,Le Mans UC 72,Loan,in,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Emanuele Manitta,29,Goalkeeper,Bologna,?,in,Summer,NA,Serie A,2006,2006/2007
+AS Livorno,Carmine Coppola,27,Central Midfield,Messina Peloro,Loan,in,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Niccolò Casini,21,Goalkeeper,AC Firenze Rondinella,?,in,Summer,NA,Serie A,2006,2006/2007
+AS Livorno,Nicola Iannotti,21,Midfielder,Novara,?,in,Summer,NA,Serie A,2006,2006/2007
+AS Livorno,Simone Pavan,32,Centre-Back,Sampdoria,?,in,Summer,NA,Serie A,2006,2006/2007
+AS Livorno,Antonio Filippini,33,Right Midfield,Treviso,?,in,Summer,NA,Serie A,2006,2006/2007
+AS Livorno,Jorge Vargas,30,Centre-Back,RB Salzburg,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Gennaro Ruotolo,39,Central Midfield,Sorrento,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Edoardo Grosso,19,Centre-Forward,Pontedera,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Nicolás Córdova,27,Central Midfield,Messina Peloro,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Paolo Ginestra,27,Goalkeeper,Ternana,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Emmanuel Osei,23,Defensive Midfield,ASV Cham,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Francesco De Iuliis,17,Defender,Unknown,?,out,Summer,NA,Serie A,2006,2006/2007
+AS Livorno,Luca Mazzoni,22,Goalkeeper,Lecco,?,out,Summer,NA,Serie A,2006,2006/2007
+AS Livorno,Raffaele Palladino,22,Left Winger,Juventus,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Paolo Acerbis,25,Goalkeeper,UC AlbinoLeffe,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Francesco Coco,29,Left-Back,Inter,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Zé Rodolpho,22,Left Midfield,Juventude,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AS Livorno,Giuseppe Colucci,25,Central Midfield,Hellas Verona,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AC Siena,Valerio Bertotto,33,Right-Back,Udinese,£2.25m,in,Summer,2.25,Serie A,2006,2006/2007
+AC Siena,Daniele Corvia,21,Centre-Forward,AS Roma,£360Th.,in,Summer,0.36,Serie A,2006,2006/2007
+AC Siena,Luca Antonini,23,Left-Back,Sampdoria,Loan fee:£180Th.,in,Summer,0.18,Serie A,2006,2006/2007
+AC Siena,Nicola Pavarini,32,Goalkeeper,Reggina,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+AC Siena,Mario Frick,31,Centre-Forward,Ternana,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+AC Siena,Vincent Candela,32,Left-Back,Udinese,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+AC Siena,Alexander Manninger,29,Goalkeeper,RB Salzburg,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+AC Siena,Paul Codrea,25,Central Midfield,US Palermo,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Andrea Masiello,20,Centre-Back,Juventus,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Gorazd Zajc,18,Centre-Forward,NK Maribor,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Thomas Albanese,18,Centre-Forward,Tolentino,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Alessandro Bettega,19,Central Midfield,Juventus U19,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Andrea Rossi,19,Left-Back,Juventus,Loan,in,Summer,0,Serie A,2006,2006/2007
+AC Siena,Leandro Rinaudo,23,Centre-Back,US Palermo,Loan,in,Summer,0,Serie A,2006,2006/2007
+AC Siena,Marcin Siedlarz,18,Central Midfield,Widzew Lodz,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Abdoulay Konko,22,Right-Back,Juventus,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Giovanni Bartolucci,22,Right-Back,Torres,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Ezio Brevi,36,Defensive Midfield,Catania,?,in,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Erjon Bogdani,29,Centre-Forward,Chievo Verona,£2.70m,out,Summer,2.7,Serie A,2006,2006/2007
+AC Siena,Francesco Colonnese,34,Centre-Back,Potenza SC,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AC Siena,Jacopo Piazzi,19,Left-Back,US Forcoli,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+AC Siena,Gianluca Falsini,30,Left-Back,Catania,?,out,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Gennaro Esposito,21,Defensive Midfield,Juve Stabia,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Siena,Pasquale Iadaresta,20,Centre-Forward,US Poggibonsi,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Siena,Leonardo Blanchard,18,Centre-Back,US Poggibonsi,Loan,out,Summer,0,Serie A,2006,2006/2007
+AC Siena,Tomás Guzmán,24,Attacking Midfield,Juventus,?,out,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Simone Bonomi,25,Left-Back,FC Crotone,?,out,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Paolo Foglio,30,Right-Back,Ascoli,?,out,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Marco Fortin,31,Goalkeeper,Cagliari Calcio,?,out,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Fernando,25,Defensive Midfield,G. Bordeaux,?,out,Summer,NA,Serie A,2006,2006/2007
+AC Siena,Massimo Maccarone,26,Centre-Forward,Middlesbrough,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AC Siena,Nicola Legrottaglie,29,Centre-Back,Juventus,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AC Siena,Igor Tudor,28,Centre-Back,Juventus,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AC Siena,Matteo Paro,23,Central Midfield,Juventus,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AC Siena,Rey Volpato,19,Centre-Forward,Juventus,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Parma FC,Vitali Kutuzov,26,Centre-Forward,Sampdoria,£1.80m,in,Summer,1.8,Serie A,2006,2006/2007
+Parma FC,Paolo Castellini,27,Left-Back,Real Betis,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Parma FC,Antonio Bocchetti,26,Left-Back,Piacenza,?,in,Summer,NA,Serie A,2006,2006/2007
+Parma FC,Maurizio Ciaramitaro,24,Central Midfield,US Palermo,Loan,in,Summer,0,Serie A,2006,2006/2007
+Parma FC,Zlatan Muslimovic,25,Centre-Forward,Udinese,Loan,in,Summer,0,Serie A,2006,2006/2007
+Parma FC,Andrea Gasbarroni,24,Second Striker,US Palermo,?,in,Summer,NA,Serie A,2006,2006/2007
+Parma FC,Igor Budan,26,Centre-Forward,US Palermo,Loan,in,Summer,0,Serie A,2006,2006/2007
+Parma FC,Massimo Paci,28,Centre-Back,Ascoli,?,in,Summer,NA,Serie A,2006,2006/2007
+Parma FC,Federico Moretti,17,Central Midfield,Parma U19,-,in,Summer,0,Serie A,2006,2006/2007
+Parma FC,Sébastien Frey,26,Goalkeeper,Fiorentina,£5.18m,out,Summer,5.18,Serie A,2006,2006/2007
+Parma FC,Fábio Simplício,26,Central Midfield,US Palermo,£4.95m,out,Summer,4.95,Serie A,2006,2006/2007
+Parma FC,Emiliano Bonazzoli,27,Centre-Forward,Sampdoria,£4.73m,out,Summer,4.73,Serie A,2006,2006/2007
+Parma FC,Daniele Bonera,25,Centre-Back,AC Milan,£2.97m,out,Summer,2.97,Serie A,2006,2006/2007
+Parma FC,Marco Delvecchio,33,Centre-Forward,Ascoli,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Parma FC,Ibrahima Camara,21,Left-Back,Le Mans UC 72,Loan,out,Summer,0,Serie A,2006,2006/2007
+Parma FC,Marco Marchionni,25,Right Midfield,Juventus,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Parma FC,Paolo Cannavaro,25,Centre-Back,SSC Napoli,?,out,Summer,NA,Serie A,2006,2006/2007
+Parma FC,Mark Bresciano,26,Central Midfield,US Palermo,?,out,Summer,NA,Serie A,2006,2006/2007
+Parma FC,Filippo Mattiuzzo,19,Right-Back,Cremonese,Loan,out,Summer,0,Serie A,2006,2006/2007
+Parma FC,Alberto Galuppo,20,Centre-Back,Grosseto,Loan,out,Summer,0,Serie A,2006,2006/2007
+Parma FC,Francesco Ruopolo,23,Centre-Forward,Triestina,?,out,Summer,NA,Serie A,2006,2006/2007
+Parma FC,Bernardo Corradi,30,Centre-Forward,Valencia,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Parma FC,Matteo Guardalben,32,Goalkeeper,US Palermo,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Parma FC,Giovanni Pasquale,24,Left-Back,Inter,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Calcio Catania,Mariano Izco,23,Central Midfield,Tigre,£54Th.,in,Summer,0.054,Serie A,2006,2006/2007
+Calcio Catania,Giorgio Corona,32,Centre-Forward,Catanzaro,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Calcio Catania,Fausto Rossini,28,Centre-Forward,Udinese,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Calcio Catania,Juan Manuel Vargas,22,Left-Back,CA Colón,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Calcio Catania,Gennaro Sardo,27,Right-Back,Piacenza,?,in,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Giuseppe Colucci,25,Central Midfield,Hellas Verona,?,in,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Francesco Millesi,25,Left Winger,Avellino,?,in,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Mauro Minelli,25,Centre-Back,UC AlbinoLeffe,?,in,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Mark Edusei,29,Defensive Midfield,Torino,?,in,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Takayuki Morimoto,18,Centre-Forward,Tokyo Verdy 1969,Loan,in,Summer,0,Serie A,2006,2006/2007
+Calcio Catania,Gianvito Plasmati,23,Centre-Forward,Andria,?,in,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Vincenzo Ferrante,19,Goalkeeper,Paganese,?,in,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Lorenzo Stovini,29,Centre-Back,Lecce,?,in,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Gianluca Falsini,30,Left-Back,Siena,?,in,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Wálter García,22,Centre-Back,Rubin Kazan,?,in,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Paolo Bianco,28,Centre-Back,Cagliari Calcio,Loan fee:£630Th.,out,Summer,0.63,Serie A,2006,2006/2007
+Calcio Catania,Antonino Cardinale,30,Central Midfield,Foggia,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Calcio Catania,Ezio Brevi,36,Defensive Midfield,Siena,?,out,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Orazio Russo,32,Right Winger,Padova,?,out,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Rocco Sabato,24,Left-Back,Cesena,Loan,out,Summer,0,Serie A,2006,2006/2007
+Calcio Catania,Vito Laudicina,17,Goalkeeper,Unknown,?,out,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Matteo Gritti,19,Centre-Back,Andria,?,out,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Luciano Zavagno,28,Left-Back,Ionikos Nikeas,?,out,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Roberto De Zerbi,27,Attacking Midfield,SSC Napoli,?,out,Summer,NA,Serie A,2006,2006/2007
+Calcio Catania,Gianvito Plasmati,23,Centre-Forward,FC Crotone,Loan,out,Summer,0,Serie A,2006,2006/2007
+Calcio Catania,Giovanni Marchese,21,Left-Back,Chievo Verona,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Calcio Catania,Stefano Dall'Acqua,24,Centre-Forward,Treviso,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Ivan Pelizzoli,25,Goalkeeper,AS Roma,£1.80m,in,Summer,1.8,Serie A,2006,2006/2007
+Reggina Calcio,Salvatore Aronica,28,Centre-Back,Messina Peloro,£720Th.,in,Summer,0.72,Serie A,2006,2006/2007
+Reggina Calcio,Nicki Bille Nielsen,18,Centre-Forward,BK Frem,£225Th.,in,Summer,0.225,Serie A,2006,2006/2007
+Reggina Calcio,Daniele Amerini,31,Central Midfield,Modena,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Andrea Campagnolo,29,Goalkeeper,Cagliari Calcio,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Ricardo Esteves,26,Right Midfield,Vicenza,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Giovanni Morabito,27,Left-Back,Cesena,?,in,Summer,NA,Serie A,2006,2006/2007
+Reggina Calcio,Luca Tognozzi,28,Central Midfield,Pescara,?,in,Summer,NA,Serie A,2006,2006/2007
+Reggina Calcio,Julio de León,26,Attacking Midfield,Teramo,?,in,Summer,NA,Serie A,2006,2006/2007
+Reggina Calcio,Palmiro Di Dio,20,Centre-Back,Ternana,?,in,Summer,NA,Serie A,2006,2006/2007
+Reggina Calcio,Leonel Ríos,23,Right Midfield,Genoa,Loan,in,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Gaetano Ungaro,18,Centre-Back,Reggina Primaver,-,in,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Antonino Barillà,18,Central Midfield,Reggina Primaver,-,in,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Pietro Marino,19,Goalkeeper,Reggina Primaver,-,in,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Luca Rigoni,21,Central Midfield,Vicenza,£900Th.,out,Summer,0.9,Serie A,2006,2006/2007
+Reggina Calcio,Ivan Franceschini,29,Centre-Back,Torino,£720Th.,out,Summer,0.72,Serie A,2006,2006/2007
+Reggina Calcio,Nicola Pavarini,32,Goalkeeper,Siena,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Carlos Paredes,29,Defensive Midfield,Sporting CP,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Juriy Cannarsa,30,Right-Back,Frosinone,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Giovanni Lavrendi,20,Central Midfield,Vigor Lamezia,Loan,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Gaetano Ungaro,18,Centre-Back,Melfi,Loan,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Fabio Ceravolo,19,Centre-Forward,Vastese,Loan,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Marco Zamboni,28,Centre-Back,Spezia,?,out,Summer,NA,Serie A,2006,2006/2007
+Reggina Calcio,Davide Biondini,23,Central Midfield,Cagliari Calcio,Loan,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Gaetano De Rosa,33,Centre-Back,Genoa,?,out,Summer,NA,Serie A,2006,2006/2007
+Reggina Calcio,Davide Dionigi,32,Centre-Forward,Spezia,?,out,Summer,NA,Serie A,2006,2006/2007
+Reggina Calcio,Bruno Lança,23,Midfielder,HB Wuhan,?,out,Summer,NA,Serie A,2006,2006/2007
+Reggina Calcio,Francesco Cosenza,20,Centre-Back,Taranto,?,out,Summer,NA,Serie A,2006,2006/2007
+Reggina Calcio,Ivan Castiglia,18,Central Midfield,Vicenza,Loan,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Ilyas Zeytulaev,23,Left Winger,Genoa,Loan,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Emanuele Belardi,28,Goalkeeper,Juventus,Loan,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Ricardo Verón,25,Central Midfield,FC Crotone,Loan,out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Lampros Choutos,26,Centre-Forward,Inter,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Francesco Cozza,32,Attacking Midfield,Siena,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Reggina Calcio,Luca Vigiani,29,Right Midfield,AS Livorno,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Erjon Bogdani,29,Centre-Forward,Siena,£2.70m,in,Summer,2.7,Serie A,2006,2006/2007
+Chievo Verona,Kamil Kosowski,28,Left Midfield,Wisla Kraków,Loan fee:£450Th.,in,Summer,0.45,Serie A,2006,2006/2007
+Chievo Verona,Simone Bentivoglio,21,Central Midfield,Juventus,£198Th.,in,Summer,0.198,Serie A,2006,2006/2007
+Chievo Verona,Carlo Ferrario,19,Centre-Forward,Lecco,£900,in,Summer,NA,Serie A,2006,2006/2007
+Chievo Verona,Diego Oliveira,20,Right Winger,Padova,?,in,Summer,NA,Serie A,2006,2006/2007
+Chievo Verona,Vincenzo Sicignano,31,Goalkeeper,Lecce,?,in,Summer,NA,Serie A,2006,2006/2007
+Chievo Verona,Michele Marcolini,30,Central Midfield,Atalanta,?,in,Summer,NA,Serie A,2006,2006/2007
+Chievo Verona,Mattia Passarini,25,Goalkeeper,Vittoria Calcio,?,in,Summer,NA,Serie A,2006,2006/2007
+Chievo Verona,Lorenzo Cecchi,17,Defensive Midfield,Prato,Loan,in,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Denis Godeas,31,Centre-Forward,US Palermo,?,in,Summer,NA,Serie A,2006,2006/2007
+Chievo Verona,Dario Scardina,18,Right-Back,Chievo U19,-,in,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Amauri,26,Centre-Forward,US Palermo,£7.88m,out,Summer,7.88,Serie A,2006,2006/2007
+Chievo Verona,Alberto Fontana,39,Goalkeeper,US Palermo,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Daniele Franceschini,30,Left Midfield,Sampdoria,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Francesco Carbone,26,Right-Back,Frosinone,Loan,out,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Marcos De Paula,22,Centre-Forward,Manfredonia,Loan,out,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Diego Silva Reis,20,Second Striker,Cremonese,Loan,out,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Filippo Antonelli Agomeri,28,Right Winger,Pescara,?,out,Summer,NA,Serie A,2006,2006/2007
+Chievo Verona,Simone Bentivoglio,21,Central Midfield,Modena,Loan,out,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Davide Succi,24,Centre-Forward,Ravenna,?,out,Summer,NA,Serie A,2006,2006/2007
+Chievo Verona,Emiliano Landolina,19,Midfielder,Prato,?,out,Summer,NA,Serie A,2006,2006/2007
+Chievo Verona,Andrea Mengoni,22,Centre-Back,Grosseto,Loan,out,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Carlo Ferrario,19,Centre-Forward,Varese,Loan,out,Summer,0,Serie A,2006,2006/2007
+Chievo Verona,Giuseppe Gemiti,25,Left-Back,Modena,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Stefano Guberti,21,Right Winger,Torres,£270Th.,in,Summer,0.27,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Daniele Galloppa,21,Central Midfield,AS Roma,Loan fee:£135Th.,in,Summer,0.135,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Fabio Pecchia,32,Right Midfield,Bologna,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Paolo Zanetti,23,Defensive Midfield,FC Empoli,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Valentin Nastase,31,Centre-Back,Bologna,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Simone Pesce,23,Central Midfield,Torres,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Dimitrios Eleftheropoulos,29,Goalkeeper,AC Milan,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Gianluca Pagliuca,39,Goalkeeper,Bologna,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Olivier N’Siabamfumu,20,Centre-Back,Rennes B,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Ervin Skela,29,Attacking Midfield,1.FC K'lautern,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Marco Delvecchio,33,Centre-Forward,Parma,Free transfer,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Gaetano Vastola,28,Centre-Back,Salernitana,?,in,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Gaetano Fontana,36,Central Midfield,SSC Napoli,?,in,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Thomas Job,21,Right Winger,Sampdoria,?,in,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Michele Paolucci,20,Centre-Forward,Juventus,Loan,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Aleksandar Lukovic,23,Centre-Back,Udinese,Loan,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Giampietro Perrulli,21,Left Winger,Sambenedettese,?,in,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Michelangelo Minieri,25,Centre-Back,Triestina,?,in,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Marco Pecorari,28,Centre-Back,Lecce,?,in,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Viktor Budyanskiy,22,Central Midfield,Juventus U19,Loan,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Paolo Foglio,30,Right-Back,Siena,?,in,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Salvatore Bocchetti,19,Centre-Back,Ascoli U19,-,in,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Andrea Parola,27,Defensive Midfield,Sampdoria,£810Th.,out,Summer,0.81,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Ivano Della Morte,31,Central Midfield,Alessandria,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Alfredo Cariello,26,Left Midfield,FC Crotone,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Marco Ferrante,35,Centre-Forward,Pescara,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Domenico Cristiano,30,Defensive Midfield,Rimini,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Simone Gigli,19,Forward,Unknown,Free transfer,out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Angelo Antonazzo,24,Right-Back,Modena,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Daniele Adani,32,Centre-Back,FC Empoli,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Massimo Paci,28,Centre-Back,Parma,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Vincenzo Patrick Guglielmelli,19,Forward,Viterbese,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Michele Lestani,20,Central Midfield,Alghero,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Alessandro Moro,21,Defensive Midfield,Treviso,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Marco Pecorari,28,Centre-Back,Spezia,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Maurizio Lauro,25,Centre-Back,Cesena,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Ferdinando Coppola,28,Goalkeeper,AC Milan,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Cristiano Del Grosso,23,Left-Back,Cagliari Calcio,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Maurizio Domizzi,26,Centre-Back,SSC Napoli,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Roberto Guana,25,Central Midfield,Brescia,?,out,Summer,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Francesco Carbone,26,Right-Back,Chievo Verona,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Fabio Quagliarella,23,Centre-Forward,Udinese,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Pasquale Foggia,23,Attacking Midfield,FC Empoli,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Ivan Buonocunto,20,Attacking Midfield,Udinese,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Valerio Virga,20,Right-Back,US Palermo,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Schumacher,19,Centre-Forward,Atlético-PR,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Nicolás Córdova,27,Central Midfield,AS Livorno,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Carlo Zotti,23,Goalkeeper,AS Roma,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Gianluca Comotto,27,Right-Back,AS Roma,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Riccardo Bonetto,27,Left-Back,FC Empoli,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Paul Ramirez,19,Centre-Forward,Udinese,"End of loanJun 30, 2006",out,Summer,0,Serie A,2006,2006/2007
+AC Milan,Massimo Oddo,30,Right-Back,Lazio,£6.98m,in,Winter,6.98,Serie A,2006,2006/2007
+AC Milan,Ronaldo,30,Centre-Forward,Real Madrid,£6.75m,in,Winter,6.75,Serie A,2006,2006/2007
+AC Milan,Leandro Grimi,21,Left-Back,Racing Club,£2.25m,in,Winter,2.25,Serie A,2006,2006/2007
+AC Milan,Marco Storari,30,Goalkeeper,Messina Peloro,£765Th.,in,Winter,0.765,Serie A,2006,2006/2007
+AC Milan,Sandro Bloudek,20,Attacking Midfield,Cremonese,Loan,out,Winter,0,Serie A,2006,2006/2007
+UC Sampdoria,Al-Saadi Al Gaddafi,33,Attacking Midfield,Al-Jamahiriyah,£248Th.,in,Winter,0.248,Serie A,2006,2006/2007
+UC Sampdoria,Carlo Zotti,24,Goalkeeper,AS Roma,Loan fee:£149Th.,in,Winter,0.149,Serie A,2006,2006/2007
+UC Sampdoria,Reto Ziegler,21,Centre-Back,Spurs,Loan,in,Winter,0,Serie A,2006,2006/2007
+UC Sampdoria,Alessandro Romeo,19,Centre-Forward,Sampdoria U19,-,in,Winter,0,Serie A,2006,2006/2007
+UC Sampdoria,Vladimir Koman,17,Attacking Midfield,Sampdoria U19,-,in,Winter,0,Serie A,2006,2006/2007
+UC Sampdoria,Saidi Oluseyi Adeshokan,22,Centre-Forward,FC Chiasso,Loan,out,Winter,0,Serie A,2006,2006/2007
+UC Sampdoria,Daniele Padelli,21,Goalkeeper,Liverpool,Loan,out,Winter,0,Serie A,2006,2006/2007
+UC Sampdoria,Massimo Bonanni,24,Left Midfield,Ascoli,Loan,out,Winter,0,Serie A,2006,2006/2007
+UC Sampdoria,Salvatore Foti,18,Centre-Forward,Vicenza,Loan,out,Winter,0,Serie A,2006,2006/2007
+UC Sampdoria,Francesco Virdis,22,Centre-Forward,Modena,Loan,out,Winter,0,Serie A,2006,2006/2007
+ACF Fiorentina,Zdravko Kuzmanovic,19,Central Midfield,FC Basel,£2.70m,in,Winter,2.7,Serie A,2006,2006/2007
+ACF Fiorentina,Henry Okoroji,22,Centre-Back,Vastese,?,in,Winter,NA,Serie A,2006,2006/2007
+ACF Fiorentina,Bogdan Lobont,28,Goalkeeper,Dinamo Bucarest,£990Th.,out,Winter,0.99,Serie A,2006,2006/2007
+ACF Fiorentina,Guly,25,Attacking Midfield,Spezia,Loan fee:£68Th.,out,Winter,0.068,Serie A,2006,2006/2007
+ACF Fiorentina,Henry Okoroji,22,Centre-Back,Lok. Plovdiv,Loan,out,Winter,0,Serie A,2006,2006/2007
+Torino FC,Gianluca Comotto,27,Right-Back,AS Roma,£1.98m,in,Winter,1.98,Serie A,2006,2006/2007
+Torino FC,Francesco Coco,29,Left-Back,Inter,Loan fee:£405Th.,in,Winter,0.405,Serie A,2006,2006/2007
+Torino FC,Cesare Bovo,23,Centre-Back,US Palermo,Loan,in,Winter,0,Serie A,2006,2006/2007
+Torino FC,Angelo Ogbonna,18,Centre-Back,Torino U19,-,in,Winter,0,Serie A,2006,2006/2007
+Torino FC,Matteo Melara,27,Right-Back,Ascoli,Loan,out,Winter,0,Serie A,2006,2006/2007
+Torino FC,Giovanni Orfei,30,Centre-Back,Salernitana,?,out,Winter,NA,Serie A,2006,2006/2007
+Udinese Calcio,Tomás Sivok,23,Centre-Back,Sparta Praha,£1.80m,in,Winter,1.8,Serie A,2006,2006/2007
+Udinese Calcio,Tomas Zapotocny,26,Centre-Back,Slovan Liberec,£450Th.,in,Winter,0.45,Serie A,2006,2006/2007
+Udinese Calcio,Fabrizio Casazza,36,Goalkeeper,Pavia,£135Th.,in,Winter,0.135,Serie A,2006,2006/2007
+Udinese Calcio,Roman Eremenko,19,Attacking Midfield,Siena,Loan fee:£315Th.,out,Winter,0.315,Serie A,2006,2006/2007
+Udinese Calcio,Michele Rinaldi,19,Centre-Back,Parma U19,Loan fee:£158Th.,out,Winter,0.158,Serie A,2006,2006/2007
+Udinese Calcio,Abel Aguilar,22,Defensive Midfield,Xerez CD,Loan fee:£135Th.,out,Winter,0.135,Serie A,2006,2006/2007
+Udinese Calcio,Gabriele Paoletti,28,Goalkeeper,Messina Peloro,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+Udinese Calcio,Schumacher,20,Centre-Forward,Ciudad Murcia,Loan,out,Winter,0,Serie A,2006,2006/2007
+Udinese Calcio,Claudio Vargas,21,Defensive Midfield,Tacuary FBC,Loan,out,Winter,0,Serie A,2006,2006/2007
+Udinese Calcio,Federico Gerardi,19,Centre-Forward,Pistoiese,Loan,out,Winter,0,Serie A,2006,2006/2007
+Udinese Calcio,Paul Ramirez,20,Centre-Forward,UA Maracaibo,?,out,Winter,NA,Serie A,2006,2006/2007
+SS Lazio,Tommaso Berni,23,Goalkeeper,Ternana,£1.35m,in,Winter,1.35,Serie A,2006,2006/2007
+SS Lazio,Luis Jiménez,22,Attacking Midfield,Ternana,Loan fee:£280Th.,in,Winter,0.28,Serie A,2006,2006/2007
+SS Lazio,Massimo Oddo,30,Right-Back,AC Milan,£6.98m,out,Winter,6.98,Serie A,2006,2006/2007
+SS Lazio,Pasquale Foggia,23,Attacking Midfield,Reggina,Loan fee:£225Th.,out,Winter,0.225,Serie A,2006,2006/2007
+SS Lazio,Alberto Quadri,23,Defensive Midfield,Spezia,Loan,out,Winter,0,Serie A,2006,2006/2007
+SS Lazio,Libis Arenas,19,Goalkeeper,Envigado,Loan,out,Winter,0,Serie A,2006,2006/2007
+SS Lazio,Lucas Correa,22,Defensive Midfield,Gallipoli,Loan,out,Winter,0,Serie A,2006,2006/2007
+SS Lazio,Simone Sannibale,20,Centre-Back,Torres,Loan,out,Winter,0,Serie A,2006,2006/2007
+Cagliari Calcio,Davide Marchini,25,Right Midfield,Triestina,?,in,Winter,NA,Serie A,2006,2006/2007
+Cagliari Calcio,Tiziano Bruzzone,22,Centre-Forward,ASD Cascina Calcio,?,in,Winter,NA,Serie A,2006,2006/2007
+Cagliari Calcio,Andrea Peana,20,Centre-Back,Triestina,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+Cagliari Calcio,Andrea Cocco,20,Centre-Forward,SSC Venezia,?,out,Winter,NA,Serie A,2006,2006/2007
+FC Internazionale,Ibrahim Maaroufi,17,Defensive Midfield,Inter U19,-,in,Winter,0,Serie A,2006,2006/2007
+FC Internazionale,Francesco Coco,29,Left-Back,Torino,Loan fee:£405Th.,out,Winter,0.405,Serie A,2006,2006/2007
+FC Internazionale,Daniel Maa Boumsong,19,Defensive Midfield,Treviso,Loan fee:£158Th.,out,Winter,0.158,Serie A,2006,2006/2007
+FC Internazionale,Tijani Belaid,19,Attacking Midfield,PSV Eindhoven,Loan fee:£158Th.,out,Winter,0.158,Serie A,2006,2006/2007
+FC Internazionale,Abdoulaye Diarra,20,Left Midfield,NK Maribor,£158Th.,out,Winter,0.158,Serie A,2006,2006/2007
+FC Internazionale,César,32,Left Midfield,AS Livorno,Loan,out,Winter,0,Serie A,2006,2006/2007
+FC Internazionale,Matteo Momentè,18,Centre-Forward,SSC Venezia,£450,out,Winter,NA,Serie A,2006,2006/2007
+FC Internazionale,Nicola Beati,23,Defensive Midfield,Perugia,Loan,out,Winter,0,Serie A,2006,2006/2007
+AS Roma,Francesco Tavano,27,Centre-Forward,Valencia,Loan fee:£522Th.,in,Winter,0.522,Serie A,2006,2006/2007
+AS Roma,Christian Wilhelmsson,27,Right Winger,FC Nantes,Loan fee:£450Th.,in,Winter,0.45,Serie A,2006,2006/2007
+AS Roma,Gianluca Comotto,27,Right-Back,Torino,£1.98m,out,Winter,1.98,Serie A,2006,2006/2007
+AS Roma,Carlo Zotti,24,Goalkeeper,Sampdoria,Loan fee:£149Th.,out,Winter,0.149,Serie A,2006,2006/2007
+AS Roma,Vincenzo Montella,32,Centre-Forward,Fulham,Loan,out,Winter,0,Serie A,2006,2006/2007
+AS Roma,Daniele Galloppa,21,Central Midfield,Siena,Loan,out,Winter,0,Serie A,2006,2006/2007
+Atalanta BC,Luis Fernando Centi,30,Central Midfield,Ascoli,£653Th.,out,Winter,0.653,Serie A,2006,2006/2007
+Atalanta BC,Andrea Soncin,28,Centre-Forward,Ascoli,?,out,Winter,NA,Serie A,2006,2006/2007
+Atalanta BC,Michele Magrin,21,Central Midfield,Pro Vercelli,Loan,out,Winter,0,Serie A,2006,2006/2007
+Atalanta BC,Alessio Manzoni,19,Central Midfield,Padova,Loan,out,Winter,0,Serie A,2006,2006/2007
+Atalanta BC,Alberto Filippini,19,Attacking Midfield,Sassuolo,Loan,out,Winter,0,Serie A,2006,2006/2007
+Atalanta BC,Andrea Lazzari,22,Central Midfield,Piacenza,Loan,out,Winter,0,Serie A,2006,2006/2007
+US Palermo,Edinson Cavani,19,Centre-Forward,Danubio FC,£4.50m,in,Winter,4.5,Serie A,2006,2006/2007
+US Palermo,Radoslaw Matusiak,25,Centre-Forward,GKS Belchatow,£1.71m,in,Winter,1.71,Serie A,2006,2006/2007
+US Palermo,Guillermo Giacomazzi,29,Defensive Midfield,Lecce,?,in,Winter,NA,Serie A,2006,2006/2007
+US Palermo,Francesco Parravicini,25,Defensive Midfield,Parma,Loan,out,Winter,0,Serie A,2006,2006/2007
+US Palermo,Cesare Bovo,23,Centre-Back,Torino,Loan,out,Winter,0,Serie A,2006,2006/2007
+FC Messina Peloro,Gabriele Paoletti,28,Goalkeeper,Udinese,Free transfer,in,Winter,0,Serie A,2006,2006/2007
+FC Messina Peloro,Vincent Candela,33,Left-Back,Siena,Free transfer,in,Winter,0,Serie A,2006,2006/2007
+FC Messina Peloro,Ibrahima Bakayoko,30,Centre-Forward,AS Livorno,Free transfer,in,Winter,0,Serie A,2006,2006/2007
+FC Messina Peloro,Manolo Pestrin,28,Defensive Midfield,Cesena,?,in,Winter,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Andrea Giallombardo,26,Left-Back,AS Livorno,Loan,in,Winter,0,Serie A,2006,2006/2007
+FC Messina Peloro,Roberto D'Aversa,31,Central Midfield,Siena,?,in,Winter,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Alessandro Cesaretti,38,Goalkeeper,Without Club,-,in,Winter,0,Serie A,2006,2006/2007
+FC Messina Peloro,Marco Storari,30,Goalkeeper,AC Milan,£765Th.,out,Winter,0.765,Serie A,2006,2006/2007
+FC Messina Peloro,Rafael,26,Right-Back,Fluminense,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+FC Messina Peloro,Salvatore Sullo,35,Attacking Midfield,Avellino,?,out,Winter,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Francesco Girillo,20,Central Midfield,Andria,?,out,Winter,NA,Serie A,2006,2006/2007
+FC Messina Peloro,Andrea Gentile,26,Central Midfield,Monza,Loan,out,Winter,0,Serie A,2006,2006/2007
+FC Messina Peloro,Nicholas Caglioni,24,Goalkeeper,Ban,?,out,Winter,NA,Serie A,2006,2006/2007
+FC Empoli,Simone Iacoponi,19,Centre-Back,Empoli U19,-,in,Winter,0,Serie A,2006,2006/2007
+FC Empoli,Daniele Buzzegoli,23,Central Midfield,AC Pisa,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+FC Empoli,Mirco Gasparetto,26,Centre-Forward,Genoa,?,out,Winter,NA,Serie A,2006,2006/2007
+AS Livorno,César,32,Left Midfield,Inter,Loan,in,Winter,0,Serie A,2006,2006/2007
+AS Livorno,Martin Bergvold,22,Defensive Midfield,FC Copenhagen,?,in,Winter,NA,Serie A,2006,2006/2007
+AS Livorno,Stefano Fiore,31,Attacking Midfield,Valencia,Loan,in,Winter,0,Serie A,2006,2006/2007
+AS Livorno,César Prates,31,Right-Back,Chievo Verona,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+AS Livorno,Gabriele Falchini,20,Centre-Forward,AC Loanesi,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+AS Livorno,Ibrahima Bakayoko,30,Centre-Forward,Messina Peloro,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+AS Livorno,Andrea Giallombardo,26,Left-Back,Messina Peloro,Loan,out,Winter,0,Serie A,2006,2006/2007
+AS Livorno,Stefano Argilli,33,Right-Back,Frosinone,?,out,Winter,NA,Serie A,2006,2006/2007
+AS Livorno,Tomas Danilevicius,28,Centre-Forward,Bologna,Loan,out,Winter,0,Serie A,2006,2006/2007
+AS Livorno,Luca Vigiani,30,Right Midfield,Reggina,?,out,Winter,NA,Serie A,2006,2006/2007
+AS Livorno,Alessandro Stefanini,19,Midfielder,Pavia,?,out,Winter,NA,Serie A,2006,2006/2007
+AC Siena,Roman Eremenko,19,Attacking Midfield,Udinese,Loan fee:£315Th.,in,Winter,0.315,Serie A,2006,2006/2007
+AC Siena,Anssi Jaakkola,19,Goalkeeper,TP-47,Free transfer,in,Winter,0,Serie A,2006,2006/2007
+AC Siena,Massimo Maccarone,27,Centre-Forward,Middlesbrough,Free transfer,in,Winter,0,Serie A,2006,2006/2007
+AC Siena,Francesco Benussi,25,Goalkeeper,Lecce,Loan,in,Winter,0,Serie A,2006,2006/2007
+AC Siena,Daniele Galloppa,21,Central Midfield,AS Roma,Loan,in,Winter,0,Serie A,2006,2006/2007
+AC Siena,Vincent Candela,33,Left-Back,Messina Peloro,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+AC Siena,Gorazd Zajc,19,Centre-Forward,NK Maribor,?,out,Winter,NA,Serie A,2006,2006/2007
+AC Siena,Nicola Pavarini,32,Goalkeeper,Lecce,Loan,out,Winter,0,Serie A,2006,2006/2007
+AC Siena,Andrea Masiello,20,Centre-Back,Genoa,?,out,Winter,NA,Serie A,2006,2006/2007
+AC Siena,Roberto D'Aversa,31,Central Midfield,Messina Peloro,?,out,Winter,NA,Serie A,2006,2006/2007
+AC Siena,Leonardo Blanchard,18,Centre-Back,Sangimignano,Loan,out,Winter,0,Serie A,2006,2006/2007
+AC Siena,Davide Zomer,29,Goalkeeper,Ancona,?,out,Winter,NA,Serie A,2006,2006/2007
+Parma FC,Armando Perna,25,Centre-Back,Modena,Loan,in,Winter,0,Serie A,2006,2006/2007
+Parma FC,Giuseppe Rossi,19,Centre-Forward,Man Utd,Loan,in,Winter,0,Serie A,2006,2006/2007
+Parma FC,Francesco Parravicini,25,Defensive Midfield,US Palermo,Loan,in,Winter,0,Serie A,2006,2006/2007
+Parma FC,Marco Rossi,19,Centre-Back,Modena,Loan,out,Winter,0,Serie A,2006,2006/2007
+Parma FC,Zlatko Dedic,22,Centre-Forward,Frosinone,?,out,Winter,NA,Serie A,2006,2006/2007
+Parma FC,Filippo Savi,19,Central Midfield,Monza,Loan,out,Winter,0,Serie A,2006,2006/2007
+Calcio Catania,Raffaele Ioime,19,Goalkeeper,Cosenza,Free transfer,in,Winter,0,Serie A,2006,2006/2007
+Calcio Catania,Marco Biagianti,22,Defensive Midfield,Vastese,?,in,Winter,NA,Serie A,2006,2006/2007
+Calcio Catania,Maurizio Anastasi,29,Defensive Midfield,Cesena,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+Calcio Catania,Umberto Del Core,27,Centre-Forward,Cesena,Loan,out,Winter,0,Serie A,2006,2006/2007
+Calcio Catania,Renato Olive,35,Central Midfield,Bologna,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+Calcio Catania,Wálter García,22,Centre-Back,Quilmes,?,out,Winter,NA,Serie A,2006,2006/2007
+Calcio Catania,Riccardo Nardini,23,Central Midfield,Reggina,Loan,out,Winter,0,Serie A,2006,2006/2007
+Calcio Catania,Ciro Polito,27,Goalkeeper,Pescara,Loan,out,Winter,0,Serie A,2006,2006/2007
+Reggina Calcio,Nenad Novakovic,24,Goalkeeper,Odense BK,£1.44m,in,Winter,1.44,Serie A,2006,2006/2007
+Reggina Calcio,Pasquale Foggia,23,Attacking Midfield,Lazio,Loan fee:£225Th.,in,Winter,0.225,Serie A,2006,2006/2007
+Reggina Calcio,Daniel Beichler,18,Second Striker,Sturm Graz II,Loan,in,Winter,0,Serie A,2006,2006/2007
+Reggina Calcio,Luca Vigiani,30,Right Midfield,AS Livorno,?,in,Winter,NA,Serie A,2006,2006/2007
+Reggina Calcio,Alessandro Gazzi,23,Defensive Midfield,Bari,Loan,in,Winter,0,Serie A,2006,2006/2007
+Reggina Calcio,Riccardo Nardini,23,Central Midfield,Catania,Loan,in,Winter,0,Serie A,2006,2006/2007
+Reggina Calcio,Christian Puggioni,25,Goalkeeper,AC Pisa,?,in,Winter,NA,Serie A,2006,2006/2007
+Reggina Calcio,Ivan Pelizzoli,26,Goalkeeper,Loko Moscow,£2.70m,out,Winter,2.7,Serie A,2006,2006/2007
+Reggina Calcio,Julio de León,27,Attacking Midfield,Genoa,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+Reggina Calcio,Filippo Carobbio,27,Central Midfield,Genoa,?,out,Winter,NA,Serie A,2006,2006/2007
+Reggina Calcio,Giovanni Morabito,28,Left-Back,FC Crotone,Loan,out,Winter,0,Serie A,2006,2006/2007
+Reggina Calcio,Antonio Saviano,22,Goalkeeper,SSC Napoli,?,out,Winter,NA,Serie A,2006,2006/2007
+Reggina Calcio,Ilyas Zeytulaev,24,Left Winger,Vicenza,Loan,out,Winter,0,Serie A,2006,2006/2007
+Reggina Calcio,Fabio Ceravolo,19,Centre-Forward,AC Pisa,Loan,out,Winter,0,Serie A,2006,2006/2007
+Chievo Verona,César Prates,31,Right-Back,AS Livorno,Free transfer,in,Winter,0,Serie A,2006,2006/2007
+Chievo Verona,Xhulian Rrudho,19,Centre-Forward,Ancona,Free transfer,in,Winter,0,Serie A,2006,2006/2007
+Chievo Verona,Vincenzo Italiano,29,Central Midfield,Hellas Verona,?,in,Winter,NA,Serie A,2006,2006/2007
+Chievo Verona,Giuseppe Cozzolino,21,Centre-Forward,Lecce,?,in,Winter,NA,Serie A,2006,2006/2007
+Chievo Verona,Michele Troiano,21,Defensive Midfield,Modena,?,in,Winter,NA,Serie A,2006,2006/2007
+Chievo Verona,Emanuele Concetti,28,Goalkeeper,Sambenedettese,?,in,Winter,NA,Serie A,2006,2006/2007
+Chievo Verona,Alessandro Tamai,18,Defender,Monza,Loan,in,Winter,0,Serie A,2006,2006/2007
+Chievo Verona,Mattia Passarini,26,Goalkeeper,Cremonese,Loan,out,Winter,0,Serie A,2006,2006/2007
+Chievo Verona,Andrea Zanchetta,31,Central Midfield,Lecce,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+Chievo Verona,Stefano Garzon,25,Defensive Midfield,Avellino,Loan,out,Winter,0,Serie A,2006,2006/2007
+Chievo Verona,Denis Godeas,31,Centre-Forward,Mantova,?,out,Winter,NA,Serie A,2006,2006/2007
+Chievo Verona,Simone Tiribocchi,28,Centre-Forward,Lecce,?,out,Winter,NA,Serie A,2006,2006/2007
+Chievo Verona,Salvatore Bruno,27,Centre-Forward,Modena,?,out,Winter,NA,Serie A,2006,2006/2007
+Chievo Verona,Mattia Marchesetti,23,Left Winger,Triestina,Loan,out,Winter,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Luis Fernando Centi,30,Central Midfield,Atalanta,£653Th.,in,Winter,0.653,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Matteo Melara,27,Right-Back,Torino,Loan,in,Winter,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Massimo Bonanni,24,Left Midfield,Sampdoria,Loan,in,Winter,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Andrea Soncin,28,Centre-Forward,Atalanta,?,in,Winter,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Stefano Lombardi,30,Centre-Back,Arezzo,?,in,Winter,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Luigi Di Biagio,35,Defensive Midfield,Without Club,-,in,Winter,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Salvatore Bocchetti,20,Centre-Back,Frosinone,£1.71m,out,Winter,1.71,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Ervin Skela,30,Attacking Midfield,Energie Cottbus,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Andrade,27,Goalkeeper,Duque de Caxias,Free transfer,out,Winter,0,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Mirko Cudini,33,Centre-Back,Vicenza,?,out,Winter,NA,Serie A,2006,2006/2007
+Ascoli Calcio 1898,Fabio Pecchia,33,Right Midfield,Foggia,?,out,Winter,NA,Serie A,2006,2006/2007

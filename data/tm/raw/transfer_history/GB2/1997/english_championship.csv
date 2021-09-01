@@ -1,0 +1,596 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Cardiff City,Kevin Nugent,28,Forward,Bristol City,£72k,in,0.072,Championship,1997,1997/1998
+Cardiff City,Andy Saville,32,Centre-Forward,Wigan,£60k,in,0.06,Championship,1997,1997/1998
+Cardiff City,Danny Hill,23,Midfielder,Spurs,Loan,in,0,Championship,1997,1997/1998
+Cardiff City,Glen Crowe,19,Centre-Forward,Wolves,Loan,in,0,Championship,1997,1997/1998
+Cardiff City,Jon Hallworth,31,Goalkeeper,Oldham Athletic,Free Transfer,in,0,Championship,1997,1997/1998
+Cardiff City,Wayne O'Sullivan,23,Right Midfield,Swindon Town,?,in,NA,Championship,1997,1997/1998
+Cardiff City,Dave Penney,32,Midfielder,Swansea,?,in,NA,Championship,1997,1997/1998
+Cardiff City,Chris Greenacre,19,Centre-Forward,Man City,Loan,in,0,Championship,1997,1997/1998
+Cardiff City,Christian Roberts,17,Centre-Forward,Cardiff U18,-,in,0,Championship,1997,1997/1998
+Cardiff City,Jimmy Rollo,21,Centre-Back,Ebbw Vale,"End of loanMay 1, 1998",in,0,Championship,1997,1997/1998
+Cardiff City,Pat Mountain,20,Goalkeeper,Barry Town,"End of loanJun 30, 1997",in,0,Championship,1997,1997/1998
+Cardiff City,Steve Williams,22,Goalkeeper,Dundalk FC,Free Transfer,out,0,Championship,1997,1997/1998
+Cardiff City,Jimmy Rollo,21,Centre-Back,Ebbw Vale,Loan,out,0,Championship,1997,1997/1998
+Cardiff City,Pat Mountain,21,Goalkeeper,Barry Town,?,out,NA,Championship,1997,1997/1998
+Cardiff City,Danny Hill,23,Midfielder,Spurs,"End of loanMar 1, 1998",out,0,Championship,1997,1997/1998
+Cardiff City,Glen Crowe,19,Centre-Forward,Wolves,"End of loanDec 1, 1997",out,0,Championship,1997,1997/1998
+Cardiff City,Chris Greenacre,19,Centre-Forward,Man City,"End of loanOct 1, 1997",out,0,Championship,1997,1997/1998
+Fulham FC,Chris Coleman,27,Centre-Back,Blackburn,£3.31m,in,3.31,Championship,1997,1997/1998
+Fulham FC,Paul Peschisolido,26,Centre-Forward,West Brom,£1.49m,in,1.49,Championship,1997,1997/1998
+Fulham FC,Tony Thorpe,23,Centre-Forward,Luton Town,£1.08m,in,1.08,Championship,1997,1997/1998
+Fulham FC,Maik Taylor,26,Goalkeeper,Southampton,£945k,in,0.945,Championship,1997,1997/1998
+Fulham FC,Paul Trollope,25,Attacking Midfield,Derby,£810k,in,0.81,Championship,1997,1997/1998
+Fulham FC,Wayne Collins,28,Midfielder,Sheff Wed,£540k,in,0.54,Championship,1997,1997/1998
+Fulham FC,André Arendse,30,Goalkeeper,Cape Town Spurs,£450k,in,0.45,Championship,1997,1997/1998
+Fulham FC,Alan Neilson,25,Centre-Back,Southampton,£338k,in,0.338,Championship,1997,1997/1998
+Fulham FC,Paul Moody,30,Forward,Oxford United,£203k,in,0.203,Championship,1997,1997/1998
+Fulham FC,Steven Hayward,25,Midfielder,Carlisle United,£197k,in,0.197,Championship,1997,1997/1998
+Fulham FC,Steve McAnespie,25,Right-Back,Bolton,£135k,in,0.135,Championship,1997,1997/1998
+Fulham FC,Aidan Newhouse,25,Forward,Wimbledon FC,£114k,in,0.114,Championship,1997,1997/1998
+Fulham FC,Jimmy Aggrey,18,Defender,Chelsea,Free Transfer,in,0,Championship,1997,1997/1998
+Fulham FC,Leon McKenzie,19,Centre-Forward,Crystal Palace,Loan,in,0,Championship,1997,1997/1998
+Fulham FC,Kyle Lightbourne,29,Forward,Coventry,Loan,in,0,Championship,1997,1997/1998
+Fulham FC,Shaun Maher,19,Centre-Back,Bohemians,£45k,in,0.045,Championship,1997,1997/1998
+Fulham FC,Matt Brazier,21,Midfielder,QPR,?,in,NA,Championship,1997,1997/1998
+Fulham FC,Paul Bracewell,34,Central Midfield,Sunderland,?,in,NA,Championship,1997,1997/1998
+Fulham FC,Andy Arnott,23,Defensive Midfield,Leyton Orient,?,in,NA,Championship,1997,1997/1998
+Fulham FC,Peter Beardsley,37,Second Striker,Bolton,Loan,in,0,Championship,1997,1997/1998
+Fulham FC,Neil Smith,25,Midfielder,Gillingham FC,?,in,NA,Championship,1997,1997/1998
+Fulham FC,Steve McAnespie,26,Right-Back,Bradford,"End of loanMay 3, 1998",in,0,Championship,1997,1997/1998
+Fulham FC,Danny Cullip,20,Centre-Back,Brentford,£113k,out,0.113,Championship,1997,1997/1998
+Fulham FC,Paul Watson,22,Right-Back,Brentford,£63k,out,0.063,Championship,1997,1997/1998
+Fulham FC,Aidan Newhouse,25,Forward,Swansea,Free Transfer,out,0,Championship,1997,1997/1998
+Fulham FC,Mark Walton,28,Goalkeeper,Gillingham FC,£41k,out,0.041,Championship,1997,1997/1998
+Fulham FC,Steve McAnespie,26,Right-Back,Bradford,Loan,out,0,Championship,1997,1997/1998
+Fulham FC,Terry Angus,31,Centre-Back,Slough Town,?,out,NA,Championship,1997,1997/1998
+Fulham FC,Nicholas Cusack,31,Midfielder,Swansea,?,out,NA,Championship,1997,1997/1998
+Fulham FC,Glenn Cockerill,38,Central Midfield,Brentford,?,out,NA,Championship,1997,1997/1998
+Fulham FC,Andy Arnott,23,Defensive Midfield,Rush. & Diamon.,?,out,NA,Championship,1997,1997/1998
+Fulham FC,John Marshall,33,Right Midfield,Retired,-,out,0,Championship,1997,1997/1998
+Fulham FC,Kyle Lightbourne,29,Forward,Coventry,"End of loanFeb 1, 1998",out,0,Championship,1997,1997/1998
+Fulham FC,Leon McKenzie,19,Centre-Forward,Crystal Palace,"End of loanNov 1, 1997",out,0,Championship,1997,1997/1998
+Huddersfield Town,Wayne Allison,28,Centre-Forward,Swindon Town,£1.04m,in,1.04,Championship,1997,1997/1998
+Huddersfield Town,Lee Richardson,28,Midfielder,Oldham Athletic,£72k,in,0.072,Championship,1997,1997/1998
+Huddersfield Town,Alex Smith,21,Defender,Swindon Town,Loan,in,0,Championship,1997,1997/1998
+Huddersfield Town,Lee Martin,29,Left-Back,Bristol Rovers,Loan,in,0,Championship,1997,1997/1998
+Huddersfield Town,Steve Harper,22,Goalkeeper,Newcastle,Loan,in,0,Championship,1997,1997/1998
+Huddersfield Town,Barry Horne,35,Defensive Midfield,Birmingham,?,in,NA,Championship,1997,1997/1998
+Huddersfield Town,Grant Johnson,25,Left Midfield,Dundee United,?,in,NA,Championship,1997,1997/1998
+Huddersfield Town,Sean Hessey,19,Centre-Back,Wigan,?,in,NA,Championship,1997,1997/1998
+Huddersfield Town,David Phillips,33,Right Midfield,Nottm Forest,?,in,NA,Championship,1997,1997/1998
+Huddersfield Town,Paul Barnes,30,Centre-Forward,Burnley,?,in,NA,Championship,1997,1997/1998
+Huddersfield Town,Paul Scott,17,Right-Back,Huddersf. U18,-,in,0,Championship,1997,1997/1998
+Huddersfield Town,Wayne Burnett,26,Midfielder,Grimsby Town,£109k,out,0.109,Championship,1997,1997/1998
+Huddersfield Town,Lee Makel,25,Attacking Midfield,Heart of Midl.,£104k,out,0.104,Championship,1997,1997/1998
+Huddersfield Town,Lee Sinnott,32,Defender,Oldham Athletic,£57k,out,0.057,Championship,1997,1997/1998
+Huddersfield Town,Robbie Ryan,20,Left-Back,Millwall,Free Transfer,out,0,Championship,1997,1997/1998
+Huddersfield Town,Gary Crosby,33,Midfielder,Rush. & Diamon.,Free Transfer,out,0,Championship,1997,1997/1998
+Huddersfield Town,Darren O'Keeffe,18,Right Midfield,Hull City,?,out,NA,Championship,1997,1997/1998
+Huddersfield Town,Andy Payton,30,Forward,Burnley,?,out,NA,Championship,1997,1997/1998
+Huddersfield Town,Steve Harper,22,Goalkeeper,Newcastle,"End of loanJan 1, 1998",out,0,Championship,1997,1997/1998
+Huddersfield Town,Lee Martin,29,Left-Back,Bristol Rovers,"End of loanSep 16, 1997",out,0,Championship,1997,1997/1998
+Huddersfield Town,Alex Smith,22,Defender,Swindon Town,"End of loanMar 31, 1998",out,0,Championship,1997,1997/1998
+Leeds United,David Hopkin,26,Right Midfield,Crystal Palace,£4.41m,in,4.41,Championship,1997,1997/1998
+Leeds United,Jimmy Floyd Hasselbaink,25,Centre-Forward,Boavista,£2.50m,in,2.5,Championship,1997,1997/1998
+Leeds United,Alf-Inge Haland,24,Defensive Midfield,Nottm Forest,£2.16m,in,2.16,Championship,1997,1997/1998
+Leeds United,Danny Granville,22,Left-Back,Chelsea,£1.98m,in,1.98,Championship,1997,1997/1998
+Leeds United,Martin Hiden,24,Centre-Back,Rapid Vienna,£1.96m,in,1.96,Championship,1997,1997/1998
+Leeds United,David Robertson,28,Left-Back,Rangers,£675k,in,0.675,Championship,1997,1997/1998
+Leeds United,Bruno Ribeiro,21,Left Midfield,Vitória Setúbal,£630k,in,0.63,Championship,1997,1997/1998
+Leeds United,Stephen McPhail,17,Left Midfield,Leeds U18,-,in,0,Championship,1997,1997/1998
+Leeds United,Richard Jobson,34,Centre-Back,Southend United,"End of loanMar 8, 1998",in,0,Championship,1997,1997/1998
+Leeds United,Sean Hessey,18,Centre-Back,Leeds U18,-,in,0,Championship,1997,1997/1998
+Leeds United,Andy Gray,20,Centre-Forward,Bury,"End of loanJan 1, 1998",in,0,Championship,1997,1997/1998
+Leeds United,Lee Matthews,18,Central Midfield,Leeds U18,-,in,0,Championship,1997,1997/1998
+Leeds United,Paul Evans,23,Goalkeeper,Bradford,"End of loanJun 30, 1997",in,0,Championship,1997,1997/1998
+Leeds United,Anthony Yeboah,31,Centre-Forward,Hamburger SV,£1.94m,out,1.94,Championship,1997,1997/1998
+Leeds United,Brian Deane,29,Centre-Forward,Sheffield Utd.,£1.80m,out,1.8,Championship,1997,1997/1998
+Leeds United,Carlton Palmer,31,Defensive Midfield,Southampton,£1.08m,out,1.08,Championship,1997,1997/1998
+Leeds United,Andy Gray,20,Centre-Forward,Bury,Loan,out,0,Championship,1997,1997/1998
+Leeds United,Pierre Laurent,27,Centre-Forward,SC Bastia,Free Transfer,out,0,Championship,1997,1997/1998
+Leeds United,Ian Rush,35,Centre-Forward,Newcastle,Free Transfer,out,0,Championship,1997,1997/1998
+Leeds United,Richard Jobson,34,Centre-Back,Man City,Free Transfer,out,0,Championship,1997,1997/1998
+Leeds United,Sean Hessey,19,Centre-Back,Wigan,Free Transfer,out,0,Championship,1997,1997/1998
+Leeds United,Tony Dorigo,31,Left-Back,Torino,Free Transfer,out,0,Championship,1997,1997/1998
+Leeds United,Andrew Couzens,22,Midfielder,Carlisle United,?,out,NA,Championship,1997,1997/1998
+Leeds United,Jason Blunt,20,Midfielder,Raith Rovers,Loan,out,0,Championship,1997,1997/1998
+Leeds United,Mark Ford,21,Midfielder,Burnley,?,out,NA,Championship,1997,1997/1998
+Leeds United,Richard Jobson,34,Centre-Back,Southend United,Loan,out,0,Championship,1997,1997/1998
+West Bromwich Albion,Kevin Kilbane,20,Left Midfield,Preston NE,£2.03m,in,2.03,Championship,1997,1997/1998
+West Bromwich Albion,Mickey Evans,24,Centre-Forward,Southampton,£810k,in,0.81,Championship,1997,1997/1998
+West Bromwich Albion,James Quinn,23,Centre-Forward,Blackpool,£675k,in,0.675,Championship,1997,1997/1998
+West Bromwich Albion,Lee Hughes,21,Centre-Forward,Kidderminster,£338k,in,0.338,Championship,1997,1997/1998
+West Bromwich Albion,Sean Flynn,29,Midfielder,Derby,£284k,in,0.284,Championship,1997,1997/1998
+West Bromwich Albion,Jason van Blerk,29,Left Midfield,Man City,£225k,in,0.225,Championship,1997,1997/1998
+West Bromwich Albion,James Thomas,18,Forward,Blackburn,Loan,in,0,Championship,1997,1997/1998
+West Bromwich Albion,Roger Joseph,31,Defender,Leyton Orient,?,in,NA,Championship,1997,1997/1998
+West Bromwich Albion,Mike Sheron,25,Centre-Forward,QPR,?,in,NA,Championship,1997,1997/1998
+West Bromwich Albion,Steve Nicol,36,Right-Back,Sheff Wed,?,in,NA,Championship,1997,1997/1998
+West Bromwich Albion,Paul Beesley,32,Centre-Back,Man City,Loan,in,0,Championship,1997,1997/1998
+West Bromwich Albion,Tony Dobson,28,Midfielder,Portsmouth,?,in,NA,Championship,1997,1997/1998
+West Bromwich Albion,Franz Carr,31,Forward,Reggiana,?,in,NA,Championship,1997,1997/1998
+West Bromwich Albion,Chris Adamson,18,Goalkeeper,West Brom U18,-,in,0,Championship,1997,1997/1998
+West Bromwich Albion,Graham Potter,22,Midfielder,Northampt. Town,"End of loanNov 4, 1997",in,0,Championship,1997,1997/1998
+West Bromwich Albion,Adam Oliver,16,Midfielder,West Brom U18,-,in,0,Championship,1997,1997/1998
+West Bromwich Albion,Tony James,18,Centre-Back,West Brom U18,-,in,0,Championship,1997,1997/1998
+West Bromwich Albion,Graham Potter,23,Midfielder,Northampt. Town,"End of loanMay 31, 1998",in,0,Championship,1997,1997/1998
+West Bromwich Albion,Paul Peschisolido,26,Centre-Forward,Fulham,£1.49m,out,1.49,Championship,1997,1997/1998
+West Bromwich Albion,Kevin Donovan,25,Central Midfield,Grimsby Town,£405k,out,0.405,Championship,1997,1997/1998
+West Bromwich Albion,Paul Groves,31,Midfielder,Grimsby Town,£268k,out,0.268,Championship,1997,1997/1998
+West Bromwich Albion,David Smith,29,Attacking Midfield,Grimsby Town,£216k,out,0.216,Championship,1997,1997/1998
+West Bromwich Albion,Julian Darby,29,Midfielder,Preston NE,£108k,out,0.108,Championship,1997,1997/1998
+West Bromwich Albion,Graham Potter,22,Midfielder,Northampt. Town,Loan,out,0,Championship,1997,1997/1998
+West Bromwich Albion,Nigel Spink,39,Goalkeeper,Millwall,£45k,out,0.045,Championship,1997,1997/1998
+West Bromwich Albion,Roger Joseph,32,Defender,Leyton Orient,?,out,NA,Championship,1997,1997/1998
+West Bromwich Albion,Graham Potter,22,Midfielder,Northampt. Town,Loan,out,0,Championship,1997,1997/1998
+West Bromwich Albion,Paul Beesley,32,Centre-Back,Man City,"End of loanMay 31, 1998",out,0,Championship,1997,1997/1998
+West Bromwich Albion,James Thomas,18,Forward,Blackburn,"End of loanSep 29, 1997",out,0,Championship,1997,1997/1998
+Derby County,Deon Burton,20,Centre-Forward,Portsmouth,£1.13m,in,1.13,Championship,1997,1997/1998
+Derby County,Jonathan Hunt,25,Forward,Birmingham,£675k,in,0.675,Championship,1997,1997/1998
+Derby County,Rory Delap,21,Central Midfield,Carlisle United,£270k,in,0.27,Championship,1997,1997/1998
+Derby County,Jacob Laursen,25,Centre-Back,Silkeborg IF,Free Transfer,in,0,Championship,1997,1997/1998
+Derby County,Richard Knight,17,Goalkeeper,Burton Albion,?,in,NA,Championship,1997,1997/1998
+Derby County,Stefano Eranio,30,Right Midfield,Milan,?,in,NA,Championship,1997,1997/1998
+Derby County,Lars Bohinen,28,Central Midfield,Blackburn,?,in,NA,Championship,1997,1997/1998
+Derby County,Francesco Baiano,29,Right Winger,Fiorentina,?,in,NA,Championship,1997,1997/1998
+Derby County,Nick Wright,22,Forward,Carlisle United,"End of loanFeb 11, 1998",in,0,Championship,1997,1997/1998
+Derby County,Marc Bridge-Wilkinson,18,Central Midfield,Derby U18,-,in,0,Championship,1997,1997/1998
+Derby County,Steve Elliott,18,Centre-Back,Derby U18,-,in,0,Championship,1997,1997/1998
+Derby County,Rob Kozluk,19,Right-Back,Derby U18,-,in,0,Championship,1997,1997/1998
+Derby County,Ashley Ward,26,Centre-Forward,Barnsley FC,£1.63m,out,1.63,Championship,1997,1997/1998
+Derby County,Paul Trollope,25,Attacking Midfield,Fulham,£810k,out,0.81,Championship,1997,1997/1998
+Derby County,Sean Flynn,29,Midfielder,West Brom,£284k,out,0.284,Championship,1997,1997/1998
+Derby County,Paul Simpson,31,Midfielder,Wolves,£72k,out,0.072,Championship,1997,1997/1998
+Derby County,Marco Gabbiadini,29,Centre-Forward,Panionios,Free Transfer,out,0,Championship,1997,1997/1998
+Derby County,Chris Boden,24,Defender,Unknown,Free Transfer,out,0,Championship,1997,1997/1998
+Derby County,Nick Wright,22,Forward,Carlisle United,?,out,NA,Championship,1997,1997/1998
+Derby County,Paul McGrath,37,Centre-Back,Sheffield Utd.,?,out,NA,Championship,1997,1997/1998
+Derby County,Christophe Remy,25,Defender,Oxford United,?,out,NA,Championship,1997,1997/1998
+Derby County,Aljosa Asanovic,31,Central Midfield,SSC Napoli,?,out,NA,Championship,1997,1997/1998
+Derby County,Nick Wright,22,Forward,Carlisle United,Loan,out,0,Championship,1997,1997/1998
+Middlesbrough FC,Paul Gascoigne,30,Attacking Midfield,Rangers,£4.50m,in,4.5,Championship,1997,1997/1998
+Middlesbrough FC,Émerson,25,Defensive Midfield,FC Porto,£3.60m,in,3.6,Championship,1997,1997/1998
+Middlesbrough FC,Mark Schwarzer,25,Goalkeeper,Bradford,£2.25m,in,2.25,Championship,1997,1997/1998
+Middlesbrough FC,Alun Armstrong,22,Centre-Forward,Stockport,£2.16m,in,2.16,Championship,1997,1997/1998
+Middlesbrough FC,Hámilton Ricard,23,Centre-Forward,Deportivo Cali,£2.07m,in,2.07,Championship,1997,1997/1998
+Middlesbrough FC,Andy Townsend,34,Central Midfield,Aston Villa,£518k,in,0.518,Championship,1997,1997/1998
+Middlesbrough FC,Neil Maddison,28,Midfielder,Southampton,£286k,in,0.286,Championship,1997,1997/1998
+Middlesbrough FC,Michael Thomas,30,Right Midfield,Liverpool,Loan,in,0,Championship,1997,1997/1998
+Middlesbrough FC,Marlon Beresford,28,Goalkeeper,Burnley,Free Transfer,in,0,Championship,1997,1997/1998
+Middlesbrough FC,Jason Gavin,17,Defender,Crumlin United,?,in,NA,Championship,1997,1997/1998
+Middlesbrough FC,Gianluca Festa,28,Right-Back,Inter,?,in,NA,Championship,1997,1997/1998
+Middlesbrough FC,Chris Freestone,26,Forward,Northampt. Town,"End of loanDec 23, 1997",in,0,Championship,1997,1997/1998
+Middlesbrough FC,Andy Dibble,32,Goalkeeper,Without Club,-,in,0,Championship,1997,1997/1998
+Middlesbrough FC,Paul Connor,18,Forward,Hartlepool Utd.,"End of loanJun 30, 1997",in,0,Championship,1997,1997/1998
+Middlesbrough FC,Paul Connor,18,Forward,Gateshead FC,"End of loanJun 30, 1997",in,0,Championship,1997,1997/1998
+Middlesbrough FC,Fabrizio Ravanelli,28,Centre-Forward,Marseille,£6.66m,out,6.66,Championship,1997,1997/1998
+Middlesbrough FC,Neil Cox,25,Centre-Back,Bolton,£1.80m,out,1.8,Championship,1997,1997/1998
+Middlesbrough FC,Gary Walsh,29,Goalkeeper,Bradford,£630k,out,0.63,Championship,1997,1997/1998
+Middlesbrough FC,Chris Freestone,26,Forward,Northampt. Town,£84k,out,0.084,Championship,1997,1997/1998
+Middlesbrough FC,Paul Connor,18,Forward,Gateshead FC,Loan,out,0,Championship,1997,1997/1998
+Middlesbrough FC,Craig Liddle,26,Centre-Back,Darlington,Free Transfer,out,0,Championship,1997,1997/1998
+Middlesbrough FC,Paul Connor,18,Forward,Hartlepool Utd.,Loan,out,0,Championship,1997,1997/1998
+Middlesbrough FC,Chris Freestone,26,Forward,Northampt. Town,Loan,out,0,Championship,1997,1997/1998
+Middlesbrough FC,Jason Gavin,17,Defender,Hartlepool Utd.,Loan,out,0,Championship,1997,1997/1998
+Middlesbrough FC,Phil Whelan,24,Defender,Oxford United,?,out,NA,Championship,1997,1997/1998
+Middlesbrough FC,Derek Whyte,29,Centre-Back,Aberdeen FC,?,out,NA,Championship,1997,1997/1998
+Middlesbrough FC,Michael Thomas,30,Right Midfield,Liverpool,"End of loanMar 1, 1998",out,0,Championship,1997,1997/1998
+Middlesbrough FC,Chris Morris,33,Right-Back,Retired,-,out,0,Championship,1997,1997/1998
+Bristol City,Steve Torpey,26,Centre-Forward,Swansea,£540k,in,0.54,Championship,1997,1997/1998
+Bristol City,Scott Murray,23,Right Midfield,Aston Villa,£203k,in,0.203,Championship,1997,1997/1998
+Bristol City,Jehad Muntasser,19,Right Midfield,Arsenal,Free Transfer,in,0,Championship,1997,1997/1998
+Bristol City,Jason Roberts,20,Centre-Forward,Wolves,Loan,in,0,Championship,1997,1997/1998
+Bristol City,Steve Phillips,19,Goalkeeper,Paulton,Free Transfer,in,0,Championship,1997,1997/1998
+Bristol City,Sean McCarthy,30,Forward,Oldham Athletic,Loan,in,0,Championship,1997,1997/1998
+Bristol City,Paul Tisdale,24,Midfielder,Southampton,Free Transfer,in,0,Championship,1997,1997/1998
+Bristol City,Sean Dyche,26,Centre-Back,Chesterfield FC,?,in,NA,Championship,1997,1997/1998
+Bristol City,Colin Cramb,23,Centre-Forward,Doncaster,?,in,NA,Championship,1997,1997/1998
+Bristol City,Andy Jordan,17,Defender,Unknown,?,in,NA,Championship,1997,1997/1998
+Bristol City,Steve Phillips,19,Goalkeeper,Worcester City,"End of loanDec 1, 1997",in,0,Championship,1997,1997/1998
+Bristol City,Paul Tisdale,25,Midfielder,Exeter City,"End of loanFeb 1, 1998",in,0,Championship,1997,1997/1998
+Bristol City,Darren Barnard,25,Left-Back,Barnsley FC,£810k,out,0.81,Championship,1997,1997/1998
+Bristol City,Shaun Goater,28,Centre-Forward,Man City,£360k,out,0.36,Championship,1997,1997/1998
+Bristol City,Kevin Nugent,28,Forward,Cardiff,£72k,out,0.072,Championship,1997,1997/1998
+Bristol City,Paul Tisdale,24,Midfielder,Exeter City,Loan,out,0,Championship,1997,1997/1998
+Bristol City,Paul Agostino,22,Centre-Forward,1860 Munich,Free Transfer,out,0,Championship,1997,1997/1998
+Bristol City,Paul Allen,34,Midfielder,Millwall,Free Transfer,out,0,Championship,1997,1997/1998
+Bristol City,Steve Phillips,19,Goalkeeper,Worcester City,Loan,out,0,Championship,1997,1997/1998
+Bristol City,Scott Rogers,18,Central Midfield,Tiverton Town FC,Free Transfer,out,0,Championship,1997,1997/1998
+Bristol City,Jason Roberts,20,Centre-Forward,Wolves,"End of loanMay 1, 1998",out,0,Championship,1997,1997/1998
+Bristol City,Sean McCarthy,30,Forward,Oldham Athletic,"End of loanMay 31, 1998",out,0,Championship,1997,1997/1998
+Bristol City,Martin Kuhl,32,Midfielder,Without Club,-,out,0,Championship,1997,1997/1998
+Nottingham Forest,Andy Johnson,23,Attacking Midfield,Norwich,£2.97m,in,2.97,Championship,1997,1997/1998
+Nottingham Forest,Alan Rogers,20,Left-Back,Tranmere Rovers,£2.70m,in,2.7,Championship,1997,1997/1998
+Nottingham Forest,Jon Olav Hjelde,24,Centre-Back,Rosenborg BK,£810k,in,0.81,Championship,1997,1997/1998
+Nottingham Forest,Geoff Thomas,32,Central Midfield,Wolves,Free Transfer,in,0,Championship,1997,1997/1998
+Nottingham Forest,Dave Beasant,38,Goalkeeper,Southampton,Free Transfer,in,0,Championship,1997,1997/1998
+Nottingham Forest,Damien Johnson,19,Central Midfield,Blackburn,Loan,in,0,Championship,1997,1997/1998
+Nottingham Forest,Chris Doig,16,Centre-Back,Queen o. t. S.,Free Transfer,in,0,Championship,1997,1997/1998
+Nottingham Forest,Stale Stensaas,26,Left-Back,Rosenborg BK,?,in,NA,Championship,1997,1997/1998
+Nottingham Forest,Ian Thomas-Moore,18,Centre-Forward,West Ham,?,in,NA,Championship,1997,1997/1998
+Nottingham Forest,Marco Pascolo,31,Goalkeeper,Cagliari Calcio,?,in,NA,Championship,1997,1997/1998
+Nottingham Forest,Thierry Bonalair,31,Left-Back,Neuchâtel Xamax,?,in,NA,Championship,1997,1997/1998
+Nottingham Forest,Vance Warner,23,Defender,Rotherham,"End of loanNov 5, 1997",in,0,Championship,1997,1997/1998
+Nottingham Forest,Mark Crossley,28,Goalkeeper,Millwall,"End of loanMay 1, 1998",in,0,Championship,1997,1997/1998
+Nottingham Forest,Steve Guinan,22,Centre-Forward,Crewe Alexandra,"End of loanApr 1, 1998",in,0,Championship,1997,1997/1998
+Nottingham Forest,Stephen Howe,23,Midfielder,Ipswich,"End of loanJun 30, 1997",in,0,Championship,1997,1997/1998
+Nottingham Forest,Andrea Silenzi,31,Centre-Forward,AC Venezia 1907,"End of loanJun 30, 1997",in,0,Championship,1997,1997/1998
+Nottingham Forest,Alf-Inge Haland,24,Defensive Midfield,Leeds,£2.16m,out,2.16,Championship,1997,1997/1998
+Nottingham Forest,Bryan Roy,27,Right Winger,Hertha BSC,£1.44m,out,1.44,Championship,1997,1997/1998
+Nottingham Forest,Jason Lee,26,Centre-Forward,Watford,£270k,out,0.27,Championship,1997,1997/1998
+Nottingham Forest,Stephen Blatherwick,23,Centre-Back,Burnley,£140k,out,0.14,Championship,1997,1997/1998
+Nottingham Forest,Marlon Harewood,18,Centre-Forward,FC Haka,Loan,out,0,Championship,1997,1997/1998
+Nottingham Forest,Ian Thomas-Moore,18,Centre-Forward,West Ham,Free Transfer,out,0,Championship,1997,1997/1998
+Nottingham Forest,Steve Guinan,22,Centre-Forward,Crewe Alexandra,Loan,out,0,Championship,1997,1997/1998
+Nottingham Forest,Vance Warner,22,Defender,Rotherham,Loan,out,0,Championship,1997,1997/1998
+Nottingham Forest,Dean Saunders,33,Centre-Forward,Sheffield Utd.,Free Transfer,out,0,Championship,1997,1997/1998
+Nottingham Forest,Richard Irving,21,Forward,Macclesfield,Free Transfer,out,0,Championship,1997,1997/1998
+Nottingham Forest,Mark Crossley,28,Goalkeeper,Millwall,Loan,out,0,Championship,1997,1997/1998
+Nottingham Forest,John Finnigan,21,Midfielder,Lincoln City,Free Transfer,out,0,Championship,1997,1997/1998
+Nottingham Forest,Nikola Jerkan,32,Centre-Back,Rapid Vienna,Loan,out,0,Championship,1997,1997/1998
+Nottingham Forest,Stuart Pearce,35,Left-Back,Newcastle,?,out,NA,Championship,1997,1997/1998
+Nottingham Forest,Andrea Silenzi,31,Centre-Forward,Reggiana,?,out,NA,Championship,1997,1997/1998
+Nottingham Forest,Alan Fettis,26,Goalkeeper,Blackburn,?,out,NA,Championship,1997,1997/1998
+Nottingham Forest,Vance Warner,23,Defender,Rotherham,?,out,NA,Championship,1997,1997/1998
+Nottingham Forest,David Phillips,33,Right Midfield,Huddersfield,?,out,NA,Championship,1997,1997/1998
+Nottingham Forest,Damien Johnson,19,Central Midfield,Blackburn,"End of loanFeb 28, 1998",out,0,Championship,1997,1997/1998
+Swansea City,Aidan Newhouse,25,Forward,Fulham,Free Transfer,in,0,Championship,1997,1997/1998
+Swansea City,Gary Jones,20,Central Midfield,Caernarfon Town,Free Transfer,in,0,Championship,1997,1997/1998
+Swansea City,John Hills,19,Left-Back,Blackpool,Loan,in,0,Championship,1997,1997/1998
+Swansea City,Julian Alsop,24,Centre-Forward,Bristol Rovers,£41k,in,0.041,Championship,1997,1997/1998
+Swansea City,David O'Gorman,25,Right Winger,Barry Town,?,in,NA,Championship,1997,1997/1998
+Swansea City,Nicholas Cusack,31,Midfielder,Fulham,?,in,NA,Championship,1997,1997/1998
+Swansea City,Tony Bird,22,Forward,Barry Town,?,in,NA,Championship,1997,1997/1998
+Swansea City,Charlie Hartfield,26,Midfielder,Without Club,-,in,0,Championship,1997,1997/1998
+Swansea City,Lee Jones,27,Goalkeeper,Bristol Rovers,"End of loanMay 31, 1998",in,0,Championship,1997,1997/1998
+Swansea City,Steve Torpey,26,Centre-Forward,Bristol City,£540k,out,0.54,Championship,1997,1997/1998
+Swansea City,Gary Jones,20,Central Midfield,Rochdale,Free Transfer,out,0,Championship,1997,1997/1998
+Swansea City,Kwame Ampadu,27,Midfielder,Leyton Orient,Free Transfer,out,0,Championship,1997,1997/1998
+Swansea City,Lee Jones,27,Goalkeeper,Bristol Rovers,Loan,out,0,Championship,1997,1997/1998
+Swansea City,Dave Penney,32,Midfielder,Cardiff,?,out,NA,Championship,1997,1997/1998
+Swansea City,John Hills,19,Left-Back,Blackpool,"End of loanFeb 1, 1998",out,0,Championship,1997,1997/1998
+Swansea City,Jan Mölby,33,Central Midfield,Retired,-,out,0,Championship,1997,1997/1998
+Brentford FC,Danny Cullip,20,Centre-Back,Fulham,£113k,in,0.113,Championship,1997,1997/1998
+Brentford FC,Graeme Hogg,33,Centre-Back,Notts County,£99k,in,0.099,Championship,1997,1997/1998
+Brentford FC,Paul Watson,22,Right-Back,Fulham,£63k,in,0.063,Championship,1997,1997/1998
+Brentford FC,Warren Aspinall,30,Midfielder,Carlisle United,£54k,in,0.054,Championship,1997,1997/1998
+Brentford FC,Gareth Hall,28,Defensive Midfield,Sunderland,Loan,in,0,Championship,1997,1997/1998
+Brentford FC,Simon Wormull,20,Midfielder,Tottenham U21,Free Transfer,in,0,Championship,1997,1997/1998
+Brentford FC,Charlie Oatway,23,Central Midfield,Torquay United,£14k,in,0.014,Championship,1997,1997/1998
+Brentford FC,Niall Thompson,23,Forward,Sounders FC,?,in,NA,Championship,1997,1997/1998
+Brentford FC,Nigel Gleghorn,35,Centre-Forward,Burnley,Loan,in,0,Championship,1997,1997/1998
+Brentford FC,Graham Benstead,33,Goalkeeper,Rush. & Diamon.,?,in,NA,Championship,1997,1997/1998
+Brentford FC,Glenn Cockerill,38,Central Midfield,Fulham,?,in,NA,Championship,1997,1997/1998
+Brentford FC,Carl Asaba,24,Centre-Forward,Reading,£1.08m,out,1.08,Championship,1997,1997/1998
+Brentford FC,Marcus Bent,19,Centre-Forward,Crystal Palace,£405k,out,0.405,Championship,1997,1997/1998
+Brentford FC,Barry Ashby,26,Centre-Back,Gillingham FC,£203k,out,0.203,Championship,1997,1997/1998
+Brentford FC,Paul Smith,25,Midfielder,Gillingham FC,Free Transfer,out,0,Championship,1997,1997/1998
+Brentford FC,Brian Statham,28,Right-Back,Gillingham FC,£11k,out,0.011,Championship,1997,1997/1998
+Brentford FC,Graham Benstead,34,Goalkeeper,Basingstoke,?,out,NA,Championship,1997,1997/1998
+Brentford FC,Nigel Gleghorn,35,Centre-Forward,Burnley,"End of loanJan 24, 1998",out,0,Championship,1997,1997/1998
+Brentford FC,Gareth Hall,28,Defensive Midfield,Sunderland,"End of loanNov 1, 1997",out,0,Championship,1997,1997/1998
+Sheffield Wednesday,Andy Hinchcliffe,28,Left-Back,Everton,£4.05m,in,4.05,Championship,1997,1997/1998
+Sheffield Wednesday,Jim Magilton,28,Right Midfield,Southampton,£1.71m,in,1.71,Championship,1997,1997/1998
+Sheffield Wednesday,Goce Sedloski,23,Centre-Back,Hajduk Split,£1.35m,in,1.35,Championship,1997,1997/1998
+Sheffield Wednesday,Niclas Alexandersson,26,Right Midfield,IFK Göteborg,£990k,in,0.99,Championship,1997,1997/1998
+Sheffield Wednesday,Mark McKeever,18,Midfielder,Peterborough,£675k,in,0.675,Championship,1997,1997/1998
+Sheffield Wednesday,Earl Barrett,30,Right-Back,Everton,Loan,in,0,Championship,1997,1997/1998
+Sheffield Wednesday,Francesco Sanetti,19,Second Striker,Genoa U19,Free Transfer,in,0,Championship,1997,1997/1998
+Sheffield Wednesday,Paolo Di Canio,28,Centre-Forward,Celtic,Free Transfer,in,0,Championship,1997,1997/1998
+Sheffield Wednesday,Earl Barrett,30,Right-Back,Everton,Free Transfer,in,0,Championship,1997,1997/1998
+Sheffield Wednesday,Nigel Clough,31,Attacking Midfield,Man City,Loan,in,0,Championship,1997,1997/1998
+Sheffield Wednesday,Christian Mayrleb,25,Centre-Forward,FC Tirol,Free Transfer,in,0,Championship,1997,1997/1998
+Sheffield Wednesday,Émerson Thome,25,Centre-Back,Benfica,Free Transfer,in,0,Championship,1997,1997/1998
+Sheffield Wednesday,Alan Quinn,18,Central Midfield,Cherry Orchard FC,£32k,in,0.032,Championship,1997,1997/1998
+Sheffield Wednesday,Bruce Grobbelaar,39,Goalkeeper,Oxford United,?,in,NA,Championship,1997,1997/1998
+Sheffield Wednesday,Junior Agogo,17,Centre-Forward,Sheff Wed U18,-,in,0,Championship,1997,1997/1998
+Sheffield Wednesday,O'Neill Donaldson,28,Centre-Forward,Oxford United,"End of loanMar 1, 1998",in,0,Championship,1997,1997/1998
+Sheffield Wednesday,Derek Geary,17,Right-Back,Sheff Wed U18,-,in,0,Championship,1997,1997/1998
+Sheffield Wednesday,David Hirst,29,Centre-Forward,Southampton,£2.25m,out,2.25,Championship,1997,1997/1998
+Sheffield Wednesday,Wayne Collins,28,Midfielder,Fulham,£540k,out,0.54,Championship,1997,1997/1998
+Sheffield Wednesday,O'Neill Donaldson,28,Centre-Forward,Oxford United,Loan,out,0,Championship,1997,1997/1998
+Sheffield Wednesday,Mark Pembridge,26,Left Midfield,Benfica,Free Transfer,out,0,Championship,1997,1997/1998
+Sheffield Wednesday,O'Neill Donaldson,28,Centre-Forward,Stoke City,Free Transfer,out,0,Championship,1997,1997/1998
+Sheffield Wednesday,Brian Linighan,23,Centre-Back,Bury,Free Transfer,out,0,Championship,1997,1997/1998
+Sheffield Wednesday,Lee Briscoe,22,Left-Back,Man City,Loan,out,0,Championship,1997,1997/1998
+Sheffield Wednesday,Orlando Trustfull,26,Defensive Midfield,Vitesse,?,out,NA,Championship,1997,1997/1998
+Sheffield Wednesday,Patrick Blondeau,29,Right-Back,G. Bordeaux,?,out,NA,Championship,1997,1997/1998
+Sheffield Wednesday,Mike Williams,27,Forward,Burnley,?,out,NA,Championship,1997,1997/1998
+Sheffield Wednesday,Steve Nicol,36,Right-Back,West Brom,?,out,NA,Championship,1997,1997/1998
+Sheffield Wednesday,Regi Blinker,28,Left Midfield,Celtic,?,out,NA,Championship,1997,1997/1998
+Sheffield Wednesday,Bruce Grobbelaar,40,Goalkeeper,Oldham Athletic,?,out,NA,Championship,1997,1997/1998
+Sheffield Wednesday,Nigel Clough,31,Attacking Midfield,Man City,"End of loanOct 3, 1997",out,0,Championship,1997,1997/1998
+Sheffield Wednesday,Earl Barrett,30,Right-Back,Everton,"End of loanFeb 1, 1998",out,0,Championship,1997,1997/1998
+Hull City,Neil Whitworth,26,Centre-Back,Kilmarnock FC,Free Transfer,in,0,Championship,1997,1997/1998
+Hull City,David Rocastle,30,Attacking Midfield,Chelsea,Loan,in,0,Championship,1997,1997/1998
+Hull City,Kevin Gage,33,Midfielder,Preston NE,Free Transfer,in,0,Championship,1997,1997/1998
+Hull City,Brian McGinty,20,Centre-Forward,Rangers,Free Transfer,in,0,Championship,1997,1997/1998
+Hull City,Scott Thomson,30,Goalkeeper,Raith Rovers,?,in,NA,Championship,1997,1997/1998
+Hull City,Steven Boyack,21,Midfielder,Rangers,Loan,in,0,Championship,1997,1997/1998
+Hull City,Mark Hateley,35,Centre-Forward,Rangers,?,in,NA,Championship,1997,1997/1998
+Hull City,Darren O'Keeffe,18,Right Midfield,Huddersfield,?,in,NA,Championship,1997,1997/1998
+Hull City,Mike Edwards,17,Centre-Back,Hull U18,-,in,0,Championship,1997,1997/1998
+Hull City,Ben Morley,16,Midfielder,Hull U18,-,in,0,Championship,1997,1997/1998
+Hull City,Aidan Davison,29,Goalkeeper,Grimsby Town,Free Transfer,out,0,Championship,1997,1997/1998
+Hull City,Duane Darby,24,Forward,Notts County,Free Transfer,out,0,Championship,1997,1997/1998
+Hull City,Gavin Gordon,18,Centre-Forward,Lincoln City,£41k,out,0.041,Championship,1997,1997/1998
+Hull City,David Rocastle,30,Attacking Midfield,Chelsea,"End of loanMay 1, 1998",out,0,Championship,1997,1997/1998
+Preston North End,Michael Appleton,21,Midfielder,Man Utd,£684k,in,0.684,Championship,1997,1997/1998
+Preston North End,Colin Murdock,21,Centre-Back,Man Utd,£135k,in,0.135,Championship,1997,1997/1998
+Preston North End,Julian Darby,29,Midfielder,West Brom,£108k,in,0.108,Championship,1997,1997/1998
+Preston North End,David Eyres,33,Midfielder,Burnley,£90k,in,0.09,Championship,1997,1997/1998
+Preston North End,Gary Parkinson,29,Right-Back,Burnley,Free Transfer,in,0,Championship,1997,1997/1998
+Preston North End,John Mullin,22,Right Winger,Sunderland,Loan,in,0,Championship,1997,1997/1998
+Preston North End,Jon Macken,19,Centre-Forward,Man Utd,£9k,in,0.009,Championship,1997,1997/1998
+Preston North End,Habib Sissoko,26,Centre-Forward,Louh.-Cuiseaux,?,in,NA,Championship,1997,1997/1998
+Preston North End,John Maduka,26,Central Midfield,Silver Strikers,?,in,NA,Championship,1997,1997/1998
+Preston North End,Paul Morgan,18,Centre-Back,Preston U18,-,in,0,Championship,1997,1997/1998
+Preston North End,Julian Darby,30,Midfielder,Rotherham,"End of loanMay 1, 1998",in,0,Championship,1997,1997/1998
+Preston North End,Kevin Kilbane,20,Left Midfield,West Brom,£2.03m,out,2.03,Championship,1997,1997/1998
+Preston North End,Kevin Gage,33,Midfielder,Hull City,Free Transfer,out,0,Championship,1997,1997/1998
+Preston North End,Julian Darby,30,Midfielder,Rotherham,Loan,out,0,Championship,1997,1997/1998
+Preston North End,Bobby Mimms,33,Goalkeeper,Rotherham,Free Transfer,out,0,Championship,1997,1997/1998
+Preston North End,Ian Bryson,34,Central Midfield,Rochdale,Free Transfer,out,0,Championship,1997,1997/1998
+Preston North End,David Reeves,29,Forward,Chesterfield FC,?,out,NA,Championship,1997,1997/1998
+Preston North End,David Moyes,34,Centre-Back,Retired,-,out,0,Championship,1997,1997/1998
+Preston North End,John Mullin,22,Right Winger,Sunderland,"End of loanMar 1, 1998",out,0,Championship,1997,1997/1998
+Blackburn Rovers,Stéphane Henchoz,22,Centre-Back,Hamburger SV,£2.70m,in,2.7,Championship,1997,1997/1998
+Blackburn Rovers,Martin Dahlin,29,Centre-Forward,AS Roma,£2.70m,in,2.7,Championship,1997,1997/1998
+Blackburn Rovers,Callum Davidson,21,Left-Back,St. Johnstone,£2.25m,in,2.25,Championship,1997,1997/1998
+Blackburn Rovers,John Filan,27,Goalkeeper,Coventry,£900k,in,0.9,Championship,1997,1997/1998
+Blackburn Rovers,Jim Corbett,17,Midfielder,Gillingham FC,£563k,in,0.563,Championship,1997,1997/1998
+Blackburn Rovers,Patrick Valéry,27,Right-Back,SC Bastia,Free Transfer,in,0,Championship,1997,1997/1998
+Blackburn Rovers,Tore Pedersen,27,Centre-Back,FC St. Pauli,?,in,NA,Championship,1997,1997/1998
+Blackburn Rovers,Alan Fettis,26,Goalkeeper,Nottm Forest,?,in,NA,Championship,1997,1997/1998
+Blackburn Rovers,Anders Andersson,23,Defensive Midfield,Malmö FF,?,in,NA,Championship,1997,1997/1998
+Blackburn Rovers,Michael Watt,26,Goalkeeper,Aberdeen FC,Loan,in,0,Championship,1997,1997/1998
+Blackburn Rovers,Damien Johnson,19,Central Midfield,Nottm Forest,"End of loanFeb 28, 1998",in,0,Championship,1997,1997/1998
+Blackburn Rovers,Wayne Gill,22,Midfielder,Dundee United,"End of loanMay 1, 1998",in,0,Championship,1997,1997/1998
+Blackburn Rovers,James Thomas,18,Forward,West Brom,"End of loanSep 29, 1997",in,0,Championship,1997,1997/1998
+Blackburn Rovers,David Worrell,19,Right-Back,Blackburn U18,-,in,0,Championship,1997,1997/1998
+Blackburn Rovers,Graham Coughlan,23,Centre-Back,Swindon Town,"End of loanApr 1, 1998",in,0,Championship,1997,1997/1998
+Blackburn Rovers,James Thomas,18,Forward,Blackburn U18,-,in,0,Championship,1997,1997/1998
+Blackburn Rovers,Damien Johnson,18,Central Midfield,Blackburn U18,-,in,0,Championship,1997,1997/1998
+Blackburn Rovers,Anthony Williams,19,Goalkeeper,Blackburn U18,-,in,0,Championship,1997,1997/1998
+Blackburn Rovers,Anthony Williams,20,Goalkeeper,QPR,"End of loanMar 1, 1998",in,0,Championship,1997,1997/1998
+Blackburn Rovers,Gareth Stewart,17,Goalkeeper,Blackburn U18,-,in,0,Championship,1997,1997/1998
+Blackburn Rovers,Graeme Le Saux,28,Left-Back,Chelsea,£9.45m,out,9.45,Championship,1997,1997/1998
+Blackburn Rovers,Henning Berg,27,Right-Back,Man Utd,£6.75m,out,6.75,Championship,1997,1997/1998
+Blackburn Rovers,Chris Coleman,27,Centre-Back,Fulham,£3.31m,out,3.31,Championship,1997,1997/1998
+Blackburn Rovers,Ian Pearce,23,Centre-Back,West Ham,£3.24m,out,3.24,Championship,1997,1997/1998
+Blackburn Rovers,Shay Given,21,Goalkeeper,Newcastle,£2.03m,out,2.03,Championship,1997,1997/1998
+Blackburn Rovers,Matt Holmes,28,Midfielder,Charlton,£270k,out,0.27,Championship,1997,1997/1998
+Blackburn Rovers,Damien Johnson,19,Central Midfield,Nottm Forest,Loan,out,0,Championship,1997,1997/1998
+Blackburn Rovers,Wayne Gill,22,Midfielder,Dundee United,Loan,out,0,Championship,1997,1997/1998
+Blackburn Rovers,Georgios Donis,27,Right Winger,AEK Athens,Free Transfer,out,0,Championship,1997,1997/1998
+Blackburn Rovers,James Thomas,18,Forward,West Brom,Loan,out,0,Championship,1997,1997/1998
+Blackburn Rovers,Graham Coughlan,23,Centre-Back,Swindon Town,Loan,out,0,Championship,1997,1997/1998
+Blackburn Rovers,Paul Warhurst,27,Centre-Back,Crystal Palace,Free Transfer,out,0,Championship,1997,1997/1998
+Blackburn Rovers,Anthony Williams,20,Goalkeeper,QPR,Loan,out,0,Championship,1997,1997/1998
+Blackburn Rovers,Per Pedersen,28,Centre-Forward,Bor. M'gladbach,?,out,NA,Championship,1997,1997/1998
+Blackburn Rovers,Thomas Morgan,20,Defensive Midfield,St. Patricks,?,out,NA,Championship,1997,1997/1998
+Blackburn Rovers,Niklas Gudmundsson,25,Midfielder,Malmö FF,?,out,NA,Championship,1997,1997/1998
+Blackburn Rovers,Nicholas Marker,32,Defender,Sheffield Utd.,?,out,NA,Championship,1997,1997/1998
+Blackburn Rovers,Lars Bohinen,28,Central Midfield,Derby,?,out,NA,Championship,1997,1997/1998
+Stoke City,Peter Thorne,24,Centre-Forward,Swindon Town,£675k,in,0.675,Championship,1997,1997/1998
+Stoke City,O'Neill Donaldson,28,Centre-Forward,Sheff Wed,Free Transfer,in,0,Championship,1997,1997/1998
+Stoke City,Steven Tweed,24,Centre-Back,Ionikos Nikeas,Free Transfer,in,0,Championship,1997,1997/1998
+Stoke City,Dick Schreuder,25,Defensive Midfield,RKC Waalwijk,Free Transfer,in,0,Championship,1997,1997/1998
+Stoke City,Marco Gabbiadini,29,Centre-Forward,Panionios,Free Transfer,in,0,Championship,1997,1997/1998
+Stoke City,Jörg Sobiech,29,Left-Back,NEC Nijmegen,Loan,in,0,Championship,1997,1997/1998
+Stoke City,Tony Scully,21,Midfielder,Man City,Loan,in,0,Championship,1997,1997/1998
+Stoke City,Kyle Lightbourne,29,Forward,Coventry,?,in,NA,Championship,1997,1997/1998
+Stoke City,Paul Stewart,32,Defensive Midfield,Sunderland,?,in,NA,Championship,1997,1997/1998
+Stoke City,Kristján Örn Sigurdsson,17,Centre-Back,KA Akureyri,?,in,NA,Championship,1997,1997/1998
+Stoke City,Neville Southall,39,Goalkeeper,Everton,?,in,NA,Championship,1997,1997/1998
+Stoke City,José Gomes Andrade,27,Centre-Forward,Académico Viseu,?,in,NA,Championship,1997,1997/1998
+Stoke City,Mark McNally,26,Centre-Back,Southend United,?,in,NA,Championship,1997,1997/1998
+Stoke City,Steve Woods,21,Centre-Back,Plymouth,"End of loanMay 31, 1998",in,0,Championship,1997,1997/1998
+Stoke City,Marco Gabbiadini,30,Centre-Forward,York City,"End of loanMay 31, 1998",in,0,Championship,1997,1997/1998
+Stoke City,Steve Woods,20,Centre-Back,Stoke U21,-,in,0,Championship,1997,1997/1998
+Stoke City,Andy Griffin,18,Right-Back,Newcastle,£2.25m,out,2.25,Championship,1997,1997/1998
+Stoke City,Steve Woods,21,Centre-Back,Plymouth,Loan,out,0,Championship,1997,1997/1998
+Stoke City,Mike Sheron,25,Centre-Forward,QPR,Free Transfer,out,0,Championship,1997,1997/1998
+Stoke City,Marco Gabbiadini,30,Centre-Forward,York City,Loan,out,0,Championship,1997,1997/1998
+Stoke City,Stephen Jagielka,19,Attacking Midfield,Shrewsbury,Free Transfer,out,0,Championship,1997,1997/1998
+Stoke City,José Gomes Andrade,27,Centre-Forward,Gil Vicente,?,out,NA,Championship,1997,1997/1998
+Stoke City,Nigel Worthington,35,Left-Back,Blackpool,?,out,NA,Championship,1997,1997/1998
+Stoke City,Davide Xausa,21,Centre-Forward,St. Johnstone,?,out,NA,Championship,1997,1997/1998
+Stoke City,Tony Scully,21,Midfielder,Man City,"End of loanMar 1, 1998",out,0,Championship,1997,1997/1998
+Birmingham City,Peter Ndlovu,24,Centre-Forward,Coventry,£2.03m,in,2.03,Championship,1997,1997/1998
+Birmingham City,Jon McCarthy,26,Midfielder,Port Vale,£1.80m,in,1.8,Championship,1997,1997/1998
+Birmingham City,Dele Adebola,22,Centre-Forward,Crewe Alexandra,£1.35m,in,1.35,Championship,1997,1997/1998
+Birmingham City,Darren Purse,21,Centre-Back,Oxford United,£765k,in,0.765,Championship,1997,1997/1998
+Birmingham City,Simon Charlton,25,Centre-Back,Southampton,£248k,in,0.248,Championship,1997,1997/1998
+Birmingham City,Kevin Poole,34,Goalkeeper,Leicester,Free Transfer,in,0,Championship,1997,1997/1998
+Birmingham City,Tony Cottee,32,Centre-Forward,Leicester,Loan,in,0,Championship,1997,1997/1998
+Birmingham City,Antoine Hey,26,Right Midfield,SC Fortuna Köln,Free Transfer,in,0,Championship,1997,1997/1998
+Birmingham City,Jerry Gill,26,Right-Back,Yeovil Town,Free Transfer,in,0,Championship,1997,1997/1998
+Birmingham City,Ricky Otto,29,Left Winger,Notts County,"End of loanOct 31, 1997",in,0,Championship,1997,1997/1998
+Birmingham City,Craig Hinton,19,Right-Back,Birmingham U18,-,in,0,Championship,1997,1997/1998
+Birmingham City,Jason Bowen,25,Central Midfield,Southampton,"End of loanSep 29, 1997",in,0,Championship,1997,1997/1998
+Birmingham City,Andy Johnson,16,Centre-Forward,Birmingham U18,-,in,0,Championship,1997,1997/1998
+Birmingham City,Mike Newell,32,Centre-Forward,Bradford,"End of loanJun 30, 1997",in,0,Championship,1997,1997/1998
+Birmingham City,Gary Breen,24,Centre-Back,Coventry,£3.38m,out,3.38,Championship,1997,1997/1998
+Birmingham City,Jonathan Hunt,25,Forward,Derby,£675k,out,0.675,Championship,1997,1997/1998
+Birmingham City,Jason Bowen,25,Central Midfield,Reading,£270k,out,0.27,Championship,1997,1997/1998
+Birmingham City,Mike Newell,32,Centre-Forward,Aberdeen FC,£171k,out,0.171,Championship,1997,1997/1998
+Birmingham City,Kevin Francis,30,Centre-Forward,Oxford United,£103k,out,0.103,Championship,1997,1997/1998
+Birmingham City,Steve Sutton,36,Goalkeeper,Notts County,Free Transfer,out,0,Championship,1997,1997/1998
+Birmingham City,Kenny Brown,29,Defender,Millwall,?,out,NA,Championship,1997,1997/1998
+Birmingham City,Andy Legg,30,Left-Back,Reading,?,out,NA,Championship,1997,1997/1998
+Birmingham City,Ricky Otto,29,Left Winger,Notts County,Loan,out,0,Championship,1997,1997/1998
+Birmingham City,Paul Devlin,25,Attacking Midfield,Sheffield Utd.,?,out,NA,Championship,1997,1997/1998
+Birmingham City,Barry Horne,35,Defensive Midfield,Huddersfield,?,out,NA,Championship,1997,1997/1998
+Birmingham City,Wayne Dyer,19,Midfielder,Oxford United,?,out,NA,Championship,1997,1997/1998
+Birmingham City,Jason Bowen,25,Central Midfield,Southampton,Loan,out,0,Championship,1997,1997/1998
+Birmingham City,Dave Barnett,30,Centre-Back,Dunfermline A.,?,out,NA,Championship,1997,1997/1998
+Birmingham City,Tony Cottee,32,Centre-Forward,Leicester,"End of loanDec 1, 1997",out,0,Championship,1997,1997/1998
+Wigan Athletic,David Lee,29,Midfielder,Bolton,£282k,in,0.282,Championship,1997,1997/1998
+Wigan Athletic,Andy Porter,29,Midfielder,Port Vale,Free Transfer,in,0,Championship,1997,1997/1998
+Wigan Athletic,Drewe Broughton,18,Centre-Forward,Norwich,Free Transfer,in,0,Championship,1997,1997/1998
+Wigan Athletic,Sean Hessey,19,Centre-Back,Leeds,Free Transfer,in,0,Championship,1997,1997/1998
+Wigan Athletic,Neil Whitworth,25,Centre-Back,Kilmarnock FC,Loan,in,0,Championship,1997,1997/1998
+Wigan Athletic,Neil Mustoe,21,Midfielder,Man Utd U23,Free Transfer,in,0,Championship,1997,1997/1998
+Wigan Athletic,Gareth Griffiths,28,Defender,Port Vale,Free Transfer,in,0,Championship,1997,1997/1998
+Wigan Athletic,Paul Warne,24,Right Winger,Wroxham FC,£32k,in,0.032,Championship,1997,1997/1998
+Wigan Athletic,Leigh Jenkinson,28,Midfielder,St. Johnstone,?,in,NA,Championship,1997,1997/1998
+Wigan Athletic,Jörg Smeets,27,Midfielder,Heracles,?,in,NA,Championship,1997,1997/1998
+Wigan Athletic,Pasquale Bruno,35,Right-Back,Heart of Midl.,?,in,NA,Championship,1997,1997/1998
+Wigan Athletic,Stuart Barlow,29,Centre-Forward,Oldham Athletic,?,in,NA,Championship,1997,1997/1998
+Wigan Athletic,Carl Bradshaw,28,Right-Back,Norwich,?,in,NA,Championship,1997,1997/1998
+Wigan Athletic,Neil Fitzhenry,18,Left-Back,Wigan U18,-,in,0,Championship,1997,1997/1998
+Wigan Athletic,Steve Morgan,29,Left-Back,Bury,"End of loanOct 1, 1997",in,0,Championship,1997,1997/1998
+Wigan Athletic,Andy Saville,32,Centre-Forward,Cardiff,£60k,out,0.06,Championship,1997,1997/1998
+Wigan Athletic,Matt Carragher,21,Right-Back,Port Vale,Free Transfer,out,0,Championship,1997,1997/1998
+Wigan Athletic,Steve Morgan,28,Left-Back,Bury,Loan,out,0,Championship,1997,1997/1998
+Wigan Athletic,Wayne Biggins,35,Centre-Forward,Leek Town FC,Free Transfer,out,0,Championship,1997,1997/1998
+Wigan Athletic,Mark Ward,34,Left-Back,Dundee FC,?,out,NA,Championship,1997,1997/1998
+Wigan Athletic,Sean Hessey,19,Centre-Back,Huddersfield,?,out,NA,Championship,1997,1997/1998
+Wigan Athletic,John Pender,33,Centre-Back,Rochdale,?,out,NA,Championship,1997,1997/1998
+Wigan Athletic,Drewe Broughton,18,Centre-Forward,Norwich,?,out,NA,Championship,1997,1997/1998
+Queens Park Rangers,Vinnie Jones,33,Defensive Midfield,Wimbledon FC,£801k,in,0.801,Championship,1997,1997/1998
+Queens Park Rangers,Matthew Rose,21,Defender,Arsenal,£675k,in,0.675,Championship,1997,1997/1998
+Queens Park Rangers,Lee Harper,25,Goalkeeper,Arsenal,£135k,in,0.135,Championship,1997,1997/1998
+Queens Park Rangers,Ian Baraclough,27,Left Midfield,Notts County,£95k,in,0.095,Championship,1997,1997/1998
+Queens Park Rangers,Mark Kennedy,21,Left-Back,Liverpool,Loan,in,0,Championship,1997,1997/1998
+Queens Park Rangers,Anthony Williams,20,Goalkeeper,Blackburn,Loan,in,0,Championship,1997,1997/1998
+Queens Park Rangers,Mike Sheron,25,Centre-Forward,Stoke City,Free Transfer,in,0,Championship,1997,1997/1998
+Queens Park Rangers,Keith Rowland,26,Left-Back,West Ham,Free Transfer,in,0,Championship,1997,1997/1998
+Queens Park Rangers,Paul Bruce,19,Midfielder,Unknown,?,in,NA,Championship,1997,1997/1998
+Queens Park Rangers,Tony Scully,21,Midfielder,Man City,?,in,NA,Championship,1997,1997/1998
+Queens Park Rangers,Antti Heinola,24,Right-Back,Heracles,?,in,NA,Championship,1997,1997/1998
+Queens Park Rangers,Iain Dowie,32,Centre-Forward,West Ham,?,in,NA,Championship,1997,1997/1998
+Queens Park Rangers,Lee Charles,26,Forward,Cambridge Utd.,"End of loanMar 21, 1998",in,0,Championship,1997,1997/1998
+Queens Park Rangers,Trevor Sinclair,24,Left Winger,West Ham,£2.75m,out,2.75,Championship,1997,1997/1998
+Queens Park Rangers,Andy Impey,25,Defensive Midfield,West Ham,£1.51m,out,1.51,Championship,1997,1997/1998
+Queens Park Rangers,Simon Barker,33,Midfielder,Port Vale,£457k,out,0.457,Championship,1997,1997/1998
+Queens Park Rangers,John Spencer,27,Centre-Forward,Everton,Free Transfer,out,0,Championship,1997,1997/1998
+Queens Park Rangers,Barry Conlon,18,Centre-Forward,Man City,Free Transfer,out,0,Championship,1997,1997/1998
+Queens Park Rangers,Lee Charles,26,Forward,Cambridge Utd.,Loan,out,0,Championship,1997,1997/1998
+Queens Park Rangers,Mike Sheron,25,Centre-Forward,West Brom,?,out,NA,Championship,1997,1997/1998
+Queens Park Rangers,Juergen Sommer,28,Goalkeeper,Columbus Crew,?,out,NA,Championship,1997,1997/1998
+Queens Park Rangers,Matt Brazier,21,Midfielder,Fulham,?,out,NA,Championship,1997,1997/1998
+Queens Park Rangers,Anthony Williams,20,Goalkeeper,Blackburn,"End of loanMar 1, 1998",out,0,Championship,1997,1997/1998
+Queens Park Rangers,Mark Kennedy,21,Left-Back,Liverpool,"End of loanMar 1, 1998",out,0,Championship,1997,1997/1998
+Reading FC,Carl Asaba,24,Centre-Forward,Brentford,£1.08m,in,1.08,Championship,1997,1997/1998
+Reading FC,Jim McIntyre,25,Left Winger,Kilmarnock FC,£594k,in,0.594,Championship,1997,1997/1998
+Reading FC,Linvoy Primus,23,Centre-Back,Barnet,£315k,in,0.315,Championship,1997,1997/1998
+Reading FC,Lee Hodges,23,Left Midfield,Barnet,£270k,in,0.27,Championship,1997,1997/1998
+Reading FC,Jason Bowen,25,Central Midfield,Birmingham,£270k,in,0.27,Championship,1997,1997/1998
+Reading FC,Gareth Davies,24,Centre-Back,Crystal Palace,£194k,in,0.194,Championship,1997,1997/1998
+Reading FC,Paul Brayson,20,Forward,Newcastle,£117k,in,0.117,Championship,1997,1997/1998
+Reading FC,Stuart Gray,27,Right-Back,Celtic,£105k,in,0.105,Championship,1997,1997/1998
+Reading FC,Jim Crawford,24,Midfielder,Newcastle,£59k,in,0.059,Championship,1997,1997/1998
+Reading FC,Nick Colgan,24,Goalkeeper,Chelsea,Loan,in,0,Championship,1997,1997/1998
+Reading FC,John Polston,29,Centre-Back,Norwich,Free Transfer,in,0,Championship,1997,1997/1998
+Reading FC,David Whyte,26,Forward,Charlton,Free Transfer,in,0,Championship,1997,1997/1998
+Reading FC,Lee Sandford,29,Defender,Sheffield Utd.,Loan,in,0,Championship,1997,1997/1998
+Reading FC,Ray Houghton,35,Central Midfield,Crystal Palace,Free Transfer,in,0,Championship,1997,1997/1998
+Reading FC,Mark Robins,27,Centre-Forward,Leicester,Loan,in,0,Championship,1997,1997/1998
+Reading FC,Andy Legg,30,Left-Back,Birmingham,?,in,NA,Championship,1997,1997/1998
+Reading FC,Michael O'Neill,28,Attacking Midfield,Coventry,Loan,in,0,Championship,1997,1997/1998
+Reading FC,Alan Pardew,35,Midfielder,Barnet,?,in,NA,Championship,1997,1997/1998
+Reading FC,Paul Bodin,33,Left-Back,Wycombe,"End of loanOct 1, 1997",in,0,Championship,1997,1997/1998
+Reading FC,Ben Smith,19,Attacking Midfield,Yeovil Town,Free Transfer,out,0,Championship,1997,1997/1998
+Reading FC,Jeff Hopkins,33,Centre-Back,Selangor FA,Free Transfer,out,0,Championship,1997,1997/1998
+Reading FC,Michael Gilkes,32,Left Midfield,Wolves,?,out,NA,Championship,1997,1997/1998
+Reading FC,Jimmy Quinn,37,Centre-Forward,Peterborough,?,out,NA,Championship,1997,1997/1998
+Reading FC,Borislav Mihaylov,34,Goalkeeper,Slavia Sofia,?,out,NA,Championship,1997,1997/1998
+Reading FC,Paul Bodin,32,Left-Back,Wycombe,Loan,out,0,Championship,1997,1997/1998
+Reading FC,David Whyte,26,Forward,Ipswich,?,out,NA,Championship,1997,1997/1998
+Reading FC,Michael Thorp,22,Defender,Cheltenham Town,?,out,NA,Championship,1997,1997/1998
+Reading FC,Mark Robins,27,Centre-Forward,Leicester,"End of loanSep 26, 1997",out,0,Championship,1997,1997/1998
+Reading FC,Nick Colgan,24,Goalkeeper,Chelsea,"End of loanMar 1, 1998",out,0,Championship,1997,1997/1998
+Reading FC,Michael O'Neill,28,Attacking Midfield,Coventry,"End of loanMay 1, 1998",out,0,Championship,1997,1997/1998
+Reading FC,Lee Sandford,29,Defender,Sheffield Utd.,"End of loanOct 4, 1997",out,0,Championship,1997,1997/1998
+Millwall FC,Paul Shaw,23,Centre-Forward,Arsenal,£288k,in,0.288,Championship,1997,1997/1998
+Millwall FC,Paul Wilkinson,32,Centre-Forward,Barnsley FC,£171k,in,0.171,Championship,1997,1997/1998
+Millwall FC,Andy Cook,28,Left-Back,Portsmouth,£68k,in,0.068,Championship,1997,1997/1998
+Millwall FC,Scott Fitzgerald,27,Centre-Back,Wimbledon FC,£54k,in,0.054,Championship,1997,1997/1998
+Millwall FC,Tim Cahill,17,Attacking Midfield,Sydney United,Free Transfer,in,0,Championship,1997,1997/1998
+Millwall FC,Paul Allen,34,Midfielder,Bristol City,Free Transfer,in,0,Championship,1997,1997/1998
+Millwall FC,Stuart Nethercott,24,Centre-Back,Spurs,Free Transfer,in,0,Championship,1997,1997/1998
+Millwall FC,Mark Crossley,28,Goalkeeper,Nottm Forest,Loan,in,0,Championship,1997,1997/1998
+Millwall FC,Graeme Tomlinson,22,Forward,Man Utd,Loan,in,0,Championship,1997,1997/1998
+Millwall FC,Leon Cort,17,Centre-Back,Dulwich Hamlet FC,Free Transfer,in,0,Championship,1997,1997/1998
+Millwall FC,Robbie Ryan,20,Left-Back,Huddersfield,Free Transfer,in,0,Championship,1997,1997/1998
+Millwall FC,Nigel Spink,39,Goalkeeper,West Brom,£45k,in,0.045,Championship,1997,1997/1998
+Millwall FC,Neil Harris,20,Centre-Forward,Cambridge City,£41k,in,0.041,Championship,1997,1997/1998
+Millwall FC,Russell Watkinson,20,Midfielder,Southampton,Loan,in,0,Championship,1997,1997/1998
+Millwall FC,Brian Law,27,Centre-Back,Wolves,?,in,NA,Championship,1997,1997/1998
+Millwall FC,Andy Gray,33,Central Midfield,Bury,?,in,NA,Championship,1997,1997/1998
+Millwall FC,Carl Veart,27,Centre-Forward,Crystal Palace,?,in,NA,Championship,1997,1997/1998
+Millwall FC,Kenny Brown,29,Defender,Birmingham,?,in,NA,Championship,1997,1997/1998
+Millwall FC,Steven Reid,16,Right-Back,Millwall U18,-,in,0,Championship,1997,1997/1998
+Millwall FC,Paul Hartley,20,Central Midfield,Raith Rovers,£207k,out,0.207,Championship,1997,1997/1998
+Millwall FC,Stevie Crawford,23,Centre-Forward,Hibernian FC,£49k,out,0.049,Championship,1997,1997/1998
+Millwall FC,Jason van Blerk,29,Left Midfield,Man City,Free Transfer,out,0,Championship,1997,1997/1998
+Millwall FC,Anton Rogan,31,Centre-Back,Blackpool,Free Transfer,out,0,Championship,1997,1997/1998
+Millwall FC,David Sinclair,27,Defender,Dundee United,?,out,NA,Championship,1997,1997/1998
+Millwall FC,Richard Cadette,32,Centre-Forward,Clydebank FC,?,out,NA,Championship,1997,1997/1998
+Millwall FC,Graeme Tomlinson,22,Forward,Man Utd,"End of loanApr 26, 1998",out,0,Championship,1997,1997/1998
+Millwall FC,Greg Berry,26,Midfielder,Retired,-,out,0,Championship,1997,1997/1998
+Millwall FC,Russell Watkinson,20,Midfielder,Southampton,"End of loanMay 31, 1998",out,0,Championship,1997,1997/1998
+Millwall FC,Mark Crossley,28,Goalkeeper,Nottm Forest,"End of loanMay 1, 1998",out,0,Championship,1997,1997/1998
+Luton Town,Phil Gray,28,Centre-Forward,Fortuna Sittard,£810k,in,0.81,Championship,1997,1997/1998
+Luton Town,Simon Davies,23,Midfielder,Man Utd,£270k,in,0.27,Championship,1997,1997/1998
+Luton Town,Alan White,21,Centre-Back,Boro U21,£54k,in,0.054,Championship,1997,1997/1998
+Luton Town,Gavin McGowan,21,Defender,Arsenal,Loan,in,0,Championship,1997,1997/1998
+Luton Town,Bryan Small,25,Defender,Bolton,Loan,in,0,Championship,1997,1997/1998
+Luton Town,Andy Dibble,32,Goalkeeper,Sheffield Utd.,?,in,NA,Championship,1997,1997/1998
+Luton Town,Mark Gayle,28,Goalkeeper,Crewe Alexandra,Loan,in,0,Championship,1997,1997/1998
+Luton Town,Rory Allen,19,Forward,Spurs,Loan,in,0,Championship,1997,1997/1998
+Luton Town,Matthew Spring,17,Central Midfield,Luton U18,-,in,0,Championship,1997,1997/1998
+Luton Town,Kelvin Davis,20,Goalkeeper,Hartlepool Utd.,"End of loanSep 1, 1997",in,0,Championship,1997,1997/1998
+Luton Town,Gary Doherty,17,Centre-Back,Luton U18,-,in,0,Championship,1997,1997/1998
+Luton Town,Matthew Upson,18,Centre-Back,Arsenal,£2.52m,out,2.52,Championship,1997,1997/1998
+Luton Town,Tony Thorpe,23,Centre-Forward,Fulham,£1.08m,out,1.08,Championship,1997,1997/1998
+Luton Town,Kelvin Davis,20,Goalkeeper,Hartlepool Utd.,Loan,out,0,Championship,1997,1997/1998
+Luton Town,Ian Feuer,26,Goalkeeper,Revolution,Free Transfer,out,0,Championship,1997,1997/1998
+Luton Town,Aaron Skelton,22,Defender,Colchester Utd.,Free Transfer,out,0,Championship,1997,1997/1998
+Luton Town,Ceri Hughes,26,Midfielder,Wimbledon FC,?,out,NA,Championship,1997,1997/1998
+Luton Town,Bontcho Guentchev,32,Attacking Midfield,CSKA Sofia,?,out,NA,Championship,1997,1997/1998
+Luton Town,Boncho Genchev,32,Midfielder,CSKA Sofia,?,out,NA,Championship,1997,1997/1998
+Luton Town,Bryan Small,26,Defender,Bolton,"End of loanDec 12, 1997",out,0,Championship,1997,1997/1998
+Luton Town,Andy Dibble,32,Goalkeeper,Without Club,-,out,0,Championship,1997,1997/1998
+Luton Town,Mark Gayle,28,Goalkeeper,Crewe Alexandra,End of loan-,out,0,Championship,1997,1997/1998
+Luton Town,Gavin McGowan,21,Defender,Arsenal,"End of loanOct 1, 1997",out,0,Championship,1997,1997/1998
+Barnsley FC,Gjorgji Hristov,21,Centre-Forward,Partizan,£2.03m,in,2.03,Championship,1997,1997/1998
+Barnsley FC,Ashley Ward,26,Centre-Forward,Derby,£1.63m,in,1.63,Championship,1997,1997/1998
+Barnsley FC,Jan Aage Fjörtoft,30,Centre-Forward,Sheffield Utd.,£1.04m,in,1.04,Championship,1997,1997/1998
+Barnsley FC,Darren Barnard,25,Left-Back,Bristol City,£810k,in,0.81,Championship,1997,1997/1998
+Barnsley FC,Lars Leese,27,Goalkeeper,Bay. Leverkusen,£338k,in,0.338,Championship,1997,1997/1998
+Barnsley FC,Eric Tinkler,26,Defensive Midfield,Cagliari Calcio,?,in,NA,Championship,1997,1997/1998
+Barnsley FC,Ales Krizan,25,Defender,NK Maribor,?,in,NA,Championship,1997,1997/1998
+Barnsley FC,Peter Markstedt,25,Centre-Forward,Västerås SK,?,in,NA,Championship,1997,1997/1998
+Barnsley FC,Scott Jones,22,Defender,Mansfield Town,"End of loanSep 1, 1997",in,0,Championship,1997,1997/1998
+Barnsley FC,Neil Thompson,34,Defender,York City,"End of loanMay 31, 1998",in,0,Championship,1997,1997/1998
+Barnsley FC,Neil Thompson,34,Defender,Oldham Athletic,"End of loanFeb 24, 1998",in,0,Championship,1997,1997/1998
+Barnsley FC,Scott Jones,22,Defender,Notts County,"End of loanNov 1, 1997",in,0,Championship,1997,1997/1998
+Barnsley FC,Neil Redfearn,32,Midfielder,Charlton,£1.03m,out,1.03,Championship,1997,1997/1998
+Barnsley FC,Paul Wilkinson,32,Centre-Forward,Millwall,£171k,out,0.171,Championship,1997,1997/1998
+Barnsley FC,Neil Thompson,34,Defender,York City,Loan,out,0,Championship,1997,1997/1998
+Barnsley FC,Scott Jones,22,Defender,Mansfield Town,Loan,out,0,Championship,1997,1997/1998
+Barnsley FC,Neil Thompson,34,Defender,Oldham Athletic,Loan,out,0,Championship,1997,1997/1998
+Barnsley FC,Laurens ten Heuvel,21,Centre-Forward,Northampt. Town,Free Transfer,out,0,Championship,1997,1997/1998
+Barnsley FC,Scott Jones,22,Defender,Notts County,Loan,out,0,Championship,1997,1997/1998
+Barnsley FC,Steve Davis,32,Defender,Oxford United,?,out,NA,Championship,1997,1997/1998
+Charlton Athletic,Neil Redfearn,32,Midfielder,Barnsley FC,£1.03m,in,1.03,Championship,1997,1997/1998
+Charlton Athletic,Danny Mills,20,Right-Back,Norwich,£338k,in,0.338,Championship,1997,1997/1998
+Charlton Athletic,Matt Holmes,28,Midfielder,Blackburn,£270k,in,0.27,Championship,1997,1997/1998
+Charlton Athletic,Mark Bright,34,Forward,FC Sion,Free Transfer,in,0,Championship,1997,1997/1998
+Charlton Athletic,David Kerslake,31,Right-Back,Spurs,Loan,in,0,Championship,1997,1997/1998
+Charlton Athletic,Neil Heaney,26,Right Winger,Man City,Loan,in,0,Championship,1997,1997/1998
+Charlton Athletic,Mark Bowen,33,Left-Back,Shimizu S-Pulse,?,in,NA,Championship,1997,1997/1998
+Charlton Athletic,Sasa Ilic,25,Goalkeeper,Unknown,?,in,NA,Championship,1997,1997/1998
+Charlton Athletic,Scott Parker,16,Central Midfield,Charlton U18,-,in,0,Championship,1997,1997/1998
+Charlton Athletic,Steve Jones,27,Forward,Bournemouth,"End of loanJan 24, 1998",in,0,Championship,1997,1997/1998
+Charlton Athletic,Paul Konchesky,16,Left-Back,Charlton U18,-,in,0,Championship,1997,1997/1998
+Charlton Athletic,Carl Leaburn,28,Centre-Forward,Wimbledon FC,£323k,out,0.323,Championship,1997,1997/1998
+Charlton Athletic,Mark Robson,28,Midfielder,Notts County,Free Transfer,out,0,Championship,1997,1997/1998
+Charlton Athletic,Steve Jones,27,Forward,Bournemouth,Loan,out,0,Championship,1997,1997/1998
+Charlton Athletic,David Whyte,26,Forward,Reading,Free Transfer,out,0,Championship,1997,1997/1998
+Charlton Athletic,David Kerslake,31,Right-Back,Spurs,"End of loanAug 14, 1997",out,0,Championship,1997,1997/1998
+Charlton Athletic,Neil Heaney,26,Right Winger,Man City,"End of loanMay 1, 1998",out,0,Championship,1997,1997/1998

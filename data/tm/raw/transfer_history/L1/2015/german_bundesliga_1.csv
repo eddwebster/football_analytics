@@ -1,0 +1,574 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Bayern Munich,Arturo Vidal,28,Central Midfield,Juventus,£35.33m,in,Summer,35.33,1 Bundesliga,2015,2015/2016
+Bayern Munich,Douglas Costa,24,Right Winger,Shakhtar D.,£27.00m,in,Summer,27,1 Bundesliga,2015,2015/2016
+Bayern Munich,Joshua Kimmich,20,Defensive Midfield,VfB Stuttgart,£7.65m,in,Summer,7.65,1 Bundesliga,2015,2015/2016
+Bayern Munich,Kingsley Coman,19,Left Winger,Juventus,Loan fee:£6.30m,in,Summer,6.3,1 Bundesliga,2015,2015/2016
+Bayern Munich,Sven Ulreich,26,Goalkeeper,VfB Stuttgart,£3.15m,in,Summer,3.15,1 Bundesliga,2015,2015/2016
+Bayern Munich,Jan Kirchhoff,24,Centre-Back,FC Schalke 04,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayern Munich,Julian Green,20,Attacking Midfield,Hamburger SV,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayern Munich,Pierre-Emile Höjbjerg,19,Central Midfield,FC Augsburg,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayern Munich,Xherdan Shaqiri,23,Right Winger,Inter,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayern Munich,Xherdan Shaqiri,23,Right Winger,Inter,£13.50m,out,Summer,13.5,1 Bundesliga,2015,2015/2016
+Bayern Munich,Bastian Schweinsteiger,30,Central Midfield,Man Utd,£8.10m,out,Summer,8.1,1 Bundesliga,2015,2015/2016
+Bayern Munich,Dante,31,Centre-Back,VfL Wolfsburg,£4.05m,out,Summer,4.05,1 Bundesliga,2015,2015/2016
+Bayern Munich,Pepe Reina,32,Goalkeeper,SSC Napoli,£1.80m,out,Summer,1.8,1 Bundesliga,2015,2015/2016
+Bayern Munich,Pierre-Emile Höjbjerg,20,Central Midfield,FC Schalke 04,Loan fee:£900Th.,out,Summer,0.9,1 Bundesliga,2015,2015/2016
+Bayern Munich,Mitchell Weiser,21,Right-Back,Hertha BSC,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Bayern Munich,Claudio Pizarro,36,Centre-Forward,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Julian Draxler,21,Attacking Midfield,FC Schalke 04,£38.70m,in,Summer,38.7,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Max Kruse,27,Second Striker,Bor. M'gladbach,£10.80m,in,Summer,10.8,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Dante,31,Centre-Back,Bayern Munich,£4.05m,in,Summer,4.05,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Francisco Rodríguez,19,Left Midfield,FC Zürich,£1.44m,in,Summer,1.44,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Carlos Ascues,23,Central Midfield,FBC Melgar,£1.35m,in,Summer,1.35,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Ismail Azzaoui,17,Right Winger,Tottenham U21,£900Th.,in,Summer,0.9,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Sebastian Stolze,20,Right Winger,Wolfsburg II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Oskar Zawada,19,Centre-Forward,Wolfsburg II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Vaclav Pilar,26,Left Midfield,Viktoria Plzen,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Koen Casteels,23,Goalkeeper,Werder Bremen,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Stefan Kutschke,26,Centre-Forward,SC Paderborn,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Kevin De Bruyne,24,Attacking Midfield,Man City,£68.40m,out,Summer,68.4,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Ivan Perisic,26,Left Winger,Inter,£17.10m,out,Summer,17.1,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Aaron Hunt,28,Attacking Midfield,Hamburger SV,£2.70m,out,Summer,2.7,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Xizhe Zhang,24,Attacking Midfield,BJ Guoan,£1.80m,out,Summer,1.8,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Stefan Kutschke,26,Centre-Forward,1.FC Nuremberg,£225Th.,out,Summer,0.225,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Patrick Drewes,22,Goalkeeper,FC Wil 1900,Loan fee:£45Th.,out,Summer,0.045,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Vaclav Pilar,26,Left Midfield,Viktoria Plzen,?,out,Summer,NA,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Nicklas Bendtner,28,Centre-Forward,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Patrick Ochs,31,Right-Back,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Josip Drmic,22,Centre-Forward,Bay. Leverkusen,£9.00m,in,Summer,9,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Thorgan Hazard,22,Left Winger,Chelsea,£7.20m,in,Summer,7.2,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Nico Elvedi,18,Centre-Back,FC Zürich,£3.60m,in,Summer,3.6,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Nico Schulz,22,Left-Back,Hertha BSC,£3.60m,in,Summer,3.6,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Lars Stindl,26,Second Striker,Hannover 96,£2.70m,in,Summer,2.7,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Tobias Sippel,27,Goalkeeper,1.FC K'lautern,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Andreas Christensen,19,Centre-Back,Chelsea,Loan,in,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Peniel Mlapa,24,Centre-Forward,1.FC Nuremberg,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Amin Younes,21,Left Winger,1.FC K'lautern,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Max Kruse,27,Second Striker,VfL Wolfsburg,£10.80m,out,Summer,10.8,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Amin Younes,21,Left Winger,Ajax,£2.25m,out,Summer,2.25,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Filip Daems,36,Left-Back,KVC Westerlo,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Nico Brandenburger,20,Defensive Midfield,FC Luzern,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Janis Blaswich,24,Goalkeeper,Dynamo Dresden,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Peniel Mlapa,24,Centre-Forward,VfL Bochum,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Thorben Marx,34,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Christoph Kramer,24,Defensive Midfield,Bay. Leverkusen,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Thorgan Hazard,22,Left Winger,Chelsea,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Charles Aránguiz,26,Central Midfield,Internacional,£11.70m,in,Summer,11.7,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Chicharito,27,Centre-Forward,Man Utd,£10.80m,in,Summer,10.8,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Kevin Kampl,24,Central Midfield,Bor. Dortmund,£9.90m,in,Summer,9.9,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Admir Mehmedi,24,Second Striker,SC Freiburg,£7.20m,in,Summer,7.2,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Jonathan Tah,19,Centre-Back,Hamburger SV,£6.75m,in,Summer,6.75,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Kyriakos Papadopoulos,23,Centre-Back,FC Schalke 04,£5.85m,in,Summer,5.85,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,André Ramalho,23,Centre-Back,RB Salzburg,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Robin Becker,18,Right-Back,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Benjamin Henrichs,18,Right-Back,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Lukas Boeder,18,Centre-Back,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Marc Brasnic,18,Centre-Forward,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Paterson Chato,18,Defensive Midfield,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Marlon Frey,19,Defensive Midfield,Leverkusen U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Christoph Kramer,24,Defensive Midfield,Bor. M'gladbach,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Dominik Kohr,21,Central Midfield,FC Augsburg,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Arkadiusz Milik,21,Centre-Forward,Ajax,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Dennis Engelman,20,Right-Back,SC Fortuna Köln,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Seung-woo Ryu,21,Attacking Midfield,E. Braunschweig,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Maximilian Wagener,20,Central Midfield,VfL Osnabrück,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Philipp Wollscheid,26,Centre-Back,Stoke City,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Niklas Lomb,21,Goalkeeper,Hallescher FC,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Konstantinos Stafylidis,21,Left-Back,Fulham,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Heung-min Son,23,Left Winger,Spurs,£27.00m,out,Summer,27,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Gonzalo Castro,28,Central Midfield,Bor. Dortmund,£9.90m,out,Summer,9.9,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Josip Drmic,22,Centre-Forward,Bor. M'gladbach,£9.00m,out,Summer,9,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Philipp Wollscheid,26,Centre-Back,Stoke City,£3.42m,out,Summer,3.42,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Arkadiusz Milik,21,Centre-Forward,Ajax,£2.52m,out,Summer,2.52,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Konstantinos Stafylidis,21,Left-Back,FC Augsburg,£2.25m,out,Summer,2.25,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Dominik Kohr,21,Central Midfield,FC Augsburg,£1.26m,out,Summer,1.26,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Robbie Kruse,26,Left Winger,VfB Stuttgart,Loan fee:£675Th.,out,Summer,0.675,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Stefan Reinartz,26,Defensive Midfield,E. Frankfurt,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Dennis Engelman,20,Right-Back,SC Fortuna Köln,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Niklas Lomb,21,Goalkeeper,Preußen Münster,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Maximilian Wagener,20,Central Midfield,FSV Mainz 05 II,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Marc Brasnic,18,Centre-Forward,SC Paderborn,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Paterson Chato,18,Defensive Midfield,SC Wiedenbrück,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Simon Rolfes,33,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Kyriakos Papadopoulos,23,Centre-Back,FC Schalke 04,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Ja-cheol Koo,26,Central Midfield,1.FSV Mainz 05,£4.50m,in,Summer,4.5,1 Bundesliga,2015,2015/2016
+FC Augsburg,Philipp Max,21,Left-Back,Karlsruher SC,£3.42m,in,Summer,3.42,1 Bundesliga,2015,2015/2016
+FC Augsburg,Konstantinos Stafylidis,21,Left-Back,Bay. Leverkusen,£2.25m,in,Summer,2.25,1 Bundesliga,2015,2015/2016
+FC Augsburg,Dominik Kohr,21,Central Midfield,Bay. Leverkusen,£1.26m,in,Summer,1.26,1 Bundesliga,2015,2015/2016
+FC Augsburg,Piotr Trochowski,31,Attacking Midfield,Sevilla FC,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Daniel Opare,24,Right-Back,FC Porto,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Bastian Kurz,18,Left Midfield,FC Augsburg U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Mathias Fetsch,26,Centre-Forward,Dynamo Dresden,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Ronny Philp,26,Right-Back,Greuther Fürth,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Abdul Rahman Baba,21,Left-Back,Chelsea,£18.00m,out,Summer,18,1 Bundesliga,2015,2015/2016
+FC Augsburg,Mathias Fetsch,26,Centre-Forward,Dynamo Dresden,£135Th.,out,Summer,0.135,1 Bundesliga,2015,2015/2016
+FC Augsburg,Ronny Philp,26,Right-Back,1.FC Heidenheim,£135Th.,out,Summer,0.135,1 Bundesliga,2015,2015/2016
+FC Augsburg,Nikola Djurdjic,29,Centre-Forward,Malmö FF,Loan fee:£90Th.,out,Summer,0.09,1 Bundesliga,2015,2015/2016
+FC Augsburg,Dominik Reinhardt,30,Right-Back,Career break,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Dominik Kohr,21,Central Midfield,Bay. Leverkusen,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Pierre-Emile Höjbjerg,19,Central Midfield,Bayern Munich,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Johannes Geis,21,Defensive Midfield,1.FSV Mainz 05,£9.45m,in,Summer,9.45,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Matija Nastasic,22,Centre-Back,Man City,£8.55m,in,Summer,8.55,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Franco Di Santo,26,Centre-Forward,Werder Bremen,£5.40m,in,Summer,5.4,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Júnior Caiçara,26,Right-Back,Ludogorets,£4.05m,in,Summer,4.05,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Pierre-Emile Höjbjerg,20,Central Midfield,Bayern Munich,Loan fee:£900Th.,in,Summer,0.9,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Alexander Nübel,18,Goalkeeper,SC Paderborn,£540Th.,in,Summer,0.54,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Sascha Riether,32,Right-Back,SC Freiburg,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Leroy Sané,19,Left Winger,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Felix Platte,19,Centre-Forward,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Maurice Multhaup,18,Right Midfield,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Thilo Kehrer,18,Right-Back,Schalke 04 U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Michael Gspurning,34,Goalkeeper,Schalke 04 II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Kyriakos Papadopoulos,23,Centre-Back,Bay. Leverkusen,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Felipe Santana,29,Centre-Back,Olympiacos,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Julian Draxler,21,Attacking Midfield,VfL Wolfsburg,£38.70m,out,Summer,38.7,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Jefferson Farfán,30,Right Winger,Al-Jazira,£6.30m,out,Summer,6.3,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Kyriakos Papadopoulos,23,Centre-Back,Bay. Leverkusen,£5.85m,out,Summer,5.85,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Maurice Multhaup,18,Right Midfield,FC Ingolstadt,£450Th.,out,Summer,0.45,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Marcel Sobottka,21,Defensive Midfield,F. Düsseldorf,£180Th.,out,Summer,0.18,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Tranquillo Barnetta,30,Attacking Midfield,Philadelphia,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Christian Fuchs,29,Left-Back,Leicester,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Pascal Itter,20,Right-Back,Grödig,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Timon Wellenreuther,19,Goalkeeper,RCD Mallorca,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Christian Wetklo,35,Goalkeeper,Schalke 04 II,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Chinedu Obasi,29,Centre-Forward,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Jan Kirchhoff,24,Centre-Back,Bayern Munich,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Matija Nastasic,22,Centre-Back,Man City,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Gonzalo Castro,28,Central Midfield,Bay. Leverkusen,£9.90m,in,Summer,9.9,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Roman Bürki,24,Goalkeeper,SC Freiburg,£3.15m,in,Summer,3.15,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Ju-ho Park,28,Left-Back,1.FSV Mainz 05,£2.70m,in,Summer,2.7,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Julian Weigl,19,Defensive Midfield,1860 Munich,£2.25m,in,Summer,2.25,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Adnan Januzaj,20,Right Winger,Man Utd,Loan,in,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Pascal Stenzel,19,Right-Back,B. Dortmund U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Moritz Leitner,22,Central Midfield,VfB Stuttgart,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Marvin Ducksch,21,Centre-Forward,SC Paderborn,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Jonas Hofmann,22,Central Midfield,1.FSV Mainz 05,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Kevin Kampl,24,Central Midfield,Bay. Leverkusen,£9.90m,out,Summer,9.9,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Mitchell Langerak,26,Goalkeeper,VfB Stuttgart,£3.15m,out,Summer,3.15,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Milos Jojic,23,Central Midfield,1. FC Köln,£2.70m,out,Summer,2.7,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Ciro Immobile,25,Centre-Forward,Sevilla FC,Loan fee:£2.70m,out,Summer,2.7,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Kevin Großkreutz,27,Right-Back,Galatasaray,£1.35m,out,Summer,1.35,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Jakub Blaszczykowski,29,Right Winger,Fiorentina,Loan fee:£900Th.,out,Summer,0.9,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Jeremy Dudziak,20,Central Midfield,FC St. Pauli,£225Th.,out,Summer,0.225,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Zlatan Alomerovic,24,Goalkeeper,1.FC K'lautern,£180Th.,out,Summer,0.18,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Oliver Kirch,33,Defensive Midfield,SC Paderborn,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Sebastian Kehl,35,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Marian Sarr,20,Centre-Back,B. Dortmund II,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Marvin Ducksch,21,Centre-Forward,B. Dortmund II,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Eduardo Vargas,25,Second Striker,SSC Napoli,£5.40m,in,Summer,5.4,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Fabian Schär,23,Centre-Back,FC Basel,£3.60m,in,Summer,3.6,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Jonathan Schmid,25,Right-Back,SC Freiburg,£3.15m,in,Summer,3.15,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Pavel Kaderabek,23,Right-Back,Sparta Praha,£3.15m,in,Summer,3.15,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Mark Uth,23,Second Striker,Heerenveen,£1.98m,in,Summer,1.98,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Joelinton,18,Centre-Forward,Sport Recife,£1.98m,in,Summer,1.98,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Felipe Pires,20,Left Winger,RB Salzburg,£900Th.,in,Summer,0.9,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Marko Maric,19,Goalkeeper,Rapid Vienna,£450Th.,in,Summer,0.45,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Antonio Colak,21,Centre-Forward,1.FC Nuremberg,£450Th.,in,Summer,0.45,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,In-hyeok Park,19,Centre-Forward,Kyung Hee Univ.,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Kevin Kuranyi,33,Centre-Forward,Dynamo Moscow,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Christoph Martschinko,21,Left-Back,Grödig,?,in,Summer,NA,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Benedikt Gimber,18,Defensive Midfield,Hoffenheim U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Philipp Ochs,18,Left Winger,Hoffenheim U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Grischa Prömel,20,Central Midfield,Hoffenheim II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Nicolai Rapp,18,Centre-Back,Hoffenheim U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Joshua Mees,19,Left Winger,Hoffenheim U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Guilherme Biteco,21,Left Midfield,Santa Cruz,"End of loanSep 10, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Luis Advíncula,25,Right-Back,Sport. Cristal,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Michael Gregoritsch,21,Second Striker,VfL Bochum,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Sandro Wieser,22,Defensive Midfield,FC Aarau,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Júnior Ponce,21,Right Winger,Vitória Setúbal,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Vincenzo Grifo,22,Left Winger,FSV Frankfurt,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Filip Malbašić,22,Right Winger,Lechia Gdansk,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Tobias Weis,29,Central Midfield,VfL Bochum,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Jiloan Hamad,24,Attacking Midfield,Standard Liège,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Afriyie Acquah,23,Central Midfield,Sampdoria,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Roberto Firmino,23,Centre-Forward,Liverpool,£36.90m,out,Summer,36.9,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Anthony Modeste,27,Centre-Forward,1. FC Köln,£4.05m,out,Summer,4.05,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Afriyie Acquah,23,Central Midfield,Torino,£2.79m,out,Summer,2.79,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Sven Schipplock,26,Centre-Forward,Hamburger SV,£2.25m,out,Summer,2.25,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Andreas Beck,28,Right-Back,Besiktas,£1.58m,out,Summer,1.58,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,David Abraham,28,Centre-Back,E. Frankfurt,£1.35m,out,Summer,1.35,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Vincenzo Grifo,22,Left Winger,SC Freiburg,£900Th.,out,Summer,0.9,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Luis Advíncula,25,Right-Back,Bursaspor,£630Th.,out,Summer,0.63,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Michael Gregoritsch,21,Second Striker,VfL Bochum,£450Th.,out,Summer,0.45,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Sejad Salihovic,30,Central Midfield,BJ Renhe,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Felipe Pires,20,Left Winger,FSV Frankfurt,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Tobias Weis,29,Central Midfield,VfL Bochum,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Janik Haberer,21,Central Midfield,VfL Bochum,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Antonio Colak,21,Centre-Forward,1.FC K'lautern,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Joshua Mees,19,Left Winger,SC Freiburg,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Grischa Prömel,20,Central Midfield,Karlsruher SC,?,out,Summer,NA,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Kevin Akpoguma,20,Centre-Back,F. Düsseldorf,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Sandro Wieser,22,Defensive Midfield,FC Thun,?,out,Summer,NA,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Marko Maric,19,Goalkeeper,Lechia Gdansk,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Júnior Ponce,21,Right Winger,USM Porres,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Marvin Schwäbe,20,Goalkeeper,VfL Osnabrück,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Christoph Martschinko,21,Left-Back,Austria Vienna,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,In-hyeok Park,19,Centre-Forward,FSV Frankfurt,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Guilherme Biteco,21,Left Midfield,Náutico,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Luc Castaignos,22,Centre-Forward,Twente FC,£2.25m,in,Summer,2.25,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Lukas Hradecky,25,Goalkeeper,Bröndby IF,£2.25m,in,Summer,2.25,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,David Abraham,28,Centre-Back,TSG Hoffenheim,£1.35m,in,Summer,1.35,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Mijat Gacinovic,20,Attacking Midfield,Apol. Limassol,£1.13m,in,Summer,1.13,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Stefan Reinartz,26,Defensive Midfield,Bay. Leverkusen,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Heinz Lindner,24,Goalkeeper,Austria Vienna,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Olivier Occéan,33,Centre-Forward,Odds BK,"End of loanJul 21, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Enis Bunjaki,17,Centre-Forward,Frankfurt U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Jan Rosenthal,29,Second Striker,SV Darmstadt 98,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Vaclav Kadlec,23,Centre-Forward,Sparta Praha,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Kevin Trapp,25,Goalkeeper,Paris SG,£8.55m,out,Summer,8.55,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Takashi Inui,27,Left Winger,SD Eibar,£450Th.,out,Summer,0.45,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Felix Wiedwald,25,Goalkeeper,Werder Bremen,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Jan Rosenthal,29,Second Striker,SV Darmstadt 98,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Olivier Occéan,33,Centre-Forward,Odds BK,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Nelson Haedo Valdez,31,Centre-Forward,Sounders FC,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Stefan Reinartz,27,Defensive Midfield,Retired,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Yaffa Yusupha,18,Centre-Forward,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Alexander Madlung,32,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Lucas Piazón,21,Left Winger,Chelsea,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Anthony Ujah,24,Centre-Forward,1. FC Köln,£4.05m,in,Summer,4.05,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Aron Jóhannsson,24,Centre-Forward,AZ Alkmaar,£3.78m,in,Summer,3.78,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Ulisses Garcia,19,Left-Back,Grasshoppers,£540Th.,in,Summer,0.54,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Felix Wiedwald,25,Goalkeeper,E. Frankfurt,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Luca Zander,19,Right-Back,W. Bremen II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Lukas Fröde,20,Defensive Midfield,W. Bremen II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Melvyn Lorenzen,20,Left Winger,W. Bremen II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Janek Sternberg,22,Left-Back,W. Bremen II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Maximilian Eggestein,18,Central Midfield,W. Bremen II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Florian Grillitsch,19,Defensive Midfield,W. Bremen II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Claudio Pizarro,36,Centre-Forward,Without Club,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Mateo Pavlovic,25,Centre-Back,Ferencváros,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Martin Kobylanski,21,Attacking Midfield,Union Berlin,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Nils Petersen,26,Centre-Forward,SC Freiburg,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Eljero Elia,28,Left Winger,Southampton,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Ludovic Obraniak,30,Attacking Midfield,C. Rizespor,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Richard Strebinger,22,Goalkeeper,Jahn Regensburg,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Oliver Hüsing,22,Centre-Back,Hansa Rostock,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Davie Selke,20,Centre-Forward,RB Leipzig,£7.20m,out,Summer,7.2,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Franco Di Santo,26,Centre-Forward,FC Schalke 04,£5.40m,out,Summer,5.4,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Nils Petersen,26,Centre-Forward,SC Freiburg,£2.52m,out,Summer,2.52,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Richard Strebinger,22,Goalkeeper,Rapid Vienna,£450Th.,out,Summer,0.45,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Luca Caldirola,24,Centre-Back,SV Darmstadt 98,Loan fee:£90Th.,out,Summer,0.09,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Sebastian Prödl,28,Centre-Back,Watford,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Eljero Elia,28,Left Winger,Feyenoord,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Ludovic Obraniak,30,Attacking Midfield,Maccabi Haifa,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Cédric Makiadi,31,Central Midfield,C. Rizespor,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Izet Hajrovic,24,Right Winger,SD Eibar,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Raif Husic,19,Goalkeeper,W. Bremen II,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Koen Casteels,23,Goalkeeper,VfL Wolfsburg,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Fabian Frei,26,Defensive Midfield,FC Basel,£3.24m,in,Summer,3.24,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Yoshinori Muto,22,Centre-Forward,FC Tokyo,£2.52m,in,Summer,2.52,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Florian Niederlechner,24,Centre-Forward,1.FC Heidenheim,£1.80m,in,Summer,1.8,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Gaëtan Bussmann,24,Left-Back,FC Metz,£900Th.,in,Summer,0.9,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Jhon Córdoba,22,Centre-Forward,Granada CF,Loan fee:£540Th.,in,Summer,0.54,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Besar Halimi,20,Attacking Midfield,Stuttg. Kickers,£315Th.,in,Summer,0.315,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Gianluca Curci,30,Goalkeeper,AS Roma,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Danny Latza,25,Central Midfield,VfL Bochum,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Maximilian Beister,24,Right Winger,Hamburger SV,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Leon Balogun,27,Centre-Back,SV Darmstadt 98,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Henrique Sereno,30,Centre-Back,Kayserispor,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Jannik Huth,21,Goalkeeper,FSV Mainz 05 II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Suat Serdar,18,Central Midfield,Mainz 05 U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Alexander Hack,22,Centre-Back,FSV Mainz 05 II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Chinedu Ede,28,Right Winger,Anorthosis,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Dani Schahin,25,Centre-Forward,SC Freiburg,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Sebastian Polter,24,Centre-Forward,Union Berlin,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Niki Zimling,30,Defensive Midfield,Ajax,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Julian Koch,24,Defensive Midfield,FC St. Pauli,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Shinji Okazaki,29,Centre-Forward,Leicester,£9.90m,out,Summer,9.9,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Johannes Geis,21,Defensive Midfield,FC Schalke 04,£9.45m,out,Summer,9.45,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Ja-cheol Koo,26,Central Midfield,FC Augsburg,£4.50m,out,Summer,4.5,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Ju-ho Park,28,Left-Back,Bor. Dortmund,£2.70m,out,Summer,2.7,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Sebastian Polter,24,Centre-Forward,QPR,£2.07m,out,Summer,2.07,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Stefanos Kapino,21,Goalkeeper,Olympiacos,£1.80m,out,Summer,1.8,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Julian Koch,24,Defensive Midfield,F. Düsseldorf,£270Th.,out,Summer,0.27,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Damian Roßbach,22,Left-Back,SV Sandhausen,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Júnior Díaz,31,Centre-Back,SV Darmstadt 98,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Besar Halimi,20,Attacking Midfield,FSV Frankfurt,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Chinedu Ede,28,Right Winger,Twente FC,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Dani Schahin,26,Centre-Forward,FSV Frankfurt,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Robin Zentner,20,Goalkeeper,Holstein Kiel,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Nikolce Noveski,36,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Benedikt Saller,22,Right-Back,FSV Mainz 05 II,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Sami Allagui,29,Centre-Forward,Hertha BSC,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Jonas Hofmann,22,Central Midfield,Bor. Dortmund,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Nicolás Castillo,22,Centre-Forward,Club Brugge,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Anthony Modeste,27,Centre-Forward,TSG Hoffenheim,£4.05m,in,Summer,4.05,1 Bundesliga,2015,2015/2016
+1. FC Köln,Milos Jojic,23,Central Midfield,Bor. Dortmund,£2.70m,in,Summer,2.7,1 Bundesliga,2015,2015/2016
+1. FC Köln,Leonardo Bittencourt,21,Attacking Midfield,Hannover 96,£2.25m,in,Summer,2.25,1 Bundesliga,2015,2015/2016
+1. FC Köln,Frederik Sörensen,23,Centre-Back,Juventus,£1.60m,in,Summer,1.6,1 Bundesliga,2015,2015/2016
+1. FC Köln,Dominique Heintz,21,Centre-Back,1.FC K'lautern,£1.35m,in,Summer,1.35,1 Bundesliga,2015,2015/2016
+1. FC Köln,Philipp Hosiner,26,Centre-Forward,Stade Rennais,Loan,in,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Maurice Exslager,24,Centre-Forward,SV Darmstadt 98,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Bruno Nascimento,24,Centre-Back,Estoril,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Maximilian Thiel,22,Left Winger,Union Berlin,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Simon Zoller,24,Centre-Forward,1.FC K'lautern,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Kevin Wimmer,22,Centre-Back,Spurs,£5.40m,out,Summer,5.4,1 Bundesliga,2015,2015/2016
+1. FC Köln,Anthony Ujah,24,Centre-Forward,Werder Bremen,£4.05m,out,Summer,4.05,1 Bundesliga,2015,2015/2016
+1. FC Köln,Miso Brecko,31,Right-Back,1.FC Nuremberg,£450Th.,out,Summer,0.45,1 Bundesliga,2015,2015/2016
+1. FC Köln,Daniel Halfar,27,Attacking Midfield,1.FC K'lautern,£450Th.,out,Summer,0.45,1 Bundesliga,2015,2015/2016
+1. FC Köln,Maximilian Thiel,22,Left Winger,Union Berlin,£225Th.,out,Summer,0.225,1 Bundesliga,2015,2015/2016
+1. FC Köln,Bruno Nascimento,24,Centre-Back,Tondela,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Slawomir Peszko,30,Left Winger,Lechia Gdansk,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Thomas Bröker,30,Right Midfield,MSV Duisburg,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Adam Matuschyk,26,Defensive Midfield,E. Braunschweig,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Maurice Exslager,24,Centre-Forward,1.FC Köln II,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Patrick Helmes,31,Centre-Forward,Retired,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Deyverson,24,Centre-Forward,Belenenses SAD,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Oliver Sorg,25,Right-Back,SC Freiburg,£3.15m,in,Summer,3.15,1 Bundesliga,2015,2015/2016
+Hannover 96,Mevlüt Erdinc,28,Centre-Forward,Saint-Étienne,£2.97m,in,Summer,2.97,1 Bundesliga,2015,2015/2016
+Hannover 96,Felix Klaus,22,Right Winger,SC Freiburg,£2.70m,in,Summer,2.7,1 Bundesliga,2015,2015/2016
+Hannover 96,Uffe Bech,22,Right Winger,Nordsjaelland,£1.80m,in,Summer,1.8,1 Bundesliga,2015,2015/2016
+Hannover 96,Charlison Benschop,25,Centre-Forward,F. Düsseldorf,£1.35m,in,Summer,1.35,1 Bundesliga,2015,2015/2016
+Hannover 96,Allan Saint-Maximin,18,Left Winger,Monaco,Loan,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Philipp Tschauner,29,Goalkeeper,FC St. Pauli,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Maurice Hirsch,22,Defensive Midfield,Hannover 96 II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Mike Bähre,19,Attacking Midfield,Hannover 96 II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Waldemar Anton,18,Centre-Back,Hannover 96 U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Noah Sarenren Bazee,19,Right Winger,Hannover 96 II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Samuel Sahin-Radlinger,22,Goalkeeper,1.FC Nuremberg,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Vladimir Rankovic,22,Right-Back,Erzgebirge Aue,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Valmir Sulejmani,19,Centre-Forward,Union Berlin,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Joselu,25,Centre-Forward,Stoke City,£7.20m,out,Summer,7.2,1 Bundesliga,2015,2015/2016
+Hannover 96,Lars Stindl,26,Second Striker,Bor. M'gladbach,£2.70m,out,Summer,2.7,1 Bundesliga,2015,2015/2016
+Hannover 96,Leonardo Bittencourt,21,Attacking Midfield,1. FC Köln,£2.25m,out,Summer,2.25,1 Bundesliga,2015,2015/2016
+Hannover 96,Jimmy Briand,30,Centre-Forward,Guingamp,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Didier Ya Konan,31,Centre-Forward,F. Düsseldorf,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,João Pereira,31,Right-Back,Sporting CP,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Robert Almer,31,Goalkeeper,Austria Vienna,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Marius Stankevicius,34,Centre-Back,Córdoba CF,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Markus Miller,33,Goalkeeper,Retired,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Christian Pander,31,Left-Back,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Yannik Schulze,20,Defensive Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Jan Schlaudraff,31,Second Striker,Retired,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Mitchell Langerak,26,Goalkeeper,Bor. Dortmund,£3.15m,in,Summer,3.15,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Toni Sunjic,26,Centre-Back,Kuban Krasnodar,£2.70m,in,Summer,2.7,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Joshua Kimmich,20,Defensive Midfield,RB Leipzig,£1.35m,in,Summer,1.35,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Jan Kliment,21,Centre-Forward,FC Vysocina,£1.35m,in,Summer,1.35,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Przemyslaw Tyton,28,Goalkeeper,PSV Eindhoven,£900Th.,in,Summer,0.9,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Philip Heise,24,Left-Back,1.FC Heidenheim,£675Th.,in,Summer,0.675,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Robbie Kruse,26,Left Winger,Bay. Leverkusen,Loan fee:£675Th.,in,Summer,0.675,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Lukas Rupp,24,Central Midfield,SC Paderborn,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Emiliano Insúa,26,Left-Back,Atlético Madrid,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Mart Ristl,18,Defensive Midfield,Stuttgart U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Marvin Wanitzek,22,Central Midfield,Stuttgart II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Arianit Ferati,17,Left Winger,Stuttgart U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Kevin Stöger,21,Attacking Midfield,1.FC K'lautern,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Caniggia Elva,18,Left Winger,R. Strasbourg,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Joshua Kimmich,20,Defensive Midfield,Bayern Munich,£7.65m,out,Summer,7.65,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Antonio Rüdiger,22,Centre-Back,AS Roma,Loan fee:£3.60m,out,Summer,3.6,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Sven Ulreich,26,Goalkeeper,Bayern Munich,£3.15m,out,Summer,3.15,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Kevin Stöger,21,Attacking Midfield,SC Paderborn,£900Th.,out,Summer,0.9,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Gotoku Sakai,24,Left-Back,Hamburger SV,£630Th.,out,Summer,0.63,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Sercan Sararer,25,Left Winger,F. Düsseldorf,£450Th.,out,Summer,0.45,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Robin Yalcin,21,Defensive Midfield,C. Rizespor,£225Th.,out,Summer,0.225,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Thorsten Kirschbaum,28,Goalkeeper,1.FC Nuremberg,£90Th.,out,Summer,0.09,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Konstantin Rausch,25,Left-Back,SV Darmstadt 98,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Mohammed Abdellaoue,29,Centre-Forward,Vålerenga,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Karim Haggui,31,Centre-Back,F. Düsseldorf,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Vedad Ibisevic,31,Centre-Forward,Hertha BSC,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Caniggia Elva,18,Left Winger,Stuttgart II,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Moritz Leitner,22,Central Midfield,Bor. Dortmund,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Oriol Romeu,23,Defensive Midfield,Chelsea,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Vladimir Darida,24,Central Midfield,SC Freiburg,£3.42m,in,Summer,3.42,1 Bundesliga,2015,2015/2016
+Hertha BSC,Niklas Stark,20,Centre-Back,1.FC Nuremberg,£2.70m,in,Summer,2.7,1 Bundesliga,2015,2015/2016
+Hertha BSC,Mitchell Weiser,21,Right-Back,Bayern Munich,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Vedad Ibisevic,31,Centre-Forward,VfB Stuttgart,Loan,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Nils Körber,18,Goalkeeper,Hertha BSC U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Maximilian Mittelstädt,18,Left-Back,Hertha BSC U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Florian Kohls,20,Central Midfield,Hertha BSC II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Yanni Regäsel,19,Right-Back,Hertha BSC II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Fabian Holland,24,Left-Back,SV Darmstadt 98,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Sami Allagui,29,Centre-Forward,1.FSV Mainz 05,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Nico Schulz,22,Left-Back,Bor. M'gladbach,£3.60m,out,Summer,3.6,1 Bundesliga,2015,2015/2016
+Hertha BSC,Fabian Holland,24,Left-Back,SV Darmstadt 98,£450Th.,out,Summer,0.45,1 Bundesliga,2015,2015/2016
+Hertha BSC,Hajime Hosogai,29,Defensive Midfield,Bursaspor,Loan fee:£270Th.,out,Summer,0.27,1 Bundesliga,2015,2015/2016
+Hertha BSC,Marcel Ndjeng,33,Right Midfield,SC Paderborn,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Johnny Heitinga,31,Centre-Back,Ajax,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Peter Niemeyer,31,Defensive Midfield,SV Darmstadt 98,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Sandro Wagner,27,Centre-Forward,SV Darmstadt 98,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Sascha Burchert,25,Goalkeeper,Vålerenga,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Lewis Holtby,24,Attacking Midfield,Spurs,£5.85m,in,Summer,5.85,1 Bundesliga,2015,2015/2016
+Hamburger SV,Albin Ekdal,25,Defensive Midfield,Cagliari Calcio,£4.05m,in,Summer,4.05,1 Bundesliga,2015,2015/2016
+Hamburger SV,Michael Gregoritsch,21,Second Striker,VfL Bochum,£2.70m,in,Summer,2.7,1 Bundesliga,2015,2015/2016
+Hamburger SV,Aaron Hunt,28,Attacking Midfield,VfL Wolfsburg,£2.70m,in,Summer,2.7,1 Bundesliga,2015,2015/2016
+Hamburger SV,Sven Schipplock,26,Centre-Forward,TSG Hoffenheim,£2.25m,in,Summer,2.25,1 Bundesliga,2015,2015/2016
+Hamburger SV,Gotoku Sakai,24,Left-Back,VfB Stuttgart,£630Th.,in,Summer,0.63,1 Bundesliga,2015,2015/2016
+Hamburger SV,Batuhan Altintas,19,Centre-Forward,Bursaspor,£360Th.,in,Summer,0.36,1 Bundesliga,2015,2015/2016
+Hamburger SV,Andreas Hirzel,22,Goalkeeper,FC Vaduz,£45Th.,in,Summer,0.045,1 Bundesliga,2015,2015/2016
+Hamburger SV,Emir Spahic,34,Centre-Back,Without Club,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Finn Porath,18,Left Winger,Hamburg U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Mohamed Gouaida,22,Attacking Midfield,Hamburger SV II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Ronny Marcos,21,Left-Back,Hamburger SV II,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Lasse Sobiech,24,Centre-Back,FC St. Pauli,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Jacques Zoua,23,Centre-Forward,K. Erciyesspor,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Kerem Demirbay,21,Central Midfield,1.FC K'lautern,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Jonathan Tah,19,Centre-Back,F. Düsseldorf,"End of loanJun 30, 2015",in,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Jonathan Tah,19,Centre-Back,Bay. Leverkusen,£6.75m,out,Summer,6.75,1 Bundesliga,2015,2015/2016
+Hamburger SV,Valon Behrami,30,Defensive Midfield,Watford,£3.15m,out,Summer,3.15,1 Bundesliga,2015,2015/2016
+Hamburger SV,Alexander Brunst,19,Goalkeeper,Wolfsburg II,£180Th.,out,Summer,0.18,1 Bundesliga,2015,2015/2016
+Hamburger SV,Lasse Sobiech,24,Centre-Back,FC St. Pauli,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Maximilian Beister,24,Right Winger,1.FSV Mainz 05,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Kerem Demirbay,22,Central Midfield,F. Düsseldorf,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Rafael van der Vaart,32,Attacking Midfield,Real Betis,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Petr Jiracek,29,Central Midfield,Sparta Praha,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Jacques Zoua,23,Centre-Forward,G. Ajaccio,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Heiko Westermann,31,Centre-Back,Real Betis,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Matti Steinmann,20,Defensive Midfield,Chemnitzer FC,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Mohamed Gouaida,22,Attacking Midfield,Karlsruher SC,Loan,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Slobodan Rajkovic,26,Centre-Back,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Marcell Jansen,29,Left-Back,Career break,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Julian Green,20,Attacking Midfield,Bayern Munich,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Lewis Holtby,24,Attacking Midfield,Spurs,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Elias Kachunga,23,Centre-Forward,SC Paderborn,£1.35m,in,Summer,1.35,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Örjan Nyland,24,Goalkeeper,Molde,£900Th.,in,Summer,0.9,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Markus Suttner,28,Left-Back,Austria Vienna,£630Th.,in,Summer,0.63,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Maurice Multhaup,18,Right Midfield,FC Schalke 04,£450Th.,in,Summer,0.45,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Romain Brégerie,28,Centre-Back,SV Darmstadt 98,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,André Weis,25,Goalkeeper,FSV Frankfurt,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Karl-Heinz Lappe,27,Centre-Forward,FC Bayern II,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Andre Mijatovic,35,Centre-Back,Retired,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Ralph Gunesch,31,Centre-Back,Retired,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Christian Eigler,31,Right Winger,Career break,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Leon Jessen,29,Left-Back,1.FC K'lautern,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Mario Vrancic,26,Central Midfield,SC Paderborn,£450Th.,in,Summer,0.45,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Fabian Holland,24,Left-Back,Hertha BSC,£450Th.,in,Summer,0.45,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Luca Caldirola,24,Centre-Back,Werder Bremen,Loan fee:£90Th.,in,Summer,0.09,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Jan Rosenthal,29,Second Striker,E. Frankfurt,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Júnior Díaz,31,Centre-Back,1.FSV Mainz 05,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Konstantin Rausch,25,Left-Back,VfB Stuttgart,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Lukasz Zaluska,33,Goalkeeper,Celtic,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Peter Niemeyer,31,Defensive Midfield,Hertha BSC,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Sandro Wagner,27,Centre-Forward,Hertha BSC,Free transfer,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,György Garics,31,Right-Back,Bologna,?,in,Summer,NA,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Ali Kazimi,18,Left Winger,Darmstadt U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Jan Finger,18,Defensive Midfield,Darmstadt U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Noel Wembacher,18,Attacking Midfield,Darmstadt U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Nick Volk,17,Right Midfield,Darmstadt U19,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Slobodan Rajkovic,26,Centre-Back,Without Club,-,in,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Hanno Behrens,25,Central Midfield,1.FC Nuremberg,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Romain Brégerie,28,Centre-Back,FC Ingolstadt,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Marius Sauss,22,Goalkeeper,Lupo-Martini,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Leon Balogun,27,Centre-Back,1.FSV Mainz 05,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Ronny König,32,Centre-Forward,Chemnitzer FC,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Janik Bachmann,19,Defensive Midfield,Hannover 96 II,Free transfer,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Serkan Firat,21,Left Midfield,Without Club,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Timon Fröhlich,19,Defender,Retired,-,out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Maurice Exslager,24,Centre-Forward,1. FC Köln,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Fabian Holland,24,Left-Back,Hertha BSC,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Jan Rosenthal,29,Second Striker,E. Frankfurt,"End of loanJun 30, 2015",out,Summer,0,1 Bundesliga,2015,2015/2016
+Bayern Munich,Serdar Tasci,28,Centre-Back,Spartak Moscow,Loan fee:£2.25m,in,Winter,2.25,1 Bundesliga,2015,2015/2016
+Bayern Munich,Jan Kirchhoff,25,Centre-Back,Sunderland,£900Th.,out,Winter,0.9,1 Bundesliga,2015,2015/2016
+Bayern Munich,Sinan Kurt,19,Left Winger,Hertha BSC,£450Th.,out,Winter,0.45,1 Bundesliga,2015,2015/2016
+Bayern Munich,Gianluca Gaudino,19,Central Midfield,FC St. Gallen,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Bruno Henrique,25,Left Winger,Goiás EC,£4.05m,in,Winter,4.05,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Leandro Putaro,19,Left Winger,Wolfsburg U19,-,in,Winter,0,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Timm Klose,27,Centre-Back,Norwich,£9.90m,out,Winter,9.9,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Oskar Zawada,20,Centre-Forward,Twente FC,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+VfL Wolfsburg,Francisco Rodríguez,20,Left Midfield,Arm. Bielefeld,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Jonas Hofmann,23,Central Midfield,Bor. Dortmund,£7.20m,in,Winter,7.2,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Martin Hinteregger,23,Centre-Back,RB Salzburg,Loan fee:£900Th.,in,Winter,0.9,1 Bundesliga,2015,2015/2016
+Borussia Mönchengladbach,Josip Drmic,23,Centre-Forward,Hamburger SV,Loan fee:£1.08m,out,Winter,1.08,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Robbie Kruse,27,Left Winger,VfB Stuttgart,"End of loanFeb 1, 2016",in,Winter,0,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Giulio Donati,25,Right-Back,1.FSV Mainz 05,£900Th.,out,Winter,0.9,1 Bundesliga,2015,2015/2016
+Bayer 04 Leverkusen,Seung-woo Ryu,22,Attacking Midfield,Arm. Bielefeld,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Jeffrey Gouweleeuw,24,Centre-Back,AZ Alkmaar,£2.70m,in,Winter,2.7,1 Bundesliga,2015,2015/2016
+FC Augsburg,Albian Ajeti,18,Centre-Forward,FC Basel,£900Th.,in,Winter,0.9,1 Bundesliga,2015,2015/2016
+FC Augsburg,Alfred Finnbogason,27,Centre-Forward,Real Sociedad,Loan,in,Winter,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Erik Thommy,21,Left Midfield,1.FC K'lautern,"End of loanJan 31, 2016",in,Winter,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Nikola Djurdjic,29,Centre-Forward,Malmö FF,"End of loanDec 31, 2015",in,Winter,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Tim Matavz,27,Centre-Forward,Genoa,Loan fee:£450Th.,out,Winter,0.45,1 Bundesliga,2015,2015/2016
+FC Augsburg,Sascha Mölders,30,Centre-Forward,1860 Munich,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+FC Augsburg,Nikola Djurdjic,29,Centre-Forward,F. Düsseldorf,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Alessandro Schöpf,21,Right Midfield,1.FC Nuremberg,£4.50m,in,Winter,4.5,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Younès Belhanda,25,Attacking Midfield,Dynamo Kyiv,Loan,in,Winter,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Felipe Santana,29,Centre-Back,Kuban Krasnodar,Free transfer,out,Winter,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Kaan Ayhan,21,Centre-Back,E. Frankfurt,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Felix Platte,19,Centre-Forward,SV Darmstadt 98,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+FC Schalke 04,Kevin-Prince Boateng,28,Attacking Midfield,Without Club,-,out,Winter,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Christian Pulisic,17,Left Winger,B. Dortmund U19,-,in,Winter,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Felix Passlack,17,Right-Back,B. Dortmund U19,-,in,Winter,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Ciro Immobile,25,Centre-Forward,Sevilla FC,"End of loanJan 12, 2016",in,Winter,0,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Ciro Immobile,25,Centre-Forward,Sevilla FC,£9.90m,out,Winter,9.9,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Jonas Hofmann,23,Central Midfield,Bor. M'gladbach,£7.20m,out,Winter,7.2,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Pascal Stenzel,19,Right-Back,SC Freiburg,Loan fee:£90Th.,out,Winter,0.09,1 Bundesliga,2015,2015/2016
+Borussia Dortmund,Adnan Januzaj,20,Right Winger,Man Utd,"End of loanJan 7, 2016",out,Winter,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Andrej Kramaric,24,Centre-Forward,Leicester,Loan,in,Winter,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Bruno Nazário,20,Left Winger,Lechia Gdansk,"End of loanJan 1, 2016",in,Winter,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Guilherme Biteco,21,Left Midfield,Náutico,"End of loanDec 31, 2015",in,Winter,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Ádám Szalai,28,Centre-Forward,Hannover 96,Loan fee:£540Th.,out,Winter,0.54,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Bruno Nazário,20,Left Winger,Cruzeiro,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Filip Malbašić,23,Right Winger,Vojvodina,?,out,Winter,NA,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Guilherme Biteco,21,Left Midfield,Barra FC (SC),?,out,Winter,NA,1 Bundesliga,2015,2015/2016
+TSG 1899 Hoffenheim,Nicolai Rapp,19,Centre-Back,Greuther Fürth,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Marco Fabián,26,Attacking Midfield,Chivas,£3.33m,in,Winter,3.33,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Szabolcs Huszti,32,Central Midfield,CC Yatai,£225Th.,in,Winter,0.225,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Yanni Regäsel,20,Right-Back,Hertha BSC,£108Th.,in,Winter,0.108,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Änis Ben-Hatira,27,Attacking Midfield,Hertha BSC,Free transfer,in,Winter,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Kaan Ayhan,21,Centre-Back,FC Schalke 04,Loan,in,Winter,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Vaclav Kadlec,23,Centre-Forward,FC Midtjylland,£1.89m,out,Winter,1.89,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,Joel Gerezgiher,20,Attacking Midfield,FSV Frankfurt,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+Eintracht Frankfurt,David Kinsombi,20,Central Midfield,Karlsruher SC,?,out,Winter,NA,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Sambou Yatabaré,26,Central Midfield,Olympiacos,£2.25m,in,Winter,2.25,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Papy Djilobodji,27,Centre-Back,Chelsea,Loan fee:£360Th.,in,Winter,0.36,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Milos Veljkovic,20,Centre-Back,Spurs,£297Th.,in,Winter,0.297,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,László Kleinheisler,21,Attacking Midfield,Videoton FC,£225Th.,in,Winter,0.225,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Gerhard Tremmel,37,Goalkeeper,Swansea,Loan fee:£90Th.,in,Winter,0.09,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Assani Lukimya,30,Centre-Back,Liaoning FC,£1.80m,out,Winter,1.8,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Felix Kroos,24,Central Midfield,Union Berlin,Loan fee:£45Th.,out,Winter,0.045,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Martin Kobylanski,21,Attacking Midfield,Lechia Gdansk,Free transfer,out,Winter,0,1 Bundesliga,2015,2015/2016
+SV Werder Bremen,Levent Aycicek,21,Attacking Midfield,1860 Munich,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Emil Berggreen,22,Centre-Forward,E. Braunschweig,£2.25m,in,Winter,2.25,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Giulio Donati,25,Right-Back,Bay. Leverkusen,£900Th.,in,Winter,0.9,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Karim Onisiwo,23,Centre-Forward,SV Mattersburg,Free transfer,in,Winter,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Philipp Klement,23,Attacking Midfield,FSV Mainz 05 II,-,in,Winter,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Florian Niederlechner,25,Centre-Forward,SC Freiburg,Loan fee:£90Th.,out,Winter,0.09,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Gonzalo Jara,30,Centre-Back,U. de Chile,Free transfer,out,Winter,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Niki Zimling,30,Defensive Midfield,FSV Frankfurt,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Todor Nedelev,22,Right Winger,Botev Plovdiv,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+1.FSV Mainz 05,Maximilian Beister,25,Right Winger,1860 Munich,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Filip Mladenovic,24,Left-Back,BATE Borisov,£1.35m,in,Winter,1.35,1 Bundesliga,2015,2015/2016
+1. FC Köln,Pedro Geromel,30,Centre-Back,Grêmio,"End of loanDec 31, 2015",in,Winter,0,1 Bundesliga,2015,2015/2016
+1. FC Köln,Kazuki Nagasawa,24,Attacking Midfield,Urawa Reds,£630Th.,out,Winter,0.63,1 Bundesliga,2015,2015/2016
+1. FC Köln,Bard Finne,20,Left Winger,1.FC Heidenheim,£540Th.,out,Winter,0.54,1 Bundesliga,2015,2015/2016
+1. FC Köln,Pedro Geromel,30,Centre-Back,Grêmio,Free transfer,out,Winter,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Iver Fossum,19,Central Midfield,Strømsgodset,£1.80m,in,Winter,1.8,1 Bundesliga,2015,2015/2016
+Hannover 96,Marius Wolf,20,Right Winger,1860 Munich,£1.35m,in,Winter,1.35,1 Bundesliga,2015,2015/2016
+Hannover 96,Hotaru Yamaguchi,25,Defensive Midfield,Cerezo Osaka,£900Th.,in,Winter,0.9,1 Bundesliga,2015,2015/2016
+Hannover 96,Ádám Szalai,28,Centre-Forward,TSG Hoffenheim,Loan fee:£540Th.,in,Winter,0.54,1 Bundesliga,2015,2015/2016
+Hannover 96,Hugo Almeida,31,Centre-Forward,Anzhi,Free transfer,in,Winter,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Alexander Milosevic,24,Centre-Back,Besiktas,Loan,in,Winter,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Niklas Feierabend,18,Central Midfield,Hannover 96 U19,-,in,Winter,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Maurice Hirsch,22,Defensive Midfield,Greuther Fürth,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Mike Bähre,20,Attacking Midfield,Hallescher FC,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Niklas Teichgräber,19,Left-Back,VfV Hildesheim,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Marcelo,28,Centre-Back,Besiktas,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+Hannover 96,Sebastian Ernst,20,Central Midfield,1.FC Magdeburg,?,out,Winter,NA,1 Bundesliga,2015,2015/2016
+Hannover 96,Mevlüt Erdinc,28,Centre-Forward,Guingamp,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Kevin Großkreutz,27,Right-Back,Galatasaray,£1.95m,in,Winter,1.95,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Federico Barba,22,Centre-Back,FC Empoli,Loan fee:£900Th.,in,Winter,0.9,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Artem Kravets,26,Centre-Forward,Dynamo Kyiv,Loan fee:£450Th.,in,Winter,0.45,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Benjamin Uphoff,22,Goalkeeper,Stuttgart II,-,in,Winter,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Boris Tashchy,22,Centre-Forward,Stuttgart II,-,in,Winter,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Carlos Gruezo,20,Defensive Midfield,FC Dallas,£1.35m,out,Winter,1.35,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Adam Hlousek,27,Left-Back,Legia Warszawa,£450Th.,out,Winter,0.45,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Odysseas Vlachodimos,21,Goalkeeper,Panathinaikos,Free transfer,out,Winter,0,1 Bundesliga,2015,2015/2016
+VfB Stuttgart,Robbie Kruse,27,Left Winger,Bay. Leverkusen,"End of loanFeb 1, 2016",out,Winter,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Sinan Kurt,19,Left Winger,Bayern Munich,£450Th.,in,Winter,0.45,1 Bundesliga,2015,2015/2016
+Hertha BSC,Yanni Regäsel,19,Right-Back,Hertha BSC II,-,in,Winter,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Shawn Kauter,19,Centre-Back,Hertha BSC II,-,in,Winter,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Sascha Burchert,26,Goalkeeper,Vålerenga,"End of loanDec 31, 2015",in,Winter,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Yanni Regäsel,20,Right-Back,E. Frankfurt,£108Th.,out,Winter,0.108,1 Bundesliga,2015,2015/2016
+Hertha BSC,Änis Ben-Hatira,27,Attacking Midfield,E. Frankfurt,Free transfer,out,Winter,0,1 Bundesliga,2015,2015/2016
+Hertha BSC,Marius Gersbeck,20,Goalkeeper,Chemnitzer FC,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Josip Drmic,23,Centre-Forward,Bor. M'gladbach,Loan fee:£1.08m,in,Winter,1.08,1 Bundesliga,2015,2015/2016
+Hamburger SV,Nabil Bahoui,24,Left Winger,Ahli,Free transfer,in,Winter,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Dren Feka,18,Defensive Midfield,Hamburger SV II,-,in,Winter,0,1 Bundesliga,2015,2015/2016
+Hamburger SV,Marcelo Díaz,29,Defensive Midfield,Celta de Vigo,£1.62m,out,Winter,1.62,1 Bundesliga,2015,2015/2016
+Hamburger SV,Ronny Marcos,22,Left-Back,Greuther Fürth,£90Th.,out,Winter,0.09,1 Bundesliga,2015,2015/2016
+Hamburger SV,Zoltán Stieber,27,Left Winger,1.FC Nuremberg,Loan fee:£90Th.,out,Winter,0.09,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Darío Lezcano,25,Centre-Forward,FC Luzern,£2.25m,in,Winter,2.25,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Thomas Pledl,21,Attacking Midfield,SV Sandhausen,Loan,out,Winter,0,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Tomas Pekhart,26,Centre-Forward,AEK Athens,?,out,Winter,NA,1 Bundesliga,2015,2015/2016
+FC Ingolstadt 04,Stefan Wannenwetsch,24,Defensive Midfield,Hansa Rostock,?,out,Winter,NA,1 Bundesliga,2015,2015/2016
+SV Darmstadt 98,Felix Platte,19,Centre-Forward,FC Schalke 04,Loan,in,Winter,0,1 Bundesliga,2015,2015/2016

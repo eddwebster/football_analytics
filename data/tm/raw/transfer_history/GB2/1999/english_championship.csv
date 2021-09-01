@@ -1,0 +1,633 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Cardiff City,Jörn Schwinkendorf,28,Centre-Back,Waldh. Mannheim,£135k,in,0.135,Championship,1999,1999/2000
+Cardiff City,John Cornforth,31,Midfielder,Wycombe,Free Transfer,in,0,Championship,1999,1999/2000
+Cardiff City,Ritchie Humphreys,21,Defensive Midfield,Sheff Wed,Loan,in,0,Championship,1999,1999/2000
+Cardiff City,Josh Low,20,Right Midfield,Leyton Orient,Free Transfer,in,0,Championship,1999,1999/2000
+Cardiff City,Willie Boland,23,Central Midfield,Coventry,Free Transfer,in,0,Championship,1999,1999/2000
+Cardiff City,Tony Vaughan,23,Left-Back,Man City,Loan,in,0,Championship,1999,1999/2000
+Cardiff City,Russell Perrett,26,Centre-Back,Portsmouth,£14k,in,0.014,Championship,1999,1999/2000
+Cardiff City,Paul Brayson,22,Forward,Reading,Loan,in,0,Championship,1999,1999/2000
+Cardiff City,Winston Faerber,28,Right-Back,ADO Den Haag,?,in,NA,Championship,1999,1999/2000
+Cardiff City,Matt Brazier,22,Midfielder,Fulham,?,in,NA,Championship,1999,1999/2000
+Cardiff City,Robert Earnshaw,18,Centre-Forward,Cardiff U18,-,in,0,Championship,1999,1999/2000
+Cardiff City,Craig Middleton,29,Midfielder,Plymouth,"End of loanFeb 27, 2000",in,0,Championship,1999,1999/2000
+Cardiff City,Robert Earnshaw,18,Centre-Forward,Morton,"End of loanFeb 1, 2000",in,0,Championship,1999,1999/2000
+Cardiff City,John Cornforth,32,Midfielder,Scunthorpe Utd.,Free Transfer,out,0,Championship,1999,1999/2000
+Cardiff City,Robert Earnshaw,18,Centre-Forward,Morton,Loan,out,0,Championship,1999,1999/2000
+Cardiff City,Craig Middleton,29,Midfielder,Plymouth,Loan,out,0,Championship,1999,1999/2000
+Cardiff City,Craig Middleton,29,Midfielder,Halifax Town,£29k,out,0.029,Championship,1999,1999/2000
+Cardiff City,John Williams,31,Centre-Forward,York City,£23k,out,0.023,Championship,1999,1999/2000
+Cardiff City,Wayne O'Sullivan,25,Right Midfield,Plymouth,?,out,NA,Championship,1999,1999/2000
+Cardiff City,Paul Brayson,22,Forward,Reading,"End of loanMay 8, 2000",out,0,Championship,1999,1999/2000
+Cardiff City,Ritchie Humphreys,22,Defensive Midfield,Sheff Wed,"End of loanFeb 1, 2000",out,0,Championship,1999,1999/2000
+Cardiff City,Tony Vaughan,24,Left-Back,Man City,"End of loanDec 16, 1999",out,0,Championship,1999,1999/2000
+Fulham FC,Lee Clark,26,Right Winger,Sunderland,£4.05m,in,4.05,Championship,1999,1999/2000
+Fulham FC,Eddie Lewis,25,Left Midfield,Quakes,£1.62m,in,1.62,Championship,1999,1999/2000
+Fulham FC,Karl-Heinz Riedle,34,Centre-Forward,Liverpool,£248k,in,0.248,Championship,1999,1999/2000
+Fulham FC,Marcus Hahnemann,27,Goalkeeper,Colorado,£101k,in,0.101,Championship,1999,1999/2000
+Fulham FC,Glyn Thompson,18,Goalkeeper,Shrewsbury,£59k,in,0.059,Championship,1999,1999/2000
+Fulham FC,Stephen Hughes,23,Defensive Midfield,Arsenal,Loan,in,0,Championship,1999,1999/2000
+Fulham FC,Andy Melville,30,Centre-Back,Sunderland,Free Transfer,in,0,Championship,1999,1999/2000
+Fulham FC,Stan Collymore,28,Centre-Forward,Aston Villa,Loan,in,0,Championship,1999,1999/2000
+Fulham FC,Terry Phelan,32,Left-Back,Everton,?,in,NA,Championship,1999,1999/2000
+Fulham FC,Kevin Ball,35,Midfielder,Sunderland,?,in,NA,Championship,1999,1999/2000
+Fulham FC,Kevin Betsy,21,Left Midfield,Bournemouth,"End of loanOct 6, 1999",in,0,Championship,1999,1999/2000
+Fulham FC,Kevin Betsy,21,Left Midfield,Hull City,"End of loanDec 8, 1999",in,0,Championship,1999,1999/2000
+Fulham FC,Zat Knight,19,Centre-Back,Peterborough,"End of loanMay 1, 2000",in,0,Championship,1999,1999/2000
+Fulham FC,Paul Peschisolido,28,Centre-Forward,QPR,"End of loanDec 1, 1999",in,0,Championship,1999,1999/2000
+Fulham FC,Paul Brooker,23,Attacking Midfield,Brighton,"End of loanMay 8, 2000",in,0,Championship,1999,1999/2000
+Fulham FC,Zat Knight,19,Centre-Back,Fulham U18,-,in,0,Championship,1999,1999/2000
+Fulham FC,Glyn Thompson,19,Goalkeeper,Mansfield Town,"End of loanMay 1, 2000",in,0,Championship,1999,1999/2000
+Fulham FC,John Salako,30,Left Midfield,Charlton,£180k,out,0.18,Championship,1999,1999/2000
+Fulham FC,Paul Moody,32,Forward,Millwall,£144k,out,0.144,Championship,1999,1999/2000
+Fulham FC,Glyn Thompson,18,Goalkeeper,Mansfield Town,Loan,out,0,Championship,1999,1999/2000
+Fulham FC,Paul Peschisolido,28,Centre-Forward,QPR,Loan,out,0,Championship,1999,1999/2000
+Fulham FC,Paul Brooker,23,Attacking Midfield,Brighton,Loan,out,0,Championship,1999,1999/2000
+Fulham FC,François Keller,25,Midfielder,R. Strasbourg B,Free Transfer,out,0,Championship,1999,1999/2000
+Fulham FC,Zat Knight,19,Centre-Back,Peterborough,Loan,out,0,Championship,1999,1999/2000
+Fulham FC,Philippe Albert,31,Centre-Back,RSC Charleroi,Free Transfer,out,0,Championship,1999,1999/2000
+Fulham FC,Kevin Betsy,21,Left Midfield,Bournemouth,Loan,out,0,Championship,1999,1999/2000
+Fulham FC,Kevin Betsy,21,Left Midfield,Hull City,Loan,out,0,Championship,1999,1999/2000
+Fulham FC,Neil Smith,27,Midfielder,Reading,?,out,NA,Championship,1999,1999/2000
+Fulham FC,Matt Brazier,22,Midfielder,Cardiff,?,out,NA,Championship,1999,1999/2000
+Fulham FC,Paul Bracewell,36,Central Midfield,Retired,-,out,0,Championship,1999,1999/2000
+Fulham FC,Stan Collymore,28,Centre-Forward,Aston Villa,"End of loanOct 15, 1999",out,0,Championship,1999,1999/2000
+Fulham FC,Stephen Hughes,23,Defensive Midfield,Arsenal,"End of loanDec 31, 1999",out,0,Championship,1999,1999/2000
+Fulham FC,Rob Scott,25,Defender,Rotherham,"End of loanJun 30, 1999",out,0,Championship,1999,1999/2000
+Huddersfield Town,Clyde Wijnhard,25,Centre-Forward,Leeds,£945k,in,0.945,Championship,1999,1999/2000
+Huddersfield Town,Chris Lucketti,27,Centre-Back,Bury,£923k,in,0.923,Championship,1999,1999/2000
+Huddersfield Town,Chris Holland,24,Central Midfield,Birmingham,£107k,in,0.107,Championship,1999,1999/2000
+Huddersfield Town,Ken Monkou,34,Centre-Back,Southampton,Free Transfer,in,0,Championship,1999,1999/2000
+Huddersfield Town,Steve Baker,20,Defender,Middlesbrough,Loan,in,0,Championship,1999,1999/2000
+Huddersfield Town,Georgios Donis,29,Right Winger,Sheffield Utd.,Free Transfer,in,0,Championship,1999,1999/2000
+Huddersfield Town,Alun Armstrong,25,Centre-Forward,Middlesbrough,Loan,in,0,Championship,1999,1999/2000
+Huddersfield Town,Mark Farren,17,Centre-Forward,Tranmere Rovers,Free Transfer,in,0,Championship,1999,1999/2000
+Huddersfield Town,Martyn Margetson,27,Goalkeeper,Southend United,£36k,in,0.036,Championship,1999,1999/2000
+Huddersfield Town,Kwami Hodouto,24,Right-Back,AJ Auxerre,?,in,NA,Championship,1999,1999/2000
+Huddersfield Town,Dean Gorré,29,Right Winger,Ajax,?,in,NA,Championship,1999,1999/2000
+Huddersfield Town,Felix Michel Ngonge,32,Forward,Watford,?,in,NA,Championship,1999,1999/2000
+Huddersfield Town,Scott Sellars,33,Left Midfield,Bolton,?,in,NA,Championship,1999,1999/2000
+Huddersfield Town,Kiatisuk Senamuang,25,Centre-Forward,Perlis FA,?,in,NA,Championship,1999,1999/2000
+Huddersfield Town,Lee Richardson,30,Midfielder,Bury,"End of loanSep 19, 1999",in,0,Championship,1999,1999/2000
+Huddersfield Town,David Beresford,23,Midfielder,Preston NE,"End of loanMay 8, 2000",in,0,Championship,1999,1999/2000
+Huddersfield Town,Phil Senior,16,Goalkeeper,Huddersf. U18,-,in,0,Championship,1999,1999/2000
+Huddersfield Town,Marcus Stewart,27,Centre-Forward,Ipswich,£3.71m,out,3.71,Championship,1999,1999/2000
+Huddersfield Town,Darren Edmondson,28,Defender,York City,Free Transfer,out,0,Championship,1999,1999/2000
+Huddersfield Town,Sam Collins,22,Centre-Back,Bury,Free Transfer,out,0,Championship,1999,1999/2000
+Huddersfield Town,Lee Richardson,30,Midfielder,Bury,Loan,out,0,Championship,1999,1999/2000
+Huddersfield Town,Lee Richardson,30,Midfielder,Livingston FC,Free Transfer,out,0,Championship,1999,1999/2000
+Huddersfield Town,David Beresford,23,Midfielder,Preston NE,Loan,out,0,Championship,1999,1999/2000
+Huddersfield Town,Barry Horne,37,Defensive Midfield,Sheff Wed,?,out,NA,Championship,1999,1999/2000
+Huddersfield Town,Felix Michel Ngonge,32,Forward,Watford,?,out,NA,Championship,1999,1999/2000
+Huddersfield Town,David Phillips,35,Right Midfield,Lincoln City,?,out,NA,Championship,1999,1999/2000
+Huddersfield Town,Sean Hessey,20,Centre-Back,Kilmarnock FC,?,out,NA,Championship,1999,1999/2000
+Huddersfield Town,Steve Baker,20,Defender,Middlesbrough,"End of loanAug 30, 1999",out,0,Championship,1999,1999/2000
+Huddersfield Town,Alun Armstrong,25,Centre-Forward,Middlesbrough,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Leeds United,Darren Huckerby,23,Right Winger,Coventry,£6.84m,in,6.84,Championship,1999,1999/2000
+Leeds United,Michael Bridges,20,Centre-Forward,Sunderland,£6.75m,in,6.75,Championship,1999,1999/2000
+Leeds United,Michael Duberry,23,Centre-Back,Chelsea,£6.08m,in,6.08,Championship,1999,1999/2000
+Leeds United,Danny Mills,22,Right-Back,Charlton,£5.40m,in,5.4,Championship,1999,1999/2000
+Leeds United,Jason Wilcox,28,Left Winger,Blackburn,£4.05m,in,4.05,Championship,1999,1999/2000
+Leeds United,Eirik Bakke,21,Central Midfield,Sogndal,£2.34m,in,2.34,Championship,1999,1999/2000
+Leeds United,Shaun Allaway,17,Goalkeeper,Reading,£270k,in,0.27,Championship,1999,1999/2000
+Leeds United,Danny Hay,24,Centre-Back,Perth Glory,£252k,in,0.252,Championship,1999,1999/2000
+Leeds United,Dejan Milosevic,21,Goalkeeper,Perth Glory,£158k,in,0.158,Championship,1999,1999/2000
+Leeds United,Lee Matthews,21,Central Midfield,Gillingham FC,"End of loanMay 1, 2000",in,0,Championship,1999,1999/2000
+Leeds United,Mark Jackson,22,Defender,Barnsley FC,"End of loanFeb 10, 2000",in,0,Championship,1999,1999/2000
+Leeds United,Paul Shepherd,21,Centre-Forward,Tranmere Rovers,"End of loanJun 30, 1999",in,0,Championship,1999,1999/2000
+Leeds United,Jimmy Floyd Hasselbaink,27,Centre-Forward,Atlético Madrid,£15.03m,out,15.03,Championship,1999,1999/2000
+Leeds United,David Wetherall,28,Centre-Back,Bradford,£1.89m,out,1.89,Championship,1999,1999/2000
+Leeds United,Danny Granville,24,Left-Back,Man City,£1.26m,out,1.26,Championship,1999,1999/2000
+Leeds United,Clyde Wijnhard,25,Centre-Forward,Huddersfield,£945k,out,0.945,Championship,1999,1999/2000
+Leeds United,Bruno Ribeiro,24,Left Midfield,Sheffield Utd.,£630k,out,0.63,Championship,1999,1999/2000
+Leeds United,Lee Sharpe,28,Left Midfield,Bradford,£270k,out,0.27,Championship,1999,1999/2000
+Leeds United,Mark Jackson,22,Defender,Scunthorpe Utd.,Free Transfer,out,0,Championship,1999,1999/2000
+Leeds United,Lee Matthews,21,Central Midfield,Gillingham FC,Loan,out,0,Championship,1999,1999/2000
+Leeds United,Paul Donnelly,19,Sweeper,St. Patricks,Free Transfer,out,0,Championship,1999,1999/2000
+Leeds United,Derek Lilley,25,Centre-Forward,Oxford United,Free Transfer,out,0,Championship,1999,1999/2000
+Leeds United,Paul Shepherd,21,Centre-Forward,Ayr United,Free Transfer,out,0,Championship,1999,1999/2000
+Leeds United,Mark Jackson,22,Defender,Barnsley FC,Loan,out,0,Championship,1999,1999/2000
+Leeds United,Neil Ross,17,Forward,Stockport,Free Transfer,out,0,Championship,1999,1999/2000
+Leeds United,Gunnar Halle,33,Right-Back,Bradford,?,out,NA,Championship,1999,1999/2000
+Leeds United,Nuno Santos,26,Goalkeeper,Benfica,?,out,NA,Championship,1999,1999/2000
+Leeds United,Willem Korsten,24,Left Winger,Vitesse,"End of loanJun 30, 1999",out,0,Championship,1999,1999/2000
+West Bromwich Albion,Lárus Orri Sigurdsson,26,Centre-Back,Stoke City,£450k,in,0.45,Championship,1999,1999/2000
+West Bromwich Albion,Anthony Butler,27,Centre-Back,Port Vale,£189k,in,0.189,Championship,1999,1999/2000
+West Bromwich Albion,Brian Jensen,24,Goalkeeper,AZ Alkmaar,£135k,in,0.135,Championship,1999,1999/2000
+West Bromwich Albion,Neil Clement,21,Centre-Back,Chelsea,£135k,in,0.135,Championship,1999,1999/2000
+West Bromwich Albion,Carsten Fredgaard,23,Left-Back,Sunderland,Loan fee:£90k,in,0.09,Championship,1999,1999/2000
+West Bromwich Albion,Andy Townsend,36,Central Midfield,Middlesbrough,£45k,in,0.045,Championship,1999,1999/2000
+West Bromwich Albion,Georges Santos,29,Centre-Back,Tranmere Rovers,£34k,in,0.034,Championship,1999,1999/2000
+West Bromwich Albion,Des Lyttle,27,Defender,Nottm Forest,?,in,NA,Championship,1999,1999/2000
+West Bromwich Albion,Massimiliano Iezzi,18,Right Midfield,Roma U19,?,in,NA,Championship,1999,1999/2000
+West Bromwich Albion,Adam Chambers,18,Defensive Midfield,West Brom U18,-,in,0,Championship,1999,1999/2000
+West Bromwich Albion,James Chambers,18,Right-Back,West Brom U18,-,in,0,Championship,1999,1999/2000
+West Bromwich Albion,Chris Adamson,20,Goalkeeper,Halifax Town,"End of loanSep 1, 1999",in,0,Championship,1999,1999/2000
+West Bromwich Albion,Kevin Kilbane,22,Left Midfield,Sunderland,£3.38m,out,3.38,Championship,1999,1999/2000
+West Bromwich Albion,Phil Whitehead,29,Goalkeeper,Reading,£269k,out,0.269,Championship,1999,1999/2000
+West Bromwich Albion,Graham Potter,25,Midfielder,York City,Free Transfer,out,0,Championship,1999,1999/2000
+West Bromwich Albion,Chris Adamson,20,Goalkeeper,Halifax Town,Loan,out,0,Championship,1999,1999/2000
+West Bromwich Albion,Enzo Maresca,19,Central Midfield,Juventus,Free Transfer,out,0,Championship,1999,1999/2000
+West Bromwich Albion,Mario Bortolazzi,34,Defensive Midfield,AS Livorno,?,out,NA,Championship,1999,1999/2000
+West Bromwich Albion,Paul Holmes,31,Midfielder,Torquay United,?,out,NA,Championship,1999,1999/2000
+West Bromwich Albion,Carsten Fredgaard,23,Left-Back,Sunderland,"End of loanMar 15, 2000",out,0,Championship,1999,1999/2000
+West Bromwich Albion,Alan Miller,29,Goalkeeper,Blackburn,,out,NA,Championship,1999,1999/2000
+Derby County,Seth Johnson,20,Central Midfield,Crewe Alexandra,£4.05m,in,4.05,Championship,1999,1999/2000
+Derby County,Lee Morris,19,Centre-Forward,Sheffield Utd.,£3.78m,in,3.78,Championship,1999,1999/2000
+Derby County,Branko Strupar,29,Centre-Forward,KRC Genk,£3.78m,in,3.78,Championship,1999,1999/2000
+Derby County,Esteban Fuertes,27,Centre-Forward,Racing Club,£2.70m,in,2.7,Championship,1999,1999/2000
+Derby County,Andy Oakes,22,Goalkeeper,Hull City,£450k,in,0.45,Championship,1999,1999/2000
+Derby County,Giorgi Kinkladze,26,Attacking Midfield,Ajax,Loan,in,0,Championship,1999,1999/2000
+Derby County,Craig Burley,28,Attacking Midfield,Celtic,?,in,NA,Championship,1999,1999/2000
+Derby County,Avi Nimni,27,Attacking Midfield,M. Tel Aviv,Loan,in,0,Championship,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Oxford United,"End of loanFeb 18, 2000",in,0,Championship,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Birmingham,"End of loanSep 22, 1999",in,0,Championship,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Hull City,"End of loanNov 7, 1999",in,0,Championship,1999,1999/2000
+Derby County,Kevin Harper,24,Right Midfield,Walsall,"End of loanFeb 1, 2000",in,0,Championship,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Oxford United,"End of loanMay 8, 2000",in,0,Championship,1999,1999/2000
+Derby County,Ian Evatt,17,Centre-Back,Derby U18,-,in,0,Championship,1999,1999/2000
+Derby County,Andy Oakes,22,Goalkeeper,Port Vale,"End of loanSep 1, 1999",in,0,Championship,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Macclesfield,"End of loanJan 4, 2000",in,0,Championship,1999,1999/2000
+Derby County,Paul Boertien,21,Left-Back,Crewe Alexandra,"End of loanMar 1, 2000",in,0,Championship,1999,1999/2000
+Derby County,Chris Riggott,18,Centre-Back,Derby U18,-,in,0,Championship,1999,1999/2000
+Derby County,Paulo Wanchope,22,Centre-Forward,West Ham,£4.82m,out,4.82,Championship,1999,1999/2000
+Derby County,Igor Stimac,31,Centre-Back,West Ham,£630k,out,0.63,Championship,1999,1999/2000
+Derby County,Spencer Prior,28,Centre-Back,Man City,£630k,out,0.63,Championship,1999,1999/2000
+Derby County,Russell Hoult,27,Goalkeeper,Portsmouth,£405k,out,0.405,Championship,1999,1999/2000
+Derby County,Kevin Harper,24,Right Midfield,Portsmouth,£405k,out,0.405,Championship,1999,1999/2000
+Derby County,Kevin Harper,23,Right Midfield,Walsall,Loan,out,0,Championship,1999,1999/2000
+Derby County,Paul Boertien,21,Left-Back,Crewe Alexandra,Loan,out,0,Championship,1999,1999/2000
+Derby County,Rob Kozluk,22,Right-Back,Sheffield Utd.,Free Transfer,out,0,Championship,1999,1999/2000
+Derby County,Andy Oakes,22,Goalkeeper,Port Vale,Loan,out,0,Championship,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Hull City,Loan,out,0,Championship,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Macclesfield,Loan,out,0,Championship,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Oxford United,Loan,out,0,Championship,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Birmingham,Loan,out,0,Championship,1999,1999/2000
+Derby County,Francesco Baiano,31,Right Winger,Ternana,?,out,NA,Championship,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Oxford United,Loan,out,0,Championship,1999,1999/2000
+Derby County,Avi Nimni,27,Attacking Midfield,M. Tel Aviv,"End of loanDec 31, 1999",out,0,Championship,1999,1999/2000
+Middlesbrough FC,Christian Ziege,27,Left Midfield,Milan,£5.40m,in,5.4,Championship,1999,1999/2000
+Middlesbrough FC,Carlos Marinelli,17,Attacking Midfield,Boca Juniors,£2.54m,in,2.54,Championship,1999,1999/2000
+Middlesbrough FC,Paul Ince,31,Defensive Midfield,Liverpool,£1.35m,in,1.35,Championship,1999,1999/2000
+Middlesbrough FC,Chris Bennion,18,Goalkeeper,Hearts FC U20,Free Transfer,in,0,Championship,1999,1999/2000
+Middlesbrough FC,Juninho Paulista,26,Attacking Midfield,Atlético Madrid,Loan,in,0,Championship,1999,1999/2000
+Middlesbrough FC,Keith O'Neill,23,Left Winger,Norwich,?,in,NA,Championship,1999,1999/2000
+Middlesbrough FC,Alun Armstrong,25,Centre-Forward,Huddersfield,"End of loanMay 1, 2000",in,0,Championship,1999,1999/2000
+Middlesbrough FC,Sean Prunty,18,Defender,Boro U18,-,in,0,Championship,1999,1999/2000
+Middlesbrough FC,Ben Roberts,24,Goalkeeper,Luton Town,"End of loanMar 1, 2000",in,0,Championship,1999,1999/2000
+Middlesbrough FC,Steve Baker,20,Defender,Huddersfield,"End of loanAug 30, 1999",in,0,Championship,1999,1999/2000
+Middlesbrough FC,Steve Baker,21,Defender,Darlington,"End of loanMay 27, 2000",in,0,Championship,1999,1999/2000
+Middlesbrough FC,Mark Hudson,18,Central Midfield,Boro U18,-,in,0,Championship,1999,1999/2000
+Middlesbrough FC,Juninho Paulista,26,Attacking Midfield,Atlético Madrid,£12.42m,out,12.42,Championship,1999,1999/2000
+Middlesbrough FC,Steve Baker,21,Defender,Darlington,Loan,out,0,Championship,1999,1999/2000
+Middlesbrough FC,Steve Baker,20,Defender,Huddersfield,Loan,out,0,Championship,1999,1999/2000
+Middlesbrough FC,Micky Cummins,21,Left Midfield,Port Vale,Free Transfer,out,0,Championship,1999,1999/2000
+Middlesbrough FC,Alun Armstrong,25,Centre-Forward,Huddersfield,Loan,out,0,Championship,1999,1999/2000
+Middlesbrough FC,Ben Roberts,24,Goalkeeper,Luton Town,Loan,out,0,Championship,1999,1999/2000
+Middlesbrough FC,Andy Townsend,36,Central Midfield,West Brom,£45k,out,0.045,Championship,1999,1999/2000
+Middlesbrough FC,Marco Branca,34,Centre-Forward,FC Luzern,?,out,NA,Championship,1999,1999/2000
+Middlesbrough FC,Gustavo Lombardi,23,Right-Back,River Plate,?,out,NA,Championship,1999,1999/2000
+Middlesbrough FC,Vladimir Kinder,30,Centre-Back,Drnovice,?,out,NA,Championship,1999,1999/2000
+Middlesbrough FC,Ross Harrower,16,Goalkeeper,Dunfermline A.,?,out,NA,Championship,1999,1999/2000
+Middlesbrough FC,Clayton Blackmore,34,Left-Back,Barnsley FC,?,out,NA,Championship,1999,1999/2000
+Bristol City,Steve Jones,29,Forward,Charlton,£476k,in,0.476,Championship,1999,1999/2000
+Bristol City,Peter Beadle,27,Forward,Notts County,£221k,in,0.221,Championship,1999,1999/2000
+Bristol City,Tommy Black,20,Right Midfield,Arsenal,Loan,in,0,Championship,1999,1999/2000
+Bristol City,Paul Mortimer,31,Midfielder,Charlton,Free Transfer,in,0,Championship,1999,1999/2000
+Bristol City,Chris Holland,18,Centre-Back,Bournemouth,Free Transfer,in,0,Championship,1999,1999/2000
+Bristol City,Keith Millen,33,Defender,Watford,£38k,in,0.038,Championship,1999,1999/2000
+Bristol City,Robin Hulbert,20,Defensive Midfield,Swindon Town,£36k,in,0.036,Championship,1999,1999/2000
+Bristol City,Vilmos Sebok,26,Centre-Back,Újpest FC,?,in,NA,Championship,1999,1999/2000
+Bristol City,Marvin Brown,15,Centre-Forward,Bristol City U18,-,in,0,Championship,1999,1999/2000
+Bristol City,Damian Spencer,17,Centre-Forward,Bristol City U18,-,in,0,Championship,1999,1999/2000
+Bristol City,Lorenzo Pinamonte,21,Forward,Brighton,"End of loanFeb 1, 2000",in,0,Championship,1999,1999/2000
+Bristol City,Steve Jones,30,Forward,Southend United,"End of loanMay 8, 2000",in,0,Championship,1999,1999/2000
+Bristol City,Danny Coles,17,Centre-Back,Bristol City U18,-,in,0,Championship,1999,1999/2000
+Bristol City,Simon Clist,17,Left Midfield,Bristol City U18,-,in,0,Championship,1999,1999/2000
+Bristol City,Aaron Brown,19,Left-Back,Exeter City,"End of loanFeb 1, 2000",in,0,Championship,1999,1999/2000
+Bristol City,Bo Andersen,23,Goalkeeper,Djurgarden,"End of loanNov 1, 1999",in,0,Championship,1999,1999/2000
+Bristol City,Steve Jones,29,Forward,Brentford,"End of loanMar 14, 2000",in,0,Championship,1999,1999/2000
+Bristol City,Kevin Amankwaah,17,Centre-Back,Bristol City U18,-,in,0,Championship,1999,1999/2000
+Bristol City,Kayode Odejayi,17,Centre-Forward,Bristol City U18,-,in,0,Championship,1999,1999/2000
+Bristol City,Ade Akinbiyi,24,Centre-Forward,Wolves,£2.88m,out,2.88,Championship,1999,1999/2000
+Bristol City,Jim Brennan,22,Left Midfield,Nottm Forest,£2.03m,out,2.03,Championship,1999,1999/2000
+Bristol City,Sören Andersen,29,Centre-Forward,Odense BK,£270k,out,0.27,Championship,1999,1999/2000
+Bristol City,Steve Torpey,29,Centre-Forward,Scunthorpe Utd.,£270k,out,0.27,Championship,1999,1999/2000
+Bristol City,Sean Dyche,28,Centre-Back,Millwall,£189k,out,0.189,Championship,1999,1999/2000
+Bristol City,Lorenzo Pinamonte,21,Forward,Brentford,£112k,out,0.112,Championship,1999,1999/2000
+Bristol City,Rob Edwards,26,Centre-Back,Preston NE,Free Transfer,out,0,Championship,1999,1999/2000
+Bristol City,Julian Watts,28,Defender,Luton Town,Free Transfer,out,0,Championship,1999,1999/2000
+Bristol City,Steve Jones,29,Forward,Brentford,Loan,out,0,Championship,1999,1999/2000
+Bristol City,Aaron Brown,19,Left-Back,Exeter City,Loan,out,0,Championship,1999,1999/2000
+Bristol City,Jehad Muntasser,20,Right Midfield,FC Empoli,Free Transfer,out,0,Championship,1999,1999/2000
+Bristol City,Steve Jones,29,Forward,Southend United,Loan,out,0,Championship,1999,1999/2000
+Bristol City,Bo Andersen,23,Goalkeeper,Djurgarden,Loan,out,0,Championship,1999,1999/2000
+Bristol City,Lorenzo Pinamonte,21,Forward,Brighton,Loan,out,0,Championship,1999,1999/2000
+Bristol City,Bo Andersen,23,Goalkeeper,Viking FK,?,out,NA,Championship,1999,1999/2000
+Bristol City,Colin Cramb,25,Centre-Forward,Crewe Alexandra,?,out,NA,Championship,1999,1999/2000
+Bristol City,Vilmos Sebok,26,Centre-Back,Waldh. Mannheim,?,out,NA,Championship,1999,1999/2000
+Bristol City,Tommy Black,20,Right Midfield,Arsenal,"End of loanDec 31, 1999",out,0,Championship,1999,1999/2000
+Bristol City,Shaun Taylor,37,Defender,Retired,-,out,0,Championship,1999,1999/2000
+Nottingham Forest,Riccardo Scimeca,24,Centre-Back,Aston Villa,£4.05m,in,4.05,Championship,1999,1999/2000
+Nottingham Forest,Stern John,22,Centre-Forward,Columbus Crew,£3.42m,in,3.42,Championship,1999,1999/2000
+Nottingham Forest,Jim Brennan,22,Left Midfield,Bristol City,£2.03m,in,2.03,Championship,1999,1999/2000
+Nottingham Forest,Tony Vaughan,24,Left-Back,Man City,£394k,in,0.394,Championship,1999,1999/2000
+Nottingham Forest,Tony Vaughan,24,Left-Back,Man City,Loan,in,0,Championship,1999,1999/2000
+Nottingham Forest,Mathieu Louis-Jean,23,Right-Back,AC Le Havre,Free Transfer,in,0,Championship,1999,1999/2000
+Nottingham Forest,Ian Wright,35,Centre-Forward,West Ham,Loan,in,0,Championship,1999,1999/2000
+Nottingham Forest,David Platt,33,Attacking Midfield,Arsenal,Free Transfer,in,0,Championship,1999,1999/2000
+Nottingham Forest,John Terry,19,Centre-Back,Chelsea,Loan,in,0,Championship,1999,1999/2000
+Nottingham Forest,Ben Olsen,22,Right Midfield,D.C. United,Loan,in,0,Championship,1999,1999/2000
+Nottingham Forest,Gianluca Petrachi,30,Midfielder,Perugia,?,in,NA,Championship,1999,1999/2000
+Nottingham Forest,Moreno Mannini,36,Right-Back,Sampdoria,?,in,NA,Championship,1999,1999/2000
+Nottingham Forest,Salvatore Matrecano,28,Centre-Back,Perugia,?,in,NA,Championship,1999,1999/2000
+Nottingham Forest,David Prutton,17,Central Midfield,Nottingham U18,-,in,0,Championship,1999,1999/2000
+Nottingham Forest,Brian Cash,16,Right Midfield,Nottingham U21,-,in,0,Championship,1999,1999/2000
+Nottingham Forest,Steve Guinan,23,Centre-Forward,Scunthorpe Utd.,"End of loanOct 1, 1999",in,0,Championship,1999,1999/2000
+Nottingham Forest,Steve Chettle,31,Centre-Back,Barnsley FC,"End of loanDec 1, 1999",in,0,Championship,1999,1999/2000
+Nottingham Forest,Jermaine Jenas,16,Central Midfield,Nottingham U18,-,in,0,Championship,1999,1999/2000
+Nottingham Forest,Pierre van Hooijdonk,29,Centre-Forward,Vitesse,£4.25m,out,4.25,Championship,1999,1999/2000
+Nottingham Forest,Neil Shipperley,24,Centre-Forward,Barnsley FC,£900k,out,0.9,Championship,1999,1999/2000
+Nottingham Forest,Carlton Palmer,33,Defensive Midfield,Coventry,£540k,out,0.54,Championship,1999,1999/2000
+Nottingham Forest,Scot Gemmill,28,Central Midfield,Everton,£270k,out,0.27,Championship,1999,1999/2000
+Nottingham Forest,Nikola Jerkan,34,Centre-Back,RSC Charleroi,Free Transfer,out,0,Championship,1999,1999/2000
+Nottingham Forest,Steve Guinan,23,Centre-Forward,Scunthorpe Utd.,Loan,out,0,Championship,1999,1999/2000
+Nottingham Forest,Steve Chettle,31,Centre-Back,Barnsley FC,Loan,out,0,Championship,1999,1999/2000
+Nottingham Forest,Andy Todd,20,Central Midfield,Eastwood Town,Free Transfer,out,0,Championship,1999,1999/2000
+Nottingham Forest,Richard Hodgson,20,Midfielder,Scunthorpe Utd.,Free Transfer,out,0,Championship,1999,1999/2000
+Nottingham Forest,Steve Chettle,31,Centre-Back,Barnsley FC,Free Transfer,out,0,Championship,1999,1999/2000
+Nottingham Forest,Geoff Thomas,34,Central Midfield,Barnsley FC,Free Transfer,out,0,Championship,1999,1999/2000
+Nottingham Forest,Steve Guinan,23,Centre-Forward,Cambridge Utd.,Free Transfer,out,0,Championship,1999,1999/2000
+Nottingham Forest,Stale Stensaas,27,Left-Back,Rangers,?,out,NA,Championship,1999,1999/2000
+Nottingham Forest,Moreno Mannini,37,Right-Back,Imolese,?,out,NA,Championship,1999,1999/2000
+Nottingham Forest,Jesper Mattsson,31,Defender,Unknown,?,out,NA,Championship,1999,1999/2000
+Nottingham Forest,Des Lyttle,27,Defender,West Brom,?,out,NA,Championship,1999,1999/2000
+Nottingham Forest,John Terry,19,Centre-Back,Chelsea,"End of loanMay 31, 2000",out,0,Championship,1999,1999/2000
+Nottingham Forest,Ian Wright,35,Centre-Forward,West Ham,"End of loanOct 26, 1999",out,0,Championship,1999,1999/2000
+Nottingham Forest,Tony Vaughan,24,Left-Back,Man City,"End of loanMar 12, 2000",out,0,Championship,1999,1999/2000
+Nottingham Forest,Porfírio,25,Left Midfield,Benfica,"End of loanJun 30, 1999",out,0,Championship,1999,1999/2000
+Nottingham Forest,Jean-Claude Darcheville,23,Centre-Forward,Stade Rennais,"End of loanJun 30, 1999",out,0,Championship,1999,1999/2000
+Nottingham Forest,Mathieu Louis-Jean,23,Right-Back,AC Le Havre,"End of loanJun 30, 1999",out,0,Championship,1999,1999/2000
+Nottingham Forest,Richard Gough,37,Centre-Back,San Jose Clash,"End of loanJun 30, 1999",out,0,Championship,1999,1999/2000
+Swansea City,Matt Gregg,21,Goalkeeper,Crystal Palace,Loan,in,0,Championship,1999,1999/2000
+Swansea City,Tommy Mutton,21,Forward,Bangor City,?,in,NA,Championship,1999,1999/2000
+Swansea City,Walter Boyd,27,Midfielder,Arnett Gardens,?,in,NA,Championship,1999,1999/2000
+Swansea City,Chris Todd,17,Centre-Back,Swansea U18,-,in,0,Championship,1999,1999/2000
+Swansea City,Aidan Newhouse,27,Forward,Brighton,£34k,out,0.034,Championship,1999,1999/2000
+Swansea City,Karl Munroe,19,Centre-Back,Macclesfield,?,out,NA,Championship,1999,1999/2000
+Swansea City,Matt Gregg,21,Goalkeeper,Crystal Palace,"End of loanMar 1, 2000",out,0,Championship,1999,1999/2000
+Brentford FC,Scott Marshall,26,Centre-Back,Southampton,£338k,in,0.338,Championship,1999,1999/2000
+Brentford FC,Lorenzo Pinamonte,21,Forward,Bristol City,£112k,in,0.112,Championship,1999,1999/2000
+Brentford FC,Phil Warner,20,Right-Back,Southampton,Loan,in,0,Championship,1999,1999/2000
+Brentford FC,Neil Clement,21,Centre-Back,Chelsea,Loan,in,0,Championship,1999,1999/2000
+Brentford FC,Patrick Agyemang,18,Centre-Forward,Wimbledon FC,Loan,in,0,Championship,1999,1999/2000
+Brentford FC,Steve Jones,29,Forward,Bristol City,Loan,in,0,Championship,1999,1999/2000
+Brentford FC,Paul Gibbs,27,Defender,Plymouth,Free Transfer,in,0,Championship,1999,1999/2000
+Brentford FC,David Theobald,20,Centre-Back,Ipswich,Free Transfer,in,0,Championship,1999,1999/2000
+Brentford FC,Ólafur Gottskálksson,32,Goalkeeper,Hibernian FC,Free Transfer,in,0,Championship,1999,1999/2000
+Brentford FC,Lakhdar Adjali,27,Attacking Midfield,ES Wasquehal,?,in,NA,Championship,1999,1999/2000
+Brentford FC,Ívar Ingimarsson,22,Centre-Back,ÍBV,?,in,NA,Championship,1999,1999/2000
+Brentford FC,Gunnar Einarsson,23,Defender,Roda JC,?,in,NA,Championship,1999,1999/2000
+Brentford FC,Jay Smith,17,Defensive Midfield,Brentford U18,-,in,0,Championship,1999,1999/2000
+Brentford FC,Kevin O'Connor,17,Right-Back,Brentford U18,-,in,0,Championship,1999,1999/2000
+Brentford FC,Hermann Hreidarsson,24,Centre-Back,Wimbledon FC,£3.38m,out,3.38,Championship,1999,1999/2000
+Brentford FC,Danny Cullip,22,Centre-Back,Brighton,£68k,out,0.068,Championship,1999,1999/2000
+Brentford FC,Paul Watson,24,Right-Back,Brighton,£14k,out,0.014,Championship,1999,1999/2000
+Brentford FC,Charlie Oatway,25,Central Midfield,Brighton,£14k,out,0.014,Championship,1999,1999/2000
+Brentford FC,Dirk Hebel,26,Defensive Midfield,Bonner SC,?,out,NA,Championship,1999,1999/2000
+Brentford FC,Darren Freeman,25,Right Winger,Brighton,?,out,NA,Championship,1999,1999/2000
+Brentford FC,Gunnar Einarsson,23,Defender,KR Reykjavík,?,out,NA,Championship,1999,1999/2000
+Brentford FC,Steve Jones,29,Forward,Bristol City,"End of loanMar 14, 2000",out,0,Championship,1999,1999/2000
+Brentford FC,Phil Warner,21,Right-Back,Southampton,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Brentford FC,Patrick Agyemang,19,Centre-Forward,Wimbledon FC,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Brentford FC,Neil Clement,21,Centre-Back,Chelsea,"End of loanDec 31, 1999",out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Gilles De Bilde,28,Centre-Forward,PSV Eindhoven,£4.50m,in,4.5,Championship,1999,1999/2000
+Sheffield Wednesday,Gerald Sibon,25,Centre-Forward,Ajax,£2.70m,in,2.7,Championship,1999,1999/2000
+Sheffield Wednesday,Barry Richardson,30,Goalkeeper,Lincoln City,Loan,in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Simon Donnelly,24,Right Winger,Celtic,Free Transfer,in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Phil O'Donnell,27,Central Midfield,Celtic,Free Transfer,in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Barry Horne,37,Defensive Midfield,Huddersfield,?,in,NA,Championship,1999,1999/2000
+Sheffield Wednesday,Steve Haslam,19,Right-Back,Sheff Wed U18,-,in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Ritchie Humphreys,21,Defensive Midfield,Scunthorpe Utd.,"End of loanSep 1, 1999",in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Ritchie Humphreys,22,Defensive Midfield,Cardiff,"End of loanFeb 1, 2000",in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Tony Crane,16,Defender,Sheff Wed U18,-,in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Chesterfield FC,"End of loanDec 1, 1999",in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Lincoln City,"End of loanFeb 1, 2000",in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Stuart Jones,22,Goalkeeper,Torquay United,"End of loanMar 5, 2000",in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Oldham Athletic,"End of loanAug 1, 1999",in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Chester City,"End of loanOct 1, 1999",in,0,Championship,1999,1999/2000
+Sheffield Wednesday,Émerson Thome,27,Centre-Back,Chelsea,£3.60m,out,3.6,Championship,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Lincoln City,Loan,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Goce Sedloski,25,Centre-Back,Dinamo Zagreb,Free Transfer,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Ritchie Humphreys,21,Defensive Midfield,Scunthorpe Utd.,Loan,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Ritchie Humphreys,21,Defensive Midfield,Cardiff,Loan,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Chicago Fire,Free Transfer,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Guy Whittingham,34,Forward,Portsmouth,Free Transfer,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Chesterfield FC,Loan,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Stuart Jones,22,Goalkeeper,Torquay United,Loan,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,19,Centre-Forward,Oldham Athletic,Loan,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Neil Sykes,24,Left Midfield,Central United,Free Transfer,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Chester City,Loan,out,0,Championship,1999,1999/2000
+Sheffield Wednesday,Stuart Jones,22,Goalkeeper,Torquay United,£33k,out,0.033,Championship,1999,1999/2000
+Sheffield Wednesday,Francesco Sanetti,20,Second Striker,AS Livorno,?,out,NA,Championship,1999,1999/2000
+Sheffield Wednesday,Matthew Clarke,25,Goalkeeper,Bradford,?,out,NA,Championship,1999,1999/2000
+Sheffield Wednesday,Benny Carbone,27,Second Striker,Aston Villa,?,out,NA,Championship,1999,1999/2000
+Sheffield Wednesday,Barry Richardson,30,Goalkeeper,Lincoln City,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Hull City,Stephen Bywater,18,Goalkeeper,West Ham,Loan,in,0,Championship,1999,1999/2000
+Hull City,Steve Harper,30,Midfielder,Mansfield Town,Free Transfer,in,0,Championship,1999,1999/2000
+Hull City,Keith Gumbs,27,Centre-Forward,Sturm Graz,Free Transfer,in,0,Championship,1999,1999/2000
+Hull City,John Eyre,24,Forward,Scunthorpe Utd.,Free Transfer,in,0,Championship,1999,1999/2000
+Hull City,Ian Goodison,26,Centre-Back,Tivoli Gardens FC,Free Transfer,in,0,Championship,1999,1999/2000
+Hull City,Kevin Betsy,21,Left Midfield,Fulham,Loan,in,0,Championship,1999,1999/2000
+Hull City,Steve Morgan,30,Left-Back,Burnley,Free Transfer,in,0,Championship,1999,1999/2000
+Hull City,John Schofield,34,Central Midfield,Mansfield Town,Free Transfer,in,0,Championship,1999,1999/2000
+Hull City,Jason Harris,22,Forward,Preston NE,£41k,in,0.041,Championship,1999,1999/2000
+Hull City,Theodore Whitmore,26,Attacking Midfield,Seba United,?,in,NA,Championship,1999,1999/2000
+Hull City,Jamie Wood,20,Forward,Royal Antwerp,?,in,NA,Championship,1999,1999/2000
+Hull City,Richard Knight,20,Goalkeeper,Derby,Loan,in,0,Championship,1999,1999/2000
+Hull City,Michael Quigley,28,Midfielder,Altrincham,?,in,NA,Championship,1999,1999/2000
+Hull City,Gerry Harrison,27,Midfielder,Sunderland,Loan,in,0,Championship,1999,1999/2000
+Hull City,Andy Oakes,22,Goalkeeper,Derby,£450k,out,0.45,Championship,1999,1999/2000
+Hull City,Colin Alcide,27,Centre-Forward,York City,£82k,out,0.082,Championship,1999,1999/2000
+Hull City,David D'Auria,29,Midfielder,Chesterfield FC,£51k,out,0.051,Championship,1999,1999/2000
+Hull City,Keith Gumbs,27,Centre-Forward,SJ Jabloteh,Free Transfer,out,0,Championship,1999,1999/2000
+Hull City,Brian McGinty,22,Centre-Forward,Scarborough Athletic,Free Transfer,out,0,Championship,1999,1999/2000
+Hull City,Gareth Williams,32,Midfielder,Scarborough,£14k,out,0.014,Championship,1999,1999/2000
+Hull City,Stephen Bywater,18,Goalkeeper,West Ham,"End of loanJan 1, 2000",out,0,Championship,1999,1999/2000
+Hull City,Kevin Gage,35,Midfielder,Retired,-,out,0,Championship,1999,1999/2000
+Hull City,Richard Knight,20,Goalkeeper,Derby,"End of loanNov 7, 1999",out,0,Championship,1999,1999/2000
+Hull City,Kevin Betsy,21,Left Midfield,Fulham,"End of loanDec 8, 1999",out,0,Championship,1999,1999/2000
+Hull City,Gerry Harrison,27,Midfielder,Sunderland,"End of loanDec 1, 1999",out,0,Championship,1999,1999/2000
+Preston North End,Rob Edwards,26,Centre-Back,Bristol City,Free Transfer,in,0,Championship,1999,1999/2000
+Preston North End,Brett Angell,31,Centre-Forward,Stockport,Loan,in,0,Championship,1999,1999/2000
+Preston North End,Brian Barry-Murphy,20,Defensive Midfield,Cork City,Free Transfer,in,0,Championship,1999,1999/2000
+Preston North End,David Beresford,23,Midfielder,Huddersfield,Loan,in,0,Championship,1999,1999/2000
+Preston North End,Bjarki Gunnlaugsson,26,Attacking Midfield,KR Reykjavík,?,in,NA,Championship,1999,1999/2000
+Preston North End,Farid Diaf,28,Midfielder,Stade Laval,?,in,NA,Championship,1999,1999/2000
+Preston North End,Iain Anderson,22,Right Winger,Toulouse,Loan,in,0,Championship,1999,1999/2000
+Preston North End,Craig Dootson,20,Goalkeeper,Bamber B.,Free Transfer,out,0,Championship,1999,1999/2000
+Preston North End,Jason Harris,22,Forward,Hull City,£41k,out,0.041,Championship,1999,1999/2000
+Preston North End,David Beresford,23,Midfielder,Huddersfield,"End of loanMay 8, 2000",out,0,Championship,1999,1999/2000
+Preston North End,Brett Angell,31,Centre-Forward,Stockport,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Preston North End,Iain Anderson,22,Right Winger,Toulouse,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Blackburn Rovers,Per Frandsen,29,Right Midfield,Bolton,£2.36m,in,2.36,Championship,1999,1999/2000
+Blackburn Rovers,Craig Short,31,Centre-Back,Everton,£2.30m,in,2.3,Championship,1999,1999/2000
+Blackburn Rovers,Alan Kelly,30,Goalkeeper,Sheffield Utd.,£855k,in,0.855,Championship,1999,1999/2000
+Blackburn Rovers,Steve Harkness,28,Left-Back,Benfica,£540k,in,0.54,Championship,1999,1999/2000
+Blackburn Rovers,Keith Brown,19,Defender,Unknown,?,in,NA,Championship,1999,1999/2000
+Blackburn Rovers,Egil Östenstad,27,Centre-Forward,Southampton,?,in,NA,Championship,1999,1999/2000
+Blackburn Rovers,Simon Grayson,29,Right-Back,Aston Villa,?,in,NA,Championship,1999,1999/2000
+Blackburn Rovers,Anthony Williams,22,Goalkeeper,Gillingham FC,"End of loanOct 1, 1999",in,0,Championship,1999,1999/2000
+Blackburn Rovers,Martin Taylor,20,Centre-Back,Darlington,"End of loanFeb 1, 2000",in,0,Championship,1999,1999/2000
+Blackburn Rovers,Wayne Gill,24,Midfielder,Blackpool,"End of loanMay 1, 2000",in,0,Championship,1999,1999/2000
+Blackburn Rovers,Anthony Williams,22,Goalkeeper,Macclesfield,"End of loanMay 1, 2000",in,0,Championship,1999,1999/2000
+Blackburn Rovers,Leam Richardson,19,Left-Back,Blackburn U18,-,in,0,Championship,1999,1999/2000
+Blackburn Rovers,Keith Brown,19,Defender,Barnsley FC,"End of loanOct 12, 1999",in,0,Championship,1999,1999/2000
+Blackburn Rovers,Martin Taylor,20,Centre-Back,Stockport,"End of loanMay 1, 2000",in,0,Championship,1999,1999/2000
+Blackburn Rovers,James Thomas,21,Forward,Blackpool,"End of loanMay 8, 2000",in,0,Championship,1999,1999/2000
+Blackburn Rovers,Alan Miller,29,Goalkeeper,West Brom,,in,NA,Championship,1999,1999/2000
+Blackburn Rovers,Martin Dahlin,31,Centre-Forward,Hamburger SV,"End of loanJun 30, 1999",in,0,Championship,1999,1999/2000
+Blackburn Rovers,Sébastien Pérez,25,Right-Back,SC Bastia,"End of loanJun 30, 1999",in,0,Championship,1999,1999/2000
+Blackburn Rovers,Chris Sutton,26,Centre-Forward,Chelsea,£13.50m,out,13.5,Championship,1999,1999/2000
+Blackburn Rovers,Stéphane Henchoz,24,Centre-Back,Liverpool,£4.86m,out,4.86,Championship,1999,1999/2000
+Blackburn Rovers,Jason Wilcox,28,Left Winger,Leeds,£4.05m,out,4.05,Championship,1999,1999/2000
+Blackburn Rovers,Tim Flowers,32,Goalkeeper,Leicester,£1.62m,out,1.62,Championship,1999,1999/2000
+Blackburn Rovers,Gary Croft,25,Centre-Back,Ipswich,£720k,out,0.72,Championship,1999,1999/2000
+Blackburn Rovers,Oumar Kondé,19,Centre-Back,SC Freiburg,£540k,out,0.54,Championship,1999,1999/2000
+Blackburn Rovers,Keith Brown,19,Defender,Barnsley FC,£108k,out,0.108,Championship,1999,1999/2000
+Blackburn Rovers,Anthony Williams,21,Goalkeeper,Gillingham FC,Loan,out,0,Championship,1999,1999/2000
+Blackburn Rovers,Anthony Williams,22,Goalkeeper,Macclesfield,Loan,out,0,Championship,1999,1999/2000
+Blackburn Rovers,James Thomas,21,Forward,Blackpool,Loan,out,0,Championship,1999,1999/2000
+Blackburn Rovers,Martin Taylor,20,Centre-Back,Darlington,Loan,out,0,Championship,1999,1999/2000
+Blackburn Rovers,Wayne Gill,24,Midfielder,Blackpool,Loan,out,0,Championship,1999,1999/2000
+Blackburn Rovers,Gareth Stewart,19,Goalkeeper,Bournemouth,Free Transfer,out,0,Championship,1999,1999/2000
+Blackburn Rovers,Martin Taylor,20,Centre-Back,Stockport,Loan,out,0,Championship,1999,1999/2000
+Blackburn Rovers,Sébastien Pérez,25,Right-Back,Marseille,?,out,NA,Championship,1999,1999/2000
+Blackburn Rovers,Kevin Gallacher,32,Right Winger,Newcastle,?,out,NA,Championship,1999,1999/2000
+Blackburn Rovers,Kevin Davies,22,Centre-Forward,Southampton,?,out,NA,Championship,1999,1999/2000
+Blackburn Rovers,Keith Brown,19,Defender,Barnsley FC,Loan,out,0,Championship,1999,1999/2000
+Blackburn Rovers,Martin Dahlin,31,Centre-Forward,Retired,-,out,0,Championship,1999,1999/2000
+Blackburn Rovers,Dario Marcolin,27,Defensive Midfield,Lazio,"End of loanJun 30, 1999",out,0,Championship,1999,1999/2000
+Stoke City,Brynjar Gunnarsson,23,Defensive Midfield,Örgryte,£810k,in,0.81,Championship,1999,1999/2000
+Stoke City,Chris Iwelumo,21,Centre-Forward,Aarhus Fremad,£180k,in,0.18,Championship,1999,1999/2000
+Stoke City,Sam Aiston,22,Midfielder,Sunderland,Loan,in,0,Championship,1999,1999/2000
+Stoke City,Richard Dryden,30,Defender,Southampton,?,in,NA,Championship,1999,1999/2000
+Stoke City,Einar Thór Daníelsson,29,Midfielder,KR Reykjavík,Loan,in,0,Championship,1999,1999/2000
+Stoke City,Frode Kippe,21,Centre-Back,Liverpool,Loan,in,0,Championship,1999,1999/2000
+Stoke City,Mikael Hansson,31,Defender,Norrköping,?,in,NA,Championship,1999,1999/2000
+Stoke City,Sigursteinn Gíslason,31,Defender,KR Reykjavík,Loan,in,0,Championship,1999,1999/2000
+Stoke City,Arnar Gunnlaugsson,26,Centre-Forward,Leicester,?,in,NA,Championship,1999,1999/2000
+Stoke City,Anders Jacobsen,31,Centre-Back,Sheffield Utd.,?,in,NA,Championship,1999,1999/2000
+Stoke City,Richard Dryden,30,Defender,Southampton,?,in,NA,Championship,1999,1999/2000
+Stoke City,Dean Crowe,20,Forward,Bury,"End of loanMay 31, 2000",in,0,Championship,1999,1999/2000
+Stoke City,James O'Connor,19,Central Midfield,Stoke U18,-,in,0,Championship,1999,1999/2000
+Stoke City,Dean Crowe,20,Forward,Northampt. Town,"End of loanMar 16, 2000",in,0,Championship,1999,1999/2000
+Stoke City,Lárus Orri Sigurdsson,26,Centre-Back,West Brom,£450k,out,0.45,Championship,1999,1999/2000
+Stoke City,Bryan Small,29,Defender,Walsall,Free Transfer,out,0,Championship,1999,1999/2000
+Stoke City,Paul Macari,22,Forward,Sheffield Utd.,Free Transfer,out,0,Championship,1999,1999/2000
+Stoke City,Dean Crowe,20,Forward,Bury,Loan,out,0,Championship,1999,1999/2000
+Stoke City,Ray Wallace,29,Defender,Airdrie,Free Transfer,out,0,Championship,1999,1999/2000
+Stoke City,Dean Crowe,20,Forward,Northampt. Town,Loan,out,0,Championship,1999,1999/2000
+Stoke City,Steve Woods,22,Centre-Back,Chesterfield FC,Free Transfer,out,0,Championship,1999,1999/2000
+Stoke City,Richard Dryden,30,Defender,Southampton,?,out,NA,Championship,1999,1999/2000
+Stoke City,Ronnie Sinclair,34,Goalkeeper,Witton Albion,?,out,NA,Championship,1999,1999/2000
+Stoke City,Richard Dryden,30,Defender,Southampton,?,out,NA,Championship,1999,1999/2000
+Stoke City,Frode Kippe,22,Centre-Back,Liverpool,"End of loanMar 23, 2000",out,0,Championship,1999,1999/2000
+Stoke City,Sigursteinn Gíslason,31,Defender,KR Reykjavík,"End of loanMay 16, 2000",out,0,Championship,1999,1999/2000
+Stoke City,Sam Aiston,22,Midfielder,Sunderland,"End of loanOct 5, 1999",out,0,Championship,1999,1999/2000
+Stoke City,Einar Thór Daníelsson,30,Midfielder,KR Reykjavík,"End of loanMar 9, 2000",out,0,Championship,1999,1999/2000
+Birmingham City,Stan Lazaridis,26,Left Midfield,West Ham,£2.03m,in,2.03,Championship,1999,1999/2000
+Birmingham City,Marcelo,30,Centre-Forward,Sheffield Utd.,£504k,in,0.504,Championship,1999,1999/2000
+Birmingham City,Isaiah Rankin,21,Centre-Forward,Bradford,Loan,in,0,Championship,1999,1999/2000
+Birmingham City,Stuart Campbell,22,Defensive Midfield,Leicester,Loan,in,0,Championship,1999,1999/2000
+Birmingham City,Thomas Myhre,26,Goalkeeper,Everton,Loan,in,0,Championship,1999,1999/2000
+Birmingham City,Richard Edghill,25,Right-Back,Man City,Loan,in,0,Championship,1999,1999/2000
+Birmingham City,Richard Knight,20,Goalkeeper,Derby,Loan,in,0,Championship,1999,1999/2000
+Birmingham City,Christopher Wreh,24,Centre-Forward,Arsenal,Loan,in,0,Championship,1999,1999/2000
+Birmingham City,Eddie Newton,27,Defensive Midfield,Chelsea,?,in,NA,Championship,1999,1999/2000
+Birmingham City,John Beresford,33,Defender,Southampton,Loan,in,0,Championship,1999,1999/2000
+Birmingham City,Jon Bass,24,Right-Back,Gillingham FC,"End of loanMay 23, 2000",in,0,Championship,1999,1999/2000
+Birmingham City,Gary Ablett,34,Centre-Back,Wycombe,"End of loanDec 27, 1999",in,0,Championship,1999,1999/2000
+Birmingham City,Nicky Forster,25,Centre-Forward,Reading,£878k,out,0.878,Championship,1999,1999/2000
+Birmingham City,Chris Holland,24,Central Midfield,Huddersfield,£107k,out,0.107,Championship,1999,1999/2000
+Birmingham City,Antoine Hey,28,Right Midfield,F. Düsseldorf,Free Transfer,out,0,Championship,1999,1999/2000
+Birmingham City,Gary Ablett,34,Centre-Back,Blackpool,Free Transfer,out,0,Championship,1999,1999/2000
+Birmingham City,Jon Bass,24,Right-Back,Gillingham FC,Loan,out,0,Championship,1999,1999/2000
+Birmingham City,Simon Rea,22,Defender,Peterborough,Free Transfer,out,0,Championship,1999,1999/2000
+Birmingham City,Gary Ablett,34,Centre-Back,Wycombe,Loan,out,0,Championship,1999,1999/2000
+Birmingham City,Eddie Newton,28,Defensive Midfield,Oxford United,?,out,NA,Championship,1999,1999/2000
+Birmingham City,Isaiah Rankin,21,Centre-Forward,Bradford,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Birmingham City,John Beresford,33,Defender,Southampton,"End of loanNov 1, 1999",out,0,Championship,1999,1999/2000
+Birmingham City,Thomas Myhre,26,Goalkeeper,Everton,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Birmingham City,Richard Knight,20,Goalkeeper,Derby,"End of loanSep 22, 1999",out,0,Championship,1999,1999/2000
+Birmingham City,Christopher Wreh,24,Centre-Forward,Arsenal,"End of loanDec 14, 1999",out,0,Championship,1999,1999/2000
+Birmingham City,Stuart Campbell,22,Defensive Midfield,Leicester,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Wigan Athletic,Neil Roberts,21,Centre-Forward,Wrexham,£540k,in,0.54,Championship,1999,1999/2000
+Wigan Athletic,Alan McLoughlin,32,Central Midfield,Portsmouth,£351k,in,0.351,Championship,1999,1999/2000
+Wigan Athletic,Neil Redfearn,34,Midfielder,Bradford,£116k,in,0.116,Championship,1999,1999/2000
+Wigan Athletic,Kevin Nicholls,20,Right Midfield,Charlton,Free Transfer,in,0,Championship,1999,1999/2000
+Wigan Athletic,Derek Stillie,25,Goalkeeper,Aberdeen FC,Free Transfer,in,0,Championship,1999,1999/2000
+Wigan Athletic,Jean-François Péron,34,Left Midfield,Portsmouth,Free Transfer,in,0,Championship,1999,1999/2000
+Wigan Athletic,Mike Clegg,22,Defender,Man Utd,Loan,in,0,Championship,1999,1999/2000
+Wigan Athletic,Arjan de Zeeuw,29,Centre-Back,Barnsley FC,Free Transfer,in,0,Championship,1999,1999/2000
+Wigan Athletic,Darren Sheridan,31,Central Midfield,Barnsley FC,Free Transfer,in,0,Championship,1999,1999/2000
+Wigan Athletic,Mark Bowen,35,Left-Back,Charlton,?,in,NA,Championship,1999,1999/2000
+Wigan Athletic,Andy Porter,31,Midfielder,Chester City,"End of loanMay 8, 2000",in,0,Championship,1999,1999/2000
+Wigan Athletic,Paul Mitchell,17,Central Midfield,Wigan U18,-,in,0,Championship,1999,1999/2000
+Wigan Athletic,Andy Porter,31,Midfielder,Mansfield Town,"End of loanNov 24, 1999",in,0,Championship,1999,1999/2000
+Wigan Athletic,David Lee,32,Midfielder,Blackpool,"End of loanDec 27, 1999",in,0,Championship,1999,1999/2000
+Wigan Athletic,Graeme Jones,29,Forward,St. Johnstone,£105k,out,0.105,Championship,1999,1999/2000
+Wigan Athletic,David Lee,31,Midfielder,Blackpool,Loan,out,0,Championship,1999,1999/2000
+Wigan Athletic,Andy Porter,31,Midfielder,Chester City,Loan,out,0,Championship,1999,1999/2000
+Wigan Athletic,Paul Rogers,34,Midfielder,Brighton,Free Transfer,out,0,Championship,1999,1999/2000
+Wigan Athletic,Eric Nixon,36,Goalkeeper,Tranmere Rovers,Free Transfer,out,0,Championship,1999,1999/2000
+Wigan Athletic,Andy Porter,31,Midfielder,Mansfield Town,Loan,out,0,Championship,1999,1999/2000
+Wigan Athletic,David Lowe,33,Right Midfield,Wrexham,?,out,NA,Championship,1999,1999/2000
+Wigan Athletic,Jörg Smeets,28,Midfielder,CD Cruz Azul,?,out,NA,Championship,1999,1999/2000
+Wigan Athletic,Mark Bowen,36,Left-Back,Reading,?,out,NA,Championship,1999,1999/2000
+Wigan Athletic,David Lee,32,Midfielder,Unknown,?,out,NA,Championship,1999,1999/2000
+Wigan Athletic,Mike Clegg,22,Defender,Man Utd,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Queens Park Rangers,Gareth Taylor,27,Centre-Forward,Man City,Loan,in,0,Championship,1999,1999/2000
+Queens Park Rangers,Darren Ward,21,Centre-Back,Watford,Loan,in,0,Championship,1999,1999/2000
+Queens Park Rangers,Paul Peschisolido,28,Centre-Forward,Fulham,Loan,in,0,Championship,1999,1999/2000
+Queens Park Rangers,Robert Steiner,26,Forward,Bradford,?,in,NA,Championship,1999,1999/2000
+Queens Park Rangers,Felix Michel Ngonge,32,Forward,Watford,?,in,NA,Championship,1999,1999/2000
+Queens Park Rangers,Karl Connolly,30,Left Winger,Wrexham,?,in,NA,Championship,1999,1999/2000
+Queens Park Rangers,Justin Cochrane,17,Centre-Back,QPR U18,-,in,0,Championship,1999,1999/2000
+Queens Park Rangers,Steve Yates,29,Defender,Tranmere Rovers,Free Transfer,out,0,Championship,1999,1999/2000
+Queens Park Rangers,Mike Sheron,27,Centre-Forward,Barnsley FC,Free Transfer,out,0,Championship,1999,1999/2000
+Queens Park Rangers,Darren Ward,21,Centre-Back,Watford,"End of loanMar 1, 2000",out,0,Championship,1999,1999/2000
+Queens Park Rangers,Gareth Taylor,27,Centre-Forward,Man City,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Queens Park Rangers,Paul Peschisolido,28,Centre-Forward,Fulham,"End of loanDec 1, 1999",out,0,Championship,1999,1999/2000
+Reading FC,Martin Butler,25,Centre-Forward,Cambridge Utd.,£1.08m,in,1.08,Championship,1999,1999/2000
+Reading FC,Nicky Forster,25,Centre-Forward,Birmingham,£878k,in,0.878,Championship,1999,1999/2000
+Reading FC,Phil Whitehead,29,Goalkeeper,West Brom,£269k,in,0.269,Championship,1999,1999/2000
+Reading FC,Adrian Williams,28,Centre-Back,Wolves,Free Transfer,in,0,Championship,1999,1999/2000
+Reading FC,John Mackie,23,Centre-Back,Sutton Utd,Free Transfer,in,0,Championship,1999,1999/2000
+Reading FC,Kevin Lisbie,21,Centre-Forward,Charlton,Loan,in,0,Championship,1999,1999/2000
+Reading FC,Ricky Newman,29,Central Midfield,Millwall,Free Transfer,in,0,Championship,1999,1999/2000
+Reading FC,Peter Grant,33,Central Midfield,Norwich,?,in,NA,Championship,1999,1999/2000
+Reading FC,Neil Smith,27,Midfielder,Fulham,?,in,NA,Championship,1999,1999/2000
+Reading FC,Mark Bowen,36,Left-Back,Wigan,?,in,NA,Championship,1999,1999/2000
+Reading FC,Mark Nicholls,22,Forward,Chelsea,?,in,NA,Championship,1999,1999/2000
+Reading FC,Andy McLaren,26,Left Winger,Livingston FC,"End of loanDec 1, 1999",in,0,Championship,1999,1999/2000
+Reading FC,Paul Brayson,22,Forward,Cardiff,"End of loanMay 8, 2000",in,0,Championship,1999,1999/2000
+Reading FC,Adam Lockwood,17,Centre-Back,Reading U18,-,in,0,Championship,1999,1999/2000
+Reading FC,Adam Lockwood,18,Centre-Back,Maidenhead Utd.,"End of loanMay 1, 2000",in,0,Championship,1999,1999/2000
+Reading FC,John Mackie,23,Centre-Back,Sutton Utd,"End of loanNov 29, 1999",in,0,Championship,1999,1999/2000
+Reading FC,Chris Smith,18,Centre-Back,Reading U18,-,in,0,Championship,1999,1999/2000
+Reading FC,Barry Hunter,30,Centre-Back,Southend United,"End of loanJun 30, 1999",in,0,Championship,1999,1999/2000
+Reading FC,Shaun Allaway,17,Goalkeeper,Leeds,£270k,out,0.27,Championship,1999,1999/2000
+Reading FC,John Mackie,23,Centre-Back,Sutton Utd,Loan,out,0,Championship,1999,1999/2000
+Reading FC,Adam Lockwood,18,Centre-Back,Maidenhead Utd.,Loan,out,0,Championship,1999,1999/2000
+Reading FC,Andy McLaren,26,Left Winger,Livingston FC,Loan,out,0,Championship,1999,1999/2000
+Reading FC,Ray Houghton,37,Central Midfield,Stevenage FC,?,out,NA,Championship,1999,1999/2000
+Reading FC,Peter van der Kwaak,31,Goalkeeper,Carlisle United,Loan,out,0,Championship,1999,1999/2000
+Reading FC,Paul Brayson,22,Forward,Cardiff,Loan,out,0,Championship,1999,1999/2000
+Reading FC,Keith McPherson,35,Centre-Back,Brighton,?,out,NA,Championship,1999,1999/2000
+Reading FC,Tony Barras,28,Defender,Walsall,?,out,NA,Championship,1999,1999/2000
+Reading FC,Elroy Kromheer,29,Sweeper,1.FC Nuremberg,?,out,NA,Championship,1999,1999/2000
+Reading FC,Mark Nicholls,22,Forward,Unknown,?,out,NA,Championship,1999,1999/2000
+Reading FC,Grant Brebner,21,Defensive Midfield,Hibernian FC,?,out,NA,Championship,1999,1999/2000
+Reading FC,Kevin Lisbie,21,Centre-Forward,Charlton,"End of loanDec 26, 1999",out,0,Championship,1999,1999/2000
+Millwall FC,Dave Tuttle,28,Defender,Barnsley FC,£297k,in,0.297,Championship,1999,1999/2000
+Millwall FC,Matt Lawrence,25,Centre-Back,Wycombe,£270k,in,0.27,Championship,1999,1999/2000
+Millwall FC,Sean Dyche,28,Centre-Back,Bristol City,£189k,in,0.189,Championship,1999,1999/2000
+Millwall FC,Paul Moody,32,Forward,Fulham,£144k,in,0.144,Championship,1999,1999/2000
+Millwall FC,Ralf Strogies,32,Centre-Back,Stuttg. Kickers,Free Transfer,in,0,Championship,1999,1999/2000
+Millwall FC,Tony Warner,25,Goalkeeper,Liverpool,Free Transfer,in,0,Championship,1999,1999/2000
+Millwall FC,David Livermore,19,Central Midfield,Arsenal,£45k,in,0.045,Championship,1999,1999/2000
+Millwall FC,Christophe Kinet,25,Left Midfield,R. Strasbourg,?,in,NA,Championship,1999,1999/2000
+Millwall FC,Richard Barnard,18,Goalkeeper,Aldershot U19,?,in,NA,Championship,1999,1999/2000
+Millwall FC,Michael Gilkes,33,Left Midfield,Wolves,?,in,NA,Championship,1999,1999/2000
+Millwall FC,Ralf Strogies,33,Centre-Back,TSV Wolfschlugen,Free Transfer,out,0,Championship,1999,1999/2000
+Millwall FC,Tony Roberts,29,Goalkeeper,St. Albans City,Free Transfer,out,0,Championship,1999,1999/2000
+Millwall FC,Ricky Newman,29,Central Midfield,Reading,Free Transfer,out,0,Championship,1999,1999/2000
+Millwall FC,Paul Terry,20,Defensive Midfield,Dag & Red FC,Free Transfer,out,0,Championship,1999,1999/2000
+Millwall FC,Jimmy Carter,33,Right Winger,Retired,-,out,0,Championship,1999,1999/2000
+Millwall FC,Brian Law,29,Centre-Back,Retired,-,out,0,Championship,1999,1999/2000
+Millwall FC,Andy Gray,35,Central Midfield,Retired,-,out,0,Championship,1999,1999/2000
+Millwall FC,Alan McLeary,34,Defender,Retired,-,out,0,Championship,1999,1999/2000
+Luton Town,Julian Watts,28,Defender,Bristol City,Free Transfer,in,0,Championship,1999,1999/2000
+Luton Town,Neil Murphy,19,Centre-Back,Liverpool,Loan,in,0,Championship,1999,1999/2000
+Luton Town,Efe Sodje,26,Centre-Back,Macclesfield,Free Transfer,in,0,Championship,1999,1999/2000
+Luton Town,Ben Roberts,24,Goalkeeper,Middlesbrough,Loan,in,0,Championship,1999,1999/2000
+Luton Town,Neil Midgley,20,Attacking Midfield,Ipswich,Loan,in,0,Championship,1999,1999/2000
+Luton Town,Matthew Taylor,17,Left Midfield,Luton U18,-,in,0,Championship,1999,1999/2000
+Luton Town,Jude Stirling,17,Centre-Back,Luton U18,-,in,0,Championship,1999,1999/2000
+Luton Town,Gary Doherty,20,Centre-Back,Spurs,£1.35m,out,1.35,Championship,1999,1999/2000
+Luton Town,Alan White,23,Centre-Back,Colchester Utd.,Free Transfer,out,0,Championship,1999,1999/2000
+Luton Town,Efe Sodje,27,Centre-Back,Colchester Utd.,Free Transfer,out,0,Championship,1999,1999/2000
+Luton Town,Mitchell Thomas,34,Left-Back,Burnley,Free Transfer,out,0,Championship,1999,1999/2000
+Luton Town,Ray McKinnon,29,Midfielder,Livingston FC,?,out,NA,Championship,1999,1999/2000
+Luton Town,Neil Murphy,19,Centre-Back,Liverpool,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Luton Town,Ben Roberts,24,Goalkeeper,Middlesbrough,"End of loanMar 1, 2000",out,0,Championship,1999,1999/2000
+Luton Town,Neil Midgley,21,Attacking Midfield,Ipswich,"End of loanNov 23, 1999",out,0,Championship,1999,1999/2000
+Barnsley FC,Neil Shipperley,24,Centre-Forward,Nottm Forest,£900k,in,0.9,Championship,1999,1999/2000
+Barnsley FC,Dave Tuttle,27,Defender,Crystal Palace,£207k,in,0.207,Championship,1999,1999/2000
+Barnsley FC,Keith Brown,19,Defender,Blackburn,£108k,in,0.108,Championship,1999,1999/2000
+Barnsley FC,Kevin Austin,26,Centre-Back,Lincoln City,Free Transfer,in,0,Championship,1999,1999/2000
+Barnsley FC,Steve Chettle,31,Centre-Back,Nottm Forest,Loan,in,0,Championship,1999,1999/2000
+Barnsley FC,Mark Jackson,22,Defender,Leeds,Loan,in,0,Championship,1999,1999/2000
+Barnsley FC,Chris Barker,19,Left-Back,Alfreton,Free Transfer,in,0,Championship,1999,1999/2000
+Barnsley FC,Geoff Thomas,34,Central Midfield,Nottm Forest,Free Transfer,in,0,Championship,1999,1999/2000
+Barnsley FC,John Curtis,21,Right-Back,Man Utd,Loan,in,0,Championship,1999,1999/2000
+Barnsley FC,Steve Chettle,31,Centre-Back,Nottm Forest,Free Transfer,in,0,Championship,1999,1999/2000
+Barnsley FC,Kevin Miller,30,Goalkeeper,Crystal Palace,Free Transfer,in,0,Championship,1999,1999/2000
+Barnsley FC,Robert Bengtsson-Bärkroth,31,Defender,Västra Frölunda,Loan,in,0,Championship,1999,1999/2000
+Barnsley FC,Mike Sheron,27,Centre-Forward,QPR,Free Transfer,in,0,Championship,1999,1999/2000
+Barnsley FC,Clayton Blackmore,34,Left-Back,Middlesbrough,?,in,NA,Championship,1999,1999/2000
+Barnsley FC,Keith Brown,19,Defender,Blackburn,Loan,in,0,Championship,1999,1999/2000
+Barnsley FC,Clint Marcelle,31,Midfielder,Scunthorpe Utd.,"End of loanDec 31, 1999",in,0,Championship,1999,1999/2000
+Barnsley FC,Sean McClare,22,Midfielder,Rochdale,"End of loanMay 8, 2000",in,0,Championship,1999,1999/2000
+Barnsley FC,Martin Bullock,24,Defensive Midfield,Port Vale,"End of loanFeb 1, 2000",in,0,Championship,1999,1999/2000
+Barnsley FC,Dave Tuttle,28,Defender,Millwall,£297k,out,0.297,Championship,1999,1999/2000
+Barnsley FC,Arjan de Zeeuw,29,Centre-Back,Wigan,Free Transfer,out,0,Championship,1999,1999/2000
+Barnsley FC,Sean McClare,22,Midfielder,Rochdale,Loan,out,0,Championship,1999,1999/2000
+Barnsley FC,Darren Sheridan,31,Central Midfield,Wigan,Free Transfer,out,0,Championship,1999,1999/2000
+Barnsley FC,Clint Marcelle,30,Midfielder,Scunthorpe Utd.,Loan,out,0,Championship,1999,1999/2000
+Barnsley FC,Kevin Richardson,37,Central Midfield,Blackpool,?,out,NA,Championship,1999,1999/2000
+Barnsley FC,Clayton Blackmore,35,Left-Back,Notts County,?,out,NA,Championship,1999,1999/2000
+Barnsley FC,Martin Bullock,24,Defensive Midfield,Port Vale,Loan,out,0,Championship,1999,1999/2000
+Barnsley FC,Robert Bengtsson-Bärkroth,31,Defender,Västra Frölunda,"End of loanDec 31, 1999",out,0,Championship,1999,1999/2000
+Barnsley FC,John Curtis,21,Right-Back,Man Utd,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Barnsley FC,Lars Leese,29,Goalkeeper,Without Club,-,out,0,Championship,1999,1999/2000
+Barnsley FC,Steve Chettle,31,Centre-Back,Nottm Forest,"End of loanDec 1, 1999",out,0,Championship,1999,1999/2000
+Barnsley FC,Mark Jackson,22,Defender,Leeds,"End of loanFeb 10, 2000",out,0,Championship,1999,1999/2000
+Barnsley FC,John Hendrie,36,Right Winger,Retired,-,out,0,Championship,1999,1999/2000
+Barnsley FC,Pirri Mori,28,Attacking Midfield,Retired,-,out,0,Championship,1999,1999/2000
+Barnsley FC,Keith Brown,19,Defender,Blackburn,"End of loanOct 12, 1999",out,0,Championship,1999,1999/2000
+Barnsley FC,Peter Shirtliff,39,Centre-Back,Retired,-,out,0,Championship,1999,1999/2000
+Charlton Athletic,Graham Stuart,28,Attacking Midfield,Sheffield Utd.,£1.58m,in,1.58,Championship,1999,1999/2000
+Charlton Athletic,Dean Kiely,28,Goalkeeper,Bury,£1.35m,in,1.35,Championship,1999,1999/2000
+Charlton Athletic,Andy Todd,24,Centre-Back,Bolton,£1.35m,in,1.35,Championship,1999,1999/2000
+Charlton Athletic,Greg Shields,22,Right-Back,Dunfermline A.,£783k,in,0.783,Championship,1999,1999/2000
+Charlton Athletic,John Salako,30,Left Midfield,Fulham,£180k,in,0.18,Championship,1999,1999/2000
+Charlton Athletic,Paul Kitson,29,Centre-Forward,West Ham,Loan,in,0,Championship,1999,1999/2000
+Charlton Athletic,Steve Barbé,20,Defensive Midfield,RWD Molenbeek,?,in,NA,Championship,1999,1999/2000
+Charlton Athletic,Charlie MacDonald,18,Centre-Forward,Charlton U18,-,in,0,Championship,1999,1999/2000
+Charlton Athletic,Kevin Lisbie,21,Centre-Forward,Reading,"End of loanDec 26, 1999",in,0,Championship,1999,1999/2000
+Charlton Athletic,Mark McCammon,21,Centre-Forward,Swindon Town,"End of loanFeb 1, 2000",in,0,Championship,1999,1999/2000
+Charlton Athletic,Danny Shittu,18,Centre-Back,Charlton U18,-,in,0,Championship,1999,1999/2000
+Charlton Athletic,Simon Ford,17,Centre-Back,Charlton U18,-,in,0,Championship,1999,1999/2000
+Charlton Athletic,Jonathan Fortune,19,Centre-Back,Mansfield Town,"End of loanMar 17, 2000",in,0,Championship,1999,1999/2000
+Charlton Athletic,Sasa Ilic,27,Goalkeeper,West Ham,"End of loanMar 1, 2000",in,0,Championship,1999,1999/2000
+Charlton Athletic,Danny Mills,22,Right-Back,Leeds,£5.40m,out,5.4,Championship,1999,1999/2000
+Charlton Athletic,Steve Jones,29,Forward,Bristol City,£476k,out,0.476,Championship,1999,1999/2000
+Charlton Athletic,Neil Redfearn,34,Midfielder,Bradford,£258k,out,0.258,Championship,1999,1999/2000
+Charlton Athletic,Mark McCammon,21,Centre-Forward,Swindon Town,Loan,out,0,Championship,1999,1999/2000
+Charlton Athletic,Paul Mortimer,31,Midfielder,Bristol City,Free Transfer,out,0,Championship,1999,1999/2000
+Charlton Athletic,Jonathan Fortune,19,Centre-Back,Mansfield Town,Loan,out,0,Championship,1999,1999/2000
+Charlton Athletic,Kevin Lisbie,21,Centre-Forward,Reading,Loan,out,0,Championship,1999,1999/2000
+Charlton Athletic,Kevin Nicholls,20,Right Midfield,Wigan,Free Transfer,out,0,Championship,1999,1999/2000
+Charlton Athletic,Sam Turner,19,Goalkeeper,Stockport,Free Transfer,out,0,Championship,1999,1999/2000
+Charlton Athletic,Andy Petterson,29,Goalkeeper,Portsmouth,Free Transfer,out,0,Championship,1999,1999/2000
+Charlton Athletic,Paul Smith,19,Goalkeeper,Carshalton Ath.,Free Transfer,out,0,Championship,1999,1999/2000
+Charlton Athletic,Bradley Allen,27,Centre-Forward,Grimsby Town,Free Transfer,out,0,Championship,1999,1999/2000
+Charlton Athletic,Emeka Ifejiagwa,21,Centre-Back,CA Osasuna,?,out,NA,Championship,1999,1999/2000
+Charlton Athletic,Mark Bowen,35,Left-Back,Wigan,?,out,NA,Championship,1999,1999/2000
+Charlton Athletic,Mike Salmon,34,Goalkeeper,Ipswich,?,out,NA,Championship,1999,1999/2000
+Charlton Athletic,Sasa Ilic,27,Goalkeeper,West Ham,Loan,out,0,Championship,1999,1999/2000
+Charlton Athletic,Paul Kitson,29,Centre-Forward,West Ham,"End of loanMay 1, 2000",out,0,Championship,1999,1999/2000
+Charlton Athletic,John Barnes,35,Left Midfield,Retired,-,out,0,Championship,1999,1999/2000
+Charlton Athletic,Gary Poole,31,Right-Back,Retired,-,out,0,Championship,1999,1999/2000
