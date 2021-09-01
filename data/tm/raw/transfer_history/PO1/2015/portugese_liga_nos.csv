@@ -1,0 +1,966 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+SL Benfica,Raúl Jiménez,24,Centre-Forward,Atlético Madrid,£19.80m,in,Summer,19.8,Liga Nos,2015,2015/2016
+SL Benfica,Mehdi Carcela-González,26,Right Winger,Standard Liège,£2.25m,in,Summer,2.25,Liga Nos,2015,2015/2016
+SL Benfica,Konstantinos Mitroglou,27,Centre-Forward,Fulham,Loan fee:£720Th.,in,Summer,0.72,Liga Nos,2015,2015/2016
+SL Benfica,Jhon Murillo,19,Left Winger,Zamora,£675Th.,in,Summer,0.675,Liga Nos,2015,2015/2016
+SL Benfica,Ederson,21,Goalkeeper,Rio Ave FC,£450Th.,in,Summer,0.45,Liga Nos,2015,2015/2016
+SL Benfica,Diego Lopes,21,Attacking Midfield,Rio Ave FC,£90Th.,in,Summer,0.09,Liga Nos,2015,2015/2016
+SL Benfica,Pelé,23,Defensive Midfield,AC Milan,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Adel Taarabt,26,Central Midfield,QPR,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Marçal,26,Left-Back,Nacional,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Victor Andrade,19,Left Winger,Benfica B,-,in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Hélder Costa,21,Right Winger,Benfica B,-,in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Victor Lindelöf,20,Centre-Back,Benfica B,-,in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Nélson Semedo,21,Right-Back,Benfica B,-,in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Luís Felipe,25,Right-Back,Rio Claro FC,"End of loanMay 31, 2016",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Renato Sanches,18,Central Midfield,Benfica B,-,in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Airton,25,Defensive Midfield,Botafogo,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Filip Djuricic,23,Attacking Midfield,Southampton,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Daniel Candeias,27,Right Winger,Granada CF,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Yannick Djaló,29,Left Winger,Mordovia,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Bebé,24,Left Winger,Córdoba CF,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Nélson Oliveira,23,Centre-Forward,Swansea,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Rodrigo,24,Centre-Forward,Valencia,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Sidnei,25,Centre-Back,Dep. La Coruña,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,João Cancelo,21,Right-Back,Valencia,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Ivan Cavaleiro,21,Left Winger,Dep. La Coruña,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Luis Fariña,24,Attacking Midfield,Dep. La Coruña,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Rogelio Funes Mori,24,Centre-Forward,Eskisehirspor,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,André Gomes,21,Central Midfield,Valencia,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Rodrigo,24,Centre-Forward,Valencia,£27.00m,out,Summer,27,Liga Nos,2015,2015/2016
+SL Benfica,André Gomes,21,Central Midfield,Valencia,£18.00m,out,Summer,18,Liga Nos,2015,2015/2016
+SL Benfica,Ivan Cavaleiro,21,Left Winger,Monaco,£13.50m,out,Summer,13.5,Liga Nos,2015,2015/2016
+SL Benfica,João Cancelo,21,Right-Back,Valencia,£13.50m,out,Summer,13.5,Liga Nos,2015,2015/2016
+SL Benfica,Lima,32,Centre-Forward,Al-Ahli (UAE),£6.30m,out,Summer,6.3,Liga Nos,2015,2015/2016
+SL Benfica,Sidnei,25,Centre-Back,Dep. La Coruña,£5.85m,out,Summer,5.85,Liga Nos,2015,2015/2016
+SL Benfica,Rogelio Funes Mori,24,Centre-Forward,Monterrey,£3.24m,out,Summer,3.24,Liga Nos,2015,2015/2016
+SL Benfica,Miralem Sulejmani,26,Left Winger,BSC Young Boys,£2.70m,out,Summer,2.7,Liga Nos,2015,2015/2016
+SL Benfica,Loris Benito,23,Left-Back,BSC Young Boys,£2.70m,out,Summer,2.7,Liga Nos,2015,2015/2016
+SL Benfica,Derley,27,Centre-Forward,Kayserispor,Loan fee:£540Th.,out,Summer,0.54,Liga Nos,2015,2015/2016
+SL Benfica,Hélder Costa,21,Right Winger,Monaco,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Marçal,26,Left-Back,Gaziantepspor,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Maxi Pereira,31,Right-Back,FC Porto,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Pelé,23,Defensive Midfield,Paços Ferreira,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,César Martins,22,Centre-Back,Flamengo,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Diego Lopes,21,Attacking Midfield,Kayserispor,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Artur Moraes,34,Goalkeeper,Osmanlispor,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Nélson Oliveira,24,Centre-Forward,Nottm Forest,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Jhon Murillo,19,Left Winger,Tondela,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Yannick Djaló,29,Left Winger,Mordovia,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Rúben Amorim,30,Central Midfield,Al-Wakrah SC,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Bebé,24,Left Winger,Rayo Vallecano,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Hany Mukhtar,20,Attacking Midfield,RB Salzburg,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Daniel Candeias,27,Right Winger,FC Metz,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Ola John,23,Left Winger,Reading,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Luis Fariña,24,Attacking Midfield,Rayo Vallecano,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Airton,25,Defensive Midfield,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Jonathan Rodríguez,21,Centre-Forward,Peñarol,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Giannelli Imbula,22,Defensive Midfield,Marseille,£18.00m,in,Summer,18,Liga Nos,2015,2015/2016
+FC Porto,Jesús Corona,22,Right Midfield,Twente FC,£9.45m,in,Summer,9.45,Liga Nos,2015,2015/2016
+FC Porto,Danilo Pereira,23,Defensive Midfield,Marítimo,£4.05m,in,Summer,4.05,Liga Nos,2015,2015/2016
+FC Porto,André André,25,Central Midfield,Vit. Guimarães,£1.35m,in,Summer,1.35,Liga Nos,2015,2015/2016
+FC Porto,Sérgio Oliveira,23,Central Midfield,Paços Ferreira,£900Th.,in,Summer,0.9,Liga Nos,2015,2015/2016
+FC Porto,Miguel Layún,27,Right Midfield,Watford,Loan fee:£450Th.,in,Summer,0.45,Liga Nos,2015,2015/2016
+FC Porto,Alberto Bueno,27,Second Striker,Rayo Vallecano,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Maxi Pereira,31,Right-Back,Benfica,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Iker Casillas,34,Goalkeeper,Real Madrid,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Daniel Osvaldo,29,Centre-Forward,Southampton,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Aly Cissokho,27,Left-Back,Aston Villa,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Tiago Rodrigues,23,Attacking Midfield,FC Porto B,-,in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Juan Fernando Quintero,23,Attacking Midfield,Stade Rennais,"End of loanApr 18, 2016",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Tozé,22,Attacking Midfield,Estoril,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Marat Izmailov,32,Central Midfield,Krasnodar,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Djalma,28,Right Winger,Konyaspor,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Sinan Bolat,26,Goalkeeper,Galatasaray,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Licá,26,Left Winger,Rayo Vallecano,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Abdoulaye Ba,24,Centre-Back,Rayo Vallecano,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Josué,24,Attacking Midfield,Bursaspor,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Carlos Eduardo,25,Attacking Midfield,OGC Nice,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Nabil Ghilas,25,Centre-Forward,Córdoba CF,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Sami,26,Left Winger,Braga,"End of loanJan 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Kléber,25,Centre-Forward,Estoril,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Héctor Quiñónes,23,Left-Back,Penafiel,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Silvestre Varela,30,Left Winger,Parma,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Daniel Opare,24,Right-Back,Besiktas,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Rolando,29,Centre-Back,RSC Anderlecht,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Sami,26,Left Winger,Vit. Guimarães,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Jackson Martínez,28,Centre-Forward,Atlético Madrid,£33.39m,out,Summer,33.39,Liga Nos,2015,2015/2016
+FC Porto,Danilo,23,Right-Back,Real Madrid,£28.35m,out,Summer,28.35,Liga Nos,2015,2015/2016
+FC Porto,Alex Sandro,24,Left-Back,Juventus,£23.40m,out,Summer,23.4,Liga Nos,2015,2015/2016
+FC Porto,Kléber,25,Centre-Forward,BJ Guoan,£3.87m,out,Summer,3.87,Liga Nos,2015,2015/2016
+FC Porto,Carlos Eduardo,25,Attacking Midfield,Hilal,£1.80m,out,Summer,1.8,Liga Nos,2015,2015/2016
+FC Porto,Tozé,22,Attacking Midfield,Vit. Guimarães,£1.35m,out,Summer,1.35,Liga Nos,2015,2015/2016
+FC Porto,Rolando,30,Centre-Back,Marseille,£1.35m,out,Summer,1.35,Liga Nos,2015,2015/2016
+FC Porto,Ricardo Quaresma,31,Right Winger,Besiktas,£1.08m,out,Summer,1.08,Liga Nos,2015,2015/2016
+FC Porto,Josué,24,Attacking Midfield,Bursaspor,Loan fee:£900Th.,out,Summer,0.9,Liga Nos,2015,2015/2016
+FC Porto,Hernâni,24,Right Winger,Olympiacos,Loan fee:£900Th.,out,Summer,0.9,Liga Nos,2015,2015/2016
+FC Porto,Adrián López,27,Centre-Forward,Villarreal,Loan fee:£900Th.,out,Summer,0.9,Liga Nos,2015,2015/2016
+FC Porto,Juan Fernando Quintero,22,Attacking Midfield,Stade Rennais,Loan fee:£450Th.,out,Summer,0.45,Liga Nos,2015,2015/2016
+FC Porto,Andrés Fernández,28,Goalkeeper,Granada CF,Loan fee:£360Th.,out,Summer,0.36,Liga Nos,2015,2015/2016
+FC Porto,Fabiano,27,Goalkeeper,Fenerbahce,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Djalma,28,Right Winger,Genclerbirligi,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Ricardo Pereira,21,Right-Back,OGC Nice,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Daniel Opare,24,Right-Back,FC Augsburg,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Tiago Rodrigues,23,Attacking Midfield,Marítimo,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Sinan Bolat,26,Goalkeeper,Club Brugge,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Abdoulaye Ba,24,Centre-Back,Fenerbahce,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Sami,26,Left Winger,Akhisar Belediye,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Licá,26,Left Winger,Vit. Guimarães,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Diego Reyes,22,Centre-Back,Real Sociedad,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Nabil Ghilas,25,Centre-Forward,Levante,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Ricardo Nunes,32,Goalkeeper,FC Porto B,-,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Marat Izmailov,32,Central Midfield,Career break,-,out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Casemiro,23,Defensive Midfield,Real Madrid,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,Óliver Torres,20,Central Midfield,Atlético Madrid,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+FC Porto,José Campaña,22,Central Midfield,Sampdoria,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Teófilo Gutiérrez,30,Centre-Forward,River Plate,£3.06m,in,Summer,3.06,Liga Nos,2015,2015/2016
+Sporting CP,Naldo,26,Centre-Back,Udinese Calcio,£2.70m,in,Summer,2.7,Liga Nos,2015,2015/2016
+Sporting CP,Ewerton,26,Centre-Back,Anzhi,£1.35m,in,Summer,1.35,Liga Nos,2015,2015/2016
+Sporting CP,Bryan Ruíz,29,Attacking Midfield,Fulham,£1.19m,in,Summer,1.19,Liga Nos,2015,2015/2016
+Sporting CP,Alberto Aquilani,31,Central Midfield,Fiorentina,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Michaël Ciani,31,Centre-Back,Lazio,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Azbe Jug,23,Goalkeeper,G. Bordeaux,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,João Pereira,31,Right-Back,Hannover 96,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Bruno Paulista,19,Defensive Midfield,EC Bahia,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Wallyson Mallmann,21,Defensive Midfield,Sporting B,-,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Gelson Martins,20,Right Winger,Sporting B,-,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Iuri Medeiros,20,Right Winger,Sporting B,-,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Rúben Semedo,21,Centre-Back,Sporting B,-,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Matheus Pereira,19,Right Winger,Sporting B,-,in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Zakaria Labyad,22,Attacking Midfield,Vitesse,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Valentín Viola,23,Left Winger,Karabükspor,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Fabrice Fokobo,21,Defensive Midfield,Arouca,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Maurício,26,Centre-Back,Lazio,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Ricardo Esgaio,22,Right-Back,Coimbra,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Héldon,26,Left Winger,Córdoba CF,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Wilson Eduardo,24,Left Winger,ADO Den Haag,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Simeon Slavchev,21,Defensive Midfield,Bolton,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Cédric Soares,23,Right-Back,Southampton,£6.30m,out,Summer,6.3,Liga Nos,2015,2015/2016
+Sporting CP,Maurício,26,Centre-Back,Lazio,£2.39m,out,Summer,2.39,Liga Nos,2015,2015/2016
+Sporting CP,Naby Sarr,21,Centre-Back,Charlton,£1.80m,out,Summer,1.8,Liga Nos,2015,2015/2016
+Sporting CP,Diego Capel,27,Left Winger,Genoa,£1.17m,out,Summer,1.17,Liga Nos,2015,2015/2016
+Sporting CP,Shikabala,29,Right Winger,Zamalek,£513Th.,out,Summer,0.513,Liga Nos,2015,2015/2016
+Sporting CP,Michaël Ciani,31,Centre-Back,Espanyol,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Rúben Semedo,21,Centre-Back,Vitória Setúbal,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Wilson Eduardo,25,Left Winger,Braga,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Héldon,26,Left Winger,Rio Ave FC,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Simeon Slavchev,21,Defensive Midfield,Apol. Limassol,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Miguel Lopes,28,Right-Back,Granada CF,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Iuri Medeiros,21,Right Winger,Moreirense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Wallyson Mallmann,21,Defensive Midfield,OGC Nice,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Valentín Viola,23,Left Winger,Sporting B,-,out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Nani,28,Left Winger,Man Utd,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Sporting CP,Ewerton,26,Centre-Back,Anzhi,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Alef,20,Defensive Midfield,Ponte Preta,£675Th.,in,Summer,0.675,Liga Nos,2015,2015/2016
+SC Braga,Nikola Stojiljkovic,22,Centre-Forward,Cukaricki,£675Th.,in,Summer,0.675,Liga Nos,2015,2015/2016
+SC Braga,Ahmed Hassan,22,Centre-Forward,Rio Ave FC,£630Th.,in,Summer,0.63,Liga Nos,2015,2015/2016
+SC Braga,Crislan,23,Centre-Forward,Penapolense-SP,£540Th.,in,Summer,0.54,Liga Nos,2015,2015/2016
+SC Braga,Rodrigo Pinho,24,Centre-Forward,Madureira-RJ,£360Th.,in,Summer,0.36,Liga Nos,2015,2015/2016
+SC Braga,Ricardo Ferreira,22,Centre-Back,Olhanense,£270Th.,in,Summer,0.27,Liga Nos,2015,2015/2016
+SC Braga,Arghus,27,Centre-Back,NK Maribor,£180Th.,in,Summer,0.18,Liga Nos,2015,2015/2016
+SC Braga,William Pottker,21,Right Winger,Figueirense FC,Loan fee:£90Th.,in,Summer,0.09,Liga Nos,2015,2015/2016
+SC Braga,Joan Román,22,Left Winger,FC Barcelona B,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Rui Fonte,25,Centre-Forward,Benfica B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Wilson Eduardo,25,Left Winger,Sporting CP,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Aarón Ñíguez,26,Right Winger,Elche CF,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Filipe Augusto,22,Defensive Midfield,Rio Ave FC,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,João Gamboa,20,Defensive Midfield,Braga B,-,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Tiago Sá,20,Goalkeeper,Braga B,-,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Fábio Martins,21,Left Winger,Braga B,-,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Nikola Vukcevic,23,Defensive Midfield,Braga B,-,in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Aníbal Capela,24,Centre-Back,Coimbra,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Luís Silva,22,Central Midfield,Gil Vicente,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Juankar,25,Left-Back,Granada CF,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Cristiano Figueiredo,24,Goalkeeper,Coimbra,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,João Pedro,29,Right-Back,Moreirense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Joãozinho,25,Left-Back,Astra Giurgiu,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Érick Moreno,23,Centre-Forward,Panetolikos,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Yazalde,26,Centre-Forward,Gil Vicente,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Aderllan Santos,26,Centre-Back,Valencia,£8.55m,out,Summer,8.55,Liga Nos,2015,2015/2016
+SC Braga,Éder,27,Centre-Forward,Swansea,£6.03m,out,Summer,6.03,Liga Nos,2015,2015/2016
+SC Braga,Zé Luís,24,Centre-Forward,Spartak Moscow,£5.85m,out,Summer,5.85,Liga Nos,2015,2015/2016
+SC Braga,Rúben Micael,28,Central Midfield,SJZ Ever Bright,£2.34m,out,Summer,2.34,Liga Nos,2015,2015/2016
+SC Braga,Felipe Pardo,24,Right Winger,Olympiacos,Loan fee:£2.25m,out,Summer,2.25,Liga Nos,2015,2015/2016
+SC Braga,Danilo,19,Defensive Midfield,Valencia,Loan fee:£360Th.,out,Summer,0.36,Liga Nos,2015,2015/2016
+SC Braga,Vincent Sasso,24,Centre-Back,Sheff Wed,Loan fee:£117Th.,out,Summer,0.117,Liga Nos,2015,2015/2016
+SC Braga,Victor Golas,24,Goalkeeper,Botev Plovdiv,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Joãozinho,26,Left-Back,União Madeira,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Luís Silva,22,Central Midfield,Chaves,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Dolly Menga,22,Centre-Forward,Tondela,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Aníbal Capela,24,Centre-Back,Rio Ave FC,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Yazalde,26,Centre-Forward,Rio Ave FC,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Pedro Tiba,27,Central Midfield,Real Valladolid,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Tiago Gomes,29,Left-Back,FC Metz,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Érick Moreno,23,Centre-Forward,Real Valladolid,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Jaka,24,Centre-Back,Forjães SC,?,out,Summer,NA,Liga Nos,2015,2015/2016
+SC Braga,Juankar,25,Left-Back,Málaga CF,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,João Pedro,29,Right-Back,Apol. Limassol,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Fábio Martins,22,Left Winger,Paços Ferreira,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+SC Braga,Sami,26,Left Winger,FC Porto,"End of loanJan 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Tozé,22,Attacking Midfield,FC Porto,£1.35m,in,Summer,1.35,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Dalbert,21,Left-Back,Académico Viseu,£450Th.,in,Summer,0.45,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Henrique Dourado,25,Centre-Forward,Mirassol-SP,Loan fee:£225Th.,in,Summer,0.225,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Bruno Gaspar,22,Right-Back,Benfica B,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Pedro Henrique,22,Centre-Back,Cianorte,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Licá,26,Left Winger,FC Porto,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Thibang Phete,21,Defensive Midfield,GD Tourizense,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Santiago Montoya,23,Attacking Midfield,Vasco da Gama,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,João Pedro,22,Central Midfield,Guimarães B,-,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Luís Rocha,22,Left-Back,Guimarães B,-,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Bruno Alves,25,Central Midfield,Guimarães B,-,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,João Vigário,19,Left-Back,Guimarães B,-,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Xande Silva,18,Right Winger,Guimarães B,-,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Bernard Mensah,20,Attacking Midfield,Atlético Madrid,£5.40m,out,Summer,5.4,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,André André,25,Central Midfield,FC Porto,£1.35m,out,Summer,1.35,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Kanú,23,Right-Back,Bragança,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Khalil Chemmam,27,Centre-Back,Esperance,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Nii Plange,26,Left Winger,Coimbra,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Kanu,31,Centre-Back,EC Vitória,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Jonatan Álvez,27,Centre-Forward,CA Torque,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Bruno Gaspar,22,Right-Back,Benfica B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Ivo Rodrigues,20,Left Winger,FC Porto B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Sami,26,Left Winger,FC Porto,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Betinho,22,Centre-Forward,Sporting B,£225Th.,in,Summer,0.225,Liga Nos,2015,2015/2016
+Belenenses SAD,Rafael Floro,21,Left-Back,Sheff Wed,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Gonçalo Silva,24,Centre-Back,Braga B,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,André Geraldes,24,Right-Back,Sporting B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Dálcio,19,Attacking Midfield,Benfica B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Fred Lopes,21,Defensive Midfield,Sertanense,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rúben Pinto,23,Defensive Midfield,Benfica B,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,João Amorim,22,Right-Back,Académico Viseu,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Tonel,35,Centre-Back,Feirense,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,João Vilela,29,Central Midfield,Gil Vicente,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,André Sousa,24,Central Midfield,Académico Viseu,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Ricardo Ribeiro,25,Goalkeeper,Olhanense,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Kuca,26,Left Winger,Karabükspor,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Traquina,26,Right Winger,Covilhã,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Belenenses SAD,Luís Leal,28,Right Winger,APOEL Nicosia,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Abel Camará,26,Centre-Forward,Faisaly,"End of loanJun 30, 2016",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Adélcio Varela,19,Left-Back,Belenenses U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Daniel Martins,20,Left-Back,Beira-Mar,"End of loanJun 30, 2014",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Zazá,25,Right-Back,Guadalupe,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Luís Gonçalves,24,Left-Back,SG Sacavenense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Ruizinho,26,Central Midfield,Santa Clara,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rafael Veloso,21,Goalkeeper,Deportivo B,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Nuno Tomás,19,Centre-Back,Eléctrico,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Mailó,23,Centre-Forward,Farense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Luís Cortez,21,Attacking Midfield,Casa Pia,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rodrigo Parreira,22,Left Winger,Operário,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Adilson,27,Right-Back,Olhanense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,André Teixeira,21,Centre-Back,Trofense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Deyverson,24,Centre-Forward,1. FC Köln,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Daniel Martins,21,Left-Back,U Cluj,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Tiago Duque,21,Centre-Back,Atlético CP,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Ricardo Fernandes,20,Goalkeeper,Eléctrico,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Deyverson,24,Centre-Forward,Levante,£1.62m,out,Summer,1.62,Liga Nos,2015,2015/2016
+Belenenses SAD,Ricardo Fernandes,20,Goalkeeper,Oliveirense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Adilson,27,Right-Back,Varzim,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Nélson,32,Right-Back,Alcorcón,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rodrigo Dantas,25,Defensive Midfield,Varzim,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Ruizinho,26,Central Midfield,Casa Pia,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Luís Cortez,21,Attacking Midfield,Torreense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rodrigo Parreira,22,Left Winger,Operário,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Zazá,25,Right-Back,Pinhalnovense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Adélcio Varela,19,Left-Back,Sintrense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Diogo Ribeiro,24,Centre-Forward,Mafra,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Matt Jones,29,Goalkeeper,Tondela,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Tiago Duque,21,Centre-Back,Olhanense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Daniel Martins,21,Left-Back,Penafiel,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Tiago Almeida,24,Right-Back,Chaves,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rafael Veloso,21,Goalkeeper,Oriental,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Fred Lopes,21,Defensive Midfield,Mafra,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,André Teixeira,21,Centre-Back,Mafra,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Abel Camará,25,Centre-Forward,Faisaly,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Mailó,23,Centre-Forward,Covilhã,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Nuno Tomás,19,Centre-Back,Sintrense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Pedro Cavadas,23,Goalkeeper,FC Pedras Rubras,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Belenenses SAD,Dálcio,19,Attacking Midfield,Benfica B,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Belenenses SAD,Luís Gonçalves,25,Left-Back,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Bruno China,32,Central Midfield,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,João Meira,28,Centre-Back,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Steven Thicot,28,Centre-Back,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rui Fonte,25,Centre-Forward,Benfica B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Pelé,23,Defensive Midfield,AC Milan,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Nenê Bonilha,23,Central Midfield,Corinthians,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Mauro Cerqueira,22,Left-Back,Moura,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Cas Peters,22,Centre-Forward,FC Emmen,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Salvador Agra,23,Right Winger,Real Betis,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Sebastián Ayala,19,Defensive Midfield,CD La Equidad,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Wanderson,23,Centre-Forward,Ponte Preta,?,in,Summer,NA,Liga Nos,2015,2015/2016
+CD Nacional,Zezinho,23,Attacking Midfield,Atlético-PR,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Geraldo,22,Defensive Midfield,Muçulmana,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Jhonder Cádiz,20,Centre-Forward,Caracas FC,?,in,Summer,NA,Liga Nos,2015,2015/2016
+CD Nacional,Alan Henrique,24,Centre-Back,EC Vitória,?,in,Summer,NA,Liga Nos,2015,2015/2016
+CD Nacional,Washington Santana,26,Defensive Midfield,Penapolense-SP,?,in,Summer,NA,Liga Nos,2015,2015/2016
+CD Nacional,Gustavo,21,Centre-Forward,Criciúma EC,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Mohamed Kaba,19,Left-Back,Nacional U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Bata,22,Right Winger,Atlético CP,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Jota,22,Attacking Midfield,Atlético CP,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Reginaldo,25,Centre-Forward,Santa Clara,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Sérgio Duarte,22,Defensive Midfield,Lusitano FCV,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Witi,18,Left-Back,Benfica U19,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Diogo Coelho,21,Centre-Back,Covilhã,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Marco Matias,26,Right Winger,Sheff Wed,£2.79m,out,Summer,2.79,Liga Nos,2015,2015/2016
+CD Nacional,Lucas João,21,Centre-Forward,Sheff Wed,£2.50m,out,Summer,2.5,Liga Nos,2015,2015/2016
+CD Nacional,Reginaldo,25,Centre-Forward,Santa Clara,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Cas Peters,22,Centre-Forward,De Graafschap,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Rony Santos,20,Centre-Back,Gil Vicente,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Marçal,26,Left-Back,Benfica,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Sérgio Duarte,22,Defensive Midfield,Oriental,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Freire,25,Centre-Back,Apol. Limassol,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Wagner,28,Left Winger,Tondela,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Diogo Coelho,21,Centre-Back,Chaves,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Bata,22,Right Winger,Penafiel,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Mohamed Kaba,19,Left-Back,Mirandela,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Saleh Gomaa,21,Attacking Midfield,Enppi SC,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Christian,26,Central Midfield,CFR Cluj,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+CD Nacional,Tiago Rodrigues,23,Attacking Midfield,FC Porto B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Roniel,21,Right Winger,FC Porto B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,João Góis,25,Right-Back,Chaves,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Miguel Vieira,24,Centre-Back,Desportivo Aves,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Marco Baixinho,25,Centre-Back,Mafra,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Bruno Santos,22,Right-Back,Freamunde,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Marafona,28,Goalkeeper,Moreirense,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Christian,26,Central Midfield,CFR Cluj,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Pelé,23,Defensive Midfield,Benfica,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,João Silva,25,Centre-Forward,US Palermo,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Lorran,22,Central Midfield,Anápolis-GO,?,in,Summer,NA,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Paulo Henrique,18,Left-Back,Santa Clara,?,in,Summer,NA,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Fábio Martins,22,Left Winger,Braga,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Bruno Sousa,19,Right-Back,Paços F. U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Rodrigo Antônio,27,Defensive Midfield,Olhanense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Barnes Osei,20,Right Midfield,União Madeira,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Rúben Ribeiro,27,Left Winger,Gil Vicente,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Jonathan Urretaviscaya,25,Right Winger,Peñarol,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Paulo Freitas,20,Goalkeeper,FC Pedras Rubras,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Luís Sousa,25,Left-Back,Castelo Branco,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Sérgio Oliveira,23,Central Midfield,FC Porto,£900Th.,out,Summer,0.9,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Jean Michaël Seri,23,Central Midfield,OGC Nice,£900Th.,out,Summer,0.9,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Paolo Hurtado,25,Attacking Midfield,Reading,£765Th.,out,Summer,0.765,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Rodrigo Galo,28,Right-Back,AEK Athens,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,António Filipe,30,Goalkeeper,Chaves,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Jonathan Urretaviscaya,25,Right Winger,CF Pachuca,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Nélson Pedroso,30,Left-Back,Desportivo Aves,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Paulo Freitas,20,Goalkeeper,Mondinense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Luís Sousa,25,Left-Back,Sintrense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Vasco Rocha,26,Central Midfield,Feirense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Carlos Fortes,20,Centre-Forward,Braga B,?,out,Summer,NA,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Rafael Leme Amorim,27,Centre-Back,Al-Mesaimeer,?,out,Summer,NA,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Rui Filipe,21,Centre-Back,Cinfães,?,out,Summer,NA,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Cícero,29,Centre-Forward,Sanliurfaspor,?,out,Summer,NA,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Ricardo Ferreira,22,Centre-Back,Olhanense,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Rúben Pinto,23,Defensive Midfield,Benfica B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Jaílson,24,Right-Back,Anápolis-GO,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Gevorg Ghazaryan,27,Left Winger,AOK Kerkyra,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Ulysse Diallo,22,Centre-Forward,Coimbra,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Deyvison,26,Centre-Back,Tondela,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Lynneeker,21,Right Winger,Cruzeiro,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Dirceu,27,Centre-Back,Londrina-PR,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Tiago Rodrigues,23,Attacking Midfield,FC Porto,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Patrick,24,Right-Back,América-MG,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Baba Diawara,27,Centre-Forward,Sevilla FC,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Romário,23,Centre-Back,Internacional,?,in,Summer,NA,Liga Nos,2015,2015/2016
+CS Marítimo,Pana,23,Defensive Midfield,Marítimo B,-,in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Marakis,23,Defensive Midfield,Portimonense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Semedo,27,Defensive Midfield,Gil Vicente,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Danilo Pereira,23,Defensive Midfield,FC Porto,£4.05m,out,Summer,4.05,Liga Nos,2015,2015/2016
+CS Marítimo,Patrick Bauer,22,Centre-Back,Charlton,£1.35m,out,Summer,1.35,Liga Nos,2015,2015/2016
+CS Marítimo,Kaj Ramsteijn,25,Centre-Back,Almere City,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Semedo,27,Defensive Midfield,Feirense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Bruno Gallo,27,Central Midfield,Vasco da Gama,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Ebinho,27,Centre-Forward,Tiradentes,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Marakis,23,Defensive Midfield,Ermis Aradippou,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Theo Weeks,25,Attacking Midfield,Ermis Aradippou,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Gegé,27,Centre-Back,Arouca,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Félix Micolta,25,Right Winger,Indep. Medellín,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CS Marítimo,Johnny Vidales,23,Right Winger,Sport Huancayo,?,out,Summer,NA,Liga Nos,2015,2015/2016
+CS Marítimo,Luís Olim,33,Left-Back,Retired,-,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Filip Krovinovic,20,Attacking Midfield,NK Zagreb,£720Th.,in,Summer,0.72,Liga Nos,2015,2015/2016
+Rio Ave FC,Edimar,29,Left-Back,Chievo Verona,Loan fee:£99Th.,in,Summer,0.099,Liga Nos,2015,2015/2016
+Rio Ave FC,Aníbal Capela,24,Centre-Back,Braga,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Héldon,26,Left Winger,Sporting CP,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Zé Pedro,22,Centre-Forward,Limianos,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Pedro Moreira,26,Central Midfield,FC Porto B,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Kizito,21,Centre-Forward,Covilhã,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Rui Vieira,23,Goalkeeper,Marítimo B,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,José Postiga,19,Centre-Forward,Sporting U19,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Yazalde,26,Centre-Forward,Braga,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Pedrinho,30,Right-Back,FC Lorient,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Hélder Guedes,28,Centre-Forward,Penafiel,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,João Novais,21,Attacking Midfield,Leixões,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Rio Ave FC,Pedro Paulo,21,Centre-Forward,Cruzeiro,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Zé Paulo,21,Central Midfield,Corinthians B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Joris Kayembe,20,Left-Back,FC Porto B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Iuri Gomes,18,Left Winger,Rio Ave FC U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Rafael Miranda,19,Right Winger,Rio Ave FC U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Bruno Sousa,19,Attacking Midfield,Rio Ave FC U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Filipe Augusto,21,Defensive Midfield,Valencia,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Silvério,19,Centre-Back,Famalicão,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Renato Santos,23,Right Winger,Tondela,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Fabinho,21,Defensive Midfield,Monaco,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Fabinho,21,Defensive Midfield,Monaco,£5.40m,out,Summer,5.4,Liga Nos,2015,2015/2016
+Rio Ave FC,Ahmed Hassan,22,Centre-Forward,Braga,£630Th.,out,Summer,0.63,Liga Nos,2015,2015/2016
+Rio Ave FC,Ederson,21,Goalkeeper,Benfica,£450Th.,out,Summer,0.45,Liga Nos,2015,2015/2016
+Rio Ave FC,Isma,24,Centre-Forward,Anorthosis,£180Th.,out,Summer,0.18,Liga Nos,2015,2015/2016
+Rio Ave FC,Diego Lopes,21,Attacking Midfield,Benfica,£90Th.,out,Summer,0.09,Liga Nos,2015,2015/2016
+Rio Ave FC,Bruno Sousa,19,Attacking Midfield,Oliveirense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Silvério,19,Centre-Back,Famalicão,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Renato Santos,23,Right Winger,Boavista,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Yonathan Del Valle,25,Left Winger,Kasimpasa,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Tiago Pinto,27,Left-Back,Osmanlispor,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Iuri Gomes,18,Left Winger,Farense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,William Jebor,23,Centre-Forward,Ponferradina,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Ernest Ohemeng,19,Left Winger,Moreirense,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Rio Ave FC,Filipe Augusto,22,Defensive Midfield,Braga,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Emmanuel Boateng,19,Centre-Forward,Moreirense,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Rio Ave FC,Júlio Alves,24,Central Midfield,Career break,-,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Pape Sow,29,Centre-Back,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Prince Gouano,21,Centre-Back,Atalanta,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Pedro Moreira,26,Central Midfield,FC Porto B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,André Fontes,30,Attacking Midfield,Penafiel,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Milan Marcic,19,Defensive Midfield,Guimarães U19,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Filipe Gonçalves,30,Defensive Midfield,Estoril,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Rafael Martins,26,Centre-Forward,Levante,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Evaldo,33,Left-Back,Gil Vicente,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Rafa Sousa,26,Defensive Midfield,Penafiel,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,André Micael,26,Centre-Back,Zawisza,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Luís Carlos,28,Left Winger,Korona Kielce,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Alan Schons,22,Defensive Midfield,Juventude,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Moreirense FC,Iuri Medeiros,21,Right Winger,Sporting CP,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,João Palhinha,20,Defensive Midfield,Sporting B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Pierre Sagna,24,Right-Back,Chaves,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Moreirense FC,João Vieira,23,Centre-Forward,Chaves,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Moreirense FC,Emmanuel Boateng,19,Centre-Forward,Rio Ave FC,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Moreirense FC,Victor Braga,23,Goalkeeper,Leiria,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Moreirense FC,Ernest Ohemeng,19,Left Winger,Rio Ave FC,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Moreirense FC,Nilson,39,Goalkeeper,Without Club,-,in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Hélio Cruz,21,Defensive Midfield,GD Ribeirão,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Rafa Costa,23,Right-Back,Felgueiras,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Vítor Gomes,27,Central Midfield,Balikesirspor,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,André Simões,25,Defensive Midfield,AEK Athens,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Anilton Júnior,34,Centre-Back,Leiria,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,João Pedro,27,Centre-Back,Famalicão,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Diogo Cunha,29,Attacking Midfield,Chaves,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Paulinho,23,Right-Back,União Madeira,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Marafona,28,Goalkeeper,Paços Ferreira,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Elízio,27,Left-Back,Apol. Limassol,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Leandro Souza,28,Centre-Forward,Famalicão,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Rafa Costa,23,Right-Back,Cinfães,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Caleb Gomina,18,Centre-Forward,Vila Real,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Arsénio,25,Right Winger,Litex Lovetch,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Moreirense FC,Hélio Cruz,21,Defensive Midfield,Atlético CP,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Moreirense FC,Edivaldo Rojas,29,Attacking Midfield,Wilstermann,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Moreirense FC,Gerso,24,Left Winger,Estoril,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Alex,25,Centre-Forward,Tombense,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,João Pedro,29,Right-Back,Braga,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,André Moreira,19,Goalkeeper,Atlético Madrid,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Lucas Souza,24,Defensive Midfield,Parma,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Djibril,21,Defensive Midfield,Braga B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Moreirense FC,Gideão,27,Goalkeeper,Náutico,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Léo Bonatini,21,Centre-Forward,Cruzeiro,£360Th.,in,Summer,0.36,Liga Nos,2015,2015/2016
+Estoril Praia,Leandro Chaparro,24,Attacking Midfield,Beira-Mar,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Wanderson,22,Centre-Back,Sintrense,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Lucas Morelatto,21,Central Midfield,Palmeiras U20,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Georgemy,19,Goalkeeper,Cruzeiro,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Matheuzinho,22,Attacking Midfield,GO Audax,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Gladestony,21,Central Midfield,Desp. Brasil,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Estoril Praia,Oumar Diakhité,21,Centre-Back,Olhanense,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Bruno César,26,Attacking Midfield,Ahli,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Estoril Praia,Billal Sebaihi,23,Central Midfield,Without Club,-,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Rui Caniço,19,Centre-Forward,Estoril U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Leandro Borges,24,Left Winger,Olhanense,"End of loanJun 30, 2016",in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Frédéric Mendy,26,Centre-Forward,União Madeira,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Gerso,24,Left Winger,Moreirense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Diego Carlos,22,Centre-Back,FC Porto B,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Luiz Phellype,21,Centre-Forward,Feirense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Leandro Borges,23,Left Winger,Freamunde,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Dieguinho,23,Right Winger,Portimonense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Douglas Cordeiro,20,Central Midfield,Sintrense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Sebá,23,Left Winger,Olympiacos,£1.62m,out,Summer,1.62,Liga Nos,2015,2015/2016
+Estoril Praia,Emídio Rafael,29,Left-Back,Coimbra,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Arthuro,33,Centre-Forward,Recr. Huelva,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Wanderson,22,Centre-Back,Atl. Reguengos,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Lucas Morelatto,21,Central Midfield,Olhanense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Douglas Cordeiro,20,Central Midfield,Olhanense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Rui Caniço,19,Centre-Forward,Sintrense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Filipe Gonçalves,30,Defensive Midfield,Moreirense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Rúben Fernandes,29,Centre-Back,Sint-Truiden,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Javier Balboa,30,Right Winger,Faisaly,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Leandro Borges,23,Left Winger,Olhanense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,João Falque,21,Centre-Forward,Olhanense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Fernandinho,22,Right Winger,CQ Lifan,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Vagner,29,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Matías Cabrera,29,Central Midfield,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Tozé,22,Attacking Midfield,FC Porto,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Bruno Nascimento,24,Centre-Back,1. FC Köln,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Kléber,25,Centre-Forward,FC Porto,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Estoril Praia,Léo Bonatini,21,Centre-Forward,Cruzeiro,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Paulo Vinícius,30,Centre-Back,Operário-MT,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Rivaldinho,20,Centre-Forward,Mogi Mirim,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Renato Santos,23,Right Winger,Rio Ave FC,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Uche Nwofor,23,Centre-Forward,Lierse SK,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Alex Júnior,22,Left-Back,Vila Real,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Nuno Henrique,28,Centre-Back,Feirense,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Emmanuel Hackman,20,Right-Back,Vila Real,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,André Bukia,20,Right Winger,Vila Real,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Samuel Inkoom,26,Right-Back,D.C. United,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Gideão,27,Goalkeeper,Náutico,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Ibrahima Faye,22,Left Winger,Oliveirense,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Boavista FC,Tiago Mesquita,24,Right-Back,Freamunde,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Boavista FC,Luisinho,25,Right Midfield,Académico Viseu,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Boavista FC,Onyekachi Silas,19,Centre-Forward,Boavista U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Ian Pereira,18,Right-Back,Boavista U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,André Fonseca,19,Goalkeeper,Boavista U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Samu,19,Central Midfield,Boavista U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Miguel Cid,23,Defensive Midfield,Daugavpils,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Carraça,22,Right-Back,Tondela,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Fábio Lopes,22,Central Midfield,Salgueiros 08,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Cláudio Lopes,22,Right-Back,Naval,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Theo Mendy,26,Left Winger,Oliveirense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Wellington Carvalho,22,Right Winger,Mirandela,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Diogo Gouveia,20,Defensive Midfield,Kruoja,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Nuno Pereira,19,Attacking Midfield,Gondomar,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Miguel Pereira,19,Right-Back,Gondomar,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Ryan Hirooka,25,Right-Back,Feirense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Luis Neves,26,Attacking Midfield,Eulália Vizela,"End of loanJun 1, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Brayan Beckeles,29,Right-Back,Necaxa,£1.20m,out,Summer,1.2,Liga Nos,2015,2015/2016
+Boavista FC,Shihao Wei,20,Left Winger,Feirense,£135Th.,out,Summer,0.135,Liga Nos,2015,2015/2016
+Boavista FC,Wellington Carvalho,22,Right Winger,Bragança,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Ian Pereira,18,Right-Back,Gondomar,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Onyekachi Silas,19,Centre-Forward,Gondomar,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Alex Júnior,22,Left-Back,Vila Real,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Lucas Rocha,24,Centre-Back,Atlético CP,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Julián Montenegro,26,Left Midfield,Farense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Luis Neves,26,Attacking Midfield,ARS Martinho,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Cláudio Lopes,22,Right-Back,Amarante,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Theo Mendy,26,Left Winger,Desportivo Aves,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,André Fonseca,19,Goalkeeper,Amarante,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Diogo Gouveia,20,Defensive Midfield,Mafra,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Miguel Pereira,19,Right-Back,Vila Real,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Nuno Pereira,19,Attacking Midfield,Vila Real,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Bobô,33,Centre-Forward,ARS Martinho,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,João Dias,28,Right-Back,Santa Clara,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Carraça,22,Right-Back,Santa Clara,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Boavista FC,Brito,27,Right Winger,C.R.D. Libolo,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Boavista FC,Miguel Cid,23,Defensive Midfield,Kemi City,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Boavista FC,Ryan Hirooka,25,Right-Back,Leixões,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Boavista FC,Fary,40,Centre-Forward,Retired,-,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Fábio Lopes,22,Central Midfield,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Daniel Monllor,31,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Marek Cech,32,Left-Back,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+Boavista FC,Pedro Costa,33,Right-Back,Retired,-,out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Rabiola,25,Centre-Forward,Penafiel,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,William Gustavo,23,Centre-Back,Anápolis-GO,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Gonçalo Paciência,20,Centre-Forward,FC Porto B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Nii Plange,26,Left Winger,Vit. Guimarães,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Pedro Trigueira,27,Goalkeeper,União Madeira,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Emídio Rafael,29,Left-Back,Estoril,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Selim Bouadla,26,Attacking Midfield,Debrecen,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Leandro Silva,21,Central Midfield,FC Porto B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Artur Taborda,18,Attacking Midfield,Académica U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Mun-ki Hwang,18,Left Midfield,Académica U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Jimmy,20,Defensive Midfield,União Madeira,"End of loanJun 1, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Jimmy,20,Defensive Midfield,Santa Clara,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Ulysse Diallo,22,Centre-Forward,Marítimo,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Marcos Paulo,27,Central Midfield,Panetolikos,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Fábio Santos,22,Goalkeeper,GD Tourizense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Magique,22,Left Winger,Sanliurfaspor,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Lucas Mineiro,23,Central Midfield,Santa Rita,"End of loanAug 4, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Aníbal Capela,24,Centre-Back,Braga,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Elton Monteiro,20,Centre-Back,Club Brugge,"End of loanJun 30, 2014",out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Cristiano Figueiredo,24,Goalkeeper,Braga,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Edgar Salli,22,Right Winger,Monaco,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Salim Cissé,22,Centre-Forward,Sporting B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Ricardo Esgaio,22,Right-Back,Sporting CP,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Ricardo Nascimento,29,Centre-Back,Monte Azul-SP,"End of loanJun 30, 2016",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Fábio Pacheco,27,Defensive Midfield,Tondela,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Shaher Mansour,23,Attacking Midfield,Al-Wahda,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Ricardo Nunes,33,Goalkeeper,FC Porto B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Cléber,23,Centre-Back,Itapirense-SP,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Alexandre Cardoso,23,Defensive Midfield,Beira-Mar,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Rúben Semedo,21,Centre-Back,Sporting CP,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Toni Gorupec,22,Right-Back,Astra Giurgiu,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,André Claro,24,Second Striker,Arouca,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,William Alves,28,Centre-Back,Náutico,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Nuno Pinto,28,Left-Back,Astra Giurgiu,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Diego,36,Goalkeeper,Juventude,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Cristian Tissone,27,Defensive Midfield,Anadia FC,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Vasco Costa,23,Second Striker,Fafe,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Ruca,24,Left-Back,Mafra,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Costinha,22,Attacking Midfield,Lusitano FCV,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Al-Gadi,25,Defensive Midfield,Al-Ahly Tripoli,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Ulises Dávila,24,Second Striker,Chelsea,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Arnold Issoko,23,Right Winger,Chaves,?,in,Summer,NA,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Jordão Diogo,29,Left-Back,AOK Kerkyra,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Marlon,20,Defensive Midfield,Pinhalnovense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Peixinho,22,Defensive Midfield,Pinhalnovense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Ericson,27,Defensive Midfield,Chaves,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Forbes,26,Centre-Forward,Petro Luanda,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Fábio Pala,22,Right-Back,Pinhalnovense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Mohcine Hassan,20,Centre-Forward,Pinhalnovense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Bruno Lourenço,25,Centre-Back,Pinhalnovense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Jordão Diogo,29,Left-Back,AOK Kerkyra,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Hélder Cabral,31,Left-Back,Omonia Nikosia,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Ney Santos,34,Defensive Midfield,Confiança-SE,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Jucie Lupeta,22,Right Winger,Bidvest Wits FC,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Marlon,20,Defensive Midfield,SG Sacavenense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Tiago Terroso,27,Defensive Midfield,Varzim SC B,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Bruno Lourenço,25,Centre-Back,Casa Pia,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Zequinha,28,Left Winger,Arouca,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Fábio Pala,22,Right-Back,Casa Pia,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Ricardo Batista,28,Goalkeeper,C.R.D. Libolo,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Ericson,27,Defensive Midfield,Desportivo Aves,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Miguel Pedro,31,Right Winger,Panachaiki,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Kiko,22,Left-Back,Académico Viseu,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Forbes,26,Centre-Forward,Académico Viseu,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Pedro Queirós,30,Right-Back,Astra Giurgiu,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Nuno Afonso,19,Centre-Back,Barreirense,?,out,Summer,NA,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Peixinho,22,Defensive Midfield,Casa Pia,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Júnior Ponce,21,Right Winger,TSG Hoffenheim,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Dimitrios Pelkas,21,Attacking Midfield,PAOK Salonika,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,João Schmidt,22,Defensive Midfield,São Paulo,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Luis Advíncula,25,Right-Back,Sport. Cristal,"End of loanJun 29, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Rambé,25,Centre-Forward,Braga B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Joao Rodríguez,19,Centre-Forward,Chelsea U21,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Yann Rolim,20,Attacking Midfield,Barra FC (SC),"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Ulises Dávila,24,Second Striker,Chelsea,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,José Manuel Velázquez,24,Centre-Back,Mineros,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Lucas Lima,23,Left-Back,ABC FC,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Jaílson,24,Right-Back,Anápolis-GO,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Idrissa Coulibaly,27,Centre-Back,Raja Casablanca,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Rafael Bracali,34,Goalkeeper,Panetolikos,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Adilson Goiano,27,Defensive Midfield,Bragantino,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Nuno Valente,23,Right Midfield,Braga B,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Ivo Rodrigues,20,Left Winger,FC Porto B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Gegé,27,Centre-Back,Marítimo,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Zequinha,28,Left Winger,Vitória Setúbal,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Borja López,21,Centre-Back,Monaco,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Karl,22,Central Midfield,Caxias-RS,?,in,Summer,NA,Liga Nos,2015,2015/2016
+FC Arouca,Maurides,21,Centre-Forward,Internacional,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Leandro Ribeiro,20,Left Winger,Inter B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Caio Rangel,19,Right Winger,Cagliari Calcio,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Tucka,19,Centre-Forward,Arouca U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Hugo Monteiro,30,Right Winger,Leixões,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Serginho,24,Left Winger,Trofense,"End of loanJun 30, 2015",in,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Mauro Goicoechea,27,Goalkeeper,Toulouse,£450Th.,out,Summer,0.45,Liga Nos,2015,2015/2016
+FC Arouca,Diego Galo,31,Centre-Back,União Madeira,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Rui Sampaio,28,Central Midfield,Red Star FC,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Bruno Amaro,32,Central Midfield,Felgueiras,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Iván Balliu,23,Right-Back,FC Metz,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Serginho,24,Left Winger,Trofense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,André Claro,24,Second Striker,Vitória Setúbal,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Miguel Oliveira,31,Centre-Back,Chaves,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Luis Tinoco,28,Left-Back,Tondela,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Lucas Colitto,21,Left Winger,CA Unión,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Tucka,19,Centre-Forward,Oliveirense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Iuri Medeiros,20,Right Winger,Sporting B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Fabrice Fokobo,21,Defensive Midfield,Sporting CP,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+FC Arouca,Joris Kayembe,20,Left-Back,FC Porto B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Markus Berger,30,Centre-Back,Gil Vicente,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Salva Chamorro,25,Centre-Forward,Lleida Esportiu,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Jhon Murillo,19,Left Winger,Benfica,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Kaká,34,Centre-Back,APOEL Nicosia,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Bruno Nascimento,24,Centre-Back,1. FC Köln,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Dolly Menga,22,Centre-Forward,Braga,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Junior Oto'o,21,Right-Back,Braga B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Wagner,28,Left Winger,Nacional,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Nathan Júnior,26,Centre-Forward,SKA-Energia,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Matt Jones,29,Goalkeeper,Belenenses SAD,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Hélder Tavares,25,Central Midfield,Otelul Galati,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Jordan Massengo,25,Defensive Midfield,RAEC Mons,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Luis Tinoco,28,Left-Back,Arouca,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Lucas Souza,25,Defensive Midfield,Parma,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Raphael Guzzo,20,Central Midfield,Benfica B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Romário Baldé,18,Right Winger,Benfica B,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Miguel Batista,19,Goalkeeper,Tondela U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,João Jaquité,19,Defensive Midfield,Tondela U19,-,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Luís Alberto,31,Defensive Midfield,Without Club,-,in,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Rui Nereu,29,Goalkeeper,Freamunde,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Joel Silva,24,Second Striker,Desportivo Aves,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Jordan Massengo,25,Defensive Midfield,Saint Gilloise,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Tozé Marreco,28,Centre-Forward,Mouscron,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Rúben Silvestre,21,Left Winger,Sertanense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Ricardo Pedrosa,26,Right-Back,Felgueiras,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Vítor Alves,30,Centre-Back,Desportivo Aves,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Deyvison,26,Centre-Back,Marítimo,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Pedro Mendes,25,Left Winger,Felgueiras,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,André Carvalhas,26,Attacking Midfield,Portimonense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Márcio Sousa,29,Attacking Midfield,Farense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Marco Aurélio,26,Right Winger,Praiense,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Tiago Barros,27,Central Midfield,Penafiel,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Pedro Araújo,30,Left-Back,Penafiel,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Fábio Pacheco,27,Defensive Midfield,Vitória Setúbal,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Amar Zildzovic,25,Defensive Midfield,Camacha,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Carraça,22,Right-Back,Boavista,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+CD Tondela,Renato Santos,23,Right Winger,Rio Ave FC,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Breitner,25,Attacking Midfield,Mineros,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Danilo Dias,29,Left Winger,Qarabag Agdam,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Joãozinho,26,Left-Back,Braga,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Amilton,25,Right Winger,Varzim,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Erick Iragua,19,Attacking Midfield,Bolívar U20,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,André Moreira,19,Goalkeeper,Atlético Madrid,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Paulinho,23,Right-Back,Moreirense,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Nilson,27,Left-Back,Doxa Katokopias,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Diego Galo,31,Centre-Back,Arouca,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Diogo Coelho,22,Left Midfield,Braga B,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Abdullahi Shehu,22,Central Midfield,Al-Qadsia SC,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Tiago Ferreira,21,Centre-Back,Zulte Waregem,Free transfer,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Paulo Monteiro,30,Centre-Back,Concordia,?,in,Summer,NA,Liga Nos,2015,2015/2016
+CF União Madeira,Edder Farías,27,Centre-Forward,Caracas FC,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Fabiano Oliveira,29,Centre-Forward,Tigres,?,in,Summer,NA,Liga Nos,2015,2015/2016
+CF União Madeira,Gian Martins,22,Defensive Midfield,Sanjoanense,?,in,Summer,NA,Liga Nos,2015,2015/2016
+CF União Madeira,Otávio Silva,24,Centre-Back,Khaitan SC,?,in,Summer,NA,Liga Nos,2015,2015/2016
+CF União Madeira,Jhonder Cádiz,19,Centre-Forward,Caracas FC,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Gonzalo Bueno,22,Left Winger,Kuban Krasnodar,Loan,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Renny Vega,36,Goalkeeper,Career break,-,in,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Pedro Trigueira,27,Goalkeeper,Coimbra,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Stéphane Dasse,25,Left-Back,Chaves,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Christo Amessan,24,Left Winger,Famalicão,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Diogo Coelho,23,Left Midfield,Farense,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Zé Luis,26,Defensive Midfield,Muçulmana,Free transfer,out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Jaime Simões,26,Centre-Back,Apol. Limassol,Loan,out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Talles Cunha,26,Right Winger,SC Sagamihara,?,out,Summer,NA,Liga Nos,2015,2015/2016
+CF União Madeira,Édson Almeida,21,Centre-Back,Muçulmana,?,out,Summer,NA,Liga Nos,2015,2015/2016
+CF União Madeira,Roberto da Silva,32,Centre-Back,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Otávio Silva,24,Centre-Back,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Chico Gomes,27,Right-Back,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Ayrton Victor,21,Attacking Midfield,Without Club,-,out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Frédéric Mendy,26,Centre-Forward,Estoril,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Diogo Coelho,22,Left Midfield,Braga B,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Jimmy,20,Defensive Midfield,Coimbra,"End of loanJun 1, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+CF União Madeira,Barnes Osei,20,Right Midfield,Paços Ferreira,"End of loanJun 30, 2015",out,Summer,0,Liga Nos,2015,2015/2016
+SL Benfica,Luka Jovic,18,Centre-Forward,Apol. Limassol,£5.94m,in,Winter,5.94,Liga Nos,2015,2015/2016
+SL Benfica,Alejandro Grimaldo,20,Left-Back,FC Barcelona B,£1.89m,in,Winter,1.89,Liga Nos,2015,2015/2016
+SL Benfica,Jorge Rojas,23,Right Winger,Gimnasia,"End of loanJan 7, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Luis Fariña,24,Attacking Midfield,Rayo Vallecano,"End of loanJan 19, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Renato Sanches,18,Central Midfield,Benfica B,-,in,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Steven Vitória,28,Centre-Back,Philadelphia,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Luís Felipe,24,Right-Back,Paysandu,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Yannick Djaló,29,Left Winger,Mordovia,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Filip Djuricic,23,Attacking Midfield,RSC Anderlecht,Loan fee:£540Th.,out,Winter,0.54,Liga Nos,2015,2015/2016
+SL Benfica,Bryan Cristante,20,Central Midfield,US Palermo,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Luís Felipe,24,Right-Back,Rio Claro FC,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Yannick Djaló,29,Left Winger,Ratchaburi FC,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Jorge Rojas,23,Right Winger,Cerro Porteño,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Luis Fariña,24,Attacking Midfield,U. de Chile,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+SL Benfica,Victor Andrade,20,Left Winger,Vit. Guimarães,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+FC Porto,Moussa Marega,24,Second Striker,Marítimo,£3.42m,in,Winter,3.42,Liga Nos,2015,2015/2016
+FC Porto,Hyun-jun Suk,24,Centre-Forward,Vitória Setúbal,£1.35m,in,Winter,1.35,Liga Nos,2015,2015/2016
+FC Porto,Josué,25,Attacking Midfield,Bursaspor,"End of loanJan 20, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+FC Porto,Chidozie Awaziem,19,Centre-Back,FC Porto B,-,in,Winter,0,Liga Nos,2015,2015/2016
+FC Porto,Kelvin,22,Right Winger,Palmeiras,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+FC Porto,Giannelli Imbula,23,Defensive Midfield,Stoke City,£21.83m,out,Winter,21.83,Liga Nos,2015,2015/2016
+FC Porto,Carlos Eduardo,25,Attacking Midfield,Hilal,£1.80m,out,Winter,1.8,Liga Nos,2015,2015/2016
+FC Porto,Héctor Quiñónes,23,Left-Back,Millonarios,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+FC Porto,Daniel Osvaldo,29,Centre-Forward,Boca Juniors,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+FC Porto,Kelvin,22,Right Winger,São Paulo,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+FC Porto,Josué,25,Attacking Midfield,Braga,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+FC Porto,Maicon,27,Centre-Back,São Paulo,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+FC Porto,Cristian Tello,24,Left Winger,FC Barcelona,"End of loanJan 21, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+FC Porto,Aly Cissokho,28,Left-Back,Aston Villa,"End of loanJan 1, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+Sporting CP,Marvin Zeegelaar,25,Left-Back,Rio Ave FC,£270Th.,in,Winter,0.27,Liga Nos,2015,2015/2016
+Sporting CP,Sebastián Coates,25,Centre-Back,Sunderland,Loan fee:£225Th.,in,Winter,0.225,Liga Nos,2015,2015/2016
+Sporting CP,Hernán Barcos,31,Centre-Forward,TJ Teda,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Sporting CP,Bruno César,27,Attacking Midfield,Estoril,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Sporting CP,Rúben Semedo,21,Centre-Back,Vitória Setúbal,"End of loanJan 30, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+Sporting CP,Matheus Pereira,19,Right Winger,Sporting B,-,in,Winter,0,Liga Nos,2015,2015/2016
+Sporting CP,Ezequiel Schelotto,26,Right-Back,Without Club,-,in,Winter,0,Liga Nos,2015,2015/2016
+Sporting CP,Fredy Montero,28,Centre-Forward,TJ Teda,£4.50m,out,Winter,4.5,Liga Nos,2015,2015/2016
+Sporting CP,Zakaria Labyad,22,Attacking Midfield,Fulham,Loan fee:£207Th.,out,Winter,0.207,Liga Nos,2015,2015/2016
+Sporting CP,Junya Tanaka,28,Centre-Forward,Kashiwa Reysol,Loan fee:£153Th.,out,Winter,0.153,Liga Nos,2015,2015/2016
+Sporting CP,Jonathan Silva,21,Left-Back,Boca Juniors,Loan fee:£90Th.,out,Winter,0.09,Liga Nos,2015,2015/2016
+Sporting CP,Marcelo Boeck,31,Goalkeeper,Chapecoense,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+Sporting CP,Oriol Rosell,23,Defensive Midfield,Vit. Guimarães,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Marafona,28,Goalkeeper,Paços Ferreira,£360Th.,in,Winter,0.36,Liga Nos,2015,2015/2016
+SC Braga,Stian Ringstad,24,Left-Back,Lillestrøm SK,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Josué,25,Attacking Midfield,FC Porto,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Érick Moreno,24,Centre-Forward,Real Valladolid,"End of loanJan 20, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Rodrigo Battaglia,24,Central Midfield,Moreirense,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Cristiano Figueiredo,25,Goalkeeper,Panetolikos,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Joan Román,22,Left Winger,Nacional,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Rodrigo Pinho,24,Centre-Forward,Nacional,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Rodrigo Battaglia,24,Central Midfield,CA Rosario,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Érick Moreno,24,Centre-Forward,Tondela,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,Stanislav Kritsyuk,25,Goalkeeper,Krasnodar,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+SC Braga,William Pottker,22,Right Winger,Figueirense FC,"End of loanFeb 5, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Francis,25,Right Winger,Coimbra-MG,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Paolo Hurtado,25,Attacking Midfield,Reading,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Oriol Rosell,23,Defensive Midfield,Sporting CP,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,João Teixeira,21,Attacking Midfield,Benfica B,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Victor Andrade,20,Left Winger,Benfica,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Miguel Silva,20,Goalkeeper,Guimarães B,-,in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Kanu,31,Centre-Back,EC Vitória,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Ricardo Gomes,24,Centre-Forward,Nacional,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Tomané,23,Centre-Forward,MSV Duisburg,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Kanu,31,Centre-Back,OH Leuven,?,out,Winter,NA,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Inters Gui,23,Attacking Midfield,Coimbra,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Vitória Guimarães SC,Nassim Zitouni,21,Attacking Midfield,FC Porto B,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rafael Leme Amorim,28,Centre-Back,Al-Mesaimeer,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Juanto Ortuño,23,Centre-Forward,UE Llagostera,?,in,Winter,NA,Liga Nos,2015,2015/2016
+Belenenses SAD,Abel Aguilar,31,Defensive Midfield,Toulouse,?,in,Winter,NA,Liga Nos,2015,2015/2016
+Belenenses SAD,Lucas Pugh,22,Centre-Forward,Arsenal FC II,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Marko Bakic,22,Central Midfield,Fiorentina,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Matt Jones,29,Goalkeeper,Tondela,"End of loanJan 20, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rafael Floro,21,Left-Back,Casa Pia,"End of loanJan 10, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Diogo Ribeiro,24,Centre-Forward,Mafra,"End of loanJan 4, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Tiago Almeida,25,Right-Back,Chaves,"End of loanJan 12, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Ricardo Fernandes,21,Goalkeeper,Oliveirense,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Diogo Ribeiro,24,Centre-Forward,Covilhã,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,João Vilela,30,Central Midfield,Leiria,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Traquina,27,Right Winger,Covilhã,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Ricardo Fernandes,21,Goalkeeper,Anadia FC,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Palmeira,26,Centre-Back,Casa Pia,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rafael Floro,21,Left-Back,Casa Pia,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Mailó,24,Centre-Forward,Mafra,?,out,Winter,NA,Liga Nos,2015,2015/2016
+Belenenses SAD,João Afonso,33,Centre-Back,Mafra,?,out,Winter,NA,Liga Nos,2015,2015/2016
+Belenenses SAD,Betinho,22,Centre-Forward,Sporting B,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Matt Jones,29,Goalkeeper,Philadelphia,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Rafael Floro,22,Left-Back,Almancilense,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Kuca,26,Left Winger,Karabükspor,"End of loanJan 31, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+Belenenses SAD,Luís Leal,28,Right Winger,APOEL Nicosia,"End of loanJan 22, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Paulinho,23,Attacking Midfield,América-MG,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Joan Román,22,Left Winger,Braga,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Rodrigo Pinho,24,Centre-Forward,Braga,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Ricardo Gomes,24,Centre-Forward,Vit. Guimarães,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Hicham Belkaroui,25,Centre-Back,Club Africain,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Filipe Ferreira,19,Goalkeeper,FC Porto U19,?,in,Winter,NA,Liga Nos,2015,2015/2016
+CD Nacional,Wanderson,23,Centre-Forward,Penapolense-SP,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,João Camacho,21,Right Midfield,SD Compostela,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Edgar Abreu,21,Central Midfield,Leiria,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Zainadine Júnior,27,Centre-Back,TJ Teda,?,out,Winter,NA,Liga Nos,2015,2015/2016
+CD Nacional,Zezinho,23,Attacking Midfield,Atlético-PR,"End of loanJan 1, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Kéven Sousa,26,Goalkeeper,Without Club,-,out,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Gustavo,21,Centre-Forward,Criciúma EC,"End of loanFeb 5, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Geraldo,23,Defensive Midfield,Muçulmana,"End of loanDec 31, 2015",out,Winter,0,Liga Nos,2015,2015/2016
+CD Nacional,Sebastián Ayala,20,Defensive Midfield,CD La Equidad,"End of loanDec 31, 2015",out,Winter,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Cícero,29,Centre-Forward,Sanliurfaspor,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Mário Felgueiras,29,Goalkeeper,Konyaspor,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Ponck,21,Centre-Back,Benfica B,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Sodiq Fatai,19,Right Winger,Oliveirense,?,in,Winter,NA,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Marafona,28,Goalkeeper,Braga,£360Th.,out,Winter,0.36,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Rúben Ribeiro,28,Left Winger,Boavista,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Diogo Rosado,25,Left Winger,Ermis Aradippou,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Lorran,23,Central Midfield,Brasília-DF,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,João Silva,25,Centre-Forward,Avellino,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Sodiq Fatai,19,Right Winger,Gil Vicente,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+FC Paços de Ferreira,Bruno Sousa,19,Right-Back,Oliveirense,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+CS Marítimo,Charles,21,Goalkeeper,Vasco da Gama,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+CS Marítimo,Lynneeker,22,Right Winger,Cruzeiro,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+CS Marítimo,Alireza Haghighi,27,Goalkeeper,Rubin Kazan,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+CS Marítimo,Donald Djousse,25,Centre-Forward,Olimpia Grudz.,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+CS Marítimo,Damien Plessis,27,Defensive Midfield,LB Châteauroux,?,in,Winter,NA,Liga Nos,2015,2015/2016
+CS Marítimo,Gevaro Nepomuceno,23,Left Winger,Petrolul,?,in,Winter,NA,Liga Nos,2015,2015/2016
+CS Marítimo,Maurício Antônio,23,Centre-Back,Portimonense,?,in,Winter,NA,Liga Nos,2015,2015/2016
+CS Marítimo,Moussa Marega,24,Second Striker,FC Porto,£3.42m,out,Winter,3.42,Liga Nos,2015,2015/2016
+CS Marítimo,José Sá,23,Goalkeeper,FC Porto B,£1.08m,out,Winter,1.08,Liga Nos,2015,2015/2016
+CS Marítimo,Raúl Silva,26,Centre-Back,Ceará SC,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+CS Marítimo,Lynneeker,21,Right Winger,Cruzeiro,"End of loanDec 31, 2015",out,Winter,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Hélder Postiga,33,Centre-Forward,Atl. Kolkata,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Ronan,20,Centre-Forward,Sanjoanense,?,in,Winter,NA,Liga Nos,2015,2015/2016
+Rio Ave FC,Kuca,26,Left Winger,Karabükspor,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Bruno Sousa,19,Attacking Midfield,Oliveirense,?,in,Winter,NA,Liga Nos,2015,2015/2016
+Rio Ave FC,Marvin Zeegelaar,25,Left-Back,Sporting CP,£270Th.,out,Winter,0.27,Liga Nos,2015,2015/2016
+Rio Ave FC,José Postiga,19,Centre-Forward,Varzim,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Sunday Abalo,20,Defensive Midfield,Leixões,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Rafael Miranda,19,Right Winger,FC Pedras Rubras,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Kizito,22,Centre-Forward,Feirense,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Gus Ledes,23,Central Midfield,Celta Vigo B,?,out,Winter,NA,Liga Nos,2015,2015/2016
+Rio Ave FC,Zé Pedro,23,Centre-Forward,Académico Viseu,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Rio Ave FC,Bruno Sousa,19,Attacking Midfield,Oliveira Douro,?,out,Winter,NA,Liga Nos,2015,2015/2016
+Moreirense FC,Fábio Espinho,30,Attacking Midfield,Málaga CF,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Moreirense FC,Nildo Petrolina,29,Left Winger,Arouca,?,in,Winter,NA,Liga Nos,2015,2015/2016
+Moreirense FC,Ricardo Almeida,18,Centre-Forward,Moreirense U19,-,in,Winter,0,Liga Nos,2015,2015/2016
+Moreirense FC,Caleb Gomina,19,Centre-Forward,Vila Real,"End of loanFeb 2, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+Moreirense FC,Luís Carlos,28,Left Winger,Zaglebie Lubin,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+Moreirense FC,Milan Marcic,19,Defensive Midfield,Borac Cacak,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+Moreirense FC,André Fontes,30,Attacking Midfield,Chaves,?,out,Winter,NA,Liga Nos,2015,2015/2016
+Moreirense FC,João Vieira,24,Centre-Forward,Feirense,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Moreirense FC,Rodrigo Battaglia,24,Central Midfield,Braga,"End of loanDec 31, 2015",out,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Felipe Augusto,23,Right Winger,Tupi FC,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Marion,24,Left Winger,Atlético-MG,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Lucas Farias,21,Right-Back,São Paulo,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Pedro Botelho,26,Left-Back,Atlético-PR,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Dankler,24,Centre-Back,Botafogo,?,in,Winter,NA,Liga Nos,2015,2015/2016
+Estoril Praia,Michael,22,Centre-Forward,Fluminense,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Fernandinho,22,Right Winger,CQ Lifan,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Luiz Phellype,23,Centre-Forward,C.R.D. Libolo,"End of loanDec 31, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Fernandinho,22,Right Winger,CQ Lifan,£1.13m,out,Winter,1.13,Liga Nos,2015,2015/2016
+Estoril Praia,Billal Sebaihi,23,Central Midfield,Tondela,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Alex Kakuba,24,Left-Back,Feirense,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Bruno César,27,Attacking Midfield,Sporting CP,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Luiz Phellype,22,Centre-Forward,C.R.D. Libolo,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Gladestony,22,Central Midfield,FC Cartagena,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Estoril Praia,Felipe Augusto,24,Right Winger,Tupi FC,"End of loanJan 2, 2017",out,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Rúben Ribeiro,28,Left Winger,Paços Ferreira,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Mario Martínez,30,Attacking Midfield,Blooming,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Aymen Tahar,26,Central Midfield,Steaua Bukarest,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Imanol Iriberri,28,Centre-Forward,Wilstermann,?,in,Winter,NA,Liga Nos,2015,2015/2016
+Boavista FC,Cristian Cangá,22,Centre-Forward,Atlético Huila,?,in,Winter,NA,Liga Nos,2015,2015/2016
+Boavista FC,Douglas Abner,19,Centre-Forward,Boavista U19,-,in,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Yoro Ly,27,Right Winger,Daugavpils,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Miguel Pereira,20,Right-Back,Vila Real,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Julián Montenegro,26,Left Midfield,Farense,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Samuel Inkoom,26,Right-Back,Antalyaspor,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Rivaldinho,20,Centre-Forward,Piracicaba,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Fábio Ervões,28,Centre-Back,Vizela,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Miguel Pereira,20,Right-Back,Felgueiras,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Julián Montenegro,26,Left Midfield,Lynx FC,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Leozinho,27,Attacking Midfield,Without Club,-,out,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Diego Lima,27,Attacking Midfield,Without Club,-,out,Winter,0,Liga Nos,2015,2015/2016
+Boavista FC,Christian Pouga,29,Centre-Forward,Without Club,-,out,Winter,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Rafa Soares,20,Left-Back,FC Porto B,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Inters Gui,23,Attacking Midfield,Vit. Guimarães,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Magique,22,Left Winger,Sanliurfaspor,"End of loanJan 1, 2016",in,Winter,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Carlos Olascuaga,23,Left Winger,Juan Aurich,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+Académica Coimbra,Magique,23,Left Winger,Feirense,?,out,Winter,NA,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Tiago Valente,30,Centre-Back,Lechia Gdansk,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Meyong,35,Centre-Forward,Kabuscorp SC,?,in,Winter,NA,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Maciej Makuszewski,26,Right Winger,Lechia Gdansk,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Salim Cissé,23,Centre-Forward,Sporting B,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Marlon,20,Defensive Midfield,SG Sacavenense,"End of loanDec 31, 2015",in,Winter,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Hyun-jun Suk,24,Centre-Forward,FC Porto,£1.35m,out,Winter,1.35,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Marcos Vinícius,24,Centre-Back,Santo André,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,François,26,Centre-Back,Hajer,?,out,Winter,NA,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Al-Gadi,25,Defensive Midfield,Santa Clara,?,out,Winter,NA,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Marlon,21,Defensive Midfield,Real SC,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Rúben Semedo,21,Centre-Back,Sporting CP,"End of loanJan 30, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+Vitória Setúbal FC,Ulises Dávila,24,Second Striker,Chelsea,"End of loanDec 31, 2015",out,Winter,0,Liga Nos,2015,2015/2016
+FC Arouca,Rodney Wallace,27,Left Midfield,Timbers,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+FC Arouca,Mateus,31,Left Winger,1º de Agosto,?,in,Winter,NA,Liga Nos,2015,2015/2016
+FC Arouca,Walter González,20,Centre-Forward,Olimpia,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+FC Arouca,Jubal,22,Centre-Back,Santos FC,?,in,Winter,NA,Liga Nos,2015,2015/2016
+FC Arouca,Jorginho,20,Left Winger,Man City U21,?,in,Winter,NA,Liga Nos,2015,2015/2016
+FC Arouca,Emiliano Albín,27,Right-Back,Without Club,-,in,Winter,0,Liga Nos,2015,2015/2016
+FC Arouca,Rodney Wallace,27,Left Midfield,Sport Recife,£180Th.,out,Winter,0.18,Liga Nos,2015,2015/2016
+FC Arouca,Agustín Vuletich,24,Centre-Forward,Arsenal FC,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+FC Arouca,Hugo Monteiro,30,Right Winger,Anadia FC,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+FC Arouca,Nildo Petrolina,29,Left Winger,Moreirense,?,out,Winter,NA,Liga Nos,2015,2015/2016
+FC Arouca,Karl,22,Central Midfield,Tondela,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+FC Arouca,Lucas Colitto,21,Left Winger,Defensores,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+FC Arouca,Borja López,21,Centre-Back,Monaco,"End of loanJan 25, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+FC Arouca,Caio Rangel,20,Right Winger,Cagliari Calcio,"End of loanJan 30, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+FC Arouca,Leandro Ribeiro,21,Left Winger,Inter B,"End of loanJan 19, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Billal Sebaihi,23,Central Midfield,Estoril,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Wanderson Lima,20,Right-Back,Anápolis-GO,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Érick Moreno,24,Centre-Forward,Braga,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Karl,22,Central Midfield,Arouca,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Steven Thicot,28,Centre-Back,Without Club,-,in,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Eñaut Zubikarai,31,Goalkeeper,Without Club,-,in,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Luís Machado,23,Left Winger,Feirense,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Ruben Saldanha,27,Attacking Midfield,Santa Clara,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Edu Machado,25,Right-Back,Chaves,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Salva Chamorro,25,Centre-Forward,FC Barcelona B,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Matt Jones,29,Goalkeeper,Belenenses SAD,"End of loanJan 20, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+CD Tondela,Raphael Guzzo,21,Central Midfield,Benfica B,"End of loanJan 29, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Genséric Kusunga,27,Centre-Back,Without Club,Free transfer,in,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Marco Túlio,23,Defensive Midfield,Anápolis-GO,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Rúben Lima,26,Left-Back,Din. Zagreb II,?,in,Winter,NA,Liga Nos,2015,2015/2016
+CF União Madeira,Miguel Cardoso,21,Right Winger,Deportivo B,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Raúl Gudiño,19,Goalkeeper,FC Porto B,Loan,in,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Toni Silva,22,Right Winger,Without Club,-,in,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Kheireddine Zarabi,31,Centre-Back,Nîmes Olympique,Free transfer,out,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Diogo Firmino,19,Left Winger,Praiense,Loan,out,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Filipe Chaby,21,Attacking Midfield,Sporting B,"End of loanJan 7, 2016",out,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Renny Vega,36,Goalkeeper,Without Club,-,out,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Erick Iragua,19,Attacking Midfield,Without Club,-,out,Winter,0,Liga Nos,2015,2015/2016
+CF União Madeira,Gonzalo Bueno,22,Left Winger,Kuban Krasnodar,"End of loanDec 10, 2015",out,Winter,0,Liga Nos,2015,2015/2016

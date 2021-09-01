@@ -1,0 +1,389 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+FC Porto,Bino,22,Defensive Midfield,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,João Manuel Pinto,22,Centre-Back,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Péter Lipcsei,23,Central Midfield,Ferencváros,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Silvino Louro,36,Goalkeeper,Vitória Setúbal,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Grzegorz Mielcarski,24,Centre-Forward,Widzew Lodz,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Edmílson,23,Second Striker,Salgueiros,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Quinzinho,21,Centre-Forward,AS Aviação,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Jorge Silva,23,Goalkeeper,Rio Ave FC,"End of loanJun 30, 1995",in,Summer,0,Liga Nos,1995,1995/1996
+FC Porto,Mandla Zwane,22,Forward,Penafiel,"End of loanJun 30, 1995",in,Summer,0,Liga Nos,1995,1995/1996
+FC Porto,Cândido Rego,24,Goalkeeper,Vitória Setúbal,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Vasili Kulkov,29,Centre-Back,Spartak Moscow,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Sergey Yuran,26,Centre-Forward,Spartak Moscow,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Jaime Magalhães,32,Right Midfield,Leça,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Mandla Zwane,22,Forward,Gil Vicente,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Porto,Antonio André,37,Defensive Midfield,Retired,-,out,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,King,25,Centre-Back,Farense,Free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Ilian Iliev,26,Attacking Midfield,Levski Sofia,Free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Bruno Caires,19,Defensive Midfield,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Émerson Thome,23,Centre-Back,Tirsense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Paulão,25,Right Winger,Vitória Setúbal,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Luiz Gustavo,23,Forward,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Mauro Airez,26,Centre-Forward,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Ricardo Gomes,30,Centre-Back,Paris SG,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Aílton,26,Centre-Forward,São Paulo,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Fernando Brassard,23,Goalkeeper,Gil Vicente,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Mario Marinho,24,Right-Back,Sporting CP,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Marcelo,25,Centre-Forward,Tirsense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Valdo,31,Attacking Midfield,Paris SG,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Basarab Panduru,24,Attacking Midfield,Steaua Bukarest,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,José Antonio Calado,21,Central Midfield,CF Estrela,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Hassan,29,Centre-Forward,Farense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,José Veiga,18,Goalkeeper,Benfica U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Edgar,17,Right Winger,Benfica U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Maniche,17,Central Midfield,Benfica U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Nélson Veríssimo,18,Centre-Back,Benfica U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Pedro Henriques,20,Left-Back,Vitória Setúbal,"End of loanJun 30, 1995",in,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Pedro Roma,24,Goalkeeper,Coimbra,"End of loanJun 1, 1995",in,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Rui Esteves,28,Midfielder,Birmingham,"End of loanJun 30, 1995",in,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Jose Quitongo,20,Right Winger,Darlington,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Edílson,23,Centre-Forward,Palmeiras,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Abel Xavier,22,Right-Back,Bari,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Paulo Madeira,24,Centre-Back,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,José Fernando Tavares,30,Midfielder,Boavista,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Rui Esteves,28,Midfielder,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Amaral,25,Right Winger,Felgueiras,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Paulao,28,Centre-Back,Vasco da Gama,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,William,27,Centre-Back,SC Bastia,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Isaias,31,Second Striker,Coventry,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Nelo,27,Central Midfield,Boavista,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,César Brito,30,Centre-Forward,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Mario Stanic,23,Right Winger,Club Brugge,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Neno,33,Goalkeeper,Vit. Guimarães,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Vítor Paneira,29,Right Midfield,Vit. Guimarães,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,José Tavares,30,Central Midfield,Boavista,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Akwá,18,Centre-Forward,Alverca,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Pedro Roma,24,Goalkeeper,Famalicão,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+SL Benfica,Paiva,22,Defensive Midfield,Farense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,Claudio Caniggia,28,Right Winger,Boca Juniors,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SL Benfica,António Veloso,38,Right-Back,Retired,-,out,Summer,0,Liga Nos,1995,1995/1996
+Sporting CP,Pedro Barbosa,24,Central Midfield,Vit. Guimarães,Free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Sporting CP,José Dominguez,21,Left Winger,Birmingham,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Paulo Alves,25,Centre-Forward,Marítimo,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,José Luís Vidigal,22,Defensive Midfield,Estoril,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Tiago Ferreira,20,Goalkeeper,Lourinhanense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Luís Miguel,23,Right-Back,Desportivo Aves,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Assis,24,Attacking Midfield,FC Sion,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Afonso Martins,22,Attacking Midfield,AS Nancy,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Ahmed Ouattara,25,Centre-Forward,FC Sion,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Carlos Fernandes,17,Left-Back,Sporting U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+Sporting CP,Pedro Martins,24,Defensive Midfield,Vit. Guimarães,,in,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Beto Severo,19,Centre-Back,União Lamas,"End of loanJun 30, 1995",in,Summer,0,Liga Nos,1995,1995/1996
+Sporting CP,Porfírio,21,Left Midfield,Tirsense,"End of loanJun 30, 1995",in,Summer,0,Liga Nos,1995,1995/1996
+Sporting CP,Luís Figo,22,Right Winger,FC Barcelona,£2.25m,out,Summer,2.25,Liga Nos,1995,1995/1996
+Sporting CP,Krasimir Balakov,29,Attacking Midfield,VfB Stuttgart,£1.89m,out,Summer,1.89,Liga Nos,1995,1995/1996
+Sporting CP,Porfírio,21,Left Midfield,Leiria,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+Sporting CP,Beto Severo,19,Centre-Back,Campomaiorense,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+Sporting CP,Emilio Peixe,22,Defensive Midfield,Sevilla FC,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Rui Varão,18,Attacking Midfield,Casa Pia,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Miguel Gama,17,Centre-Back,Lourinhanense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Zoran Lemajic,34,Goalkeeper,Marítimo,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,António Pacheco,28,Left Winger,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Paulo Torres,23,Left-Back,Campomaiorense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Mario Marinho,24,Right-Back,Benfica,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Dani,18,Attacking Midfield,West Ham,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+Sporting CP,Pedrosa,23,Central Midfield,Gil Vicente,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+Sporting CP,Nuno Capucho,23,Right Winger,Vit. Guimarães,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Andrzej Juskowiak,24,Centre-Forward,Olympiacos,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Sporting CP,Carlos Xavier,34,Defensive Midfield,Retired,-,out,Summer,0,Liga Nos,1995,1995/1996
+Boavista FC,Ricardo,19,Goalkeeper,Montijo,£900Th.,in,Summer,0.9,Liga Nos,1995,1995/1996
+Boavista FC,Zoran Ban,22,Centre-Forward,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Sérgio Duarte,30,Midfielder,Farense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,José Fernando Tavares,30,Midfielder,Benfica,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Hélder Baptista,23,Midfielder,Braga,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Nelo,27,Central Midfield,Benfica,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,José Tavares,30,Central Midfield,Benfica,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Nélson Bertolazzi,29,Forward,Leiria,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Hélder Batista,22,Midfielder,Braga,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Rui Borges,21,Attacking Midfield,Casa Pia,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Litos,21,Centre-Back,Rio Ave FC,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Delfim,18,Defensive Midfield,Boavista U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+Boavista FC,Mário Silva,18,Left-Back,Boavista U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+Boavista FC,Alex Dias,23,Centre-Forward,Goiás EC,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+Boavista FC,Martelinho,20,Right Winger,Alavés,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+Boavista FC,Valente,30,Goalkeeper,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Rosario,30,Forward,Felgueiras,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Mateus,29,Attacking Midfield,Famalicão,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Nuno Carvalho,22,Centre-Back,Ovarense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Vasco,20,Midfielder,Marco,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Cobra,26,Midfielder,Atlético CP,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,António Nogueira,31,Centre-Back,Vitória Setúbal,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Luciano,26,Centre-Forward,Gil Vicente,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Eduard Abazi,26,Left-Back,Man City,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Jovica Simanic,NA,Centre-Back,Famalicão,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Pedro Barny,28,Centre-Back,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Fernando Mendes,28,Left-Back,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Ricardo Nascimento,21,Attacking Midfield,Desportivo Aves,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+Boavista FC,Ricardo Silva,19,Centre-Back,Esposende,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Boavista FC,Jorge Silva,19,Defensive Midfield,Coimbra,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Nuno Capucho,23,Right Winger,Sporting CP,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Nuno Claro,18,Goalkeeper,Académico Viseu,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Edinho,28,Centre-Forward,Chaves,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Vítor Paneira,29,Right Midfield,Benfica,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Neno,33,Goalkeeper,Benfica,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Patrick Asselman,26,Forward,KV Mechelen,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,José Soeiro,29,Defender,Marítimo,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Edinho,27,Forward,Chaves,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Marco Freitas,22,Defensive Midfield,Nacional,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Ricardo Lopes,26,Right Winger,CF Estrela,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Arley,23,Defender,Cruzeiro,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Flávio Meireles,18,Defensive Midfield,Guimarães U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Pedro Barbosa,24,Central Midfield,Sporting CP,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Patrick Asselman,27,Forward,FC Denderleeuw,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Agostinho,19,Left Winger,Real Madrid C,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Samuel,28,Centre-Back,Tirsense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Zé Carlos,33,Goalkeeper,Felgueiras,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Ziad Tlemcani,32,Forward,Vissel Kobe,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Pedro Martins,24,Defensive Midfield,Sporting CP,,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,José Taira,26,Midfielder,CF Estrela,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Luís Ferreira,22,Goalkeeper,O Elvas,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Paulo Madeira,24,Centre-Back,Benfica,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Carlos Alberto Lopes Cabral,23,Midfielder,Coimbra,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Rui Esteves,28,Midfielder,Benfica,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,António Pacheco,28,Left Winger,Sporting CP,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Youssef Fertout,24,Centre-Forward,Wydad AC,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Valente,30,Goalkeeper,Boavista,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Paulo Gomes,25,Midfielder,Vitória Setúbal,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Lula,29,Centre-Back,Leiria,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Everton Giovanella,24,Central Midfield,Tirsense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,César Brito,30,Centre-Forward,Benfica,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Lito Vidigal,25,Right-Back,Campomaiorense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Neves,24,Right-Back,Gil Vicente,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Rogério,19,Defensive Midfield,Vianense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Raul Oliveira,22,Defender,Amora FC,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Quim,21,Centre-Forward,Lamego,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Pedro Barny,28,Centre-Back,Boavista,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Fernando Mendes,28,Left-Back,Boavista,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Tulipa,22,Attacking Midfield,Salgueiros,"End of loanJun 30, 1995",in,Summer,0,Liga Nos,1995,1995/1996
+Belenenses SAD,Serge Honi,21,Centre-Forward,Famalicão,"End of loanJun 30, 1995",in,Summer,0,Liga Nos,1995,1995/1996
+Belenenses SAD,Serge Honi,21,Centre-Forward,AE Larisa,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+Belenenses SAD,Vítor Manuel,24,Attacking Midfield,Campomaiorense,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+Belenenses SAD,Dariusz Adamczuk,25,Defensive Midfield,Pogon Szczecin,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+Belenenses SAD,Dacroce,27,Midfielder,Chaves,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+Belenenses SAD,Nuno Afonso,20,Centre-Back,Campomaiorense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Abilio,28,Attacking Midfield,Salgueiros,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Alen Petrovic,25,Defender,Croatia Zagreb,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Luiz Gustavo,23,Forward,Benfica,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Álvaro Teixeira,31,Right-Back,Felgueiras,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Basaúla Lemba,30,Attacking Midfield,Tirsense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Mauro Airez,26,Centre-Forward,Benfica,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Álvaro Gregório,22,Left-Back,Leiria,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Catanha,23,Centre-Forward,UD Salamanca,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,José Leal,30,Left-Back,Felgueiras,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Ricky,33,Centre-Forward,Al-Arabi SC,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Bruno Caires,19,Defensive Midfield,Benfica,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Diamantino Figueiredo,35,Goalkeeper,Famalicão,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,João Manuel Pinto,22,Centre-Back,FC Porto,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Bino,22,Defensive Midfield,FC Porto,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Zoran Ban,22,Centre-Forward,Boavista,?,out,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Paulo Duarte,26,Centre-Back,Marítimo,?,in,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,João Manuel,27,Central Midfield,Coimbra,?,in,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Kwame Ayew,21,Centre-Forward,Lecce,?,in,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Álvaro Gregório,22,Left-Back,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Manuel Cabral,NA,Left-Back,Beira-Mar,?,in,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Sérgio,26,Centre-Back,Paços Ferreira,?,in,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Hugo,22,Right Midfield,Farense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Porfírio,21,Left Midfield,Sporting CP,Loan,in,Summer,0,Liga Nos,1995,1995/1996
+União de Leiria,Miroslav Zitnjak,27,Goalkeeper,NK Osijek,?,in,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Poejo,21,Defensive Midfield,CF Estrela,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+União de Leiria,Dinda,22,Attacking Midfield,Paços Ferreira,?,out,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Lula,29,Centre-Back,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Bambo,20,Forward,CF Estrela,?,out,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Hugo Barbeiro,19,Midfielder,Marinhense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Telmo Pinto,24,Right Midfield,Paços Ferreira,?,out,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Álvaro,34,Goalkeeper,Campomaiorense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+União de Leiria,Nélson Bertolazzi,29,Forward,Boavista,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Floris Schaap,30,Centre-Back,Farense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Vado,26,Central Midfield,Marítimo,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Eduardo Oliveira,19,Left-Back,Merelinense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Jonny Rödlund,23,Central Midfield,Degerfors,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Lino,23,Left-Back,Chaves,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Bo Andersson,27,Forward,Djurgarden,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Hugo,18,Centre-Back,Braga U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+SC Braga,Moké Kajima,19,Left-Back,Fontenay-Foot-Vendée,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+SC Braga,Rui Miguel,20,Centre-Forward,Nacional,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Hélder Batista,22,Midfielder,Boavista,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Litos,28,Attacking Midfield,Estoril,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Stéphane Demol,29,Centre-Back,Panionios,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Hélder Baptista,23,Midfielder,Boavista,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Braga,Eugénio,28,Right-Back,Farense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Filgueira,28,Centre-Back,Vitória Setúbal,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Tiago,20,Defensive Midfield,Famalicão,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Alberto Cabral,26,Left-Back,Tirsense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Predrag Jokanovic,26,Centre-Back,União Madeira,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Zoran Lemajic,34,Goalkeeper,Sporting CP,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Vítor Vieira,22,Right Winger,Paços Ferreira,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Eusébio,21,Left-Back,Espinho,"End of loanJun 30, 1995",in,Summer,0,Liga Nos,1995,1995/1996
+CS Marítimo,Rodrigo Costa,19,Centre-Back,Palmeiras,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+CS Marítimo,Bruno Fernandes,21,Central Midfield,Machico,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+CS Marítimo,Paulo Duarte,26,Centre-Back,Leiria,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Paulo Alves,25,Centre-Forward,Sporting CP,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Fernando Aguiar,23,Defensive Midfield,Nacional,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Pedro Valido,25,Defender,Tirsense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,José Soeiro,29,Defender,Vit. Guimarães,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Vado,26,Central Midfield,Braga,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Luís Fernando,31,Centre-Forward,Cruzeiro,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Heitor,31,Defender,Retired,-,out,Summer,0,Liga Nos,1995,1995/1996
+SC Farense,Paiva,22,Defensive Midfield,Benfica,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Marco Nuno,20,Right Midfield,Lusitano VRSA,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Romicha,20,Right Winger,Lusitano,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Carlos Costa,28,Defensive Midfield,Beira-Mar,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Eugénio,28,Right-Back,Braga,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Uche Okafor,27,Centre-Back,Maccabi Ashdod,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Dragan Punisic,29,Attacking Midfield,Beira-Mar,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Pedro Miguel,27,Defender,Beira-Mar,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Mauro,21,Left Winger,Naval,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Idalécio,21,Centre-Back,Louletano,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Camilo,25,Centre-Back,União Coimbra,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,King,25,Centre-Back,Benfica,Free transfer,out,Summer,0,Liga Nos,1995,1995/1996
+SC Farense,Hassan,29,Centre-Forward,Benfica,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Nuno Amaro,19,Left-Back,Louletano,Loan,out,Summer,0,Liga Nos,1995,1995/1996
+SC Farense,Christian,20,Centre-Forward,Internacional,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Floris Schaap,30,Centre-Back,Braga,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Sérgio Duarte,30,Midfielder,Boavista,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Portela,30,Right-Back,Campomaiorense,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Hugo,22,Right Midfield,Leiria,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Farense,Moussa N'Daw,26,Centre-Forward,Kayserispor,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Mariano,19,Left-Back,Espinho,Free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+SC Salgueiros,Basílio Almeida,23,Second Striker,Feirense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Miguel Teixeira,21,Centre-Back,Olhanense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Toni,22,Centre-Forward,Beira-Mar,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Abilio,28,Attacking Midfield,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Albertino,23,Right-Back,Coimbra,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Paulo Sérgio,27,Centre-Forward,Vitória Setúbal,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Edmílson,23,Second Striker,FC Porto,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Miguel Simao,22,Forward,Coimbra,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Best,26,Goalkeeper,Leça,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Tulipa,22,Attacking Midfield,Belenenses SAD,"End of loanJun 30, 1995",out,Summer,0,Liga Nos,1995,1995/1996
+Gil Vicente FC,Ricardo Ramires,19,Right Midfield,Torreense,Free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Gil Vicente FC,Pedrosa,23,Central Midfield,Sporting CP,Loan,in,Summer,0,Liga Nos,1995,1995/1996
+Gil Vicente FC,Mandla Zwane,22,Forward,FC Porto,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Gil Vicente FC,Luciano,26,Centre-Forward,Boavista,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Gil Vicente FC,Vatroslav Mihacić,27,Goalkeeper,Hajduk Split,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Gil Vicente FC,Jaime Cerqueira,27,Central Midfield,Chaves,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Gil Vicente FC,Pedro Maciel,18,Centre-Back,Gil Vicente U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+Gil Vicente FC,Neves,24,Right-Back,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Gil Vicente FC,Fernando Brassard,23,Goalkeeper,Benfica,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Gil Vicente FC,César Gomes,19,Goalkeeper,FC Marinhas,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Poejo,21,Defensive Midfield,Leiria,Loan,in,Summer,0,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Hugo Costa,21,Centre-Back,Beira-Mar,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Andrade,21,Defensive Midfield,Estoril,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Jordão,23,Defensive Midfield,Leça,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Paulo Santos,22,Goalkeeper,Penafiel,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Bambo,20,Forward,Leiria,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Eliseu,26,Centre-Back,Beira-Mar,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Ilia Voynov,31,Left Midfield,Estoril,?,in,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Sérgio Marquês,18,Defensive Midfield,E. Amadora U19,-,in,Summer,0,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,José Antonio Calado,21,Central Midfield,Benfica,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,José Taira,26,Midfielder,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Joao Peixe,19,Forward,Alverca,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Edmundo,31,Centre-Back,Vitória Setúbal,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Guy Hubart,35,Goalkeeper,Standard Liège,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Gil,22,Left Winger,Yverdon-Sport,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Quim Machado,28,Right-Back,Chaves,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Ricardo Lopes,26,Right Winger,Vit. Guimarães,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Francisco Agatão,34,Defensive Midfield,Estoril,?,out,Summer,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Gil Gomes,22,Forward,Yverdon-Sport,?,out,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Dacroce,27,Midfielder,Belenenses SAD,Free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+GD Chaves,Quim Machado,28,Right-Back,CF Estrela,?,in,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Miner,24,Midfielder,Sporting Gijón,?,in,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Dino,34,Forward,Vitória Setúbal,?,in,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Jorge Vinagre,20,Left-Back,Ovarense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Edinho,28,Centre-Forward,Vit. Guimarães,?,out,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Carlos Carvalhal,29,Centre-Back,Espinho,?,out,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Silvino Morais,29,Goalkeeper,Vitória Setúbal,?,out,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Edinho,27,Forward,Vit. Guimarães,?,out,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Marito,27,Right Midfield,Académico Viseu,?,out,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Paulo Henrique,33,Right-Back,Oriental,?,out,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Jaime Cerqueira,27,Central Midfield,Gil Vicente,?,out,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,Lino,23,Left-Back,Braga,?,out,Summer,NA,Liga Nos,1995,1995/1996
+GD Chaves,José María,24,Forward,Real Madrid B,"End of loanJun 30, 1995",out,Summer,0,Liga Nos,1995,1995/1996
+Leça FC,Milan Djurdjevic,27,Forward,RCD Mallorca,Free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+Leça FC,Rui Óscar,19,Right-Back,União Lamas,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Leça FC,Paulo Fonseca,22,Centre-Back,Barreirense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Leça FC,Luciano,28,Goalkeeper,Covilhã,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Leça FC,Jaime Magalhães,32,Right Midfield,FC Porto,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Leça FC,Best,26,Goalkeeper,Salgueiros,?,in,Summer,NA,Liga Nos,1995,1995/1996
+Leça FC,Jordão,23,Defensive Midfield,CF Estrela,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Leça FC,Sérgio Conceição,20,Right Winger,Felgueiras,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Leça FC,Earl Jean,23,Centre-Forward,Felgueiras,?,out,Summer,NA,Liga Nos,1995,1995/1996
+Leça FC,António Caldas,36,Goalkeeper,Leixões,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Sylvain Sansone,28,Goalkeeper,Lus. Lourosa,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Rui Gregório,26,Centre-Back,Tirsense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Sérgio Conceição,20,Right Winger,Leça,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Earl Jean,23,Centre-Forward,Leça,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,José Leal,30,Left-Back,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Amaral,25,Right Winger,Benfica,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Vlado Bozinoski,31,Central Midfield,Paços Ferreira,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Álvaro Teixeira,31,Right-Back,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Zé Carlos,33,Goalkeeper,Vit. Guimarães,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Rosario,30,Forward,Boavista,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Zé Nando,26,Left-Back,Coimbra,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Baroti,25,Attacking Midfield,Penafiel,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Jorginho,33,Centre-Back,Beira-Mar,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Paulo Sérgio,24,Goalkeeper,Vitória Setúbal,Free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+SC Campomaiorense,Vítor Manuel,24,Attacking Midfield,Belenenses SAD,Free transfer,in,Summer,0,Liga Nos,1995,1995/1996
+SC Campomaiorense,Portela,30,Right-Back,Farense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Álvaro,34,Goalkeeper,Leiria,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Jimmy Floyd Hasselbaink,23,Centre-Forward,Neerlandia/SLTO,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Nuno Afonso,20,Centre-Back,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Paulo Torres,23,Left-Back,Sporting CP,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Stanimir Stoilov,28,Left Midfield,Levski Sofia,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Michael Brundin,29,Centre-Back,Vitória Setúbal,?,in,Summer,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Beto Severo,19,Centre-Back,Sporting CP,Loan,in,Summer,0,Liga Nos,1995,1995/1996
+SC Campomaiorense,Jorge Neves,25,Right-Back,Beira-Mar,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Lito Vidigal,25,Right-Back,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Emmanuel Blanchard,24,Forward,Coimbra,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Gaspar,20,Centre-Back,Trofense,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Dragutin Ristic,30,Forward,Dundee United,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Toninho Cruz,26,Defensive Midfield,Rio Ave FC,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Manuel Monteiro,27,Left Winger,União Lamas,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Basaúla Lemba,30,Attacking Midfield,Belenenses SAD,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Samson Siasia,27,Forward,FC Nantes,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Pedro Valido,25,Defender,Marítimo,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Samuel,28,Centre-Back,Vit. Guimarães,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Rachid Daoudi,29,Central Midfield,Wydad AC,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Marco Ferreira,17,Forward,Vimioso,?,in,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Everton Giovanella,24,Central Midfield,Belenenses SAD,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Rui Gregório,26,Centre-Back,Felgueiras,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Cabral,23,Right-Back,Vizela,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Alberto Cabral,26,Left-Back,Marítimo,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Marcelo,25,Centre-Forward,Benfica,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Émerson Thome,23,Centre-Back,Benfica,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Luis Mariano,26,Central Midfield,Alverca,?,out,Summer,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Porfírio,21,Left Midfield,Sporting CP,"End of loanJun 30, 1995",out,Summer,0,Liga Nos,1995,1995/1996
+FC Porto,Lars Eriksson,30,Goalkeeper,RSC Charleroi,?,in,Winter,NA,Liga Nos,1995,1995/1996
+FC Porto,Jorge Silva,23,Goalkeeper,Salgueiros,?,out,Winter,NA,Liga Nos,1995,1995/1996
+FC Porto,Ronald Baroni,27,Centre-Forward,Felgueiras,?,out,Winter,NA,Liga Nos,1995,1995/1996
+SL Benfica,Nuno Sampaio,21,Goalkeeper,Alverca,?,in,Winter,NA,Liga Nos,1995,1995/1996
+SL Benfica,Pedro Roma,25,Goalkeeper,Famalicão,"End of loanDec 1, 1995",in,Winter,0,Liga Nos,1995,1995/1996
+SL Benfica,Basarab Panduru,25,Attacking Midfield,Xamax,Loan,out,Winter,0,Liga Nos,1995,1995/1996
+SL Benfica,Pedro Roma,25,Goalkeeper,Coimbra,Loan,out,Winter,0,Liga Nos,1995,1995/1996
+Sporting CP,César Ramírez,18,Centre-Forward,Cerro Corá,?,in,Winter,NA,Liga Nos,1995,1995/1996
+Sporting CP,Mauro Soares,27,Defensive Midfield,Belenenses SAD,?,in,Winter,NA,Liga Nos,1995,1995/1996
+Sporting CP,Emilio Peixe,22,Defensive Midfield,Sevilla FC,?,in,Winter,NA,Liga Nos,1995,1995/1996
+Sporting CP,Tomas Skuhravy,30,Centre-Forward,Genoa,Loan,in,Winter,0,Liga Nos,1995,1995/1996
+Sporting CP,Chiquinho Conde,30,Centre-Forward,Belenenses SAD,?,out,Winter,NA,Liga Nos,1995,1995/1996
+Sporting CP,Tomas Skuhravy,30,Centre-Forward,Genoa,"End of loanJan 31, 1996",out,Winter,0,Liga Nos,1995,1995/1996
+Vitória Guimarães SC,Armando,20,Centre-Forward,Paços Ferreira,?,in,Winter,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Chiquinho Conde,30,Centre-Forward,Sporting CP,?,in,Winter,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Darci,27,Left Winger,Rochester,?,out,Winter,NA,Liga Nos,1995,1995/1996
+Belenenses SAD,Mauro Soares,27,Defensive Midfield,Sporting CP,?,out,Winter,NA,Liga Nos,1995,1995/1996
+União de Leiria,Morgado,23,Centre-Back,Portimonense,Loan,out,Winter,0,Liga Nos,1995,1995/1996
+SC Braga,Bo Andersson,27,Forward,Djurgarden,?,in,Winter,NA,Liga Nos,1995,1995/1996
+CS Marítimo,Ferenc Hámori,23,Forward,ETO FC Győr,Loan,in,Winter,0,Liga Nos,1995,1995/1996
+SC Farense,Mauro,22,Left Winger,Lamego,?,out,Winter,NA,Liga Nos,1995,1995/1996
+SC Farense,Romicha,21,Right Winger,Montemor,?,out,Winter,NA,Liga Nos,1995,1995/1996
+SC Farense,Miroslav Curcic,33,Forward,SG Egelsbach,?,out,Winter,NA,Liga Nos,1995,1995/1996
+SC Farense,Uche Okafor,28,Centre-Back,Kansas City Wiz,?,out,Winter,NA,Liga Nos,1995,1995/1996
+SC Salgueiros,Jorge Silva,23,Goalkeeper,FC Porto,?,in,Winter,NA,Liga Nos,1995,1995/1996
+CF Estrela Amadora SAD,Sinisa Koncalovic,29,Midfielder,Vorwärts Steyr,Free transfer,out,Winter,0,Liga Nos,1995,1995/1996
+GD Chaves,Jorginho,20,Left-Back,Bragança,Loan,out,Winter,0,Liga Nos,1995,1995/1996
+Leça FC,Milan Djurdjevic,28,Forward,Perpignan,Free transfer,out,Winter,0,Liga Nos,1995,1995/1996
+Leça FC,Miguel Reisinho,20,Right Winger,Penafiel,"End of loanDec 31, 1995",out,Winter,0,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Philippe Azevedo,20,Centre-Forward,Marseille B,?,in,Winter,NA,Liga Nos,1995,1995/1996
+FC Felgueiras 1932,Zé Carlos,33,Goalkeeper,Flamengo,?,out,Winter,NA,Liga Nos,1995,1995/1996
+SC Campomaiorense,Goran Stevanovic,29,Midfielder,Vitória Setúbal,Free transfer,in,Winter,0,Liga Nos,1995,1995/1996
+SC Campomaiorense,Quim,30,Left Midfield,Paços Ferreira,?,out,Winter,NA,Liga Nos,1995,1995/1996
+FC Tirsense,Toninho Cruz,26,Defensive Midfield,Coimbra,?,out,Winter,NA,Liga Nos,1995,1995/1996

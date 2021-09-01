@@ -1,0 +1,589 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+PSV Eindhoven,Gastón Pereiro,20,Attacking Midfield,Nacional,£6.30m,in,Summer,6.3,Eredivisie,2015,2015/2016
+PSV Eindhoven,Davy Pröpper,23,Central Midfield,Vitesse,£4.05m,in,Summer,4.05,Eredivisie,2015,2015/2016
+PSV Eindhoven,Héctor Moreno,27,Centre-Back,Espanyol,£3.15m,in,Summer,3.15,Eredivisie,2015,2015/2016
+PSV Eindhoven,Andrés Guardado,28,Central Midfield,Valencia,£2.52m,in,Summer,2.52,Eredivisie,2015,2015/2016
+PSV Eindhoven,Nicolas Isimat-Mirin,23,Centre-Back,Monaco,£2.16m,in,Summer,2.16,Eredivisie,2015,2015/2016
+PSV Eindhoven,Luuk Koopmans,21,Goalkeeper,FC Oss,£90Th.,in,Summer,0.09,Eredivisie,2015,2015/2016
+PSV Eindhoven,Simon Poulsen,30,Left-Back,AZ Alkmaar,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Maxime Lestienne,23,Left Winger,Al-Arabi SC,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Steven Bergwijn,17,Left Winger,PSV U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Przemyslaw Tyton,28,Goalkeeper,Elche CF,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Menno Koch,20,Centre-Back,NAC Breda,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Memphis Depay,21,Left Winger,Man Utd,£30.60m,out,Summer,30.6,Eredivisie,2015,2015/2016
+PSV Eindhoven,Georginio Wijnaldum,24,Central Midfield,Newcastle,£18.00m,out,Summer,18,Eredivisie,2015,2015/2016
+PSV Eindhoven,Oscar Hiljemark,23,Central Midfield,US Palermo,£2.25m,out,Summer,2.25,Eredivisie,2015,2015/2016
+PSV Eindhoven,Przemyslaw Tyton,28,Goalkeeper,VfB Stuttgart,£900Th.,out,Summer,0.9,Eredivisie,2015,2015/2016
+PSV Eindhoven,Abel Tamata,24,Left-Back,FC Groningen,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Nigel Bertrams,22,Goalkeeper,Willem II,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Marcel Ritzmaier,22,Central Midfield,NEC Nijmegen,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Karim Rekik,20,Centre-Back,Man City,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Andrés Guardado,28,Central Midfield,Valencia,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Nicolas Isimat-Mirin,23,Centre-Back,Monaco,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Danny Wintjens,31,Goalkeeper,VVV-Venlo,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Nemanja Gudelj,23,Defensive Midfield,AZ Alkmaar,£5.40m,in,Summer,5.4,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Arkadiusz Milik,21,Centre-Forward,Bay. Leverkusen,£2.52m,in,Summer,2.52,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Amin Younes,21,Left Winger,Bor. M'gladbach,£2.25m,in,Summer,2.25,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Johnny Heitinga,31,Centre-Back,Hertha BSC,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Mitchell Dijks,22,Left-Back,Willem II,?,in,Summer,NA,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Yaya Sanogo,22,Centre-Forward,Arsenal,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Mickey van der Hart,21,Goalkeeper,Go Ahead Eagles,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Lesly de Sa,22,Right Winger,Go Ahead Eagles,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Ruben Ligeon,23,Right-Back,NAC Breda,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Lerin Duarte,24,Central Midfield,Heerenveen,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Kolbeinn Sigthórsson,25,Centre-Forward,FC Nantes,£2.70m,out,Summer,2.7,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Ricardo Kishna,20,Left Winger,Lazio,£2.70m,out,Summer,2.7,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Niklas Moisander,29,Centre-Back,Sampdoria,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Mickey van der Hart,21,Goalkeeper,PEC Zwolle,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Peter Leeuwenburgh,21,Goalkeeper,FC Dordrecht,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Ruben Ligeon,23,Right-Back,Willem II,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Richairo Zivkovic,18,Centre-Forward,Willem II,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Lesly de Sa,22,Right Winger,Willem II,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Lucas Andersen,20,Left Winger,Willem II,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Arkadiusz Milik,21,Centre-Forward,Bay. Leverkusen,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Niki Zimling,30,Defensive Midfield,1.FSV Mainz 05,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Alireza Jahanbakhsh,21,Right Winger,NEC Nijmegen,£1.62m,in,Summer,1.62,Eredivisie,2015,2015/2016
+AZ Alkmaar,Ben Rienstra,25,Central Midfield,PEC Zwolle,£1.35m,in,Summer,1.35,Eredivisie,2015,2015/2016
+AZ Alkmaar,Vincent Janssen,21,Centre-Forward,Almere City,£450Th.,in,Summer,0.45,Eredivisie,2015,2015/2016
+AZ Alkmaar,Rajko Brezancic,25,Left-Back,Cukaricki,£360Th.,in,Summer,0.36,Eredivisie,2015,2015/2016
+AZ Alkmaar,Gino Coutinho,32,Goalkeeper,Excelsior,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Jop van der Linden,24,Centre-Back,Go Ahead Eagles,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Nick Olij,19,Goalkeeper,AZ Alkmaar U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Stijn Spierings,19,Attacking Midfield,AZ Alkmaar U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Mounir El Hamdaoui,31,Centre-Forward,Without Club,-,in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Thomas Ouwejan,19,Left-Back,AZ Alkmaar U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Joris van Overeem,21,Central Midfield,FC Dordrecht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Denni Avdic,26,Centre-Forward,Heracles Almelo,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Donny Gorter,27,Left-Back,Aalborg BK,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Fernando Lewis,22,Right Winger,FC Dordrecht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Eli Babalj,23,Centre-Forward,PEC Zwolle,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Steven Berghuis,23,Right Winger,Watford,£5.85m,out,Summer,5.85,Eredivisie,2015,2015/2016
+AZ Alkmaar,Nemanja Gudelj,23,Defensive Midfield,Ajax,£5.40m,out,Summer,5.4,Eredivisie,2015,2015/2016
+AZ Alkmaar,Aron Jóhannsson,24,Centre-Forward,Werder Bremen,£3.78m,out,Summer,3.78,Eredivisie,2015,2015/2016
+AZ Alkmaar,Esteban Alvarado,26,Goalkeeper,Trabzonspor,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Wesley Hoedt,21,Centre-Back,Lazio,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Yves De Winter,28,Goalkeeper,Sint-Truiden,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Simon Poulsen,30,Left-Back,PSV Eindhoven,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Eli Babalj,23,Centre-Forward,Adelaide United,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Djavan Anderson,20,Right Midfield,SC Cambuur,?,out,Summer,NA,Eredivisie,2015,2015/2016
+AZ Alkmaar,Denni Avdic,26,Centre-Forward,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Marko Vejinović,25,Central Midfield,Vitesse,£3.15m,in,Summer,3.15,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Eric Botteghin,27,Centre-Back,FC Groningen,£2.25m,in,Summer,2.25,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Simon Gustafson,20,Attacking Midfield,Häcken,£1.35m,in,Summer,1.35,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Michiel Kramer,26,Centre-Forward,ADO Den Haag,£1.35m,in,Summer,1.35,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Dirk Kuyt,34,Right Winger,Fenerbahce,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Colin Kazim-Richards,28,Centre-Forward,Bursaspor,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Jan-Arie van der Heijden,27,Centre-Back,Vitesse,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Eljero Elia,28,Left Winger,Werder Bremen,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Kamil Miazek,18,Goalkeeper,Feyenoord U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Bart Nieuwkoop,19,Right-Back,Feyenoord U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Jari Schuurman,18,Attacking Midfield,Feyenoord U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Calvin Verdonk,18,Left-Back,Feyenoord U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Stef Gronsveld,19,Right-Back,Feyenoord U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Konstantinos Lamprou,23,Goalkeeper,Willem II,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Warner Hahn,23,Goalkeeper,PEC Zwolle,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Joey Sleegers,20,Left Winger,FC Eindhoven,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Matthew Steenvoorden,22,Centre-Back,FC Dordrecht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Wesley Verhoek,28,Right Winger,Go Ahead Eagles,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Jordy Clasie,24,Defensive Midfield,Southampton,£13.50m,out,Summer,13.5,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Jean-Paul Boëtius,21,Attacking Midfield,FC Basel,£1.80m,out,Summer,1.8,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Elvis Manu,22,Left Winger,Brighton,£1.08m,out,Summer,1.08,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Mitchell te Vrede,24,Centre-Forward,Heerenveen,£450Th.,out,Summer,0.45,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Joey Sleegers,21,Left Winger,NEC Nijmegen,£90Th.,out,Summer,0.09,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Konstantinos Lamprou,23,Goalkeeper,Willem II,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Erwin Mulder,26,Goalkeeper,Heerenveen,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Ronald Graafland,36,Goalkeeper,Retired,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Matthew Steenvoorden,22,Centre-Back,FC Dordrecht,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Wesley Verhoek,28,Right Winger,Pune City,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Lucas Woudenberg,21,Left-Back,NEC Nijmegen,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Wessel Dammers,20,Centre-Back,SC Cambuur,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Khalid Boulahrouz,33,Centre-Back,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Joris Mathijsen,35,Centre-Back,Retired,-,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Luke Wilkshire,33,Right-Back,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Colin Kazim-Richards,28,Centre-Forward,Bursaspor,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Sheran Yeini,28,Centre-Back,M. Tel Aviv,£360Th.,in,Summer,0.36,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Milot Rashica,19,Left Winger,KF Vushtrria,£270Th.,in,Summer,0.27,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Maikel van der Werff,26,Centre-Back,PEC Zwolle,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Lewis Baker,20,Central Midfield,Chelsea,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Izzy Brown,18,Attacking Midfield,Chelsea U21,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Danilo Pantic,18,Central Midfield,Chelsea,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Nathan,19,Left Winger,Chelsea,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Dominic Solanke,17,Centre-Forward,Chelsea U21,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Abiola Dauda,28,Centre-Forward,Heart of Midl.,"End of loanMay 16, 2016",in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Elmo Lieftink,21,Defensive Midfield,Vitesse U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Mohammed Osman,21,Central Midfield,Vitesse U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Arshak Koryan,20,Right Winger,Vitesse U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Julian Lelieveld,17,Right-Back,Vitesse U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Davy Pröpper,23,Central Midfield,PSV Eindhoven,£4.05m,out,Summer,4.05,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Marko Vejinović,25,Central Midfield,Feyenoord,£3.15m,out,Summer,3.15,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Gino Bosz,22,Centre-Back,Heracles Almelo,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Jan-Arie van der Heijden,27,Centre-Back,Feyenoord,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Uros Djurdjevic,21,Centre-Forward,US Palermo,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Dan Mori,26,Centre-Back,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Bertrand Traoré,19,Right Winger,Chelsea,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Zakaria Labyad,22,Attacking Midfield,Sporting CP,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Wallace Oliveira,21,Right-Back,Chelsea,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Josh McEachran,22,Central Midfield,Chelsea,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Ouasim Bouy,22,Defensive Midfield,Juventus,Loan fee:£90Th.,in,Summer,0.09,Eredivisie,2015,2015/2016
+PEC Zwolle,Mickey van der Hart,21,Goalkeeper,Ajax,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Dirk Marcellis,27,Centre-Back,NAC Breda,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Bart Schenkeveld,23,Centre-Back,Heracles Almelo,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Abdel Malek El Hasnaoui,21,Central Midfield,Ajax U21,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Gustavo Hebling,19,Central Midfield,Paris SG B,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Lars Veldwijk,23,Centre-Forward,Nottm Forest,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Queensy Menig,19,Left Winger,Ajax U21,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Boban Lazic,21,Left Winger,Without Club,-,in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Denis Mahmudov,25,Right Winger,Sparta R.,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Leroy Labylle,24,Defensive Midfield,MVV Maastricht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Ben Rienstra,25,Central Midfield,AZ Alkmaar,£1.35m,out,Summer,1.35,Eredivisie,2015,2015/2016
+PEC Zwolle,Jesper Drost,22,Attacking Midfield,FC Groningen,£1.31m,out,Summer,1.31,Eredivisie,2015,2015/2016
+PEC Zwolle,Jody Lukoki,22,Right Winger,Ludogorets,£900Th.,out,Summer,0.9,Eredivisie,2015,2015/2016
+PEC Zwolle,Maikel van der Werff,26,Centre-Back,Vitesse,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Denis Mahmudov,25,Right Winger,Levski Sofia,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Dimitrios Ferfelis,22,Centre-Forward,PAS Giannina,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Aleksandar Bjelica,21,Centre-Back,Helmond Sport,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Tomas Necid,25,Centre-Forward,Bursaspor,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Steven Pereira,21,Centre-Back,MVV Maastricht,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Leroy Labylle,24,Defensive Midfield,MVV Maastricht,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Soufyan Moro,22,Attacking Midfield,Fortuna Sittard,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Joost Broerse,36,Centre-Back,Retired,-,out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Max de Boom,19,Right Winger,PEC Zwolle U21,-,out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Warner Hahn,23,Goalkeeper,Feyenoord,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Eli Babalj,23,Centre-Forward,AZ Alkmaar,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Luka Zahovic,19,Centre-Forward,NK Maribor,£630Th.,in,Summer,0.63,Eredivisie,2015,2015/2016
+SC Heerenveen,Mitchell te Vrede,24,Centre-Forward,Feyenoord,£450Th.,in,Summer,0.45,Eredivisie,2015,2015/2016
+SC Heerenveen,Caner Cavlan,23,Left-Back,De Graafschap,£270Th.,in,Summer,0.27,Eredivisie,2015,2015/2016
+SC Heerenveen,Wieger Sietsma,19,Goalkeeper,Groningen U21,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Erwin Mulder,26,Goalkeeper,Feyenoord,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Lucas Bijker,22,Left-Back,SC Cambuur,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Branco van den Boomen,19,Central Midfield,FC Eindhoven,?,in,Summer,NA,Eredivisie,2015,2015/2016
+SC Heerenveen,Pelle van Amersfoort,20,Attacking Midfield,Almere City,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Michel Vlap,18,Attacking Midfield,Heerenveen U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Rewan Amin,19,Defensive Midfield,Heerenveen U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Stefan Gartenmann,18,Centre-Back,Heerenveen U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Rannick Schoop,18,Right-Back,Heerenveen U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Jan Bekkema,19,Goalkeeper,Heerenveen U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Pascal Huser,20,Centre-Forward,MVV Maastricht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Jens Jurn Streutker,22,Centre-Back,MVV Maastricht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Thomas Dalgaard,31,Centre-Forward,Odense BK,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Mark Uth,23,Second Striker,TSG Hoffenheim,£1.98m,out,Summer,1.98,Eredivisie,2015,2015/2016
+SC Heerenveen,Marten de Roon,24,Defensive Midfield,Atalanta,£1.17m,out,Summer,1.17,Eredivisie,2015,2015/2016
+SC Heerenveen,Kristoffer Nordfeldt,26,Goalkeeper,Swansea,£765Th.,out,Summer,0.765,Eredivisie,2015,2015/2016
+SC Heerenveen,Jens Jurn Streutker,22,Centre-Back,FC Emmen,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Thomas Dalgaard,31,Centre-Forward,SönderjyskE,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Michael Chacón,21,Central Midfield,FC Dordrecht,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Janio Bikel,20,Central Midfield,NEC Nijmegen,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Robin Kist,20,Goalkeeper,VV SWZ,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Stephen Warmolts,21,Centre-Back,Helmond Sport,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Viktor Noring,24,Goalkeeper,Lyngby BK,?,out,Summer,NA,Eredivisie,2015,2015/2016
+SC Heerenveen,Szabolcs Varga,20,Left Winger,MTK Budapest,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Pelle van Amersfoort,19,Attacking Midfield,Almere City,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Lerin Duarte,24,Central Midfield,Ajax,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Jesper Drost,22,Attacking Midfield,PEC Zwolle,£1.31m,in,Summer,1.31,Eredivisie,2015,2015/2016
+FC Groningen,Bryan Linssen,24,Left Winger,Heracles Almelo,£765Th.,in,Summer,0.765,Eredivisie,2015,2015/2016
+FC Groningen,Kasper Larsen,22,Centre-Back,Odense BK,£405Th.,in,Summer,0.405,Eredivisie,2015,2015/2016
+FC Groningen,Etiënne Reijnen,28,Centre-Back,SC Cambuur,£360Th.,in,Summer,0.36,Eredivisie,2015,2015/2016
+FC Groningen,Abel Tamata,24,Left-Back,PSV Eindhoven,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Hedwiges Maduro,30,Defensive Midfield,PAOK Salonika,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Desevio Payne,19,Right-Back,Groningen U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Juninho Bacuna,17,Central Midfield,Groningen U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,William Troost-Ekong,21,Centre-Back,FC Dordrecht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Paco van Moorsel,25,Attacking Midfield,NEC Nijmegen,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Eric Botteghin,27,Centre-Back,Feyenoord,£2.25m,out,Summer,2.25,Eredivisie,2015,2015/2016
+FC Groningen,Tjaronn Chery,27,Attacking Midfield,QPR,£2.10m,out,Summer,2.1,Eredivisie,2015,2015/2016
+FC Groningen,Maikel Kieftenbeld,25,Defensive Midfield,Birmingham,£225Th.,out,Summer,0.225,Eredivisie,2015,2015/2016
+FC Groningen,Paco van Moorsel,25,Attacking Midfield,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,William Troost-Ekong,21,Centre-Back,KAA Gent,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Género Zeefuik,25,Centre-Forward,Balikesirspor,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Nick van der Velden,33,Left Winger,Willem II,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Hilal Ben Moussa,23,Central Midfield,FC Volendam,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Martijn van der Laan,27,Centre-Back,SC Cambuur,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Yoëll van Nieff,22,Defensive Midfield,Excelsior,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Nick Bakker,22,Centre-Back,Groningen U21,-,out,Summer,0,Eredivisie,2015,2015/2016
+FC Groningen,Hristijan Denkovski,21,Attacking Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Konstantinos Lamprou,23,Goalkeeper,Feyenoord,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Funso Ojo,23,Central Midfield,FC Dordrecht,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Dico Koppers,23,Left-Back,Twente FC,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Guus Joppen,25,Right-Back,VVV-Venlo,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Erik Falkenburg,27,Attacking Midfield,NAC Breda,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Nigel Bertrams,22,Goalkeeper,PSV Eindhoven,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Nick van der Velden,33,Left Winger,FC Groningen,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Frenkie de Jong,18,Central Midfield,Ajax U21,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Adam Nemec,29,Centre-Forward,NYCFC,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Jeffrey Altheer,28,Defensive Midfield,VVV-Venlo,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Ruben Ligeon,23,Right-Back,Ajax,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Richairo Zivkovic,18,Centre-Forward,Ajax,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Lesly de Sa,22,Right Winger,Ajax,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Lucas Andersen,20,Left Winger,Ajax,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Jordy Vleugels,19,Central Midfield,Willem II U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Nicky Kuiper,26,Left-Back,Without Club,-,in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Norair Aslanyan,24,Right Winger,Almere City,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Justin Mathieu,19,Right Winger,FC Oss,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Kevin Brands,27,Attacking Midfield,FC Volendam,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Ryan Sanusi,23,Defensive Midfield,FC Oss,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Simon van Zeelst,21,Central Midfield,RKC Waalwijk,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Maxim Deckers,21,Left Midfield,RKC Waalwijk,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Ryan Sanusi,23,Defensive Midfield,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Ali Messaoud,24,Attacking Midfield,FC Vaduz,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Charlton Vicento,24,Left Winger,Helmond Sport,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Kevin Brands,27,Attacking Midfield,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Simon van Zeelst,21,Central Midfield,JVC Cuijk,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Ben Sahar,25,Centre-Forward,H. Beer Sheva,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Norair Aslanyan,24,Right Winger,Almere City,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Mitchell Dijks,22,Left-Back,Ajax,?,out,Summer,NA,Eredivisie,2015,2015/2016
+Willem II Tilburg,Mattijs Branderhorst,21,Goalkeeper,MVV Maastricht,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Ricardo Ippel,24,Central Midfield,MVV Maastricht,?,out,Summer,NA,Eredivisie,2015,2015/2016
+Willem II Tilburg,Justin Mathieu,19,Right Winger,Go Ahead Eagles,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Tim Cornelisse,37,Right-Back,Retired,-,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Maxim Deckers,21,Left Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Wiljan Pluim,26,Attacking Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Jonas Heymans,22,Left-Back,AZ Alkmaar U21,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Konstantinos Lamprou,23,Goalkeeper,Feyenoord,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Samuel Armenteros,25,Centre-Forward,RSC Anderlecht,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Jerson Cabral,24,Left Winger,Twente FC,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Renan Zanelli,23,Central Midfield,GO Audax,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Georgios Katsikas,25,Centre-Back,PAOK Salonika,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Chinedu Ede,28,Right Winger,1.FSV Mainz 05,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Bruno Uvini,24,Centre-Back,SSC Napoli,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Michael Olaitan,22,Centre-Forward,Olympiacos,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Thomas Agyepong,18,Left Winger,Man City U21,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Jeroen van der Lely,19,Right-Back,FC Twente U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Timo Plattel,21,Goalkeeper,FC Twente U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Joël Drommel,18,Goalkeeper,FC Twente U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Jelle van der Heyden,19,Defensive Midfield,FC Twente U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Peet Bijen,20,Centre-Back,FC Twente U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Jari Oosterwijk,20,Centre-Forward,FC Twente U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Alessio Da Cruz,18,Left Winger,FC Twente U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Daniel Fernandes,31,Goalkeeper,Panthrakikos,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Jerson Cabral,24,Left Winger,Willem II,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Tim Breukers,27,Right-Back,Heracles Almelo,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Jesús Corona,22,Right Midfield,FC Porto,£9.45m,out,Summer,9.45,Eredivisie,2015,2015/2016
+Twente Enschede FC,Luc Castaignos,22,Centre-Forward,E. Frankfurt,£2.25m,out,Summer,2.25,Eredivisie,2015,2015/2016
+Twente Enschede FC,Andreas Bjelland,26,Centre-Back,Brentford,£2.25m,out,Summer,2.25,Eredivisie,2015,2015/2016
+Twente Enschede FC,Cuco Martina,25,Right-Back,Southampton,£1.35m,out,Summer,1.35,Eredivisie,2015,2015/2016
+Twente Enschede FC,Bilal Ould-Chikh,18,Right Winger,Benfica B,£1.13m,out,Summer,1.13,Eredivisie,2015,2015/2016
+Twente Enschede FC,Kasper Kusk,23,Right Winger,FC Copenhagen,£900Th.,out,Summer,0.9,Eredivisie,2015,2015/2016
+Twente Enschede FC,Youness Mokhtar,23,Left Winger,Al-Nassr,£900Th.,out,Summer,0.9,Eredivisie,2015,2015/2016
+Twente Enschede FC,Tim Breukers,27,Right-Back,Heracles Almelo,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Filip Bednarek,22,Goalkeeper,FC Utrecht,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Dico Koppers,23,Left-Back,Willem II,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Darryl Lachman,25,Centre-Back,Sheff Wed,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Daniel Fernandes,31,Goalkeeper,San Antonio,?,out,Summer,NA,Eredivisie,2015,2015/2016
+Twente Enschede FC,Kyle Ebecilio,21,Central Midfield,Nottm Forest,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Orlando Engelaar,35,Defensive Midfield,Retired,-,out,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Ryo Miyaichi,22,Right Winger,Arsenal,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Chris David,22,Attacking Midfield,Fulham,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Sébastien Haller,21,Centre-Forward,AJ Auxerre,£675Th.,in,Summer,0.675,Eredivisie,2015,2015/2016
+FC Utrecht,Timo Letschert,22,Centre-Back,Roda JC,£180Th.,in,Summer,0.18,Eredivisie,2015,2015/2016
+FC Utrecht,Filip Bednarek,22,Goalkeeper,Twente FC,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Andreas Ludwig,24,Attacking Midfield,VfR Aalen,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Rico Strieder,23,Defensive Midfield,FC Bayern II,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Louis Nganioni,20,Left-Back,Olympique Lyon,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Kevin Conboy,27,Left-Back,NEC Nijmegen,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Bart Ramselaar,19,Attacking Midfield,FC Utrecht U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Sofyan Amrabat,18,Central Midfield,Utrecht U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Michael Zullo,25,Left-Back,Adelaide United,"End of loanJun 30, 2014",in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Kenny Teijsse,22,Defensive Midfield,Sparta R.,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Elroy Pappot,22,Attacking Midfield,Fortuna Sittard,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Leon de Kogel,23,Centre-Forward,Almere City,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Sean Klaiber,20,Right-Back,FC Dordrecht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Nando Quesada,21,Attacking Midfield,Achilles '29,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Elroy Pappot,22,Attacking Midfield,SDO Bussum,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Kai Heerings,25,Centre-Back,SC Cambuur,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Kenny Teijsse,22,Defensive Midfield,Go Ahead Eagles,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Gyliano van Velzen,21,Left Winger,FC Volendam,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Édouard Duplan,32,Left Winger,ADO Den Haag,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Michael Zullo,26,Left-Back,Melbourne City,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Jeroen Verhoeven,35,Goalkeeper,FC Volendam,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Tommy Oar,23,Left Winger,Ipswich,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Leon de Kogel,23,Centre-Forward,Go Ahead Eagles,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Yannick Cortie,22,Left-Back,Helmond Sport,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Gévero Markiet,24,Centre-Back,Helmond Sport,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Nando Quesada,21,Attacking Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Danny Verbeek,24,Central Midfield,Standard Liège,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Timo Letschert,22,Centre-Back,Roda JC,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+FC Utrecht,Sébastien Haller,21,Centre-Forward,AJ Auxerre,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Sjoerd Overgoor,26,Central Midfield,Go Ahead Eagles,£68Th.,in,Summer,0.068,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Jergé Hoefdraad,28,Left Winger,Almere City,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Kai Heerings,25,Centre-Back,FC Utrecht,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Dominik Masek,19,Attacking Midfield,Hamburger SV II,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Marvin Peersman,24,Left-Back,FC Dordrecht,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Valmir Berisha,19,Centre-Forward,Roma U19,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Xander Houtkoop,26,Left Winger,ADO Den Haag,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,André Krul,28,Goalkeeper,KFC Turnhout,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Jack Byrne,19,Central Midfield,Man City U21,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Martijn van der Laan,27,Centre-Back,FC Groningen,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Djavan Anderson,20,Right Midfield,AZ Alkmaar,?,in,Summer,NA,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Wessel Dammers,20,Centre-Back,Feyenoord,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Jamiro Monteiro,21,Central Midfield,SC Cambuur U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Etiënne Reijnen,28,Centre-Back,FC Groningen,£360Th.,out,Summer,0.36,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Damiano Schet,25,Left Winger,Telstar,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Mohamed El Makrini,27,Defensive Midfield,Odense BK,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Donovan Slijngard,27,Left-Back,Zalgiris,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Michiel Hemmen,28,Centre-Forward,Häcken,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Lucas Bijker,22,Left-Back,Heerenveen,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Bob Schepers,23,Left Winger,ONS Sneek,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Jurjan Wouda,24,Goalkeeper,Flevo Boys,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Mart Dijkstra,24,Defensive Midfield,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Wout Droste,26,Right-Back,Heracles Almelo,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Daniël de Ridder,31,Left Winger,Retired,-,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Valmir Berisha,19,Centre-Forward,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Ron Janzen,21,Centre-Back,Gron./Cam. U21,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Sinan Bytyqi,20,Attacking Midfield,Man City U21,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Ludcinio Marengo,23,Left Winger,FC Volendam,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Édouard Duplan,32,Left Winger,FC Utrecht,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Ruben Schaken,33,Right Winger,Inter Baku,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Tom Beugelsdijk,25,Centre-Back,FSV Frankfurt,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Kenji Gorré,20,Right Midfield,Swansea,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Mike Havenaar,28,Centre-Forward,HJK Helsinki,?,in,Summer,NA,Eredivisie,2015,2015/2016
+ADO Den Haag,Ninos Gouriye,24,Left Winger,Excelsior,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Giovanni Korte,21,Right Winger,FC Dordrecht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Malcolm Esajas,28,Left Winger,RKC Waalwijk,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Ricky van Haaren,24,Central Midfield,FC Dordrecht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Sem de Wit,20,Defensive Midfield,Fortuna Sittard,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Michiel Kramer,26,Centre-Forward,Feyenoord,£1.35m,out,Summer,1.35,Eredivisie,2015,2015/2016
+ADO Den Haag,Mike van Duinen,23,Centre-Forward,F. Düsseldorf,£450Th.,out,Summer,0.45,Eredivisie,2015,2015/2016
+ADO Den Haag,Xander Houtkoop,26,Left Winger,SC Cambuur,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Ninos Gouriye,24,Left Winger,Astra Giurgiu,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Guy Smith,19,Right-Back,Noordwijk,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Malcolm Esajas,28,Left Winger,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Ricky van Haaren,24,Central Midfield,Dinamo Bucarest,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Mitchell Schet,27,Right Winger,AS Trencin,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Richelo Fecunda,19,Right-Back,HBS,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Sem de Wit,20,Defensive Midfield,SC Cambuur U21,?,out,Summer,NA,Eredivisie,2015,2015/2016
+ADO Den Haag,Papito Merencia,21,Attacking Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Mitchell de Vlugt,21,Defensive Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Wilson Eduardo,24,Left Winger,Sporting CP,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Oleksandr Yakovenko,27,Left Winger,Fiorentina,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Robin Gosens,20,Left-Back,Vitesse U21,£180Th.,in,Summer,0.18,Eredivisie,2015,2015/2016
+Heracles Almelo,Wout Droste,26,Right-Back,SC Cambuur,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Paul Gladon,23,Centre-Forward,Sparta R.,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Tim Breukers,27,Right-Back,Twente FC,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Peter van Ooijen,23,Central Midfield,Go Ahead Eagles,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Gino Bosz,22,Centre-Back,Vitesse,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Marijn de Kler,21,Left-Back,Vitesse U21,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Gonzalo García,31,Second Striker,Anorthosis,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Bryan Linssen,24,Left Winger,FC Groningen,£765Th.,out,Summer,0.765,Eredivisie,2015,2015/2016
+Heracles Almelo,Mark Engberink,22,Left-Back,RKC Waalwijk,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Daan Rienstra,22,Central Midfield,RKC Waalwijk,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Travis Brent,23,Right-Back,Almere City,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Jeroen Veldmate,26,Centre-Back,Viborg FF,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Dennis Telgenkamp,28,Goalkeeper,FC Emmen,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Bart Schenkeveld,23,Centre-Back,PEC Zwolle,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Fahd Aktaou,22,Left-Back,FC Dordrecht,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Simon Cziommer,34,Central Midfield,Retired,-,out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Milano Koenders,28,Centre-Back,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Denni Avdic,26,Centre-Forward,AZ Alkmaar,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Tim Breukers,27,Right-Back,Twente FC,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Stanley Elbers,23,Right Winger,Helmond Sport,£270Th.,in,Summer,0.27,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Brandley Kuwas,22,Right Winger,FC Volendam,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Nigel Hasselbaink,24,Centre-Forward,Hamilton Acad.,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Filip Kurto,24,Goalkeeper,FC Dordrecht,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Bas Kuipers,20,Left-Back,Ajax U21,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Tom Muyters,30,Goalkeeper,FC Eindhoven,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Mike Havekotte,19,Goalkeeper,Utrecht U21,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Tom Overtoom,24,Central Midfield,FC Volendam,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Henrico Drost,28,Centre-Back,NAC Breda,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Yoëll van Nieff,22,Defensive Midfield,FC Groningen,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Lars Hutten,25,Centre-Forward,Helmond Sport,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Jordan Botaka,22,Right-Back,Leeds,£608Th.,out,Summer,0.608,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Gino Coutinho,32,Goalkeeper,AZ Alkmaar,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Jordy Deckers,26,Goalkeeper,VVV-Venlo,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Daan Blij,21,Right Winger,Excelsior M,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Lars Hutten,25,Centre-Forward,Fortuna Sittard,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Toni Varela,29,Central Midfield,Al-Jahra FC,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Carlo de Reuver,20,Centre-Forward,Helmond Sport,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Richard Stolte,25,Left Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Marko Maletic,21,Centre-Forward,Telstar,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Ninos Gouriye,24,Left Winger,ADO Den Haag,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Bas Kuipers,20,Left-Back,Ajax U21,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Mihai Roman,23,Centre-Forward,Pandurii,£315Th.,in,Summer,0.315,Eredivisie,2015,2015/2016
+NEC Nijmegen,Joey Sleegers,21,Left Winger,Feyenoord,£90Th.,in,Summer,0.09,Eredivisie,2015,2015/2016
+NEC Nijmegen,Wojciech Golla,23,Centre-Back,Pogon Szczecin,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Mohamed Rayhi,21,Left Winger,PSV U21,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Marco van Duin,28,Goalkeeper,Almere City,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Janio Bikel,20,Central Midfield,Heerenveen,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Bart Buysse,28,Left-Back,Cercle Brugge,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Benjamin Kirsten,28,Goalkeeper,Dynamo Dresden,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Hannes Thór Halldórsson,31,Goalkeeper,Sandnes Ulf,?,in,Summer,NA,Eredivisie,2015,2015/2016
+NEC Nijmegen,Marcel Ritzmaier,22,Central Midfield,PSV Eindhoven,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Todd Kane,21,Right-Back,Chelsea,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Sam Lundholm,21,Right Winger,AIK,?,in,Summer,NA,Eredivisie,2015,2015/2016
+NEC Nijmegen,Lucas Woudenberg,21,Left-Back,Feyenoord,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Jay-Roy Grot,17,Centre-Forward,NEC U19,-,in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Lasse Nielsen,27,Centre-Back,KAA Gent,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Alireza Jahanbakhsh,21,Right Winger,AZ Alkmaar,£1.62m,out,Summer,1.62,Eredivisie,2015,2015/2016
+NEC Nijmegen,Lasse Nielsen,27,Centre-Back,KAA Gent,£495Th.,out,Summer,0.495,Eredivisie,2015,2015/2016
+NEC Nijmegen,Mike Vanhamel,25,Goalkeeper,White Star,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Sjoerd Ars,31,Centre-Forward,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Bahnou Seydina Diarra,21,Central Midfield,Anderlecht Res.,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Kevin Conboy,27,Left-Back,FC Utrecht,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Kenny Elders,20,Left-Back,Achilles '29,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Stan Bijl,20,Goalkeeper,Magreb '90,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Tobias Haitz,23,Centre-Back,Viktoria Köln,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Jasper Waalkens,26,Left Winger,Almere City,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Daan Disveld,21,Centre-Back,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Tom Daemen,30,Central Midfield,Go Ahead Eagles,?,out,Summer,NA,Eredivisie,2015,2015/2016
+NEC Nijmegen,Giovanni Gravenbeek,27,Central Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Thijs van Hofwegen,23,Central Midfield,NEC U21,-,out,Summer,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Paco van Moorsel,25,Attacking Midfield,FC Groningen,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Youssef El Jebli,22,Attacking Midfield,Lienden,£45Th.,in,Summer,0.045,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Bryan Smeets,22,Attacking Midfield,MVV Maastricht,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Tim Linthorst,20,Centre-Back,Vitesse U21,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Andy Driver,27,Left Midfield,Aberdeen FC,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Erik Quekel,28,Centre-Forward,FC Den Bosch,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Thijs Bouma,23,Right-Back,Almere City,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Alexander Bannink,25,Attacking Midfield,FC Emmen,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Eric Verstappen,21,Goalkeeper,VVV-Venlo,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Jeroen Tesselaar,26,Left-Back,St. Mirren,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Cas Peters,22,Centre-Forward,Nacional,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Nathan Kabasele,21,Centre-Forward,RSC Anderlecht,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Tolgahan Cicek,20,Left-Back,De Graafs. U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Tom Menting,20,Central Midfield,De Graafs. U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Caner Cavlan,23,Left-Back,Heerenveen,£270Th.,out,Summer,0.27,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Santy Hulst,28,Attacking Midfield,Scheveningen,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Jordy van de Kracht,25,Goalkeeper,De Treffers,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Jerry van Wolfgang,23,Left Midfield,Go Ahead Eagles,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Milan Massop,21,Left-Back,FC Eindhoven,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Jordan Garcia-Calvete,23,Right Winger,RWDM Brussels,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Caio Eltink,22,Centre-Forward,Rio Branco-SP,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Tim Janssen,29,Centre-Forward,Fortuna Sittard,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Vlatko Lazic,26,Right-Back,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Edwin Linssen,34,Defensive Midfield,Retired,-,out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Soufian Echcharaf,21,Defensive Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Tigran Gazarjan,20,Attacking Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Santiago Palacios,24,Second Striker,De Treffers,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Jens van Son,27,Defensive Midfield,FC Eindhoven,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Rostyn Griffiths,27,Defensive Midfield,Perth Glory,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Gibril Sankoh,32,Centre-Back,Without Club,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Tomi Juric,24,Centre-Forward,Western Sydney,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Farshad Noor,20,Central Midfield,PSV U21,Free transfer,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Richmond Boakye,22,Centre-Forward,Atalanta,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Daniel De Silva,18,Attacking Midfield,Perth Glory,Loan,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Nick Wolters,21,Goalkeeper,Roda JC U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Jorrit Smeets,20,Defensive Midfield,Roda JC U21,-,in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Timo Letschert,22,Centre-Back,FC Utrecht,"End of loanJun 30, 2015",in,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Timo Letschert,22,Centre-Back,FC Utrecht,£180Th.,out,Summer,0.18,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Frank Demouge,33,Centre-Forward,FC Knokke,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Marc Höcher,30,Right Winger,Rot-Weiß Erfurt,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Rigino Cicilia,20,Centre-Forward,RKC Waalwijk,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Santiago Palacios,24,Second Striker,MVV Maastricht,Loan,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Crescendo van Berkel,23,Centre-Back,Telstar,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Jesse Wijnen,20,Right-Back,EHC Hoensbroek,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Danny Schreurs,27,Right Winger,Leiknir,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Guy Ramos,29,Centre-Back,FC Wil 1900,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Johan Plat,28,Centre-Forward,Katwijk,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Kai Bösing,21,Attacking Midfield,SC Fortuna Köln,Free transfer,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Anco Jansen,26,Left Winger,Boluspor,?,out,Summer,NA,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Rostyn Griffiths,28,Defensive Midfield,Without Club,-,out,Summer,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Raymond Gyasi,20,Right Winger,AZ Alkmaar U21,"End of loanJun 30, 2015",out,Summer,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Marco van Ginkel,23,Central Midfield,Chelsea,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Jordy de Wijs,20,Centre-Back,PSV U21,-,in,Winter,0,Eredivisie,2015,2015/2016
+PSV Eindhoven,Rai Vloet,20,Attacking Midfield,SC Cambuur,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Ruben Ligeon,23,Right-Back,Willem II,"End of loanJan 31, 2016",in,Winter,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Richairo Zivkovic,19,Centre-Forward,Willem II,"End of loanFeb 1, 2016",in,Winter,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Donny van de Beek,18,Central Midfield,Ajax U21,-,in,Winter,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Ruben Ligeon,23,Right-Back,FC Utrecht,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Lerin Duarte,25,Central Midfield,NAC Breda,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Yaya Sanogo,23,Centre-Forward,Arsenal,"End of loanJan 31, 2016",out,Winter,0,Eredivisie,2015,2015/2016
+Ajax Amsterdam,Johnny Heitinga,32,Centre-Back,Retired,-,out,Winter,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Stijn Wuytens,26,Centre-Back,Willem II,£450Th.,in,Winter,0.45,Eredivisie,2015,2015/2016
+AZ Alkmaar,Levi García,18,Left Winger,Central FC,?,in,Winter,NA,Eredivisie,2015,2015/2016
+AZ Alkmaar,Mounir El Hamdaoui,31,Centre-Forward,Without Club,-,in,Winter,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Thomas Ouwejan,19,Left-Back,AZ Alkmaar U21,-,in,Winter,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Ron Vlaar,30,Centre-Back,Without Club,-,in,Winter,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Pantelis Chatzidiakos,18,Centre-Back,AZ Alkmaar U21,-,in,Winter,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Jeffrey Gouweleeuw,24,Centre-Back,FC Augsburg,£2.70m,out,Winter,2.7,Eredivisie,2015,2015/2016
+AZ Alkmaar,Mounir El Hamdaoui,31,Centre-Forward,Umm Salal SC,£90Th.,out,Winter,0.09,Eredivisie,2015,2015/2016
+AZ Alkmaar,Guus Hupperts,23,Right Winger,Willem II,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+AZ Alkmaar,Stijn Spierings,19,Attacking Midfield,Sparta R.,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Renato Tapia,20,Defensive Midfield,Twente FC,£1.35m,in,Winter,1.35,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Pär Hansson,29,Goalkeeper,Helsingborg,Free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Colin Kazim-Richards,29,Centre-Forward,Celtic,Free transfer,out,Winter,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Lex Immers,29,Attacking Midfield,Cardiff,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Feyenoord Rotterdam,Rodny Lopes Cabral,20,Right-Back,Without Club,-,out,Winter,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Kosuke Ota,28,Left-Back,FC Tokyo,£675Th.,in,Winter,0.675,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Yuning Zhang,19,Centre-Forward,Vitesse U19,-,in,Winter,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Rochdi Achenteh,27,Left-Back,Willem II,Free transfer,out,Winter,0,Eredivisie,2015,2015/2016
+Vitesse Arnhem,Abiola Dauda,27,Centre-Forward,Heart of Midl.,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Youness Mokhtar,24,Left Winger,Al-Nassr,Free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Boban Lazic,22,Left Winger,VVV-Venlo,"End of loanFeb 24, 2016",in,Winter,0,Eredivisie,2015,2015/2016
+PEC Zwolle,Trent Sainsbury,24,Centre-Back,JS Suning,£900Th.,out,Winter,0.9,Eredivisie,2015,2015/2016
+PEC Zwolle,Boban Lazic,21,Left Winger,VVV-Venlo,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+SC Heerenveen,Arbër Zeneli,20,Left Winger,Elfsborg,£1.76m,in,Winter,1.76,Eredivisie,2015,2015/2016
+SC Heerenveen,Tarik Kada,19,Right Winger,Heracles Almelo,£90Th.,out,Winter,0.09,Eredivisie,2015,2015/2016
+SC Heerenveen,Jordy Buijs,27,Centre-Back,Roda JC,Free transfer,out,Winter,0,Eredivisie,2015,2015/2016
+FC Groningen,Alexander Sörloth,20,Centre-Forward,Rosenborg BK,£495Th.,in,Winter,0.495,Eredivisie,2015,2015/2016
+FC Groningen,Oussama Idrissi,19,Left Winger,Groningen U21,-,in,Winter,0,Eredivisie,2015,2015/2016
+FC Groningen,Johan Kappelhof,25,Centre-Back,Chicago Fire,£315Th.,out,Winter,0.315,Eredivisie,2015,2015/2016
+FC Groningen,Tom Hiariej,27,Defensive Midfield,SC Cambuur,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Bartholomew Ogbeche,31,Centre-Forward,SC Cambuur,£270Th.,in,Winter,0.27,Eredivisie,2015,2015/2016
+Willem II Tilburg,Rochdi Achenteh,27,Left-Back,Vitesse,Free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Andy Kawaya,19,Left Winger,RSC Anderlecht,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Guus Hupperts,23,Right Winger,AZ Alkmaar,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Anouar Kali,24,Defensive Midfield,Without Club,-,in,Winter,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Stijn Wuytens,26,Centre-Back,AZ Alkmaar,£450Th.,out,Winter,0.45,Eredivisie,2015,2015/2016
+Willem II Tilburg,Jordy Vleugels,19,Central Midfield,FC Dordrecht,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Ruben Ligeon,23,Right-Back,Ajax,"End of loanJan 31, 2016",out,Winter,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Jeffrey Altheer,28,Defensive Midfield,Without Club,-,out,Winter,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Richairo Zivkovic,19,Centre-Forward,Ajax,"End of loanFeb 1, 2016",out,Winter,0,Eredivisie,2015,2015/2016
+Willem II Tilburg,Frenkie de Jong,18,Central Midfield,Ajax U21,"End of loanDec 31, 2015",out,Winter,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Oskar Zawada,20,Centre-Forward,VfL Wolfsburg,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Zakaria El Azzouzi,19,Centre-Forward,Ajax U21,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Stefan Thesker,24,Centre-Back,Greuther Fürth,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Kyle Ebecilio,21,Central Midfield,Nottm Forest,"End of loanJan 31, 2016",in,Winter,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Renato Tapia,20,Defensive Midfield,Feyenoord,£1.35m,out,Winter,1.35,Eredivisie,2015,2015/2016
+Twente Enschede FC,Kyle Ebecilio,21,Central Midfield,ADO Den Haag,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Shadrach Eghan,21,Attacking Midfield,Stabæk Fotball,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Twente Enschede FC,Michael Olaitan,23,Centre-Forward,Olympiacos,"End of loanJan 14, 2016",out,Winter,0,Eredivisie,2015,2015/2016
+FC Utrecht,Ruben Ligeon,23,Right-Back,Ajax,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+FC Utrecht,Patrick Joosten,19,Left Winger,Utrecht U21,-,in,Winter,0,Eredivisie,2015,2015/2016
+FC Utrecht,Adam Sarota,27,Right Midfield,Go Ahead Eagles,Free transfer,out,Winter,0,Eredivisie,2015,2015/2016
+FC Utrecht,Mark Diemers,22,Attacking Midfield,De Graafschap,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+FC Utrecht,Kristoffer Peterson,21,Left Winger,Roda JC,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Darryl Lachman,26,Centre-Back,Sheff Wed,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Tom Hiariej,27,Defensive Midfield,FC Groningen,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Rai Vloet,20,Attacking Midfield,PSV Eindhoven,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Kevin van Veen,24,Centre-Forward,Scunthorpe Utd.,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Jamiro Monteiro,21,Central Midfield,SC Cambuur U21,-,in,Winter,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Bartholomew Ogbeche,31,Centre-Forward,Willem II,£270Th.,out,Winter,0.27,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Sebastian Steblecki,23,Attacking Midfield,Górnik Zabrze,Free transfer,out,Winter,0,Eredivisie,2015,2015/2016
+SC Cambuur-Leeuwarden,Kai Heerings,26,Centre-Back,Helmond Sport,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Kyle Ebecilio,21,Central Midfield,Twente FC,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Dennis van der Heijden,18,Centre-Forward,ADO U19,-,in,Winter,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Gervane Kastaneer,19,Left Winger,FC Eindhoven,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+ADO Den Haag,Roland Alberg,25,Attacking Midfield,Philadelphia,?,out,Winter,NA,Eredivisie,2015,2015/2016
+ADO Den Haag,Kenji Gorré,21,Right Midfield,Swansea,"End of loanJan 30, 2016",out,Winter,0,Eredivisie,2015,2015/2016
+Heracles Almelo,Tarik Kada,19,Right Winger,Heerenveen,£90Th.,in,Winter,0.09,Eredivisie,2015,2015/2016
+Heracles Almelo,Justin Hoogma,17,Centre-Back,FC Twente U19,?,in,Winter,NA,Eredivisie,2015,2015/2016
+Heracles Almelo,Oussama Tannane,21,Right Winger,Saint-Étienne,£2.25m,out,Winter,2.25,Eredivisie,2015,2015/2016
+Heracles Almelo,Joonas Vanhanen,18,Centre-Back,Without Club,-,out,Winter,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Michiel Hemmen,28,Centre-Forward,Häcken,Free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Tom Overtoom,25,Central Midfield,FC Emmen,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+SBV Excelsior Rotterdam,Kevin van Diermen,26,Centre-Back,NAC Breda,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Mikael Dyrestam,24,Right-Back,Aalesund,Free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Dario Dumic,23,Centre-Back,Bröndby IF,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Brad Jones,33,Goalkeeper,Without Club,-,in,Winter,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Hannes Thór Halldórsson,31,Goalkeeper,Bodø/Glimt,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Kristján Gauti Emilsson,22,Attacking Midfield,Career break,-,out,Winter,0,Eredivisie,2015,2015/2016
+NEC Nijmegen,Benjamin Kirsten,28,Goalkeeper,Without Club,-,out,Winter,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Piotr Parzyszek,22,Centre-Forward,Charlton,Free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+De Graafschap Doetinchem,Mark Diemers,22,Attacking Midfield,FC Utrecht,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Jordy Buijs,27,Centre-Back,Heerenveen,Free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Ugur Inceman,34,Central Midfield,Konyaspor,Free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Rydell Poepon,28,Centre-Forward,Qarabag Agdam,Free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Marcos Gullón,26,Central Midfield,Apol. Limassol,Free transfer,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Kristoffer Peterson,21,Left Winger,FC Utrecht,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Georgi Zhukov,21,Central Midfield,Standard Res.,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Martin Milec,24,Right-Back,Standard Liège,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Mike van Duinen,24,Centre-Forward,F. Düsseldorf,Loan,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Tim Blättler,21,Centre-Forward,Roda JC U21,-,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Maecky Ngombo,20,Centre-Forward,Roda JC U21,-,in,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Gibril Sankoh,32,Centre-Back,MZ Hakka,£90Th.,out,Winter,0.09,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Jens van Son,28,Defensive Midfield,Fortuna Sittard,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Bart Biemans,27,Centre-Back,FC Den Bosch,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Nayib Lagouireh,24,Right Winger,Fortuna Sittard,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Daryl Werker,21,Centre-Back,MVV Maastricht,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Mitchel Paulissen,22,Attacking Midfield,VVV-Venlo,Loan,out,Winter,0,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Edwin Gyasi,24,Right Winger,Aalesund,?,out,Winter,NA,Eredivisie,2015,2015/2016
+Roda JC Kerkrade,Richmond Boakye,22,Centre-Forward,Atalanta,"End of loanJan 1, 2016",out,Winter,0,Eredivisie,2015,2015/2016

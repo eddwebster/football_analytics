@@ -1,0 +1,340 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Zenit St. Petersburg,Domenico Criscito,24,Left-Back,Genoa,£13.50m,in,13.5,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Andrey Arshavin,30,Second Striker,Arsenal,Loan fee:£1.08m,in,1.08,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Maksim Kanunnikov,20,Centre-Forward,Tom Tomsk,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Sébastien Puygrenier,29,Centre-Back,Monaco,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Sergey Kornilenko,28,Centre-Forward,Blackpool,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Michael Lumb,23,Left-Back,Aalborg BK,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Alessandro Rosina,27,Second Striker,Cesena,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Sergey Kornilenko,28,Centre-Forward,KS Samara,£630k,out,0.63,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Aleksey Ionov,22,Right Winger,Kuban Krasnodar,£180k,out,0.18,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Michael Lumb,24,Left-Back,SC Freiburg,Loan fee:£180k,out,0.18,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Fernando Meira,33,Centre-Back,Real Zaragoza,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Sébastien Puygrenier,29,Centre-Back,AS Nancy,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Zenit St. Petersburg,Andrey Arshavin,31,Second Striker,Arsenal,"End of loanMay 31, 2012",out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Roman Pavlyuchenko,30,Centre-Forward,Spurs,£8.10m,in,8.1,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Felipe Caicedo,22,Centre-Forward,Levante,£6.75m,in,6.75,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Manuel da Costa,25,Centre-Back,West Ham,£1.35m,in,1.35,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Andrey Eshchenko,27,Right-Back,Volga NN,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Yan Tigorev,27,Defensive Midfield,Tom Tomsk,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Alberto Zapater,26,Defensive Midfield,Sporting CP,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Victor Obinna,24,Second Striker,Inter,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Maksim Grigorjev,21,Right Winger,MITOS,?,in,NA,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Rodolfo,29,Centre-Back,Grêmio,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Maksim Belyaev,20,Centre-Back,Loko Moscow II,-,in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Djiby Fall,26,Centre-Forward,Odense BK,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Aleksandr Filtsov,21,Goalkeeper,Loko Moscow II,-,in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Charles,26,Defensive Midfield,Cruzeiro,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Igor Smolnikov,22,Right-Back,Zhemchuzhina,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Charles,26,Defensive Midfield,Santos FC,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Alan Gatagov,20,Left Midfield,Dinamo Moscow,£1.80m,out,1.8,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Marko Basa,28,Centre-Back,LOSC Lille,£1.35m,out,1.35,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Djiby Fall,26,Centre-Forward,KSC Lokeren,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Draman Haminu,25,Left Winger,AC Arles,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Rodolfo,29,Centre-Back,Vasco da Gama,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Charles,26,Defensive Midfield,Cruzeiro,Loan,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Ruslan Nakhushev,26,Centre-Back,Tom Tomsk,Loan,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Igor Smolnikov,22,Right-Back,Rostov,Loan,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Djiby Fall,26,Centre-Forward,Odense BK,Loan,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Andrey Ivanov,23,Left-Back,Tom Tomsk,Loan,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Aleksandr Minchenkov,23,Centre-Forward,Mordovia,Loan,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Aleksandr Marenich,22,Left Winger,Career break,-,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Charles,26,Defensive Midfield,Without Club,-,out,0,Premier Liga,2011,2011/2012
+Lokomotiv Moscow,Branko Ilic,28,Centre-Back,Without Club,-,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Otar Martsvaladze,26,Second Striker,Volga NN,£2.34m,in,2.34,Premier Liga,2011,2011/2012
+FK Krasnodar,Oleg Samsonov,23,Right Winger,KS Samara,£1.17m,in,1.17,Premier Liga,2011,2011/2012
+FK Krasnodar,Rui Miguel,27,Attacking Midfield,Vit. Guimarães,£900k,in,0.9,Premier Liga,2011,2011/2012
+FK Krasnodar,Igor Lambarskiy,19,Attacking Midfield,Ac. Chisinau,£225k,in,0.225,Premier Liga,2011,2011/2012
+FK Krasnodar,Pavel Golyshev,24,Attacking Midfield,Tom Tomsk,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Nukri Revishvili,24,Goalkeeper,Anzhi,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Fedor Kudryashov,24,Left-Back,Spartak Moscow,Loan,in,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Denis Dorozhkin,24,Centre-Forward,Chernomorets N.,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Andrey Pazin,25,Central Midfield,Mordovia,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Roman Vorobjov,27,Central Midfield,KS Samara,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Dmitri Michkov,31,Defensive Midfield,Shinnik,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Rui Miguel,28,Attacking Midfield,Astra Ploiesti,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Ivan Novovic,22,Left-Back,Zeta Golubovac,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Denys Dedechko,24,Defensive Midfield,Luch Vladivostok,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Spartak Gogniev,30,Centre-Forward,Ural,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Ivan Knezevic,25,Centre-Forward,Zeta Golubovac,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Mikhail Komkov,26,Right Midfield,Kuban Krasnodar,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Andrey Gorbanets,26,Right Midfield,Mordovia,Loan,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Denis Pchelintsev,32,Goalkeeper,Baltika,Loan,out,0,Premier Liga,2011,2011/2012
+FK Krasnodar,Denis Dorozhkin,24,Centre-Forward,Torpedo Moscow,?,out,NA,Premier Liga,2011,2011/2012
+FK Krasnodar,Artem Beketov,27,Defensive Midfield,Dinamo Bryansk,?,out,NA,Premier Liga,2011,2011/2012
+FK Krasnodar,Fedor Kudryashov,24,Left-Back,Spartak Moscow,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Ahmed Musa,19,Centre-Forward,VVV-Venlo,£4.50m,in,4.5,Premier Liga,2011,2011/2012
+CSKA Moscow,Pontus Wernbloom,25,Defensive Midfield,AZ Alkmaar,£2.70m,in,2.7,Premier Liga,2011,2011/2012
+CSKA Moscow,Aleksandrs Cauna,23,Defensive Midfield,Skonto Riga,£450k,in,0.45,Premier Liga,2011,2011/2012
+CSKA Moscow,In-seong Kim,22,Left Winger,Gangneung City,Free Transfer,in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Vladimir Gabulov,27,Goalkeeper,Anzhi,Loan,in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Evgeni Pomazan,22,Goalkeeper,Spartak Nalchik,"End of loanAug 30, 2011",in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Dmitri Ryzhov,22,Centre-Forward,Mordovia,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Ricardo Jesus,26,Centre-Forward,Ponte Preta,"End of loanDec 1, 2011",in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Lubos Kalouda,24,Attacking Midfield,PFK Oleksandria,"End of loanDec 1, 2011",in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Moussa Maazou,23,Centre-Forward,Zulte Waregem,"End of loanJan 25, 2012",in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Dawid Janczyk,24,Centre-Forward,PFK Oleksandria,"End of loanDec 1, 2011",in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Dawid Janczyk,23,Centre-Forward,Korona Kielce,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Lubos Kalouda,24,Attacking Midfield,Volgar-Gazprom,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Moussa Maazou,22,Centre-Forward,Monaco,"End of loanJun 1, 2011",in,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Vágner Love,27,Centre-Forward,Flamengo,£9.00m,out,9,Premier Liga,2011,2011/2012
+CSKA Moscow,Dawid Janczyk,23,Centre-Forward,PFK Oleksandria,Loan fee:£180k,out,0.18,Premier Liga,2011,2011/2012
+CSKA Moscow,Dmitri Ryzhov,22,Centre-Forward,Khimki,Free Transfer,out,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Ricardo Jesus,26,Centre-Forward,Portuguesa,Loan,out,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Moussa Maazou,23,Centre-Forward,FC Le Mans,Loan,out,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Moussa Maazou,23,Centre-Forward,Zulte Waregem,Loan,out,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Evgeni Pomazan,22,Goalkeeper,Anzhi,?,out,NA,Premier Liga,2011,2011/2012
+CSKA Moscow,Lubos Kalouda,24,Attacking Midfield,PFK Oleksandria,Loan,out,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Nika Piliev,20,Left Midfield,CSKA Moscow II,-,out,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Lubos Kalouda,24,Attacking Midfield,Career break,-,out,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Vladimir Gabulov,28,Goalkeeper,Anzhi,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Chidi Odiah,28,Right-Back,Retired,-,out,0,Premier Liga,2011,2011/2012
+CSKA Moscow,Aleksandrs Cauna,23,Defensive Midfield,Skonto Riga,"End of loanJun 30, 2011",out,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Emmanuel Emenike,24,Centre-Forward,Fenerbahce,£9.00m,in,9,Premier Liga,2011,2011/2012
+Spartak Moscow,Diniyar Bilyaletdinov,26,Attacking Midfield,Everton,£6.03m,in,6.03,Premier Liga,2011,2011/2012
+Spartak Moscow,Demy de Zeeuw,28,Central Midfield,Ajax,£5.40m,in,5.4,Premier Liga,2011,2011/2012
+Spartak Moscow,Artem Rebrov,27,Goalkeeper,Shinnik,£270k,in,0.27,Premier Liga,2011,2011/2012
+Spartak Moscow,Fedor Kudryashov,24,Left-Back,Krasnodar,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Egor Filipenko,23,Centre-Back,BATE Borisov,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Artur Maloyan,22,Centre-Forward,Dinamo Bryansk,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Artur Valikaev,23,Defensive Midfield,Amkar Perm,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Sergey Pesjakov,23,Goalkeeper,Tom Tomsk,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Stipe Pletikosa,32,Goalkeeper,Spurs,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Aleksandr Zotov,20,Central Midfield,Zhemchuzhina,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Cristian Maidana,24,Left Midfield,Huracán,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Malik Fathi,27,Central Midfield,1.FSV Mainz 05,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Ibson,27,Central Midfield,Santos FC,£4.50m,out,4.5,Premier Liga,2011,2011/2012
+Spartak Moscow,Malik Fathi,27,Central Midfield,1.FSV Mainz 05,£900k,out,0.9,Premier Liga,2011,2011/2012
+Spartak Moscow,Egor Filipenko,23,Centre-Back,BATE Borisov,£450k,out,0.45,Premier Liga,2011,2011/2012
+Spartak Moscow,Aleksandr Belenov,24,Goalkeeper,Kuban Krasnodar,£315k,out,0.315,Premier Liga,2011,2011/2012
+Spartak Moscow,Stipe Pletikosa,32,Goalkeeper,Rostov,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Cristian Maidana,24,Left Midfield,Rangers Talca,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Sergey Pesjakov,23,Goalkeeper,Rostov,Loan,out,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Artur Valikaev,23,Defensive Midfield,Amkar Perm,Loan,out,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Pavel Yakovlev,20,Left Winger,KS Samara,Loan,out,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Artur Valikaev,23,Defensive Midfield,Shinnik,?,out,NA,Premier Liga,2011,2011/2012
+Spartak Moscow,Emin Makhmudov,19,Central Midfield,Tom Tomsk,Loan,out,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Fedor Kudryashov,24,Left-Back,Krasnodar,Loan,out,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Artur Maloyan,22,Centre-Forward,Career break,-,out,0,Premier Liga,2011,2011/2012
+Spartak Moscow,Andrey Tikhonov,40,Attacking Midfield,Retired,-,out,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Vadim Evseev,35,Right-Back,Torpedo Zhodino,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Dmitri Khlestov,40,Right-Back,Lyubertsy,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Andrey Konovalov,37,Central Midfield,Torpedo Moscow,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Ilya Manokhin,21,Centre-Back,Khimik Novomosk,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Aleksandr Filimonov,38,Goalkeeper,Dolgoprudnyi,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Mikhail Kuzmin,23,Right Midfield,Volga Uljanovsk,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Andrey Khodykin,25,Centre-Back,Mash'al,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Sergey Maslov,21,Right Winger,Khimki,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Dmitri Shilov,20,Left Midfield,Znamya Truda,?,in,NA,Premier Liga,2011,2011/2012
+Arsenal Tula,Yuri Kovtun,41,Left-Back,Career break,-,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Egor Titov,35,Attacking Midfield,Career break,-,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Dmitri Parfenov,37,Right-Back,Career break,-,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Maksim Klikin,30,Goalkeeper,Without Club,-,in,0,Premier Liga,2011,2011/2012
+Arsenal Tula,Vladimir Beschastnykh,37,Centre-Forward,Career break,-,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Dragomir Vukobratovic,23,Defensive Midfield,Indjija,£135k,in,0.135,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Vladimir Poluyakhtov,22,Left-Back,Zhemchuzhina,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Nikolay Ivannikov,19,Left Winger,Zhemchuzhina,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Aleksandr Krendelev,25,Central Midfield,KamAZ,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Irek Ganiev,25,Left-Back,KamAZ,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Élton Calé,23,Right Winger,Belenenses SAD,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Vitali Bulyga,31,Centre-Forward,Zhemchuzhina,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Vladimir Gogberashvili,24,Left Winger,Chernomorets N.,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Fedor Burdykin,21,Goalkeeper,Torpedo Vl.,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Danil Klenkin,21,Attacking Midfield,Istra,?,in,NA,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Leonid Musin,26,Goalkeeper,Ural,?,in,NA,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Moacir,22,Second Striker,Desp. Brasil,Loan,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Nikolay Zajtsev,22,Centre-Back,Mordovia,?,in,NA,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Oleg Kozhanov,24,Second Striker,KamAZ,?,in,NA,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Andrey Sekretov,22,Left Midfield,Amkar Perm,Loan,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Anton Labutin,24,Goalkeeper,Sever Murmansk,"End of loanDec 1, 2011",in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Aleksandr Goncharov,18,Centre-Back,FK Orenburg Jgd,-,in,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Aleksandr Oleynik,29,Right Winger,Chernomorets N.,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Vladislav Aksyutenko,28,Centre-Forward,Chernomorets N.,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Sergey Dymov,36,Right-Back,Dongazdobycha,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Viktor Karpukhin,21,Centre-Forward,Gornyak Uchaly,Loan,out,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Stanislav Prokofjev,24,Centre-Forward,Tyumen,?,out,NA,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Aleksandr Skvortsov,29,Right-Back,Tyumen,?,out,NA,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Mantas Savenas,28,Central Midfield,Ekranas,?,out,NA,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Anton Labutin,23,Goalkeeper,Sever Murmansk,Loan,out,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Nikolay Ivanov,31,Centre-Back,Tyumen,?,out,NA,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Aleksey Baranov,31,Centre-Forward,Without Club,-,out,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Zoran Knezevic,25,Defensive Midfield,Without Club,-,out,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Anton Smyslov,32,Goalkeeper,Without Club,-,out,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Moacir,22,Second Striker,Desp. Brasil,"End of loanDec 1, 2011",out,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Anton Vlasov,22,Centre-Back,CSKA Moscow II,"End of loanJun 30, 2011",out,0,Premier Liga,2011,2011/2012
+Gazovik Orenburg,Serghei Pascenco,28,Goalkeeper,Olimpia Bălți,"End of loanJun 30, 2011",out,0,Premier Liga,2011,2011/2012
+Terek Grozny,Jonathan Legear,24,Right Winger,RSC Anderlecht,£4.05m,in,4.05,Premier Liga,2011,2011/2012
+Terek Grozny,Maciej Rybus,22,Left-Back,Legia Warszawa,£2.88m,in,2.88,Premier Liga,2011,2011/2012
+Terek Grozny,Adilson,24,Defensive Midfield,Grêmio,£1.08m,in,1.08,Premier Liga,2011,2011/2012
+Terek Grozny,Marcin Komorowski,27,Centre-Back,Legia Warszawa,£630k,in,0.63,Premier Liga,2011,2011/2012
+Terek Grozny,Martin Jiranek,32,Centre-Back,Birmingham,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Terek Grozny,Oleg Ivanov,25,Attacking Midfield,Rostov,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Terek Grozny,Igor Lebedenko,28,Right Winger,Rubin Kazan,?,in,NA,Premier Liga,2011,2011/2012
+Terek Grozny,Ewerthon,30,Centre-Forward,Without Club,-,in,0,Premier Liga,2011,2011/2012
+Terek Grozny,Sergey Omeljanchuk,31,Centre-Back,Tom Tomsk,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Terek Grozny,Andrey Kobenko,29,Left Midfield,Chernomorets N.,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Terek Grozny,Ewerthon,30,Centre-Forward,Al Ahli,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Terek Grozny,Héctor Bracamonte,33,Centre-Forward,Rostov,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Terek Grozny,Ismail Yediev,23,Centre-Back,Fakel Voronezh,Loan,out,0,Premier Liga,2011,2011/2012
+Terek Grozny,Rodrigo Tiuí,26,Centre-Forward,Rentistas,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+FK Rostov,Vitali Djakov,22,Centre-Back,Loko Moscow II,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Héctor Bracamonte,33,Centre-Forward,Terek Grozny,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Stipe Pletikosa,32,Goalkeeper,Spartak Moscow,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Óscar Ahumada,28,Defensive Midfield,Tiburones Rojos,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Dmitri Kruglov,27,Left-Back,Inter Baku,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Dmitri Poloz,20,Centre-Forward,Loko Moscow II,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Andrey Vasiljev,19,Right-Back,Zenit II,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Élson,29,Attacking Midfield,VfB Stuttgart,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Michal Papadopulos,26,Centre-Forward,Zhemchuzhina,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Denis Kolodin,30,Centre-Back,Dinamo Moscow,Loan,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Sergey Pesjakov,23,Goalkeeper,Spartak Moscow,Loan,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Razvan Cocis,28,Central Midfield,Karpaty,?,in,NA,Premier Liga,2011,2011/2012
+FK Rostov,Igor Smolnikov,22,Right-Back,Loko Moscow,Loan,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Roman Emeljanov,19,Defensive Midfield,Shakhtar II,Loan,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Ilya Madilov,23,Goalkeeper,Istra,?,in,NA,Premier Liga,2011,2011/2012
+FK Rostov,Khoren Bayramyan,19,Left Midfield,Rostov II,-,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Valentin Filatov,29,Left-Back,Career break,-,in,0,Premier Liga,2011,2011/2012
+FK Rostov,Oleg Ivanov,25,Attacking Midfield,Terek Grozny,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Rostov,Andrey Proshin,27,Centre-Back,Sibir,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Rostov,Anis Boussaidi,30,Right-Back,SK Tavriya,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Rostov,Aleksey Rebko,25,Central Midfield,Tom Tomsk,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Rostov,Martin Lejsal,28,Goalkeeper,Retired,-,out,0,Premier Liga,2011,2011/2012
+FK Rostov,Anton Kochenkov,24,Goalkeeper,Volga NN,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+FK Rostov,Aleksandr Khokhlov,23,Left-Back,Career break,-,out,0,Premier Liga,2011,2011/2012
+FK Rostov,Anri Khagush,25,Right-Back,Rubin Kazan,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+FK Rostov,Chavdar Yankov,27,Central Midfield,Metalurh D.,"End of loanDec 1, 2011",out,0,Premier Liga,2011,2011/2012
+FK Rostov,Maksim Grigorjev,21,Right Winger,MITOS,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Spartak Gogniev,30,Centre-Forward,Krasnodar,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Aleksey Revyakin,29,Centre-Back,Zhemchuzhina,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Evgeni Savin,27,Centre-Forward,Tom Tomsk,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Ilya Kukharchuk,21,Right Winger,Anzhi,Loan,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Sergey Tkachev,22,Attacking Midfield,Metalist,Loan,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Edgar Manucharyan,24,Centre-Forward,Pyunik Erevan,Loan,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Yuri Kirillov,21,Defensive Midfield,Dinamo Moscow,Loan,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Artur Nigmatullin,20,Goalkeeper,CSKA Moscow II,Loan,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Igor Gorbatenko,22,Attacking Midfield,Spartak II,Loan,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Denis Matyugin,19,Centre-Forward,Ural II,-,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Grigori Lyubimov,18,Goalkeeper,Ural II,-,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Ivan Melnik,20,Defensive Midfield,Ural II,-,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Dmitri Arapov,18,Goalkeeper,Ural II,-,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Ivan Chudin,21,Central Midfield,Ural II,-,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Azamat Tashev,21,Centre-Forward,Kavkaztransgaz,"End of loanDec 1, 2011",in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Milan Vjestica,32,Centre-Back,Career break,-,in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Denis Matyugin,19,Centre-Forward,Gornyak Uchaly,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Andrey Perov,29,Defensive Midfield,Volgar-Gazprom,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Andrey Vavilchenkov,21,Central Midfield,Sheriff,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Oleg Shatov,21,Left Midfield,Anzhi,£2.70m,out,2.7,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Oleg Aleynik,22,Attacking Midfield,Rotor Volgograd,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Evgeni Yatchenko,25,Right-Back,Shinnik,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Aleksandr Dmitrijev,29,Defensive Midfield,Neman Grodno,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Sergey Rashevskiy,31,Central Midfield,Rotor Volgograd,?,out,NA,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Andrey Lozhkin,27,Centre-Back,KamAZ,?,out,NA,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Andrey Perov,30,Defensive Midfield,Volgar-Gazprom,?,out,NA,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Ivan Chudin,21,Central Midfield,Metall-Kuzbass,Loan,out,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Leonid Musin,26,Goalkeeper,Gazovik Orenburg,?,out,NA,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Andrey Vavilchenkov,21,Central Midfield,Without Club,-,out,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Artur Nigmatullin,20,Goalkeeper,CSKA Moscow II,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Anton Zabolotny,20,Centre-Forward,CSKA Moscow II,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Predrag Sikimic,29,Centre-Forward,Without Club,-,out,0,Premier Liga,2011,2011/2012
+Ural Yekaterinburg,Denis Matyugin,19,Centre-Forward,Ural II,-,out,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Roman Eremenko,24,Attacking Midfield,Dynamo Kyiv,£11.61m,in,11.61,Premier Liga,2011,2011/2012
+Rubin Kazan,Sergey Davydov,26,Centre-Forward,Kuban Krasnodar,£4.50m,in,4.5,Premier Liga,2011,2011/2012
+Rubin Kazan,Nelson Valdez,27,Centre-Forward,Hércules CF,£3.60m,in,3.6,Premier Liga,2011,2011/2012
+Rubin Kazan,Alireza Haghighi,22,Goalkeeper,Persepolis,£855k,in,0.855,Premier Liga,2011,2011/2012
+Rubin Kazan,Aleksey Eremenko Jr.,28,Attacking Midfield,Metalist,£450k,in,0.45,Premier Liga,2011,2011/2012
+Rubin Kazan,Igor Portnyagin,22,Centre-Forward,Spartak Nalchik,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Ilie Cebanu,25,Goalkeeper,Volgar-Gazprom,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Jonathan Valle,27,Attacking Midfield,Without Club,-,in,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Anri Khagush,25,Right-Back,Rostov,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Jordi Figueras,24,Centre-Back,Rayo Vallecano,"End of loanJan 19, 2012",in,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Solomon Kvirkvelia,19,Centre-Back,Rubin Kazan II,-,in,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Jordi Figueras,24,Centre-Back,Real Valladolid,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Igor Portnyagin,22,Centre-Forward,Spartak Nalchik,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Bakhodir Nasimov,24,Centre-Forward,Neftchi Baku,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Christian Noboa,26,Central Midfield,Dinamo Moscow,£7.20m,out,7.2,Premier Liga,2011,2011/2012
+Rubin Kazan,Jordi Figueras,24,Centre-Back,Club Brugge,£540k,out,0.54,Premier Liga,2011,2011/2012
+Rubin Kazan,Aleksey Medvedev,34,Centre-Forward,Sibir,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Anri Khagush,25,Right-Back,Spartak Nalchik,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Bakhodir Nasimov,24,Centre-Forward,Neftchi Baku,?,out,NA,Premier Liga,2011,2011/2012
+Rubin Kazan,Ilie Cebanu,25,Goalkeeper,Tom Tomsk,Loan,out,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Igor Portnyagin,22,Centre-Forward,Spartak Nalchik,Loan,out,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Igor Portnyagin,23,Centre-Forward,Tom Tomsk,Loan,out,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Jordi Figueras,24,Centre-Back,Rayo Vallecano,Loan,out,0,Premier Liga,2011,2011/2012
+Rubin Kazan,Igor Lebedenko,28,Right Winger,Terek Grozny,?,out,NA,Premier Liga,2011,2011/2012
+Dinamo Moscow,Balázs Dzsudzsák,25,Left Winger,Anzhi,£17.10m,in,17.1,Premier Liga,2011,2011/2012
+Dinamo Moscow,Christian Noboa,26,Central Midfield,Rubin Kazan,£7.20m,in,7.2,Premier Liga,2011,2011/2012
+Dinamo Moscow,Pavel Nekhajchik,23,Left Winger,BATE Borisov,£2.52m,in,2.52,Premier Liga,2011,2011/2012
+Dinamo Moscow,Alan Gatagov,20,Left Midfield,Loko Moscow,£1.80m,in,1.8,Premier Liga,2011,2011/2012
+Dinamo Moscow,Igor Shitov,24,Right-Back,BATE Borisov,£1.35m,in,1.35,Premier Liga,2011,2011/2012
+Dinamo Moscow,Vladimir Rykov,23,Centre-Back,KamAZ,£270k,in,0.27,Premier Liga,2011,2011/2012
+Dinamo Moscow,Roman Berezovskiy,37,Goalkeeper,Khimki,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Evgeni Frolov,23,Goalkeeper,Mordovia,?,in,NA,Premier Liga,2011,2011/2012
+Dinamo Moscow,Yuri Kirillov,21,Defensive Midfield,KS Samara,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Viktor Svezhov,20,Central Midfield,Luch Vladivostok,"End of loanDec 31, 2011",in,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Marcin Kowalczyk,26,Centre-Back,Metalurh D.,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Luis Aguiar,25,Central Midfield,Peñarol,"End of loanJun 30, 2011",in,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Vladimir Gabulov,27,Goalkeeper,Anzhi,£3.60m,out,3.6,Premier Liga,2011,2011/2012
+Dinamo Moscow,Adrian Ropotan,25,Central Midfield,Tom Tomsk,Loan,out,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Andrey Karyaka,33,Left Winger,Volga NN,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Marcin Kowalczyk,26,Centre-Back,Zaglebie Lubin,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Luis Aguiar,25,Central Midfield,Sporting CP,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Yuri Kirillov,21,Defensive Midfield,Ural,Loan,out,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Viktor Svezhov,20,Central Midfield,KS Samara,?,out,NA,Premier Liga,2011,2011/2012
+Dinamo Moscow,Tomislav Dujmovic,30,Central Midfield,Real Zaragoza,Loan,out,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Denis Kolodin,30,Centre-Back,Rostov,Loan,out,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Alan Gatagov,20,Left Midfield,Tom Tomsk,Loan,out,0,Premier Liga,2011,2011/2012
+Dinamo Moscow,Boris Rotenberg,25,Right-Back,Kuban Krasnodar,Loan,out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Sergey Kornilenko,28,Centre-Forward,Zenit S-Pb,£630k,in,0.63,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Dimitar Makriev,27,Centre-Forward,FC Ashdod,£450k,in,0.45,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Dmitri Verkhovtsov,25,Centre-Back,Naftan,£68k,in,0.068,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Joel Tshibamba,23,Centre-Forward,AE Larisa,Loan,in,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Aleksandr Hleb,30,Attacking Midfield,FC Barcelona,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Roman Vorobjov,27,Central Midfield,Krasnodar,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Ognjen Koroman,32,Right Winger,Red Star,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Denis Vavilin,29,Goalkeeper,KamAZ,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Sergey Petrov,20,Right-Back,Zenit II,Free Transfer,in,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Dmitri Golubev,19,Left-Back,Akad. Togliatti,?,in,NA,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Sergey Veremko,28,Goalkeeper,FK Sevastopol,?,in,NA,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Viktor Genev,22,Centre-Back,Slavia Sofia,Loan,in,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Roman Grigoryan,28,Attacking Midfield,Shinnik,?,in,NA,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Viktor Svezhov,20,Central Midfield,Dinamo Moscow,?,in,NA,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Pavel Yakovlev,20,Left Winger,Spartak Moscow,Loan,in,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Khyzyr Appaev,21,Centre-Forward,KS Samara II,-,in,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Anton Sosnin,21,Central Midfield,Kuban Krasnodar,£1.35m,out,1.35,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Oleg Samsonov,23,Right Winger,Krasnodar,£1.17m,out,1.17,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Evgeni Savin,27,Centre-Forward,Tom Tomsk,£270k,out,0.27,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Raïs M'Bolhi,25,Goalkeeper,CSKA Sofia,Loan fee:£135k,out,0.135,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,David Yurchenko,25,Goalkeeper,Mordovia,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Dimitar Makriev,27,Centre-Forward,PFK Oleksandria,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Juan Carlos Escobar,29,Right Midfield,Deportes Tolima,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Nenad Djordjevic,32,Centre-Back,Kalmar FF,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Denis Kovba,32,Defensive Midfield,PFK Oleksandria,Free Transfer,out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Basel Abdoulfattakh,21,Centre-Back,Enisey,Loan,out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Aleksandr Eliseev,19,Right Midfield,Shinnik,Loan,out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Maksim Chistyakov,24,Central Midfield,Career break,-,out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Sergey Kuznetsov,25,Central Midfield,Khimki,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Viktor Genev,23,Centre-Back,Slavia Sofia,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Pavel Novitski,22,Left-Back,Without Club,-,out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Nejc Pecnik,25,Centre-Forward,Nacional,"End of loanDec 1, 2011",out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Yuri Kirillov,21,Defensive Midfield,Dinamo Moscow,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+Krylya Sovetov Samara,Sergey Ponomarenko,24,Defensive Midfield,Nika Moskau,"End of loanDec 31, 2011",out,0,Premier Liga,2011,2011/2012
+FK Ufa,Ivan Semenov,23,Attacking Midfield,Torpedo Vl.,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Ufa,Sergey Mironov,23,Right Midfield,Sillamäe Kalev,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Ufa,Aleksandr Omelchenko,28,Attacking Midfield,Avangard Kursk,Free Transfer,in,0,Premier Liga,2011,2011/2012
+FK Ufa,Andrey Kozlov,22,Centre-Forward,Fakel Voronezh,Loan,in,0,Premier Liga,2011,2011/2012
+FK Ufa,Pavel Dorokhin,26,Right Midfield,Mordovia,?,in,NA,Premier Liga,2011,2011/2012
+FK Ufa,Mikhail Markosov,26,Centre-Forward,Stavropol,?,in,NA,Premier Liga,2011,2011/2012
+FK Ufa,Stanislav Dubrovin,36,Centre-Forward,Neftekhimik,?,in,NA,Premier Liga,2011,2011/2012
+FK Ufa,Vitali Galysh,21,Centre-Forward,Akad. Togliatti,?,in,NA,Premier Liga,2011,2011/2012
+FK Ufa,Mikhail Mysin,32,Centre-Forward,SKA-Energia,Loan,in,0,Premier Liga,2011,2011/2012
+FK Ufa,Valiabdula Magomedov,25,Defensive Midfield,Baltika,?,in,NA,Premier Liga,2011,2011/2012
+FK Ufa,Igor Lavrentjev,22,Defensive Midfield,FK Podolje,"End of loanDec 1, 2011",in,0,Premier Liga,2011,2011/2012
+FK Ufa,Vadim Yanchuk,29,Centre-Forward,Ventspils,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Ufa,Sergey Chasovskiy,25,Central Midfield,D. Kostroma,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Ufa,Stanislav Dubrovin,37,Centre-Forward,Olympia G.,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Ufa,Anton Vasiljev,28,Centre-Back,Tyumen,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Ufa,Aleksandr Vasiljev,31,Defensive Midfield,Zenit Moskau,Free Transfer,out,0,Premier Liga,2011,2011/2012
+FK Ufa,Igor Lavrentjev,22,Defensive Midfield,FK Podolje,Loan,out,0,Premier Liga,2011,2011/2012
+FK Ufa,Igor Lavrentjev,22,Defensive Midfield,FK Ryazan,Loan,out,0,Premier Liga,2011,2011/2012
+FK Ufa,Konstantin Ionov,28,Centre-Forward,Without Club,-,out,0,Premier Liga,2011,2011/2012
+FK Ufa,Aleksandr Ionov,28,Centre-Back,Without Club,-,out,0,Premier Liga,2011,2011/2012

@@ -1,0 +1,548 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+PSV Eindhoven,Bart Ramselaar,20,Attacking Midfield,FC Utrecht,£4.28m,in,Summer,4.28,Eredivisie,2016,2016/2017
+PSV Eindhoven,Hidde Jurjus,22,Goalkeeper,De Graafschap,£450Th.,in,Summer,0.45,Eredivisie,2016,2016/2017
+PSV Eindhoven,Daniel Schwaab,27,Centre-Back,VfB Stuttgart,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Siem de Jong,27,Attacking Midfield,Newcastle,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Oleksandr Zinchenko,19,Left-Back,Man City,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Marcel Ritzmaier,23,Central Midfield,NEC Nijmegen,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Rai Vloet,21,Attacking Midfield,SC Cambuur,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Jeffrey Bruma,24,Centre-Back,VfL Wolfsburg,£10.35m,out,Summer,10.35,Eredivisie,2016,2016/2017
+PSV Eindhoven,Stijn Schaars,32,Defensive Midfield,Heerenveen,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Menno Koch,22,Centre-Back,FC Utrecht,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Marcel Ritzmaier,23,Central Midfield,Go Ahead Eagles,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Rai Vloet,21,Attacking Midfield,FC Eindhoven,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Adam Maher,23,Central Midfield,Osmanlispor,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Maxime Lestienne,24,Left Winger,Al-Arabi SC,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Marco van Ginkel,23,Central Midfield,Chelsea,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Hakim Ziyech,23,Right Winger,Twente FC,£9.90m,in,Summer,9.9,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Mateo Cassierra,19,Centre-Forward,Deportivo Cali,£4.95m,in,Summer,4.95,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Davinson Sánchez,20,Centre-Back,Atl. Nacional,£4.50m,in,Summer,4.5,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Bertrand Traoré,20,Right Winger,Chelsea,Loan fee:£1.80m,in,Summer,1.8,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Heiko Westermann,32,Centre-Back,Real Betis,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Tim Krul,28,Goalkeeper,Newcastle,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Kasper Dolberg,18,Centre-Forward,Ajax U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Vaclav Cerny,18,Right Winger,Ajax U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Frenkie de Jong,19,Central Midfield,Ajax U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Abdelhak Nouri,19,Central Midfield,Ajax U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Sheraldo Becker,21,Right Winger,PEC Zwolle,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Lesly de Sa,23,Right Winger,Willem II,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Lucas Andersen,21,Left Winger,Willem II,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Ruben Ligeon,24,Right-Back,FC Utrecht,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Lerin Duarte,25,Central Midfield,NAC Breda,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Arkadiusz Milik,22,Centre-Forward,SSC Napoli,£28.80m,out,Summer,28.8,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Jasper Cillessen,27,Goalkeeper,FC Barcelona,£11.70m,out,Summer,11.7,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Viktor Fischer,22,Left Winger,Middlesbrough,£4.50m,out,Summer,4.5,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Mike van der Hoorn,23,Centre-Back,Swansea,£2.25m,out,Summer,2.25,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Ricardo van Rhijn,25,Right-Back,Club Brugge,£1.62m,out,Summer,1.62,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Lucas Andersen,21,Left Winger,Grasshoppers,£1.35m,out,Summer,1.35,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Sheraldo Becker,21,Right Winger,ADO Den Haag,£180Th.,out,Summer,0.18,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Lerin Duarte,26,Central Midfield,Heracles Almelo,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Nicolai Boilesen,24,Left-Back,FC Copenhagen,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Ruben Ligeon,24,Right-Back,Slo. Bratislava,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Lesly de Sa,23,Right Winger,Slo. Bratislava,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Richairo Zivkovic,19,Centre-Forward,FC Utrecht,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Nicolai Jörgensen,25,Centre-Forward,FC Copenhagen,£3.15m,in,Summer,3.15,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Brad Jones,34,Goalkeeper,NEC Nijmegen,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Steven Berghuis,24,Right Winger,Watford,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Gustavo Hamer,19,Central Midfield,Feyenoord U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Justin Bijlow,18,Goalkeeper,Feyenoord U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Mo El Hankouri,19,Left Winger,Feyenoord U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Emil Hansson,18,Left Winger,Feyenoord U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Lucas Woudenberg,22,Left-Back,NEC Nijmegen,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Wessel Dammers,21,Centre-Back,SC Cambuur,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Lex Immers,30,Attacking Midfield,Cardiff,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Lex Immers,30,Attacking Midfield,Cardiff,£2.07m,out,Summer,2.07,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Anass Achahbar,22,Centre-Forward,PEC Zwolle,£270Th.,out,Summer,0.27,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Stef Gronsveld,20,Right-Back,FC Emmen,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Kamil Miazek,19,Goalkeeper,Chojniczanka,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Calvin Verdonk,19,Left-Back,PEC Zwolle,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Jari Schuurman,19,Attacking Midfield,Willem II,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Wout Weghorst,23,Centre-Forward,Heracles Almelo,£1.35m,in,Summer,1.35,Eredivisie,2016,2016/2017
+AZ Alkmaar,Fred Friday,21,Centre-Forward,Lillestrøm SK,£1.35m,in,Summer,1.35,Eredivisie,2016,2016/2017
+AZ Alkmaar,Iliass Bel Hassani,23,Attacking Midfield,Heracles Almelo,£1.22m,in,Summer,1.22,Eredivisie,2016,2016/2017
+AZ Alkmaar,Rens van Eijden,28,Centre-Back,NEC Nijmegen,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Mats Seuntjens,24,Attacking Midfield,NAC Breda,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Calvin Stengs,18,Right Winger,AZ Alkmaar U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Jeremy Helmer,18,Attacking Midfield,AZ Alkmaar U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Guus Til,18,Attacking Midfield,AZ Alkmaar U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Eli Babalj,24,Centre-Forward,Adelaide United,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Guus Hupperts,24,Right Winger,Willem II,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Stijn Spierings,20,Attacking Midfield,Sparta R.,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Vincent Janssen,22,Centre-Forward,Spurs,£19.80m,out,Summer,19.8,Eredivisie,2016,2016/2017
+AZ Alkmaar,Stijn Spierings,20,Attacking Midfield,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Thom Haye,21,Central Midfield,Willem II,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Rajko Brezancic,27,Left-Back,SD Huesca,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Celso Ortiz,27,Defensive Midfield,Monterrey,?,out,Summer,NA,Eredivisie,2016,2016/2017
+AZ Alkmaar,Guus Hupperts,24,Right Winger,KSC Lokeren,?,out,Summer,NA,Eredivisie,2016,2016/2017
+AZ Alkmaar,Markus Henriksen,24,Central Midfield,Hull City,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Eli Babalj,24,Centre-Forward,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Jan Wuytens,31,Centre-Back,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Robin van der Meer,21,Left-Back,Go Ahead Eagles,£270Th.,in,Summer,0.27,Eredivisie,2016,2016/2017
+FC Utrecht,David Jensen,24,Goalkeeper,Nordsjaelland,£180Th.,in,Summer,0.18,Eredivisie,2016,2016/2017
+FC Utrecht,Edson Braafheid,33,Left-Back,Lazio,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Menno Koch,22,Centre-Back,PSV Eindhoven,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Richairo Zivkovic,19,Centre-Forward,Ajax,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Darren Rosheuvel,22,Left-Back,Utrecht U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Giovanni Troupée,18,Right-Back,Utrecht U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Gyrano Kerk,20,Right Winger,Utrecht U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Yannick Cortie,23,Left-Back,Helmond Sport,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Gévero Markiet,25,Centre-Back,Helmond Sport,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Mark Diemers,22,Attacking Midfield,De Graafschap,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Kristoffer Peterson,21,Left Winger,Roda JC,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Bart Ramselaar,20,Attacking Midfield,PSV Eindhoven,£4.28m,out,Summer,4.28,Eredivisie,2016,2016/2017
+FC Utrecht,Timo Letschert,23,Centre-Back,Sassuolo,£3.15m,out,Summer,3.15,Eredivisie,2016,2016/2017
+FC Utrecht,Ruud Boymans,27,Centre-Forward,Al-Shabab,£878Th.,out,Summer,0.878,Eredivisie,2016,2016/2017
+FC Utrecht,Mark Diemers,22,Attacking Midfield,De Graafschap,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Christian Kum,30,Centre-Back,Roda JC,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Filip Bednarek,23,Goalkeeper,De Graafschap,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Issa Kallon,20,Left Winger,FC Emmen,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Yannick Cortie,23,Left-Back,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Gévero Markiet,25,Centre-Back,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Louis Nganioni,21,Left-Back,Olympique Lyon,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+FC Utrecht,Ruben Ligeon,24,Right-Back,Ajax,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Vincent Vermeij,21,Centre-Forward,De Graafschap,£450Th.,in,Summer,0.45,Eredivisie,2016,2016/2017
+Heracles Almelo,Daryl van Mieghem,26,Right Winger,Excelsior,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Robin Pröpper,22,Centre-Back,De Graafschap,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Gor Agbaljan,19,Central Midfield,Heerenveen U19,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Sander Thomas,19,Attacking Midfield,PEC Zwolle U19,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Reuven Niemeijer,21,Central Midfield,Quick '20,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Samuel Armenteros,26,Centre-Forward,Qarabag Agdam,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Lerin Duarte,26,Central Midfield,Ajax,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Brandley Kuwas,23,Right Winger,Excelsior,?,in,Summer,NA,Eredivisie,2016,2016/2017
+Heracles Almelo,Tim van de Berg,18,Defensive Midfield,Elinkwijk,?,in,Summer,NA,Eredivisie,2016,2016/2017
+Heracles Almelo,Fahd Aktaou,23,Left-Back,FC Dordrecht,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Paul Gladon,24,Centre-Forward,Wolves,£1.80m,out,Summer,1.8,Eredivisie,2016,2016/2017
+Heracles Almelo,Wout Weghorst,23,Centre-Forward,AZ Alkmaar,£1.35m,out,Summer,1.35,Eredivisie,2016,2016/2017
+Heracles Almelo,Iliass Bel Hassani,23,Attacking Midfield,AZ Alkmaar,£1.22m,out,Summer,1.22,Eredivisie,2016,2016/2017
+Heracles Almelo,Bas Sibum,33,Central Midfield,Alcides,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Rick Hemmink,23,Attacking Midfield,Achilles '29,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Gino Bosz,23,Centre-Back,SC Cambuur,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Menno Heerkes,22,Defensive Midfield,SV Meppen,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Coen Gortemaker,22,Centre-Back,Achilles '29,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Fahd Aktaou,23,Left-Back,Wydad AC,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Gonzalo García,32,Second Striker,Anorthosis,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Ruben Jenssen,28,Central Midfield,1.FC K'lautern,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Tom van Weert,26,Centre-Forward,Excelsior,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Samir Memisevic,22,Centre-Back,Radnik Bijelj.,?,in,Summer,NA,Eredivisie,2016,2016/2017
+FC Groningen,Jason Davidson,25,Left-Back,Huddersfield,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Martijn van der Laan,27,Centre-Back,SC Cambuur,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Yoëll van Nieff,23,Defensive Midfield,Excelsior,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Tom Hiariej,27,Defensive Midfield,SC Cambuur,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Rasmus Lindgren,31,Centre-Back,Häcken,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Lorenzo Burnet,25,Left-Back,Slo. Bratislava,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Michael de Leeuw,29,Attacking Midfield,Chicago Fire,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Dino Islamovic,22,Centre-Forward,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Jarchinio Antonia,25,Right Winger,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+FC Groningen,Abel Tamata,25,Left-Back,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Anass Achahbar,22,Centre-Forward,Feyenoord,£270Th.,in,Summer,0.27,Eredivisie,2016,2016/2017
+PEC Zwolle,Philippe Sandler,19,Centre-Back,Ajax U18,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Ted van de Pavert,24,Centre-Back,De Graafschap,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Nicolai Brock-Madsen,23,Centre-Forward,Birmingham,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Calvin Verdonk,19,Left-Back,Feyenoord,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Hachim Mastour,18,Attacking Midfield,AC Milan,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Django Warmerdam,20,Left-Back,Ajax U21,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Mike Hauptmeijer,19,Goalkeeper,PEC Zwolle U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Josef Kvida,19,Centre-Back,PEC Zwolle U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Jamairo Appiah,12,Centre-Forward,Without Club,-,in,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Danny Holla,28,Central Midfield,Without Club,-,in,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Boban Lazic,22,Left Winger,FC Oss,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Boy de Jong,22,Goalkeeper,Telstar,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Bart van Hintum,29,Left-Back,Gaziantepspor,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Thomas Lam,22,Centre-Back,Nottm Forest,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Abdel Malek El Hasnaoui,22,Central Midfield,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Sheraldo Becker,21,Right Winger,Ajax,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Lars Veldwijk,24,Centre-Forward,Nottm Forest,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Ouasim Bouy,23,Defensive Midfield,Juventus,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Ricky van Wolfswinkel,27,Centre-Forward,Norwich,£540Th.,in,Summer,0.54,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Navarone Foor,24,Attacking Midfield,NEC Nijmegen,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Michael Törnes,30,Goalkeeper,Odense BK,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Matt Miazga,21,Centre-Back,Chelsea,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Adnane Tighadouini,23,Left Winger,Málaga CF,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Mitchell van Bergen,16,Right Winger,Vitesse U17,-,in,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Jeroen Houwen,20,Goalkeeper,Vitesse U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Kevin Diks,19,Right-Back,Fiorentina,£2.61m,out,Summer,2.61,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Renato Ibarra,25,Right Winger,América,£1.62m,out,Summer,1.62,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Piet Velthuizen,29,Goalkeeper,Hapoel Haifa,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Elmo Lieftink,22,Defensive Midfield,Willem II,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Denys Oliynyk,29,Left Winger,SV Darmstadt 98,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Valeri Qazaishvili,23,Left Winger,Legia Warszawa,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Izzy Brown,19,Attacking Midfield,Chelsea U21,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Danilo Pantic,19,Central Midfield,Chelsea,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Dominic Solanke,18,Centre-Forward,Chelsea U21,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Stefan Mauk,20,Central Midfield,Adelaide United,£248Th.,in,Summer,0.248,Eredivisie,2016,2016/2017
+NEC Nijmegen,Kevin Mayi,23,Centre-Forward,G. Ajaccio,£135Th.,in,Summer,0.135,Eredivisie,2016,2016/2017
+NEC Nijmegen,Julian von Haacke,22,Central Midfield,Werder Bremen,£90Th.,in,Summer,0.09,Eredivisie,2016,2016/2017
+NEC Nijmegen,Joris Delle,26,Goalkeeper,Lens,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Fabian Gmeiner,19,Left-Back,Stuttgart U19,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Dario Dumic,24,Centre-Back,Bröndby IF,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Michael Heinloth,24,Right-Back,SC Paderborn,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,André Fomitschow,25,Left-Back,1.FC K'lautern,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Reagy Ofosu,24,Left Winger,Grödig,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Arnaut Danjuma,19,Left Winger,PSV U19,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Robin Buwalda,21,Centre-Back,ADO Den Haag,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Taiwo Awoniyi,19,Centre-Forward,Liverpool,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Hannes Thór Halldórsson,32,Goalkeeper,Bodø/Glimt,"End of loanJul 17, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Maarten Paes,18,Goalkeeper,NEC U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Frank Sturing,19,Centre-Back,NEC U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Quincy Owusu-Abeyie,30,Left Winger,Without Club,-,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Ferdi Kadioglu,16,Left Winger,NEC U17,-,in,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Anthony Limbombe,22,Left Winger,Club Brugge,£2.25m,out,Summer,2.25,Eredivisie,2016,2016/2017
+NEC Nijmegen,Mihai Roman,24,Centre-Forward,M. Petah Tikva,Loan fee:£45Th.,out,Summer,0.045,Eredivisie,2016,2016/2017
+NEC Nijmegen,Cihat Celik,20,Central Midfield,FC Oss,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Christian Santos,28,Centre-Forward,Alavés,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Brad Jones,34,Goalkeeper,Feyenoord,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Navarone Foor,24,Attacking Midfield,Vitesse,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Rens van Eijden,28,Centre-Back,AZ Alkmaar,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Marcel Appiah,28,Centre-Back,VfL Osnabrück,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Hannes Thór Halldórsson,32,Goalkeeper,Randers FC,?,out,Summer,NA,Eredivisie,2016,2016/2017
+NEC Nijmegen,Joey Sleegers,22,Left Winger,VVV-Venlo,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Bart Buysse,29,Left-Back,NEC U21,-,out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Todd Kane,22,Right-Back,Chelsea,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Marcel Ritzmaier,23,Central Midfield,PSV Eindhoven,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Lucas Woudenberg,22,Left-Back,Feyenoord,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Dario Dumic,24,Centre-Back,Bröndby IF,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Sheraldo Becker,21,Right Winger,Ajax,£180Th.,in,Summer,0.18,Eredivisie,2016,2016/2017
+ADO Den Haag,Aschraf El Mahdioui,20,Defensive Midfield,Ajax U21,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,José San Román,27,Right-Back,Huracán,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Thomas Meißner,25,Centre-Back,MSV Duisburg,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Ernestas Setkus,31,Goalkeeper,Sivasspor,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Tom Trybull,23,Defensive Midfield,Greuther Fürth,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Mohamed Haddachi,19,Left-Back,ADO U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Trevor David,19,Right-Back,ADO U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Jerdy Schouten,19,Central Midfield,ADO U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Jurrian Jouvenaar,17,Goalkeeper,ADO U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Robin Buwalda,21,Centre-Back,VVV-Venlo,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Gervane Kastaneer,20,Left Winger,FC Eindhoven,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Martin Hansen,26,Goalkeeper,FC Ingolstadt,£855Th.,out,Summer,0.855,Eredivisie,2016,2016/2017
+ADO Den Haag,Gianni Zuiverloon,29,Centre-Back,CyD Leonesa,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Giovanni Korte,22,Right Winger,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Robin Buwalda,21,Centre-Back,NEC Nijmegen,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Thomas Kristensen,33,Central Midfield,Brisbane Roar,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Timothy Derijck,29,Centre-Back,Zulte Waregem,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Vito Wormgoor,27,Centre-Back,Aalesund,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Tim Coremans,25,Goalkeeper,FC Dordrecht,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Dylan Nieuwenhuijs,21,Centre-Back,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Mathias Gehrt,24,Right Winger,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Kyle Ebecilio,22,Central Midfield,Twente FC,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Yuki Kobayashi,24,Central Midfield,Júbilo Iwata,£225Th.,in,Summer,0.225,Eredivisie,2016,2016/2017
+SC Heerenveen,Jordy Bruijn,19,Central Midfield,Ajax U21,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Stijn Schaars,32,Defensive Midfield,PSV Eindhoven,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Reza Ghoochannejhad,28,Centre-Forward,Charlton,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Wouter van der Steen,26,Goalkeeper,Helmond Sport,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Shay Facey,21,Right-Back,Man City U23,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Jair Oosterlen,19,Defensive Midfield,Heerenveen U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Szabolcs Varga,21,Left Winger,MTK Budapest,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Stephen Warmolts,22,Centre-Back,Helmond Sport,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Stephen Warmolts,22,Centre-Back,Helmond Sport,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Pele van Anholt,25,Right-Back,Willem II,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Joey van den Berg,30,Defensive Midfield,Reading,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Pascal Huser,21,Centre-Forward,FC Emmen,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Luka Zahovic,20,Centre-Forward,NK Maribor,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Branco van den Boomen,21,Central Midfield,Willem II,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Kenny Otigba,23,Centre-Back,Kasimpasa,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Robert van Koesveld,21,Centre-Back,Helmond Sport,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Szabolcs Varga,21,Left Winger,MTK Budapest,?,out,Summer,NA,Eredivisie,2016,2016/2017
+SC Heerenveen,Maarten de Fockert,21,Goalkeeper,VVV-Venlo,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Wieger Sietsma,21,Goalkeeper,FC Emmen,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Stefan Thesker,25,Centre-Back,Greuther Fürth,£45Th.,in,Summer,0.045,Eredivisie,2016,2016/2017
+Twente Enschede FC,Mateusz Klich,26,Central Midfield,1.FC K'lautern,£45Th.,in,Summer,0.045,Eredivisie,2016,2016/2017
+Twente Enschede FC,Dylan Seys,19,Right Winger,Club Brugge,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Yaw Yeboah,19,Right Winger,Man City U23,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Enes Ünal,19,Centre-Forward,Man City,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Dejan Trajkovski,24,Left-Back,NK Domzale,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Bersant Celina,19,Attacking Midfield,Man City,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Fredrik Jensen,18,Attacking Midfield,FC Twente U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Shadrach Eghan,21,Attacking Midfield,Stabæk Fotball,"End of loanAug 1, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Kyle Ebecilio,22,Central Midfield,ADO Den Haag,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Hakim Ziyech,23,Right Winger,Ajax,£9.90m,out,Summer,9.9,Eredivisie,2016,2016/2017
+Twente Enschede FC,Felipe Gutiérrez,25,Central Midfield,Real Betis,£3.15m,out,Summer,3.15,Eredivisie,2016,2016/2017
+Twente Enschede FC,Jerson Cabral,25,Left Winger,SC Bastia,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Robbert Schilder,30,Centre-Back,SC Cambuur,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Torgeir Börven,24,Centre-Forward,SK Brann,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Timo Plattel,22,Goalkeeper,FC Twente U21,-,out,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Alessio Da Cruz,19,Left Winger,FC Twente U21,-,out,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Bruno Uvini,25,Centre-Back,SSC Napoli,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Thomas Agyepong,19,Left Winger,Man City U21,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Zakaria El Azzouzi,20,Centre-Forward,Ajax U21,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Stefan Thesker,25,Centre-Back,Greuther Fürth,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Oskar Zawada,20,Centre-Forward,VfL Wolfsburg,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,David Boysen,25,Left Winger,Bröndby IF,£270Th.,in,Summer,0.27,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Roel Brouwers,34,Centre-Back,Bor. M'gladbach,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Christian Kum,30,Centre-Back,FC Utrecht,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Adil Auassar,29,Defensive Midfield,Excelsior,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Mikhail Rosheuvel,25,Right Winger,SC Cambuur,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Frederic Ananou,18,Right-Back,1.FC Köln U19,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Dani Schahin,26,Centre-Forward,1.FSV Mainz 05,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Abdul Ajagun,23,Attacking Midfield,Panathinaikos,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Yves De Winter,29,Goalkeeper,Sint-Truiden,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Nestoras Mytidis,25,Centre-Forward,AEK Larnaca,?,in,Summer,NA,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Simon Church,27,Centre-Forward,MK Dons,?,in,Summer,NA,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Henk Dijkhuizen,24,Right-Back,Roda JC U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Kahraman Demirtas,22,Left-Back,Roda JC U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Santiago Palacios,25,Second Striker,MVV Maastricht,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Rigino Cicilia,21,Centre-Forward,RKC Waalwijk,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Jens van Son,28,Defensive Midfield,Fortuna Sittard,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Bart Biemans,28,Centre-Back,FC Den Bosch,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Nayib Lagouireh,25,Right Winger,Fortuna Sittard,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Daryl Werker,22,Centre-Back,MVV Maastricht,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Mitchel Paulissen,23,Attacking Midfield,VVV-Venlo,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Bart Biemans,28,Centre-Back,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Hicham Faik,24,Defensive Midfield,Excelsior,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Brian Jacobs,21,Left Winger,Chèvremont,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Santiago Palacios,25,Second Striker,UNAM Pumas,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Jordy Buijs,27,Centre-Back,Pandurii,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Ugur Inceman,35,Central Midfield,Eskisehirspor,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Jorrit Smeets,21,Defensive Midfield,Fortuna Sittard,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Arjan Swinkels,31,Centre-Back,KFCO Beerschot,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Rydell Poepon,28,Centre-Forward,Boluspor,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Maecky Ngombo,21,Centre-Forward,F. Düsseldorf,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Rigino Cicilia,21,Centre-Forward,Port Vale,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Yannick Derix,25,Goalkeeper,EVV Echt,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Tomi Juric,24,Centre-Forward,FC Luzern,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Martijn Monteyne,31,Right-Back,KSV Roeselare,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Henk Dijkhuizen,24,Right-Back,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Bram Verbist,33,Goalkeeper,Retired,-,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Nayib Lagouireh,25,Right Winger,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Roel Brouwers,34,Centre-Back,Retired,-,out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Kristoffer Peterson,21,Left Winger,FC Utrecht,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Georgi Zhukov,21,Central Midfield,Standard Res.,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Mike van Duinen,24,Centre-Forward,F. Düsseldorf,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Jeffry Fortes,27,Right-Back,FC Dordrecht,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Ryan Koolwijk,30,Central Midfield,AS Trencin,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Terell Ondaan,22,Right Winger,Willem II,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Anouar Hadouir,33,Attacking Midfield,Moghreb Tétouan,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Fredy,26,Attacking Midfield,C.R.D. Libolo,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Milan Massop,22,Left-Back,FC Eindhoven,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Danilo Pantic,19,Central Midfield,Chelsea,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Hicham Faik,24,Defensive Midfield,Roda JC,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Mike van Duinen,24,Centre-Forward,F. Düsseldorf,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Leeroy Owusu,19,Right-Back,Ajax U21,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Arghus,28,Centre-Back,Braga,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Dogucan Haspolat,16,Central Midfield,Excelsior U17,-,in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Marko Maletic,22,Centre-Forward,Telstar,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Carlo de Reuver,21,Centre-Forward,Helmond Sport,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Tom Overtoom,25,Central Midfield,FC Emmen,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Kevin van Diermen,26,Centre-Back,NAC Breda,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Rick Kruys,31,Central Midfield,De Meern,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Daryl van Mieghem,26,Right Winger,Heracles Almelo,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Marko Maletic,22,Centre-Forward,Lommel United,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Tom Overtoom,25,Central Midfield,Almere City,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Tom van Weert,26,Centre-Forward,FC Groningen,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Kevin van Diermen,26,Centre-Back,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Sander Fischer,27,Centre-Back,Go Ahead Eagles,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Adil Auassar,29,Defensive Midfield,Roda JC,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Jeff Stans,26,Defensive Midfield,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Michiel Hemmen,29,Centre-Forward,SC Cambuur,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Brandley Kuwas,23,Right Winger,Heracles Almelo,?,out,Summer,NA,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Daan Bovenberg,27,Right-Back,Retired,-,out,Summer,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Yoëll van Nieff,23,Defensive Midfield,FC Groningen,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Jordy Croux,22,Right Winger,MVV Maastricht,£135Th.,in,Summer,0.135,Eredivisie,2016,2016/2017
+Willem II Tilburg,Pele van Anholt,25,Right-Back,Heerenveen,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Elmo Lieftink,22,Defensive Midfield,Vitesse,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Thom Haye,21,Central Midfield,AZ Alkmaar,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Fran Sol,24,Centre-Forward,Villarreal CF B,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Andreias Calcan,22,Left Winger,U Cluj,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Darryl Lachman,26,Centre-Back,Sheff Wed,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Jari Schuurman,19,Attacking Midfield,Feyenoord,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Branco van den Boomen,21,Central Midfield,Heerenveen,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Dani Koks,18,Central Midfield,Willem II U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Asumah Abubakar,19,Centre-Forward,Willem II U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Derrick Tshimanga,27,Left-Back,Without Club,-,in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Mattijs Branderhorst,22,Goalkeeper,MVV Maastricht,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Jordy Vleugels,20,Central Midfield,FC Dordrecht,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Nicky Kuiper,27,Left-Back,FC Eindhoven,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Nick van der Velden,34,Left Winger,Dundee United,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Robert Braber,33,Attacking Midfield,Helmond Sport,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Terell Ondaan,22,Right Winger,Excelsior,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Robbie Haemhouts,32,Central Midfield,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Jordy Vleugels,20,Central Midfield,FC Dordrecht,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Frank van der Struijk,31,Right-Back,Dundee United,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Rochdi Achenteh,28,Left-Back,Go Ahead Eagles,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Adam Nemec,30,Centre-Forward,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,David Meul,34,Goalkeeper,Retired,-,out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Lesly de Sa,23,Right Winger,Ajax,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Lucas Andersen,21,Left Winger,Ajax,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Andy Kawaya,19,Left Winger,RSC Anderlecht,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Guus Hupperts,24,Right Winger,AZ Alkmaar,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Stijn Spierings,20,Attacking Midfield,AZ Alkmaar,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Alessandro Rodrigues,17,Left Winger,KV Oostende B,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Cyril Chevreuil,26,Centre-Forward,Aubagne,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Mathias Pogba,26,Centre-Forward,Partick Thistle,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Bart Vriends,25,Centre-Back,Go Ahead Eagles,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Lovette Felicia,20,Right Winger,Te Werve,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Abdul Bai Kamara,20,Centre-Back,NEC U21,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Michael Verrips,19,Goalkeeper,FC Twente U21,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Iván Calero,21,Right-Back,Derby,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Craig Goodwin,24,Left Winger,Adelaide United,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Zakaria El Azzouzi,20,Centre-Forward,Ajax U21,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Florian Pinteaux,24,Left-Back,LB Châteauroux,?,in,Summer,NA,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Sherel Floranus,17,Right-Back,Sparta U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Jeffrey Neral,18,Right-Back,Sparta U21,-,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Jaimy Brute,17,Defensive Midfield,Sparta R. U17,-,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Ilias Alhaft,19,Right Winger,Sparta U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Akram Salhi,19,Attacking Midfield,Sparta U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,David Mendes da Silva,33,Defensive Midfield,Career break,-,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Deroy Duarte,16,Central Midfield,Sparta R. U17,-,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Ruggero Mannes,18,Right-Back,Sparta U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Serghino Sanches,18,Left-Back,Sparta U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Koen Muller,20,Centre-Back,Without Club,-,in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Youri Loen,25,Central Midfield,Fortuna Sittard,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Johan Voskamp,31,Centre-Forward,RKC Waalwijk,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Cody Claver,19,Centre-Back,SC Cambuur U21,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Youri Loen,25,Central Midfield,FC Emmen,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Romano van der Stoep,21,Attacking Midfield,Rijnvogels,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Yesin Ben Mohamadi,20,Attacking Midfield,RKC Waalwijk,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Giovanni Hiwat,22,Right Winger,Helmond Sport,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Melvin Vissers,20,Attacking Midfield,DHC Delft,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Christian Supusepa,27,Left-Back,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Yaël Eisden,22,Defensive Midfield,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Michael Fabrie,18,Goalkeeper,Sparta U21,-,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Huseyin Dogan,22,Centre-Forward,Without Club,-,out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Sherjill MacDonald,31,Centre-Forward,KVC Westerlo,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Stijn Spierings,20,Attacking Midfield,AZ Alkmaar,"End of loanJun 30, 2016",out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Henrik Ojamaa,25,Right Midfield,FC Wacker,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Kevin Brands,28,Attacking Midfield,NAC Breda,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Joey Suk,26,Central Midfield,NAC Breda,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Sander Fischer,27,Centre-Back,Excelsior,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Sam Hendriks,21,Centre-Forward,Ajax U21,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Sinan Bytyqi,21,Attacking Midfield,Man City U23,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Rochdi Achenteh,28,Left-Back,Willem II,Free transfer,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Sébastien Locigno,20,Right-Back,KV Oostende,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Marcel Ritzmaier,23,Central Midfield,PSV Eindhoven,Loan,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Henrik Ojamaa,26,Right Midfield,Dundee FC,"End of loanMay 31, 2017",in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Thijs Dekker,19,Defensive Midfield,Go Ahead U19,-,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Jarchinio Antonia,25,Right Winger,Without Club,-,in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Nick de Bondt,22,Left Winger,FC Dordrecht,"End of loanJun 30, 2016",in,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Robin van der Meer,21,Left-Back,FC Utrecht,£270Th.,out,Summer,0.27,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Maurits Schmitz,23,Goalkeeper,Spakenburg,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Nick de Bondt,22,Left Winger,De Treffers,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Sven Nieuwpoort,23,Centre-Back,De Graafschap,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Jeffrey Rijsdijk,28,Attacking Midfield,Almere City,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Puck Postma,19,Right Winger,Koninklijke HFC,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Bart Vriends,25,Centre-Back,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Adam Sarota,27,Right Midfield,Unknown,Free transfer,out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Elvio van Overbeek,22,Right Winger,De Graafschap,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Orhan Džepar,20,Attacking Midfield,Telstar,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Teije ten Den,23,Centre-Forward,Helmond Sport,Loan,out,Summer,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Elvis Manu,23,Left Winger,Brighton,"End of loanMay 8, 2017",out,Summer,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Marco van Ginkel,24,Central Midfield,Chelsea,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Menno Koch,22,Centre-Back,FC Utrecht,"End of loanJan 31, 2017",in,Winter,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Ramon Pascal Lundqvist,19,Attacking Midfield,PSV U21,-,in,Winter,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Luciano Narsingh,26,Right Winger,Swansea,£4.14m,out,Winter,4.14,Eredivisie,2016,2016/2017
+PSV Eindhoven,Florian Jozefzoon,25,Right Winger,Brentford,£405Th.,out,Winter,0.405,Eredivisie,2016,2016/2017
+PSV Eindhoven,Simon Poulsen,32,Left-Back,SönderjyskE,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+PSV Eindhoven,Jordy de Wijs,22,Centre-Back,Excelsior,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,David Neres,19,Right Winger,São Paulo,£10.80m,in,Winter,10.8,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Matthijs de Ligt,17,Centre-Back,Ajax U21,-,in,Winter,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Justin Kluivert,17,Left Winger,Ajax U19,-,in,Winter,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Norbert Alblas,22,Goalkeeper,Ajax U21,-,in,Winter,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Riechedly Bazoer,20,Central Midfield,VfL Wolfsburg,£10.80m,out,Winter,10.8,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Anwar El Ghazi,21,Right Winger,LOSC Lille,£6.30m,out,Winter,6.3,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Nemanja Gudelj,25,Defensive Midfield,TJ Teda,£4.95m,out,Winter,4.95,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Mitchell Dijks,23,Left-Back,Norwich,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+Ajax Amsterdam,Tim Krul,28,Goalkeeper,Newcastle,"End of loanJan 30, 2017",out,Winter,0,Eredivisie,2016,2016/2017
+Feyenoord Rotterdam,Warner Hahn,24,Goalkeeper,Excelsior,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Jonas Svensson,23,Right-Back,Rosenborg BK,?,in,Winter,NA,Eredivisie,2016,2016/2017
+AZ Alkmaar,Tim Krul,28,Goalkeeper,Newcastle,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Markus Henriksen,24,Central Midfield,Hull City,"End of loanJan 5, 2017",in,Winter,0,Eredivisie,2016,2016/2017
+AZ Alkmaar,Markus Henriksen,24,Central Midfield,Hull City,£4.77m,out,Winter,4.77,Eredivisie,2016,2016/2017
+AZ Alkmaar,Robert Mühren,27,Centre-Forward,Zulte Waregem,?,out,Winter,NA,Eredivisie,2016,2016/2017
+FC Utrecht,Wout Brama,30,Defensive Midfield,PEC Zwolle,Free transfer,in,Winter,0,Eredivisie,2016,2016/2017
+FC Utrecht,Zakaria Labyad,23,Attacking Midfield,Without Club,-,in,Winter,0,Eredivisie,2016,2016/2017
+FC Utrecht,Rubio Rubin,20,Centre-Forward,Silkeborg IF,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+FC Utrecht,Kristoffer Peterson,22,Left Winger,Heracles Almelo,?,out,Winter,NA,Eredivisie,2016,2016/2017
+FC Utrecht,Menno Koch,22,Centre-Back,PSV Eindhoven,"End of loanJan 31, 2017",out,Winter,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Kristoffer Peterson,22,Left Winger,FC Utrecht,?,in,Winter,NA,Eredivisie,2016,2016/2017
+Heracles Almelo,Daryl van Mieghem,27,Right Winger,De Graafschap,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Dario Vujicevic,26,Defensive Midfield,Retired,-,out,Winter,0,Eredivisie,2016,2016/2017
+Heracles Almelo,Ramon Zomer,33,Centre-Back,Retired,-,out,Winter,0,Eredivisie,2016,2016/2017
+FC Groningen,Hans Hateboer,23,Right-Back,Atalanta,£936Th.,out,Winter,0.936,Eredivisie,2016,2016/2017
+FC Groningen,Albert Rusnák,22,Attacking Midfield,Salt Lake,£392Th.,out,Winter,0.392,Eredivisie,2016,2016/2017
+FC Groningen,Danny Hoesen,26,Centre-Forward,Quakes,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Hervin Ongenda,21,Left Winger,Paris SG,£270Th.,in,Winter,0.27,Eredivisie,2016,2016/2017
+PEC Zwolle,Erik Israelsson,27,Attacking Midfield,Hammarby,Free transfer,in,Winter,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Ouasim Bouy,23,Defensive Midfield,Juventus,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+PEC Zwolle,Wout Brama,30,Defensive Midfield,FC Utrecht,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Alexander Büttner,27,Left-Back,Dynamo Moscow,Free transfer,in,Winter,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Mukhtar Ali,19,Defensive Midfield,Chelsea U23,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Kevin Diks,20,Right-Back,Fiorentina,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Kosuke Ota,29,Left-Back,FC Tokyo,£675Th.,out,Winter,0.675,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Sheran Yeini,30,Centre-Back,M. Tel Aviv,£360Th.,out,Winter,0.36,Eredivisie,2016,2016/2017
+Vitesse Arnhem,Abiola Dauda,28,Centre-Forward,Atromitos Athen,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Jordan Larsson,19,Centre-Forward,Helsingborg,£405Th.,in,Winter,0.405,Eredivisie,2016,2016/2017
+NEC Nijmegen,Ali Messaoud,25,Attacking Midfield,FC Vaduz,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Lorenzo Burnet,25,Left-Back,Slo. Bratislava,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Sam Lundholm,22,Right Winger,Randers FC,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+NEC Nijmegen,Quincy Owusu-Abeyie,30,Left Winger,Retired,-,out,Winter,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Donny Gorter,28,Left-Back,Viborg FF,Free transfer,in,Winter,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Randy Wolters,26,Left Winger,Go Ahead Eagles,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Nasser El Khayati,27,Attacking Midfield,QPR,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Guyon Fernandez,30,Centre-Forward,Without Club,-,in,Winter,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Abel Tamata,26,Left-Back,Without Club,-,in,Winter,0,Eredivisie,2016,2016/2017
+ADO Den Haag,José San Román,28,Right-Back,Newell's,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Hector Hevel,20,Attacking Midfield,AEK Larnaca,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Ludcinio Marengo,25,Left Winger,Go Ahead Eagles,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+ADO Den Haag,Dennis van der Heijden,19,Centre-Forward,FC Volendam,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Martin Ödegaard,18,Attacking Midfield,Real Madrid,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Wout Faes,18,Centre-Back,RSC Anderlecht,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Luka Zahovic,21,Centre-Forward,NK Maribor,"End of loanFeb 26, 2017",in,Winter,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Luka Zahovic,21,Centre-Forward,NK Maribor,£225Th.,out,Winter,0.225,Eredivisie,2016,2016/2017
+SC Heerenveen,Mitchell te Vrede,25,Centre-Forward,Boluspor,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Rewan Amin,21,Defensive Midfield,Dalkurd,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Simon Thern,24,Central Midfield,AIK,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+SC Heerenveen,Caner Cavlan,24,Left-Back,Sanliurfaspor,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Dejan Trajkovski,24,Left-Back,NK Domzale,£225Th.,in,Winter,0.225,Eredivisie,2016,2016/2017
+Twente Enschede FC,Jos Hooiveld,33,Centre-Back,AIK,Free transfer,in,Winter,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Enis Bunjaki,19,Centre-Forward,E. Frankfurt,Free transfer,in,Winter,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Torgeir Börven,25,Centre-Forward,SK Brann,"End of loanDec 31, 2016",in,Winter,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Oussama Assaidi,28,Left Winger,Without Club,-,in,Winter,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Georgios Katsikas,26,Centre-Back,Esbjerg fB,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Shadrach Eghan,22,Attacking Midfield,Vendsyssel FF,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Torgeir Börven,25,Centre-Forward,SK Brann,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Jari Oosterwijk,21,Centre-Forward,NAC Breda,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Dejan Trajkovski,24,Left-Back,NK Domzale,"End of loanJan 15, 2017",out,Winter,0,Eredivisie,2016,2016/2017
+Twente Enschede FC,Kyle Ebecilio,23,Central Midfield,Without Club,-,out,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Stefan Savic,23,Attacking Midfield,Slaven Belupo,£315Th.,in,Winter,0.315,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Mohamed El Makrini,29,Defensive Midfield,Odense BK,£135Th.,in,Winter,0.135,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Ognjen Gnjatic,25,Defensive Midfield,Platanias,£108Th.,in,Winter,0.108,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Gyliano van Velzen,22,Left Winger,FC Volendam,£68Th.,in,Winter,0.068,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Lyes Houri,21,Central Midfield,SC Bastia,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Simeon Raykov,27,Left Winger,Lok. Plovdiv,Free transfer,in,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Athanasios Papazoglou,28,Centre-Forward,KV Kortrijk,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Bryan Verboom,24,Left-Back,Zulte Waregem,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Beni Badibanga,20,Left Winger,Standard Liège,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,David Boysen,25,Left Winger,Lyngby BK,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Farshad Noor,22,Central Midfield,SC Cambuur,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Nestoras Mytidis,25,Centre-Forward,AEK Larnaca,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Daniel De Silva,19,Attacking Midfield,Perth Glory,"End of loanJan 18, 2017",out,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Tim Blättler,22,Centre-Forward,Roda JC U21,-,out,Winter,0,Eredivisie,2016,2016/2017
+Roda JC Kerkrade,Roel Brouwers,34,Centre-Back,Retired,-,out,Winter,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Warner Hahn,24,Goalkeeper,Feyenoord,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Jordy de Wijs,22,Centre-Back,PSV Eindhoven,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Tom Muyters,32,Goalkeeper,Samsunspor,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Carlo de Reuver,22,Centre-Forward,VV Capelle,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+SBV Excelsior Rotterdam,Leeroy Owusu,20,Right-Back,Ajax U21,"End of loanFeb 22, 2017",out,Winter,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Obbi Oulare,21,Centre-Forward,Watford,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Vajebah Sakor,20,Defensive Midfield,Juventus,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Willem II Tilburg,Bruno Andrade,27,Left Winger,H. Kfar Saba,?,out,Winter,NA,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Janne Saksela,23,Right-Back,RoPS,Free transfer,in,Winter,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Martin Pusic,29,Centre-Forward,FC Midtjylland,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Jerson Cabral,26,Left Winger,SC Bastia,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Koen Muller,20,Centre-Back,Without Club,-,in,Winter,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Finn Stokkers,20,Centre-Forward,Fortuna Sittard,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Robert Klaasen,23,Defensive Midfield,De Graafschap,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Akram Salhi,19,Attacking Midfield,Without Club,-,out,Winter,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Zakaria El Azzouzi,20,Centre-Forward,Ajax U21,"End of loanMar 28, 2017",out,Winter,0,Eredivisie,2016,2016/2017
+Sparta Rotterdam,Cyril Chevreuil,27,Centre-Forward,Without Club,-,out,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Elvis Manu,23,Left Winger,Brighton,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Dan Crowley,19,Attacking Midfield,Arsenal U23,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Pedro Chirivella,19,Defensive Midfield,Liverpool U23,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Ludcinio Marengo,25,Left Winger,ADO Den Haag,Loan,in,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Lum Rexhepi,24,Centre-Back,Without Club,-,in,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Kevin Brands,28,Attacking Midfield,Samsunspor,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Jerry van Wolfgang,24,Left Midfield,Orange County,Free transfer,out,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Kenny Teijsse,24,Defensive Midfield,SF Deltas,?,out,Winter,NA,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Randy Wolters,26,Left Winger,ADO Den Haag,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Henrik Ojamaa,25,Right Midfield,Dundee FC,Loan,out,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Mohamed Hamdaoui,23,Left Winger,Without Club,-,out,Winter,0,Eredivisie,2016,2016/2017
+Go Ahead Eagles Deventer,Sinan Bytyqi,21,Attacking Midfield,Man City U23,"End of loanDec 31, 2016",out,Winter,0,Eredivisie,2016,2016/2017

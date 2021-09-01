@@ -1,0 +1,794 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+FC Porto,Jackson Martínez,25,Centre-Forward,Jaguares,£8.00m,in,Summer,8,Liga Nos,2012,2012/2013
+FC Porto,Héctor Quiñónes,20,Left-Back,Junior FC,£1.78m,in,Summer,1.78,Liga Nos,2012,2012/2013
+FC Porto,Fabiano,24,Goalkeeper,Olhanense,£1.08m,in,Summer,1.08,Liga Nos,2012,2012/2013
+FC Porto,Henrique Sereno,27,Centre-Back,1. FC Köln,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Fredy Guarín,26,Central Midfield,Inter,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Fernando Belluschi,28,Central Midfield,Genoa,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,William Soares,23,Defensive Midfield,Arouca,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Walter,22,Centre-Forward,Cruzeiro,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Miguel Lopes,25,Right-Back,Braga,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Beto,30,Goalkeeper,CFR Cluj,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,David Addy,22,Left-Back,Panetolikos,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Pawel Kieszek,28,Goalkeeper,Roda JC,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,André Castro,24,Central Midfield,Sporting Gijón,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,David Bruno,20,Right-Back,Trofense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Christian Atsu,20,Left Winger,Rio Ave FC,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Kelvin,19,Right Winger,Rio Ave FC,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,André Pinto,22,Centre-Back,Olhanense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Hugo Ventura,24,Goalkeeper,Olhanense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Abdoulaye Ba,21,Centre-Back,Coimbra,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Ukra,24,Right Winger,Braga,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Hulk,26,Right Winger,Zenit S-Pb,£36.00m,out,Summer,36,Liga Nos,2012,2012/2013
+FC Porto,Fredy Guarín,26,Central Midfield,Inter,£9.90m,out,Summer,9.9,Liga Nos,2012,2012/2013
+FC Porto,Álvaro Pereira,26,Left-Back,Inter,£9.00m,out,Summer,9,Liga Nos,2012,2012/2013
+FC Porto,Fernando Belluschi,28,Central Midfield,Bursaspor,£2.25m,out,Summer,2.25,Liga Nos,2012,2012/2013
+FC Porto,Marc Janko,29,Centre-Forward,Trabzonspor,£2.11m,out,Summer,2.11,Liga Nos,2012,2012/2013
+FC Porto,André Pinto,22,Centre-Back,Panathinaikos,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,William Soares,23,Defensive Midfield,Rio Ave FC,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Beto,30,Goalkeeper,Braga,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Djalma,25,Right Winger,Kasimpasa,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Pawel Kieszek,28,Goalkeeper,Vitória Setúbal,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Walter,22,Centre-Forward,Goiás EC,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,David Addy,22,Left-Back,Vit. Guimarães,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Cristian Sapunaru,28,Centre-Back,Real Zaragoza,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Cristian Rodríguez,26,Central Midfield,Atlético Madrid,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Henrique Sereno,27,Centre-Back,Real Valladolid,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Ukra,24,Right Winger,Rio Ave FC,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Rafael Bracali,31,Goalkeeper,Olhanense,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,David Bruno,20,Right-Back,FC Porto B,-,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Ola John,20,Left Winger,Twente FC,£10.80m,in,Summer,10.8,Liga Nos,2012,2012/2013
+SL Benfica,Eduardo Salvio,22,Right Winger,Atlético Madrid,£9.90m,in,Summer,9.9,Liga Nos,2012,2012/2013
+SL Benfica,Lima,29,Centre-Forward,Braga,£3.60m,in,Summer,3.6,Liga Nos,2012,2012/2013
+SL Benfica,Luisinho,27,Left-Back,Paços Ferreira,£1.80m,in,Summer,1.8,Liga Nos,2012,2012/2013
+SL Benfica,Hugo Vieira,23,Centre-Forward,Gil Vicente,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Paulo Lopes,34,Goalkeeper,Feirense,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Felipe Menezes,25,Attacking Midfield,Sport Recife,"End of loanMay 1, 2013",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Da Silva,25,Central Midfield,Osasco-SP,"End of loanMay 1, 2013",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,André Gomes,18,Central Midfield,Benfica U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,José Shaffer,27,Left-Back,Leiria,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Enzo Pérez,26,Defensive Midfield,Estudiantes,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Fábio Faria,23,Centre-Back,Rio Ave FC,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,José Luis Fernández,24,Central Midfield,Godoy Cruz,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,David Simão,22,Central Midfield,Coimbra,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Rodrigo Mora,24,Centre-Forward,Peñarol,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Jan Oblak,19,Goalkeeper,Leiria,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Jonathan Urretaviscaya,22,Right Winger,Vit. Guimarães,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Roderick Miranda,21,Centre-Back,Servette FC,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Lionel Carole,21,Left-Back,CS Sedan,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Franco Jara,23,Centre-Forward,Granada CF,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Nuno Coelho,24,Centre-Back,Beira-Mar,"End of loanJun 1, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Carlos Martins,30,Attacking Midfield,Granada CF,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Éder Luís,27,Right Winger,Vasco da Gama,"End of loanJun 1, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Daniel Wass,23,Right-Back,Évian,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Élvis,21,Attacking Midfield,Leiria,"End of loanJun 1, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Alan Kardec,23,Centre-Forward,Santos FC,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Da Silva,24,Central Midfield,Belenenses SAD,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Lorenzo Melgarejo,21,Left Winger,Paços Ferreira,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Hélio Vaz,21,Right Winger,Atlético CP,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Ishmael Yartey,22,Left Winger,Servette FC,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Felipe Menezes,24,Attacking Midfield,Botafogo,"End of loanJun 1, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Sidnei,22,Centre-Back,Besiktas,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Miguel Rosa,23,Attacking Midfield,Belenenses SAD,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Fellipe Bastos,22,Central Midfield,Vasco da Gama,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Axel Witsel,23,Defensive Midfield,Zenit S-Pb,£36.00m,out,Summer,36,Liga Nos,2012,2012/2013
+SL Benfica,Javi García,25,Defensive Midfield,Man City,£18.18m,out,Summer,18.18,Liga Nos,2012,2012/2013
+SL Benfica,Ishmael Yartey,22,Left Winger,FC Sochaux,£1.80m,out,Summer,1.8,Liga Nos,2012,2012/2013
+SL Benfica,Émerson Conceição,26,Left-Back,Trabzonspor,£1.44m,out,Summer,1.44,Liga Nos,2012,2012/2013
+SL Benfica,Fellipe Bastos,22,Central Midfield,Vasco da Gama,£1.35m,out,Summer,1.35,Liga Nos,2012,2012/2013
+SL Benfica,Éder Luís,27,Right Winger,Vasco da Gama,£1.35m,out,Summer,1.35,Liga Nos,2012,2012/2013
+SL Benfica,Daniel Wass,23,Right-Back,Évian,£1.08m,out,Summer,1.08,Liga Nos,2012,2012/2013
+SL Benfica,Nélson Oliveira,20,Centre-Forward,Dep. La Coruña,Loan fee:£540Th.,out,Summer,0.54,Liga Nos,2012,2012/2013
+SL Benfica,Rodrigo Mora,24,Centre-Forward,River Plate,Loan fee:£360Th.,out,Summer,0.36,Liga Nos,2012,2012/2013
+SL Benfica,Franco Jara,24,Centre-Forward,San Lorenzo,Loan fee:£338Th.,out,Summer,0.338,Liga Nos,2012,2012/2013
+SL Benfica,Joan Capdevila,34,Left-Back,Espanyol,£315Th.,out,Summer,0.315,Liga Nos,2012,2012/2013
+SL Benfica,Felipe Menezes,24,Attacking Midfield,Sport Recife,Loan fee:£90Th.,out,Summer,0.09,Liga Nos,2012,2012/2013
+SL Benfica,Michel,26,Centre-Forward,Braga,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Javier Saviola,30,Second Striker,Málaga CF,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Hugo Vieira,24,Centre-Forward,Sporting Gijón,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Nuno Coelho,24,Centre-Back,Aris Saloniki,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Jan Oblak,19,Goalkeeper,Rio Ave FC,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,José Luis Fernández,24,Central Midfield,Olhanense,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Hélio Vaz,21,Right Winger,Leiria,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SL Benfica,Djaniny,21,Centre-Forward,Olhanense,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,David Simão,22,Central Midfield,Marítimo,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Roderick Miranda,21,Centre-Back,Dep. La Coruña,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Da Silva,24,Central Midfield,Ponte Preta,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Yannick Djaló,26,Left Winger,Toulouse,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,José Shaffer,27,Left-Back,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Miguel Rosa,23,Attacking Midfield,Benfica B,-,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Mika,21,Goalkeeper,Benfica B,-,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Fábio Faria,23,Centre-Back,Benfica B,-,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Élvis,21,Attacking Midfield,Benfica B,-,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Lionel Carole,21,Left-Back,Benfica B,-,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Luís Martins,20,Left-Back,Benfica B,-,out,Summer,0,Liga Nos,2012,2012/2013
+SL Benfica,Eduardo,29,Goalkeeper,Genoa,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Maximilian Haas,26,Centre-Back,Leiria,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Éder,24,Centre-Forward,Coimbra,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Beto,30,Goalkeeper,FC Porto,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Michel,26,Centre-Forward,Benfica,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Carlao,25,Centre-Forward,Kashima Antlers,?,in,Summer,NA,Liga Nos,2012,2012/2013
+SC Braga,Ismaily,22,Left-Back,Olhanense,?,in,Summer,NA,Liga Nos,2012,2012/2013
+SC Braga,Rúben Micael,25,Central Midfield,Atlético Madrid,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Manoel,23,Centre-Forward,Anápolis-GO,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Chindeu Vine,18,Centre-Forward,Portsmouth,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Yazalde,23,Centre-Forward,Rio Ave FC,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Hugo Lopes,22,Centre-Back,Vizela,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Cristiano Figueiredo,21,Goalkeeper,Valencia,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Zé Luís,21,Centre-Forward,Gil Vicente,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Ladji Keita,29,Centre-Forward,Nacional,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Rodrigo Galo,25,Right-Back,Gil Vicente,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Rui Vieira,20,Goalkeeper,Vizela,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Guilherme,21,Right Winger,Gil Vicente,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Juankar,22,Left-Back,Real Zaragoza,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Nuno Henrique,25,Centre-Back,Feirense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Diego Silva,22,Goalkeeper,Vizela,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Dani Coelho,22,Right-Back,Covilhã,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Mário Felgueiras,25,Goalkeeper,FC Brasov,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Fernando Alexandre,26,Defensive Midfield,Olhanense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Jaka,21,Centre-Back,Vizela,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Lima,29,Centre-Forward,Benfica,£3.60m,out,Summer,3.6,Liga Nos,2012,2012/2013
+SC Braga,Mário Felgueiras,25,Goalkeeper,CFR Cluj,£450Th.,out,Summer,0.45,Liga Nos,2012,2012/2013
+SC Braga,Diego Silva,22,Goalkeeper,Vilaverdense FC,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Dani Coelho,22,Right-Back,Arouca,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Rodrigo Galo,25,Right-Back,Coimbra,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Rui Vieira,20,Goalkeeper,Covilhã,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Tommaso Berni,29,Goalkeeper,Sampdoria,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Emmanuel Imorou,23,Left-Back,Clermont Foot,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Nuno Gomes,35,Centre-Forward,Blackburn,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Marco Ramos,29,Left-Back,AJ Auxerre,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Hugo Lopes,22,Centre-Back,Varzim,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Braga,Vinicius,26,Central Midfield,Moreirense,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Fernando Alexandre,26,Defensive Midfield,Olhanense,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Braga,Nuno Henrique,25,Centre-Back,Coimbra,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Braga,Ladji Keita,29,Centre-Forward,Nacional,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Braga,Juankar,22,Left-Back,Real Betis,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Luís Alberto,28,Defensive Midfield,CFR Cluj,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Guilherme,21,Right Winger,Braga B,-,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Édson Rivera,20,Second Striker,Braga B,-,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Palmeira,22,Centre-Back,Braga B,-,out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Ukra,24,Right Winger,FC Porto,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Ewerton,23,Centre-Back,Coimbra-MG,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Miguel Lopes,25,Right-Back,FC Porto,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Braga,Carlao,25,Centre-Forward,Kashima Antlers,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Marcos Rojo,22,Centre-Back,Spartak Moscow,£3.60m,in,Summer,3.6,Liga Nos,2012,2012/2013
+Sporting CP,Valentín Viola,20,Left Winger,Racing Club,£3.60m,in,Summer,3.6,Liga Nos,2012,2012/2013
+Sporting CP,Zakaria Labyad,19,Attacking Midfield,PSV Eindhoven,£810Th.,in,Summer,0.81,Liga Nos,2012,2012/2013
+Sporting CP,Khalid Boulahrouz,30,Centre-Back,VfB Stuttgart,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Danijel Pranjic,30,Left-Back,Bayern Munich,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Gelson Fernandes,25,Defensive Midfield,Saint-Étienne,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Fabrice Fokobo,18,Defensive Midfield,Njalla Quan SA,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Sporting CP,Eric Dier,18,Defensive Midfield,Sporting U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Mexer,23,Centre-Back,Olhanense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Miguel Serôdio,20,Centre-Back,Moura,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Valeri Bojinov,26,Centre-Forward,Lecce,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Leandro Grimi,27,Left-Back,KRC Genk,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Atila Turan,20,Left-Back,Beira-Mar,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Pedro Mendes,21,Centre-Back,RM Castilla,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Amido Baldé,21,Centre-Forward,Cercle Brugge,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Celsinho,23,Attacking Midfield,FCM Targu Mures,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Diogo Rosado,22,Left Winger,Feirense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Jaime Valdés,31,Central Midfield,Parma,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Wilson Eduardo,21,Left Winger,Olhanense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Cédric Soares,20,Right-Back,Coimbra,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Florent Sinama-Pongolle,27,Second Striker,Saint-Étienne,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Adrien Silva,23,Central Midfield,Coimbra,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,André Marques,24,Left-Back,Beira-Mar,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Luis Aguiar,26,Central Midfield,Peñarol,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,João Pereira,28,Right-Back,Valencia,£3.33m,out,Summer,3.33,Liga Nos,2012,2012/2013
+Sporting CP,Matías Fernández,26,Attacking Midfield,Fiorentina,£2.82m,out,Summer,2.82,Liga Nos,2012,2012/2013
+Sporting CP,Jaime Valdés,31,Central Midfield,Parma,£1.62m,out,Summer,1.62,Liga Nos,2012,2012/2013
+Sporting CP,Luis Aguiar,26,Central Midfield,San Lorenzo,£360Th.,out,Summer,0.36,Liga Nos,2012,2012/2013
+Sporting CP,Florent Sinama-Pongolle,27,Second Striker,Rostov,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Valeri Bojinov,26,Centre-Forward,Hellas Verona,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Atila Turan,20,Left-Back,Orduspor,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Wilson Eduardo,22,Left Winger,Coimbra,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Alberto Rodríguez,28,Centre-Back,Rio Ave FC,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Diogo Rosado,22,Left Winger,Blackburn,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,André Marques,24,Left-Back,FC Sion,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,André Santos,23,Defensive Midfield,Dep. La Coruña,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Polga,33,Centre-Back,EC São José,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Mexer,23,Centre-Back,Nacional,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Evaldo,30,Left-Back,Dep. La Coruña,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Renato Neto,20,Defensive Midfield,Videoton FC,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Leandro Grimi,27,Left-Back,Godoy Cruz,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Amido Baldé,21,Centre-Forward,Vit. Guimarães,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Sporting CP,João Gonçalves,24,Right-Back,Vit. Guimarães,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Oguchi Onyewu,30,Centre-Back,Málaga CF,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Celsinho,23,Attacking Midfield,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Diego Rubio,19,Centre-Forward,Sporting B,-,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Pedro Mendes,21,Centre-Back,Sporting B,-,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Tiago Ferreira,37,Goalkeeper,Retired,-,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Ricardo Batista,25,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+Sporting CP,Sebastián Ribas,24,Centre-Forward,Genoa,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Rúben Brígido,21,Attacking Midfield,Leiria,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Semedo,24,Defensive Midfield,Portimonense,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Márcio Rosário,28,Centre-Back,Náutico,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Wellington,22,Goalkeeper,ABC FC,?,in,Summer,NA,Liga Nos,2012,2012/2013
+CS Marítimo,Gegé,24,Centre-Back,Covilhã,?,in,Summer,NA,Liga Nos,2012,2012/2013
+CS Marítimo,David Simão,22,Central Midfield,Benfica,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Rafael Leme Amorim,24,Centre-Back,Desportivo Aves,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Marafona,25,Goalkeeper,Desportivo Aves,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Adilson,30,Centre-Forward,Estoril,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Gonçalo Abreu,26,Right Winger,Atlético CP,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Rodrigo Antônio,24,Defensive Midfield,Belenenses SAD,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Balú,27,Defensive Midfield,Panthrakikos,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Roberto Sousa,27,Defensive Midfield,Persepolis,£1.35m,out,Summer,1.35,Liga Nos,2012,2012/2013
+CS Marítimo,Peçanha,32,Goalkeeper,Rapid Bucharest,£90Th.,out,Summer,0.09,Liga Nos,2012,2012/2013
+CS Marítimo,Selim Benachour,30,Attacking Midfield,APOEL Nicosia,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Balú,27,Defensive Midfield,AE Pafos,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Robson,29,Centre-Back,OH Leuven,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+CS Marítimo,Fábio Felicio,30,Central Midfield,Portimonense,?,out,Summer,NA,Liga Nos,2012,2012/2013
+CS Marítimo,Marafona,25,Goalkeeper,Desportivo Aves,?,out,Summer,NA,Liga Nos,2012,2012/2013
+CS Marítimo,Rafael Leme Amorim,24,Centre-Back,Unknown,?,out,Summer,NA,Liga Nos,2012,2012/2013
+CS Marítimo,Christian Pouga,26,Centre-Forward,OH Leuven,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Matej Delac,19,Goalkeeper,Chelsea,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,André André,22,Central Midfield,Varzim,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Moreno,31,Centre-Back,Nacional,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,David Addy,22,Left-Back,FC Porto,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Milan Lalkovic,19,Left Winger,Chelsea,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Amido Baldé,21,Centre-Forward,Sporting CP,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,João Gonçalves,24,Right-Back,Sporting CP,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Marco Matias,23,Right Winger,Freamunde,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Tiago Targino,26,Right Winger,Vitória Setúbal,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Faouzi Abdelghani,27,Left Winger,Ittihad,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Paulo Oliveira,20,Centre-Back,Penafiel,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Dinis,22,Defensive Midfield,Trofense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,João Ribeiro,24,Left Winger,Orduspor,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Siaka Bamba,22,Defensive Midfield,Feirense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Vítor Bastos,22,Centre-Back,Atlético CP,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Cláudio Ramos,20,Goalkeeper,Tondela,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Marcelo Resende,25,Attacking Midfield,Atlético CP,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Filipe Sousa,20,Right-Back,GD Ribeirão,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Bruno Teles,26,Left-Back,KS Samara,£270Th.,out,Summer,0.27,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Cláudio Ramos,20,Goalkeeper,Tondela,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Anderson Mineiro,26,Left-Back,Chornomorets,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Filipe Sousa,20,Right-Back,Desportivo Aves,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Nuno Assis,34,Attacking Midfield,Omonia Nikosia,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Marcelo Resende,25,Attacking Midfield,Milsami Orhei,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Emanuel Molina,25,Attacking Midfield,Cúcuta Dep.,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,João Paulo,31,Centre-Back,Omonia Nikosia,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Tiago Targino,26,Right Winger,Olhanense,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Nilson,36,Goalkeeper,Persepolis,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,João Alves,31,Central Midfield,Omonia Nikosia,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Edgar Silva,25,Centre-Forward,Al-Shabab,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Faouzi Abdelghani,27,Left Winger,Ittihad,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Paulo Sérgio,28,Attacking Midfield,AEL Limassol,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Vítor Bastos,22,Centre-Back,Guimarães B,-,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Pedro Mendes,33,Defensive Midfield,Retired,-,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Jonathan Urretaviscaya,22,Right Winger,Benfica,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Revson,24,Defensive Midfield,São Caetano,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Mexer,23,Centre-Back,Sporting CP,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Emiliano García,22,Centre-Back,CA Cerro,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Gottardi,26,Goalkeeper,Leiria,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Manuel da Costa,26,Centre-Back,Loko Moscow,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Eliandro,22,Centre-Forward,Cruzeiro,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Ladji Keita,29,Centre-Forward,Braga,?,in,Summer,NA,Liga Nos,2012,2012/2013
+CD Nacional,Bruno Moreira,24,Centre-Forward,Moreirense,?,in,Summer,NA,Liga Nos,2012,2012/2013
+CD Nacional,Miguel Rodrigues,19,Centre-Back,Leiria,?,in,Summer,NA,Liga Nos,2012,2012/2013
+CD Nacional,Kim,24,Left-Back,Resende,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Isael,24,Attacking Midfield,Coritiba FC,?,in,Summer,NA,Liga Nos,2012,2012/2013
+CD Nacional,Nuno Campos,19,Right-Back,Nacional U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Lucas João,18,Centre-Forward,Nacional U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Edgar Abreu,18,Central Midfield,Nacional U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Sérgio Duarte,19,Defensive Midfield,Nacional U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Michael John Weir,21,Centre-Back,Camacha,"End of loanJul 1, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Kéven Sousa,23,Goalkeeper,Nacional U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Ricardo Fernandes,20,Central Midfield,Camacha,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Douglas Pará,21,Forward,Camacha,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Luís Neto,24,Centre-Back,Siena,£3.29m,out,Summer,3.29,Liga Nos,2012,2012/2013
+CD Nacional,Nejc Pecnik,26,Centre-Forward,Sheff Wed,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Moreno,31,Centre-Back,Vit. Guimarães,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Elizeu,23,Centre-Back,Estoril,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Lucas João,18,Centre-Forward,Mirandela,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Ivan Todorovic,28,Defensive Midfield,Rotor Volgograd,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Danijel Stojanovic,27,Left-Back,Hajduk Split,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Igor Rocha,19,Goalkeeper,Arouca,?,out,Summer,NA,Liga Nos,2012,2012/2013
+CD Nacional,Michael John Weir,21,Centre-Back,Doxa Katokopias,?,out,Summer,NA,Liga Nos,2012,2012/2013
+CD Nacional,Danielson,31,Centre-Back,Omonia Nikosia,?,out,Summer,NA,Liga Nos,2012,2012/2013
+CD Nacional,Márcio Madeira,26,Left Winger,Portimonense,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Ricardo Fernandes,20,Central Midfield,União Madeira,?,out,Summer,NA,Liga Nos,2012,2012/2013
+CD Nacional,Marcelo Valverde,22,Goalkeeper,União Madeira,?,out,Summer,NA,Liga Nos,2012,2012/2013
+CD Nacional,Juliano Mineiro,26,Attacking Midfield,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Juninho Arcanjo,29,Attacking Midfield,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Andrés Madrid,30,Defensive Midfield,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+CD Nacional,Ladji Keita,29,Centre-Forward,Braga,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,David Silva,25,Left Midfield,Kilmarnock FC,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Liban Abdi,23,Left Midfield,Ferencváros,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Ricardo,36,Goalkeeper,Vitória Setúbal,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Fernando Alexandre,26,Defensive Midfield,Braga,?,in,Summer,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Nuno Silva,25,Right Winger,União Madeira,?,in,Summer,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Babanco,26,Central Midfield,Arouca,?,in,Summer,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Evandro Brandão,21,Right Winger,Videoton FC,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Tiago Targino,26,Right Winger,Vit. Guimarães,?,in,Summer,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Nuno Reis,21,Centre-Back,Sporting B,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Rui Sampaio,25,Central Midfield,Cagliari Calcio,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,José Luis Fernández,24,Central Midfield,Benfica,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Rafael Bracali,31,Goalkeeper,FC Porto,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Djaniny,21,Centre-Forward,Benfica,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Alex Zahavi,21,Right Winger,Maccabi Haifa,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Francesco D'Onofrio,21,Right-Back,Without Club,-,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Leandro Turossi,20,Goalkeeper,Olhanense U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Fabiano,24,Goalkeeper,FC Porto,£1.08m,out,Summer,1.08,Liga Nos,2012,2012/2013
+SC Olhanense,Cauê,23,Defensive Midfield,FC Vaslui,£630Th.,out,Summer,0.63,Liga Nos,2012,2012/2013
+SC Olhanense,Salvador Agra,20,Right Winger,Real Betis,£270Th.,out,Summer,0.27,Liga Nos,2012,2012/2013
+SC Olhanense,Jorge Araújo,23,Right-Back,Farense,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Toy,35,Centre-Forward,Doxa Katokopias,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Ismaily,22,Left-Back,Braga,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Dady,30,Centre-Forward,Apol. Limassol,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Víctor Meza,25,Centre-Forward,CD Morón,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Paulo Regula,22,Attacking Midfield,Naval,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Gerson,19,Midfielder,Algarve,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Apollon Lemondzhava,21,Centre-Forward,Rudar Prijedor,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Leandro Turossi,20,Goalkeeper,Moncarapachense,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Djalmir,36,Centre-Forward,Retired,-,out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,João Gonçalves,24,Right-Back,Sporting B,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Fernando Alexandre,26,Defensive Midfield,Braga,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Mexer,23,Centre-Back,Sporting CP,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Wilson Eduardo,21,Left Winger,Sporting CP,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Hugo Ventura,24,Goalkeeper,FC Porto,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,André Pinto,22,Centre-Back,FC Porto,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Olhanense,Mateus Borges,28,Attacking Midfield,Canedense,"End of loanJun 1, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Thomas Agyiri,18,Central Midfield,Man City U21,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Bruno Pinheiro,24,Defensive Midfield,Widzew Lodz,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Leonardo,24,Forward,Santa Cruz-RS,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Luan Scapolan,23,Defensive Midfield,GO Audax,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Ramazotti,23,Centre-Forward,FC Zürich,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Lúcio,22,Goalkeeper,Portuguesa,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,William Kwabena Tiero,31,Attacking Midfield,Al Qadisiyah,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Luciano Amaral,29,Left-Back,Villa Rio,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Califo,23,Left-Back,Mirandela,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Rafael Silva,21,Left Winger,Portuguesa,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Elízio,24,Left-Back,Anápolis-GO,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Djalma,24,Midfielder,Santo André,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Brito,24,Right Winger,Torreense,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Pedro Pereira,28,Right Winger,Desportivo Aves,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Pio,24,Central Midfield,Monte Azul-SP,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Edivaldo,19,Goalkeeper,Gil Vicente U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Pecks,23,Centre-Back,Gil Vicente U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Luan Scapolan,24,Defensive Midfield,GO Audax,"End of loanMay 1, 2013",in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Ruca,21,Left-Back,Tondela,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Rody,21,Forward,Pinhalnovense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Venú,22,Central Midfield,Santa Maria,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Hugo Vieira,23,Centre-Forward,Benfica,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,João Vilela,26,Central Midfield,Tractor,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Jorge Baptista,35,Goalkeeper,Covilhã,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Rui Faria,20,Centre-Back,Vilaverdense FC,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Ruca,21,Left-Back,Oliveira Frades,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Edivaldo,19,Goalkeeper,AD Oeiras,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Rody,21,Forward,Famalicão,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Venú,22,Central Midfield,Santa Maria,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Tó Barbosa,19,Centre-Forward,Varzim,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Elízio,25,Left-Back,Anápolis-GO,"End of loanApr 1, 2013",out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Roberto,33,Centre-Forward,Retired,-,out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Paulão,26,Centre-Back,Anápolis-GO,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Júnior Caiçara,23,Right-Back,Santo André,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Richard,23,Central Midfield,Santo André,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Guilherme,21,Right Winger,Braga,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Mauro,21,Defensive Midfield,Anápolis-GO,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Rodrigo Galo,25,Right-Back,Braga,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Zé Luís,21,Centre-Forward,Braga,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Pedro Moreira,23,Central Midfield,FC Porto B,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Vitorino Antunes,25,Left-Back,AS Roma,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Abdullah Al Hafith,19,Centre-Back,Leiria,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Jaime Poulson,23,Centre-Forward,Varzim,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Carlão,21,Defensive Midfield,Rebordosa AC,?,in,Summer,NA,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Tiago Valente,27,Centre-Back,Desportivo Aves,?,in,Summer,NA,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Paulo Loureiro,19,Left-Back,Boavista,?,in,Summer,NA,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Uillian Correia,22,Defensive Midfield,Santa Cruz-RS,?,in,Summer,NA,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Vinicio Angulo,24,Centre-Forward,Norte América,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Júlio Coelho,27,Goalkeeper,Belenenses SAD,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Cícero,26,Centre-Forward,Moreirense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Eridson,22,Centre-Back,Portimonense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Marcelo Tchê,24,Right-Back,Arouca,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Diogo Figueiras,20,Right-Back,Moreirense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Bacar Baldé,20,Left-Back,Arouca,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Jonas,19,Centre-Forward,GD Tourizense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Padraig Amond,24,Centre-Forward,Accrington,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Carlão,20,Defensive Midfield,Mirandela,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Fábio Pacheco,24,Defensive Midfield,Tondela,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Alvarinho,21,Left Winger,Torreense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Luisinho,27,Left-Back,Benfica,£1.80m,out,Summer,1.8,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Carlão,20,Defensive Midfield,Rebordosa AC,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Eridson,22,Centre-Back,Belenenses SAD,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Bacar Baldé,20,Left-Back,Tondela,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Alvarinho,21,Left Winger,Castelo Branco,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Fábio Pacheco,24,Defensive Midfield,Tondela,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Padraig Amond,24,Centre-Forward,Accrington,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Júlio Coelho,27,Goalkeeper,Penafiel,?,out,Summer,NA,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Michel Lugo,25,Left Winger,Guarany Bagé,?,out,Summer,NA,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Luís Barros,18,Goalkeeper,AD Lousada,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Christian Irobiso,19,Centre-Forward,União Madeira,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Jonas,19,Centre-Forward,Amarante,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Julio Aguilar,26,Centre-Forward,3 de Febrero,?,out,Summer,NA,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Lorenzo Melgarejo,21,Left Winger,Benfica,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Miguel Pedro,28,Right Winger,Feirense,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Cristiano,28,Left Winger,Criciúma EC,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Pedro Santos,24,Right Winger,Leixões,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Jorginho,24,Right Winger,Aliados Lordelo,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Nélson Pedroso,27,Left-Back,Desportivo Aves,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Pawel Kieszek,28,Goalkeeper,FC Porto,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Danilo,23,Defensive Midfield,Macaé,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Caleb Patterson-Sewell,25,Goalkeeper,Atlético CP,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Paulo Tavares,26,Attacking Midfield,Leixões,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Bruno Turco,20,Defensive Midfield,Macaé,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Jorge Luiz,30,Centre-Back,São Caetano,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Fonseca,27,Goalkeeper,Leixões,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Pedro Queirós,27,Right-Back,Feirense,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Bruninho,23,Right Midfield,Padroense,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Peixinho,19,Defensive Midfield,Setúbal U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Frederico Venâncio,19,Centre-Back,Setúbal U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Ricardo Dâmaso,21,Defensive Midfield,Casa Pia,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Sassá,24,Left Winger,Oliveirense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Bruno Lourenço,22,Centre-Back,Real SC,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Cristiano,29,Left Winger,Nacional,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Hugo Leal,32,Central Midfield,Estoril,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Bruno Severino,26,Right Winger,Torreense,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Miguelito,31,Left-Back,Apol. Limassol,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Neca,32,Attacking Midfield,Konyaspor,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Gonçalo Graça,22,Right Winger,Leixões,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Ricardo,36,Goalkeeper,Olhanense,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Rafa Lopes,20,Centre-Forward,Moreirense,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Bruno Lourenço,22,Centre-Back,Casa Pia,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Ricardo Dâmaso,21,Defensive Midfield,Alcochentense,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Peixinho,19,Defensive Midfield,Casa Pia,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Jorge Gonçalves,28,Right Winger,Feirense,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Matos,33,Goalkeeper,Leixões,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Tengarrinha,23,Defensive Midfield,CSKA Sofia,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Diego,33,Goalkeeper,FK Qabala,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Mamadou Djikiné,25,Defensive Midfield,Olympiakos N.,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Miguel Fidalgo,30,Centre-Forward,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Tiago Targino,26,Right Winger,Vit. Guimarães,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Alex Zahavi,21,Right Winger,Maccabi Haifa,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,John Ogu,24,Central Midfield,Leiria,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Rafik Halliche,25,Centre-Back,Fulham,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Wilson Eduardo,22,Left Winger,Sporting CP,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Rodrigo Galo,25,Right-Back,Braga,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Alphousseyni Keita,26,Defensive Midfield,Leiria,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Carlos Saleiro,26,Centre-Forward,Servette FC,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Makelele,27,Defensive Midfield,ABC FC,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Júnior Lopes,24,Centre-Back,Bragantino,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Marcos Paulo,23,Central Midfield,Leiria,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Nuno Henrique,25,Centre-Back,Braga,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Académica Coimbra,Afonso,20,Centre-Forward,Corinthians,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Cleyton,22,Attacking Midfield,Santa Rita,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Salim Cissé,19,Centre-Forward,Arezzo,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Académica Coimbra,Bruno China,29,Central Midfield,Rio Ave FC,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Académica Coimbra,Saná Camará,20,Central Midfield,Real Valladolid,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Académica Coimbra,Serge N'Gal,26,Right Winger,USM Alger,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Académica Coimbra,Reiner Ferreira,26,Centre-Back,Corinthians,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Académica Coimbra,Issouf,19,Centre-Back,Académica U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Christo Amessan,21,Left Winger,US Créteil,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Paulo Grilo,20,Defensive Midfield,Santa Clara,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Diogo Ribeiro,21,Centre-Forward,Sertanense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Bassalia Ouattara,20,Left Winger,Gondomar,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Diogo Valente,27,Left Winger,CFR Cluj,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Diogo Melo,28,Defensive Midfield,Sanat Naft,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Pape Sow,26,Centre-Back,Panathinaikos,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Diogo Ribeiro,21,Centre-Forward,Braga B,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Éder,24,Centre-Forward,Braga,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Hugo Morais,34,Central Midfield,União Madeira,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Júnior Lopes,25,Centre-Back,Nova Iguaçu,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Paulo Grilo,20,Defensive Midfield,Covilhã,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Ghislain Mvom,19,Centre-Back,Benfica B,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Bassalia Ouattara,20,Left Winger,União Madeira,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Issouf,19,Centre-Back,FC Pampilhosa,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Nuno Henrique,25,Centre-Back,Blackburn,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Académica Coimbra,Christo Amessan,21,Left Winger,Arouca,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Saulo,30,Right Winger,AE Pafos,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Académica Coimbra,Rui Miguel,28,Centre-Forward,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Orlando,32,Centre-Back,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Diogo Gomes,26,Central Midfield,Retired,-,out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Adrien Silva,23,Central Midfield,Sporting CP,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Cédric Soares,20,Right-Back,Sporting CP,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Danilo Cintra,27,Attacking Midfield,Macaé,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Abdoulaye Ba,21,Centre-Back,FC Porto,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,David Simão,22,Central Midfield,Benfica,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Willian Araújo,18,Centre-Forward,Corinthians,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Reiner Ferreira,26,Centre-Back,Corinthians,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,David Fleurival,28,Central Midfield,FC Metz,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Cédric Collet,28,Left Winger,Stade Reims,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Hélder Lopes,23,Left-Back,Tondela,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Bruno Jorge,27,Goalkeeper,Moreirense,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Vincent Sasso,21,Centre-Back,FC Nantes,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Rúben Ribeiro,24,Left Winger,Penafiel,?,in,Summer,NA,Liga Nos,2012,2012/2013
+SC Beira-Mar,Rafael Batatinha,22,Right Winger,Tondela,?,in,Summer,NA,Liga Nos,2012,2012/2013
+SC Beira-Mar,Leandro Ratinho,21,Defender,Cotia-SP,?,in,Summer,NA,Liga Nos,2012,2012/2013
+SC Beira-Mar,Seydou Sow,18,Centre-Forward,Without Club,-,in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Filipe Melo,22,Defensive Midfield,Arouca,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Hugo Seixas,21,Forward,Monsanto,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Luis Tinoco,25,Left-Back,Estoril,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,André Sousa,21,Central Midfield,Covilhã,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Dominic Reinold,23,Attacking Midfield,Covilhã,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Djiman Koukou,21,Defensive Midfield,Belenenses SAD,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Édson Silva,28,Right-Back,Santa Clara,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Tiago Barros,24,Central Midfield,Tondela,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Yohan Tavares,24,Centre-Back,Standard Liège,£450Th.,out,Summer,0.45,Liga Nos,2012,2012/2013
+SC Beira-Mar,Felipe Desco,23,Forward,Itapirense-SP,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Élio Martins,27,Centre-Forward,PFC Beroe,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Édson Silva,28,Right-Back,Tondela,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Tiago Barros,24,Central Midfield,Tondela,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Artur,28,Attacking Midfield,Chornomorets,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Beira-Mar,Filipe Melo,22,Defensive Midfield,Naval,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Beira-Mar,Luis Tinoco,25,Left-Back,Naval,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Beira-Mar,Hugo Seixas,21,Forward,UD Tocha,?,out,Summer,NA,Liga Nos,2012,2012/2013
+SC Beira-Mar,Paes,29,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Edson Sitta,29,Defensive Midfield,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Dominic Reinold,23,Attacking Midfield,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,André Marques,24,Left-Back,Sporting CP,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Chengdong Zhang,23,Right Winger,Mafra,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Nuno Coelho,24,Centre-Back,Benfica,"End of loanJun 1, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Atila Turan,20,Left-Back,Sporting CP,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Cássio,28,Centre-Forward,Rapid Bucharest,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Jefferson,23,Left-Back,Desp. Brasil,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Luís Leal,25,Right Winger,Leiria,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Bruno Miguel,29,Centre-Back,Astra Ploiesti,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Mano,25,Right-Back,APO Levadiakos,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Hugo Leal,32,Central Midfield,Vitória Setúbal,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Carlitos,29,Left Midfield,Hannover 96,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Elizeu,23,Centre-Back,Nacional,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Renan,21,Goalkeeper,Corinthians,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Evandro,25,Attacking Midfield,Desp. Brasil,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,João Paulo,33,Centre-Forward,Xäzär Länkäran,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Estoril Praia,João Falque,18,Centre-Forward,Botafogo U17,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Estoril Praia,Carlos Eduardo,22,Attacking Midfield,Desp. Brasil,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Estoril Praia,Pedro Henrique,21,Centre-Forward,Freamunde,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Estoril Praia,João Pedro,24,Centre-Back,Desportivo Aves,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Estoril Praia,Dieguinho,20,Right Winger,Desp. Brasil,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Diogo Amado,22,Defensive Midfield,Sheff Wed,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Estoril Praia,Leandro Borges,20,Left Winger,Trofense,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Alexandre Hauw,30,Left Midfield,MDA Chasselay,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Vítor Moreno,31,Right-Back,Atlético CP,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Ernesto,32,Goalkeeper,Vilankulo FC,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Diogo Tavares,25,Centre-Forward,Santa Clara,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Janú Silva,20,Centre-Forward,Lourel,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Estoril Praia,Lameirão,31,Centre-Back,C.R.D. Libolo,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Estoril Praia,Bruno,23,Central Midfield,Naval,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Estoril Praia,Erick,24,Central Midfield,Portimonense,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Pedro Moreira,29,Centre-Forward,Nea Salamis,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Estoril Praia,Bruno Fogaça,30,Centre-Forward,Retired,-,out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Evandro,26,Attacking Midfield,Desp. Brasil,"End of loanMay 31, 2013",out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Dieguinho,20,Right Winger,Desp. Brasil,"End of loanMay 1, 2013",out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Rodrigo Silva,29,Centre-Forward,Leiria,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Fabrício Simões,27,Centre-Forward,Leiria,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Diogo Amado,22,Defensive Midfield,Leiria,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Luis Tinoco,25,Left-Back,Beira-Mar,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Adilson,30,Centre-Forward,Marítimo,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Estoril Praia,Carlos Eduardo,22,Attacking Midfield,Desp. Brasil,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Filipe Augusto,18,Defensive Midfield,EC Bahia,£1.98m,in,Summer,1.98,Liga Nos,2012,2012/2013
+Rio Ave FC,Fabinho,18,Defensive Midfield,Fluminense U20,£450Th.,in,Summer,0.45,Liga Nos,2012,2012/2013
+Rio Ave FC,Isma,21,Centre-Forward,OGC Nice,£360Th.,in,Summer,0.36,Liga Nos,2012,2012/2013
+Rio Ave FC,Isma,21,Centre-Forward,St. Mirren,"End of loanMay 15, 2013",in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Ederson,18,Goalkeeper,GD Ribeirão,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Alberto Rodríguez,28,Centre-Back,Sporting CP,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Nivaldo,32,Centre-Back,M. Tel Aviv,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,William Soares,23,Defensive Midfield,FC Porto,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Tope Obadeyi,22,Left Winger,Bolton,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Yonathan Del Valle,22,Left Winger,AJ Auxerre,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Lionn,23,Right-Back,CFR Cluj,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Edimar,26,Left-Back,CFR Cluj,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Diego Lopes,18,Attacking Midfield,Benfica B,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Ukra,24,Right Winger,FC Porto,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Zé Diogo,18,Right-Back,Varzim,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Rio Ave FC,André Costa,19,Right Midfield,Gondomar,?,in,Summer,NA,Liga Nos,2012,2012/2013
+Rio Ave FC,Jan Oblak,19,Goalkeeper,Benfica,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Ivo Pinto,23,Right-Back,CFR Cluj,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Kiki,17,Left-Back,Rio Ave FC U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Goba,19,Centre-Forward,Rio Ave FC U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Tiago Silva,21,Left Winger,GD Ribeirão,"End of loanMay 30, 2013",in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Ahmed Hassan,19,Centre-Forward,Rio Ave FC U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Tiago Silva,20,Left Winger,Rio Ave FC U19,-,in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Renato Santos,20,Right Winger,Moreirense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,André Geraldes,21,Right-Back,Desportivo Aves,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Ricardo Martins,22,Central Midfield,Desportivo Aves,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Pedro Trigueira,24,Goalkeeper,Trofense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Feliz,23,Right Winger,Trofense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Gilmar,20,Centre-Forward,Trofense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Marcelo,22,Centre-Back,Leixões,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Rafinha,23,Attacking Midfield,Leixões,"End of loanJun 1, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,André Geraldes,21,Right-Back,Istanbul BBSK,£1.08m,out,Summer,1.08,Liga Nos,2012,2012/2013
+Rio Ave FC,Anselmo,28,Centre-Forward,Tractor,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Goba,19,Centre-Forward,Gondomar,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Tiago Pinto,24,Left-Back,Dep. La Coruña,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Zé Gomes,36,Right-Back,Bragança,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Huanderson,29,Goalkeeper,Iraklis,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Ricardo Martins,22,Central Midfield,Famalicão,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Rafinha,23,Attacking Midfield,Unknown,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,João Mendes,24,Right Winger,Portimonense,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Gaspar,37,Centre-Back,Covilhã,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Pedro Trigueira,24,Goalkeeper,Cinfães,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Tiago Costa,27,Right-Back,Olympiakos N.,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Gilmar,20,Centre-Forward,GD Ribeirão,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Feliz,23,Right Winger,GD Ribeirão,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Rio Ave FC,Fabinho,18,Defensive Midfield,RM Castilla,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Renato Santos,20,Right Winger,Desportivo Aves,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Tiago Silva,20,Left Winger,GD Ribeirão,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Bruno China,29,Central Midfield,Coimbra,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Rio Ave FC,Jorginho,35,Attacking Midfield,Without Club,-,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Paulo Santos,39,Goalkeeper,Retired,-,out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Ivo Pinto,22,Right-Back,CFR Cluj,"End of loanJul 2, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Yazalde,23,Centre-Forward,Braga,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Éder Monteiro,28,Centre-Back,Anápolis-GO,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Kelvin,19,Right Winger,FC Porto,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Christian Atsu,20,Left Winger,FC Porto,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Fábio Faria,23,Centre-Back,Benfica,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Jean Sony Alcénat,26,Right-Back,Leixões,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Diego Gaúcho,30,Centre-Back,Astra Ploiesti,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Nilson Júnior,20,Centre-Back,CRB,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Rafa Lopes,20,Centre-Forward,Vitória Setúbal,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Paulinho,20,Right-Back,Leixões,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,André Luiz,26,Right Winger,Brasiliense-DF,Free transfer,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Rui Santos,23,Goalkeeper,AD Oeiras,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Pablo Olivera,24,Second Striker,River Plate,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Jô,23,Second Striker,Juventus-AC,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Ricardo Pessoa,30,Right-Back,Portimonense,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Vinicius,26,Central Midfield,Braga,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Renato Augusto,20,Defensive Midfield,Palmeiras,Loan,in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Pica,26,Centre-Back,Tondela,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Robson,24,Attacking Midfield,Portimonense,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Marcelo Carneiro,19,Central Midfield,GD Ribeirão,"End of loanJun 30, 2012",in,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Jonathan Bru,27,Defensive Midfield,Melbourne,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Bruno Jorge,27,Goalkeeper,Beira-Mar,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Chico Gomes,24,Right-Back,Portimonense,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Miguel Oliveira,28,Centre-Back,Arouca,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Marcelo Carneiro,19,Central Midfield,GD Joane,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Césinha,32,Second Striker,Petrolul,Free transfer,out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Tiago Carneiro,28,Left Winger,Tondela,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Moreirense FC,Vítor Pinto,26,Left-Back,Freamunde,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Moreirense FC,Robson,24,Attacking Midfield,Penafiel,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Moreirense FC,João Vicente,27,Left-Back,Arouca,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Moreirense FC,Bruno Moreira,24,Centre-Forward,Nacional,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Moreirense FC,Pica,29,Centre-Back,Tondela,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Moreirense FC,Luís Pinto,30,Attacking Midfield,Arouca,?,out,Summer,NA,Liga Nos,2012,2012/2013
+Moreirense FC,Mário Mateus,20,Central Midfield,Futebol Benfica,Loan,out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Rui Santos,23,Goalkeeper,AD Oeiras,"End of loanSep 1, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Jô,24,Second Striker,Juventus-AC,"End of loanOct 17, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Renato Santos,20,Right Winger,Rio Ave FC,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Diogo Figueiras,20,Right-Back,Paços Ferreira,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+Moreirense FC,Cícero,26,Centre-Forward,Paços Ferreira,"End of loanJun 30, 2012",out,Summer,0,Liga Nos,2012,2012/2013
+FC Porto,Marat Izmailov,30,Central Midfield,Sporting CP,£900Th.,in,Winter,0.9,Liga Nos,2012,2012/2013
+FC Porto,Liedson,35,Centre-Forward,Flamengo,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+FC Porto,Jorge Fucile,28,Right-Back,Santos FC,"End of loanDec 31, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+FC Porto,Josef,23,Defensive Midfield,Grêmio,"End of loanDec 31, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+FC Porto,Josef,23,Defensive Midfield,Grêmio,£3.38m,out,Winter,3.38,Liga Nos,2012,2012/2013
+FC Porto,Miguel Lopes,26,Right-Back,Sporting CP,£1.58m,out,Winter,1.58,Liga Nos,2012,2012/2013
+FC Porto,Juan Iturbe,19,Left Winger,River Plate,Loan fee:£1.35m,out,Winter,1.35,Liga Nos,2012,2012/2013
+FC Porto,Rolando,27,Centre-Back,SSC Napoli,Loan fee:£900Th.,out,Winter,0.9,Liga Nos,2012,2012/2013
+FC Porto,Emídio Rafael,26,Left-Back,Braga,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+FC Porto,Kléber,22,Centre-Forward,Palmeiras,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+FC Porto,Hugo Ventura,25,Goalkeeper,Sporting CP,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+SL Benfica,Hugo Vieira,24,Centre-Forward,Sporting Gijón,"End of loanJan 22, 2013",in,Winter,0,Liga Nos,2012,2012/2013
+SL Benfica,Airton,22,Defensive Midfield,Flamengo,"End of loanFeb 1, 2013",in,Winter,0,Liga Nos,2012,2012/2013
+SL Benfica,Da Silva,24,Central Midfield,Ponte Preta,"End of loanDec 1, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+SL Benfica,Roderick Miranda,21,Centre-Back,Dep. La Coruña,"End of loanDec 31, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+SL Benfica,José Luis Fernández,25,Central Midfield,Olhanense,"End of loanDec 31, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+SL Benfica,Bruno César,24,Attacking Midfield,Ahli,£4.50m,out,Winter,4.5,Liga Nos,2012,2012/2013
+SL Benfica,Nolito,26,Left Winger,Granada CF,Loan fee:£540Th.,out,Winter,0.54,Liga Nos,2012,2012/2013
+SL Benfica,Airton,23,Defensive Midfield,Internacional,Loan fee:£270Th.,out,Winter,0.27,Liga Nos,2012,2012/2013
+SL Benfica,Hugo Vieira,24,Centre-Forward,Gil Vicente,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+SL Benfica,Da Silva,24,Central Midfield,Osasco-SP,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+SL Benfica,José Luis Fernández,25,Central Midfield,Godoy Cruz,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+SC Braga,Vincent Sasso,21,Centre-Back,Beira-Mar,£675Th.,in,Winter,0.675,Liga Nos,2012,2012/2013
+SC Braga,João Pedro,26,Right-Back,Naval,£90Th.,in,Winter,0.09,Liga Nos,2012,2012/2013
+SC Braga,Emídio Rafael,26,Left-Back,FC Porto,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+SC Braga,Rabiola,23,Centre-Forward,Desportivo Aves,?,in,Winter,NA,Liga Nos,2012,2012/2013
+SC Braga,Luís Alberto,29,Defensive Midfield,CFR Cluj,"End of loanJun 30, 2013",in,Winter,0,Liga Nos,2012,2012/2013
+SC Braga,Ismaily,23,Left-Back,Shakhtar D.,£3.60m,out,Winter,3.6,Liga Nos,2012,2012/2013
+SC Braga,Samuel Jesus,26,Centre-Back,São Bernardo-SP,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+SC Braga,Paulo César,33,Right Winger,Santa Cruz,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+SC Braga,Yazalde,24,Centre-Forward,Beira-Mar,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+SC Braga,Beto,30,Goalkeeper,Sevilla FC,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+SC Braga,Chindeu Vine,18,Centre-Forward,Portsmouth,"End of loanDec 31, 2012",out,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Miguel Lopes,26,Right-Back,FC Porto,£1.58m,in,Winter,1.58,Liga Nos,2012,2012/2013
+Sporting CP,Hugo Ventura,25,Goalkeeper,FC Porto,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Joãozinho,23,Left-Back,Beira-Mar,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Tiago Ilori,19,Centre-Back,Sporting B,-,in,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Bruma,18,Left Winger,Sporting B,-,in,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Renato Neto,21,Defensive Midfield,Videoton FC,"End of loanDec 31, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Valeri Bojinov,26,Centre-Forward,Hellas Verona,"End of loanDec 31, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Emiliano Insúa,24,Left-Back,Atlético Madrid,£3.15m,out,Winter,3.15,Liga Nos,2012,2012/2013
+Sporting CP,Marat Izmailov,30,Central Midfield,FC Porto,£900Th.,out,Winter,0.9,Liga Nos,2012,2012/2013
+Sporting CP,Daniel Carriço,24,Centre-Back,Reading,£675Th.,out,Winter,0.675,Liga Nos,2012,2012/2013
+Sporting CP,Elias,27,Central Midfield,Flamengo,Loan fee:£585Th.,out,Winter,0.585,Liga Nos,2012,2012/2013
+Sporting CP,Gelson Fernandes,26,Defensive Midfield,FC Sion,Loan fee:£270Th.,out,Winter,0.27,Liga Nos,2012,2012/2013
+Sporting CP,Bruno Pereirinha,24,Right Winger,Lazio,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Valeri Bojinov,26,Centre-Forward,Vicenza,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Danijel Pranjic,31,Left-Back,Celta de Vigo,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Renato Neto,21,Defensive Midfield,KAA Gent,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Sporting CP,Xandão,24,Centre-Back,Desp. Brasil,"End of loanFeb 18, 2013",out,Winter,0,Liga Nos,2012,2012/2013
+CS Marítimo,Artur,28,Attacking Midfield,Chornomorets,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+CS Marítimo,Hyun-jun Suk,21,Centre-Forward,FC Groningen,?,in,Winter,NA,Liga Nos,2012,2012/2013
+CS Marítimo,Fidelis,23,Centre-Forward,Marítimo B,-,in,Winter,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Jona,24,Centre-Forward,Granada CF,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Tiago Rodrigues,20,Attacking Midfield,Guimarães B,-,in,Winter,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Marcelo Toscano,27,Centre-Forward,Figueirense FC,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Rodrigo Defendi,26,Centre-Back,Botafogo,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Milan Lalkovic,20,Left Winger,Chelsea,"End of loanDec 31, 2012",out,Winter,0,Liga Nos,2012,2012/2013
+Vitória Guimarães SC,Matej Delac,20,Goalkeeper,Chelsea,"End of loanDec 31, 2012",out,Winter,0,Liga Nos,2012,2012/2013
+CD Nacional,Aly Ghazal,20,Defensive Midfield,Wadi Degla U23,£36Th.,in,Winter,0.036,Liga Nos,2012,2012/2013
+CD Nacional,David Crespo,18,Defensive Midfield,Nacional U19,-,in,Winter,0,Liga Nos,2012,2012/2013
+CD Nacional,Isael,24,Attacking Midfield,Krasnodar,£450Th.,out,Winter,0.45,Liga Nos,2012,2012/2013
+CD Nacional,Rene Mihelic,24,Attacking Midfield,Levski Sofia,Loan fee:£108Th.,out,Winter,0.108,Liga Nos,2012,2012/2013
+CD Nacional,Oliver Minatel,20,Centre-Forward,Velo Clube-SP,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+CD Nacional,Mayko,21,Defensive Midfield,Aquidauanense,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+CD Nacional,Emiliano García,23,Centre-Back,Boston River,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+CD Nacional,Kim,25,Left-Back,Resende,"End of loanJan 18, 2013",out,Winter,0,Liga Nos,2012,2012/2013
+SC Olhanense,Tiago Terroso,25,Defensive Midfield,Chornomorets,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+SC Olhanense,Lucas Souza,22,Defensive Midfield,Paraná,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+SC Olhanense,Thalles,21,Centre-Forward,Palmeiras U20,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+SC Olhanense,Pepe,24,Forward,Canoas Sport Club (RS),?,in,Winter,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Djalmir,36,Centre-Forward,Retired,-,in,Winter,0,Liga Nos,2012,2012/2013
+SC Olhanense,Vítor Vinha,26,Left-Back,Gil Vicente,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+SC Olhanense,Nuno Silva,26,Right Winger,C.R.D. Libolo,?,out,Winter,NA,Liga Nos,2012,2012/2013
+SC Olhanense,Rui Sampaio,25,Central Midfield,Cagliari Calcio,"End of loanDec 31, 2012",out,Winter,0,Liga Nos,2012,2012/2013
+SC Olhanense,José Luis Fernández,25,Central Midfield,Benfica,"End of loanDec 31, 2012",out,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Hugo Vieira,24,Centre-Forward,Benfica,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Vítor Vinha,26,Left-Back,Olhanense,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,João Vilela,27,Central Midfield,Tractor,?,in,Winter,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Luís Martins,20,Left-Back,Benfica B,?,in,Winter,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Gabriel Rodríguez,24,Centre-Forward,Audax Italiano,?,in,Winter,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Paulo Jorge,31,Right Winger,Ittihad,?,in,Winter,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Valdinho,23,Centre-Forward,Desportivo Aves,?,in,Winter,NA,Liga Nos,2012,2012/2013
+Gil Vicente FC,Sidnei,26,Central Midfield,C.R.D. Libolo,"End of loanDec 31, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Rui Faria,20,Centre-Back,Vilaverdense FC,"End of loanDec 1, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Bruno Pinheiro,25,Defensive Midfield,Maccabi Netanya,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Ramazotti,24,Centre-Forward,Bragantino,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Rui Faria,20,Centre-Back,Mirandela,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Sidnei,26,Central Midfield,C.R.D. Libolo,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Leonardo,24,Forward,Luverdense,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Luan Scapolan,24,Defensive Midfield,GO Audax,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Pio,24,Central Midfield,Monte Azul-SP,"End of loanJan 8, 2013",out,Winter,0,Liga Nos,2012,2012/2013
+Gil Vicente FC,Rafael Silva,22,Left Winger,Portuguesa,"End of loanJan 15, 2013",out,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Duarte Duarte,25,Left Winger,Benfica B,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Luís Sousa,23,Left-Back,CD Fátima,?,in,Winter,NA,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Christian Irobiso,19,Centre-Forward,União Madeira,"End of loanJan 1, 2013",in,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Paulo Freitas,18,Goalkeeper,Paços F. U19,-,in,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Zé Valente,18,Attacking Midfield,Paços F. U19,-,in,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Luís Barros,19,Goalkeeper,AD Lousada,"End of loanDec 31, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Luís Barros,19,Goalkeeper,AC Vila Meã,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Marcelo Tchê,24,Right-Back,Anápolis,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Rafinha,20,Attacking Midfield,Tirsense,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Sassá,24,Centre-Forward,EC Bahia,?,out,Winter,NA,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Uillian Correia,23,Defensive Midfield,Feirense,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Vitorino Antunes,25,Left-Back,Málaga CF,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Arturo Álvarez,27,Left Winger,Videoton FC,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+FC Paços de Ferreira,Vinicio Angulo,24,Centre-Forward,Norte América,"End of loanJan 25, 2013",out,Winter,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Ariza Makukula,31,Centre-Forward,Karsiyaka,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Ricardo Horta,18,Left Winger,Setúbal U19,-,in,Winter,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Sassá,24,Left Winger,Volta Redonda,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Gonçalo Reyes,19,Attacking Midfield,Casa Pia,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Vitória Setúbal FC,Meyong,32,Centre-Forward,Kabuscorp SC,?,out,Winter,NA,Liga Nos,2012,2012/2013
+Académica Coimbra,Christo Amessan,22,Left Winger,Arouca,"End of loanDec 31, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Bassalia Ouattara,20,Left Winger,União Madeira,"End of loanDec 31, 2012",in,Winter,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Magique,20,Left Winger,Trofense,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Académica Coimbra,Bassalia Ouattara,20,Left Winger,UD Tocha,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Tonel,32,Centre-Back,Dinamo Zagreb,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Yazalde,24,Centre-Forward,Braga,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Tozé Marreco,25,Centre-Forward,Naval,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Rui Sampaio,25,Central Midfield,Cagliari Calcio,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Dani Abalo,25,Right Winger,Celta de Vigo,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Vincent Sasso,21,Centre-Back,Braga,£675Th.,out,Winter,0.675,Liga Nos,2012,2012/2013
+SC Beira-Mar,Djiman Koukou,22,Defensive Midfield,Chamois Niort,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Tiago Cintra,23,Centre-Forward,Desportivo Aves,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Joãozinho,23,Left-Back,Sporting CP,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+SC Beira-Mar,Cédric Collet,28,Left Winger,Without Club,-,out,Winter,0,Liga Nos,2012,2012/2013
+Estoril Praia,Yohan Tavares,24,Centre-Back,Standard Liège,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+Estoril Praia,Frédéric Mendy,24,Centre-Forward,Home Utd.,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Estoril Praia,Pedro Henrique,21,Centre-Forward,Covilhã,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Estoril Praia,Bruno Nascimento,21,Centre-Back,Desp. Brasil,"End of loanJan 28, 2013",out,Winter,0,Liga Nos,2012,2012/2013
+Estoril Praia,Renan,22,Goalkeeper,Corinthians,"End of loanJan 1, 2013",out,Winter,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Bebé,22,Left Winger,Man Utd,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Tiago Pinto,24,Left-Back,Racing,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Isma,21,Centre-Forward,St. Mirren,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Rio Ave FC,Vítor Gomes,25,Central Midfield,Videoton FC,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Rio Ave FC,João Tomás,37,Centre-Forward,C.R.D. Libolo,?,out,Winter,NA,Liga Nos,2012,2012/2013
+Rio Ave FC,William Soares,24,Defensive Midfield,Arouca,Loan,out,Winter,0,Liga Nos,2012,2012/2013
+Moreirense FC,Jorge Chula,22,Right Winger,Sporting B,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+Moreirense FC,Florent Hanin,22,Left-Back,Braga B,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+Moreirense FC,Tijani Belaid,25,Attacking Midfield,Union Berlin,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Moreirense FC,Christian Kinkela,30,Right Midfield,CS Sedan,Free transfer,in,Winter,0,Liga Nos,2012,2012/2013
+Moreirense FC,Aníbal Capela,21,Centre-Back,Braga B,Loan,in,Winter,0,Liga Nos,2012,2012/2013
+Moreirense FC,André Luiz,27,Right Winger,Fortaleza,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+Moreirense FC,Césinha,32,Second Striker,Petrolul,Free transfer,out,Winter,0,Liga Nos,2012,2012/2013
+Moreirense FC,Júlio César,28,Defensive Midfield,Feirense,?,out,Winter,NA,Liga Nos,2012,2012/2013
+Moreirense FC,Jô,24,Second Striker,Juventus-AC,"End of loanOct 17, 2012",out,Winter,0,Liga Nos,2012,2012/2013

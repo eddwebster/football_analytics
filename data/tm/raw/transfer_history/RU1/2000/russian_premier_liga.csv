@@ -1,0 +1,352 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Spartak Moscow,Jerry-Christian Tchuisse,25,Right-Back,Chernomorets N.,£720k,in,0.72,Premier Liga,2000,2000/2001
+Spartak Moscow,Dmitri Sychev,17,Centre-Forward,Spartak Tambov,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Spartak Moscow,Igor Mitreski,21,Centre-Back,Sileks,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Spartak Moscow,Eduard Tsykhmeistruk,27,Left Winger,Levski Sofia,?,in,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Nikola Gjosevski,21,Left-Back,Sileks,?,in,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Marcão,27,Centre-Forward,Mirassol (SP),Loan,in,0,Premier Liga,2000,2000/2001
+Spartak Moscow,Mikhail Kupriyanov,27,Right-Back,Rostselmash,?,in,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Jafar Irismetov,24,Centre-Forward,Dustlik,?,in,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Alexandre Lopes,26,Centre-Back,Fluminense,?,in,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Andrejs Stolcers,25,Attacking Midfield,Shakhtar D.,Loan,in,0,Premier Liga,2000,2000/2001
+Spartak Moscow,Oleksandr Hranovsky,24,Right-Back,Kryvbas,?,in,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Dmitri Bugakov,21,Centre-Back,Sokol Saratov,?,in,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Otar Khizaneishvili,18,Centre-Back,Dinamo Tbilisi,?,in,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Maksim Buznikin,23,Centre-Forward,Saturn,"End of loanDec 1, 2000",in,0,Premier Liga,2000,2000/2001
+Spartak Moscow,Maksim Buznikin,23,Centre-Forward,Loko Moscow,£450k,out,0.45,Premier Liga,2000,2000/2001
+Spartak Moscow,Valeri Kechinov,26,Second Striker,Saturn,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Spartak Moscow,Evgeni Bushmanov,29,Centre-Back,KS Samara,?,out,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Maksim Buznikin,23,Centre-Forward,Saturn,Loan,out,0,Premier Liga,2000,2000/2001
+Spartak Moscow,Aleksandr Shchegolev,28,Right-Back,Fakel Voronezh,?,out,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Viktor Bukievskiy,21,Centre-Back,Saturn,?,out,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Dmitri Khlestov,29,Right-Back,Besiktas,?,out,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Eduard Mor,22,Centre-Back,Saturn,?,out,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Aleksey Meleshin,24,Right Winger,Saturn,?,out,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Andrey Tikhonov,29,Attacking Midfield,KS Samara,?,out,NA,Premier Liga,2000,2000/2001
+Spartak Moscow,Andrejs Stolcers,26,Attacking Midfield,Shakhtar D.,"End of loanDec 1, 2000",out,0,Premier Liga,2000,2000/2001
+Spartak Moscow,Milan Jovic,24,Centre-Back,Chernomorets N.,,out,NA,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Sergey Ignashevich,21,Centre-Back,KS Samara,£720k,in,0.72,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Milan Obradovic,23,Centre-Back,FK Obilic,£450k,in,0.45,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Maksim Buznikin,23,Centre-Forward,Spartak Moscow,£450k,in,0.45,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Jacob Lekgetho,26,Left-Back,M. Swallows,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,James Obiorah,22,Centre-Forward,Grasshoppers,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Platon Zakharchuk,28,Goalkeeper,Sokol Saratov,?,in,NA,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Marat Izmailov,18,Central Midfield,Loko Moscow II,-,in,0,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Aleksey Smertin,25,Defensive Midfield,G. Bordeaux,£2.70m,out,2.7,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Dmitri Bulykin,21,Centre-Forward,Dinamo Moscow,£675k,out,0.675,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Oleg Pashinin,26,Centre-Back,Sanf. Hiroshima,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Philippe De Azevedo,25,Centre-Forward,Campomaiorense,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Ilya Tsymbalar,31,Central Midfield,Anzhi,?,out,NA,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Aleksey Polyakov,26,Goalkeeper,KS Samara,?,out,NA,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Oleg Garas,23,Centre-Forward,Fakel Voronezh,?,out,NA,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Oleg Terekhin,30,Centre-Forward,Kuban Krasnodar,?,out,NA,Premier Liga,2000,2000/2001
+Lokomotiv Moscow,Sargis Hovhannisyan,32,Right Midfield,Rubin Kazan,?,out,NA,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Dmitri Ogorodnik,22,Centre-Forward,Dnepr-Transmash,£243k,in,0.243,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Oleksandr Spivak,25,Left Midfield,Dnipro,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Aleksandr Kerzhakov,18,Centre-Forward,Svetogorets Svetogorsk,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Valeri Tsvetkov,22,Left-Back,Pskov,?,in,NA,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Evgeni Tarasov,21,Centre-Forward,Kairat Almaty,?,in,NA,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Igor Nedorezov,19,Centre-Back,Pskov,?,in,NA,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Aleksey Lazarev,19,Right-Back,Zenit II,-,in,0,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Andrey Arshavin,19,Second Striker,Zenit 2 S-Pb,-,in,0,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Sergey Vasyanovich,18,Right Winger,Zenit II,-,in,0,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Aleksandr Panov,24,Centre-Forward,Saint-Étienne,£1.80m,out,1.8,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Roman Berezovskiy,26,Goalkeeper,Torpedo Moscow,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Yurii Vernydub,34,Centre-Back,Metalurh Z.,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Andrey Kondrashov,28,Centre-Back,Uralan,?,out,NA,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Alexandru Curtianu,26,Attacking Midfield,Zimbru Chisinau,?,out,NA,Premier Liga,2000,2000/2001
+Zenit St. Petersburg,Yuri Yaskov,19,Forward,Zenit 2 S-Pb,-,out,0,Premier Liga,2000,2000/2001
+Torpedo Moscow,Sergey Kormiltsev,26,Central Midfield,Dynamo Kyiv,£720k,in,0.72,Premier Liga,2000,2000/2001
+Torpedo Moscow,Roman Berezovskiy,26,Goalkeeper,Zenit S-Pb,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Torpedo Moscow,Johann Duveau,22,Left Winger,Marítimo,?,in,NA,Premier Liga,2000,2000/2001
+Torpedo Moscow,Aleksandr Familtsev,25,Centre-Back,Yesil-Bogatyr,?,in,NA,Premier Liga,2000,2000/2001
+Torpedo Moscow,Alexandru Curtianu,26,Attacking Midfield,Zimbru Chisinau,?,in,NA,Premier Liga,2000,2000/2001
+Torpedo Moscow,Maksim Aristarkhov,20,Centre-Forward,Torpedo II,-,in,0,Premier Liga,2000,2000/2001
+Torpedo Moscow,Vitali Volkov,19,Left-Back,Torpedo II,-,in,0,Premier Liga,2000,2000/2001
+Torpedo Moscow,Andrii Sapuha,24,Right-Back,Lokomotiv NN,"End of loanDec 1, 2000",in,0,Premier Liga,2000,2000/2001
+Torpedo Moscow,Vyacheslav Kamoltsev,28,Centre-Forward,Kocaelispor,"End of loanJun 30, 2000",in,0,Premier Liga,2000,2000/2001
+Torpedo Moscow,Andrii Sapuha,23,Right-Back,Lokomotiv NN,Loan,out,0,Premier Liga,2000,2000/2001
+Torpedo Moscow,Vladimir Kazakov,30,Central Midfield,Uralan,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo Moscow,Arsen Avakov,29,Centre-Forward,Uralan,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo Moscow,Evgeni Durnev,28,Right Midfield,Lotto-MKM Moskau,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo Moscow,Sergey Burchenkov,23,Centre-Back,Uralan,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo Moscow,Radislav Orlovskiy,30,Left Midfield,Fakel Voronezh,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo Moscow,Aleksandr Ignatjev,28,Right Midfield,Lokomotiv NN,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo Moscow,Marat Makhmutov,25,Right-Back,Shinnik,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo Moscow,Evgeni Kornyukhin,33,Goalkeeper,Shinnik,?,out,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Aleksey Arifullin,30,Right-Back,Lokomotiv 2,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Karen Dokhoyan,23,Left-Back,Araks Ararat,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Andrey Karyaka,22,Left Winger,ZSKA Kyiv,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Sergey Vinogradov,19,Centre-Forward,Pskov,£23k,in,0.023,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Oleksandr Lavrentsov,27,Goalkeeper,Kryvbas,?,in,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Andrius Joksas,21,Left-Back,Kryvbas,?,in,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Aleksey Polyakov,26,Goalkeeper,Loko Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Leandro Samarone,29,Centre-Back,Arsenal Tula,?,in,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Edu,26,Centre-Forward,Sp.-Chukotka,?,in,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Nerijus Barasa,22,Right-Back,FBK Kaunas,?,in,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Evgeni Bushmanov,29,Centre-Back,Spartak Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Denis Kovba,20,Defensive Midfield,Zirka,?,in,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Aleksandr Chaika,24,Midfielder,Alania,?,in,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Andrey Tikhonov,29,Attacking Midfield,Spartak Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Sergey Mitin,20,Central Midfield,Arsenal Tula,"End of loanDec 1, 2000",in,0,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Andrey Tikhonov,30,Attacking Midfield,M. Tel Aviv,"End of loanDec 31, 2000",in,0,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Sergey Ignashevich,21,Centre-Back,Loko Moscow,£720k,out,0.72,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Oleksandr Kiryukhin,26,Defender,Kryvbas,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Tigran Petrosyants,27,Centre-Forward,Uralan,?,out,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Karapet Mikaelyan,31,Forward,Nika Moskau,?,out,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Konstantin Kaynov,23,Central Midfield,Levski Sofia,?,out,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Davit Gvaramadze,24,Goalkeeper,Torpedo Kutaisi,?,out,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Zurab Tsiklauri,26,Centre-Forward,Uralan,?,out,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Alexandr Khvostunov,26,Right-Back,Traktor Tashkent,?,out,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Sergey Mitin,20,Central Midfield,Arsenal Tula,Loan,out,0,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Andrey Tikhonov,30,Attacking Midfield,M. Tel Aviv,Loan,out,0,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Sergey Mitin,20,Central Midfield,Loko Kaluga,?,out,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Gennadi Strikalov,30,Goalkeeper,Lokomotiv NN,?,out,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Evgeni Ivanov,20,Centre-Back,Apol. Limassol,?,out,NA,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Aleksandr Borodyuk,38,Centre-Forward,Retired,-,out,0,Premier Liga,2000,2000/2001
+Krylya Sovetov Samara,Aleksandr Tsygankov,32,Right-Back,Retired,-,out,0,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Oleg Sischin,25,Right Midfield,CSKA Moscow,£225k,in,0.225,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Serghei Rogaciov,23,Centre-Forward,Sheriff,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Valeri Kechinov,26,Second Striker,Spartak Moscow,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Aleksey Meleshin,24,Right Winger,Spartak Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Rolandas Dziaukstas,22,Centre-Back,Baltika,?,in,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Eduard Mor,22,Centre-Back,Spartak Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Maksim Buznikin,23,Centre-Forward,Spartak Moscow,Loan,in,0,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Viktor Bukievskiy,21,Centre-Back,Spartak Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Aleksandr Katasonov,28,Centre-Forward,Sp.-Chukotka,?,in,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Radu Rebeja,27,Defensive Midfield,Uralan,?,in,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Aleksey Medvedev,23,Centre-Forward,Dinamo Moscow,£180k,out,0.18,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Igor Gavrilin,27,Centre-Forward,Shinnik,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Aleksandr Katasonov,28,Centre-Forward,Metalurgs,?,out,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Oleg Morozov,34,Midfielder,Lokomotiv NN,?,out,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Aleksandr Gryazin,26,Attacking Midfield,Torpedo-ZiL,?,out,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Aleksey Morozov,34,Defender,Lokomotiv NN,?,out,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Sergey Natalushko,39,Centre-Forward,Neftekhimik,?,out,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Viktor Navochenko,30,Midfielder,Uralan,?,out,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Igor Menshchikov,30,Defensive Midfield,Rubin Kazan,?,out,NA,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Maksim Buznikin,23,Centre-Forward,Spartak Moscow,"End of loanDec 1, 2000",out,0,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Dmitriy Sokolov,18,Centre-Back,Saturn II,-,out,0,Premier Liga,2000,2000/2001
+Saturn Ramenskoe,Vitali Veselov,26,Centre-Forward,Arsenal Tula,,out,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Juris Laizans,21,Defensive Midfield,Skonto Riga,£630k,in,0.63,Premier Liga,2000,2000/2001
+CSKA Moscow,Denis Popov,21,Centre-Forward,Chernomorets N.,Free Transfer,in,0,Premier Liga,2000,2000/2001
+CSKA Moscow,Konstantin Kaynov,23,Central Midfield,Levski Sofia,?,in,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Sergey Kulichenko,22,Centre-Forward,KV Mechelen,?,in,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Ulugbek Bakaev,22,Centre-Forward,Bukhara,?,in,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Mikhail Lunin,22,Attacking Midfield,Sp.-Chukotka,?,in,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Ashkat Kadyrkulov,25,Midfielder,Shakhter K.,?,in,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Serhiy Perkhun,23,Goalkeeper,Sheriff,?,in,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Davranjon Fayziev,24,Right-Back,Dinamo,?,in,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Igor Aksenov,23,Defensive Midfield,Lokomotiv NN,"End of loanDec 31, 2000",in,0,Premier Liga,2000,2000/2001
+CSKA Moscow,Vadim Skripchenko,25,Left-Back,BATE Borisov,"End of loanDec 1, 2000",in,0,Premier Liga,2000,2000/2001
+CSKA Moscow,Vyacheslav Gerashchenko,28,Defender,Slavia,"End of loanDec 1, 2000",in,0,Premier Liga,2000,2000/2001
+CSKA Moscow,Aleksey Saveljev,23,Attacking Midfield,Lokomotiv NN,"End of loanJun 30, 2000",in,0,Premier Liga,2000,2000/2001
+CSKA Moscow,Oleg Sischin,25,Right Midfield,Saturn,£225k,out,0.225,Premier Liga,2000,2000/2001
+CSKA Moscow,Rustam Bulatov,26,Centre-Back,Kuban Krasnodar,Free Transfer,out,0,Premier Liga,2000,2000/2001
+CSKA Moscow,Dmitri Khomukha,31,Attacking Midfield,Shinnik,?,out,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Vadim Skripchenko,25,Left-Back,Uralan,?,out,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Igor Aksenov,22,Defensive Midfield,Lokomotiv NN,Loan,out,0,Premier Liga,2000,2000/2001
+CSKA Moscow,Vadim Skripchenko,24,Left-Back,BATE Borisov,Loan,out,0,Premier Liga,2000,2000/2001
+CSKA Moscow,Yuri Okroshidze,30,Goalkeeper,Uralan,?,out,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Aleksey Bychkov,28,Forward,Shinnik,?,out,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Vyacheslav Gerashchenko,27,Defender,Slavia,Loan,out,0,Premier Liga,2000,2000/2001
+CSKA Moscow,Marek Holly,27,Defensive Midfield,Alania,?,out,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Sergey Kulichenko,22,Centre-Forward,Lokomotiv NN,?,out,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Albert Oskolkov,26,Centre-Back,Metallurg Kr.,?,out,NA,Premier Liga,2000,2000/2001
+CSKA Moscow,Igor Kutepov,35,Goalkeeper,Retired,-,out,0,Premier Liga,2000,2000/2001
+Sokol Saratov,Ruslan Baltiyev,22,Attacking Midfield,Unknown,?,in,NA,Premier Liga,2000,2000/2001
+Sokol Saratov,Maksim Nizovtsev,28,Left Midfield,Baltika,?,in,NA,Premier Liga,2000,2000/2001
+Sokol Saratov,Gennadi Orbu,30,Left Midfield,Vorskla,?,in,NA,Premier Liga,2000,2000/2001
+Sokol Saratov,Evgeni Plotnikov,28,Goalkeeper,Amkar Perm,?,in,NA,Premier Liga,2000,2000/2001
+Sokol Saratov,Oleksandr Koval,26,Defender,Levski Sofia,?,in,NA,Premier Liga,2000,2000/2001
+Sokol Saratov,Dmitri Bugakov,21,Centre-Back,Spartak Moscow,?,out,NA,Premier Liga,2000,2000/2001
+Sokol Saratov,Vladimir Tatarchuk,34,Left Midfield,Metallurg Kr.,?,out,NA,Premier Liga,2000,2000/2001
+Sokol Saratov,Platon Zakharchuk,28,Goalkeeper,Loko Moscow,?,out,NA,Premier Liga,2000,2000/2001
+Sokol Saratov,Andrey Danilov,26,Central Midfield,Metallurg Kr.,?,out,NA,Premier Liga,2000,2000/2001
+Sokol Saratov,Albert Borzenkov,27,Centre-Back,Rotor Volgograd,"End of loanDec 1, 2000",out,0,Premier Liga,2000,2000/2001
+Sokol Saratov,Dmytro Tyapushkin,36,Goalkeeper,Retired,-,out,0,Premier Liga,2000,2000/2001
+Dinamo Moscow,Dmitri Bulykin,21,Centre-Forward,Loko Moscow,£675k,in,0.675,Premier Liga,2000,2000/2001
+Dinamo Moscow,Aleksey Medvedev,23,Centre-Forward,Saturn,£180k,in,0.18,Premier Liga,2000,2000/2001
+Dinamo Moscow,Andrey Dyatel,20,Defensive Midfield,KRC Harelbeke,£180k,in,0.18,Premier Liga,2000,2000/2001
+Dinamo Moscow,Petr Bystrov,20,Left Midfield,Lokomotiv NN,£135k,in,0.135,Premier Liga,2000,2000/2001
+Dinamo Moscow,Deividas Cesnauskis,19,Right-Back,Ekranas,£45k,in,0.045,Premier Liga,2000,2000/2001
+Dinamo Moscow,Akhrik Tsveiba,34,Sweeper,Uralan,?,in,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Anton Khazov,21,Centre-Forward,Torpedo NN,?,in,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,German Kutarba,22,Defensive Midfield,Alania,?,in,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Spartak Gogniev,19,Centre-Forward,Avtodor Vl.,?,in,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Darius Zutautas,22,Centre-Back,Alania,?,in,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Gennadi Tumilovich,28,Goalkeeper,H Rishon leZion,?,in,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Vladimir Gabulov,17,Goalkeeper,FK Mozdok,?,in,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Kirill Novikov,19,Right-Back,Dinamo M II,-,in,0,Premier Liga,2000,2000/2001
+Dinamo Moscow,Ansar Ayupov,28,Central Midfield,Kuban Krasnodar,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Dinamo Moscow,Armen Shahgeldyan,27,Centre-Forward,MIKA Aschtarak,?,out,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Erik Yakhimovich,31,Centre-Back,Gaziantepspor,?,out,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Maksim Romashchenko,24,Left Midfield,Gaziantepspor,?,out,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Sergey Shtanyuk,27,Centre-Back,Royal Antwerp,?,out,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Viktor Voronkov,26,Central Midfield,Kuban Krasnodar,?,out,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Andrey Ostrovski,26,Centre-Back,Maccabi Haifa,?,out,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Lucky Isibor,23,Centre-Forward,Suwon Bluewings,?,out,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Konstantin Golovskoy,25,Central Midfield,Levski Sofia,?,out,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Anatoli Kanishchev,28,Centre-Forward,Unknown,?,out,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Sergey Grishin,27,Right Midfield,Shinnik,?,out,NA,Premier Liga,2000,2000/2001
+Dinamo Moscow,Gennadi Tumilovich,29,Goalkeeper,Without Club,-,out,0,Premier Liga,2000,2000/2001
+Rotor Volgograd,Sergei Pareiko,23,Goalkeeper,Lev. Maardu,£180k,in,0.18,Premier Liga,2000,2000/2001
+Rotor Volgograd,Maksim Frolkin,25,Goalkeeper,Neftekhimik,?,in,NA,Premier Liga,2000,2000/2001
+Rotor Volgograd,Pavlo Kotovenko,21,Midfielder,Gazovik,?,in,NA,Premier Liga,2000,2000/2001
+Rotor Volgograd,Vitali Postransky,23,Goalkeeper,FK Lviv 1992,?,in,NA,Premier Liga,2000,2000/2001
+Rotor Volgograd,Aleksandr Gaidukov,21,Central Midfield,Rotor Vg. II,-,in,0,Premier Liga,2000,2000/2001
+Rotor Volgograd,Albert Borzenkov,27,Centre-Back,Sokol Saratov,"End of loanDec 1, 2000",in,0,Premier Liga,2000,2000/2001
+Rotor Volgograd,Sergey Rashevskiy,20,Central Midfield,Rotor Vg. II,-,in,0,Premier Liga,2000,2000/2001
+Rotor Volgograd,Mikhail Osinov,25,Defensive Midfield,Rostselmash,?,out,NA,Premier Liga,2000,2000/2001
+Rotor Volgograd,Andrey Krivov,24,Right Winger,Gaziantepspor,?,out,NA,Premier Liga,2000,2000/2001
+Rotor Volgograd,Valeri Burlachenko,29,Centre-Back,M. Lipetsk,?,out,NA,Premier Liga,2000,2000/2001
+Rotor Volgograd,Aleksandr Shmarko,31,Centre-Back,Shakhtar D.,?,out,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Milos Kruscic,24,Left-Back,Zemun,£27k,in,0.027,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Anatoli Morozov,27,Right-Back,Chernomorets N.,?,in,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Eduard Valuta,21,Centre-Back,Unknown,?,in,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Aleksandr Shmarko,31,Centre-Back,Shakhtar D.,?,in,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Aleksey Zlydnev,20,Central Midfield,Spartak II,?,in,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Sergiy Datsenko,22,Centre-Back,Kryvbas,?,in,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Mikhail Osinov,25,Defensive Midfield,Rotor Volgograd,?,in,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Volodymyr Mykytin,30,Defender,Vorskla,?,in,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Nshan Erzrumyan,21,Forward,Kilikia Erewan,?,in,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Aleksandr Malygin,21,Centre-Back,Rostselmash II,-,in,0,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Volodymyr Matsigura,25,Left-Back,Kocaelispor,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Mikhail Kupriyanov,27,Right-Back,Spartak Moscow,?,out,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Eugene Soppo,21,Goalkeeper,Unknown,?,out,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Igor Khankeev,32,Left Midfield,Volgar-Gazprom,?,out,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Nshan Erzrumyan,21,Forward,Kilikia Erewan,?,out,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Yuri Matveev,33,Centre-Forward,Lokomotiv NN,?,out,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Sergey Kolotovkin,35,Centre-Back,Sodovik,?,out,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Yuri Dyadyuk,30,Defensive Midfield,Bataisk-2007,?,out,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Aleksandr Baranov,25,Central Midfield,Lokomotiv NN,?,out,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Sergey Maslov,25,Attacking Midfield,Sodovik,?,out,NA,Premier Liga,2000,2000/2001
+Rostselmash Rostov,Gennadi Stepushkin,36,Right-Back,Retired,-,out,0,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Dmitri Khomich,16,Goalkeeper,FK Mozdok,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Nicolae Grigore,25,Centre-Back,Gaz Metan,£45k,in,0.045,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Svetlin Simeonov,25,Midfielder,Botev Vratsa,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Sergey Lysenko,27,Centre-Back,Kuban Krasnodar,Loan,in,0,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Marian Alexandru,22,Forward,Gloria Bistrita,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Kazimir Gudiev,28,Goalkeeper,Kapaz PFK,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Iulian Arhire,24,Defensive Midfield,Dinamo Bukarest,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Gheorghe Stratulat,24,Midfielder,Dnipro,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Albert Doguzov,32,Defensive Midfield,Chernomorets N.,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Ljubomir Kantonistov,21,Attacking Midfield,Metallurg Kr.,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Aleksandr Averyanov,30,Midfielder,Uralan,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Denis Tarba,20,Centre-Back,SKA Rostov,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Marek Holly,27,Defensive Midfield,CSKA Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Yuri Markhel,21,Centre-Forward,Zvezda-VA-BGU,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Zurab Popkhadze,28,Defender,Lokomotiv NN,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Florinel Mirea,25,Defender,FC Extensiv Craiova,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Vladica Curcic,21,Midfielder,Javor-Matis,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Valerian Bestaev,18,Right-Back,Avtodor Vl.,?,in,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Alan Khaimanov,16,Goalkeeper,DYuSSh Spartak,-,in,0,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Aleksandrs Isakovs,26,Centre-Back,Din. Daugavpils,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Iulian Arhire,24,Defensive Midfield,Zimbru Chisinau,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Vladica Curcic,22,Midfielder,Kairat Almaty,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Levan Silagadze,23,Centre-Back,Torpedo Kutaisi,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Serhiy Borysenko,26,Forward,SK Tavriya,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Mikhail Ashvetia,23,Centre-Forward,Torpedo Kutaisi,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Mamuka Tsereteli,21,Left-Back,Lierse SK,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Ajibade Babalade,28,Centre-Back,Unknown,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Mikhail Potskhveria,24,Forward,Dnipro,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Ljubomir Kantonistov,22,Attacking Midfield,Lokomotiv NN,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,German Kutarba,22,Defensive Midfield,Dinamo Moscow,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Kazimir Gudiev,28,Goalkeeper,Avtodor Vl.,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Aslan Datdeev,27,Centre-Back,Yesil-Bogatyr,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Aleksandr Chaika,24,Midfielder,KS Samara,?,out,NA,Premier Liga,2000,2000/2001
+Alania Vladikavkaz,Darius Zutautas,22,Centre-Back,Dinamo Moscow,?,out,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Dmitri Byakov,22,Right Midfield,Kairat Almaty,?,in,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Sergey Ivanov,20,Central Midfield,Kairat Almaty,?,in,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Sergiy Dmitriev,22,Left Winger,Metalurh D.,?,in,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Ilya Tsymbalar,31,Central Midfield,Loko Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Kirill Kotov,17,Defensive Midfield,Akademia FCSM,?,in,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Yves Jupiter Ngangue,20,Forward,Dynamo Douala,?,in,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Valeri Alekseev,21,Centre-Forward,S. Kostroma,?,in,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Stanislav Khoteev,19,Goalkeeper,Loko Moscow II,?,in,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Ratko Nikolić,23,Right-Back,Sp.-Chukotka,?,in,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Magomed Adiev,23,Centre-Forward,Spartak II,?,in,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Shamil Burziev,15,Defensive Midfield,Anzhi U19,-,in,0,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Rafael Zangionov,22,Attacking Midfield,Neftekhimik,?,out,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Aleksandr Gogoberishvili,23,Defensive Midfield,WIT Georgia,?,out,NA,Premier Liga,2000,2000/2001
+Anzhi Makhachkala,Aleksey Gudkov,28,Midfielder,Unknown,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Mikheil Jishkariani,30,Forward,Lokomotivi,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Ignas Dedura,22,Centre-Back,Zalgiris,?,in,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Maksym Biletsky,20,Left Midfield,CSKA Moscow II,?,in,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Edis Kurtic,24,Centre-Forward,Unknown,?,in,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Sergey Shustikov,30,Centre-Back,CA Osasuna,?,in,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Munever Rizvic,27,Centre-Back,FK Buducnost,?,in,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Saulius Mikalajunas,28,Right Winger,Uralan,?,in,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksandr Gryazin,26,Attacking Midfield,Saturn,?,in,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksey Arifullin,29,Right-Back,Lokomotiv 2,Loan,in,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Igor Piyuk,18,Centre-Forward,Torpedo-ZiL II,-,in,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Dmitri A. Smirnov,20,Central Midfield,Torpedo-ZiL II,-,in,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksey Triputen,18,Defensive Midfield,Torpedo-ZiL II,-,in,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksey Berezutski,18,Centre-Back,Torpedo-ZiL U19,-,in,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksandr Studzinskiy,24,Centre-Forward,Kristall,"End of loanDec 31, 2000",in,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Dmitri N. Smirnov,20,Centre-Back,Torpedo-ZiL II,-,in,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksey Berezutski,18,Centre-Back,Chernomorets N.,Loan,out,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Oleg Sergeev,32,Centre-Forward,Baltika,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksandr Studzinskiy,24,Centre-Forward,Kristall,Loan,out,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Alexandru Popovici,23,Centre-Forward,Seongnam Ilhwa,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksey Gushchin,29,Right-Back,Volgar-Gazprom,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksandr Eshchenko,30,Defender,Zhemchuzhina,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Sergey Podpaly,37,Centre-Back,Gomel,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksandr Smirnov,32,Right Midfield,Metallurg Kr.,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Sergey Korovushkin,21,Centre-Forward,Lokomotiv NN,?,out,NA,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Mikheil Jishkariani,31,Forward,Without Club,-,out,0,Premier Liga,2000,2000/2001
+Torpedo-ZiL Moskau,Aleksey Arifullin,30,Right-Back,Lokomotiv 2,"End of loanDec 31, 2000",out,0,Premier Liga,2000,2000/2001
+Fakel Voronezh,Eduard Boltrushevich,29,Centre-Back,Belshina,£86k,in,0.086,Premier Liga,2000,2000/2001
+Fakel Voronezh,Vitali Lanko,23,Centre-Forward,Belshina,£52k,in,0.052,Premier Liga,2000,2000/2001
+Fakel Voronezh,Vitali Kulev,24,Defensive Midfield,Lotto-MKM Moskau,?,in,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Oleg Sanko,29,Attacking Midfield,Lokomotiv NN,?,in,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Oleg Ostapenko,23,Goalkeeper,Kryvbas,?,in,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Aleksandr Shchegolev,28,Right-Back,Spartak Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Yuri Shukanov,29,Central Midfield,Uralan,?,in,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Evgeni Alkhimov,23,Centre-Forward,Loko Chita,?,in,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Radislav Orlovskiy,30,Left Midfield,Torpedo Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Oleg Garas,23,Centre-Forward,Loko Moscow,?,in,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Sergey Shishkin,27,Right-Back,Uralan,?,in,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Dmitri Klimov,17,Goalkeeper,Fakel U19,-,in,0,Premier Liga,2000,2000/2001
+Fakel Voronezh,Igor Zazulin,26,Attacking Midfield,St. Petersburg,?,out,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Aleksandr Grishin,29,Central Midfield,Shinnik,?,out,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Andrey Kovalenko,30,Midfielder,Kristall,?,out,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Gennadi Semin,33,Left Winger,Uralan,?,out,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Serhii Yakovenko,25,Midfielder,Kristall,?,out,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Valeri Shmarov,35,Centre-Forward,Arsenal Tula,?,out,NA,Premier Liga,2000,2000/2001
+Fakel Voronezh,Vladislav Matvienko,32,Central Midfield,Spartak-KI,?,out,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Louis Udoh,25,Defender,Braunau,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Alin Poenaru,24,Midfielder,Unknown,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Ivan Ershov,21,Left-Back,Pskov,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Serhii Bezhenar,29,Centre-Back,Erzurumspor,Free Transfer,in,0,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Baba Adamu,21,Centre-Forward,Shabab,£45k,in,0.045,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Konstantin Zuev,19,Central Midfield,Unknown,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Vladislav Kozhemyakin,17,Centre-Forward,Spartak II,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Aleksey Berezutski,18,Centre-Back,Torpedo-ZiL,Loan,in,0,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Ruslan Surodin,18,Defensive Midfield,Pskov,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Georgi Mikadze,17,Left-Back,Krasnodar-2000,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Eugen Hmaruc,23,Goalkeeper,Tiligul-Tiras,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Roman Gerus,20,Goalkeeper,Venets Gk.,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Vadim Starkov,21,Centre-Back,Pskov,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,David Embe,27,Centre-Forward,Municipal,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Miodrag Jovanovic,23,Centre-Back,Sp.-Chukotka,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Artur Tlisov,18,Central Midfield,Unknown,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Sergey Burdin,30,Centre-Forward,Seongnam Ilhwa,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Aleksandr Oleynik,19,Right Winger,Kuban Krasnodar,?,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Konstantin Beljkov,20,Right-Back,Nosta,"End of loanDec 31, 2000",in,0,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Maksim Shevchenko,20,Midfielder,Nosta,"End of loanDec 31, 2000",in,0,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Milan Jovic,24,Centre-Back,Spartak Moscow,,in,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Maksym Levitsky,27,Goalkeeper,Saint-Étienne,£765k,out,0.765,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Jerry-Christian Tchuisse,25,Right-Back,Spartak Moscow,£720k,out,0.72,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Denis Popov,21,Centre-Forward,CSKA Moscow,Free Transfer,out,0,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Ivan Levenets,20,Goalkeeper,S-UGP Anapa,?,out,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Konstantin Kovalenko,25,Centre-Forward,Kuban Krasnodar,?,out,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Albert Doguzov,32,Defensive Midfield,Alania,?,out,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Konstantin Gordiyuk,22,Centre-Back,Nosta,?,out,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Evgeni Pchelintsev,23,Midfielder,Dinamo Minsk,?,out,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Sergey Lapshin,25,Central Midfield,Amkar Perm,?,out,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Konstantin Beljkov,20,Right-Back,Nosta,Loan,out,0,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Maksim Shevchenko,20,Midfielder,Nosta,Loan,out,0,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Miodrag Jovanovic,23,Centre-Back,Khimki,?,out,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Anatoli Morozov,27,Right-Back,Rostselmash,?,out,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Leonid Lazaridi,20,Right-Back,Krasnodar-2000,?,out,NA,Premier Liga,2000,2000/2001
+Chernomorets Novorossijsk,Vladimir Kuzmichev,21,Left Winger,Dynamo Kyiv,?,out,NA,Premier Liga,2000,2000/2001

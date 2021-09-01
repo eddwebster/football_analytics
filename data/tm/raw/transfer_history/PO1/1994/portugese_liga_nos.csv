@@ -1,0 +1,302 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+FC Porto,Russell Latapy,25,Attacking Midfield,Coimbra,?,in,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Émerson,22,Defensive Midfield,Belenenses SAD,?,in,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Vasili Kulkov,28,Centre-Back,Benfica,?,in,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Sergey Yuran,25,Centre-Forward,Benfica,?,in,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Rui Barros,28,Attacking Midfield,Marseille,?,in,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Mandla Zwane,21,Forward,Orlando Pirates,?,in,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Ronald Baroni,26,Centre-Forward,Universitario,?,in,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Fernando Couto,24,Centre-Back,AC Parma,£2.43m,out,Summer,2.43,Liga Nos,1994,1994/1995
+FC Porto,Mariano,18,Left-Back,Espinho,Free transfer,out,Summer,0,Liga Nos,1994,1994/1995
+FC Porto,Rui Óscar,18,Right-Back,União Lamas,?,out,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Emil Kostadinov,26,Centre-Forward,Dep. La Coruña,?,out,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Ion Timofte,26,Left Midfield,Boavista,?,out,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Paulo Pereira,28,Right-Back,Benfica,?,out,Summer,NA,Liga Nos,1994,1994/1995
+FC Porto,Vinha,27,Centre-Forward,Salgueiros,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Emmanuel Amunike,23,Left Winger,MSV Duisburg,£1.58m,in,Summer,1.58,Liga Nos,1994,1994/1995
+Sporting CP,Luis Vasco,27,Goalkeeper,Famalicão,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Carlos Xavier,32,Defensive Midfield,Real Sociedad,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Chiquinho Conde,28,Centre-Forward,Vitória Setúbal,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Marco Aurelio,27,Centre-Back,União Madeira,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Oceano Cruz,31,Defensive Midfield,Real Sociedad,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Nuno Valente,19,Left-Back,Portimonense,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Ricardo Sá Pinto,21,Second Striker,Salgueiros,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Noureddine Naybet,24,Centre-Back,FC Nantes,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Pedrosa,22,Central Midfield,Salgueiros,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Beto Severo,18,Centre-Back,Sporting U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+Sporting CP,Dani,17,Attacking Midfield,Sporting U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+Sporting CP,Miguel Gama,16,Centre-Back,Sporting U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+Sporting CP,Rui Varão,17,Attacking Midfield,Sporting U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+Sporting CP,Paulo Sousa,23,Central Midfield,Juventus,£3.60m,out,Summer,3.6,Liga Nos,1994,1994/1995
+Sporting CP,Poejo,20,Defensive Midfield,Leiria,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Pedro Franco,20,Centre-Back,Nacional,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Porfírio,20,Left Midfield,Tirsense,Loan,out,Summer,0,Liga Nos,1994,1994/1995
+Sporting CP,José Leal,29,Left-Back,Belenenses SAD,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Amaral,24,Right Winger,Benfica,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Carlos Jorge,27,Centre-Back,Marítimo,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Renato,18,Midfielder,Torreense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Sporting CP,Beto Severo,18,Centre-Back,União Lamas,Loan,out,Summer,0,Liga Nos,1994,1994/1995
+Sporting CP,João Paulo,17,Centre-Forward,Sporting U19,-,out,Summer,0,Liga Nos,1994,1994/1995
+SL Benfica,Edílson,22,Centre-Forward,Palmeiras,Free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+SL Benfica,Rui Esteves,27,Midfielder,Vitória Setúbal,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Amaral,24,Right Winger,Sporting CP,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Paulo Pereira,28,Right-Back,FC Porto,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Paulao,27,Centre-Back,Grêmio,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Nelo,26,Central Midfield,Boavista,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,José Fernando Tavares,29,Midfielder,Boavista,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,José Tavares,29,Central Midfield,Boavista,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Michel Preud'homme,35,Goalkeeper,KV Mechelen,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Dimas,25,Left-Back,Vit. Guimarães,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Paiva,21,Defensive Midfield,Marítimo,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Paulo Bento,25,Defensive Midfield,Vit. Guimarães,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Mario Stanic,22,Right Winger,Sporting Gijón,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Claudio Caniggia,27,Right Winger,Without Club,-,in,Summer,0,Liga Nos,1994,1994/1995
+SL Benfica,José Dominguez,20,Left Winger,Fafe,"End of loanJun 30, 1994",in,Summer,0,Liga Nos,1994,1994/1995
+SL Benfica,Eduard Abazi,25,Left-Back,HNK Sibenik,"End of loanJun 30, 1994",in,Summer,0,Liga Nos,1994,1994/1995
+SL Benfica,Paulo Madeira,23,Centre-Back,Marítimo,"End of loanJun 30, 1994",in,Summer,0,Liga Nos,1994,1994/1995
+SL Benfica,Aleksandr Mostovoy,25,Attacking Midfield,SM Caen,"End of loanJun 30, 1994",in,Summer,0,Liga Nos,1994,1994/1995
+SL Benfica,Rui Costa,22,Attacking Midfield,Fiorentina,£4.95m,out,Summer,4.95,Liga Nos,1994,1994/1995
+SL Benfica,Stefan Schwarz,25,Central Midfield,Arsenal,£900Th.,out,Summer,0.9,Liga Nos,1994,1994/1995
+SL Benfica,Paulo Santos,21,Goalkeeper,Penafiel,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Pedro Roma,23,Goalkeeper,Coimbra,Loan,out,Summer,0,Liga Nos,1994,1994/1995
+SL Benfica,José Dominguez,20,Left Winger,Birmingham,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Vasili Kulkov,28,Centre-Back,FC Porto,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Sergey Yuran,25,Centre-Forward,FC Porto,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Rui Águas,34,Centre-Forward,CF Estrela,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Jovica Simanic,NA,Centre-Back,Boavista,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Silvino Louro,35,Goalkeeper,Vitória Setúbal,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Hernâni,30,Defensive Midfield,Vitória Setúbal,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Eduard Abazi,25,Left-Back,Boavista,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Aílton,25,Centre-Forward,São Paulo,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Aleksandr Mostovoy,25,Attacking Midfield,R. Strasbourg,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SL Benfica,Nuno Afonso,19,Centre-Back,Belenenses SAD,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,José Carlos,27,Right-Back,CF Estrela,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Gilmar,27,Forward,Chaves,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Vitor Silva,25,Centre-Back,Espinho,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Zé Carlos,32,Goalkeeper,Farense,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Walter,26,Right-Back,Coimbra,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Pedro Martins,23,Defensive Midfield,Feirense,,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Nuno Espírito Santo,20,Goalkeeper,Vila Real,"End of loanJun 1, 1994",in,Summer,0,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Paulo Bento,25,Defensive Midfield,Benfica,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Dimas,25,Left-Back,Benfica,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Artur Jorge,23,Centre-Forward,Espinho,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Fernando Brassard,22,Goalkeeper,Gil Vicente,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Taoufik Hichri,29,Centre-Back,CS Msaken,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Quim Machado,27,Right-Back,CF Estrela,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Farense,King,24,Centre-Back,Braga,Free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+SC Farense,Christian,19,Centre-Forward,CF Estrela,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Farense,Peter Rufai,30,Goalkeeper,Go Ahead Eagles,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Farense,Tozé,28,Forward,Gil Vicente,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Farense,Helcinho,24,Attacking Midfield,Paços Ferreira,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Farense,Miroslav Curcic,32,Forward,Estoril,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Farense,Moussa N'Daw,25,Centre-Forward,Hilal,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Farense,Goran Stevanovic,27,Midfielder,Vitória Setúbal,Free transfer,out,Summer,0,Liga Nos,1994,1994/1995
+SC Farense,Armando dos Santos,29,Forward,Amora FC,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Farense,Zé Carlos,32,Goalkeeper,Vit. Guimarães,?,out,Summer,NA,Liga Nos,1994,1994/1995
+União de Leiria,Poejo,20,Defensive Midfield,Sporting CP,?,in,Summer,NA,Liga Nos,1994,1994/1995
+União de Leiria,Tahar El Khalej,26,Centre-Back,Kawkab Marrakech,?,in,Summer,NA,Liga Nos,1994,1994/1995
+União de Leiria,Lula,28,Centre-Back,Famalicão,?,in,Summer,NA,Liga Nos,1994,1994/1995
+União de Leiria,Bambo,19,Forward,Boavista,?,in,Summer,NA,Liga Nos,1994,1994/1995
+União de Leiria,Uche Okafor,26,Centre-Back,Hannover 96,?,in,Summer,NA,Liga Nos,1994,1994/1995
+União de Leiria,Nélson Bertolazzi,28,Forward,Boavista,?,in,Summer,NA,Liga Nos,1994,1994/1995
+União de Leiria,Rui Guerreiro,19,Right-Back,Alverca,?,out,Summer,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Alexandre Margarido,24,Right-Back,Vizela,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Fernando Aguiar,22,Defensive Midfield,Toronto Bliz.,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Carlos Jorge,27,Centre-Back,Sporting CP,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Robson,20,Centre-Back,Cruzeiro,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Luís Fernando,30,Centre-Forward,Cruzeiro,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Herivelto,18,Attacking Midfield,Unknown,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Paulo Alves,24,Centre-Forward,Braga,"End of loanJun 30, 1994",in,Summer,0,Liga Nos,1994,1994/1995
+CS Marítimo,Bruno Fernandes,20,Central Midfield,Camacha,"End of loanJun 30, 1994",in,Summer,0,Liga Nos,1994,1994/1995
+CS Marítimo,Paiva,21,Defensive Midfield,Benfica,?,out,Summer,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Ademir Alcântara,31,Attacking Midfield,Mogi Mirim,?,out,Summer,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Wilson Gottardo,31,Centre-Back,Botafogo,?,out,Summer,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Rui Vieira,32,Right-Back,Retired,-,out,Summer,0,Liga Nos,1994,1994/1995
+CS Marítimo,Paulo Madeira,23,Centre-Back,Benfica,"End of loanJun 30, 1994",out,Summer,0,Liga Nos,1994,1994/1995
+FC Tirsense,Rui Gregório,25,Centre-Back,Vitória Setúbal,?,in,Summer,NA,Liga Nos,1994,1994/1995
+FC Tirsense,Cabral,22,Right-Back,GD Joane,?,in,Summer,NA,Liga Nos,1994,1994/1995
+FC Tirsense,Porfírio,20,Left Midfield,Sporting CP,Loan,in,Summer,0,Liga Nos,1994,1994/1995
+FC Tirsense,Luis Mariano,25,Central Midfield,Ovarense,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Braga,Moké Kajima,18,Left-Back,Stade Rennais,Free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+SC Braga,Hélder Batista,21,Midfielder,Torreense,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Braga,Litos,27,Attacking Midfield,Boavista,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Braga,Stéphane Demol,28,Centre-Back,Cercle Brugge,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Braga,Bruno,23,Right Midfield,Torreense,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Braga,Hélder Baptista,22,Midfielder,Torreense,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Braga,Quim,18,Goalkeeper,Braga U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+SC Braga,King,24,Centre-Back,Farense,Free transfer,out,Summer,0,Liga Nos,1994,1994/1995
+SC Braga,Neves,23,Right-Back,Gil Vicente,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Braga,Gil,21,Left Winger,CF Estrela,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Braga,Toni,21,Centre-Forward,Beira-Mar,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Braga,Gil Gomes,21,Forward,CF Estrela,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Braga,Jaime Pacheco,36,Central Midfield,Retired,-,out,Summer,0,Liga Nos,1994,1994/1995
+SC Braga,Paulo Alves,24,Centre-Forward,Marítimo,"End of loanJun 30, 1994",out,Summer,0,Liga Nos,1994,1994/1995
+Boavista FC,Martelinho,19,Right Winger,Marco,Free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+Boavista FC,Fernando Mendes,27,Left-Back,CF Estrela,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Ricardo Nascimento,20,Attacking Midfield,Leixões,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Jovica Simanic,NA,Centre-Back,Benfica,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Ion Timofte,26,Left Midfield,FC Porto,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Eduard Abazi,25,Left-Back,Benfica,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Cobra,25,Midfielder,Académico Viseu,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Vasco,19,Midfielder,Peniche,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Jorge Silva,18,Defensive Midfield,Boavista U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+Boavista FC,Nuno Gomes,17,Centre-Forward,Boavista U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+Boavista FC,Ricardo Silva,18,Centre-Back,Boavista U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+Boavista FC,Samuel,27,Centre-Back,Odivelas,"End of loanJun 30, 1994",in,Summer,0,Liga Nos,1994,1994/1995
+Boavista FC,José Tavares,29,Central Midfield,Benfica,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Litos,27,Attacking Midfield,Braga,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Nelo,26,Central Midfield,Benfica,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Ricky,32,Centre-Forward,Belenenses SAD,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Bambo,19,Forward,Leiria,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,José Fernando Tavares,29,Midfielder,Benfica,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Castro,25,Goalkeeper,Feirense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Nélson Bertolazzi,28,Forward,Leiria,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Boavista FC,Pedro Venâncio,30,Centre-Back,Retired,-,out,Summer,0,Liga Nos,1994,1994/1995
+Boavista FC,Casaca,34,Right-Back,Retired,-,out,Summer,0,Liga Nos,1994,1994/1995
+SC Salgueiros,Pedro Espinha,28,Goalkeeper,Belenenses SAD,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Nandinho,21,Right Winger,Castêlo Maia,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Paulo Sérgio,26,Centre-Forward,Paços Ferreira,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Edmílson,22,Second Striker,Nacional,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Vinha,27,Centre-Forward,FC Porto,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Luis Carlos,25,Midfielder,Brasil-RS,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Basílio Almeida,22,Second Striker,Lus. Lourosa,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Paulinho,19,Left Winger,Salgueiros U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+SC Salgueiros,Bino,21,Defensive Midfield,Belenenses SAD,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Pedrosa,22,Central Midfield,Sporting CP,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Ricardo Sá Pinto,21,Second Striker,Sporting CP,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Tulipa,21,Attacking Midfield,Belenenses SAD,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Carlos Parente,33,Defensive Midfield,Marco,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Tozé,25,Centre-Forward,Penafiel,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Abilio,27,Attacking Midfield,Belenenses SAD,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Basílio Almeida,23,Second Striker,Feirense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Zoran Ban,21,Centre-Forward,Juventus,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Bino,21,Defensive Midfield,Salgueiros,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Dariusz Adamczuk,24,Defensive Midfield,Udinese,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Tulipa,21,Attacking Midfield,Salgueiros,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Bruno Caires,18,Defensive Midfield,Benfica U19,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Abdelmajid Bouyboud,27,Forward,Wydad AC,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Ricky,32,Centre-Forward,Boavista,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,José Leal,29,Left-Back,Sporting CP,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Nuno Afonso,19,Centre-Back,Benfica,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Álvaro Gregório,21,Left-Back,Paços Ferreira,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Tomislav Ivkovic,33,Goalkeeper,Vitória Setúbal,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Darci,25,Left Winger,Volta Redonda,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Alen Petrovic,24,Defender,NK Osijek,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Abilio,27,Attacking Midfield,Salgueiros,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Marco Botelho,18,Goalkeeper,Belenenses U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+Belenenses SAD,Serge Honi,20,Centre-Forward,Famalicão,Loan,out,Summer,0,Liga Nos,1994,1994/1995
+Belenenses SAD,Tito,22,Left-Back,Famalicão,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Émerson,22,Defensive Midfield,FC Porto,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Pedro Espinha,28,Goalkeeper,Salgueiros,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Pinho,22,Goalkeeper,Famalicão,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Armando Sá,18,Right-Back,Vilafranquense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,José Taira,25,Midfielder,CF Estrela,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,David Embé,20,Centre-Forward,AE Larisa,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Aleksandr Eshchenko,24,Defender,Rotor Volgograd,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Gonçalves,26,Left Midfield,CF Estrela,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Clêisson,22,Attacking Midfield,Cruzeiro,"End of loanJun 30, 1994",out,Summer,0,Liga Nos,1994,1994/1995
+Gil Vicente FC,Wilson,25,Centre-Back,Caldas,Free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+Gil Vicente FC,José Lemos,22,Centre-Back,Esposende,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,Neves,23,Right-Back,Braga,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,Fernando Brassard,22,Goalkeeper,Vit. Guimarães,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,João Oliveira Pinto,22,Right Winger,Estoril,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,César Gomes,18,Goalkeeper,Santa Maria,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,Carlitos,17,Right Winger,Gil Vicente U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+Gil Vicente FC,Rui Neves,24,Right-Back,CF Estrela,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,António Sousa,37,Left Midfield,Ovarense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,Morato,29,Centre-Back,Unknown,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,Dito,32,Centre-Back,Torreense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,Laureta,32,Left-Back,Coimbra,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,Tozé,28,Forward,Farense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Gil Vicente FC,Jaime Cerqueira,26,Central Midfield,Chaves,?,out,Summer,NA,Liga Nos,1994,1994/1995
+GD Chaves,Edinho,27,Centre-Forward,Portimonense,?,in,Summer,NA,Liga Nos,1994,1994/1995
+GD Chaves,Rui Loja,22,Left Winger,Oliv. Hospital,?,in,Summer,NA,Liga Nos,1994,1994/1995
+GD Chaves,Silvino Morais,28,Goalkeeper,Famalicão,?,in,Summer,NA,Liga Nos,1994,1994/1995
+GD Chaves,Edinho,26,Forward,Portimonense,?,in,Summer,NA,Liga Nos,1994,1994/1995
+GD Chaves,José María,23,Forward,Real Madrid B,Loan,in,Summer,0,Liga Nos,1994,1994/1995
+GD Chaves,Marito,26,Right Midfield,Famalicão,?,in,Summer,NA,Liga Nos,1994,1994/1995
+GD Chaves,Jaime Cerqueira,26,Central Midfield,Gil Vicente,?,in,Summer,NA,Liga Nos,1994,1994/1995
+GD Chaves,Jorginho,18,Left-Back,Montalegre,"End of loanJun 30, 1994",in,Summer,0,Liga Nos,1994,1994/1995
+GD Chaves,Gilmar,27,Forward,Vit. Guimarães,?,out,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Chaínho,19,Defensive Midfield,Casa Pia,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Rui Neves,24,Right-Back,Gil Vicente,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Rui Águas,34,Centre-Forward,Benfica,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Sinisa Koncalovic,27,Midfielder,Panachaiki,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,José Taira,25,Midfielder,Belenenses SAD,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Joao Peixe,18,Forward,Benfica U19,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Gil,21,Left Winger,Braga,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Quim Machado,27,Right-Back,Vit. Guimarães,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Gil Gomes,21,Forward,Braga,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Gonçalves,26,Left Midfield,Belenenses SAD,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Rodolfo Correia,17,Defensive Midfield,E. Amadora U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Paulo Sérgio,18,Right Midfield,E. Amadora U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Fernando Mendes,27,Left-Back,Boavista,?,out,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Christian,19,Centre-Forward,Farense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Frederico,37,Centre-Back,Leixões,?,out,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,José Carlos,27,Right-Back,Vit. Guimarães,?,out,Summer,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Mario Jorge,32,Left Midfield,Estoril,?,out,Summer,NA,Liga Nos,1994,1994/1995
+CF União Madeira,Sasa Simic,25,Attacking Midfield,Borac Cacak,?,in,Summer,NA,Liga Nos,1994,1994/1995
+CF União Madeira,Marco Freitas,17,Left Winger,U. Madeira U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+CF União Madeira,Marco Aurelio,27,Centre-Back,Sporting CP,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Piguita,23,Centre-Back,Famalicão,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Tó Ferreira,22,Goalkeeper,Amora FC,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Pedro Miguel,26,Defender,Oliveirense,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Morgado,24,Left-Back,Famalicão,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Toni,21,Centre-Forward,Braga,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Nando,31,Defender,Famalicão,?,in,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Rui Marcos,19,Goalkeeper,Beira-Mar U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+SC Beira-Mar,Aleksandar Krstic,32,Centre-Forward,Felgueiras,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Dino,33,Forward,Vitória Setúbal,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Júlio,25,Forward,Unknown,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Carlos Miguel,23,Central Midfield,Ovarense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Jorge Vinagre,19,Left-Back,Ovarense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Ribeiro,30,Midfielder,Retired,-,out,Summer,0,Liga Nos,1994,1994/1995
+SC Beira-Mar,Oliveira,36,Centre-Back,Retired,-,out,Summer,0,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Goran Stevanovic,27,Midfielder,Farense,Free transfer,in,Summer,0,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Silvino Louro,35,Goalkeeper,Benfica,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Michael Brundin,28,Centre-Back,GIF Sundsvall,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Hernâni,30,Defensive Midfield,Benfica,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Paulão,24,Right Winger,Estrela Clube,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Tó Sá,25,Defender,Amora FC,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Dino,33,Forward,Beira-Mar,?,in,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Bruno Ribeiro,18,Left Midfield,Setúbal U19,-,in,Summer,0,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Nuno Santos,21,Goalkeeper,Operário,"End of loanJun 30, 1994",in,Summer,0,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Rasheed Yekini,30,Centre-Forward,Olympiacos,£2.45m,out,Summer,2.45,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Rui Gregório,25,Centre-Back,Tirsense,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Mamede,20,Central Midfield,Juv. Évora,Loan,out,Summer,0,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Chiquinho Conde,28,Centre-Forward,Sporting CP,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,José Carlos,24,Goalkeeper,Paços Ferreira,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Tomislav Ivkovic,33,Goalkeeper,Belenenses SAD,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Rui Esteves,27,Midfielder,Benfica,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Gbessay Sessay,26,Centre-Forward,Paços Ferreira,?,out,Summer,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Diamantino Miranda,35,Right Midfield,Retired,-,out,Summer,0,Liga Nos,1994,1994/1995
+FC Porto,Mandla Zwane,21,Forward,Penafiel,Loan,out,Winter,0,Liga Nos,1994,1994/1995
+Sporting CP,Jorge Cadete,26,Centre-Forward,Brescia,?,out,Winter,NA,Liga Nos,1994,1994/1995
+Sporting CP,Stan Valckx,31,Centre-Back,PSV Eindhoven,?,out,Winter,NA,Liga Nos,1994,1994/1995
+SL Benfica,Pedro Henriques,20,Left-Back,Vitória Setúbal,Loan,out,Winter,0,Liga Nos,1994,1994/1995
+SL Benfica,Abel Silva,25,Right-Back,Vitória Setúbal,?,out,Winter,NA,Liga Nos,1994,1994/1995
+SL Benfica,Carlos Mozer,34,Centre-Back,Kashima Antlers,?,out,Winter,NA,Liga Nos,1994,1994/1995
+SL Benfica,Rui Esteves,27,Midfielder,Birmingham,Loan,out,Winter,0,Liga Nos,1994,1994/1995
+SL Benfica,Nuno Afonso,19,Centre-Back,Belenenses SAD,?,out,Winter,NA,Liga Nos,1994,1994/1995
+Vitória Guimarães SC,Basaúla Lemba,29,Attacking Midfield,Belenenses SAD,?,out,Winter,NA,Liga Nos,1994,1994/1995
+União de Leiria,João Armando,22,Centre-Back,Castelo Branco,?,in,Winter,NA,Liga Nos,1994,1994/1995
+União de Leiria,Uche Okafor,27,Centre-Back,Maccabi Ashdod,?,out,Winter,NA,Liga Nos,1994,1994/1995
+CS Marítimo,Eusébio,21,Left-Back,Espinho,Loan,out,Winter,0,Liga Nos,1994,1994/1995
+CS Marítimo,Jorge Andrade,31,Second Striker,Vitória Setúbal,?,out,Winter,NA,Liga Nos,1994,1994/1995
+FC Tirsense,Everton Giovanella,24,Central Midfield,Estoril,?,in,Winter,NA,Liga Nos,1994,1994/1995
+Boavista FC,Alex Dias,22,Centre-Forward,Remo,Free transfer,in,Winter,0,Liga Nos,1994,1994/1995
+Boavista FC,Rosario,29,Forward,Vitória Setúbal,?,in,Winter,NA,Liga Nos,1994,1994/1995
+SC Salgueiros,Tulipa,22,Attacking Midfield,Belenenses SAD,Loan,in,Winter,0,Liga Nos,1994,1994/1995
+SC Salgueiros,Basílio Almeida,23,Second Striker,Feirense,?,out,Winter,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Dacroce,26,Midfielder,Paços Ferreira,Free transfer,in,Winter,0,Liga Nos,1994,1994/1995
+Belenenses SAD,Nuno Afonso,19,Centre-Back,Benfica,?,in,Winter,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Basaúla Lemba,29,Attacking Midfield,Vit. Guimarães,?,in,Winter,NA,Liga Nos,1994,1994/1995
+Belenenses SAD,Tulipa,22,Attacking Midfield,Salgueiros,Loan,out,Winter,0,Liga Nos,1994,1994/1995
+Belenenses SAD,Toninho Cruz,25,Defensive Midfield,Rio Ave FC,?,out,Winter,NA,Liga Nos,1994,1994/1995
+CF Estrela Amadora SAD,Rui Águas,34,Centre-Forward,Reggina,?,out,Winter,NA,Liga Nos,1994,1994/1995
+CF União Madeira,António Caldas,35,Goalkeeper,Leça,?,out,Winter,NA,Liga Nos,1994,1994/1995
+SC Beira-Mar,Acácio,36,Goalkeeper,Madureira-RJ,?,out,Winter,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Pedro Henriques,20,Left-Back,Benfica,Loan,in,Winter,0,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Abel Silva,25,Right-Back,Benfica,?,in,Winter,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Jorge Andrade,31,Second Striker,Marítimo,?,in,Winter,NA,Liga Nos,1994,1994/1995
+Vitória Setúbal FC,Rosario,29,Forward,Boavista,?,out,Winter,NA,Liga Nos,1994,1994/1995

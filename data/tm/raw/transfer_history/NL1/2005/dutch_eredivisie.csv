@@ -1,0 +1,539 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+PSV Eindhoven,Timmy Simons,28,Defensive Midfield,Club Brugge,£4.50m,in,Summer,4.5,Eredivisie,2005,2005/2006
+PSV Eindhoven,Michael Ball,25,Left-Back,Rangers,£495Th.,in,Summer,0.495,Eredivisie,2005,2005/2006
+PSV Eindhoven,Mika Väyrynen,23,Central Midfield,Heerenveen,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Michael Reiziger,32,Right-Back,Middlesbrough,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Juan Carlos Carrizo,18,Left Winger,San Lorenzo,?,in,Summer,NA,Eredivisie,2005,2005/2006
+PSV Eindhoven,Arouna Koné,21,Centre-Forward,Roda JC,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Roy Beerens,17,Right Winger,PSV U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Ismail Aissati,16,Attacking Midfield,PSV U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Tim Janssen,19,Centre-Forward,FC Zwolle,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Arvid Smit,24,Central Midfield,Willem II,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Jürgen Colin,24,Centre-Back,NAC Breda,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Otman Bakkal,20,Attacking Midfield,FC Den Bosch,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Csaba Fehér,29,Defensive Midfield,Újpest FC,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Lindsay Wilson,26,Left Midfield,Helmond Sport,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Nyron Wau,22,Right Winger,Helmond Sport,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Jelle ten Rouwelaar,24,Goalkeeper,FC Zwolle,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Johan Vonlanthen,19,Left Midfield,Brescia,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Ji-sung Park,24,Attacking Midfield,Man Utd,£6.57m,out,Summer,6.57,Eredivisie,2005,2005/2006
+PSV Eindhoven,Wilfred Bouma,27,Left-Back,Aston Villa,£4.23m,out,Summer,4.23,Eredivisie,2005,2005/2006
+PSV Eindhoven,Young-pyo Lee,28,Left-Back,Spurs,£1.80m,out,Summer,1.8,Eredivisie,2005,2005/2006
+PSV Eindhoven,Kasper Bögelund,24,Right-Back,Bor. M'gladbach,£900Th.,out,Summer,0.9,Eredivisie,2005,2005/2006
+PSV Eindhoven,Jürgen Colin,24,Centre-Back,Norwich,£360Th.,out,Summer,0.36,Eredivisie,2005,2005/2006
+PSV Eindhoven,Remco van der Schaaf,26,Centre-Back,Vitesse,£207Th.,out,Summer,0.207,Eredivisie,2005,2005/2006
+PSV Eindhoven,Mark van Bommel,28,Defensive Midfield,FC Barcelona,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Nyron Wau,22,Right Winger,RBC Roosendaal,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Otman Bakkal,20,Attacking Midfield,FC Eindhoven,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Jelle ten Rouwelaar,24,Goalkeeper,FC Eindhoven,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Johann Vogel,28,Defensive Midfield,AC Milan,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Arvid Smit,24,Central Midfield,Willem II,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Jordi Hoogstrate,22,Central Midfield,FC Emmen,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Johan Vonlanthen,19,Left Midfield,NAC Breda,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Lasse Qvist,18,Centre-Forward,FC Copenhagen,?,out,Summer,NA,Eredivisie,2005,2005/2006
+PSV Eindhoven,Csaba Fehér,29,Defensive Midfield,Willem II,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Markus Rosenberg,22,Centre-Forward,Malmö FF,£4.77m,in,Summer,4.77,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Olaf Lindenbergh,31,Defensive Midfield,AZ Alkmaar,£1.08m,in,Summer,1.08,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Juanfran,29,Left-Back,Besiktas,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Victor Sikora,28,Right Winger,Heerenveen,"End of loanMay 1, 2006",in,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Daniël de Ridder,22,Left Winger,Celta de Vigo,"End of loanMay 1, 2006",in,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Urby Emanuelson,19,Central Midfield,Ajax U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Kenneth Vermeer,19,Goalkeeper,Ajax U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Emmanuel Boakye,20,Right-Back,Ajax U21,-,in,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Pius Ikedia,24,Right Winger,RBC Roosendaal,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Thomas Vermaelen,19,Centre-Back,RKC Waalwijk,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Abubakari Yakubu,23,Defensive Midfield,Vitesse,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Wesley Sonck,26,Centre-Forward,Bor. M'gladbach,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Rafael van der Vaart,22,Attacking Midfield,Hamburger SV,£4.59m,out,Summer,4.59,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Wesley Sonck,26,Centre-Forward,Bor. M'gladbach,£2.25m,out,Summer,2.25,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Abubakari Yakubu,23,Defensive Midfield,Vitesse,£675Th.,out,Summer,0.675,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Ruud Kras,23,Centre-Back,FC Dordrecht,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Rasmus Lindgren,20,Centre-Back,FC Groningen,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Pius Ikedia,25,Right Winger,AZ Alkmaar,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Anthony Obodai,23,Defensive Midfield,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Tom De Mul,19,Right Midfield,Vitesse,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Daniël de Ridder,21,Left Winger,Celta de Vigo,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Filipe Luís,19,Left-Back,Figueirense FC,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Gastón Sangoy,20,Right Winger,Boca Juniors,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Stijn Schaars,21,Defensive Midfield,Vitesse,£1.53m,in,Summer,1.53,Eredivisie,2005,2005/2006
+AZ Alkmaar,Danny Koevermans,26,Centre-Forward,Sparta R.,£765Th.,in,Summer,0.765,Eredivisie,2005,2005/2006
+AZ Alkmaar,Demy de Zeeuw,22,Central Midfield,Go Ahead Eagles,£90Th.,in,Summer,0.09,Eredivisie,2005,2005/2006
+AZ Alkmaar,Shota Arveladze,32,Centre-Forward,Rangers,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Pius Ikedia,25,Right Winger,Ajax,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Danny Mathijssen,22,Defensive Midfield,Willem II,?,in,Summer,NA,Eredivisie,2005,2005/2006
+AZ Alkmaar,Jannes Wolters,26,Centre-Back,Emmen,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Jan Kromkamp,24,Right-Back,Villarreal,£5.40m,out,Summer,5.4,Eredivisie,2005,2005/2006
+AZ Alkmaar,Olaf Lindenbergh,31,Defensive Midfield,Ajax,£1.08m,out,Summer,1.08,Eredivisie,2005,2005/2006
+AZ Alkmaar,Arjan Wisse,20,Left Winger,Stormvogels,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Christy Bonevacia,19,Central Midfield,FC Emmen,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Jannes Wolters,26,Centre-Back,FC Emmen,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Robin Nelisse,27,Centre-Forward,FC Utrecht,?,out,Summer,NA,Eredivisie,2005,2005/2006
+AZ Alkmaar,Tom Zoontjes,20,Centre-Back,Sparta R.,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Beau Molenaar,20,Goalkeeper,FC Omniworld,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Ali Elkhattabi,28,Centre-Forward,RBC Roosendaal,?,out,Summer,NA,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Sherif Ekramy,21,Goalkeeper,El Ahly,£315Th.,in,Summer,0.315,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Timothy Derijck,18,Centre-Back,Anderlecht U19,£270Th.,in,Summer,0.27,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Benjamin De Ceulaer,21,Centre-Forward,Sint-Truiden,£225Th.,in,Summer,0.225,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Ali Boussaboun,26,Left Winger,NAC Breda,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,John Owoeri,18,Centre-Forward,Bendel Ins.,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Evander Sno,18,Defensive Midfield,Ajax U19,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Serginho Greene,23,Defensive Midfield,RKC Waalwijk,?,in,Summer,NA,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Evander Sno,19,Defensive Midfield,NAC Breda,"End of loanMay 1, 2006",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Alex Brosque,21,Attacking Midfield,KVC Westerlo,"End of loanJul 1, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jonathan de Guzmán,17,Central Midfield,Feyenoord U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Diego Biseswar,16,Attacking Midfield,Feyenoord U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Santi Kolk,23,Right Winger,Excelsior,"End of loanAug 1, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Pieter Collen,25,Centre-Back,NAC Breda,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Steve Olfers,23,Centre-Back,FC Den Bosch,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Alfred Schreuder,32,Defensive Midfield,RKC Waalwijk,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Ramon van Haaren,32,Left-Back,Sparta R.,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Ferne Snoyl,20,Left-Back,FC Den Bosch,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jorge Acuña,26,Defensive Midfield,CDUC,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jeppe Curth,21,Centre-Forward,Excelsior,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Maikel Aerts,29,Goalkeeper,RBC Roosendaal,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Ebi Smolarek,24,Centre-Forward,Bor. Dortmund,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Edwin de Graaf,25,Central Midfield,RBC Roosendaal,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jean Carlos,21,Left-Back,Hamburger SV,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jordan Opoku,22,Central Midfield,Royal Antwerp,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Gill Swerts,22,Right-Back,ADO Den Haag,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Anthony Lurling,28,Attacking Midfield,NAC Breda,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Bart Goor,32,Left Midfield,RSC Anderlecht,£1.53m,out,Summer,1.53,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Ebi Smolarek,24,Centre-Forward,Bor. Dortmund,£675Th.,out,Summer,0.675,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Glenn Loovens,21,Centre-Back,Cardiff,£338Th.,out,Summer,0.338,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Anthony Lurling,28,Attacking Midfield,1. FC Köln,£270Th.,out,Summer,0.27,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Zbigniew Malkowski,27,Goalkeeper,Hibernian FC,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Steve Olfers,23,Centre-Back,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Gianni Zuiverloon,18,Centre-Back,RKC Waalwijk,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Gill Swerts,22,Right-Back,Vitesse,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Benjamin De Ceulaer,21,Centre-Forward,RKC Waalwijk,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jeppe Curth,21,Centre-Forward,Aalborg BK,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jordan Opoku,22,Central Midfield,Fetteh Feyenoord,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Danko Lazovic,22,Second Striker,Bay. Leverkusen,Loan fee:£23Th.,out,Summer,0.023,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jorge Acuña,26,Defensive Midfield,RBC Roosendaal,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Gábor Babos,30,Goalkeeper,NEC Nijmegen,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Ramon van Haaren,32,Left-Back,RKC Waalwijk,?,out,Summer,NA,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Alex Brosque,21,Attacking Midfield,Brisbane Roar,?,out,Summer,NA,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Santi Kolk,23,Right Winger,FC Zwolle,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Bruno Basto,27,Left-Back,Without Club,-,out,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Danijel Pranjic,23,Left-Back,Dinamo Zagreb,£450Th.,in,Summer,0.45,Eredivisie,2005,2005/2006
+SC Heerenveen,Abdelkarim Kissi,25,Defensive Midfield,Litex Lovetch,£180Th.,in,Summer,0.18,Eredivisie,2005,2005/2006
+SC Heerenveen,Fernando Derveld,28,Left-Back,Odense BK,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Paul Bosvelt,35,Defensive Midfield,Man City,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Hjalte Bo Nörregaard,24,Central Midfield,FC Copenhagen,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Niklas Tarvajärvi,22,Centre-Forward,MYPA,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Sebastiaan Steur,21,Left Winger,FC Volendam,?,in,Summer,NA,Eredivisie,2005,2005/2006
+SC Heerenveen,Alessandro Beccia,19,Left Midfield,Bassano,?,in,Summer,NA,Eredivisie,2005,2005/2006
+SC Heerenveen,Henrico Drost,18,Centre-Back,Heerenveen U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Oguzhan Türk,19,Attacking Midfield,Heerenveen U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Lasse Schöne,19,Defensive Midfield,Heerenveen U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Reza Ghoochannejhad,17,Centre-Forward,Heerenveen U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Jesper Haakansson,23,Attacking Midfield,RBC Roosendaal,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Arkadiusz Radomski,28,Defensive Midfield,Austria Vienna,£540Th.,out,Summer,0.54,Eredivisie,2005,2005/2006
+SC Heerenveen,Spencer Verbiest,21,Defensive Midfield,Royal Antwerp,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Mika Väyrynen,23,Central Midfield,PSV Eindhoven,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Tomasz Rzasa,32,Left-Back,ADO Den Haag,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Hannu Haarala,23,Right-Back,FC Honka,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Alessandro Beccia,19,Left Midfield,Hellas Verona,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Daniel Berg Hestad,29,Defensive Midfield,Molde,?,out,Summer,NA,Eredivisie,2005,2005/2006
+SC Heerenveen,Jerrel Wolfgang,20,Centre-Back,Helmond Sport,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Jesper Haakansson,23,Attacking Midfield,Djurgarden,?,out,Summer,NA,Eredivisie,2005,2005/2006
+SC Heerenveen,Yuri Rose,26,Attacking Midfield,Sparta R.,?,out,Summer,NA,Eredivisie,2005,2005/2006
+SC Heerenveen,Victor Sikora,28,Right Winger,Ajax,"End of loanMay 1, 2006",out,Summer,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Denis Calincov,19,Left Winger,RSC Anderlecht,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Danny Wintjens,21,Goalkeeper,MVV Maastricht,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Kennedy,24,Right Midfield,Iraklis,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Konstantinos Louboutis,26,Left-Back,Perugia,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Wout Brama,18,Defensive Midfield,FC Twente U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Patrick Gerritsen,18,Centre-Forward,FC Twente U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Marcel Kleizen,19,Forward,FC Twente U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Jeffrey de Visscher,24,Right Winger,Heracles Almelo,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Nelson da Costa,22,Attacking Midfield,Go Ahead Eagles,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Nelson da Costa,22,Attacking Midfield,Eintr. Rheine,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Kim Christensen,25,Centre-Forward,Bröndby IF,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Jeffrey de Visscher,24,Right Winger,De Graafschap,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Raymond Fafiani,21,Central Midfield,FC Zwolle,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Coen Slagter,20,Forward,1.FC Doppeltest,?,out,Summer,NA,Eredivisie,2005,2005/2006
+Twente Enschede FC,Ruud Bruns,19,Forward,Go Ahead Eagles,?,out,Summer,NA,Eredivisie,2005,2005/2006
+Twente Enschede FC,Simon Cziommer,24,Central Midfield,FC Schalke 04,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Abubakari Yakubu,23,Defensive Midfield,Ajax,£675Th.,in,Summer,0.675,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Remco van der Schaaf,26,Centre-Back,PSV Eindhoven,£207Th.,in,Summer,0.207,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Gill Swerts,22,Right-Back,Feyenoord,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Etiënne Esajas,20,Left Winger,Ajax U21,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Tom De Mul,19,Right Midfield,Ajax,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Siebe Blondelle,19,Centre-Back,Vit./AGOVV U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Onur Kaya,19,Attacking Midfield,Vit./AGOVV U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Hesdey Suart,19,Left-Back,Vit./AGOVV U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Stijn Schaars,21,Defensive Midfield,AZ Alkmaar,£1.53m,out,Summer,1.53,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Aleksandar Rankovic,26,Right-Back,ADO Den Haag,£315Th.,out,Summer,0.315,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Lucien Dors,20,Right Midfield,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Jaap Davids,20,Centre-Back,FC Den Bosch,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Igor Gluscevic,31,Centre-Forward,Heracles Almelo,?,out,Summer,NA,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Abubakari Yakubu,23,Defensive Midfield,Ajax,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Andres Oper,27,Centre-Forward,Torpedo Moscow,£180Th.,in,Summer,0.18,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Bram Castro,22,Goalkeeper,Sint-Truiden,£135Th.,in,Summer,0.135,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Charlie van den Ouweland,23,Right Midfield,FC Den Bosch,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Alexander Voigt,27,Left-Back,1. FC Köln,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Dirk-Jan Derksen,33,Centre-Forward,Fortuna Sittard,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Vincent Lachambre,24,Left-Back,FC Eindhoven,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Mohammed El Berkani,22,Right Winger,Fortuna Sittard,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Sven Vandenbroeck,25,Defensive Midfield,De Graafschap,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Mark Luijpers,34,Left-Back,MVV Maastricht,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Guido Budziak,22,Goalkeeper,Fortuna Sittard,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Dennis Buchholz,19,Centre-Back,Germ. Teveren,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Roel Brouwers,23,Centre-Back,SC Paderborn,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Thomas Nishan Litjens,20,Centre-Back,Falkirk FC,?,out,Summer,NA,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Arouna Koné,21,Centre-Forward,PSV Eindhoven,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Charlie van den Ouweland,23,Right Midfield,FC Zwolle,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Maarten Martens,20,Attacking Midfield,RSC Anderlecht,£90Th.,in,Summer,0.09,Eredivisie,2005,2005/2006
+RKC Waalwijk,Cerezo Fung a Wing,21,Defensive Midfield,FC Volendam,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Gianni Zuiverloon,18,Centre-Back,Feyenoord,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Dylan Hughes,20,Second Striker,Jahn Regensburg,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Martijn Barto,20,Centre-Forward,Heerenveen U21,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,David Triantafillidis,19,Centre-Back,KRC Genk U19,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Rob van Dijk,36,Goalkeeper,De Graafschap,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Tim Bakens,22,Centre-Back,De Graafschap,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Stephan Keller,26,Centre-Back,Rot-Weiß Erfurt,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Benjamin De Ceulaer,21,Centre-Forward,Feyenoord,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Dominique van Dijk,25,Attacking Midfield,Cambuur L.,£23Th.,in,Summer,0.023,Eredivisie,2005,2005/2006
+RKC Waalwijk,Felino Jardim,19,Attacking Midfield,Feyenoord U21,?,in,Summer,NA,Eredivisie,2005,2005/2006
+RKC Waalwijk,Ryan Donk,19,Centre-Back,Zeeburgia U19,?,in,Summer,NA,Eredivisie,2005,2005/2006
+RKC Waalwijk,Ramon van Haaren,32,Left-Back,Feyenoord,?,in,Summer,NA,Eredivisie,2005,2005/2006
+RKC Waalwijk,Hans van de Haar,30,Centre-Forward,FC Utrecht,?,in,Summer,NA,Eredivisie,2005,2005/2006
+RKC Waalwijk,Touvarno Pinas,19,Left-Back,RKC U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Tim Peters,20,Centre-Forward,RKC U21,-,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Lion Axwijk,21,Left-Back,RKC U21,-,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Sjack van Rijsbergen,20,Right-Back,RKC U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Jochen Janssen,29,Centre-Forward,FC Den Bosch,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Wilko de Vogt,29,Goalkeeper,TOP Oss,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Nick van der Velden,23,Left Winger,FC Dordrecht,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Jason Oost,22,Attacking Midfield,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Bernardo Vasconcelos,26,Centre-Forward,Estoril,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Biko,20,Centre-Forward,FC Omniworld,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Ronayne Marsh-Brown,20,Left-Back,Fisher Athletic,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Wilko de Vogt,29,Goalkeeper,TOP Oss,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Ferdi Elmas,20,Left Winger,C. Rizespor,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Serginho Greene,23,Defensive Midfield,Feyenoord,?,out,Summer,NA,Eredivisie,2005,2005/2006
+RKC Waalwijk,Tieme Klompe,29,Centre-Back,FC Groningen,?,out,Summer,NA,Eredivisie,2005,2005/2006
+RKC Waalwijk,Marc van Hintum,38,Left-Back,Retired,-,out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Khalid Sinouh,30,Goalkeeper,Without Club,-,out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Maarten Martens,20,Attacking Midfield,RSC Anderlecht,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Thomas Vermaelen,19,Centre-Back,Ajax,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Cerezo Fung a Wing,21,Defensive Midfield,FC Volendam,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Alfred Schreuder,32,Defensive Midfield,Feyenoord,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Jasar Takak,23,Central Midfield,PSV U21,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Mousa Dembélé,17,Central Midfield,Germ. Beerschot,£225Th.,in,Summer,0.225,Eredivisie,2005,2005/2006
+Willem II Tilburg,Zsombor Kerekes,31,Centre-Forward,Debrecen,£180Th.,in,Summer,0.18,Eredivisie,2005,2005/2006
+Willem II Tilburg,Ryan Holman,18,Left-Back,Feyenoord U19,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Arvid Smit,24,Central Midfield,PSV Eindhoven,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Jens Janse,19,Right Midfield,PSV U19,?,in,Summer,NA,Eredivisie,2005,2005/2006
+Willem II Tilburg,Csaba Fehér,29,Defensive Midfield,PSV Eindhoven,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Giorgio Berkleef,19,Left Winger,SV Argon,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,David Johnson,21,Midfielder,Brown Bears,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Antony Spinosa,19,Defender,Cercle Brugge,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Ricardo Smits,23,Defender,Hoogstraten VV,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Danny Mathijssen,22,Defensive Midfield,AZ Alkmaar,?,out,Summer,NA,Eredivisie,2005,2005/2006
+Willem II Tilburg,Rob Oomens,24,Right Midfield,Retired,-,out,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Christophe Lepoint,20,Attacking Midfield,Without Club,-,out,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Erik de Kruijk,20,Centre-Back,Willem II U21,-,out,Summer,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Arvid Smit,24,Central Midfield,PSV Eindhoven,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+FC Utrecht,Franck Grandel,27,Goalkeeper,Troyes,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+FC Utrecht,Marc-Antoine Fortuné,23,Centre-Forward,Stade Brest 29,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+FC Utrecht,Robin Nelisse,27,Centre-Forward,AZ Alkmaar,?,in,Summer,NA,Eredivisie,2005,2005/2006
+FC Utrecht,Kees van Buuren,18,Right-Back,FC Utrecht U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+FC Utrecht,Daan Huiskamp,19,Goalkeeper,Utrecht U21,-,in,Summer,0,Eredivisie,2005,2005/2006
+FC Utrecht,Giuseppe Rossini,18,Centre-Forward,FC Utrecht U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+FC Utrecht,Michael Mols,34,Centre-Forward,ADO Den Haag,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Utrecht,René Ponk,33,Goalkeeper,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Utrecht,Richal Leitoe,22,Right Winger,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Utrecht,Prince Rajcomar,20,Centre-Forward,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Utrecht,Jordy Zuidam,24,Defensive Midfield,FC Zwolle,?,out,Summer,NA,Eredivisie,2005,2005/2006
+FC Utrecht,Hans van de Haar,30,Centre-Forward,RKC Waalwijk,?,out,Summer,NA,Eredivisie,2005,2005/2006
+FC Utrecht,Samir El Gaaouiri,21,Left Winger,FC Volendam,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Koen van de Laak,22,Attacking Midfield,FC Den Bosch,£450Th.,in,Summer,0.45,Eredivisie,2005,2005/2006
+FC Groningen,Bruno Silva,25,Right-Back,Danubio FC,£180Th.,in,Summer,0.18,Eredivisie,2005,2005/2006
+FC Groningen,Yevgen Levchenko,27,Central Midfield,Sparta R.,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Rasmus Lindgren,20,Centre-Back,Ajax,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Yuri Cornelisse,30,Right Midfield,NAC Breda,?,in,Summer,NA,Eredivisie,2005,2005/2006
+FC Groningen,Tieme Klompe,29,Centre-Back,RKC Waalwijk,?,in,Summer,NA,Eredivisie,2005,2005/2006
+FC Groningen,Marcel Pannekoek,19,Midfielder,Groningen U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Rogier Krohne,18,Centre-Forward,Groningen U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Ray Fränkel,22,Centre-Back,Fortuna Sittard,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Kurt Elshot,27,Right-Back,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Hugo,30,Attacking Midfield,AE Pafos,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Mile Krstev,26,Central Midfield,Veendam,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Sander van Gessel,28,Defensive Midfield,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Martin Drent,35,Centre-Forward,Veendam,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Chris De Witte,27,Centre-Forward,KFC Schoten SK,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Kassim Bizimana,19,Forward,Veendam,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Brian Pinas,26,Left Winger,Cercle Brugge,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Luizinho,22,Midfielder,VVV-Venlo,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Jack Tuyp,21,Centre-Forward,FC Volendam,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+FC Groningen,Ray Fränkel,22,Centre-Back,Haarlem,?,out,Summer,NA,Eredivisie,2005,2005/2006
+NEC Nijmegen,Jonas Olsson,22,Centre-Back,Landskrona,£720Th.,in,Summer,0.72,Eredivisie,2005,2005/2006
+NEC Nijmegen,Guillano Grot,22,Forward,De Treffers,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+NEC Nijmegen,Jasar Takak,23,Central Midfield,PSV U21,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+NEC Nijmegen,Gábor Babos,30,Goalkeeper,Feyenoord,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+NEC Nijmegen,Dennis Gentenaar,29,Goalkeeper,Bor. Dortmund,£135Th.,out,Summer,0.135,Eredivisie,2005,2005/2006
+NEC Nijmegen,Thijs Hendriks,20,Right Winger,Achilles '29,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NEC Nijmegen,Charles Kazlauskas,22,Right-Back,TOP Oss,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NEC Nijmegen,Arjan Ebbinge,30,Centre-Back,RBC Roosendaal,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NEC Nijmegen,Frank Demouge,23,Centre-Forward,FC Eindhoven,?,out,Summer,NA,Eredivisie,2005,2005/2006
+NEC Nijmegen,Roel Hendriks,21,Left Winger,TOP Oss,?,out,Summer,NA,Eredivisie,2005,2005/2006
+NEC Nijmegen,David Jones,21,Midfielder,Man Utd,"End of loanApr 1, 2006",out,Summer,0,Eredivisie,2005,2005/2006
+NEC Nijmegen,Pascal Heije,25,Defensive Midfield,Without Club,-,out,Summer,0,Eredivisie,2005,2005/2006
+NEC Nijmegen,Albert van der Sleen,42,Goalkeeper,Retired,-,out,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Aleksandar Rankovic,26,Right-Back,Vitesse,£315Th.,in,Summer,0.315,Eredivisie,2005,2005/2006
+ADO Den Haag,Michael Mols,34,Centre-Forward,FC Utrecht,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Sean Doherty,20,Left Midfield,Fulham U23,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Tomasz Rzasa,32,Left-Back,Heerenveen,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Robert Zwinkels,22,Goalkeeper,Ajax U21,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Raimund Riedewald,18,Centre-Back,ADO U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Levi Schwiebbe,18,Central Midfield,ADO U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Ismail Oruc,16,Goalkeeper,ADO U21,-,in,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Jimmy van Fessem,29,Goalkeeper,De Graafschap,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,John O'Brien,28,Defensive Midfield,Chivas USA,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Cedric van der Gun,26,Centre-Forward,Bor. Dortmund,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Daniel Koegler,23,Forward,VSV TONEGIDO,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Wesley Zandstra,21,Right-Back,FC Zwolle,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Jimmy van Fessem,29,Goalkeeper,De Graafschap,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Stefan Huisman,21,Attacking Midfield,FC Omniworld,?,out,Summer,NA,Eredivisie,2005,2005/2006
+ADO Den Haag,Geoffrey Knijnenburg,22,Right Winger,Go Ahead Eagles,Loan,out,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Jamie Smith,24,Right Winger,Aberdeen FC,?,out,Summer,NA,Eredivisie,2005,2005/2006
+ADO Den Haag,Sjaak Polak,29,Left-Back,Sparta R.,?,out,Summer,NA,Eredivisie,2005,2005/2006
+ADO Den Haag,Raymond Jansz,22,Goalkeeper,Unknown,?,out,Summer,NA,Eredivisie,2005,2005/2006
+ADO Den Haag,Gill Swerts,22,Right-Back,Feyenoord,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Edson,21,Centre-Forward,Spurs,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Pierre van Hooijdonk,35,Centre-Forward,Fenerbahce,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Arie Jonker,21,Forward,Katwijk,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Davy Schollen,27,Goalkeeper,KRC Genk,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Patrick Zwaanswijk,30,Centre-Back,Oita Trinita,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Sander van Gessel,28,Defensive Midfield,FC Groningen,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Kurt Elshot,27,Right-Back,FC Groningen,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Tony Vidmar,34,Left-Back,Cardiff,?,in,Summer,NA,Eredivisie,2005,2005/2006
+NAC Breda,Johan Vonlanthen,19,Left Midfield,PSV Eindhoven,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Ariën Pietersma,18,Goalkeeper,NAC Breda U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Yvo van Engelen,20,Centre-Back,NAC Breda U21,-,in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Robbie Haemhouts,21,Central Midfield,FC Den Bosch,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Robert Braber,22,Attacking Midfield,Helmond Sport,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Ali Boussaboun,26,Left Winger,Feyenoord,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Levi Risamasu,22,Defensive Midfield,AGOVV Apeldoorn,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Nebojsa Gudelj,35,Left-Back,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Adnan Barakat,22,Left Winger,FC Eindhoven,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Marcel Koning,30,Central Midfield,HBS,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Niek Ripson,21,Centre-Back,TOP Oss,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Robert Braber,22,Attacking Midfield,Helmond Sport,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Omar Boukhari,19,Right-Back,SV Argon,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Yuri Cornelisse,30,Right Midfield,FC Groningen,?,out,Summer,NA,Eredivisie,2005,2005/2006
+NAC Breda,Eric Atuhaene,21,Left-Back,TOP Oss,?,out,Summer,NA,Eredivisie,2005,2005/2006
+NAC Breda,Robbie Haemhouts,21,Central Midfield,FC Den Bosch,?,out,Summer,NA,Eredivisie,2005,2005/2006
+NAC Breda,Evander Sno,19,Defensive Midfield,Feyenoord,"End of loanMay 1, 2006",out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Mark Schenning,34,Centre-Back,Retired,-,out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Pieter Collen,25,Centre-Back,Feyenoord,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Jürgen Colin,24,Centre-Back,PSV Eindhoven,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Davy Schollen,27,Goalkeeper,KRC Genk,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+NAC Breda,Anthony Lurling,28,Attacking Midfield,Feyenoord,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Mark Volders,28,Goalkeeper,KSK Beveren,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Akram Roumani,27,Left-Back,KRC Genk,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Nyron Wau,22,Right Winger,PSV Eindhoven,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Arjan Ebbinge,30,Centre-Back,NEC Nijmegen,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Edgar Marcelino,20,Right Winger,Sporting CP,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Rodney Ubbergen,19,Goalkeeper,AZ Alkmaar U19,?,in,Summer,NA,Eredivisie,2005,2005/2006
+RBC Roosendaal,Richie Basoski,18,Right Winger,Barendrecht U19,?,in,Summer,NA,Eredivisie,2005,2005/2006
+RBC Roosendaal,Paul Kpaka,24,Centre-Forward,KRC Genk,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Ali Elkhattabi,28,Centre-Forward,AZ Alkmaar,?,in,Summer,NA,Eredivisie,2005,2005/2006
+RBC Roosendaal,Jorge Acuña,26,Defensive Midfield,Feyenoord,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Frits Paap,18,Right-Back,Roosendaal U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Pauwie Otto,18,Defender,Roosendaal U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Adem Yaran,20,Defender,Roosendaal U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Esad Razic,22,Left Midfield,Helmond Sport,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Björn Daelemans,27,Right-Back,KFC Verbr. Geel,"End of loanJun 30, 2005",in,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Ramon Luijten,23,Central Midfield,FC Omniworld,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Azubuike Oliseh,26,Centre-Back,AEK Larnaca,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Juan Viedma Schenkhuizen,30,Defensive Midfield,FC Omniworld,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Illary van der Lee,21,Goalkeeper,Baronie,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Adam Farouk,19,Centre-Back,RC Paris,?,out,Summer,NA,Eredivisie,2005,2005/2006
+RBC Roosendaal,Sammy Youssouf,28,Centre-Forward,Marítimo,?,out,Summer,NA,Eredivisie,2005,2005/2006
+RBC Roosendaal,Esad Razic,23,Left Midfield,Helmond Sport,?,out,Summer,NA,Eredivisie,2005,2005/2006
+RBC Roosendaal,Danny Hesp,35,Centre-Back,Retired,-,out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Eric Hellemons,34,Centre-Back,Retired,-,out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Birger Van de Ven,23,Centre-Back,Club Brugge,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Pius Ikedia,24,Right Winger,Ajax,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Edwin de Graaf,25,Central Midfield,Feyenoord,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Maikel Aerts,29,Goalkeeper,Feyenoord,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Jesper Haakansson,23,Attacking Midfield,Heerenveen,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Jason Oost,22,Attacking Midfield,RKC Waalwijk,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Anthony Obodai,23,Defensive Midfield,Ajax,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Sani Kaita,19,Defensive Midfield,Kano Pillars,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Nebojsa Gudelj,35,Left-Back,NAC Breda,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Steve Olfers,23,Centre-Back,Feyenoord,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,René Ponk,33,Goalkeeper,FC Utrecht,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Ivan Tsvetkov,25,Centre-Forward,Helmond Sport,?,in,Summer,NA,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Sjaak Polak,29,Left-Back,ADO Den Haag,?,in,Summer,NA,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Yuri Rose,26,Attacking Midfield,Heerenveen,?,in,Summer,NA,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Mehmet Kerem Yilmaz,21,Midfielder,Unknown,?,in,Summer,NA,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Istvan Bakx,19,Attacking Midfield,VV Kloetinge,?,in,Summer,NA,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Tom Zoontjes,20,Centre-Back,AZ Alkmaar,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Marvin Emnes,17,Centre-Forward,Sparta U19,-,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Mark Smith,18,Goalkeeper,Sparta U21,-,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Marvin Wijks,21,Right Winger,Sparta U21,-,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Sendley Bito,21,Centre-Forward,Sparta U21,-,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Nathan Rutjes,21,Defensive Midfield,Sparta U21,-,in,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Danny Koevermans,26,Centre-Forward,AZ Alkmaar,£765Th.,out,Summer,0.765,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Dries Gijbels,19,Goalkeeper,Heusden-Zolder,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Roel de Graaff,21,Right Winger,Haarlem,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Marco de Borst,21,Left-Back,Barendrecht,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Menno Kans,23,Midfielder,Hoogstraten VV,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Frank Broers,27,Left-Back,VVV-Venlo,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Lorenzo Rimkus,20,Left Midfield,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Riga Mustapha,23,Right Winger,Levante,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Moussa Kalisse,22,Left Winger,FC Dordrecht,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Achmed Ahahaoui,22,Left Winger,Haarlem,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Yevgen Levchenko,27,Central Midfield,FC Groningen,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Menno Willems,28,Left-Back,Go Ahead Eagles,?,out,Summer,NA,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Sebastiaan Pot,21,Defender,Sparta U21,-,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,David Nascimento,39,Centre-Back,Retired,-,out,Summer,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Ramon van Haaren,32,Left-Back,Feyenoord,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Ragnar Klavan,19,Centre-Back,FC Flora,£180Th.,in,Summer,0.18,Eredivisie,2005,2005/2006
+Heracles Almelo,Rob Maas,35,Defensive Midfield,MSV Duisburg,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Jan Wuytens,20,Centre-Back,PSV U21,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Martin Pieckenhagen,33,Goalkeeper,Hamburger SV,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Bernard Hofstede,24,Central Midfield,VVV-Venlo,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Denis Calincov,19,Left Winger,RSC Anderlecht,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Sota Hirayama,20,Centre-Forward,Tsukuba Univ.,Free transfer,in,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Igor Gluscevic,31,Centre-Forward,Vitesse,?,in,Summer,NA,Eredivisie,2005,2005/2006
+Heracles Almelo,Chris Wijnterp,20,Goalkeeper,FC Twente U21,Loan,in,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Erwin Leurink,32,Defender,Excelsior '31,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Tim Gilissen,23,Defensive Midfield,Go Ahead Eagles,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Barry Reijs,26,Goalkeeper,FC Emmen,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Niels ten Hoeve,22,Second Striker,HSC '21,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Machiel van Keulen,21,Midfielder,SVZW Wierden,Free transfer,out,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Roel Buikema,29,Left Midfield,Excelsior,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Jonathan Constancia,19,Attacking Midfield,KAA Gent,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Jeffrey de Visscher,24,Right Winger,Twente FC,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Sherjill MacDonald,20,Centre-Forward,RSC Anderlecht,"End of loanJun 30, 2005",out,Summer,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Jason Culina,25,Central Midfield,Twente FC,£1.08m,in,Winter,1.08,Eredivisie,2005,2005/2006
+PSV Eindhoven,Lee Nguyen,19,Attacking Midfield,Dallas Texans,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Archie Thompson,27,Centre-Forward,Melbourne,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Tim Janssen,19,Centre-Forward,FC Eindhoven,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Robert,24,Centre-Forward,Real Betis,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Lindsay Wilson,26,Left Midfield,Kilmarnock FC,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+PSV Eindhoven,Osmar Ferreyra,22,Attacking Midfield,CSKA Moscow,"End of loanDec 31, 2005",out,Winter,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Klaas-Jan Huntelaar,22,Centre-Forward,Heerenveen,£8.10m,in,Winter,8.1,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Jeffrey Sarpong,17,Left Winger,Ajax U19,-,in,Winter,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Michael Timisela,19,Right-Back,Ajax U21,-,in,Winter,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Robbert Schilder,19,Centre-Back,Ajax U21,-,in,Winter,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Julien Escudé,26,Centre-Back,Sevilla FC,£1.71m,out,Winter,1.71,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Bogdan Lobont,28,Goalkeeper,Fiorentina,£1.35m,out,Winter,1.35,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Nigel de Jong,21,Defensive Midfield,Hamburger SV,£1.35m,out,Winter,1.35,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Maxwell,24,Left-Back,Inter,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+Ajax Amsterdam,Stanley Aborah,18,Central Midfield,FC Den Bosch,?,out,Winter,NA,Eredivisie,2005,2005/2006
+AZ Alkmaar,Grétar Steinsson,23,Right-Back,BSC Young Boys,£900Th.,in,Winter,0.9,Eredivisie,2005,2005/2006
+AZ Alkmaar,Rogier Molhoek,24,Defensive Midfield,RKC Waalwijk,?,in,Winter,NA,Eredivisie,2005,2005/2006
+AZ Alkmaar,Ron Vlaar,20,Centre-Back,Feyenoord,£2.25m,out,Winter,2.25,Eredivisie,2005,2005/2006
+AZ Alkmaar,Juha Reini,30,Centre-Back,Kokkolan PV,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Danny Mathijssen,22,Defensive Midfield,RKC Waalwijk,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Adil Ramzi,28,Left Midfield,FC Utrecht,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+AZ Alkmaar,Michael Buskermolen,33,Central Midfield,Retired,-,out,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Ron Vlaar,20,Centre-Back,AZ Alkmaar,£2.25m,in,Winter,2.25,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Pierre van Hooijdonk,36,Centre-Forward,NAC Breda,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Royston Drenthe,18,Left Midfield,Feyenoord U19,-,in,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Danko Lazovic,22,Second Striker,Bay. Leverkusen,"End of loanDec 31, 2005",in,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jajá,19,Centre-Forward,KVC Westerlo,"End of loanDec 31, 2005",in,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Hossam Ghaly,24,Central Midfield,Spurs,£2.70m,out,Winter,2.7,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Shinji Ono,26,Central Midfield,Urawa Reds,£2.25m,out,Winter,2.25,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jajá,19,Centre-Forward,Getafe,£900Th.,out,Winter,0.9,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Alexander Östlund,27,Right-Back,Southampton,£135Th.,out,Winter,0.135,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Leonardo,22,Second Striker,NAC Breda,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Karim Saïdi,22,Centre-Back,Lecce,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Cory Gibbs,25,Centre-Back,ADO Den Haag,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Ferne Snoyl,20,Left-Back,Aberdeen FC,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,John Owoeri,18,Centre-Forward,KVC Westerlo,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Danko Lazovic,22,Second Striker,Partizan,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Timothy Derijck,18,Centre-Back,NAC Breda,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Jean Carlos,22,Left-Back,Fluminense,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Evander Sno,18,Defensive Midfield,NAC Breda,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Feyenoord Rotterdam,Edwin de Graaf,25,Central Midfield,ADO Den Haag,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Jakob Poulsen,22,Central Midfield,Esbjerg fB,£630Th.,in,Winter,0.63,Eredivisie,2005,2005/2006
+SC Heerenveen,Mark de Vries,30,Centre-Forward,Leicester,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Michael Bradley,18,Central Midfield,NY Red Bulls,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Kevin Moeliker,25,Goalkeeper,Stormvogels,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Cecilio Lopes,27,Centre-Forward,FC Dordrecht,?,in,Winter,NA,Eredivisie,2005,2005/2006
+SC Heerenveen,Klaas-Jan Huntelaar,22,Centre-Forward,Ajax,£8.10m,out,Winter,8.1,Eredivisie,2005,2005/2006
+SC Heerenveen,Georgios Samaras,20,Left Winger,Man City,£7.65m,out,Winter,7.65,Eredivisie,2005,2005/2006
+SC Heerenveen,Joey van den Berg,19,Defensive Midfield,FC Omniworld,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+SC Heerenveen,Said Bakkati,23,Right-Back,ADO Den Haag,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Anatoli Gerk,21,Attacking Midfield,RSC Anderlecht,£585Th.,in,Winter,0.585,Eredivisie,2005,2005/2006
+Twente Enschede FC,Arnar Vidarsson,27,Defensive Midfield,KSC Lokeren,£135Th.,in,Winter,0.135,Eredivisie,2005,2005/2006
+Twente Enschede FC,Pablo Cáceres,20,Left-Back,Danubio FC,?,in,Winter,NA,Eredivisie,2005,2005/2006
+Twente Enschede FC,Julius Vehoff,21,Defensive Midfield,FC Twente U21,-,in,Winter,0,Eredivisie,2005,2005/2006
+Twente Enschede FC,Daniel Majstorović,28,Centre-Back,FC Basel,£1.35m,out,Winter,1.35,Eredivisie,2005,2005/2006
+Twente Enschede FC,Jason Culina,25,Central Midfield,PSV Eindhoven,£1.08m,out,Winter,1.08,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Mads Junker,24,Centre-Forward,Nordsjaelland,£1.80m,in,Winter,1.8,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Paul Verhaegh,22,Right-Back,FC Den Bosch,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Matthew Amoah,25,Centre-Forward,Bor. Dortmund,£360Th.,out,Winter,0.36,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Stijn Vreven,32,Right-Back,Omonia Nikosia,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+Vitesse Arnhem,Igor Gluscevic,31,Centre-Forward,SD Luneng,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Jan-Paul Saeijs,27,Centre-Back,ADO Den Haag,£315Th.,in,Winter,0.315,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Simon Cziommer,25,Central Midfield,FC Schalke 04,Loan fee:£90Th.,in,Winter,0.09,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Humphrey Rudge,28,Centre-Back,Hibernian FC,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Olaf Rompelberg,18,Centre-Back,Roda JC U19,-,in,Winter,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Kevin Begois,23,Goalkeeper,VVV-Venlo,"End of loanDec 31, 2005",in,Winter,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Pedrag Filipovic,30,Left-Back,KSC Lokeren,£855Th.,out,Winter,0.855,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,László Bodnár,26,Right-Back,RB Salzburg,£360Th.,out,Winter,0.36,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Mohammed El Berkani,23,Right Winger,Lierse SK,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Andreas Rahmen,21,Midfielder,Germ. Teveren,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Diego Jongen,22,Centre-Forward,Go Ahead Eagles,?,out,Winter,NA,Eredivisie,2005,2005/2006
+Roda JC Kerkrade,Dirk-Jan Derksen,33,Centre-Forward,VVV-Venlo,?,out,Winter,NA,Eredivisie,2005,2005/2006
+RKC Waalwijk,Dustley Mulder,20,Right-Back,Feyenoord U21,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Ruud Berger,25,Attacking Midfield,FC Zwolle,?,in,Winter,NA,Eredivisie,2005,2005/2006
+RKC Waalwijk,Danny Mathijssen,22,Defensive Midfield,AZ Alkmaar,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Anthony Lurling,28,Attacking Midfield,1. FC Köln,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Rick Hoogendorp,30,Centre-Forward,VfL Wolfsburg,£1.53m,out,Winter,1.53,Eredivisie,2005,2005/2006
+RKC Waalwijk,Eddy Putter,23,Centre-Forward,FC Dordrecht,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+RKC Waalwijk,Rogier Molhoek,24,Defensive Midfield,AZ Alkmaar,?,out,Winter,NA,Eredivisie,2005,2005/2006
+RKC Waalwijk,Lion Axwijk,21,Left-Back,Veendam,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Matthieu Assou-Ekotto,27,Defensive Midfield,Standard Liège,£104Th.,in,Winter,0.104,Eredivisie,2005,2005/2006
+Willem II Tilburg,Tristan Peersman,26,Goalkeeper,RSC Anderlecht,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,José Valencia,23,Left-Back,NEC Nijmegen,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Marko Muslin,20,Defensive Midfield,Monaco,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Joe Keenan,23,Left-Back,Chelsea,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Jonathan Wilmet,19,Attacking Midfield,Willem II U19,-,in,Winter,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Marko Kolsi,20,Central Midfield,TOP Oss,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Jatto Ceesay,31,Right Winger,AEK Larnaca,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Tom Caluwé,27,Attacking Midfield,FC Utrecht,?,out,Winter,NA,Eredivisie,2005,2005/2006
+Willem II Tilburg,Steef Nieuwendaal,19,Defensive Midfield,MVV Maastricht,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+Willem II Tilburg,Michel Kreek,34,Left-Back,Retired,-,out,Winter,0,Eredivisie,2005,2005/2006
+FC Utrecht,Tom Caluwé,27,Attacking Midfield,Willem II,?,in,Winter,NA,Eredivisie,2005,2005/2006
+FC Utrecht,Adil Ramzi,28,Left Midfield,AZ Alkmaar,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+FC Utrecht,Nassir Maachi,20,Right Winger,Utrecht U21,-,in,Winter,0,Eredivisie,2005,2005/2006
+FC Utrecht,Stefaan Tanghe,33,Attacking Midfield,Heracles Almelo,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+FC Utrecht,David di Tommaso,26,Centre-Back,Retired,-,out,Winter,0,Eredivisie,2005,2005/2006
+FC Groningen,Tieme Klompe,29,Centre-Back,Retired,-,out,Winter,0,Eredivisie,2005,2005/2006
+NEC Nijmegen,David Jones,21,Midfielder,Man Utd,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+NEC Nijmegen,José Valencia,23,Left-Back,Willem II,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Angelo Martha,23,Centre-Back,MVV Maastricht,£45Th.,in,Winter,0.045,Eredivisie,2005,2005/2006
+ADO Den Haag,Joonas Kolkka,31,Right Winger,Crystal Palace,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Jaroslav Drobny,26,Goalkeeper,Fulham,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Cory Gibbs,25,Centre-Back,Feyenoord,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Said Bakkati,23,Right-Back,Heerenveen,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Josh Wagenaar,21,Goalkeeper,Hartwick Hawks,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Edwin de Graaf,25,Central Midfield,Feyenoord,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Paulus Roiha,25,Centre-Forward,Cercle Brugge,?,in,Winter,NA,Eredivisie,2005,2005/2006
+ADO Den Haag,Christian Kum,20,Centre-Back,ADO U21,-,in,Winter,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Laurent Delorge,26,Right Midfield,Without Club,-,in,Winter,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Tom van der Leegte,28,Defensive Midfield,VfL Wolfsburg,£450Th.,out,Winter,0.45,Eredivisie,2005,2005/2006
+ADO Den Haag,Jan-Paul Saeijs,27,Centre-Back,Roda JC,£315Th.,out,Winter,0.315,Eredivisie,2005,2005/2006
+ADO Den Haag,Sean Doherty,20,Left Midfield,Port Vale,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+ADO Den Haag,Daniël Rijaard,29,Right-Back,Excelsior,Loan,out,Winter,0,Eredivisie,2005,2005/2006
+NAC Breda,Leonardo,22,Second Striker,Feyenoord,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+NAC Breda,Timothy Derijck,18,Centre-Back,Feyenoord,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+NAC Breda,Evander Sno,18,Defensive Midfield,Feyenoord,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+NAC Breda,Aykut Demir,17,Centre-Back,NAC Breda U19,-,in,Winter,0,Eredivisie,2005,2005/2006
+NAC Breda,Pierre van Hooijdonk,36,Centre-Forward,Feyenoord,Free transfer,out,Winter,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Ebou Sillah,25,Left Winger,Rubin Kazan,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Henk Vos,37,Centre-Forward,RC Mechelen,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+RBC Roosendaal,Donny de Groot,26,Centre-Forward,De Graafschap,?,out,Winter,NA,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Dieter Van Tornhout,20,Centre-Forward,Club Brugge,Loan,in,Winter,0,Eredivisie,2005,2005/2006
+Sparta Rotterdam,Christophe Kinet,31,Left Midfield,RFC Lüttich,?,out,Winter,NA,Eredivisie,2005,2005/2006
+Heracles Almelo,Mika Nurmela,34,Right Midfield,HJK Helsinki,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006
+Heracles Almelo,Stefaan Tanghe,33,Attacking Midfield,FC Utrecht,Free transfer,in,Winter,0,Eredivisie,2005,2005/2006

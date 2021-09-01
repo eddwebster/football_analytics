@@ -1,0 +1,928 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+SL Benfica,Raúl de Tomás,24,Centre-Forward,Real Madrid,£18.00m,in,Summer,18,Liga Nos,2019,2019/2020
+SL Benfica,Carlos Vinícius,24,Centre-Forward,SSC Napoli,£15.30m,in,Summer,15.3,Liga Nos,2019,2019/2020
+SL Benfica,Chiquinho,23,Second Striker,Moreirense,£3.60m,in,Summer,3.6,Liga Nos,2019,2019/2020
+SL Benfica,Jhonder Cádiz,23,Centre-Forward,Vitória Setúbal,£2.25m,in,Summer,2.25,Liga Nos,2019,2019/2020
+SL Benfica,Caio,25,Left Midfield,Al-Ain FC,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Jota,20,Right Midfield,Benfica B,-,in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Nuno Tavares,19,Left-Back,Benfica B,-,in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Tomás Tavares,18,Right-Back,Benfica B,-,in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Luka Jovic,21,Centre-Forward,E. Frankfurt,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Pedro Pereira,21,Right-Back,Genoa,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Raúl Jiménez,28,Centre-Forward,Wolves,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Diogo Gonçalves,22,Right Winger,Nottm Forest,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,André Carrillo,28,Right Winger,Hilal,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Pawel Dawidowicz,24,Centre-Back,Hellas Verona,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Alfa Semedo,21,Defensive Midfield,Espanyol,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Cristian Lema,29,Centre-Back,Peñarol,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Bruno Varela,24,Goalkeeper,Ajax,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,João Félix,19,Second Striker,Atlético Madrid,£113.40m,out,Summer,113.4,Liga Nos,2019,2019/2020
+SL Benfica,Raúl Jiménez,28,Centre-Forward,Wolves,£34.20m,out,Summer,34.2,Liga Nos,2019,2019/2020
+SL Benfica,Luka Jovic,21,Centre-Forward,E. Frankfurt,£20.25m,out,Summer,20.25,Liga Nos,2019,2019/2020
+SL Benfica,André Carrillo,28,Right Winger,Hilal,£8.55m,out,Summer,8.55,Liga Nos,2019,2019/2020
+SL Benfica,Eduardo Salvio,29,Right Winger,Boca Juniors,£6.30m,out,Summer,6.3,Liga Nos,2019,2019/2020
+SL Benfica,Pawel Dawidowicz,24,Centre-Back,Hellas Verona,£3.15m,out,Summer,3.15,Liga Nos,2019,2019/2020
+SL Benfica,Bruno Varela,24,Goalkeeper,Ajax,Loan fee:£900Th.,out,Summer,0.9,Liga Nos,2019,2019/2020
+SL Benfica,Diogo Gonçalves,22,Right Winger,Famalicão,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Filip Krovinovic,23,Attacking Midfield,West Brom,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Alfa Semedo,21,Defensive Midfield,Nottm Forest,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Yuri Ribeiro,22,Left-Back,Nottm Forest,?,out,Summer,NA,Liga Nos,2019,2019/2020
+SL Benfica,Cristian Lema,29,Centre-Back,Newell's,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Pedro Pereira,21,Right-Back,Bristol City,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Jhonder Cádiz,24,Centre-Forward,Dijon,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Jonas,35,Second Striker,Retired,-,out,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Tyronne Ebuehi,23,Right-Back,Benfica B,-,out,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Sébastien Corchia,28,Right-Back,Sevilla FC,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Shoya Nakajima,24,Left Winger,Al-Duhail SC,£10.80m,in,Summer,10.8,Liga Nos,2019,2019/2020
+FC Porto,Zé Luís,28,Centre-Forward,Spartak Moscow,£9.68m,in,Summer,9.68,Liga Nos,2019,2019/2020
+FC Porto,Mateus Uribe,28,Central Midfield,América,£8.55m,in,Summer,8.55,Liga Nos,2019,2019/2020
+FC Porto,Agustín Marchesín,31,Goalkeeper,América,£6.93m,in,Summer,6.93,Liga Nos,2019,2019/2020
+FC Porto,Mamadou Loum,22,Defensive Midfield,Braga,£6.75m,in,Summer,6.75,Liga Nos,2019,2019/2020
+FC Porto,Luis Díaz,22,Left Midfield,Junior FC,£6.50m,in,Summer,6.5,Liga Nos,2019,2019/2020
+FC Porto,Renzo Saravia,26,Right-Back,Racing Club,£4.95m,in,Summer,4.95,Liga Nos,2019,2019/2020
+FC Porto,Iván Marcano,32,Centre-Back,AS Roma,£2.63m,in,Summer,2.63,Liga Nos,2019,2019/2020
+FC Porto,Tomás Esteves,18,Right-Back,FC Porto B,-,in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Fábio Vieira,20,Right Midfield,FC Porto B,-,in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Romário Baró,19,Attacking Midfield,FC Porto B,-,in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Fábio Silva,16,Centre-Forward,FC Porto U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Diogo Queirós,20,Centre-Back,FC Porto B,-,in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Diogo Costa,19,Goalkeeper,FC Porto B,-,in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Yordan Osorio,25,Centre-Back,Vit. Guimarães,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Galeno,21,Left Winger,Rio Ave FC,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,João Costa,23,Goalkeeper,FC Cartagena,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Majeed Waris,27,Centre-Forward,FC Nantes,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Jorge Fernandes,22,Centre-Back,Tondela,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Mikel Agu,26,Defensive Midfield,Vitória Setúbal,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Saidy Janko,23,Right-Back,Nottm Forest,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,José Sá,26,Goalkeeper,Olympiacos,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Chidozie Awaziem,22,Centre-Back,C. Rizespor,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Sérgio Oliveira,27,Central Midfield,PAOK Salonika,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Éder Militão,21,Centre-Back,Real Madrid,£45.00m,out,Summer,45,Liga Nos,2019,2019/2020
+FC Porto,Felipe,30,Centre-Back,Atlético Madrid,£18.00m,out,Summer,18,Liga Nos,2019,2019/2020
+FC Porto,Óliver Torres,24,Central Midfield,Sevilla FC,£9.90m,out,Summer,9.9,Liga Nos,2019,2019/2020
+FC Porto,Galeno,21,Left Winger,Braga,£3.15m,out,Summer,3.15,Liga Nos,2019,2019/2020
+FC Porto,José Sá,26,Goalkeeper,Olympiacos,£2.25m,out,Summer,2.25,Liga Nos,2019,2019/2020
+FC Porto,Yordan Osorio,25,Centre-Back,Zenit S-Pb,Loan fee:£900Th.,out,Summer,0.9,Liga Nos,2019,2019/2020
+FC Porto,Mikel Agu,26,Defensive Midfield,Vit. Guimarães,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,João Costa,23,Goalkeeper,CD Mirandés,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Fernando Andrade,26,Left Winger,Sivasspor,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Adrián López,31,Centre-Forward,CA Osasuna,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Héctor Herrera,29,Central Midfield,Atlético Madrid,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Hernâni,27,Right Winger,Levante,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Yacine Brahimi,29,Left Winger,Al-Rayyan SC,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,André Pereira,24,Centre-Forward,Vit. Guimarães,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Saidy Janko,23,Right-Back,BSC Young Boys,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Chidozie Awaziem,22,Centre-Back,CD Leganés,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Diogo Queirós,20,Centre-Back,Mouscron,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Jorge Fernandes,22,Centre-Back,Kasimpasa,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Maxi Pereira,35,Right-Back,Retired,-,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Fabiano,31,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Majeed Waris,27,Centre-Forward,FC Porto B,-,out,Summer,0,Liga Nos,2019,2019/2020
+FC Porto,Mamadou Loum,22,Defensive Midfield,Braga,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Luciano Vietto,25,Centre-Forward,Atlético Madrid,£6.75m,in,Summer,6.75,Liga Nos,2019,2019/2020
+Sporting CP,Rafael Camacho,19,Right Winger,Liverpool U23,£4.50m,in,Summer,4.5,Liga Nos,2019,2019/2020
+Sporting CP,Valentin Rosier,22,Right-Back,Dijon,£4.50m,in,Summer,4.5,Liga Nos,2019,2019/2020
+Sporting CP,Eduardo Henrique,24,Defensive Midfield,Internacional,£2.70m,in,Summer,2.7,Liga Nos,2019,2019/2020
+Sporting CP,Jesé,26,Left Winger,Paris SG,Loan fee:£1.80m,in,Summer,1.8,Liga Nos,2019,2019/2020
+Sporting CP,Luís Neto,31,Centre-Back,Zenit S-Pb,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Fernando,20,Left Winger,Shakhtar D.,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Yannick Bolasie,30,Left Winger,Everton,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Gonzalo Plata,18,Right Winger,Sporting CP U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Thierry Correia,20,Right-Back,Sporting CP U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Leonardo Ruiz,23,Centre-Forward,Sporting CP U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Tiago Tomás,18,Centre-Forward,Sporting CP U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Nuno Mendes,17,Left-Back,Sporting CP U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Matheus Nunes,21,Central Midfield,Sporting CP U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Carlos Jatoba,23,Central Midfield,Atlético-GO,"End of loanApr 15, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Gelson Dala,22,Second Striker,Rio Ave FC,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,André Geraldes,28,Right-Back,Sporting Gijón,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Jonathan Silva,25,Left-Back,CD Leganés,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Domingos Duarte,24,Centre-Back,Dep. La Coruña,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Matheus Pereira,23,Right Winger,1.FC Nuremberg,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Mattheus,24,Attacking Midfield,Vit. Guimarães,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Ary Papel,25,Second Striker,1º de Agosto,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Emiliano Viviano,33,Goalkeeper,SPAL,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Filipe Chaby,25,Attacking Midfield,Estoril,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Lumor,22,Left-Back,Göztepe,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Carlos Mané,25,Right Winger,Union Berlin,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Mauro Riquicho,24,Right-Back,Louletano,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Iuri Medeiros,24,Right Winger,Legia Warszawa,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Raphinha,22,Right Winger,Stade Rennais,£18.90m,out,Summer,18.9,Liga Nos,2019,2019/2020
+Sporting CP,Thierry Correia,20,Right-Back,Valencia,£10.80m,out,Summer,10.8,Liga Nos,2019,2019/2020
+Sporting CP,Bas Dost,30,Centre-Forward,E. Frankfurt,£6.30m,out,Summer,6.3,Liga Nos,2019,2019/2020
+Sporting CP,Domingos Duarte,24,Centre-Back,Granada CF,£2.70m,out,Summer,2.7,Liga Nos,2019,2019/2020
+Sporting CP,Jonathan Silva,25,Left-Back,CD Leganés,£2.43m,out,Summer,2.43,Liga Nos,2019,2019/2020
+Sporting CP,Iuri Medeiros,25,Right Winger,1.FC Nuremberg,£1.80m,out,Summer,1.8,Liga Nos,2019,2019/2020
+Sporting CP,Matheus Pereira,23,Right Winger,West Brom,Loan fee:£720Th.,out,Summer,0.72,Liga Nos,2019,2019/2020
+Sporting CP,Carlos Mané,25,Right Winger,Rio Ave FC,£675Th.,out,Summer,0.675,Liga Nos,2019,2019/2020
+Sporting CP,André Geraldes,28,Right-Back,M. Tel Aviv,Loan fee:£135Th.,out,Summer,0.135,Liga Nos,2019,2019/2020
+Sporting CP,André Pinto,29,Centre-Back,Al-Fateh,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Ary Papel,25,Second Striker,1º de Agosto,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Romain Salin,34,Goalkeeper,Stade Rennais,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Leonardo Ruiz,23,Centre-Forward,Varzim,Loan fee:£23Th.,out,Summer,0.023,Liga Nos,2019,2019/2020
+Sporting CP,Abdoulay Diaby,28,Right Winger,Besiktas,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Bruno Gaspar,26,Right-Back,Olympiacos,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Ryan Gauld,23,Attacking Midfield,Farense,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Sporting CP,Gelson Dala,23,Second Striker,Antalyaspor,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Radosav Petrovic,30,Defensive Midfield,UD Almería,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Sporting CP,Chico Geraldes,24,Attacking Midfield,AEK Athens,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Filipe Chaby,25,Attacking Midfield,Coimbra,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Lumor,22,Left-Back,RCD Mallorca,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Alan Ruiz,25,Attacking Midfield,Aldosivi,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Jefferson,31,Left-Back,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Jesé,27,Left Winger,Paris SG,"End of loanApr 22, 2020",out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Yannick Bolasie,30,Left Winger,Everton,"End of loanApr 22, 2020",out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Emiliano Viviano,33,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Sporting CP,Nemanja Gudelj,27,Defensive Midfield,GZ Evergrande,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Galeno,21,Left Winger,FC Porto,£3.15m,in,Summer,3.15,Liga Nos,2019,2019/2020
+SC Braga,Vítor Tormena,23,Centre-Back,Gil Vicente,£1.13m,in,Summer,1.13,Liga Nos,2019,2019/2020
+SC Braga,Caju,24,Left-Back,Santos FC,£315Th.,in,Summer,0.315,Liga Nos,2019,2019/2020
+SC Braga,Eduardo,36,Goalkeeper,Chelsea,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Diogo Viana,29,Right-Back,Belenenses SAD,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Rui Fonte,29,Centre-Forward,Fulham,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Wallace,24,Centre-Back,Lazio,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Uche Agbo,23,Defensive Midfield,Standard Liège,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,André Horta,22,Attacking Midfield,Los Angeles FC,?,in,Summer,NA,Liga Nos,2019,2019/2020
+SC Braga,Luther Singh,21,Right Winger,Braga B,-,in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Ahmed Hassan,27,Centre-Forward,Olympiacos,"End of loanAug 20, 2020",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Eduardo,27,Attacking Midfield,AO Xanthi,"End of loanJul 31, 2020",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Pedro Neto,19,Left Winger,Lazio,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Bruno Jordão,20,Central Midfield,Lazio,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Alef,24,Defensive Midfield,AEK Athens,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Mamadou Loum,22,Defensive Midfield,Moreirense,"End of loanJan 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Ahmed Hassan,26,Centre-Forward,Olympiacos,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Marko Bakic,25,Central Midfield,Mouscron,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Lazar Rosic,26,Centre-Back,Nacional,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Nikola Stojiljkovic,26,Centre-Forward,RCD Mallorca,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Andrej Lukic,25,Centre-Back,FC Emmen,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Mamadou Loum,22,Defensive Midfield,FC Porto,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Pedro Neto,19,Left Winger,Lazio,£9.90m,out,Summer,9.9,Liga Nos,2019,2019/2020
+SC Braga,Mamadou Loum,22,Defensive Midfield,FC Porto,£6.75m,out,Summer,6.75,Liga Nos,2019,2019/2020
+SC Braga,Dyego Sousa,29,Centre-Forward,SZ FC,£4.86m,out,Summer,4.86,Liga Nos,2019,2019/2020
+SC Braga,Bruno Jordão,20,Central Midfield,Lazio,£4.77m,out,Summer,4.77,Liga Nos,2019,2019/2020
+SC Braga,Marko Bakic,25,Central Midfield,Mouscron,£540Th.,out,Summer,0.54,Liga Nos,2019,2019/2020
+SC Braga,Marafona,32,Goalkeeper,Alanyaspor,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Marcelo Goiano,31,Right-Back,Sivasspor,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Luther Singh,22,Right Winger,Moreirense,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Nikola Stojiljkovic,26,Centre-Forward,Boavista,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Eduardo,26,Attacking Midfield,AO Xanthi,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Andrej Lukic,25,Centre-Back,Sheriff,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Crislan,27,Centre-Forward,Shonan Bellmare,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Lazar Rosic,26,Centre-Back,Moreirense,?,out,Summer,NA,Liga Nos,2019,2019/2020
+SC Braga,Diogo Figueiras,28,Right-Back,Rio Ave FC,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Alef,24,Defensive Midfield,APOEL Nicosia,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Fábio Martins,25,Left Winger,Famalicão,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Ricardo Ryller,25,Central Midfield,RB Bragantino,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Eduardo,37,Goalkeeper,Retired,-,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Ricardo Ferreira,26,Centre-Back,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+SC Braga,Aílton,24,Left-Back,VfB Stuttgart,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Bruno Duarte,23,Centre-Forward,PFK Lviv,£540Th.,in,Summer,0.54,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Aziz,20,Centre-Forward,Vizela,£180Th.,in,Summer,0.18,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Ibrahim Blati Touré,24,Central Midfield,Córdoba CF,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Pêpê,22,Central Midfield,Benfica B,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Mikel Agu,26,Defensive Midfield,FC Porto,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Marcus Edwards,20,Right Winger,Tottenham U23,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Valeriy Bondarenko,25,Centre-Back,Shakhtar D.,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,André Pereira,24,Centre-Forward,FC Porto,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Lucas Evangelista,24,Central Midfield,FC Nantes,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Léo Bonatini,25,Centre-Forward,Wolves,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Jacob Maddox,21,Attacking Midfield,Chelsea U23,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Óscar Estupiñán,22,Centre-Forward,Barcelona SC,"End of loanJul 22, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,João Correia,22,Right Winger,Guimarães B,-,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Al Musrati,23,Defensive Midfield,Guimarães B,-,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Edmond Tapsoba,20,Centre-Back,Guimarães B,-,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Kiko,22,Central Midfield,Estoril,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,João Vigário,23,Left-Back,Estoril,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Marcos Valente,25,Centre-Back,Paços Ferreira,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Víctor García,25,Right-Back,Famalicão,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Tyler Boyd,24,Left Winger,Ankaragücü,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Tyler Boyd,24,Left Winger,Besiktas,£2.16m,out,Summer,2.16,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,João Afonso,29,Centre-Back,Santa Clara,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,João Vigário,23,Left-Back,Tondela,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Tozé,26,Attacking Midfield,Al-Nasr,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Marcos Valente,25,Centre-Back,Estoril,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Sebastián Rincón,25,Right Winger,Aldosivi,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Óscar Estupiñán,22,Centre-Forward,Denizlispor,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Kiko,22,Central Midfield,Guimarães B,-,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Pêpê,22,Central Midfield,Benfica B,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Yordan Osorio,25,Centre-Back,FC Porto,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Dodô,20,Right-Back,Shakhtar D.,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Mattheus,24,Attacking Midfield,Sporting CP,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Léo Jardim,24,Goalkeeper,Grêmio,£900Th.,in,Summer,0.9,Liga Nos,2019,2019/2020
+Rio Ave FC,Carlos Mané,25,Right Winger,Sporting CP,£675Th.,in,Summer,0.675,Liga Nos,2019,2019/2020
+Rio Ave FC,Pawel Kieszek,35,Goalkeeper,Málaga CF,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Mehdi Taremi,27,Centre-Forward,Al-Gharafa SC,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Junio,22,Right-Back,Internacional,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Rio Ave FC,Pedro Amaral,21,Left-Back,Benfica B,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Rio Ave FC,Murilo,23,Left Winger,Mirassol-SP,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Rio Ave FC,Aderllan Santos,30,Centre-Back,Ahli,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Diogo Figueiras,28,Right-Back,Braga,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Lucas Piazón,25,Left Winger,Chelsea,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Jonathan Buatu,26,Centre-Back,Desportivo Aves,"End of loanJul 17, 2020",in,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Silvério,23,Centre-Back,Varzim,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Tomislav Strkalj,22,Centre-Forward,NK Rudes,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Damien Furtado,22,Left Winger,Famalicão,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Miguel Rodrigues,26,Centre-Back,Estoril,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Léo Jardim,24,Goalkeeper,LOSC Lille,£5.40m,out,Summer,5.4,Liga Nos,2019,2019/2020
+Rio Ave FC,Carlos Jr.,23,Left Winger,Santa Clara,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Murilo,23,Left Winger,Paços Ferreira,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Afonso Figueiredo,26,Left-Back,Desportivo Aves,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Rio Ave FC,Silvério,23,Centre-Back,Coimbra,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Rio Ave FC,Jonathan Buatu,25,Centre-Back,Mouscron,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Tomislav Strkalj,23,Centre-Forward,Tondela,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Rio Ave FC,Said Ahmed Said,26,Centre-Forward,KSC Lokeren,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Leandrinho,25,Central Midfield,Vitória Setúbal,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Rio Ave FC,Fábio Coentrão,31,Left-Back,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Damien Furtado,22,Left Winger,Rio Ave U23,-,out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Miguel Rodrigues,26,Centre-Back,Rio Ave U23,-,out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Joca,23,Attacking Midfield,Rio Ave U23,-,out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Gelson Dala,22,Second Striker,Sporting CP,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Léo Jardim,24,Goalkeeper,Grêmio,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Junio,22,Right-Back,Internacional,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Galeno,21,Left Winger,FC Porto,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Murilo,23,Left Winger,Mirassol-SP,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Rúben Semedo,25,Centre-Back,Villarreal,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Dejan Kerkez,23,Centre-Back,Spartak,£225Th.,in,Summer,0.225,Liga Nos,2019,2019/2020
+CS Marítimo,Jhon Cley,25,Attacking Midfield,CSA,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Erivaldo,25,Right Midfield,Leixões,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Franck Bambock,24,Defensive Midfield,M. Petah Tikva,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Marcelinho,22,Second Striker,Londrina-PR,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Luciano Nequecaur,27,Centre-Forward,Oaxaca,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Daizen Maeda,21,Second Striker,Matsumoto Yama.,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Pedro Pelágio,19,Central Midfield,Marítimo U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Gildo Vilanculos,24,Right Winger,Amora FC,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Coronas,28,Right-Back,Cova Piedade,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Rafael Broetto,28,Goalkeeper,Varzim,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Jean Cleber,29,Central Midfield,CSA,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Nikolaos Ioannidis,25,Centre-Forward,Doxa Dramas,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Rafael Broetto,28,Goalkeeper,FK Panevezys,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Coronas,28,Right-Back,Penafiel,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,João Gamboa,22,Defensive Midfield,Chaves,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Ricardo Valente,28,Left Winger,Hatta Club,?,out,Summer,NA,Liga Nos,2019,2019/2020
+CS Marítimo,Fabrício Baiano,27,Defensive Midfield,Genclerbirligi,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Lucas Áfrico,24,Centre-Back,Estoril,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Gildo Vilanculos,24,Right Winger,Marítimo B,-,out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Josip Vukovic,28,Defensive Midfield,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Aloisio Neto,21,Defensive Midfield,Marítimo B,-,out,Summer,0,Liga Nos,2019,2019/2020
+CS Marítimo,Joel Tagueu,25,Centre-Forward,Cruzeiro,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Khalid Hachadi,21,Centre-Forward,O. Khouribga,£900Th.,in,Summer,0.9,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,João Meira,32,Centre-Back,Concordia,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Carlinhos,25,Attacking Midfield,Standard Liège,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Leandro Vilela,24,Defensive Midfield,Paraná,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Brian Mansilla,22,Centre-Forward,Racing Club II,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Leandrinho,25,Central Midfield,Rio Ave FC,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Jubal,26,Centre-Back,Arouca,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,João Valido,19,Goalkeeper,Setúbal U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Mathiola,21,Attacking Midfield,Vitória FC U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Nabil Ghilas,29,Centre-Forward,Without Club,-,in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Diogo Sousa,25,Right-Back,Oliveirense,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Jacob Adebanjo,25,Defensive Midfield,Merelinense,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Pedro Pinto,24,Centre-Back,Arouca,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Rafinha,27,Attacking Midfield,Pedras Salgadas,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Jhonder Cádiz,23,Centre-Forward,Benfica,£2.25m,out,Summer,2.25,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Jin An,20,Defensive Midfield,Armacenenses,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Allef,24,Centre-Forward,Baltika,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Valdu Té,21,Centre-Forward,Arouca,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Cristiano Figueiredo,28,Goalkeeper,Hermannstadt,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Rafinha,27,Attacking Midfield,Louletano,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Jacob Adebanjo,25,Defensive Midfield,Sepsi OSK,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Rúben Micael,32,Central Midfield,Nacional,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Sávio Roberto,23,Defensive Midfield,Casa Pia,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Vasco Fernandes,32,Centre-Back,Ümraniyespor,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Diogo Sousa,26,Right-Back,CD Fátima,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Pedro Pinto,24,Centre-Back,Leixões,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Alex,27,Left Winger,Vitória FC U23,-,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Nabil Ghilas,30,Centre-Forward,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Mikel Agu,26,Defensive Midfield,FC Porto,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Eduardo Kau,20,Centre-Back,Avaí FC,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Francisco Varela,24,Left-Back,R. Majadahonda,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,André Moreira,23,Goalkeeper,Atlético Madrid,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Hervé Koffi,22,Goalkeeper,LOSC Lille,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Imad Faraj,20,Right Winger,LOSC Lille B,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Hakim Ouro-Sama,21,Centre-Back,LOSC Lille B,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Chima Akas,25,Left-Back,Kalmar FF,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Belenenses SAD,Show,20,Defensive Midfield,LOSC Lille,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Mateo Cassierra,22,Centre-Forward,Ajax,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Belenenses SAD,Guilherme Oliveira,24,Goalkeeper,Belenenses U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Gonçalo Tavares,22,Right-Back,Belenenses U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Tiago Esgaio,23,Right Midfield,Belenenses U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Tomás Ribeiro,20,Centre-Back,Belenenses U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Marco Matias,30,Right Winger,Without Club,-,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Silvestre Varela,34,Left Winger,Without Club,-,in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,André Sousa,28,Central Midfield,Sporting Gijón,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Benny,22,Right Winger,Benfica B,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Filipe Mendes,34,Goalkeeper,Real SC,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Reinildo Mandava,25,Left-Back,LOSC Lille,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Nuno Tomás,23,Centre-Back,CSKA Sofia,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Dieguinho,27,Right Winger,Cova Piedade,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Reinildo Mandava,25,Left-Back,LOSC Lille,£2.70m,out,Summer,2.7,Liga Nos,2019,2019/2020
+Belenenses SAD,Matija Ljujic,25,Attacking Midfield,Bnei Yehuda,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Mika,28,Goalkeeper,Coimbra,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Muriel,32,Goalkeeper,Fluminense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Tiago Caeiro,35,Centre-Forward,CD Fátima,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Pierre Sagna,28,Right-Back,Panetolikos,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Diogo Viana,29,Right-Back,Braga,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Vincent Sasso,28,Centre-Back,Servette FC,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Alhassane Keita,27,Centre-Forward,Al-Riffa SC,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Kiki,24,Left-Back,Vizela,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Belenenses SAD,Gonçalo Tavares,22,Right-Back,Recre Granada,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Guilherme Oliveira,24,Goalkeeper,CD Fátima,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Filipe Mendes,34,Goalkeeper,Casa Pia,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Nuno Tomás,23,Centre-Back,CSKA Sofia,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Belenenses SAD,Zakarya Bergdich,30,Left-Back,Denizlispor,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Belenenses SAD,Cleylton,26,Centre-Back,Hatta Club,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Belenenses SAD,Nicolás Vélez,29,Second Striker,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Merlin Tandjigora,29,Central Midfield,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Thibang Phete,26,Defensive Midfield,Famalicão,"End of loanAug 2, 2020",out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Ousmane Dramé,26,Left Winger,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Luís Silva,20,Centre-Back,Belenenses U23,-,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Tiago Caeiro,35,Centre-Forward,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Eduardo Henrique,24,Defensive Midfield,Internacional,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Henrique Almeida,28,Centre-Forward,Grêmio,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Dálcio,23,Attacking Midfield,Benfica B,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Walter Clar,24,Left Midfield,Sol de América,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Ricardo Costa,38,Centre-Back,Tondela,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Matheus Kayser,24,Goalkeeper,Anápolis-GO,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Iván Bulos,26,Centre-Forward,Municipal,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Lucas Tagliapietra,28,Centre-Back,Al-Batin,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Paulinho,22,Left Midfield,Fluminense U20,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Boavista FC,Nikola Stojiljkovic,26,Centre-Forward,Braga,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Marlon,22,Left-Back,Fluminense,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Cassiano,30,Centre-Forward,CSA,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Boavista FC,Heriberto Tavares,22,Left Winger,Benfica B,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Gustavo Dulanto,24,Centre-Back,Cusco FC,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Boavista FC,Fernando Cardozo,18,Right Midfield,Olimpia,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Miguel Reisinho,20,Central Midfield,Guimarães B,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Boavista FC,Breno,19,Left-Back,Boavista U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Samuel Pedro,18,Right Winger,Boavista U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,João Gonçalves,18,Goalkeeper,Boavista U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Luís Santos,19,Left Winger,Boavista U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Yaw Ackah,20,Central Midfield,Boavista B,-,in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Robson,25,Centre-Back,FC Baniyas,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Ibra Koneh,24,Right Winger,Estoril,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Gonçalo Cardoso,18,Centre-Back,West Ham,£2.70m,out,Summer,2.7,Liga Nos,2019,2019/2020
+Boavista FC,Rafa Lopes,27,Centre-Forward,Cracovia,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Samu,23,Central Midfield,Vizela,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,André Claro,28,Second Striker,Coimbra,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Ibra Koneh,24,Right Winger,Ethnikos,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Aymen Tahar,29,Central Midfield,Panetolikos,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Federico Falcone,29,Centre-Forward,Birkirkara FC,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Joao Talocha,29,Left-Back,Atromitos Athen,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Fábio Espinho,34,Attacking Midfield,Feirense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Iván Bulos,26,Centre-Forward,Hajduk Split,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Robson,25,Centre-Back,Khor Fakkan,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Boavista FC,Jeka,21,Centre-Forward,Casa Pia,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,William Menezes,30,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Assis,29,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Matheus Índio,23,Right Midfield,Estoril,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Boavista FC,Jubal,25,Centre-Back,Arouca,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Filipe Soares,20,Attacking Midfield,Estoril,£1.58m,in,Summer,1.58,Liga Nos,2019,2019/2020
+Moreirense FC,Luiz Henrique,22,Attacking Midfield,Náutico,£225Th.,in,Summer,0.225,Liga Nos,2019,2019/2020
+Moreirense FC,Steven Vitória,32,Centre-Back,Lechia Gdansk,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Gustavo Moura,23,Centre-Forward,Espinho,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Luís Machado,26,Left Winger,Feirense,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Fabio Abreu,26,Centre-Forward,Penafiel,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Djavan,31,Left-Back,Chaves,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Alex Soares,28,Central Midfield,Omonia Nikosia,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Sori Mané,23,Defensive Midfield,Cova Piedade,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Luther Singh,22,Right Winger,Braga,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Rúben Ramos,20,Defensive Midfield,Feirense Sub-23,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Moreirense FC,Abdu Conte,21,Left-Back,Sporting CP U23,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Moreirense FC,Malik Abubakari,19,Centre-Forward,FC Vizela U19,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Moreirense FC,Lazar Rosic,26,Centre-Back,Braga,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Moreirense FC,Iddriss Mohammed,18,Central Midfield,Moreirense U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Mateus Pasinato,27,Goalkeeper,Piracicaba,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Marcelo Araújo,19,Central Midfield,Moreirense U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Elsinho,23,Attacking Midfield,Oriental,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Caleb Gomina,22,Centre-Forward,Sanjoanense,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Chiquinho,23,Second Striker,Benfica,£3.60m,out,Summer,3.6,Liga Nos,2019,2019/2020
+Moreirense FC,Elsinho,23,Attacking Midfield,SG Sacavenense,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Alan Schons,26,Defensive Midfield,Penafiel,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Arsénio,29,Right Winger,Al-Feiha,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,João Sousa,25,Centre-Back,Louletano,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Marcelo Araújo,19,Central Midfield,Felgueiras,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Rúben Ramos,20,Defensive Midfield,Felgueiras,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Iddriss Mohammed,18,Central Midfield,Felgueiras,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Bruno Silva,27,Left-Back,Felgueiras,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Ricardo Almeida,22,Centre-Forward,Berço,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Malik Abubakari,19,Centre-Forward,Fafe,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Gustavo Moura,23,Centre-Forward,Cova Piedade,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Caleb Gomina,22,Centre-Forward,Gondomar,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Pato Rodríguez,29,Right Winger,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Rúben Lima,29,Left-Back,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Neto,27,Attacking Midfield,São Caetano,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Heriberto Tavares,22,Left Winger,Benfica B,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Ivanildo Fernandes,23,Centre-Back,Sporting CP U23,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Moreirense FC,Mamadou Loum,22,Defensive Midfield,Braga,"End of loanJan 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Babacar Niasse,22,Goalkeeper,KAS Eupen,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Filipe Ferreira,28,Left-Back,Sturm Graz,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Manu Sánchez,23,Right-Back,Cádiz B,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Yohan Tavares,31,Centre-Back,Troyes,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,João Vigário,23,Left-Back,Vit. Guimarães,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Bruno Wilson,22,Centre-Back,Braga B,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Philipe Sampaio,24,Centre-Back,Feirense,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Tomislav Strkalj,23,Centre-Forward,Rio Ave FC,?,in,Summer,NA,Liga Nos,2019,2019/2020
+CD Tondela,Denílson,24,Left Winger,Atlético-MG,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,João Mendes,24,Attacking Midfield,Oliveirense,?,in,Summer,NA,Liga Nos,2019,2019/2020
+CD Tondela,Pepelu,20,Defensive Midfield,Levante,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Jonathan Toro,22,Second Striker,SD Huesca,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Rubilio Castillo,27,Centre-Forward,Saprissa,?,in,Summer,NA,Liga Nos,2019,2019/2020
+CD Tondela,Richard,19,Attacking Midfield,Internacional,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Pedro Augusto,22,Defensive Midfield,FC São Paulo B,-,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Jota Gonçalves,19,Centre-Back,Tondela U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Joel Sousa,19,Goalkeeper,Tondela U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Rúben Fonseca,19,Centre-Forward,Tondela U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Adílio Varela,22,Right Winger,Mirandela,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,João Vasco,24,Centre-Forward,Castelo Branco,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Tomané,26,Centre-Forward,Red Star,£675Th.,out,Summer,0.675,Liga Nos,2019,2019/2020
+CD Tondela,João Vasco,24,Centre-Forward,Olhanense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,David Bruno,27,Right-Back,Astra Giurgiu,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Nego Tembeng,27,Defensive Midfield,Estoril,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Ricardo Costa,38,Centre-Back,Boavista,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Joãozinho,29,Left-Back,APOEL Nicosia,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Adílio Varela,22,Right Winger,Amora FC,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Joel Sousa,19,Goalkeeper,Molelos,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Patrick,25,Centre-Forward,Farense,?,out,Summer,NA,Liga Nos,2019,2019/2020
+CD Tondela,João Mendes,24,Attacking Midfield,Coimbra,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Juan Delgado,26,Right Winger,Gimnàstic,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Pablo Sabbag,22,Centre-Forward,Deportivo Cali,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,João Mendes,24,Attacking Midfield,Oliveirense,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Cristian Arango,24,Centre-Forward,Benfica B,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Sergio Peña,23,Attacking Midfield,Granada CF,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+CD Tondela,Jorge Fernandes,22,Centre-Back,FC Porto,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Zé Augusto,22,Defensive Midfield,Criciúma EC,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Zaidu Sanusi,22,Left-Back,Mirandela,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,João Afonso,29,Centre-Back,Vit. Guimarães,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Rafael Ramos,24,Right-Back,Twente FC,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Carlos Jr.,23,Left Winger,Rio Ave FC,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Nené,24,Central Midfield,Fafe,?,in,Summer,NA,Liga Nos,2019,2019/2020
+CD Santa Clara,Ricardinho,21,Attacking Midfield,Rio Ave B,?,in,Summer,NA,Liga Nos,2019,2019/2020
+CD Santa Clara,Steven Pereira,25,Centre-Back,CSKA Sofia,?,in,Summer,NA,Liga Nos,2019,2019/2020
+CD Santa Clara,André Ferreira,23,Goalkeeper,Benfica B,?,in,Summer,NA,Liga Nos,2019,2019/2020
+CD Santa Clara,Lincoln,20,Attacking Midfield,Grêmio,?,in,Summer,NA,Liga Nos,2019,2019/2020
+CD Santa Clara,Rodrigo Simão,19,Centre-Forward,Castelo Branco,"End of loanOct 31, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Ousmane Sountoura,24,Attacking Midfield,Apollon Pontou,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Rodolfo Cardoso,21,Goalkeeper,Águia,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Miguel Machado,20,Forward,Águia,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Diogo Motty,19,Left Winger,Águia,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Rodrigo Simão,18,Centre-Forward,Águia,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Kaio,23,Centre-Back,Krasnodar,£2.70m,out,Summer,2.7,Liga Nos,2019,2019/2020
+CD Santa Clara,Minhoca,31,Attacking Midfield,Varzim,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Serginho,36,Goalkeeper,Varzim,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Miguel Machado,20,Forward,Castelo Branco,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Rodolfo Cardoso,21,Goalkeeper,Louletano,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Ousmane Sountoura,24,Attacking Midfield,Casa Pia,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Pedro Pacheco,35,Central Midfield,SC Ideal,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Diogo Motty,19,Left Winger,Castelo Branco,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Rodrigo Simão,18,Centre-Forward,Castelo Branco,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Ricardinho,21,Attacking Midfield,Praiense,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Steven Pereira,25,Centre-Back,Académico Viseu,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Clemente,35,Centre-Forward,Retired,-,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Accioly,38,Centre-Back,Retired,-,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Zé Augusto,23,Defensive Midfield,Career break,-,out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Rui Silva,23,Right-Back,Braga B,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Martin Chrien,23,Central Midfield,Benfica B,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Bruno Xavier,22,Attacking Midfield,Nacional (SP),Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Jaílson,28,Right-Back,Without Club,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Kevin Yamga,22,Left Winger,Chievo Verona,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Enzo Zidane,24,Attacking Midfield,Lausanne-Sport,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Adi Mehremic,27,Centre-Back,Karpaty,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Peu,26,Left Winger,Fluminense,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Bruninho,25,Left-Back,Tombense,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Adam Dzwigala,23,Centre-Back,Wisla Plock,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Mehrdad Mohammadi,25,Centre-Forward,Sepahan,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Estrela,23,Defensive Midfield,Varzim,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Rúben Macedo,23,Left Winger,FC Porto B,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Afonso Figueiredo,26,Left-Back,Rio Ave FC,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Welinton Junior,26,Right Winger,Coritiba FC,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Kahraba,25,Left Winger,Zamalek,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Andrej Simunec,24,Centre-Back,NK Osijek,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Redouane Kerrouche,25,Central Midfield,OH Leuven,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Luiz Fernando,24,Defensive Midfield,Fluminense,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Raphael Aflalo,22,Goalkeeper,Aves U23,-,in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,José Ricardo,20,Left-Back,Mirandela,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Maringá,28,Goalkeeper,Beira-Mar,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Andrés Cabrera,24,Defensive Midfield,Gondomar,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Anderson Zangão,25,Right Winger,Montalegre,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Michel Douglas,27,Centre-Forward,Vila Nova FC,"End of loanJun 19, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Amilton,29,Right Winger,Antalyaspor,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Youssouf Sow,26,Right Winger,Real SC,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Luquinhas,22,Attacking Midfield,Legia Warszawa,£360Th.,out,Summer,0.36,Liga Nos,2019,2019/2020
+Desportivo Aves,Maringá,28,Goalkeeper,Vilafranquense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Youssouf Sow,26,Right Winger,Torreense,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Braga,36,Right Midfield,Leixões,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Jorge Fellipe,30,Centre-Back,Damac FC,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,José Ricardo,20,Left-Back,Feirense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Rodrigo,26,Right-Back,PAOK Salonika,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Anderson Zangão,25,Right Winger,Montalegre,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Luis Fariña,28,Attacking Midfield,Cerro Porteño,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Vítor Gomes,31,Central Midfield,Omonia Nikosia,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Rodrigo Defendi,33,Centre-Back,Estoril,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Diego Galo,35,Centre-Back,Chaves,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Ponck,24,Centre-Back,Basaksehir,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Amilton,29,Right Winger,Antalyaspor,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Michel Douglas,27,Centre-Forward,Guarani,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Mato Milos,27,Right-Back,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Jonathan Buatu,26,Centre-Back,Rio Ave FC,"End of loanJul 17, 2020",out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Quentin Beunardeau,26,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Ablaye Faye,25,Defensive Midfield,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Andrés Cabrera,24,Defensive Midfield,Aves U23,-,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Welinton Junior,26,Right Winger,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Mama Baldé,23,Right Winger,Sporting CP U23,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Vítor Costa,24,Left-Back,Inter de Lages,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Bruno Gomes,22,Centre-Forward,Estoril,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Desportivo Aves,André Ferreira,23,Goalkeeper,Benfica B,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Lucas Fernandes,21,Attacking Midfield,São Paulo,£1.98m,in,Summer,1.98,Liga Nos,2019,2019/2020
+Portimonense SC,Willyan Rocha,24,Centre-Back,Cova Piedade,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Jackson Martínez,32,Centre-Forward,GZ Evergrande,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Fernando Medeiros,23,Central Midfield,Without Club,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Rômulo,23,Defensive Midfield,Londrina-PR,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Rodrigo,21,Centre-Back,São Paulo,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Éverson,21,Centre-Back,EC Bahia,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Koki Anzai,24,Right-Back,Kashima Antlers,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Portimonense SC,Gleison,24,Second Striker,FC Porto B,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Portimonense SC,Iury,23,Centre-Forward,Al-Nasr,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Portimonense SC,Marlos Moreno,22,Left Winger,Man City,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,José Francisco Cevallos Jr.,24,Attacking Midfield,KSC Lokeren,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Anderson Oliveira,21,Attacking Midfield,Londrina-PR,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Portimonense SC,Brendon Estevam,24,Centre-Back,Coimbra,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Carlos Henriques,25,Goalkeeper,Paços Ferreira,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Fernandinho,24,Left Midfield,Penafiel,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Jorge Pires,38,Centre-Forward,Penafiel,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Jean Felipe,25,Right-Back,Coimbra,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Rúben Fernandes,33,Centre-Back,Gil Vicente,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Brendon Estevam,24,Centre-Back,Covilhã,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Leonardo,26,Goalkeeper,Penafiel,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Carlos Henriques,25,Goalkeeper,Covilhã,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Marcel,26,Defensive Midfield,Penafiel,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Jorge Pires,38,Centre-Forward,Penafiel,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Felipe Macedo,25,Centre-Back,Penafiel,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Gleison,24,Second Striker,Penafiel,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Fernandinho,24,Left Midfield,CD Fátima,?,out,Summer,NA,Liga Nos,2019,2019/2020
+Portimonense SC,Jean Felipe,25,Right-Back,Chaves,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Ruster,23,Left Midfield,Penafiel,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Theo Ryuki,23,Attacking Midfield,Retired,-,out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Lucas Fernandes,21,Attacking Midfield,São Paulo,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Paulinho Bóia,21,Right Winger,São Paulo,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Jackson Martínez,32,Centre-Forward,GZ Evergrande,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,Vítor Tormena,23,Centre-Back,Gil Vicente,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Portimonense SC,João Carlos,24,Centre-Forward,Sampaio-RJ,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Hélder Ferreira,22,Left Winger,Guimarães B,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,André Micael,30,Centre-Back,Gaz Metan,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Maracás,25,Centre-Back,Sampaio Corrêa,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Murilo,23,Left Winger,Rio Ave FC,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Jorge Silva,23,Right-Back,Leixões,?,in,Summer,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Rafael Gava,26,Attacking Midfield,Caxias-RS,?,in,Summer,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Bernardo Martins,21,Left Winger,Benfica B,?,in,Summer,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Oleg Reabciuk,21,Left-Back,FC Porto B,?,in,Summer,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Simão Bertelli,26,Goalkeeper,Operário-PR,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Yago César,22,Right Winger,Athletico-PR,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Getulio,22,Centre-Forward,Tombense,?,in,Summer,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Renat Dadashov,20,Centre-Forward,Wolves,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Diogo Almeida,18,Centre-Forward,Paços F. U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Simão Rocha,18,Left-Back,Paços F. U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Abbas Ibrahim,21,Central Midfield,Paços F. B,-,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Matchoi Djaló,16,Right Winger,Paços de F. U17,-,in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Raúl Almeida,21,Centre-Forward,Gondomar,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Pedro Marques,21,Centre-Back,Coimbrões,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Diego Medeiros,26,Left Winger,Covilhã,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Héctor Quiñónes,27,Left-Back,CD América,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Vasco Rocha,30,Central Midfield,Varzim,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Júnior Pius,23,Centre-Back,Royal Antwerp,£900Th.,out,Summer,0.9,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Barnes Osei,24,Right Midfield,Coimbra,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Raúl Almeida,21,Centre-Forward,Águeda,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Pedro Marques,21,Centre-Back,Felgueiras,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Wagner,32,Left Winger,Chaves,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Diego Medeiros,26,Left Winger,Mafra,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Paulo Henrique,22,Left-Back,Penafiel,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Rui Correia,28,Centre-Back,Nacional,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Christian,30,Central Midfield,Feirense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Héctor Quiñónes,27,Left-Back,CD América,?,out,Summer,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Gonçalo Gregório,24,Centre-Forward,Braga B,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Sodiq Fatai,23,Right Winger,Chaves,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Simão Rocha,18,Left-Back,Amarante,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Paul Ayongo,22,Centre-Forward,Mafra,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Abbas Ibrahim,21,Central Midfield,Arouca,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Nininho,27,Right-Back,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Nathan Júnior,30,Centre-Forward,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Denílson,25,Left Winger,Atlético-MG,"End of loanAug 18, 2020",out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,André Leão,34,Defensive Midfield,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Bruno Leite,25,Right-Back,Anápolis-GO,"End of loanJun 30, 2018",out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Carlos Henriques,25,Goalkeeper,Portimonense,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Marcos Valente,25,Centre-Back,Vit. Guimarães,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Rafael Barbosa,23,Left Midfield,Sporting CP U23,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Elves Baldé,19,Left Winger,Sporting CP U23,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Thibang Phete,25,Defensive Midfield,Guimarães B,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Ruben Lameiras,24,Right Winger,Plymouth,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Gustavo Assunção,19,Defensive Midfield,Atl. Madrid U19,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Pedro Gonçalves,21,Central Midfield,Wolves U23,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Toni Martínez,22,Centre-Forward,West Ham U23,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Roderick Miranda,28,Centre-Back,Wolves,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Fábio Martins,25,Left Winger,Braga,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Uros Racic,21,Central Midfield,Valencia,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Patrick William,22,Centre-Back,Ceará SC,?,in,Summer,NA,Liga Nos,2019,2019/2020
+FC Famalicão,Riccieli,20,Centre-Back,Mirassol-SP,?,in,Summer,NA,Liga Nos,2019,2019/2020
+FC Famalicão,Nicolás Schiappacasse,20,Left Winger,Atl. Madrid B,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Josh Tymon,20,Left-Back,Stoke City,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Nehuén Pérez,19,Centre-Back,Atlético Madrid,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Vitor,20,Goalkeeper,Figueirense FC,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Álex Centelles,19,Left-Back,Valencia,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Diogo Gonçalves,22,Right Winger,Benfica,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Guga,21,Central Midfield,Benfica B,?,in,Summer,NA,Liga Nos,2019,2019/2020
+FC Famalicão,Lawrence Ofori,21,Central Midfield,Leixões,?,in,Summer,NA,Liga Nos,2019,2019/2020
+FC Famalicão,Thibang Phete,26,Defensive Midfield,Belenenses SAD,"End of loanAug 2, 2020",in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Nuno Afonso,20,Midfielder,Oliveirense,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,José Amorim,20,Right-Back,Caçadores,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Júnior Franco,24,Defensive Midfield,Fafe,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Pedrinho Rodrigues,21,Left Winger,Oliveirense,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Jorge Pereira,21,Central Midfield,Oliveirense,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Filipe Garcia,19,Left-Back,Louletano,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Nuno Castro,24,Goalkeeper,Mirandês,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Filipe Garcia,19,Left-Back,Louletano,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Fabinho,24,Central Midfield,Oliveirense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Ricardo Fernandes,24,Goalkeeper,Académico Viseu,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Nuno Castro,24,Goalkeeper,Salgueiros,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Capela,33,Defensive Midfield,Penafiel,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Júnior Franco,24,Defensive Midfield,Mafra,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Joel Monteiro,28,Right-Back,Casa Pia,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Nuno Afonso,20,Midfielder,AD Ninense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Pedrinho Rodrigues,21,Left Winger,Anadia FC,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Feliz,30,Right Winger,Feirense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Deni Hočko,25,Central Midfield,Mouscron,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Ângelo Meneses,25,Centre-Back,Ararat-Armenia,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Jorge Miguel,28,Left-Back,Académico Viseu,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Ricardo,38,Centre-Back,Feirense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Fabrício Simões,34,Centre-Forward,Farense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Filipe Oliveira,25,Left Midfield,Vilafranquense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Luís Rocha,32,Centre-Back,Farense,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Hugo Gomes,24,Centre-Back,Varzim,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,José Amorim,20,Right-Back,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Gabriel Souza,22,Goalkeeper,Famalicão U23,-,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Jorge Pereira,21,Central Midfield,Famalicão U23,-,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Ivo Pinto,30,Right-Back,Dinamo Zagreb,"End of loanAug 2, 2020",out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Lionn,31,Right-Back,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,David Luis,24,Left-Back,Guimarães B,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Eduardo Santos,21,Centre-Back,Fluminense U20,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Raphael Guzzo,24,Central Midfield,Reus Deportiu,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Pathé Ciss,25,Central Midfield,União Madeira,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Alhassane Sylla,23,Right Midfield,União Madeira,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Víctor García,25,Right-Back,Vit. Guimarães,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Benny Ashley-Seal,20,Centre-Forward,Wolves U23,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+FC Famalicão,Damien Furtado,22,Left Winger,Rio Ave FC,"End of loanJun 30, 2019",out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Bogdan Mladenovic,23,Attacking Midfield,Rad,£270Th.,in,Summer,0.27,Liga Nos,2019,2019/2020
+Gil Vicente FC,Zakaria Naidji,24,Centre-Forward,Paradou AC,Loan fee:£45Th.,in,Summer,0.045,Liga Nos,2019,2019/2020
+Gil Vicente FC,William Soares,30,Defensive Midfield,Arouca,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Romário Baldé,22,Right Winger,Lechia Gdansk,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Denis,32,Goalkeeper,Figueirense FC,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Rodrigão,23,Centre-Back,Atlético-MG B,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Márcio Meira,25,Attacking Midfield,Armacenenses,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Kellyton,24,Right-Back,Uberaba,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Rúben Fernandes,33,Centre-Back,Portimonense,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,João Afonso,24,Defensive Midfield,Goiás EC,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Lourency,23,Right Winger,Chapecoense,Free transfer,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Bruno,25,Goalkeeper,Náutico,Loan fee:£21Th.,in,Summer,0.021,Liga Nos,2019,2019/2020
+Gil Vicente FC,Sandro Lima,28,Centre-Forward,Anápolis-GO,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Ygor Nogueira,24,Centre-Back,Fluminense,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Gil Vicente FC,Erick,21,Right Winger,Braga B,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Bozhidar Kraev,22,Attacking Midfield,FC Midtjylland,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Samuel Lino,19,Left Winger,São Bernardo-SP,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Gil Vicente FC,Arthur Henrique,25,Left-Back,Ferroviária,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Gil Vicente FC,Leo Cordeiro,23,Attacking Midfield,Espinho,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Gil Vicente FC,Henrique Gomes,23,Left-Back,Covilhã,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Gil Vicente FC,Yves Baraye,27,Left Winger,Parma,Loan,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Fernando Fonseca,22,Right-Back,FC Porto B,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Gil Vicente FC,Claude Gonçalves,25,Defensive Midfield,Troyes,?,in,Summer,NA,Liga Nos,2019,2019/2020
+Gil Vicente FC,Kevin Lopez,18,Defensive Midfield,Gil Vicente U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Brian Araújo,19,Goalkeeper,Gil Vicente U19,-,in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Vítor Tormena,23,Centre-Back,Portimonense,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Tiger,20,Defensive Midfield,Santa Maria,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Rafa Pires,21,Goalkeeper,Santa Maria,"End of loanJun 30, 2019",in,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Vítor Tormena,23,Centre-Back,Braga,£1.13m,out,Summer,1.13,Liga Nos,2019,2019/2020
+Gil Vicente FC,Tiago Gomes,25,Defensive Midfield,Gondomar,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Frédéric Maciel,25,Right Winger,Varzim,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Pedro Araújo,19,Right-Back,Vilaverdense FC,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Márcio Meira,25,Attacking Midfield,Real SC,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Kellyton,24,Right-Back,Without Club,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Rui Gomes,21,Left Winger,Mafra,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Bruninho,21,Left Winger,Rio Ave U23,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Dimba,26,Centre-Forward,Aparecida,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Diogo Ramalho,20,Defensive Midfield,Varzim SC B,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,James Arthur,21,Central Midfield,Fafe,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Bruno Morais,21,Centre-Back,Aves U23,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Júnior,21,Left-Back,Valadares Gaia,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Gabriel Mejía,19,Centre-Forward,Águeda,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Rafa Pires,21,Goalkeeper,Praiense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Onyekachi Silas,23,Centre-Forward,Vilafranquense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,João Silva,19,Right Winger,Guimarães B,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Rui Faria,27,Centre-Back,Trofense,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Tiger,20,Defensive Midfield,Brito,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Abdoullahi Tanko,21,Centre-Forward,Chaves,Free transfer,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Manuel Lopes,19,Centre-Back,Leça,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Kevin Lopez,18,Defensive Midfield,Leça,Loan,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Bruninho,21,Left Winger,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Henrique Brito,22,Left-Back,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Emerson Crepaldi,21,Central Midfield,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Marcos Espíndola,21,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2019,2019/2020
+SL Benfica,Julian Weigl,24,Defensive Midfield,Bor. Dortmund,£18.00m,in,Winter,18,Liga Nos,2019,2019/2020
+SL Benfica,Yony González,25,Right Winger,Fluminense,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+SL Benfica,Dyego Sousa,30,Centre-Forward,SZ FC,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+SL Benfica,Oscar Benítez,26,Left Winger,San Luis,"End of loanDec 31, 2019",in,Winter,0,Liga Nos,2019,2019/2020
+SL Benfica,Lisandro López,30,Centre-Back,Boca Juniors,"End of loanDec 31, 2019",in,Winter,0,Liga Nos,2019,2019/2020
+SL Benfica,Raúl de Tomás,25,Centre-Forward,Espanyol,£20.25m,out,Winter,20.25,Liga Nos,2019,2019/2020
+SL Benfica,Gedson Fernandes,21,Central Midfield,Spurs,Loan fee:£4.05m,out,Winter,4.05,Liga Nos,2019,2019/2020
+SL Benfica,Lisandro López,30,Centre-Back,Boca Juniors,£2.70m,out,Winter,2.7,Liga Nos,2019,2019/2020
+SL Benfica,Caio,25,Left Midfield,Sharjah FC,Loan fee:£1.35m,out,Winter,1.35,Liga Nos,2019,2019/2020
+SL Benfica,Germán Conti,25,Centre-Back,Atlas,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+SL Benfica,Ljubomir Fejsa,31,Defensive Midfield,Alavés,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+SL Benfica,Oscar Benítez,26,Left Winger,Delfín SC,?,out,Winter,NA,Liga Nos,2019,2019/2020
+SL Benfica,Yony González,25,Right Winger,Corinthians,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+FC Porto,André Pereira,24,Centre-Forward,Vit. Guimarães,"End of loanJan 9, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+FC Porto,Vitinha,19,Attacking Midfield,FC Porto B,-,in,Winter,0,Liga Nos,2019,2019/2020
+FC Porto,Renzo Saravia,26,Right-Back,Internacional,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+FC Porto,André Pereira,24,Centre-Forward,Real Zaragoza,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+FC Porto,Bruno Costa,22,Central Midfield,Portimonense,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Sporting CP,Andraz Sporar,25,Centre-Forward,Slo. Bratislava,£5.40m,in,Winter,5.4,Liga Nos,2019,2019/2020
+Sporting CP,Chico Geraldes,24,Attacking Midfield,AEK Athens,"End of loanJan 29, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+Sporting CP,Gelson Dala,23,Second Striker,Antalyaspor,"End of loanJan 21, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+Sporting CP,Bruno Paulista,24,Defensive Midfield,Sporting CP U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Sporting CP,Pedro Mendes,20,Centre-Forward,Sporting CP U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Sporting CP,Eduardo Quaresma,17,Centre-Back,Sporting CP U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Sporting CP,Bruno Fernandes,25,Attacking Midfield,Man Utd,£49.50m,out,Winter,49.5,Liga Nos,2019,2019/2020
+Sporting CP,Mauro Riquicho,24,Right-Back,CD Fátima,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Sporting CP,Fabrice Fokobo,25,Defensive Midfield,El Paso,Free transfer,out,Winter,0,Liga Nos,2019,2019/2020
+Sporting CP,Bruno Paulista,24,Defensive Midfield,CD Fátima,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Sporting CP,Carlos Jatoba,24,Central Midfield,CRB,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Sporting CP,Gelson Dala,23,Second Striker,Rio Ave FC,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Sporting CP,Fernando,20,Left Winger,Shakhtar D.,"End of loanJan 19, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,Bruno Wilson,23,Centre-Back,Tondela,£360Th.,in,Winter,0.36,Liga Nos,2019,2019/2020
+SC Braga,Abel Ruiz,20,Centre-Forward,FC Barcelona B,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,Crislan,27,Centre-Forward,Shonan Bellmare,"End of loanJan 31, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,David Carmo,20,Centre-Back,Braga B,-,in,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,Rolando,34,Centre-Back,Without Club,-,in,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,Pedro Amador,21,Left-Back,Braga B,-,in,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,Pablo Santos,27,Centre-Back,Rubin Kazan,Loan fee:£90Th.,out,Winter,0.09,Liga Nos,2019,2019/2020
+SC Braga,Caju,24,Left-Back,Goiás EC,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,Lucas Cunha,22,Centre-Back,Estoril,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,Claudemir,31,Central Midfield,Sivasspor,?,out,Winter,NA,Liga Nos,2019,2019/2020
+SC Braga,Ahmed Hassan,26,Centre-Forward,Olympiacos,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,Xadas,22,Attacking Midfield,Marítimo,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,Murilo de Souza,25,Right Winger,Sporting Gijón,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+SC Braga,Uche Agbo,24,Defensive Midfield,Standard Liège,"End of loanJan 20, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Abou Ouattara,20,Right Winger,LOSC Lille B,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Matheus Mascarenhas,21,Left-Back,Fluminense,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Elias Abouchabaka,19,Attacking Midfield,RB Leipzig,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Easah Suliman,21,Centre-Back,Aston Villa U23,?,in,Winter,NA,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,João Pedro,23,Centre-Forward,Guimarães B,-,in,Winter,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,André Almeida,19,Attacking Midfield,Guimarães B,-,in,Winter,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Edmond Tapsoba,20,Centre-Back,Bay. Leverkusen,£16.20m,out,Winter,16.2,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Alexandre Guedes,25,Centre-Forward,Vegalta Sendai,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Al Musrati,23,Defensive Midfield,Rio Ave FC,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Rafa Soares,24,Left-Back,SD Eibar,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,Miguel Oliveira,25,Goalkeeper,Leixões,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Vitória Guimarães SC,André Pereira,24,Centre-Forward,FC Porto,"End of loanJan 9, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Gelson Dala,23,Second Striker,Sporting CP,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Al Musrati,23,Defensive Midfield,Vit. Guimarães,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Vitó,22,Attacking Midfield,Rio Ave U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Jonathan Buatu,26,Centre-Back,Desportivo Aves,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Gabrielzinho,23,Right Winger,Moreirense,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Rio Ave FC,Ronan,24,Centre-Forward,Tondela,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CS Marítimo,Joel Tagueu,26,Centre-Forward,Cruzeiro,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+CS Marítimo,Diego Moreno,23,Defensive Midfield,Atlético Huila,?,in,Winter,NA,Liga Nos,2019,2019/2020
+CS Marítimo,Xadas,22,Attacking Midfield,Braga,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+CS Marítimo,Pedro Pelágio,19,Central Midfield,Marítimo U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+CS Marítimo,Marcão,24,Centre-Back,Remo,"End of loanNov 30, 2019",in,Winter,0,Liga Nos,2019,2019/2020
+CS Marítimo,Luciano Nequecaur,27,Centre-Forward,Danubio FC,Free transfer,out,Winter,0,Liga Nos,2019,2019/2020
+CS Marítimo,Marcão,24,Centre-Back,Sampaio Corrêa,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CS Marítimo,Marcelinho,23,Second Striker,Londrina-PR,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CS Marítimo,Leandro Barrera,28,Left Midfield,Mafra,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CS Marítimo,Douglas Grolli,30,Centre-Back,Avispa Fukuoka,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Mirko Antonucci,20,Right Winger,AS Roma,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Lucas Paes,22,Goalkeeper,São Paulo,?,in,Winter,NA,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Tòfol Montiel,19,Attacking Midfield,Fiorentina,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Kgaogelo Sekgota,22,Left Winger,Bidvest Wits FC,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Vitória Setúbal FC,Milton Raphael,28,Goalkeeper,AA Portuguesa,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Belenenses SAD,Rúben Lima,30,Left-Back,Without Club,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Ricardo Ferreira,27,Centre-Back,Without Club,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Thibang Phete,25,Defensive Midfield,Famalicão,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Nuno Pina Nunes,20,Defensive Midfield,Chievo Verona,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Filipe Mendes,34,Goalkeeper,Casa Pia,"End of loanJan 2, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Guilherme Oliveira,24,Goalkeeper,CD Fátima,"End of loanJan 31, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Danny Henriques,22,Defensive Midfield,Belenenses U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Alhassane Keita,27,Centre-Forward,Al-Riffa SC,"End of loanFeb 28, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Marco Matias,30,Right Winger,Without Club,-,in,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Silvestre Varela,34,Left Winger,Without Club,-,in,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Jonatan Lucca,25,Central Midfield,Farense,Free transfer,out,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,André Sousa,29,Central Midfield,Gaziantep FK,Free transfer,out,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Benny,22,Right Winger,Chaves,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Belenenses SAD,Kikas,21,Centre-Forward,Vilafranquense,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Guilherme Oliveira,24,Goalkeeper,Louletano,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Belenenses SAD,Rúben Ribeiro,24,Left-Back,CD Fátima,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Belenenses SAD,Hakim Ouro-Sama,22,Centre-Back,LOSC Lille B,"End of loanFeb 6, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+Boavista FC,Stéphane Sparagna,24,Centre-Back,Vilafranquense,Free transfer,out,Winter,0,Liga Nos,2019,2019/2020
+Boavista FC,Edu Machado,29,Right-Back,Leixões,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Boavista FC,Samuel Pedro,18,Right Winger,Benfica U23,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Boavista FC,Perdigão,28,Right Winger,Leixões,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Boavista FC,Rafael Costa,29,Central Midfield,Damac FC,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Boavista FC,Walter Clar,25,Left Midfield,Sol de América,"End of loanDec 1, 2019",out,Winter,0,Liga Nos,2019,2019/2020
+Moreirense FC,Nuno Santos,20,Attacking Midfield,Benfica B,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Moreirense FC,Gabrielzinho,23,Right Winger,Rio Ave FC,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Moreirense FC,Caleb Gomina,23,Centre-Forward,Gondomar,"End of loanDec 31, 2019",in,Winter,0,Liga Nos,2019,2019/2020
+Moreirense FC,Caleb Gomina,23,Centre-Forward,Valadares Gaia,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CD Tondela,João Pedro,26,Central Midfield,LA Galaxy,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+CD Tondela,Marko Petkovic,27,Right-Back,Without Club,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+CD Tondela,Ricardo Valente,28,Left Winger,Hatta Club,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+CD Tondela,Ronan,24,Centre-Forward,Rio Ave FC,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+CD Tondela,Bruno Wilson,23,Centre-Back,Braga,£360Th.,out,Winter,0.36,Liga Nos,2019,2019/2020
+CD Tondela,Bruno Monteiro,35,Central Midfield,Leixões,Free transfer,out,Winter,0,Liga Nos,2019,2019/2020
+CD Tondela,Pedro Silva,22,Goalkeeper,HB Köge,?,out,Winter,NA,Liga Nos,2019,2019/2020
+CD Tondela,Manu Sánchez,23,Right-Back,R. Majadahonda,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CD Tondela,Rubilio Castillo,28,Centre-Forward,CD Motagua,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CD Tondela,João Vigário,24,Left-Back,Nacional,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CD Tondela,Denílson,24,Left Winger,Atlético-MG,"End of loanJan 18, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+CD Tondela,João Pedro,26,Central Midfield,LA Galaxy,"End of loanDec 31, 2019",out,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Costinha,27,Attacking Midfield,Chaves,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Pierre Sagna,29,Right-Back,Panetolikos,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Diogo Salomão,31,Left Winger,FCSB,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Cryzan,23,Centre-Forward,Athletico-PR,?,in,Winter,NA,Liga Nos,2019,2019/2020
+CD Santa Clara,Miguel Machado,21,Forward,Castelo Branco,"End of loanDec 3, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Rodolfo Cardoso,22,Goalkeeper,Louletano,"End of loanFeb 9, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Rodrigo Simão,19,Centre-Forward,Castelo Branco,"End of loanOct 31, 2019",in,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Bruno Lamas,25,Attacking Midfield,Khor Fakkan,Loan fee:£135Th.,out,Winter,0.135,Liga Nos,2019,2019/2020
+CD Santa Clara,Rodrigo Simão,19,Centre-Forward,SC Ideal,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Miguel Machado,21,Forward,Operário,?,out,Winter,NA,Liga Nos,2019,2019/2020
+CD Santa Clara,Patrick,29,Right-Back,Coritiba FC,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Malick Evouna,27,Centre-Forward,Nacional,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Lucas Marques,24,Central Midfield,Estoril,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Denis Pineda,24,Left Midfield,Estoril,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Pablo,27,Right Winger,Guarani,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,Alfredo Stephens,25,Centre-Forward,Universitario,"End of loanDec 31, 2019",out,Winter,0,Liga Nos,2019,2019/2020
+CD Santa Clara,João Lopes,24,Goalkeeper,Portuguesa,"End of loanJan 19, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Oumar Diakhité,26,Centre-Back,Sepsi OSK,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Aaron Tshibola,25,Central Midfield,Waasl.-Beveren,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Jonathan Buatu,26,Centre-Back,Rio Ave FC,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Marius,21,Centre-Forward,FC Porto B,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Pedro Delgado,22,Attacking Midfield,SD Luneng,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Michel Douglas,27,Centre-Forward,Guarani,"End of loanDec 31, 2019",in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Zidane Banjaqui,21,Central Midfield,Aves U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Bruno Morais,21,Centre-Back,Aves U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Reko Silva,20,Attacking Midfield,Aves U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Ricardo Mangas,21,Left-Back,Aves U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Bruno Lourenço,22,Second Striker,Aves U23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Redouane Kerrouche,25,Central Midfield,Le Puy Foot,Free transfer,out,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Enzo Zidane,24,Attacking Midfield,UD Almería,Free transfer,out,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Bruno Xavier,23,Attacking Midfield,Juventude,Free transfer,out,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Kahraba,25,Left Winger,El Ahly,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Erik,24,Attacking Midfield,CRB,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Miguel Tavares,21,Right Winger,Penafiel,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Desportivo Aves,Michel Douglas,28,Centre-Forward,CSA,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Abdoulaye Diallo,24,Centre-Forward,Rukh,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Desportivo Aves,Ricardo Rodrigues,24,Centre-Forward,Estoril,-,out,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Jackson Martínez,33,Centre-Forward,GZ Evergrande,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Ricardo Vaz Tê,33,Right Winger,QD Huanghai,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Evans Mensah,21,Left Winger,Al-Duhail SC,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Takuma Nishimura,23,Second Striker,CSKA Moscow,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Bruno Costa,22,Central Midfield,FC Porto,?,in,Winter,NA,Liga Nos,2019,2019/2020
+Portimonense SC,Mohanad Ali,19,Centre-Forward,Al-Duhail SC,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Beto,21,Centre-Forward,Portimonense 23,-,in,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Ruster,23,Left Midfield,Penafiel,"End of loanFeb 17, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Guilherme Lazaroni,27,Left-Back,Sport Recife,"End of loanDec 31, 2019",in,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Guilherme Lazaroni,27,Left-Back,Ponte Preta,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Paulinho,25,Attacking Midfield,HB CFFC,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Portimonense SC,Wellington Carvalho,27,Right Winger,Chaves,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Portimonense SC,Ruster,23,Left Midfield,Londrina-PR,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Iury,24,Centre-Forward,Reno. Yamaguchi,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,José Francisco Cevallos Jr.,24,Attacking Midfield,KSC Lokeren,"End of loanJan 8, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Takuma Nishimura,23,Second Striker,CSKA Moscow,"End of loanMar 22, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Zé Gomes,20,Centre-Forward,Benfica B,"End of loanFeb 6, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Éverson,22,Centre-Back,EC Bahia,"End of loanFeb 17, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+Portimonense SC,Jackson Martínez,33,Centre-Forward,GZ Evergrande,"End of loanDec 31, 2019",out,Winter,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Adriano Castanheira,26,Left Midfield,Covilhã,£45Th.,in,Winter,0.045,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,João Amaral,28,Right Winger,Lech Poznan,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Marcelo,30,Centre-Back,Chicago Fire,?,in,Winter,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Denílson,24,Left Winger,Atlético-MG,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Francisco Afonso,22,Right-Back,ARS Martinho,"End of loanJan 20, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Raúl Almeida,22,Centre-Forward,Águeda,"End of loanJan 30, 2020",in,Winter,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Stephen Eustáquio,23,Defensive Midfield,CD Cruz Azul,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Getulio,22,Centre-Forward,Tombense,?,out,Winter,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Bernardo Martins,22,Left Winger,Chaves,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Rafael Gava,26,Attacking Midfield,Cuiabá-MT,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Diogo Almeida,19,Centre-Forward,Benfica B,?,out,Winter,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Francisco Afonso,22,Right-Back,Berço,?,out,Winter,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Raúl Almeida,22,Centre-Forward,Paredes,?,out,Winter,NA,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Yago César,22,Right Winger,Athletico-PR,"End of loanDec 31, 2019",out,Winter,0,Liga Nos,2019,2019/2020
+FC Paços de Ferreira,Renat Dadashov,20,Centre-Forward,Wolves,"End of loanDec 31, 2019",out,Winter,0,Liga Nos,2019,2019/2020
+FC Famalicão,Racine Coly,24,Left-Back,OGC Nice,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+FC Famalicão,Ibrahim Cissé,20,Centre-Back,OGC Nice B,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+FC Famalicão,Ivo Pinto,30,Right-Back,Dinamo Zagreb,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+FC Famalicão,Vitor,20,Goalkeeper,Figueirense FC,"End of loanJan 23, 2020",out,Winter,0,Liga Nos,2019,2019/2020
+FC Famalicão,Thibang Phete,25,Defensive Midfield,Belenenses SAD,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Rúben Ribeiro,32,Left Winger,Al-Ain FC,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Hugo Vieira,31,Centre-Forward,Sivasspor,Free transfer,in,Winter,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Vitor Carvalho,22,Central Midfield,Coritiba FC,Loan,in,Winter,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Kevin Lopez,19,Defensive Midfield,Leça,"End of loanDec 31, 2019",in,Winter,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Kevin Lopez,19,Defensive Midfield,Valadares Gaia,Free transfer,out,Winter,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Erick,22,Right Winger,Náutico,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Juan Villa,20,Attacking Midfield,Fafe,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Bogdan Mladenovic,23,Attacking Midfield,Vojvodina,?,out,Winter,NA,Liga Nos,2019,2019/2020
+Gil Vicente FC,Romário Baldé,23,Right Winger,Leixões,Loan,out,Winter,0,Liga Nos,2019,2019/2020
+Gil Vicente FC,Leo Cordeiro,24,Attacking Midfield,Lus. Lourosa,Loan,out,Winter,0,Liga Nos,2019,2019/2020

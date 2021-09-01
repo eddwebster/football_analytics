@@ -1,0 +1,487 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+AZ Alkmaar,Rasmus Elm,21,Central Midfield,Kalmar FF,£2.70m,in,Summer,2.7,Eredivisie,2009,2009/2010
+AZ Alkmaar,Pontus Wernbloom,23,Defensive Midfield,IFK Göteborg,£2.25m,in,Summer,2.25,Eredivisie,2009,2009/2010
+AZ Alkmaar,Ragnar Klavan,23,Centre-Back,Heracles Almelo,£450Th.,in,Summer,0.45,Eredivisie,2009,2009/2010
+AZ Alkmaar,Erik Heijblok,32,Goalkeeper,De Graafschap,?,in,Summer,NA,Eredivisie,2009,2009/2010
+AZ Alkmaar,Rogier Molhoek,27,Defensive Midfield,Vitesse,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Ryan Donk,23,Centre-Back,West Brom,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Simon Cziommer,28,Central Midfield,FC Utrecht,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Kemy Agustien,22,Defensive Midfield,Birmingham,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Demy de Zeeuw,26,Central Midfield,Ajax,£7.20m,out,Summer,7.2,Eredivisie,2009,2009/2010
+AZ Alkmaar,Simon Cziommer,28,Central Midfield,RB Salzburg,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Jordy Deckers,20,Goalkeeper,Telstar,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Toni Kolehmainen,21,Central Midfield,AC Oulu,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Rogier Molhoek,27,Defensive Midfield,Vitesse,?,out,Summer,NA,Eredivisie,2009,2009/2010
+AZ Alkmaar,Ryan Donk,23,Centre-Back,Club Brugge,?,out,Summer,NA,Eredivisie,2009,2009/2010
+AZ Alkmaar,Kemy Agustien,22,Defensive Midfield,RKC Waalwijk,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Gijs Luirink,25,Centre-Back,RKC Waalwijk,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Marko Vejinović,19,Central Midfield,Heracles Almelo,?,out,Summer,NA,Eredivisie,2009,2009/2010
+AZ Alkmaar,Ragnar Klavan,23,Centre-Back,Heracles Almelo,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Bryan Ruíz,23,Attacking Midfield,KAA Gent,£4.95m,in,Summer,4.95,Eredivisie,2009,2009/2010
+Twente Enschede FC,Bernard Parker,23,Second Striker,T. Royal Zulu,£900Th.,in,Summer,0.9,Eredivisie,2009,2009/2010
+Twente Enschede FC,Luuk de Jong,18,Centre-Forward,De Graafschap,£810Th.,in,Summer,0.81,Eredivisie,2009,2009/2010
+Twente Enschede FC,Miroslav Stoch,19,Left Winger,Chelsea,Loan fee:£720Th.,in,Summer,0.72,Eredivisie,2009,2009/2010
+Twente Enschede FC,Nicky Kuiper,20,Left-Back,Vitesse,£675Th.,in,Summer,0.675,Eredivisie,2009,2009/2010
+Twente Enschede FC,Nashat Akram,24,Attacking Midfield,Al-Gharafa SC,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,David Carney,25,Left Winger,Sheffield Utd.,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Dwight Tiendalli,23,Right-Back,Feyenoord,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Ransford Osei,18,Centre-Forward,Maccabi Haifa,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Perparim Hetemaj,22,Central Midfield,AEK Athens,?,in,Summer,NA,Eredivisie,2009,2009/2010
+Twente Enschede FC,Wellington,21,Centre-Forward,TSG Hoffenheim,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Dario Vujicevic,19,Defensive Midfield,FC Twente U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Ramon Zomer,26,Centre-Back,NEC Nijmegen,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Eljero Elia,22,Left Winger,Hamburger SV,£8.10m,out,Summer,8.1,Eredivisie,2009,2009/2010
+Twente Enschede FC,Edson Braafheid,26,Left-Back,Bayern Munich,£1.80m,out,Summer,1.8,Eredivisie,2009,2009/2010
+Twente Enschede FC,Niels Wellenberg,26,Right-Back,NEC Nijmegen,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Marko Arnautovic,20,Centre-Forward,Inter,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Ramon Zomer,26,Centre-Back,NEC Nijmegen,?,out,Summer,NA,Eredivisie,2009,2009/2010
+Twente Enschede FC,Patrick Gerritsen,22,Centre-Forward,Go Ahead Eagles,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Youssouf Hersi,26,Right Winger,AEK Athens,?,out,Summer,NA,Eredivisie,2009,2009/2010
+Twente Enschede FC,Bjarni Vidarsson,21,Central Midfield,KSV Roeselare,?,out,Summer,NA,Eredivisie,2009,2009/2010
+Twente Enschede FC,Romano Denneboom,28,Right Winger,Sparta R.,?,out,Summer,NA,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Demy de Zeeuw,26,Central Midfield,AZ Alkmaar,£7.20m,in,Summer,7.2,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Jeroen Verhoeven,29,Goalkeeper,FC Volendam,£270Th.,in,Summer,0.27,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Marko Pantelic,30,Centre-Forward,Hertha BSC,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Thimothée Atouba,27,Left-Back,Hamburger SV,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Darko Bodul,20,Centre-Forward,Ajax U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Albert Luque,31,Left Winger,Málaga CF,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,George Ogararu,29,Right-Back,Steaua Bukarest,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Dennis Rommedahl,30,Right Winger,NEC Nijmegen,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Donovan Slijngard,21,Left-Back,Sparta R.,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Thomas Vermaelen,23,Centre-Back,Arsenal,£10.80m,out,Summer,10.8,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Robbert Schilder,23,Centre-Back,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Donovan Slijngard,21,Left-Back,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Dennis Gentenaar,33,Goalkeeper,VVV-Venlo,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Albert Luque,31,Left Winger,Málaga CF,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Leonardo,26,Second Striker,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Evander Sno,22,Defensive Midfield,Bristol City,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Darko Bodul,20,Centre-Forward,Sparta R.,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Jan-Arie van der Heijden,21,Centre-Back,Willem II,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Orlando Engelaar,29,Defensive Midfield,FC Schalke 04,£3.60m,in,Summer,3.6,Eredivisie,2009,2009/2010
+PSV Eindhoven,Stanislav Manolev,23,Right-Back,Litex Lovetch,£2.79m,in,Summer,2.79,Eredivisie,2009,2009/2010
+PSV Eindhoven,André Ooijer,34,Centre-Back,Blackburn,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Jagos Vukovic,21,Centre-Back,Rad,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Jonathan Reis,20,Centre-Forward,PSV U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Género Zeefuik,19,Centre-Forward,FC Omniworld,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Rens van Eijden,21,Centre-Back,Willem II,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Eric Addo,30,Centre-Back,Roda JC,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Cássio,22,Goalkeeper,Sparta R.,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Reimond Manco,18,Attacking Midfield,Willem II,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Stijn Wuytens,19,Centre-Back,De Graafschap,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Jérémie Bréchet,29,Centre-Back,FC Sochaux,£900Th.,out,Summer,0.9,Eredivisie,2009,2009/2010
+PSV Eindhoven,Edison Méndez,30,Attacking Midfield,LDU Quito,£270Th.,out,Summer,0.27,Eredivisie,2009,2009/2010
+PSV Eindhoven,Jason Culina,28,Central Midfield,Gold Coast Utd.,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Eric Addo,30,Centre-Back,Roda JC,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Rens van Eijden,21,Centre-Back,NEC Nijmegen,?,out,Summer,NA,Eredivisie,2009,2009/2010
+PSV Eindhoven,Género Zeefuik,19,Centre-Forward,FC Dordrecht,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Mike Zonneveld,28,Left-Back,FC Groningen,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Igor Djuric,24,Centre-Back,Vojvodina,£1.35m,in,Summer,1.35,Eredivisie,2009,2009/2010
+SC Heerenveen,Oussama Assaidi,21,Left Winger,De Graafschap,£1.08m,in,Summer,1.08,Eredivisie,2009,2009/2010
+SC Heerenveen,Michal Papadopulos,24,Centre-Forward,Mladá Boleslav,£900Th.,in,Summer,0.9,Eredivisie,2009,2009/2010
+SC Heerenveen,Gerry Koning,29,Right-Back,FC Volendam,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Samir Fazli,18,Centre-Forward,Makedonija,?,in,Summer,NA,Eredivisie,2009,2009/2010
+SC Heerenveen,Hernán Losada,27,Attacking Midfield,RSC Anderlecht,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Martin Lejsal,26,Goalkeeper,1. FC Brno,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Richard Stolte,19,Left Midfield,Heerenveen U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Diederik Bangma,19,Goalkeeper,Heerenveen U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Oguzhan Türk,23,Attacking Midfield,Go Ahead Eagles,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Timmi Johansen,22,Left-Back,Odense BK,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Jeroen Drost,22,Left-Back,Vitesse,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Henrico Drost,22,Centre-Back,De Graafschap,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Cecilio Lopes,31,Centre-Forward,FC Dordrecht,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Robin Huisman de Jong,21,Centre-Back,FC Emmen,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Reza Ghoochannejhad,21,Centre-Forward,FC Emmen,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Danijel Pranjic,27,Left-Back,Bayern Munich,£6.93m,out,Summer,6.93,Eredivisie,2009,2009/2010
+SC Heerenveen,Robin Huisman de Jong,21,Centre-Back,BV Cloppenburg,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Lesly Fellinga,23,Left-Back,Toronto FC,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Samuel Armenteros,19,Centre-Forward,Heracles Almelo,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Reza Ghoochannejhad,21,Centre-Forward,Go Ahead Eagles,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Arjen Bergsma,20,Centre-Back,FC Emmen,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Oguzhan Türk,23,Attacking Midfield,SC Cambuur,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,André Hanssen,28,Defensive Midfield,Bodø/Glimt,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Timmi Johansen,22,Left-Back,Odense BK,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Agil Etemadi,22,Goalkeeper,FC Emmen,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Hans Vonk,39,Goalkeeper,Ajax Cape Town,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Donovan Deekman,21,Right Winger,KSC Lokeren,?,out,Summer,NA,Eredivisie,2009,2009/2010
+SC Heerenveen,Henrico Drost,22,Centre-Back,VVV-Venlo,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Calvin Jong-A-Pin,22,Centre-Back,Vitesse,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Cecilio Lopes,31,Centre-Forward,FC Zwolle,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Jeroen Drost,22,Left-Back,Vitesse,?,out,Summer,NA,Eredivisie,2009,2009/2010
+SC Heerenveen,Lázaro,19,Centre-Back,H'veen/Emmen II,-,out,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Thomas Enevoldsen,22,Left Winger,Aalborg BK,£1.13m,in,Summer,1.13,Eredivisie,2009,2009/2010
+FC Groningen,Serhat Koc,18,Centre-Forward,FC Eindhoven,£189Th.,in,Summer,0.189,Eredivisie,2009,2009/2010
+FC Groningen,Michael Jansen,25,Left-Back,SC Cambuur,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Jeffrey Rijsdijk,21,Attacking Midfield,Sparta U21,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Mike Zonneveld,28,Left-Back,PSV Eindhoven,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Morten Nordstrand,26,Centre-Forward,FC Copenhagen,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Leandro Bacuna,17,Central Midfield,Groningen U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Darryl Lachman,19,Centre-Back,FC Groning. U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Frank Olijve,20,Central Midfield,FC Groning. U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Marcus Berg,22,Centre-Forward,Hamburger SV,£9.00m,out,Summer,9,Eredivisie,2009,2009/2010
+FC Groningen,Paul Matthijs,32,Defensive Midfield,Veendam,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Yevgen Levchenko,31,Central Midfield,Saturn,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Martijn Meerdink,32,Right Winger,De Graafschap,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Gijs Koopmans,23,Goalkeeper,Gronitas,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Jeroen Veldmate,20,Centre-Back,Helmond Sport,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+FC Groningen,Shkodran Metaj,21,Defensive Midfield,RKC Waalwijk,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Sekou Cissé,24,Centre-Forward,Roda JC,£3.15m,in,Summer,3.15,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Dani Fernández,26,Right-Back,Arsenal Kyiv,£1.08m,in,Summer,1.08,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Kamohelo Mokotjo,18,Defensive Midfield,SuperSport Utd.,£360Th.,in,Summer,0.36,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Aleksandar Ignjatovic,21,Centre-Back,Borac Cacak,Loan fee:£270Th.,in,Summer,0.27,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Stefan Babovic,22,Attacking Midfield,FC Nantes,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Stefan de Vrij,17,Centre-Back,Feyenoord U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Luc Castaignos,16,Centre-Forward,Feyenoord U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Jeffrey Altheer,22,Defensive Midfield,Excelsior,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Erwin Mulder,20,Goalkeeper,Excelsior,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Nicky Hofs,26,Attacking Midfield,Vitesse,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Chun-soo Lee,27,Second Striker,Chunnam Dragons,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Chun-soo Lee,27,Second Striker,Al-Nassr,£720Th.,out,Summer,0.72,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Dwight Tiendalli,23,Right-Back,Twente FC,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Luis Pedro,19,Right Winger,Excelsior,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Kamohelo Mokotjo,18,Defensive Midfield,Excelsior,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Tim Vincken,22,Right Winger,Excelsior,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Jeffrey Altheer,22,Defensive Midfield,Helmond Sport,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Michal Janota,18,Attacking Midfield,Excelsior,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Norichio Nieveld,20,Centre-Back,Excelsior,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Mitchell Schet,21,Right Winger,Excelsior,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Kevin Wattamaleo,20,Central Midfield,Excelsior,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Glenn Kobussen,20,Defensive Midfield,Go Ahead Eagles,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Kermit Erasmus,18,Centre-Forward,Excelsior,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Nicky Hofs,26,Attacking Midfield,Vitesse,?,out,Summer,NA,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Sherif Ekramy,25,Goalkeeper,El Gouna,?,out,Summer,NA,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Theo Lucius,32,Defensive Midfield,Without Club,-,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Henk Timmer,37,Goalkeeper,Retired,-,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,David Manteiga,19,Defensive Midfield,Feyenoord U21,-,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Serginho Greene,27,Defensive Midfield,Without Club,-,out,Summer,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Michael Mols,38,Centre-Forward,Retired,-,out,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Robbert Schilder,23,Centre-Back,Ajax,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Ferne Snoyl,24,Left-Back,RKC Waalwijk,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Leonardo,26,Second Striker,Ajax,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Tim Coremans,18,Goalkeeper,NAC Breda U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Pim Bouwman,18,Central Midfield,NAC Breda U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Benjamin van Wanrooy,18,Right Winger,NAC Breda U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Nemanja Gudelj,17,Defensive Midfield,NAC Breda U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Aykut Demir,20,Centre-Back,Excelsior,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Rogier Veenstra,21,Left Winger,Haarlem,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Michiel Kramer,20,Centre-Forward,FC Volendam,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Wesley Pollemans,21,Centre-Back,RBC Roosendaal,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Gertjan Tamerus,28,Centre-Forward,AO Trikala,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Patrick Mtiliga,28,Left-Back,Málaga CF,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Aykut Demir,20,Centre-Back,Genclerbirligi,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Nourdin Boukhari,29,Attacking Midfield,Kasimpasa,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+NAC Breda,Fouad Idabdelhay,21,Centre-Forward,RKC Waalwijk,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Ricky van Wolfswinkel,20,Centre-Forward,Vitesse,£2.52m,in,Summer,2.52,Eredivisie,2009,2009/2010
+FC Utrecht,Nana Asare,22,Left-Back,KV Mechelen,£1.35m,in,Summer,1.35,Eredivisie,2009,2009/2010
+FC Utrecht,Jan Wuytens,24,Centre-Back,Heracles Almelo,£810Th.,in,Summer,0.81,Eredivisie,2009,2009/2010
+FC Utrecht,Dries Mertens,22,Centre-Forward,AGOVV Apeldoorn,£540Th.,in,Summer,0.54,Eredivisie,2009,2009/2010
+FC Utrecht,Khalid Sinouh,34,Goalkeeper,Hamburger SV,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Jacob Mulenga,25,Centre-Forward,LB Châteauroux,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Jacob Lensky,20,Central Midfield,Vancouver,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Ken van Mierlo,21,Central Midfield,Utrecht U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Gianluca Nijholt,19,Central Midfield,Utrecht U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Mark van der Maarel,19,Right-Back,Utrecht U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Kevin Vandenbergh,26,Centre-Forward,Germ. Beerschot,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Nick Kuipers,20,Left-Back,FC Dordrecht,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Tom Caluwé,31,Attacking Midfield,Al-Wakrah SC,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Cedric van der Gun,30,Centre-Forward,Swansea,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Etienne Shew-Atjon,34,Left-Back,FC Dordrecht,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Kees van Buuren,22,Right-Back,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Ali Boussaboun,30,Left Winger,Al-Nasr,?,out,Summer,NA,Eredivisie,2009,2009/2010
+FC Utrecht,Vito Wormgoor,20,Centre-Back,De Graafschap,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,André Krul,22,Goalkeeper,Telstar,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Morten Skoubo,29,Centre-Forward,Roda JC,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Gregory Schaken,20,Left Winger,Telstar,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Frank van der Zwan,20,Centre-Forward,Utrecht U21,-,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Mike van der Kooy,20,Centre-Back,Utrecht U21,-,out,Summer,0,Eredivisie,2009,2009/2010
+FC Utrecht,Simon Cziommer,28,Central Midfield,AZ Alkmaar,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Dalibor Stevanovic,24,Central Midfield,M. Petah Tikva,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Lasse Nilsson,27,Centre-Forward,Saint-Étienne,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Sinan Kaloglu,28,Centre-Forward,VfL Bochum,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Rogier Molhoek,27,Defensive Midfield,AZ Alkmaar,?,in,Summer,NA,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Jeroen Drost,22,Left-Back,Heerenveen,?,in,Summer,NA,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Nicky Hofs,26,Attacking Midfield,Feyenoord,?,in,Summer,NA,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Calvin Jong-A-Pin,22,Centre-Back,Heerenveen,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Jop van der Linden,18,Centre-Back,Vit./AGOVV U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Davy Pröpper,17,Central Midfield,Vit./AGOVV U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Giovanni Gravenbeek,21,Central Midfield,VIT/AGOVV U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Gino Felixdaal,19,Centre-Back,Vit./AGOVV U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Rihairo Meulens,21,Right Winger,FC Dordrecht,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Jaime Bruinier,22,Central Midfield,AGOVV Apeldoorn,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Haim Megrelashvili,27,Left-Back,M. Tel Aviv,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Cees Keizer,23,Defensive Midfield,FC Zwolle,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Ricky van Wolfswinkel,20,Centre-Forward,FC Utrecht,£2.52m,out,Summer,2.52,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Nicky Kuiper,20,Left-Back,Twente FC,£675Th.,out,Summer,0.675,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Jaime Bruinier,22,Central Midfield,AGOVV Apeldoorn,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Rihairo Meulens,21,Right Winger,Roda JC,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Sébastien Sansoni,31,Centre-Back,Khimki,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Cees Keizer,23,Defensive Midfield,FC Zwolle,?,out,Summer,NA,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Mads Junker,28,Centre-Forward,Roda JC,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Abubakari Yakubu,27,Defensive Midfield,Without Club,-,out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Haim Megrelashvili,27,Left-Back,Without Club,-,out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Rogier Molhoek,27,Defensive Midfield,AZ Alkmaar,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Jeroen Drost,22,Left-Back,Heerenveen,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Nicky Hofs,26,Attacking Midfield,Feyenoord,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Lasse Nilsson,27,Centre-Forward,Saint-Étienne,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Dalibor Stevanovic,24,Central Midfield,M. Petah Tikva,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Björn Vleminckx,23,Centre-Forward,KV Mechelen,£1.58m,in,Summer,1.58,Eredivisie,2009,2009/2010
+NEC Nijmegen,Erton Fejzullahu,21,Centre-Forward,Mjällby,£468Th.,in,Summer,0.468,Eredivisie,2009,2009/2010
+NEC Nijmegen,Rick ten Voorde,18,Centre-Forward,FC Emmen,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Niels Wellenberg,26,Right-Back,Twente FC,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Ramon Zomer,26,Centre-Back,Twente FC,?,in,Summer,NA,Eredivisie,2009,2009/2010
+NEC Nijmegen,Rens van Eijden,21,Centre-Back,PSV Eindhoven,?,in,Summer,NA,Eredivisie,2009,2009/2010
+NEC Nijmegen,Bram Nuytinck,19,Centre-Back,NEC U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Nicholas Skverer,21,Goalkeeper,NECOss U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Bastian Weiser,19,Central Midfield,NECOss U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Shapoul Ali,18,Centre-Forward,NEC U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Julian Lamers,NA,Defensive Midfield,NEC U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Karim Fachtali,21,Centre-Forward,TOP Oss,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Dominique Scholten,21,Central Midfield,TOP Oss,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Tim Janssen,23,Centre-Forward,Esbjerg fB,£423Th.,out,Summer,0.423,Eredivisie,2009,2009/2010
+NEC Nijmegen,Karim Fachtali,21,Centre-Forward,FC Oss,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Dominique Scholten,21,Central Midfield,FC Oss,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Joel Tshibamba,20,Centre-Forward,FC Oss,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Roddy Kambala,21,Centre-Forward,FC Brüssel,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Mark van den Boogaart,23,Defensive Midfield,Real Murcia,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Jhonny van Beukering,25,Centre-Forward,De Graafschap,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Dani Fernández,26,Right-Back,Arsenal Kyiv,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Rachid Bouaouzan,25,Left Midfield,Wigan,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Ramon Zomer,26,Centre-Back,Twente FC,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Dennis Rommedahl,30,Right Winger,Ajax,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Milano Koenders,22,Centre-Back,AZ Alkmaar U21,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Gerson Sheotahul,22,Centre-Forward,FC Volendam,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Jasper Waalkens,20,Left Winger,PSV U21,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Niki Mäenpää,24,Goalkeeper,FC Den Bosch,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Marciano Bruma,25,Right-Back,Barnsley FC,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Jan-Arie van der Heijden,21,Centre-Back,Ajax,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Marlon Pereira,22,Defensive Midfield,Willem II U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Ratko Vansimpsen,20,Centre-Forward,Willem II U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Ronnie Reniers,21,Right Winger,Willem II U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Josimar Lima,19,Centre-Back,Willem II U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Junior Livramento,21,Left Midfield,Willem II U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,José Valencia,27,Left-Back,FC Eindhoven,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Christophe Grégoire,29,Left Winger,RSC Charleroi,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Ariën Pietersma,22,Goalkeeper,RBC Roosendaal,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Bruno Appels,20,Goalkeeper,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Kiki Musampa,31,Left Winger,New Amsterdam,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Ibad Muhamadu,27,Centre-Forward,Dynamo Dresden,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Nuelson Wau,28,Right-Back,SC Cambuur,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Angelo Martha,27,Centre-Back,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Mohamed Messoudi,25,Attacking Midfield,KV Kortrijk,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Steef Nieuwendaal,23,Defensive Midfield,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Niels Vorthoren,21,Central Midfield,FC Den Bosch,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,José Valencia,27,Left-Back,Wuppertaler SV,?,out,Summer,NA,Eredivisie,2009,2009/2010
+Willem II Tilburg,Oscar Moens,36,Goalkeeper,Without Club,-,out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Danny Mathijssen,26,Defensive Midfield,Without Club,-,out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Rens van Eijden,21,Centre-Back,PSV Eindhoven,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Reimond Manco,18,Attacking Midfield,PSV Eindhoven,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Aleksander Seliga,29,Goalkeeper,NK Celje,£45Th.,in,Summer,0.045,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Donovan Slijngard,21,Left-Back,Ajax,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Emmanuel Boakye,24,Right-Back,Heracles Almelo,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Tim Bakens,26,Centre-Back,FC Volendam,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Darko Bodul,20,Centre-Forward,Ajax,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Romano Denneboom,28,Right Winger,Twente FC,?,in,Summer,NA,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Mehmet Aldogan,20,Right Winger,Sparta U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Nick Viergever,19,Centre-Back,Sparta U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Lerin Duarte,18,Central Midfield,Sparta U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Anthony Bentem,19,Centre-Back,Sparta U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Cees Toet,21,Centre-Back,RBC Roosendaal,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Jeffrey Vlug,23,Right Winger,RBC Roosendaal,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Sander van Gessel,33,Defensive Midfield,FC Edmonton,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Cees Toet,21,Centre-Back,RBC Roosendaal,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Iderlindo Moreno Freire,24,Central Midfield,Penafiel,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Jerold Promes,25,Centre-Back,Telstar,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Kim Jaggy,26,Defensive Midfield,Skoda Xanthi,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Floribert Ngalula,22,Defensive Midfield,M. Petah Tikva,?,out,Summer,NA,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Yuri Rose,30,Attacking Midfield,De Graafs. U21,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Arne Slot,30,Attacking Midfield,FC Zwolle,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Harald Wapenaar,39,Goalkeeper,Retired,-,out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Jeffrey Vlug,23,Right Winger,Without Club,-,out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Krisztián Vermes,23,Centre-Back,Újpest FC,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Cássio,22,Goalkeeper,PSV Eindhoven,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Donovan Slijngard,21,Left-Back,Ajax,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Csaba Horvath,27,Centre-Back,AS Trencin,£180Th.,in,Summer,0.18,Eredivisie,2009,2009/2010
+ADO Den Haag,Raily Ignacio,22,Centre-Forward,Westlandia,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Ricky van den Bergh,28,Attacking Midfield,Heracles Almelo,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Danny van der Ree,20,Centre-Back,Willem II U21,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Lorenzo Piqué,18,Centre-Back,Feyenoord U19,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Barry Ditewig,31,Goalkeeper,Veendam,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Roderick Gielisse,19,Right-Back,ADO U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Serhat Köksal,19,Central Midfield,ADO U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Charlton Vicento,18,Left Winger,ADO U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,René Stam,44,Goalkeeper,Retired,-,in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Hans van de Haar,34,Centre-Forward,AGOVV Apeldoorn,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Levi Schwiebbe,22,Central Midfield,Haarlem,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Virgilio Teixeira,35,Centre-Back,Scheveningen,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Hans van de Haar,34,Centre-Forward,AGOVV Apeldoorn,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Samir El Moussaoui,22,Centre-Back,Excelsior,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Remco Klaasse,20,Centre-Forward,HBS,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Ekrem Kahya,31,Central Midfield,HBS,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Robin Faber,23,Right-Back,FC Eindhoven,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Fabio Caracciolo,24,Centre-Forward,FC Den Bosch,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Tim De Meersman,24,Attacking Midfield,FCV Dender EH,?,out,Summer,NA,Eredivisie,2009,2009/2010
+ADO Den Haag,Berry Powel,29,Centre-Forward,De Graafschap,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,René Stam,44,Goalkeeper,Retired,-,out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Rick Hoogendorp,34,Centre-Forward,VfL Wolfsburg,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Csaba Horvath,27,Centre-Back,AS Trencin,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Peter Reekers,28,Centre-Back,VVV-Venlo,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Elias Pech,20,Central Midfield,Hertha BSC II,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Resit Schuurman,30,Defensive Midfield,De Graafschap,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Antoine van der Linden,33,Centre-Back,Marítimo,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Samuel Armenteros,19,Centre-Forward,Heerenveen,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Andrew Ornoch,23,Centre-Forward,Esbjerg fB,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Marko Vejinović,19,Central Midfield,AZ Alkmaar,?,in,Summer,NA,Eredivisie,2009,2009/2010
+Heracles Almelo,Olivier ter Horst,20,Centre-Back,PSV U21,?,in,Summer,NA,Eredivisie,2009,2009/2010
+Heracles Almelo,Gaby Jallo,20,Left-Back,FC Twente U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Erwin Nieuwboer,19,Attacking Midfield,FC Twente U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Ragnar Klavan,23,Centre-Back,AZ Alkmaar,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Jan Wuytens,24,Centre-Back,FC Utrecht,£810Th.,out,Summer,0.81,Eredivisie,2009,2009/2010
+Heracles Almelo,Ragnar Klavan,23,Centre-Back,AZ Alkmaar,£450Th.,out,Summer,0.45,Eredivisie,2009,2009/2010
+Heracles Almelo,Nino Beukert,21,Forward,SV Meppen,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,John Lubbers,21,Centre-Back,Excelsior '31,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Ricky van den Bergh,28,Attacking Midfield,ADO Den Haag,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Marnix Smit,33,Centre-Back,SVZW Wierden,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Emmanuel Boakye,24,Right-Back,Sparta R.,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Serdar Gökkaya,20,Centre-Forward,Kizilcahamam,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Karim Bridji,27,Attacking Midfield,Heracles U21,-,out,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Remon de Vries,29,Midfielder,Without Club,-,out,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Lukas Bajer,24,Attacking Midfield,Sigma Olomouc,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Heracles Almelo,Bartlomiej Pacuszka,19,Left-Back,FC Twente U21,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Eric Addo,30,Centre-Back,PSV Eindhoven,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Rihairo Meulens,21,Right Winger,Vitesse,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Mads Junker,28,Centre-Forward,Vitesse,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Morten Skoubo,29,Centre-Forward,FC Utrecht,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Kenneth Staelens,18,Left Midfield,Roda JC U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Guus Hupperts,17,Right Winger,Roda JC U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Collin van Eijk,17,Goalkeeper,Roda JC U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Yani Urdinov,18,Left-Back,Roda JC U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Harrie Gommans,26,Centre-Forward,KSV Roeselare,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Jan-Paul Saeijs,31,Centre-Back,Southampton,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Sekou Cissé,24,Centre-Forward,Feyenoord,£3.15m,out,Summer,3.15,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Marcel Meeuwis,28,Defensive Midfield,Bor. M'gladbach,£1.53m,out,Summer,1.53,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Andres Oper,31,Centre-Forward,SH Shenhua,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Dieter Van Tornhout,24,Centre-Forward,EN Paralimniou,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Eric Addo,30,Centre-Back,PSV Eindhoven,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Ruud Boymans,20,Centre-Forward,Fortuna Sittard,£90Th.,in,Summer,0.09,Eredivisie,2009,2009/2010
+VVV-Venlo,Achmed Ahahaoui,26,Left Winger,Go Ahead Eagles,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Dennis Gentenaar,33,Goalkeeper,Ajax,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Patrick Paauwe,33,Centre-Back,Bor. M'gladbach,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Diogo Viana,19,Right-Back,FC Porto,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Henrico Drost,22,Centre-Back,Heerenveen,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Jasar Takak,27,Central Midfield,Without Club,-,in,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Peter Reekers,28,Centre-Back,Heracles Almelo,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Samir El Gaaouiri,25,Left Winger,KSV Roeselare,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Leon Kantelberg,30,Left Winger,FC Eindhoven,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Danny Wintjens,25,Goalkeeper,Fortuna Sittard,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Robert Willemse,20,Defender,Venray,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Mike Mampuya,26,Right-Back,Helmond Sport,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Marnix Kolder,28,Centre-Forward,Veendam,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Rachid Ofrany,22,Right Winger,AGOVV Apeldoorn,Loan,out,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Derk Boerrigter,22,Left Winger,FC Zwolle,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Jeff Stans,19,Defensive Midfield,Excelsior M,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Jürgen Colin,28,Centre-Back,Sporting Gijón,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Ohad Levita,23,Goalkeeper,H. Kfar Saba,Free transfer,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Shkodran Metaj,21,Defensive Midfield,FC Groningen,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Kemy Agustien,22,Defensive Midfield,AZ Alkmaar,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Gijs Luirink,25,Centre-Back,AZ Alkmaar,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Fouad Idabdelhay,21,Centre-Forward,NAC Breda,Loan,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Toby Mulder,19,Centre-Back,RKC U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Maik van den Kieboom,17,Goalkeeper,RKC U19,-,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Eddy Vorm,20,Centre-Forward,RKC U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Hubertson Pauletta,20,Centre-Back,RKC U21,-,in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Kevin van Assouw,20,Defender,FC Eindhoven,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Jordan Remacle,22,Right Winger,RBC Roosendaal,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Kevin Vink,24,Centre-Forward,Excelsior,"End of loanJun 30, 2009",in,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Luwamo Garcia,24,Left Winger,Ethn. Asteras,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Kevin van Assouw,20,Defender,FC Eindhoven,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Ferne Snoyl,24,Left-Back,NAC Breda,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Stef Doedée,22,Goalkeeper,FC Dordrecht,Free transfer,out,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Jordan Remacle,22,Right Winger,RBC Roosendaal,?,out,Summer,NA,Eredivisie,2009,2009/2010
+RKC Waalwijk,Theo Zwarthoed,26,Goalkeeper,FC Volendam,?,out,Summer,NA,Eredivisie,2009,2009/2010
+RKC Waalwijk,Humphrey Rudge,31,Centre-Back,Retired,-,out,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Rob Maas,39,Defensive Midfield,Retired,-,out,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Jordy Brouwer,21,Centre-Forward,Liverpool U23,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Johan Voskamp,24,Centre-Forward,Excelsior,"End of loanJun 30, 2009",out,Summer,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Celso Ortiz,20,Defensive Midfield,Cerro Porteño,?,in,Winter,NA,Eredivisie,2009,2009/2010
+AZ Alkmaar,Jonathas,20,Centre-Forward,AZ Alkmaar U21,-,in,Winter,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Boy Waterman,26,Goalkeeper,ADO Den Haag,"End of loanMar 1, 2010",in,Winter,0,Eredivisie,2009,2009/2010
+AZ Alkmaar,Ari,24,Centre-Forward,Spartak Moscow,£2.70m,out,Winter,2.7,Eredivisie,2009,2009/2010
+AZ Alkmaar,Sébastien Pocognoli,22,Left-Back,Standard Liège,£1.80m,out,Winter,1.8,Eredivisie,2009,2009/2010
+AZ Alkmaar,Kees Luijckx,23,Centre-Back,ADO Den Haag,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Vaqif Dzhavadov,20,Centre-Forward,Qarabag Agdam,£225Th.,in,Winter,0.225,Eredivisie,2009,2009/2010
+Twente Enschede FC,Nikita Rukavytsya,22,Centre-Forward,KSV Roeselare,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Jeroen Heubach,35,Left-Back,NEC Nijmegen,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Twente Enschede FC,Perparim Hetemaj,23,Central Midfield,Brescia,?,out,Winter,NA,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Nicolás Lodeiro,20,Attacking Midfield,Nacional,£3.60m,in,Winter,3.6,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Christian Eriksen,17,Attacking Midfield,Ajax U19,-,in,Winter,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Darío Cvitanich,25,Centre-Forward,CF Pachuca,Loan fee:£576Th.,out,Winter,0.576,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Daley Blind,19,Centre-Back,FC Groningen,Loan fee:£450Th.,out,Winter,0.45,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Javier Martina,22,Right Winger,Haarlem,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Bruno Silva,29,Right-Back,Internacional,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Jeffrey Sarpong,21,Left Winger,NEC Nijmegen,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Ajax Amsterdam,Mitchell Donald,21,Central Midfield,Willem II,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Andy van der Meyde,30,Right Winger,Without Club,-,in,Winter,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Steve Olfers,28,Centre-Back,PSV U21,-,in,Winter,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Danko Lazovic,26,Second Striker,Zenit S-Pb,£4.50m,out,Winter,4.5,Eredivisie,2009,2009/2010
+PSV Eindhoven,Haibin Zhou,24,Defensive Midfield,SD Luneng,Free transfer,out,Winter,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Reimond Manco,19,Attacking Midfield,Juan Aurich,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Stef Nijland,21,Attacking Midfield,Willem II,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+PSV Eindhoven,Jonathan Reis,20,Centre-Forward,Without Club,-,out,Winter,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Filip Djuricic,17,Attacking Midfield,Radnicki Obrenovac,Free transfer,in,Winter,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Philip Haglund,22,Defensive Midfield,Brommapojkarna,?,in,Winter,NA,Eredivisie,2009,2009/2010
+SC Heerenveen,Henk Timmer,38,Goalkeeper,Retired,-,in,Winter,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Paulo Henrique,20,Centre-Forward,Desp. Brasil,£1.35m,out,Winter,1.35,Eredivisie,2009,2009/2010
+SC Heerenveen,Patrik Ingelsten,27,Centre-Forward,Viking FK,£540Th.,out,Winter,0.54,Eredivisie,2009,2009/2010
+SC Heerenveen,Milan Kopic,24,Centre-Back,Slavia Prague,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Tarik Elyounoussi,21,Left Winger,Lillestrøm SK,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+SC Heerenveen,Bonaventure Kalou,31,Right Winger,Retired,-,out,Winter,0,Eredivisie,2009,2009/2010
+FC Groningen,Daley Blind,19,Centre-Back,Ajax,Loan fee:£450Th.,in,Winter,0.45,Eredivisie,2009,2009/2010
+FC Groningen,Tim Sparv,22,Defensive Midfield,Halmstad,Free transfer,in,Winter,0,Eredivisie,2009,2009/2010
+FC Groningen,Theo Lucius,33,Defensive Midfield,Without Club,-,in,Winter,0,Eredivisie,2009,2009/2010
+FC Groningen,Darryl Lachman,19,Centre-Back,FC Groning. U21,-,in,Winter,0,Eredivisie,2009,2009/2010
+FC Groningen,Frank Olijve,20,Central Midfield,FC Groning. U21,-,in,Winter,0,Eredivisie,2009,2009/2010
+FC Groningen,Gonzalo García,26,Second Striker,VVV-Venlo,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+FC Groningen,Michael Jansen,25,Left-Back,Go Ahead Eagles,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Bart Schenkeveld,18,Centre-Back,Feyenoord U19,-,in,Winter,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Mitchell Schet,22,Right Winger,Excelsior,"End of loanFeb 1, 2010",in,Winter,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Andwelé Slory,27,Right Winger,West Brom,Free transfer,out,Winter,0,Eredivisie,2009,2009/2010
+Feyenoord Rotterdam,Aleksandar Ignjatovic,21,Centre-Back,Borac Cacak,"End of loanDec 31, 2009",out,Winter,0,Eredivisie,2009,2009/2010
+NAC Breda,Ömer Bayram,18,Left Midfield,NAC Breda U19,-,in,Winter,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Serginho Greene,27,Defensive Midfield,Without Club,-,in,Winter,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Julian Jenner,25,Right Winger,Rot Weiss Ahlen,Loan fee:£45Th.,out,Winter,0.045,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Jop van der Linden,19,Centre-Back,AGOVV Apeldoorn,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Anduele Pryor,24,Attacking Midfield,KSV Roeselare,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Genaro Snijders,20,Right Winger,FC Omniworld,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Vitesse Arnhem,Frank van der Struijk,24,Right-Back,Willem II,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Jeffrey Sarpong,21,Left Winger,Ajax,Loan,in,Winter,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Jeroen Heubach,35,Left-Back,Twente FC,Loan,in,Winter,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Jhonny van Beukering,26,Centre-Forward,De Graafschap,"End of loanMar 1, 2010",in,Winter,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Joel Tshibamba,21,Centre-Forward,FC Oss,"End of loanDec 31, 2009",in,Winter,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Youssef El Akchaoui,28,Left-Back,FC Augsburg,Loan fee:£90Th.,out,Winter,0.09,Eredivisie,2009,2009/2010
+NEC Nijmegen,Joel Tshibamba,21,Centre-Forward,Arka Gdynia,Free transfer,out,Winter,0,Eredivisie,2009,2009/2010
+NEC Nijmegen,Mostapha El Kabir,21,Centre-Forward,Mjällby,?,out,Winter,NA,Eredivisie,2009,2009/2010
+Willem II Tilburg,Stef Nijland,21,Attacking Midfield,PSV Eindhoven,Loan,in,Winter,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Frank van der Struijk,24,Right-Back,Vitesse,Loan,in,Winter,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Mitchell Donald,21,Central Midfield,Ajax,Loan,in,Winter,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,George Mourad,27,Centre-Forward,Tromsø IL,Free transfer,out,Winter,0,Eredivisie,2009,2009/2010
+Willem II Tilburg,Léo Veloso,22,Left-Back,CFR Cluj,Free transfer,out,Winter,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Milano Koenders,23,Centre-Back,AZ Alkmaar U21,Loan,in,Winter,0,Eredivisie,2009,2009/2010
+Sparta Rotterdam,Tim Bakens,27,Centre-Back,FC Volendam,?,out,Winter,NA,Eredivisie,2009,2009/2010
+ADO Den Haag,Kees Luijckx,23,Centre-Back,AZ Alkmaar,Loan,in,Winter,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Andres Oper,32,Centre-Forward,SH Shenhua,?,in,Winter,NA,Eredivisie,2009,2009/2010
+ADO Den Haag,Jens Toornstra,20,Attacking Midfield,ADO U21,-,in,Winter,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Santy Hulst,23,Attacking Midfield,ADO U21,-,in,Winter,0,Eredivisie,2009,2009/2010
+ADO Den Haag,Boy Waterman,26,Goalkeeper,AZ Alkmaar,"End of loanMar 1, 2010",out,Winter,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Sebastian Svärd,26,Defensive Midfield,Bor. M'gladbach,Free transfer,in,Winter,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Arnold Kruiswijk,25,Centre-Back,RSC Anderlecht,Loan,in,Winter,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Adnan Secerovic,18,Central Midfield,Slaven Zivinice,"End of loanDec 31, 2009",in,Winter,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Edwin Linssen,29,Defensive Midfield,Fortuna Sittard,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+Roda JC Kerkrade,Harrie Gommans,26,Centre-Forward,Fortuna Sittard,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Ruud Boffin,22,Goalkeeper,MVV Maastricht,Loan,in,Winter,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Michael Uchebo,19,Centre-Forward,Enugu Rangers,?,in,Winter,NA,Eredivisie,2009,2009/2010
+VVV-Venlo,Maya Yoshida,21,Centre-Back,Nagoya Grampus,?,in,Winter,NA,Eredivisie,2009,2009/2010
+VVV-Venlo,Gonzalo García,26,Second Striker,FC Groningen,Loan,in,Winter,0,Eredivisie,2009,2009/2010
+VVV-Venlo,Alex Nkume,20,Left-Back,Enugu Rangers,?,in,Winter,NA,Eredivisie,2009,2009/2010
+VVV-Venlo,Keisuke Honda,23,Attacking Midfield,CSKA Moscow,£5.40m,out,Winter,5.4,Eredivisie,2009,2009/2010
+VVV-Venlo,Rick Verbeek,21,Central Midfield,Helmond Sport,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Fred Benson,25,Centre-Forward,SD Luneng,Loan,out,Winter,0,Eredivisie,2009,2009/2010
+RKC Waalwijk,Anton Jongsma,26,Right Winger,Without Club,-,out,Winter,0,Eredivisie,2009,2009/2010

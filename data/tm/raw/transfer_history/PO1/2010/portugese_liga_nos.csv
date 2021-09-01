@@ -1,0 +1,943 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+SL Benfica,Roberto,24,Goalkeeper,Atlético Madrid,£7.65m,in,Summer,7.65,Liga Nos,2010,2010/2011
+SL Benfica,Nico Gaitán,22,Attacking Midfield,Boca Juniors,£7.56m,in,Summer,7.56,Liga Nos,2010,2010/2011
+SL Benfica,Rodrigo,19,Centre-Forward,RM Castilla,£5.40m,in,Summer,5.4,Liga Nos,2010,2010/2011
+SL Benfica,Franco Jara,21,Centre-Forward,Arsenal FC,£4.95m,in,Summer,4.95,Liga Nos,2010,2010/2011
+SL Benfica,Eduardo Salvio,20,Right Winger,Atlético Madrid,Loan fee:£1.80m,in,Summer,1.8,Liga Nos,2010,2010/2011
+SL Benfica,Fábio Faria,21,Centre-Back,Rio Ave FC,£1.80m,in,Summer,1.8,Liga Nos,2010,2010/2011
+SL Benfica,Jan Oblak,17,Goalkeeper,NK Olimpija,£1.53m,in,Summer,1.53,Liga Nos,2010,2010/2011
+SL Benfica,Da Silva,23,Central Midfield,Cruzeiro-RS,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SL Benfica,Roderick Miranda,19,Centre-Back,Benfica U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Saná Camará,18,Central Midfield,Benfica U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Rafael Costa,19,Central Midfield,Benfica U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,José Coelho,20,Attacking Midfield,Paços Ferreira,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Hélio Vaz,19,Right Winger,Tondela,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Jonathan Urretaviscaya,20,Right Winger,Peñarol,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Adriano,19,Right Winger,Atlético CP,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Ivan Santos,21,Left Winger,Atlético CP,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Abel Pereira,20,Centre-Back,Tondela,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,André Soares,20,Right Midfield,Atlético CP,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Romeu Ribeiro,21,Defensive Midfield,Trofense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Fellipe Bastos,20,Central Midfield,Servette FC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Javier Balboa,25,Right Winger,FC Cartagena,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,José Shaffer,25,Left-Back,CA Banfield,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Nélson Oliveira,18,Centre-Forward,Rio Ave FC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Rafik Halliche,23,Centre-Back,Nacional,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Hassan Yebda,26,Central Midfield,Portsmouth,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Miguel Rosa,21,Attacking Midfield,Carregado,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,David Simão,20,Central Midfield,CD Fátima,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Leandro Pimenta,19,Central Midfield,Beira-Mar,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Ishmael Yartey,20,Left Winger,Beira-Mar,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Gilles Binya,25,Centre-Back,Xamax,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Ariza Makukula,29,Centre-Forward,Kayserispor,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Rúben Lima,20,Left-Back,Vitória Setúbal,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Leandro da Silva,21,Centre-Back,Vit. Guimarães,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Marco Zoro,26,Centre-Back,Vitória Setúbal,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Ángel Di María,22,Right Winger,Real Madrid,£29.70m,out,Summer,29.7,Liga Nos,2010,2010/2011
+SL Benfica,Ramires,23,Central Midfield,Chelsea,£19.80m,out,Summer,19.8,Liga Nos,2010,2010/2011
+SL Benfica,Rafik Halliche,23,Centre-Back,Fulham,£2.25m,out,Summer,2.25,Liga Nos,2010,2010/2011
+SL Benfica,Ariza Makukula,29,Centre-Forward,Manisaspor,£1.53m,out,Summer,1.53,Liga Nos,2010,2010/2011
+SL Benfica,Éder Luís,25,Right Winger,Vasco da Gama,Loan fee:£225Th.,out,Summer,0.225,Liga Nos,2010,2010/2011
+SL Benfica,José Shaffer,25,Left-Back,CA Rosario,Loan fee:£207Th.,out,Summer,0.207,Liga Nos,2010,2010/2011
+SL Benfica,Rafael Costa,19,Central Midfield,CD Fátima,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Rúben Lima,20,Left-Back,Beira-Mar,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,José Coelho,20,Attacking Midfield,CD Fátima,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Nélson Oliveira,19,Centre-Forward,Paços Ferreira,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Gilles Binya,25,Centre-Back,Xamax,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Jorge Ribeiro,28,Left Midfield,Vit. Guimarães,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Leandro Pimenta,19,Central Midfield,CD Fátima,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Quim,34,Goalkeeper,Braga,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Saná Camará,18,Central Midfield,Servette FC,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Miguel Rosa,21,Attacking Midfield,Belenenses SAD,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Fellipe Bastos,20,Central Midfield,Vasco da Gama,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Jan Oblak,17,Goalkeeper,Beira-Mar,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Hassan Yebda,26,Central Midfield,SSC Napoli,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Rodrigo,19,Centre-Forward,Bolton,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Romeu Ribeiro,21,Defensive Midfield,Marítimo B,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SL Benfica,Ivan Santos,21,Left Winger,Espinho,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Jonathan Urretaviscaya,20,Right Winger,Dep. La Coruña,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,André Soares,20,Right Midfield,Servette FC,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Ishmael Yartey,20,Left Winger,CD Fátima,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Abel Pereira,20,Centre-Back,CD Fátima,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Miguel Vítor,21,Centre-Back,Leicester,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Hélio Vaz,19,Right Winger,Casa Pia,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,David Simão,20,Central Midfield,Paços Ferreira,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Romain Salin,25,Goalkeeper,Tours FC,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Manuel Curto,23,Defensive Midfield,Estoril,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Robin Previtali,23,Attacking Midfield,FC Sochaux,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,João Pedro,24,Right-Back,Oliveirense,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Orestes,29,Centre-Back,Hansa Rostock,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Manuel Godinho,24,Defensive Midfield,Oliveirense,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Suruca,25,Centre-Back,Bento Gonçalves,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Rogério,25,Centre-Back,Colorado,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Lucas Klysman,20,Centre-Forward,Vit. Guimarães,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Hugo Machado,27,Attacking Midfield,Without Club,-,in,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Mohamed Bellahssan,22,Centre-Forward,Covilhã,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,William-Moses NKake,24,Defensive Midfield,Covilhã,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Diego Ângelo,24,Centre-Back,Genoa,£1.35m,out,Summer,1.35,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Romuald Peiser,30,Goalkeeper,Coimbra,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Omar Bellagra,24,Centre-Forward,AS Khroub,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Mehdi Kerrouche,24,Centre-Forward,Al-Oruba Sur,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Bourama Ouattara,25,Left Winger,Ethn. Piraeus,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,William-Moses NKake,25,Defensive Midfield,US Ivry,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Daniel Cruz,28,Left-Back,FK Qabala,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Bruno Lazaroni,29,Central Midfield,Al-Ettifaq,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Mohamed Bellahssan,22,Centre-Forward,Unknown,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Stevan Kovacevic,22,Central Midfield,Covilhã,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Sekou Baradji,26,Defensive Midfield,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Aboubacar Tandia,26,Centre-Forward,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Moretto,32,Goalkeeper,Brasiliense-DF,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Fernando Alexandre,24,Defensive Midfield,Braga,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Jean-Paul Yontcha,27,Centre-Forward,Belenenses SAD,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Maurício,33,Centre-Back,Feirense,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Nuno Piloto,28,Central Midfield,Iraklis,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Cadu,28,Attacking Midfield,Bnei Sakhnin,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Lulinha,20,Attacking Midfield,Corinthians,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Jorge Gonçalves,26,Right Winger,Racing,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Delson,30,Defensive Midfield,AE Larisa,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Paulo Renato,23,Centre-Back,Sporting CP,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Mexer,21,Centre-Back,Sporting CP,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Adilson,28,Centre-Forward,Marítimo,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Apollon Lemondzhava,19,Centre-Forward,Feyenoord U18,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Olhanense,Vinicius,24,Central Midfield,Desportivo Aves,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Olhanense,Kelvin Maynard,23,Centre-Back,FC Volendam,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Olhanense,Ismaily,20,Left-Back,Desp. Brasil,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Olhanense,Clécio,22,Defensive Midfield,Morrinhos-GO,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Olhanense,Jardel,24,Centre-Back,Desp. Brasil,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Ricardo Batista,23,Goalkeeper,Sporting CP,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Rodrigo Lamardo,22,Attacking Midfield,Louletano,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Jaime,24,Central Midfield,CF Estrela,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Diogo,20,Midfielder,Quarteirense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,André Matias,22,Centre-Forward,Louletano,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Joshua Silva,19,Centre-Back,Quarteirense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Sandro Silva,27,Centre-Back,Penafiel,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Rui Baião,29,Attacking Midfield,CD Fátima,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Ricardo Ferreira,20,Goalkeeper,Marítimo B,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Greg Nwokolo,24,Left Winger,Persija Jakarta,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Jaime,24,Central Midfield,Portosantense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Joshua Silva,19,Centre-Back,Farense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Rodrigo Lamardo,22,Attacking Midfield,Unknown,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Juan Pietravallo,28,Defensive Midfield,Rafaela,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Olhanense,Stéphane Dasse,20,Left-Back,Penafiel,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Fábio Marques,22,Right Winger,Louletano,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Diogo,20,Midfielder,Quarteirense,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Olhanense,Ricardo Campos,24,Goalkeeper,Caldas,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Olhanense,Guga,33,Right Winger,Retired,-,out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Éder Baiano,26,Centre-Back,Rio Preto EC,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Lionn,21,Right-Back,Vit. Guimarães,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Miguel Ângelo,25,Centre-Back,Marítimo,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Rabiola,20,Centre-Forward,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Yazalde,21,Centre-Forward,Braga,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Delson,29,Defensive Midfield,AE Larisa,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Hugo Ventura,22,Goalkeeper,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Tengarrinha,21,Defensive Midfield,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,Ukra,22,Right Winger,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Olhanense,André Castro,22,Central Midfield,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Padraig Amond,22,Centre-Forward,Sligo Rovers,£59Th.,in,Summer,0.059,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Caetano,19,Attacking Midfield,FC Porto U19,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Bura,21,Centre-Back,FC Porto,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Nélson Oliveira,19,Centre-Forward,Benfica,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Lucas Silva,20,Centre-Forward,Aimoré-RS,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,David Simão,20,Central Midfield,Benfica,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Alvarinho,19,Left Winger,Farense,?,in,Summer,NA,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Nuno Santos,30,Left-Back,Santa Clara,?,in,Summer,NA,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Javier Cohene,23,Centre-Back,Luqueño,?,in,Summer,NA,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Samuel,22,Centre-Back,Atlético-MG,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Renan,27,Centre-Back,Without Club,-,in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Mario Rondón,24,Centre-Forward,Beira-Mar,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Abdramane Diarra,21,Centre-Forward,Beira-Mar,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Jorginho,22,Right Winger,Oliveirense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Pedro Queirós,25,Right-Back,Oliveirense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Kiko,31,Centre-Back,Gil Vicente,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Diogo Brandão,20,Attacking Midfield,Rebordosa AC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Cristelo,21,Central Midfield,Rebordosa AC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Danielson,29,Centre-Back,Nacional,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Leandrinho,24,Centre-Forward,LD Alajuelense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Kelly Berville,32,Left-Back,APOP Kinyras,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Berlin,22,Centre-Forward,Chonburi FC,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Leal,22,Central Midfield,Aliados Lordelo,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Diogo Brandão,20,Attacking Midfield,Aliados Lordelo,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Carlitos,21,Right-Back,Oliveirense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Fábio Pacheco,22,Defensive Midfield,Oliveirense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Ricardo,29,Centre-Back,Vit. Guimarães,?,out,Summer,NA,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Cristelo,21,Central Midfield,Aliados Lordelo,?,out,Summer,NA,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Kiko,31,Centre-Back,Arouca,?,out,Summer,NA,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Abdramane Diarra,22,Centre-Forward,GD Tourizense,?,out,Summer,NA,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Livramento,28,Attacking Midfield,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,José Coelho,20,Attacking Midfield,Benfica,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Daniel Candeias,22,Right Winger,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Romuald Peiser,30,Goalkeeper,Naval,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,David Addy,20,Left-Back,FC Porto,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Diogo Valente,25,Left Winger,Braga,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Diogo Melo,26,Defensive Midfield,Portimonense,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Miguel Fidalgo,28,Centre-Forward,Nacional,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Júnior Paraíba,22,Central Midfield,Anápolis-GO,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Hugo Morais,32,Central Midfield,Leixões,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Académica Coimbra,Enrique Carreño,23,Centre-Forward,Sevilla Atl.,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Académica Coimbra,Laionel,24,Right Winger,Anápolis-GO,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Pape Sow,24,Centre-Back,Without Club,-,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Paulo Grilo,18,Defensive Midfield,Académica U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Gerso,19,Left Winger,Académica U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,João Figueiredo,18,Goalkeeper,Académica U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Ibrahim Sissoko,18,Right Winger,Académica U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Gaoussou Fofana,26,Right Winger,Santa Clara,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Amaury Bischoff,23,Central Midfield,Desportivo Aves,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Gonçalo,23,Defensive Midfield,Santa Clara,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Pedro Ribeiro,22,Centre-Forward,Covilhã,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Flávio Ferreira,18,Centre-Back,GD Tourizense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Luisinho,20,Right Midfield,F. Algodres,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Traquina,21,Right Winger,GD Tourizense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Emídio Rafael,24,Left-Back,FC Porto,£360Th.,out,Summer,0.36,Liga Nos,2010,2010/2011
+Académica Coimbra,Lito,35,Right Winger,Portimonense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Gerso,19,Left Winger,GD Tourizense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Traquina,21,Right Winger,FC Pampilhosa,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Pedro Ribeiro,22,Centre-Forward,Covilhã,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Krum Bibishkov,27,Centre-Forward,H. Ramat Gan,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Jonathan Bru,25,Defensive Midfield,Oliveirense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Paulo Sérgio,28,Defensive Midfield,Leiria,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,João Ribeiro,22,Left Winger,Vit. Guimarães,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,André Fontes,25,Attacking Midfield,Feirense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Cris,26,Defensive Midfield,Asteras Tripoli,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,William Kwabena Tiero,29,Attacking Midfield,CSKA Sofia,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Gaoussou Fofana,26,Right Winger,Covilhã,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Patrick Vouho,23,Centre-Forward,Covilhã,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Flávio Ferreira,18,Centre-Back,Covilhã,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Bruno Silva,19,Left-Back,Esp. Lagos,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Luisinho,20,Right Midfield,FC Pampilhosa,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Académica Coimbra,Gonçalo,23,Defensive Midfield,Desportivo Aves,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Rui Nereu,24,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Pedro Roma,39,Goalkeeper,Retired,-,out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Miguel Fidalgo,28,Centre-Forward,Nacional,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Bruno Amaro,27,Central Midfield,Nacional,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Serge N'Gal,24,Right Winger,Gimnàstic,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Marcos Paulo,21,Central Midfield,Le Mans FC,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Paulo Sérgio,28,Defensive Midfield,Coimbra,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Diogo Amado,20,Defensive Midfield,Sporting CP,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Leandro Lima,24,Attacking Midfield,FC Porto,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Arthuro,27,Centre-Forward,Al-Dhafra SCC,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Milos Obradovic,23,Left-Back,Mladost,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Gottardi,24,Goalkeeper,Toledo,?,in,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Rodrigo Silva,27,Centre-Forward,Nacional,?,in,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Chengdong Zhang,21,Right Winger,Mafra,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Renato Saldanha,26,Centre-Back,Toledo,?,in,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Rúben Brígido,19,Attacking Midfield,Leiria U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Alberto,21,Centre-Forward,Covilhã,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Hammes,22,Centre-Back,Covilhã,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Maciel,33,Centre-Forward,Trofense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Mamadi,31,Centre-Back,CD Fátima,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Márcio,26,Right-Back,Espinho,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Miguel Paixão,26,Attacking Midfield,CD Fátima,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Ousséni Zongo,25,Defensive Midfield,Arouca,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Bruno Cepeda,20,Central Midfield,Serra,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Thiago Leal,25,Goalkeeper,Carregado,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Figa,20,Right Winger,Monsanto,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Cássio,26,Centre-Forward,Rapid Bucharest,£810Th.,out,Summer,0.81,Liga Nos,2010,2010/2011
+União de Leiria,Elias,28,Defensive Midfield,Portimonense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Issouf Ouattara,21,Centre-Forward,Trofense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Seydou Koné,27,Centre-Forward,Pau FC,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Miguel Paixão,26,Attacking Midfield,Oriental,?,out,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Ousséni Zongo,25,Defensive Midfield,Tondela,?,out,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Hammes,22,Centre-Back,Atl. Reguengos,?,out,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Alberto,21,Centre-Forward,Atl. Reguengos,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Bruno Cepeda,20,Central Midfield,Sertanense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Mamadi,31,Centre-Back,Pinhalnovense,?,out,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Vítor Moreno,29,Right-Back,AD Ceuta,?,out,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Nuno Gomes,31,Centre-Back,Covilhã,?,out,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Pedro Cervantes,28,Attacking Midfield,Desportivo Aves,?,out,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Hélder Godinho,32,Goalkeeper,Desportivo Aves,?,out,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Maciel,33,Centre-Forward,Freamunde,?,out,Summer,NA,Liga Nos,2010,2010/2011
+União de Leiria,Thiago Leal,25,Goalkeeper,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Figa,20,Right Winger,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Márcio,26,Right-Back,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,André Santos,21,Defensive Midfield,Sporting CP,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Ronny,24,Attacking Midfield,Sporting CP,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+União de Leiria,Rafael Bitencourt,23,Attacking Midfield,Joinville-SC,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Saulo,28,Right Winger,Celta de Vigo,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Bruno China,27,Central Midfield,RCD Mallorca,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Yazalde,21,Centre-Forward,Braga,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,André Geraldes,19,Right-Back,FC Maia Lidador,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Carlos Milhazes,29,Left-Back,Vit. Guimarães,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Renato Santos,18,Right Winger,Sporting U19,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Paulo Santos,37,Goalkeeper,Estoril,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Mário Felgueiras,23,Goalkeeper,Braga,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Tiago Pinto,22,Left-Back,Braga,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Rio Ave FC,Cícero,24,Centre-Forward,Oliveirense,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Rio Ave FC,João Tomás,35,Centre-Forward,Shabab,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Rio Ave FC,Fábio Felicio,28,Central Midfield,Vit. Guimarães,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Rio Ave FC,João Mendes,22,Right Winger,Braga,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Rio Ave FC,Braga,27,Right Midfield,Leixões,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Rio Ave FC,Júlio Alves,19,Central Midfield,Rio Ave FC U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Ricardo Martins,20,Central Midfield,Gondomar,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,André Serrão,24,Central Midfield,Vizela,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Fábio Faria,21,Centre-Back,Benfica,£1.80m,out,Summer,1.8,Liga Nos,2010,2010/2011
+Rio Ave FC,Sílvio,22,Right-Back,Braga,£270Th.,out,Summer,0.27,Liga Nos,2010,2010/2011
+Rio Ave FC,André Vilas Boas,27,Centre-Back,Marítimo,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Carlos Fernandes,30,Goalkeeper,Bucaspor,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Philip Chidi Onyemah,26,Centre-Forward,Olympiakos N.,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Tiago Terroso,22,Defensive Midfield,Varzim,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,André Geraldes,19,Right-Back,Chaves,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Bruno Fogaça,28,Centre-Forward,Bragantino,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Júlio Alves,19,Central Midfield,GD Ribeirão,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,André Serrão,24,Central Midfield,GD Ribeirão,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Rio Ave FC,Ricardo Martins,20,Central Midfield,GD Ribeirão,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Renato Santos,18,Right Winger,Moreirense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Wesllem,25,Left Winger,Penafiel,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Rio Ave FC,Evandro,36,Left Winger,Clube Atlético Guaçuano (SP),?,out,Summer,NA,Liga Nos,2010,2010/2011
+Rio Ave FC,Magno,25,Right-Back,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Adriano,22,Right-Back,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Bruno Mendes,34,Centre-Back,Retired,-,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Mora,36,Goalkeeper,Retired,-,out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Nélson Oliveira,18,Centre-Forward,Benfica,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Bruno Moraes,25,Centre-Forward,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Mahamadou N'Diaye,20,Centre-Back,Wydad AC,£450Th.,in,Summer,0.45,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Marcelo Toscano,25,Centre-Forward,Paraná,£450Th.,in,Summer,0.45,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Bebé,19,Left Winger,CF Estrela,£45Th.,in,Summer,0.045,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,João Ribeiro,22,Left Winger,Coimbra,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Jorge Ribeiro,28,Left Midfield,Benfica,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Cléber,30,Defensive Midfield,Nacional,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Edson Sitta,27,Defensive Midfield,Ceará SC,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Faouzi Abdelghani,25,Left Winger,Wydad AC,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,João Paulo,29,Centre-Back,Le Mans FC,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Marcelo Resende,23,Attacking Midfield,CF Estrela,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Marco Matias,21,Right Winger,Sporting CP,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Maranhão,25,Centre-Forward,Anápolis-GO,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Bruno Pereirinha,22,Right Winger,Sporting CP,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,William,27,Centre-Forward,Anzhi,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Santiago Ostolaza,22,Defensive Midfield,Racing Club,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Freire,20,Centre-Back,União São João,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Anderson Mineiro,24,Left-Back,Náutico,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Edgar Silva,23,Centre-Forward,Vasco da Gama,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Ricardo,29,Centre-Back,Paços Ferreira,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Siaka Bamba,21,Defensive Midfield,Feirense,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Kamani Hill,24,Centre-Forward,Desportivo Aves,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Vítor Bastos,20,Centre-Back,Vizela,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Lionn,21,Right-Back,Olhanense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Paulo Henrique,23,Defensive Midfield,Varzim,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Lucas Klysman,20,Centre-Forward,GD Serzedelo,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,David Mendieta,23,Attacking Midfield,Gondomar,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Dinis,20,Defensive Midfield,Vizela,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Bebé,20,Left Winger,Man Utd,£7.92m,out,Summer,7.92,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Nuno Assis,32,Attacking Midfield,Ittihad,£720Th.,out,Summer,0.72,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Moreno,28,Centre-Back,Leicester,£360Th.,out,Summer,0.36,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Custódio,27,Defensive Midfield,Braga,£90Th.,out,Summer,0.09,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Yves Desmarets,30,Left Winger,Dep. La Coruña,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Valdomiro,30,Centre-Back,Vitória Setúbal,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Carlos Milhazes,29,Left-Back,Rio Ave FC,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Cláudio Ramos,18,Goalkeeper,Amarante,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Vítor Bastos,20,Centre-Back,Freamunde,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Carlitos,33,Right Winger,Gil Vicente,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Andrézinho,28,Right-Back,1. FC Köln,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Roberto,31,Centre-Forward,Asteras Tripoli,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Marco Aurélio,23,Left Winger,Marítimo,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Renan,24,Defensive Midfield,Beira-Mar,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Marco Matias,21,Right Winger,Freamunde,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Lucas Klysman,20,Centre-Forward,Naval,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Marcelo Resende,23,Attacking Midfield,Freamunde,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Fábio Felicio,28,Central Midfield,Rio Ave FC,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Santiago Ostolaza,22,Defensive Midfield,Freamunde,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Dinis,20,Defensive Midfield,AD Lousada,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Paulo Henrique,23,Defensive Midfield,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Jorge Gonçalves,26,Right Winger,Racing,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Gustavo Lazzaretti,26,Centre-Back,Atlético-PR,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Leandro da Silva,21,Centre-Back,Benfica,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Rúben Lima,20,Left-Back,Benfica,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Sérgio Oliveira,18,Central Midfield,FC Porto,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Wilson Eduardo,19,Left Winger,Sporting CP,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Leandro Tatu,28,Second Striker,Santa Clara,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Paes,27,Goalkeeper,Avaí FC,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Jan Oblak,17,Goalkeeper,Benfica,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Ronny,27,Centre-Forward,América-RN,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Renan Meduna,21,Midfielder,Rio Branco,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Alex Maranhão,25,Attacking Midfield,Juazeiro Empreendimentos Esportivos (CE),Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Renan,24,Defensive Midfield,Vit. Guimarães,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,João Luiz,25,Defensive Midfield,Marítimo,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,André Marques,22,Left-Back,Sporting CP,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Danilo,30,Right-Back,Chaves,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Luis Tinoco,23,Left-Back,Vianense,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Rui Rego,29,Goalkeeper,Chaves,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Hugo Seixas,19,Forward,Beira-Mar U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Renato,21,Goalkeeper,Avanca,"End of loanJul 1, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Jonathan,23,Right-Back,Avanca,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Tiago Barros,22,Central Midfield,Lus. Lourosa,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Jaime Simões,21,Centre-Back,Avanca,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Fabeta,23,Centre-Back,Santa Clara,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Jonathan,23,Right-Back,Alba,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Filipe Melo,20,Defensive Midfield,Espinho,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Gang Wang,22,Right-Back,SD Luneng,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Fary,35,Centre-Forward,Desportivo Aves,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Élio Martins,25,Centre-Forward,Doxa Katokopias,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Alexis Martins,27,Central Midfield,Oliveira Bairro,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Renato,21,Goalkeeper,Espinho,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Cuco,28,Central Midfield,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Jérôme Palatsi,40,Goalkeeper,Retired,-,out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Ishmael Yartey,20,Left Winger,Benfica,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Leandro Pimenta,19,Central Midfield,Benfica,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Mario Rondón,24,Centre-Forward,Paços Ferreira,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Abdramane Diarra,21,Centre-Forward,Paços Ferreira,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Sidnei,24,Central Midfield,Marítimo B,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Igor Pita,21,Left-Back,Nacional,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Vangelis Mantzios,27,Centre-Forward,Panathinaikos,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,André Vilas Boas,27,Centre-Back,Rio Ave FC,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Marco Aurélio,23,Left Winger,Vit. Guimarães,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Christos Melissis,27,Centre-Back,Panathinaikos,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Héldon,21,Left Winger,CD Fátima,?,in,Summer,NA,Liga Nos,2010,2010/2011
+CS Marítimo,Adilson,28,Centre-Forward,Feirense,?,in,Summer,NA,Liga Nos,2010,2010/2011
+CS Marítimo,Marafona,23,Goalkeeper,Varzim,?,in,Summer,NA,Liga Nos,2010,2010/2011
+CS Marítimo,Ricardo Esteves,30,Right Midfield,FC Seoul,?,in,Summer,NA,Liga Nos,2010,2010/2011
+CS Marítimo,Luciano Amaral,27,Left-Back,Villa Rio,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Danilo Dias,24,Left Winger,Ipatinga FC,?,in,Summer,NA,Liga Nos,2010,2010/2011
+CS Marítimo,Júlio César,31,Centre-Back,Without Club,-,in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Valentin Roberge,23,Centre-Back,Without Club,-,in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Sami,21,Left Winger,Marítimo B,-,in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Sidnei,24,Central Midfield,Marítimo B,-,in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Gonçalo Abreu,24,Right Winger,Varzim,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Fernando Cardozo,31,Centre-Back,Leixões,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Miguelito,29,Left-Back,Belenenses SAD,"End of loanJun 1, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Olberdam,25,Central Midfield,Braga,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Balú,25,Defensive Midfield,Portimonense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Miguel Ângelo,25,Centre-Back,Olhanense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Vítor Júnior,25,Forward,Varzim,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Manú,27,Right Winger,Legia Warszawa,£90Th.,out,Summer,0.09,Liga Nos,2010,2010/2011
+CS Marítimo,Takahito Soma,28,Left-Back,Energie Cottbus,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Olberdam,25,Central Midfield,Atlético-PR,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Miguelito,29,Left-Back,Vitória Setúbal,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Cláudio Pitbull,28,Centre-Forward,Vitória Setúbal,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Vítor Júnior,25,Forward,Guarani,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Balú,25,Defensive Midfield,Belenenses SAD,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Paulo Jorge,29,Right Winger,Ittihad,?,out,Summer,NA,Liga Nos,2010,2010/2011
+CS Marítimo,João Luiz,25,Defensive Midfield,Beira-Mar,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Tito Silva,24,Midfielder,Varzim,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Miguel Ângelo,25,Centre-Back,APOP Kinyras,?,out,Summer,NA,Liga Nos,2010,2010/2011
+CS Marítimo,Gonçalo Abreu,24,Right Winger,Feirense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Adilson,28,Centre-Forward,Olhanense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Bruno Fernandes,36,Central Midfield,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Fernando Cardozo,31,Centre-Back,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Mateusz Bak,27,Goalkeeper,Lechia Gdansk,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+CS Marítimo,Mourtala Diakité,29,Centre-Back,Belenenses SAD,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Getúlio Vargas,27,Goalkeeper,Duque de Caxias,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Valdomiro,30,Centre-Back,Vit. Guimarães,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Michel,25,Right-Back,Guaratinguetá,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Jaílson,29,Centre-Forward,Ermis Aradippou,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Hugo Leal,30,Central Midfield,UD Salamanca,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Cláudio Pitbull,28,Centre-Forward,Marítimo,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Zeca,21,Central Midfield,Casa Pia,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Miguelito,29,Left-Back,Marítimo,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,José Pedro,31,Central Midfield,Belenenses SAD,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Silva,25,Defensive Midfield,Duque de Caxias,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Diego,31,Goalkeeper,Leixões,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Bruno Gallo,22,Central Midfield,Vasco da Gama,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Anderson do Ó,29,Centre-Back,AE Pafos,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Sassá,22,Left Winger,Bangu-RJ,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Ney Santos,29,Defensive Midfield,Braga,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Brasão,28,Centre-Forward,Santa Cruz,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Miguel Lourenço,18,Centre-Back,Setúbal U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Adul Baldé,21,Centre-Forward,Covilhã,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Joãozinho,20,Right Winger,Covilhã,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Pimenta,24,Left Winger,Covilhã,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Bruno Severino,24,Right Winger,Desportivo Aves,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,André Moretto,23,Goalkeeper,Sertanense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Álvaro Fernández,24,Central Midfield,U. de Chile,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Moisés,19,Right Winger,Aljustrelense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Ricardo Dâmaso,19,Defensive Midfield,Aljustrelense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Bruno Lourenço,20,Centre-Back,Aljustrelense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Nuno Santos,31,Goalkeeper,Portimonense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Miguel Lourenço,18,Centre-Back,Casa Pia,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Pimenta,25,Left Winger,Oliveirense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Filipe Brigues,20,Right-Back,Santa Clara,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Przemyslaw Kazmierczak,28,Defensive Midfield,Slask Wroclaw,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Bruno Lourenço,20,Centre-Back,GD Tourizense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Steve Antunes,19,Central Midfield,Com. Indústria,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Ricardo Dâmaso,19,Defensive Midfield,Madalena,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Joãozinho,20,Right Winger,Independente-SP,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Luís Carlos,27,Left Winger,Belenenses SAD,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Lourenço,30,Defensive Midfield,Desportivo Aves,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Sandro Mendes,33,Defensive Midfield,AD Ceuta,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Aurélien Collin,25,Centre-Back,Kansas,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Álvaro Fernández,24,Central Midfield,Sounders FC,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Moisés,19,Right Winger,Madalena,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Bruno Monteiro,25,Central Midfield,Santa Clara,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Bruno Severino,24,Right Winger,Covilhã,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Adul Baldé,21,Centre-Forward,Pinhalnovense,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Ladji Keita,27,Centre-Forward,Braga,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Bruno Ribeiro,34,Left Midfield,Retired,-,out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Marco Zoro,26,Centre-Back,Benfica,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Hélder Barbosa,23,Left Winger,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,André Pinto,20,Centre-Back,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Rúben Lima,20,Left-Back,Benfica,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Mário Felgueiras,23,Goalkeeper,Braga,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Rui Fonte,20,Centre-Forward,Sporting CP,"End of loanJun 1, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Ney Santos,29,Defensive Midfield,Braga,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Sílvio,22,Right-Back,Rio Ave FC,£270Th.,in,Summer,0.27,Liga Nos,2010,2010/2011
+SC Braga,Custódio,27,Defensive Midfield,Vit. Guimarães,£90Th.,in,Summer,0.09,Liga Nos,2010,2010/2011
+SC Braga,Leandro Salino,25,Right-Back,Nacional,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Hugo Viana,27,Central Midfield,Valencia,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Artur Moraes,29,Goalkeeper,AS Roma,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,George Lucas,26,Right-Back,Santos FC,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Lima,27,Centre-Forward,Astral,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Quim,34,Goalkeeper,Benfica,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Elderson,22,Left-Back,Stade Rennais,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,José Collado,20,Centre-Forward,Villarreal CF B,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Ladji Keita,27,Centre-Forward,Vitória Setúbal,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Braga,Léo Fortunato,27,Centre-Back,Cruzeiro,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Élton,25,Centre-Forward,Olé Brasil,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Eduardo Neto,21,Defensive Midfield,Villa Rio,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Felipe,26,Goalkeeper,Olé Brasil,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Hélder Barbosa,23,Left Winger,FC Porto,?,in,Summer,NA,Liga Nos,2010,2010/2011
+SC Braga,Luis Aguiar,24,Central Midfield,Dynamo Moscow,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Jaka,19,Centre-Back,Braga U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Rui Vieira,18,Goalkeeper,Braga U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Guilherme,19,Right Winger,Braga U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Aníbal Capela,19,Centre-Back,Braga U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Marcos,34,Goalkeeper,Without Club,-,in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Aníbal Capela,20,Centre-Back,Vizela,"End of loanJun 30, 2011",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Mário Felgueiras,23,Goalkeeper,Vitória Setúbal,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Dani Coelho,20,Right-Back,CF Estrela,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Palmeira,20,Centre-Back,CF Estrela,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Kazeem,22,Attacking Midfield,Oliveira Douro,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Ney Santos,29,Defensive Midfield,Vitória Setúbal,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Diego Silva,20,Goalkeeper,Covilhã,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,João Mendes,22,Right Winger,Varzim,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Yazalde,21,Centre-Forward,Olhanense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Fernando Alexandre,24,Defensive Midfield,Leixões,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Edu,20,Midfielder,Vizela,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Eduardo,27,Goalkeeper,Genoa,£4.05m,out,Summer,4.05,Liga Nos,2010,2010/2011
+SC Braga,Evaldo,28,Left-Back,Sporting CP,£2.70m,out,Summer,2.7,Liga Nos,2010,2010/2011
+SC Braga,André Leone,31,Centre-Back,Sport Recife,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Rui Vieira,18,Goalkeeper,Maria da Fonte,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Mário Felgueiras,23,Goalkeeper,Rio Ave FC,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Yazalde,21,Centre-Forward,Rio Ave FC,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Cristiano Figueiredo,19,Goalkeeper,Vizela,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Rafael Bastos,25,Second Striker,CFR Cluj,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Kazeem,22,Attacking Midfield,Castelo Branco,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Guilherme,19,Right Winger,Vizela,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Filipe Oliveira,26,Right Winger,Parma,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Pawel Kieszek,26,Goalkeeper,FC Porto,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Diogo Valente,25,Left Winger,Coimbra,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Fernando Alexandre,24,Defensive Midfield,Olhanense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Aníbal Capela,19,Centre-Back,Vizela,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Jaka,19,Centre-Back,Santa Maria,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Rômulo,17,Centre-Forward,Leixões,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Braga,José Collado,20,Centre-Forward,Atl. Madrid B,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Palmeira,20,Centre-Back,Vizela,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Ney Santos,29,Defensive Midfield,Vitória Setúbal,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Braga,João Mendes,22,Right Winger,Rio Ave FC,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Braga,Edu,20,Midfielder,Valenciano,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Braga,Ángelo Peña,20,Central Midfield,Portimonense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Dani Coelho,20,Right-Back,Vizela,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Peterson Joseph,20,Central Midfield,Vizela,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Tiago Pinto,22,Left-Back,Rio Ave FC,?,out,Summer,NA,Liga Nos,2010,2010/2011
+SC Braga,Adriano,31,Centre-Forward,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Eduardo Neto,22,Defensive Midfield,Villa Rio,"End of loanNov 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Hugo Viana,27,Central Midfield,Valencia,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Olberdam,25,Central Midfield,Marítimo,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Wason Rentería,24,Centre-Forward,FC Porto,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SC Braga,Osvaldo,23,Second Striker,Al-Ahli (UAE),"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Rene Mihelic,21,Attacking Midfield,NK Maribor,£810Th.,in,Summer,0.81,Liga Nos,2010,2010/2011
+CD Nacional,Dejan Skolnik,21,Left Midfield,NK Maribor,£450Th.,in,Summer,0.45,Liga Nos,2010,2010/2011
+CD Nacional,Rômullo,18,Central Midfield,Cruzeiro,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Claudemir,25,Defensive Midfield,América-RJ,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Orlando Sá,22,Centre-Forward,FC Porto,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Danielson,29,Centre-Back,Paços Ferreira,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Danijel Stojanovic,25,Left-Back,Zrinjski Mostar,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Vladan Giljen,20,Goalkeeper,Sutjeska Niksic,?,in,Summer,NA,Liga Nos,2010,2010/2011
+CD Nacional,Daniel Candeias,22,Right Winger,FC Porto,?,in,Summer,NA,Liga Nos,2010,2010/2011
+CD Nacional,Márcio Madeira,24,Left Winger,Juv. Évora,?,in,Summer,NA,Liga Nos,2010,2010/2011
+CD Nacional,Douglas Pará,20,Forward,Angra-RJ,?,in,Summer,NA,Liga Nos,2010,2010/2011
+CD Nacional,Ricardo Fernandes,18,Central Midfield,Nacional U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Michael John Weir,19,Centre-Back,Nacional U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Miguel Fidalgo,28,Centre-Forward,Coimbra,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Bruno Amaro,27,Central Midfield,Coimbra,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Juninho Arcanjo,27,Attacking Midfield,EC Bahia,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Igor Pita,21,Left-Back,Beira-Mar,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Amar Zildzovic,20,Defensive Midfield,Pontassolense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Filipe da Costa,25,Left Winger,Estoril,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Filipe da Costa,26,Left Winger,Estoril,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Leandro Salino,25,Right-Back,Braga,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Igor Pita,21,Left-Back,Doxa Katokopias,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Marco Airosa,25,Right-Back,Desportivo Aves,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Pajetat Douglas,24,Goalkeeper,Freamunde,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Cléber,30,Defensive Midfield,Vit. Guimarães,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Amar Zildzovic,20,Defensive Midfield,Camacha,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Miguel Fidalgo,28,Centre-Forward,Coimbra,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Daniel Candeias,22,Right Winger,Portimonense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Abdou,21,Central Midfield,Gloria Bistrita,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Juliano Mineiro,24,Attacking Midfield,Najran SC,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Rodrigo Silva,27,Centre-Forward,Leiria,?,out,Summer,NA,Liga Nos,2010,2010/2011
+CD Nacional,Kristijan Pavlovic,20,Centre-Forward,Unknown,?,out,Summer,NA,Liga Nos,2010,2010/2011
+CD Nacional,Michael John Weir,19,Centre-Back,Camacha,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Lazar Jovisic,21,Goalkeeper,Chern. Burgas,?,out,Summer,NA,Liga Nos,2010,2010/2011
+CD Nacional,Rafik Halliche,23,Centre-Back,Benfica,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Edgar Silva,23,Centre-Forward,Vasco da Gama,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+CD Nacional,Pedro Pacheco,26,Central Midfield,Santa Clara,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,João Moutinho,23,Central Midfield,Sporting CP,£9.90m,in,Summer,9.9,Liga Nos,2010,2010/2011
+FC Porto,James Rodríguez,18,Attacking Midfield,CA Banfield,£6.62m,in,Summer,6.62,Liga Nos,2010,2010/2011
+FC Porto,Walter,20,Centre-Forward,Internacional,£5.40m,in,Summer,5.4,Liga Nos,2010,2010/2011
+FC Porto,Nicolás Otamendi,22,Centre-Back,Vélez Sarsfield,£3.60m,in,Summer,3.6,Liga Nos,2010,2010/2011
+FC Porto,Josef,21,Defensive Midfield,Vasco da Gama,£2.70m,in,Summer,2.7,Liga Nos,2010,2010/2011
+FC Porto,Emídio Rafael,24,Left-Back,Coimbra,£360Th.,in,Summer,0.36,Liga Nos,2010,2010/2011
+FC Porto,Pawel Kieszek,26,Goalkeeper,Braga,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Henrique Sereno,25,Centre-Back,Real Valladolid,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,William Soares,21,Defensive Midfield,Vila Nova FC,?,in,Summer,NA,Liga Nos,2010,2010/2011
+FC Porto,Ivo Pinto,20,Right-Back,Covilhã,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Abdoulaye Ba,19,Centre-Back,FC Porto U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Sérgio Oliveira,18,Central Midfield,FC Porto U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Ricardo Dias,19,Defensive Midfield,FC Porto U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Bruno Moraes,25,Centre-Forward,Rio Ave FC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Nelson Benítez,26,Left-Back,San Lorenzo,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Wason Rentería,24,Centre-Forward,Braga,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Jorge Monteiro,21,Right Winger,Covilhã,"End of loanJun 1, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Sebastián Prediger,23,Defensive Midfield,Boca Juniors,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Jorge Chula,20,Right Winger,GD Tourizense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Pedro Moreira,21,Central Midfield,Gil Vicente,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Bruno Vale,27,Goalkeeper,Belenenses SAD,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Rabiola,20,Centre-Forward,Olhanense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Josué,19,Attacking Midfield,Penafiel,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Daniel Candeias,22,Right Winger,Paços Ferreira,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Bura,21,Centre-Back,Penafiel,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,André Castro,22,Central Midfield,Olhanense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Cristian Sapunaru,26,Centre-Back,Rapid Bucharest,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Rui Pedro,21,Attacking Midfield,Gil Vicente,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Hugo Ventura,22,Goalkeeper,Olhanense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,André Pinto,20,Centre-Back,Vitória Setúbal,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Steven Vitória,23,Centre-Back,Covilhã,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Milan Stepanov,27,Centre-Back,Málaga CF,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Tengarrinha,21,Defensive Midfield,Olhanense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Hélder Barbosa,23,Left Winger,Vitória Setúbal,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Leandro Lima,24,Attacking Midfield,Cruzeiro,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Pelé,22,Central Midfield,Real Valladolid,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Ukra,22,Right Winger,Olhanense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Bruno Alves,28,Centre-Back,Zenit S-Pb,£19.80m,out,Summer,19.8,Liga Nos,2010,2010/2011
+FC Porto,Raúl Meireles,27,Central Midfield,Liverpool,£11.70m,out,Summer,11.7,Liga Nos,2010,2010/2011
+FC Porto,Ernesto Farías,30,Centre-Forward,Cruzeiro,£990Th.,out,Summer,0.99,Liga Nos,2010,2010/2011
+FC Porto,Nuno André Coelho,24,Centre-Back,Sporting CP,£900Th.,out,Summer,0.9,Liga Nos,2010,2010/2011
+FC Porto,Milan Stepanov,27,Centre-Back,Bursaspor,£720Th.,out,Summer,0.72,Liga Nos,2010,2010/2011
+FC Porto,Pelé,22,Central Midfield,Eskisehirspor,£612Th.,out,Summer,0.612,Liga Nos,2010,2010/2011
+FC Porto,Sebastián Prediger,23,Defensive Midfield,Cruzeiro,Loan fee:£180Th.,out,Summer,0.18,Liga Nos,2010,2010/2011
+FC Porto,David Addy,20,Left-Back,Coimbra,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Bruno Moraes,26,Centre-Forward,Gloria Bistrita,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Leandro Lima,24,Attacking Midfield,Leiria,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Sérgio Oliveira,18,Central Midfield,Beira-Mar,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Steven Vitória,23,Centre-Back,Estoril,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,André Pinto,20,Centre-Back,Portimonense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Hugo Ventura,22,Goalkeeper,Portimonense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Bruno Vale,27,Goalkeeper,Oliveirense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Josué,19,Attacking Midfield,VVV-Venlo,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Rabiola,20,Centre-Forward,Desportivo Aves,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Jorge Monteiro,21,Right Winger,Santa Clara,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Abdoulaye Ba,19,Centre-Back,Covilhã,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Bura,21,Centre-Back,Paços Ferreira,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Orlando Sá,22,Centre-Forward,Nacional,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Rui Pedro,21,Attacking Midfield,Leixões,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Nelson Benítez,26,Left-Back,San Lorenzo,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Tengarrinha,21,Defensive Midfield,Santa Clara,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,William Soares,21,Defensive Midfield,Portimonense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Pedro Moreira,21,Central Midfield,Portimonense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Hélder Barbosa,23,Left Winger,Braga,?,out,Summer,NA,Liga Nos,2010,2010/2011
+FC Porto,Jorge Chula,20,Right Winger,VVV-Venlo,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Tomás Costa,25,Defensive Midfield,CFR Cluj,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Miguel Lopes,23,Right-Back,Real Betis,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Ricardo Dias,19,Defensive Midfield,GD Tourizense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Daniel Candeias,22,Right Winger,Nacional,?,out,Summer,NA,Liga Nos,2010,2010/2011
+FC Porto,Nuno Espírito Santo,36,Goalkeeper,Retired,-,out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Ivo Pinto,20,Right-Back,Covilhã,"End of loanJun 1, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+FC Porto,Diego Váleri,24,Attacking Midfield,Lanús,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Marco Torsiglieri,22,Centre-Back,Vélez Sarsfield,£3.06m,in,Summer,3.06,Liga Nos,2010,2010/2011
+Sporting CP,Jaime Valdés,29,Central Midfield,Atalanta,£2.97m,in,Summer,2.97,Liga Nos,2010,2010/2011
+Sporting CP,Evaldo,28,Left-Back,Braga,£2.70m,in,Summer,2.7,Liga Nos,2010,2010/2011
+Sporting CP,Alberto Zapater,25,Defensive Midfield,Genoa,£1.80m,in,Summer,1.8,Liga Nos,2010,2010/2011
+Sporting CP,Nuno André Coelho,24,Centre-Back,FC Porto,£900Th.,in,Summer,0.9,Liga Nos,2010,2010/2011
+Sporting CP,Diogo Salomão,21,Left Winger,Real SC,£90Th.,in,Summer,0.09,Liga Nos,2010,2010/2011
+Sporting CP,Tales,20,Attacking Midfield,Internacional,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Maniche,32,Central Midfield,1. FC Köln,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Renato Neto,18,Defensive Midfield,Sporting U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Cédric Soares,18,Right-Back,Sporting U19,-,in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Timo Hildebrand,31,Goalkeeper,Without Club,-,in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Milan Purovic,25,Centre-Forward,NK Olimpija,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Marco Matias,21,Right Winger,Real SC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Fábio Paim,22,Right Midfield,Real SC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,William Owusu Acheampong,20,Centre-Forward,Gil Vicente,"End of loanJun 1, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,André Martins,20,Central Midfield,Real SC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Pedro Mendes,19,Centre-Back,Real SC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Diogo Amado,20,Defensive Midfield,Real SC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Paulo Renato,23,Centre-Back,CF Estrela,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Victor Golas,19,Goalkeeper,Real SC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,André Santos,21,Defensive Midfield,Leiria,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Vladimir Stojkovic,26,Goalkeeper,Wigan,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Ibrahim Rabiu,19,Attacking Midfield,Real SC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,André Marques,22,Left-Back,Iraklis,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Wilson Eduardo,19,Left Winger,Portimonense,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Diogo Rosado,20,Left Winger,Real SC,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Rui Fonte,20,Centre-Forward,Vitória Setúbal,"End of loanJun 1, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Ronny,24,Attacking Midfield,Leiria,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,João Moutinho,23,Central Midfield,FC Porto,£9.90m,out,Summer,9.9,Liga Nos,2010,2010/2011
+Sporting CP,Miguel Veloso,24,Defensive Midfield,Genoa,£8.10m,out,Summer,8.1,Liga Nos,2010,2010/2011
+Sporting CP,Florent Sinama-Pongolle,25,Second Striker,Real Zaragoza,Loan fee:£450Th.,out,Summer,0.45,Liga Nos,2010,2010/2011
+Sporting CP,Ronny,24,Attacking Midfield,Hertha BSC,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Victor Golas,19,Goalkeeper,Boavista,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Paulo Renato,23,Centre-Back,Olhanense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,André Martins,20,Central Midfield,Belenenses SAD,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Vladimir Stojkovic,27,Goalkeeper,Partizan,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Pedro Silva,29,Right-Back,Portimonense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,William Owusu Acheampong,20,Centre-Forward,Cercle Brugge,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Diogo Amado,20,Defensive Midfield,Leiria,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Wilson Eduardo,19,Left Winger,Beira-Mar,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Adrien Silva,21,Central Midfield,Maccabi Haifa,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Pedro Mendes,19,Centre-Back,Servette FC,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Diogo Rosado,20,Left Winger,Penafiel,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Ricardo Batista,23,Goalkeeper,Olhanense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Renato Neto,18,Defensive Midfield,Cercle Brugge,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,André Marques,22,Left-Back,Beira-Mar,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Tonel,30,Centre-Back,Dinamo Zagreb,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Sporting CP,Milan Purovic,25,Centre-Forward,Belenenses SAD,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Fábio Paim,22,Right Midfield,Torreense,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Sporting CP,Mexer,21,Centre-Back,Olhanense,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Bruno Pereirinha,22,Right Winger,Vit. Guimarães,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Rui Fonte,20,Centre-Forward,RCD Espanyol B,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Sporting CP,Marco Matias,21,Right Winger,Vit. Guimarães,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Sporting CP,Ibrahim Rabiu,19,Attacking Midfield,Without Club,-,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,André Pinto,20,Centre-Back,FC Porto,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Daniel Candeias,22,Right Winger,Nacional,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Pedro Silva,29,Right-Back,Sporting CP,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Fangzhuo Dong,25,Centre-Forward,Legia Warszawa,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Elias,28,Defensive Midfield,Leiria,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Hugo Ventura,22,Goalkeeper,FC Porto,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Calvin Kadi,22,Centre-Forward,Bidvest Wits FC,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Di Fábio,30,Centre-Back,Busan I'Park,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Lito,35,Right Winger,Coimbra,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Nuno Santos,31,Goalkeeper,Vitória Setúbal,Free transfer,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Jumisse,26,Defensive Midfield,Muçulmana,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Portimonense SC,Ángelo Peña,20,Central Midfield,Braga,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Pedro Moreira,21,Central Midfield,FC Porto,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Hélder Pelembe,22,Centre-Forward,Maxaquene,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Portimonense SC,Renatinho,23,Right Winger,Rentistas,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Vanderlei Lopes Gomes,26,Left-Back,Lagoa,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Portimonense SC,William Soares,21,Defensive Midfield,FC Porto,Loan,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Ivo Gonçalves,26,Goalkeeper,Lagoa,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Portimonense SC,Carlos Valencia,21,Right-Back,Luqueño,?,in,Summer,NA,Liga Nos,2010,2010/2011
+Portimonense SC,João Paulo,21,Centre-Back,Without Club,-,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Alhassan Wakaso,18,Defensive Midfield,Portimonense,-,in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Anderson,19,Midfielder,Lagoa,"End of loanJun 30, 2010",in,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Vasco Matos,29,Right Winger,Desportivo Aves,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,João Paulo,29,Centre-Forward,Desp. Brasil,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Gonzalo Garavano,27,Centre-Forward,Cerro Reyes,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Adriano Ferreira,33,Centre-Forward,Unknown,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Anilton Júnior,29,Centre-Back,Moreirense,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Yuto Nakamura,23,Centre-Forward,Pegasus,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Nuno Santos,32,Goalkeeper,Gil Vicente,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Diogo Melo,26,Defensive Midfield,Coimbra,Free transfer,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Anderson,19,Midfielder,Esp. Lagos,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Ben Traoré,22,Centre-Forward,Louletano,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Bruninho,24,Right Winger,Louletano,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Fábio Sapateiro,19,Goalkeeper,Esp. Lagos,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Calado,30,Centre-Back,Oriental,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Portimonense SC,João Pedro,22,Centre-Back,Desportivo Aves,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Portimonense SC,Alê,28,Goalkeeper,Digenis Morfou,?,out,Summer,NA,Liga Nos,2010,2010/2011
+Portimonense SC,Vanderlei Lopes Gomes,26,Left-Back,Lagoa,Loan,out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Wilson Eduardo,19,Left Winger,Sporting CP,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Kalidou Yero,18,Centre-Forward,FC Porto B,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+Portimonense SC,Balú,25,Defensive Midfield,Marítimo,"End of loanJun 30, 2010",out,Summer,0,Liga Nos,2010,2010/2011
+SL Benfica,Jardel,24,Centre-Back,Desp. Brasil,£4.03m,in,Winter,4.03,Liga Nos,2010,2010/2011
+SL Benfica,José Luis Fernández,23,Central Midfield,Racing Club,£1.35m,in,Winter,1.35,Liga Nos,2010,2010/2011
+SL Benfica,Lionel Carole,19,Left-Back,FC Nantes,£675Th.,in,Winter,0.675,Liga Nos,2010,2010/2011
+SL Benfica,Élvis,20,Attacking Midfield,Paraná,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Ishmael Yartey,21,Left Winger,CD Fátima,"End of loanJan 28, 2011",in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Abel Pereira,20,Centre-Back,CD Fátima,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Jan Oblak,17,Goalkeeper,Beira-Mar,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Jonathan Urretaviscaya,20,Right Winger,Dep. La Coruña,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Marcel,29,Centre-Forward,Santos FC,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Patric,21,Right-Back,Avaí FC,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Freddy Adu,21,Attacking Midfield,Aris Saloniki,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Marcel,29,Centre-Forward,Vasco da Gama,"End of loanFeb 1, 2011",in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Rafael Costa,20,Central Midfield,CD Fátima,"End of loanFeb 1, 2011",in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Abel Pereira,20,Centre-Back,Gondomar,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,David Luiz,23,Centre-Back,Chelsea,£22.50m,out,Winter,22.5,Liga Nos,2010,2010/2011
+SL Benfica,Patric,21,Right-Back,Atlético-MG,£900Th.,out,Winter,0.9,Liga Nos,2010,2010/2011
+SL Benfica,Marcel,29,Centre-Forward,Suwon Bluewings,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Leandro da Silva,22,Centre-Back,Paraná,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Élvis,20,Attacking Midfield,Atlético-GO,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Marco Zoro,27,Centre-Back,FC U Craiova,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Freddy Adu,21,Attacking Midfield,C. Rizespor,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Ishmael Yartey,21,Left Winger,Beira-Mar,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Jan Oblak,17,Goalkeeper,Olhanense,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Abel Pereira,20,Centre-Back,Gondomar,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Jonathan Urretaviscaya,20,Right Winger,Peñarol,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Adriano,20,Right Winger,Barueri,?,out,Winter,NA,Liga Nos,2010,2010/2011
+SL Benfica,Javier Balboa,25,Right Winger,Albacete,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Fábio Faria,21,Centre-Back,Real Valladolid,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Rafael Costa,20,Central Midfield,Guaratinguetá,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Marcel,29,Centre-Forward,Vasco da Gama,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SL Benfica,Mantorras,28,Centre-Forward,Career break,-,out,Winter,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Bruno Moraes,26,Centre-Forward,Gloria Bistrita,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Diego Silva,21,Goalkeeper,Braga,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Tiago Rosa,24,Right-Back,Oriental,?,in,Winter,NA,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Vítor Maranhão,33,Goalkeeper,Alcobaça,?,in,Winter,NA,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Stevan Kovacevic,22,Central Midfield,Covilhã,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Jorge Baptista,33,Goalkeeper,Gil Vicente,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Ulrick Lupède,26,Centre-Back,Covilhã,?,out,Winter,NA,Liga Nos,2010,2010/2011
+Naval 1º de Maio,José Mário,21,Left Winger,UD Tocha,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Suruca,25,Centre-Back,Atyrau,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Naval 1º de Maio,Stevan Kovacevic,23,Central Midfield,Smederevo,?,out,Winter,NA,Liga Nos,2010,2010/2011
+SC Olhanense,André Micael,21,Centre-Back,Moreirense,£180Th.,in,Winter,0.18,Liga Nos,2010,2010/2011
+SC Olhanense,William Kwabena Tiero,30,Attacking Midfield,CSKA Sofia,£45Th.,in,Winter,0.045,Liga Nos,2010,2010/2011
+SC Olhanense,Dady,29,Centre-Forward,Bucaspor,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+SC Olhanense,Esteban Carvajal,22,Defensive Midfield,San Felipe,?,in,Winter,NA,Liga Nos,2010,2010/2011
+SC Olhanense,Cristian Suárez,23,Centre-Back,San Felipe,?,in,Winter,NA,Liga Nos,2010,2010/2011
+SC Olhanense,Jan Oblak,17,Goalkeeper,Benfica,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+SC Olhanense,Vinicius,24,Central Midfield,Braga,£180Th.,out,Winter,0.18,Liga Nos,2010,2010/2011
+SC Olhanense,Clécio,22,Defensive Midfield,Trindade-GO,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+SC Olhanense,Moretto,32,Goalkeeper,Arka Gdynia,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+SC Olhanense,Zequinha,23,Left Winger,CD Fátima,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Olhanense,André Matias,23,Centre-Forward,CD Fátima,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Olhanense,Paulo Renato,23,Centre-Back,Mafra,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Olhanense,Lulinha,20,Attacking Midfield,Corinthians,"End of loanFeb 1, 2011",out,Winter,0,Liga Nos,2010,2010/2011
+SC Olhanense,Jardel,24,Centre-Back,Desp. Brasil,"End of loanDec 1, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Ozéia,28,Centre-Back,Grêmio,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Lucas Silva,20,Centre-Forward,Freamunde,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Romeu Torres,24,Centre-Forward,Arouca,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Jorginho,22,Right Winger,Tirsense,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+FC Paços de Ferreira,Jason Davidson,19,Left-Back,Covilhã,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Adrien Silva,21,Central Midfield,Sporting CP,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Bruno Silva,19,Left-Back,GD Tourizense,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Académica Coimbra,Christo Amessan,20,Left Winger,Covilhã,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+União de Leiria,Cacá,28,Attacking Midfield,Odense BK,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+União de Leiria,Manuel Iturra,26,Defensive Midfield,U. de Chile,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+União de Leiria,Luiz Carlos,22,Goalkeeper,Internacional,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+União de Leiria,João Silva,20,Centre-Forward,Everton U21,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+União de Leiria,Fabrício Simões,26,Centre-Forward,Operário,?,in,Winter,NA,Liga Nos,2010,2010/2011
+União de Leiria,Bruno Cepeda,20,Central Midfield,Sertanense,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+União de Leiria,Carlao,24,Centre-Forward,Kashima Antlers,£1.80m,out,Winter,1.8,Liga Nos,2010,2010/2011
+União de Leiria,Arthuro,28,Centre-Forward,Avaí FC,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+União de Leiria,Andjelko Djuricic,30,Goalkeeper,El Ittihad,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+União de Leiria,Silas,34,Attacking Midfield,AEL Limassol,?,out,Winter,NA,Liga Nos,2010,2010/2011
+União de Leiria,Diego Gaúcho,29,Centre-Back,FC Brasov,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+União de Leiria,Renato Saldanha,26,Centre-Back,CD Fátima,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Éder Monteiro,27,Centre-Back,Anápolis-GO,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Lionn,21,Right-Back,Vit. Guimarães,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Ricardo Fernandes,32,Centre-Back,Rapid Bucharest,?,in,Winter,NA,Liga Nos,2010,2010/2011
+Rio Ave FC,Júlio Alves,19,Central Midfield,GD Ribeirão,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Rio Ave FC,Felipe Alberto,22,Left Winger,Rio Preto EC,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Douglas Jesus,27,Goalkeeper,Santos FC,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Renan Teixeira,25,Defensive Midfield,São Paulo,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Tony,30,Right-Back,CFR Cluj,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,João Pedro,18,Attacking Midfield,US Palermo,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Rafael Crivellaro,21,Attacking Midfield,Guaratinguetá,?,in,Winter,NA,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Rafa Costa,18,Right-Back,AD Lousada,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Santiago Ostolaza,23,Defensive Midfield,Freamunde,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Dinis,20,Defensive Midfield,AD Lousada,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,David Mendieta,22,Left-Back,Gondomar,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Ricardo,30,Centre-Back,SD Luneng,£450Th.,out,Winter,0.45,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,David Mendieta,24,Attacking Midfield,Guaraní,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Santiago Ostolaza,23,Defensive Midfield,Wanderers,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,William,28,Centre-Forward,Vitória Setúbal,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Dinis,20,Defensive Midfield,Deportivo B,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Serginho,28,Goalkeeper,Covilhã,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Lionn,21,Right-Back,Rio Ave FC,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Vitória Guimarães SC,Bruno Pereirinha,22,Right Winger,Sporting CP,"End of loanDec 31, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Élio Martins,25,Centre-Forward,Doxa Katokopias,?,in,Winter,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Ricardo Rocha,28,Centre-Back,Chaves,?,in,Winter,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Ishmael Yartey,21,Left Winger,Benfica,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Rui Varela,27,Centre-Forward,Belenenses SAD,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Pedro Araújo,25,Left-Back,Gil Vicente,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Hugo Seixas,19,Forward,FC Pampilhosa,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Luis Tinoco,24,Left-Back,Moreirense,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Kanu,26,Centre-Back,Standard Liège,?,out,Winter,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Ronny,27,Centre-Forward,GD Sunray Cave,?,out,Winter,NA,Liga Nos,2010,2010/2011
+SC Beira-Mar,Jan Oblak,17,Goalkeeper,Benfica,"End of loanDec 31, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Renan Meduna,21,Midfielder,Rio Branco,"End of loanDec 31, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+SC Beira-Mar,Alex Maranhão,25,Attacking Midfield,Juazeiro Empreendimentos Esportivos (CE),"End of loanDec 31, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Edinho,28,Centre-Forward,Málaga CF,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Igor Pita,21,Left-Back,Doxa Katokopias,?,in,Winter,NA,Liga Nos,2010,2010/2011
+CS Marítimo,Selim Benachour,29,Attacking Midfield,Without Club,-,in,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Sidnei,24,Central Midfield,Marítimo B,-,in,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Balú,25,Defensive Midfield,Belenenses SAD,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Olberdam,25,Central Midfield,Atlético-PR,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Balú,25,Defensive Midfield,AO Trikala,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Jérémy Sapina,25,Centre-Back,RAEC Mons,?,out,Winter,NA,Liga Nos,2010,2010/2011
+CS Marítimo,André Vilas Boas,27,Centre-Back,Portimonense,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Kanú,27,Right Winger,Ittihad Kalba,?,out,Winter,NA,Liga Nos,2010,2010/2011
+CS Marítimo,Olberdam,25,Central Midfield,Rapid Bucharest,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Abdelmalek Cherrad,29,Centre-Forward,Belenenses SAD,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Júlio César,32,Centre-Back,Without Club,-,out,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Christos Melissis,28,Centre-Back,Panathinaikos,"End of loanDec 31, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+CS Marítimo,Vangelis Mantzios,27,Centre-Forward,Panathinaikos,"End of loanDec 31, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Tengarrinha,21,Defensive Midfield,FC Porto,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,William,28,Centre-Forward,Vit. Guimarães,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Peter Suswam,19,Right-Back,Lobi Stars,?,in,Winter,NA,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Ricardo Dâmaso,20,Defensive Midfield,Madalena,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Bruno Lourenço,20,Centre-Back,GD Tourizense,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Kheireddine Zarabi,26,Centre-Back,Leixões,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Ricardo Dâmaso,20,Defensive Midfield,Real SC,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Vitória Setúbal FC,Bruno Lourenço,20,Centre-Back,Real SC,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Vinicius,24,Central Midfield,Olhanense,£180Th.,in,Winter,0.18,Liga Nos,2010,2010/2011
+SC Braga,Marco Ramos,27,Left-Back,Lens,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Kaká,29,Centre-Back,Hertha BSC,Loan fee:£23Th.,in,Winter,0.023,Liga Nos,2010,2010/2011
+SC Braga,Ukra,22,Right Winger,FC Porto,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Nuno Valente,19,Right Midfield,Vizela,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Stélvio Cruz,21,Defensive Midfield,1º de Agosto,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Guilherme,19,Right Winger,Vizela,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Ángelo Peña,20,Central Midfield,Portimonense,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Aníbal Capela,20,Centre-Back,Vizela,"End of loanJun 30, 2011",in,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Cristiano Figueiredo,20,Goalkeeper,Vizela,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Matheus,27,Right Winger,Dnipro,£900Th.,out,Winter,0.9,Liga Nos,2010,2010/2011
+SC Braga,George Lucas,26,Right-Back,Avaí FC,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Guilherme,19,Right Winger,Vizela,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Diego Silva,21,Goalkeeper,Naval,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Ángelo Peña,21,Central Midfield,Caracas FC,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Nuno Valente,19,Right Midfield,Covilhã,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Stélvio Cruz,21,Defensive Midfield,C.R.D. Libolo,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Moisés Moura,31,Centre-Back,Al-Rayyan SC,?,out,Winter,NA,Liga Nos,2010,2010/2011
+SC Braga,Eduardo Neto,22,Defensive Midfield,Villa Rio,"End of loanNov 30, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Léo Fortunato,27,Centre-Back,Cruzeiro,"End of loanDec 1, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Luis Aguiar,25,Central Midfield,Dynamo Moscow,"End of loanDec 1, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Élton,25,Centre-Forward,Olé Brasil,"End of loanDec 31, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+SC Braga,Felipe,26,Goalkeeper,Olé Brasil,"End of loanDec 1, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+CD Nacional,Darko Bodul,22,Centre-Forward,Ajax,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+CD Nacional,Arthur Henrique,24,Left-Back,Unknown,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+CD Nacional,Alex Bruno,28,Centre-Back,Sport Recife,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+CD Nacional,Nejc Pecnik,24,Centre-Forward,KS Samara,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+CD Nacional,Juninho Arcanjo,28,Attacking Midfield,Daegu FC,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+CD Nacional,Kevin Amuneke,24,Centre-Forward,Without Club,-,out,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Juan Iturbe,17,Left Winger,Quilmes,£3.83m,in,Winter,3.83,Liga Nos,2010,2010/2011
+FC Porto,Diogo Viana,20,Right-Back,VVV-Venlo,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Tengarrinha,21,Defensive Midfield,Santa Clara,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Sebastián Prediger,24,Defensive Midfield,Cruzeiro,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Tomás Costa,25,Defensive Midfield,CFR Cluj,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Ricardo Dias,19,Defensive Midfield,GD Tourizense,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Nelson Benítez,26,Left-Back,San Lorenzo,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,André Castro,22,Central Midfield,Sporting Gijón,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Nelson Benítez,26,Left-Back,Estudiantes,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Tengarrinha,21,Defensive Midfield,Vitória Setúbal,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Juan Iturbe,17,Left Winger,Cerro Porteño,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Wason Rentería,25,Centre-Forward,Once Caldas,?,out,Winter,NA,Liga Nos,2010,2010/2011
+FC Porto,Sebastián Prediger,24,Defensive Midfield,CA Colón,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Diogo Viana,20,Right-Back,Desportivo Aves,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Ukra,22,Right Winger,Braga,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Tomás Costa,25,Defensive Midfield,CDUC,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+FC Porto,Ricardo Dias,19,Defensive Midfield,Santa Clara,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Cristiano,27,Left Winger,PAOK Salonika,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Amido Baldé,19,Centre-Forward,Santa Clara,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Adrien Silva,21,Central Midfield,Maccabi Haifa,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,André Martins,20,Central Midfield,Belenenses SAD,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Milan Purovic,25,Centre-Forward,Belenenses SAD,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Bruno Pereirinha,22,Right Winger,Vit. Guimarães,"End of loanDec 31, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Liedson,33,Centre-Forward,Corinthians,£1.62m,out,Winter,1.62,Liga Nos,2010,2010/2011
+Sporting CP,André Martins,20,Central Midfield,Pinhalnovense,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Bruno Pereirinha,22,Right Winger,AO Kavala,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Adrien Silva,21,Central Midfield,Coimbra,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Milan Purovic,25,Centre-Forward,Cercle Brugge,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Sporting CP,Amido Baldé,19,Centre-Forward,CD Badajoz,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,George Mourad,28,Centre-Forward,Tromsø IL,Free transfer,in,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,André Vilas Boas,27,Centre-Back,Marítimo,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Hélder Castro,24,Central Midfield,U Cluj,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Ricardo Nascimento,23,Centre-Back,Olé Brasil,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Patrick Leonardo,20,Centre-Forward,Atlético-PR,Loan,in,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Anderson,19,Midfielder,Esp. Lagos,"End of loanDec 1, 2010",in,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Pedro Moita,31,Left Midfield,CD Fátima,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Carlos Valencia,21,Right-Back,Deportivo Cali,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Fangzhuo Dong,26,Centre-Forward,MIKA Ashtarak,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Hélder Pelembe,23,Centre-Forward,Maxaquene,Free transfer,out,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Jumisse,26,Defensive Midfield,Ermis Aradippou,Loan,out,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Anderson,20,Midfielder,Aljezurense,?,out,Winter,NA,Liga Nos,2010,2010/2011
+Portimonense SC,João Paulo,21,Centre-Back,Without Club,-,out,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Ángelo Peña,20,Central Midfield,Braga,"End of loanDec 1, 2010",out,Winter,0,Liga Nos,2010,2010/2011
+Portimonense SC,Renatinho,23,Right Winger,Rentistas,"End of loanDec 31, 2010",out,Winter,0,Liga Nos,2010,2010/2011
