@@ -1764,7 +1764,7 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 *    [`soccerplots`](https://github.com/Slothfulwave612/soccerplots) -  a Python package that can be used for making visualizations for football analytics by [Anmol Durgapal](https://twitter.com/slothfulwave612)
 *    [Building a Radar Plot in ggplot2](http://www.fcrstats.com/radars.html) by [FC rSTATS](https://twitter.com/FC_rstats?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-<h4 id="radars"> Recruitment Analysis</h4>
+<h4 id="recruitment-analysis"> Recruitment Analysis</h4>
 
 *    [Using StatsBomb IQ For Player Recruitment: Centre Backs](https://statsbomb.com/2021/06/using-statsbomb-iq-for-player-recruitment-centre-backs/) by [StatsBomb](https://statsbomb.com/) (05/06/2021)
 *    Season Analysis & Summer Recruitment pieces
