@@ -1,0 +1,531 @@
+player_id,player_name,day_of_birth,month_of_birth,year_of_birth,pob,cob,dob,position,height,foot,citizenship,second_citizenship,league_code,season
+402008,amadou haidara,31,1,1998,Bamako,Mali,1998-01-31,midfield - Central Midfield,175,right,Mali,,L1,2021
+223967,konrad laimer,27,5,1997,Salzburg,Austria,1997-05-27,midfield - Central Midfield,180,right,Austria,,L1,2021
+93740,willi orban,3,11,1992,Kaiserslautern,Germany,1992-11-03,Defender - Centre-Back,186,right,,Germany,L1,2021
+344381,christopher nkunku,14,11,1997,Lagny-sur-Marne,France,1997-11-14,midfield - Attacking Midfield,175,right,,DR Congo,L1,2021
+668276,hugo novoa,24,1,2003,Bertamiráns,Spain,2003-01-24,attack - Centre-Forward,182,right,Spain,,L1,2021
+111078,emil forsberg,23,10,1991,Sundsvall,Sweden,1991-10-23,attack - Left Winger,179,right,Sweden,,L1,2021
+106987,marcel sabitzer,17,3,1994,Graz,Austria,1994-03-17,midfield - Central Midfield,177,right,Austria,,L1,2021
+157635,yussuf poulsen,15,6,1994,Kopenhagen,Denmark,1994-06-15,attack - Centre-Forward,192,right,,Tanzania,L1,2021
+692462,ben klefisch,2,6,2003,Leverkusen,Germany,2003-06-02,midfield - Central Midfield,186,,Germany,,L1,2021
+388516,josep martínez,27,5,1998,Alzira,Spain,1998-05-27,Goalkeeper,191,right,Spain,,L1,2021
+292246,hee-chan hwang,26,1,1996,"Chuncheon, Gangwon","Korea, South",1996-01-26,attack - Centre-Forward,177,right,"Korea, South",,L1,2021
+21726,philipp tschauner,3,11,1985,Schwabach,Germany,1985-11-03,Goalkeeper,196,right,Germany,,L1,2021
+238407,alexander sörloth,5,12,1995,Trondheim,Norway,1995-12-05,attack - Centre-Forward,194,left,Norway,,L1,2021
+70243,marcel halstenberg,27,9,1991,Laatzen,Germany,1991-09-27,Defender - Left-Back,188,left,Germany,,L1,2021
+406040,ademola lookman,20,10,1997,London,England,1997-10-20,attack - Left Winger,174,right,,Nigeria,L1,2021
+348026,nordi mukiele,1,11,1997,Montreuil,France,1997-11-01,Defender - Right-Back,187,right,,DR Congo,L1,2021
+717345,sidney raebiger,17,4,2005,Freiberg,Germany,2005-04-17,midfield - Central Midfield,176,,Germany,,L1,2021
+373916,marcelo saracchi,23,4,1998,Paysandú,Uruguay,1998-04-23,Defender - Left-Back,172,left,Uruguay,,L1,2021
+215599,lukas klostermann,3,6,1996,Gevelsberg,Germany,1996-06-03,Defender - Right-Back,189,right,Germany,,L1,2021
+475959,josko gvardiol,23,1,2002,Zagreb,Croatia,2002-01-23,Defender - Centre-Back,185,left,Croatia,,L1,2021
+53418,kevin kampl,9,10,1990,Solingen,Germany,1990-10-09,midfield - Central Midfield,178,right,Slovenia,,L1,2021
+293385,dani olmo,7,5,1998,Terrassa,Spain,1998-05-07,midfield - Attacking Midfield,179,right,Spain,,L1,2021
+57071,péter gulácsi,6,5,1990,Budapest,Hungary,1990-05-06,Goalkeeper,190,right,Hungary,,L1,2021
+666234,mohamed simakan,3,5,2000,Marseille,France,2000-05-03,Defender - Centre-Back,187,right,,Guinea,L1,2021
+473169,brian brobbey,1,2,2002,Amsterdam,Netherlands,2002-02-01,attack - Centre-Forward,180,right,,Ghana,L1,2021
+202591,benjamin henrichs,23,2,1997,Bocholt,Germany,1997-02-23,Defender - Right-Back,183,right,,Ghana,L1,2021
+198008,andré silva,6,11,1995,Baguim do Monte,Portugal,1995-11-06,attack - Centre-Forward,185,right,Portugal,,L1,2021
+451276,dominik szoboszlai,25,10,2000,Székesfehérvár,Hungary,2000-10-25,attack - Left Winger,187,right,Hungary,,L1,2021
+277179,angeliño,4,1,1997,Coristanco,Spain,1997-01-04,Defender - Left-Back,171,left,Spain,,L1,2021
+597004,joscha wosz,20,7,2002,Halle (Saale),Germany,2002-07-20,midfield - Attacking Midfield,174,right,Germany,,L1,2021
+332705,tyler adams,14,2,1999,"Wappingers Falls, New York",United States,1999-02-14,midfield - Defensive Midfield,175,right,United States,,L1,2021
+143891,maximilian philipp,1,3,1994,Berlin,Germany,1994-03-01,attack - Second Striker,183,right,Germany,,L1,2021
+124732,john anthony brooks,28,1,1993,Berlin,Germany,1993-01-28,Defender - Centre-Back,193,left,,Germany,L1,2021
+51977,pavao pervan,13,11,1987,Livno,Jugoslawien (SFR),1987-11-13,Goalkeeper,194,both,Austria,,L1,2021
+535551,bartosz bialek,11,11,2001,Brzeg,Poland,2001-11-11,attack - Centre-Forward,191,right,Poland,,L1,2021
+108880,koen casteels,25,6,1992,Bonheiden,Belgium,1992-06-25,Goalkeeper,197,left,Belgium,,L1,2021
+221611,paulo otávio,23,11,1994,Ourinhos,Brazil,1994-11-23,Defender - Left-Back,173,left,Brazil,,L1,2021
+434224,maxence lacroix,6,4,2000,Villeneuve-Saint-Georges,France,2000-04-06,Defender - Centre-Back,190,right,,Guadeloupe,L1,2021
+406640,felix nmecha,10,10,2000,Hamburg,Germany,2000-10-10,midfield - Attacking Midfield,185,right,,Germany,L1,2021
+327251,ridle baku,8,4,1998,Mainz,Germany,1998-04-08,Defender - Right-Back,176,right,,DR Congo,L1,2021
+574203,philipp schulze,29,1,2003,,Germany,2003-01-29,Goalkeeper,190,,Germany,,L1,2021
+228645,wout weghorst,7,8,1992,Borne,Netherlands,1992-08-07,attack - Centre-Forward,197,right,Netherlands,,L1,2021
+119277,yannick gerhardt,13,3,1994,Würselen,Germany,1994-03-13,midfield - Central Midfield,184,left,Germany,,L1,2021
+196421,marvin stefaniak,3,2,1995,Hoyerswerda,Germany,1995-02-03,midfield - Attacking Midfield,178,both,Germany,,L1,2021
+127076,jérôme roussillon,6,1,1993,Sarcelles,France,1993-01-06,Defender - Left-Back,175,left,,Guadeloupe,L1,2021
+826719,fally mayulu,15,7,2002,,France  DR Congo,2002-07-15,attack - Centre-Forward,193,right,,DR Congo,L1,2021
+472234,jannis lang,12,7,2002,Potsdam,Germany,2002-07-12,Defender - Centre-Back,188,right,Germany,,L1,2021
+93704,josuha guilavogui,19,9,1990,Toulon,France,1990-09-19,midfield - Defensive Midfield,188,right,,Guinea,L1,2021
+282144,marin pongracic,11,9,1997,Landshut,Germany,1997-09-11,Defender - Centre-Back,193,right,,Germany,L1,2021
+336004,dominik marx,2,2,2000,,Germany,2000-02-02,midfield - Central Midfield,178,both,Germany,,L1,2021
+196095,luca waldschmidt,19,5,1996,Siegen,Germany,1996-05-19,attack - Second Striker,181,left,Germany,,L1,2021
+594655,marcel beifus,27,10,2002,,Germany,2002-10-27,Defender - Centre-Back,187,right,Germany,,L1,2021
+117674,maximilian arnold,27,5,1994,Riesa,Germany,1994-05-27,midfield - Central Midfield,184,left,Germany,,L1,2021
+293169,josip brekalo,23,6,1998,Zagreb,Croatia,1998-06-23,attack - Left Winger,175,right,Croatia,,L1,2021
+445939,omar marmoush,7,2,1999,Kairo,Egypt,1999-02-07,attack - Centre-Forward,177,right,,Canada,L1,2021
+223979,xaver schlager,28,9,1997,Linz,Austria,1997-09-28,midfield - Central Midfield,174,left,Austria,,L1,2021
+503881,aster vranckx,4,10,2002,Erps-Kwerps,Belgium,2002-10-04,midfield - Central Midfield,183,right,,DR Congo,L1,2021
+596655,kobe hernández-foster,26,6,2002,"Los Angeles, California",United States,2002-06-26,Defender - Left-Back,172,left,,Honduras,L1,2021
+66058,admir mehmedi,16,3,1991,Gostivar,Jugoslawien (SFR),1991-03-16,attack - Second Striker,183,right,,North Macedonia,L1,2021
+79501,daniel ginczek,13,4,1991,Arnsberg,Germany,1991-04-13,attack - Centre-Forward,191,right,Germany,,L1,2021
+194638,renato steffen,3,11,1991,Aarau,Switzerland,1991-11-03,attack - Right Winger,170,left,Switzerland,,L1,2021
+631904,anselmo garcía mcnulty,19,2,2003,Sevilla,Spain,2003-02-19,Defender - Centre-Back,187,left,,Spain,L1,2021
+192268,niklas klinger,13,10,1995,Wolfsburg,Germany,1995-10-13,Goalkeeper,187,right,Germany,,L1,2021
+341710,william,3,4,1995,Pelotas,Brazil,1995-04-03,Defender - Right-Back,176,right,Brazil,,L1,2021
+183321,kevin mbabu,19,4,1995,Chêne-Bougeries,Switzerland,1995-04-19,Defender - Right-Back,184,right,,DR Congo,L1,2021
+314288,lukas nmecha,14,12,1998,Hamburg,Germany,1998-12-14,attack - Centre-Forward,185,right,,England,L1,2021
+338629,sebastiaan bornauw,22,3,1999,Wemmel,Belgium,1999-03-22,Defender - Centre-Back,191,right,Belgium,,L1,2021
+448705,diant ramaj,19,9,2001,Stuttgart,Germany,2001-09-19,Goalkeeper,189,both,,Kosovo,L1,2021
+580277,gianluca schäfer,27,2,2003,,Germany,2003-02-27,attack - Left Winger,178,,Germany,,L1,2021
+39259,makoto hasebe,18,1,1984,"Fujieda, Shizuoka",Japan,1984-01-18,midfield - Defensive Midfield,180,right,Japan,,L1,2021
+506936,martin pecar,5,7,2002,Izola,Slovenia,2002-07-05,attack - Left Winger,175,right,Slovenia,,L1,2021
+40074,stefan ilsanker,18,5,1989,Hallein,Austria,1989-05-18,midfield - Defensive Midfield,189,right,Austria,,L1,2021
+85906,danny da costa,13,7,1993,Neuss,Germany,1993-07-13,Defender - Right-Back,187,right,,Angola,L1,2021
+416380,ragnar ache,28,7,1998,Frankfurt am Main,Germany,1998-07-28,attack - Centre-Forward,183,right,,Ghana,L1,2021
+85789,martin hinteregger,7,9,1992,Sankt Veit an der Glan,Austria,1992-09-07,Defender - Centre-Back,184,left,Austria,,L1,2021
+356141,daichi kamada,5,8,1996,"---, Ehime",Japan,1996-08-05,midfield - Attacking Midfield,184,right,Japan,,L1,2021
+96167,amin younes,6,8,1993,Düsseldorf,Germany,1993-08-06,midfield - Attacking Midfield,168,right,,Lebanon,L1,2021
+371149,evan n'dicka,20,8,1999,Paris,France,1999-08-20,Defender - Centre-Back,192,left,,Cameroon,L1,2021
+45672,kevin trapp,8,7,1990,Merzig,Germany,1990-07-08,Goalkeeper,189,right,Germany,,L1,2021
+216181,almamy touré,28,4,1996,Bamako,Mali,1996-04-28,Defender - Right-Back,183,right,,Mali,L1,2021
+741295,enrique herrero garcía,28,1,2005,Lorqui,Spain,2005-01-28,attack - Centre-Forward,173,,Spain,,L1,2021
+212723,djibril sow,6,2,1997,Zürich,Switzerland,1997-02-06,midfield - Central Midfield,184,right,,Senegal,L1,2021
+265625,ajdin hrustic,5,7,1996,Melbourne,Australia,1996-07-05,midfield - Central Midfield,183,left,,Bosnia-Herzegovina,L1,2021
+49723,timothy chandler,29,3,1990,Frankfurt am Main,Germany,1990-03-29,Defender - Right-Back,186,right,,Germany,L1,2021
+323831,rafael borré,15,9,1995,Barranquilla,Colombia,1995-09-15,attack - Centre-Forward,174,right,Colombia,,L1,2021
+472224,felix irorere,21,6,2002,Saint-Denis,France,2002-06-21,Defender - Centre-Back,195,,,France,L1,2021
+159844,christopher lenz,22,9,1994,Berlin,Germany,1994-09-22,Defender - Left-Back,180,left,Germany,,L1,2021
+93922,erik durm,12,5,1992,Pirmasens,Germany,1992-05-12,Defender - Right-Back,183,right,Germany,,L1,2021
+546213,tuta,4,7,1999,São Paulo,Brazil,1999-07-04,Defender - Centre-Back,185,right,Brazil,,L1,2021
+161011,filip kostic,1,11,1992,Kragujevac,Yugoslavia (Republic),1992-11-01,midfield - Left Midfield,184,left,Serbia,,L1,2021
+44466,sebastian rode,11,10,1990,Seeheim-Jugenheim,Germany,1990-10-11,midfield - Central Midfield,179,right,Germany,,L1,2021
+315332,aymen barkok,21,5,1998,Frankfurt am Main,Germany,1998-05-21,midfield - Attacking Midfield,189,right,,Germany,L1,2021
+610798,jan schröder,15,4,2003,Herrenberg,Germany,2003-04-15,Defender - Left-Back,182,left,,Spain,L1,2021
+648909,fabio blanco,18,2,2004,Almería,Spain,2004-02-18,attack - Right Winger,179,right,Spain,,L1,2021
+513245,jesper lindström,29,2,2000,Taastrup,Denmark,2000-02-29,midfield - Attacking Midfield,182,right,Denmark,,L1,2021
+40034,jens grahl,22,9,1988,Stuttgart,Germany,1988-09-22,Goalkeeper,192,right,Germany,,L1,2021
+422355,jens petter hauge,12,10,1999,Bodø,Norway,1999-10-12,attack - Left Winger,184,right,Norway,,L1,2021
+181547,gonçalo paciência,1,8,1994,Porto,Portugal,1994-08-01,attack - Centre-Forward,184,right,Portugal,,L1,2021
+68033,steven zuber,17,8,1991,Winterthur,Switzerland,1991-08-17,midfield - Left Midfield,182,right,Switzerland,,L1,2021
+51100,peter pekarik,30,10,1986,Žilina,CSSR,1986-10-30,Defender - Right-Back,177,right,Slovakia,,L1,2021
+178459,davie selke,20,1,1995,Schorndorf,Germany,1995-01-20,attack - Centre-Forward,194,right,Germany,,L1,2021
+162434,niklas stark,14,4,1995,Neustadt an der Aisch,Germany,1995-04-14,Defender - Centre-Back,190,right,Germany,,L1,2021
+16922,kevin-prince boateng,6,3,1987,Berlin,Germany,1987-03-06,midfield - Attacking Midfield,186,right,,Germany,L1,2021
+303259,dodi lukébakio,24,9,1997,Asse,Belgium,1997-09-24,attack - Right Winger,187,left,,DR Congo,L1,2021
+241974,nils-jonathan körber,13,11,1996,Berlin,Germany,1996-11-13,Goalkeeper,189,right,Germany,,L1,2021
+447896,ruwen werthmüller,28,1,2001,Berlin,Germany,2001-01-28,attack - Centre-Forward,183,right,Switzerland,,L1,2021
+327757,krzysztof piatek,1,7,1995,Dzierżoniów,Poland,1995-07-01,attack - Centre-Forward,183,right,Poland,,L1,2021
+358870,dennis jastrzembski,20,2,2000,Rendsburg,Germany,2000-02-20,attack - Left Winger,177,left,,Germany,L1,2021
+89592,marvin plattenhardt,26,1,1992,Filderstadt,Germany,1992-01-26,Defender - Left-Back,181,left,Germany,,L1,2021
+423436,santiago ascacíbar,25,2,1997,La Plata,Argentina,1997-02-25,midfield - Defensive Midfield,168,right,Argentina,,L1,2021
+227110,jordan torunarigha,7,8,1997,Chemnitz,Germany,1997-08-07,Defender - Centre-Back,191,left,,Nigeria,L1,2021
+88262,dedryck boyata,28,11,1990,Brussel,Belgium,1990-11-28,Defender - Centre-Back,188,right,,DR Congo,L1,2021
+279009,marco richter,24,11,1997,Friedberg,Germany,1997-11-24,attack - Right Winger,176,right,Germany,,L1,2021
+361081,daishawn redan,2,2,2001,Amsterdam,Netherlands,2001-02-02,attack - Centre-Forward,176,right,,Suriname,L1,2021
+432281,márton dárdai,12,2,2002,Berlin,Germany,2002-02-12,Defender - Centre-Back,188,left,,Hungary,L1,2021
+353948,lucas tousart,29,4,1997,Arras,France,1997-04-29,midfield - Defensive Midfield,185,right,France,,L1,2021
+315125,javairô dilrosun,22,6,1998,Amsterdam,Netherlands,1998-06-22,attack - Left Winger,175,left,,Suriname,L1,2021
+517894,matheus cunha,27,5,1999,João Pessoa,Brazil,1999-05-27,attack - Centre-Forward,184,right,Brazil,,L1,2021
+93763,alexander schwolow,2,6,1992,Wiesbaden,Germany,1992-06-02,Goalkeeper,190,right,Germany,,L1,2021
+261905,suat serdar,11,4,1997,Bingen,Germany,1997-04-11,midfield - Central Midfield,184,right,,Turkey,L1,2021
+338032,deyovaisio zeefuik,11,3,1998,Amsterdam,Netherlands,1998-03-11,Defender - Right-Back,177,right,,Suriname,L1,2021
+46104,stevan jovetic,2,11,1989,Titograd,Jugoslawien (SFR),1989-11-02,attack - Centre-Forward,183,right,,Serbia,L1,2021
+24112,rune jarstein,29,9,1984,Porsgrunn,Norway,1984-09-29,Goalkeeper,192,right,Norway,,L1,2021
+111039,ishak belfodil,12,1,1992,Mostaganem,Algeria,1992-01-12,attack - Centre-Forward,192,right,,France,L1,2021
+282660,maximilian mittelstädt,18,3,1997,Berlin,Germany,1997-03-18,Defender - Left-Back,180,left,Germany,,L1,2021
+179643,vladimir darida,8,8,1990,Plzeň,CSSR,1990-08-08,midfield - Central Midfield,172,right,Czech Republic,,L1,2021
+471901,jonas michelbrink,23,6,2001,Hannover,Germany,2001-06-23,midfield - Attacking Midfield,180,right,,Lithuania,L1,2021
+282577,lukas klünter,26,5,1996,Euskirchen,Germany,1996-05-26,Defender - Right-Back,184,right,Germany,,L1,2021
+188888,sheraldo becker,9,2,1995,Amsterdam,Netherlands,1995-02-09,attack - Right Winger,180,right,,Netherlands,L1,2021
+107775,frederik rönnow,4,8,1992,Horsens,Denmark,1992-08-04,Goalkeeper,190,right,Denmark,,L1,2021
+124410,rani khedira,27,1,1994,Stuttgart,Germany,1994-01-27,midfield - Defensive Midfield,188,right,,Tunisia,L1,2021
+79377,genki haraguchi,9,5,1991,"Kumagaya, Saitama",Japan,1991-05-09,midfield - Attacking Midfield,177,right,Japan,,L1,2021
+234029,grischa prömel,9,1,1995,Stuttgart,Germany,1995-01-09,midfield - Central Midfield,184,both,Germany,,L1,2021
+41323,andreas luthe,10,3,1987,Velbert,Germany,1987-03-10,Goalkeeper,195,right,Germany,,L1,2021
+187491,timo baumgartl,4,3,1996,Böblingen,Germany,1996-03-04,Defender - Centre-Back,190,right,Germany,,L1,2021
+75921,christopher trimmel,24,2,1987,Oberpullendorf,Austria,1987-02-24,Defender - Right-Back,189,right,Austria,,L1,2021
+483974,leon dajaku,12,4,2001,Waiblingen,Germany,2001-04-12,attack - Second Striker,180,right,,Kosovo,L1,2021
+269878,marcus ingvartsen,4,1,1996,Farum,Denmark,1996-01-04,midfield - Attacking Midfield,187,left,Denmark,,L1,2021
+203411,jakob busk,12,9,1993,Kopenhagen,Denmark,1993-09-12,Goalkeeper,189,right,Denmark,,L1,2021
+354340,rick van drongelen,20,12,1998,Axel,Netherlands,1998-12-20,Defender - Centre-Back,185,left,Netherlands,,L1,2021
+356118,suleiman abdullahi,10,12,1996,Kaduna,Nigeria,1996-12-10,attack - Centre-Forward,185,right,Nigeria,,L1,2021
+94201,robin knoche,22,5,1992,Braunschweig,Germany,1992-05-22,Defender - Centre-Back,190,right,Germany,,L1,2021
+36182,max kruse,19,3,1988,Reinbek,Germany,1988-03-19,attack - Second Striker,180,left,Germany,,L1,2021
+699702,mathis bruns,31,3,2004,Bielefeld,Germany,2004-03-31,Defender - Centre-Back,192,,Germany,,L1,2021
+196231,marvin friedrich,13,12,1995,Kassel,Germany,1995-12-13,Defender - Centre-Back,192,right,Germany,,L1,2021
+207597,cedric teuchert,14,1,1997,Coburg,Germany,1997-01-14,attack - Centre-Forward,182,right,Germany,,L1,2021
+361575,tymoteusz puchacz,23,1,1999,Sulechów,Poland,1999-01-23,Defender - Left-Back,180,left,Poland,,L1,2021
+153555,sebastian griesbeck,3,10,1990,Ulm,Germany,1990-10-03,midfield - Defensive Midfield,189,right,Germany,,L1,2021
+117432,kevin behrens,3,2,1991,Bremen,Germany,1991-02-03,attack - Centre-Forward,184,right,Germany,,L1,2021
+548803,fabio schneider,31,7,2002,Berlin,Germany,2002-07-31,midfield - Central Midfield,,,Germany,,L1,2021
+421726,keita endo,22,11,1997,"Yokohama, Kanagawa",Japan,1997-11-22,attack - Left Winger,175,right,Japan,,L1,2021
+295313,taiwo awoniyi,12,8,1997,Ilorin,Nigeria,1997-08-12,attack - Centre-Forward,183,right,Nigeria,,L1,2021
+164759,pawel wszolek,30,4,1992,Tczew,Poland,1992-04-30,attack - Right Winger,186,right,Poland,,L1,2021
+94771,andreas voglsammer,9,1,1992,Rosenheim,Germany,1992-01-09,attack - Centre-Forward,178,right,Germany,,L1,2021
+142281,anthony ujah,14,10,1990,Ugbokolo,Nigeria,1990-10-14,attack - Centre-Forward,180,right,Nigeria,,L1,2021
+72792,niko gießelmann,26,9,1991,Hannover,Germany,1991-09-26,Defender - Left-Back,182,left,Germany,,L1,2021
+370789,julian ryerson,17,11,1997,Lyngdal,Norway,1997-11-17,Defender - Right-Back,183,right,,United States,L1,2021
+168543,levin öztunali,15,3,1996,Hamburg,Germany,1996-03-15,midfield - Central Midfield,185,right,Germany,,L1,2021
+284248,paul jaeckel,22,7,1998,Eisenhüttenstadt,Germany,1998-07-22,Defender - Centre-Back,189,right,Germany,,L1,2021
+451403,laurenz dehl,12,12,2001,Berlin,Germany,2001-12-12,midfield - Attacking Midfield,181,,Germany,,L1,2021
+472249,jan thielmann,26,5,2002,Föhren,Germany,2002-05-26,attack - Right Winger,178,right,Germany,,L1,2021
+232418,ondrej duda,5,12,1994,Snina,Slovakia,1994-12-05,midfield - Attacking Midfield,181,right,Slovakia,,L1,2021
+231586,jannes horn,6,2,1997,Braunschweig,Germany,1997-02-06,Defender - Left-Back,186,left,Germany,,L1,2021
+553285,tim lemperle,5,2,2002,Frankfurt am Main,Germany,2002-02-05,attack - Right Winger,187,right,Germany,,L1,2021
+147485,louis schaub,29,12,1994,Fulda,Germany,1994-12-29,midfield - Attacking Midfield,177,left,Austria,,L1,2021
+607720,jonas urbig,8,8,2003,Dieburg,Germany,2003-08-08,Goalkeeper,189,both,Germany,,L1,2021
+160968,benno schmitz,17,11,1994,München,Germany,1994-11-17,Defender - Right-Back,182,right,Germany,,L1,2021
+287188,dejan ljubicic,8,10,1997,Wien,Austria,1997-10-08,midfield - Defensive Midfield,187,right,Austria,,L1,2021
+290587,ellyes skhiri,10,5,1995,Lunel,France,1995-05-10,midfield - Defensive Midfield,185,right,,France,L1,2021
+50512,anthony modeste,14,4,1988,Cannes,France,1988-04-14,attack - Centre-Forward,187,right,,Martinique,L1,2021
+244940,salih özcan,11,1,1998,Köln,Germany,1998-01-11,midfield - Central Midfield,182,right,Germany,,L1,2021
+112935,mark uth,24,8,1991,Köln,Germany,1991-08-24,attack - Second Striker,185,left,Germany,,L1,2021
+84938,timo horn,12,5,1993,Köln,Germany,1993-05-12,Goalkeeper,192,left,Germany,,L1,2021
+106270,florian kainz,24,10,1992,Graz,Austria,1992-10-24,attack - Left Winger,176,right,Austria,,L1,2021
+227089,matthias köbbing,28,5,1997,Koblenz,Germany,1997-05-28,Goalkeeper,196,both,Germany,,L1,2021
+160929,marvin schwäbe,25,4,1995,Dieburg,Germany,1995-04-25,Goalkeeper,190,right,Germany,,L1,2021
+153678,kingsley schindler,12,7,1993,Hamburg,Germany,1993-07-12,attack - Right Winger,183,right,,Ghana,L1,2021
+613192,jens castrop,29,7,2003,Düsseldorf,Germany,2003-07-29,midfield - Attacking Midfield,177,right,,"Korea, South",L1,2021
+205544,niklas hauptmann,27,6,1996,Köln,Germany,1996-06-27,midfield - Central Midfield,176,left,Germany,,L1,2021
+236981,timo hübers,20,7,1996,Hildesheim,Germany,1996-07-20,Defender - Centre-Back,190,right,Germany,,L1,2021
+428189,tomas ostrak,5,2,2000,Frýdek-Místek,Czech Republic,2000-02-05,midfield - Attacking Midfield,176,right,Czech Republic,,L1,2021
+286779,jorge meré,17,4,1997,Oviedo,Spain,1997-04-17,Defender - Centre-Back,182,right,Spain,,L1,2021
+108537,jonas hector,27,5,1990,Saarbrücken,Germany,1990-05-27,Defender - Left-Back,185,left,Germany,,L1,2021
+84150,rafael czichos,14,5,1990,Djidda,Saudi Arabia,1990-05-14,Defender - Centre-Back,187,left,Germany,,L1,2021
+464906,sava-arangel cestic,19,2,2001,Offenbach am Main,Germany,2001-02-19,Defender - Centre-Back,192,right,,Germany,L1,2021
+522084,marvin obuz,25,1,2002,Köln,Germany,2002-01-25,attack - Left Winger,182,right,,Turkey,L1,2021
+272812,kingsley ehizibue,25,5,1995,München,Germany,1995-05-25,Defender - Right-Back,189,right,,Netherlands,L1,2021
+469949,noah katterbach,13,4,2001,Simmerath,Germany,2001-04-13,Defender - Left-Back,180,left,Germany,,L1,2021
+147573,sebastian andersson,15,7,1991,Ängelholm,Sweden,1991-07-15,attack - Centre-Forward,190,right,Sweden,,L1,2021
+326029,donyell malen,19,1,1999,Wieringen,Netherlands,1999-01-19,attack - Centre-Forward,179,right,,Suriname,L1,2021
+384745,tobias raschl,21,2,2000,Düsseldorf,Germany,2000-02-21,midfield - Central Midfield,177,right,Germany,,L1,2021
+581678,jude bellingham,29,6,2003,Stourbridge,England,2003-06-29,midfield - Central Midfield,186,right,England,,L1,2021
+170986,raphaël guerreiro,22,12,1993,Le Blanc-Mesnil,France,1993-12-22,Defender - Left-Back,170,left,,France,L1,2021
+274461,felix passlack,29,5,1998,Bottrop,Germany,1998-05-29,Defender - Right-Back,170,right,Germany,,L1,2021
+191422,mahmoud dahoud,1,1,1996,Amûdê‎,Syria,1996-01-01,midfield - Central Midfield,178,right,,Syria,L1,2021
+627226,reinier,19,1,2002,Brasília,Brazil,2002-01-19,midfield - Attacking Midfield,185,right,Brazil,,L1,2021
+39728,mats hummels,16,12,1988,Bergisch Gladbach,Germany,1988-12-16,Defender - Centre-Back,191,right,Germany,,L1,2021
+388815,luca unbehaun,27,2,2001,Bochum,Germany,2001-02-27,Goalkeeper,185,right,Germany,,L1,2021
+284730,manuel akanji,19,7,1995,Wiesendangen,Switzerland,1995-07-19,Defender - Centre-Back,187,right,,Nigeria,L1,2021
+59027,roman bürki,14,11,1990,Münsingen,Switzerland,1990-11-14,Goalkeeper,187,right,Switzerland,,L1,2021
+388513,mateu morey bauzà,2,3,2000,Palma de Mallorca,Spain,2000-03-02,Defender - Right-Back,173,right,Spain,,L1,2021
+187492,julian brandt,2,5,1996,Bremen,Germany,1996-05-02,midfield - Attacking Midfield,185,right,Germany,,L1,2021
+659513,soumaïla coulibaly,14,10,2003,Montfermeil,France,2003-10-14,Defender - Centre-Back,190,left,,Mali,L1,2021
+504215,giovanni reyna,13,11,2002,Durham,England,2002-11-13,midfield - Attacking Midfield,185,right,,Portugal,L1,2021
+102226,thorgan hazard,29,3,1993,La Louvière,Belgium,1993-03-29,attack - Left Winger,175,right,Belgium,,L1,2021
+91849,thomas delaney,3,9,1991,Frederiksberg,Denmark,1991-09-03,midfield - Defensive Midfield,182,left,,United States,L1,2021
+418560,erling haaland,21,7,2000,Leeds,England,2000-07-21,attack - Centre-Forward,194,left,Norway,,L1,2021
+100986,thomas meunier,12,9,1991,Sainte-Ode,Belgium,1991-09-12,Defender - Right-Back,191,right,Belgium,,L1,2021
+59238,marwin hitz,18,9,1987,St. Gallen,Switzerland,1987-09-18,Goalkeeper,194,right,Switzerland,,L1,2021
+35047,axel witsel,12,1,1989,Liège,Belgium,1989-01-12,midfield - Defensive Midfield,186,right,,Martinique,L1,2021
+467720,youssoufa moukoko,20,11,2004,Yaoundé,Cameroon,2004-11-20,attack - Centre-Forward,179,left,,Cameroon,L1,2021
+257814,gregor kobel,6,12,1997,Zürich,Switzerland,1997-12-06,Goalkeeper,194,right,Switzerland,,L1,2021
+35207,marco reus,31,5,1989,Dortmund,Germany,1989-05-31,midfield - Attacking Midfield,180,right,Germany,,L1,2021
+429874,ansgar knauff,10,1,2002,Göttingen,Germany,2002-01-10,attack - Left Winger,180,right,,Ghana,L1,2021
+296879,steffen tigges,31,7,1998,Osnabrück,Germany,1998-07-31,attack - Centre-Forward,193,left,Germany,,L1,2021
+85867,nico schulz,1,4,1993,Berlin,Germany,1993-04-01,Defender - Left-Back,180,left,,Italy,L1,2021
+35208,marcel schmelzer,22,1,1988,Magdeburg,DDR,1988-01-22,Defender - Left-Back,180,left,Germany,,L1,2021
+718232,abdoulaye kamara,6,11,2004,,Guinea  France,2004-11-06,midfield - Defensive Midfield,,right,,France,L1,2021
+193900,marius wolf,27,5,1995,Coburg,Germany,1995-05-27,attack - Right Winger,187,right,Germany,,L1,2021
+344598,dan-axel zagadou,3,6,1999,Créteil,France,1999-06-03,Defender - Centre-Back,196,left,,Cote d'Ivoire,L1,2021
+119296,emre can,12,1,1994,Frankfurt am Main,Germany,1994-01-12,midfield - Defensive Midfield,186,right,,Turkey,L1,2021
+606301,arne schulz,23,3,2003,Bünde,Germany,2003-03-23,Goalkeeper,,,Germany,,L1,2021
+118397,alessandro schöpf,7,2,1994,Umhausen,Austria,1994-02-07,midfield - Attacking Midfield,178,right,Austria,,L1,2021
+275423,christian gebauer,20,12,1993,Innsbruck,Austria,1993-12-20,attack - Right Winger,187,right,Austria,,L1,2021
+334221,amos pieper,17,1,1998,Lüdinghausen,Germany,1998-01-17,Defender - Centre-Back,192,right,Germany,,L1,2021
+68410,stefanos kapino,18,3,1994,Piräus,Greece,1994-03-18,Goalkeeper,196,right,Greece,,L1,2021
+317740,florian krüger,13,2,1999,Staßfurt,Germany,1999-02-13,attack - Centre-Forward,186,,Germany,,L1,2021
+533295,patrick wimmer,30,5,2001,Tulln,Austria,2001-05-30,attack - Left Winger,182,,Austria,,L1,2021
+78147,fabian klos,2,12,1987,Gifhorn,Germany,1987-12-02,attack - Centre-Forward,194,both,Germany,,L1,2021
+294534,janni serra,13,3,1998,Hannover,Germany,1998-03-13,attack - Centre-Forward,193,left,Germany,,L1,2021
+307052,masaya okugawa,14,4,1996,"Koka, Shiga",Japan,1996-04-14,attack - Left Winger,177,both,Japan,,L1,2021
+216804,joakim nilsson,6,2,1994,Härnösand,Sweden,1994-02-06,Defender - Centre-Back,185,left,Sweden,,L1,2021
+340521,guilherme ramos,11,8,1997,Lisboa,Portugal,1997-08-11,Defender - Centre-Back,191,right,Portugal,,L1,2021
+147038,cédric brunner,17,2,1994,Zollikon,Switzerland,1994-02-17,Defender - Right-Back,180,right,Switzerland,,L1,2021
+606307,vladislav cherny,21,6,2003,Magnitogorsk,Russia,2003-06-21,midfield - Attacking Midfield,,right,,Germany,L1,2021
+334186,fabian kunze,14,6,1998,Bielefeld,Germany,1998-06-14,midfield - Defensive Midfield,191,right,Germany,,L1,2021
+285951,nathan de medina,8,10,1997,,Belgium  Cape Verde,1997-10-08,Defender - Right-Back,183,right,,Cape Verde,L1,2021
+477109,bryan lasme,14,11,1998,Montauban,France,1998-11-14,attack - Right Winger,192,right,,Cote d'Ivoire,L1,2021
+152317,manuel prietl,3,8,1991,Deutschlandsberg,Austria,1991-08-03,midfield - Defensive Midfield,187,right,Austria,,L1,2021
+85941,stefan ortega,6,11,1992,Calden,Germany,1992-11-06,Goalkeeper,185,right,,Spain,L1,2021
+606308,julian frommann,11,4,2003,Bielefeld,Germany,2003-04-11,midfield - Defensive Midfield,188,right,Germany,,L1,2021
+333516,sebastian vasiliadis,4,10,1997,Auenwald,Germany,1997-10-04,midfield - Central Midfield,177,right,,Germany,L1,2021
+185164,jacob barrett laursen,17,11,1994,Arden,Denmark,1994-11-17,Defender - Left-Back,179,left,Denmark,,L1,2021
+284010,robin hack,27,8,1998,Pforzheim,Germany,1998-08-27,attack - Left Winger,176,right,Germany,,L1,2021
+538996,tanguy nianzou,7,6,2002,Paris,France,2002-06-07,Defender - Centre-Back,187,right,,Cote d'Ivoire,L1,2021
+243714,kingsley coman,13,6,1996,Paris,France,1996-06-13,attack - Left Winger,180,right,,Guadeloupe,L1,2021
+353366,benjamin pavard,28,3,1996,Maubeuge,France,1996-03-28,Defender - Right-Back,186,right,France,,L1,2021
+17259,manuel neuer,27,3,1986,Gelsenkirchen,Germany,1986-03-27,Goalkeeper,193,right,Germany,,L1,2021
+45660,eric maxim choupo-moting,23,3,1989,Hamburg,Germany,1989-03-23,attack - Centre-Forward,191,right,,Germany,L1,2021
+281963,lucas hernández,14,2,1996,Marseille,France,1996-02-14,Defender - Centre-Back,184,left,,Spain,L1,2021
+166601,niklas süle,3,9,1995,Frankfurt am Main,Germany,1995-09-03,Defender - Centre-Back,195,right,Germany,,L1,2021
+578539,chris richards,28,3,2000,"Birmingham, Alabama",United States,2000-03-28,Defender - Centre-Back,188,both,United States,,L1,2021
+424204,alphonso davies,2,11,2000,Buduburam,Ghana,2000-11-02,Defender - Left-Back,183,left,,Liberia,L1,2021
+424881,omar richards,15,2,1998,London,England,1998-02-15,Defender - Left-Back,174,left,England,,L1,2021
+580195,jamal musiala,26,2,2003,Stuttgart,Germany,2003-02-26,midfield - Attacking Midfield,180,right,,England,L1,2021
+159471,serge gnabry,14,7,1995,Stuttgart,Germany,1995-07-14,attack - Right Winger,176,right,,Cote d'Ivoire,L1,2021
+192565,leroy sané,11,1,1996,Essen,Germany,1996-01-11,attack - Right Winger,183,left,,France,L1,2021
+190685,bouna sarr,31,1,1992,Lyon,France,1992-01-31,Defender - Right-Back,177,right,,Guinea,L1,2021
+336869,marc roca,26,11,1996,Vilafranca del Penedès,Spain,1996-11-26,midfield - Defensive Midfield,184,left,Spain,,L1,2021
+317444,ron-thorben hoffmann,4,4,1999,Rostock,Germany,1999-04-04,Goalkeeper,192,right,Germany,,L1,2021
+483046,josip stanisic,2,4,2000,München,Germany,2000-04-02,Defender - Right-Back,186,both,,Germany,L1,2021
+336307,christian früchtl,28,1,2000,Bischofsmais,Germany,2000-01-28,Goalkeeper,193,left,Germany,,L1,2021
+190393,corentin tolisso,3,8,1994,Tarare,France,1994-08-03,midfield - Central Midfield,181,right,,Togo,L1,2021
+38253,robert lewandowski,21,8,1988,Warszawa,Poland,1988-08-21,attack - Centre-Forward,185,right,Poland,,L1,2021
+58358,thomas müller,13,9,1989,Weilheim in Oberbayern,Germany,1989-09-13,attack - Second Striker,185,right,Germany,,L1,2021
+40680,sven ulreich,3,8,1988,Schorndorf,Germany,1988-08-03,Goalkeeper,192,right,Germany,,L1,2021
+161056,joshua kimmich,8,2,1995,Rottweil,Germany,1995-02-08,midfield - Defensive Midfield,177,right,Germany,,L1,2021
+153084,leon goretzka,6,2,1995,Bochum,Germany,1995-02-06,midfield - Central Midfield,189,right,Germany,,L1,2021
+344695,dayot upamecano,27,10,1998,Évreux,France,1998-10-27,Defender - Centre-Back,186,right,,Guinea-Bissau,L1,2021
+344600,michaël cuisance,16,8,1999,Straßburg,France,1999-08-16,midfield - Central Midfield,181,left,France,,L1,2021
+598577,florian wirtz,3,5,2003,Pulheim,Germany,2003-05-03,midfield - Attacking Midfield,176,right,Germany,,L1,2021
+112541,andrey lunev,13,11,1991,Moskau,UdSSR,1991-11-13,Goalkeeper,190,right,Russia,,L1,2021
+644771,odilon kossounou,4,1,2001,Abidjan,Cote d'Ivoire,2001-01-04,Defender - Centre-Back,191,right,Cote d'Ivoire,,L1,2021
+89701,charles aránguiz,17,4,1989,Puente Alto,Chile,1989-04-17,midfield - Central Midfield,171,right,Chile,,L1,2021
+315131,timothy fosu-mensah,2,1,1998,Amsterdam,Netherlands,1998-01-02,Defender - Right-Back,185,right,,Ghana,L1,2021
+48015,lukas hradecky,24,11,1989,Bratislava,CSSR,1989-11-24,Goalkeeper,192,right,,Slovakia,L1,2021
+309397,lennart grill,25,1,1999,Idar-Oberstein,Germany,1999-01-25,Goalkeeper,191,right,Germany,,L1,2021
+196357,jonathan tah,11,2,1996,Hamburg,Germany,1996-02-11,Defender - Centre-Back,195,right,,Cote d'Ivoire,L1,2021
+580276,emrehan gedikli,25,4,2003,Oberhausen,Germany,2003-04-25,attack - Centre-Forward,187,right,,Turkey,L1,2021
+401578,exequiel palacios,5,10,1998,Famaillá,Argentina,1998-10-05,midfield - Central Midfield,177,right,Argentina,,L1,2021
+232454,nadiem amiri,27,10,1996,Ludwigshafen am Rhein,Germany,1996-10-27,midfield - Attacking Midfield,180,right,,Afghanistan,L1,2021
+395516,moussa diaby,7,7,1999,Paris,France,1999-07-07,attack - Left Winger,170,left,,Mali,L1,2021
+61087,karim bellarabi,8,4,1990,Berlin,Germany,1990-04-08,attack - Right Winger,184,right,,Morocco,L1,2021
+361065,mitchel bakker,20,6,2000,Purmerend,Netherlands,2000-06-20,Defender - Left-Back,185,left,Netherlands,,L1,2021
+34787,julian baumgartlinger,2,1,1988,Salzburg,Austria,1988-01-02,midfield - Defensive Midfield,184,right,Austria,,L1,2021
+125858,kerem demirbay,3,7,1993,Herten,Germany,1993-07-03,midfield - Central Midfield,183,left,,Turkey,L1,2021
+85543,niklas lomb,28,7,1993,Köln,Germany,1993-07-28,Goalkeeper,186,right,Germany,,L1,2021
+659813,piero hincapié,9,1,2002,Esmeraldas,Ecuador,2002-01-09,Defender - Centre-Back,184,left,Ecuador,,L1,2021
+564545,edmond tapsoba,2,2,1999,Ouagadougou,Burkina Faso,1999-02-02,Defender - Centre-Back,194,right,Burkina Faso,,L1,2021
+159088,robert andrich,22,9,1994,Potsdam,Germany,1994-09-22,midfield - Central Midfield,187,right,Germany,,L1,2021
+173491,joel pohjanpalo,13,9,1994,Helsinki,Finland,1994-09-13,attack - Centre-Forward,186,right,Finland,,L1,2021
+484547,jeremie frimpong,10,12,2000,Amsterdam,Netherlands,2000-12-10,Defender - Right-Back,171,right,,Ghana,L1,2021
+215099,daley sinkgraven,4,7,1995,Assen,Netherlands,1995-07-04,Defender - Left-Back,179,left,Netherlands,,L1,2021
+119211,mitchell weiser,21,4,1994,Troisdorf,Germany,1994-04-21,Defender - Right-Back,177,right,,Algeria,L1,2021
+193782,lucas alario,8,10,1992,"Tostado, Santa Fe",Argentina,1992-10-08,attack - Centre-Forward,184,right,,Italy,L1,2021
+242086,patrik schick,24,1,1996,Praha,Czech Republic,1996-01-24,attack - Centre-Forward,191,left,Czech Republic,,L1,2021
+788445,zidan sertdemir,4,2,2005,,Denmark  Turkey,2005-02-04,midfield - Central Midfield,182,left,,Turkey,L1,2021
+324351,panagiotis retsos,9,8,1998,Johannesburg,South Africa,1998-08-09,Defender - Centre-Back,186,right,Greece,,L1,2021
+428791,paulinho,15,7,2000,Rio de Janeiro,Brazil,2000-07-15,attack - Left Winger,177,right,Brazil,,L1,2021
+536472,abdourahmane barry,21,2,2000,Courbevoie,France,2000-02-21,Defender - Centre-Back,185,right,,Guinea,L1,2021
+310662,timothy tillman,4,1,1999,Nürnberg,Germany,1999-01-04,midfield - Attacking Midfield,183,right,,United States,L1,2021
+658293,mert-yusuf torlak,18,7,2002,Nürnberg,Germany,2002-07-18,midfield - Attacking Midfield,173,right,,Turkey,L1,2021
+192300,max christiansen,25,9,1996,Flensburg,Germany,1996-09-25,midfield - Central Midfield,185,right,Germany,,L1,2021
+161204,julian green,6,6,1995,"Tampa, Florida",United States,1995-06-06,midfield - Central Midfield,176,right,,Germany,L1,2021
+451340,nunoo sarpei,22,8,1998,Accra,Ghana,1998-08-22,midfield - Defensive Midfield,178,right,Ghana,,L1,2021
+596813,dickson abiama,3,11,1998,Lagos,Nigeria,1998-11-03,attack - Centre-Forward,184,right,Nigeria,,L1,2021
+136181,havard nielsen,15,7,1993,Oslo,Norway,1993-07-15,attack - Centre-Forward,187,right,Norway,,L1,2021
+518505,jamie leweling,26,2,2001,Nürnberg,Germany,2001-02-26,attack - Second Striker,184,both,Germany,,L1,2021
+279064,nils seufert,3,2,1997,Mannheim,Germany,1997-02-03,midfield - Central Midfield,182,both,Germany,,L1,2021
+147359,jeremy dudziak,28,8,1995,Hamburg,Germany,1995-08-28,midfield - Attacking Midfield,176,left,Germany,,L1,2021
+170517,marius funk,1,1,1996,Aalen,Germany,1996-01-01,Goalkeeper,187,right,Germany,,L1,2021
+411287,justin hoogma,11,6,1998,Enschede,Netherlands,1998-06-11,Defender - Centre-Back,190,left,Netherlands,,L1,2021
+334998,robin kehr,22,2,2000,Pinneberg,Germany,2000-02-22,attack - Centre-Forward,189,left,Germany,,L1,2021
+291383,leon schaffran,31,7,1998,Berlin,Germany,1998-07-31,Goalkeeper,186,right,Germany,,L1,2021
+247661,gideon jung,12,9,1994,Düsseldorf,Germany,1994-09-12,Defender - Centre-Back,189,right,,Ghana,L1,2021
+196084,marco meyerhöfer,18,11,1995,Bad Homburg vor der Höhe,Germany,1995-11-18,Defender - Right-Back,179,right,Germany,,L1,2021
+183780,paul seguin,29,3,1995,Magdeburg,Germany,1995-03-29,midfield - Central Midfield,186,right,Germany,,L1,2021
+392131,simon asta,25,1,2001,Augsburg,Germany,2001-01-25,Defender - Right-Back,181,right,Germany,,L1,2021
+296378,luca itter,5,1,1999,Gießen,Germany,1999-01-05,Defender - Left-Back,183,left,Germany,,L1,2021
+379979,adrian fein,18,3,1999,München,Germany,1999-03-18,midfield - Defensive Midfield,187,both,Germany,,L1,2021
+36898,sascha burchert,30,10,1989,Berlin,DDR,1989-10-30,Goalkeeper,187,right,Germany,,L1,2021
+448177,jessic ngankam,20,7,2000,Berlin,Germany,2000-07-20,attack - Centre-Forward,184,right,,Cameroon,L1,2021
+234375,emil berggreen,10,5,1993,Helsingör,Denmark,1993-05-10,attack - Centre-Forward,193,right,,Croatia,L1,2021
+391672,elias kratzer,8,1,2000,München,Germany,2000-01-08,Defender - Right-Back,178,right,,Morocco,L1,2021
+171209,branimir hrgota,12,1,1993,Zenica,Bosnia-Herzegovina,1993-01-12,attack - Centre-Forward,185,left,,Croatia,L1,2021
+388363,maximilian bauer,9,2,2000,Vilshofen,Germany,2000-02-09,Defender - Centre-Back,189,right,Germany,,L1,2021
+748061,lasse schulz,29,3,2003,Helsinki,Finland,2003-03-29,Goalkeeper,199,right,,Germany,L1,2021
+90024,alfred finnbogason,1,2,1989,Reykjavík,Iceland,1989-02-01,attack - Centre-Forward,184,right,Iceland,,L1,2021
+569349,frederik winther,4,1,2001,Gentofte,Denmark,2001-01-04,Defender - Centre-Back,186,left,Denmark,,L1,2021
+278343,felix uduokhai,9,9,1997,Annaberg-Buchholz,Germany,1997-09-09,Defender - Centre-Back,192,left,,Nigeria,L1,2021
+405568,maurice malone,17,8,2000,Augsburg,Germany,2000-08-17,midfield - Left Midfield,187,left,,United States,L1,2021
+345886,rubén vargas,5,8,1998,Adligenswil,Switzerland,1998-08-05,attack - Left Winger,179,right,,Dominican Republic,L1,2021
+283001,noah joel sarenren bazee,21,8,1996,Celle,Germany,1996-08-21,attack - Right Winger,183,right,,Germany,L1,2021
+42783,andré hahn,13,8,1990,Otterndorf,Germany,1990-08-13,attack - Right Winger,185,right,Germany,,L1,2021
+146163,raphael framberger,6,9,1995,Augsburg,Germany,1995-09-06,Defender - Right-Back,179,right,Germany,,L1,2021
+392124,daniel klein,13,3,2001,Heidelberg,Germany,2001-03-13,Goalkeeper,192,right,Germany,,L1,2021
+249157,fredrik jensen,9,9,1997,Porvoo,Finland,1997-09-09,midfield - Attacking Midfield,183,right,Finland,,L1,2021
+189475,carlos gruezo,19,4,1995,Santo Domingo,Ecuador,1995-04-19,midfield - Defensive Midfield,171,right,Ecuador,,L1,2021
+106405,jeffrey gouweleeuw,10,7,1991,Heemskerk,Netherlands,1991-07-10,Defender - Centre-Back,187,right,Netherlands,,L1,2021
+377387,sergio córdova,9,8,1997,"Calabozo, Guárico",Venezuela,1997-08-09,attack - Centre-Forward,188,right,Venezuela,,L1,2021
+288429,mads pedersen,1,9,1996,Hørsholm,Denmark,1996-09-01,Defender - Left-Back,174,left,Denmark,,L1,2021
+120205,michael gregoritsch,18,4,1994,Graz,Austria,1994-04-18,attack - Second Striker,193,left,Austria,,L1,2021
+146714,tomas koubek,26,8,1992,Hradec Králové,Czech Republic,1992-08-26,Goalkeeper,197,right,Czech Republic,,L1,2021
+38410,daniel caligiuri,15,1,1988,Villingen-Schwenningen,Germany,1988-01-15,attack - Right Winger,182,right,,Germany,L1,2021
+63022,jan morávek,1,11,1989,Prag,CSSR,1989-11-01,midfield - Central Midfield,180,right,Czech Republic,,L1,2021
+522245,lasse günther,21,3,2003,,Germany,2003-03-21,attack - Right Winger,183,left,Germany,,L1,2021
+520468,iago,23,3,1997,Monte Azul Paulista,Brazil,1997-03-23,Defender - Left-Back,181,left,,Italy,L1,2021
+251302,niklas dorsch,15,1,1998,Lichtenfels,Germany,1998-01-15,midfield - Defensive Midfield,178,right,Germany,,L1,2021
+296397,arne maier,8,1,1999,Ludwigsfelde,Germany,1999-01-08,midfield - Central Midfield,186,right,Germany,,L1,2021
+353826,robert gumny,4,6,1998,Poznań,Poland,1998-06-04,Defender - Right-Back,178,right,Poland,,L1,2021
+314295,reece oxford,16,12,1998,London,England,1998-12-16,Defender - Centre-Back,190,right,,Jamaica,L1,2021
+78339,rafal gikiewicz,26,10,1987,Olsztyn,Poland,1987-10-26,Goalkeeper,190,right,Poland,,L1,2021
+57845,tobias strobl,12,5,1990,München,Germany,1990-05-12,midfield - Defensive Midfield,188,right,Germany,,L1,2021
+152963,florian niederlechner,24,10,1990,Ebersberg,Germany,1990-10-24,attack - Centre-Forward,187,left,Germany,,L1,2021
+588747,tim civeja,4,1,2002,Dachau,Germany,2002-01-04,midfield - Central Midfield,180,both,,Albania,L1,2021
+182574,jean-paul boëtius,22,3,1994,Rotterdam,Netherlands,1994-03-22,midfield - Attacking Midfield,178,right,,Suriname,L1,2021
+160963,robin zentner,28,10,1994,Rüdesheim,Germany,1994-10-28,Goalkeeper,195,right,Germany,,L1,2021
+82350,stefan bell,24,8,1991,Andernach,Germany,1991-08-24,Defender - Centre-Back,192,right,Germany,,L1,2021
+503160,paul nebel,10,10,2002,Bad Nauheim,Germany,2002-10-10,attack - Right Winger,169,both,Germany,,L1,2021
+470815,niklas tauer,17,2,2001,Mainz,Germany,2001-02-17,midfield - Defensive Midfield,183,right,Germany,,L1,2021
+251299,finn dahmen,27,3,1998,Wiesbaden,Germany,1998-03-27,Goalkeeper,186,right,,England,L1,2021
+106872,kevin stöger,27,8,1993,Steyr,Austria,1993-08-27,midfield - Attacking Midfield,175,left,Austria,,L1,2021
+357233,leandro barreiro,3,1,2000,Erpeldingen,Luxembourg,2000-01-03,midfield - Central Midfield,174,right,,Portugal,L1,2021
+384553,luca kilian,1,9,1999,Witten,Germany,1999-09-01,Defender - Centre-Back,192,right,Germany,,L1,2021
+288253,jeremiah st. juste,19,10,1996,Groningen,Netherlands,1996-10-19,Defender - Centre-Back,186,right,,St. Kitts & Nevis,L1,2021
+337090,marius liesegang,7,1,2000,Magdeburg,Germany,2000-01-07,Goalkeeper,188,right,Germany,,L1,2021
+333647,jonathan burkardt,11,7,2000,Darmstadt,Germany,2000-07-11,attack - Centre-Forward,181,right,Germany,,L1,2021
+314398,jae-sung lee,10,8,1992,Ulsan,"Korea, South",1992-08-10,midfield - Attacking Midfield,180,left,"Korea, South",,L1,2021
+43984,daniel brosinski,17,7,1988,Karlsruhe,Germany,1988-07-17,Defender - Right-Back,178,right,Germany,,L1,2021
+247555,edimilson fernandes,15,4,1996,Sion,Switzerland,1996-04-15,midfield - Central Midfield,190,right,,Portugal,L1,2021
+118847,dominik kohr,31,1,1994,Trier,Germany,1994-01-31,midfield - Central Midfield,183,right,Germany,,L1,2021
+451906,david nemeth,18,3,2001,Eisenstadt,Austria,2001-03-18,Defender - Centre-Back,191,both,Austria,,L1,2021
+291200,moussa niakhaté,8,3,1996,Roubaix,France,1996-03-08,Defender - Centre-Back,190,left,,Senegal,L1,2021
+39106,ádám szalai,9,12,1987,Budapest,Hungary,1987-12-09,attack - Centre-Forward,193,right,Hungary,,L1,2021
+211530,omer hanin,14,5,1998,Rishon leZion,Israel,1998-05-14,Goalkeeper,192,both,,Portugal,L1,2021
+251878,aarón martín,22,4,1997,Montmeló,Spain,1997-04-22,Defender - Left-Back,180,left,Spain,,L1,2021
+126281,alexander hack,8,9,1993,Memmingen,Germany,1993-09-08,Defender - Centre-Back,193,left,Germany,,L1,2021
+405689,merveille papela,18,1,2001,Mainz,Germany,2001-01-18,midfield - Central Midfield,174,right,Germany,,L1,2021
+344069,anton stach,15,11,1998,Buchholz in der Nordheide,Germany,1998-11-15,midfield - Defensive Midfield,194,both,Germany,,L1,2021
+119234,karim onisiwo,17,3,1992,Wien,Austria,1992-03-17,attack - Centre-Forward,188,right,Austria,,L1,2021
+240274,anderson lucoqui,6,7,1997,Zweibrücken,Germany,1997-07-06,Defender - Left-Back,180,left,,Germany,L1,2021
+490609,lasse rieß,27,7,2001,,Germany,2001-07-27,Goalkeeper,,,Germany,,L1,2021
+168989,silvan widmer,5,3,1993,Aarau,Switzerland,1993-03-05,Defender - Right-Back,183,right,Switzerland,,L1,2021
+452192,paul grave,10,4,2001,Borken,Germany,2001-04-10,Goalkeeper,193,,Germany,,L1,2021
+190289,gerrit holtmann,25,3,1995,Bremen,Germany,1995-03-25,attack - Left Winger,185,left,,Germany,L1,2021
+41458,robert tesche,27,5,1987,Wismar,DDR,1987-05-27,midfield - Central Midfield,182,right,Germany,,L1,2021
+245744,takuma asano,10,11,1994,"Komono, Mie",Japan,1994-11-10,attack - Right Winger,173,right,Japan,,L1,2021
+121686,cristian gamboa,24,10,1989,Liberia,Costa Rica,1989-10-24,Defender - Right-Back,175,right,Costa Rica,,L1,2021
+232144,milos pantovic,7,7,1996,München,Germany,1996-07-07,midfield - Attacking Midfield,185,right,,Germany,L1,2021
+63489,vasilios lampropoulos,31,3,1990,Pyrgos,Greece,1990-03-31,Defender - Centre-Back,185,right,Greece,,L1,2021
+148824,soma novothny,16,6,1994,Veszprém,Hungary,1994-06-16,attack - Centre-Forward,185,right,Hungary,,L1,2021
+289182,christopher antwi-adjei,7,2,1994,Hagen,Germany,1994-02-07,attack - Left Winger,174,right,,Germany,L1,2021
+60957,sebastian polter,1,4,1991,Wilhelmshaven,Germany,1991-04-01,attack - Centre-Forward,192,right,Germany,,L1,2021
+443331,patrick osterhage,1,2,2000,Göttingen,Germany,2000-02-01,midfield - Central Midfield,186,left,Germany,,L1,2021
+383223,baris ekincier,24,3,1999,Hemer,Germany,1999-03-24,attack - Left Winger,181,both,,Turkey,L1,2021
+40792,manuel riemann,9,9,1988,Mühldorf am Inn,Germany,1988-09-09,Goalkeeper,186,right,Germany,,L1,2021
+186477,herbert bockhorn,31,1,1995,Kampala,Uganda,1995-01-31,Defender - Right-Back,176,right,,Germany,L1,2021
+334207,maxim leitsch,18,5,1998,Essen,Germany,1998-05-18,Defender - Centre-Back,189,left,Germany,,L1,2021
+467563,armel bella kotchap,11,12,2001,Paris,France,2001-12-11,Defender - Centre-Back,190,right,,Cameroon,L1,2021
+61989,michael esser,22,11,1987,Castrop-Rauxel,Germany,1987-11-22,Goalkeeper,198,right,Germany,,L1,2021
+260655,eduard löwen,28,1,1997,Idar-Oberstein,Germany,1997-01-28,midfield - Central Midfield,188,right,,Russia,L1,2021
+343959,erhan masovic,22,11,1998,Novi Pazar,Yugoslavia (Republic),1998-11-22,Defender - Centre-Back,189,right,,Bosnia-Herzegovina,L1,2021
+199633,raman chibsah,10,3,1993,Accra,Ghana,1993-03-10,midfield - Central Midfield,177,right,Ghana,,L1,2021
+79967,simon zoller,26,6,1991,Friedrichshafen,Germany,1991-06-26,attack - Centre-Forward,179,right,Germany,,L1,2021
+154396,danilo soares,29,10,1991,Belo Horizonte,Brazil,1991-10-29,Defender - Left-Back,170,left,Brazil,,L1,2021
+312819,silvère ganvoula,29,6,1996,Brazzaville,Congo,1996-06-29,attack - Centre-Forward,191,right,Congo,,L1,2021
+154578,saulo decarli,4,2,1992,Locarno,Switzerland,1992-02-04,Defender - Centre-Back,188,right,Switzerland,,L1,2021
+283140,tarsis bonga,10,1,1997,Neuwied,Germany,1997-01-10,attack - Right Winger,197,right,,DR Congo,L1,2021
+93837,tom weilandt,27,4,1992,Rostock,Germany,1992-04-27,attack - Right Winger,186,right,Germany,,L1,2021
+41541,danny blum,7,1,1991,Frankenthal,Germany,1991-01-07,attack - Left Winger,183,left,Germany,,L1,2021
+571140,luis hartwig,23,11,2002,Witten,Germany,2002-11-23,attack - Centre-Forward,,,Germany,,L1,2021
+280575,elvis rexhbecaj,1,11,1997,"Gjonaj, Prizren",Yugoslavia (Republic),1997-11-01,midfield - Central Midfield,182,left,,Kosovo,L1,2021
+148967,konstantinos stafylidis,2,12,1993,Thessaloniki,Greece,1993-12-02,Defender - Left-Back,178,left,Greece,,L1,2021
+111266,anthony losilla,10,3,1986,Firminy,France,1986-03-10,midfield - Defensive Midfield,185,right,France,,L1,2021
+120296,benjamin uphoff,8,8,1993,Burghausen,Germany,1993-08-08,Goalkeeper,191,right,Germany,,L1,2021
+526845,noah atubolu,25,5,2002,Freiburg,Germany,2002-05-25,Goalkeeper,190,right,,Nigeria,L1,2021
+190284,maximilian eggestein,8,12,1996,Hannover,Germany,1996-12-08,midfield - Central Midfield,181,right,Germany,,L1,2021
+125714,mark flekken,13,6,1993,Kerkrade,Netherlands,1993-06-13,Goalkeeper,194,both,Netherlands,,L1,2021
+335457,ermedin demirovic,25,3,1998,Hamburg,Germany,1998-03-25,attack - Centre-Forward,185,right,Bosnia-Herzegovina,,L1,2021
+45683,manuel gulde,12,2,1991,Mannheim,Germany,1991-02-12,Defender - Centre-Back,184,right,Germany,,L1,2021
+473050,kevin schade,27,11,2001,Potsdam,Germany,2001-11-27,attack - Right Winger,183,,Germany,,L1,2021
+453865,kimberly ezekwem,19,6,2001,München,Germany,2001-06-19,Defender - Centre-Back,187,left,,Nigeria,L1,2021
+93604,lukas kübler,30,8,1992,Bonn,Germany,1992-08-30,Defender - Right-Back,181,right,Germany,,L1,2021
+93707,christian günter,28,2,1993,Villingen-Schwenningen,Germany,1993-02-28,Defender - Left-Back,185,left,Germany,,L1,2021
+332798,roland sallai,22,5,1997,Budapest,Hungary,1997-05-22,attack - Right Winger,182,both,Hungary,,L1,2021
+185077,vincenzo grifo,7,4,1993,Pforzheim,Germany,1993-04-07,attack - Left Winger,180,right,,Germany,L1,2021
+248999,lucas höler,10,7,1994,Achim,Germany,1994-07-10,attack - Centre-Forward,184,right,Germany,,L1,2021
+342039,yannik keitel,15,2,2000,Breisach,Germany,2000-02-15,midfield - Defensive Midfield,186,both,Germany,,L1,2021
+413843,keven schlotterbeck,28,4,1997,Weinstadt,Germany,1997-04-28,Defender - Centre-Back,189,left,Germany,,L1,2021
+55099,nicolas höfler,9,3,1990,Überlingen,Germany,1990-03-09,midfield - Defensive Midfield,181,right,Germany,,L1,2021
+110036,dominique heintz,15,8,1993,Neustadt an der Weinstraße,Germany,1993-08-15,Defender - Centre-Back,188,left,Germany,,L1,2021
+225657,philipp lienhart,11,7,1996,Lilienfeld,Austria,1996-07-11,Defender - Centre-Back,189,right,Austria,,L1,2021
+392163,noah weißhaupt,20,9,2001,Rostock,Germany,2001-09-20,midfield - Left Midfield,181,right,Germany,,L1,2021
+42936,nils petersen,6,12,1988,Wernigerode,DDR,1988-12-06,attack - Centre-Forward,188,right,Germany,,L1,2021
+548348,kiliann sildillia,16,5,2002,Montigny-lès-Metz,France,2002-05-16,Defender - Centre-Back,186,right,,Guadeloupe,L1,2021
+297583,woo-yeong jeong,20,9,1999,Ulsan,"Korea, South",1999-09-20,attack - Right Winger,179,right,"Korea, South",,L1,2021
+346900,nishan burkart,31,1,2000,Aarau,Switzerland,2000-01-31,attack - Centre-Forward,175,right,,England,L1,2021
+177779,janik haberer,2,4,1994,Wangen im Allgäu,Germany,1994-04-02,midfield - Central Midfield,186,right,Germany,,L1,2021
+70285,jonathan schmid,22,6,1990,Straßburg,France,1990-06-22,Defender - Right-Back,180,right,France,,L1,2021
+388198,nico schlotterbeck,1,12,1999,Waiblingen,Germany,1999-12-01,Defender - Centre-Back,191,left,Germany,,L1,2021
+340480,mamadou doucouré,21,5,1998,Dakar,Senegal,1998-05-21,Defender - Centre-Back,183,left,,Senegal,L1,2021
+321070,hannes wolf,16,4,1999,Graz,Austria,1999-04-16,midfield - Attacking Midfield,179,left,Austria,,L1,2021
+48298,lars stindl,26,8,1988,Speyer,Germany,1988-08-26,attack - Second Striker,181,right,Germany,,L1,2021
+167329,alassane plea,10,3,1993,Lille,France,1993-03-10,attack - Centre-Forward,181,right,,Mali,L1,2021
+455922,jan olschowsky,18,11,2001,Neuss,Germany,2001-11-18,Goalkeeper,183,right,Germany,,L1,2021
+284732,ramy bensebaini,16,4,1995,Constantine,Algeria,1995-04-16,Defender - Left-Back,186,left,Algeria,,L1,2021
+124502,matthias ginter,19,1,1994,Freiburg im Breisgau,Germany,1994-01-19,Defender - Centre-Back,191,right,Germany,,L1,2021
+85791,stefan lainer,27,8,1992,Salzburg,Austria,1992-08-27,Defender - Right-Back,175,right,Austria,,L1,2021
+7161,jonas hofmann,14,7,1992,Heidelberg,Germany,1992-07-14,attack - Right Winger,176,right,Germany,,L1,2021
+42205,yann sommer,17,12,1988,Morges,Switzerland,1988-12-17,Goalkeeper,183,right,Switzerland,,L1,2021
+597804,jonas kersken,1,9,2000,Düsseldorf,Germany,2000-09-01,Goalkeeper,190,right,,England,L1,2021
+318528,marcus thuram,6,8,1997,Parma,Italy,1997-08-06,attack - Left Winger,192,right,,Guadeloupe,L1,2021
+321096,keanan bennetts,9,3,1999,London,England,1999-03-09,midfield - Left Midfield,181,left,,Germany,L1,2021
+520857,conor noß,1,1,2001,Düsseldorf,Germany,2001-01-01,attack - Second Striker,181,,,Germany,L1,2021
+47587,tony jantschke,7,4,1990,Hoyerswerda,DDR,1990-04-07,Defender - Centre-Back,177,right,Germany,,L1,2021
+524285,luca netz,15,5,2003,Berlin,Germany,2003-05-15,Defender - Left-Back,180,left,Germany,,L1,2021
+32711,patrick herrmann,12,2,1991,Uchtelfangen,Germany,1991-02-12,attack - Right Winger,179,right,Germany,,L1,2021
+368860,torben müsel,25,7,1999,Grünstadt,Germany,1999-07-25,midfield - Attacking Midfield,185,right,Germany,,L1,2021
+504089,famana quizera,25,4,2002,Bissau,Guinea-Bissau,2002-04-25,midfield - Attacking Midfield,172,right,,Guinea-Bissau,L1,2021
+278332,florian neuhaus,16,3,1997,Landsberg am Lech,Germany,1997-03-16,midfield - Central Midfield,185,right,Germany,,L1,2021
+403898,jordan beyer,19,5,2000,Kempen,Germany,2000-05-19,Defender - Centre-Back,187,right,Germany,,L1,2021
+334526,denis zakaria,20,11,1996,Genf,Switzerland,1996-11-20,midfield - Defensive Midfield,191,right,,DR Congo,L1,2021
+243188,lászlo bénes,9,9,1997,Dunajská Streda,Slovakia,1997-09-09,midfield - Central Midfield,181,left,Slovakia,,L1,2021
+504153,joe scally,31,12,2002,"Lake Grove, New York",United States,2002-12-31,Defender - Right-Back,184,right,United States,,L1,2021
+31653,tobias sippel,22,3,1988,Bad Dürkheim,Germany,1988-03-22,Goalkeeper,183,right,Germany,,L1,2021
+624690,manu koné,17,5,2001,Colombes,France,2001-05-17,midfield - Central Midfield,185,right,,Cote d'Ivoire,L1,2021
+82097,christoph kramer,19,2,1991,Solingen,Germany,1991-02-19,midfield - Defensive Midfield,191,right,Germany,,L1,2021
+192635,nico elvedi,30,9,1996,Zürich,Switzerland,1996-09-30,Defender - Centre-Back,189,right,Switzerland,,L1,2021
+237662,breel embolo,14,2,1997,Yaoundé,Cameroon,1997-02-14,attack - Centre-Forward,187,right,,Cameroon,L1,2021
+822959,tom bischof,28,6,2005,Aschaffenburg,Germany,2005-06-28,midfield - Central Midfield,176,left,Germany,,L1,2021
+51676,ermin bicakcic,24,1,1990,Zvornik,Jugoslawien (SFR),1990-01-24,Defender - Centre-Back,185,right,,Germany,L1,2021
+223974,stefan posch,14,5,1997,Judenburg,Austria,1997-05-14,Defender - Centre-Back,188,right,Austria,,L1,2021
+55089,oliver baumann,2,6,1990,Breisach am Rhein,Germany,1990-06-02,Goalkeeper,187,right,Germany,,L1,2021
+318204,david raum,22,4,1998,Nürnberg,Germany,1998-04-22,Defender - Left-Back,180,left,Germany,,L1,2021
+293281,jacob bruun larsen,19,9,1998,Lyngby,Denmark,1998-09-19,attack - Left Winger,183,right,Denmark,,L1,2021
+538977,georginio rutter,20,4,2002,Plescop,France,2002-04-20,attack - Centre-Forward,182,left,,Martinique,L1,2021
+57051,sebastian rudy,28,2,1990,Villingen-Schwenningen,Germany,1990-02-28,midfield - Defensive Midfield,180,right,Germany,,L1,2021
+125614,sargis adamyan,23,5,1993,Yerevan,Armenia,1993-05-23,attack - Centre-Forward,184,right,Armenia,,L1,2021
+8246,philipp pentke,1,5,1985,Freiberg,DDR,1985-05-01,Goalkeeper,191,right,Germany,,L1,2021
+42234,havard nordtveit,21,6,1990,Vats,Norway,1990-06-21,Defender - Centre-Back,188,right,Norway,,L1,2021
+251309,dennis geiger,10,6,1998,Mosbach,Germany,1998-06-10,midfield - Central Midfield,173,right,Germany,,L1,2021
+432671,luca philipp,28,11,2000,Stuttgart,Germany,2000-11-28,Goalkeeper,192,,Germany,,L1,2021
+160241,kevin akpoguma,19,4,1995,Neustadt an der Weinstraße,Germany,1995-04-19,Defender - Centre-Back,192,right,,Germany,L1,2021
+450234,marco john,2,4,2002,Bad Friedrichshall,Germany,2002-04-02,midfield - Left Midfield,184,left,Germany,,L1,2021
+84435,kevin vogt,23,9,1991,Witten,Germany,1991-09-23,Defender - Centre-Back,194,right,Germany,,L1,2021
+476915,melayro bogarde,28,5,2002,Rotterdam,Netherlands,2002-05-28,Defender - Centre-Back,184,right,,Suriname,L1,2021
+270393,robert skov,20,5,1996,Marbella,Spain,1996-05-20,attack - Right Winger,185,left,Denmark,,L1,2021
+52348,benjamin hübner,4,7,1989,Wiesbaden,Germany,1989-07-04,Defender - Centre-Back,193,left,Germany,,L1,2021
+263801,kasim adams,22,6,1995,Accra,Ghana,1995-06-22,Defender - Centre-Back,190,right,Ghana,,L1,2021
+145866,munas dabbur,14,5,1992,Nazareth,Israel,1992-05-14,attack - Centre-Forward,182,right,Israel,,L1,2021
+143798,pavel kaderabek,25,4,1992,Praha,Czech Republic,1992-04-25,Defender - Right-Back,182,right,Czech Republic,,L1,2021
+600942,nahuel noll,17,3,2003,München,Germany,2003-03-17,Goalkeeper,188,both,,Spain,L1,2021
+215864,mijat gacinovic,8,2,1995,Novi Sad,Yugoslavia (Republic),1995-02-08,midfield - Attacking Midfield,175,right,,Bosnia-Herzegovina,L1,2021
+324278,christoph baumgartner,1,8,1999,Horn,Austria,1999-08-01,midfield - Attacking Midfield,180,right,Austria,,L1,2021
+443710,angelo stiller,4,4,2001,München,Germany,2001-04-04,midfield - Defensive Midfield,183,left,Germany,,L1,2021
+237164,ihlas bebou,23,4,1994,Aledjo Kadara,Togo,1994-04-23,attack - Right Winger,183,right,,Germany,L1,2021
+207006,joshua brenet,20,3,1994,Kerkrade,Netherlands,1994-03-20,Defender - Right-Back,181,right,,Curacao,L1,2021
+46580,andrej kramaric,19,6,1991,Zagreb,Jugoslawien (SFR),1991-06-19,attack - Centre-Forward,177,right,Croatia,,L1,2021
+315604,diadié samassékou,11,1,1996,Bamako,Mali,1996-01-11,midfield - Defensive Midfield,177,right,Mali,,L1,2021
+195736,florian grillitsch,7,8,1995,Neunkirchen,Austria,1995-08-07,midfield - Defensive Midfield,187,right,Austria,,L1,2021
+618425,tanguy coulibaly,18,2,2001,Sèvres,France,2001-02-18,attack - Left Winger,175,left,,Cote d'Ivoire,L1,2021
+193004,waldemar anton,20,7,1996,Almalyk,Uzbekistan,1996-07-20,Defender - Centre-Back,189,right,,Uzbekistan,L1,2021
+156779,erik thommy,20,8,1994,Ulm,Germany,1994-08-20,midfield - Left Midfield,175,right,Germany,,L1,2021
+232320,atakan karazor,13,10,1996,Essen,Germany,1996-10-13,Defender - Centre-Back,191,right,Germany,,L1,2021
+400546,nikolas nartey,22,2,2000,"Bagsværd, Copenhagen",Denmark,2000-02-22,midfield - Central Midfield,185,left,,Ghana,L1,2021
+195246,pascal stenzel,20,3,1996,Bünde,Germany,1996-03-20,Defender - Centre-Back,183,right,Germany,,L1,2021
+60394,philipp klement,9,9,1992,Ludwigshafen am Rhein,Germany,1992-09-09,midfield - Attacking Midfield,175,left,Germany,,L1,2021
+588020,ömer beyaz,29,8,2003,Istanbul,Turkey,2003-08-29,midfield - Attacking Midfield,171,left,Turkey,,L1,2021
+540302,mateo klimowicz,6,7,2000,Buenos Aires,Argentina,2000-07-06,midfield - Attacking Midfield,179,right,,Argentina,L1,2021
+415912,konstantinos mavropanos,11,12,1997,Athen,Greece,1997-12-11,Defender - Centre-Back,194,right,Greece,,L1,2021
+187624,fabian bredlow,2,3,1995,Berlin,Germany,1995-03-02,Goalkeeper,190,both,Germany,,L1,2021
+768384,momo cissé,17,10,2002,Conakry,Guinea,2002-10-17,attack - Right Winger,178,right,,France,L1,2021
+612826,silas katompa mvumpa,6,10,1998,Kinshasa,DR Congo,1998-10-06,midfield - Right Midfield,189,right,DR Congo,,L1,2021
+57995,daniel didavi,21,2,1990,Nürtingen,Germany,1990-02-21,midfield - Attacking Midfield,180,left,,Benin,L1,2021
+572919,mohamed sankoh,16,10,2003,Rijswijk,Netherlands,2003-10-16,attack - Centre-Forward,178,right,,Sierra Leone,L1,2021
+431561,roberto massimo,12,10,2000,Accra,Ghana,2000-10-12,midfield - Right Midfield,181,right,,Italy,L1,2021
+470594,clinton mola,15,3,2001,London,England,2001-03-15,midfield - Defensive Midfield,183,left,,DR Congo,L1,2021
+289592,orel mangala,18,3,1998,Brussel,Belgium,1998-03-18,midfield - Defensive Midfield,178,right,,DR Congo,L1,2021
+179635,philipp förster,4,2,1995,Bretten,Germany,1995-02-04,midfield - Attacking Midfield,188,left,Germany,,L1,2021
+272278,chris führich,9,1,1998,Castrop-Rauxel,Germany,1998-01-09,attack - Right Winger,178,right,Germany,,L1,2021
+369567,sasa kalajdzic,7,7,1997,Wien,Austria,1997-07-07,attack - Centre-Forward,200,left,,Serbia,L1,2021
+284769,florian müller,13,11,1997,Saarlouis,Germany,1997-11-13,Goalkeeper,190,left,Germany,,L1,2021
+472243,lilian egloff,20,8,2002,Heilbronn,Germany,2002-08-20,midfield - Attacking Midfield,182,right,Germany,,L1,2021
+146310,wataru endo,9,2,1993,"Yokohama, Kanagawa",Japan,1993-02-09,midfield - Defensive Midfield,178,right,Japan,,L1,2021
+193534,hamadi al ghaddioui,22,9,1990,Bonn,Germany,1990-09-22,attack - Centre-Forward,190,right,,Germany,L1,2021
+569366,enzo millot,17,7,2002,Lucé,France,2002-07-17,midfield - Central Midfield,174,left,,Martinique,L1,2021
+538971,naouirou ahamada,29,3,2002,Marseille,France,2002-03-29,midfield - Defensive Midfield,183,right,,Comoros,L1,2021
+293194,borna sosa,21,1,1998,Zagreb,Croatia,1998-01-21,Defender - Left-Back,187,left,,Germany,L1,2021
+160938,marc oliver kempf,28,1,1995,Lich,Germany,1995-01-28,Defender - Centre-Back,186,left,Germany,,L1,2021
+353892,hiroki ito,12,5,1999,"Hamamatsu, Shizuoka",Japan,1999-05-12,Defender - Centre-Back,186,left,Japan,,L1,2021

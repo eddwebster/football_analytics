@@ -1,0 +1,824 @@
+player_id,player_name,day_of_birth,month_of_birth,year_of_birth,pob,cob,dob,position,height,foot,citizenship,second_citizenship,league_code,season
+303657,ionut radu,28,5,1997,Bucarest,Romania,1997-05-28,Goalkeeper,188,right,Romania,,IT1,2016
+33357,miranda,7,9,1984,Paranavaí,Brazil,1984-09-07,Defender - Centre-Back,186,right,Brazil,,IT1,2016
+44327,andrea ranocchia,16,2,1988,Assisi,Italy,1988-02-16,Defender - Centre-Back,195,right,Italy,,IT1,2016
+395083,andreaw gravillon,8,2,1998,Pointe-à-Pitre,Guadeloupe,1998-02-08,Defender - Centre-Back,188,right,,France,IT1,2016
+39118,juan pablo carrizo,6,5,1984,Empalme Villa Constitución,Argentina,1984-05-06,Goalkeeper,189,right,Argentina,,IT1,2016
+55769,danilo d'ambrosio,9,9,1988,Napoli,Italy,1988-09-09,Defender - Right-Back,180,right,Italy,,IT1,2016
+25488,antonio candreva,28,2,1987,Roma,Italy,1987-02-28,midfield - Right Midfield,180,right,Italy,,IT1,2016
+131102,jeison murillo,27,5,1992,Barranquilla,Colombia,1992-05-27,Defender - Centre-Back,182,right,,Spain,IT1,2016
+55854,cristian ansaldi,20,9,1986,Rosario,Argentina,1986-09-20,Defender - Left-Back,181,both,,Italy,IT1,2016
+45567,jonathan biabiany,28,4,1988,Paris,France,1988-04-28,attack - Right Winger,177,right,,Guadeloupe,IT1,2016
+60889,gary medel,3,8,1987,Conchalí,Chile,1987-08-03,midfield - Defensive Midfield,171,right,,Spain,IT1,2016
+365449,xian emmers,20,7,1999,Lugano,Switzerland,1999-07-20,midfield - Central Midfield,178,both,Belgium,,IT1,2016
+28021,samir handanovic,14,7,1984,Ljubljana,Jugoslawien (SFR),1984-07-14,Goalkeeper,193,right,Slovenia,,IT1,2016
+21752,tommaso berni,6,3,1983,Firenze,Italy,1983-03-06,Goalkeeper,185,right,Italy,,IT1,2016
+35537,felipe melo,26,6,1983,Volta Redonda,Brazil,1983-06-26,midfield - Defensive Midfield,183,right,,Spain,IT1,2016
+12249,éver banega,29,6,1988,Rosario,Argentina,1988-06-29,midfield - Central Midfield,174,right,,Spain,IT1,2016
+301238,michele di gregorio,27,7,1997,Milano,Italy,1997-07-27,Goalkeeper,187,right,Italy,,IT1,2016
+68863,mauro icardi,19,2,1993,Rosario,Argentina,1993-02-19,attack - Centre-Forward,181,right,,Italy,IT1,2016
+315865,andrea pinamonti,19,5,1999,Cles,Italy,1999-05-19,attack - Centre-Forward,185,right,Italy,,IT1,2016
+377043,loris zonta,22,5,1997,Bassano del Grappa,Italy,1997-05-22,midfield - Central Midfield,,right,Italy,,IT1,2016
+84344,davide santon,2,1,1991,Portomaggiore,Italy,1991-01-02,Defender - Right-Back,187,right,Italy,,IT1,2016
+79522,yuto nagatomo,12,9,1986,"Saijo, Ehime",Japan,1986-09-12,Defender - Left-Back,170,both,Japan,,IT1,2016
+39333,caner erkin,4,10,1988,Balikesir,Turkey,1988-10-04,Defender - Left-Back,181,left,Turkey,,IT1,2016
+42460,ivan perisic,2,2,1989,Split,Jugoslawien (SFR),1989-02-02,midfield - Left Midfield,186,both,Croatia,,IT1,2016
+244275,gabriel barbosa,30,8,1996,São Bernardo do Campo,Brazil,1996-08-30,attack - Centre-Forward,178,left,Brazil,,IT1,2016
+268590,eloge yao,20,1,1996,Akrroukro,Cote d'Ivoire,1996-01-20,Defender - Centre-Back,184,right,,Italy,IT1,2016
+156617,marcelo brozovic,16,11,1992,Zagreb,Croatia,1992-11-16,midfield - Defensive Midfield,181,both,Croatia,,IT1,2016
+297630,marco carraro,9,1,1998,Dolo,Italy,1998-01-09,midfield - Defensive Midfield,187,both,Italy,,IT1,2016
+37418,éder,15,11,1986,Lauro Müller,Brazil,1986-11-15,attack - Second Striker,177,right,,Brazil,IT1,2016
+46104,stevan jovetic,2,11,1989,Titograd,Jugoslawien (SFR),1989-11-02,attack - Centre-Forward,183,right,,Serbia,IT1,2016
+36356,marco andreolli,10,6,1986,Ponte dell`Olio,Italy,1986-06-10,Defender - Centre-Back,187,right,Italy,,IT1,2016
+149729,joão mário,19,1,1993,Porto,Portugal,1993-01-19,midfield - Central Midfield,179,right,,Angola,IT1,2016
+197471,roberto gagliardini,7,4,1994,Bergamo,Italy,1994-04-07,midfield - Central Midfield,188,right,Italy,,IT1,2016
+39099,rodrigo palacio,5,2,1982,Bahía Blanca,Argentina,1982-02-05,attack - Centre-Forward,176,right,,Spain,IT1,2016
+249552,senna miangue,5,2,1997,Antwerpen,Belgium,1997-02-05,Defender - Left-Back,192,left,,Belgium,IT1,2016
+451353,rigoberto rivas,31,7,1998,Balfate,Honduras,1998-07-31,midfield - Attacking Midfield,178,right,,Italy,IT1,2016
+338672,zinho vanheusden,29,7,1999,Hasselt,Belgium,1999-07-29,Defender - Centre-Back,187,right,Belgium,,IT1,2016
+354898,axel bakayoko,6,1,1998,Paris,France,1998-01-06,Defender - Right-Back,179,right,,Cote d'Ivoire,IT1,2016
+145840,trent sainsbury,5,1,1992,Perth,Australia,1992-01-05,Defender - Centre-Back,184,right,,England,IT1,2016
+127189,geoffrey kondogbia,15,2,1993,Nemours,France,1993-02-15,midfield - Defensive Midfield,188,left,,France,IT1,2016
+336704,alassane traoré,28,9,1996,Abidjan,Cote d'Ivoire,1996-09-28,midfield - Central Midfield,180,right,Cote d'Ivoire,,IT1,2016
+27807,daniele padelli,25,10,1985,Lecco,Italy,1985-10-25,Goalkeeper,191,right,Italy,,IT1,2016
+355611,filippo berardi,18,5,1997,San Marino,San Marino,1997-05-18,attack - Right Winger,176,left,,Italy,IT1,2016
+334222,lucas boyé,28,2,1996,San Gregorio,Argentina,1996-02-28,attack - Centre-Forward,183,right,,Italy,IT1,2016
+265072,simone auriletto,30,12,1998,Torino,Italy,1998-12-30,Defender - Centre-Back,188,right,Italy,,IT1,2016
+200188,mattia aramu,14,5,1995,Ciriè,Italy,1995-05-14,midfield - Attacking Midfield,180,left,Italy,,IT1,2016
+60128,luca rossettini,9,5,1985,Padova,Italy,1985-05-09,Defender - Centre-Back,187,right,Italy,,IT1,2016
+124715,nikola maksimovic,25,11,1991,Bajina Bašta,Jugoslawien (SFR),1991-11-25,Defender - Centre-Back,193,right,Serbia,,IT1,2016
+405197,kader kouakou,24,12,1998,,Cote d'Ivoire,1998-12-24,midfield - Left Midfield,,,Cote d'Ivoire,,IT1,2016
+40204,joe hart,19,4,1987,Shrewsbury,England,1987-04-19,Goalkeeper,196,right,England,,IT1,2016
+397824,andrea sana,31,1,1999,Milano,Italy,1999-01-31,Defender - Left-Back,,,Italy,,IT1,2016
+5946,cesare bovo,14,1,1983,Roma,Italy,1983-01-14,Defender - Centre-Back,181,right,Italy,,IT1,2016
+440869,alberto reinaudo,22,3,1998,Savigliano,Italy,1998-03-22,Goalkeeper,,,Italy,,IT1,2016
+173859,davide zappacosta,11,6,1992,Sora,Italy,1992-06-11,Defender - Right-Back,182,right,Italy,,IT1,2016
+84903,mirko valdifiori,21,4,1986,Lugo,Italy,1986-04-21,midfield - Defensive Midfield,185,right,Italy,,IT1,2016
+131098,salvador ichazo,26,1,1992,San José de Mayo,Uruguay,1992-01-26,Goalkeeper,187,left,,Italy,IT1,2016
+69374,adem ljajic,29,9,1991,Novi Pazar,Jugoslawien (SFR),1991-09-29,midfield - Attacking Midfield,182,right,Serbia,,IT1,2016
+59340,iago falque,4,1,1990,Vigo,Spain,1990-01-04,attack - Right Winger,174,left,Spain,,IT1,2016
+54929,leandro castán,5,11,1986,Jaú,Brazil,1986-11-05,Defender - Centre-Back,186,left,,Italy,IT1,2016
+163568,alfred gomis,5,9,1993,Ziguinchor,Senegal,1993-09-05,Goalkeeper,196,right,,Italy,IT1,2016
+393489,domenico coppola,29,1,1999,Torino,Italy,1999-01-29,Goalkeeper,193,right,,Cuba,IT1,2016
+337316,edoardo stanghellini,12,9,1997,Desenzano del Garda,Italy,1997-09-12,Defender - Centre-Back,185,right,Italy,,IT1,2016
+386446,alessandro buongiorno,6,6,1999,Torino,Italy,1999-06-06,Defender - Centre-Back,190,left,Italy,,IT1,2016
+33571,lorenzo de silvestri,23,5,1988,Roma,Italy,1988-05-23,Defender - Right-Back,186,right,Italy,,IT1,2016
+42345,giuseppe vives,14,7,1980,Napoli,Italy,1980-07-14,midfield - Defensive Midfield,178,right,Italy,,IT1,2016
+167727,andrea belotti,20,12,1993,Calcinate,Italy,1993-12-20,attack - Centre-Forward,181,right,Italy,,IT1,2016
+26263,maxi lópez,3,4,1984,Buenos Aires,Argentina,1984-04-03,attack - Centre-Forward,192,right,,Italy,IT1,2016
+159288,arlind ajeti,25,9,1993,Basel,Switzerland,1993-09-25,Defender - Centre-Back,184,right,,Switzerland,IT1,2016
+134883,daniele baselli,12,3,1992,Manerbio,Italy,1992-03-12,midfield - Central Midfield,182,right,Italy,,IT1,2016
+201040,marco benassi,8,9,1994,Modena,Italy,1994-09-08,midfield - Central Midfield,184,right,Italy,,IT1,2016
+148751,bruno peres,1,3,1990,São Paulo,Brazil,1990-03-01,Defender - Right-Back,178,right,Brazil,,IT1,2016
+21972,cristian molinaro,30,7,1983,Vallo della Lucania,Italy,1983-07-30,Defender - Left-Back,182,left,Italy,,IT1,2016
+145581,afriyie acquah,5,1,1992,Sunyani,Ghana,1992-01-05,midfield - Central Midfield,179,right,Ghana,,IT1,2016
+397544,matteo tobaldo,2,4,1998,Torino,Italy,1998-04-02,attack - Centre-Forward,176,right,Italy,,IT1,2016
+255473,samuel gustafson,11,1,1995,Mölndal,Sweden,1995-01-11,midfield - Central Midfield,187,right,Sweden,,IT1,2016
+241889,antonio barreca,18,3,1995,Torino,Italy,1995-03-18,Defender - Left-Back,183,left,Italy,,IT1,2016
+62415,panagiotis tachtsidis,15,2,1991,Nafplio,Greece,1991-02-15,midfield - Defensive Midfield,191,left,Greece,,IT1,2016
+52893,carlão,19,1,1986,São Paulo,Brazil,1986-01-19,Defender - Centre-Back,183,left,Brazil,,IT1,2016
+140748,danilo avelar,9,6,1989,Paranavaí,Brazil,1989-06-09,Defender - Centre-Back,185,left,,Italy,IT1,2016
+5755,emiliano moretti,11,6,1981,Roma,Italy,1981-06-11,Defender - Centre-Back,182,left,Italy,,IT1,2016
+312752,alessio benedetti,7,4,1997,Motta di Livenza,Italy,1997-04-07,Defender - Centre-Back,188,right,Italy,,IT1,2016
+315788,tommaso cucchietti,24,1,1998,Torino,Italy,1998-01-24,Goalkeeper,190,right,Italy,,IT1,2016
+189452,gastón silva,5,3,1994,Salto,Uruguay,1994-03-05,Defender - Centre-Back,185,left,,Italy,IT1,2016
+440878,matteo rossetti,23,7,1998,Saluzzo,Italy,1998-07-23,midfield - Central Midfield,191,left,Italy,,IT1,2016
+245056,sasa lukic,13,8,1996,Šabac,Yugoslavia (Republic),1996-08-13,midfield - Central Midfield,183,right,Serbia,,IT1,2016
+391408,antonio d'alena,24,2,1998,Mottola,Italy,1998-02-24,midfield - Defensive Midfield,175,left,Italy,,IT1,2016
+309847,martin remacle,16,5,1997,Verviers,Belgium,1997-05-16,midfield - Central Midfield,176,right,Belgium,,IT1,2016
+349715,federico giraudo,11,8,1998,Cuneo,Italy,1998-08-11,Defender - Left-Back,182,left,Italy,,IT1,2016
+375816,manuel de luca,17,7,1998,Bolzano/Bozen,Italy,1998-07-17,attack - Centre-Forward,192,both,Italy,,IT1,2016
+81455,juan iturbe,4,6,1993,Buenos Aires,Argentina,1993-06-04,attack - Left Winger,171,left,,Argentina,IT1,2016
+45581,joel obi,22,5,1991,Lagos,Nigeria,1991-05-22,midfield - Central Midfield,178,left,,Italy,IT1,2016
+162569,josef martínez,19,5,1993,Valencia,Venezuela,1993-05-19,attack - Centre-Forward,172,right,Venezuela,,IT1,2016
+84545,marco parolo,25,1,1985,Gallarate,Italy,1985-01-25,midfield - Central Midfield,184,right,Italy,,IT1,2016
+391421,cassio cardoselli,26,7,1998,Roma,Italy,1998-07-26,midfield - Defensive Midfield,187,right,Italy,,IT1,2016
+126729,patric,17,4,1993,Mula,Spain,1993-04-17,Defender - Centre-Back,184,right,Spain,,IT1,2016
+128907,ravel morrison,2,2,1993,Manchester,England,1993-02-02,midfield - Attacking Midfield,175,right,,England,IT1,2016
+339782,alessandro rossi,3,1,1997,Roma,Italy,1997-01-03,attack - Centre-Forward,184,right,Italy,,IT1,2016
+140804,jordan lukaku,25,7,1994,Antwerpen,Belgium,1994-07-25,Defender - Left-Back,177,left,,DR Congo,IT1,2016
+67864,maurício,20,9,1988,São Paulo,Brazil,1988-09-20,Defender - Centre-Back,185,right,Brazil,,IT1,2016
+111196,stefan de vrij,5,2,1992,Ouderkerk aan den IJssel,Netherlands,1992-02-05,Defender - Centre-Back,189,right,Netherlands,,IT1,2016
+253765,wesley hoedt,6,3,1994,Alkmaar,Netherlands,1994-03-06,Defender - Centre-Back,188,left,Netherlands,,IT1,2016
+394309,denis petro,18,6,1999,Michalovce,Slovakia,1999-06-18,Defender - Left-Back,185,left,Slovakia,,IT1,2016
+34553,ivan vargic,15,3,1987,Osijek,Jugoslawien (SFR),1987-03-15,Goalkeeper,192,right,Croatia,,IT1,2016
+277361,vinícius,7,3,1993,Rio de Janeiro,Brazil,1993-03-07,Defender - Left-Back,183,left,,Portugal,IT1,2016
+47065,filip djordjevic,28,9,1987,Belgrad,Jugoslawien (SFR),1987-09-28,attack - Centre-Forward,186,left,Serbia,,IT1,2016
+391933,giorgio spizzichino,10,8,1999,Roma,Italy,1999-08-10,Defender - Right-Back,182,right,Italy,,IT1,2016
+363714,abukar mohamed,1,1,1999,Mogadishu,Somalia,1999-01-01,midfield - Central Midfield,186,right,,Somalia,IT1,2016
+300137,marius adamonis,13,5,1997,Panevezys,Lithuania,1997-05-13,Goalkeeper,191,right,Lithuania,,IT1,2016
+128220,luis alberto,28,9,1992,San José del Valle,Spain,1992-09-28,midfield - Central Midfield,183,right,Spain,,IT1,2016
+77825,etrit berisha,10,3,1989,Prishtinë,Jugoslawien (SFR),1989-03-10,Goalkeeper,194,left,,Sweden,IT1,2016
+82243,moritz leitner,8,12,1992,München,Germany,1992-12-08,midfield - Central Midfield,178,right,,Austria,IT1,2016
+188498,brayan perea,25,2,1993,Santiago de Cali,Colombia,1993-02-25,attack - Centre-Forward,190,right,Colombia,,IT1,2016
+240349,cristiano lombardi,19,8,1995,Viterbo,Italy,1995-08-19,attack - Right Winger,180,right,Italy,,IT1,2016
+289061,alessandro murgia,9,8,1996,Roma,Italy,1996-08-09,midfield - Central Midfield,185,right,Italy,,IT1,2016
+22318,federico marchetti,7,2,1983,Bassano del Grappa,Italy,1983-02-07,Goalkeeper,188,left,Italy,,IT1,2016
+240260,franjo prce,7,1,1996,Čapljina,Bosnia-Herzegovina,1996-01-07,Defender - Centre-Back,185,left,Croatia,,IT1,2016
+159026,ricardo kishna,4,1,1995,Den Haag,Netherlands,1995-01-04,attack - Left Winger,187,left,,Suriname,IT1,2016
+357802,duje javorcic,25,11,1999,Split,Croatia,1999-11-25,midfield - Central Midfield,183,right,Croatia,,IT1,2016
+199733,danilo cataldi,6,8,1994,Roma,Italy,1994-08-06,midfield - Central Midfield,180,right,Italy,,IT1,2016
+381284,luca borrelli,8,7,1998,Roma,Italy,1998-07-08,Goalkeeper,,,Italy,,IT1,2016
+55957,álvaro gonzález,29,10,1984,Montevideo,Uruguay,1984-10-29,midfield - Central Midfield,176,right,,Italy,IT1,2016
+105521,ciro immobile,20,2,1990,Torre Annunziata,Italy,1990-02-20,attack - Centre-Forward,185,right,Italy,,IT1,2016
+222209,thomas strakosha,19,3,1995,Athen,Greece,1995-03-19,Goalkeeper,193,right,,Greece,IT1,2016
+195810,bastos,27,3,1991,Luanda,Angola,1991-03-27,Defender - Centre-Back,180,right,Angola,,IT1,2016
+61449,senad lulic,18,1,1986,Mostar,Jugoslawien (SFR),1986-01-18,midfield - Left Midfield,183,right,,Switzerland,IT1,2016
+377042,michael folorunsho,7,2,1998,Roma,Italy,1998-02-07,midfield - Central Midfield,185,right,,Nigeria,IT1,2016
+19694,dusan basta,18,8,1984,Belgrad,Jugoslawien (SFR),1984-08-18,Defender - Right-Back,183,right,Serbia,,IT1,2016
+238752,keita baldé,8,3,1995,Arbùcies,Spain,1995-03-08,attack - Left Winger,181,both,,Spain,IT1,2016
+266302,sergej milinković-savić,27,2,1995,Lleida,Spain,1995-02-27,midfield - Central Midfield,191,right,,Spain,IT1,2016
+242965,mamadou tounkara,19,1,1996,Blanes,Spain,1996-01-19,attack - Centre-Forward,184,right,,Spain,IT1,2016
+26721,lucas biglia,30,1,1986,Mercedes,Argentina,1986-01-30,midfield - Defensive Midfield,178,right,,Italy,IT1,2016
+248483,christopher oikonomidis,4,5,1995,Sydney,Australia,1995-05-04,attack - Left Winger,180,right,,Greece,IT1,2016
+44420,stefan radu,22,10,1986,Bukarest,Romania,1986-10-22,Defender - Centre-Back,183,left,Romania,,IT1,2016
+289087,joseph marie minala,24,8,1996,Yaoundè,Cameroon,1996-08-24,midfield - Central Midfield,184,right,Cameroon,,IT1,2016
+159372,felipe anderson,15,4,1993,Brasília,Brazil,1993-04-15,attack - Left Winger,175,right,Brazil,,IT1,2016
+228604,luca crecco,6,9,1995,Roma,Italy,1995-09-06,midfield - Left Midfield,183,left,Italy,,IT1,2016
+339566,luca germoni,1,9,1997,Roma,Italy,1997-09-01,Defender - Left-Back,175,right,Italy,,IT1,2016
+225335,wallace,14,10,1994,Rio de Janeiro,Brazil,1994-10-14,Defender - Centre-Back,191,right,Brazil,,IT1,2016
+355501,amadou diawara,17,7,1997,Conakry,Guinea,1997-07-17,midfield - Defensive Midfield,183,right,Guinea,,IT1,2016
+103916,rafael,20,5,1990,Sorocaba,Brazil,1990-05-20,Goalkeeper,186,right,,Portugal,IT1,2016
+93128,kalidou koulibaly,20,6,1991,Saint-Dié-des-Vosges,France,1991-06-20,Defender - Centre-Back,187,right,,France,IT1,2016
+200174,roberto insigne,11,5,1994,Napoli,Italy,1994-05-11,attack - Right Winger,172,left,Italy,,IT1,2016
+225874,igor lasicki,26,6,1995,Wałbrzych,Poland,1995-06-26,Defender - Centre-Back,184,right,Poland,,IT1,2016
+415042,marco milanese,31,7,1998,Isernia,Italy,1998-07-31,Defender - Centre-Back,185,left,Italy,,IT1,2016
+133964,lorenzo insigne,4,6,1991,Frattamaggiore,Italy,1991-06-04,attack - Left Winger,163,right,Italy,,IT1,2016
+99254,luigi sepe,8,5,1991,Torre del Greco,Italy,1991-05-08,Goalkeeper,185,left,Italy,,IT1,2016
+112343,manolo gabbiadini,26,11,1991,Calcinate,Italy,1991-11-26,attack - Centre-Forward,186,left,Italy,,IT1,2016
+317482,marko rog,19,7,1995,Varaždin,Croatia,1995-07-19,midfield - Central Midfield,180,right,Croatia,,IT1,2016
+15452,raúl albiol,4,9,1985,Vilamarxant,Spain,1985-09-04,Defender - Centre-Back,190,right,Spain,,IT1,2016
+126656,faouzi ghoulam,1,2,1991,Saint-Priest-en-Jarez,France,1991-02-01,Defender - Left-Back,184,left,,France,IT1,2016
+181136,piotr zielinski,20,5,1994,Ząbkowice Śląskie,Poland,1994-05-20,midfield - Attacking Midfield,180,both,Poland,,IT1,2016
+433584,alessio zerbin,3,3,1999,Novara,Italy,1999-03-03,attack - Left Winger,182,right,Italy,,IT1,2016
+56416,dries mertens,6,5,1987,Leuven,Belgium,1987-05-06,attack - Centre-Forward,169,right,Belgium,,IT1,2016
+129444,david lópez,9,10,1989,Barcelona,Spain,1989-10-09,midfield - Defensive Midfield,185,right,Spain,,IT1,2016
+126422,allan,8,1,1991,Rio de Janeiro,Brazil,1991-01-08,midfield - Central Midfield,175,right,,Portugal,IT1,2016
+73097,omar el kaddouri,21,8,1990,Brussel,Belgium,1990-08-21,midfield - Central Midfield,185,right,,Belgium,IT1,2016
+31067,jonathan de guzmán,13,9,1987,"Toronto, Ontario",Canada,1987-09-13,midfield - Central Midfield,173,right,,Canada,IT1,2016
+64793,leonardo pavoletti,26,11,1988,Livorno,Italy,1988-11-26,attack - Centre-Forward,188,right,Italy,,IT1,2016
+351898,leandrinho,11,10,1998,Ribeirão Claro,Brazil,1998-10-11,attack - Left Winger,174,right,Brazil,,IT1,2016
+191891,arkadiusz milik,28,2,1994,Tychy,Poland,1994-02-28,attack - Centre-Forward,186,left,Poland,,IT1,2016
+123261,vlad chiriches,14,11,1989,Bacău,Romania,1989-11-14,Defender - Centre-Back,184,right,Romania,,IT1,2016
+111347,lorenzo tonelli,17,1,1990,Firenze,Italy,1990-01-17,Defender - Centre-Back,183,right,Italy,,IT1,2016
+278531,sebastiano luperto,6,9,1996,Lecce,Italy,1996-09-06,Defender - Centre-Back,191,left,Italy,,IT1,2016
+197473,alberto grassi,7,3,1995,Lumezzane,Italy,1995-03-07,midfield - Central Midfield,183,right,Italy,,IT1,2016
+38593,marek hamsik,27,7,1987,Banská Bystrica,CSSR,1987-07-27,midfield - Central Midfield,183,both,Slovakia,,IT1,2016
+87052,nicolao dumitru,12,10,1991,Nacka,Sweden,1991-10-12,attack - Left Winger,184,right,,Romania,IT1,2016
+7825,pepe reina,31,8,1982,Madrid,Spain,1982-08-31,Goalkeeper,188,right,Spain,,IT1,2016
+200056,elseid hysaj,2,2,1994,Shkodër,Albania,1994-02-02,Defender - Right-Back,182,right,Albania,,IT1,2016
+21151,christian maggio,11,2,1982,Montecchio Maggiore,Italy,1982-02-11,Defender - Right-Back,184,right,Italy,,IT1,2016
+84835,emanuele giaccherini,5,5,1985,Bibbiena,Italy,1985-05-05,midfield - Left Midfield,167,right,Italy,,IT1,2016
+102017,jorginho,20,12,1991,Imbituba,Brazil,1991-12-20,midfield - Defensive Midfield,180,right,,Brazil,IT1,2016
+61253,josé callejón,11,2,1987,Motril,Spain,1987-02-11,attack - Right Winger,178,right,Spain,,IT1,2016
+39799,ivan strinic,17,7,1987,Split,Jugoslawien (SFR),1987-07-17,Defender - Left-Back,186,left,Croatia,,IT1,2016
+118689,leonardo spinazzola,25,3,1993,Foligno,Italy,1993-03-25,Defender - Left-Back,186,right,Italy,,IT1,2016
+199258,andrea petagna,30,6,1995,Trieste,Italy,1995-06-30,attack - Centre-Forward,190,left,Italy,,IT1,2016
+312735,bryan cabezas,20,3,1997,Quevedo,Ecuador,1997-03-20,attack - Left Winger,182,right,Ecuador,,IT1,2016
+199976,marco sportiello,10,5,1992,Desio,Italy,1992-05-10,Goalkeeper,192,right,Italy,,IT1,2016
+72441,rafael tolói,10,10,1990,Glória D'Oeste,Brazil,1990-10-10,Defender - Centre-Back,185,right,,Brazil,IT1,2016
+315856,christian capone,28,4,1999,Vigevano,Italy,1999-04-28,attack - Left Winger,183,right,Italy,,IT1,2016
+315853,alessandro bastoni,13,4,1999,Casalmaggiore,Italy,1999-04-13,Defender - Centre-Back,190,left,Italy,,IT1,2016
+163582,salvatore molina,1,1,1992,Garbagnate Milanese,Italy,1992-01-01,midfield - Right Midfield,177,right,Italy,,IT1,2016
+337385,riccardo gatti,30,3,1997,Lecco,Italy,1997-03-30,Defender - Centre-Back,187,left,Italy,,IT1,2016
+163600,emanuele suagher,26,11,1992,Romano di Lombardia,Italy,1992-11-26,Defender - Centre-Back,192,right,Italy,,IT1,2016
+20005,papu gómez,15,2,1988,Buenos Aires,Argentina,1988-02-15,attack - Second Striker,167,right,,Italy,IT1,2016
+294808,franck kessié,19,12,1996,Ouragahio,Cote d'Ivoire,1996-12-19,midfield - Central Midfield,183,right,Cote d'Ivoire,,IT1,2016
+68306,alberto paloschi,4,1,1990,Chiari,Italy,1990-01-04,attack - Centre-Forward,183,right,Italy,,IT1,2016
+197470,mattia caldara,5,5,1994,Bergamo,Italy,1994-05-05,Defender - Centre-Back,187,right,Italy,,IT1,2016
+111227,andrea conti,2,3,1994,Lecco,Italy,1994-03-02,Defender - Right-Back,184,right,Italy,,IT1,2016
+392951,roberto taliento,8,7,1999,Segrate,Italy,1999-07-08,Goalkeeper,186,right,Italy,,IT1,2016
+57110,anthony mounier,27,9,1987,Aubenas,France,1987-09-27,attack - Left Winger,174,left,France,,IT1,2016
+44059,ervin zukanovic,11,2,1987,Sarajevo,Jugoslawien (SFR),1987-02-11,Defender - Centre-Back,188,left,Bosnia-Herzegovina,,IT1,2016
+73457,aleksandar pesic,21,5,1992,Niš,Yugoslavia (Republic),1992-05-21,attack - Centre-Forward,190,right,Serbia,,IT1,2016
+315862,filippo melegoni,18,2,1999,Bergamo,Italy,1999-02-18,midfield - Central Midfield,186,right,Italy,,IT1,2016
+61786,guido marilungo,9,8,1989,Montegranaro,Italy,1989-08-09,attack - Centre-Forward,174,right,Italy,,IT1,2016
+392964,emmanuel latte lath,2,1,1999,Anoumalo Marcory,Cote d'Ivoire,1999-01-02,attack - Centre-Forward,177,right,Cote d'Ivoire,,IT1,2016
+148252,remo freuler,15,4,1992,Ennenda,Switzerland,1992-04-15,midfield - Central Midfield,180,right,Switzerland,,IT1,2016
+41914,davide bassi,12,4,1985,Sarzana,Italy,1985-04-12,Goalkeeper,190,right,Italy,,IT1,2016
+38824,davide brivio,17,3,1988,Milano,Italy,1988-03-17,Defender - Left-Back,184,left,Italy,,IT1,2016
+21756,giulio migliaccio,23,6,1981,Mugnano di Napoli,Italy,1981-06-23,midfield - Central Midfield,180,right,Italy,,IT1,2016
+76387,carlos carmona,21,2,1987,Coquimbo,Chile,1987-02-21,midfield - Defensive Midfield,178,right,Chile,,IT1,2016
+6160,mauricio pinilla,4,2,1984,Santiago de Chile,Chile,1984-02-04,attack - Centre-Forward,187,right,,Italy,IT1,2016
+85825,jasmin kurtic,10,1,1989,Crnomelj,Jugoslawien (SFR),1989-01-10,midfield - Central Midfield,186,right,Slovenia,,IT1,2016
+346528,stefano mazzini,6,12,1998,Crema,Italy,1998-12-06,Goalkeeper,191,right,Italy,,IT1,2016
+244192,pierluigi gollini,18,3,1995,Bologna,Italy,1995-03-18,Goalkeeper,194,right,Italy,,IT1,2016
+22139,abdoulay konko,9,3,1984,Marseille,France,1984-03-09,Defender - Right-Back,184,right,,Morocco,IT1,2016
+275303,hans hateboer,9,1,1994,Beerta,Netherlands,1994-01-09,Defender - Right-Back,185,right,Netherlands,,IT1,2016
+22093,guglielmo stendardo,6,5,1981,Napoli,Italy,1981-05-06,Defender - Centre-Back,190,right,Italy,,IT1,2016
+34198,andrea masiello,5,2,1986,Viareggio,Italy,1986-02-05,Defender - Centre-Back,184,right,Italy,,IT1,2016
+165513,berat djimsiti,19,2,1993,Zürich,Switzerland,1993-02-19,Defender - Centre-Back,190,right,,Switzerland,IT1,2016
+126634,francesco rossi,27,4,1991,Merate,Italy,1991-04-27,Goalkeeper,193,right,Italy,,IT1,2016
+199248,bryan cristante,3,3,1995,San Vito al Tagliamento,Italy,1995-03-03,midfield - Central Midfield,186,right,,Canada,IT1,2016
+22249,cristian raimondi,30,4,1981,San Giovanni Bianco,Italy,1981-04-30,midfield - Right Midfield,182,right,Italy,,IT1,2016
+99232,marco d'alessandro,17,2,1991,Roma,Italy,1991-02-17,attack - Right Winger,173,right,Italy,,IT1,2016
+33442,boukary dramé,22,7,1985,Villepinte,France,1985-07-22,Defender - Left-Back,180,left,,France,IT1,2016
+84442,leonardo capezzi,29,3,1995,Figline Valdarno,Italy,1995-03-29,midfield - Defensive Midfield,178,right,Italy,,IT1,2016
+168933,eddy gnahoré,14,11,1993,Villeneuve-la-Garenne,France,1993-11-14,midfield - Central Midfield,188,right,,Cote d'Ivoire,IT1,2016
+382007,andrej kotnik,4,8,1995,Nova Gorica,Slovenia,1995-08-04,midfield - Attacking Midfield,189,right,Slovenia,,IT1,2016
+195199,aniello salzano,20,7,1991,Napoli,Italy,1991-07-20,midfield - Central Midfield,181,left,Italy,,IT1,2016
+164108,bruno martella,14,8,1992,Atri,Italy,1992-08-14,Defender - Left-Back,183,left,Italy,,IT1,2016
+336760,aniello viscovo,21,6,1999,Massa di Somma,Italy,1999-06-21,Goalkeeper,190,right,Italy,,IT1,2016
+160357,mario sampirisi,31,10,1992,Caltagirone,Italy,1992-10-31,Defender - Right-Back,188,right,Italy,,IT1,2016
+92880,andrea mazzarani,6,11,1989,Roma,Italy,1989-11-06,midfield,180,right,Italy,,IT1,2016
+205809,marcus rohdén,11,5,1991,Värnamo,Sweden,1991-05-11,midfield - Central Midfield,182,right,Sweden,,IT1,2016
+102249,maxwell acosty,10,9,1991,Sunyani,Ghana,1991-09-10,attack - Right Winger,178,right,,Italy,IT1,2016
+160736,noë dussenne,7,4,1992,Mons,Belgium,1992-04-07,Defender - Centre-Back,192,right,Belgium,,IT1,2016
+257660,marco festa,6,6,1992,Montichiari,Italy,1992-06-06,Goalkeeper,190,right,Italy,,IT1,2016
+199597,giuseppe zampano,30,9,1993,Genova,Italy,1993-09-30,midfield - Right Midfield,177,right,Italy,,IT1,2016
+16633,alex cordaz,1,1,1983,Vittorio Veneto,Italy,1983-01-01,Goalkeeper,188,right,Italy,,IT1,2016
+277167,gian marco ferrari,15,5,1992,Parma,Italy,1992-05-15,Defender - Centre-Back,189,left,Italy,,IT1,2016
+129505,marcello trotta,29,9,1992,Santa Maria Capua Vetere,Italy,1992-09-29,attack - Centre-Forward,188,left,Italy,,IT1,2016
+96853,adrian stoian,11,2,1991,Craiova,Romania,1991-02-11,attack - Left Winger,177,both,Romania,,IT1,2016
+87282,aleksandar tonev,3,2,1990,Elin Pelin,Bulgaria,1990-02-03,attack - Left Winger,178,both,Bulgaria,,IT1,2016
+163639,federico ceccherini,11,5,1992,Livorno,Italy,1992-05-11,Defender - Centre-Back,187,right,Italy,,IT1,2016
+146680,andrea barberis,11,12,1993,Genova,Italy,1993-12-11,midfield - Defensive Midfield,177,right,Italy,,IT1,2016
+365565,giuseppe cuomo,2,2,1998,Vico Equense,Italy,1998-02-02,Defender - Centre-Back,190,right,Italy,,IT1,2016
+17735,djamel mesbah,9,10,1984,Zighoud Youcef,Algeria,1984-10-09,Defender - Left-Back,180,left,,France,IT1,2016
+285091,luca bruno,24,8,1996,Longhena,Italy,1996-08-24,Defender - Centre-Back,180,left,Italy,,IT1,2016
+119115,diego falcinelli,26,6,1991,Marsciano,Italy,1991-06-26,attack - Centre-Forward,186,left,Italy,,IT1,2016
+373379,giuseppe borello,28,4,1999,Catanzaro,Italy,1999-04-28,attack - Right Winger,168,left,Italy,,IT1,2016
+28855,raffaele palladino,17,4,1984,Mugnano di Napoli,Italy,1984-04-17,attack - Left Winger,182,right,Italy,,IT1,2016
+86074,nunzio di roberto,21,9,1985,Napoli,Italy,1985-09-21,attack - Right Winger,178,left,Italy,,IT1,2016
+102750,pietro de giorgio,16,2,1983,Praia a Mare,Italy,1983-02-16,attack - Left Winger,178,right,Italy,,IT1,2016
+194549,simy,7,5,1992,Lagos,Nigeria,1992-05-07,attack - Centre-Forward,198,right,Nigeria,,IT1,2016
+318058,manuel nicoletti,9,12,1998,Catanzaro,Italy,1998-12-09,Defender - Left-Back,180,left,Italy,,IT1,2016
+348431,cazim suljic,29,10,1996,Saint-Priest-en-Jarez,France,1996-10-29,midfield - Central Midfield,178,right,,France,IT1,2016
+34239,aleandro rosi,17,5,1987,Roma,Italy,1987-05-17,Defender - Right-Back,180,right,Italy,,IT1,2016
+139169,claiton,7,9,1984,Santa Helena,Brazil,1984-09-07,Defender - Centre-Back,188,left,,Italy,IT1,2016
+200616,valentin cojocaru,1,10,1995,Bukarest,Romania,1995-10-01,Goalkeeper,195,right,Romania,,IT1,2016
+110928,lorenzo crisetig,20,1,1993,Cividale del Friuli,Italy,1993-01-20,midfield - Defensive Midfield,184,left,Italy,,IT1,2016
+278578,andrea nalini,20,6,1990,Isola della Scala,Italy,1990-06-20,attack - Right Winger,180,right,Italy,,IT1,2016
+197744,nicolò fazzi,2,3,1995,Barga,Italy,1995-03-02,midfield - Right Midfield,183,right,Italy,,IT1,2016
+30853,mariano izco,13,3,1983,Buenos Aires,Argentina,1983-03-13,midfield - Central Midfield,180,right,,Italy,IT1,2016
+26105,valter birsa,7,8,1986,Sempeter pri Gorici,Jugoslawien (SFR),1986-08-07,midfield - Attacking Midfield,184,left,Slovenia,,IT1,2016
+24606,bostjan cesar,9,7,1982,Ljubljana,Jugoslawien (SFR),1982-07-09,Defender - Centre-Back,191,left,Slovenia,,IT1,2016
+46105,ivan radovanovic,29,8,1988,Kosovska Mitrovica,Jugoslawien (SFR),1988-08-29,Defender - Centre-Back,187,right,Serbia,,IT1,2016
+324282,fabio depaoli,24,4,1997,Riva del Garda,Italy,1997-04-24,Defender - Right-Back,182,right,Italy,,IT1,2016
+394348,filippo pavoni,8,8,1999,Verona,Italy,1999-08-08,Goalkeeper,186,right,Italy,,IT1,2016
+61757,nicola rigoni,12,11,1990,Schio,Italy,1990-11-12,midfield - Central Midfield,185,right,Italy,,IT1,2016
+159337,roberto inglese,12,11,1991,Lucera,Italy,1991-11-12,attack - Centre-Forward,186,right,Italy,,IT1,2016
+51186,nicolás spolli,20,2,1983,Coronel Bogado,Argentina,1983-02-20,Defender - Centre-Back,193,right,,Italy,IT1,2016
+273776,yusupha bobb,22,6,1996,Banjul,The Gambia,1996-06-22,midfield - Central Midfield,175,left,The Gambia,,IT1,2016
+245134,n'diaye djiby,5,1,1994,Thiès,Senegal,1994-01-05,midfield - Central Midfield,186,right,Senegal,,IT1,2016
+38582,walter bressan,26,1,1981,Oderzo,Italy,1981-01-26,Goalkeeper,183,right,Italy,,IT1,2016
+340639,ngissah bismark,9,1,1998,,Ghana,1998-01-09,attack - Centre-Forward,184,right,Ghana,,IT1,2016
+393804,sofian kiyine,2,10,1997,Verviers,Belgium,1997-10-02,midfield - Central Midfield,182,right,,Belgium,IT1,2016
+28936,riccardo meggiorini,4,9,1985,Isola della Scala,Italy,1985-09-04,attack - Second Striker,182,left,Italy,,IT1,2016
+393806,raul oprut,4,1,1998,Caransebeș,Romania,1998-01-04,Defender - Left-Back,184,left,Romania,,IT1,2016
+37295,perparim hetemaj,12,12,1986,Skënderaj,Jugoslawien (SFR),1986-12-12,midfield - Central Midfield,179,right,,Kosovo,IT1,2016
+393797,alessandro confente,7,6,1998,Soave,Italy,1998-06-07,Goalkeeper,194,right,Italy,,IT1,2016
+289510,samuel bastien,26,9,1996,Meux,Belgium,1996-09-26,midfield - Central Midfield,175,right,,DR Congo,IT1,2016
+5970,dario dainelli,9,6,1979,Pontedera,Italy,1979-06-09,Defender - Centre-Back,191,right,Italy,,IT1,2016
+105892,lucas castro,9,4,1989,La Plata,Argentina,1989-04-09,midfield - Attacking Midfield,182,right,Argentina,,IT1,2016
+21770,gennaro sardo,8,5,1979,Pozzuoli,Italy,1979-05-08,Defender - Right-Back,190,right,Italy,,IT1,2016
+238981,vittorio parigini,25,3,1996,Moncalieri,Italy,1996-03-25,attack - Right Winger,180,right,Italy,,IT1,2016
+21891,stefano sorrentino,28,3,1979,Cava de Tirreni,Italy,1979-03-28,Goalkeeper,186,right,Italy,,IT1,2016
+85605,fabrizio cacciatore,8,10,1986,Torino,Italy,1986-10-08,Defender - Right-Back,182,right,Italy,,IT1,2016
+85380,andrea seculin,14,7,1990,Gorizia,Italy,1990-07-14,Goalkeeper,190,right,Italy,,IT1,2016
+394345,mohamed rabbas,29,9,1999,Fquih Ben Salah,Morocco,1999-09-29,midfield - Central Midfield,178,right,Morocco,,IT1,2016
+16868,alessandro gamberini,27,8,1981,Bologna,Italy,1981-08-27,Defender - Centre-Back,185,right,Italy,,IT1,2016
+5928,sergio pellissier,12,4,1979,Aosta,Italy,1979-04-12,attack - Centre-Forward,175,right,Italy,,IT1,2016
+197743,filippo costa,21,5,1995,Noventa Vicentina,Italy,1995-05-21,Defender - Left-Back,175,left,Italy,,IT1,2016
+28020,massimo gobbi,31,10,1980,Milano,Italy,1980-10-31,Defender - Left-Back,183,left,Italy,,IT1,2016
+287690,filippo damian,21,4,1996,Castelfranco Veneto,Italy,1996-04-21,midfield - Central Midfield,180,right,Italy,,IT1,2016
+73846,paul-josé mpoku,19,4,1992,Kinshasa,Zaire,1992-04-19,attack - Left Winger,174,right,,Belgium,IT1,2016
+394346,emanuel vignato,24,8,2000,Negrar,Italy,2000-08-24,attack - Right Winger,175,right,,Brazil,IT1,2016
+16893,antonio floro flores,18,6,1983,Napoli,Italy,1983-06-18,attack - Centre-Forward,183,right,Italy,,IT1,2016
+349905,cesare pogliano,8,1,1998,Mantova,Italy,1998-01-08,Defender - Centre-Back,190,right,Italy,,IT1,2016
+375320,edoardo sbampato,5,2,1998,Isola della Scala,Italy,1998-02-05,Defender - Centre-Back,185,right,Italy,,IT1,2016
+36293,serge gakpé,7,5,1987,Bondy,France,1987-05-07,attack - Right Winger,176,right,,France,IT1,2016
+337310,lamin jallow,18,12,1995,Banjul,The Gambia,1995-12-18,attack - Centre-Forward,185,right,The Gambia,,IT1,2016
+190206,victor da silva,4,1,1995,Cuiabà,Brazil,1995-01-04,midfield - Attacking Midfield,178,right,Brazil,,IT1,2016
+38591,nicolas frey,6,3,1984,Thonon-les-Bains,France,1984-03-06,Defender - Right-Back,184,right,France,,IT1,2016
+288000,michele troiani,21,7,1996,Verona,Italy,1996-07-21,Defender - Right-Back,181,right,Italy,,IT1,2016
+463356,andrea isufaj,21,11,1999,Brixen/Bressanone,Italy,1999-11-21,attack - Centre-Forward,182,left,,Albania,IT1,2016
+75127,ezequiel muñoz,8,10,1990,Pergamino,Argentina,1990-10-08,Defender - Centre-Back,186,right,,Italy,IT1,2016
+75942,tomás rincón,13,1,1988,San Cristóbal,Venezuela,1988-01-13,midfield - Defensive Midfield,177,right,Venezuela,,IT1,2016
+32113,armando izzo,2,3,1992,Napoli,Italy,1992-03-02,Defender - Centre-Back,183,right,Italy,,IT1,2016
+70411,darko lazovic,15,9,1990,Cacak,Jugoslawien (SFR),1990-09-15,midfield - Left Midfield,181,right,Serbia,,IT1,2016
+84845,francesco renzetti,22,1,1988,Monte Carlo,Monaco,1988-01-22,Defender - Left-Back,173,left,,Monaco,IT1,2016
+407265,luca zanimacchia,19,7,1998,Desio,Italy,1998-07-19,attack - Right Winger,178,right,Italy,,IT1,2016
+110923,mattia perin,10,11,1992,Latina,Italy,1992-11-10,Goalkeeper,188,right,Italy,,IT1,2016
+391686,massimo tazzer,28,5,1999,Genova,Italy,1999-05-28,Defender - Right-Back,,right,Italy,,IT1,2016
+45287,adel taarabt,24,5,1989,Fes,Morocco,1989-05-24,midfield - Attacking Midfield,180,right,,France,IT1,2016
+3417,nicolás burdisso,12,4,1981,Altos de Chipión,Argentina,1981-04-12,Defender - Centre-Back,183,right,,Italy,IT1,2016
+21887,giovanni marchese,17,10,1984,Caltanissetta,Italy,1984-10-17,Defender - Left-Back,180,left,Italy,,IT1,2016
+169052,edenilson,18,12,1989,Porto Alegre,Brazil,1989-12-18,midfield - Central Midfield,175,right,Brazil,,IT1,2016
+345742,alessandro quaini,17,9,1998,Cremona,Italy,1998-09-17,midfield - Central Midfield,182,right,Italy,,IT1,2016
+189441,lucas ocampos,11,7,1994,Quilmes,Argentina,1994-07-11,attack - Left Winger,187,both,,Spain,IT1,2016
+43848,miguel veloso,11,5,1986,Coimbra,Portugal,1986-05-11,midfield - Defensive Midfield,180,left,Portugal,,IT1,2016
+230552,diego laxalt,7,2,1993,Montevideo,Uruguay,1993-02-07,Defender - Left-Back,178,left,,Italy,IT1,2016
+199941,andrea beghetto,11,10,1994,Perugia,Italy,1994-10-11,Defender - Left-Back,182,left,Italy,,IT1,2016
+147558,lukas zima,9,1,1994,Hradec Králové,Czech Republic,1994-01-09,Goalkeeper,196,right,Czech Republic,,IT1,2016
+364133,pietro pellegri,17,3,2001,Genova,Italy,2001-03-17,attack - Centre-Forward,188,right,Italy,,IT1,2016
+282388,giovanni simeone,5,7,1995,Madrid,Spain,1995-07-05,attack - Centre-Forward,181,right,,Spain,IT1,2016
+371089,alex coppola,30,3,1997,Genova,Italy,1997-03-30,Defender - Centre-Back,190,both,Italy,,IT1,2016
+85240,eugenio lamanna,7,8,1989,Como,Italy,1989-08-07,Goalkeeper,187,right,Italy,,IT1,2016
+224088,olivier ntcham,9,2,1996,Longjumeau,France,1996-02-09,midfield - Central Midfield,180,right,,Cameroon,IT1,2016
+348676,diego faccioli,8,7,1998,Torino,Italy,1998-07-08,Goalkeeper,191,right,Italy,,IT1,2016
+168944,nikola ninkovic,19,12,1994,Bogatić,Yugoslavia (Republic),1994-12-19,attack - Left Winger,182,right,Serbia,,IT1,2016
+37598,rubinho,4,8,1982,Guarulhos,Brazil,1982-08-04,Goalkeeper,186,right,,Italy,IT1,2016
+158810,oscar hiljemark,28,6,1992,Gislaved,Sweden,1992-06-28,midfield - Central Midfield,184,right,Sweden,,IT1,2016
+110309,lucas orbán,3,2,1989,Capital Federal,Argentina,1989-02-03,Defender - Centre-Back,179,left,,Spain,IT1,2016
+183494,issa cissokho,23,2,1985,Paris,France,1985-02-23,Defender - Right-Back,173,right,,France,IT1,2016
+240415,leonardo morosini,13,10,1995,Ponte San Pietro,Italy,1995-10-13,midfield - Attacking Midfield,175,right,Italy,,IT1,2016
+340260,raúl asencio,20,5,1998,Villarreal,Spain,1998-05-20,attack - Centre-Forward,187,right,,Brazil,IT1,2016
+30782,santiago gentiletti,9,1,1985,Godeken,Argentina,1985-01-09,Defender - Centre-Back,182,left,,Italy,IT1,2016
+22210,luca rigoni,7,12,1984,Schio,Italy,1984-12-07,midfield - Central Midfield,185,right,Italy,,IT1,2016
+99327,isaac cofie,20,9,1991,Accra,Ghana,1991-09-20,midfield - Defensive Midfield,184,right,Ghana,,IT1,2016
+199927,davide biraschi,2,7,1994,Roma,Italy,1994-07-02,Defender - Centre-Back,182,right,Italy,,IT1,2016
+197745,riccardo fiamozzi,18,5,1993,Mezzocorona,Italy,1993-05-18,Defender - Right-Back,175,right,Italy,,IT1,2016
+12563,goran pandev,27,7,1983,Strumica,Jugoslawien (SFR),1983-07-27,attack - Second Striker,184,left,,Italy,IT1,2016
+129476,gerard deulofeu,13,3,1994,Riudarenes,Spain,1994-03-13,attack - Left Winger,177,right,Spain,,IT1,2016
+130394,gianluca lapadula,7,2,1990,Torino,Italy,1990-02-07,attack - Centre-Forward,178,left,,Italy,IT1,2016
+253267,hachim mastour,15,6,1998,Reggio Emilia,Italy,1998-06-15,midfield - Attacking Midfield,175,right,,Italy,IT1,2016
+357991,alessandro plizzari,12,3,2000,Crema,Italy,2000-03-12,Goalkeeper,187,right,Italy,,IT1,2016
+44834,andrea poli,29,9,1989,Vittorio Veneto,Italy,1989-09-29,midfield - Central Midfield,182,right,Italy,,IT1,2016
+323167,matteo gabbia,21,10,1999,Busto Arsizio,Italy,1999-10-21,Defender - Centre-Back,185,right,Italy,,IT1,2016
+88682,mattia de sciglio,20,10,1992,Milano,Italy,1992-10-20,Defender - Right-Back,183,right,Italy,,IT1,2016
+176140,rodrigo ely,3,11,1993,Lajeado RS,Brazil,1993-11-03,Defender - Centre-Back,188,right,,Italy,IT1,2016
+111961,suso,19,11,1993,Cádiz,Spain,1993-11-19,attack - Right Winger,177,left,Spain,,IT1,2016
+124203,mattia el hilali,20,1,1998,Milano,Italy,1998-01-20,midfield - Defensive Midfield,178,right,,Italy,IT1,2016
+215390,gustavo gómez,6,5,1993,Misiones,Paraguay,1993-05-06,Defender - Centre-Back,185,right,Paraguay,,IT1,2016
+197747,alessio romagnoli,12,1,1995,Anzio,Italy,1995-01-12,Defender - Centre-Back,185,left,Italy,,IT1,2016
+265088,manuel locatelli,8,1,1998,Lecco,Italy,1998-01-08,midfield - Defensive Midfield,185,right,Italy,,IT1,2016
+157501,m'baye niang,19,12,1994,Meulan,France,1994-12-19,attack - Centre-Forward,188,right,,France,IT1,2016
+30767,gabriel paletta,15,2,1986,Longchamps,Argentina,1986-02-15,Defender - Centre-Back,190,right,,Argentina,IT1,2016
+265078,patrick cutrone,3,1,1998,Como,Italy,1998-01-03,attack - Centre-Forward,183,right,Italy,,IT1,2016
+315858,gianluigi donnarumma,25,2,1999,Castellammare di Stabia,Italy,1999-02-25,Goalkeeper,196,right,Italy,,IT1,2016
+99227,andrea bertolacci,11,1,1991,Roma,Italy,1991-01-11,midfield - Central Midfield,179,left,Italy,,IT1,2016
+262523,davide calabria,6,12,1996,Brescia,Italy,1996-12-06,Defender - Right-Back,176,right,Italy,,IT1,2016
+262972,jherson vergara,26,5,1994,Florida,Colombia,1994-05-26,Defender - Centre-Back,190,right,Colombia,,IT1,2016
+20137,josé sosa,19,6,1985,Carcarañá,Argentina,1985-06-19,midfield - Central Midfield,179,right,Argentina,,IT1,2016
+45565,luca antonelli,11,2,1987,Monza,Italy,1987-02-11,Defender - Left-Back,184,left,Italy,,IT1,2016
+66521,keisuke honda,13,6,1986,"Settsu, Osaka",Japan,1986-06-13,midfield - Attacking Midfield,182,left,Japan,,IT1,2016
+354910,raul zucchetti,28,1,1998,Rho,Italy,1998-01-28,Defender - Left-Back,185,left,Italy,,IT1,2016
+343945,niccolò zanellato,24,6,1998,Milano,Italy,1998-06-24,midfield - Central Midfield,187,right,Italy,,IT1,2016
+37918,matías fernández,15,5,1986,Caballito,Argentina,1986-05-15,midfield - Attacking Midfield,176,right,,Argentina,IT1,2016
+57280,giacomo bonaventura,22,8,1989,San Severino Marche,Italy,1989-08-22,midfield - Central Midfield,180,right,Italy,,IT1,2016
+205938,mario pasalic,9,2,1995,Mainz,Germany,1995-02-09,midfield - Central Midfield,188,right,Croatia,,IT1,2016
+19446,riccardo montolivo,18,1,1985,Milano,Italy,1985-01-18,midfield - Defensive Midfield,181,right,,Germany,IT1,2016
+119235,carlos bacca,8,9,1986,Puerto Colombia,Colombia,1986-09-08,attack - Centre-Forward,181,right,Colombia,,IT1,2016
+55895,leonel vangioni,5,5,1987,Villa Constitución,Argentina,1987-05-05,Defender - Left-Back,181,left,,Italy,IT1,2016
+48974,luiz adriano,12,4,1987,Porto Alegre,Brazil,1987-04-12,attack - Centre-Forward,184,right,Brazil,,IT1,2016
+354909,giorgio altare,9,8,1998,Bergamo,Italy,1998-08-09,Defender - Centre-Back,190,right,Italy,,IT1,2016
+16631,ignazio abate,12,11,1986,Sant'Agata dè Goti,Italy,1986-11-12,Defender - Right-Back,180,right,Italy,,IT1,2016
+34370,diego lópez,3,11,1981,Paradela,Spain,1981-11-03,Goalkeeper,196,right,Spain,,IT1,2016
+240958,josé mauri,16,5,1996,Realicó,Argentina,1996-05-16,midfield - Central Midfield,169,right,,Argentina,IT1,2016
+392530,alessandro guarnone,27,3,1999,Milano,Italy,1999-03-27,Goalkeeper,189,right,Italy,,IT1,2016
+74943,juraj kucka,26,2,1987,Bojnice,CSSR,1987-02-26,midfield - Central Midfield,186,right,Slovakia,,IT1,2016
+34344,cristián zapata,30,9,1986,Padilla,Colombia,1986-09-30,Defender - Centre-Back,187,right,Colombia,,IT1,2016
+79242,gabriel,27,9,1992,Unaí,Brazil,1992-09-27,Goalkeeper,193,right,Brazil,,IT1,2016
+19136,marco storari,7,1,1977,Pisa,Italy,1977-01-07,Goalkeeper,187,right,Italy,,IT1,2016
+188157,sebastián cristóforo,23,8,1993,Montevideo,Uruguay,1993-08-23,midfield - Central Midfield,173,right,,Italy,IT1,2016
+87210,davide astori,7,1,1987,San Giovanni Bianco,Italy,1987-01-07,Defender - Centre-Back,189,left,Italy,,IT1,2016
+146596,amidu salifu,20,9,1992,Accra,Ghana,1992-09-20,midfield - Central Midfield,182,right,Ghana,,IT1,2016
+56830,sebastien de maio,5,3,1987,Saint Denis,France,1987-03-05,Defender - Centre-Back,190,right,,Italy,IT1,2016
+323255,giacomo satalino,20,5,1999,Putignano,Italy,1999-05-20,Goalkeeper,188,right,Italy,,IT1,2016
+208166,bartlomiej dragowski,19,8,1997,Białystok,Poland,1997-08-19,Goalkeeper,191,right,Poland,,IT1,2016
+141834,cristian tello,11,8,1991,Sabadell,Spain,1991-08-11,attack - Left Winger,178,both,Spain,,IT1,2016
+231614,gilberto,7,3,1993,Rio de Janeiro,Brazil,1993-03-07,Defender - Right-Back,181,right,Brazil,,IT1,2016
+36371,nikola kalinic,5,1,1988,Solin,Jugoslawien (SFR),1988-01-05,attack - Centre-Forward,187,both,Croatia,,IT1,2016
+55282,ciprian tatarusanu,9,2,1986,Bukarest,Romania,1986-02-09,Goalkeeper,198,right,Romania,,IT1,2016
+197300,federico bernardeschi,16,2,1994,Carrara,Italy,1994-02-16,attack - Right Winger,183,left,Italy,,IT1,2016
+341092,federico chiesa,25,10,1997,Genova,Italy,1997-10-25,attack - Right Winger,175,right,Italy,,IT1,2016
+351506,josh pérez,21,1,1998,"Montebello, California",United States,1998-01-21,attack - Right Winger,165,left,,United States,IT1,2016
+398031,fabio maistro,5,4,1998,Rovigo,Italy,1998-04-05,midfield - Central Midfield,180,right,Italy,,IT1,2016
+135747,luca lezzerini,24,3,1995,Roma,Italy,1995-03-24,Goalkeeper,195,right,Italy,,IT1,2016
+291856,ricardo bagadur,16,9,1995,Rijeka,Croatia,1995-09-16,Defender - Centre-Back,189,right,,Belgium,IT1,2016
+398025,riccardo baroni,19,9,1998,Firenze,Italy,1998-09-19,Defender - Centre-Back,183,left,Italy,,IT1,2016
+143812,matías vecino,24,8,1991,Canelones,Uruguay,1991-08-24,midfield - Central Midfield,187,right,,Italy,IT1,2016
+357983,simone ghidotti,19,3,2000,Brescia,Italy,2000-03-19,Goalkeeper,193,right,Italy,,IT1,2016
+464307,tomás reymão,14,7,1998,Lisboa,Portugal,1998-07-14,midfield - Defensive Midfield,188,right,,England,IT1,2016
+397896,hernán toledo,17,1,1996,Sastre,Argentina,1996-01-17,attack - Left Winger,180,right,Argentina,,IT1,2016
+179757,maximiliano olivera,5,3,1992,Montevideo,Uruguay,1992-03-05,Defender - Left-Back,182,left,,Spain,IT1,2016
+112515,marcos alonso,28,12,1990,Madrid,Spain,1990-12-28,Defender - Left-Back,188,left,Spain,,IT1,2016
+80351,josip ilicic,29,1,1988,Prijedor,Jugoslawien (SFR),1988-01-29,attack - Second Striker,190,left,,Croatia,IT1,2016
+88909,riccardo saponara,21,12,1991,Forlì,Italy,1991-12-21,midfield - Attacking Midfield,184,right,Italy,,IT1,2016
+51226,carlos sánchez,6,2,1986,Quibdó,Colombia,1986-02-06,midfield - Defensive Midfield,182,left,Colombia,,IT1,2016
+335209,kevin diks,6,10,1996,Apeldoorn,Netherlands,1996-10-06,Defender - Right-Back,182,right,,Indonesia,IT1,2016
+47085,nenad tomović,30,8,1987,Kragujevac,Jugoslawien (SFR),1987-08-30,Defender - Centre-Back,184,right,Serbia,,IT1,2016
+238654,jaime báez,25,4,1995,Montevideo,Uruguay,1995-04-25,attack - Left Winger,178,right,,Spain,IT1,2016
+256866,carlos salcedo,29,9,1993,Guadalajara,Mexico,1993-09-29,Defender - Centre-Back,184,right,Mexico,,IT1,2016
+282076,ianis hagi,22,10,1998,Istanbul,Turkey,1998-10-22,attack - Right Winger,182,both,,Turkey,IT1,2016
+26456,mauro zárate,18,3,1987,Morón,Argentina,1987-03-18,attack - Second Striker,175,right,,Chile,IT1,2016
+19104,giuseppe rossi,1,2,1987,"Teaneck, New Jersey",United States,1987-02-01,attack - Centre-Forward,173,left,,United States,IT1,2016
+124902,khouma babacar,17,3,1993,Thiès,Senegal,1993-03-17,attack - Centre-Forward,185,right,Senegal,,IT1,2016
+19998,gonzalo rodríguez,10,4,1984,Buenos Aires,Argentina,1984-04-10,Defender - Centre-Back,182,right,,Spain,IT1,2016
+309180,jan mlakar,23,10,1998,Ljubljana,Slovenia,1998-10-23,attack - Centre-Forward,183,right,Slovenia,,IT1,2016
+40372,borja valero,12,1,1985,Madrid,Spain,1985-01-12,midfield - Central Midfield,175,right,Spain,,IT1,2016
+370701,michele cerofolini,4,1,1999,Arezzo,Italy,1999-01-04,Goalkeeper,188,right,Italy,,IT1,2016
+46423,hrvoje milic,10,5,1989,Osijek,Jugoslawien (SFR),1989-05-10,Defender - Left-Back,183,left,Croatia,,IT1,2016
+40633,milan badelj,25,2,1989,Zagreb,Jugoslawien (SFR),1989-02-25,midfield - Defensive Midfield,186,right,Croatia,,IT1,2016
+101922,fabio pisacane,28,1,1986,Napoli,Italy,1986-01-28,Defender - Centre-Back,178,right,Italy,,IT1,2016
+402193,kwang-song han,11,9,1998,Pyongyang,"Korea, North",1998-09-11,attack - Centre-Forward,178,both,"Korea, North",,IT1,2016
+403718,matias antonini,9,4,1998,Porto Alegre,Brazil,1998-04-09,Defender - Centre-Back,193,right,,Italy,IT1,2016
+163062,luca bittante,14,8,1993,Bassano del Grappa,Italy,1993-08-14,Defender - Right-Back,184,right,Italy,,IT1,2016
+395597,andrea cadili,5,6,1999,San Gavino Monreale,Italy,1999-06-05,Defender - Centre-Back,187,left,Italy,,IT1,2016
+138584,luka krajnc,19,9,1994,Ptuj,Slovenia,1994-09-19,Defender - Centre-Back,187,left,Slovenia,,IT1,2016
+98888,artur ionita,17,8,1990,Chişinău,UdSSR,1990-08-17,midfield - Central Midfield,184,both,,Romania,IT1,2016
+29962,daniele dessena,10,5,1987,Parma,Italy,1987-05-10,midfield - Central Midfield,182,right,Italy,,IT1,2016
+167796,paolo faragò,12,2,1993,Catanzaro,Italy,1993-02-12,Defender - Right-Back,187,right,Italy,,IT1,2016
+265077,luca crosta,23,2,1998,Milano,Italy,1998-02-23,Goalkeeper,190,right,Italy,,IT1,2016
+395596,andrea mastino,2,9,1999,Carbonia,Italy,1999-09-02,Defender - Right-Back,176,right,Italy,,IT1,2016
+43722,mauricio isla,12,6,1988,Buin,Chile,1988-06-12,Defender - Right-Back,176,right,Chile,,IT1,2016
+56703,simone padoin,18,3,1984,Gemona del Friuli,Italy,1984-03-18,midfield - Left Midfield,177,right,Italy,,IT1,2016
+43411,roberto colombo,24,8,1975,Monza,Italy,1975-08-24,Goalkeeper,190,left,Italy,,IT1,2016
+71019,bartosz salamon,1,5,1991,Poznań,Poland,1991-05-01,Defender - Centre-Back,194,right,Poland,,IT1,2016
+459758,ilya bryukhov,8,8,1998,Donetsk,Ukraine,1998-08-08,Defender - Centre-Back,185,right,Ukraine,,IT1,2016
+396681,roberto biancu,19,1,2000,Sassari,Italy,2000-01-19,midfield - Attacking Midfield,175,right,Italy,,IT1,2016
+52136,davide di gennaro,16,6,1988,Milano,Italy,1988-06-16,midfield - Defensive Midfield,180,left,Italy,,IT1,2016
+55801,marco sau,3,11,1987,Sorgono,Italy,1987-11-03,attack - Centre-Forward,169,right,Italy,,IT1,2016
+171399,nicola murru,16,12,1994,Cagliari,Italy,1994-12-16,Defender - Left-Back,180,left,Italy,,IT1,2016
+129129,joão pedro,9,3,1992,Ipatinga,Brazil,1992-03-09,attack - Second Striker,184,right,,Portugal,IT1,2016
+371320,mirko bizzi,18,8,1999,Segrate,Italy,1999-08-18,Goalkeeper,184,both,Italy,,IT1,2016
+13121,bruno alves,27,11,1981,Póvoa de Varzim,Portugal,1981-11-27,Defender - Centre-Back,189,right,,Brazil,IT1,2016
+190634,marko pajac,11,5,1993,Zagreb,Croatia,1993-05-11,Defender - Left-Back,185,left,Croatia,,IT1,2016
+92141,víctor ibarbo,19,5,1990,Santiago de Cali,Colombia,1990-05-19,attack - Second Striker,188,right,Colombia,,IT1,2016
+164091,marco capuano,14,10,1991,Pescara,Italy,1991-10-14,Defender - Centre-Back,186,left,Italy,,IT1,2016
+5825,marco borriello,18,6,1982,Napoli,Italy,1982-06-18,attack - Centre-Forward,186,left,Italy,,IT1,2016
+22598,gianni munari,24,6,1983,Sassuolo,Italy,1983-06-24,midfield - Central Midfield,190,right,Italy,,IT1,2016
+102745,luca ceppitelli,11,8,1989,Castiglione del Lago,Italy,1989-08-11,Defender - Centre-Back,186,both,Italy,,IT1,2016
+420849,matteo volteggi,23,2,1998,Urbino,Italy,1998-02-23,Defender - Centre-Back,,,Italy,,IT1,2016
+373898,nicholas pennington,18,12,1998,Roma,Italy,1998-12-18,midfield - Central Midfield,182,right,,Australia,IT1,2016
+255942,nicolò barella,7,2,1997,Cagliari,Italy,1997-02-07,midfield - Central Midfield,172,right,Italy,,IT1,2016
+396359,riccardo taccori,15,2,1998,Cagliari,Italy,1998-02-15,midfield - Central Midfield,170,,Italy,,IT1,2016
+99235,niccolò giannetti,12,5,1991,Siena,Italy,1991-05-12,attack - Centre-Forward,181,right,Italy,,IT1,2016
+46060,federico melchiorri,6,1,1987,Treia,Italy,1987-01-06,attack - Centre-Forward,183,right,Italy,,IT1,2016
+235931,alessandro deiola,1,8,1995,San Gavino Monreale,Italy,1995-08-01,midfield - Central Midfield,190,right,Italy,,IT1,2016
+302478,davide arras,2,4,1998,Olbia,Italy,1998-04-02,attack - Centre-Forward,176,right,Italy,,IT1,2016
+162551,federico serra,9,12,1997,Cagliari,Italy,1997-12-09,attack - Left Winger,167,left,Italy,,IT1,2016
+445434,vasco da cunha,28,5,2000,Lisboa,Portugal,2000-05-28,Defender - Centre-Back,187,left,Portugal,,IT1,2016
+83877,diego farias,10,5,1990,Sorocaba,Brazil,1990-05-10,attack - Left Winger,172,right,,Italy,IT1,2016
+84467,rafael,3,3,1982,São Paulo,Brazil,1982-03-03,Goalkeeper,187,right,,Italy,IT1,2016
+396094,riccardo daga,13,1,2000,Cagliari,Italy,2000-01-13,Goalkeeper,192,right,Italy,,IT1,2016
+164897,jean-christophe bahebeck,1,5,1993,Saint-Denis,France,1993-05-01,attack - Centre-Forward,182,right,,Cameroon,IT1,2016
+165381,dario zuparic,3,5,1992,Županja,Croatia,1992-05-03,Defender - Centre-Back,188,right,,Bosnia-Herzegovina,IT1,2016
+141654,michele fornasier,22,8,1993,Vittorio Veneto,Italy,1993-08-22,Defender - Centre-Back,186,right,Italy,,IT1,2016
+162961,valerio verre,11,1,1994,Roma,Italy,1994-01-11,midfield - Central Midfield,181,both,Italy,,IT1,2016
+355479,ferdinando del sole,17,1,1998,Napoli,Italy,1998-01-17,attack - Right Winger,179,left,Italy,,IT1,2016
+342817,leonardo maloku,18,5,1998,Tiranë,Albania,1998-05-18,Defender - Right-Back,185,right,Albania,,IT1,2016
+197751,alberto cerri,16,4,1996,Parma,Italy,1996-04-16,attack - Centre-Forward,194,right,Italy,,IT1,2016
+298635,grigoris kastanos,30,1,1998,"Sotira, Famagusta",Cyprus,1998-01-30,midfield - Attacking Midfield,179,left,Cyprus,,IT1,2016
+364635,francesco mele,23,6,1998,Chieti,Italy,1998-06-23,midfield - Defensive Midfield,181,right,Italy,,IT1,2016
+28828,gabriele aldegani,10,5,1976,Venezia,Italy,1976-05-10,Goalkeeper,195,right,Italy,,IT1,2016
+303182,nazareno battista,13,4,1998,Foggia,Italy,1998-04-13,attack - Right Winger,175,both,Italy,,IT1,2016
+205054,norbert gyomber,3,7,1992,Revúca,CSSR,1992-07-03,Defender - Centre-Back,189,right,Slovakia,,IT1,2016
+226085,robert muric,12,3,1996,Varaždin,Croatia,1996-03-12,attack - Right Winger,180,left,Croatia,,IT1,2016
+165893,mirko pigliacelli,30,6,1993,Roma,Italy,1993-06-30,Goalkeeper,184,right,Italy,,IT1,2016
+5878,alberto gilardino,5,7,1982,Biella,Italy,1982-07-05,attack - Centre-Forward,184,right,Italy,,IT1,2016
+124555,cristiano biraghi,1,9,1992,Cernusco sul Naviglio,Italy,1992-09-01,Defender - Left-Back,185,left,Italy,,IT1,2016
+308278,rey manaj,24,2,1997,Lushnjë,Albania,1997-02-24,attack - Centre-Forward,182,both,,Italy,IT1,2016
+5957,alberto aquilani,7,7,1984,Roma,Italy,1984-07-07,midfield - Central Midfield,186,right,Italy,,IT1,2016
+121402,ahmad benali,7,2,1992,Manchester,England,1992-02-07,midfield - Central Midfield,173,right,,England,IT1,2016
+131109,gastón brugman,7,9,1992,Rosario,Uruguay,1992-09-07,midfield - Defensive Midfield,175,right,,Italy,IT1,2016
+7797,albano bizzarri,9,11,1977,Etruria,Argentina,1977-11-09,Goalkeeper,188,right,,Italy,IT1,2016
+21782,hugo campagnaro,27,6,1980,Cordoba,Argentina,1980-06-27,Defender - Centre-Back,181,right,,Italy,IT1,2016
+400931,ibrahima diallo,10,10,1998,Télimélé,Guinea,1998-10-10,Defender - Left-Back,181,left,Guinea,,IT1,2016
+395539,marco acatullo,3,1,1998,Caserta,Italy,1998-01-03,attack - Centre-Forward,184,both,Italy,,IT1,2016
+130498,francesco nicastro,26,10,1991,Campofranco,Italy,1991-10-26,attack - Right Winger,182,left,Italy,,IT1,2016
+96758,alessandro crescenzi,25,9,1991,Marino,Italy,1991-09-25,Defender - Left-Back,178,both,Italy,,IT1,2016
+157167,hrvoje milicevic,20,4,1993,Mostar,Bosnia-Herzegovina,1993-04-20,Defender - Centre-Back,192,right,,Bosnia-Herzegovina,IT1,2016
+472161,mamadou coulibaly,3,2,1999,Thies,Senegal,1999-02-03,midfield - Central Midfield,183,right,Senegal,,IT1,2016
+216872,francesco zampano,30,9,1993,Genova,Italy,1993-09-30,Defender - Right-Back,177,right,Italy,,IT1,2016
+459991,marco pompetti,22,5,2000,Pescara,Italy,2000-05-22,midfield - Defensive Midfield,176,left,Italy,,IT1,2016
+139634,ledian memushaj,7,12,1986,Vlorë,Albania,1986-12-07,midfield - Central Midfield,175,right,Albania,,IT1,2016
+77910,alessandro bruno,4,7,1983,Benevento,Italy,1983-07-04,midfield - Central Midfield,180,right,Italy,,IT1,2016
+323872,andrés cubas,22,5,1996,Aristóbulo del Valle,Argentina,1996-05-22,midfield - Defensive Midfield,166,right,,Argentina,IT1,2016
+146752,gianluca caprari,30,7,1993,Roma,Italy,1993-07-30,attack - Left Winger,171,right,Italy,,IT1,2016
+41912,simone aresti,15,3,1986,Carbonia,Italy,1986-03-15,Goalkeeper,187,right,Italy,,IT1,2016
+382571,francesco forte,13,11,1998,Pozzuoli,Italy,1998-11-13,Defender - Centre-Back,190,,Italy,,IT1,2016
+386576,simone mancini,7,1,1999,Latina,Italy,1999-01-07,attack - Centre-Forward,192,right,Italy,,IT1,2016
+28833,andrea coda,25,4,1985,Massa,Italy,1985-04-25,Defender - Centre-Back,188,right,Italy,,IT1,2016
+292333,ransford selasi,19,8,1996,Obuasi,Ghana,1996-08-19,midfield - Central Midfield,178,right,Ghana,,IT1,2016
+17129,sulley muntari,27,8,1984,Konongo,Ghana,1984-08-27,midfield - Central Midfield,179,left,Ghana,,IT1,2016
+393904,filippo delli carri,3,5,1999,Torino,Italy,1999-05-03,Defender - Centre-Back,191,left,Italy,,IT1,2016
+267101,davide vitturini,21,2,1997,L'Aquila,Italy,1997-02-21,Defender - Right-Back,180,right,Italy,,IT1,2016
+55000,vincenzo fiorillo,13,1,1990,Genova,Italy,1990-01-13,Goalkeeper,190,left,Italy,,IT1,2016
+130369,stefano pettinari,27,1,1992,Roma,Italy,1992-01-27,attack - Centre-Forward,185,right,Italy,,IT1,2016
+392550,piermarco d'angelo,25,10,1999,Pescara,Italy,1999-10-25,midfield - Defensive Midfield,179,right,Italy,,IT1,2016
+17249,simone pepe,30,8,1983,Albano Laziale,Italy,1983-08-30,attack - Right Winger,178,right,Italy,,IT1,2016
+209649,alexandru mitrita,8,2,1995,Craiova,Romania,1995-02-08,attack - Left Winger,167,right,Romania,,IT1,2016
+111433,frédéric veseli,20,11,1992,Renens,Switzerland,1992-11-20,Defender - Centre-Back,183,right,,Switzerland,IT1,2016
+3713,massimo maccarone,6,9,1979,Galliate,Italy,1979-09-06,attack - Centre-Forward,180,right,Italy,,IT1,2016
+356010,alessio zini,3,1,1998,Livorno,Italy,1998-01-03,Defender - Centre-Back,185,right,Italy,,IT1,2016
+355048,davide seminara,5,7,1998,Pisa,Italy,1998-07-05,Defender - Left-Back,181,left,Italy,,IT1,2016
+149829,miha zajc,1,7,1994,Sempeter pri Gorici,Slovenia,1994-07-01,midfield - Central Midfield,178,right,Slovenia,,IT1,2016
+94936,vincent laurini,10,6,1989,Thionville,France,1989-06-10,Defender - Right-Back,173,right,,Italy,IT1,2016
+287635,assane dioussé,20,9,1997,Dakar,Senegal,1997-09-20,midfield - Defensive Midfield,175,left,Senegal,,IT1,2016
+74956,marcel büchel,18,3,1991,Feldkirch,Austria,1991-03-18,midfield - Central Midfield,175,left,,Austria,IT1,2016
+163053,mame thiam,9,10,1992,Nguidile,Senegal,1992-10-09,attack - Left Winger,185,right,,Italy,IT1,2016
+56912,levan mchedlidze,24,3,1990,Tiflis,UdSSR,1990-03-24,attack - Centre-Forward,192,left,Georgia,,IT1,2016
+323934,matheus pereira,25,2,1998,São Paulo,Brazil,1998-02-25,midfield - Attacking Midfield,183,left,Brazil,,IT1,2016
+331389,andrés tello,6,9,1996,Medellín,Colombia,1996-09-06,midfield - Central Midfield,180,right,Colombia,,IT1,2016
+305686,alberto picchi,12,8,1997,Livorno,Italy,1997-08-12,midfield - Central Midfield,185,left,Italy,,IT1,2016
+163690,franco signorelli,1,1,1991,Mérida,Venezuela,1991-01-01,midfield - Central Midfield,178,right,,Italy,IT1,2016
+34336,andrea costa,1,2,1986,Reggio Emilia,Italy,1986-02-01,Defender - Centre-Back,182,left,Italy,,IT1,2016
+302486,lapo carradori,6,6,1998,Firenze,Italy,1998-06-06,Defender - Right-Back,,right,Italy,,IT1,2016
+163683,manuel pucciarelli,17,6,1991,Prato,Italy,1991-06-17,attack - Second Striker,174,right,Italy,,IT1,2016
+94305,uros cosic,24,10,1992,Belgrad,Yugoslavia (Republic),1992-10-24,Defender - Centre-Back,187,right,Serbia,,IT1,2016
+390112,elia giampà,27,6,1998,Firenze,Italy,1998-06-27,Defender - Centre-Back,192,right,Italy,,IT1,2016
+56921,alberto pelagotti,9,3,1989,Empoli,Italy,1989-03-09,Goalkeeper,186,right,Italy,,IT1,2016
+390117,samuele damiani,30,1,1998,Poggibonsi,Italy,1998-01-30,midfield - Defensive Midfield,178,both,Italy,,IT1,2016
+22749,daniele croce,9,9,1982,Giulianova,Italy,1982-09-09,midfield - Central Midfield,173,right,Italy,,IT1,2016
+80894,lukasz skorupski,5,5,1991,Zabrze,Poland,1991-05-05,Goalkeeper,187,right,Poland,,IT1,2016
+57354,giuseppe bellusci,21,8,1989,Trebisacce,Italy,1989-08-21,Defender - Centre-Back,184,right,Italy,,IT1,2016
+385379,davide buglio,26,2,1998,Pietrasanta,Italy,1998-02-26,midfield - Defensive Midfield,178,left,Italy,,IT1,2016
+391049,gabriel meli,5,2,1999,Bagno a Ripoli,Italy,1999-02-05,Goalkeeper,188,right,Italy,,IT1,2016
+198116,federico dimarco,10,11,1997,Milano,Italy,1997-11-10,Defender - Left-Back,175,left,Italy,,IT1,2016
+28031,marco zambelli,22,8,1985,Gavardo,Italy,1985-08-22,Defender - Right-Back,180,right,Italy,,IT1,2016
+140559,raffaele maiello,10,7,1991,Acerra,Italy,1991-07-10,midfield - Defensive Midfield,177,right,Italy,,IT1,2016
+259953,rade krunic,7,10,1993,Foča,Bosnia-Herzegovina,1993-10-07,midfield - Central Midfield,184,right,Bosnia-Herzegovina,,IT1,2016
+165873,federico barba,1,9,1993,Roma,Italy,1993-09-01,Defender - Centre-Back,185,left,Italy,,IT1,2016
+22285,maurizio pugliesi,27,12,1976,Capannoli,Italy,1976-12-27,Goalkeeper,188,right,Italy,,IT1,2016
+391065,hamed junior traorè,16,2,2000,Abidjan,Cote d'Ivoire,2000-02-16,midfield - Attacking Midfield,177,both,Cote d'Ivoire,,IT1,2016
+23284,manuel pasqual,13,3,1982,San Donà di Piave,Italy,1982-03-13,Defender - Left-Back,178,left,Italy,,IT1,2016
+222330,roman chanturia,9,2,1996,Tiflis,Georgia,1996-02-09,attack - Centre-Forward,183,left,Georgia,,IT1,2016
+268426,arnel jakupovic,29,5,1998,,Austria  Bosnia-Herzegovina,1998-05-29,attack - Second Striker,186,left,,Bosnia-Herzegovina,IT1,2016
+207715,ibrahima mbaye,19,11,1994,Guédiawaye,Senegal,1994-11-19,Defender - Right-Back,188,right,Senegal,,IT1,2016
+24977,vasilios torosidis,10,6,1985,Xanthi,Greece,1985-06-10,Defender - Right-Back,186,right,Greece,,IT1,2016
+184528,emil krafth,2,8,1994,Ljungby,Sweden,1994-08-02,Defender - Right-Back,184,right,Sweden,,IT1,2016
+337715,umar sadiq,2,2,1997,Kaduna,Nigeria,1997-02-02,attack - Centre-Forward,192,right,Nigeria,,IT1,2016
+22141,antonio mirante,8,7,1983,Castellammare di Stabia,Italy,1983-07-08,Goalkeeper,193,right,Italy,,IT1,2016
+474621,juan manuel valencia,20,6,1998,"Suárez, Cauca",Colombia,1998-06-20,midfield - Central Midfield,185,right,Colombia,,IT1,2016
+16137,franco brienza,19,3,1979,Cantù,Italy,1979-03-19,midfield - Attacking Midfield,172,left,Italy,,IT1,2016
+85066,archimede morleo,26,9,1983,Mesagne,Italy,1983-09-26,Defender - Left-Back,172,left,Italy,,IT1,2016
+38607,federico di francesco,14,6,1994,Pisa,Italy,1994-06-14,attack - Left Winger,171,right,Italy,,IT1,2016
+256358,bruno petkovic,16,9,1994,Metkovic,Croatia,1994-09-16,attack - Centre-Forward,193,right,Croatia,,IT1,2016
+390304,federico ravaglia,11,11,1999,Bologna,Italy,1999-11-11,Goalkeeper,196,right,Italy,,IT1,2016
+144779,saphir taider,29,2,1992,Castres,France,1992-02-29,midfield - Central Midfield,180,right,,France,IT1,2016
+82693,angelo da costa,12,11,1983,Sao Bernardo do Campo,Brazil,1983-11-12,Goalkeeper,186,right,,Italy,IT1,2016
+395091,giordano trovade,23,5,1998,Este,Italy,1998-05-23,midfield - Central Midfield,184,left,Italy,,IT1,2016
+395123,alessandro bianconi,20,1,1999,Bentivoglio,Italy,1999-01-20,Defender - Centre-Back,193,right,Italy,,IT1,2016
+215616,erick pulgar,15,1,1994,Antofagasta,Chile,1994-01-15,midfield - Defensive Midfield,187,right,Chile,,IT1,2016
+35703,robert acquafresca,11,9,1987,Torino,Italy,1987-09-11,attack - Centre-Forward,184,right,,Poland,IT1,2016
+130360,simone verdi,12,7,1992,Broni,Italy,1992-07-12,midfield - Attacking Midfield,174,both,Italy,,IT1,2016
+88683,mattia destro,20,3,1991,Ascoli Piceno,Italy,1991-03-20,attack - Centre-Forward,182,right,Italy,,IT1,2016
+355791,fabrizio brignani,13,1,1998,Asola,Italy,1998-01-13,Defender - Centre-Back,191,right,Italy,,IT1,2016
+165900,federico viviani,24,3,1992,Lecco,Italy,1992-03-24,midfield - Defensive Midfield,180,right,Italy,,IT1,2016
+41994,luca ceccarelli,24,3,1983,Gambettola,Italy,1983-03-24,Defender - Right-Back,183,right,Italy,,IT1,2016
+401935,orji okwonkwo,19,1,1998,Benin City,Nigeria,1998-01-19,attack - Right Winger,180,right,Nigeria,,IT1,2016
+239570,deian boldor,3,2,1995,Timişoara,Romania,1995-02-03,Defender - Centre-Back,189,left,Romania,,IT1,2016
+197491,alex ferrari,1,7,1994,Modena,Italy,1994-07-01,Defender - Centre-Back,191,right,Italy,,IT1,2016
+381243,mattia cozzari,26,5,1999,Bentivoglio,Italy,1999-05-26,midfield - Defensive Midfield,187,right,Italy,,IT1,2016
+22140,domenico maietta,3,8,1982,Cariati,Italy,1982-08-03,Defender - Centre-Back,185,right,Italy,,IT1,2016
+167895,luca rizzo,24,4,1992,Genova,Italy,1992-04-24,midfield - Central Midfield,188,right,Italy,,IT1,2016
+395086,emanuele monari,5,5,1998,Bologna,Italy,1998-05-05,Goalkeeper,190,right,Italy,,IT1,2016
+7096,daniele gastaldello,25,6,1983,Camposampiero,Italy,1983-06-25,Defender - Centre-Back,187,right,Italy,,IT1,2016
+338101,mouhamadou sarr,5,1,1997,Kaolack,Senegal,1997-01-05,Goalkeeper,190,right,,Italy,IT1,2016
+286949,adam masina,2,1,1994,Khouribga,Morocco,1994-01-02,Defender - Left-Back,191,left,,Italy,IT1,2016
+291266,godfred donsah,7,6,1996,Accra,Ghana,1996-06-07,midfield - Central Midfield,175,right,Ghana,,IT1,2016
+198067,filip helander,22,4,1993,Malmö,Sweden,1993-04-22,Defender - Centre-Back,192,left,Sweden,,IT1,2016
+56854,nicolò cherubin,2,12,1986,Vicenza,Italy,1986-12-02,Defender - Centre-Back,188,left,Italy,,IT1,2016
+353998,aaron mattia tabacchi,26,6,1998,Bologna,Italy,1998-06-26,attack - Right Winger,180,left,Italy,,IT1,2016
+140206,ladislav krejci,5,7,1992,Praha,CSSR,1992-07-05,midfield - Left Midfield,179,left,Czech Republic,,IT1,2016
+386755,gianluca frabotta,24,6,1999,Roma,Italy,1999-06-24,Defender - Left-Back,187,left,Italy,,IT1,2016
+174488,marios ikonomou,6,10,1992,Ioannina,Greece,1992-10-06,Defender - Centre-Back,189,left,Greece,,IT1,2016
+368559,ádám nagy,17,6,1995,Budapest,Hungary,1995-06-17,midfield - Defensive Midfield,178,right,Hungary,,IT1,2016
+9967,blerim dzemaili,12,4,1986,Tetovo,Jugoslawien (SFR),1986-04-12,midfield - Central Midfield,180,right,,North Macedonia,IT1,2016
+30638,sergio floccari,12,11,1981,Vibo Valentia,Italy,1981-11-12,attack - Centre-Forward,180,right,Italy,,IT1,2016
+339866,vincenzo silvestro,31,7,1998,Bologna,Italy,1998-07-31,midfield - Central Midfield,175,left,Italy,,IT1,2016
+375299,samuele guddo,2,7,1999,Palermo,Italy,1999-07-02,Goalkeeper,188,left,Italy,,IT1,2016
+459842,sebastian breza,15,3,1998,Ottawa,Canada,1998-03-15,Goalkeeper,196,right,,Norway,IT1,2016
+111893,giancarlo gonzález,8,2,1988,San José,Costa Rica,1988-02-08,Defender - Centre-Back,186,right,Costa Rica,,IT1,2016
+60790,toni sunjic,15,12,1988,Mostar,Jugoslawien (SFR),1988-12-15,Defender - Centre-Back,193,right,,Croatia,IT1,2016
+255322,josip posavec,10,3,1996,Varaždin,Croatia,1996-03-10,Goalkeeper,190,right,Croatia,,IT1,2016
+28827,alessandro gazzi,28,1,1983,Feltre,Italy,1983-01-28,midfield - Defensive Midfield,184,left,Italy,,IT1,2016
+297064,francesco bonfiglio,20,1,1997,Palermo,Italy,1997-01-20,attack - Left Winger,170,right,Italy,,IT1,2016
+349719,simone lo faso,18,2,1998,Palermo,Italy,1998-02-18,attack - Second Striker,181,both,Italy,,IT1,2016
+347353,leonardo marson,5,1,1998,Udine,Italy,1998-01-05,Goalkeeper,194,left,Italy,,IT1,2016
+47544,michel morganella,17,5,1989,Sierre,Switzerland,1989-05-17,Defender - Right-Back,183,right,,Italy,IT1,2016
+35934,slobodan rajkovic,3,2,1989,Belgrad,Jugoslawien (SFR),1989-02-03,Defender - Centre-Back,191,left,Serbia,,IT1,2016
+54581,ilija nestorovski,12,3,1990,Prilep,Jugoslawien (SFR),1990-03-12,attack - Centre-Forward,182,left,North Macedonia,,IT1,2016
+244927,accursio bentivegna,21,6,1996,Sciacca,Italy,1996-06-21,attack - Left Winger,170,right,Italy,,IT1,2016
+277335,bruno henrique,21,10,1989,Apucarana,Brazil,1989-10-21,midfield - Central Midfield,180,right,,Italy,IT1,2016
+230166,haitam aleesami,31,7,1991,Oslo,Norway,1991-07-31,Defender - Left-Back,183,left,Norway,,IT1,2016
+242940,edoardo goldaniga,2,11,1993,Milano,Italy,1993-11-02,Defender - Centre-Back,193,right,Italy,,IT1,2016
+126412,ouasim bouy,11,6,1993,Amsterdam,Netherlands,1993-06-11,midfield - Defensive Midfield,181,left,,Netherlands,IT1,2016
+139173,achraf lazaar,22,1,1992,Casablanca,Morocco,1992-01-22,Defender - Left-Back,184,left,,Italy,IT1,2016
+336959,marco toscano,7,7,1997,Erice,Italy,1997-07-07,midfield - Defensive Midfield,170,right,Italy,,IT1,2016
+84622,sinisa andjelkovic,13,2,1986,Kranj,Jugoslawien (SFR),1986-02-13,Defender - Centre-Back,186,right,Slovenia,,IT1,2016
+208905,stefan silva,11,3,1990,Stockholm,Sweden,1990-03-11,attack - Centre-Forward,181,right,,Chile,IT1,2016
+74448,andrea rispoli,29,9,1988,Cava de Tirreni,Italy,1988-09-29,midfield - Right Midfield,188,right,Italy,,IT1,2016
+332798,roland sallai,22,5,1997,Budapest,Hungary,1997-05-22,attack - Right Winger,182,both,Hungary,,IT1,2016
+142920,aleksandar trajkovski,5,9,1992,Skopje,Macedonia,1992-09-05,attack - Left Winger,179,right,North Macedonia,,IT1,2016
+47513,mato jajalo,25,5,1988,Jajce,Jugoslawien (SFR),1988-05-25,midfield - Defensive Midfield,182,right,,Croatia,IT1,2016
+326204,norbert balogh,21,2,1996,Hajdúböszörmény,Hungary,1996-02-21,attack - Centre-Forward,196,right,Hungary,,IT1,2016
+336956,andrea punzi,2,3,1997,Palermo,Italy,1997-03-02,Defender - Centre-Back,182,right,Italy,,IT1,2016
+392514,gennaro ruggiero,4,2,2000,Napoli,Italy,2000-02-04,midfield - Central Midfield,179,right,Italy,,IT1,2016
+231381,andrea fulignati,31,10,1994,Empoli,Italy,1994-10-31,Goalkeeper,190,right,Italy,,IT1,2016
+206542,robin quaison,9,10,1993,Stockholm,Sweden,1993-10-09,attack - Second Striker,183,right,,Ghana,IT1,2016
+291408,simone giuliano,28,4,1997,Palermo,Italy,1997-04-28,Defender - Centre-Back,182,left,Italy,,IT1,2016
+275682,carlos embalo,25,11,1994,Bissau,Guinea-Bissau,1994-11-25,attack - Left Winger,175,both,,Portugal,IT1,2016
+79510,thiago cionek,21,4,1986,Curitiba,Brazil,1986-04-21,Defender - Centre-Back,183,right,,Brazil,IT1,2016
+108119,aljaz struna,4,8,1990,Piran,Jugoslawien (SFR),1990-08-04,Defender - Centre-Back,191,right,Slovenia,,IT1,2016
+336960,giuseppe pezzella,29,11,1997,Napoli,Italy,1997-11-29,Defender - Left-Back,187,left,Italy,,IT1,2016
+23197,alessandro diamanti,2,5,1983,Prato,Italy,1983-05-02,midfield - Attacking Midfield,180,left,Italy,,IT1,2016
+252767,ivaylo chochev,18,2,1993,Pleven,Bulgaria,1993-02-18,midfield - Central Midfield,190,both,Bulgaria,,IT1,2016
+22217,roberto vitiello,8,5,1983,Scafati,Italy,1983-05-08,Defender - Right-Back,176,right,Italy,,IT1,2016
+76077,ricardo álvarez,12,4,1988,Buenos Aires,Argentina,1988-04-12,midfield - Central Midfield,188,left,,Italy,IT1,2016
+422851,stanley amuzie,28,2,1996,Lagos,Nigeria,1996-02-28,Defender - Left-Back,186,left,Nigeria,,IT1,2016
+48003,christian puggioni,17,1,1981,Genova,Italy,1981-01-17,Goalkeeper,187,right,Italy,,IT1,2016
+204069,milan skriniar,11,2,1995,Žiar nad Hronom,Slovakia,1995-02-11,Defender - Centre-Back,188,right,Slovakia,,IT1,2016
+96806,jacopo sala,5,12,1991,Alzano Lombardo,Italy,1991-12-05,Defender - Right-Back,181,right,Italy,,IT1,2016
+238537,wladimiro falcone,12,4,1995,Roma,Italy,1995-04-12,Goalkeeper,195,right,Italy,,IT1,2016
+344321,michal tomic,30,3,1999,Myjava,Slovakia,1999-03-30,Defender - Right-Back,182,right,Slovakia,,IT1,2016
+353609,titas krapikas,3,1,1999,Kaunas,Lithuania,1999-01-03,Goalkeeper,194,right,Lithuania,,IT1,2016
+129588,dennis praet,14,5,1994,Leuven,Belgium,1994-05-14,midfield - Central Midfield,181,right,Belgium,,IT1,2016
+22328,fabio quagliarella,31,1,1983,Castellammare di Stabia,Italy,1983-01-31,attack - Centre-Forward,180,right,Italy,,IT1,2016
+144143,bartosz bereszynski,12,7,1992,Poznań,Poland,1992-07-12,Defender - Right-Back,183,right,Poland,,IT1,2016
+46413,ante budimir,22,7,1991,Zenica,Jugoslawien (SFR),1991-07-22,attack - Centre-Forward,190,left,Croatia,,IT1,2016
+372134,pietro cavagnaro,20,4,1998,Lavagna,Italy,1998-04-20,Goalkeeper,,,Italy,,IT1,2016
+19671,daniel pavlovic,22,4,1988,Rorschach,Switzerland,1988-04-22,Defender - Left-Back,183,left,,Switzerland,IT1,2016
+16120,édgar barreto,15,7,1984,Asunción,Paraguay,1984-07-15,midfield - Central Midfield,180,right,,Italy,IT1,2016
+240306,bruno fernandes,8,9,1994,Maia,Portugal,1994-09-08,midfield - Attacking Midfield,179,right,Portugal,,IT1,2016
+5962,antonio cassano,12,7,1982,Bari,Italy,1982-07-12,attack - Second Striker,175,right,Italy,,IT1,2016
+6793,angelo palombo,25,9,1981,Ferentino,Italy,1981-09-25,midfield - Defensive Midfield,177,right,Italy,,IT1,2016
+393605,andrea tessiore,1,10,1999,Pietra Ligure,Italy,1999-10-01,midfield - Central Midfield,177,right,Italy,,IT1,2016
+20003,matías silvestre,25,9,1984,Mercedes,Argentina,1984-09-25,Defender - Centre-Back,185,right,,Italy,IT1,2016
+398061,ibourahima baldé,23,3,1999,Arbúcies,Spain,1999-03-23,attack - Centre-Forward,179,right,,Senegal,IT1,2016
+225873,karol linetty,2,2,1995,Żnin,Poland,1995-02-02,midfield - Central Midfield,176,right,Poland,,IT1,2016
+363178,giacomo vrioni,15,10,1998,San Severino Marche,Italy,1998-10-15,attack - Centre-Forward,188,left,,Italy,IT1,2016
+57657,andrea tozzo,30,8,1992,Riva del Garda,Italy,1992-08-30,Goalkeeper,192,left,Italy,,IT1,2016
+242086,patrik schick,24,1,1996,Praha,Czech Republic,1996-01-24,attack - Centre-Forward,191,left,Czech Republic,,IT1,2016
+109038,dodô,6,2,1992,Campinas,Brazil,1992-02-06,Defender - Left-Back,177,left,,Portugal,IT1,2016
+168416,david ivan,26,2,1995,Bratislava,Slovakia,1995-02-26,midfield - Central Midfield,173,right,Slovakia,,IT1,2016
+119228,luis muriel,16,4,1991,Santo Tomás,Colombia,1991-04-16,attack - Centre-Forward,179,right,Colombia,,IT1,2016
+324993,denis baumgartner,2,2,1998,Skalica,Slovakia,1998-02-02,midfield - Central Midfield,180,left,Slovakia,,IT1,2016
+33218,luca cigarini,20,6,1986,Montecchio Emilia,Italy,1986-06-20,midfield - Defensive Midfield,175,right,Italy,,IT1,2016
+24316,emiliano viviano,1,12,1985,Fiesole,Italy,1985-12-01,Goalkeeper,195,left,Italy,,IT1,2016
+72274,vasco regini,9,9,1990,Cesena,Italy,1990-09-09,Defender - Left-Back,185,left,Italy,,IT1,2016
+61783,mirko eramo,12,7,1989,Acquaviva delle Fonti,Italy,1989-07-12,midfield - Central Midfield,181,right,Italy,,IT1,2016
+136605,carlos carbonero,25,7,1990,Bogotá,Colombia,1990-07-25,midfield - Attacking Midfield,180,right,Colombia,,IT1,2016
+314965,pedro pereira,22,1,1998,Vendas Novas,Portugal,1998-01-22,Defender - Right-Back,185,right,Portugal,,IT1,2016
+318077,lucas torreira,11,2,1996,Fray Bentos,Uruguay,1996-02-11,midfield - Defensive Midfield,166,right,,Spain,IT1,2016
+94307,filip djuricic,30,1,1992,Obrenovac,Jugoslawien (SFR),1992-01-30,midfield - Attacking Midfield,181,right,Serbia,,IT1,2016
+463775,gergely hutvágner,1,7,2000,Budapest,Hungary,2000-07-01,Goalkeeper,190,right,Hungary,,IT1,2016
+226093,lorenco simic,15,7,1996,Split,Croatia,1996-07-15,Defender - Centre-Back,195,right,Croatia,,IT1,2016
+170994,yrondu musavu-king,8,1,1992,Libreville,Gabon,1992-01-08,Defender - Centre-Back,187,left,,France,IT1,2016
+336679,panagiotis armenakas,5,8,1998,Newport Beach,United States,1998-08-05,midfield - Attacking Midfield,179,left,,Greece,IT1,2016
+301240,samuele perisan,21,8,1997,San Vito al Tagliamento,Italy,1997-08-21,Goalkeeper,192,left,Italy,,IT1,2016
+22673,emil hallfreðsson,29,6,1984,Hafnarfjörður,Iceland,1984-06-29,midfield - Central Midfield,185,left,Iceland,,IT1,2016
+6033,francesco lodi,23,3,1984,Napoli,Italy,1984-03-23,midfield - Defensive Midfield,183,left,Italy,,IT1,2016
+270188,lucas evangelista,6,5,1995,Limeira,Brazil,1995-05-06,midfield - Central Midfield,181,left,Brazil,,IT1,2016
+308801,adalberto peñaranda,31,5,1997,"El Vigía, Mérida",Venezuela,1997-05-31,attack - Centre-Forward,186,right,,Spain,IT1,2016
+42735,sven kums,26,2,1988,Asse,Belgium,1988-02-26,midfield - Central Midfield,176,right,Belgium,,IT1,2016
+29316,cyril théréau,24,4,1983,Privas,France,1983-04-24,attack - Second Striker,189,right,France,,IT1,2016
+460602,franck djoulou,1,1,1999,Okrouyo,Cote d'Ivoire,1999-01-01,attack - Left Winger,185,right,,Italy,IT1,2016
+86793,gabriele angella,28,4,1989,Firenze,Italy,1989-04-28,Defender - Centre-Back,193,right,Italy,,IT1,2016
+386829,edoardo bovolon,5,6,1998,Udine,Italy,1998-06-05,midfield - Defensive Midfield,183,right,Italy,,IT1,2016
+255901,rodrigo de paul,24,5,1994,Sarandí,Argentina,1994-05-24,midfield - Central Midfield,180,right,,Italy,IT1,2016
+288499,ewandro costa,15,3,1996,Recife,Brazil,1996-03-15,attack - Right Winger,176,left,Brazil,,IT1,2016
+109598,thomas heurtaux,3,7,1988,Lisieux,France,1988-07-03,Defender - Centre-Back,183,right,France,,IT1,2016
+255744,samir,5,12,1994,Rio de Janeiro,Brazil,1994-12-05,Defender - Centre-Back,188,left,Brazil,,IT1,2016
+238993,simone scuffet,31,5,1996,Udine,Italy,1996-05-31,Goalkeeper,193,right,Italy,,IT1,2016
+316111,andrija balic,11,8,1997,Split,Croatia,1997-08-11,midfield - Central Midfield,180,right,Croatia,,IT1,2016
+17127,felipe,31,7,1984,Guaratinguetá,Brazil,1984-07-31,Defender - Centre-Back,188,left,,Italy,IT1,2016
+182893,seko fofana,7,5,1995,Paris,France,1995-05-07,midfield - Central Midfield,183,right,,France,IT1,2016
+73926,davide faraoni,25,10,1991,Bracciano,Italy,1991-10-25,midfield - Right Midfield,180,right,Italy,,IT1,2016
+386824,alberto parpinel,27,3,1998,Pordenone,Italy,1998-03-27,Defender - Centre-Back,183,,Italy,,IT1,2016
+129893,molla wagué,21,2,1991,Vernon,France,1991-02-21,Defender - Centre-Back,191,right,,France,IT1,2016
+395075,davide borsellini,4,1,1999,Roma,Italy,1999-01-04,Goalkeeper,188,,Italy,,IT1,2016
+297444,luca magnino,13,8,1997,Pordenone,Italy,1997-08-13,midfield - Central Midfield,185,right,Italy,,IT1,2016
+19636,panagiotis kone,26,7,1987,Tirana,Albania,1987-07-26,midfield - Central Midfield,182,right,,Albania,IT1,2016
+397228,luca scordino,23,2,2000,Gorizia,Italy,2000-02-23,Goalkeeper,188,,Italy,,IT1,2016
+62713,ryder matos,27,2,1993,Seabra,Brazil,1993-02-27,attack - Second Striker,182,right,,Italy,IT1,2016
+49841,hamdi harbaoui,5,1,1985,Bizerte,Tunisia,1985-01-05,attack - Centre-Forward,186,right,,Belgium,IT1,2016
+261611,ali adnan,19,12,1993,Baghdad,Iraq,1993-12-19,Defender - Left-Back,185,left,Iraq,,IT1,2016
+46477,mathias ranégie,14,6,1984,Göteborg,Sweden,1984-06-14,attack - Centre-Forward,196,right,Sweden,,IT1,2016
+114340,gabriel silva,13,5,1991,São Paulo,Brazil,1991-05-13,Defender - Left-Back,179,left,Brazil,,IT1,2016
+16408,orestis karnezis,11,7,1985,Athen,Greece,1985-07-11,Goalkeeper,190,right,Greece,,IT1,2016
+412629,filip vasko,11,8,1999,Rožňava,Slovakia,1999-08-11,Defender - Centre-Back,191,right,Slovakia,,IT1,2016
+32816,danilo,10,5,1984,São Bernardo do Campo,Brazil,1984-05-10,Defender - Centre-Back,185,right,,Italy,IT1,2016
+108484,emmanuel badu,2,12,1990,Berekum,Ghana,1990-12-02,midfield - Central Midfield,173,right,Ghana,,IT1,2016
+319160,jakub jankto,19,1,1996,Praha,Czech Republic,1996-01-19,midfield - Left Midfield,184,left,Czech Republic,,IT1,2016
+187090,igor bubnjic,17,7,1992,Split,Croatia,1992-07-17,Defender - Centre-Back,188,left,Croatia,,IT1,2016
+245072,stipe perica,7,7,1995,Zadar,Croatia,1995-07-07,attack - Centre-Forward,192,right,Croatia,,IT1,2016
+73786,pablo armero,2,11,1986,Tumaco,Colombia,1986-11-02,Defender - Left-Back,174,left,Colombia,,IT1,2016
+73794,duván zapata,1,4,1991,Santiago de Cali,Colombia,1991-04-01,attack - Centre-Forward,189,right,Colombia,,IT1,2016
+168989,silvan widmer,5,3,1993,Aarau,Switzerland,1993-03-05,Defender - Right-Back,183,right,Switzerland,,IT1,2016
+45314,federico fazio,17,3,1987,Buenos Aires,Argentina,1987-03-17,Defender - Centre-Back,195,right,,Italy,IT1,2016
+72479,clément grenier,7,1,1991,Annonay,France,1991-01-07,midfield - Central Midfield,186,right,France,,IT1,2016
+104752,konstantinos manolas,14,6,1991,Naxos,Greece,1991-06-14,Defender - Centre-Back,189,right,Greece,,IT1,2016
+415454,keba coly,20,2,1998,Dakar,Senegal,1998-02-20,attack - Left Winger,184,right,Senegal,,IT1,2016
+54984,diego perotti,26,7,1988,Moreno,Argentina,1988-07-26,attack - Left Winger,179,right,,Spain,IT1,2016
+340430,lorenzo crisanto,20,4,1998,Prato,Italy,1998-04-20,Goalkeeper,180,right,Italy,,IT1,2016
+5958,francesco totti,27,9,1976,Roma,Italy,1976-09-27,attack - Second Striker,180,both,Italy,,IT1,2016
+130365,alessandro florenzi,11,3,1991,Roma,Italy,1991-03-11,Defender - Right-Back,173,right,Italy,,IT1,2016
+319177,stefano greco,21,2,1999,Galatina,Italy,1999-02-21,Goalkeeper,,right,Italy,,IT1,2016
+121985,juan jesus,10,6,1991,Belo Horizonte,Brazil,1991-06-10,Defender - Centre-Back,185,left,Brazil,,IT1,2016
+47893,william vainqueur,19,11,1988,Neuilly-sur-Marne,France,1988-11-19,midfield - Defensive Midfield,179,right,,Haiti,IT1,2016
+315568,lorenzo di livio,11,1,1997,Torino,Italy,1997-01-11,midfield - Attacking Midfield,175,right,Italy,,IT1,2016
+340446,lorenzo grossi,25,3,1998,Roma,Italy,1998-03-25,midfield - Defensive Midfield,183,right,Italy,,IT1,2016
+394300,davide frattesi,22,9,1999,Roma,Italy,1999-09-22,midfield - Central Midfield,184,right,Italy,,IT1,2016
+265075,stefano ciavattini,30,3,1998,Roma,Italy,1998-03-30,Defender - Centre-Back,,right,Italy,,IT1,2016
+315850,marco tumminello,6,11,1998,Erice,Italy,1998-11-06,attack - Centre-Forward,180,left,Italy,,IT1,2016
+340435,eros de santis,30,10,1997,Tivoli,Italy,1997-10-30,Defender - Right-Back,183,right,Italy,,IT1,2016
+94529,stephan el shaarawy,27,10,1992,Savona,Italy,1992-10-27,attack - Left Winger,178,right,,Egypt,IT1,2016
+321065,edoardo soleri,19,10,1997,Roma,Italy,1997-10-19,attack - Centre-Forward,192,right,Italy,,IT1,2016
+346567,luca pellegrini,7,3,1999,Roma,Italy,1999-03-07,Defender - Left-Back,178,left,Italy,,IT1,2016
+15904,thomas vermaelen,14,11,1985,Kapellen,Belgium,1985-11-14,Defender - Centre-Back,183,left,Belgium,,IT1,2016
+341705,gerson,20,5,1997,Rio de Janeiro,Brazil,1997-05-20,midfield - Central Midfield,184,left,Brazil,,IT1,2016
+41982,radja nainggolan,4,5,1988,Antwerpen,Belgium,1988-05-04,midfield - Attacking Midfield,176,right,,Indonesia,IT1,2016
+105470,alisson,2,10,1992,Novo Hamburgo,Brazil,1992-10-02,Goalkeeper,191,right,Brazil,,IT1,2016
+68864,kevin strootman,13,2,1990,Ridderkerk,Netherlands,1990-02-13,midfield - Central Midfield,186,left,Netherlands,,IT1,2016
+337705,abdullahi nura,17,8,1997,Kaduna,Nigeria,1997-08-17,Defender - Right-Back,182,right,Nigeria,,IT1,2016
+87884,mário rui,27,5,1991,Sines,Portugal,1991-05-27,Defender - Left-Back,168,left,Portugal,,IT1,2016
+315852,mirko antonucci,11,3,1999,Roma,Italy,1999-03-11,attack - Right Winger,178,both,Italy,,IT1,2016
+4310,bogdan lobont,18,1,1978,Hunedoara,Romania,1978-01-18,Goalkeeper,185,right,Romania,,IT1,2016
+44058,wojciech szczesny,18,4,1990,Warszawa,Poland,1990-04-18,Goalkeeper,196,right,Poland,,IT1,2016
+340447,emanuele spinozzi,23,7,1998,Roma,Italy,1998-07-23,midfield - Central Midfield,178,right,Italy,,IT1,2016
+148455,mohamed salah,15,6,1992,"Nagrig, Basyoun",Egypt,1992-06-15,attack - Right Winger,175,left,Egypt,,IT1,2016
+391409,filippo franchi,14,1,1998,Roma,Italy,1998-01-14,attack - Left Winger,178,right,Italy,,IT1,2016
+315844,alessandro bordin,1,8,1998,Latina,Italy,1998-08-01,midfield - Central Midfield,176,right,Italy,,IT1,2016
+181778,emerson,3,8,1994,Santos,Brazil,1994-08-03,Defender - Left-Back,180,left,,Brazil,IT1,2016
+166237,leandro paredes,29,6,1994,San Justo,Argentina,1994-06-29,midfield - Defensive Midfield,180,right,Argentina,,IT1,2016
+198086,federico ricci,27,5,1994,Roma,Italy,1994-05-27,attack - Right Winger,175,left,Italy,,IT1,2016
+28396,edin dzeko,17,3,1986,Sarajevo,Jugoslawien (SFR),1986-03-17,attack - Centre-Forward,193,right,Bosnia-Herzegovina,,IT1,2016
+86202,antonio rüdiger,3,3,1993,Berlin,Germany,1993-03-03,Defender - Centre-Back,190,right,,Sierra Leone,IT1,2016
+297645,riccardo marchizza,26,3,1998,Roma,Italy,1998-03-26,Defender - Left-Back,186,left,Italy,,IT1,2016
+391406,andrea romagnoli,29,7,1998,Civitavecchia,Italy,1998-07-29,Goalkeeper,188,left,Italy,,IT1,2016
+5947,daniele de rossi,24,7,1983,Roma,Italy,1983-07-24,midfield - Defensive Midfield,184,both,Italy,,IT1,2016
+268179,moustapha seck,23,2,1996,Dakar,Senegal,1996-02-23,Defender - Left-Back,176,left,,Spain,IT1,2016
+111819,neto,19,7,1989,Araxá,Brazil,1989-07-19,Goalkeeper,190,right,,Italy,IT1,2016
+5023,gianluigi buffon,28,1,1978,Carrara,Italy,1978-01-28,Goalkeeper,192,right,Italy,,IT1,2016
+63531,kwadwo asamoah,9,12,1988,Accra,Ghana,1988-12-09,midfield - Left Midfield,173,left,Ghana,,IT1,2016
+206050,paulo dybala,15,11,1993,Laguna Larga,Argentina,1993-11-15,attack - Second Striker,177,left,,Italy,IT1,2016
+200194,federico mattiello,14,7,1995,Barga,Italy,1995-07-14,Defender - Right-Back,184,right,Italy,,IT1,2016
+44709,paolo de ceglie,17,9,1986,Aosta,Italy,1986-09-17,Defender - Left-Back,184,left,Italy,,IT1,2016
+308279,rolando mandragora,29,6,1997,Napoli,Italy,1997-06-29,midfield - Defensive Midfield,183,left,Italy,,IT1,2016
+15951,dani alves,6,5,1983,Juazeiro,Brazil,1983-05-06,Defender - Right-Back,172,right,,Spain,IT1,2016
+45124,medhi benatia,17,4,1987,Courcouronnes,France,1987-04-17,Defender - Centre-Back,190,right,,France,IT1,2016
+256339,emil audero,18,1,1997,Mataram,Indonesia,1997-01-18,Goalkeeper,192,right,Italy,,IT1,2016
+44716,claudio marchisio,19,1,1986,Torino,Italy,1986-01-19,midfield - Central Midfield,180,right,Italy,,IT1,2016
+29260,giorgio chiellini,14,8,1984,Pisa,Italy,1984-08-14,Defender - Centre-Back,187,left,Italy,,IT1,2016
+96828,simone zaza,25,6,1991,Policoro,Italy,1991-06-25,attack - Centre-Forward,186,left,Italy,,IT1,2016
+29401,sami khedira,4,4,1987,Stuttgart,Germany,1987-04-04,midfield - Central Midfield,189,right,,Tunisia,IT1,2016
+162959,daniele rugani,29,7,1994,Sesto di Moriano,Italy,1994-07-29,Defender - Centre-Back,190,right,Italy,,IT1,2016
+124769,luca marrone,28,3,1990,Torino,Italy,1990-03-28,Defender - Centre-Back,186,right,Italy,,IT1,2016
+7109,andrea barzagli,8,5,1981,Fiesole,Italy,1981-05-08,Defender - Centre-Back,187,right,Italy,,IT1,2016
+44162,miralem pjanić,2,4,1990,Zvornik,Jugoslawien (SFR),1990-04-02,midfield - Central Midfield,178,right,,Luxembourg,IT1,2016
+91970,juan cuadrado,26,5,1988,Necoclí,Colombia,1988-05-26,Defender - Right-Back,176,right,Colombia,,IT1,2016
+297648,simone muratore,30,5,1998,Cuneo,Italy,1998-05-30,midfield - Central Midfield,186,right,Italy,,IT1,2016
+167859,stefano sturaro,9,3,1993,Sanremo,Italy,1993-03-09,midfield - Central Midfield,181,right,Italy,,IT1,2016
+5285,patrice evra,15,5,1981,Dakar,Senegal,1981-05-15,Defender - Left-Back,174,left,,Senegal,IT1,2016
+386567,leonardo loria,28,3,1999,Erice,Italy,1999-03-28,Goalkeeper,195,right,Italy,,IT1,2016
+342407,mattias andersson,13,3,1998,Malmö,Sweden,1998-03-13,Defender - Centre-Back,188,right,Sweden,,IT1,2016
+34572,mario mandzukic,21,5,1986,Slavonski Brod,Jugoslawien (SFR),1986-05-21,attack - Centre-Forward,190,right,Croatia,,IT1,2016
+2865,stephan lichtsteiner,16,1,1984,Adligenswil,Switzerland,1984-01-16,Defender - Right-Back,182,right,Switzerland,,IT1,2016
+52897,hernanes,29,5,1985,Recife,Brazil,1985-05-29,midfield - Attacking Midfield,180,both,Brazil,,IT1,2016
+205940,marko pjaca,6,5,1995,Zagreb,Croatia,1995-05-06,attack - Left Winger,186,right,Croatia,,IT1,2016
+315843,alessandro semprini,24,2,1998,Brescia,Italy,1998-02-24,Defender - Right-Back,183,right,Italy,,IT1,2016
+39153,gonzalo higuaín,10,12,1987,Brest,France,1987-12-10,attack - Centre-Forward,184,right,,France,IT1,2016
+265079,mattia del favero,5,6,1998,Firenze,Italy,1998-06-05,Goalkeeper,190,right,Italy,,IT1,2016
+39983,leonardo bonucci,1,5,1987,Viterbo,Italy,1987-05-01,Defender - Centre-Back,190,right,Italy,,IT1,2016
+364135,moise kean,28,2,2000,Vercelli,Italy,2000-02-28,attack - Centre-Forward,183,right,,Cote d'Ivoire,IT1,2016
+344655,luca coccolo,23,2,1998,Ciriè,Italy,1998-02-23,Defender - Centre-Back,187,left,Italy,,IT1,2016
+348601,mehdi léris,23,5,1998,Mont de Marsan,France,1998-05-23,midfield - Central Midfield,186,right,,Algeria,IT1,2016
+170934,mario lemina,1,9,1993,Libreville,Gabon,1993-09-01,midfield - Defensive Midfield,184,right,,France,IT1,2016
+79960,alex sandro,26,1,1991,Catanduva,Brazil,1991-01-26,Defender - Left-Back,181,left,Brazil,,IT1,2016
+357003,martin erlic,24,1,1998,Zadar,Croatia,1998-01-24,Defender - Centre-Back,193,right,Croatia,,IT1,2016
+226025,luca mazzitelli,15,11,1995,Roma,Italy,1995-11-15,midfield - Central Midfield,184,right,Italy,,IT1,2016
+184894,alfred duncan,10,3,1993,Accra,Ghana,1993-03-10,midfield - Central Midfield,178,left,,Italy,IT1,2016
+82743,alberto pomini,17,3,1981,Isola della Scala,Italy,1981-03-17,Goalkeeper,185,right,Italy,,IT1,2016
+216179,stefano sensi,5,8,1995,Urbino,Italy,1995-08-05,midfield - Central Midfield,168,right,Italy,,IT1,2016
+131075,francesco acerbi,10,2,1988,Vizzolo Predabissi,Italy,1988-02-10,Defender - Centre-Back,192,left,Italy,,IT1,2016
+146743,luca antei,19,4,1992,Roma,Italy,1992-04-19,Defender - Centre-Back,186,right,Italy,,IT1,2016
+284636,giovanni sbrissa,25,9,1996,Castelfranco Veneto,Italy,1996-09-25,midfield - Central Midfield,185,right,Italy,,IT1,2016
+315867,gianluca scamacca,1,1,1999,Roma,Italy,1999-01-01,attack - Centre-Forward,195,right,Italy,,IT1,2016
+5858,paolo cannavaro,26,6,1981,Napoli,Italy,1981-06-26,Defender - Centre-Back,185,right,Italy,,IT1,2016
+21872,gianluca pegolo,25,3,1981,Bassano del Grappa,Italy,1981-03-25,Goalkeeper,183,left,Italy,,IT1,2016
+390732,simone caputo,25,7,1998,München,Germany,1998-07-25,attack - Right Winger,,left,Italy,,IT1,2016
+21763,federico peluso,20,1,1984,Roma,Italy,1984-01-20,Defender - Centre-Back,188,left,Italy,,IT1,2016
+22186,davide biondini,24,1,1983,Cesena,Italy,1983-01-24,midfield - Central Midfield,180,right,Italy,,IT1,2016
+287638,leonardo fontanesi,20,2,1996,Correggio,Italy,1996-02-20,Defender - Centre-Back,190,right,Italy,,IT1,2016
+390724,manuel ferrini,25,6,1998,Rimini,Italy,1998-06-25,Defender - Centre-Back,188,left,Italy,,IT1,2016
+7093,francesco magnanelli,12,11,1984,Umbertide,Italy,1984-11-12,midfield - Defensive Midfield,181,right,Italy,,IT1,2016
+320456,giacomo zecca,6,7,1997,Piacenza,Italy,1997-07-06,attack - Right Winger,185,right,Italy,,IT1,2016
+396768,francesco scavo,19,3,1998,Reggio nell'Emilia,Italy,1998-03-19,Goalkeeper,,,Italy,,IT1,2016
+84921,lorenzo ariaudo,11,6,1989,Torino,Italy,1989-06-11,Defender - Centre-Back,186,left,Italy,,IT1,2016
+177843,domenico berardi,1,8,1994,Cariati,Italy,1994-08-01,attack - Right Winger,183,left,Italy,,IT1,2016
+286297,lorenzo pellegrini,19,6,1996,Roma,Italy,1996-06-19,midfield - Central Midfield,186,both,Italy,,IT1,2016
+40660,alessandro matri,19,8,1984,Sant`Angelo Lodigiano,Italy,1984-08-19,attack - Centre-Forward,183,right,Italy,,IT1,2016
+124911,karim laribi,20,4,1991,Milano,Italy,1991-04-20,midfield - Attacking Midfield,175,right,,Italy,IT1,2016
+231378,timo letschert,25,5,1993,Purmerend,Netherlands,1993-05-25,Defender - Centre-Back,188,right,Netherlands,,IT1,2016
+341054,simone franchini,30,3,1998,Modena,Italy,1998-03-30,midfield - Central Midfield,183,right,Italy,,IT1,2016
+62735,pietro iemmello,6,3,1992,Catanzaro,Italy,1992-03-06,attack - Centre-Forward,186,right,Italy,,IT1,2016
+61770,emanuele terranova,14,4,1987,Mazara del Vallo,Italy,1987-04-14,Defender - Centre-Back,183,right,Italy,,IT1,2016
+82048,nicola sansone,10,9,1991,München,Germany,1991-09-10,attack - Left Winger,173,right,,Germany,IT1,2016
+240244,cristian dell'orco,10,2,1994,Sant'Angelo Lodigiano,Italy,1994-02-10,Defender - Left-Back,183,left,Italy,,IT1,2016
+298975,pol lirola,13,8,1997,Mollet del Valles,Spain,1997-08-13,Defender - Right-Back,183,right,Spain,,IT1,2016
+368373,leonardo sarzi maddidini,21,9,1998,Parma,Italy,1998-09-21,midfield - Defensive Midfield,,,Italy,,IT1,2016
+372720,nicholas pierini,6,8,1998,Parma,Italy,1998-08-06,attack - Left Winger,176,right,Italy,,IT1,2016
+165895,matteo politano,3,8,1993,Roma,Italy,1993-08-03,attack - Right Winger,171,left,Italy,,IT1,2016
+163222,grégoire defrel,17,6,1991,Meudon,France,1991-06-17,attack - Centre-Forward,179,left,,France,IT1,2016
+337716,claud adjapong,6,5,1998,Modena,Italy,1998-05-06,Defender - Right-Back,180,right,,Ghana,IT1,2016
+35747,simone missiroli,23,5,1986,Reggio Calabria,Italy,1986-05-23,midfield - Defensive Midfield,191,right,Italy,,IT1,2016
+355540,bryan costa,28,7,1998,Vicenza,Italy,1998-07-28,Goalkeeper,188,right,Italy,,IT1,2016
+102470,antonino ragusa,27,3,1990,Messina,Italy,1990-03-27,attack - Left Winger,183,right,Italy,,IT1,2016
+57643,marcello gazzola,3,4,1985,Borgotaro,Italy,1985-04-03,Defender - Right-Back,183,right,Italy,,IT1,2016
+379163,marius marin,30,8,1998,Timişoara,Romania,1998-08-30,midfield - Central Midfield,180,right,Romania,,IT1,2016
+35865,andrea consigli,27,1,1987,Milano,Italy,1987-01-27,Goalkeeper,189,right,Italy,,IT1,2016
+340264,leonardo vitali,7,8,1998,Città di Castello,Italy,1998-08-07,Goalkeeper,189,right,Italy,,IT1,2016
+312341,luca ravanelli,6,1,1997,Trento,Italy,1997-01-06,Defender - Centre-Back,187,right,Italy,,IT1,2016

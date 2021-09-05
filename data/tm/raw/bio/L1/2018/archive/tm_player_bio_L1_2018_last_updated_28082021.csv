@@ -1,0 +1,619 @@
+player_id,player_name,day_of_birth,month_of_birth,year_of_birth,pob,cob,dob,position,height,foot,citizenship,second_citizenship,league_code,season
+143891,maximilian philipp,1,3,1994,Berlin,Germany,1994-03-01,attack - Second Striker,183,right,Germany,,L1,2018
+401173,jadon sancho,25,3,2000,London,England,2000-03-25,attack - Right Winger,180,right,England,,L1,2018
+575998,leonardo balerdi,26,1,1999,Villa Mercedes,Argentina,1999-01-26,Defender - Centre-Back,187,right,,Italy,L1,2018
+170986,raphaël guerreiro,22,12,1993,Le Blanc-Mesnil,France,1993-12-22,Defender - Left-Back,170,left,,France,L1,2018
+398073,achraf hakimi,4,11,1998,Madrid,Spain,1998-11-04,Defender - Right-Back,181,right,,Spain,L1,2018
+293281,jacob bruun larsen,19,9,1998,Lyngby,Denmark,1998-09-19,attack - Left Winger,183,right,Denmark,,L1,2018
+334221,amos pieper,17,1,1998,Lüdinghausen,Germany,1998-01-17,Defender - Centre-Back,192,right,Germany,,L1,2018
+129674,jeremy toljan,8,8,1994,Stuttgart,Germany,1994-08-08,Defender - Right-Back,182,right,,United States,L1,2018
+274461,felix passlack,29,5,1998,Bottrop,Germany,1998-05-29,Defender - Right-Back,170,right,Germany,,L1,2018
+191422,mahmoud dahoud,1,1,1996,Amûdê‎,Syria,1996-01-01,midfield - Central Midfield,178,right,,Syria,L1,2018
+74842,mario götze,3,6,1992,Memmingen,Germany,1992-06-03,midfield - Attacking Midfield,176,right,Germany,,L1,2018
+43512,ömer toprak,21,7,1989,Ravensburg,Germany,1989-07-21,Defender - Centre-Back,187,right,,Germany,L1,2018
+152460,eric oelschlägel,20,9,1995,Hoyerswerda,Germany,1995-09-20,Goalkeeper,193,right,Germany,,L1,2018
+349066,alexander isak,21,9,1999,Solna,Sweden,1999-09-21,attack - Centre-Forward,192,right,,Eritrea,L1,2018
+58205,andré schürrle,6,11,1990,Ludwigshafen am Rhein,Germany,1990-11-06,attack - Left Winger,184,right,Germany,,L1,2018
+315779,christian pulisic,18,9,1998,"Hershey, Pennsylvania",United States,1998-09-18,attack - Right Winger,172,right,,Croatia,L1,2018
+388815,luca unbehaun,27,2,2001,Bochum,Germany,2001-02-27,Goalkeeper,185,right,Germany,,L1,2018
+59027,roman bürki,14,11,1990,Münsingen,Switzerland,1990-11-14,Goalkeeper,187,right,Switzerland,,L1,2018
+284730,manuel akanji,19,7,1995,Wiesendangen,Switzerland,1995-07-19,Defender - Centre-Back,187,right,,Nigeria,L1,2018
+81785,shinji kagawa,17,3,1989,"Kobe, Hyogo",Japan,1989-03-17,midfield - Attacking Midfield,175,right,Japan,,L1,2018
+366930,sergio gómez,4,9,2000,Badalona,Spain,2000-09-04,Defender - Left-Back,171,left,Spain,,L1,2018
+91849,thomas delaney,3,9,1991,Frederiksberg,Denmark,1991-09-03,midfield - Defensive Midfield,182,left,,United States,L1,2018
+35047,axel witsel,12,1,1989,Liège,Belgium,1989-01-12,midfield - Defensive Midfield,186,right,,Martinique,L1,2018
+59238,marwin hitz,18,9,1987,St. Gallen,Switzerland,1987-09-18,Goalkeeper,194,right,Switzerland,,L1,2018
+196792,julian weigl,8,9,1995,Bad Aibling,Germany,1995-09-08,midfield - Defensive Midfield,186,right,Germany,,L1,2018
+44466,sebastian rode,11,10,1990,Seeheim-Jugenheim,Germany,1990-10-11,midfield - Central Midfield,179,right,Germany,,L1,2018
+35207,marco reus,31,5,1989,Dortmund,Germany,1989-05-31,midfield - Attacking Midfield,180,right,Germany,,L1,2018
+25727,lukasz piszczek,3,6,1985,Czechowice-Dziedzice,Poland,1985-06-03,Defender - Right-Back,184,right,Poland,,L1,2018
+229005,abdou diallo,4,5,1996,Tours,France,1996-05-04,Defender - Centre-Back,187,left,,France,L1,2018
+251295,dzenis burnic,22,5,1998,Hamm,Germany,1998-05-22,midfield - Defensive Midfield,181,left,,Bosnia-Herzegovina,L1,2018
+126716,paco alcácer,30,8,1993,Torrent,Spain,1993-08-30,attack - Centre-Forward,175,right,Spain,,L1,2018
+35208,marcel schmelzer,22,1,1988,Magdeburg,DDR,1988-01-22,Defender - Left-Back,180,left,Germany,,L1,2018
+193900,marius wolf,27,5,1995,Coburg,Germany,1995-05-27,attack - Right Winger,187,right,Germany,,L1,2018
+344598,dan-axel zagadou,3,6,1999,Créteil,France,1999-06-03,Defender - Centre-Back,196,left,,Cote d'Ivoire,L1,2018
+337082,julian krahl,22,1,2000,Forst (Lausitz),Germany,2000-01-22,Goalkeeper,194,right,Germany,,L1,2018
+139396,bruma,24,10,1994,Bissau,Guinea-Bissau,1994-10-24,attack - Right Winger,173,right,,Guinea-Bissau,L1,2018
+402008,amadou haidara,31,1,1998,Bamako,Mali,1998-01-31,midfield - Central Midfield,175,right,Mali,,L1,2018
+223967,konrad laimer,27,5,1997,Salzburg,Austria,1997-05-27,midfield - Central Midfield,180,right,Austria,,L1,2018
+93740,willi orban,3,11,1992,Kaiserslautern,Germany,1992-11-03,Defender - Centre-Back,186,right,,Germany,L1,2018
+448087,max winter,16,2,2001,Plauen,Germany,2001-02-16,midfield - Attacking Midfield,,,Germany,,L1,2018
+405685,fabrice hartmann,2,3,2001,Dessau,Germany,2001-03-02,attack - Right Winger,178,left,Germany,,L1,2018
+111078,emil forsberg,23,10,1991,Sundsvall,Sweden,1991-10-23,attack - Left Winger,179,right,Sweden,,L1,2018
+392765,emile smith rowe,28,7,2000,London,England,2000-07-28,midfield - Attacking Midfield,182,right,England,,L1,2018
+40074,stefan ilsanker,18,5,1989,Hallein,Austria,1989-05-18,midfield - Defensive Midfield,189,right,Austria,,L1,2018
+106987,marcel sabitzer,17,3,1994,Graz,Austria,1994-03-17,midfield - Central Midfield,177,right,Austria,,L1,2018
+157635,yussuf poulsen,15,6,1994,Kopenhagen,Denmark,1994-06-15,attack - Centre-Forward,192,right,,Tanzania,L1,2018
+70243,marcel halstenberg,27,9,1991,Laatzen,Germany,1991-09-27,Defender - Left-Back,188,left,Germany,,L1,2018
+111376,massimo bruno,17,9,1993,Boussu,Belgium,1993-09-17,attack - Right Winger,178,right,,Italy,L1,2018
+118161,marius müller,12,7,1993,Heppenheim,Germany,1993-07-12,Goalkeeper,192,right,Germany,,L1,2018
+348026,nordi mukiele,1,11,1997,Montreuil,France,1997-11-01,Defender - Right-Back,187,right,,DR Congo,L1,2018
+448092,lukas krüger,20,1,2000,Hamburg,Germany,2000-01-20,attack - Right Winger,190,right,Germany,,L1,2018
+373916,marcelo saracchi,23,4,1998,Paysandú,Uruguay,1998-04-23,Defender - Left-Back,172,left,Uruguay,,L1,2018
+82070,diego demme,21,11,1991,Herford,Germany,1991-11-21,midfield - Defensive Midfield,170,right,,Italy,L1,2018
+405676,oliver bias,15,6,2001,Johanngeorgenstadt,Germany,2001-06-15,attack - Right Winger,164,both,,Germany,L1,2018
+215599,lukas klostermann,3,6,1996,Gevelsberg,Germany,1996-06-03,Defender - Right-Back,189,right,Germany,,L1,2018
+388026,niclas stierlin,22,1,2000,Mannheim,Germany,2000-01-22,midfield - Defensive Midfield,182,right,Germany,,L1,2018
+517894,matheus cunha,27,5,1999,João Pessoa,Brazil,1999-05-27,attack - Centre-Forward,184,right,Brazil,,L1,2018
+149516,atinc nukan,20,7,1993,Istanbul,Turkey,1993-07-20,Defender - Centre-Back,196,left,Turkey,,L1,2018
+53418,kevin kampl,9,10,1990,Solingen,Germany,1990-10-09,midfield - Central Midfield,178,right,Slovenia,,L1,2018
+57071,péter gulácsi,6,5,1990,Budapest,Hungary,1990-05-06,Goalkeeper,190,right,Hungary,,L1,2018
+170527,timo werner,6,3,1996,Stuttgart,Germany,1996-03-06,attack - Centre-Forward,181,right,Germany,,L1,2018
+264956,jean-kévin augustin,16,6,1997,Paris,France,1997-06-16,attack - Centre-Forward,180,right,,Haiti,L1,2018
+337083,erik majetschak,1,3,2000,Bad Lausick,Germany,2000-03-01,midfield - Attacking Midfield,185,both,Germany,,L1,2018
+147051,yvon mvogo,6,6,1994,Yaounde,Cameroon,1994-06-06,Goalkeeper,189,right,,Cameroon,L1,2018
+405687,tom krauß,22,6,2001,Leipzig,Germany,2001-06-22,midfield - Defensive Midfield,182,right,Germany,,L1,2018
+344695,dayot upamecano,27,10,1998,Évreux,France,1998-10-27,Defender - Centre-Back,186,right,,Guinea-Bissau,L1,2018
+357119,ibrahima konaté,25,5,1999,Paris,France,1999-05-25,Defender - Centre-Back,194,right,,Mali,L1,2018
+332705,tyler adams,14,2,1999,"Wappingers Falls, New York",United States,1999-02-14,midfield - Defensive Midfield,175,right,United States,,L1,2018
+45662,alexander esswein,25,3,1990,Worms,Germany,1990-03-25,attack - Right Winger,182,right,Germany,,L1,2018
+45599,emiliano insúa,7,1,1989,Buenos Aires,Argentina,1989-01-07,Defender - Centre-Back,181,left,,Spain,L1,2018
+129358,marcin kaminski,15,1,1992,Konin,Poland,1992-01-15,Defender - Centre-Back,192,left,Poland,,L1,2018
+353366,benjamin pavard,28,3,1996,Maubeuge,France,1996-03-28,Defender - Right-Back,186,right,France,,L1,2018
+156779,erik thommy,20,8,1994,Ulm,Germany,1994-08-20,midfield - Left Midfield,175,right,Germany,,L1,2018
+76158,alexander meyer,13,4,1991,Bad Oldesloe,Germany,1991-04-13,Goalkeeper,195,right,Germany,,L1,2018
+187491,timo baumgartl,4,3,1996,Böblingen,Germany,1996-03-04,Defender - Centre-Back,190,right,Germany,,L1,2018
+19354,dennis aogo,14,1,1987,Karlsruhe,Germany,1987-01-14,midfield - Defensive Midfield,184,left,,Nigeria,L1,2018
+451340,nunoo sarpei,22,8,1998,Accra,Ghana,1998-08-22,midfield - Defensive Midfield,178,right,Ghana,,L1,2018
+483974,leon dajaku,12,4,2001,Waiblingen,Germany,2001-04-12,attack - Second Striker,180,right,,Kosovo,L1,2018
+361260,ozan kabak,25,3,2000,Ankara,Turkey,2000-03-25,Defender - Centre-Back,186,right,Turkey,,L1,2018
+423436,santiago ascacíbar,25,2,1997,La Plata,Argentina,1997-02-25,midfield - Defensive Midfield,168,right,Argentina,,L1,2018
+28947,gonzalo castro,11,6,1987,Wuppertal,Germany,1987-06-11,midfield - Central Midfield,172,right,,Spain,L1,2018
+57995,daniel didavi,21,2,1990,Nürtingen,Germany,1990-02-21,midfield - Attacking Midfield,180,left,,Benin,L1,2018
+19112,christian gentner,14,8,1985,Nürtingen,Germany,1985-08-14,midfield - Central Midfield,189,right,Germany,,L1,2018
+247459,chadrac akolo,1,4,1995,Kinshasa,Zaire,1995-04-01,attack - Right Winger,172,right,DR Congo,,L1,2018
+431561,roberto massimo,12,10,2000,Accra,Ghana,2000-10-12,midfield - Right Midfield,181,right,,Italy,L1,2018
+6288,mario gómez,10,7,1985,Riedlingen,Germany,1985-07-10,attack - Centre-Forward,189,right,,Spain,L1,2018
+192637,anto grgic,28,11,1996,Schlieren,Switzerland,1996-11-28,midfield - Central Midfield,188,right,,Croatia,L1,2018
+289592,orel mangala,18,3,1998,Brussel,Belgium,1998-03-18,midfield - Defensive Midfield,178,right,,DR Congo,L1,2018
+54659,holger badstuber,13,3,1989,Memmingen,Germany,1989-03-13,Defender - Centre-Back,190,left,Germany,,L1,2018
+317739,david kopacz,29,5,1999,Iserlohn,Germany,1999-05-29,midfield - Attacking Midfield,180,right,,Germany,L1,2018
+21327,ron-robert zieler,12,2,1989,Köln,Germany,1989-02-12,Goalkeeper,188,right,Germany,,L1,2018
+405674,antonis aidonis,22,5,2001,Neustadt an der Weinstraße,Germany,2001-05-22,Defender - Centre-Back,184,right,,Greece,L1,2018
+251876,pablo maffeo,12,7,1997,Sant Joan Despí,Spain,1997-07-12,Defender - Right-Back,172,right,Spain,,L1,2018
+486031,nicolás gonzález,6,4,1998,Belén de Escobar,Argentina,1998-04-06,attack - Left Winger,180,left,Argentina,,L1,2018
+249952,berkay özcan,15,2,1998,Karlsruhe,Germany,1998-02-15,midfield - Central Midfield,180,right,,Germany,L1,2018
+283863,aílton,16,3,1995,Lauro de Freitas,Brazil,1995-03-16,Defender - Left-Back,181,left,Brazil,,L1,2018
+243606,anastasios donis,29,8,1996,Blackburn,England,1996-08-29,attack - Centre-Forward,178,right,,England,L1,2018
+31182,andreas beck,13,3,1987,Kemerowo,UdSSR,1987-03-13,Defender - Right-Back,,,,Russia,L1,2018
+40034,jens grahl,22,9,1988,Stuttgart,Germany,1988-09-22,Goalkeeper,192,right,Germany,,L1,2018
+293194,borna sosa,21,1,1998,Zagreb,Croatia,1998-01-21,Defender - Left-Back,187,left,,Germany,L1,2018
+160938,marc oliver kempf,28,1,1995,Lich,Germany,1995-01-28,Defender - Centre-Back,186,left,Germany,,L1,2018
+68033,steven zuber,17,8,1991,Winterthur,Switzerland,1991-08-17,midfield - Left Midfield,182,right,Switzerland,,L1,2018
+51100,peter pekarik,30,10,1986,Žilina,CSSR,1986-10-30,Defender - Right-Back,177,right,Slovakia,,L1,2018
+232418,ondrej duda,5,12,1994,Snina,Slovakia,1994-12-05,midfield - Attacking Midfield,181,right,Slovakia,,L1,2018
+178459,davie selke,20,1,1995,Schorndorf,Germany,1995-01-20,attack - Centre-Forward,194,right,Germany,,L1,2018
+162434,niklas stark,14,4,1995,Neustadt an der Aisch,Germany,1995-04-14,Defender - Centre-Back,190,right,Germany,,L1,2018
+282658,sidney eweka,12,4,1998,Berlin,Germany,1998-04-12,midfield - Central Midfield,188,right,,Nigeria,L1,2018
+193877,pascal köpke,3,9,1995,Hanau,Germany,1995-09-03,attack - Centre-Forward,178,right,Germany,,L1,2018
+296363,panzu ernesto,3,4,1999,Berlin,Germany,1999-04-03,midfield - Defensive Midfield,182,right,,Germany,L1,2018
+186368,valentino lazaro,24,3,1996,Graz,Austria,1996-03-24,midfield - Right Midfield,180,right,Austria,,L1,2018
+182579,karim rekik,2,12,1994,Den Haag,Netherlands,1994-12-02,Defender - Centre-Back,186,left,,Tunisia,L1,2018
+358870,dennis jastrzembski,20,2,2000,Rendsburg,Germany,2000-02-20,attack - Left Winger,177,left,,Germany,L1,2018
+89592,marvin plattenhardt,26,1,1992,Filderstadt,Germany,1992-01-26,Defender - Left-Back,181,left,Germany,,L1,2018
+227110,jordan torunarigha,7,8,1997,Chemnitz,Germany,1997-08-07,Defender - Centre-Back,191,left,,Nigeria,L1,2018
+335479,maurice covic,17,4,1998,Berlin,Germany,1998-04-17,midfield - Attacking Midfield,175,both,,Croatia,L1,2018
+222813,marko grujic,13,4,1996,Belgrad,Yugoslavia (Republic),1996-04-13,midfield - Defensive Midfield,191,right,Serbia,,L1,2018
+21175,vedad ibisevic,6,8,1984,Vlasenica,Jugoslawien (SFR),1984-08-06,attack - Centre-Forward,188,right,,United States,L1,2018
+39732,thomas kraft,22,7,1988,Kirchen (Sieg),Germany,1988-07-22,Goalkeeper,187,right,Germany,,L1,2018
+300508,palkó dárdai,24,4,1999,Berlin,Germany,1999-04-24,attack - Right Winger,180,left,,Germany,L1,2018
+196382,marius gersbeck,20,6,1995,Berlin,Germany,1995-06-20,Goalkeeper,187,left,Germany,,L1,2018
+296345,florian baak,18,3,1999,Berlin,Germany,1999-03-18,Defender - Centre-Back,191,right,Germany,,L1,2018
+315125,javairô dilrosun,22,6,1998,Amsterdam,Netherlands,1998-06-22,attack - Left Winger,175,left,,Suriname,L1,2018
+42203,fabian lustenberger,2,5,1988,Wolhusen,Switzerland,1988-05-02,Defender - Centre-Back,180,right,Switzerland,,L1,2018
+126214,mathew leckie,4,2,1991,Melbourne,Australia,1991-02-04,attack - Right Winger,181,right,Australia,,L1,2018
+7971,salomon kalou,5,8,1985,Oumé,Cote d'Ivoire,1985-08-05,attack - Left Winger,184,right,Cote d'Ivoire,,L1,2018
+342966,dennis smarsch,14,1,1999,Berlin,Germany,1999-01-14,Goalkeeper,195,both,Germany,,L1,2018
+296397,arne maier,8,1,1999,Ludwigsfelde,Germany,1999-01-08,midfield - Central Midfield,186,right,Germany,,L1,2018
+24112,rune jarstein,29,9,1984,Porsgrunn,Norway,1984-09-29,Goalkeeper,192,right,Norway,,L1,2018
+243805,maximilian pronichev,17,11,1997,Berlin,Germany,1997-11-17,attack - Second Striker,183,right,Russia,,L1,2018
+282660,maximilian mittelstädt,18,3,1997,Berlin,Germany,1997-03-18,Defender - Left-Back,180,left,Germany,,L1,2018
+179643,vladimir darida,8,8,1990,Plzeň,CSSR,1990-08-08,midfield - Central Midfield,172,right,Czech Republic,,L1,2018
+317735,julius kade,20,5,1999,Berlin,Germany,1999-05-20,midfield - Central Midfield,182,left,Germany,,L1,2018
+241457,derrick luckassen,3,7,1995,Amsterdam,Netherlands,1995-07-03,Defender - Centre-Back,186,right,,Ghana,L1,2018
+282577,lukas klünter,26,5,1996,Euskirchen,Germany,1996-05-26,Defender - Right-Back,184,right,Germany,,L1,2018
+18918,per ciljan skjelbred,16,6,1987,Trondheim,Norway,1987-06-16,midfield - Central Midfield,175,right,Norway,,L1,2018
+362746,muhammed kiprit,9,7,1999,Berlin,Germany,1999-07-09,attack - Centre-Forward,184,both,,Germany,L1,2018
+334992,jonathan klinsmann,8,4,1997,München,Germany,1997-04-08,Goalkeeper,194,right,,Germany,L1,2018
+193004,waldemar anton,20,7,1996,Almalyk,Uzbekistan,1996-07-20,Defender - Centre-Back,189,right,,Uzbekistan,L1,2018
+122675,kevin wimmer,15,11,1992,Wels,Austria,1992-11-15,Defender - Centre-Back,187,left,Austria,,L1,2018
+39426,nicolai müller,25,9,1987,Lohr am Main,Germany,1987-09-25,midfield - Attacking Midfield,173,right,Germany,,L1,2018
+245744,takuma asano,10,11,1994,"Komono, Mie",Japan,1994-11-10,attack - Right Winger,173,right,Japan,,L1,2018
+94939,uffe bech,13,1,1993,Copenhagen,Denmark,1993-01-13,attack - Right Winger,170,left,Denmark,,L1,2018
+226450,iver fossum,15,7,1996,Drammen,Norway,1996-07-15,midfield - Central Midfield,180,right,Norway,,L1,2018
+79377,genki haraguchi,9,5,1991,"Kumagaya, Saitama",Japan,1991-05-09,midfield - Attacking Midfield,177,right,Japan,,L1,2018
+283001,noah joel sarenren bazee,21,8,1996,Celle,Germany,1996-08-21,attack - Right Winger,183,right,,Germany,L1,2018
+337036,florent muslija,6,7,1998,Achern,Germany,1998-07-06,midfield - Attacking Midfield,172,right,,Germany,L1,2018
+53669,matthias ostrzolek,5,6,1990,Bochum,Germany,1990-06-05,Defender - Left-Back,178,left,,Poland,L1,2018
+68815,felipe,15,5,1987,Americana,Brazil,1987-05-15,Defender - Centre-Back,193,left,,Italy,L1,2018
+21726,philipp tschauner,3,11,1985,Schwabach,Germany,1985-11-03,Goalkeeper,196,right,Germany,,L1,2018
+323954,walace,4,4,1995,Salvador,Brazil,1995-04-04,midfield - Defensive Midfield,188,right,Brazil,,L1,2018
+335103,linton maina,23,6,1999,Berlin,Germany,1999-06-23,attack - Right Winger,173,right,,Kenya,L1,2018
+53602,marvin bakalorz,13,9,1989,Offenbach am Main,Germany,1989-09-13,midfield - Central Midfield,180,right,Germany,,L1,2018
+170516,tim dierßen,15,1,1996,Stadthagen,Germany,1996-01-15,midfield - Central Midfield,172,right,Germany,,L1,2018
+75489,niclas füllkrug,9,2,1993,Hannover,Germany,1993-02-09,attack - Centre-Forward,189,right,Germany,,L1,2018
+55114,oliver sorg,29,5,1990,Engen,Germany,1990-05-29,Defender - Right-Back,175,right,Germany,,L1,2018
+160241,kevin akpoguma,19,4,1995,Neustadt an der Weinstraße,Germany,1995-04-19,Defender - Centre-Back,192,right,,Germany,L1,2018
+75852,miiko albornoz,30,11,1990,Stockholm,Sweden,1990-11-30,Defender - Left-Back,180,left,,Sweden,L1,2018
+72519,bobby wood,15,11,1992,"Honolulu, Hawaii",United States,1992-11-15,attack - Centre-Forward,180,right,United States,,L1,2018
+605498,sebastian soto,28,7,2000,"Carlsbad, California",United States,2000-07-28,attack - Centre-Forward,183,right,,Chile,L1,2018
+330223,hendrik weydandt,16,7,1995,Gehrden,Germany,1995-07-16,attack - Centre-Forward,195,right,Germany,,L1,2018
+61989,michael esser,22,11,1987,Castrop-Rauxel,Germany,1987-11-22,Goalkeeper,198,right,Germany,,L1,2018
+58345,jonathas,6,3,1989,Belo Horizonte,Brazil,1989-03-06,attack - Centre-Forward,192,right,Brazil,,L1,2018
+77809,julian korb,21,3,1992,Essen,Germany,1992-03-21,Defender - Right-Back,177,right,Germany,,L1,2018
+349530,benjamin hadzic,4,3,1999,Dinslaken,Germany,1999-03-04,attack - Centre-Forward,185,right,Bosnia-Herzegovina,,L1,2018
+14533,pirmin schwegler,9,3,1987,Ettiswil,Switzerland,1987-03-09,midfield - Defensive Midfield,178,right,Switzerland,,L1,2018
+236981,timo hübers,20,7,1996,Hildesheim,Germany,1996-07-20,Defender - Centre-Back,190,right,Germany,,L1,2018
+77563,samuel sahin-radlinger,7,11,1992,Ried im Innkreis,Austria,1992-11-07,Goalkeeper,198,right,Austria,,L1,2018
+60028,edgar prib,15,12,1989,Nerjungri,UdSSR,1989-12-15,midfield - Central Midfield,180,left,,Russia,L1,2018
+179895,josip elez,25,4,1994,Split,Croatia,1994-04-25,Defender - Centre-Back,189,right,Croatia,,L1,2018
+334490,fabian senninger,25,1,1996,Berlin,Germany,1996-01-25,Defender - Right-Back,175,right,,Nigeria,L1,2018
+196427,leo weinkauf,7,7,1996,Oldenburg,Germany,1996-07-07,Goalkeeper,196,right,Germany,,L1,2018
+193006,mike bähre,10,8,1995,Garbsen,Germany,1995-08-10,midfield - Attacking Midfield,179,right,Germany,,L1,2018
+237164,ihlas bebou,23,4,1994,Aledjo Kadara,Togo,1994-04-23,attack - Right Winger,183,right,,Germany,L1,2018
+41507,manuel schmiedebach,5,12,1988,Berlin,Germany,1988-12-05,midfield - Defensive Midfield,171,right,Germany,,L1,2018
+404384,rabbi matondo,9,9,2000,Liverpool,England,2000-09-09,attack - Right Winger,175,right,,England,L1,2018
+388058,benjamin goller,1,1,1999,Reutlingen,Germany,1999-01-01,attack - Right Winger,180,right,Germany,,L1,2018
+49239,guido burgstaller,29,4,1989,Villach,Austria,1989-04-29,attack - Centre-Forward,187,right,Austria,,L1,2018
+116094,philip fontein,5,10,1993,Ochtrup,Germany,1993-10-05,midfield - Attacking Midfield,184,right,Germany,,L1,2018
+452084,ahmed kutucu,1,3,2000,Gelsenkirchen,Germany,2000-03-01,attack - Centre-Forward,181,right,,Germany,L1,2018
+39015,ralf fährmann,27,9,1988,Karl-Marx-Stadt,DDR,1988-09-27,Goalkeeper,197,right,Germany,,L1,2018
+32213,naldo,10,9,1982,Londrina,Brazil,1982-09-10,Defender - Centre-Back,198,right,,Germany,L1,2018
+118397,alessandro schöpf,7,2,1994,Umhausen,Austria,1994-02-07,midfield - Attacking Midfield,178,right,Austria,,L1,2018
+344677,george timotheou,29,7,1997,Canberra,Australia,1997-07-29,Defender - Centre-Back,190,left,,Greece,L1,2018
+239972,jonas carls,25,3,1997,Haan,Germany,1997-03-25,Defender - Left-Back,179,left,Germany,,L1,2018
+57051,sebastian rudy,28,2,1990,Villingen-Schwenningen,Germany,1990-02-28,midfield - Defensive Midfield,180,right,Germany,,L1,2018
+227102,fabian reese,29,11,1997,Kiel,Germany,1997-11-29,attack - Right Winger,187,right,Germany,,L1,2018
+372711,amine harit,18,6,1997,Pontoise,France,1997-06-18,midfield - Attacking Midfield,180,right,,France,L1,2018
+19114,michael langer,6,1,1985,Bregenz,Austria,1985-01-06,Goalkeeper,195,right,Austria,,L1,2018
+126534,salif sané,25,8,1990,Lormont,France,1990-08-25,Defender - Centre-Back,196,right,,France,L1,2018
+142031,omar mascarell,2,2,1993,Santa Cruz de Tenerife,Spain,1993-02-02,midfield - Defensive Midfield,181,right,,Equatorial Guinea,L1,2018
+1662,sascha riether,23,3,1983,Lahr,Germany,1983-03-23,Defender - Right-Back,174,right,Germany,,L1,2018
+195778,alexander nübel,30,9,1996,Paderborn,Germany,1996-09-30,Goalkeeper,193,right,Germany,,L1,2018
+59783,franco di santo,7,4,1989,Mendoza,Argentina,1989-04-07,attack - Centre-Forward,193,right,,Italy,L1,2018
+112935,mark uth,24,8,1991,Köln,Germany,1991-08-24,attack - Second Striker,185,left,Germany,,L1,2018
+315291,haji wright,27,3,1998,"Los Angeles, California",United States,1998-03-27,attack - Centre-Forward,193,right,United States,,L1,2018
+93827,steven skrzybski,18,11,1992,Berlin,Germany,1992-11-18,attack - Right Winger,174,right,Germany,,L1,2018
+207597,cedric teuchert,14,1,1997,Coburg,Germany,1997-01-14,attack - Centre-Forward,182,right,Germany,,L1,2018
+127160,benjamin stambouli,13,8,1990,Marseille,France,1990-08-13,midfield - Defensive Midfield,180,right,,Algeria,L1,2018
+38410,daniel caligiuri,15,1,1988,Villingen-Schwenningen,Germany,1988-01-15,attack - Right Winger,182,right,,Germany,L1,2018
+245537,nabil bentaleb,24,11,1994,Lille,France,1994-11-24,midfield - Central Midfield,187,left,,France,L1,2018
+261905,suat serdar,11,4,1997,Bingen,Germany,1997-04-11,midfield - Central Midfield,184,right,,Turkey,L1,2018
+171362,pablo insua,9,9,1993,A Coruña,Spain,1993-09-09,Defender - Centre-Back,187,right,Spain,,L1,2018
+143559,matija nastasic,28,3,1993,Valjevo,Yugoslavia (Republic),1993-03-28,Defender - Centre-Back,188,left,Serbia,,L1,2018
+334238,niklas wiemann,23,2,1999,Detmold,Germany,1999-02-23,Defender - Centre-Back,190,left,Germany,,L1,2018
+447221,hamza mendyl,21,10,1997,Casablanca,Morocco,1997-10-21,Defender - Left-Back,179,left,,Cote d'Ivoire,L1,2018
+88721,jeffrey bruma,13,11,1991,Rotterdam,Netherlands,1991-11-13,Defender - Centre-Back,189,right,,Suriname,L1,2018
+53437,bastian oczipka,12,1,1989,Bergisch Gladbach,Germany,1989-01-12,Defender - Left-Back,185,left,Germany,,L1,2018
+58949,yevgen konoplyanka,29,9,1989,Kirovograd,UdSSR,1989-09-29,attack - Left Winger,176,right,Ukraine,,L1,2018
+346332,nassim boujellab,20,6,1999,Hagen,Germany,1999-06-20,midfield - Central Midfield,182,both,,Germany,L1,2018
+367426,yannic lenze,18,2,2001,Ratingen,Germany,2001-02-18,Goalkeeper,185,left,Germany,,L1,2018
+332697,weston mckennie,28,8,1998,"Little Elm, Texas",United States,1998-08-28,midfield - Central Midfield,177,right,United States,,L1,2018
+224884,abdul-rahman baba,2,7,1994,Tamale,Ghana,1994-07-02,Defender - Left-Back,179,left,Ghana,,L1,2018
+237662,breel embolo,14,2,1997,Yaoundé,Cameroon,1997-02-14,attack - Centre-Forward,187,right,,Cameroon,L1,2018
+39717,diego contento,1,5,1990,München,Germany,1990-05-01,Defender - Left-Back,177,left,,Italy,L1,2018
+31514,markus suttner,16,4,1987,Hollabrunn,Austria,1987-04-16,Defender - Left-Back,179,left,Austria,,L1,2018
+303259,dodi lukébakio,24,9,1997,Asse,Belgium,1997-09-24,attack - Right Winger,187,left,,DR Congo,L1,2018
+47199,emir kujovic,22,6,1988,Bijelo Polje,Jugoslawien (SFR),1988-06-22,attack - Centre-Forward,194,right,,Montenegro,L1,2018
+58500,alfredo morales,12,5,1990,Berlin,Germany,1990-05-12,midfield - Central Midfield,183,right,,Germany,L1,2018
+2421,michael rensing,14,5,1984,Lingen,Germany,1984-05-14,Goalkeeper,190,right,Germany,,L1,2018
+11268,oliver fink,6,6,1982,Hirschau,Germany,1982-06-06,midfield - Central Midfield,187,right,Germany,,L1,2018
+16311,rouwen hennings,28,8,1987,Bad Oldesloe,Germany,1987-08-28,attack - Centre-Forward,180,left,Germany,,L1,2018
+106872,kevin stöger,27,8,1993,Steyr,Austria,1993-08-27,midfield - Attacking Midfield,175,left,Austria,,L1,2018
+244945,jannick theißen,7,1,1998,Aachen,Germany,1998-01-07,Goalkeeper,,right,Germany,,L1,2018
+346329,georgios siadas,27,12,1999,Solingen,Germany,1999-12-27,Defender - Left-Back,180,left,,Greece,L1,2018
+125103,marvin ducksch,7,3,1994,Dortmund,Germany,1994-03-07,attack - Centre-Forward,188,right,Germany,,L1,2018
+39306,raphael wolf,6,6,1988,München,Germany,1988-06-06,Goalkeeper,190,right,Germany,,L1,2018
+314245,emmanuel iyoha,11,10,1997,Düsseldorf,Germany,1997-10-11,attack - Left Winger,191,right,,Nigeria,L1,2018
+316915,davor lovren,3,10,1998,München,Germany,1998-10-03,attack - Left Winger,172,left,Croatia,,L1,2018
+136181,havard nielsen,15,7,1993,Oslo,Norway,1993-07-15,attack - Centre-Forward,187,right,Norway,,L1,2018
+193632,tim wiesner,21,11,1996,Dortmund,Germany,1996-11-21,Goalkeeper,192,both,Germany,,L1,2018
+86848,matthias zimmermann,16,6,1992,Karlsruhe,Germany,1992-06-16,Defender - Right-Back,177,right,Germany,,L1,2018
+208167,dawid kownacki,14,3,1997,Gorzów Wielkopolski,Poland,1997-03-14,attack - Centre-Forward,186,right,Poland,,L1,2018
+294701,kianz froese,16,4,1996,Havana,Cuba,1996-04-16,midfield - Central Midfield,177,right,,Cuba,L1,2018
+85164,andré hoffmann,28,2,1993,Essen,Germany,1993-02-28,Defender - Centre-Back,188,right,Germany,,L1,2018
+112930,benito raman,7,11,1994,Gent,Belgium,1994-11-07,attack - Centre-Forward,172,right,Belgium,,L1,2018
+315332,aymen barkok,21,5,1998,Frankfurt am Main,Germany,1998-05-21,midfield - Attacking Midfield,189,right,,Germany,L1,2018
+119557,kenan karaman,5,3,1994,Stuttgart,Germany,1994-03-05,attack - Centre-Forward,189,right,,Germany,L1,2018
+72792,niko gießelmann,26,9,1991,Hannover,Germany,1991-09-26,Defender - Left-Back,182,left,Germany,,L1,2018
+119044,marcel sobottka,25,4,1994,Gelsenkirchen,Germany,1994-04-25,midfield - Defensive Midfield,185,right,Germany,,L1,2018
+283286,robin bormuth,19,9,1995,Groß-Rohrheim,Germany,1995-09-19,Defender - Centre-Back,190,right,Germany,,L1,2018
+118196,jean zimmer,6,12,1993,Bad Dürkheim,Germany,1993-12-06,midfield - Right Midfield,171,right,Germany,,L1,2018
+263118,johannes bühler,26,7,1997,Alsfeld,Germany,1997-07-26,midfield - Defensive Midfield,181,right,Germany,,L1,2018
+119031,kaan ayhan,10,11,1994,Gelsenkirchen,Germany,1994-11-10,Defender - Centre-Back,185,right,,Germany,L1,2018
+111881,takashi usami,6,5,1992,"Nagaokakyo, Kyoto",Japan,1992-05-06,attack - Centre-Forward,178,right,Japan,,L1,2018
+20778,adam bodzek,7,9,1985,Zabrze,Poland,1985-09-07,midfield - Defensive Midfield,184,right,,Poland,L1,2018
+12864,jaroslav drobny,18,10,1979,Počátky,CSSR,1979-10-18,Goalkeeper,192,right,Czech Republic,,L1,2018
+90024,alfred finnbogason,1,2,1989,Reykjavík,Iceland,1989-02-01,attack - Centre-Forward,184,right,Iceland,,L1,2018
+53408,fabian giefer,17,5,1990,Adenau,Germany,1990-05-17,Goalkeeper,196,right,Germany,,L1,2018
+164265,dong-won ji,28,5,1991,"Jeju City, Jeju","Korea, South",1991-05-28,attack - Centre-Forward,187,right,"Korea, South",,L1,2018
+111275,philipp max,30,9,1993,Viersen,Germany,1993-09-30,Defender - Left-Back,177,left,Germany,,L1,2018
+124410,rani khedira,27,1,1994,Stuttgart,Germany,1994-01-27,midfield - Defensive Midfield,188,right,,Tunisia,L1,2018
+81698,georg teigl,9,2,1991,Wien,Austria,1991-02-09,Defender - Right-Back,183,right,Austria,,L1,2018
+405568,maurice malone,17,8,2000,Augsburg,Germany,2000-08-17,midfield - Left Midfield,187,left,,United States,L1,2018
+545503,seong-hoon cheon,21,9,2000,"Gwangmyeong, Gyeonggi","Korea, South",2000-09-21,attack - Centre-Forward,190,,"Korea, South",,L1,2018
+381250,benjamin leneis,8,3,1999,München,Germany,1999-03-08,Goalkeeper,195,both,Germany,,L1,2018
+41323,andreas luthe,10,3,1987,Velbert,Germany,1987-03-10,Goalkeeper,195,right,Germany,,L1,2018
+42783,andré hahn,13,8,1990,Otterndorf,Germany,1990-08-13,attack - Right Winger,185,right,Germany,,L1,2018
+85789,martin hinteregger,7,9,1992,Sankt Veit an der Glan,Austria,1992-09-07,Defender - Centre-Back,184,left,Austria,,L1,2018
+146163,raphael framberger,6,9,1995,Augsburg,Germany,1995-09-06,Defender - Right-Back,179,right,Germany,,L1,2018
+249157,fredrik jensen,9,9,1997,Porvoo,Finland,1997-09-09,midfield - Attacking Midfield,183,right,Finland,,L1,2018
+279009,marco richter,24,11,1997,Friedberg,Germany,1997-11-24,attack - Right Winger,176,right,Germany,,L1,2018
+333464,romario rösch,1,7,1999,Neu-Ulm,Germany,1999-07-01,midfield - Attacking Midfield,182,both,Germany,,L1,2018
+380273,felix schwarzholz,24,9,1999,Augsburg,Germany,1999-09-24,midfield - Defensive Midfield,181,right,Germany,,L1,2018
+106405,jeffrey gouweleeuw,10,7,1991,Heemskerk,Netherlands,1991-07-10,Defender - Centre-Back,187,right,Netherlands,,L1,2018
+330635,felix götze,11,2,1998,Dortmund,Germany,1998-02-11,midfield - Defensive Midfield,185,right,Germany,,L1,2018
+377387,sergio córdova,9,8,1997,"Calabozo, Guárico",Venezuela,1997-08-09,attack - Centre-Forward,188,right,Venezuela,,L1,2018
+263236,kevin danso,19,9,1998,Voitsberg,Austria,1998-09-19,Defender - Centre-Back,190,right,Austria,,L1,2018
+4018,daniel baier,18,5,1984,Köln,Germany,1984-05-18,midfield - Defensive Midfield,176,right,Germany,,L1,2018
+120205,michael gregoritsch,18,4,1994,Graz,Austria,1994-04-18,attack - Second Striker,193,left,Austria,,L1,2018
+63022,jan morávek,1,11,1989,Prag,CSSR,1989-11-01,midfield - Central Midfield,180,right,Czech Republic,,L1,2018
+54137,caiuby,14,7,1988,São Paulo,Brazil,1988-07-14,attack - Second Striker,185,left,Brazil,,L1,2018
+343332,stefano russo,29,6,2000,Ludwigshafen am Rhein,Germany,2000-06-29,midfield - Defensive Midfield,184,right,,Italy,L1,2018
+257814,gregor kobel,6,12,1997,Zürich,Switzerland,1997-12-06,Goalkeeper,194,right,Switzerland,,L1,2018
+91841,ja-cheol koo,27,2,1989,"Nonsan, Chungnam","Korea, South",1989-02-27,midfield - Central Midfield,184,right,"Korea, South",,L1,2018
+392131,simon asta,25,1,2001,Augsburg,Germany,2001-01-25,Defender - Right-Back,181,right,Germany,,L1,2018
+161079,julian günther-schmidt,13,9,1994,Pforzheim,Germany,1994-09-13,attack - Second Striker,183,both,Germany,,L1,2018
+111277,tim rieder,3,9,1993,Dachau,Germany,1993-09-03,midfield - Defensive Midfield,186,right,Germany,,L1,2018
+314295,reece oxford,16,12,1998,London,England,1998-12-16,Defender - Centre-Back,190,right,,Jamaica,L1,2018
+333450,jozo stanic,6,4,1999,Augsburg,Germany,1999-04-06,Defender - Right-Back,184,right,,Germany,L1,2018
+3851,jan-ingwer callsen-bracker,23,9,1984,Schleswig,Germany,1984-09-23,Defender - Centre-Back,188,right,Germany,,L1,2018
+148967,konstantinos stafylidis,2,12,1993,Thessaloniki,Greece,1993-12-02,Defender - Left-Back,178,left,Greece,,L1,2018
+70285,jonathan schmid,22,6,1990,Straßburg,France,1990-06-22,Defender - Right-Back,180,right,France,,L1,2018
+14977,christoph janker,14,2,1985,Cham,Germany,1985-02-14,Defender - Centre-Back,185,right,Germany,,L1,2018
+324760,kilian jakob,25,1,1998,Bad Neuenahr-Ahrweiler,Germany,1998-01-25,Defender - Left-Back,183,left,Germany,,L1,2018
+320954,tomasz kucz,6,7,1999,Warszawa,Poland,1999-07-06,Goalkeeper,186,right,Poland,,L1,2018
+389078,adrian stanilewicz,22,2,2000,Solingen,Germany,2000-02-22,midfield - Defensive Midfield,181,left,,Germany,L1,2018
+389079,jan boller,14,3,2000,Siegen,Germany,2000-03-14,Defender - Centre-Back,185,both,Germany,,L1,2018
+30059,lars bender,27,4,1989,Rosenheim,Germany,1989-04-27,midfield - Defensive Midfield,185,right,Germany,,L1,2018
+335100,sam schreck,29,1,1999,Pinneberg,Germany,1999-01-29,midfield - Attacking Midfield,180,both,Germany,,L1,2018
+89701,charles aránguiz,17,4,1989,Puente Alto,Chile,1989-04-17,midfield - Central Midfield,171,right,Chile,,L1,2018
+48015,lukas hradecky,24,11,1989,Bratislava,CSSR,1989-11-24,Goalkeeper,192,right,,Slovakia,L1,2018
+196357,jonathan tah,11,2,1996,Hamburg,Germany,1996-02-11,Defender - Centre-Back,195,right,,Cote d'Ivoire,L1,2018
+82009,kevin volland,30,7,1992,Marktoberdorf,Germany,1992-07-30,attack - Centre-Forward,179,left,Germany,,L1,2018
+346328,jakub bednarczyk,2,1,1999,Tarnowskie Góry,Poland,1999-01-02,Defender - Right-Back,184,right,,Germany,L1,2018
+61087,karim bellarabi,8,4,1990,Berlin,Germany,1990-04-08,attack - Right Winger,184,right,,Morocco,L1,2018
+34787,julian baumgartlinger,2,1,1988,Salzburg,Austria,1988-01-02,midfield - Defensive Midfield,184,right,Austria,,L1,2018
+187492,julian brandt,2,5,1996,Bremen,Germany,1996-05-02,midfield - Attacking Midfield,185,right,Germany,,L1,2018
+59032,aleksandar dragovic,6,3,1991,Wien,Austria,1991-03-06,Defender - Centre-Back,186,right,,Serbia,L1,2018
+118847,dominik kohr,31,1,1994,Trier,Germany,1994-01-31,midfield - Central Midfield,183,right,Germany,,L1,2018
+228433,wendell,20,7,1993,Fortaleza,Brazil,1993-07-20,Defender - Left-Back,176,left,Brazil,,L1,2018
+428791,paulinho,15,7,2000,Rio de Janeiro,Brazil,2000-07-15,attack - Left Winger,177,right,Brazil,,L1,2018
+38346,thorsten kirschbaum,20,4,1987,Würzburg,Germany,1987-04-20,Goalkeeper,195,left,Germany,,L1,2018
+85543,niklas lomb,28,7,1993,Köln,Germany,1993-07-28,Goalkeeper,186,right,Germany,,L1,2018
+387626,leon bailey,9,8,1997,Kingston,Jamaica,1997-08-09,attack - Left Winger,178,left,Jamaica,,L1,2018
+173491,joel pohjanpalo,13,9,1994,Helsinki,Finland,1994-09-13,attack - Centre-Forward,186,right,Finland,,L1,2018
+119211,mitchell weiser,21,4,1994,Troisdorf,Germany,1994-04-21,Defender - Right-Back,177,right,,Algeria,L1,2018
+193782,lucas alario,8,10,1992,"Tostado, Santa Fe",Argentina,1992-10-08,attack - Centre-Forward,184,right,,Italy,L1,2018
+16498,ramazan özcan,28,6,1984,Hohenems,Austria,1984-06-28,Goalkeeper,185,left,,Turkey,L1,2018
+202591,benjamin henrichs,23,2,1997,Bocholt,Germany,1997-02-23,Defender - Right-Back,183,right,,Ghana,L1,2018
+201311,isaac kiese thelin,24,6,1992,Örebro,Sweden,1992-06-24,attack - Centre-Forward,189,right,,DR Congo,L1,2018
+206386,tin jedvaj,28,11,1995,Zagreb,Croatia,1995-11-28,Defender - Centre-Back,185,right,Croatia,,L1,2018
+336002,herdi bukusu,3,4,2000,Aachen,Germany,2000-04-03,attack - Left Winger,181,both,,Angola,L1,2018
+309400,kai havertz,11,6,1999,Aachen,Germany,1999-06-11,midfield - Attacking Midfield,189,left,Germany,,L1,2018
+324351,panagiotis retsos,9,8,1998,Johannesburg,South Africa,1998-08-09,Defender - Centre-Back,186,right,Greece,,L1,2018
+29993,sven bender,27,4,1989,Rosenheim,Germany,1989-04-27,midfield - Defensive Midfield,186,right,Germany,,L1,2018
+340480,mamadou doucouré,21,5,1998,Dakar,Senegal,1998-05-21,Defender - Centre-Back,183,left,,Senegal,L1,2018
+48298,lars stindl,26,8,1988,Speyer,Germany,1988-08-26,attack - Second Striker,181,right,Germany,,L1,2018
+167329,alassane plea,10,3,1993,Lille,France,1993-03-10,attack - Centre-Forward,181,right,,Mali,L1,2018
+7161,jonas hofmann,14,7,1992,Heidelberg,Germany,1992-07-14,attack - Right Winger,176,right,Germany,,L1,2018
+124502,matthias ginter,19,1,1994,Freiburg im Breisgau,Germany,1994-01-19,Defender - Centre-Back,191,right,Germany,,L1,2018
+140579,josip drmic,8,8,1992,Lachen,Switzerland,1992-08-08,attack - Centre-Forward,184,right,,Croatia,L1,2018
+42205,yann sommer,17,12,1988,Morges,Switzerland,1988-12-17,Goalkeeper,183,right,Switzerland,,L1,2018
+345746,andreas poulsen,13,10,1999,Ikast,Denmark,1999-10-13,Defender - Left-Back,188,left,Denmark,,L1,2018
+321096,keanan bennetts,9,3,1999,London,England,1999-03-09,midfield - Left Midfield,181,left,,Germany,L1,2018
+47587,tony jantschke,7,4,1990,Hoyerswerda,DDR,1990-04-07,Defender - Centre-Back,177,right,Germany,,L1,2018
+47285,ibrahima traoré,21,4,1988,Villepinte,France,1988-04-21,attack - Right Winger,171,left,,France,L1,2018
+331634,florian mayer,4,3,1998,Essen,Germany,1998-03-04,Defender - Centre-Back,191,right,Germany,,L1,2018
+32711,patrick herrmann,12,2,1991,Uchtelfangen,Germany,1991-02-12,attack - Right Winger,179,right,Germany,,L1,2018
+102226,thorgan hazard,29,3,1993,La Louvière,Belgium,1993-03-29,attack - Left Winger,175,right,Belgium,,L1,2018
+51346,michael lang,8,2,1991,St.Gallen,Switzerland,1991-02-08,Defender - Right-Back,185,right,Switzerland,,L1,2018
+368860,torben müsel,25,7,1999,Grünstadt,Germany,1999-07-25,midfield - Attacking Midfield,185,right,Germany,,L1,2018
+284270,moritz nicolas,21,10,1997,Gladbeck,Germany,1997-10-21,Goalkeeper,193,right,Germany,,L1,2018
+278332,florian neuhaus,16,3,1997,Landsberg am Lech,Germany,1997-03-16,midfield - Central Midfield,185,right,Germany,,L1,2018
+403898,jordan beyer,19,5,2000,Kempen,Germany,2000-05-19,Defender - Centre-Back,187,right,Germany,,L1,2018
+334526,denis zakaria,20,11,1996,Genf,Switzerland,1996-11-20,midfield - Defensive Midfield,191,right,,DR Congo,L1,2018
+243188,lászlo bénes,9,9,1997,Dunajská Streda,Slovakia,1997-09-09,midfield - Central Midfield,181,left,Slovakia,,L1,2018
+19305,oscar wendt,24,10,1985,Göteborg,Sweden,1985-10-24,Defender - Left-Back,181,left,Sweden,,L1,2018
+19819,raffael,28,3,1985,Fortaleza,Brazil,1985-03-28,attack - Second Striker,174,right,,Germany,L1,2018
+31041,fabian johnson,11,12,1987,München,Germany,1987-12-11,attack - Left Winger,183,right,,Germany,L1,2018
+31653,tobias sippel,22,3,1988,Bad Dürkheim,Germany,1988-03-22,Goalkeeper,183,right,Germany,,L1,2018
+57845,tobias strobl,12,5,1990,München,Germany,1990-05-12,midfield - Defensive Midfield,188,right,Germany,,L1,2018
+82097,christoph kramer,19,2,1991,Solingen,Germany,1991-02-19,midfield - Defensive Midfield,191,right,Germany,,L1,2018
+344600,michaël cuisance,16,8,1999,Straßburg,France,1999-08-16,midfield - Central Midfield,181,left,France,,L1,2018
+192635,nico elvedi,30,9,1996,Zürich,Switzerland,1996-09-30,Defender - Centre-Back,189,right,Switzerland,,L1,2018
+401717,julio villalba,17,9,1998,Ciudad del Este,Paraguay,1998-09-17,attack - Centre-Forward,176,right,Paraguay,,L1,2018
+39094,sebastian langkamp,15,1,1988,Speyer,Germany,1988-01-15,Defender - Centre-Back,191,right,Germany,,L1,2018
+335003,jean manuel mbom,24,2,2000,Göttingen,Germany,2000-02-24,midfield - Central Midfield,183,right,,Cameroon,L1,2018
+196813,michael zetterer,12,7,1995,München,Germany,1995-07-12,Goalkeeper,187,both,Germany,,L1,2018
+393325,josh sargent,20,2,2000,"O'Fallon, Missouri",United States,2000-02-20,attack - Centre-Forward,185,right,United States,,L1,2018
+68410,stefanos kapino,18,3,1994,Piräus,Greece,1994-03-18,Goalkeeper,196,right,Greece,,L1,2018
+190284,maximilian eggestein,8,12,1996,Hannover,Germany,1996-12-08,midfield - Central Midfield,181,right,Germany,,L1,2018
+119169,aron jóhannsson,10,11,1990,"Mobile, Alabama",United States,1990-11-10,attack - Centre-Forward,184,right,,Iceland,L1,2018
+5017,niklas moisander,29,9,1985,Turku,Finland,1985-09-29,Defender - Centre-Back,183,left,Finland,,L1,2018
+195676,ole käuper,9,1,1997,Bremen,Germany,1997-01-09,midfield - Defensive Midfield,187,left,Germany,,L1,2018
+31095,nuri sahin,5,9,1988,Lüdenscheid,Germany,1988-09-05,midfield - Defensive Midfield,180,left,,Germany,L1,2018
+322293,felix beijmo,31,1,1998,Stockholm,Sweden,1998-01-31,Defender - Right-Back,185,right,Sweden,,L1,2018
+335997,luca plogmann,10,3,2000,Bremen,Germany,2000-03-10,Goalkeeper,189,both,Germany,,L1,2018
+36207,fin bartels,7,2,1987,Kiel,Germany,1987-02-07,attack - Left Winger,176,right,Germany,,L1,2018
+36182,max kruse,19,3,1988,Reinbek,Germany,1988-03-19,attack - Second Striker,180,left,Germany,,L1,2018
+202228,milos veljkovic,26,9,1995,Basel,Switzerland,1995-09-26,Defender - Centre-Back,188,both,,Switzerland,L1,2018
+94137,kevin möhwald,3,7,1993,Erfurt,Germany,1993-07-03,midfield - Central Midfield,183,right,Germany,,L1,2018
+106270,florian kainz,24,10,1992,Graz,Austria,1992-10-24,attack - Left Winger,176,right,Austria,,L1,2018
+251303,johannes eggestein,8,5,1998,Hannover,Germany,1998-05-08,attack - Centre-Forward,183,right,Germany,,L1,2018
+291739,milot rashica,28,6,1996,Vushtrri,Yugoslavia (Republic),1996-06-28,attack - Left Winger,177,right,,Albania,L1,2018
+179634,robert bauer,9,4,1995,Pforzheim,Germany,1995-04-09,Defender - Right-Back,183,right,,Kazakhstan,L1,2018
+31159,martin harnik,10,6,1987,Hamburg,Germany,1987-06-10,attack - Right Winger,185,right,,Germany,L1,2018
+82110,thanos petsos,5,6,1991,Düsseldorf,Germany,1991-06-05,midfield - Defensive Midfield,184,right,,Germany,L1,2018
+108650,yuya osako,18,5,1990,"Kaseda, Kagoshima",Japan,1990-05-18,attack - Second Striker,182,right,Japan,,L1,2018
+342967,jan-niklas beste,4,1,1999,Hamm,Germany,1999-01-04,Defender - Left-Back,174,left,Germany,,L1,2018
+42033,philipp bargfrede,3,3,1989,Zeven,Germany,1989-03-03,midfield - Defensive Midfield,174,right,Germany,,L1,2018
+156990,marco friedl,16,3,1998,Kirchbichl,Austria,1998-03-16,Defender - Centre-Back,187,left,Austria,,L1,2018
+275249,niklas schmidt,1,3,1998,Kassel,Germany,1998-03-01,midfield - Attacking Midfield,184,both,Germany,,L1,2018
+236986,thore jacobsen,19,4,1997,Henstedt-Ulzburg,Germany,1997-04-19,midfield - Defensive Midfield,182,left,Germany,,L1,2018
+170646,ludwig augustinsson,21,4,1994,Stockholm,Sweden,1994-04-21,Defender - Left-Back,181,left,Sweden,,L1,2018
+532,claudio pizarro,3,10,1978,Callao,Peru,1978-10-03,attack - Centre-Forward,184,right,,Italy,L1,2018
+260053,jiri pavlenka,14,4,1992,Hlučín,Czech Republic,1992-04-14,Goalkeeper,196,right,Czech Republic,,L1,2018
+182932,davy klaassen,21,2,1993,Hilversum,Netherlands,1993-02-21,midfield - Attacking Midfield,179,right,Netherlands,,L1,2018
+60632,theodor gebre selassie,24,12,1986,Třebíč,CSSR,1986-12-24,Defender - Right-Back,181,right,,Ethiopia,L1,2018
+51676,ermin bicakcic,24,1,1990,Zvornik,Jugoslawien (SFR),1990-01-24,Defender - Centre-Back,185,right,,Germany,L1,2018
+223974,stefan posch,14,5,1997,Judenburg,Austria,1997-05-14,Defender - Centre-Back,188,right,Austria,,L1,2018
+55089,oliver baumann,2,6,1990,Breisach am Rhein,Germany,1990-06-02,Goalkeeper,187,right,Germany,,L1,2018
+296340,alfons amade,12,11,1999,Heidelberg,Germany,1999-11-12,midfield - Defensive Midfield,170,right,Germany,,L1,2018
+327911,felipe pires,18,4,1995,São Paulo,Brazil,1995-04-18,attack - Right Winger,178,right,Brazil,,L1,2018
+282180,nicolas wähling,24,8,1997,Ludwigsburg,Germany,1997-08-24,attack - Right Winger,187,right,,England,L1,2018
+296350,moody chana,7,1,1999,Leer,Germany,1999-01-07,Defender - Centre-Back,186,right,,Cameroon,L1,2018
+10329,alexander stolz,13,10,1983,Pforzheim,Germany,1983-10-13,Goalkeeper,189,right,Germany,,L1,2018
+42234,havard nordtveit,21,6,1990,Vats,Norway,1990-06-21,Defender - Centre-Back,188,right,Norway,,L1,2018
+82863,lukas rupp,8,1,1991,Heidelberg,Germany,1991-01-08,midfield - Central Midfield,178,right,Germany,,L1,2018
+232454,nadiem amiri,27,10,1996,Ludwigshafen am Rhein,Germany,1996-10-27,midfield - Attacking Midfield,180,right,,Afghanistan,L1,2018
+251309,dennis geiger,10,6,1998,Mosbach,Germany,1998-06-10,midfield - Central Midfield,173,right,Germany,,L1,2018
+333241,joelinton,14,8,1996,Aliança,Brazil,1996-08-14,attack - Centre-Forward,186,right,Brazil,,L1,2018
+93844,leonardo bittencourt,19,12,1993,Leipzig,Germany,1993-12-19,midfield - Attacking Midfield,171,right,,Brazil,L1,2018
+284010,robin hack,27,8,1998,Pforzheim,Germany,1998-08-27,attack - Left Winger,176,right,Germany,,L1,2018
+125858,kerem demirbay,3,7,1993,Herten,Germany,1993-07-03,midfield - Central Midfield,183,left,,Turkey,L1,2018
+122676,robert zulj,5,2,1992,Wels,Austria,1992-02-05,midfield - Attacking Midfield,189,right,,Croatia,L1,2018
+84435,kevin vogt,23,9,1991,Witten,Germany,1991-09-23,Defender - Centre-Back,194,right,Germany,,L1,2018
+362184,david otto,3,3,1999,Pforzheim,Germany,1999-03-03,attack - Centre-Forward,185,right,Germany,,L1,2018
+185077,vincenzo grifo,7,4,1993,Pforzheim,Germany,1993-04-07,attack - Left Winger,180,right,,Germany,L1,2018
+411287,justin hoogma,11,6,1998,Enschede,Netherlands,1998-06-11,Defender - Centre-Back,190,left,Netherlands,,L1,2018
+52348,benjamin hübner,4,7,1989,Wiesbaden,Germany,1989-07-04,Defender - Centre-Back,193,left,Germany,,L1,2018
+263801,kasim adams,22,6,1995,Accra,Ghana,1995-06-22,Defender - Centre-Back,190,right,Ghana,,L1,2018
+39106,ádám szalai,9,12,1987,Budapest,Hungary,1987-12-09,attack - Centre-Forward,193,right,Hungary,,L1,2018
+340325,reiss nelson,10,12,1999,London,England,1999-12-10,attack - Right Winger,175,right,England,,L1,2018
+605893,lucas ribeiro,19,1,1999,Salvador,Brazil,1999-01-19,Defender - Centre-Back,190,right,Brazil,,L1,2018
+324278,christoph baumgartner,1,8,1999,Horn,Austria,1999-08-01,midfield - Attacking Midfield,180,right,Austria,,L1,2018
+207592,philipp ochs,17,4,1997,Wertheim,Germany,1997-04-17,attack - Left Winger,175,left,,Kazakhstan,L1,2018
+111039,ishak belfodil,12,1,1992,Mostaganem,Algeria,1992-01-12,attack - Centre-Forward,192,right,,France,L1,2018
+85867,nico schulz,1,4,1993,Berlin,Germany,1993-04-01,Defender - Left-Back,180,left,,Italy,L1,2018
+207006,joshua brenet,20,3,1994,Kerkrade,Netherlands,1994-03-20,Defender - Right-Back,181,right,,Curacao,L1,2018
+160668,antonio colak,17,9,1993,Ludwigsburg,Germany,1993-09-17,attack - Centre-Forward,188,right,,Germany,L1,2018
+46580,andrej kramaric,19,6,1991,Zagreb,Jugoslawien (SFR),1991-06-19,attack - Centre-Forward,177,right,Croatia,,L1,2018
+143798,pavel kaderabek,25,4,1992,Praha,Czech Republic,1992-04-25,Defender - Right-Back,182,right,Czech Republic,,L1,2018
+195736,florian grillitsch,7,8,1995,Neunkirchen,Austria,1995-08-07,midfield - Defensive Midfield,187,right,Austria,,L1,2018
+190289,gerrit holtmann,25,3,1995,Bremen,Germany,1995-03-25,attack - Left Winger,185,left,,Germany,L1,2018
+182894,jean-philippe gbamin,25,9,1995,San-Pédro,Cote d'Ivoire,1995-09-25,midfield - Defensive Midfield,186,right,,France,L1,2018
+420002,jean-philippe mateta,28,6,1997,Sevran,France,1997-06-28,attack - Centre-Forward,192,right,,DR Congo,L1,2018
+182574,jean-paul boëtius,22,3,1994,Rotterdam,Netherlands,1994-03-22,midfield - Attacking Midfield,178,right,,Suriname,L1,2018
+88684,giulio donati,5,2,1990,Pietrasanta,Italy,1990-02-05,Defender - Right-Back,178,right,Italy,,L1,2018
+160963,robin zentner,28,10,1994,Rüdesheim,Germany,1994-10-28,Goalkeeper,195,right,Germany,,L1,2018
+82350,stefan bell,24,8,1991,Andernach,Germany,1991-08-24,Defender - Centre-Back,192,right,Germany,,L1,2018
+75446,pablo de blasis,4,2,1988,La Plata,Argentina,1988-02-04,attack - Left Winger,165,right,Argentina,,L1,2018
+160954,jannik huth,15,4,1994,Bad Kreuznach,Germany,1994-04-15,Goalkeeper,185,right,Germany,,L1,2018
+30070,niko bungert,24,10,1986,Bochum,Germany,1986-10-24,Defender - Centre-Back,188,right,Germany,,L1,2018
+482145,issah abass,26,9,1998,Asokwa,Ghana,1998-09-26,attack - Centre-Forward,173,right,Ghana,,L1,2018
+187499,aaron seydel,7,2,1996,Langen (Hessen),Germany,1996-02-07,attack - Centre-Forward,199,left,Germany,,L1,2018
+251299,finn dahmen,27,3,1998,Wiesbaden,Germany,1998-03-27,Goalkeeper,186,right,,England,L1,2018
+327251,ridle baku,8,4,1998,Mainz,Germany,1998-04-08,Defender - Right-Back,176,right,,DR Congo,L1,2018
+357233,leandro barreiro,3,1,2000,Erpeldingen,Luxembourg,2000-01-03,midfield - Central Midfield,174,right,,Portugal,L1,2018
+339829,pierre kunde,26,7,1995,Limbé,Cameroon,1995-07-26,midfield - Central Midfield,180,right,Cameroon,,L1,2018
+333647,jonathan burkardt,11,7,2000,Darmstadt,Germany,2000-07-11,attack - Centre-Forward,181,right,Germany,,L1,2018
+43984,daniel brosinski,17,7,1988,Karlsruhe,Germany,1988-07-17,Defender - Right-Back,178,right,Germany,,L1,2018
+127177,gaëtan bussmann,2,2,1991,Épinal,France,1991-02-02,Defender - Left-Back,184,left,France,,L1,2018
+165012,josé rodríguez,16,12,1994,Villajoyosa,Spain,1994-12-16,midfield - Central Midfield,181,right,Spain,,L1,2018
+129513,alexandru maxim,8,7,1990,Piatra Neamţ,Romania,1990-07-08,midfield - Attacking Midfield,177,right,Romania,,L1,2018
+291200,moussa niakhaté,8,3,1996,Roubaix,France,1996-03-08,Defender - Centre-Back,190,left,,Senegal,L1,2018
+206542,robin quaison,9,10,1993,Stockholm,Sweden,1993-10-09,attack - Second Striker,183,right,,Ghana,L1,2018
+39025,danny latza,7,12,1989,Gelsenkirchen,Germany,1989-12-07,midfield - Central Midfield,179,right,Germany,,L1,2018
+284769,florian müller,13,11,1997,Saarlouis,Germany,1997-11-13,Goalkeeper,190,left,Germany,,L1,2018
+251878,aarón martín,22,4,1997,Montmeló,Spain,1997-04-22,Defender - Left-Back,180,left,Spain,,L1,2018
+126281,alexander hack,8,9,1993,Memmingen,Germany,1993-09-08,Defender - Centre-Back,193,left,Germany,,L1,2018
+142281,anthony ujah,14,10,1990,Ugbokolo,Nigeria,1990-10-14,attack - Centre-Forward,180,right,Nigeria,,L1,2018
+397696,ahmet gürleyen,26,4,1999,Berlin,Germany,1999-04-26,Defender - Centre-Back,193,right,,Turkey,L1,2018
+168543,levin öztunali,15,3,1996,Hamburg,Germany,1996-03-15,midfield - Central Midfield,185,right,Germany,,L1,2018
+119234,karim onisiwo,17,3,1992,Wien,Austria,1992-03-17,attack - Centre-Forward,188,right,Austria,,L1,2018
+1784,rené adler,15,1,1985,Leipzig,DDR,1985-01-15,Goalkeeper,191,right,Germany,,L1,2018
+234375,emil berggreen,10,5,1993,Helsingör,Denmark,1993-05-10,attack - Centre-Forward,193,right,,Croatia,L1,2018
+127573,phillipp mwene,29,1,1994,Wien,Austria,1994-01-29,Defender - Right-Back,170,right,,Kenya,L1,2018
+282169,marin sverko,4,2,1998,Pforzheim,Germany,1998-02-04,Defender - Centre-Back,187,left,,Germany,L1,2018
+82461,yoric ravet,12,9,1989,Echirolles,France,1989-09-12,attack - Right Winger,178,right,France,,L1,2018
+274989,constantin frommann,27,5,1998,Sasbach,Germany,1998-05-27,Goalkeeper,185,right,Germany,,L1,2018
+195246,pascal stenzel,20,3,1996,Bünde,Germany,1996-03-20,Defender - Centre-Back,183,right,Germany,,L1,2018
+280387,vincent sierro,8,10,1995,Sion,Switzerland,1995-10-08,midfield - Central Midfield,185,right,Switzerland,,L1,2018
+125714,mark flekken,13,6,1993,Kerkrade,Netherlands,1993-06-13,Goalkeeper,194,both,Netherlands,,L1,2018
+30942,mike frantz,14,10,1986,Saarbrücken,Germany,1986-10-14,midfield - Central Midfield,182,right,Germany,,L1,2018
+67869,marco terrazzino,15,4,1991,Mannheim,Germany,1991-04-15,midfield - Attacking Midfield,177,right,,Italy,L1,2018
+45683,manuel gulde,12,2,1991,Mannheim,Germany,1991-02-12,Defender - Centre-Back,184,right,Germany,,L1,2018
+93604,lukas kübler,30,8,1992,Bonn,Germany,1992-08-30,Defender - Right-Back,181,right,Germany,,L1,2018
+93707,christian günter,28,2,1993,Villingen-Schwenningen,Germany,1993-02-28,Defender - Left-Back,185,left,Germany,,L1,2018
+196095,luca waldschmidt,19,5,1996,Siegen,Germany,1996-05-19,attack - Second Striker,181,left,Germany,,L1,2018
+229176,fabian schleusener,24,10,1991,Freiburg,Germany,1991-10-24,attack - Right Winger,186,both,Germany,,L1,2018
+332798,roland sallai,22,5,1997,Budapest,Hungary,1997-05-22,attack - Right Winger,182,both,Hungary,,L1,2018
+324851,christoph daferner,12,1,1998,Pöttmes,Germany,1998-01-12,attack - Centre-Forward,189,right,Germany,,L1,2018
+248999,lucas höler,10,7,1994,Achim,Germany,1994-07-10,attack - Centre-Forward,184,right,Germany,,L1,2018
+284035,chima okoroji,19,4,1997,München,Germany,1997-04-19,Defender - Left-Back,180,left,,Germany,L1,2018
+293592,brandon borrello,25,7,1995,Adelaide,Australia,1995-07-25,attack - Right Winger,178,right,,Italy,L1,2018
+413843,keven schlotterbeck,28,4,1997,Weinstadt,Germany,1997-04-28,Defender - Centre-Back,189,left,Germany,,L1,2018
+77108,jérôme gondorf,26,6,1988,Karlsruhe,Germany,1988-06-26,midfield - Central Midfield,176,right,Germany,,L1,2018
+93763,alexander schwolow,2,6,1992,Wiesbaden,Germany,1992-06-02,Goalkeeper,190,right,Germany,,L1,2018
+55099,nicolas höfler,9,3,1990,Überlingen,Germany,1990-03-09,midfield - Defensive Midfield,181,right,Germany,,L1,2018
+110036,dominique heintz,15,8,1993,Neustadt an der Weinstraße,Germany,1993-08-15,Defender - Centre-Back,188,left,Germany,,L1,2018
+225657,philipp lienhart,11,7,1996,Lilienfeld,Austria,1996-07-11,Defender - Centre-Back,189,right,Austria,,L1,2018
+227087,patrick kammerbauer,11,2,1997,Raitenbuch,Germany,1997-02-11,midfield - Defensive Midfield,174,right,Germany,,L1,2018
+218011,florian kath,21,10,1994,Balingen,Germany,1994-10-21,attack - Left Winger,186,left,Germany,,L1,2018
+42936,nils petersen,6,12,1988,Wernigerode,DDR,1988-12-06,attack - Centre-Forward,188,right,Germany,,L1,2018
+193033,tim kleindienst,31,8,1995,Jüterbog,Germany,1995-08-31,attack - Centre-Forward,194,right,Germany,,L1,2018
+328784,robin koch,17,7,1996,Kaiserslautern,Germany,1996-07-17,Defender - Centre-Back,191,right,Germany,,L1,2018
+66005,amir abrashi,27,3,1990,Bischofszell,Switzerland,1990-03-27,midfield - Defensive Midfield,172,right,,Switzerland,L1,2018
+177779,janik haberer,2,4,1994,Wangen im Allgäu,Germany,1994-04-02,midfield - Central Midfield,186,right,Germany,,L1,2018
+152963,florian niederlechner,24,10,1990,Ebersberg,Germany,1990-10-24,attack - Centre-Forward,187,left,Germany,,L1,2018
+388198,nico schlotterbeck,1,12,1999,Waiblingen,Germany,1999-12-01,Defender - Centre-Back,191,left,Germany,,L1,2018
+192169,jonas föhrenbach,26,1,1996,Freiburg,Germany,1996-01-26,Defender - Left-Back,184,left,Germany,,L1,2018
+124732,john anthony brooks,28,1,1993,Berlin,Germany,1993-01-28,Defender - Centre-Back,193,left,,Germany,L1,2018
+278343,felix uduokhai,9,9,1997,Annaberg-Buchholz,Germany,1997-09-09,Defender - Centre-Back,192,left,,Nigeria,L1,2018
+29835,jakub blaszczykowski,14,12,1985,Truskolasy,Poland,1985-12-14,attack - Right Winger,176,right,Poland,,L1,2018
+289507,ismail azzaoui,6,1,1998,Brussel,Belgium,1998-01-06,attack - Right Winger,177,right,,Morocco,L1,2018
+51977,pavao pervan,13,11,1987,Livno,Jugoslawien (SFR),1987-11-13,Goalkeeper,194,both,Austria,,L1,2018
+108880,koen casteels,25,6,1992,Bonheiden,Belgium,1992-06-25,Goalkeeper,197,left,Belgium,,L1,2018
+284346,phillip menzel,18,8,1998,Kiel,Germany,1998-08-18,Goalkeeper,192,right,Germany,,L1,2018
+85352,yunus malli,24,2,1992,Kassel,Germany,1992-02-24,midfield - Attacking Midfield,179,right,,Germany,L1,2018
+280589,robin ziegele,13,3,1997,Wolfsburg,Germany,1997-03-13,Defender - Centre-Back,186,right,Germany,,L1,2018
+58874,ignacio camacho,4,5,1990,Zaragoza,Spain,1990-05-04,midfield - Defensive Midfield,182,right,Spain,,L1,2018
+228645,wout weghorst,7,8,1992,Borne,Netherlands,1992-08-07,attack - Centre-Forward,197,right,Netherlands,,L1,2018
+148955,paul-georges ntep,29,7,1992,Douala,Cameroon,1992-07-29,attack - Left Winger,180,right,,France,L1,2018
+119277,yannick gerhardt,13,3,1994,Würselen,Germany,1994-03-13,midfield - Central Midfield,184,left,Germany,,L1,2018
+94201,robin knoche,22,5,1992,Braunschweig,Germany,1992-05-22,Defender - Centre-Back,190,right,Germany,,L1,2018
+196421,marvin stefaniak,3,2,1995,Hoyerswerda,Germany,1995-02-03,midfield - Attacking Midfield,178,both,Germany,,L1,2018
+127076,jérôme roussillon,6,1,1993,Sarcelles,France,1993-01-06,Defender - Left-Back,175,left,,Guadeloupe,L1,2018
+311489,landry dimata,1,9,1997,Mbuji-Mayi,DR Congo,1997-09-01,attack - Centre-Forward,185,right,,DR Congo,L1,2018
+49730,sebastian jung,22,6,1990,Königstein,Germany,1990-06-22,Defender - Right-Back,179,right,Germany,,L1,2018
+93704,josuha guilavogui,19,9,1990,Toulon,France,1990-09-19,midfield - Defensive Midfield,188,right,,Guinea,L1,2018
+216443,riechedly bazoer,12,10,1996,Utrecht,Netherlands,1996-10-12,Defender - Centre-Back,184,right,,Curacao,L1,2018
+18021,paul verhaegh,1,9,1983,Sevenum,Netherlands,1983-09-01,Defender - Right-Back,178,right,Netherlands,,L1,2018
+117674,maximilian arnold,27,5,1994,Riesa,Germany,1994-05-27,midfield - Central Midfield,184,left,Germany,,L1,2018
+293169,josip brekalo,23,6,1998,Zagreb,Croatia,1998-06-23,attack - Left Winger,175,right,Croatia,,L1,2018
+66058,admir mehmedi,16,3,1991,Gostivar,Jugoslawien (SFR),1991-03-16,attack - Second Striker,183,right,,North Macedonia,L1,2018
+79501,daniel ginczek,13,4,1991,Arnsberg,Germany,1991-04-13,attack - Centre-Forward,191,right,Germany,,L1,2018
+183780,paul seguin,29,3,1995,Magdeburg,Germany,1995-03-29,midfield - Central Midfield,186,right,Germany,,L1,2018
+194638,renato steffen,3,11,1991,Aarau,Switzerland,1991-11-03,attack - Right Winger,170,left,Switzerland,,L1,2018
+296378,luca itter,5,1,1999,Gießen,Germany,1999-01-05,Defender - Left-Back,183,left,Germany,,L1,2018
+280575,elvis rexhbecaj,1,11,1997,"Gjonaj, Prizren",Yugoslavia (Republic),1997-11-01,midfield - Central Midfield,182,left,,Kosovo,L1,2018
+341710,william,3,4,1995,Pelotas,Brazil,1995-04-03,Defender - Right-Back,176,right,Brazil,,L1,2018
+401923,victor osimhen,29,12,1998,Lagos,Nigeria,1998-12-29,attack - Centre-Forward,186,right,Nigeria,,L1,2018
+89591,felix klaus,13,9,1992,Osnabrück,Germany,1992-09-13,attack - Right Winger,179,right,Germany,,L1,2018
+170463,marcel tisserand,10,1,1993,Meaux,France,1993-01-10,Defender - Centre-Back,190,right,,France,L1,2018
+288348,dominik franke,5,10,1998,Riesa,Germany,1998-10-05,Defender - Left-Back,184,left,Germany,,L1,2018
+439914,john yeboah,23,6,2000,Hamburg,Germany,2000-06-23,attack - Left Winger,170,left,,Ghana,L1,2018
+379989,jonathan meier,11,11,1999,München,Germany,1999-11-11,Defender - Left-Back,181,left,Germany,,L1,2018
+243714,kingsley coman,13,6,1996,Paris,France,1996-06-13,attack - Left Winger,180,right,,Guadeloupe,L1,2018
+17259,manuel neuer,27,3,1986,Gelsenkirchen,Germany,1986-03-27,Goalkeeper,193,right,Germany,,L1,2018
+379980,meritan shabani,15,3,1999,München,Germany,1999-03-15,midfield - Attacking Midfield,185,right,,Kosovo,L1,2018
+126719,juan bernat,1,3,1993,Cullera,Spain,1993-03-01,Defender - Left-Back,170,left,Spain,,L1,2018
+166601,niklas süle,3,9,1995,Frankfurt am Main,Germany,1995-09-03,Defender - Centre-Back,195,right,Germany,,L1,2018
+345780,lars lukas mai,31,3,2000,Dresden,Germany,2000-03-31,Defender - Centre-Back,190,right,Germany,,L1,2018
+4360,arjen robben,23,1,1984,Bedum,Netherlands,1984-01-23,attack - Right Winger,180,left,Netherlands,,L1,2018
+88103,james rodríguez,12,7,1991,Cúcuta,Colombia,1991-07-12,midfield - Attacking Midfield,181,left,,Spain,L1,2018
+424204,alphonso davies,2,11,2000,Buduburam,Ghana,2000-11-02,Defender - Left-Back,183,left,,Liberia,L1,2018
+159471,serge gnabry,14,7,1995,Stuttgart,Germany,1995-07-14,attack - Right Winger,176,right,,Cote d'Ivoire,L1,2018
+39728,mats hummels,16,12,1988,Bergisch Gladbach,Germany,1988-12-16,Defender - Centre-Back,191,right,Germany,,L1,2018
+44017,javi martínez,2,9,1988,Estella-Lizarra,Spain,1988-09-02,midfield - Defensive Midfield,189,right,Spain,,L1,2018
+26485,jérôme boateng,3,9,1988,Berlin,Germany,1988-09-03,Defender - Centre-Back,190,right,Germany,,L1,2018
+22068,franck ribéry,7,4,1983,Boulogne-sur-Mer,France,1983-04-07,attack - Left Winger,170,right,France,,L1,2018
+258027,renato sanches,18,8,1997,Lisboa,Portugal,1997-08-18,midfield - Central Midfield,176,right,,Sao Tome and Principe,L1,2018
+317444,ron-thorben hoffmann,4,4,1999,Rostock,Germany,1999-04-04,Goalkeeper,192,right,Germany,,L1,2018
+336307,christian früchtl,28,1,2000,Bischofsmais,Germany,2000-01-28,Goalkeeper,193,left,Germany,,L1,2018
+59016,david alaba,24,6,1992,Wien,Austria,1992-06-24,Defender - Centre-Back,180,left,Austria,,L1,2018
+190393,corentin tolisso,3,8,1994,Tarare,France,1994-08-03,midfield - Central Midfield,181,right,,Togo,L1,2018
+356640,paul will,1,3,1999,Biedenkopf,Germany,1999-03-01,midfield - Defensive Midfield,185,left,Germany,,L1,2018
+38253,robert lewandowski,21,8,1988,Warszawa,Poland,1988-08-21,attack - Centre-Forward,185,right,Poland,,L1,2018
+58358,thomas müller,13,9,1989,Weilheim in Oberbayern,Germany,1989-09-13,attack - Second Striker,185,right,Germany,,L1,2018
+33947,rafinha,7,9,1985,Londrina,Brazil,1985-09-07,Defender - Right-Back,172,right,,Germany,L1,2018
+297583,woo-yeong jeong,20,9,1999,Ulsan,"Korea, South",1999-09-20,attack - Right Winger,179,right,"Korea, South",,L1,2018
+40680,sven ulreich,3,8,1988,Schorndorf,Germany,1988-08-03,Goalkeeper,192,right,Germany,,L1,2018
+161056,joshua kimmich,8,2,1995,Rottweil,Germany,1995-02-08,midfield - Defensive Midfield,177,right,Germany,,L1,2018
+60444,thiago,11,4,1991,San Pietro Vernotico,Italy,1991-04-11,midfield - Central Midfield,174,right,,Brazil,L1,2018
+153084,leon goretzka,6,2,1995,Bochum,Germany,1995-02-06,midfield - Central Midfield,189,right,Germany,,L1,2018
+39743,sandro wagner,29,11,1987,München,Germany,1987-11-29,attack - Centre-Forward,194,right,Germany,,L1,2018
+385271,allan,3,3,1997,Porto Alegre,Brazil,1997-03-03,midfield - Defensive Midfield,172,left,Brazil,,L1,2018
+107775,frederik rönnow,4,8,1992,Horsens,Denmark,1992-08-04,Goalkeeper,190,right,Denmark,,L1,2018
+20081,gelson fernandes,2,9,1986,Praia,Cape Verde,1986-09-02,midfield - Defensive Midfield,180,right,,Cape Verde,L1,2018
+342100,sahverdi cetin,28,9,2000,Mainz,Germany,2000-09-28,midfield - Central Midfield,174,right,,Turkey,L1,2018
+60761,taleb tawatha,21,6,1992,Dschisr az-Zarqa,Israel,1992-06-21,Defender - Left-Back,176,left,Israel,,L1,2018
+379960,noel knothe,5,5,1999,Bad Soden,Germany,1999-05-05,Defender - Centre-Back,188,right,Germany,,L1,2018
+39259,makoto hasebe,18,1,1984,"Fujieda, Shizuoka",Japan,1984-01-18,midfield - Defensive Midfield,180,right,Japan,,L1,2018
+85906,danny da costa,13,7,1993,Neuss,Germany,1993-07-13,Defender - Right-Back,187,right,,Angola,L1,2018
+336003,patrice kabuya,7,1,2000,Flörsheim am Main,Germany,2000-01-07,attack - Right Winger,178,right,,DR Congo,L1,2018
+257462,luka jovic,23,12,1997,Bijeljina,Bosnia-Herzegovina,1997-12-23,attack - Centre-Forward,182,both,Serbia,,L1,2018
+356141,daichi kamada,5,8,1996,"---, Ehime",Japan,1996-08-05,midfield - Attacking Midfield,184,right,Japan,,L1,2018
+10917,jan zimmermann,19,4,1985,Offenbach am Main,Germany,1985-04-19,Goalkeeper,190,left,Germany,,L1,2018
+16520,marco russ,4,8,1985,Hanau,Germany,1985-08-04,Defender - Centre-Back,190,right,Germany,,L1,2018
+371149,evan n'dicka,20,8,1999,Paris,France,1999-08-20,Defender - Centre-Back,192,left,,Cameroon,L1,2018
+146258,jetro willems,30,3,1994,Rotterdam,Netherlands,1994-03-30,Defender - Left-Back,177,left,,Curacao,L1,2018
+58178,david abraham,15,7,1986,Chabás,Argentina,1986-07-15,Defender - Centre-Back,188,right,,Italy,L1,2018
+31067,jonathan de guzmán,13,9,1987,"Toronto, Ontario",Canada,1987-09-13,midfield - Central Midfield,173,right,,Canada,L1,2018
+45672,kevin trapp,8,7,1990,Merzig,Germany,1990-07-08,Goalkeeper,189,right,Germany,,L1,2018
+216181,almamy touré,28,4,1996,Bamako,Mali,1996-04-28,Defender - Right-Back,183,right,,Mali,L1,2018
+257456,chico geraldes,18,4,1995,Lisboa,Portugal,1995-04-18,midfield - Attacking Midfield,175,both,Portugal,,L1,2018
+49723,timothy chandler,29,3,1990,Frankfurt am Main,Germany,1990-03-29,Defender - Right-Back,186,right,,Germany,L1,2018
+336329,nils stendera,30,9,2000,Kassel,Germany,2000-09-30,midfield - Central Midfield,177,,Germany,,L1,2018
+482163,deji beyreuther,6,9,1999,Göttingen,Germany,1999-09-06,Defender - Left-Back,180,left,,Nigeria,L1,2018
+181375,sébastien haller,22,6,1994,Ris-Orangis,France,1994-06-22,attack - Centre-Forward,190,right,,France,L1,2018
+444971,mischa häuser,23,1,2000,Bad Homburg,Germany,2000-01-23,attack - Left Winger,184,left,Germany,,L1,2018
+326399,nelson mandela mbouhom,4,5,1999,Douala,Cameroon,1999-05-04,midfield - Central Midfield,177,both,Cameroon,,L1,2018
+546213,tuta,4,7,1999,São Paulo,Brazil,1999-07-04,Defender - Centre-Back,185,right,Brazil,,L1,2018
+207578,max besuschkow,31,5,1997,Tübingen,Germany,1997-05-31,midfield - Central Midfield,187,right,,Russia,L1,2018
+161011,filip kostic,1,11,1992,Kragujevac,Yugoslavia (Republic),1992-11-01,midfield - Left Midfield,184,left,Serbia,,L1,2018
+256866,carlos salcedo,29,9,1993,Guadalajara,Mexico,1993-09-29,Defender - Centre-Back,184,right,Mexico,,L1,2018
+41541,danny blum,7,1,1991,Frankenthal,Germany,1991-01-07,attack - Left Winger,183,left,Germany,,L1,2018
+160943,marc stendera,10,12,1995,Kassel,Germany,1995-12-10,midfield - Central Midfield,173,right,Germany,,L1,2018
+215864,mijat gacinovic,8,2,1995,Novi Sad,Yugoslavia (Republic),1995-02-08,midfield - Attacking Midfield,175,right,,Bosnia-Herzegovina,L1,2018
+171209,branimir hrgota,12,1,1993,Zenica,Bosnia-Herzegovina,1993-01-12,attack - Centre-Forward,185,left,,Croatia,L1,2018
+379959,tobias stirl,17,4,2000,Frankfurt am Main,Germany,2000-04-17,Goalkeeper,189,both,Germany,,L1,2018
+419255,marijan cavar,2,2,1998,Rama Prozor,Bosnia-Herzegovina,1998-02-02,midfield - Central Midfield,184,right,,Croatia,L1,2018
+213670,lucas torró,19,7,1994,Cocentaina,Spain,1994-07-19,midfield - Defensive Midfield,190,right,Spain,,L1,2018
+67685,marco fabián,21,7,1989,Guadalajara,Mexico,1989-07-21,midfield - Attacking Midfield,170,right,Mexico,,L1,2018
+406604,patrick finger,1,1,2001,Riedstadt,Germany,2001-01-01,midfield - Attacking Midfield,166,left,Germany,,L1,2018
+181547,gonçalo paciência,1,8,1994,Porto,Portugal,1994-08-01,attack - Centre-Forward,184,right,Portugal,,L1,2018
+234625,andersson ordóñez,29,1,1994,Guayaquil,Ecuador,1994-01-29,Defender - Centre-Back,186,left,Ecuador,,L1,2018
+44594,felix wiedwald,15,3,1990,Thedinghausen,Germany,1990-03-15,Goalkeeper,190,right,Germany,,L1,2018
+170927,simon falette,19,2,1992,Le Mans,France,1992-02-19,Defender - Centre-Back,185,left,,France,L1,2018
+187587,ante rebic,21,9,1993,Split,Croatia,1993-09-21,attack - Left Winger,185,right,Croatia,,L1,2018
+310662,timothy tillman,4,1,1999,Nürnberg,Germany,1999-01-04,midfield - Attacking Midfield,183,right,,United States,L1,2018
+120206,lukas jäger,12,2,1994,Alberschwende,Austria,1994-02-12,midfield - Defensive Midfield,184,right,Austria,,L1,2018
+30308,ivo ilicevic,14,11,1986,Aschaffenburg,Germany,1986-11-14,attack - Left Winger,174,right,Croatia,,L1,2018
+193859,patrick erras,21,1,1995,Amberg,Germany,1995-01-21,midfield - Defensive Midfield,196,right,Germany,,L1,2018
+57091,hanno behrens,26,3,1990,Elmshorn,Germany,1990-03-26,midfield - Central Midfield,188,right,Germany,,L1,2018
+2154,patric klandt,29,9,1983,Frankfurt am Main,Germany,1983-09-29,Goalkeeper,184,right,Germany,,L1,2018
+278323,alexander fuchs,5,1,1997,München,Germany,1997-01-05,midfield - Central Midfield,184,right,Germany,,L1,2018
+51325,georg margreitter,7,11,1988,Bludenz,Austria,1988-11-07,Defender - Centre-Back,186,right,Austria,,L1,2018
+184915,edgar salli,17,8,1992,Garoua,Cameroon,1992-08-17,attack - Right Winger,170,right,Cameroon,,L1,2018
+153637,mikael ishak,31,3,1993,Stockholm,Sweden,1993-03-31,attack - Centre-Forward,185,both,Sweden,,L1,2018
+124517,sebastian kerk,17,4,1994,Bad Wurzach,Germany,1994-04-17,midfield - Attacking Midfield,184,left,Germany,,L1,2018
+82361,christian mathenia,31,3,1992,Mainz,Germany,1992-03-31,Goalkeeper,189,right,Germany,,L1,2018
+214346,virgil misidjan,24,7,1993,Goirle,Netherlands,1993-07-24,attack - Right Winger,173,both,,Suriname,L1,2018
+284188,simon rhein,18,5,1998,Hilden,Germany,1998-05-18,midfield - Defensive Midfield,180,left,Germany,,L1,2018
+225984,matheus pereira,5,5,1996,Belo Horizonte,Brazil,1996-05-05,attack - Right Winger,175,left,,Portugal,L1,2018
+260655,eduard löwen,28,1,1997,Idar-Oberstein,Germany,1997-01-28,midfield - Central Midfield,188,right,,Russia,L1,2018
+186260,yuya kubo,24,12,1993,"Yamaguchi, Yamaguchi",Japan,1993-12-24,attack - Centre-Forward,178,right,Japan,,L1,2018
+348214,kevin goden,22,2,1999,Bonn,Germany,1999-02-22,Defender - Right-Back,183,right,Germany,,L1,2018
+236791,dennis lippert,20,2,1996,Weiden in der Oberpfalz,Germany,1996-02-20,Defender - Left-Back,172,,Germany,,L1,2018
+261155,adam zrelak,5,5,1994,Stará Ľubovna,Slovakia,1994-05-05,attack - Centre-Forward,183,left,Slovakia,,L1,2018
+40605,enrico valentini,20,2,1989,Nürnberg,Germany,1989-02-20,Defender - Right-Back,182,right,,Italy,L1,2018
+279079,lukas mühl,27,1,1997,Zwiesel,Germany,1997-01-27,Defender - Centre-Back,189,right,Germany,,L1,2018
+165331,ondrej petrak,11,3,1992,Praha,Czech Republic,1992-03-11,midfield - Defensive Midfield,186,right,Czech Republic,,L1,2018
+146096,federico palacios,9,4,1995,Hannover,Germany,1995-04-09,attack - Second Striker,170,right,,Spain,L1,2018
+185699,tim leibold,30,11,1993,Böblingen,Germany,1993-11-30,Defender - Left-Back,174,left,Germany,,L1,2018
+187624,fabian bredlow,2,3,1995,Berlin,Germany,1995-03-02,Goalkeeper,190,both,Germany,,L1,2018
+149249,ewerton,23,3,1989,Penedo,Brazil,1989-03-23,Defender - Centre-Back,188,left,Brazil,,L1,2018
+284737,törles knöll,13,9,1997,Dieburg,Germany,1997-09-13,attack - Centre-Forward,184,right,Germany,,L1,2018

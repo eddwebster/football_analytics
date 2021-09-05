@@ -1,0 +1,688 @@
+player_id,player_name,day_of_birth,month_of_birth,year_of_birth,pob,cob,dob,position,height,foot,citizenship,second_citizenship,league_code,season
+298983,javi ontiveros,9,9,1997,Marbella,Spain,1997-09-09,attack - Left Winger,175,right,Spain,,ES1,2019
+222571,ramiro guerra,21,3,1997,Montevideo,Uruguay,1997-03-21,midfield - Central Midfield,183,right,,Spain,ES1,2019
+65467,vicente iborra,16,1,1988,Moncada,Spain,1988-01-16,midfield - Central Midfield,190,right,Spain,,ES1,2019
+354361,andré zambo anguissa,16,11,1995,Yaoundé,Cameroon,1995-11-16,midfield - Defensive Midfield,184,right,Cameroon,,ES1,2019
+44412,bruno soriano,12,6,1984,Artana,Spain,1984-06-12,midfield - Defensive Midfield,184,left,Spain,,ES1,2019
+15799,santi cazorla,13,12,1984,Lugo de Llanera,Spain,1984-12-13,midfield - Central Midfield,168,both,Spain,,ES1,2019
+11111,ramiro funes mori,5,3,1991,Mendoza,Argentina,1991-03-05,Defender - Centre-Back,186,left,Argentina,,ES1,2019
+466298,santiago cáseres,25,2,1997,Parque Leloir,Argentina,1997-02-25,midfield - Defensive Midfield,180,right,Argentina,,ES1,2019
+335225,manu morlanes,12,1,1999,Zaragoza,Spain,1999-01-12,midfield - Central Midfield,178,right,Spain,,ES1,2019
+177467,gerard moreno,7,4,1992,Santa Perpètua de Mogoda,Spain,1992-04-07,attack - Centre-Forward,180,left,Spain,,ES1,2019
+30749,mariano barbosa,27,7,1984,Lanús,Argentina,1984-07-27,Goalkeeper,188,right,,Italy,ES1,2019
+15452,raúl albiol,4,9,1985,Vilamarxant,Spain,1985-09-04,Defender - Centre-Back,190,right,Spain,,ES1,2019
+51710,sergio asenjo,28,6,1989,Palencia,Spain,1989-06-28,Goalkeeper,189,right,Spain,,ES1,2019
+341277,sergio lozano,24,3,1999,Alzira,Spain,1999-03-24,midfield - Central Midfield,175,,Spain,,ES1,2019
+236956,soufiane chakla,2,9,1993,Kenitra,Morocco,1993-09-02,Defender - Centre-Back,188,right,,Spain,ES1,2019
+315110,karl toko ekambi,14,9,1992,Paris,France,1992-09-14,attack - Centre-Forward,185,right,,France,ES1,2019
+73250,mario gaspar,24,11,1990,Novelda,Spain,1990-11-24,Defender - Right-Back,180,right,Spain,,ES1,2019
+57522,andrés fernández,17,12,1986,Alcantarilla,Spain,1986-12-17,Goalkeeper,185,right,Spain,,ES1,2019
+207917,alberto moreno,5,7,1992,Sevilla,Spain,1992-07-05,Defender - Left-Back,171,left,Spain,,ES1,2019
+341278,iván martín,14,2,1999,Bilbao,Spain,1999-02-14,midfield - Attacking Midfield,178,left,Spain,,ES1,2019
+548111,álex baena,20,7,2001,Roquetas de Mar,Spain,2001-07-20,attack - Left Winger,174,right,Spain,,ES1,2019
+188854,manu trigueros,17,10,1991,Talavera de la Reina (Toledo),Spain,1991-10-17,midfield - Central Midfield,178,right,Spain,,ES1,2019
+527964,miguel ángel leal,1,2,1997,Castellón de la Plana,Spain,1997-02-01,Defender - Right-Back,176,,Spain,,ES1,2019
+175449,moi gómez,23,6,1994,Rojales,Spain,1994-06-23,attack - Left Winger,176,right,Spain,,ES1,2019
+204102,xavi quintillà,23,8,1996,Lleida,Spain,1996-08-23,Defender - Left-Back,179,left,Spain,,ES1,2019
+119235,carlos bacca,8,9,1986,Puerto Colombia,Colombia,1986-09-08,attack - Centre-Forward,181,right,Colombia,,ES1,2019
+238868,rubén peña,18,7,1991,Ávila,Spain,1991-07-18,Defender - Right-Back,170,right,Spain,,ES1,2019
+294894,leo suárez,30,3,1996,José León Suárez,Argentina,1996-03-30,attack - Right Winger,167,left,,Spain,ES1,2019
+399776,pau torres,16,1,1997,Villarreal,Spain,1997-01-16,Defender - Centre-Back,191,left,Spain,,ES1,2019
+527966,andrei ratiu,20,6,1998,Aiud,Romania,1998-06-20,Defender - Right-Back,183,right,Romania,,ES1,2019
+126716,paco alcácer,30,8,1993,Torrent,Spain,1993-08-30,attack - Centre-Forward,175,right,Spain,,ES1,2019
+401922,samuel chukwueze,22,5,1999,Umahaia,Nigeria,1999-05-22,attack - Right Winger,172,left,Nigeria,,ES1,2019
+627294,fer niño,24,10,2000,Rota,Spain,2000-10-24,attack - Centre-Forward,190,right,Spain,,ES1,2019
+102423,leandro cabrera,17,6,1991,Montevideo,Uruguay,1991-06-17,Defender - Centre-Back,190,left,,Spain,ES1,2019
+57825,jorge molina,22,4,1982,Alcoi,Spain,1982-04-22,attack - Centre-Forward,188,right,Spain,,ES1,2019
+273152,nemanja maksimovic,26,1,1995,Banja Koviljača,Yugoslavia (Republic),1995-01-26,midfield - Central Midfield,189,right,Serbia,,ES1,2019
+243541,deyverson,8,5,1991,Santa Margarida,Brazil,1991-05-08,attack - Centre-Forward,187,left,Brazil,,ES1,2019
+138803,francisco portillo,13,6,1990,Málaga,Spain,1990-06-13,attack - Right Winger,169,right,Spain,,ES1,2019
+111508,allan nyom,10,5,1988,Neuilly-sur-Seine,France,1988-05-10,Defender - Right-Back,189,right,,France,ES1,2019
+158795,david timor,17,10,1989,Carcaixent,Spain,1989-10-17,midfield - Defensive Midfield,185,left,Spain,,ES1,2019
+188838,bruno gonzález,24,5,1990,Las Galletas,Spain,1990-05-24,Defender - Centre-Back,184,right,Spain,,ES1,2019
+302991,erick cabaco,19,4,1995,Montevideo,Uruguay,1995-04-19,Defender - Centre-Back,185,right,,Italy,ES1,2019
+76746,damián suárez,27,4,1988,Montevideo,Uruguay,1988-04-27,Defender - Right-Back,173,right,,Spain,ES1,2019
+226012,david soria,4,4,1993,Madrid,Spain,1993-04-04,Goalkeeper,192,right,Spain,,ES1,2019
+376514,mathí­as olivera,31,10,1997,Montevideo,Uruguay,1997-10-31,Defender - Left-Back,185,left,,Spain,ES1,2019
+51426,markel bergara,5,5,1986,Elgoibar,Spain,1986-05-05,midfield - Defensive Midfield,181,right,Spain,,ES1,2019
+284857,marc cucurella,22,7,1998,Alella,Spain,1998-07-22,midfield - Left Midfield,175,left,Spain,,ES1,2019
+114060,enric gallego,12,9,1986,Bon Pastor,Spain,1986-09-12,attack - Centre-Forward,189,left,Spain,,ES1,2019
+71559,xabi etxeita,31,10,1987,Amorebieta-Etxano,Spain,1987-10-31,Defender - Centre-Back,186,right,Spain,,ES1,2019
+409106,peter etebo,9,11,1995,Warri,Nigeria,1995-11-09,midfield - Central Midfield,174,right,Nigeria,,ES1,2019
+282409,marcos lavín,2,9,1996,Madrid,Spain,1996-09-02,Goalkeeper,190,right,Spain,,ES1,2019
+339820,amath ndiaye,16,7,1996,Dakar,Senegal,1996-07-16,attack - Left Winger,173,right,Senegal,,ES1,2019
+333323,filip manojlovic,25,4,1996,Belgrad,Yugoslavia (Republic),1996-04-25,Goalkeeper,197,right,Serbia,,ES1,2019
+51510,ángel rodríguez,26,4,1987,Santa Cruz de Tenerife,Spain,1987-04-26,attack - Centre-Forward,171,right,Spain,,ES1,2019
+174344,fayçal fajr,1,8,1988,Rouen,France,1988-08-01,midfield - Central Midfield,179,right,,France,ES1,2019
+290249,mauro arambarri,30,9,1995,Salto,Uruguay,1995-09-30,midfield - Central Midfield,175,right,Uruguay,,ES1,2019
+600151,florent poulolo,2,1,1997,Fort-de-France,Martinique,1997-01-02,midfield - Defensive Midfield,189,,,France,ES1,2019
+44699,vitorino antunes,1,4,1987,Freamunde,Portugal,1987-04-01,Defender - Left-Back,175,left,Portugal,,ES1,2019
+227961,jaime mata,24,10,1988,Madrid,Spain,1988-10-24,attack - Centre-Forward,186,right,Spain,,ES1,2019
+221150,djené,31,12,1991,Lome Dapaong,Togo,1991-12-31,Defender - Centre-Back,178,right,Togo,,ES1,2019
+139434,raúl carnero,30,4,1989,A Coruña,Spain,1989-04-30,Defender - Left-Back,179,left,Spain,,ES1,2019
+281404,kenedy,8,2,1996,Santa Rita do Sapucaí,Brazil,1996-02-08,attack - Right Winger,182,left,Brazil,,ES1,2019
+263860,jason,6,7,1994,A Coruña,Spain,1994-07-06,attack - Right Winger,178,right,Spain,,ES1,2019
+573775,hugo duro,10,11,1999,Getafe,Spain,1999-11-10,attack - Centre-Forward,182,left,Spain,,ES1,2019
+248330,chema,3,3,1992,Caudete,Spain,1992-03-03,Defender - Centre-Back,189,left,Spain,,ES1,2019
+95736,leandro chichizola,27,3,1990,San Justo,Argentina,1990-03-27,Goalkeeper,182,right,,Italy,ES1,2019
+197126,kenan kodro,19,8,1993,Donostia-San Sebastián,Spain,1993-08-19,attack - Centre-Forward,188,right,,Spain,ES1,2019
+178425,dani garcía,24,5,1990,Zumarraga,Spain,1990-05-24,midfield - Central Midfield,179,right,Spain,,ES1,2019
+571020,oihan sancet,25,4,2000,Pamplona,Spain,2000-04-25,midfield - Attacking Midfield,188,right,Spain,,ES1,2019
+610083,unai vencedor,15,11,2000,Bilbao,Spain,2000-11-15,midfield - Central Midfield,176,right,Spain,,ES1,2019
+158863,iñigo martínez,17,5,1991,Ondarroa,Spain,1991-05-17,Defender - Centre-Back,182,left,Spain,,ES1,2019
+96718,óscar de marcos,14,4,1989,Laguardia,Spain,1989-04-14,Defender - Right-Back,182,right,Spain,,ES1,2019
+262396,unai simón,11,6,1997,Vitoria-Gasteiz,Spain,1997-06-11,Goalkeeper,190,right,Spain,,ES1,2019
+338285,unai núñez,30,1,1997,Portugalete,Spain,1997-01-30,Defender - Centre-Back,186,right,Spain,,ES1,2019
+29124,aritz aduriz,11,2,1981,Donostia-San Sebastián,Spain,1981-02-11,attack - Centre-Forward,181,right,Spain,,ES1,2019
+192009,unai lópez,30,10,1995,Donostia-San Sebastián,Spain,1995-10-30,midfield - Central Midfield,170,right,Spain,,ES1,2019
+488626,jesús areso,2,7,1999,Cascante,Spain,1999-07-02,Defender - Right-Back,182,right,Spain,,ES1,2019
+255501,iñigo lekue,4,5,1993,Bilbao,Spain,1993-05-04,Defender - Right-Back,180,right,Spain,,ES1,2019
+61812,yuri berchiche,10,2,1990,Zarautz,Spain,1990-02-10,Defender - Left-Back,181,left,Spain,,ES1,2019
+197545,ander capa,8,2,1992,Portugalete,Spain,1992-02-08,Defender - Right-Back,175,right,Spain,,ES1,2019
+52469,mikel san josé,30,5,1989,Pamplona,Spain,1989-05-30,midfield - Defensive Midfield,187,right,Spain,,ES1,2019
+85258,mikel balenziaga,29,2,1988,Zumarraga,Spain,1988-02-29,Defender - Left-Back,177,left,Spain,,ES1,2019
+251897,asier villalibre,30,9,1997,Gernika,Spain,1997-09-30,attack - Centre-Forward,184,left,Spain,,ES1,2019
+439465,gaizka larrazabal,17,12,1997,Bilbao,Spain,1997-12-17,attack - Right Winger,180,right,Spain,,ES1,2019
+34601,raúl garcía,11,7,1986,Pamplona,Spain,1986-07-11,attack - Centre-Forward,184,right,Spain,,ES1,2019
+255488,yeray álvarez,24,1,1995,Barakaldo,Spain,1995-01-24,Defender - Centre-Back,182,right,Spain,,ES1,2019
+480958,ander iru,22,8,1998,Igorre,Spain,1998-08-22,Goalkeeper,188,left,Spain,,ES1,2019
+524000,dani vivian,5,7,1999,Vitoria-Gasteiz,Spain,1999-07-05,Defender - Centre-Back,184,right,Spain,,ES1,2019
+338425,álex berenguer,4,7,1995,Barañain,Spain,1995-07-04,attack - Left Winger,175,right,Spain,,ES1,2019
+300168,mikel vesga,8,4,1993,Vitoria-Gasteiz,Spain,1993-04-08,midfield - Defensive Midfield,191,left,Spain,,ES1,2019
+71570,iago herrerín,25,1,1988,Bilbao,Spain,1988-01-25,Goalkeeper,187,right,Spain,,ES1,2019
+54235,iker muniain,19,12,1992,Pamplona,Spain,1992-12-19,midfield - Attacking Midfield,169,right,Spain,,ES1,2019
+255508,iñaki williams,15,6,1994,Bilbao,Spain,1994-06-15,attack - Centre-Forward,186,right,,Ghana,ES1,2019
+295082,jon sillero,24,5,1998,Durango,Spain,1998-05-24,Defender - Centre-Back,177,right,Spain,,ES1,2019
+127837,ibai gómez,11,11,1989,Bilbao,Spain,1989-11-11,attack - Right Winger,178,right,Spain,,ES1,2019
+379548,jokin ezkieta,17,8,1996,Villava,Spain,1996-08-17,Goalkeeper,193,right,Spain,,ES1,2019
+251848,iñigo córdoba,13,3,1997,Bilbao,Spain,1997-03-13,attack - Left Winger,180,left,Spain,,ES1,2019
+40888,beñat etxebarria,19,2,1987,Igorre,Spain,1987-02-19,midfield - Central Midfield,176,right,Spain,,ES1,2019
+111819,neto,19,7,1989,Araxá,Brazil,1989-07-19,Goalkeeper,190,right,,Italy,ES1,2019
+21369,arda turan,30,1,1987,Istanbul,Turkey,1987-01-30,attack - Left Winger,177,right,Turkey,,ES1,2019
+331505,óscar mingueza,13,5,1999,Santa Perpetua de Moguda,Spain,1999-05-13,Defender - Centre-Back,184,right,Spain,,ES1,2019
+283170,iñaki peña,2,3,1999,Alicante,Spain,1999-03-02,Goalkeeper,184,right,Spain,,ES1,2019
+284854,carles aleñá,5,1,1998,Mataró,Spain,1998-01-05,midfield - Central Midfield,180,left,Spain,,ES1,2019
+333361,chumi,2,3,1999,Laracha,Spain,1999-03-02,Defender - Centre-Back,186,right,Spain,,ES1,2019
+74857,marc-andré ter stegen,30,4,1992,Mönchengladbach,Germany,1992-04-30,Goalkeeper,187,right,Germany,,ES1,2019
+340376,abel ruiz,28,1,2000,Almussafes,Spain,2000-01-28,attack - Centre-Forward,180,right,Spain,,ES1,2019
+331511,riqui puig,13,8,1999,Matadepera,Spain,1999-08-13,midfield - Central Midfield,169,right,Spain,,ES1,2019
+282722,álex collado,22,4,1999,Sabadell,Spain,1999-04-22,attack - Right Winger,177,left,Spain,,ES1,2019
+388519,kike saverio,19,6,1999,Génova,Italy,1999-06-19,attack - Left Winger,178,both,,Spain,ES1,2019
+466809,konrad de la fuente,16,7,2001,"Miami, Florida",United States,2001-07-16,attack - Left Winger,176,right,,Spain,ES1,2019
+480267,ronald araújo,7,3,1999,Rivera,Uruguay,1999-03-07,Defender - Centre-Back,188,right,Uruguay,,ES1,2019
+65230,sergio busquets,16,7,1988,Sabadell,Spain,1988-07-16,midfield - Defensive Midfield,189,right,Spain,,ES1,2019
+374139,junior firpo,22,8,1996,Santo Domingo de Guzmán,Dominican Republic,1996-08-22,Defender - Left-Back,184,left,,Spain,ES1,2019
+282726,dani morer,5,2,1998,Mataró,Spain,1998-02-05,Defender - Right-Back,166,right,,Colombia,ES1,2019
+288230,ousmane dembélé,15,5,1997,Vernon,France,1997-05-15,attack - Right Winger,178,both,France,,ES1,2019
+231572,nélson semedo,16,11,1993,Lisboa,Portugal,1993-11-16,Defender - Right-Back,177,right,,Cape Verde,ES1,2019
+182904,clément lenglet,17,6,1995,Beauvais,France,1995-06-17,Defender - Centre-Back,186,left,France,,ES1,2019
+37666,arturo vidal,22,5,1987,San Joaquín,Chile,1987-05-22,midfield - Central Midfield,180,right,Chile,,ES1,2019
+326330,frenkie de jong,12,5,1997,Arkel,Netherlands,1997-05-12,midfield - Central Midfield,180,right,Netherlands,,ES1,2019
+362842,arthur,12,8,1996,Goiânia,Brazil,1996-08-12,midfield - Central Midfield,172,right,Brazil,,ES1,2019
+308278,rey manaj,24,2,1997,Lushnjë,Albania,1997-02-24,attack - Centre-Forward,182,both,,Italy,ES1,2019
+125781,antoine griezmann,21,3,1991,Mâcon,France,1991-03-21,attack - Second Striker,176,left,France,,ES1,2019
+466783,arnau tenas,30,5,2001,Vic,Spain,2001-05-30,Goalkeeper,185,right,Spain,,ES1,2019
+85370,sergi roberto,7,2,1992,Reus,Spain,1992-02-07,midfield - Central Midfield,178,right,Spain,,ES1,2019
+95732,martin braithwaite,5,6,1991,Esbjerg,Denmark,1991-06-05,attack - Centre-Forward,177,right,,Guyana,ES1,2019
+605184,jean-clair todibo,30,12,1999,Cayenne,French Guiana,1999-12-30,Defender - Centre-Back,190,right,,French Guiana,ES1,2019
+355627,sergio akieme,16,12,1997,Madrid,Spain,1997-12-16,Defender - Left-Back,175,left,,Spain,ES1,2019
+494880,jorge cuenca,17,11,1999,Madrid,Spain,1999-11-17,Defender - Centre-Back,190,left,Spain,,ES1,2019
+32467,ivan rakitic,10,3,1988,Möhlin,Switzerland,1988-03-10,midfield - Central Midfield,184,right,,Switzerland,ES1,2019
+282810,carles pérez,16,2,1998,Granollers,Spain,1998-02-16,attack - Right Winger,173,left,Spain,,ES1,2019
+388548,jandro orellana,7,8,2000,Gavà,Spain,2000-08-07,midfield - Defensive Midfield,180,right,Spain,,ES1,2019
+490884,ludovit reis,1,6,2000,Haarlem,Netherlands,2000-06-01,midfield - Central Midfield,178,right,,Slovakia,ES1,2019
+364240,moussa wagué,4,10,1998,Bignona,Senegal,1998-10-04,Defender - Right-Back,177,right,Senegal,,ES1,2019
+126540,samuel umtiti,14,11,1993,Yaundé,Cameroon,1993-11-14,Defender - Centre-Back,182,left,,Cameroon,ES1,2019
+466810,ansu fati,31,10,2002,Bissau,Guinea-Bissau,2002-10-31,attack - Left Winger,178,right,,Guinea-Bissau,ES1,2019
+44352,luis suárez,24,1,1987,Salto,Uruguay,1987-01-24,attack - Centre-Forward,182,right,Uruguay,,ES1,2019
+69751,jordi alba,21,3,1989,L'Hospitalet de Llobregat,Spain,1989-03-21,Defender - Left-Back,170,left,Spain,,ES1,2019
+282727,monchu,13,9,1999,Palma de Mallorca,Spain,1999-09-13,midfield - Central Midfield,173,right,Spain,,ES1,2019
+18944,gerard piqué,2,2,1987,Barcelona,Spain,1987-02-02,Defender - Centre-Back,194,right,Spain,,ES1,2019
+129473,rafinha,12,2,1993,São Paulo,Brazil,1993-02-12,midfield - Central Midfield,174,left,,Spain,ES1,2019
+28003,lionel messi,24,6,1987,Rosario,Argentina,1987-06-24,attack - Right Winger,169,left,,Spain,ES1,2019
+266795,gonzalo escalante,27,3,1993,Bella Vista,Argentina,1993-03-27,midfield - Central Midfield,182,right,,Italy,ES1,2019
+290273,álvaro tejero,20,7,1996,Madrid,Spain,1996-07-20,Defender - Right-Back,174,both,Spain,,ES1,2019
+188157,sebastián cristóforo,23,8,1993,Montevideo,Uruguay,1993-08-23,midfield - Central Midfield,173,right,,Italy,ES1,2019
+154059,charles,4,4,1984,Belem,Brazil,1984-04-04,attack - Centre-Forward,179,right,,Portugal,ES1,2019
+728695,ekhi bravo,30,11,1997,San Sebastián,Spain,1997-11-30,Defender - Left-Back,180,left,Spain,,ES1,2019
+58115,yoel rodríguez,28,8,1988,Vigo,Spain,1988-08-28,Goalkeeper,184,right,Spain,,ES1,2019
+39907,pape diop,19,3,1986,Kaolack,Senegal,1986-03-19,midfield - Defensive Midfield,180,right,,France,ES1,2019
+138935,sergio álvarez,23,1,1992,Avilés,Spain,1992-01-23,midfield - Central Midfield,183,right,Spain,,ES1,2019
+75446,pablo de blasis,4,2,1988,La Plata,Argentina,1988-02-04,attack - Left Winger,165,right,Argentina,,ES1,2019
+51587,pedro león,24,11,1986,Mula,Spain,1986-11-24,attack - Right Winger,183,right,Spain,,ES1,2019
+398738,miguel marí,30,6,1997,Alicante,Spain,1997-06-30,midfield - Central Midfield,185,right,Spain,,ES1,2019
+71548,anaitz arbilla,15,5,1987,Pamplona,Spain,1987-05-15,Defender - Centre-Back,178,right,Spain,,ES1,2019
+94308,marko dmitrovic,24,1,1992,Subotica,Jugoslawien (SFR),1992-01-24,Goalkeeper,194,left,Serbia,,ES1,2019
+139336,paulo oliveira,8,1,1992,Vila Nova de Famalicão,Portugal,1992-01-08,Defender - Centre-Back,187,right,Portugal,,ES1,2019
+337922,esteban burgos,9,1,1992,Salta,Argentina,1992-01-09,Defender - Centre-Back,191,right,,Spain,ES1,2019
+223890,rober correa,20,9,1992,Badajoz,Spain,1992-09-20,Defender - Right-Back,180,right,Spain,,ES1,2019
+98249,takashi inui,2,6,1988,"Omihachiman, Shiga",Japan,1988-06-02,attack - Left Winger,169,right,Japan,,ES1,2019
+198006,rafa soares,9,5,1995,Marco de Canaveses,Portugal,1995-05-09,Defender - Left-Back,178,left,Portugal,,ES1,2019
+684253,sergio cubero,5,9,1999,Mungía,Spain,1999-09-05,Defender - Right-Back,187,right,Spain,,ES1,2019
+506248,edu expósito,1,8,1996,Barcelona,Spain,1996-08-01,midfield - Central Midfield,178,right,Spain,,ES1,2019
+93936,kike garcía,25,11,1989,Motilla de Palancar,Spain,1989-11-25,attack - Centre-Forward,186,right,Spain,,ES1,2019
+60890,fabián orellana,27,1,1986,San Joaquín,Chile,1986-01-27,attack - Right Winger,168,right,,Spain,ES1,2019
+87469,cote,5,9,1989,Gijón,Spain,1989-09-05,Defender - Left-Back,182,left,Spain,,ES1,2019
+81988,sergi enrich,26,2,1990,Ciutadella,Spain,1990-02-26,attack - Centre-Forward,183,right,Spain,,ES1,2019
+480955,miguel atienza,27,5,1999,Madrid,Spain,1999-05-27,midfield - Central Midfield,186,right,Spain,,ES1,2019
+783429,unai dufur,21,1,1999,Pamplona,Spain,1999-01-21,Defender - Centre-Back,187,right,Spain,,ES1,2019
+79352,quique gonzález,16,5,1990,Valladolid,Spain,1990-05-16,attack - Centre-Forward,177,left,Spain,,ES1,2019
+203043,pedro bigas,15,5,1990,Palma de Mallorca,Spain,1990-05-15,Defender - Centre-Back,181,left,Spain,,ES1,2019
+26066,iván ramis,25,10,1984,Sa Pobla,Spain,1984-10-25,Defender - Centre-Back,189,right,Spain,,ES1,2019
+192735,stanislav lobotka,25,11,1994,Trenčín,Slovakia,1994-11-25,midfield - Defensive Midfield,172,both,Slovakia,,ES1,2019
+309110,brais méndez,7,1,1997,Mos,Spain,1997-01-07,midfield - Attacking Midfield,184,left,Spain,,ES1,2019
+64134,néstor araújo,29,8,1991,Guadalajara,Mexico,1991-08-29,Defender - Centre-Back,188,right,,Spain,ES1,2019
+50355,fedor smolov,9,2,1990,Saratov,UdSSR,1990-02-09,attack - Centre-Forward,186,right,Russia,,ES1,2019
+349873,juan hernández,6,12,1994,Lorca,Spain,1994-12-06,attack - Right Winger,177,left,Spain,,ES1,2019
+131102,jeison murillo,27,5,1992,Barranquilla,Colombia,1992-05-27,Defender - Centre-Back,182,right,,Spain,ES1,2019
+276111,david costas,26,3,1995,Vigo,Spain,1995-03-26,Defender - Centre-Back,184,right,Spain,,ES1,2019
+340339,jorge sáenz,17,11,1996,Santa Cruz de Tenerife,Spain,1996-11-17,Defender - Centre-Back,190,right,Spain,,ES1,2019
+545647,sergio carreira,13,10,2000,Vigo,Spain,2000-10-13,Defender - Right-Back,170,both,Spain,,ES1,2019
+137616,okay yokuslu,9,3,1994,Izmir,Turkey,1994-03-09,midfield - Defensive Midfield,191,right,Turkey,,ES1,2019
+358250,joseph aidoo,29,9,1995,Tema,Ghana,1995-09-29,Defender - Centre-Back,184,right,Ghana,,ES1,2019
+164055,david juncà,16,11,1993,Girona,Spain,1993-11-16,Defender - Left-Back,178,left,Spain,,ES1,2019
+340870,jacobo gonzález,25,3,1997,Madrid,Spain,1997-03-25,attack - Right Winger,179,right,Spain,,ES1,2019
+165007,denis suárez,6,1,1994,Salceda de Caselas,Spain,1994-01-06,midfield - Attacking Midfield,176,right,Spain,,ES1,2019
+551182,fran vieites,7,5,1999,Pontecesures,Spain,1999-05-07,Goalkeeper,196,left,Spain,,ES1,2019
+252641,pione sisto,4,2,1995,Kampala,Uganda,1995-02-04,attack - Left Winger,172,right,,Southern Sudan,ES1,2019
+609361,jose fontán,11,2,2000,Vilagarcía de Arousa,Spain,2000-02-11,Defender - Centre-Back,182,left,Spain,,ES1,2019
+238486,filip bradaric,11,1,1992,Split,Croatia,1992-01-11,midfield - Defensive Midfield,186,right,Croatia,,ES1,2019
+632741,iker losada,1,8,2001,Catoira,Spain,2001-08-01,attack - Right Winger,175,right,Spain,,ES1,2019
+374055,dragan rosic,22,9,1996,Užice,Yugoslavia (Republic),1996-09-22,Goalkeeper,195,left,Serbia,,ES1,2019
+221315,kevin vázquez,23,3,1993,Nigrán,Spain,1993-03-23,Defender - Right-Back,175,right,Spain,,ES1,2019
+336828,pape cheikh,8,8,1997,Dakar,Senegal,1997-08-08,midfield - Central Midfield,180,right,,Spain,ES1,2019
+199321,rubén blanco,25,7,1995,Mos,Spain,1995-07-25,Goalkeeper,188,right,Spain,,ES1,2019
+636092,iago domínguez,22,11,2001,Vigo,Spain,2001-11-22,Goalkeeper,,,Spain,,ES1,2019
+119905,hugo mallo,22,6,1991,Marín,Spain,1991-06-22,Defender - Right-Back,174,right,Spain,,ES1,2019
+216240,lucas olaza,21,7,1994,Montevideo,Uruguay,1994-07-21,Defender - Left-Back,176,left,Uruguay,,ES1,2019
+70934,nolito,15,10,1986,Sanlúcar de Barrameda,Spain,1986-10-15,attack - Left Winger,175,right,Spain,,ES1,2019
+423444,fran beltrán,3,2,1999,Madrid,Spain,1999-02-03,midfield - Central Midfield,172,right,Spain,,ES1,2019
+45912,sergio álvarez,3,8,1986,Vilagarcía de Arousa,Spain,1986-08-03,Goalkeeper,179,right,Spain,,ES1,2019
+255653,santi mina,7,12,1995,Vigo,Spain,1995-12-07,attack - Centre-Forward,181,right,Spain,,ES1,2019
+259930,gabriel fernández,13,5,1994,Montevideo,Uruguay,1994-05-13,attack - Centre-Forward,186,right,Uruguay,,ES1,2019
+297194,iván villar,9,7,1997,Aldán,Spain,1997-07-09,Goalkeeper,189,right,Spain,,ES1,2019
+72047,iago aspas,1,8,1987,Moaña,Spain,1987-08-01,attack - Centre-Forward,176,left,Spain,,ES1,2019
+372051,sergio bermejo,17,8,1997,Madrid,Spain,1997-08-17,midfield - Attacking Midfield,170,left,Spain,,ES1,2019
+127554,nacho martínez,7,3,1989,Madrid,Spain,1989-03-07,Defender - Left-Back,174,left,Spain,,ES1,2019
+307519,fede san emeterio,16,3,1997,Sierra de Ibio,Spain,1997-03-16,midfield - Central Midfield,176,right,Spain,,ES1,2019
+221321,joaquín fernández,31,5,1996,Huercal de Almería,Spain,1996-05-31,Defender - Centre-Back,190,right,Spain,,ES1,2019
+221309,óscar plano,11,2,1991,Móstoles,Spain,1991-02-11,attack - Right Winger,179,both,Spain,,ES1,2019
+337066,toni villa,7,1,1995,Lorquí,Spain,1995-01-07,attack - Left Winger,172,right,Spain,,ES1,2019
+62144,antoñito,24,12,1987,Herrera,Spain,1987-12-24,Defender - Right-Back,175,right,Spain,,ES1,2019
+199369,sandro ramírez,9,7,1995,Las Palmas de Gran Canaria,Spain,1995-07-09,attack - Centre-Forward,175,right,Spain,,ES1,2019
+379714,roberto corral,14,9,1997,Valladolid,Spain,1997-09-14,Defender - Left-Back,182,left,Spain,,ES1,2019
+404688,waldo rubio,17,8,1995,Badajoz,Spain,1995-08-17,attack - Left Winger,182,right,Spain,,ES1,2019
+591375,stiven plaza,11,3,1999,Eloy Alfaro,Ecuador,1999-03-11,attack - Centre-Forward,188,right,Ecuador,,ES1,2019
+373683,diego alende,25,8,1997,Santiago de Compostela,Spain,1997-08-25,Defender - Centre-Back,183,,Spain,,ES1,2019
+256429,sergi guardiola,29,5,1991,Manacor,Spain,1991-05-29,attack - Centre-Forward,185,left,Spain,,ES1,2019
+351892,matheus fernandes,30,6,1998,Itaboraí,Brazil,1998-06-30,midfield - Defensive Midfield,183,right,Brazil,,ES1,2019
+51667,kiko olivas,21,8,1988,Antequera,Spain,1988-08-21,Defender - Centre-Back,184,right,Spain,,ES1,2019
+327126,anuar,15,1,1995,Ceuta,Spain,1995-01-15,midfield - Central Midfield,173,right,,Spain,ES1,2019
+142027,pablo hervías,8,3,1993,Logroño,Spain,1993-03-08,attack - Right Winger,174,right,Spain,,ES1,2019
+65263,jordi masip,3,1,1989,Sabadell,Spain,1989-01-03,Goalkeeper,180,right,Spain,,ES1,2019
+247250,rubén alcaraz,1,5,1991,Barcelona,Spain,1991-05-01,midfield - Central Midfield,180,right,Spain,,ES1,2019
+18900,hatem ben arfa,7,3,1987,Clamart,France,1987-03-07,midfield - Attacking Midfield,179,left,,Tunisia,ES1,2019
+268946,josé antonio caro,3,5,1994,La Palma del Condado,Spain,1994-05-03,Goalkeeper,184,,Spain,,ES1,2019
+449496,álvaro aguado,1,5,1996,Jaén,Spain,1996-05-01,midfield - Attacking Midfield,175,right,Spain,,ES1,2019
+563963,mohammed salisu,17,4,1999,Accra,Ghana,1999-04-17,Defender - Centre-Back,191,left,Ghana,,ES1,2019
+404839,andriy lunin,11,2,1999,"Krasnograd, Kharkiv Region",Ukraine,1999-02-11,Goalkeeper,191,right,Ukraine,,ES1,2019
+65331,míchel herrero,29,7,1988,Burjassot,Spain,1988-07-29,midfield - Central Midfield,182,right,Spain,,ES1,2019
+165873,federico barba,1,9,1993,Roma,Italy,1993-09-01,Defender - Centre-Back,185,left,Italy,,ES1,2019
+71204,javi moyano,23,2,1986,Jaén,Spain,1986-02-23,Defender - Right-Back,180,right,Spain,,ES1,2019
+590690,víctor garcía,1,1,1997,Valencia,Spain,1997-01-01,attack - Right Winger,181,right,Spain,,ES1,2019
+321629,el hacen,31,12,1997,Arafat,Mauritania,1997-12-31,midfield - Central Midfield,181,right,Mauritania,,ES1,2019
+363541,samuel pérez,26,4,1997,Tegueste,Spain,1997-04-26,Goalkeeper,188,right,Spain,,ES1,2019
+480883,miguel de la fuente,3,9,1999,Tudela de Duero (Valladolid),Spain,1999-09-03,attack - Centre-Forward,182,right,Spain,,ES1,2019
+251106,enes ünal,10,5,1997,Bursa,Turkey,1997-05-10,attack - Centre-Forward,187,right,Turkey,,ES1,2019
+553875,pedro porro,13,9,1999,Don Benito,Spain,1999-09-13,Defender - Right-Back,176,right,Spain,,ES1,2019
+340853,javi sánchez,14,3,1997,Getafe,Spain,1997-03-14,Defender - Centre-Back,189,right,Spain,,ES1,2019
+207922,luismi,5,5,1992,Puerto Serrano,Spain,1992-05-05,midfield - Defensive Midfield,179,right,Spain,,ES1,2019
+527698,kike pérez,14,2,1997,Toledo,Spain,1997-02-14,midfield - Central Midfield,184,left,Spain,,ES1,2019
+455181,jorge de frutos,20,2,1997,Navares de Enmedio,Spain,1997-02-20,attack - Right Winger,173,right,Spain,,ES1,2019
+80293,aïssa mandi,22,10,1991,Châlons-en-Champagne,France,1991-10-22,Defender - Centre-Back,184,right,,France,ES1,2019
+371174,diego lainez,9,6,2000,Villahermosa,Mexico,2000-06-09,attack - Left Winger,167,left,Mexico,,ES1,2019
+476344,emerson royal,14,1,1999,São Paulo,Brazil,1999-01-14,Defender - Right-Back,183,right,Brazil,,ES1,2019
+278359,borja iglesias,17,1,1993,Santiago de Compostela,Spain,1993-01-17,attack - Centre-Forward,187,right,Spain,,ES1,2019
+370691,francis guerrero,11,3,1996,Coín,Spain,1996-03-11,Defender - Right-Back,175,right,Spain,,ES1,2019
+335221,dani martín,8,7,1998,Gijón,Spain,1998-07-08,Goalkeeper,187,right,Spain,,ES1,2019
+784429,jorge jiménez,20,5,1999,Madrid,Spain,1999-05-20,attack - Left Winger,,,Spain,,ES1,2019
+256120,wilfrid kaptoum,7,7,1996,Douala,Cameroon,1996-07-07,midfield - Central Midfield,170,right,Cameroon,,ES1,2019
+99922,marc bartra,15,1,1991,Sant Jaume dels Domenys,Spain,1991-01-15,Defender - Centre-Back,184,right,Spain,,ES1,2019
+193098,álex moreno,8,6,1993,Sant Sadurní d'Anoia,Spain,1993-06-08,Defender - Left-Back,179,left,Spain,,ES1,2019
+66106,sergio canales,16,2,1991,Santander,Spain,1991-02-16,midfield - Attacking Midfield,180,left,Spain,,ES1,2019
+141834,cristian tello,11,8,1991,Sabadell,Spain,1991-08-11,attack - Left Winger,178,both,Spain,,ES1,2019
+20506,andrés guardado,28,9,1986,Guadalajara,Mexico,1986-09-28,midfield - Central Midfield,169,left,,Spain,ES1,2019
+566666,dani rebollo,10,12,1999,Lepe,Spain,1999-12-10,Goalkeeper,187,right,Spain,,ES1,2019
+531413,alejandro meléndez,13,5,1999,Sevilla,Spain,1999-05-13,midfield - Central Midfield,,,Spain,,ES1,2019
+100131,william carvalho,7,4,1992,Luanda,Angola,1992-04-07,midfield - Defensive Midfield,187,right,,Angola,ES1,2019
+203496,nabil fekir,18,7,1993,Lyon,France,1993-07-18,midfield - Attacking Midfield,173,left,,Algeria,ES1,2019
+401624,edgar gonzález,1,4,1997,Sant Joan Despí,Spain,1997-04-01,midfield - Defensive Midfield,193,right,Spain,,ES1,2019
+354741,loren morón,30,12,1993,Marbella,Spain,1993-12-30,attack - Centre-Forward,185,right,Spain,,ES1,2019
+578878,ángel baena,13,10,2000,Barcelona,Spain,2000-10-13,attack - Right Winger,175,right,Spain,,ES1,2019
+630995,rodri sánchez,16,2,2000,Talayuela,Spain,2000-02-16,midfield - Attacking Midfield,175,left,Spain,,ES1,2019
+630989,ricardo visus,24,4,2001,Madrid,Spain,2001-04-24,Defender - Centre-Back,192,right,Spain,,ES1,2019
+631002,raúl garcía,3,11,2000,,Spain,2000-11-03,attack - Centre-Forward,,right,Spain,,ES1,2019
+251877,carlos marín,20,2,1997,Almería,Spain,1997-02-20,Goalkeeper,187,,Spain,,ES1,2019
+126737,juanmi,20,5,1993,Coín,Spain,1993-05-20,attack - Right Winger,172,right,Spain,,ES1,2019
+284890,josé luis trápaga,21,5,1998,"Polanco, Cantabria",Spain,1998-05-21,Defender - Right-Back,176,right,Spain,,ES1,2019
+36350,javi garcía,8,2,1987,Mula,Spain,1987-02-08,midfield - Defensive Midfield,187,right,Spain,,ES1,2019
+101118,joel robles,17,6,1990,Getafe,Spain,1990-06-17,Goalkeeper,197,right,Spain,,ES1,2019
+633169,nil garrido,26,3,2001,Navarcles,Spain,2001-03-26,midfield - Attacking Midfield,175,right,Spain,,ES1,2019
+129386,zouhair feddal,23,12,1989,Tétouan,Morocco,1989-12-23,Defender - Centre-Back,191,left,,Spain,ES1,2019
+356197,alfonso pedraza,9,4,1996,San Sebastián de los Ballesteros,Spain,1996-04-09,Defender - Left-Back,184,left,Spain,,ES1,2019
+582717,david ramos,19,8,1997,Estepona,Spain,1997-08-19,midfield - Central Midfield,175,right,Spain,,ES1,2019
+27374,sidnei,23,8,1989,Alegrete,Brazil,1989-08-23,Defender - Centre-Back,185,right,,Spain,ES1,2019
+630990,ismael gutiérrez,7,8,2000,Los Palacios y Villafranca,Spain,2000-08-07,midfield - Central Midfield,176,right,Spain,,ES1,2019
+7663,joaquín,21,7,1981,El Puerto de Santa María,Spain,1981-07-21,attack - Right Winger,181,right,Spain,,ES1,2019
+342385,guido rodríguez,12,4,1994,Sáenz Peña,Argentina,1994-04-12,midfield - Defensive Midfield,185,right,,Italy,ES1,2019
+32522,antonio barragán,12,6,1987,Pontedeume,Spain,1987-06-12,Defender - Right-Back,186,right,Spain,,ES1,2019
+85288,isco,21,4,1992,Benalmádena,Spain,1992-04-21,midfield - Attacking Midfield,176,right,Spain,,ES1,2019
+108390,thibaut courtois,11,5,1992,Bree,Belgium,1992-05-11,Goalkeeper,200,left,Belgium,,ES1,2019
+291417,ferland mendy,8,6,1995,Meulan-en-Yvelines,France,1995-06-08,Defender - Left-Back,180,left,,Senegal,ES1,2019
+25557,sergio ramos,30,3,1986,Camas,Spain,1986-03-30,Defender - Centre-Back,184,right,Spain,,ES1,2019
+44501,marcelo,12,5,1988,Rio de Janeiro,Brazil,1988-05-12,Defender - Left-Back,174,left,,Spain,ES1,2019
+18922,karim benzema,19,12,1987,Lyon,France,1987-12-19,attack - Centre-Forward,184,both,,Algeria,ES1,2019
+401530,éder militão,18,1,1998,Sertãozinho,Brazil,1998-01-18,Defender - Centre-Back,186,right,Brazil,,ES1,2019
+120629,alphonse areola,27,2,1993,Paris,France,1993-02-27,Goalkeeper,195,right,,Philippines,ES1,2019
+627226,reinier,19,1,2002,Brasília,Brazil,2002-01-19,midfield - Attacking Midfield,185,right,Brazil,,ES1,2019
+79422,keylor navas,15,12,1986,San Isidro de El General,Costa Rica,1986-12-15,Goalkeeper,185,right,,Spain,ES1,2019
+88103,james rodríguez,12,7,1991,Cúcuta,Colombia,1991-07-12,midfield - Attacking Midfield,181,left,,Spain,ES1,2019
+39381,gareth bale,16,7,1989,Cardiff,Wales,1989-07-16,attack - Right Winger,185,left,Wales,,ES1,2019
+257462,luka jovic,23,12,1997,Bijeljina,Bosnia-Herzegovina,1997-12-23,attack - Centre-Forward,182,both,Serbia,,ES1,2019
+31909,toni kroos,4,1,1990,Greifswald,DDR,1990-01-04,midfield - Central Midfield,183,right,Germany,,ES1,2019
+27992,luka modric,9,9,1985,Zadar,Jugoslawien (SFR),1985-09-09,midfield - Central Midfield,172,both,Croatia,,ES1,2019
+138927,daniel carvajal,11,1,1992,Leganés,Spain,1992-01-11,Defender - Right-Back,173,right,Spain,,ES1,2019
+221316,lucas vázquez,1,7,1991,A Coruña,Spain,1991-07-01,attack - Right Winger,173,right,Spain,,ES1,2019
+58884,nacho fernández,18,1,1990,Madrid,Spain,1990-01-18,Defender - Centre-Back,180,right,Spain,,ES1,2019
+549069,diego altube,22,2,2000,Madrid,Spain,2000-02-22,Goalkeeper,188,right,Spain,,ES1,2019
+280730,álvaro odriozola,14,12,1995,San Sebastián,Spain,1995-12-14,Defender - Right-Back,176,right,Spain,,ES1,2019
+412363,rodrygo,9,1,2001,Osasco,Brazil,2001-01-09,attack - Right Winger,174,right,Brazil,,ES1,2019
+314678,brahim díaz,3,8,1999,Málaga,Spain,1999-08-03,midfield - Attacking Midfield,171,both,,Morocco,ES1,2019
+341263,adrián de la fuente,26,2,1999,El Escorial,Spain,1999-02-26,Defender - Centre-Back,179,right,Spain,,ES1,2019
+371998,vinícius júnior,12,7,2000,São Gonçalo,Brazil,2000-07-12,attack - Left Winger,176,right,Brazil,,ES1,2019
+623525,luis lópez,8,5,2001,Murcia,Spain,2001-05-08,Goalkeeper,193,left,Spain,,ES1,2019
+164770,raphaël varane,25,4,1993,Lille,France,1993-04-25,Defender - Centre-Back,191,right,,Martinique,ES1,2019
+422466,javi hernández,2,5,1998,Jerez de la Frontera,Spain,1998-05-02,Defender - Left-Back,185,left,Spain,,ES1,2019
+369081,federico valverde,22,7,1998,Montevideo,Uruguay,1998-07-22,midfield - Central Midfield,182,right,,Spain,ES1,2019
+50202,eden hazard,7,1,1991,La Louvière,Belgium,1991-01-07,attack - Left Winger,175,right,Belgium,,ES1,2019
+296622,marco asensio,21,1,1996,Palma de Mallorca,Spain,1996-01-21,attack - Right Winger,182,left,,Netherlands,ES1,2019
+16306,casemiro,23,2,1992,São José dos Campos,Brazil,1992-02-23,midfield - Defensive Midfield,185,right,,Spain,ES1,2019
+225020,mariano díaz,1,8,1993,Premià de Mar,Spain,1993-08-01,attack - Centre-Forward,180,right,,Spain,ES1,2019
+525299,miguel gutiérrez,27,7,2001,Madrid,Spain,2001-07-27,Defender - Left-Back,180,left,Spain,,ES1,2019
+251888,mario rodríguez,3,3,1997,Barcelona,Spain,1997-03-03,attack - Left Winger,180,,Spain,,ES1,2019
+34870,roberto soldado,27,5,1985,Valencia,Spain,1985-05-27,attack - Centre-Forward,180,right,Spain,,ES1,2019
+186891,álex martínez,12,8,1990,Sevilla,Spain,1990-08-12,Defender - Left-Back,176,left,Spain,,ES1,2019
+251880,antonio montoro,10,5,1997,Getafe,Spain,1997-05-10,Defender - Centre-Back,182,right,Spain,,ES1,2019
+223053,quini,24,9,1989,Córdoba,Spain,1989-09-24,Defender - Right-Back,178,right,Spain,,ES1,2019
+631223,antonio aranda,7,10,2000,Huétor Vega,Spain,2000-10-07,midfield - Attacking Midfield,175,right,Spain,,ES1,2019
+131667,ramon azeez,12,12,1992,Abuja,Nigeria,1992-12-12,midfield - Central Midfield,170,right,Nigeria,,ES1,2019
+610336,antoñín,16,4,2000,Málaga,Spain,2000-04-16,attack - Centre-Forward,182,right,Spain,,ES1,2019
+284430,aarón escandell,27,9,1995,Carcaixent,Spain,1995-09-27,Goalkeeper,185,right,Spain,,ES1,2019
+257376,domingos duarte,10,3,1995,Cascais,Portugal,1995-03-10,Defender - Centre-Back,192,right,Portugal,,ES1,2019
+58330,víctor díaz,12,6,1988,Sevilla,Spain,1988-06-12,Defender - Right-Back,183,right,Spain,,ES1,2019
+297784,yan eteki,26,8,1997,Yaoundé,Cameroon,1997-08-26,midfield - Central Midfield,182,right,,Spain,ES1,2019
+74641,ismail köybasi,10,7,1989,Hatay,Turkey,1989-07-10,Defender - Left-Back,179,left,Turkey,,ES1,2019
+234811,rui silva,7,2,1994,Maia,Portugal,1994-02-07,Goalkeeper,191,left,Portugal,,ES1,2019
+378293,yangel herrera,7,1,1998,"La Guaira, Vargas",Venezuela,1998-01-07,midfield - Central Midfield,184,right,Venezuela,,ES1,2019
+211251,darwin machís,7,2,1993,Tucupita,Venezuela,1993-02-07,attack - Left Winger,171,right,,Spain,ES1,2019
+59551,ángel montoro,25,6,1988,Valencia,Spain,1988-06-25,midfield - Central Midfield,180,right,Spain,,ES1,2019
+262365,antonio puertas,21,2,1992,Benahadux,Spain,1992-02-21,attack - Right Winger,183,right,Spain,,ES1,2019
+95963,germán sánchez,12,12,1986,San Fernando (Cádiz),Spain,1986-12-12,Defender - Centre-Back,187,right,Spain,,ES1,2019
+162079,fede vico,4,7,1994,Córdoba,Spain,1994-07-04,midfield - Attacking Midfield,177,left,Spain,,ES1,2019
+448844,carlos neva,12,6,1996,El Puerto de Santa María,Spain,1996-06-12,Defender - Left-Back,174,left,Spain,,ES1,2019
+311287,josé antonio martínez,12,2,1993,La Palma del Condado,Spain,1993-02-12,Defender - Centre-Back,191,left,Spain,,ES1,2019
+500191,pepe sánchez,2,3,2000,Linares,Spain,2000-03-02,Defender - Right-Back,185,right,Spain,,ES1,2019
+60542,maxime gonalons,10,3,1989,Vénissieux,France,1989-03-10,midfield - Defensive Midfield,187,right,France,,ES1,2019
+162074,álvaro vadillo,12,9,1994,Puerto Real,Spain,1994-09-12,attack - Left Winger,180,right,Spain,,ES1,2019
+288376,unai etxebarria,30,8,1996,Getxo,Spain,1996-08-30,Goalkeeper,188,right,Spain,,ES1,2019
+468700,neyder lozano,4,3,1994,Quibdó,Colombia,1994-03-04,Defender - Centre-Back,185,left,,Spain,ES1,2019
+216464,carlos fernández,22,5,1996,Castilleja de Guzmán,Spain,1996-05-22,attack - Centre-Forward,185,left,Spain,,ES1,2019
+251896,jesús vallejo,5,1,1997,Zaragoza,Spain,1997-01-05,Defender - Centre-Back,184,right,Spain,,ES1,2019
+198638,joão costa,2,2,1996,Barcelos,Portugal,1996-02-02,Goalkeeper,186,right,Portugal,,ES1,2019
+329723,gil dias,28,9,1996,Gafanha,Portugal,1996-09-28,Defender - Left-Back,186,left,Portugal,,ES1,2019
+73782,adrián ramos,22,1,1986,Santander de Quilichao,Colombia,1986-01-22,attack - Centre-Forward,185,right,Colombia,,ES1,2019
+170472,dimitri foulquier,23,3,1993,Sarcelles,France,1993-03-23,Defender - Right-Back,183,right,,France,ES1,2019
+631221,isma ruiz,14,2,2001,Gójar,Spain,2001-02-14,midfield - Central Midfield,180,right,Spain,,ES1,2019
+412542,ricard pujol,4,3,1998,Castellví de Rosanes,Spain,1998-03-04,Defender - Left-Back,180,left,Spain,,ES1,2019
+448344,óscar melendo,23,8,1997,Barcelona,Spain,1997-08-23,attack - Right Winger,167,left,Spain,,ES1,2019
+44065,esteban granero,2,7,1987,Madrid,Spain,1987-07-02,midfield - Central Midfield,180,right,Spain,,ES1,2019
+148666,naldo,25,8,1988,Santo André,Brazil,1988-08-25,Defender - Centre-Back,188,right,,Italy,ES1,2019
+376211,matías vargas,8,5,1997,Salta,Argentina,1997-05-08,attack - Left Winger,168,right,Argentina,,ES1,2019
+408471,javi puado,25,5,1998,Barcelona,Spain,1998-05-25,attack - Left Winger,177,right,Spain,,ES1,2019
+570421,nico melamed,11,4,2001,Castelldefels,Spain,2001-04-11,midfield - Attacking Midfield,173,right,,Argentina,ES1,2019
+353959,kévin soni,17,4,1998,Douala,Cameroon,1998-04-17,attack - Centre-Forward,183,left,Cameroon,,ES1,2019
+423166,pipa,26,1,1998,Esparraguera,Spain,1998-01-26,Defender - Right-Back,176,right,Spain,,ES1,2019
+93795,facundo ferreyra,14,3,1991,Lomas de Zamora,Argentina,1991-03-14,attack - Centre-Forward,183,right,,Italy,ES1,2019
+503851,roman tugarinov,20,10,1999,Ulan-Ude,Russia,1999-10-20,Defender - Centre-Back,189,right,Russia,,ES1,2019
+162038,raúl de tomás,17,10,1994,Madrid,Spain,1994-10-17,attack - Centre-Forward,180,right,,Dominican Republic,ES1,2019
+284727,jonathan calleri,23,9,1993,Buenos Aires,Argentina,1993-09-23,attack - Centre-Forward,181,right,,Italy,ES1,2019
+102744,sébastien corchia,1,11,1990,Noisy-le-Sec,France,1990-11-01,Defender - Right-Back,176,right,,Italy,ES1,2019
+449844,mohamed ezzarfani,15,11,1997,Nador,Morocco,1997-11-15,attack - Left Winger,176,,Morocco,,ES1,2019
+238032,andrés prieto,17,10,1993,Alicante,Spain,1993-10-17,Goalkeeper,194,right,Spain,,ES1,2019
+8176,oier olazábal,14,9,1989,Irún,Spain,1989-09-14,Goalkeeper,189,left,Spain,,ES1,2019
+129444,david lópez,9,10,1989,Barcelona,Spain,1989-10-09,midfield - Defensive Midfield,185,right,Spain,,ES1,2019
+628496,dani villahermosa,2,1,2001,Barcelona,Spain,2001-01-02,midfield - Central Midfield,172,right,Spain,,ES1,2019
+288318,adrián embarba,7,5,1992,Madrid,Spain,1992-05-07,attack - Right Winger,173,right,Spain,,ES1,2019
+64598,bernardo espinosa,11,7,1989,Santiago de Cali,Colombia,1989-07-11,Defender - Centre-Back,192,right,,Spain,ES1,2019
+357884,fernando calero,14,9,1995,Boecillo (Valladolid),Spain,1995-09-14,Defender - Centre-Back,184,right,Spain,,ES1,2019
+501418,adrià pedrosa,13,5,1998,Barcelona,Spain,1998-05-13,Defender - Left-Back,172,left,Spain,,ES1,2019
+262391,lluís lópez,5,3,1997,Manresa,Spain,1997-03-05,Defender - Centre-Back,182,right,Spain,,ES1,2019
+336869,marc roca,26,11,1996,Vilafranca del Penedès,Spain,1996-11-26,midfield - Defensive Midfield,184,left,Spain,,ES1,2019
+140436,lei wu,19,11,1991,"Nanjing, Jiangsu",China,1991-11-19,attack - Left Winger,174,right,China,,ES1,2019
+56067,pablo piatti,31,3,1989,La Carlota,Argentina,1989-03-31,attack - Left Winger,163,both,,Italy,ES1,2019
+599231,ferran jutglà,1,2,1999,Sant Julià de Vilatorta,Spain,1999-02-01,attack - Right Winger,172,right,Spain,,ES1,2019
+142021,sergi darder,22,12,1993,Artà,Spain,1993-12-22,midfield - Central Midfield,180,right,Spain,,ES1,2019
+412042,adri lópez,9,1,1999,Barcelona,Spain,1999-01-09,Goalkeeper,185,,Spain,,ES1,2019
+412045,pol lozano,6,10,1999,Sant Quirze del Vallès,Spain,1999-10-06,midfield - Central Midfield,176,right,Spain,,ES1,2019
+72310,javi lópez,21,1,1986,Osuna,Spain,1986-01-21,Defender - Left-Back,180,right,Spain,,ES1,2019
+71571,ander iturraspe,8,3,1989,Abadiño,Spain,1989-03-08,midfield - Defensive Midfield,187,right,Spain,,ES1,2019
+34370,diego lópez,3,11,1981,Paradela,Spain,1981-11-03,Goalkeeper,196,right,Spain,,ES1,2019
+63290,víctor sánchez,8,9,1987,Terrassa,Spain,1987-09-08,midfield - Central Midfield,174,right,Spain,,ES1,2019
+67090,dídac vilà,9,6,1989,Barcelona,Spain,1989-06-09,Defender - Left-Back,185,left,Spain,,ES1,2019
+394285,víctor campuzano,31,5,1997,Barcelona,Spain,1997-05-31,attack - Centre-Forward,174,left,Spain,,ES1,2019
+495601,víctor gómez,1,4,2000,Olesa de Montserrat,Spain,2000-04-01,Defender - Right-Back,169,right,Spain,,ES1,2019
+769063,luka romero,18,11,2004,Victoria de Durango,Mexico,2004-11-18,midfield - Attacking Midfield,165,left,,Spain,ES1,2019
+79893,yannis salibur,24,1,1991,Saint-Denis,France,1991-01-24,attack - Right Winger,177,left,,DR Congo,ES1,2019
+161267,josep señé,10,12,1991,Sant Cugat del Vallès,Spain,1991-12-10,midfield - Attacking Midfield,186,right,Spain,,ES1,2019
+277384,martin valjent,11,12,1995,Dubnica nad Váhom,Slovakia,1995-12-11,Defender - Centre-Back,187,right,Slovakia,,ES1,2019
+76032,aridai cabrera,26,9,1988,Las Palmas de Gran Canaria,Spain,1988-09-26,attack - Right Winger,168,right,Spain,,ES1,2019
+632913,pere garcía,1,1,2002,,Spain,2002-01-01,Goalkeeper,,,Spain,,ES1,2019
+237499,aleksandar sedlar,13,12,1991,Novi Sad,Jugoslawien (SFR),1991-12-13,Defender - Centre-Back,180,,Serbia,,ES1,2019
+646747,rafael obrador,24,2,2004,Palma de Mallorca,Spain,2004-02-24,Defender - Left-Back,181,,Spain,,ES1,2019
+350364,joan sastre,30,4,1997,Palma de Mallorca,Spain,1997-04-30,Defender - Right-Back,174,right,Spain,,ES1,2019
+408288,jesús ruiz,20,1,1997,Esplugues de Llobregat,Spain,1997-01-20,Goalkeeper,185,right,Spain,,ES1,2019
+46413,ante budimir,22,7,1991,Zenica,Jugoslawien (SFR),1991-07-22,attack - Centre-Forward,190,left,Croatia,,ES1,2019
+100722,lago júnior,31,12,1990,Yamoussoukro,Cote d'Ivoire,1990-12-31,attack - Left Winger,180,right,Cote d'Ivoire,,ES1,2019
+784717,fran gonzález,13,8,1998,,Spain,1998-08-13,Defender - Centre-Back,190,right,Spain,,ES1,2019
+278296,antonio raíllo,8,10,1991,Córdoba,Spain,1991-10-08,Defender - Centre-Back,187,,Spain,,ES1,2019
+139435,dani rodríguez,6,6,1988,Betanzos,Spain,1988-06-06,midfield - Attacking Midfield,178,right,Spain,,ES1,2019
+45882,fabri,31,12,1987,Vecindario,Spain,1987-12-31,Goalkeeper,184,,,Uruguay,ES1,2019
+178187,álex alegría,14,10,1992,Plasencia,Spain,1992-10-14,attack - Centre-Forward,191,right,Spain,,ES1,2019
+81796,sung-yueng ki,24,1,1989,Gwangju,"Korea, South",1989-01-24,midfield - Defensive Midfield,189,right,"Korea, South",,ES1,2019
+142920,aleksandar trajkovski,5,9,1992,Skopje,Macedonia,1992-09-05,attack - Left Winger,179,right,North Macedonia,,ES1,2019
+58799,salva sevilla,18,3,1984,Berja,Spain,1984-03-18,midfield - Central Midfield,178,right,Spain,,ES1,2019
+70946,xisco campos,10,3,1982,Binissalem,Spain,1982-03-10,Defender - Centre-Back,180,right,Spain,,ES1,2019
+344393,lumor,15,8,1996,Accra,Ghana,1996-08-15,Defender - Left-Back,175,left,Ghana,,ES1,2019
+118732,pablo chavarría,2,1,1988,Las Perdices,Argentina,1988-01-02,attack - Centre-Forward,185,right,,Italy,ES1,2019
+187530,leonardo koutris,23,7,1995,Ribeirão Preto,Brazil,1995-07-23,Defender - Left-Back,170,left,,Brazil,ES1,2019
+72319,marc pedraza,6,2,1987,Barcelona,Spain,1987-02-06,midfield - Central Midfield,184,,Spain,,ES1,2019
+341272,alejandro pozo,22,2,1999,Huévar del Aljarafe,Spain,1999-02-22,Defender - Right-Back,174,right,Spain,,ES1,2019
+405398,takefusa kubo,4,6,2001,"Kawasaki, Kanagawa",Japan,2001-06-04,attack - Right Winger,173,left,Japan,,ES1,2019
+442816,fran gámez,27,7,1991,Puerto de Sagunto,Spain,1991-07-27,Defender - Right-Back,174,right,Spain,,ES1,2019
+217144,aleix febas,22,2,1996,Lleida,Spain,1996-02-22,midfield - Central Midfield,172,right,Spain,,ES1,2019
+459463,cucho hernández,20,4,1999,Pereira,Colombia,1999-04-20,attack - Centre-Forward,176,right,Colombia,,ES1,2019
+177452,abdón prats,7,12,1992,Artà,Spain,1992-12-07,attack - Centre-Forward,181,left,Spain,,ES1,2019
+242301,miquel parera,18,5,1996,Manacor,Spain,1996-05-18,Goalkeeper,182,right,Spain,,ES1,2019
+442805,iddrisu baba,22,1,1996,Accra,Ghana,1996-01-22,midfield - Central Midfield,182,right,Ghana,,ES1,2019
+224884,abdul-rahman baba,2,7,1994,Tamale,Ghana,1994-07-02,Defender - Left-Back,179,left,Ghana,,ES1,2019
+462250,joão félix,10,11,1999,Viseu,Portugal,1999-11-10,attack - Second Striker,180,both,Portugal,,ES1,2019
+107010,stefan savic,8,1,1991,Mojkovac,Jugoslawien (SFR),1991-01-08,Defender - Centre-Back,187,right,,Serbia,ES1,2019
+266807,ángel correa,9,3,1995,Rosario,Argentina,1995-03-09,attack - Right Winger,171,right,,Spain,ES1,2019
+618809,manu sánchez,24,8,2000,Madrid,Spain,2000-08-24,Defender - Left-Back,171,left,Spain,,ES1,2019
+274347,ivan saponjic,2,8,1997,Nova Varoš,Yugoslavia (Republic),1997-08-02,attack - Centre-Forward,190,right,Serbia,,ES1,2019
+399780,darío poveda,13,3,1997,Alicante,Spain,1997-03-13,attack - Centre-Forward,187,right,Spain,,ES1,2019
+120443,santiago arias,13,1,1992,Medellín,Colombia,1992-01-13,Defender - Right-Back,177,right,Colombia,,ES1,2019
+121483,jan oblak,7,1,1993,Škofja Loka,Slovenia,1993-01-07,Goalkeeper,188,right,Slovenia,,ES1,2019
+281769,mario hermoso,18,6,1995,Madrid,Spain,1995-06-18,Defender - Centre-Back,185,left,Spain,,ES1,2019
+396340,óscar clemente,26,3,1999,Santa Cruz de Tenerife,Spain,1999-03-26,midfield - Attacking Midfield,175,left,Spain,,ES1,2019
+67082,vitolo,2,11,1989,Las Palmas de Gran Canaria,Spain,1989-11-02,attack - Left Winger,185,right,Spain,,ES1,2019
+505674,sergio camello,10,2,2001,Madrid,Spain,2001-02-10,attack - Centre-Forward,177,right,Spain,,ES1,2019
+388545,ricard sánchez,22,2,2000,Sant Jaume dels Domenys,Spain,2000-02-22,Defender - Right-Back,175,right,Spain,,ES1,2019
+230784,thomas partey,13,6,1993,Odumase Krobo,Ghana,1993-06-13,midfield - Defensive Midfield,185,right,Ghana,,ES1,2019
+156501,felipe,16,5,1989,Mogi das Cruzes,Brazil,1989-05-16,Defender - Centre-Back,190,right,Brazil,,ES1,2019
+495600,álvaro garcía,1,6,2000,Albacete,Spain,2000-06-01,Defender - Centre-Back,184,left,Spain,,ES1,2019
+295065,toni moya,20,3,1998,Mérida,Spain,1998-03-20,midfield - Central Midfield,185,right,Spain,,ES1,2019
+74229,koke,8,1,1992,Madrid,Spain,1992-01-08,midfield - Central Midfield,176,right,Spain,,ES1,2019
+44062,antonio adán,13,5,1987,Madrid,Spain,1987-05-13,Goalkeeper,190,left,Spain,,ES1,2019
+476352,renan lodi,8,4,1998,Serrana (São Paulo),Brazil,1998-04-08,Defender - Left-Back,178,left,Brazil,,ES1,2019
+205562,thomas lemar,12,11,1995,Baie-Mahault,Guadeloupe,1995-11-12,midfield - Attacking Midfield,171,left,,Guadeloupe,ES1,2019
+76061,sime vrsaljko,10,1,1992,Rijeka,Croatia,1992-01-10,Defender - Right-Back,181,right,Croatia,,ES1,2019
+44779,diego costa,7,10,1988,Lagarto,Brazil,1988-10-07,attack - Centre-Forward,186,right,,Brazil,ES1,2019
+420064,caio henrique,31,7,1997,Santos,Brazil,1997-07-31,Defender - Left-Back,179,left,,Spain,ES1,2019
+250845,josé maría giménez,20,1,1995,Toledo,Uruguay,1995-01-20,Defender - Centre-Back,185,right,,Spain,ES1,2019
+461617,rodrigo riquelme,2,4,2000,Madrid,Spain,2000-04-02,attack - Right Winger,174,right,Spain,,ES1,2019
+128223,álvaro morata,23,10,1992,Madrid,Spain,1992-10-23,attack - Centre-Forward,187,right,Spain,,ES1,2019
+122043,héctor herrera,19,4,1990,Tijuana,Mexico,1990-04-19,midfield - Central Midfield,180,right,,Portugal,ES1,2019
+140776,yannick carrasco,4,9,1993,Ixelles,Belgium,1993-09-04,attack - Left Winger,181,right,,Spain,ES1,2019
+548188,germán valera,16,3,2002,Murcia,Spain,2002-03-16,attack - Right Winger,170,left,,Lithuania,ES1,2019
+396341,álex dos santos,15,1,1999,Xinguara,Brazil,1999-01-15,Goalkeeper,185,right,,Spain,ES1,2019
+148928,saúl ñíguez,21,11,1994,Elche,Spain,1994-11-21,midfield - Central Midfield,184,left,Spain,,ES1,2019
+95810,kieran trippier,19,9,1990,Bury,England,1990-09-19,Defender - Right-Back,173,right,England,,ES1,2019
+282411,marcos llorente,30,1,1995,Madrid,Spain,1995-01-30,midfield - Central Midfield,184,right,Spain,,ES1,2019
+229804,aritz elustondo,28,3,1994,Beasain,Spain,1994-03-28,Defender - Centre-Back,182,right,Spain,,ES1,2019
+594926,näis djouahra,23,11,1999,Bourgoin-Jallieu,France,1999-11-23,attack - Left Winger,172,right,,Algeria,ES1,2019
+289255,andoni gorosabel,4,8,1996,Arrasate,Spain,1996-08-04,Defender - Right-Back,174,right,Spain,,ES1,2019
+355628,igor zubeldia,30,3,1997,Azkoitia,Spain,1997-03-30,midfield - Defensive Midfield,181,right,Spain,,ES1,2019
+43003,nacho monreal,26,2,1986,Pamplona,Spain,1986-02-26,Defender - Left-Back,179,left,Spain,,ES1,2019
+616369,ander barrenetxea,27,12,2001,Donostia-San Sebastián,Spain,2001-12-27,attack - Left Winger,175,right,Spain,,ES1,2019
+197135,joseba zaldua,24,6,1992,Donostia-San Sebastián,Spain,1992-06-24,Defender - Right-Back,176,right,Spain,,ES1,2019
+351809,robin le normand,11,11,1996,Pabu,France,1996-11-11,Defender - Centre-Back,187,right,France,,ES1,2019
+212862,álex remiro,24,3,1995,Cascante,Spain,1995-03-24,Goalkeeper,191,right,Spain,,ES1,2019
+349066,alexander isak,21,9,1999,Solna,Sweden,1999-09-21,attack - Centre-Forward,192,right,,Eritrea,ES1,2019
+35518,david silva,8,1,1986,Arguineguín,Spain,1986-01-08,midfield - Attacking Midfield,170,left,Spain,,ES1,2019
+428948,andoni zubiaurre,4,12,1996,Ordizia,Spain,1996-12-04,Goalkeeper,189,left,Spain,,ES1,2019
+206947,kévin rodrigues,5,3,1994,Bayonne,France,1994-03-05,Defender - Left-Back,170,left,,France,ES1,2019
+338424,mikel merino,22,6,1996,Pamplona,Spain,1996-06-22,midfield - Central Midfield,189,left,Spain,,ES1,2019
+99352,rubén pardo,22,10,1992,Logroño,Spain,1992-10-22,midfield - Central Midfield,181,right,Spain,,ES1,2019
+316264,martin ødegaard,17,12,1998,Drammen,Norway,1998-12-17,midfield - Attacking Midfield,178,left,Norway,,ES1,2019
+465967,ander guevara,7,7,1997,Vitoria-Gasteiz,Spain,1997-07-07,midfield - Central Midfield,180,right,Spain,,ES1,2019
+59344,asier illarramendi,8,3,1990,Mutriku,Spain,1990-03-08,midfield - Defensive Midfield,179,right,Spain,,ES1,2019
+434602,aritz arambarri,31,1,1998,Azkoitia,Spain,1998-01-31,Defender - Centre-Back,186,right,Spain,,ES1,2019
+177847,adnan januzaj,5,2,1995,Brussel,Belgium,1995-02-05,attack - Right Winger,186,left,,Kosovo,ES1,2019
+625654,julen lobete,18,9,2000,Lezo,Spain,2000-09-18,attack - Centre-Forward,177,right,Spain,,ES1,2019
+59375,david zurutuza,19,7,1986,Rochefort,France,1986-07-19,midfield - Central Midfield,186,right,,France,ES1,2019
+569866,roberto lópez,24,4,2000,Zaragoza,Spain,2000-04-24,midfield - Attacking Midfield,178,left,Spain,,ES1,2019
+517842,aihen muñoz,16,8,1997,Etxauri,Spain,1997-08-16,Defender - Left-Back,175,left,Spain,,ES1,2019
+289236,jon bautista,3,7,1995,Mahón,Spain,1995-07-03,attack - Centre-Forward,180,right,Spain,,ES1,2019
+423440,martín zubimendi,2,2,1999,San Sebastián,Spain,1999-02-02,midfield - Defensive Midfield,181,right,Spain,,ES1,2019
+524925,modibo sagnan,14,4,1999,Saint-Denis,France,1999-04-14,Defender - Centre-Back,187,left,,Mali,ES1,2019
+351478,mikel oyarzabal,21,4,1997,Eibar,Spain,1997-04-21,attack - Left Winger,181,left,Spain,,ES1,2019
+99353,portu,21,5,1992,Beniel,Spain,1992-05-21,attack - Right Winger,167,right,Spain,,ES1,2019
+122155,willian josé,23,11,1991,Porto Calvo,Brazil,1991-11-23,attack - Centre-Forward,189,right,,Spain,ES1,2019
+246291,diego llorente,16,8,1993,Madrid,Spain,1993-08-16,Defender - Centre-Back,186,right,Spain,,ES1,2019
+26065,miguel ángel moyá,2,4,1984,Binissalem,Spain,1984-04-02,Goalkeeper,189,right,Spain,,ES1,2019
+289286,luca sangalli,10,2,1995,San Sebastián,Spain,1995-02-10,midfield - Attacking Midfield,167,right,,Italy,ES1,2019
+580560,jon pacheco,8,1,2001,Elizondo,Spain,2001-01-08,Defender - Centre-Back,184,left,Spain,,ES1,2019
+561702,gaizka ayesa,2,4,2001,Ansoain,Spain,2001-04-02,Goalkeeper,182,right,Spain,,ES1,2019
+298589,david garcía,14,2,1994,Ibero,Spain,1994-02-14,Defender - Centre-Back,185,right,Spain,,ES1,2019
+298613,juan pérez,15,7,1996,Almudévar,Spain,1996-07-15,Goalkeeper,191,right,Spain,,ES1,2019
+85500,juan villar,19,5,1988,Aroche,Spain,1988-05-19,attack - Centre-Forward,182,right,Spain,,ES1,2019
+242532,rober ibáñez,22,3,1993,Valencia,Spain,1993-03-22,attack - Right Winger,175,right,Spain,,ES1,2019
+213260,rubén garcía,14,7,1993,Xàtiva,Spain,1993-07-14,attack - Right Winger,171,left,Spain,,ES1,2019
+248738,sergio herrera,5,6,1993,Miranda de Ebro,Spain,1993-06-05,Goalkeeper,192,,Spain,,ES1,2019
+311440,gorka zabarte,9,1,1999,Madrid,Spain,1999-01-09,Defender - Centre-Back,175,right,Spain,,ES1,2019
+548635,iñaki álvarez,18,6,1997,Pamplona,Spain,1997-06-18,Goalkeeper,181,,Spain,,ES1,2019
+62913,lillo castellano,27,3,1989,Aspe,Spain,1989-03-27,Defender - Right-Back,176,right,Spain,,ES1,2019
+364603,josé manuel arnáiz,15,4,1995,Talavera de la Reina,Spain,1995-04-15,attack - Left Winger,175,right,Spain,,ES1,2019
+458586,endika irigoyen,25,1,1997,Pamplona,Spain,1997-01-25,Defender - Left-Back,176,left,Spain,,ES1,2019
+142419,raúl navas,11,5,1988,Sevilla,Spain,1988-05-11,Defender - Centre-Back,187,right,Spain,,ES1,2019
+82503,aridane hernández,23,3,1989,Tuineje,Spain,1989-03-23,Defender - Centre-Back,188,right,Spain,,ES1,2019
+197122,unai garcía,3,9,1992,Esquiroz,Spain,1992-09-03,Defender - Centre-Back,186,left,Spain,,ES1,2019
+374082,antonio otegui,7,3,1998,Mendavia,Spain,1998-03-07,midfield - Central Midfield,174,right,,Morocco,ES1,2019
+251680,brandon thomas,4,2,1995,Santanyí,Spain,1995-02-04,attack - Centre-Forward,173,right,Spain,,ES1,2019
+63040,oier sanjurjo,25,5,1986,Estella-Lizarra,Spain,1986-05-25,midfield - Defensive Midfield,178,right,Spain,,ES1,2019
+349599,pervis estupiñán,21,1,1998,Esmeraldas,Ecuador,1998-01-21,Defender - Left-Back,175,left,,Spain,ES1,2019
+443222,marc cardona,8,7,1995,Lleida,Spain,1995-07-08,attack - Centre-Forward,183,right,Spain,,ES1,2019
+216870,nacho vidal,24,1,1995,El Campello,Spain,1995-01-24,Defender - Right-Back,180,right,Spain,,ES1,2019
+167721,chimy ávila,6,2,1994,Rosario,Argentina,1994-02-06,attack - Centre-Forward,172,left,Argentina,,ES1,2019
+71579,iñigo pérez,18,1,1988,Pamplona,Spain,1988-01-18,midfield - Central Midfield,178,left,Spain,,ES1,2019
+520757,josé hualde,28,4,1998,Pamplona,Spain,1998-04-28,attack - Left Winger,169,right,Spain,,ES1,2019
+298575,kike barja,4,4,1997,Noáin,Spain,1997-04-04,attack - Right Winger,179,right,Spain,,ES1,2019
+471474,javi martínez,22,12,1999,Ólvega,Spain,1999-12-22,midfield - Attacking Midfield,181,right,Spain,,ES1,2019
+45383,adrián lópez,8,1,1988,San Martín de Teverga,Spain,1988-01-08,attack - Centre-Forward,183,right,Spain,,ES1,2019
+95641,darko brasanac,12,2,1992,Čajetina,Jugoslawien (SFR),1992-02-12,midfield - Central Midfield,178,right,Serbia,,ES1,2019
+320271,toni lato,21,11,1997,La Pobla de Vallbona,Spain,1997-11-21,Defender - Left-Back,171,left,Spain,,ES1,2019
+63056,roberto torres,7,3,1989,Arre,Spain,1989-03-07,midfield - Attacking Midfield,178,right,Spain,,ES1,2019
+634131,aimar oroz,27,11,2001,Pamplona,Spain,2001-11-27,midfield - Attacking Midfield,177,right,Spain,,ES1,2019
+396328,luis perea,25,8,1997,Alcalá de Henares,Spain,1997-08-25,midfield - Defensive Midfield,191,,Spain,,ES1,2019
+514514,barbero,17,8,1998,Roquetas de Mar,Spain,1998-08-17,attack - Centre-Forward,186,right,Spain,,ES1,2019
+61546,facundo roncaglia,10,2,1987,Chajarí,Argentina,1987-02-10,Defender - Centre-Back,179,right,,Italy,ES1,2019
+42920,fran mérida,4,3,1990,Barcelona,Spain,1990-03-04,midfield - Central Midfield,173,left,Spain,,ES1,2019
+552425,jon moncayola,13,5,1998,Garinoain,Spain,1998-05-13,midfield - Central Midfield,182,right,Spain,,ES1,2019
+8184,rubén martínez,22,6,1984,Coristanco,Spain,1984-06-22,Goalkeeper,187,right,Spain,,ES1,2019
+65318,jaume costa,18,3,1988,Valencia,Spain,1988-03-18,Defender - Left-Back,171,left,Spain,,ES1,2019
+85383,rubén sobrino,1,6,1992,Daimiel,Spain,1992-06-01,attack - Centre-Forward,185,right,Spain,,ES1,2019
+372246,carlos soler,2,1,1997,Valencia,Spain,1997-01-02,midfield - Central Midfield,180,right,Spain,,ES1,2019
+163086,cristiano piccini,26,9,1992,Firenze,Italy,1992-09-26,Defender - Right-Back,189,right,Italy,,ES1,2019
+346289,mouctar diakhaby,19,12,1996,Vendôme,France,1996-12-19,Defender - Centre-Back,192,right,,Guinea,ES1,2019
+225122,gonçalo guedes,29,11,1996,Benavente,Portugal,1996-11-29,attack - Left Winger,179,right,Portugal,,ES1,2019
+398131,cristian rivero,21,3,1998,Gandia,Spain,1998-03-21,Goalkeeper,188,right,Spain,,ES1,2019
+130365,alessandro florenzi,11,3,1991,Roma,Italy,1991-03-11,Defender - Right-Back,173,right,Italy,,ES1,2019
+251860,javi jiménez,11,3,1997,Aldaia,Spain,1997-03-11,Defender - Centre-Back,182,,Spain,,ES1,2019
+622992,pablo gozálbez,30,4,2001,Valencia,Spain,2001-04-30,midfield - Attacking Midfield,,,Spain,,ES1,2019
+599263,vicente esquerdo,2,1,1999,Calp,Spain,1999-01-02,midfield - Attacking Midfield,180,left,Spain,,ES1,2019
+221322,josé gayà,25,5,1995,Pedreguer,Spain,1995-05-25,Defender - Left-Back,172,left,Spain,,ES1,2019
+557149,kang-in lee,19,2,2001,Incheon,"Korea, South",2001-02-19,midfield - Attacking Midfield,173,left,"Korea, South",,ES1,2019
+146227,jasper cillessen,22,4,1989,Nijmegen,Netherlands,1989-04-22,Goalkeeper,187,right,Netherlands,,ES1,2019
+396894,maxi gómez,14,8,1996,Paysandú,Uruguay,1996-08-14,attack - Centre-Forward,186,right,Uruguay,,ES1,2019
+35939,ezequiel garay,10,10,1986,Rosario,Argentina,1986-10-10,Defender - Centre-Back,188,right,,Spain,ES1,2019
+74869,francis coquelin,13,5,1991,Laval,France,1991-05-13,midfield - Defensive Midfield,177,right,France,,ES1,2019
+527350,manu vallejo,14,2,1997,Chiclana de la Frontera,Spain,1997-02-14,attack - Centre-Forward,167,right,Spain,,ES1,2019
+27389,kévin gameiro,9,5,1987,Senlis,France,1987-05-09,attack - Centre-Forward,172,right,France,,ES1,2019
+367466,thierry correia,9,3,1999,Amadora,Portugal,1999-03-09,Defender - Right-Back,176,right,,Cape Verde,ES1,2019
+63463,daniel wass,31,5,1989,Gladsaxe,Denmark,1989-05-31,Defender - Right-Back,178,right,Denmark,,ES1,2019
+398184,ferran torres,29,2,2000,Foios,Spain,2000-02-29,attack - Right Winger,184,right,Spain,,ES1,2019
+90681,eliaquim mangala,13,2,1991,Colombes,France,1991-02-13,Defender - Centre-Back,187,left,,Belgium,ES1,2019
+149498,gabriel paulista,26,11,1990,São Paulo,Brazil,1990-11-26,Defender - Centre-Back,187,right,,Spain,ES1,2019
+59561,dani parejo,16,4,1989,Coslada,Spain,1989-04-16,midfield - Central Midfield,182,right,Spain,,ES1,2019
+98322,denis cheryshev,26,12,1990,Nizhniy Novgorod,UdSSR,1990-12-26,attack - Left Winger,179,left,,Spain,ES1,2019
+282724,adriàn guerrero,28,1,1998,Blanes,Spain,1998-01-28,Defender - Left-Back,175,left,Spain,,ES1,2019
+602156,guillem molina,3,5,2000,Valls,Spain,2000-05-03,Defender - Centre-Back,183,right,Spain,,ES1,2019
+131505,rodrigo,6,3,1991,Rio de Janeiro,Brazil,1991-03-06,attack - Second Striker,182,left,,Brazil,ES1,2019
+569375,koba koindredi,27,10,2001,Djibouti,Djibouti,2001-10-27,midfield - Central Midfield,184,left,,France,ES1,2019
+227805,jaume doménech,5,11,1990,Almenara,Spain,1990-11-05,Goalkeeper,185,right,Spain,,ES1,2019
+127189,geoffrey kondogbia,15,2,1993,Nemours,France,1993-02-15,midfield - Defensive Midfield,188,left,,France,ES1,2019
+495629,hugo guillamón,31,1,2000,San Sebastián,Spain,2000-01-31,Defender - Centre-Back,182,right,Spain,,ES1,2019
+245048,vasyl kravets,20,8,1997,Lviv,Ukraine,1997-08-20,Defender - Left-Back,185,left,Ukraine,,ES1,2019
+425544,iván amores,27,5,1997,Madrid,Spain,1997-05-27,midfield - Central Midfield,170,,Spain,,ES1,2019
+113045,rubén pérez,26,4,1989,Écija,Spain,1989-04-26,midfield - Defensive Midfield,178,right,Spain,,ES1,2019
+456938,javier avilés,17,8,1997,Madrid,Spain,1997-08-17,attack - Right Winger,181,right,Spain,,ES1,2019
+610408,andré grandi,2,5,1997,Medianeira,Brazil,1997-05-02,Goalkeeper,193,right,,Italy,ES1,2019
+614195,dani plomer,30,11,1998,Palma de Mallorca,Spain,1998-11-30,attack - Left Winger,180,right,Spain,,ES1,2019
+358143,chidozie awaziem,1,1,1997,Enugu,Nigeria,1997-01-01,Defender - Centre-Back,189,right,Nigeria,,ES1,2019
+189453,jonathan silva,29,6,1994,La Plata,Argentina,1994-06-29,Defender - Left-Back,178,left,,Italy,ES1,2019
+203617,rodri tarín,5,7,1996,Chiva,Spain,1996-07-05,Defender - Centre-Back,183,right,Spain,,ES1,2019
+284884,óscar rodríguez,28,6,1998,Talavera de la Reina,Spain,1998-06-28,midfield - Attacking Midfield,174,right,Spain,,ES1,2019
+205503,ibrahim amadou,6,4,1993,Douala,Cameroon,1993-04-06,midfield - Defensive Midfield,183,right,,Cameroon,ES1,2019
+593480,aymane mourid,7,5,2000,Casablanca,Morocco,2000-05-07,midfield - Central Midfield,179,right,Morocco,,ES1,2019
+217728,alexander szymanowski,13,10,1988,Buenos Aires,Argentina,1988-10-13,attack - Left Winger,174,left,,Spain,ES1,2019
+27493,iván cuéllar,25,5,1984,Mérida,Spain,1984-05-25,Goalkeeper,187,left,Spain,,ES1,2019
+184672,guido carrillo,25,5,1991,Magdalena,Argentina,1991-05-25,attack - Centre-Forward,191,right,,Italy,ES1,2019
+789328,manu garrido,10,6,2000,Madrid,Spain,2000-06-10,attack - Centre-Forward,190,right,Spain,,ES1,2019
+131708,kenneth omeruo,17,10,1993,"Obuohia Okike, Abia State",Nigeria,1993-10-17,Defender - Centre-Back,185,right,Nigeria,,ES1,2019
+433049,youssef en-nesyri,1,6,1997,Fès,Morocco,1997-06-01,attack - Centre-Forward,189,left,Morocco,,ES1,2019
+49500,roberto rosales,20,11,1988,Caracas,Venezuela,1988-11-20,Defender - Right-Back,174,right,,Spain,ES1,2019
+192736,sabin merino,4,1,1992,Urduliz,Spain,1992-01-04,attack - Centre-Forward,187,right,Spain,,ES1,2019
+156814,javi eraso,22,3,1990,Pamplona,Spain,1990-03-22,midfield - Attacking Midfield,180,right,Spain,,ES1,2019
+52403,dimitrios siovas,16,9,1988,Drama,Greece,1988-09-16,Defender - Centre-Back,191,left,Greece,,ES1,2019
+523968,mario del campo,31,1,1999,Madrid,Spain,1999-01-31,Defender - Left-Back,183,,Spain,,ES1,2019
+335245,marc navarro,2,7,1995,Barcelona,Spain,1995-07-02,Defender - Right-Back,188,right,Spain,,ES1,2019
+727136,iván lópez,8,8,1998,Madrid,Spain,1998-08-08,Defender - Centre-Back,186,right,Spain,,ES1,2019
+263183,roger assalé,13,11,1993,Abengourou,Cote d'Ivoire,1993-11-13,attack - Centre-Forward,167,right,Cote d'Ivoire,,ES1,2019
+251892,juan soriano,23,8,1997,Benacazón,Spain,1997-08-23,Goalkeeper,185,,Spain,,ES1,2019
+202984,roque mesa,7,6,1989,Telde,Spain,1989-06-07,midfield - Central Midfield,172,right,Spain,,ES1,2019
+309980,fede varela,18,4,1997,Buenos Aires,Argentina,1997-04-18,midfield - Attacking Midfield,174,right,,Spain,ES1,2019
+378139,aitor ruibal,22,3,1996,Sallent de Llobregat,Spain,1996-03-22,attack - Right Winger,176,right,Spain,,ES1,2019
+374077,christian rivera,9,7,1997,Gijón,Spain,1997-07-09,midfield - Central Midfield,191,right,Spain,,ES1,2019
+156808,unai bustinza,2,2,1992,Bilbao,Spain,1992-02-02,Defender - Centre-Back,175,right,Spain,,ES1,2019
+137704,miguel ángel guerrero,12,7,1990,Toledo,Spain,1990-07-12,attack - Centre-Forward,180,right,Spain,,ES1,2019
+150948,recio,11,1,1991,Málaga,Spain,1991-01-11,midfield - Central Midfield,183,right,Spain,,ES1,2019
+497225,pablo lombo,24,5,1999,Madrid,Spain,1999-05-24,Goalkeeper,184,right,Spain,,ES1,2019
+537382,bryan gil,11,2,2001,Barbate (Cádiz),Spain,2001-02-11,attack - Left Winger,175,left,Spain,,ES1,2019
+193784,carlos clerc,21,2,1992,Badalona,Spain,1992-02-21,Defender - Left-Back,181,left,Spain,,ES1,2019
+175323,óscar duarte,3,6,1989,Catarina,Nicaragua,1989-06-03,Defender - Centre-Back,186,right,,Spain,ES1,2019
+151470,nikola vukcevic,13,12,1991,Podgorica,Jugoslawien (SFR),1991-12-13,midfield - Defensive Midfield,187,left,Montenegro,,ES1,2019
+67548,rubén rochina,23,3,1991,Sagunt,Spain,1991-03-23,attack - Right Winger,182,left,Spain,,ES1,2019
+397676,dani cárdenas,28,3,1997,Terrassa,Spain,1997-03-28,Goalkeeper,185,right,Spain,,ES1,2019
+71905,coke,26,4,1987,Madrid,Spain,1987-04-26,Defender - Right-Back,176,right,Spain,,ES1,2019
+203778,iván lópez,23,8,1993,Valencia,Spain,1993-08-23,Defender - Right-Back,175,right,Spain,,ES1,2019
+158791,sergio postigo,4,11,1988,Madrid,Spain,1988-11-04,Defender - Centre-Back,185,right,Spain,,ES1,2019
+299715,koke vegas,27,9,1995,Antequera,Spain,1995-09-27,Goalkeeper,188,right,Spain,,ES1,2019
+568835,pablo martínez,22,2,1998,Madrid,Spain,1998-02-22,midfield - Central Midfield,182,right,Spain,,ES1,2019
+212391,roger martí,3,1,1991,Torrent,Spain,1991-01-03,attack - Centre-Forward,179,right,Spain,,ES1,2019
+298976,borja mayoral,5,4,1997,Parla,Spain,1997-04-05,attack - Centre-Forward,182,right,Spain,,ES1,2019
+145769,sergio león,6,1,1989,La Palma del Río,Spain,1989-01-06,attack - Centre-Forward,176,right,Spain,,ES1,2019
+228917,jorge miramón,2,6,1989,Zaragoza,Spain,1989-06-02,Defender - Right-Back,175,right,Spain,,ES1,2019
+536152,gonzalo pereira,14,2,1997,Barcelona,Spain,1997-02-14,Defender - Centre-Back,,,Spain,,ES1,2019
+125931,toño garcía,7,11,1989,Alcalá de Henares,Spain,1989-11-07,Defender - Left-Back,180,left,Spain,,ES1,2019
+396115,eliseo falcón,11,2,1997,Sevilla,Spain,1997-02-11,Defender - Centre-Back,186,right,Spain,,ES1,2019
+118997,aitor fernández,3,5,1991,Arrasate,Spain,1991-05-03,Goalkeeper,182,right,Spain,,ES1,2019
+172142,hernâni,20,8,1991,Lisboa,Portugal,1991-08-20,attack - Right Winger,180,left,,Cape Verde,ES1,2019
+611198,álex blesa,15,1,2002,València,Spain,2002-01-15,midfield - Central Midfield,180,left,Spain,,ES1,2019
+245014,enis bardhi,2,7,1995,Skopje,Macedonia,1995-07-02,midfield - Attacking Midfield,172,right,North Macedonia,,ES1,2019
+361238,rubén garcía,23,10,1998,Elche,Spain,1998-10-23,Defender - Right-Back,180,right,Spain,,ES1,2019
+252677,josé luis morales,23,7,1987,Madrid,Spain,1987-07-23,attack - Centre-Forward,180,right,Spain,,ES1,2019
+168959,nemanja radoja,6,2,1993,Novi Sad,Yugoslavia (Republic),1993-02-06,midfield - Defensive Midfield,186,right,Serbia,,ES1,2019
+162056,gonzalo melero,2,1,1994,Madrid,Spain,1994-01-02,midfield - Central Midfield,183,right,Spain,,ES1,2019
+445631,joan monterde,18,12,1997,Port de Sagunt,Spain,1997-12-18,attack - Right Winger,168,right,Spain,,ES1,2019
+257851,rúben vezo,25,4,1994,Setúbal,Portugal,1994-04-25,Defender - Centre-Back,182,right,,Cape Verde,ES1,2019
+387129,rober pier,16,2,1995,A Coruña,Spain,1995-02-16,Defender - Centre-Back,182,right,Spain,,ES1,2019
+405564,giorgi kochorashvili,29,6,1999,Tiflis,Georgia,1999-06-29,midfield - Central Midfield,176,right,Georgia,,ES1,2019
+120095,josé campaña,31,5,1993,Sevilla,Spain,1993-05-31,midfield - Central Midfield,179,right,Spain,,ES1,2019
+411975,jules koundé,12,11,1998,Paris,France,1998-11-12,Defender - Centre-Back,178,right,,Benin,ES1,2019
+51174,fernando reges,25,7,1987,Brasília,Brazil,1987-07-25,midfield - Defensive Midfield,183,right,,Portugal,ES1,2019
+387321,felipe chacartegui,23,2,1998,Cádiz,Spain,1998-02-23,Defender - Left-Back,179,left,Spain,,ES1,2019
+174694,rony lopes,28,12,1995,Belém,Brazil,1995-12-28,attack - Right Winger,174,left,,Brazil,ES1,2019
+207834,bono,5,4,1991,Montreal,Canada,1991-04-05,Goalkeeper,192,left,,Canada,ES1,2019
+111961,suso,19,11,1993,Cádiz,Spain,1993-11-19,attack - Right Winger,177,left,Spain,,ES1,2019
+223725,munir el haddadi,1,9,1995,El Escorial,Spain,1995-09-01,attack - Centre-Forward,175,left,,Spain,ES1,2019
+93935,sergio escudero,2,9,1989,Valladolid,Spain,1989-09-02,Defender - Left-Back,176,left,Spain,,ES1,2019
+37712,daniel carriço,4,8,1988,Cascais,Portugal,1988-08-04,Defender - Centre-Back,183,right,Portugal,,ES1,2019
+15956,jesús navas,21,11,1985,Los Palacios y Villafranca,Spain,1985-11-21,Defender - Right-Back,172,right,Spain,,ES1,2019
+50935,chicharito,1,6,1988,Guadalajara,Mexico,1988-06-01,attack - Centre-Forward,175,right,Mexico,,ES1,2019
+12249,éver banega,29,6,1988,Rosario,Argentina,1988-06-29,midfield - Central Midfield,174,right,,Spain,ES1,2019
+214775,óliver torres,10,11,1994,Navalmoral de la Mata,Spain,1994-11-10,midfield - Central Midfield,175,right,Spain,,ES1,2019
+74294,nemanja gudelj,16,11,1991,Belgrad,Jugoslawien (SFR),1991-11-16,midfield - Defensive Midfield,187,right,,Netherlands,ES1,2019
+282429,sergio reguilón,16,12,1996,Madrid,Spain,1996-12-16,Defender - Left-Back,178,left,Spain,,ES1,2019
+189441,lucas ocampos,11,7,1994,Quilmes,Argentina,1994-07-11,attack - Left Winger,187,both,,Spain,ES1,2019
+396107,javi díaz,15,5,1997,Mairena del Aljarafe,Spain,1997-05-15,Goalkeeper,185,right,Spain,,ES1,2019
+676042,juanlu sánchez,15,8,2003,Montequinto,Spain,2003-08-15,attack - Right Winger,186,right,Spain,,ES1,2019
+461858,josé alonso lara,7,3,2000,Sevilla,Spain,2000-03-07,attack - Left Winger,162,right,Spain,,ES1,2019
+396109,genaro rodríguez,23,3,1998,Gerena,Spain,1998-03-23,Defender - Centre-Back,184,right,Spain,,ES1,2019
+64000,tomas vaclik,29,3,1989,Ostrava,CSSR,1989-03-29,Goalkeeper,188,right,Czech Republic,,ES1,2019
+72522,luuk de jong,27,8,1990,Aigle,Switzerland,1990-08-27,attack - Centre-Forward,188,right,Netherlands,,ES1,2019
+92947,sergi gómez,28,3,1992,Arenys de Mar,Spain,1992-03-28,Defender - Centre-Back,185,right,Spain,,ES1,2019
+145866,munas dabbur,14,5,1992,Nazareth,Israel,1992-05-14,attack - Centre-Forward,182,right,Israel,,ES1,2019
+263727,joan jordán,6,7,1994,Palafrugell,Spain,1994-07-06,midfield - Central Midfield,185,right,Spain,,ES1,2019
+396145,pepe mena,15,5,1998,Utrera,Spain,1998-05-15,midfield - Attacking Midfield,175,right,Spain,,ES1,2019
+329145,diego carlos,15,3,1993,Barra Bonita (SP),Brazil,1993-03-15,Defender - Centre-Back,186,right,Brazil,,ES1,2019
+207302,sergio rico,1,9,1993,Sevilla,Spain,1993-09-01,Goalkeeper,195,right,Spain,,ES1,2019
+76163,franco vázquez,22,2,1989,Tanti,Argentina,1989-02-22,midfield - Attacking Midfield,187,left,,Italy,ES1,2019
+537367,alfonso pastor,4,10,2000,Bujalance,Spain,2000-10-04,Goalkeeper,190,right,Spain,,ES1,2019
+711628,pablo pérez,18,8,2001,Madrid,Spain,2001-08-18,Defender - Left-Back,174,left,Spain,,ES1,2019
+46110,ljubomir fejsa,14,8,1988,Kula,Jugoslawien (SFR),1988-08-14,midfield - Defensive Midfield,183,right,Serbia,,ES1,2019
+263856,víctor camarasa,28,5,1994,Meliana,Spain,1994-05-28,midfield - Central Midfield,183,right,Spain,,ES1,2019
+249730,guillermo maripán,6,5,1994,Vitacura,Chile,1994-05-06,Defender - Centre-Back,193,right,Chile,,ES1,2019
+172015,fernando pacheco,18,5,1992,Badajoz,Spain,1992-05-18,Goalkeeper,185,left,Spain,,ES1,2019
+634461,borja sainz,1,2,2001,Leioa,Spain,2001-02-01,attack - Left Winger,174,right,Spain,,ES1,2019
+425028,josé luis rodríguez,19,6,1998,Panama City,Panama,1998-06-19,attack - Left Winger,180,left,Panama,,ES1,2019
+582718,aritz castro,20,5,1998,Vitoria-Gasteiz,Spain,1998-05-20,Goalkeeper,187,right,Spain,,ES1,2019
+176140,rodrigo ely,3,11,1993,Lajeado RS,Brazil,1993-11-03,Defender - Centre-Back,188,right,,Italy,ES1,2019
+246277,burgui,29,10,1993,Burguillos del Cerro,Spain,1993-10-29,attack - Left Winger,186,right,Spain,,ES1,2019
+261502,paulino de la fuente,27,6,1997,Santander,Spain,1997-06-27,midfield - Attacking Midfield,184,left,Spain,,ES1,2019
+81999,joselu,27,3,1990,Stuttgart,Germany,1990-03-27,attack - Centre-Forward,192,right,Spain,,ES1,2019
+184767,ximo navarro,23,1,1990,Guadahortuna,Spain,1990-01-23,Defender - Right-Back,176,right,Spain,,ES1,2019
+139895,tomás pina,14,10,1987,Ciudad Real,Spain,1987-10-14,midfield - Central Midfield,185,right,Spain,,ES1,2019
+66736,lisandro magallán,27,9,1993,La Plata,Argentina,1993-09-27,Defender - Centre-Back,185,right,,Italy,ES1,2019
+76273,manu garcía,26,4,1986,Vitoria-Gasteiz,Spain,1986-04-26,midfield - Defensive Midfield,183,left,Spain,,ES1,2019
+278837,luis rioja,16,10,1993,Sevilla,Spain,1993-10-16,attack - Left Winger,176,left,Spain,,ES1,2019
+282421,javi muñoz,28,2,1995,Parla,Spain,1995-02-28,midfield - Central Midfield,179,right,Spain,,ES1,2019
+351746,rafa navarro,24,2,1994,Valencina de la Concepción,Spain,1994-02-24,Defender - Right-Back,173,right,Spain,,ES1,2019
+375710,jeando fuchs,11,10,1997,Yaoundé,Cameroon,1997-10-11,midfield - Defensive Midfield,174,right,,France,ES1,2019
+177046,rubén duarte,18,10,1995,Almería,Spain,1995-10-18,Defender - Left-Back,179,left,Spain,,ES1,2019
+93142,dani torres,15,11,1989,Caquezá,Colombia,1989-11-15,midfield - Defensive Midfield,183,,Colombia,,ES1,2019
+242497,pere pons,20,2,1993,Sant Martí Vell,Spain,1993-02-20,midfield - Defensive Midfield,177,right,Spain,,ES1,2019
+88490,aleix vidal,21,8,1989,Valls,Spain,1989-08-21,Defender - Right-Back,177,right,Spain,,ES1,2019
+615636,abdallahi mahmoud,4,5,2000,"Dar Naim, Nouakchott",Mauritania,2000-05-04,midfield - Central Midfield,187,,Mauritania,,ES1,2019
+568158,javi lópez,25,3,2002,Santa Cruz de Tenerife,Spain,2002-03-25,Defender - Left-Back,183,left,Spain,,ES1,2019
+354697,tachi,10,9,1997,Fuenlabrada,Spain,1997-09-10,Defender - Centre-Back,184,right,Spain,,ES1,2019
+133794,edgar méndez,2,1,1990,Arafo,Spain,1990-01-02,attack - Right Winger,187,right,Spain,,ES1,2019
+341317,oliver burke,7,4,1997,Kirkcaldy,Scotland,1997-04-07,attack - Centre-Forward,188,right,Scotland,,ES1,2019
+98596,john guidetti,15,4,1992,Stockholm,Sweden,1992-04-15,attack - Centre-Forward,185,right,Sweden,,ES1,2019
+37403,roberto,10,2,1986,Madrid,Spain,1986-02-10,Goalkeeper,192,right,Spain,,ES1,2019
+483573,martín aguirregabiria,10,5,1996,Vitoria,Spain,1996-05-10,Defender - Right-Back,180,right,Spain,,ES1,2019
+67080,víctor laguardia,5,11,1989,Zaragoza,Spain,1989-11-05,Defender - Centre-Back,183,right,Spain,,ES1,2019
+298197,antonio sivera,11,8,1996,Xàbia,Spain,1996-08-11,Goalkeeper,185,right,Spain,,ES1,2019
+295414,adrián marín,9,1,1997,Torre-Pacheco,Spain,1997-01-09,Defender - Left-Back,181,left,Spain,,ES1,2019
+73185,lucas pérez,10,9,1988,A Coruña,Spain,1988-09-10,attack - Centre-Forward,180,left,Spain,,ES1,2019
+45639,mubarak wakaso,25,7,1990,Tamale,Ghana,1990-07-25,midfield - Central Midfield,171,left,Ghana,,ES1,2019

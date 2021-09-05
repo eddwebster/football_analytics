@@ -1,0 +1,516 @@
+player_id,player_name,day_of_birth,month_of_birth,year_of_birth,pob,cob,dob,position,height,foot,citizenship,second_citizenship,league_code,season
+229804,aritz elustondo,28,3,1994,Beasain,Spain,1994-03-28,Defender - Centre-Back,182,right,Spain,,ES1,2021
+289255,andoni gorosabel,4,8,1996,Arrasate,Spain,1996-08-04,Defender - Right-Back,174,right,Spain,,ES1,2021
+128969,mathew ryan,8,4,1992,Plumpton,Australia,1992-04-08,Goalkeeper,184,right,,England,ES1,2021
+355628,igor zubeldia,30,3,1997,Azkoitia,Spain,1997-03-30,midfield - Defensive Midfield,181,right,Spain,,ES1,2021
+43003,nacho monreal,26,2,1986,Pamplona,Spain,1986-02-26,Defender - Left-Back,179,left,Spain,,ES1,2021
+616369,ander barrenetxea,27,12,2001,Donostia-San Sebastián,Spain,2001-12-27,attack - Left Winger,175,right,Spain,,ES1,2021
+197135,joseba zaldua,24,6,1992,Donostia-San Sebastián,Spain,1992-06-24,Defender - Right-Back,176,right,Spain,,ES1,2021
+289257,jon guridi,28,2,1995,Azpeitia,Spain,1995-02-28,midfield - Central Midfield,179,left,Spain,,ES1,2021
+351809,robin le normand,11,11,1996,Pabu,France,1996-11-11,Defender - Centre-Back,187,right,France,,ES1,2021
+212862,álex remiro,24,3,1995,Cascante,Spain,1995-03-24,Goalkeeper,191,right,Spain,,ES1,2021
+349066,alexander isak,21,9,1999,Solna,Sweden,1999-09-21,attack - Centre-Forward,192,right,,Eritrea,ES1,2021
+35518,david silva,8,1,1986,Arguineguín,Spain,1986-01-08,midfield - Attacking Midfield,170,left,Spain,,ES1,2021
+338424,mikel merino,22,6,1996,Pamplona,Spain,1996-06-22,midfield - Central Midfield,189,left,Spain,,ES1,2021
+465967,ander guevara,7,7,1997,Vitoria-Gasteiz,Spain,1997-07-07,midfield - Central Midfield,180,right,Spain,,ES1,2021
+59344,asier illarramendi,8,3,1990,Mutriku,Spain,1990-03-08,midfield - Defensive Midfield,179,right,Spain,,ES1,2021
+177847,adnan januzaj,5,2,1995,Brussel,Belgium,1995-02-05,attack - Right Winger,186,left,,Kosovo,ES1,2021
+517842,aihen muñoz,16,8,1997,Etxauri,Spain,1997-08-16,Defender - Left-Back,175,left,Spain,,ES1,2021
+289236,jon bautista,3,7,1995,Mahón,Spain,1995-07-03,attack - Centre-Forward,180,right,Spain,,ES1,2021
+563137,robert navarro,12,4,2002,Barcelona,Spain,2002-04-12,midfield - Attacking Midfield,178,right,Spain,,ES1,2021
+423440,martín zubimendi,2,2,1999,San Sebastián,Spain,1999-02-02,midfield - Defensive Midfield,181,right,Spain,,ES1,2021
+524925,modibo sagnan,14,4,1999,Saint-Denis,France,1999-04-14,Defender - Centre-Back,187,left,,Mali,ES1,2021
+351478,mikel oyarzabal,21,4,1997,Eibar,Spain,1997-04-21,attack - Left Winger,181,left,Spain,,ES1,2021
+99353,portu,21,5,1992,Beniel,Spain,1992-05-21,attack - Right Winger,167,right,Spain,,ES1,2021
+216464,carlos fernández,22,5,1996,Castilleja de Guzmán,Spain,1996-05-22,attack - Centre-Forward,185,left,Spain,,ES1,2021
+122155,willian josé,23,11,1991,Porto Calvo,Brazil,1991-11-23,attack - Centre-Forward,189,right,,Spain,ES1,2021
+249513,diego rico,23,2,1993,Burgos,Spain,1993-02-23,Defender - Left-Back,183,left,Spain,,ES1,2021
+580560,jon pacheco,8,1,2001,Elizondo,Spain,2001-01-08,Defender - Centre-Back,184,left,Spain,,ES1,2021
+85288,isco,21,4,1992,Benalmádena,Spain,1992-04-21,midfield - Attacking Midfield,176,right,Spain,,ES1,2021
+108390,thibaut courtois,11,5,1992,Bree,Belgium,1992-05-11,Goalkeeper,200,left,Belgium,,ES1,2021
+291417,ferland mendy,8,6,1995,Meulan-en-Yvelines,France,1995-06-08,Defender - Left-Back,180,left,,Senegal,ES1,2021
+44501,marcelo,12,5,1988,Rio de Janeiro,Brazil,1988-05-12,Defender - Left-Back,174,left,,Spain,ES1,2021
+18922,karim benzema,19,12,1987,Lyon,France,1987-12-19,attack - Centre-Forward,184,both,,Algeria,ES1,2021
+401530,éder militão,18,1,1998,Sertãozinho,Brazil,1998-01-18,Defender - Centre-Back,186,right,Brazil,,ES1,2021
+39381,gareth bale,16,7,1989,Cardiff,Wales,1989-07-16,attack - Right Winger,185,left,Wales,,ES1,2021
+257462,luka jovic,23,12,1997,Bijeljina,Bosnia-Herzegovina,1997-12-23,attack - Centre-Forward,182,both,Serbia,,ES1,2021
+31909,toni kroos,4,1,1990,Greifswald,DDR,1990-01-04,midfield - Central Midfield,183,right,Germany,,ES1,2021
+27992,luka modric,9,9,1985,Zadar,Jugoslawien (SFR),1985-09-09,midfield - Central Midfield,172,both,Croatia,,ES1,2021
+138927,daniel carvajal,11,1,1992,Leganés,Spain,1992-01-11,Defender - Right-Back,173,right,Spain,,ES1,2021
+221316,lucas vázquez,1,7,1991,A Coruña,Spain,1991-07-01,attack - Right Winger,173,right,Spain,,ES1,2021
+58884,nacho fernández,18,1,1990,Madrid,Spain,1990-01-18,Defender - Centre-Back,180,right,Spain,,ES1,2021
+280730,álvaro odriozola,14,12,1995,San Sebastián,Spain,1995-12-14,Defender - Right-Back,176,right,Spain,,ES1,2021
+412363,rodrygo,9,1,2001,Osasco,Brazil,2001-01-09,attack - Right Winger,174,right,Brazil,,ES1,2021
+59016,david alaba,24,6,1992,Wien,Austria,1992-06-24,Defender - Centre-Back,180,left,Austria,,ES1,2021
+404839,andriy lunin,11,2,1999,"Krasnograd, Kharkiv Region",Ukraine,1999-02-11,Goalkeeper,191,right,Ukraine,,ES1,2021
+371998,vinícius júnior,12,7,2000,São Gonçalo,Brazil,2000-07-12,attack - Left Winger,176,right,Brazil,,ES1,2021
+319745,dani ceballos,7,8,1996,Utrera,Spain,1996-08-07,midfield - Central Midfield,179,right,Spain,,ES1,2021
+369081,federico valverde,22,7,1998,Montevideo,Uruguay,1998-07-22,midfield - Central Midfield,182,right,,Spain,ES1,2021
+50202,eden hazard,7,1,1991,La Louvière,Belgium,1991-01-07,attack - Left Winger,175,right,Belgium,,ES1,2021
+296622,marco asensio,21,1,1996,Palma de Mallorca,Spain,1996-01-21,attack - Right Winger,182,left,,Netherlands,ES1,2021
+251896,jesús vallejo,5,1,1997,Zaragoza,Spain,1997-01-05,Defender - Centre-Back,184,right,Spain,,ES1,2021
+225020,mariano díaz,1,8,1993,Premià de Mar,Spain,1993-08-01,attack - Centre-Forward,180,right,,Spain,ES1,2021
+16306,casemiro,23,2,1992,São José dos Campos,Brazil,1992-02-23,midfield - Defensive Midfield,185,right,,Spain,ES1,2021
+65318,jaume costa,18,3,1988,Valencia,Spain,1988-03-18,Defender - Left-Back,171,left,Spain,,ES1,2021
+29051,manolo reina,1,4,1985,Villanueva del Trabuco,Spain,1985-04-01,Goalkeeper,186,right,Spain,,ES1,2021
+277384,martin valjent,11,12,1995,Dubnica nad Váhom,Slovakia,1995-12-11,Defender - Centre-Back,187,right,Slovakia,,ES1,2021
+562742,leo román,6,7,2000,Ibiza,Spain,2000-07-06,Goalkeeper,,,Spain,,ES1,2021
+505673,víctor mollejo,21,1,2001,Alcázar de San Juan,Spain,2001-01-21,attack - Right Winger,176,left,Spain,,ES1,2021
+126751,iñigo ruiz de galarreta,6,8,1993,Donostia-San Sebastián,Spain,1993-08-06,midfield - Central Midfield,175,right,Spain,,ES1,2021
+237499,aleksandar sedlar,13,12,1991,Novi Sad,Jugoslawien (SFR),1991-12-13,Defender - Centre-Back,180,,Serbia,,ES1,2021
+350364,joan sastre,30,4,1997,Palma de Mallorca,Spain,1997-04-30,Defender - Right-Back,174,right,Spain,,ES1,2021
+100722,lago júnior,31,12,1990,Yamoussoukro,Cote d'Ivoire,1990-12-31,attack - Left Winger,180,right,Cote d'Ivoire,,ES1,2021
+331498,jordi mboula,16,3,1999,Granollers,Spain,1999-03-16,attack - Right Winger,183,right,,Congo,ES1,2021
+278296,antonio raíllo,8,10,1991,Córdoba,Spain,1991-10-08,Defender - Centre-Back,187,,Spain,,ES1,2021
+139435,dani rodríguez,6,6,1988,Betanzos,Spain,1988-06-06,midfield - Attacking Midfield,178,right,Spain,,ES1,2021
+89297,rodrigo battaglia,12,7,1991,Morón,Argentina,1991-07-12,midfield - Central Midfield,187,right,,Italy,ES1,2021
+316884,dominik greif,6,4,1997,Bratislava,Slovakia,1997-04-06,Goalkeeper,197,,Slovakia,,ES1,2021
+339820,amath ndiaye,16,7,1996,Dakar,Senegal,1996-07-16,attack - Left Winger,173,right,Senegal,,ES1,2021
+513031,antonio sánchez,22,4,1997,Palma de Mallorca,Spain,1997-04-22,midfield - Central Midfield,179,right,Spain,,ES1,2021
+142920,aleksandar trajkovski,5,9,1992,Skopje,Macedonia,1992-09-05,attack - Left Winger,179,right,North Macedonia,,ES1,2021
+58799,salva sevilla,18,3,1984,Berja,Spain,1984-03-18,midfield - Central Midfield,178,right,Spain,,ES1,2021
+251876,pablo maffeo,12,7,1997,Sant Joan Despí,Spain,1997-07-12,Defender - Right-Back,172,right,Spain,,ES1,2021
+51510,ángel rodríguez,26,4,1987,Santa Cruz de Tenerife,Spain,1987-04-26,attack - Centre-Forward,171,right,Spain,,ES1,2021
+217144,aleix febas,22,2,1996,Lleida,Spain,1996-02-22,midfield - Central Midfield,172,right,Spain,,ES1,2021
+177452,abdón prats,7,12,1992,Artà,Spain,1992-12-07,attack - Centre-Forward,181,left,Spain,,ES1,2021
+378463,franco russo,25,10,1994,Buenos Aires,Argentina,1994-10-25,Defender - Centre-Back,186,right,,Italy,ES1,2021
+627294,fer niño,24,10,2000,Rota,Spain,2000-10-24,attack - Centre-Forward,190,right,Spain,,ES1,2021
+442805,iddrisu baba,22,1,1996,Accra,Ghana,1996-01-22,midfield - Central Midfield,182,right,Ghana,,ES1,2021
+405398,takefusa kubo,4,6,2001,"Kawasaki, Kanagawa",Japan,2001-06-04,attack - Right Winger,173,left,Japan,,ES1,2021
+166677,brian oliván,1,4,1994,Barcelona,Spain,1994-04-01,Defender - Left-Back,175,left,Spain,,ES1,2021
+330684,luis abram,27,2,1996,Lima,Peru,1996-02-27,Defender - Centre-Back,181,left,,Italy,ES1,2021
+487688,alberto soro,9,3,1999,Ejea de los Caballeros,Spain,1999-03-09,attack - Right Winger,173,left,Spain,,ES1,2021
+57825,jorge molina,22,4,1982,Alcoi,Spain,1982-04-22,attack - Centre-Forward,188,right,Spain,,ES1,2021
+223053,quini,24,9,1989,Córdoba,Spain,1989-09-24,Defender - Right-Back,178,right,Spain,,ES1,2021
+67548,rubén rochina,23,3,1991,Sagunt,Spain,1991-03-23,attack - Right Winger,182,left,Spain,,ES1,2021
+367464,luís maximiano,5,1,1999,Celeirós,Portugal,1999-01-05,Goalkeeper,190,both,Portugal,,ES1,2021
+131667,ramon azeez,12,12,1992,Abuja,Nigeria,1992-12-12,midfield - Central Midfield,170,right,Nigeria,,ES1,2021
+284430,aarón escandell,27,9,1995,Carcaixent,Spain,1995-09-27,Goalkeeper,185,right,Spain,,ES1,2021
+424784,luis suárez,2,12,1997,Santa Marta,Colombia,1997-12-02,attack - Centre-Forward,185,right,,Spain,ES1,2021
+257376,domingos duarte,10,3,1995,Cascais,Portugal,1995-03-10,Defender - Centre-Back,192,right,Portugal,,ES1,2021
+58330,víctor díaz,12,6,1988,Sevilla,Spain,1988-06-12,Defender - Right-Back,183,right,Spain,,ES1,2021
+297784,yan eteki,26,8,1997,Yaoundé,Cameroon,1997-08-26,midfield - Central Midfield,182,right,,Spain,ES1,2021
+211251,darwin machís,7,2,1993,Tucupita,Venezuela,1993-02-07,attack - Left Winger,171,right,,Spain,ES1,2021
+59551,ángel montoro,25,6,1988,Valencia,Spain,1988-06-25,midfield - Central Midfield,180,right,Spain,,ES1,2021
+262365,antonio puertas,21,2,1992,Benahadux,Spain,1992-02-21,attack - Right Winger,183,right,Spain,,ES1,2021
+95963,germán sánchez,12,12,1986,San Fernando (Cádiz),Spain,1986-12-12,Defender - Centre-Back,187,right,Spain,,ES1,2021
+448844,carlos neva,12,6,1996,El Puerto de Santa María,Spain,1996-06-12,Defender - Left-Back,174,left,Spain,,ES1,2021
+500191,pepe sánchez,2,3,2000,Linares,Spain,2000-03-02,Defender - Right-Back,185,right,Spain,,ES1,2021
+281989,luis milla,7,10,1994,Madrid,Spain,1994-10-07,midfield - Central Midfield,175,right,Spain,,ES1,2021
+60542,maxime gonalons,10,3,1989,Vénissieux,France,1989-03-10,midfield - Defensive Midfield,187,right,France,,ES1,2021
+119235,carlos bacca,8,9,1986,Puerto Colombia,Colombia,1986-09-08,attack - Centre-Forward,181,right,Colombia,,ES1,2021
+468700,neyder lozano,4,3,1994,Quibdó,Colombia,1994-03-04,Defender - Centre-Back,185,left,,Spain,ES1,2021
+295414,adrián marín,9,1,1997,Torre-Pacheco,Spain,1997-01-09,Defender - Left-Back,181,left,Spain,,ES1,2021
+282727,monchu,13,9,1999,Palma de Mallorca,Spain,1999-09-13,midfield - Central Midfield,173,right,Spain,,ES1,2021
+170472,dimitri foulquier,23,3,1993,Sarcelles,France,1993-03-23,Defender - Right-Back,183,right,,France,ES1,2021
+172015,fernando pacheco,18,5,1992,Badajoz,Spain,1992-05-18,Goalkeeper,185,left,Spain,,ES1,2021
+676318,facundo pellistri,20,12,2001,Montevideo,Uruguay,2001-12-20,attack - Right Winger,174,right,,Spain,ES1,2021
+81999,joselu,27,3,1990,Stuttgart,Germany,1990-03-27,attack - Centre-Forward,192,right,Spain,,ES1,2021
+249471,saúl garcía,9,11,1994,Vioño,Spain,1994-11-09,Defender - Left-Back,182,left,Spain,,ES1,2021
+184767,ximo navarro,23,1,1990,Guadahortuna,Spain,1990-01-23,Defender - Right-Back,176,right,Spain,,ES1,2021
+166683,mamadou sylla,20,3,1994,Kedougou,Senegal,1994-03-20,attack - Centre-Forward,184,right,,Spain,ES1,2021
+364237,mamadou loum,30,12,1996,Dakar,Senegal,1996-12-30,midfield - Defensive Midfield,188,right,Senegal,,ES1,2021
+139895,tomás pina,14,10,1987,Ciudad Real,Spain,1987-10-14,midfield - Central Midfield,185,right,Spain,,ES1,2021
+295065,toni moya,20,3,1998,Mérida,Spain,1998-03-20,midfield - Central Midfield,185,right,Spain,,ES1,2021
+278837,luis rioja,16,10,1993,Sevilla,Spain,1993-10-16,attack - Left Winger,176,left,Spain,,ES1,2021
+341278,iván martín,14,2,1999,Bilbao,Spain,1999-02-14,midfield - Attacking Midfield,178,left,Spain,,ES1,2021
+177046,rubén duarte,18,10,1995,Almería,Spain,1995-10-18,Defender - Left-Back,179,left,Spain,,ES1,2021
+242497,pere pons,20,2,1993,Sant Martí Vell,Spain,1993-02-20,midfield - Defensive Midfield,177,right,Spain,,ES1,2021
+396324,carlos isaac,30,4,1998,Navalmoral de la Mata,Spain,1998-04-30,Defender - Right-Back,184,right,Spain,,ES1,2021
+277118,manu garcía,2,1,1998,Oviedo,Spain,1998-01-02,midfield - Attacking Midfield,169,right,Spain,,ES1,2021
+127108,florian lejeune,20,5,1991,Paris,France,1991-05-20,Defender - Centre-Back,190,right,France,,ES1,2021
+245893,matt miazga,19,7,1995,"Clifton, New Jersey",United States,1995-07-19,Defender - Centre-Back,193,right,,Poland,ES1,2021
+568158,javi lópez,25,3,2002,Santa Cruz de Tenerife,Spain,2002-03-25,Defender - Left-Back,183,left,Spain,,ES1,2021
+354697,tachi,10,9,1997,Fuenlabrada,Spain,1997-09-10,Defender - Centre-Back,184,right,Spain,,ES1,2021
+133794,edgar méndez,2,1,1990,Arafo,Spain,1990-01-02,attack - Right Winger,187,right,Spain,,ES1,2021
+98596,john guidetti,15,4,1992,Stockholm,Sweden,1992-04-15,attack - Centre-Forward,185,right,Sweden,,ES1,2021
+483573,martín aguirregabiria,10,5,1996,Vitoria,Spain,1996-05-10,Defender - Right-Back,180,right,Spain,,ES1,2021
+67080,víctor laguardia,5,11,1989,Zaragoza,Spain,1989-11-05,Defender - Centre-Back,183,right,Spain,,ES1,2021
+298197,antonio sivera,11,8,1996,Xàbia,Spain,1996-08-11,Goalkeeper,185,right,Spain,,ES1,2021
+480883,miguel de la fuente,3,9,1999,Tudela de Duero (Valladolid),Spain,1999-09-03,attack - Centre-Forward,182,right,Spain,,ES1,2021
+111819,neto,19,7,1989,Araxá,Brazil,1989-07-19,Goalkeeper,190,right,,Italy,ES1,2021
+331505,óscar mingueza,13,5,1999,Santa Perpetua de Moguda,Spain,1999-05-13,Defender - Centre-Back,184,right,Spain,,ES1,2021
+283170,iñaki peña,2,3,1999,Alicante,Spain,1999-03-02,Goalkeeper,184,right,Spain,,ES1,2021
+74857,marc-andré ter stegen,30,4,1992,Mönchengladbach,Germany,1992-04-30,Goalkeeper,187,right,Germany,,ES1,2021
+476344,emerson royal,14,1,1999,São Paulo,Brazil,1999-01-14,Defender - Right-Back,183,right,Brazil,,ES1,2021
+331511,riqui puig,13,8,1999,Matadepera,Spain,1999-08-13,midfield - Central Midfield,169,right,Spain,,ES1,2021
+480267,ronald araújo,7,3,1999,Rivera,Uruguay,1999-03-07,Defender - Centre-Back,188,right,Uruguay,,ES1,2021
+65230,sergio busquets,16,7,1988,Sabadell,Spain,1988-07-16,midfield - Defensive Midfield,189,right,Spain,,ES1,2021
+80444,philippe coutinho,12,6,1992,Rio de Janeiro,Brazil,1992-06-12,midfield - Attacking Midfield,172,right,,Portugal,ES1,2021
+288230,ousmane dembélé,15,5,1997,Vernon,France,1997-05-15,attack - Right Winger,178,both,France,,ES1,2021
+182904,clément lenglet,17,6,1995,Beauvais,France,1995-06-17,Defender - Centre-Back,186,left,France,,ES1,2021
+326330,frenkie de jong,12,5,1997,Arkel,Netherlands,1997-05-12,midfield - Central Midfield,180,right,Netherlands,,ES1,2021
+361104,sergiño dest,3,11,2000,Almere,Netherlands,2000-11-03,Defender - Right-Back,175,right,,Netherlands,ES1,2021
+308278,rey manaj,24,2,1997,Lushnjë,Albania,1997-02-24,attack - Centre-Forward,182,both,,Italy,ES1,2021
+125781,antoine griezmann,21,3,1991,Mâcon,France,1991-03-21,attack - Second Striker,176,left,France,,ES1,2021
+95732,martin braithwaite,5,6,1991,Esbjerg,Denmark,1991-06-05,attack - Centre-Forward,177,right,,Guyana,ES1,2021
+85370,sergi roberto,7,2,1992,Reus,Spain,1992-02-07,midfield - Central Midfield,178,right,Spain,,ES1,2021
+44162,miralem pjanić,2,4,1990,Zvornik,Jugoslawien (SFR),1990-04-02,midfield - Central Midfield,178,right,,Luxembourg,ES1,2021
+466794,eric garcía,9,1,2001,Barcelona,Spain,2001-01-09,Defender - Centre-Back,183,right,Spain,,ES1,2021
+364240,moussa wagué,4,10,1998,Bignona,Senegal,1998-10-04,Defender - Right-Back,177,right,Senegal,,ES1,2021
+126540,samuel umtiti,14,11,1993,Yaundé,Cameroon,1993-11-14,Defender - Centre-Back,182,left,,Cameroon,ES1,2021
+683840,pedri,25,11,2002,Tegueste,Spain,2002-11-25,midfield - Central Midfield,174,right,Spain,,ES1,2021
+466810,ansu fati,31,10,2002,Bissau,Guinea-Bissau,2002-10-31,attack - Left Winger,178,right,,Guinea-Bissau,ES1,2021
+26399,sergio agüero,2,6,1988,Quilmes,Argentina,1988-06-02,attack - Centre-Forward,173,right,,Spain,ES1,2021
+69751,jordi alba,21,3,1989,L'Hospitalet de Llobregat,Spain,1989-03-21,Defender - Left-Back,170,left,Spain,,ES1,2021
+18944,gerard piqué,2,2,1987,Barcelona,Spain,1987-02-02,Defender - Centre-Back,194,right,Spain,,ES1,2021
+167850,memphis depay,13,2,1994,Moordrecht,Netherlands,1994-02-13,attack - Centre-Forward,176,right,,Ghana,ES1,2021
+371174,diego lainez,9,6,2000,Villahermosa,Mexico,2000-06-09,attack - Left Winger,167,left,Mexico,,ES1,2021
+263856,víctor camarasa,28,5,1994,Meliana,Spain,1994-05-28,midfield - Central Midfield,183,right,Spain,,ES1,2021
+278359,borja iglesias,17,1,1993,Santiago de Compostela,Spain,1993-01-17,attack - Centre-Forward,187,right,Spain,,ES1,2021
+99922,marc bartra,15,1,1991,Sant Jaume dels Domenys,Spain,1991-01-15,Defender - Centre-Back,184,right,Spain,,ES1,2021
+66106,sergio canales,16,2,1991,Santander,Spain,1991-02-16,midfield - Attacking Midfield,180,left,Spain,,ES1,2021
+141834,cristian tello,11,8,1991,Sabadell,Spain,1991-08-11,attack - Left Winger,178,both,Spain,,ES1,2021
+20506,andrés guardado,28,9,1986,Guadalajara,Mexico,1986-09-28,midfield - Central Midfield,169,left,,Spain,ES1,2021
+203496,nabil fekir,18,7,1993,Lyon,France,1993-07-18,midfield - Attacking Midfield,173,left,,Algeria,ES1,2021
+100131,william carvalho,7,4,1992,Luanda,Angola,1992-04-07,midfield - Defensive Midfield,187,right,,Angola,ES1,2021
+429901,paul akouokou,20,12,1997,Abiyán,Cote d'Ivoire,1997-12-20,midfield - Central Midfield,181,right,Cote d'Ivoire,,ES1,2021
+401624,edgar gonzález,1,4,1997,Sant Joan Despí,Spain,1997-04-01,midfield - Defensive Midfield,193,right,Spain,,ES1,2021
+354741,loren morón,30,12,1993,Marbella,Spain,1993-12-30,attack - Centre-Forward,185,right,Spain,,ES1,2021
+113133,germán pezzella,27,6,1991,Bahia Blanca,Argentina,1991-06-27,Defender - Centre-Back,187,right,,Italy,ES1,2021
+68645,martín montoya,14,4,1991,Gavà,Spain,1991-04-14,Defender - Right-Back,175,right,Spain,,ES1,2021
+630995,rodri sánchez,16,2,2000,Talayuela,Spain,2000-02-16,midfield - Attacking Midfield,175,left,Spain,,ES1,2021
+234811,rui silva,7,2,1994,Maia,Portugal,1994-02-07,Goalkeeper,191,left,Portugal,,ES1,2021
+135492,youssouf sabaly,5,3,1993,Chesnay,France,1993-03-05,Defender - Right-Back,173,right,,France,ES1,2021
+395694,yassin fekir,5,5,1997,Lyon,France,1997-05-05,attack - Left Winger,170,right,,Algeria,ES1,2021
+62920,víctor ruiz,25,1,1989,Esplugues de Llobregat,Spain,1989-01-25,Defender - Centre-Back,184,left,Spain,,ES1,2021
+126737,juanmi,20,5,1993,Coín,Spain,1993-05-20,attack - Right Winger,172,right,Spain,,ES1,2021
+101118,joel robles,17,6,1990,Getafe,Spain,1990-06-17,Goalkeeper,197,right,Spain,,ES1,2021
+40423,claudio bravo,13,4,1983,Viluco,Chile,1983-04-13,Goalkeeper,184,right,,Spain,ES1,2021
+505675,rober gonzález,6,1,2001,Mérida,Spain,2001-01-06,attack - Right Winger,169,both,Spain,,ES1,2021
+27374,sidnei,23,8,1989,Alegrete,Brazil,1989-08-23,Defender - Centre-Back,185,right,,Spain,ES1,2021
+378139,aitor ruibal,22,3,1996,Sallent de Llobregat,Spain,1996-03-22,attack - Right Winger,176,right,Spain,,ES1,2021
+341227,juan miranda,19,1,2000,Olivares,Spain,2000-01-19,Defender - Left-Back,185,left,Spain,,ES1,2021
+7663,joaquín,21,7,1981,El Puerto de Santa María,Spain,1981-07-21,attack - Right Winger,181,right,Spain,,ES1,2021
+342385,guido rodríguez,12,4,1994,Sáenz Peña,Argentina,1994-04-12,midfield - Defensive Midfield,185,right,,Italy,ES1,2021
+193098,álex moreno,8,6,1993,Sant Sadurní d'Anoia,Spain,1993-06-08,Defender - Left-Back,179,left,Spain,,ES1,2021
+298589,david garcía,14,2,1994,Ibero,Spain,1994-02-14,Defender - Centre-Back,185,right,Spain,,ES1,2021
+298613,juan pérez,15,7,1996,Almudévar,Spain,1996-07-15,Goalkeeper,191,right,Spain,,ES1,2021
+242532,rober ibáñez,22,3,1993,Valencia,Spain,1993-03-22,attack - Right Winger,175,right,Spain,,ES1,2021
+213260,rubén garcía,14,7,1993,Xàtiva,Spain,1993-07-14,attack - Right Winger,171,left,Spain,,ES1,2021
+248738,sergio herrera,5,6,1993,Miranda de Ebro,Spain,1993-06-05,Goalkeeper,192,,Spain,,ES1,2021
+618809,manu sánchez,24,8,2000,Madrid,Spain,2000-08-24,Defender - Left-Back,171,left,Spain,,ES1,2021
+82503,aridane hernández,23,3,1989,Tuineje,Spain,1989-03-23,Defender - Centre-Back,188,right,Spain,,ES1,2021
+46413,ante budimir,22,7,1991,Zenica,Jugoslawien (SFR),1991-07-22,attack - Centre-Forward,190,left,Croatia,,ES1,2021
+197122,unai garcía,3,9,1992,Esquiroz,Spain,1992-09-03,Defender - Centre-Back,186,left,Spain,,ES1,2021
+488626,jesús areso,2,7,1999,Cascante,Spain,1999-07-02,Defender - Right-Back,182,right,Spain,,ES1,2021
+63040,oier sanjurjo,25,5,1986,Estella-Lizarra,Spain,1986-05-25,midfield - Defensive Midfield,178,right,Spain,,ES1,2021
+216870,nacho vidal,24,1,1995,El Campello,Spain,1995-01-24,Defender - Right-Back,180,right,Spain,,ES1,2021
+167721,chimy ávila,6,2,1994,Rosario,Argentina,1994-02-06,attack - Centre-Forward,172,left,Argentina,,ES1,2021
+71579,iñigo pérez,18,1,1988,Pamplona,Spain,1988-01-18,midfield - Central Midfield,178,left,Spain,,ES1,2021
+93936,kike garcía,25,11,1989,Motilla de Palancar,Spain,1989-11-25,attack - Centre-Forward,186,right,Spain,,ES1,2021
+87469,cote,5,9,1989,Gijón,Spain,1989-09-05,Defender - Left-Back,182,left,Spain,,ES1,2021
+298575,kike barja,4,4,1997,Noáin,Spain,1997-04-04,attack - Right Winger,179,right,Spain,,ES1,2021
+471474,javi martínez,22,12,1999,Ólvega,Spain,1999-12-22,midfield - Attacking Midfield,181,right,Spain,,ES1,2021
+95641,darko brasanac,12,2,1992,Čajetina,Jugoslawien (SFR),1992-02-12,midfield - Central Midfield,178,right,Serbia,,ES1,2021
+169497,juan cruz,28,7,1992,Madrid,Spain,1992-07-28,Defender - Left-Back,182,left,Spain,,ES1,2021
+63056,roberto torres,7,3,1989,Arre,Spain,1989-03-07,midfield - Attacking Midfield,178,right,Spain,,ES1,2021
+213670,lucas torró,19,7,1994,Cocentaina,Spain,1994-07-19,midfield - Defensive Midfield,190,right,Spain,,ES1,2021
+340864,jaume grau,5,5,1997,Tavernes de la Valldigna,Spain,1997-05-05,midfield - Central Midfield,184,left,Spain,,ES1,2021
+514514,barbero,17,8,1998,Roquetas de Mar,Spain,1998-08-17,attack - Centre-Forward,186,right,Spain,,ES1,2021
+552425,jon moncayola,13,5,1998,Garinoain,Spain,1998-05-13,midfield - Central Midfield,182,right,Spain,,ES1,2021
+69660,jonás ramalho,10,6,1993,Barakaldo,Spain,1993-06-10,Defender - Centre-Back,185,right,,Spain,ES1,2021
+411975,jules koundé,12,11,1998,Paris,France,1998-11-12,Defender - Centre-Back,178,right,,Benin,ES1,2021
+51174,fernando reges,25,7,1987,Brasília,Brazil,1987-07-25,midfield - Defensive Midfield,183,right,,Portugal,ES1,2021
+207834,bono,5,4,1991,Montreal,Canada,1991-04-05,Goalkeeper,192,left,,Canada,ES1,2021
+284884,óscar rodríguez,28,6,1998,Talavera de la Reina,Spain,1998-06-28,midfield - Attacking Midfield,174,right,Spain,,ES1,2021
+182579,karim rekik,2,12,1994,Den Haag,Netherlands,1994-12-02,Defender - Centre-Back,186,left,,Tunisia,ES1,2021
+111961,suso,19,11,1993,Cádiz,Spain,1993-11-19,attack - Right Winger,177,left,Spain,,ES1,2021
+205503,ibrahim amadou,6,4,1993,Douala,Cameroon,1993-04-06,midfield - Defensive Midfield,183,right,,Cameroon,ES1,2021
+223725,munir el haddadi,1,9,1995,El Escorial,Spain,1995-09-01,attack - Centre-Forward,175,left,,Spain,ES1,2021
+15956,jesús navas,21,11,1985,Los Palacios y Villafranca,Spain,1985-11-21,Defender - Right-Back,172,right,Spain,,ES1,2021
+402733,gonzalo montiel,1,1,1997,González Catán,Argentina,1997-01-01,Defender - Right-Back,176,right,,Spain,ES1,2021
+94308,marko dmitrovic,24,1,1992,Subotica,Jugoslawien (SFR),1992-01-24,Goalkeeper,194,left,Serbia,,ES1,2021
+111630,erik lamela,4,3,1992,Carapachay,Argentina,1992-03-04,attack - Right Winger,184,left,,Spain,ES1,2021
+214775,óliver torres,10,11,1994,Navalmoral de la Mata,Spain,1994-11-10,midfield - Central Midfield,175,right,Spain,,ES1,2021
+74294,nemanja gudelj,16,11,1991,Belgrad,Jugoslawien (SFR),1991-11-16,midfield - Defensive Midfield,187,right,,Netherlands,ES1,2021
+189441,lucas ocampos,11,7,1994,Quilmes,Argentina,1994-07-11,attack - Left Winger,187,both,,Spain,ES1,2021
+396107,javi díaz,15,5,1997,Mairena del Aljarafe,Spain,1997-05-15,Goalkeeper,185,right,Spain,,ES1,2021
+433049,youssef en-nesyri,1,6,1997,Fès,Morocco,1997-06-01,attack - Centre-Forward,189,left,Morocco,,ES1,2021
+32467,ivan rakitic,10,3,1988,Möhlin,Switzerland,1988-03-10,midfield - Central Midfield,184,right,,Switzerland,ES1,2021
+378954,joris gnagnon,13,1,1997,Bondy,France,1997-01-13,Defender - Centre-Back,182,right,,Cote d'Ivoire,ES1,2021
+60410,marcos acuña,28,10,1991,Zapala,Argentina,1991-10-28,Defender - Left-Back,172,left,Argentina,,ES1,2021
+72522,luuk de jong,27,8,1990,Aigle,Switzerland,1990-08-27,attack - Centre-Forward,188,right,Netherlands,,ES1,2021
+263727,joan jordán,6,7,1994,Palafrugell,Spain,1994-07-06,midfield - Central Midfield,185,right,Spain,,ES1,2021
+329145,diego carlos,15,3,1993,Barra Bonita (SP),Brazil,1993-03-15,Defender - Centre-Back,186,right,Brazil,,ES1,2021
+361254,rafa mir,18,6,1997,Cartagena,Spain,1997-06-18,attack - Centre-Forward,191,right,Spain,,ES1,2021
+341272,alejandro pozo,22,2,1999,Huévar del Aljarafe,Spain,1999-02-22,Defender - Right-Back,174,right,Spain,,ES1,2021
+20005,papu gómez,15,2,1988,Buenos Aires,Argentina,1988-02-15,attack - Second Striker,167,right,,Italy,ES1,2021
+241391,oussama idrissi,26,2,1996,Bergen op Zoom,Netherlands,1996-02-26,attack - Left Winger,175,right,,Netherlands,ES1,2021
+170646,ludwig augustinsson,21,4,1994,Stockholm,Sweden,1994-04-21,Defender - Left-Back,181,left,Sweden,,ES1,2021
+341713,diego conde,28,10,1998,Madrid,Spain,1998-10-28,Goalkeeper,188,,Spain,,ES1,2021
+284854,carles aleñá,5,1,1998,Mataró,Spain,1998-01-05,midfield - Central Midfield,180,left,Spain,,ES1,2021
+273152,nemanja maksimovic,26,1,1995,Banja Koviljača,Yugoslavia (Republic),1995-01-26,midfield - Central Midfield,189,right,Serbia,,ES1,2021
+199369,sandro ramírez,9,7,1995,Las Palmas de Gran Canaria,Spain,1995-07-09,attack - Centre-Forward,175,right,Spain,,ES1,2021
+399780,darío poveda,13,3,1997,Alicante,Spain,1997-03-13,attack - Centre-Forward,187,right,Spain,,ES1,2021
+111508,allan nyom,10,5,1988,Neuilly-sur-Seine,France,1988-05-10,Defender - Right-Back,189,right,,France,ES1,2021
+158795,david timor,17,10,1989,Carcaixent,Spain,1989-10-17,midfield - Defensive Midfield,185,left,Spain,,ES1,2021
+302991,erick cabaco,19,4,1995,Montevideo,Uruguay,1995-04-19,Defender - Centre-Back,185,right,,Italy,ES1,2021
+67082,vitolo,2,11,1989,Las Palmas de Gran Canaria,Spain,1989-11-02,attack - Left Winger,185,right,Spain,,ES1,2021
+76746,damián suárez,27,4,1988,Montevideo,Uruguay,1988-04-27,Defender - Right-Back,173,right,,Spain,ES1,2021
+226012,david soria,4,4,1993,Madrid,Spain,1993-04-04,Goalkeeper,192,right,Spain,,ES1,2021
+376514,mathí­as olivera,31,10,1997,Montevideo,Uruguay,1997-10-31,Defender - Left-Back,185,left,,Spain,ES1,2021
+390688,juan iglesias,3,7,1998,Valladolid,Spain,1998-07-03,Defender - Right-Back,185,right,Spain,,ES1,2021
+284857,marc cucurella,22,7,1998,Alella,Spain,1998-07-22,midfield - Left Midfield,175,left,Spain,,ES1,2021
+143029,stefan mitrovic,22,5,1990,Belgrad,Jugoslawien (SFR),1990-05-22,Defender - Centre-Back,189,both,Serbia,,ES1,2021
+246335,rubén yáñez,12,10,1993,Blanes,Spain,1993-10-12,Goalkeeper,188,right,Spain,,ES1,2021
+290249,mauro arambarri,30,9,1995,Salto,Uruguay,1995-09-30,midfield - Central Midfield,175,right,Uruguay,,ES1,2021
+319160,jakub jankto,19,1,1996,Praha,Czech Republic,1996-01-19,midfield - Left Midfield,184,left,Czech Republic,,ES1,2021
+70245,ignasi miquel,28,9,1992,Corbera de Llobregat,Spain,1992-09-28,Defender - Centre-Back,189,left,Spain,,ES1,2021
+227961,jaime mata,24,10,1988,Madrid,Spain,1988-10-24,attack - Centre-Forward,186,right,Spain,,ES1,2021
+221150,djené,31,12,1991,Lome Dapaong,Togo,1991-12-31,Defender - Centre-Back,178,right,Togo,,ES1,2021
+573775,hugo duro,10,11,1999,Getafe,Spain,1999-11-10,attack - Centre-Forward,182,left,Spain,,ES1,2021
+355336,josete miranda,22,7,1998,Getafe,Spain,1998-07-22,attack - Left Winger,170,right,,Spain,ES1,2021
+248330,chema,3,3,1992,Caudete,Spain,1992-03-03,Defender - Centre-Back,189,left,Spain,,ES1,2021
+251106,enes ünal,10,5,1997,Bursa,Turkey,1997-05-10,attack - Centre-Forward,187,right,Turkey,,ES1,2021
+546047,josé macías,22,9,1999,Guadalajara,Mexico,1999-09-22,attack - Centre-Forward,178,right,Mexico,,ES1,2021
+162652,filip malbasic,18,11,1992,Belgrad,Yugoslavia (Republic),1992-11-18,attack - Right Winger,182,right,Serbia,,ES1,2021
+18644,álvaro negredo,20,8,1985,Madrid,Spain,1985-08-20,attack - Centre-Forward,186,left,Spain,,ES1,2021
+284342,jeremías ledesma,13,2,1993,Pergamino,Argentina,1993-02-13,Goalkeeper,186,right,,Italy,ES1,2021
+131275,choco lozano,25,4,1993,Yoro,Honduras,1993-04-25,attack - Centre-Forward,183,right,,Spain,ES1,2021
+254037,iza carcelén,23,4,1993,El Puerto de Santa María,Spain,1993-04-23,Defender - Right-Back,170,right,Spain,,ES1,2021
+311044,alfonso espino,5,1,1992,San Jacinto,Uruguay,1992-01-05,Defender - Left-Back,172,left,Uruguay,,ES1,2021
+148355,jens jönsson,10,1,1993,Aarhus,Denmark,1993-01-10,midfield - Defensive Midfield,182,right,Denmark,,ES1,2021
+225015,carlos akapo,12,3,1993,Elche,Spain,1993-03-12,Defender - Right-Back,179,right,,Spain,ES1,2021
+278404,martín calderón,1,3,1999,Jerez de la Frontera,Spain,1999-03-01,midfield - Central Midfield,183,left,Spain,,ES1,2021
+247366,marcos mauro,9,1,1991,Avellaneda,Argentina,1991-01-09,Defender - Centre-Back,188,right,,Spain,ES1,2021
+67089,juan cala,26,11,1989,Lebrija,Spain,1989-11-26,Defender - Centre-Back,186,right,Spain,,ES1,2021
+155423,varazdat haroyan,24,8,1992,Yerevan,Armenia,1992-08-24,Defender - Centre-Back,187,right,Armenia,,ES1,2021
+89733,álex fernández,15,10,1992,Alcalá de Henares,Spain,1992-10-15,midfield - Attacking Midfield,183,right,Spain,,ES1,2021
+305956,nano mesa,5,2,1995,La Laguna,Spain,1995-02-05,attack - Centre-Forward,178,right,Spain,,ES1,2021
+177065,florin andone,11,4,1993,Joldeşti,Romania,1993-04-11,attack - Centre-Forward,180,right,,Spain,ES1,2021
+246204,salvi sánchez,30,3,1991,Sanlúcar de Barrameda (Cádiz),Spain,1991-03-30,attack - Right Winger,170,right,Spain,,ES1,2021
+520947,santiago arzamendia,5,5,1998,"Wanda, Misiones",Argentina,1998-05-05,Defender - Left-Back,172,left,,Argentina,ES1,2021
+252667,fali,12,8,1993,Valencia,Spain,1993-08-12,Defender - Centre-Back,186,right,Spain,,ES1,2021
+281755,iván alejo,10,2,1995,Valladolid,Spain,1995-02-10,attack - Right Winger,186,right,Spain,,ES1,2021
+454238,tomás alarcón,19,1,1999,Rancagua,Chile,1999-01-19,midfield - Defensive Midfield,176,right,Chile,,ES1,2021
+162027,david gil,11,1,1994,Getafe,Spain,1994-01-11,Goalkeeper,186,right,Spain,,ES1,2021
+99559,alberto perea,19,12,1990,Albacete,Spain,1990-12-19,attack - Left Winger,175,right,Spain,,ES1,2021
+158704,jon ander garrido,9,10,1989,Bilbao,Spain,1989-10-09,midfield - Defensive Midfield,185,right,Spain,,ES1,2021
+336747,jorge pombo,22,2,1994,Zaragoza,Spain,1994-02-22,midfield - Attacking Midfield,177,right,Spain,,ES1,2021
+282406,álvaro jiménez,19,5,1995,Córdoba,Spain,1995-05-19,attack - Right Winger,176,right,Spain,,ES1,2021
+225462,josé mari,6,12,1987,Rota (Cádiz),Spain,1987-12-06,midfield - Defensive Midfield,182,right,Spain,,ES1,2021
+495625,víctor chust,5,3,2000,Valencia,Spain,2000-03-05,Defender - Centre-Back,184,both,Spain,,ES1,2021
+542819,milutin osmajic,25,7,1999,,Montenegro,1999-07-25,attack - Centre-Forward,186,both,Montenegro,,ES1,2021
+80293,aïssa mandi,22,10,1991,Châlons-en-Champagne,France,1991-10-22,Defender - Centre-Back,184,right,,France,ES1,2021
+298983,javi ontiveros,9,9,1997,Marbella,Spain,1997-09-09,attack - Left Winger,175,right,Spain,,ES1,2021
+65467,vicente iborra,16,1,1988,Moncada,Spain,1988-01-16,midfield - Central Midfield,190,right,Spain,,ES1,2021
+229604,gerónimo rulli,20,5,1992,La Plata,Argentina,1992-05-20,Goalkeeper,189,right,,Italy,ES1,2021
+568157,yeremi pino,20,10,2002,Las Palmas,Spain,2002-10-20,attack - Left Winger,172,right,Spain,,ES1,2021
+177467,gerard moreno,7,4,1992,Santa Perpètua de Mogoda,Spain,1992-04-07,attack - Centre-Forward,180,left,Spain,,ES1,2021
+15452,raúl albiol,4,9,1985,Vilamarxant,Spain,1985-09-04,Defender - Centre-Back,190,right,Spain,,ES1,2021
+51710,sergio asenjo,28,6,1989,Palencia,Spain,1989-06-28,Goalkeeper,189,right,Spain,,ES1,2021
+480763,juan foyth,12,1,1998,La Plata,Argentina,1998-01-12,Defender - Centre-Back,187,right,,Spain,ES1,2021
+236956,soufiane chakla,2,9,1993,Kenitra,Morocco,1993-09-02,Defender - Centre-Back,188,right,,Spain,ES1,2021
+74869,francis coquelin,13,5,1991,Laval,France,1991-05-13,midfield - Defensive Midfield,177,right,France,,ES1,2021
+73250,mario gaspar,24,11,1990,Novelda,Spain,1990-11-24,Defender - Right-Back,180,right,Spain,,ES1,2021
+349599,pervis estupiñán,21,1,1998,Esmeraldas,Ecuador,1998-01-21,Defender - Left-Back,175,left,,Spain,ES1,2021
+494880,jorge cuenca,17,11,1999,Madrid,Spain,1999-11-17,Defender - Centre-Back,190,left,Spain,,ES1,2021
+207917,alberto moreno,5,7,1992,Sevilla,Spain,1992-07-05,Defender - Left-Back,171,left,Spain,,ES1,2021
+188854,manu trigueros,17,10,1991,Talavera de la Reina (Toledo),Spain,1991-10-17,midfield - Central Midfield,178,right,Spain,,ES1,2021
+59561,dani parejo,16,4,1989,Coslada,Spain,1989-04-16,midfield - Central Midfield,182,right,Spain,,ES1,2021
+175449,moi gómez,23,6,1994,Rojales,Spain,1994-06-23,attack - Left Winger,176,right,Spain,,ES1,2021
+356197,alfonso pedraza,9,4,1996,San Sebastián de los Ballesteros,Spain,1996-04-09,Defender - Left-Back,184,left,Spain,,ES1,2021
+238868,rubén peña,18,7,1991,Ávila,Spain,1991-07-18,Defender - Right-Back,170,right,Spain,,ES1,2021
+399776,pau torres,16,1,1997,Villarreal,Spain,1997-01-16,Defender - Centre-Back,191,left,Spain,,ES1,2021
+63494,étienne capoue,11,7,1988,Niort,France,1988-07-11,midfield - Defensive Midfield,189,right,,Guadeloupe,ES1,2021
+626913,boulaye dia,16,11,1996,Oyonnax,France,1996-11-16,attack - Centre-Forward,180,right,,France,ES1,2021
+126716,paco alcácer,30,8,1993,Torrent,Spain,1993-08-30,attack - Centre-Forward,175,right,Spain,,ES1,2021
+401922,samuel chukwueze,22,5,1999,Umahaia,Nigeria,1999-05-22,attack - Right Winger,172,left,Nigeria,,ES1,2021
+355861,arnaut danjuma,31,1,1997,Lagos,Nigeria,1997-01-31,attack - Left Winger,178,right,,Nigeria,ES1,2021
+413262,dani raba,29,10,1995,Santander,Spain,1995-10-29,attack - Right Winger,184,left,Spain,,ES1,2021
+309110,brais méndez,7,1,1997,Mos,Spain,1997-01-07,midfield - Attacking Midfield,184,left,Spain,,ES1,2021
+64134,néstor araújo,29,8,1991,Guadalajara,Mexico,1991-08-29,Defender - Centre-Back,188,right,,Spain,ES1,2021
+277137,renato tapia,28,7,1995,Lima,Peru,1995-07-28,midfield - Defensive Midfield,185,right,,Netherlands,ES1,2021
+137616,okay yokuslu,9,3,1994,Izmir,Turkey,1994-03-09,midfield - Defensive Midfield,191,right,Turkey,,ES1,2021
+283223,emre mor,24,7,1997,Brønshøj,Denmark,1997-07-24,attack - Right Winger,169,left,,Denmark,ES1,2021
+358250,joseph aidoo,29,9,1995,Tema,Ghana,1995-09-29,Defender - Centre-Back,184,right,Ghana,,ES1,2021
+282694,augusto solari,3,1,1992,Rosario,Argentina,1992-01-03,attack - Right Winger,176,right,,Italy,ES1,2021
+165007,denis suárez,6,1,1994,Salceda de Caselas,Spain,1994-01-06,midfield - Attacking Midfield,176,right,Spain,,ES1,2021
+609361,jose fontán,11,2,2000,Vilagarcía de Arousa,Spain,2000-02-11,Defender - Centre-Back,182,left,Spain,,ES1,2021
+341110,franco cervi,26,5,1994,San Lorenzo,Argentina,1994-05-26,attack - Left Winger,166,left,,Italy,ES1,2021
+144128,matías dituro,8,5,1987,Bigand,Argentina,1987-05-08,Goalkeeper,191,right,,Italy,ES1,2021
+221315,kevin vázquez,23,3,1993,Nigrán,Spain,1993-03-23,Defender - Right-Back,175,right,Spain,,ES1,2021
+199321,rubén blanco,25,7,1995,Mos,Spain,1995-07-25,Goalkeeper,188,right,Spain,,ES1,2021
+119905,hugo mallo,22,6,1991,Marín,Spain,1991-06-22,Defender - Right-Back,174,right,Spain,,ES1,2021
+70934,nolito,15,10,1986,Sanlúcar de Barrameda,Spain,1986-10-15,attack - Left Winger,175,right,Spain,,ES1,2021
+523977,miguel baeza,27,3,2000,Córdoba,Spain,2000-03-27,midfield - Attacking Midfield,177,left,Spain,,ES1,2021
+423444,fran beltrán,3,2,1999,Madrid,Spain,1999-02-03,midfield - Central Midfield,172,right,Spain,,ES1,2021
+448628,javi galán,19,11,1994,Badajoz,Spain,1994-11-19,Defender - Left-Back,172,left,Spain,,ES1,2021
+255653,santi mina,7,12,1995,Vigo,Spain,1995-12-07,attack - Centre-Forward,181,right,Spain,,ES1,2021
+72047,iago aspas,1,8,1987,Moaña,Spain,1987-08-01,attack - Centre-Forward,176,left,Spain,,ES1,2021
+85383,rubén sobrino,1,6,1992,Daimiel,Spain,1992-06-01,attack - Centre-Forward,185,right,Spain,,ES1,2021
+372246,carlos soler,2,1,1997,Valencia,Spain,1997-01-02,midfield - Central Midfield,180,right,Spain,,ES1,2021
+163086,cristiano piccini,26,9,1992,Firenze,Italy,1992-09-26,Defender - Right-Back,189,right,Italy,,ES1,2021
+346289,mouctar diakhaby,19,12,1996,Vendôme,France,1996-12-19,Defender - Centre-Back,192,right,,Guinea,ES1,2021
+225122,gonçalo guedes,29,11,1996,Benavente,Portugal,1996-11-29,attack - Left Winger,179,right,Portugal,,ES1,2021
+398131,cristian rivero,21,3,1998,Gandia,Spain,1998-03-21,Goalkeeper,188,right,Spain,,ES1,2021
+221322,josé gayà,25,5,1995,Pedreguer,Spain,1995-05-25,Defender - Left-Back,172,left,Spain,,ES1,2021
+557149,kang-in lee,19,2,2001,Incheon,"Korea, South",2001-02-19,midfield - Attacking Midfield,173,left,"Korea, South",,ES1,2021
+146227,jasper cillessen,22,4,1989,Nijmegen,Netherlands,1989-04-22,Goalkeeper,187,right,Netherlands,,ES1,2021
+502676,giorgi mamardashvili,29,9,2000,Tiflis,Georgia,2000-09-29,Goalkeeper,199,left,Georgia,,ES1,2021
+396894,maxi gómez,14,8,1996,Paysandú,Uruguay,1996-08-14,attack - Centre-Forward,186,right,Uruguay,,ES1,2021
+417575,uros racic,17,3,1998,Kraljevo,Yugoslavia (Republic),1998-03-17,midfield - Central Midfield,193,both,Serbia,,ES1,2021
+527350,manu vallejo,14,2,1997,Chiclana de la Frontera,Spain,1997-02-14,attack - Centre-Forward,167,right,Spain,,ES1,2021
+367466,thierry correia,9,3,1999,Amadora,Portugal,1999-03-09,Defender - Right-Back,176,right,,Cape Verde,ES1,2021
+63463,daniel wass,31,5,1989,Gladsaxe,Denmark,1989-05-31,Defender - Right-Back,178,right,Denmark,,ES1,2021
+149498,gabriel paulista,26,11,1990,São Paulo,Brazil,1990-11-26,Defender - Centre-Back,187,right,,Spain,ES1,2021
+98322,denis cheryshev,26,12,1990,Nizhniy Novgorod,UdSSR,1990-12-26,attack - Left Winger,179,left,,Spain,ES1,2021
+320271,toni lato,21,11,1997,La Pobla de Vallbona,Spain,1997-11-21,Defender - Left-Back,171,left,Spain,,ES1,2021
+353032,omar alderete,26,12,1996,Asuncion,Paraguay,1996-12-26,Defender - Centre-Back,188,left,Paraguay,,ES1,2021
+569375,koba koindredi,27,10,2001,Djibouti,Djibouti,2001-10-27,midfield - Central Midfield,184,left,,France,ES1,2021
+227805,jaume doménech,5,11,1990,Almenara,Spain,1990-11-05,Goalkeeper,185,right,Spain,,ES1,2021
+263860,jason,6,7,1994,A Coruña,Spain,1994-07-06,attack - Right Winger,178,right,Spain,,ES1,2021
+503991,yunus musah,29,11,2002,"New York City, New York",United States,2002-11-29,attack - Right Winger,178,right,,England,ES1,2021
+495629,hugo guillamón,31,1,2000,San Sebastián,Spain,2000-01-31,Defender - Centre-Back,182,right,Spain,,ES1,2021
+328914,álex blanco,16,12,1998,Benidorm,Spain,1998-12-16,attack - Left Winger,175,left,Spain,,ES1,2021
+448344,óscar melendo,23,8,1997,Barcelona,Spain,1997-08-23,attack - Right Winger,167,left,Spain,,ES1,2021
+408471,javi puado,25,5,1998,Barcelona,Spain,1998-05-25,attack - Left Winger,177,right,Spain,,ES1,2021
+102423,leandro cabrera,17,6,1991,Montevideo,Uruguay,1991-06-17,Defender - Centre-Back,190,left,,Spain,ES1,2021
+376211,matías vargas,8,5,1997,Salta,Argentina,1997-05-08,attack - Left Winger,168,right,Argentina,,ES1,2021
+570421,nico melamed,11,4,2001,Castelldefels,Spain,2001-04-11,midfield - Attacking Midfield,173,right,,Argentina,ES1,2021
+162038,raúl de tomás,17,10,1994,Madrid,Spain,1994-10-17,attack - Centre-Forward,180,right,,Dominican Republic,ES1,2021
+335225,manu morlanes,12,1,1999,Zaragoza,Spain,1999-01-12,midfield - Central Midfield,178,right,Spain,,ES1,2021
+8176,oier olazábal,14,9,1989,Irún,Spain,1989-09-14,Goalkeeper,189,left,Spain,,ES1,2021
+129444,david lópez,9,10,1989,Barcelona,Spain,1989-10-09,midfield - Defensive Midfield,185,right,Spain,,ES1,2021
+311489,landry dimata,1,9,1997,Mbuji-Mayi,DR Congo,1997-09-01,attack - Centre-Forward,185,right,,DR Congo,ES1,2021
+288318,adrián embarba,7,5,1992,Madrid,Spain,1992-05-07,attack - Right Winger,173,right,Spain,,ES1,2021
+357884,fernando calero,14,9,1995,Boecillo (Valladolid),Spain,1995-09-14,Defender - Centre-Back,184,right,Spain,,ES1,2021
+501418,adrià pedrosa,13,5,1998,Barcelona,Spain,1998-05-13,Defender - Left-Back,172,left,Spain,,ES1,2021
+140436,lei wu,19,11,1991,"Nanjing, Jiangsu",China,1991-11-19,attack - Left Winger,174,right,China,,ES1,2021
+295622,keidi bare,28,8,1997,Fier,Albania,1997-08-28,midfield - Central Midfield,174,right,Albania,,ES1,2021
+544106,óscar gil,26,4,1998,Elche,Spain,1998-04-26,Defender - Right-Back,175,both,Spain,,ES1,2021
+399775,miguelón,18,1,1996,Benidorm,Spain,1996-01-18,Defender - Right-Back,170,right,Spain,,ES1,2021
+92947,sergi gómez,28,3,1992,Arenys de Mar,Spain,1992-03-28,Defender - Centre-Back,185,right,Spain,,ES1,2021
+142021,sergi darder,22,12,1993,Artà,Spain,1993-12-22,midfield - Central Midfield,180,right,Spain,,ES1,2021
+88490,aleix vidal,21,8,1989,Valls,Spain,1989-08-21,Defender - Right-Back,177,right,Spain,,ES1,2021
+412045,pol lozano,6,10,1999,Sant Quirze del Vallès,Spain,1999-10-06,midfield - Central Midfield,176,right,Spain,,ES1,2021
+162074,álvaro vadillo,12,9,1994,Puerto Real,Spain,1994-09-12,attack - Left Winger,180,right,Spain,,ES1,2021
+34370,diego lópez,3,11,1981,Paradela,Spain,1981-11-03,Goalkeeper,196,right,Spain,,ES1,2021
+67090,dídac vilà,9,6,1989,Barcelona,Spain,1989-06-09,Defender - Left-Back,185,left,Spain,,ES1,2021
+42920,fran mérida,4,3,1990,Barcelona,Spain,1990-03-04,midfield - Central Midfield,173,left,Spain,,ES1,2021
+37337,mario suárez,24,2,1987,Madrid,Spain,1987-02-24,midfield - Defensive Midfield,189,right,Spain,,ES1,2021
+607779,sergio moreno,1,1,1999,Pamplona,Spain,1999-01-01,attack - Centre-Forward,178,,Spain,,ES1,2021
+341264,fran garcía,14,8,1999,Bolaños de Calatrava,Spain,1999-08-14,Defender - Left-Back,169,left,Spain,,ES1,2021
+30321,óscar trejo,26,4,1988,Santiago del Estero,Argentina,1988-04-26,midfield - Attacking Midfield,180,right,,Italy,ES1,2021
+517753,óscar valentín,20,8,1994,Ajofrín,Spain,1994-08-20,midfield - Central Midfield,177,right,Spain,,ES1,2021
+257062,álvaro garcía,27,10,1992,Utrera,Spain,1992-10-27,attack - Left Winger,167,both,Spain,,ES1,2021
+362086,isi palazón,27,12,1994,Cieza,Spain,1994-12-27,attack - Right Winger,169,left,Spain,,ES1,2021
+165467,stole dimitrievski,25,12,1993,Kumanovo,Macedonia,1993-12-25,Goalkeeper,188,right,,Spain,ES1,2021
+561384,adri carrasco,1,10,1996,Torres de la Alameda,Spain,1996-10-01,attack - Left Winger,178,,Spain,,ES1,2021
+206947,kévin rodrigues,5,3,1994,Bayonne,France,1994-03-05,Defender - Left-Back,170,left,,France,ES1,2021
+525578,pathé ciss,16,3,1994,Dakar,Senegal,1994-03-16,midfield - Central Midfield,186,right,Senegal,,ES1,2021
+380598,santi comesaña,5,10,1996,Vigo,Spain,1996-10-05,midfield - Central Midfield,188,both,Spain,,ES1,2021
+85295,iván balliu,1,1,1992,Caldes de Malavella,Spain,1992-01-01,Defender - Right-Back,172,right,,Spain,ES1,2021
+289272,martín merquelanz,12,6,1995,Irún,Spain,1995-06-12,attack - Left Winger,176,left,Spain,,ES1,2021
+93747,yacine qasmi,3,1,1991,Pontoise,France,1991-01-03,attack - Centre-Forward,183,left,,France,ES1,2021
+153427,bebé,12,7,1990,Lisboa,Portugal,1990-07-12,attack - Left Winger,190,right,,Cape Verde,ES1,2021
+195605,josé pozo,15,3,1996,Málaga,Spain,1996-03-15,midfield - Attacking Midfield,171,left,Spain,,ES1,2021
+283489,luca zidane,13,5,1998,Marseille,France,1998-05-13,Goalkeeper,183,right,,Spain,ES1,2021
+560483,randy nteka,6,12,1997,Paris,France,1997-12-06,midfield - Attacking Midfield,189,left,,Angola,ES1,2021
+240360,esteban saveljich,20,5,1991,Tandil,Argentina,1991-05-20,Defender - Centre-Back,187,right,,Argentina,ES1,2021
+608531,mario hernández,25,1,1999,Madrid,Spain,1999-01-25,Defender - Right-Back,177,right,Spain,,ES1,2021
+531277,andrés martín,11,7,1999,Aguadulce,Spain,1999-07-11,attack - Centre-Forward,170,left,Spain,,ES1,2021
+449796,alejandro catena,28,10,1994,Madrid,Spain,1994-10-28,Defender - Centre-Back,194,right,Spain,,ES1,2021
+607780,miguel ángel morro,11,9,2000,Alcalá de Henares,Spain,2000-09-11,Goalkeeper,195,left,Spain,,ES1,2021
+193784,carlos clerc,21,2,1992,Badalona,Spain,1992-02-21,Defender - Left-Back,181,left,Spain,,ES1,2021
+175323,óscar duarte,3,6,1989,Catarina,Nicaragua,1989-06-03,Defender - Centre-Back,186,right,,Spain,ES1,2021
+34870,roberto soldado,27,5,1985,Valencia,Spain,1985-05-27,attack - Centre-Forward,180,right,Spain,,ES1,2021
+151470,nikola vukcevic,13,12,1991,Podgorica,Jugoslawien (SFR),1991-12-13,midfield - Defensive Midfield,187,left,Montenegro,,ES1,2021
+397676,dani cárdenas,28,3,1997,Terrassa,Spain,1997-03-28,Goalkeeper,185,right,Spain,,ES1,2021
+71905,coke,26,4,1987,Madrid,Spain,1987-04-26,Defender - Right-Back,176,right,Spain,,ES1,2021
+568835,pablo martínez,22,2,1998,Madrid,Spain,1998-02-22,midfield - Central Midfield,182,right,Spain,,ES1,2021
+158791,sergio postigo,4,11,1988,Madrid,Spain,1988-11-04,Defender - Centre-Back,185,right,Spain,,ES1,2021
+299715,koke vegas,27,9,1995,Antequera,Spain,1995-09-27,Goalkeeper,188,right,Spain,,ES1,2021
+212391,roger martí,3,1,1991,Torrent,Spain,1991-01-03,attack - Centre-Forward,179,right,Spain,,ES1,2021
+145769,sergio león,6,1,1989,La Palma del Río,Spain,1989-01-06,attack - Centre-Forward,176,right,Spain,,ES1,2021
+205569,mickaël malsa,12,10,1995,Paris,France,1995-10-12,midfield - Defensive Midfield,179,right,,France,ES1,2021
+228917,jorge miramón,2,6,1989,Zaragoza,Spain,1989-06-02,Defender - Right-Back,175,right,Spain,,ES1,2021
+328480,pepelu,11,8,1998,Dénia,Spain,1998-08-11,midfield - Defensive Midfield,186,right,Spain,,ES1,2021
+118997,aitor fernández,3,5,1991,Arrasate,Spain,1991-05-03,Goalkeeper,182,right,Spain,,ES1,2021
+172142,hernâni,20,8,1991,Lisboa,Portugal,1991-08-20,attack - Right Winger,180,left,,Cape Verde,ES1,2021
+245014,enis bardhi,2,7,1995,Skopje,Macedonia,1995-07-02,midfield - Attacking Midfield,172,right,North Macedonia,,ES1,2021
+282700,enric franquesa,26,2,1997,Sant Cugat del Vallés,Spain,1997-02-26,Defender - Left-Back,174,left,Spain,,ES1,2021
+252677,josé luis morales,23,7,1987,Madrid,Spain,1987-07-23,attack - Centre-Forward,180,right,Spain,,ES1,2021
+168959,nemanja radoja,6,2,1993,Novi Sad,Yugoslavia (Republic),1993-02-06,midfield - Defensive Midfield,186,right,Serbia,,ES1,2021
+162056,gonzalo melero,2,1,1994,Madrid,Spain,1994-01-02,midfield - Central Midfield,183,right,Spain,,ES1,2021
+349856,son,30,3,1994,Sevilla,Spain,1994-03-30,Defender - Right-Back,178,right,Spain,,ES1,2021
+257851,rúben vezo,25,4,1994,Setúbal,Portugal,1994-04-25,Defender - Centre-Back,182,right,,Cape Verde,ES1,2021
+422460,dani gómez,30,7,1998,Alcorcón,Spain,1998-07-30,attack - Centre-Forward,178,right,Spain,,ES1,2021
+387129,rober pier,16,2,1995,A Coruña,Spain,1995-02-16,Defender - Centre-Back,182,right,Spain,,ES1,2021
+120095,josé campaña,31,5,1993,Sevilla,Spain,1993-05-31,midfield - Central Midfield,179,right,Spain,,ES1,2021
+455181,jorge de frutos,20,2,1997,Navares de Enmedio,Spain,1997-02-20,attack - Right Winger,173,right,Spain,,ES1,2021
+612496,marcos paulo,1,2,2001,São Gonçalo,Brazil,2001-02-01,attack - Left Winger,186,right,,Brazil,ES1,2021
+462250,joão félix,10,11,1999,Viseu,Portugal,1999-11-10,attack - Second Striker,180,both,Portugal,,ES1,2021
+107010,stefan savic,8,1,1991,Mojkovac,Jugoslawien (SFR),1991-01-08,Defender - Centre-Back,187,right,,Serbia,ES1,2021
+266807,ángel correa,9,3,1995,Rosario,Argentina,1995-03-09,attack - Right Winger,171,right,,Spain,ES1,2021
+274347,ivan saponjic,2,8,1997,Nova Varoš,Yugoslavia (Republic),1997-08-02,attack - Centre-Forward,190,right,Serbia,,ES1,2021
+120443,santiago arias,13,1,1992,Medellín,Colombia,1992-01-13,Defender - Right-Back,177,right,Colombia,,ES1,2021
+121483,jan oblak,7,1,1993,Škofja Loka,Slovenia,1993-01-07,Goalkeeper,188,right,Slovenia,,ES1,2021
+281769,mario hermoso,18,6,1995,Madrid,Spain,1995-06-18,Defender - Centre-Back,185,left,Spain,,ES1,2021
+255901,rodrigo de paul,24,5,1994,Sarandí,Argentina,1994-05-24,midfield - Central Midfield,180,right,,Italy,ES1,2021
+156501,felipe,16,5,1989,Mogi das Cruzes,Brazil,1989-05-16,Defender - Centre-Back,190,right,Brazil,,ES1,2021
+74229,koke,8,1,1992,Madrid,Spain,1992-01-08,midfield - Central Midfield,176,right,Spain,,ES1,2021
+476352,renan lodi,8,4,1998,Serrana (São Paulo),Brazil,1998-04-08,Defender - Left-Back,178,left,Brazil,,ES1,2021
+205562,thomas lemar,12,11,1995,Baie-Mahault,Guadeloupe,1995-11-12,midfield - Attacking Midfield,171,left,,Guadeloupe,ES1,2021
+76061,sime vrsaljko,10,1,1992,Rijeka,Croatia,1992-01-10,Defender - Right-Back,181,right,Croatia,,ES1,2021
+250845,josé maría giménez,20,1,1995,Toledo,Uruguay,1995-01-20,Defender - Centre-Back,185,right,,Spain,ES1,2021
+122043,héctor herrera,19,4,1990,Tijuana,Mexico,1990-04-19,midfield - Central Midfield,180,right,,Portugal,ES1,2021
+140776,yannick carrasco,4,9,1993,Ixelles,Belgium,1993-09-04,attack - Left Winger,181,right,,Spain,ES1,2021
+396333,francisco montero,14,1,1999,Sevilla,Spain,1999-01-14,Defender - Centre-Back,185,left,Spain,,ES1,2021
+44352,luis suárez,24,1,1987,Salto,Uruguay,1987-01-24,attack - Centre-Forward,182,right,Uruguay,,ES1,2021
+148928,saúl ñíguez,21,11,1994,Elche,Spain,1994-11-21,midfield - Central Midfield,184,left,Spain,,ES1,2021
+95810,kieran trippier,19,9,1990,Bury,England,1990-09-19,Defender - Right-Back,173,right,England,,ES1,2021
+127181,benjamin lecomte,26,4,1991,Paris,France,1991-04-26,Goalkeeper,186,left,France,,ES1,2021
+127189,geoffrey kondogbia,15,2,1993,Nemours,France,1993-02-15,midfield - Defensive Midfield,188,left,,France,ES1,2021
+282411,marcos llorente,30,1,1995,Madrid,Spain,1995-01-30,midfield - Central Midfield,184,right,Spain,,ES1,2021
+491693,nehuén pérez,24,6,2000,Hurlingham,Argentina,2000-06-24,Defender - Centre-Back,184,right,Argentina,,ES1,2021
+334222,lucas boyé,28,2,1996,San Gregorio,Argentina,1996-02-28,attack - Centre-Forward,183,right,,Italy,ES1,2021
+339816,tete morente,4,12,1996,La Línea de la Concepción,Spain,1996-12-04,attack - Left Winger,184,right,Spain,,ES1,2021
+92693,darío benedetto,17,5,1990,Berazategui,Argentina,1990-05-17,attack - Centre-Forward,177,both,,Mexico,ES1,2021
+102146,édgar badía,12,2,1992,Barcelona,Spain,1992-02-12,Goalkeeper,180,right,Spain,,ES1,2021
+90451,iván marcone,3,6,1990,Buenos Aires,Argentina,1990-06-03,midfield - Defensive Midfield,182,right,,Italy,ES1,2021
+184779,gonzalo verdú,21,10,1988,Cartagena,Spain,1988-10-21,Defender - Centre-Back,188,right,Spain,,ES1,2021
+330352,raúl guti,30,12,1996,Zaragoza,Spain,1996-12-30,midfield - Central Midfield,178,right,Spain,,ES1,2021
+349836,diego gonzález,28,1,1995,Chiclana de la Frontera (Cádiz),Spain,1995-01-28,Defender - Centre-Back,185,left,Spain,,ES1,2021
+184672,guido carrillo,25,5,1991,Magdalena,Argentina,1991-05-25,attack - Centre-Forward,191,right,,Italy,ES1,2021
+142031,omar mascarell,2,2,1993,Santa Cruz de Tenerife,Spain,1993-02-02,midfield - Defensive Midfield,181,right,,Equatorial Guinea,ES1,2021
+27486,kiko casilla,2,10,1986,Alcover,Spain,1986-10-02,Goalkeeper,190,right,Spain,,ES1,2021
+149231,fidel,27,10,1989,Dehesa de Riotinto,Spain,1989-10-27,attack - Left Winger,180,left,Spain,,ES1,2021
+56067,pablo piatti,31,3,1989,La Carlota,Argentina,1989-03-31,attack - Left Winger,163,both,,Italy,ES1,2021
+211389,helibelton palacios,9,6,1993,Santander de Quilichao,Colombia,1993-06-09,Defender - Right-Back,181,right,Colombia,,ES1,2021
+225593,pere milla,23,9,1992,Lleida,Spain,1992-09-23,attack - Second Striker,180,left,Spain,,ES1,2021
+255892,josema,6,6,1996,Lorquí,Spain,1996-06-06,Defender - Centre-Back,184,left,Spain,,ES1,2021
+186862,enzo roco,16,8,1992,Ovalle,Chile,1992-08-16,Defender - Centre-Back,192,right,Chile,,ES1,2021
+203043,pedro bigas,15,5,1990,Palma de Mallorca,Spain,1990-05-15,Defender - Centre-Back,181,left,Spain,,ES1,2021
+277533,josan,3,12,1989,Crevillente,Spain,1989-12-03,attack - Right Winger,176,right,Spain,,ES1,2021
+32522,antonio barragán,12,6,1987,Pontedeume,Spain,1987-06-12,Defender - Right-Back,186,right,Spain,,ES1,2021
+262939,johan mojica,21,8,1992,Santiago de Cali,Colombia,1992-08-21,Defender - Left-Back,185,left,,Spain,ES1,2021
+197126,kenan kodro,19,8,1993,Donostia-San Sebastián,Spain,1993-08-19,attack - Centre-Forward,188,right,,Spain,ES1,2021
+178425,dani garcía,24,5,1990,Zumarraga,Spain,1990-05-24,midfield - Central Midfield,179,right,Spain,,ES1,2021
+524010,oier zarraga,4,1,1999,Getxo,Spain,1999-01-04,midfield - Central Midfield,175,right,Spain,,ES1,2021
+571020,oihan sancet,25,4,2000,Pamplona,Spain,2000-04-25,midfield - Attacking Midfield,188,right,Spain,,ES1,2021
+610083,unai vencedor,15,11,2000,Bilbao,Spain,2000-11-15,midfield - Central Midfield,176,right,Spain,,ES1,2021
+158863,iñigo martínez,17,5,1991,Ondarroa,Spain,1991-05-17,Defender - Centre-Back,182,left,Spain,,ES1,2021
+96718,óscar de marcos,14,4,1989,Laguardia,Spain,1989-04-14,Defender - Right-Back,182,right,Spain,,ES1,2021
+262396,unai simón,11,6,1997,Vitoria-Gasteiz,Spain,1997-06-11,Goalkeeper,190,right,Spain,,ES1,2021
+338285,unai núñez,30,1,1997,Portugalete,Spain,1997-01-30,Defender - Centre-Back,186,right,Spain,,ES1,2021
+447052,peru nolaskoain,25,10,1998,Zumaia,Spain,1998-10-25,midfield - Defensive Midfield,186,right,Spain,,ES1,2021
+192009,unai lópez,30,10,1995,Donostia-San Sebastián,Spain,1995-10-30,midfield - Central Midfield,170,right,Spain,,ES1,2021
+709187,nico williams,12,7,2002,Pamplona,Spain,2002-07-12,attack - Right Winger,180,right,,Ghana,ES1,2021
+255501,iñigo lekue,4,5,1993,Bilbao,Spain,1993-05-04,Defender - Right-Back,180,right,Spain,,ES1,2021
+61812,yuri berchiche,10,2,1990,Zarautz,Spain,1990-02-10,Defender - Left-Back,181,left,Spain,,ES1,2021
+455349,jon morcillo,15,9,1998,Amorebieta-Etxano,Spain,1998-09-15,attack - Left Winger,183,left,Spain,,ES1,2021
+197545,ander capa,8,2,1992,Portugalete,Spain,1992-02-08,Defender - Right-Back,175,right,Spain,,ES1,2021
+85258,mikel balenziaga,29,2,1988,Zumarraga,Spain,1988-02-29,Defender - Left-Back,177,left,Spain,,ES1,2021
+251897,asier villalibre,30,9,1997,Gernika,Spain,1997-09-30,attack - Centre-Forward,184,left,Spain,,ES1,2021
+527838,álex petxa,6,2,1997,Donostia-San Sebastián,Spain,1997-02-06,Defender - Right-Back,178,right,Spain,,ES1,2021
+34601,raúl garcía,11,7,1986,Pamplona,Spain,1986-07-11,attack - Centre-Forward,184,right,Spain,,ES1,2021
+255488,yeray álvarez,24,1,1995,Barakaldo,Spain,1995-01-24,Defender - Centre-Back,182,right,Spain,,ES1,2021
+524000,dani vivian,5,7,1999,Vitoria-Gasteiz,Spain,1999-07-05,Defender - Centre-Back,184,right,Spain,,ES1,2021
+338425,álex berenguer,4,7,1995,Barañain,Spain,1995-07-04,attack - Left Winger,175,right,Spain,,ES1,2021
+300168,mikel vesga,8,4,1993,Vitoria-Gasteiz,Spain,1993-04-08,midfield - Defensive Midfield,191,left,Spain,,ES1,2021
+54235,iker muniain,19,12,1992,Pamplona,Spain,1992-12-19,midfield - Attacking Midfield,169,right,Spain,,ES1,2021
+255508,iñaki williams,15,6,1994,Bilbao,Spain,1994-06-15,attack - Centre-Forward,186,right,,Ghana,ES1,2021
+379548,jokin ezkieta,17,8,1996,Villava,Spain,1996-08-17,Goalkeeper,193,right,Spain,,ES1,2021
+251848,iñigo córdoba,13,3,1997,Bilbao,Spain,1997-03-13,attack - Left Winger,180,left,Spain,,ES1,2021
