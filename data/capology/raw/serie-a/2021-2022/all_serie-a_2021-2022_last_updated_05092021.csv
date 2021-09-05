@@ -1,0 +1,665 @@
+,Player,Weekly GrossBase Salary(IN EUR),Annual GrossBase Salary(IN EUR),Pos.,Age,Status,Expiration,Length,EstimatedGross Total(IN EUR),Team,League,Season
+0,Zlatan Ibrahimovic,"€ 172,500","€ 8,970,000",CF,39,,"Jun 30, 2022",1-yr,"€ 8,970,000",Ac Milan,Serie A,2021-2022
+1,Alessio Romagnoli,"€ 124,615","€ 6,480,000",CB,26,,"Jun 30, 2022",1-yr,"€ 6,480,000",Ac Milan,Serie A,2021-2022
+2,Alessandro Florenzi,"€ 106,923","€ 5,560,000",RB,30,,"Jun 30, 2022",1-yr,"€ 5,560,000",Ac Milan,Serie A,2021-2022
+3,Tiemoué Bakayoko,"€ 89,038","€ 4,630,000",DM,27,,"Jun 30, 2023",2-yrs,"€ 9,260,000",Ac Milan,Serie A,2021-2022
+4,Olivier Giroud,"€ 86,346","€ 4,490,000",CF,34,,"Jun 30, 2023",2-yrs,"€ 8,980,000",Ac Milan,Serie A,2021-2022
+5,Ante Rebic,"€ 86,346","€ 4,490,000",LW,27,,"Jun 30, 2025",4-yrs,"€ 17,960,000",Ac Milan,Serie A,2021-2022
+6,Franck Kessié,"€ 78,269","€ 4,070,000",CM,24,,"Jun 30, 2022",1-yr,"€ 4,070,000",Ac Milan,Serie A,2021-2022
+7,Andrea Conti,"€ 71,154","€ 3,700,000",RB,27,,"Jun 30, 2022",1-yr,"€ 3,700,000",Ac Milan,Serie A,2021-2022
+8,Davide Calabria,"€ 71,154","€ 3,700,000",RB,24,,"Jun 30, 2025",4-yrs,"€ 14,800,000",Ac Milan,Serie A,2021-2022
+9,Mike Maignan,"€ 69,038","€ 3,590,000",GK,26,,"Jun 30, 2026",5-yrs,"€ 17,950,000",Ac Milan,Serie A,2021-2022
+10,Ismaël Bennacer,"€ 53,462","€ 2,780,000",DM,23,,"Jun 30, 2024",3-yrs,"€ 8,340,000",Ac Milan,Serie A,2021-2022
+11,Samu Castillejo,"€ 53,462","€ 2,780,000",RW,26,,"Jun 30, 2023",2-yrs,"€ 5,560,000",Ac Milan,Serie A,2021-2022
+12,Junior Messias,"€ 53,462","€ 2,780,000",SS,30,,"Jun 30, 2022",1-yr,"€ 2,780,000",Ac Milan,Serie A,2021-2022
+13,Fikayo Tomori,"€ 49,231","€ 2,560,000",CB,23,,"Jun 30, 2025",4-yrs,"€ 10,240,000",Ac Milan,Serie A,2021-2022
+14,Sandro Tonali,"€ 42,692","€ 2,220,000",DM,21,,"Jun 30, 2026",5-yrs,"€ 11,100,000",Ac Milan,Serie A,2021-2022
+15,Rade Krunic,"€ 39,231","€ 2,040,000",CM,27,,"Jun 30, 2024",3-yrs,"€ 6,120,000",Ac Milan,Serie A,2021-2022
+16,Theo Hernández,"€ 36,923","€ 1,920,000",LB,23,,"Jun 30, 2024",3-yrs,"€ 5,760,000",Ac Milan,Serie A,2021-2022
+17,Brahim Díaz,"€ 36,923","€ 1,920,000",AM,21,,"Jun 30, 2023",2-yrs,"€ 3,840,000",Ac Milan,Serie A,2021-2022
+18,Mattia Caldara,"€ 35,577","€ 1,850,000",CB,27,,"Jun 30, 2023",2-yrs,"€ 3,700,000",Ac Milan,Serie A,2021-2022
+19,Rafael Leão,"€ 34,423","€ 1,790,000",CF,22,,"Jun 30, 2024",3-yrs,"€ 5,370,000",Ac Milan,Serie A,2021-2022
+20,Ciprian Tatarusanu,"€ 29,615","€ 1,540,000",GK,35,,"Jun 30, 2023",2-yrs,"€ 3,080,000",Ac Milan,Serie A,2021-2022
+21,Simon Kjaer,"€ 29,615","€ 1,540,000",CB,32,,"Jun 30, 2022",1-yr,"€ 1,540,000",Ac Milan,Serie A,2021-2022
+22,Pietro Pellegri,"€ 24,615","€ 1,280,000",CF,20,,"Jun 30, 2022",1-yr,"€ 1,280,000",Ac Milan,Serie A,2021-2022
+23,Jens Petter Hauge,"€ 24,615","€ 1,280,000",LW,21,,"Jun 30, 2025",4-yrs,"€ 5,120,000",Ac Milan,Serie A,2021-2022
+24,Fodé Ballo-Touré,"€ 24,615","€ 1,280,000",LB,24,,"Jun 30, 2025",4-yrs,"€ 5,120,000",Ac Milan,Serie A,2021-2022
+25,Alexis Saelemaekers,"€ 24,615","€ 1,280,000",RW,22,,"Jun 30, 2024",3-yrs,"€ 3,840,000",Ac Milan,Serie A,2021-2022
+26,Matteo Gabbia,"€ 21,346","€ 1,110,000",CB,21,,"Jun 30, 2024",3-yrs,"€ 3,330,000",Ac Milan,Serie A,2021-2022
+27,Pierre Kalulu,"€ 14,808","€ 770,000",RB,21,,"Jun 30, 2025",4-yrs,"€ 3,080,000",Ac Milan,Serie A,2021-2022
+28,Lorenzo Colombo,"€ 10,769","€ 560,000",CF,19,,"Jun 30, 2024",3-yrs,"€ 1,680,000",Ac Milan,Serie A,2021-2022
+29,Daniel Maldini,"€ 10,769","€ 560,000",AM,19,,"Jun 30, 2024",3-yrs,"€ 1,680,000",Ac Milan,Serie A,2021-2022
+30,Alessandro Plizzari,"€ 5,769","€ 300,000",GK,21,,"Jun 30, 2023",2-yrs,"€ 600,000",Ac Milan,Serie A,2021-2022
+0,Duván Zapata,"€ 64,038","€ 3,330,000",CF,30,,"Jun 30, 2023",2-yrs,"€ 6,660,000",Atalanta,Serie A,2021-2022
+1,Josip Ilicic,"€ 64,038","€ 3,330,000",SS,33,,"Jun 30, 2022",1-yr,"€ 3,330,000",Atalanta,Serie A,2021-2022
+2,Juan Musso,"€ 56,923","€ 2,960,000",GK,27,,"Jun 30, 2025",4-yrs,"€ 11,840,000",Atalanta,Serie A,2021-2022
+3,Aleksey Miranchuk,"€ 53,462","€ 2,780,000",AM,25,,"Jun 30, 2024",3-yrs,"€ 8,340,000",Atalanta,Serie A,2021-2022
+4,Viktor Kovalenko,"€ 49,231","€ 2,560,000",AM,25,,"Jun 30, 2025",4-yrs,"€ 10,240,000",Atalanta,Serie A,2021-2022
+5,Luis Muriel,"€ 44,423","€ 2,310,000",CF,30,,"Jun 30, 2023",2-yrs,"€ 4,620,000",Atalanta,Serie A,2021-2022
+6,Marten de Roon,"€ 35,577","€ 1,850,000",DM,30,,"Jun 30, 2024",3-yrs,"€ 5,550,000",Atalanta,Serie A,2021-2022
+7,Mario Pasalic,"€ 35,577","€ 1,850,000",CM,26,,"Jun 30, 2025",4-yrs,"€ 7,400,000",Atalanta,Serie A,2021-2022
+8,Rafael Tolói,"€ 35,577","€ 1,850,000",CB,30,,"Jun 30, 2023",2-yrs,"€ 3,700,000",Atalanta,Serie A,2021-2022
+9,Hans Hateboer,"€ 28,462","€ 1,480,000",RB,27,,"Jun 30, 2023",2-yrs,"€ 2,960,000",Atalanta,Serie A,2021-2022
+10,Berat Djimsiti,"€ 28,462","€ 1,480,000",CB,28,,"Jun 30, 2023",2-yrs,"€ 2,960,000",Atalanta,Serie A,2021-2022
+11,José Luis Palomino,"€ 28,462","€ 1,480,000",CB,31,,"Jun 30, 2022",1-yr,"€ 1,480,000",Atalanta,Serie A,2021-2022
+12,Remo Freuler,"€ 28,462","€ 1,480,000",CM,29,,"Jun 30, 2022",1-yr,"€ 1,480,000",Atalanta,Serie A,2021-2022
+13,Robin Gosens,"€ 28,462","€ 1,480,000",LB,27,,"Jun 30, 2023",2-yrs,"€ 2,960,000",Atalanta,Serie A,2021-2022
+14,Ruslan Malinovskyi,"€ 24,615","€ 1,280,000",AM,28,,"Jun 30, 2023",2-yrs,"€ 2,560,000",Atalanta,Serie A,2021-2022
+15,Marco Sportiello,"€ 21,346","€ 1,110,000",GK,29,,"Jun 30, 2022",1-yr,"€ 1,110,000",Atalanta,Serie A,2021-2022
+16,Arkadiusz Reca,"€ 21,346","€ 1,110,000",LM,26,,"Jun 30, 2022",1-yr,"€ 1,110,000",Atalanta,Serie A,2021-2022
+17,Sam Lammers,"€ 19,808","€ 1,030,000",CF,24,,"Jun 30, 2023",2-yrs,"€ 2,060,000",Atalanta,Serie A,2021-2022
+18,Joakim Maehle,"€ 17,308","€ 900,000",RB,24,,"Jun 30, 2025",4-yrs,"€ 3,600,000",Atalanta,Serie A,2021-2022
+19,Matteo Pessina,"€ 14,231","€ 740,000",AM,24,,"Jun 30, 2022",1-yr,"€ 740,000",Atalanta,Serie A,2021-2022
+20,Boris Radunović,"€ 10,962","€ 570,000",GK,25,,"Jun 30, 2022",1-yr,"€ 570,000",Atalanta,Serie A,2021-2022
+21,Federico Mattiello,"€ 10,769","€ 560,000",RB,26,,"Jun 30, 2022",1-yr,"€ 560,000",Atalanta,Serie A,2021-2022
+22,Roberto Piccoli,"€ 10,769","€ 560,000",CF,20,,"Jun 30, 2022",1-yr,"€ 560,000",Atalanta,Serie A,2021-2022
+23,Ebrima Colley,"€ 7,115","€ 370,000",LW,21,,"Jun 30, 2024",3-yrs,"€ 1,110,000",Atalanta,Serie A,2021-2022
+24,Bosko Sutalo,"€ 6,154","€ 320,000",CB,21,,"Jun 30, 2024",3-yrs,"€ 960,000",Atalanta,Serie A,2021-2022
+25,Francesco Rossi,"€ 3,654","€ 190,000",GK,30,,"Jun 30, 2022",1-yr,"€ 190,000",Atalanta,Serie A,2021-2022
+26,Cristian Romero,"€ 3,269","€ 170,000",CB,23,,"Jun 30, 2022",1-yr,"€ 170,000",Atalanta,Serie A,2021-2022
+27,Matteo Ruggeri,€ 769,"€ 40,000",LB,19,,"Jun 30, 2024",3-yrs,"€ 120,000",Atalanta,Serie A,2021-2022
+28,Nadir Zortea,€ 0,€ 0,RB,22,,"Jun 30, 2024",3-yrs,€ 0,Atalanta,Serie A,2021-2022
+29,Christian Capone,€ 0,€ 0,LW,22,,"Jun 30, 2023",2-yrs,€ 0,Atalanta,Serie A,2021-2022
+30,Simone Muratore,€ 0,€ 0,CM,23,,"Jun 30, 2023",2-yrs,€ 0,Atalanta,Serie A,2021-2022
+31,Luca Valzania,€ 0,€ 0,CM,25,,"Jun 30, 2023",2-yrs,€ 0,Atalanta,Serie A,2021-2022
+32,Rodrigo Guth,€ 0,€ 0,CB,20,,"Jun 30, 2022",1-yr,€ 0,Atalanta,Serie A,2021-2022
+33,Davide Zappacosta,€ 0,€ 0,RB,29,,"Jun 30, 2025",4-yrs,€ 0,Atalanta,Serie A,2021-2022
+34,Salvatore Elia,€ 0,€ 0,RW,22,,"Jun 30, 2023",2-yrs,€ 0,Atalanta,Serie A,2021-2022
+35,Jacopo Da Riva,€ 0,€ 0,CM,20,,"Jun 30, 2024",3-yrs,€ 0,Atalanta,Serie A,2021-2022
+36,Enrico Del Prato,€ 0,€ 0,RB,21,,"Jun 30, 2022",1-yr,€ 0,Atalanta,Serie A,2021-2022
+37,Marco Tumminello,€ 0,€ 0,CF,22,,"Jun 30, 2022",1-yr,€ 0,Atalanta,Serie A,2021-2022
+38,David Heidenreich,€ 0,€ 0,CB,21,,"Jun 30, 2024",3-yrs,€ 0,Atalanta,Serie A,2021-2022
+39,Bryan Cabezas,€ 0,€ 0,LW,24,,"Jun 30, 2022",1-yr,€ 0,Atalanta,Serie A,2021-2022
+40,Marco Carraro,€ 0,€ 0,DM,23,,"Jun 30, 2022",1-yr,€ 0,Atalanta,Serie A,2021-2022
+0,Marko Arnautovic,"€ 66,462","€ 3,456,000",CF,32,,"Jun 30, 2023",2-yrs,"€ 6,912,000",Bologna,Serie A,2021-2022
+1,Roberto Soriano,"€ 39,423","€ 2,050,000",AM,30,,"Jun 30, 2023",2-yrs,"€ 4,100,000",Bologna,Serie A,2021-2022
+2,Nicola Sansone,"€ 39,423","€ 2,050,000",LW,29,,"Jun 30, 2023",2-yrs,"€ 4,100,000",Bologna,Serie A,2021-2022
+3,Andrea Poli,"€ 39,231","€ 2,040,000",CM,31,,"Jun 30, 2022",1-yr,"€ 2,040,000",Bologna,Serie A,2021-2022
+4,Riccardo Orsolini,"€ 39,231","€ 2,040,000",RW,24,,"Jun 30, 2024",3-yrs,"€ 6,120,000",Bologna,Serie A,2021-2022
+5,Gary Medel,"€ 36,923","€ 1,920,000",DM,33,,"Jun 30, 2022",1-yr,"€ 1,920,000",Bologna,Serie A,2021-2022
+6,Federico Santander,"€ 35,577","€ 1,850,000",CF,30,,"Jun 30, 2022",1-yr,"€ 1,850,000",Bologna,Serie A,2021-2022
+7,Lukasz Skorupski,"€ 32,115","€ 1,670,000",GK,30,,"Jun 30, 2023",2-yrs,"€ 3,340,000",Bologna,Serie A,2021-2022
+8,Lorenzo De Silvestri,"€ 32,115","€ 1,670,000",RB,33,,"Jun 30, 2022",1-yr,"€ 1,670,000",Bologna,Serie A,2021-2022
+9,Musa Barrow,"€ 28,462","€ 1,480,000",CF,22,,"Jun 30, 2024",3-yrs,"€ 4,440,000",Bologna,Serie A,2021-2022
+10,Mitchell Dijks,"€ 28,462","€ 1,480,000",LB,28,,"Jun 30, 2023",2-yrs,"€ 2,960,000",Bologna,Serie A,2021-2022
+11,Ibrahima Mbaye,"€ 26,731","€ 1,390,000",RB,26,,"Jun 30, 2023",2-yrs,"€ 2,780,000",Bologna,Serie A,2021-2022
+12,Stefano Denswil,"€ 19,808","€ 1,030,000",CB,28,,"Jun 30, 2022",1-yr,"€ 1,030,000",Bologna,Serie A,2021-2022
+13,Andreas Skov Olsen,"€ 19,808","€ 1,030,000",RW,21,,"Jun 30, 2024",3-yrs,"€ 3,090,000",Bologna,Serie A,2021-2022
+14,Mattias Svanberg,"€ 17,885","€ 930,000",CM,22,,"Jun 30, 2023",2-yrs,"€ 1,860,000",Bologna,Serie A,2021-2022
+15,Nicolás Domínguez,"€ 17,308","€ 900,000",CM,23,,"Jun 30, 2024",3-yrs,"€ 2,700,000",Bologna,Serie A,2021-2022
+16,Nehuén Paz,"€ 15,962","€ 830,000",CB,28,,"Jun 30, 2022",1-yr,"€ 830,000",Bologna,Serie A,2021-2022
+17,Takehiro Tomiyasu,"€ 14,808","€ 770,000",CB,22,,"Jun 30, 2024",3-yrs,"€ 2,310,000",Bologna,Serie A,2021-2022
+18,Jerdy Schouten,"€ 12,308","€ 640,000",CM,24,,"Jun 30, 2024",3-yrs,"€ 1,920,000",Bologna,Serie A,2021-2022
+19,Aaron Hickey,"€ 11,154","€ 580,000",LB,19,,"Jun 30, 2024",3-yrs,"€ 1,740,000",Bologna,Serie A,2021-2022
+20,Sydney van Hooijdonk,"€ 11,154","€ 580,000",CF,21,,"Jun 30, 2025",4-yrs,"€ 2,320,000",Bologna,Serie A,2021-2022
+21,Emanuel Vignato,"€ 10,769","€ 560,000",RW,20,,"Jun 30, 2024",3-yrs,"€ 1,680,000",Bologna,Serie A,2021-2022
+22,Arturo Calabresi,"€ 8,846","€ 460,000",CB,25,,"Jun 30, 2022",1-yr,"€ 460,000",Bologna,Serie A,2021-2022
+23,Kingsley Michael,"€ 5,385","€ 280,000",CM,21,,"Jun 30, 2024",3-yrs,"€ 840,000",Bologna,Serie A,2021-2022
+24,Andri Fannar Baldursson,"€ 5,385","€ 280,000",CM,19,,"Jun 30, 2025",4-yrs,"€ 1,120,000",Bologna,Serie A,2021-2022
+25,Federico Ravaglia,"€ 1,154","€ 60,000",GK,21,,"Jun 30, 2023",2-yrs,"€ 120,000",Bologna,Serie A,2021-2022
+26,Mouhamadou Sarr,€ 0,€ 0,GK,24,,"Jun 30, 2022",1-yr,€ 0,Bologna,Serie A,2021-2022
+27,Gabriele Corbo,€ 0,€ 0,CB,21,,"Jun 30, 2023",2-yrs,€ 0,Bologna,Serie A,2021-2022
+28,Francesco Bardi,€ 0,€ 0,GK,29,,"Jun 30, 2022",1-yr,€ 0,Bologna,Serie A,2021-2022
+29,Luis Binks,€ 0,€ 0,CB,19,,"Jun 30, 2024",3-yrs,€ 0,Bologna,Serie A,2021-2022
+30,Gianmarco Cangiano,€ 0,€ 0,LW,19,,"Jun 30, 2024",3-yrs,€ 0,Bologna,Serie A,2021-2022
+31,Omar Khailoti,€ 0,€ 0,CB,19,,"Jun 30, 2022",1-yr,€ 0,Bologna,Serie A,2021-2022
+32,Orji Okwonkwo,€ 0,€ 0,RW,23,,"Jun 30, 2022",1-yr,€ 0,Bologna,Serie A,2021-2022
+33,Diego Falcinelli,€ 0,€ 0,CF,30,,"Jun 30, 2022",1-yr,€ 0,Bologna,Serie A,2021-2022
+34,Godfred Donsah,€ 0,€ 0,CM,25,,"Jun 30, 2022",1-yr,€ 0,Bologna,Serie A,2021-2022
+35,Kacper Urbanski,€ 0,€ 0,AM,16,,"Jun 30, 2025",4-yrs,€ 0,Bologna,Serie A,2021-2022
+36,Adama Soumaoro,€ 0,€ 0,CB,29,,"Jun 30, 2024",3-yrs,€ 0,Bologna,Serie A,2021-2022
+37,Kevin Bonifazi,€ 0,€ 0,CB,25,,"Jun 30, 2025",4-yrs,€ 0,Bologna,Serie A,2021-2022
+0,Kevin Strootman,"€ 81,346","€ 4,230,000",CM,31,,"Jun 30, 2022",1-yr,"€ 4,230,000",Cagliari,Serie A,2021-2022
+1,Diego Godín,"€ 74,038","€ 3,850,000",CB,35,,"Jun 30, 2023",2-yrs,"€ 7,700,000",Cagliari,Serie A,2021-2022
+2,Giovanni Simeone,"€ 53,462","€ 2,780,000",CF,26,,"Jun 30, 2024",3-yrs,"€ 8,340,000",Cagliari,Serie A,2021-2022
+3,Marko Rog,"€ 53,462","€ 2,780,000",CM,25,,"Jun 30, 2024",3-yrs,"€ 8,340,000",Cagliari,Serie A,2021-2022
+4,Leonardo Pavoletti,"€ 49,808","€ 2,590,000",CF,32,,"Jun 30, 2024",3-yrs,"€ 7,770,000",Cagliari,Serie A,2021-2022
+5,João Pedro,"€ 49,808","€ 2,590,000",SS,29,,"Jun 30, 2023",2-yrs,"€ 5,180,000",Cagliari,Serie A,2021-2022
+6,Nahitan Nández,"€ 39,423","€ 2,050,000",CM,25,,"Jun 30, 2024",3-yrs,"€ 6,150,000",Cagliari,Serie A,2021-2022
+7,Alberto Cerri,"€ 35,577","€ 1,850,000",CF,25,,"Jun 30, 2024",3-yrs,"€ 5,550,000",Cagliari,Serie A,2021-2022
+8,Diego Farias,"€ 35,577","€ 1,850,000",LW,31,,"Jun 30, 2022",1-yr,"€ 1,850,000",Cagliari,Serie A,2021-2022
+9,Luca Ceppitelli,"€ 35,577","€ 1,850,000",CB,31,,"Jun 30, 2022",1-yr,"€ 1,850,000",Cagliari,Serie A,2021-2022
+10,Alessio Cragno,"€ 35,577","€ 1,850,000",GK,27,,"Jun 30, 2024",3-yrs,"€ 5,550,000",Cagliari,Serie A,2021-2022
+11,Gastón Pereiro,"€ 34,423","€ 1,790,000",AM,26,,"Jun 30, 2024",3-yrs,"€ 5,370,000",Cagliari,Serie A,2021-2022
+12,Razvan Marin,"€ 24,615","€ 1,280,000",CM,25,,"Jun 30, 2025",4-yrs,"€ 5,120,000",Cagliari,Serie A,2021-2022
+13,Charalampos Lykogiannis,"€ 17,885","€ 930,000",LB,27,,"Jun 30, 2022",1-yr,"€ 930,000",Cagliari,Serie A,2021-2022
+14,Paolo Faragò,"€ 17,885","€ 930,000",RB,28,,"Jun 30, 2022",1-yr,"€ 930,000",Cagliari,Serie A,2021-2022
+15,Andrea Carboni,"€ 11,731","€ 610,000",CB,20,,"Jun 30, 2025",4-yrs,"€ 2,440,000",Cagliari,Serie A,2021-2022
+16,Gabriele Zappa,"€ 10,769","€ 560,000",RB,21,,"Jun 30, 2025",4-yrs,"€ 2,240,000",Cagliari,Serie A,2021-2022
+17,Alessandro Tripaldelli,"€ 10,769","€ 560,000",LB,22,,"Jun 30, 2023",2-yrs,"€ 1,120,000",Cagliari,Serie A,2021-2022
+18,Alessandro Deiola,"€ 10,769","€ 560,000",CM,25,,"Jun 30, 2022",1-yr,"€ 560,000",Cagliari,Serie A,2021-2022
+19,Zito Luvumbo,"€ 8,846","€ 460,000",RW,19,,"Jun 30, 2025",4-yrs,"€ 1,840,000",Cagliari,Serie A,2021-2022
+20,Christian Oliva,"€ 7,308","€ 380,000",DM,25,,"Jun 30, 2023",2-yrs,"€ 760,000",Cagliari,Serie A,2021-2022
+21,Sebastian Walukiewicz,"€ 7,308","€ 380,000",CB,21,,"Jun 30, 2024",3-yrs,"€ 1,140,000",Cagliari,Serie A,2021-2022
+22,Fabrizio Caligara,"€ 5,385","€ 280,000",CM,21,,"Jun 30, 2023",2-yrs,"€ 560,000",Cagliari,Serie A,2021-2022
+23,Simone Aresti,"€ 5,385","€ 280,000",GK,35,,"Jun 30, 2022",1-yr,"€ 280,000",Cagliari,Serie A,2021-2022
+24,Giuseppe Ciocci,€ 0,€ 0,GK,19,,"Jun 30, 2024",3-yrs,€ 0,Cagliari,Serie A,2021-2022
+25,Damir Ceter,€ 0,€ 0,CF,23,,"Jun 30, 2022",1-yr,€ 0,Cagliari,Serie A,2021-2022
+26,Adam Obert,€ 0,€ 0,CB,18,,"Jun 30, 2022",1-yr,€ 0,Cagliari,Serie A,2021-2022
+27,Riccardo Ladinetti,€ 0,€ 0,DM,20,,"Jun 30, 2024",3-yrs,€ 0,Cagliari,Serie A,2021-2022
+28,Roberto Biancu,€ 0,€ 0,CM,21,,"Jun 30, 2024",3-yrs,€ 0,Cagliari,Serie A,2021-2022
+29,Salvatore Boccia,€ 0,€ 0,CB,20,,"Jun 30, 2023",2-yrs,€ 0,Cagliari,Serie A,2021-2022
+0,Patrick Cutrone,"€ 73,462","€ 3,820,000",CF,23,,"Jun 30, 2022",1-yr,"€ 3,820,000",Empoli,Serie A,2021-2022
+1,Nicolas Haas,"€ 17,500","€ 910,000",CM,25,,"Jun 30, 2024",3-yrs,"€ 2,730,000",Empoli,Serie A,2021-2022
+2,Alberto Brignoli,"€ 14,231","€ 740,000",GK,29,,"Jun 30, 2022",1-yr,"€ 740,000",Empoli,Serie A,2021-2022
+3,Leonardo Mancuso,"€ 11,731","€ 610,000",CF,29,,"Jun 30, 2023",2-yrs,"€ 1,220,000",Empoli,Serie A,2021-2022
+4,Riccardo Fiamozzi,"€ 11,731","€ 610,000",RB,28,,"Jun 30, 2022",1-yr,"€ 610,000",Empoli,Serie A,2021-2022
+5,Leo Stulac,"€ 11,731","€ 610,000",DM,26,,"Jun 30, 2023",2-yrs,"€ 1,220,000",Empoli,Serie A,2021-2022
+6,Filippo Bandinelli,"€ 10,962","€ 570,000",CM,26,,"Jun 30, 2023",2-yrs,"€ 1,140,000",Empoli,Serie A,2021-2022
+7,Simone Romagnoli,"€ 10,769","€ 560,000",CB,31,,"Jun 30, 2022",1-yr,"€ 560,000",Empoli,Serie A,2021-2022
+8,Guglielmo Vicario,"€ 10,769","€ 560,000",GK,24,,"Jun 30, 2022",1-yr,"€ 560,000",Empoli,Serie A,2021-2022
+9,Andrea La Mantia,"€ 9,231","€ 480,000",CF,30,,"Jun 30, 2023",2-yrs,"€ 960,000",Empoli,Serie A,2021-2022
+10,Stefano Sabelli,"€ 8,846","€ 460,000",RB,28,,"Jun 30, 2022",1-yr,"€ 460,000",Empoli,Serie A,2021-2022
+11,Stefano Moreo,"€ 7,500","€ 390,000",CF,28,,"Jun 30, 2022",1-yr,"€ 390,000",Empoli,Serie A,2021-2022
+12,Giovanni Crociata,"€ 7,115","€ 370,000",CM,23,,"Jun 30, 2022",1-yr,"€ 370,000",Empoli,Serie A,2021-2022
+13,Samuele Damiani,"€ 7,115","€ 370,000",DM,23,,"Jun 30, 2024",3-yrs,"€ 1,110,000",Empoli,Serie A,2021-2022
+14,Roberto Pirrello,"€ 5,000","€ 260,000",CB,25,,"Jun 30, 2024",3-yrs,"€ 780,000",Empoli,Serie A,2021-2022
+15,Samuele Ricci,"€ 4,231","€ 220,000",CM,19,,"Jun 30, 2024",3-yrs,"€ 660,000",Empoli,Serie A,2021-2022
+16,Jacopo Furlan,"€ 2,500","€ 130,000",GK,28,,"Jun 30, 2022",1-yr,"€ 130,000",Empoli,Serie A,2021-2022
+17,Nedim Bajrami,"€ 2,500","€ 130,000",AM,22,,"Jun 30, 2024",3-yrs,"€ 390,000",Empoli,Serie A,2021-2022
+18,Dimitrios Nikolaou,"€ 1,538","€ 80,000",CB,22,,"Jun 30, 2023",2-yrs,"€ 160,000",Empoli,Serie A,2021-2022
+19,Mattia Viti,"€ 1,154","€ 60,000",CB,19,,"Jun 30, 2025",4-yrs,"€ 240,000",Empoli,Serie A,2021-2022
+20,Leandro Pratelli,€ 769,"€ 40,000",GK,18,,"Jun 30, 2022",1-yr,"€ 40,000",Empoli,Serie A,2021-2022
+21,Fabiano Parisi,€ 769,"€ 40,000",LB,20,,"Jun 30, 2023",2-yrs,"€ 80,000",Empoli,Serie A,2021-2022
+22,Simone Canestrelli,€ 0,€ 0,CB,20,,"Jun 30, 2022",1-yr,€ 0,Empoli,Serie A,2021-2022
+23,Samuel Mraz,€ 0,€ 0,CF,24,,"Jun 30, 2022",1-yr,€ 0,Empoli,Serie A,2021-2022
+24,Kevin Piscopo,€ 0,€ 0,SS,23,,"Jun 30, 2022",1-yr,€ 0,Empoli,Serie A,2021-2022
+25,Davide Merola,€ 0,€ 0,CF,21,,"Jun 30, 2023",2-yrs,€ 0,Empoli,Serie A,2021-2022
+0,José Callejón,"€ 78,269","€ 4,070,000",RW,34,,"Jun 30, 2022",1-yr,"€ 4,070,000",Fiorentina,Serie A,2021-2022
+1,Nicolás González,"€ 61,731","€ 3,210,000",LW,23,,"Jun 30, 2026",5-yrs,"€ 16,050,000",Fiorentina,Serie A,2021-2022
+2,Giacomo Bonaventura,"€ 53,462","€ 2,780,000",CM,31,,"Jun 30, 2022",1-yr,"€ 2,780,000",Fiorentina,Serie A,2021-2022
+3,Gaetano Castrovilli,"€ 49,808","€ 2,590,000",CM,24,,"Jun 30, 2024",3-yrs,"€ 7,770,000",Fiorentina,Serie A,2021-2022
+4,Alfred Duncan,"€ 46,346","€ 2,410,000",CM,28,,"Jun 30, 2024",3-yrs,"€ 7,230,000",Fiorentina,Serie A,2021-2022
+5,Cristiano Biraghi,"€ 42,692","€ 2,220,000",LB,28,,"Jun 30, 2024",3-yrs,"€ 6,660,000",Fiorentina,Serie A,2021-2022
+6,Aleksandr Kokorin,"€ 41,923","€ 2,180,000",CF,30,,"Jun 30, 2024",3-yrs,"€ 6,540,000",Fiorentina,Serie A,2021-2022
+7,Marco Benassi,"€ 39,231","€ 2,040,000",CM,26,,"Jun 30, 2022",1-yr,"€ 2,040,000",Fiorentina,Serie A,2021-2022
+8,Sofyan Amrabat,"€ 36,923","€ 1,920,000",DM,24,,"Jun 30, 2024",3-yrs,"€ 5,760,000",Fiorentina,Serie A,2021-2022
+9,Erick Pulgar,"€ 32,115","€ 1,670,000",DM,27,,"Jun 30, 2023",2-yrs,"€ 3,340,000",Fiorentina,Serie A,2021-2022
+10,Pol Lirola,"€ 32,115","€ 1,670,000",RB,23,,"Jun 30, 2024",3-yrs,"€ 5,010,000",Fiorentina,Serie A,2021-2022
+11,Nikola Milenkovic,"€ 28,462","€ 1,480,000",CB,23,,"Jun 30, 2022",1-yr,"€ 1,480,000",Fiorentina,Serie A,2021-2022
+12,Bartlomiej Dragowski,"€ 28,462","€ 1,480,000",GK,23,,"Jun 30, 2023",2-yrs,"€ 2,960,000",Fiorentina,Serie A,2021-2022
+13,Lucas Martínez Quarta,"€ 24,615","€ 1,280,000",CB,25,,"Jun 30, 2025",4-yrs,"€ 5,120,000",Fiorentina,Serie A,2021-2022
+14,Riccardo Saponara,"€ 24,615","€ 1,280,000",AM,29,,"Jun 30, 2022",1-yr,"€ 1,280,000",Fiorentina,Serie A,2021-2022
+15,Dusan Vlahovic,"€ 19,808","€ 1,030,000",CF,21,,"Jun 30, 2023",2-yrs,"€ 2,060,000",Fiorentina,Serie A,2021-2022
+16,Riccardo Sottil,"€ 17,885","€ 930,000",LW,22,,"Jun 30, 2024",3-yrs,"€ 2,790,000",Fiorentina,Serie A,2021-2022
+17,Igor,"€ 17,308","€ 900,000",CB,23,,"Jun 30, 2024",3-yrs,"€ 2,700,000",Fiorentina,Serie A,2021-2022
+18,Lorenzo Venuti,"€ 14,231","€ 740,000",RB,26,,"Jun 30, 2024",3-yrs,"€ 2,220,000",Fiorentina,Serie A,2021-2022
+19,Pietro Terracciano,"€ 10,769","€ 560,000",GK,31,,"Jun 30, 2023",2-yrs,"€ 1,120,000",Fiorentina,Serie A,2021-2022
+20,Antonio Rosati,"€ 5,385","€ 280,000",GK,38,,"Jun 30, 2022",1-yr,"€ 280,000",Fiorentina,Serie A,2021-2022
+21,Tòfol Montiel,"€ 3,654","€ 190,000",AM,21,,"Jun 30, 2023",2-yrs,"€ 380,000",Fiorentina,Serie A,2021-2022
+22,Federico Brancolini,€ 769,"€ 40,000",GK,20,,"Jun 30, 2022",1-yr,"€ 40,000",Fiorentina,Serie A,2021-2022
+23,Youssef Maleh,€ 0,€ 0,CM,22,,"Jun 30, 2024",3-yrs,€ 0,Fiorentina,Serie A,2021-2022
+24,Aleksa Terzic,€ 0,€ 0,LB,21,,"Jun 30, 2024",3-yrs,€ 0,Fiorentina,Serie A,2021-2022
+25,Christian Dalle Mura,€ 0,€ 0,CB,19,,"Jun 30, 2023",2-yrs,€ 0,Fiorentina,Serie A,2021-2022
+26,Gabriele Ferrarini,€ 0,€ 0,RB,21,,"Jun 30, 2023",2-yrs,€ 0,Fiorentina,Serie A,2021-2022
+27,Louis Munteanu,€ 0,€ 0,CF,19,,"Jun 30, 2025",4-yrs,€ 0,Fiorentina,Serie A,2021-2022
+28,Luca Ranieri,€ 0,€ 0,CB,22,,"Jun 30, 2024",3-yrs,€ 0,Fiorentina,Serie A,2021-2022
+29,Michele Cerofolini,€ 0,€ 0,GK,22,,"Jun 30, 2023",2-yrs,€ 0,Fiorentina,Serie A,2021-2022
+30,Rafik Zekhnini,€ 0,€ 0,LW,23,,"Jun 30, 2022",1-yr,€ 0,Fiorentina,Serie A,2021-2022
+31,Szymon Zurkowski,€ 0,€ 0,CM,23,,"Jun 30, 2024",3-yrs,€ 0,Fiorentina,Serie A,2021-2022
+0,Domenico Criscito,"€ 42,692","€ 2,220,000",LB,34,,"Jun 30, 2023",2-yrs,"€ 4,440,000",Genoa,Serie A,2021-2022
+1,Milan Badelj,"€ 34,423","€ 1,790,000",DM,32,,"Jun 30, 2023",2-yrs,"€ 3,580,000",Genoa,Serie A,2021-2022
+2,Stefano Sturaro,"€ 29,615","€ 1,540,000",CM,28,,"Jun 30, 2022",1-yr,"€ 1,540,000",Genoa,Serie A,2021-2022
+3,Davide Biraschi,"€ 25,000","€ 1,300,000",CB,27,,"Jun 30, 2024",3-yrs,"€ 3,900,000",Genoa,Serie A,2021-2022
+4,Andrea Favilli,"€ 25,000","€ 1,300,000",CF,24,,"Jun 30, 2023",2-yrs,"€ 2,600,000",Genoa,Serie A,2021-2022
+5,Mattia Bani,"€ 25,000","€ 1,300,000",CB,27,,"Jun 30, 2022",1-yr,"€ 1,300,000",Genoa,Serie A,2021-2022
+6,Andrea Masiello,"€ 25,000","€ 1,300,000",CB,35,,"Jun 30, 2022",1-yr,"€ 1,300,000",Genoa,Serie A,2021-2022
+7,Francesco Cassata,"€ 21,346","€ 1,110,000",CM,23,,"Jun 30, 2022",1-yr,"€ 1,110,000",Genoa,Serie A,2021-2022
+8,Ivan Radovanovic,"€ 21,346","€ 1,110,000",CB,32,,"Jun 30, 2022",1-yr,"€ 1,110,000",Genoa,Serie A,2021-2022
+9,Paolo Ghiglione,"€ 21,346","€ 1,110,000",RM,24,,"Jun 30, 2023",2-yrs,"€ 2,220,000",Genoa,Serie A,2021-2022
+10,Manolo Portanova,"€ 21,346","€ 1,110,000",AM,21,,"Jun 30, 2024",3-yrs,"€ 3,330,000",Genoa,Serie A,2021-2022
+11,Mattia Destro,"€ 19,615","€ 1,020,000",CF,30,,"Jun 30, 2022",1-yr,"€ 1,020,000",Genoa,Serie A,2021-2022
+12,Kevin Agudelo,"€ 14,231","€ 740,000",RW,22,,"Jun 30, 2023",2-yrs,"€ 1,480,000",Genoa,Serie A,2021-2022
+13,Federico Marchetti,"€ 14,231","€ 740,000",GK,38,,"Jun 30, 2022",1-yr,"€ 740,000",Genoa,Serie A,2021-2022
+14,Lennart Czyborra,"€ 9,808","€ 510,000",LM,22,,"Jun 30, 2022",1-yr,"€ 510,000",Genoa,Serie A,2021-2022
+15,Alberto Paleari,"€ 3,269","€ 170,000",GK,28,,"Jun 30, 2022",1-yr,"€ 170,000",Genoa,Serie A,2021-2022
+16,Giuseppe Caso,"€ 1,346","€ 70,000",LW,22,,"Jun 30, 2022",1-yr,"€ 70,000",Genoa,Serie A,2021-2022
+17,Filippo Melegoni,€ 962,"€ 50,000",CM,22,,"Jun 30, 2022",1-yr,"€ 50,000",Genoa,Serie A,2021-2022
+18,Nicolò Rovella,€ 769,"€ 40,000",DM,19,,"Jun 30, 2022",1-yr,"€ 40,000",Genoa,Serie A,2021-2022
+19,Lorenzo Andrenacci,€ 0,€ 0,GK,26,,"Jun 30, 2024",3-yrs,€ 0,Genoa,Serie A,2021-2022
+20,Luca Chierico,€ 0,€ 0,DM,19,,"Jun 30, 2022",1-yr,€ 0,Genoa,Serie A,2021-2022
+21,Lukas Lerager,€ 0,€ 0,CM,28,,"Jun 30, 2023",2-yrs,€ 0,Genoa,Serie A,2021-2022
+22,Gabriel Charpentier,€ 0,€ 0,CF,22,,"Jun 30, 2023",2-yrs,€ 0,Genoa,Serie A,2021-2022
+23,Flavio Bianchi,€ 0,€ 0,CF,21,,"Jun 30, 2024",3-yrs,€ 0,Genoa,Serie A,2021-2022
+24,Filip Jagiello,€ 0,€ 0,CM,23,,"Jun 30, 2023",2-yrs,€ 0,Genoa,Serie A,2021-2022
+25,Andrea Cambiaso,€ 0,€ 0,RB,21,,"Jun 30, 2022",1-yr,€ 0,Genoa,Serie A,2021-2022
+26,Pawel Jaroszynski,€ 0,€ 0,LB,26,,"Jun 30, 2023",2-yrs,€ 0,Genoa,Serie A,2021-2022
+27,Raúl Asencio,€ 0,€ 0,CF,23,,"Jun 30, 2024",3-yrs,€ 0,Genoa,Serie A,2021-2022
+28,Aleksander Buksa,€ 0,€ 0,CF,18,,"Jun 30, 2026",5-yrs,€ 0,Genoa,Serie A,2021-2022
+29,Vittorio Parigini,€ 0,€ 0,RW,25,,"Jun 30, 2024",3-yrs,€ 0,Genoa,Serie A,2021-2022
+30,Yayah Kallon,€ 0,€ 0,SS,20,,"Jun 30, 2022",1-yr,€ 0,Genoa,Serie A,2021-2022
+31,Jandrei,€ 0,€ 0,GK,28,,"Jun 30, 2022",1-yr,€ 0,Genoa,Serie A,2021-2022
+32,Zinho Vanheusden,€ 0,€ 0,CB,21,,"Jun 30, 2026",5-yrs,€ 0,Genoa,Serie A,2021-2022
+33,Laurens Serpe,€ 0,€ 0,CB,20,,"Jun 30, 2023",2-yrs,€ 0,Genoa,Serie A,2021-2022
+34,Giacomo Calò,€ 0,€ 0,DM,24,,"Jun 30, 2023",2-yrs,€ 0,Genoa,Serie A,2021-2022
+0,Nikola Kalinic,"€ 53,462","€ 2,780,000",CF,33,,"Jun 30, 2022",1-yr,"€ 2,780,000",Hellas Verona,Serie A,2021-2022
+1,Samuel Di Carmine,"€ 25,000","€ 1,300,000",CF,32,,"Jun 30, 2022",1-yr,"€ 1,300,000",Hellas Verona,Serie A,2021-2022
+2,Kevin Lasagna,"€ 25,000","€ 1,300,000",CF,28,,"Jun 30, 2022",1-yr,"€ 1,300,000",Hellas Verona,Serie A,2021-2022
+3,Darko Lazovic,"€ 21,346","€ 1,110,000",LM,30,,"Jun 30, 2024",3-yrs,"€ 3,330,000",Hellas Verona,Serie A,2021-2022
+4,Koray Günter,"€ 21,346","€ 1,110,000",CB,26,,"Jun 30, 2023",2-yrs,"€ 2,220,000",Hellas Verona,Serie A,2021-2022
+5,Giangiacomo Magnani,"€ 21,346","€ 1,110,000",CB,25,,"Jun 30, 2022",1-yr,"€ 1,110,000",Hellas Verona,Serie A,2021-2022
+6,Antonin Barak,"€ 17,885","€ 930,000",AM,26,,"Jun 30, 2022",1-yr,"€ 930,000",Hellas Verona,Serie A,2021-2022
+7,Davide Faraoni,"€ 17,885","€ 930,000",RM,29,,"Jun 30, 2024",3-yrs,"€ 2,790,000",Hellas Verona,Serie A,2021-2022
+8,Federico Ceccherini,"€ 17,885","€ 930,000",CB,29,,"Jun 30, 2022",1-yr,"€ 930,000",Hellas Verona,Serie A,2021-2022
+9,Marco Silvestri,"€ 17,885","€ 930,000",GK,30,,"Jun 30, 2022",1-yr,"€ 930,000",Hellas Verona,Serie A,2021-2022
+10,Miguel Veloso,"€ 17,885","€ 930,000",DM,35,,"Jun 30, 2022",1-yr,"€ 930,000",Hellas Verona,Serie A,2021-2022
+11,Daniel Bessa,"€ 15,962","€ 830,000",CM,28,,"Jun 30, 2022",1-yr,"€ 830,000",Hellas Verona,Serie A,2021-2022
+12,Adrien Tamèze,"€ 12,308","€ 640,000",DM,27,,"Jun 30, 2024",3-yrs,"€ 1,920,000",Hellas Verona,Serie A,2021-2022
+13,Kevin Rüegg,"€ 7,308","€ 380,000",RB,22,,"Jun 30, 2025",4-yrs,"€ 1,520,000",Hellas Verona,Serie A,2021-2022
+14,Pawel Dawidowicz,"€ 7,308","€ 380,000",CB,26,,"Jun 30, 2025",4-yrs,"€ 1,520,000",Hellas Verona,Serie A,2021-2022
+15,Mert Cetin,"€ 6,154","€ 320,000",CB,24,,"Jun 30, 2022",1-yr,"€ 320,000",Hellas Verona,Serie A,2021-2022
+16,Martin Hongla,"€ 5,962","€ 310,000",DM,23,,"Jun 30, 2022",1-yr,"€ 310,000",Hellas Verona,Serie A,2021-2022
+17,Alessandro Berardi,"€ 5,385","€ 280,000",GK,30,,"Jun 30, 2023",2-yrs,"€ 560,000",Hellas Verona,Serie A,2021-2022
+18,Ivor Pandur,"€ 3,654","€ 190,000",GK,21,,"Jun 30, 2025",4-yrs,"€ 760,000",Hellas Verona,Serie A,2021-2022
+19,Gianluca Frabotta,"€ 3,654","€ 190,000",LB,22,,"Jun 30, 2022",1-yr,"€ 190,000",Hellas Verona,Serie A,2021-2022
+20,Matteo Lovato,"€ 2,885","€ 150,000",CB,21,,"Jun 30, 2024",3-yrs,"€ 450,000",Hellas Verona,Serie A,2021-2022
+21,Bruno Amione,"€ 2,500","€ 130,000",CB,19,,"Jun 30, 2025",4-yrs,"€ 520,000",Hellas Verona,Serie A,2021-2022
+22,Destiny Udogie,€ 769,"€ 40,000",LB,18,,"Jun 30, 2022",1-yr,"€ 40,000",Hellas Verona,Serie A,2021-2022
+23,Nicola Borghetto,€ 769,"€ 40,000",GK,21,,"Jun 30, 2022",1-yr,"€ 40,000",Hellas Verona,Serie A,2021-2022
+24,Lubomir Tupta,€ 0,€ 0,CF,23,,"Jun 30, 2023",2-yrs,€ 0,Hellas Verona,Serie A,2021-2022
+25,Antonino Ragusa,€ 0,€ 0,LW,31,,"Jun 30, 2022",1-yr,€ 0,Hellas Verona,Serie A,2021-2022
+26,Karim Laribi,€ 0,€ 0,AM,30,,"Jun 30, 2022",1-yr,€ 0,Hellas Verona,Serie A,2021-2022
+27,Nicolò Casale,€ 0,€ 0,CB,23,,"Jun 30, 2023",2-yrs,€ 0,Hellas Verona,Serie A,2021-2022
+28,Matteo Cancellieri,€ 0,€ 0,RW,19,,"Jun 30, 2022",1-yr,€ 0,Hellas Verona,Serie A,2021-2022
+29,Alan Empereur,€ 0,€ 0,CB,27,,"Jun 30, 2022",1-yr,€ 0,Hellas Verona,Serie A,2021-2022
+30,Mariusz Stepinski,€ 0,€ 0,CF,26,,"Jun 30, 2024",3-yrs,€ 0,Hellas Verona,Serie A,2021-2022
+0,Lautaro Martínez,"€ 213,654","€ 11,110,000",CF,23,,"Jun 30, 2025",4-yrs,"€ 44,440,000",Inter Milan,Serie A,2021-2022
+1,Christian Eriksen,"€ 185,000","€ 9,620,000",AM,29,,"Jun 30, 2024",3-yrs,"€ 28,860,000",Inter Milan,Serie A,2021-2022
+2,Hakan Calhanoglu,"€ 177,885","€ 9,250,000",AM,27,,"Jun 30, 2024",3-yrs,"€ 27,750,000",Inter Milan,Serie A,2021-2022
+3,Edin Dzeko,"€ 177,885","€ 9,250,000",CF,35,,"Jun 30, 2023",2-yrs,"€ 18,500,000",Inter Milan,Serie A,2021-2022
+4,Ivan Perisic,"€ 177,885","€ 9,250,000",LM,32,,"Jun 30, 2022",1-yr,"€ 9,250,000",Inter Milan,Serie A,2021-2022
+5,Alexis Sánchez,"€ 172,500","€ 8,970,000",CF,32,,"Jun 30, 2023",2-yrs,"€ 17,940,000",Inter Milan,Serie A,2021-2022
+6,Arturo Vidal,"€ 160,192","€ 8,330,000",CM,34,,"Jun 30, 2022",1-yr,"€ 8,330,000",Inter Milan,Serie A,2021-2022
+7,Stefan de Vrij,"€ 135,385","€ 7,040,000",CB,29,,"Jun 30, 2023",2-yrs,"€ 14,080,000",Inter Milan,Serie A,2021-2022
+8,Joaquín Correa,"€ 124,615","€ 6,480,000",SS,26,,"Jun 30, 2025",4-yrs,"€ 25,920,000",Inter Milan,Serie A,2021-2022
+9,Marcelo Brozovic,"€ 124,615","€ 6,480,000",DM,28,,"Jun 30, 2022",1-yr,"€ 6,480,000",Inter Milan,Serie A,2021-2022
+10,Samir Handanovic,"€ 114,038","€ 5,930,000",GK,37,,"Jun 30, 2022",1-yr,"€ 5,930,000",Inter Milan,Serie A,2021-2022
+11,Milan Skriniar,"€ 106,923","€ 5,560,000",CB,26,,"Jun 30, 2023",2-yrs,"€ 11,120,000",Inter Milan,Serie A,2021-2022
+12,Alessandro Bastoni,"€ 99,615","€ 5,180,000",CB,22,,"Jun 30, 2024",3-yrs,"€ 15,540,000",Inter Milan,Serie A,2021-2022
+13,Matías Vecino,"€ 89,038","€ 4,630,000",CM,29,,"Jun 30, 2022",1-yr,"€ 4,630,000",Inter Milan,Serie A,2021-2022
+14,Nicolò Barella,"€ 89,038","€ 4,630,000",CM,24,,"Jun 30, 2024",3-yrs,"€ 13,890,000",Inter Milan,Serie A,2021-2022
+15,Stefano Sensi,"€ 71,154","€ 3,700,000",CM,25,,"Jun 30, 2024",3-yrs,"€ 11,100,000",Inter Milan,Serie A,2021-2022
+16,Danilo D'Ambrosio,"€ 71,154","€ 3,700,000",RB,32,,"Jun 30, 2022",1-yr,"€ 3,700,000",Inter Milan,Serie A,2021-2022
+17,Andrea Pinamonti,"€ 71,154","€ 3,700,000",CF,22,,"Jun 30, 2024",3-yrs,"€ 11,100,000",Inter Milan,Serie A,2021-2022
+18,Andrea Ranocchia,"€ 64,038","€ 3,330,000",CB,33,,"Jun 30, 2022",1-yr,"€ 3,330,000",Inter Milan,Serie A,2021-2022
+19,Denzel Dumfries,"€ 61,538","€ 3,200,000",RB,25,,"Jun 30, 2025",4-yrs,"€ 12,800,000",Inter Milan,Serie A,2021-2022
+20,Roberto Gagliardini,"€ 53,462","€ 2,780,000",CM,27,,"Jun 30, 2023",2-yrs,"€ 5,560,000",Inter Milan,Serie A,2021-2022
+21,Aleksandar Kolarov,"€ 53,462","€ 2,780,000",LB,35,,"Jun 30, 2022",1-yr,"€ 2,780,000",Inter Milan,Serie A,2021-2022
+22,Matteo Darmian,"€ 49,231","€ 2,560,000",RB,31,,"Jun 30, 2024",3-yrs,"€ 7,680,000",Inter Milan,Serie A,2021-2022
+23,Dalbert,"€ 42,692","€ 2,220,000",LB,27,,"Jun 30, 2023",2-yrs,"€ 4,440,000",Inter Milan,Serie A,2021-2022
+24,Ionut Radu,"€ 35,577","€ 1,850,000",GK,24,,"Jun 30, 2024",3-yrs,"€ 5,550,000",Inter Milan,Serie A,2021-2022
+25,Federico Dimarco,"€ 17,885","€ 930,000",LB,23,,"Jun 30, 2023",2-yrs,"€ 1,860,000",Inter Milan,Serie A,2021-2022
+26,Lucien Agoume,"€ 8,654","€ 450,000",DM,19,,"Jun 30, 2022",1-yr,"€ 450,000",Inter Milan,Serie A,2021-2022
+27,Eddie Salcedo,"€ 7,115","€ 370,000",CF,19,,"Jun 30, 2024",3-yrs,"€ 1,110,000",Inter Milan,Serie A,2021-2022
+28,Alex Cordaz,"€ 5,385","€ 280,000",GK,38,,"Jun 30, 2022",1-yr,"€ 280,000",Inter Milan,Serie A,2021-2022
+29,Filip Stankovic,"€ 2,885","€ 150,000",GK,19,,"Jun 30, 2024",3-yrs,"€ 450,000",Inter Milan,Serie A,2021-2022
+30,Edoardo Vergani,€ 769,"€ 40,000",CF,20,,"Jun 30, 2023",2-yrs,"€ 80,000",Inter Milan,Serie A,2021-2022
+31,Valentino Lazaro,€ 0,€ 0,RM,25,,"Jun 30, 2024",3-yrs,€ 0,Inter Milan,Serie A,2021-2022
+32,Facundo Colidio,€ 0,€ 0,CF,21,,"Jun 30, 2023",2-yrs,€ 0,Inter Milan,Serie A,2021-2022
+33,Gabriel Brazão,€ 0,€ 0,GK,20,,"Jun 30, 2024",3-yrs,€ 0,Inter Milan,Serie A,2021-2022
+34,Georgios Vagiannidis,€ 0,€ 0,RB,19,,"Jun 30, 2024",3-yrs,€ 0,Inter Milan,Serie A,2021-2022
+35,Lorenzo Pirola,€ 0,€ 0,CB,19,,"Jun 30, 2025",4-yrs,€ 0,Inter Milan,Serie A,2021-2022
+36,Samuele Mulattieri,€ 0,€ 0,CF,20,,"Jun 30, 2023",2-yrs,€ 0,Inter Milan,Serie A,2021-2022
+0,Paulo Dybala,"€ 260,000","€ 13,520,000",SS,27,,"Jun 30, 2022",1-yr,"€ 13,520,000",Juventus,Serie A,2021-2022
+1,Wojciech Szczesny,"€ 231,538","€ 12,040,000",GK,31,,"Jun 30, 2024",3-yrs,"€ 36,120,000",Juventus,Serie A,2021-2022
+2,Leonardo Bonucci,"€ 231,538","€ 12,040,000",CB,34,,"Jun 30, 2024",3-yrs,"€ 36,120,000",Juventus,Serie A,2021-2022
+3,Alex Sandro,"€ 213,654","€ 11,110,000",LB,30,,"Jun 30, 2023",2-yrs,"€ 22,220,000",Juventus,Serie A,2021-2022
+4,Matthijs de Ligt,"€ 197,308","€ 10,260,000",CB,21,,"Jun 30, 2024",3-yrs,"€ 30,780,000",Juventus,Serie A,2021-2022
+5,Juan Cuadrado,"€ 177,885","€ 9,250,000",RB,33,,"Jun 30, 2022",1-yr,"€ 9,250,000",Juventus,Serie A,2021-2022
+6,Federico Chiesa,"€ 177,885","€ 9,250,000",RW,23,,"Jun 30, 2022",1-yr,"€ 9,250,000",Juventus,Serie A,2021-2022
+7,Adrien Rabiot,"€ 172,500","€ 8,970,000",CM,26,,"Jun 30, 2023",2-yrs,"€ 17,940,000",Juventus,Serie A,2021-2022
+8,Aaron Ramsey,"€ 172,500","€ 8,970,000",CM,30,,"Jun 30, 2023",2-yrs,"€ 17,940,000",Juventus,Serie A,2021-2022
+9,Federico Bernardeschi,"€ 142,500","€ 7,410,000",RW,27,,"Jun 30, 2022",1-yr,"€ 7,410,000",Juventus,Serie A,2021-2022
+10,Daniele Rugani,"€ 124,615","€ 6,480,000",CB,26,,"Jun 30, 2023",2-yrs,"€ 12,960,000",Juventus,Serie A,2021-2022
+11,Álvaro Morata,"€ 123,269","€ 6,410,000",CF,28,,"Jun 30, 2023",2-yrs,"€ 12,820,000",Juventus,Serie A,2021-2022
+12,Arthur,"€ 123,269","€ 6,410,000",CM,24,,"Jun 30, 2025",4-yrs,"€ 25,640,000",Juventus,Serie A,2021-2022
+13,Mattia De Sciglio,"€ 106,923","€ 5,560,000",RB,28,,"Jun 30, 2022",1-yr,"€ 5,560,000",Juventus,Serie A,2021-2022
+14,Manuel Locatelli,"€ 106,923","€ 5,560,000",DM,23,,"Jun 30, 2026",5-yrs,"€ 27,800,000",Juventus,Serie A,2021-2022
+15,Danilo,"€ 98,654","€ 5,130,000",RB,29,,"Jun 30, 2024",3-yrs,"€ 15,390,000",Juventus,Serie A,2021-2022
+16,Rodrigo Bentancur,"€ 89,038","€ 4,630,000",CM,24,,"Jun 30, 2024",3-yrs,"€ 13,890,000",Juventus,Serie A,2021-2022
+17,Giorgio Chiellini,"€ 89,038","€ 4,630,000",CB,36,,"Jun 30, 2023",2-yrs,"€ 9,260,000",Juventus,Serie A,2021-2022
+18,Dejan Kulusevski,"€ 89,038","€ 4,630,000",RW,21,,"Jun 30, 2025",4-yrs,"€ 18,520,000",Juventus,Serie A,2021-2022
+19,Mattia Perin,"€ 81,923","€ 4,260,000",GK,28,,"Jun 30, 2022",1-yr,"€ 4,260,000",Juventus,Serie A,2021-2022
+20,Merih Demiral,"€ 64,038","€ 3,330,000",CB,23,,"Jun 30, 2024",3-yrs,"€ 9,990,000",Juventus,Serie A,2021-2022
+21,Moise Kean,"€ 61,731","€ 3,210,000",CF,21,,"Jun 30, 2023",2-yrs,"€ 6,420,000",Juventus,Serie A,2021-2022
+22,Weston McKennie,"€ 61,731","€ 3,210,000",CM,22,,"Jun 30, 2025",4-yrs,"€ 12,840,000",Juventus,Serie A,2021-2022
+23,Luca Pellegrini,"€ 46,346","€ 2,410,000",LB,22,,"Jun 30, 2025",4-yrs,"€ 9,640,000",Juventus,Serie A,2021-2022
+24,Kaio Jorge,"€ 29,615","€ 1,540,000",CF,19,,"Jun 30, 2026",5-yrs,"€ 7,700,000",Juventus,Serie A,2021-2022
+25,Radu Dragusin,"€ 18,269","€ 950,000",CB,19,,"Jun 30, 2025",4-yrs,"€ 3,800,000",Juventus,Serie A,2021-2022
+26,Carlo Pinsoglio,"€ 10,769","€ 560,000",GK,31,,"Jun 30, 2023",2-yrs,"€ 1,120,000",Juventus,Serie A,2021-2022
+27,Hans Nicolussi Caviglia,"€ 10,769","€ 560,000",CM,21,,"Jun 30, 2023",2-yrs,"€ 1,120,000",Juventus,Serie A,2021-2022
+28,Nicolò Fagioli,€ 0,€ 0,AM,20,,"Jun 30, 2023",2-yrs,€ 0,Juventus,Serie A,2021-2022
+29,Stefano Gori,€ 0,€ 0,GK,25,,"Jun 30, 2024",3-yrs,€ 0,Juventus,Serie A,2021-2022
+0,Ciro Immobile,"€ 142,500","€ 7,410,000",CF,31,,"Jun 30, 2025",4-yrs,"€ 29,640,000",Lazio,Serie A,2021-2022
+1,Sergej Milinković-Savić,"€ 114,038","€ 5,930,000",CM,26,,"Jun 30, 2024",3-yrs,"€ 17,790,000",Lazio,Serie A,2021-2022
+2,Luis Alberto,"€ 89,038","€ 4,630,000",CM,28,,"Jun 30, 2025",4-yrs,"€ 18,520,000",Lazio,Serie A,2021-2022
+3,Lucas Leiva,"€ 81,923","€ 4,260,000",DM,34,,"Jun 30, 2022",1-yr,"€ 4,260,000",Lazio,Serie A,2021-2022
+4,Pedro,"€ 74,038","€ 3,850,000",RW,33,,"Jun 30, 2023",2-yrs,"€ 7,700,000",Lazio,Serie A,2021-2022
+5,Elseid Hysaj,"€ 71,154","€ 3,700,000",RB,27,,"Jun 30, 2025",4-yrs,"€ 14,800,000",Lazio,Serie A,2021-2022
+6,Pepe Reina,"€ 71,154","€ 3,700,000",GK,38,,"Jun 30, 2022",1-yr,"€ 3,700,000",Lazio,Serie A,2021-2022
+7,Felipe Caicedo,"€ 71,154","€ 3,700,000",CF,32,,"Jun 30, 2022",1-yr,"€ 3,700,000",Lazio,Serie A,2021-2022
+8,Mattia Zaccagni,"€ 69,423","€ 3,610,000",AM,26,,"Jun 30, 2022",1-yr,"€ 3,610,000",Lazio,Serie A,2021-2022
+9,Francesco Acerbi,"€ 64,038","€ 3,330,000",CB,33,,"Jun 30, 2023",2-yrs,"€ 6,660,000",Lazio,Serie A,2021-2022
+10,Vedat Muriqi,"€ 54,231","€ 2,820,000",CF,27,,"Jun 30, 2025",4-yrs,"€ 11,280,000",Lazio,Serie A,2021-2022
+11,Felipe Anderson,"€ 54,231","€ 2,820,000",LW,28,,"Jun 30, 2025",4-yrs,"€ 11,280,000",Lazio,Serie A,2021-2022
+12,Manuel Lazzari,"€ 53,462","€ 2,780,000",RM,27,,"Jun 30, 2024",3-yrs,"€ 8,340,000",Lazio,Serie A,2021-2022
+13,Danilo Cataldi,"€ 49,808","€ 2,590,000",CM,26,,"Jun 30, 2024",3-yrs,"€ 7,770,000",Lazio,Serie A,2021-2022
+14,Stefan Radu,"€ 49,808","€ 2,590,000",CB,34,,"Jun 30, 2023",2-yrs,"€ 5,180,000",Lazio,Serie A,2021-2022
+15,Thomas Strakosha,"€ 42,692","€ 2,220,000",GK,26,,"Jun 30, 2022",1-yr,"€ 2,220,000",Lazio,Serie A,2021-2022
+16,Mohamed Fares,"€ 42,692","€ 2,220,000",LM,25,,"Jun 30, 2025",4-yrs,"€ 8,880,000",Lazio,Serie A,2021-2022
+17,Riza Durmisi,"€ 35,577","€ 1,850,000",LB,27,,"Jun 30, 2023",2-yrs,"€ 3,700,000",Lazio,Serie A,2021-2022
+18,Patric,"€ 35,577","€ 1,850,000",CB,28,,"Jun 30, 2022",1-yr,"€ 1,850,000",Lazio,Serie A,2021-2022
+19,Gonzalo Escalante,"€ 34,423","€ 1,790,000",CM,28,,"Jun 30, 2024",3-yrs,"€ 5,370,000",Lazio,Serie A,2021-2022
+20,Adam Marusic,"€ 32,115","€ 1,670,000",RM,28,,"Jun 30, 2022",1-yr,"€ 1,670,000",Lazio,Serie A,2021-2022
+21,Luiz Felipe,"€ 28,462","€ 1,480,000",CB,24,,"Jun 30, 2022",1-yr,"€ 1,480,000",Lazio,Serie A,2021-2022
+22,Denis Vavro,"€ 24,615","€ 1,280,000",CB,25,,"Jun 30, 2024",3-yrs,"€ 3,840,000",Lazio,Serie A,2021-2022
+23,Bobby Adekanye,"€ 18,846","€ 980,000",RW,22,,"Jun 30, 2022",1-yr,"€ 980,000",Lazio,Serie A,2021-2022
+24,Nicolò Armini,"€ 17,885","€ 930,000",CB,20,,"Jun 30, 2023",2-yrs,"€ 1,860,000",Lazio,Serie A,2021-2022
+25,Djavan Anderson,"€ 17,885","€ 930,000",RM,26,,"Jun 30, 2023",2-yrs,"€ 1,860,000",Lazio,Serie A,2021-2022
+26,Sofian Kiyine,"€ 17,885","€ 930,000",CM,23,,"Jun 30, 2024",3-yrs,"€ 2,790,000",Lazio,Serie A,2021-2022
+27,Jean-Daniel Akpa Akpro,"€ 17,885","€ 930,000",CM,28,,"Jun 30, 2024",3-yrs,"€ 2,790,000",Lazio,Serie A,2021-2022
+28,Marco Alia,"€ 1,731","€ 90,000",GK,21,,"Jun 30, 2022",1-yr,"€ 90,000",Lazio,Serie A,2021-2022
+29,Emanuele Cicerelli,€ 0,€ 0,LW,26,,"Jun 30, 2023",2-yrs,€ 0,Lazio,Serie A,2021-2022
+30,Dimitrije Kamenovic,€ 0,€ 0,LB,20,,"Jun 30, 2025",4-yrs,€ 0,Lazio,Serie A,2021-2022
+31,Jony,€ 0,€ 0,LW,30,,"Jun 30, 2023",2-yrs,€ 0,Lazio,Serie A,2021-2022
+32,Jordan Lukaku,€ 0,€ 0,LB,26,,"Jun 30, 2022",1-yr,€ 0,Lazio,Serie A,2021-2022
+33,Marius Adamonis,€ 0,€ 0,GK,24,,"Jun 30, 2022",1-yr,€ 0,Lazio,Serie A,2021-2022
+34,Cristiano Lombardi,€ 0,€ 0,RW,25,,"Jun 30, 2022",1-yr,€ 0,Lazio,Serie A,2021-2022
+35,Patryk Dziczek,€ 0,€ 0,DM,23,,"Jun 30, 2024",3-yrs,€ 0,Lazio,Serie A,2021-2022
+36,Cedric Gondo,€ 0,€ 0,CF,24,,"Jun 30, 2023",2-yrs,€ 0,Lazio,Serie A,2021-2022
+37,Raúl Moro,€ 0,€ 0,LW,18,,"Jun 30, 2022",1-yr,€ 0,Lazio,Serie A,2021-2022
+38,André Anderson,€ 0,€ 0,AM,21,,"Jun 30, 2023",2-yrs,€ 0,Lazio,Serie A,2021-2022
+39,Simone Palombi,€ 0,€ 0,CF,25,,"Jun 30, 2022",1-yr,€ 0,Lazio,Serie A,2021-2022
+40,Tiago Casasola,€ 0,€ 0,RB,25,,"Jun 30, 2023",2-yrs,€ 0,Lazio,Serie A,2021-2022
+41,Fabio Maistro,€ 0,€ 0,CM,23,,"Jun 30, 2022",1-yr,€ 0,Lazio,Serie A,2021-2022
+0,Kalidou Koulibaly,"€ 213,654","€ 11,110,000",CB,30,,"Jun 30, 2023",2-yrs,"€ 22,220,000",Napoli,Serie A,2021-2022
+1,Lorenzo Insigne,"€ 163,846","€ 8,520,000",LW,30,,"Jun 30, 2022",1-yr,"€ 8,520,000",Napoli,Serie A,2021-2022
+2,Dries Mertens,"€ 160,192","€ 8,330,000",CF,34,,"Jun 30, 2022",1-yr,"€ 8,330,000",Napoli,Serie A,2021-2022
+3,Konstantinos Manolas,"€ 142,500","€ 7,410,000",CB,30,,"Jun 30, 2024",3-yrs,"€ 22,230,000",Napoli,Serie A,2021-2022
+4,Piotr Zielinski,"€ 124,615","€ 6,480,000",AM,27,,"Jun 30, 2024",3-yrs,"€ 19,440,000",Napoli,Serie A,2021-2022
+5,Hirving Lozano,"€ 110,962","€ 5,770,000",RW,25,,"Jun 30, 2024",3-yrs,"€ 17,310,000",Napoli,Serie A,2021-2022
+6,Victor Osimhen,"€ 110,962","€ 5,770,000",CF,22,,"Jun 30, 2025",4-yrs,"€ 23,080,000",Napoli,Serie A,2021-2022
+7,Faouzi Ghoulam,"€ 85,385","€ 4,440,000",LB,30,,"Jun 30, 2022",1-yr,"€ 4,440,000",Napoli,Serie A,2021-2022
+8,Giovanni Di Lorenzo,"€ 81,923","€ 4,260,000",RB,27,,"Jun 30, 2025",4-yrs,"€ 17,040,000",Napoli,Serie A,2021-2022
+9,Matteo Politano,"€ 78,269","€ 4,070,000",RW,27,,"Jun 30, 2024",3-yrs,"€ 12,210,000",Napoli,Serie A,2021-2022
+10,Mário Rui,"€ 74,808","€ 3,890,000",LB,30,,"Jun 30, 2025",4-yrs,"€ 15,560,000",Napoli,Serie A,2021-2022
+11,Andrea Petagna,"€ 64,038","€ 3,330,000",CF,26,,"Jun 30, 2024",3-yrs,"€ 9,990,000",Napoli,Serie A,2021-2022
+12,Diego Demme,"€ 61,731","€ 3,210,000",DM,29,,"Jun 30, 2024",3-yrs,"€ 9,630,000",Napoli,Serie A,2021-2022
+13,Fabián Ruiz,"€ 53,462","€ 2,780,000",CM,25,,"Jun 30, 2023",2-yrs,"€ 5,560,000",Napoli,Serie A,2021-2022
+14,Stanislav Lobotka,"€ 49,231","€ 2,560,000",DM,26,,"Jun 30, 2024",3-yrs,"€ 7,680,000",Napoli,Serie A,2021-2022
+15,Amir Rrahmani,"€ 44,423","€ 2,310,000",CB,27,,"Jun 30, 2024",3-yrs,"€ 6,930,000",Napoli,Serie A,2021-2022
+16,Eljif Elmas,"€ 36,923","€ 1,920,000",AM,21,,"Jun 30, 2025",4-yrs,"€ 7,680,000",Napoli,Serie A,2021-2022
+17,Adam Ounas,"€ 35,577","€ 1,850,000",RW,24,,"Jun 30, 2022",1-yr,"€ 1,850,000",Napoli,Serie A,2021-2022
+18,Alex Meret,"€ 35,577","€ 1,850,000",GK,24,,"Jun 30, 2023",2-yrs,"€ 3,700,000",Napoli,Serie A,2021-2022
+19,Juan Jesus,"€ 35,577","€ 1,850,000",CB,30,,"Jun 30, 2022",1-yr,"€ 1,850,000",Napoli,Serie A,2021-2022
+20,David Ospina,"€ 34,423","€ 1,790,000",GK,32,,"Jun 30, 2022",1-yr,"€ 1,790,000",Napoli,Serie A,2021-2022
+21,Kévin Malcuit,"€ 28,462","€ 1,480,000",RB,29,,"Jun 30, 2022",1-yr,"€ 1,480,000",Napoli,Serie A,2021-2022
+22,Sebastiano Luperto,"€ 25,000","€ 1,300,000",CB,24,,"Jun 30, 2023",2-yrs,"€ 2,600,000",Napoli,Serie A,2021-2022
+23,Nikita Contini,"€ 10,769","€ 560,000",GK,25,,"Jun 30, 2025",4-yrs,"€ 2,240,000",Napoli,Serie A,2021-2022
+24,Filippo Costa,€ 0,€ 0,LB,26,,"Jun 30, 2022",1-yr,€ 0,Napoli,Serie A,2021-2022
+25,Michael Folorunsho,€ 0,€ 0,CM,23,,"Jun 30, 2024",3-yrs,€ 0,Napoli,Serie A,2021-2022
+26,Antonio Cioffi,€ 0,€ 0,LW,18,,"Jun 30, 2022",1-yr,€ 0,Napoli,Serie A,2021-2022
+27,Amato Ciciretti,€ 0,€ 0,RW,27,,"Jun 30, 2022",1-yr,€ 0,Napoli,Serie A,2021-2022
+28,Alessandro Zanoli,€ 0,€ 0,RB,20,,"Jun 30, 2023",2-yrs,€ 0,Napoli,Serie A,2021-2022
+29,Karim Zedadka,€ 0,€ 0,LM,21,,"Jun 30, 2022",1-yr,€ 0,Napoli,Serie A,2021-2022
+30,Zinédine Machach,€ 0,€ 0,AM,25,,"Jun 30, 2022",1-yr,€ 0,Napoli,Serie A,2021-2022
+31,Gianluca Gaetano,€ 0,€ 0,AM,21,,"Jun 30, 2023",2-yrs,€ 0,Napoli,Serie A,2021-2022
+32,Gennaro Tutino,€ 0,€ 0,CF,24,,"Jun 30, 2024",3-yrs,€ 0,Napoli,Serie A,2021-2022
+33,Luca Palmiero,€ 0,€ 0,DM,25,,"Jun 30, 2023",2-yrs,€ 0,Napoli,Serie A,2021-2022
+0,Javier Pastore,"€ 160,192","€ 8,330,000",AM,32,,"Jun 30, 2023",2-yrs,"€ 16,660,000",Roma,Serie A,2021-2022
+1,Tammy Abraham,"€ 110,962","€ 5,770,000",CF,23,,"Jun 30, 2026",5-yrs,"€ 28,850,000",Roma,Serie A,2021-2022
+2,Steven Nzonzi,"€ 110,385","€ 5,740,000",DM,32,,"Jun 30, 2022",1-yr,"€ 5,740,000",Roma,Serie A,2021-2022
+3,Jordan Veretout,"€ 106,923","€ 5,560,000",CM,28,,"Jun 30, 2024",3-yrs,"€ 16,680,000",Roma,Serie A,2021-2022
+4,Stephan El Shaarawy,"€ 106,923","€ 5,560,000",LW,28,,"Jun 30, 2023",2-yrs,"€ 11,120,000",Roma,Serie A,2021-2022
+5,Leonardo Spinazzola,"€ 106,923","€ 5,560,000",LB,28,,"Jun 30, 2024",3-yrs,"€ 16,680,000",Roma,Serie A,2021-2022
+6,Chris Smalling,"€ 93,654","€ 4,870,000",CB,31,,"Jun 30, 2023",2-yrs,"€ 9,740,000",Roma,Serie A,2021-2022
+7,Nicolò Zaniolo,"€ 89,038","€ 4,630,000",AM,22,,"Jun 30, 2024",3-yrs,"€ 13,890,000",Roma,Serie A,2021-2022
+8,Amadou Diawara,"€ 89,038","€ 4,630,000",DM,23,,"Jun 30, 2024",3-yrs,"€ 13,890,000",Roma,Serie A,2021-2022
+9,Federico Fazio,"€ 89,038","€ 4,630,000",CB,34,,"Jun 30, 2022",1-yr,"€ 4,630,000",Roma,Serie A,2021-2022
+10,Henrikh Mkhitaryan,"€ 86,346","€ 4,490,000",AM,32,,"Jun 30, 2022",1-yr,"€ 4,490,000",Roma,Serie A,2021-2022
+11,Lorenzo Pellegrini,"€ 81,923","€ 4,260,000",CM,25,,"Jun 30, 2022",1-yr,"€ 4,260,000",Roma,Serie A,2021-2022
+12,Rick Karsdorp,"€ 78,269","€ 4,070,000",RB,26,,"Jun 30, 2025",4-yrs,"€ 16,280,000",Roma,Serie A,2021-2022
+13,Pau López,"€ 74,038","€ 3,850,000",GK,26,,"Jun 30, 2024",3-yrs,"€ 11,550,000",Roma,Serie A,2021-2022
+14,Gianluca Mancini,"€ 71,154","€ 3,700,000",CB,25,,"Jun 30, 2024",3-yrs,"€ 11,100,000",Roma,Serie A,2021-2022
+15,Rui Patrício,"€ 66,538","€ 3,460,000",GK,33,,"Jun 30, 2024",3-yrs,"€ 10,380,000",Roma,Serie A,2021-2022
+16,Bryan Cristante,"€ 64,038","€ 3,330,000",CM,26,,"Jun 30, 2024",3-yrs,"€ 9,990,000",Roma,Serie A,2021-2022
+17,Justin Kluivert,"€ 64,038","€ 3,330,000",LW,22,,"Jun 30, 2023",2-yrs,"€ 6,660,000",Roma,Serie A,2021-2022
+18,Marash Kumbulla,"€ 64,038","€ 3,330,000",CB,21,,"Jun 30, 2022",1-yr,"€ 3,330,000",Roma,Serie A,2021-2022
+19,Borja Mayoral,"€ 56,731","€ 2,950,000",CF,24,,"Jun 30, 2023",2-yrs,"€ 5,900,000",Roma,Serie A,2021-2022
+20,Davide Santon,"€ 53,462","€ 2,780,000",RB,30,,"Jun 30, 2022",1-yr,"€ 2,780,000",Roma,Serie A,2021-2022
+21,Carles Pérez,"€ 49,231","€ 2,560,000",RW,23,,"Jun 30, 2024",3-yrs,"€ 7,680,000",Roma,Serie A,2021-2022
+22,Eldor Shomurodov,"€ 36,923","€ 1,920,000",CF,26,,"Jun 30, 2026",5-yrs,"€ 9,600,000",Roma,Serie A,2021-2022
+23,Gonzalo Villar,"€ 29,615","€ 1,540,000",CM,23,,"Jun 30, 2024",3-yrs,"€ 4,620,000",Roma,Serie A,2021-2022
+24,Roger Ibañez,"€ 29,615","€ 1,540,000",CB,22,,"Jun 30, 2025",4-yrs,"€ 6,160,000",Roma,Serie A,2021-2022
+25,Riccardo Calafiori,"€ 26,731","€ 1,390,000",LB,19,,"Jun 30, 2025",4-yrs,"€ 5,560,000",Roma,Serie A,2021-2022
+26,Daniel Fuzato,"€ 17,885","€ 930,000",GK,24,,"Jun 30, 2023",2-yrs,"€ 1,860,000",Roma,Serie A,2021-2022
+27,Robin Olsen,"€ 17,885","€ 930,000",GK,31,,"Jun 30, 2023",2-yrs,"€ 1,860,000",Roma,Serie A,2021-2022
+28,Bryan Reynolds,"€ 17,308","€ 900,000",RB,20,,"Jun 30, 2025",4-yrs,"€ 3,600,000",Roma,Serie A,2021-2022
+29,Riccardo Ciervo,€ 0,€ 0,LW,19,,"Jun 30, 2024",3-yrs,€ 0,Roma,Serie A,2021-2022
+30,Ruben Providence,€ 0,€ 0,RW,20,,"Jun 30, 2024",3-yrs,€ 0,Roma,Serie A,2021-2022
+31,Ante Coric,€ 0,€ 0,AM,24,,"Jun 30, 2023",2-yrs,€ 0,Roma,Serie A,2021-2022
+32,Amir Feratovic,€ 0,€ 0,CB,19,,"Jun 30, 2024",3-yrs,€ 0,Roma,Serie A,2021-2022
+33,William Bianda,€ 0,€ 0,CB,21,,"Jun 30, 2023",2-yrs,€ 0,Roma,Serie A,2021-2022
+34,Zan Celar,€ 0,€ 0,CF,22,,"Jun 30, 2023",2-yrs,€ 0,Roma,Serie A,2021-2022
+35,Filippo Tripi,€ 0,€ 0,DM,19,,"Jun 30, 2024",3-yrs,€ 0,Roma,Serie A,2021-2022
+36,Edoardo Bove,€ 0,€ 0,CM,19,,"Jun 30, 2024",3-yrs,€ 0,Roma,Serie A,2021-2022
+37,Matteo Cardinali,€ 0,€ 0,GK,20,,"Jun 30, 2023",2-yrs,€ 0,Roma,Serie A,2021-2022
+38,Nicola Zalewski,€ 0,€ 0,AM,19,,"Jun 30, 2024",3-yrs,€ 0,Roma,Serie A,2021-2022
+39,Ebrima Darboe,€ 0,€ 0,DM,20,,"Jun 30, 2023",2-yrs,€ 0,Roma,Serie A,2021-2022
+40,Alessio Riccardi,€ 0,€ 0,AM,20,,"Jun 30, 2023",2-yrs,€ 0,Roma,Serie A,2021-2022
+41,Pietro Boer,€ 0,€ 0,GK,19,,"Jun 30, 2024",3-yrs,€ 0,Roma,Serie A,2021-2022
+0,Francesco Di Tacchio,"€ 10,000","€ 520,000",DM,31,,"Jun 30, 2023",2-yrs,"€ 1,040,000",Salernitana,Serie A,2021-2022
+1,Frédéric Veseli,"€ 7,885","€ 410,000",CB,28,,"Jun 30, 2023",2-yrs,"€ 820,000",Salernitana,Serie A,2021-2022
+2,Milan Djuric,"€ 7,308","€ 380,000",CF,31,,"Jun 30, 2022",1-yr,"€ 380,000",Salernitana,Serie A,2021-2022
+3,Leonardo Capezzi,"€ 7,115","€ 370,000",DM,26,,"Jun 30, 2023",2-yrs,"€ 740,000",Salernitana,Serie A,2021-2022
+4,Norbert Gyomber,"€ 5,385","€ 280,000",CB,29,,"Jun 30, 2023",2-yrs,"€ 560,000",Salernitana,Serie A,2021-2022
+5,Ramzi Aya,"€ 4,615","€ 240,000",CB,31,,"Jun 30, 2022",1-yr,"€ 240,000",Salernitana,Serie A,2021-2022
+6,Andrea Schiavone,"€ 3,846","€ 200,000",DM,28,,"Jun 30, 2022",1-yr,"€ 200,000",Salernitana,Serie A,2021-2022
+7,Vid Belec,"€ 3,269","€ 170,000",GK,31,,"Jun 30, 2023",2-yrs,"€ 340,000",Salernitana,Serie A,2021-2022
+8,Guido Guerrieri,"€ 1,346","€ 70,000",GK,25,,"Jun 30, 2022",1-yr,"€ 70,000",Salernitana,Serie A,2021-2022
+9,Reda Boultam,"€ 1,346","€ 70,000",AM,23,,"Jun 30, 2022",1-yr,"€ 70,000",Salernitana,Serie A,2021-2022
+10,Tomasz Kupisz,"€ 1,154","€ 60,000",RM,31,,"Jun 30, 2022",1-yr,"€ 60,000",Salernitana,Serie A,2021-2022
+11,Julian Kristoffersen,€ 962,"€ 50,000",CF,24,,"Jun 30, 2024",3-yrs,"€ 150,000",Salernitana,Serie A,2021-2022
+12,Valerio Mantovani,€ 769,"€ 40,000",CB,25,,"Jun 30, 2024",3-yrs,"€ 120,000",Salernitana,Serie A,2021-2022
+13,Francesco Orlando,€ 0,€ 0,RW,24,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+14,Mirko Esposito,€ 0,€ 0,RB,25,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+15,Niccolò Giannetti,€ 0,€ 0,CF,30,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+16,Filippo D'Andrea,€ 0,€ 0,CF,22,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+17,Felipe Curcio,€ 0,€ 0,LB,27,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+18,Sanasi Sy,€ 0,€ 0,LB,22,,"Jun 30, 2024",3-yrs,€ 0,Salernitana,Serie A,2021-2022
+19,Sedrick Kalombo,€ 0,€ 0,RB,26,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+20,Giuseppe Fella,€ 0,€ 0,SS,27,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+21,Antonio Russo,€ 0,€ 0,GK,21,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+22,Iacopo Cernigoi,€ 0,€ 0,CF,26,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+23,Gaetano Vitale,€ 0,€ 0,CM,19,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+24,Marco Firenze,€ 0,€ 0,CM,28,,"Jun 30, 2022",1-yr,€ 0,Salernitana,Serie A,2021-2022
+25,Michele Cavion,€ 0,€ 0,CM,26,,"Jun 30, 2025",4-yrs,€ 0,Salernitana,Serie A,2021-2022
+0,Antonio Candreva,"€ 46,346","€ 2,410,000",RM,34,,"Jun 30, 2024",3-yrs,"€ 7,230,000",Sampdoria,Serie A,2021-2022
+1,Fabio Quagliarella,"€ 42,692","€ 2,220,000",CF,38,,"Jun 30, 2022",1-yr,"€ 2,220,000",Sampdoria,Serie A,2021-2022
+2,Albin Ekdal,"€ 39,231","€ 2,040,000",DM,31,,"Jun 30, 2022",1-yr,"€ 2,040,000",Sampdoria,Serie A,2021-2022
+3,Lorenzo Tonelli,"€ 35,577","€ 1,850,000",CB,31,,"Jun 30, 2022",1-yr,"€ 1,850,000",Sampdoria,Serie A,2021-2022
+4,Federico Bonazzoli,"€ 35,577","€ 1,850,000",CF,24,,"Jun 30, 2025",4-yrs,"€ 7,400,000",Sampdoria,Serie A,2021-2022
+5,Omar Colley,"€ 33,846","€ 1,760,000",CB,28,,"Jun 30, 2025",4-yrs,"€ 7,040,000",Sampdoria,Serie A,2021-2022
+6,Gianluca Caprari,"€ 32,115","€ 1,670,000",LW,27,,"Jun 30, 2023",2-yrs,"€ 3,340,000",Sampdoria,Serie A,2021-2022
+7,Jakub Jankto,"€ 28,462","€ 1,480,000",LM,25,,"Jun 30, 2023",2-yrs,"€ 2,960,000",Sampdoria,Serie A,2021-2022
+8,Ernesto Torregrossa,"€ 28,462","€ 1,480,000",CF,29,,"Jun 30, 2025",4-yrs,"€ 5,920,000",Sampdoria,Serie A,2021-2022
+9,Emil Audero,"€ 28,462","€ 1,480,000",GK,24,,"Jun 30, 2026",5-yrs,"€ 7,400,000",Sampdoria,Serie A,2021-2022
+10,Adrien Silva,"€ 27,115","€ 1,410,000",CM,32,,"Jun 30, 2022",1-yr,"€ 1,410,000",Sampdoria,Serie A,2021-2022
+11,Manolo Gabbiadini,"€ 27,115","€ 1,410,000",CF,29,,"Jun 30, 2026",5-yrs,"€ 7,050,000",Sampdoria,Serie A,2021-2022
+12,Nicola Murru,"€ 25,000","€ 1,300,000",LB,26,,"Jun 30, 2024",3-yrs,"€ 3,900,000",Sampdoria,Serie A,2021-2022
+13,Valerio Verre,"€ 25,000","€ 1,300,000",CM,27,,"Jun 30, 2025",4-yrs,"€ 5,200,000",Sampdoria,Serie A,2021-2022
+14,Maya Yoshida,"€ 24,615","€ 1,280,000",CB,32,,"Jun 30, 2022",1-yr,"€ 1,280,000",Sampdoria,Serie A,2021-2022
+15,Ronaldo Vieira,"€ 17,885","€ 930,000",CM,22,,"Jun 30, 2023",2-yrs,"€ 1,860,000",Sampdoria,Serie A,2021-2022
+16,Bartosz Bereszynski,"€ 15,962","€ 830,000",RB,29,,"Jun 30, 2023",2-yrs,"€ 1,660,000",Sampdoria,Serie A,2021-2022
+17,Alex Ferrari,"€ 14,231","€ 740,000",CB,27,,"Jun 30, 2025",4-yrs,"€ 2,960,000",Sampdoria,Serie A,2021-2022
+18,Antonino La Gumina,"€ 14,231","€ 740,000",CF,25,,"Jun 30, 2024",3-yrs,"€ 2,220,000",Sampdoria,Serie A,2021-2022
+19,Fabio Depaoli,"€ 12,500","€ 650,000",RB,24,,"Jun 30, 2024",3-yrs,"€ 1,950,000",Sampdoria,Serie A,2021-2022
+20,Morten Thorsby,"€ 12,308","€ 640,000",CM,25,,"Jun 30, 2023",2-yrs,"€ 1,280,000",Sampdoria,Serie A,2021-2022
+21,Mehdi Léris,"€ 10,000","€ 520,000",CM,23,,"Jun 30, 2024",3-yrs,"€ 1,560,000",Sampdoria,Serie A,2021-2022
+22,Tommaso Augello,"€ 8,846","€ 460,000",LB,26,,"Jun 30, 2025",4-yrs,"€ 1,840,000",Sampdoria,Serie A,2021-2022
+23,Kaique Rocha,"€ 5,000","€ 260,000",CB,20,,"Jun 30, 2024",3-yrs,"€ 780,000",Sampdoria,Serie A,2021-2022
+24,Julian Chabot,"€ 5,000","€ 260,000",CB,23,,"Jun 30, 2024",3-yrs,"€ 780,000",Sampdoria,Serie A,2021-2022
+25,Nicola Ravaglia,"€ 3,654","€ 190,000",GK,32,,"Jun 30, 2022",1-yr,"€ 190,000",Sampdoria,Serie A,2021-2022
+26,Mikkel Damsgaard,"€ 2,500","€ 130,000",LW,21,,"Jun 30, 2024",3-yrs,"€ 390,000",Sampdoria,Serie A,2021-2022
+27,Kristoffer Askildsen,"€ 2,500","€ 130,000",CM,20,,"Jun 30, 2024",3-yrs,"€ 390,000",Sampdoria,Serie A,2021-2022
+28,Mohamed Bahlouli,€ 0,€ 0,AM,21,,"Jun 30, 2023",2-yrs,€ 0,Sampdoria,Serie A,2021-2022
+29,Jeison Murillo,€ 0,€ 0,CB,29,,"Jun 30, 2023",2-yrs,€ 0,Sampdoria,Serie A,2021-2022
+30,Wladimiro Falcone,€ 0,€ 0,GK,26,,"Jun 30, 2024",3-yrs,€ 0,Sampdoria,Serie A,2021-2022
+0,Domenico Berardi,"€ 64,038","€ 3,330,000",RW,26,,"Jun 30, 2024",3-yrs,"€ 9,990,000",Sassuolo,Serie A,2021-2022
+1,Andrea Consigli,"€ 35,577","€ 1,850,000",GK,34,,"Jun 30, 2022",1-yr,"€ 1,850,000",Sassuolo,Serie A,2021-2022
+2,Grégoire Defrel,"€ 30,192","€ 1,570,000",CF,30,,"Jun 30, 2024",3-yrs,"€ 4,710,000",Sassuolo,Serie A,2021-2022
+3,Francesco Caputo,"€ 28,462","€ 1,480,000",CF,33,,"Jun 30, 2023",2-yrs,"€ 2,960,000",Sassuolo,Serie A,2021-2022
+4,Vlad Chiriches,"€ 28,462","€ 1,480,000",CB,31,,"Jun 30, 2023",2-yrs,"€ 2,960,000",Sassuolo,Serie A,2021-2022
+5,Rogério,"€ 25,000","€ 1,300,000",LB,23,,"Jun 30, 2024",3-yrs,"€ 3,900,000",Sassuolo,Serie A,2021-2022
+6,Francesco Magnanelli,"€ 25,000","€ 1,300,000",DM,36,,"Jun 30, 2022",1-yr,"€ 1,300,000",Sassuolo,Serie A,2021-2022
+7,Filip Djuricic,"€ 25,000","€ 1,300,000",AM,29,,"Jun 30, 2022",1-yr,"€ 1,300,000",Sassuolo,Serie A,2021-2022
+8,Gian Marco Ferrari,"€ 21,346","€ 1,110,000",CB,29,,"Jun 30, 2023",2-yrs,"€ 2,220,000",Sassuolo,Serie A,2021-2022
+9,Federico Peluso,"€ 21,346","€ 1,110,000",CB,37,,"Jun 30, 2022",1-yr,"€ 1,110,000",Sassuolo,Serie A,2021-2022
+10,Jérémie Boga,"€ 21,346","€ 1,110,000",LW,24,,"Jun 30, 2022",1-yr,"€ 1,110,000",Sassuolo,Serie A,2021-2022
+11,Mehdi Bourabia,"€ 21,346","€ 1,110,000",CM,29,,"Jun 30, 2022",1-yr,"€ 1,110,000",Sassuolo,Serie A,2021-2022
+12,Pedro Obiang,"€ 20,962","€ 1,090,000",CM,29,,"Jun 30, 2023",2-yrs,"€ 2,180,000",Sassuolo,Serie A,2021-2022
+13,Gianluca Pegolo,"€ 17,885","€ 930,000",GK,40,,"Jun 30, 2022",1-yr,"€ 930,000",Sassuolo,Serie A,2021-2022
+14,Hamed Junior Traorè,"€ 17,885","€ 930,000",AM,21,,"Jun 30, 2024",3-yrs,"€ 2,790,000",Sassuolo,Serie A,2021-2022
+15,Edoardo Goldaniga,"€ 17,885","€ 930,000",CB,27,,"Jun 30, 2022",1-yr,"€ 930,000",Sassuolo,Serie A,2021-2022
+16,Jeremy Toljan,"€ 17,308","€ 900,000",RB,26,,"Jun 30, 2025",4-yrs,"€ 3,600,000",Sassuolo,Serie A,2021-2022
+17,Maxime López,"€ 14,808","€ 770,000",CM,23,,"Jun 30, 2025",4-yrs,"€ 3,080,000",Sassuolo,Serie A,2021-2022
+18,Kaan Ayhan,"€ 14,808","€ 770,000",CB,26,,"Jun 30, 2024",3-yrs,"€ 2,310,000",Sassuolo,Serie A,2021-2022
+19,Filippo Romagna,"€ 14,231","€ 740,000",CB,24,,"Jun 30, 2022",1-yr,"€ 740,000",Sassuolo,Serie A,2021-2022
+20,Riccardo Marchizza,"€ 10,769","€ 560,000",LB,23,,"Jun 30, 2025",4-yrs,"€ 2,240,000",Sassuolo,Serie A,2021-2022
+21,Mert Müldür,"€ 9,808","€ 510,000",RB,22,,"Jun 30, 2024",3-yrs,"€ 1,530,000",Sassuolo,Serie A,2021-2022
+22,Georgios Kyriakopoulos,"€ 9,808","€ 510,000",LB,25,,"Jun 30, 2024",3-yrs,"€ 1,530,000",Sassuolo,Serie A,2021-2022
+23,Lukas Haraslin,"€ 9,808","€ 510,000",LW,25,,"Jun 30, 2023",2-yrs,"€ 1,020,000",Sassuolo,Serie A,2021-2022
+24,Gianluca Scamacca,"€ 3,654","€ 190,000",CF,22,,"Jun 30, 2025",4-yrs,"€ 760,000",Sassuolo,Serie A,2021-2022
+25,Giacomo Raspadori,"€ 3,654","€ 190,000",CF,21,,"Jun 30, 2024",3-yrs,"€ 570,000",Sassuolo,Serie A,2021-2022
+26,Brian Oddei,"€ 3,654","€ 190,000",RW,18,,"Jun 30, 2024",3-yrs,"€ 570,000",Sassuolo,Serie A,2021-2022
+27,Marco Sala,€ 0,€ 0,LM,22,,"Jun 30, 2023",2-yrs,€ 0,Sassuolo,Serie A,2021-2022
+28,Matteo Saccani,€ 0,€ 0,RB,20,,"Jun 30, 2022",1-yr,€ 0,Sassuolo,Serie A,2021-2022
+29,Giacomo Manzari,€ 0,€ 0,LW,20,,"Jun 30, 2022",1-yr,€ 0,Sassuolo,Serie A,2021-2022
+30,Nicholas Pierini,€ 0,€ 0,LW,22,,"Jun 30, 2022",1-yr,€ 0,Sassuolo,Serie A,2021-2022
+31,Federico Artioli,€ 0,€ 0,DM,20,,"Jun 30, 2022",1-yr,€ 0,Sassuolo,Serie A,2021-2022
+32,Alessandro Russo,€ 0,€ 0,GK,20,,"Jun 30, 2024",3-yrs,€ 0,Sassuolo,Serie A,2021-2022
+33,Enrico Brignola,€ 0,€ 0,SS,22,,"Jun 30, 2023",2-yrs,€ 0,Sassuolo,Serie A,2021-2022
+34,Davide Frattesi,€ 0,€ 0,CM,21,,"Jun 30, 2025",4-yrs,€ 0,Sassuolo,Serie A,2021-2022
+35,Jens Odgaard,€ 0,€ 0,CF,22,,"Jun 30, 2022",1-yr,€ 0,Sassuolo,Serie A,2021-2022
+36,Claud Adjapong,€ 0,€ 0,RB,23,,"Jun 30, 2023",2-yrs,€ 0,Sassuolo,Serie A,2021-2022
+37,Giacomo Satalino,€ 0,€ 0,GK,22,,"Jun 30, 2022",1-yr,€ 0,Sassuolo,Serie A,2021-2022
+38,Leonardo Sernicola,€ 0,€ 0,LM,23,,"Jun 30, 2023",2-yrs,€ 0,Sassuolo,Serie A,2021-2022
+39,Marco Pinato,€ 0,€ 0,CM,26,,"Jun 30, 2023",2-yrs,€ 0,Sassuolo,Serie A,2021-2022
+0,Jeroen Zoet,"€ 24,615","€ 1,280,000",GK,30,,"Jun 30, 2022",1-yr,"€ 1,280,000",Spezia,Serie A,2021-2022
+1,Ardian Ismajli,"€ 14,808","€ 770,000",CB,24,,"Jun 30, 2023",2-yrs,"€ 1,540,000",Spezia,Serie A,2021-2022
+2,M'Bala Nzola,"€ 14,231","€ 740,000",CF,24,,"Jun 30, 2023",2-yrs,"€ 1,480,000",Spezia,Serie A,2021-2022
+3,Daniele Verde,"€ 14,231","€ 740,000",RW,25,,"Jun 30, 2022",1-yr,"€ 740,000",Spezia,Serie A,2021-2022
+4,Jacopo Sala,"€ 14,231","€ 740,000",RB,29,,"Jun 30, 2022",1-yr,"€ 740,000",Spezia,Serie A,2021-2022
+5,Ivan Provedel,"€ 12,885","€ 670,000",GK,27,,"Jun 30, 2022",1-yr,"€ 670,000",Spezia,Serie A,2021-2022
+6,Juan Ramos,"€ 12,885","€ 670,000",LB,24,,"Jun 30, 2022",1-yr,"€ 670,000",Spezia,Serie A,2021-2022
+7,Elio Capradossi,"€ 10,769","€ 560,000",CB,25,,"Jun 30, 2023",2-yrs,"€ 1,120,000",Spezia,Serie A,2021-2022
+8,Léo Sena,"€ 8,654","€ 450,000",DM,25,,"Jun 30, 2024",3-yrs,"€ 1,350,000",Spezia,Serie A,2021-2022
+9,Giulio Maggiore,"€ 7,115","€ 370,000",CM,23,,"Jun 30, 2023",2-yrs,"€ 740,000",Spezia,Serie A,2021-2022
+10,Salva Ferrer,"€ 6,154","€ 320,000",RB,23,,"Jun 30, 2023",2-yrs,"€ 640,000",Spezia,Serie A,2021-2022
+11,Martin Erlic,"€ 5,385","€ 280,000",CB,23,,"Jun 30, 2024",3-yrs,"€ 840,000",Spezia,Serie A,2021-2022
+12,Luca Vignali,"€ 3,846","€ 200,000",RB,25,,"Jun 30, 2023",2-yrs,"€ 400,000",Spezia,Serie A,2021-2022
+13,Emmanuel Gyasi,"€ 3,654","€ 190,000",LW,27,,"Jun 30, 2023",2-yrs,"€ 380,000",Spezia,Serie A,2021-2022
+14,Simone Bastoni,"€ 3,654","€ 190,000",LB,24,,"Jun 30, 2022",1-yr,"€ 190,000",Spezia,Serie A,2021-2022
+15,Titas Krapikas,€ 769,"€ 40,000",GK,22,,"Jun 30, 2022",1-yr,"€ 40,000",Spezia,Serie A,2021-2022
+16,Matteo Figoli,€ 0,€ 0,CM,20,,"Jun 30, 2023",2-yrs,€ 0,Spezia,Serie A,2021-2022
+17,Petar Zovko,€ 0,€ 0,GK,19,,"Jun 30, 2024",3-yrs,€ 0,Spezia,Serie A,2021-2022
+18,Petko Hristov,€ 0,€ 0,CB,22,,"Jun 30, 2025",4-yrs,€ 0,Spezia,Serie A,2021-2022
+19,Lorenzo Colombini,€ 0,€ 0,LB,20,,"Jun 30, 2022",1-yr,€ 0,Spezia,Serie A,2021-2022
+20,Leonardo Gabelli,€ 0,€ 0,LB,19,,"Jun 30, 2022",1-yr,€ 0,Spezia,Serie A,2021-2022
+21,Sveinn Aron Gudjohnsen,€ 0,€ 0,CF,23,,"Jun 30, 2022",1-yr,€ 0,Spezia,Serie A,2021-2022
+22,Alessandro Bordin,€ 0,€ 0,CM,22,,"Jun 30, 2022",1-yr,€ 0,Spezia,Serie A,2021-2022
+0,Andrea Belotti,"€ 71,154","€ 3,700,000",CF,27,,"Jun 30, 2022",1-yr,"€ 3,700,000",Torino,Serie A,2021-2022
+1,Salvatore Sirigu,"€ 71,154","€ 3,700,000",GK,34,,"Jun 30, 2022",1-yr,"€ 3,700,000",Torino,Serie A,2021-2022
+2,Armando Izzo,"€ 60,577","€ 3,150,000",CB,29,,"Jun 30, 2024",3-yrs,"€ 9,450,000",Torino,Serie A,2021-2022
+3,Simone Verdi,"€ 60,577","€ 3,150,000",AM,29,,"Jun 30, 2023",2-yrs,"€ 6,300,000",Torino,Serie A,2021-2022
+4,Simone Zaza,"€ 60,577","€ 3,150,000",CF,30,,"Jun 30, 2023",2-yrs,"€ 6,300,000",Torino,Serie A,2021-2022
+5,Iago Falque,"€ 60,577","€ 3,150,000",RW,31,,"Jun 30, 2022",1-yr,"€ 3,150,000",Torino,Serie A,2021-2022
+6,Antonio Sanabria,"€ 53,462","€ 2,780,000",CF,25,,"Jun 30, 2025",4-yrs,"€ 11,120,000",Torino,Serie A,2021-2022
+7,Ricardo Rodríguez,"€ 53,462","€ 2,780,000",LB,28,,"Jun 30, 2024",3-yrs,"€ 8,340,000",Torino,Serie A,2021-2022
+8,Tomás Rincón,"€ 49,808","€ 2,590,000",DM,33,,"Jun 30, 2022",1-yr,"€ 2,590,000",Torino,Serie A,2021-2022
+9,Daniele Baselli,"€ 49,808","€ 2,590,000",CM,29,,"Jun 30, 2022",1-yr,"€ 2,590,000",Torino,Serie A,2021-2022
+10,Karol Linetty,"€ 49,808","€ 2,590,000",CM,26,,"Jun 30, 2024",3-yrs,"€ 7,770,000",Torino,Serie A,2021-2022
+11,Cristian Ansaldi,"€ 35,577","€ 1,850,000",LB,34,,"Jun 30, 2022",1-yr,"€ 1,850,000",Torino,Serie A,2021-2022
+12,Ola Aina,"€ 35,577","€ 1,850,000",RB,24,,"Jun 30, 2023",2-yrs,"€ 3,700,000",Torino,Serie A,2021-2022
+13,Marko Pjaca,"€ 28,462","€ 1,480,000",LW,26,,"Jun 30, 2022",1-yr,"€ 1,480,000",Torino,Serie A,2021-2022
+14,Sasa Lukic,"€ 25,000","€ 1,300,000",CM,24,,"Jun 30, 2024",3-yrs,"€ 3,900,000",Torino,Serie A,2021-2022
+15,Rolando Mandragora,"€ 21,346","€ 1,110,000",DM,24,,"Jun 30, 2022",1-yr,"€ 1,110,000",Torino,Serie A,2021-2022
+16,Lyanco,"€ 21,346","€ 1,110,000",CB,24,,"Jun 30, 2024",3-yrs,"€ 3,330,000",Torino,Serie A,2021-2022
+17,Bremer,"€ 17,885","€ 930,000",CB,24,,"Jun 30, 2023",2-yrs,"€ 1,860,000",Torino,Serie A,2021-2022
+18,Mërgim Vojvoda,"€ 17,308","€ 900,000",RB,26,,"Jun 30, 2024",3-yrs,"€ 2,700,000",Torino,Serie A,2021-2022
+19,Vanja Milinković-Savić,"€ 14,231","€ 740,000",GK,24,,"Jun 30, 2024",3-yrs,"€ 2,220,000",Torino,Serie A,2021-2022
+20,Tommaso Pobega,"€ 10,769","€ 560,000",CM,21,,"Jun 30, 2022",1-yr,"€ 560,000",Torino,Serie A,2021-2022
+21,Koffi Djidji,"€ 9,038","€ 470,000",CB,28,,"Jun 30, 2023",2-yrs,"€ 940,000",Torino,Serie A,2021-2022
+22,Alessandro Buongiorno,"€ 7,115","€ 370,000",CB,22,,"Jun 30, 2024",3-yrs,"€ 1,110,000",Torino,Serie A,2021-2022
+23,Wilfried Stephane Singo,"€ 5,000","€ 260,000",RB,20,,"Jun 30, 2023",2-yrs,"€ 520,000",Torino,Serie A,2021-2022
+24,Razvan Sava,€ 0,€ 0,GK,19,,"Jun 30, 2023",2-yrs,€ 0,Torino,Serie A,2021-2022
+25,Nicola Rauti,€ 0,€ 0,CF,21,,"Jun 30, 2022",1-yr,€ 0,Torino,Serie A,2021-2022
+26,Magnus Warming,€ 0,€ 0,LW,21,,"Jun 30, 2024",3-yrs,€ 0,Torino,Serie A,2021-2022
+27,Simone Edera,€ 0,€ 0,RW,24,,"Jun 30, 2023",2-yrs,€ 0,Torino,Serie A,2021-2022
+28,Luca Gemello,€ 0,€ 0,GK,21,,"Jun 30, 2022",1-yr,€ 0,Torino,Serie A,2021-2022
+29,Jacopo Segre,€ 0,€ 0,CM,24,,"Jun 30, 2023",2-yrs,€ 0,Torino,Serie A,2021-2022
+30,Ibrahim Karamoko,€ 0,€ 0,CM,19,,"Jun 30, 2023",2-yrs,€ 0,Torino,Serie A,2021-2022
+31,Etrit Berisha,€ 0,€ 0,GK,32,,"Jun 30, 2024",3-yrs,€ 0,Torino,Serie A,2021-2022
+32,Christian Celesia,€ 0,€ 0,CB,19,,"Jun 30, 2023",2-yrs,€ 0,Torino,Serie A,2021-2022
+33,Vincenzo Millico,€ 0,€ 0,LW,20,,"Jun 30, 2023",2-yrs,€ 0,Torino,Serie A,2021-2022
+34,Ben Lhassine Kone,€ 0,€ 0,AM,21,,"Jun 30, 2023",2-yrs,€ 0,Torino,Serie A,2021-2022
+0,Fernando Llorente,"€ 61,731","€ 3,210,000",CF,36,,"Jun 30, 2022",1-yr,"€ 3,210,000",Udinese,Serie A,2021-2022
+1,Ilija Nestorovski,"€ 25,000","€ 1,300,000",CF,31,,"Jun 30, 2022",1-yr,"€ 1,300,000",Udinese,Serie A,2021-2022
+2,Mato Jajalo,"€ 25,000","€ 1,300,000",DM,33,,"Jun 30, 2022",1-yr,"€ 1,300,000",Udinese,Serie A,2021-2022
+3,Roberto Pereyra,"€ 24,615","€ 1,280,000",AM,30,,"Jun 30, 2023",2-yrs,"€ 2,560,000",Udinese,Serie A,2021-2022
+4,Gerard Deulofeu,"€ 24,615","€ 1,280,000",LW,27,,"Jun 30, 2024",3-yrs,"€ 3,840,000",Udinese,Serie A,2021-2022
+5,Bram Nuytinck,"€ 21,346","€ 1,110,000",CB,31,,"Jun 30, 2023",2-yrs,"€ 2,220,000",Udinese,Serie A,2021-2022
+6,Sebastien De Maio,"€ 21,346","€ 1,110,000",CB,34,,"Jun 30, 2022",1-yr,"€ 1,110,000",Udinese,Serie A,2021-2022
+7,Stefano Okaka,"€ 19,808","€ 1,030,000",CF,31,,"Jun 30, 2022",1-yr,"€ 1,030,000",Udinese,Serie A,2021-2022
+8,Ignacio Pussetto,"€ 17,885","€ 930,000",RW,25,,"Jun 30, 2022",1-yr,"€ 930,000",Udinese,Serie A,2021-2022
+9,Jens Stryger Larsen,"€ 17,885","€ 930,000",RB,30,,"Jun 30, 2022",1-yr,"€ 930,000",Udinese,Serie A,2021-2022
+10,Samir,"€ 17,885","€ 930,000",CB,26,,"Jun 30, 2023",2-yrs,"€ 1,860,000",Udinese,Serie A,2021-2022
+11,Tolgay Arslan,"€ 14,808","€ 770,000",CM,30,,"Jun 30, 2022",1-yr,"€ 770,000",Udinese,Serie A,2021-2022
+12,Rodrigo Becão,"€ 14,808","€ 770,000",CB,25,,"Jun 30, 2024",3-yrs,"€ 2,310,000",Udinese,Serie A,2021-2022
+13,Walace,"€ 12,308","€ 640,000",DM,26,,"Jun 30, 2024",3-yrs,"€ 1,920,000",Udinese,Serie A,2021-2022
+14,Fernando Forestieri,"€ 12,308","€ 640,000",SS,31,,"Jun 30, 2022",1-yr,"€ 640,000",Udinese,Serie A,2021-2022
+15,Marvin Zeegelaar,"€ 12,308","€ 640,000",LB,30,,"Jun 30, 2022",1-yr,"€ 640,000",Udinese,Serie A,2021-2022
+16,Simone Scuffet,"€ 8,846","€ 460,000",GK,25,,"Jun 30, 2022",1-yr,"€ 460,000",Udinese,Serie A,2021-2022
+17,Jean-Victor Makengo,"€ 7,308","€ 380,000",CM,23,,"Jun 30, 2025",4-yrs,"€ 1,520,000",Udinese,Serie A,2021-2022
+18,Nahuel Molina,"€ 7,308","€ 380,000",RB,23,,"Jun 30, 2025",4-yrs,"€ 1,520,000",Udinese,Serie A,2021-2022
+19,Mamadou Coulibaly,"€ 7,115","€ 370,000",CM,22,,"Jun 30, 2023",2-yrs,"€ 740,000",Udinese,Serie A,2021-2022
+20,Petar Micin,"€ 3,654","€ 190,000",AM,22,,"Jun 30, 2022",1-yr,"€ 190,000",Udinese,Serie A,2021-2022
+21,Martin Palumbo,"€ 1,346","€ 70,000",CM,19,,"Jun 30, 2025",4-yrs,"€ 280,000",Udinese,Serie A,2021-2022
+22,Cristo,€ 0,€ 0,CF,23,,"Jun 30, 2024",3-yrs,€ 0,Udinese,Serie A,2021-2022
+23,Nicholas Opoku,€ 0,€ 0,CB,23,,"Jun 30, 2022",1-yr,€ 0,Udinese,Serie A,2021-2022
+24,Ryder Matos,€ 0,€ 0,SS,28,,"Jun 30, 2022",1-yr,€ 0,Udinese,Serie A,2021-2022
+25,Lukasz Teodorczyk,€ 0,€ 0,CF,30,,"Jun 30, 2022",1-yr,€ 0,Udinese,Serie A,2021-2022
+26,Felipe Vizeu,€ 0,€ 0,CF,24,,"Jun 30, 2023",2-yrs,€ 0,Udinese,Serie A,2021-2022
+27,Daniele Padelli,€ 0,€ 0,GK,35,,"Jun 30, 2023",2-yrs,€ 0,Udinese,Serie A,2021-2022
+0,Jacopo Dezi,"€ 15,000","€ 780,000",CM,29,,"Jun 30, 2022",1-yr,"€ 780,000",Venezia,Serie A,2021-2022
+1,Francesco Forte,"€ 9,038","€ 470,000",CF,28,,"Jun 30, 2023",2-yrs,"€ 940,000",Venezia,Serie A,2021-2022
+2,Tyronne Ebuehi,"€ 8,462","€ 440,000",RB,25,,"Jun 30, 2022",1-yr,"€ 440,000",Venezia,Serie A,2021-2022
+3,Pasquale Mazzocchi,"€ 8,462","€ 440,000",RB,25,,"Jun 30, 2023",2-yrs,"€ 880,000",Venezia,Serie A,2021-2022
+4,Michael Svoboda,"€ 8,462","€ 440,000",CB,22,,"Jun 30, 2023",2-yrs,"€ 880,000",Venezia,Serie A,2021-2022
+5,Domen Crnigoj,"€ 6,731","€ 350,000",RM,25,,"Jun 30, 2023",2-yrs,"€ 700,000",Venezia,Serie A,2021-2022
+6,Marco Modolo,"€ 6,346","€ 330,000",CB,32,,"Jun 30, 2023",2-yrs,"€ 660,000",Venezia,Serie A,2021-2022
+7,Riccardo Bocalon,"€ 5,962","€ 310,000",CF,32,,"Jun 30, 2022",1-yr,"€ 310,000",Venezia,Serie A,2021-2022
+8,Luca Lezzerini,"€ 5,769","€ 300,000",GK,26,,"Jun 30, 2023",2-yrs,"€ 600,000",Venezia,Serie A,2021-2022
+9,Dennis Johnsen,"€ 5,577","€ 290,000",LW,23,,"Jun 30, 2024",3-yrs,"€ 870,000",Venezia,Serie A,2021-2022
+10,Anthony Taugourdeau,"€ 4,615","€ 240,000",DM,32,,"Jun 30, 2023",2-yrs,"€ 480,000",Venezia,Serie A,2021-2022
+11,Cristian Molinaro,"€ 4,231","€ 220,000",LB,37,,"Jun 30, 2024",3-yrs,"€ 660,000",Venezia,Serie A,2021-2022
+12,Óttar Magnús Karlsson,"€ 3,462","€ 180,000",CF,24,,"Jun 30, 2023",2-yrs,"€ 360,000",Venezia,Serie A,2021-2022
+13,Luca Fiordilino,"€ 2,500","€ 130,000",DM,24,,"Jun 30, 2022",1-yr,"€ 130,000",Venezia,Serie A,2021-2022
+14,Harvey St Clair,"€ 1,731","€ 90,000",LW,22,,"Jun 30, 2023",2-yrs,"€ 180,000",Venezia,Serie A,2021-2022
+15,Gian Filippo Felicioli,"€ 1,731","€ 90,000",LB,23,,"Jun 30, 2023",2-yrs,"€ 180,000",Venezia,Serie A,2021-2022
+16,Antonio Junior Vacca,"€ 1,346","€ 70,000",DM,31,,"Jun 30, 2022",1-yr,"€ 70,000",Venezia,Serie A,2021-2022
+17,Mattia Aramu,"€ 1,154","€ 60,000",AM,26,,"Jun 30, 2023",2-yrs,"€ 120,000",Venezia,Serie A,2021-2022
+18,Francesco Di Mariano,€ 769,"€ 40,000",LW,25,,"Jun 30, 2022",1-yr,"€ 40,000",Venezia,Serie A,2021-2022
+19,Riccardo Pigozzo,€ 769,"€ 40,000",GK,21,,"Jun 30, 2022",1-yr,"€ 40,000",Venezia,Serie A,2021-2022
+20,Domenico Rossi,€ 769,"€ 40,000",CM,21,,"Jun 30, 2022",1-yr,"€ 40,000",Venezia,Serie A,2021-2022
+21,Bjarki Steinn Bjarkason,€ 577,"€ 30,000",LW,21,,"Jun 30, 2023",2-yrs,"€ 60,000",Venezia,Serie A,2021-2022
+22,Lauri Ala-Myllymäki,€ 577,"€ 30,000",AM,24,,"Jun 30, 2024",3-yrs,"€ 90,000",Venezia,Serie A,2021-2022
+23,Pietro Ceccaroni,€ 385,"€ 20,000",CB,25,,"Jun 30, 2024",3-yrs,"€ 60,000",Venezia,Serie A,2021-2022
+24,Daan Heymans,€ 0,€ 0,AM,22,,"Jun 30, 2024",3-yrs,€ 0,Venezia,Serie A,2021-2022
+25,Gianmarco Zigoni,€ 0,€ 0,CF,30,,"Jun 30, 2022",1-yr,€ 0,Venezia,Serie A,2021-2022
+26,David Schnegg,€ 0,€ 0,LB,22,,"Jun 30, 2024",3-yrs,€ 0,Venezia,Serie A,2021-2022
+27,Damiano Pecile,€ 0,€ 0,DM,19,,"Jun 30, 2022",1-yr,€ 0,Venezia,Serie A,2021-2022
+28,Dor Peretz,€ 0,€ 0,DM,26,,"Jun 30, 2024",3-yrs,€ 0,Venezia,Serie A,2021-2022
+29,Nicolas Galazzi,€ 0,€ 0,RW,20,,"Jun 30, 2022",1-yr,€ 0,Venezia,Serie A,2021-2022
+30,Niki Mäenpää,€ 0,€ 0,GK,36,,"Jun 30, 2023",2-yrs,€ 0,Venezia,Serie A,2021-2022
+31,Bruno Bertinato,€ 0,€ 0,GK,23,,"Jun 30, 2022",1-yr,€ 0,Venezia,Serie A,2021-2022
