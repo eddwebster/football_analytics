@@ -1,0 +1,595 @@
+,Player,Weekly GrossBase Salary(IN GBP),Annual GrossBase Salary(IN GBP),"Adj. GrossBase Salary(2021, IN GBP)",Pos.,Age,Country,Team,League,Season
+0,Mesut Özil,"£ 350,000","£ 18,200,000","£ 18,200,000",F,32,Germany,Arsenal,Premier League,2020-2021
+1,Pierre-Emerick Aubameyang,"£ 250,000","£ 13,000,000","£ 13,000,000",F,31,Gabon,Arsenal,Premier League,2020-2021
+2,Thomas Partey,"£ 250,000","£ 13,000,000","£ 13,000,000",M,27,Ghana,Arsenal,Premier League,2020-2021
+3,Alexandre Lacazette,"£ 182,115","£ 9,470,000","£ 9,470,000",F,29,France,Arsenal,Premier League,2020-2021
+4,Willian,"£ 138,462","£ 7,200,000","£ 7,200,000",F,32,Brazil,Arsenal,Premier League,2020-2021
+5,Thomas,"£ 125,000","£ 6,500,000","£ 6,500,000",M,27,Ghana,Arsenal,Premier League,2020-2021
+6,Héctor Bellerín,"£ 110,000","£ 5,720,000","£ 5,720,000",D,25,Spain,Arsenal,Premier League,2020-2021
+7,David Luiz,"£ 100,962","£ 5,250,000","£ 5,250,000",D,33,Brazil,Arsenal,Premier League,2020-2021
+8,Granit Xhaka,"£ 100,000","£ 5,200,000","£ 5,200,000",M,28,Switzerland,Arsenal,Premier League,2020-2021
+9,Bernd Leno,"£ 100,000","£ 5,200,000","£ 5,200,000",K,28,Germany,Arsenal,Premier League,2020-2021
+10,Sead Kolasinac,"£ 100,000","£ 5,200,000","£ 5,200,000",D,27,Bosnia-Herzegovina,Arsenal,Premier League,2020-2021
+11,Nicolas Pépé,"£ 100,000","£ 5,200,000","£ 5,200,000",F,25,Cote d'Ivoire,Arsenal,Premier League,2020-2021
+12,Sokratis,"£ 91,923","£ 4,780,000","£ 4,780,000",D,32,Greece,Arsenal,Premier League,2020-2021
+13,Shkodran Mustafi,"£ 90,000","£ 4,680,000","£ 4,680,000",D,28,Germany,Arsenal,Premier League,2020-2021
+14,Gabriel Martinelli,"£ 90,000","£ 4,680,000","£ 4,680,000",F,19,Brazil,Arsenal,Premier League,2020-2021
+15,Kieran Tierney,"£ 80,769","£ 4,200,000","£ 4,200,000",D,23,Scotland,Arsenal,Premier League,2020-2021
+16,Martin Ødegaard,"£ 69,423","£ 3,610,000","£ 3,610,000",F,22,Norway,Arsenal,Premier League,2020-2021
+17,Dani Ceballos,"£ 51,923","£ 2,700,000","£ 2,700,000",M,24,Spain,Arsenal,Premier League,2020-2021
+18,Mohamed Elneny,"£ 50,000","£ 2,600,000","£ 2,600,000",M,28,Egypt,Arsenal,Premier League,2020-2021
+19,Calum Chambers,"£ 50,000","£ 2,600,000","£ 2,600,000",D,25,England,Arsenal,Premier League,2020-2021
+20,William Saliba,"£ 40,000","£ 2,080,000","£ 2,080,000",D,19,France,Arsenal,Premier League,2020-2021
+21,Mathew Ryan,"£ 35,000","£ 1,820,000","£ 1,820,000",K,28,Australia,Arsenal,Premier League,2020-2021
+22,Ainsley Maitland-Niles,"£ 35,000","£ 1,820,000","£ 1,820,000",M,23,England,Arsenal,Premier League,2020-2021
+23,Gabriel Magalhães,"£ 27,500","£ 1,430,000","£ 1,430,000",D,22,Brazil,Arsenal,Premier League,2020-2021
+24,Cédric Soares,"£ 26,500","£ 1,378,000","£ 1,378,000",D,29,Portugal,Arsenal,Premier League,2020-2021
+25,Rob Holding,"£ 25,000","£ 1,300,000","£ 1,300,000",D,25,England,Arsenal,Premier League,2020-2021
+26,Joe Willock,"£ 20,000","£ 1,040,000","£ 1,040,000",M,21,England,Arsenal,Premier League,2020-2021
+27,Pablo Marí,"£ 16,923","£ 880,000","£ 880,000",D,27,Spain,Arsenal,Premier League,2020-2021
+28,Eddie Nketiah,"£ 15,000","£ 780,000","£ 780,000",F,21,England,Arsenal,Premier League,2020-2021
+29,Emile Smith Rowe,"£ 15,000","£ 780,000","£ 780,000",F,20,England,Arsenal,Premier League,2020-2021
+30,Reiss Nelson,"£ 15,000","£ 780,000","£ 780,000",F,20,England,Arsenal,Premier League,2020-2021
+31,Rúnar Alex Rúnarsson,"£ 15,000","£ 780,000","£ 780,000",K,25,Iceland,Arsenal,Premier League,2020-2021
+32,Matt Macey,"£ 10,000","£ 520,000","£ 520,000",K,26,England,Arsenal,Premier League,2020-2021
+33,Bukayo Saka,"£ 10,000","£ 520,000","£ 520,000",M,19,England,Arsenal,Premier League,2020-2021
+34,Dejan Iliev,"£ 5,769","£ 300,000","£ 300,000",K,25,North Macedonia,Arsenal,Premier League,2020-2021
+0,Jack Grealish,"£ 105,000","£ 5,460,000","£ 5,460,000",F,25,England,Aston Villa,Premier League,2020-2021
+1,Ross Barkley,"£ 96,154","£ 5,000,000","£ 5,000,000",M,26,England,Aston Villa,Premier League,2020-2021
+2,Ollie Watkins,"£ 75,000","£ 3,900,000","£ 3,900,000",F,24,England,Aston Villa,Premier League,2020-2021
+3,Matty Cash,"£ 65,000","£ 3,380,000","£ 3,380,000",D,23,England,Aston Villa,Premier League,2020-2021
+4,Tyrone Mings,"£ 65,000","£ 3,380,000","£ 3,380,000",D,27,England,Aston Villa,Premier League,2020-2021
+5,Bertrand Traoré,"£ 55,000","£ 2,860,000","£ 2,860,000",F,25,Burkina Faso,Aston Villa,Premier League,2020-2021
+6,Björn Engels,"£ 55,000","£ 2,860,000","£ 2,860,000",D,26,Belgium,Aston Villa,Premier League,2020-2021
+7,Trezeguet,"£ 52,500","£ 2,730,000","£ 2,730,000",F,26,Egypt,Aston Villa,Premier League,2020-2021
+8,Morgan Sanson,"£ 48,077","£ 2,500,000","£ 2,500,000",M,26,France,Aston Villa,Premier League,2020-2021
+9,Emiliano Martínez,"£ 47,500","£ 2,470,000","£ 2,470,000",K,28,Argentina,Aston Villa,Premier League,2020-2021
+10,Tom Heaton,"£ 41,923","£ 2,180,000","£ 2,180,000",K,34,England,Aston Villa,Premier League,2020-2021
+11,Henri Lansbury,"£ 40,000","£ 2,080,000","£ 2,080,000",M,30,England,Aston Villa,Premier League,2020-2021
+12,Frédéric Guilbert,"£ 40,000","£ 2,080,000","£ 2,080,000",D,25,France,Aston Villa,Premier League,2020-2021
+13,Matt Targett,"£ 35,000","£ 1,820,000","£ 1,820,000",D,25,England,Aston Villa,Premier League,2020-2021
+14,Wesley,"£ 35,000","£ 1,820,000","£ 1,820,000",F,23,Brazil,Aston Villa,Premier League,2020-2021
+15,Douglas Luiz,"£ 32,692","£ 1,700,000","£ 1,700,000",M,22,Brazil,Aston Villa,Premier League,2020-2021
+16,Marvelous Nakamba,"£ 32,500","£ 1,690,000","£ 1,690,000",M,26,Zimbabwe,Aston Villa,Premier League,2020-2021
+17,Neil Taylor,"£ 31,923","£ 1,660,000","£ 1,660,000",D,31,Wales,Aston Villa,Premier League,2020-2021
+18,Anwar El Ghazi,"£ 30,962","£ 1,610,000","£ 1,610,000",F,25,Netherlands,Aston Villa,Premier League,2020-2021
+19,Conor Hourihane,"£ 30,000","£ 1,560,000","£ 1,560,000",M,29,Ireland,Aston Villa,Premier League,2020-2021
+20,Ahmed Elmohamady,"£ 25,000","£ 1,300,000","£ 1,300,000",D,33,Egypt,Aston Villa,Premier League,2020-2021
+21,John McGinn,"£ 25,000","£ 1,300,000","£ 1,300,000",M,26,Scotland,Aston Villa,Premier League,2020-2021
+22,Lovre Kalinic,"£ 15,712","£ 817,024","£ 817,024",K,30,Croatia,Aston Villa,Premier League,2020-2021
+23,Kortney Hause,"£ 8,077","£ 420,000","£ 420,000",D,25,England,Aston Villa,Premier League,2020-2021
+24,Jed Steer,"£ 8,077","£ 420,000","£ 420,000",K,28,England,Aston Villa,Premier League,2020-2021
+25,Ezri Konsa,"£ 8,000","£ 416,000","£ 416,000",D,22,England,Aston Villa,Premier League,2020-2021
+26,Keinan Davis,"£ 7,500","£ 390,000","£ 390,000",F,22,England,Aston Villa,Premier League,2020-2021
+27,Jacob Ramsey,"£ 7,500","£ 390,000","£ 390,000",F,19,England,Aston Villa,Premier League,2020-2021
+0,Adam Lallana,"£ 115,000","£ 5,980,000","£ 5,980,000",F,32,England,Brighton,Premier League,2020-2021
+1,Joël Veltman,"£ 69,500","£ 3,614,000","£ 3,614,000",D,28,Netherlands,Brighton,Premier League,2020-2021
+2,Danny Welbeck,"£ 55,000","£ 2,860,000","£ 2,860,000",F,29,England,Brighton,Premier League,2020-2021
+3,Ben White,"£ 51,000","£ 2,652,000","£ 2,652,000",D,23,England,Brighton,Premier League,2020-2021
+4,Pascal Groß,"£ 50,000","£ 2,600,000","£ 2,600,000",F,29,Germany,Brighton,Premier League,2020-2021
+5,Alireza Jahanbakhsh,"£ 50,000","£ 2,600,000","£ 2,600,000",F,27,Iran,Brighton,Premier League,2020-2021
+6,José Izquierdo,"£ 45,000","£ 2,340,000","£ 2,340,000",F,28,Colombia,Brighton,Premier League,2020-2021
+7,Lewis Dunk,"£ 45,000","£ 2,340,000","£ 2,340,000",D,28,England,Brighton,Premier League,2020-2021
+8,Davy Pröpper,"£ 45,000","£ 2,340,000","£ 2,340,000",M,29,Netherlands,Brighton,Premier League,2020-2021
+9,Leandro Trossard,"£ 42,500","£ 2,210,000","£ 2,210,000",F,25,Belgium,Brighton,Premier League,2020-2021
+10,Florin Andone,"£ 40,000","£ 2,080,000","£ 2,080,000",F,27,Romania,Brighton,Premier League,2020-2021
+11,Adam Webster,"£ 35,000","£ 1,820,000","£ 1,820,000",D,25,England,Brighton,Premier League,2020-2021
+12,Mathew Ryan,"£ 35,000","£ 1,820,000","£ 1,820,000",K,28,Australia,Brighton,Premier League,2020-2021
+13,Neal Maupay,"£ 32,500","£ 1,690,000","£ 1,690,000",F,24,France,Brighton,Premier League,2020-2021
+14,Solly March,"£ 30,000","£ 1,560,000","£ 1,560,000",M,26,England,Brighton,Premier League,2020-2021
+15,Andi Zeqiri,"£ 26,500","£ 1,378,000","£ 1,378,000",F,21,Switzerland,Brighton,Premier League,2020-2021
+16,Yves Bissouma,"£ 25,000","£ 1,300,000","£ 1,300,000",M,24,Mali,Brighton,Premier League,2020-2021
+17,Bernardo,"£ 25,000","£ 1,300,000","£ 1,300,000",D,25,Brazil,Brighton,Premier League,2020-2021
+18,Jayson Molumby,"£ 17,308","£ 900,000","£ 900,000",M,21,Ireland,Brighton,Premier League,2020-2021
+19,Dan Burn,"£ 15,962","£ 830,000","£ 830,000",D,28,England,Brighton,Premier League,2020-2021
+20,Jason Steele,"£ 15,962","£ 830,000","£ 830,000",K,30,England,Brighton,Premier League,2020-2021
+21,Percy Tau,"£ 15,962","£ 830,000","£ 830,000",F,26,South Africa,Brighton,Premier League,2020-2021
+22,Steven Alzate,"£ 15,000","£ 780,000","£ 780,000",M,22,Colombia,Brighton,Premier League,2020-2021
+23,Michal Karbownik,"£ 11,731","£ 610,000","£ 610,000",D,19,Poland,Brighton,Premier League,2020-2021
+24,Aaron Connolly,"£ 10,000","£ 520,000","£ 520,000",F,20,Ireland,Brighton,Premier League,2020-2021
+25,Robert Sánchez,"£ 10,000","£ 520,000","£ 520,000",K,22,Spain,Brighton,Premier League,2020-2021
+26,Alexis Mac Allister,"£ 10,000","£ 520,000","£ 520,000",F,21,Argentina,Brighton,Premier League,2020-2021
+27,Jakub Moder,"£ 9,038","£ 470,000","£ 470,000",M,21,Poland,Brighton,Premier League,2020-2021
+28,Christian Walton,"£ 8,000","£ 416,000","£ 416,000",K,24,England,Brighton,Premier League,2020-2021
+29,Tariq Lamptey,"£ 5,000","£ 260,000","£ 260,000",D,20,England,Brighton,Premier League,2020-2021
+30,Moisés Caicedo,"£ 3,500","£ 182,000","£ 182,000",M,19,Ecuador,Brighton,Premier League,2020-2021
+31,Max Sanders,£ 825,"£ 42,900","£ 42,900",M,21,England,Brighton,Premier League,2020-2021
+0,Ben Mee,"£ 55,000","£ 2,860,000","£ 2,860,000",D,31,England,Burnley,Premier League,2020-2021
+1,Chris Wood,"£ 50,000","£ 2,600,000","£ 2,600,000",F,28,New Zealand,Burnley,Premier League,2020-2021
+2,James Tarkowski,"£ 50,000","£ 2,600,000","£ 2,600,000",D,27,England,Burnley,Premier League,2020-2021
+3,Ashley Barnes,"£ 40,000","£ 2,080,000","£ 2,080,000",F,31,England,Burnley,Premier League,2020-2021
+4,Josh Brownhill,"£ 40,000","£ 2,080,000","£ 2,080,000",M,24,England,Burnley,Premier League,2020-2021
+5,Jack Cork,"£ 38,077","£ 1,980,000","£ 1,980,000",M,31,England,Burnley,Premier League,2020-2021
+6,Dale Stephens,"£ 37,500","£ 1,950,000","£ 1,950,000",M,31,England,Burnley,Premier League,2020-2021
+7,Ashley Westwood,"£ 36,000","£ 1,872,000","£ 1,872,000",M,30,England,Burnley,Premier League,2020-2021
+8,Robbie Brady,"£ 35,000","£ 1,820,000","£ 1,820,000",M,28,Ireland,Burnley,Premier League,2020-2021
+9,Nick Pope,"£ 35,000","£ 1,820,000","£ 1,820,000",K,28,England,Burnley,Premier League,2020-2021
+10,Matej Vydra,"£ 35,000","£ 1,820,000","£ 1,820,000",F,28,Czech Republic,Burnley,Premier League,2020-2021
+11,Jay Rodríguez,"£ 35,000","£ 1,820,000","£ 1,820,000",F,31,England,Burnley,Premier League,2020-2021
+12,Jóhann Berg Gudmundsson,"£ 30,000","£ 1,560,000","£ 1,560,000",F,29,Iceland,Burnley,Premier League,2020-2021
+13,Matthew Lowton,"£ 25,000","£ 1,300,000","£ 1,300,000",D,31,England,Burnley,Premier League,2020-2021
+14,Charlie Taylor,"£ 25,000","£ 1,300,000","£ 1,300,000",D,27,England,Burnley,Premier League,2020-2021
+15,Erik Pieters,"£ 25,000","£ 1,300,000","£ 1,300,000",D,32,Netherlands,Burnley,Premier League,2020-2021
+16,Phil Bardsley,"£ 25,000","£ 1,300,000","£ 1,300,000",D,35,Scotland,Burnley,Premier League,2020-2021
+17,Kevin Long,"£ 23,077","£ 1,200,000","£ 1,200,000",D,30,Ireland,Burnley,Premier League,2020-2021
+18,Bailey Peacock-Farrell,"£ 22,500","£ 1,170,000","£ 1,170,000",K,23,Northern Ireland,Burnley,Premier League,2020-2021
+19,Will Norris,"£ 16,500","£ 858,000","£ 858,000",K,27,England,Burnley,Premier League,2020-2021
+20,Dwight McNeil,"£ 5,000","£ 260,000","£ 260,000",F,20,England,Burnley,Premier League,2020-2021
+21,Mace Goodridge,"£ 4,500","£ 234,000","£ 234,000",M,21,England,Burnley,Premier League,2020-2021
+22,Jimmy Dunne,"£ 3,000","£ 156,000","£ 156,000",D,23,Ireland,Burnley,Premier League,2020-2021
+23,Lukas Jensen,"£ 1,250","£ 65,000","£ 65,000",K,21,Denmark,Burnley,Premier League,2020-2021
+24,Richard Nartey,"£ 1,250","£ 65,000","£ 65,000",D,22,England,Burnley,Premier League,2020-2021
+25,Bobby Thomas,£ 750,"£ 39,000","£ 39,000",D,19,England,Burnley,Premier League,2020-2021
+0,Ben Chilwell,"£ 190,000","£ 9,880,000","£ 9,880,000",D,23,England,Chelsea,Premier League,2020-2021
+1,Callum Hudson-Odoi,"£ 180,000","£ 9,360,000","£ 9,360,000",F,19,England,Chelsea,Premier League,2020-2021
+2,Timo Werner,"£ 170,000","£ 8,840,000","£ 8,840,000",F,24,Germany,Chelsea,Premier League,2020-2021
+3,Christian Pulisic,"£ 158,654","£ 8,250,000","£ 8,250,000",F,22,United States,Chelsea,Premier League,2020-2021
+4,Kepa,"£ 150,000","£ 7,800,000","£ 7,800,000",K,26,Spain,Chelsea,Premier League,2020-2021
+5,César Azpilicueta,"£ 145,000","£ 7,540,000","£ 7,540,000",D,31,Spain,Chelsea,Premier League,2020-2021
+6,N'Golo Kanté,"£ 144,231","£ 7,500,000","£ 7,500,000",M,29,France,Chelsea,Premier League,2020-2021
+7,Kai Havertz,"£ 140,000","£ 7,280,000","£ 7,280,000",F,21,Germany,Chelsea,Premier League,2020-2021
+8,Jorginho,"£ 110,000","£ 5,720,000","£ 5,720,000",M,28,Italy,Chelsea,Premier League,2020-2021
+9,Thiago Silva,"£ 110,000","£ 5,720,000","£ 5,720,000",D,36,Brazil,Chelsea,Premier League,2020-2021
+10,Olivier Giroud,"£ 110,000","£ 5,720,000","£ 5,720,000",F,34,France,Chelsea,Premier League,2020-2021
+11,Danny Drinkwater,"£ 100,000","£ 5,200,000","£ 5,200,000",M,30,England,Chelsea,Premier League,2020-2021
+12,Antonio Rüdiger,"£ 100,000","£ 5,200,000","£ 5,200,000",D,27,Germany,Chelsea,Premier League,2020-2021
+13,Reece James,"£ 100,000","£ 5,200,000","£ 5,200,000",D,20,England,Chelsea,Premier League,2020-2021
+14,Marcos Alonso,"£ 100,000","£ 5,200,000","£ 5,200,000",D,29,Spain,Chelsea,Premier League,2020-2021
+15,Mateo Kovacic,"£ 100,000","£ 5,200,000","£ 5,200,000",M,26,Croatia,Chelsea,Premier League,2020-2021
+16,Hakim Ziyech,"£ 100,000","£ 5,200,000","£ 5,200,000",F,27,Morocco,Chelsea,Premier League,2020-2021
+17,Mason Mount,"£ 88,462","£ 4,600,000","£ 4,600,000",F,21,England,Chelsea,Premier League,2020-2021
+18,Abdul Rahman Baba,"£ 86,000","£ 4,472,000","£ 4,472,000",D,26,Ghana,Chelsea,Premier League,2020-2021
+19,Andreas Christensen,"£ 80,000","£ 4,160,000","£ 4,160,000",D,24,Denmark,Chelsea,Premier League,2020-2021
+20,Emerson,"£ 75,000","£ 3,900,000","£ 3,900,000",D,26,Italy,Chelsea,Premier League,2020-2021
+21,Edouard Mendy,"£ 65,000","£ 3,380,000","£ 3,380,000",K,28,Senegal,Chelsea,Premier League,2020-2021
+22,Tammy Abraham,"£ 57,692","£ 3,000,000","£ 3,000,000",F,23,England,Chelsea,Premier League,2020-2021
+23,Billy Gilmour,"£ 43,269","£ 2,249,988","£ 2,249,988",M,19,Scotland,Chelsea,Premier League,2020-2021
+24,Kurt Zouma,"£ 40,000","£ 2,080,000","£ 2,080,000",D,25,France,Chelsea,Premier League,2020-2021
+25,Charly Musonda Jr,"£ 40,000","£ 2,080,000","£ 2,080,000",F,24,Belgium,Chelsea,Premier League,2020-2021
+26,Willy Caballero,"£ 35,000","£ 1,820,000","£ 1,820,000",K,39,Argentina,Chelsea,Premier League,2020-2021
+27,Fikayo Tomori,"£ 14,423","£ 750,000","£ 750,000",D,22,England,Chelsea,Premier League,2020-2021
+28,Karlo Ziger,"£ 4,808","£ 250,000","£ 250,000",K,19,Croatia,Chelsea,Premier League,2020-2021
+0,Wilfried Zaha,"£ 130,000","£ 6,760,000","£ 6,760,000",F,27,Cote d'Ivoire,Crystal Palace,Premier League,2020-2021
+1,Max Meyer,"£ 125,000","£ 6,500,000","£ 6,500,000",F,25,Germany,Crystal Palace,Premier League,2020-2021
+2,Christian Benteke,"£ 120,000","£ 6,240,000","£ 6,240,000",F,29,Belgium,Crystal Palace,Premier League,2020-2021
+3,Mamadou Sakho,"£ 100,000","£ 5,200,000","£ 5,200,000",D,30,France,Crystal Palace,Premier League,2020-2021
+4,Michy Batshuayi,"£ 90,000","£ 4,680,000","£ 4,680,000",F,27,Belgium,Crystal Palace,Premier League,2020-2021
+5,Gary Cahill,"£ 65,000","£ 3,380,000","£ 3,380,000",D,34,England,Crystal Palace,Premier League,2020-2021
+6,Cheikhou Kouyaté,"£ 65,000","£ 3,380,000","£ 3,380,000",M,30,Senegal,Crystal Palace,Premier League,2020-2021
+7,Vicente Guaita,"£ 60,000","£ 3,120,000","£ 3,120,000",K,33,Spain,Crystal Palace,Premier League,2020-2021
+8,Scott Dann,"£ 60,000","£ 3,120,000","£ 3,120,000",D,33,England,Crystal Palace,Premier League,2020-2021
+9,Connor Wickham,"£ 60,000","£ 3,120,000","£ 3,120,000",F,27,England,Crystal Palace,Premier League,2020-2021
+10,Jeffrey Schlupp,"£ 55,962","£ 2,910,000","£ 2,910,000",M,27,Ghana,Crystal Palace,Premier League,2020-2021
+11,Andros Townsend,"£ 55,000","£ 2,860,000","£ 2,860,000",F,29,England,Crystal Palace,Premier League,2020-2021
+12,Jairo Riedewald,"£ 55,000","£ 2,860,000","£ 2,860,000",D,24,Netherlands,Crystal Palace,Premier League,2020-2021
+13,James McArthur,"£ 55,000","£ 2,860,000","£ 2,860,000",M,33,Scotland,Crystal Palace,Premier League,2020-2021
+14,Luka Milivojevic,"£ 55,000","£ 2,860,000","£ 2,860,000",M,29,Serbia,Crystal Palace,Premier League,2020-2021
+15,Nathaniel Clyne,"£ 55,000","£ 2,860,000","£ 2,860,000",D,29,England,Crystal Palace,Premier League,2020-2021
+16,Patrick van Aanholt,"£ 55,000","£ 2,860,000","£ 2,860,000",D,30,Netherlands,Crystal Palace,Premier League,2020-2021
+17,James McCarthy,"£ 50,000","£ 2,600,000","£ 2,600,000",M,29,Ireland,Crystal Palace,Premier League,2020-2021
+18,James Tomkins,"£ 50,000","£ 2,600,000","£ 2,600,000",D,31,England,Crystal Palace,Premier League,2020-2021
+19,Jack Butland,"£ 45,000","£ 2,340,000","£ 2,340,000",K,27,England,Crystal Palace,Premier League,2020-2021
+20,Wayne Hennessey,"£ 40,000","£ 2,080,000","£ 2,080,000",K,33,Wales,Crystal Palace,Premier League,2020-2021
+21,Joel Ward,"£ 35,000","£ 1,820,000","£ 1,820,000",D,30,England,Crystal Palace,Premier League,2020-2021
+22,Jordan Ayew,"£ 32,500","£ 1,690,000","£ 1,690,000",F,29,Ghana,Crystal Palace,Premier League,2020-2021
+23,Jean-Philippe Mateta,"£ 31,538","£ 1,640,000","£ 1,640,000",F,23,France,Crystal Palace,Premier League,2020-2021
+24,Eberechi Eze,"£ 30,000","£ 1,560,000","£ 1,560,000",F,22,England,Crystal Palace,Premier League,2020-2021
+25,Tyrick Mitchell,"£ 28,846","£ 1,500,000","£ 1,500,000",D,21,England,Crystal Palace,Premier League,2020-2021
+26,Nathan Ferguson,"£ 26,500","£ 1,378,000","£ 1,378,000",D,20,England,Crystal Palace,Premier League,2020-2021
+27,Martin Kelly,"£ 25,000","£ 1,300,000","£ 1,300,000",D,30,England,Crystal Palace,Premier League,2020-2021
+28,Stephen Henderson,"£ 6,923","£ 360,000","£ 360,000",K,32,Ireland,Crystal Palace,Premier League,2020-2021
+29,Sam Woods,"£ 2,500","£ 130,000","£ 130,000",D,22,England,Crystal Palace,Premier League,2020-2021
+30,Brandon Pierrick,£ 481,"£ 25,000","£ 25,000",F,18,England,Crystal Palace,Premier League,2020-2021
+0,Yerry Mina,"£ 120,000","£ 6,240,000","£ 6,240,000",D,26,Colombia,Everton,Premier League,2020-2021
+1,Bernard,"£ 120,000","£ 6,240,000","£ 6,240,000",F,28,Brazil,Everton,Premier League,2020-2021
+2,André Gomes,"£ 112,308","£ 5,840,000","£ 5,840,000",M,27,Portugal,Everton,Premier League,2020-2021
+3,Gylfi Sigurdsson,"£ 100,000","£ 5,200,000","£ 5,200,000",F,31,Iceland,Everton,Premier League,2020-2021
+4,Jordan Pickford,"£ 100,000","£ 5,200,000","£ 5,200,000",K,26,England,Everton,Premier League,2020-2021
+5,Richarlison,"£ 90,000","£ 4,680,000","£ 4,680,000",F,23,Brazil,Everton,Premier League,2020-2021
+6,James Rodríguez,"£ 90,000","£ 4,680,000","£ 4,680,000",F,29,Colombia,Everton,Premier League,2020-2021
+7,Lucas Digne,"£ 90,000","£ 4,680,000","£ 4,680,000",D,27,France,Everton,Premier League,2020-2021
+8,Abdoulaye Doucouré,"£ 82,500","£ 4,290,000","£ 4,290,000",M,27,Mali,Everton,Premier League,2020-2021
+9,Fabian Delph,"£ 80,000","£ 4,160,000","£ 4,160,000",M,30,England,Everton,Premier League,2020-2021
+10,Yannick Bolasie,"£ 75,000","£ 3,900,000","£ 3,900,000",F,31,Democratic Republic of the Congo,Everton,Premier League,2020-2021
+11,Jean-Philippe Gbamin,"£ 75,000","£ 3,900,000","£ 3,900,000",M,25,Cote d'Ivoire,Everton,Premier League,2020-2021
+12,Allan,"£ 70,000","£ 3,640,000","£ 3,640,000",M,29,Brazil,Everton,Premier League,2020-2021
+13,Seamus Coleman,"£ 70,000","£ 3,640,000","£ 3,640,000",D,32,Ireland,Everton,Premier League,2020-2021
+14,Michael Keane,"£ 65,000","£ 3,380,000","£ 3,380,000",D,27,England,Everton,Premier League,2020-2021
+15,Cenk Tosun,"£ 60,000","£ 3,120,000","£ 3,120,000",F,29,Turkey,Everton,Premier League,2020-2021
+16,Alex Iwobi,"£ 50,000","£ 2,600,000","£ 2,600,000",F,24,Nigeria,Everton,Premier League,2020-2021
+17,Joshua King,"£ 45,000","£ 2,340,000","£ 2,340,000",F,29,Norway,Everton,Premier League,2020-2021
+18,Muhamed Besic,"£ 30,000","£ 1,560,000","£ 1,560,000",M,28,Bosnia-Herzegovina,Everton,Premier League,2020-2021
+19,Jonas Lössl,"£ 28,077","£ 1,460,000","£ 1,460,000",K,31,Denmark,Everton,Premier League,2020-2021
+20,Mason Holgate,"£ 25,000","£ 1,300,000","£ 1,300,000",D,23,England,Everton,Premier League,2020-2021
+21,Tom Davies,"£ 25,000","£ 1,300,000","£ 1,300,000",M,22,England,Everton,Premier League,2020-2021
+22,Dominic Calvert-Lewin,"£ 20,000","£ 1,040,000","£ 1,040,000",F,23,England,Everton,Premier League,2020-2021
+23,Robin Olsen,"£ 15,250","£ 793,000","£ 793,000",K,30,Sweden,Everton,Premier League,2020-2021
+24,Jonjoe Kenny,"£ 15,000","£ 780,000","£ 780,000",D,23,England,Everton,Premier League,2020-2021
+25,Matthew Pennington,"£ 12,500","£ 650,000","£ 650,000",D,26,England,Everton,Premier League,2020-2021
+26,Anthony Gordon,"£ 10,000","£ 520,000","£ 520,000",F,19,England,Everton,Premier League,2020-2021
+27,Beni Baningime,"£ 8,077","£ 420,000","£ 420,000",M,22,Democratic Republic of the Congo,Everton,Premier League,2020-2021
+28,João Virgínia,"£ 7,500","£ 390,000","£ 390,000",K,21,Portugal,Everton,Premier League,2020-2021
+29,Jarrad Branthwaite,"£ 5,500","£ 286,000","£ 286,000",D,18,England,Everton,Premier League,2020-2021
+30,Ben Godfrey,"£ 5,000","£ 260,000","£ 260,000",D,22,England,Everton,Premier League,2020-2021
+31,Niels Nkounkou,"£ 4,500","£ 234,000","£ 234,000",D,19,France,Everton,Premier League,2020-2021
+0,André Zambo Anguissa,"£ 67,000","£ 3,484,000","£ 3,484,000",M,24,Cameroon,Fulham,Premier League,2020-2021
+1,Jean Michaël Seri,"£ 65,000","£ 3,380,000","£ 3,380,000",M,29,Cote d'Ivoire,Fulham,Premier League,2020-2021
+2,Ruben Loftus-Cheek,"£ 60,000","£ 3,120,000","£ 3,120,000",M,24,England,Fulham,Premier League,2020-2021
+3,Aleksandar Mitrovic,"£ 60,000","£ 3,120,000","£ 3,120,000",F,26,Serbia,Fulham,Premier League,2020-2021
+4,Alphonse Areola,"£ 55,000","£ 2,860,000","£ 2,860,000",K,27,France,Fulham,Premier League,2020-2021
+5,Joachim Andersen,"£ 52,000","£ 2,704,000","£ 2,704,000",D,24,Denmark,Fulham,Premier League,2020-2021
+6,Kenny Tete,"£ 51,000","£ 2,652,000","£ 2,652,000",D,25,Netherlands,Fulham,Premier League,2020-2021
+7,Ademola Lookman,"£ 49,500","£ 2,574,000","£ 2,574,000",F,23,England,Fulham,Premier League,2020-2021
+8,Fabri,"£ 45,000","£ 2,340,000","£ 2,340,000",K,32,Spain,Fulham,Premier League,2020-2021
+9,Tosin Adarabioyo,"£ 40,500","£ 2,106,000","£ 2,106,000",D,23,England,Fulham,Premier League,2020-2021
+10,Tom Cairney,"£ 40,000","£ 2,080,000","£ 2,080,000",M,29,Scotland,Fulham,Premier League,2020-2021
+11,Mario Lemina,"£ 40,000","£ 2,080,000","£ 2,080,000",M,27,Gabon,Fulham,Premier League,2020-2021
+12,Ivan Cavaleiro,"£ 37,500","£ 1,950,000","£ 1,950,000",F,27,Portugal,Fulham,Premier League,2020-2021
+13,Bobby Reid,"£ 37,500","£ 1,950,000","£ 1,950,000",F,27,Jamaica,Fulham,Premier League,2020-2021
+14,Josh Onomah,"£ 30,000","£ 1,560,000","£ 1,560,000",F,23,England,Fulham,Premier League,2020-2021
+15,Joe Bryan,"£ 30,000","£ 1,560,000","£ 1,560,000",D,27,England,Fulham,Premier League,2020-2021
+16,Antonee Robinson,"£ 27,500","£ 1,430,000","£ 1,430,000",D,23,United States,Fulham,Premier League,2020-2021
+17,Tim Ream,"£ 27,000","£ 1,404,000","£ 1,404,000",D,33,United States,Fulham,Premier League,2020-2021
+18,Maxime Le Marchand,"£ 25,000","£ 1,300,000","£ 1,300,000",D,31,France,Fulham,Premier League,2020-2021
+19,Ola Aina,"£ 24,000","£ 1,248,000","£ 1,248,000",D,24,Nigeria,Fulham,Premier League,2020-2021
+20,Terence Kongolo,"£ 22,000","£ 1,144,000","£ 1,144,000",D,26,Netherlands,Fulham,Premier League,2020-2021
+21,Kevin McDonald,"£ 22,000","£ 1,144,000","£ 1,144,000",M,31,Scotland,Fulham,Premier League,2020-2021
+22,Michael Hector,"£ 18,500","£ 962,000","£ 962,000",D,28,Jamaica,Fulham,Premier League,2020-2021
+23,Neeskens Kebano,"£ 13,462","£ 700,024","£ 700,024",F,28,Democratic Republic of the Congo,Fulham,Premier League,2020-2021
+24,Josh Maja,"£ 12,885","£ 670,000","£ 670,000",F,22,Nigeria,Fulham,Premier League,2020-2021
+25,Aboubakar Kamara,"£ 12,500","£ 650,000","£ 650,000",F,25,France,Fulham,Premier League,2020-2021
+26,Harrison Reed,"£ 12,000","£ 624,000","£ 624,000",M,25,England,Fulham,Premier League,2020-2021
+27,Stefan Johansen,"£ 10,000","£ 520,000","£ 520,000",M,29,Norway,Fulham,Premier League,2020-2021
+28,Denis Odoi,"£ 8,900","£ 462,800","£ 462,800",D,32,Belgium,Fulham,Premier League,2020-2021
+29,Marek Rodak,"£ 4,500","£ 234,000","£ 234,000",K,23,Slovakia,Fulham,Premier League,2020-2021
+30,Sylvester Jasper,"£ 1,500","£ 78,000","£ 78,000",F,19,England,Fulham,Premier League,2020-2021
+31,Jay Stansfield,£ 750,"£ 39,000","£ 39,000",F,17,England,Fulham,Premier League,2020-2021
+32,George Wickens,£ 750,"£ 39,000","£ 39,000",K,18,England,Fulham,Premier League,2020-2021
+0,Raphinha,"£ 63,500","£ 3,302,000","£ 3,302,000",F,23,Brazil,Leeds,Premier League,2020-2021
+1,Rodrigo,"£ 57,692","£ 3,000,000","£ 3,000,000",F,29,Spain,Leeds,Premier League,2020-2021
+2,Robin Koch,"£ 50,000","£ 2,600,000","£ 2,600,000",D,24,Germany,Leeds,Premier League,2020-2021
+3,Patrick Bamford,"£ 35,000","£ 1,820,000","£ 1,820,000",F,27,England,Leeds,Premier League,2020-2021
+4,Hélder Costa,"£ 32,500","£ 1,690,000","£ 1,690,000",F,26,Portugal,Leeds,Premier League,2020-2021
+5,Kiko Casilla,"£ 32,115","£ 1,670,000","£ 1,670,000",K,34,Spain,Leeds,Premier League,2020-2021
+6,Diego Llorente,"£ 22,000","£ 1,144,000","£ 1,144,000",D,27,Spain,Leeds,Premier League,2020-2021
+7,Illan Meslier,"£ 21,500","£ 1,118,000","£ 1,118,000",K,20,France,Leeds,Premier League,2020-2021
+8,Adam Forshaw,"£ 20,000","£ 1,040,000","£ 1,040,000",M,29,England,Leeds,Premier League,2020-2021
+9,Pablo Hernández,"£ 19,000","£ 988,000","£ 988,000",F,35,Spain,Leeds,Premier League,2020-2021
+10,Ezgjan Alioski,"£ 15,000","£ 780,000","£ 780,000",M,28,North Macedonia,Leeds,Premier League,2020-2021
+11,Jack Harrison,"£ 15,000","£ 780,000","£ 780,000",F,23,England,Leeds,Premier League,2020-2021
+12,Gaetano Berardi,"£ 12,500","£ 650,000","£ 650,000",D,32,Switzerland,Leeds,Premier League,2020-2021
+13,Joe Gelhardt,"£ 9,750","£ 507,000","£ 507,000",F,18,England,Leeds,Premier League,2020-2021
+14,Ian Poveda,"£ 8,250","£ 429,000","£ 429,000",F,20,England,Leeds,Premier League,2020-2021
+15,Luke Ayling,"£ 8,000","£ 416,000","£ 416,000",D,29,England,Leeds,Premier League,2020-2021
+16,Stuart Dallas,"£ 8,000","£ 416,000","£ 416,000",D,29,Northern Ireland,Leeds,Premier League,2020-2021
+17,Mateusz Klich,"£ 7,750","£ 403,000","£ 403,000",M,30,Poland,Leeds,Premier League,2020-2021
+18,Liam Cooper,"£ 6,500","£ 338,000","£ 338,000",D,29,Scotland,Leeds,Premier League,2020-2021
+19,Kalvin Phillips,"£ 4,500","£ 234,000","£ 234,000",M,24,England,Leeds,Premier League,2020-2021
+20,Ouasim Bouy,"£ 4,000","£ 208,000","£ 208,000",M,27,Morocco,Leeds,Premier League,2020-2021
+21,Tyler Roberts,"£ 3,500","£ 182,000","£ 182,000",F,21,Wales,Leeds,Premier League,2020-2021
+22,Pascal Struijk,"£ 2,500","£ 130,000","£ 130,000",D,21,Netherlands,Leeds,Premier League,2020-2021
+23,Jamie Shackleton,"£ 1,500","£ 78,000","£ 78,000",M,21,England,Leeds,Premier League,2020-2021
+24,Conor Shaughnessy,"£ 1,500","£ 78,000","£ 78,000",M,24,Ireland,Leeds,Premier League,2020-2021
+25,Oliver Casey,"£ 1,200","£ 62,400","£ 62,400",D,20,England,Leeds,Premier League,2020-2021
+26,Elia Caprile,"£ 1,000","£ 52,000","£ 52,000",K,19,Italy,Leeds,Premier League,2020-2021
+27,Leif Davis,£ 596,"£ 31,000","£ 31,000",D,20,England,Leeds,Premier League,2020-2021
+0,Jamie Vardy,"£ 140,000","£ 7,280,000","£ 7,280,000",F,33,England,Leicester,Premier League,2020-2021
+1,Kasper Schmeichel,"£ 130,000","£ 6,760,000","£ 6,760,000",K,33,Denmark,Leicester,Premier League,2020-2021
+2,James Maddison,"£ 110,000","£ 5,720,000","£ 5,720,000",F,23,England,Leicester,Premier League,2020-2021
+3,Jonny Evans,"£ 80,000","£ 4,160,000","£ 4,160,000",D,32,Northern Ireland,Leicester,Premier League,2020-2021
+4,Islam Slimani,"£ 80,000","£ 4,160,000","£ 4,160,000",F,32,Algeria,Leicester,Premier League,2020-2021
+5,Cengiz Ünder,"£ 77,500","£ 4,030,000","£ 4,030,000",F,23,Turkey,Leicester,Premier League,2020-2021
+6,Wilfred Ndidi,"£ 75,000","£ 3,900,000","£ 3,900,000",M,23,Nigeria,Leicester,Premier League,2020-2021
+7,Dennis Praet,"£ 75,000","£ 3,900,000","£ 3,900,000",M,26,Belgium,Leicester,Premier League,2020-2021
+8,Ricardo Pereira,"£ 70,000","£ 3,640,000","£ 3,640,000",D,27,Portugal,Leicester,Premier League,2020-2021
+9,Timothy Castagne,"£ 63,000","£ 3,276,000","£ 3,276,000",D,24,Belgium,Leicester,Premier League,2020-2021
+10,Wes Morgan,"£ 60,000","£ 3,120,000","£ 3,120,000",D,36,Jamaica,Leicester,Premier League,2020-2021
+11,Kelechi Iheanacho,"£ 60,000","£ 3,120,000","£ 3,120,000",F,24,Nigeria,Leicester,Premier League,2020-2021
+12,Demarai Gray,"£ 55,000","£ 2,860,000","£ 2,860,000",F,24,England,Leicester,Premier League,2020-2021
+13,Christian Fuchs,"£ 50,000","£ 2,600,000","£ 2,600,000",D,34,Austria,Leicester,Premier League,2020-2021
+14,Nampalys Mendy,"£ 50,000","£ 2,600,000","£ 2,600,000",M,28,France,Leicester,Premier League,2020-2021
+15,Ayoze Pérez,"£ 45,000","£ 2,340,000","£ 2,340,000",F,27,Spain,Leicester,Premier League,2020-2021
+16,Caglar Söyüncü,"£ 45,000","£ 2,340,000","£ 2,340,000",D,24,Turkey,Leicester,Premier League,2020-2021
+17,Marc Albrighton,"£ 45,000","£ 2,340,000","£ 2,340,000",M,30,England,Leicester,Premier League,2020-2021
+18,Youri Tielemans,"£ 33,077","£ 1,720,000","£ 1,720,000",M,23,Belgium,Leicester,Premier League,2020-2021
+19,James Justin,"£ 30,000","£ 1,560,000","£ 1,560,000",D,22,England,Leicester,Premier League,2020-2021
+20,Eldin Jakupovic,"£ 23,077","£ 1,200,000","£ 1,200,000",K,36,Switzerland,Leicester,Premier League,2020-2021
+21,Daniel Amartey,"£ 20,962","£ 1,090,000","£ 1,090,000",M,25,Ghana,Leicester,Premier League,2020-2021
+22,Danny Ward,"£ 20,000","£ 1,040,000","£ 1,040,000",K,27,Wales,Leicester,Premier League,2020-2021
+23,Luke Thomas,"£ 11,538","£ 600,000","£ 600,000",D,19,England,Leicester,Premier League,2020-2021
+24,Harvey Barnes,"£ 10,000","£ 520,000","£ 520,000",M,22,England,Leicester,Premier League,2020-2021
+25,Hamza Choudhury,"£ 7,500","£ 390,000","£ 390,000",M,23,England,Leicester,Premier League,2020-2021
+26,Wesley Fofana,"£ 5,250","£ 273,000","£ 273,000",D,19,France,Leicester,Premier League,2020-2021
+0,Thiago,"£ 200,000","£ 10,400,000","£ 10,400,000",M,29,Spain,Liverpool,Premier League,2020-2021
+1,Mohamed Salah,"£ 200,000","£ 10,400,000","£ 10,400,000",F,28,Egypt,Liverpool,Premier League,2020-2021
+2,Roberto Firmino,"£ 180,000","£ 9,360,000","£ 9,360,000",F,29,Brazil,Liverpool,Premier League,2020-2021
+3,Virgil van Dijk,"£ 180,000","£ 9,360,000","£ 9,360,000",D,29,Netherlands,Liverpool,Premier League,2020-2021
+4,James Milner,"£ 140,000","£ 7,280,000","£ 7,280,000",M,34,England,Liverpool,Premier League,2020-2021
+5,Jordan Henderson,"£ 140,000","£ 7,280,000","£ 7,280,000",M,30,England,Liverpool,Premier League,2020-2021
+6,Alex Oxlade-Chamberlain,"£ 120,000","£ 6,240,000","£ 6,240,000",M,27,England,Liverpool,Premier League,2020-2021
+7,Naby Keïta,"£ 120,000","£ 6,240,000","£ 6,240,000",M,25,Guinea,Liverpool,Premier League,2020-2021
+8,Fabinho,"£ 100,000","£ 5,200,000","£ 5,200,000",M,26,Brazil,Liverpool,Premier League,2020-2021
+9,Joel Matip,"£ 100,000","£ 5,200,000","£ 5,200,000",D,29,Cameroon,Liverpool,Premier League,2020-2021
+10,Sadio Mané,"£ 100,000","£ 5,200,000","£ 5,200,000",F,28,Senegal,Liverpool,Premier League,2020-2021
+11,Diogo Jota,"£ 90,000","£ 4,680,000","£ 4,680,000",F,23,Portugal,Liverpool,Premier League,2020-2021
+12,Alisson,"£ 90,000","£ 4,680,000","£ 4,680,000",K,28,Brazil,Liverpool,Premier League,2020-2021
+13,Xherdan Shaqiri,"£ 80,000","£ 4,160,000","£ 4,160,000",F,29,Switzerland,Liverpool,Premier League,2020-2021
+14,Takumi Minamino,"£ 75,000","£ 3,900,000","£ 3,900,000",F,25,Japan,Liverpool,Premier League,2020-2021
+15,Georginio Wijnaldum,"£ 75,000","£ 3,900,000","£ 3,900,000",M,29,Netherlands,Liverpool,Premier League,2020-2021
+16,Ozan Kabak,"£ 65,000","£ 3,380,000","£ 3,380,000",D,20,Turkey,Liverpool,Premier League,2020-2021
+17,Nathaniel Phillips,"£ 64,615","£ 3,360,000","£ 3,360,000",D,23,England,Liverpool,Premier League,2020-2021
+18,Konstantinos Tsimikas,"£ 60,000","£ 3,120,000","£ 3,120,000",D,24,Greece,Liverpool,Premier League,2020-2021
+19,Ben Davies,"£ 60,000","£ 3,120,000","£ 3,120,000",D,25,England,Liverpool,Premier League,2020-2021
+20,Adrián,"£ 55,000","£ 2,860,000","£ 2,860,000",K,33,Spain,Liverpool,Premier League,2020-2021
+21,Andrew Robertson,"£ 50,000","£ 2,600,000","£ 2,600,000",D,26,Scotland,Liverpool,Premier League,2020-2021
+22,Divock Origi,"£ 45,000","£ 2,340,000","£ 2,340,000",F,25,Belgium,Liverpool,Premier League,2020-2021
+23,Trent Alexander-Arnold,"£ 40,000","£ 2,080,000","£ 2,080,000",D,22,England,Liverpool,Premier League,2020-2021
+24,Joe Gomez,"£ 28,077","£ 1,460,000","£ 1,460,000",D,23,England,Liverpool,Premier League,2020-2021
+25,Neco Williams,"£ 25,000","£ 1,300,000","£ 1,300,000",D,19,Wales,Liverpool,Premier League,2020-2021
+26,Ben Woodburn,"£ 11,923","£ 620,000","£ 620,000",F,21,Wales,Liverpool,Premier League,2020-2021
+27,Curtis Jones,"£ 7,500","£ 390,000","£ 390,000",M,19,England,Liverpool,Premier League,2020-2021
+28,Caoimhin Kelleher,"£ 5,962","£ 310,000","£ 310,000",K,21,Ireland,Liverpool,Premier League,2020-2021
+29,Sepp van den Berg,"£ 5,000","£ 260,000","£ 260,000",D,18,Netherlands,Liverpool,Premier League,2020-2021
+30,Rhys Williams,"£ 1,538","£ 80,000","£ 80,000",D,19,England,Liverpool,Premier League,2020-2021
+0,Kevin De Bruyne,"£ 400,000","£ 20,800,000","£ 20,800,000",F,29,Belgium,Manchester City,Premier League,2020-2021
+1,Raheem Sterling,"£ 300,000","£ 15,600,000","£ 15,600,000",F,25,England,Manchester City,Premier League,2020-2021
+2,Sergio Agüero,"£ 230,192","£ 11,970,000","£ 11,970,000",F,32,Argentina,Manchester City,Premier League,2020-2021
+3,Fernandinho,"£ 150,000","£ 7,800,000","£ 7,800,000",M,35,Brazil,Manchester City,Premier League,2020-2021
+4,Bernardo Silva,"£ 150,000","£ 7,800,000","£ 7,800,000",F,26,Portugal,Manchester City,Premier League,2020-2021
+5,Ilkay Gündogan,"£ 140,000","£ 7,280,000","£ 7,280,000",M,29,Germany,Manchester City,Premier League,2020-2021
+6,Rodri,"£ 121,154","£ 6,300,000","£ 6,300,000",M,24,Spain,Manchester City,Premier League,2020-2021
+7,Riyad Mahrez,"£ 120,000","£ 6,240,000","£ 6,240,000",F,29,Algeria,Manchester City,Premier League,2020-2021
+8,Aymeric Laporte,"£ 120,000","£ 6,240,000","£ 6,240,000",D,26,France,Manchester City,Premier League,2020-2021
+9,Kyle Walker,"£ 110,000","£ 5,720,000","£ 5,720,000",D,30,England,Manchester City,Premier League,2020-2021
+10,John Stones,"£ 100,000","£ 5,200,000","£ 5,200,000",D,26,England,Manchester City,Premier League,2020-2021
+11,Nathan Aké,"£ 92,308","£ 4,800,000","£ 4,800,000",D,25,Netherlands,Manchester City,Premier League,2020-2021
+12,Gabriel Jesus,"£ 90,000","£ 4,680,000","£ 4,680,000",F,23,Brazil,Manchester City,Premier League,2020-2021
+13,Benjamin Mendy,"£ 90,000","£ 4,680,000","£ 4,680,000",D,26,France,Manchester City,Premier League,2020-2021
+14,João Cancelo,"£ 80,000","£ 4,160,000","£ 4,160,000",D,26,Portugal,Manchester City,Premier League,2020-2021
+15,Rúben Dias,"£ 72,500","£ 3,770,000","£ 3,770,000",D,23,Portugal,Manchester City,Premier League,2020-2021
+16,Ederson,"£ 65,000","£ 3,380,000","£ 3,380,000",K,27,Brazil,Manchester City,Premier League,2020-2021
+17,Ferran Torres,"£ 46,154","£ 2,400,000","£ 2,400,000",F,20,Spain,Manchester City,Premier League,2020-2021
+18,Zack Steffen,"£ 46,000","£ 2,392,000","£ 2,392,000",K,25,United States,Manchester City,Premier League,2020-2021
+19,Philippe Sandler,"£ 38,000","£ 1,976,000","£ 1,976,000",D,23,Netherlands,Manchester City,Premier League,2020-2021
+20,Scott Carson,"£ 25,000","£ 1,300,000","£ 1,300,000",K,35,England,Manchester City,Premier League,2020-2021
+21,Oleksandr Zinchenko,"£ 20,000","£ 1,040,000","£ 1,040,000",D,23,Ukraine,Manchester City,Premier League,2020-2021
+22,Phil Foden,"£ 11,923","£ 620,000","£ 620,000",M,20,England,Manchester City,Premier League,2020-2021
+23,Eric García,"£ 11,923","£ 620,000","£ 620,000",D,19,Spain,Manchester City,Premier League,2020-2021
+24,Tommy Doyle,"£ 10,000","£ 520,000","£ 520,000",M,19,England,Manchester City,Premier League,2020-2021
+25,Taylor Harwood-Bellis,"£ 7,500","£ 390,000","£ 390,000",D,18,England,Manchester City,Premier League,2020-2021
+0,David de Gea,"£ 375,000","£ 19,500,000","£ 19,500,000",K,29,Spain,Manchester United,Premier League,2020-2021
+1,Paul Pogba,"£ 290,000","£ 15,080,000","£ 15,080,000",M,27,France,Manchester United,Premier League,2020-2021
+2,Anthony Martial,"£ 250,000","£ 13,000,000","£ 13,000,000",F,24,France,Manchester United,Premier League,2020-2021
+3,Edinson Cavani,"£ 210,000","£ 10,920,000","£ 10,920,000",F,33,Uruguay,Manchester United,Premier League,2020-2021
+4,Marcus Rashford,"£ 200,000","£ 10,400,000","£ 10,400,000",F,22,England,Manchester United,Premier League,2020-2021
+5,Harry Maguire,"£ 190,000","£ 9,880,000","£ 9,880,000",D,27,England,Manchester United,Premier League,2020-2021
+6,Juan Mata,"£ 160,000","£ 8,320,000","£ 8,320,000",F,32,Spain,Manchester United,Premier League,2020-2021
+7,Luke Shaw,"£ 150,000","£ 7,800,000","£ 7,800,000",D,25,England,Manchester United,Premier League,2020-2021
+8,Odion Ighalo,"£ 125,000","£ 6,500,000","£ 6,500,000",F,31,Nigeria,Manchester United,Premier League,2020-2021
+9,Victor Lindelöf,"£ 120,000","£ 6,240,000","£ 6,240,000",D,26,Sweden,Manchester United,Premier League,2020-2021
+10,Fred,"£ 120,000","£ 6,240,000","£ 6,240,000",M,27,Brazil,Manchester United,Premier League,2020-2021
+11,Nemanja Matic,"£ 120,000","£ 6,240,000","£ 6,240,000",M,32,Serbia,Manchester United,Premier League,2020-2021
+12,Donny van de Beek,"£ 120,000","£ 6,240,000","£ 6,240,000",M,23,Netherlands,Manchester United,Premier League,2020-2021
+13,Dean Henderson,"£ 100,000","£ 5,200,000","£ 5,200,000",K,23,England,Manchester United,Premier League,2020-2021
+14,Bruno Fernandes,"£ 100,000","£ 5,200,000","£ 5,200,000",F,26,Portugal,Manchester United,Premier League,2020-2021
+15,Aaron Wan-Bissaka,"£ 90,000","£ 4,680,000","£ 4,680,000",D,22,England,Manchester United,Premier League,2020-2021
+16,Eric Bailly,"£ 80,000","£ 4,160,000","£ 4,160,000",D,26,Cote d'Ivoire,Manchester United,Premier League,2020-2021
+17,Marcos Rojo,"£ 80,000","£ 4,160,000","£ 4,160,000",D,30,Argentina,Manchester United,Premier League,2020-2021
+18,Mason Greenwood,"£ 75,000","£ 3,900,000","£ 3,900,000",F,19,England,Manchester United,Premier League,2020-2021
+19,Jesse Lingard,"£ 75,000","£ 3,900,000","£ 3,900,000",F,27,England,Manchester United,Premier League,2020-2021
+20,Phil Jones,"£ 75,000","£ 3,900,000","£ 3,900,000",D,28,England,Manchester United,Premier League,2020-2021
+21,Sergio Romero,"£ 70,000","£ 3,640,000","£ 3,640,000",K,33,Argentina,Manchester United,Premier League,2020-2021
+22,Alex Telles,"£ 69,231","£ 3,600,000","£ 3,600,000",D,27,Brazil,Manchester United,Premier League,2020-2021
+23,Brandon Williams,"£ 65,000","£ 3,380,000","£ 3,380,000",D,20,England,Manchester United,Premier League,2020-2021
+24,Scott McTominay,"£ 60,000","£ 3,120,000","£ 3,120,000",M,23,Scotland,Manchester United,Premier League,2020-2021
+25,Axel Tuanzebe,"£ 50,000","£ 2,600,000","£ 2,600,000",D,22,England,Manchester United,Premier League,2020-2021
+26,Daniel James,"£ 45,000","£ 2,340,000","£ 2,340,000",F,22,Wales,Manchester United,Premier League,2020-2021
+27,Lee Grant,"£ 30,000","£ 1,560,000","£ 1,560,000",K,37,England,Manchester United,Premier League,2020-2021
+28,Amad Diallo,"£ 28,846","£ 1,500,000","£ 1,500,000",F,18,Cote d'Ivoire,Manchester United,Premier League,2020-2021
+29,Nathan Bishop,"£ 18,269","£ 950,000","£ 950,000",K,21,England,Manchester United,Premier League,2020-2021
+30,Facundo Pellistri,"£ 17,500","£ 910,000","£ 910,000",F,18,Uruguay,Manchester United,Premier League,2020-2021
+31,Timothy Fosu-Mensah,"£ 15,000","£ 780,000","£ 780,000",D,22,Netherlands,Manchester United,Premier League,2020-2021
+0,Joelinton,"£ 80,000","£ 4,160,000","£ 4,160,000",F,24,Brazil,Newcastle,Premier League,2020-2021
+1,Andy Carroll,"£ 75,000","£ 3,900,000","£ 3,900,000",F,31,England,Newcastle,Premier League,2020-2021
+2,Jonjo Shelvey,"£ 70,000","£ 3,640,000","£ 3,640,000",M,28,England,Newcastle,Premier League,2020-2021
+3,Allan Saint-Maximin,"£ 65,000","£ 3,380,000","£ 3,380,000",F,23,France,Newcastle,Premier League,2020-2021
+4,Callum Wilson,"£ 60,000","£ 3,120,000","£ 3,120,000",F,28,England,Newcastle,Premier League,2020-2021
+5,Matt Ritchie,"£ 45,000","£ 2,340,000","£ 2,340,000",D,31,Scotland,Newcastle,Premier League,2020-2021
+6,Federico Fernández,"£ 43,077","£ 2,240,000","£ 2,240,000",D,31,Argentina,Newcastle,Premier League,2020-2021
+7,Miguel Almirón,"£ 42,308","£ 2,200,000","£ 2,200,000",F,26,Paraguay,Newcastle,Premier League,2020-2021
+8,Jamaal Lascelles,"£ 40,000","£ 2,080,000","£ 2,080,000",D,26,England,Newcastle,Premier League,2020-2021
+9,Fabian Schär,"£ 40,000","£ 2,080,000","£ 2,080,000",D,28,Switzerland,Newcastle,Premier League,2020-2021
+10,Dwight Gayle,"£ 40,000","£ 2,080,000","£ 2,080,000",F,30,England,Newcastle,Premier League,2020-2021
+11,Jamal Lewis,"£ 38,462","£ 2,000,000","£ 2,000,000",D,22,Northern Ireland,Newcastle,Premier League,2020-2021
+12,Martin Dubravka,"£ 38,077","£ 1,980,000","£ 1,980,000",K,31,Slovakia,Newcastle,Premier League,2020-2021
+13,Javier Manquillo,"£ 35,000","£ 1,820,000","£ 1,820,000",D,26,Spain,Newcastle,Premier League,2020-2021
+14,Henri Saivet,"£ 35,000","£ 1,820,000","£ 1,820,000",F,29,Senegal,Newcastle,Premier League,2020-2021
+15,Jeff Hendrick,"£ 35,000","£ 1,820,000","£ 1,820,000",M,28,Ireland,Newcastle,Premier League,2020-2021
+16,Ryan Fraser,"£ 35,000","£ 1,820,000","£ 1,820,000",F,26,Scotland,Newcastle,Premier League,2020-2021
+17,Ciaran Clark,"£ 35,000","£ 1,820,000","£ 1,820,000",D,31,Ireland,Newcastle,Premier League,2020-2021
+18,Paul Dummett,"£ 35,000","£ 1,820,000","£ 1,820,000",D,29,Wales,Newcastle,Premier League,2020-2021
+19,DeAndre Yedlin,"£ 30,000","£ 1,560,000","£ 1,560,000",D,27,United States,Newcastle,Premier League,2020-2021
+20,Emil Krafth,"£ 30,000","£ 1,560,000","£ 1,560,000",D,26,Sweden,Newcastle,Premier League,2020-2021
+21,Christian Atsu,"£ 30,000","£ 1,560,000","£ 1,560,000",F,28,Ghana,Newcastle,Premier League,2020-2021
+22,Jacob Murphy,"£ 25,000","£ 1,300,000","£ 1,300,000",F,25,England,Newcastle,Premier League,2020-2021
+23,Karl Darlow,"£ 25,000","£ 1,300,000","£ 1,300,000",K,30,England,Newcastle,Premier League,2020-2021
+24,Isaac Hayden,"£ 21,923","£ 1,140,000","£ 1,140,000",M,25,England,Newcastle,Premier League,2020-2021
+25,Joe Willock,"£ 20,000","£ 1,040,000","£ 1,040,000",M,21,England,Newcastle,Premier League,2020-2021
+26,Mark Gillespie,"£ 15,500","£ 806,000","£ 806,000",K,28,England,Newcastle,Premier League,2020-2021
+27,Achraf Lazaar,"£ 15,000","£ 780,000","£ 780,000",D,28,Morocco,Newcastle,Premier League,2020-2021
+28,Rolando Aarons,"£ 15,000","£ 780,000","£ 780,000",F,24,England,Newcastle,Premier League,2020-2021
+29,Matthew Longstaff,"£ 7,500","£ 390,000","£ 390,000",M,20,England,Newcastle,Premier League,2020-2021
+30,Sean Longstaff,£ 962,"£ 50,000","£ 50,000",M,22,England,Newcastle,Premier League,2020-2021
+31,Dan Langley,£ 500,"£ 26,000","£ 26,000",K,19,England,Newcastle,Premier League,2020-2021
+0,Phil Jagielka,"£ 50,000","£ 2,600,000","£ 2,600,000",D,38,England,Sheffield United,Premier League,2020-2021
+1,Sander Berge,"£ 32,692","£ 1,700,000","£ 1,700,000",M,22,Norway,Sheffield United,Premier League,2020-2021
+2,Rhian Brewster,"£ 27,500","£ 1,430,000","£ 1,430,000",F,20,England,Sheffield United,Premier League,2020-2021
+3,David McGoldrick,"£ 27,500","£ 1,430,000","£ 1,430,000",F,32,Ireland,Sheffield United,Premier League,2020-2021
+4,Lys Mousset,"£ 25,000","£ 1,300,000","£ 1,300,000",F,24,France,Sheffield United,Premier League,2020-2021
+5,Lys Mousset,"£ 25,000","£ 1,300,000","£ 1,300,000",F,24,France,Sheffield United,Premier League,2020-2021
+6,Oliver McBurnie,"£ 20,000","£ 1,040,000","£ 1,040,000",F,24,Scotland,Sheffield United,Premier League,2020-2021
+7,Michael Verrips,"£ 20,000","£ 1,040,000","£ 1,040,000",K,23,Netherlands,Sheffield United,Premier League,2020-2021
+8,Jayden Bogle,"£ 16,500","£ 858,000","£ 858,000",D,20,England,Sheffield United,Premier League,2020-2021
+9,Oliver Norwood,"£ 15,000","£ 780,000","£ 780,000",M,29,Northern Ireland,Sheffield United,Premier League,2020-2021
+10,Jack Rodwell,"£ 13,200","£ 686,400","£ 686,400",M,29,England,Sheffield United,Premier League,2020-2021
+11,Billy Sharp,"£ 12,000","£ 624,000","£ 624,000",F,34,England,Sheffield United,Premier League,2020-2021
+12,Jack Robinson,"£ 11,000","£ 572,000","£ 572,000",D,27,England,Sheffield United,Premier League,2020-2021
+13,Jack O'Connell,"£ 10,000","£ 520,000","£ 520,000",D,26,England,Sheffield United,Premier League,2020-2021
+14,Chris Basham,"£ 9,365","£ 487,000","£ 487,000",D,32,England,Sheffield United,Premier League,2020-2021
+15,Oliver Burke,"£ 8,800","£ 457,600","£ 457,600",F,23,Scotland,Sheffield United,Premier League,2020-2021
+16,John Fleck,"£ 8,077","£ 420,000","£ 420,000",M,29,Scotland,Sheffield United,Premier League,2020-2021
+17,Ethan Ampadu,"£ 7,500","£ 390,000","£ 390,000",D,20,Wales,Sheffield United,Premier League,2020-2021
+18,John Egan,"£ 7,500","£ 390,000","£ 390,000",D,28,Ireland,Sheffield United,Premier League,2020-2021
+19,Wes Foderingham,"£ 5,500","£ 286,000","£ 286,000",K,29,England,Sheffield United,Premier League,2020-2021
+20,Simon Moore,"£ 5,000","£ 260,000","£ 260,000",K,30,England,Sheffield United,Premier League,2020-2021
+21,Max Lowe,"£ 4,400","£ 228,800","£ 228,800",D,23,England,Sheffield United,Premier League,2020-2021
+22,Enda Stevens,"£ 4,038","£ 210,000","£ 210,000",D,30,Ireland,Sheffield United,Premier League,2020-2021
+23,Ben Osborn,"£ 4,038","£ 210,000","£ 210,000",M,26,England,Sheffield United,Premier League,2020-2021
+24,George Baldock,"£ 4,038","£ 210,000","£ 210,000",D,27,England,Sheffield United,Premier League,2020-2021
+25,John Lundstram,"£ 4,038","£ 210,000","£ 210,000",M,26,England,Sheffield United,Premier League,2020-2021
+26,Aaron Ramsdale,"£ 3,077","£ 160,000","£ 160,000",K,22,England,Sheffield United,Premier League,2020-2021
+27,Kean Bryan,"£ 3,077","£ 160,000","£ 160,000",D,23,England,Sheffield United,Premier League,2020-2021
+28,Kyron Gordon,"£ 1,500","£ 78,000","£ 78,000",D,18,England,Sheffield United,Premier League,2020-2021
+29,Zak Brunt,£ 500,"£ 26,000","£ 26,000",M,18,England,Sheffield United,Premier League,2020-2021
+30,George Broadbent,£ 450,"£ 23,400","£ 23,400",M,20,England,Sheffield United,Premier League,2020-2021
+0,Theo Walcott,"£ 100,000","£ 5,200,000","£ 5,200,000",F,31,England,Southampton,Premier League,2020-2021
+1,Takumi Minamino,"£ 75,000","£ 3,900,000","£ 3,900,000",F,26,Japan,Southampton,Premier League,2020-2021
+2,Danny Ings,"£ 75,000","£ 3,900,000","£ 3,900,000",F,28,England,Southampton,Premier League,2020-2021
+3,Ryan Bertrand,"£ 70,000","£ 3,640,000","£ 3,640,000",D,31,England,Southampton,Premier League,2020-2021
+4,Fraser Forster,"£ 70,000","£ 3,640,000","£ 3,640,000",K,32,England,Southampton,Premier League,2020-2021
+5,Oriol Romeu,"£ 65,000","£ 3,380,000","£ 3,380,000",M,29,Spain,Southampton,Premier League,2020-2021
+6,Jannik Vestergaard,"£ 60,000","£ 3,120,000","£ 3,120,000",D,28,Denmark,Southampton,Premier League,2020-2021
+7,Shane Long,"£ 60,000","£ 3,120,000","£ 3,120,000",F,33,Ireland,Southampton,Premier League,2020-2021
+8,Nathan Redmond,"£ 60,000","£ 3,120,000","£ 3,120,000",F,26,England,Southampton,Premier League,2020-2021
+9,Moussa Djenepo,"£ 55,000","£ 2,860,000","£ 2,860,000",F,22,Mali,Southampton,Premier League,2020-2021
+10,Alex McCarthy,"£ 50,000","£ 2,600,000","£ 2,600,000",K,30,England,Southampton,Premier League,2020-2021
+11,Stuart Armstrong,"£ 50,000","£ 2,600,000","£ 2,600,000",F,28,Scotland,Southampton,Premier League,2020-2021
+12,Jack Stephens,"£ 47,885","£ 2,490,000","£ 2,490,000",D,26,England,Southampton,Premier League,2020-2021
+13,James Ward-Prowse,"£ 45,000","£ 2,340,000","£ 2,340,000",M,25,England,Southampton,Premier League,2020-2021
+14,Che Adams,"£ 30,000","£ 1,560,000","£ 1,560,000",F,24,England,Southampton,Premier League,2020-2021
+15,Kyle Walker-Peters,"£ 20,000","£ 1,040,000","£ 1,040,000",D,23,England,Southampton,Premier League,2020-2021
+16,Jan Bednarek,"£ 20,000","£ 1,040,000","£ 1,040,000",D,24,Poland,Southampton,Premier League,2020-2021
+17,Sam McQueen,"£ 18,077","£ 940,000","£ 940,000",D,25,England,Southampton,Premier League,2020-2021
+18,Mohammed Salisu,"£ 17,500","£ 910,000","£ 910,000",D,21,Ghana,Southampton,Premier League,2020-2021
+19,Michael Obafemi,"£ 16,923","£ 880,000","£ 880,000",F,20,Ireland,Southampton,Premier League,2020-2021
+20,Ibrahima Diallo,"£ 16,500","£ 858,000","£ 858,000",M,21,France,Southampton,Premier League,2020-2021
+21,Jake Vokins,"£ 4,500","£ 234,000","£ 234,000",D,20,England,Southampton,Premier League,2020-2021
+22,Harry Lewis,"£ 4,500","£ 234,000","£ 234,000",K,22,England,Southampton,Premier League,2020-2021
+23,Yan Valery,"£ 1,923","£ 100,000","£ 100,000",D,21,France,Southampton,Premier League,2020-2021
+24,Will Smallbone,"£ 1,500","£ 78,000","£ 78,000",M,20,Ireland,Southampton,Premier League,2020-2021
+25,Dan N'Lundulu,"£ 1,346","£ 70,000","£ 70,000",F,21,England,Southampton,Premier League,2020-2021
+26,Nathan Tella,"£ 1,000","£ 52,000","£ 52,000",F,21,England,Southampton,Premier League,2020-2021
+0,Gareth Bale,"£ 600,000","£ 31,200,000","£ 31,200,000",F,31,Wales,Tottenham,Premier League,2020-2021
+1,Tanguy Ndombélé,"£ 200,000","£ 10,400,000","£ 10,400,000",M,23,France,Tottenham,Premier League,2020-2021
+2,Harry Kane,"£ 200,000","£ 10,400,000","£ 10,400,000",F,27,England,Tottenham,Premier League,2020-2021
+3,Heung-min Son,"£ 140,000","£ 7,280,000","£ 7,280,000",F,28,South Korea,Tottenham,Premier League,2020-2021
+4,Hugo Lloris,"£ 100,000","£ 5,200,000","£ 5,200,000",K,33,France,Tottenham,Premier League,2020-2021
+5,Dele Alli,"£ 100,000","£ 5,200,000","£ 5,200,000",F,24,England,Tottenham,Premier League,2020-2021
+6,Toby Alderweireld,"£ 80,000","£ 4,160,000","£ 4,160,000",D,31,Belgium,Tottenham,Premier League,2020-2021
+7,Erik Lamela,"£ 80,000","£ 4,160,000","£ 4,160,000",F,28,Argentina,Tottenham,Premier League,2020-2021
+8,Lucas Moura,"£ 80,000","£ 4,160,000","£ 4,160,000",F,28,Brazil,Tottenham,Premier League,2020-2021
+9,Moussa Sissoko,"£ 80,000","£ 4,160,000","£ 4,160,000",M,31,France,Tottenham,Premier League,2020-2021
+10,Steven Bergwijn,"£ 75,000","£ 3,900,000","£ 3,900,000",F,23,Netherlands,Tottenham,Premier League,2020-2021
+11,Serge Aurier,"£ 70,000","£ 3,640,000","£ 3,640,000",D,27,Cote d'Ivoire,Tottenham,Premier League,2020-2021
+12,Giovani Lo Celso,"£ 70,000","£ 3,640,000","£ 3,640,000",M,24,Argentina,Tottenham,Premier League,2020-2021
+13,Davinson Sánchez,"£ 65,000","£ 3,380,000","£ 3,380,000",D,24,Colombia,Tottenham,Premier League,2020-2021
+14,Ben Davies,"£ 60,000","£ 3,120,000","£ 3,120,000",D,27,Wales,Tottenham,Premier League,2020-2021
+15,Danny Rose,"£ 60,000","£ 3,120,000","£ 3,120,000",D,30,England,Tottenham,Premier League,2020-2021
+16,Eric Dier,"£ 60,000","£ 3,120,000","£ 3,120,000",D,26,England,Tottenham,Premier League,2020-2021
+17,Sergio Reguilón,"£ 53,000","£ 2,756,000","£ 2,756,000",D,23,Spain,Tottenham,Premier League,2020-2021
+18,Gedson Fernandes,"£ 50,769","£ 2,640,000","£ 2,640,000",M,21,Portugal,Tottenham,Premier League,2020-2021
+19,Pierre-Emile Höjbjerg,"£ 50,000","£ 2,600,000","£ 2,600,000",M,25,Denmark,Tottenham,Premier League,2020-2021
+20,Harry Winks,"£ 50,000","£ 2,600,000","£ 2,600,000",M,24,England,Tottenham,Premier League,2020-2021
+21,Joe Hart,"£ 45,000","£ 2,340,000","£ 2,340,000",K,33,England,Tottenham,Premier League,2020-2021
+22,Japhet Tanganga,"£ 41,538","£ 2,160,000","£ 2,160,000",D,21,England,Tottenham,Premier League,2020-2021
+23,Jack Clarke,"£ 25,000","£ 1,300,000","£ 1,300,000",F,19,England,Tottenham,Premier League,2020-2021
+24,Paulo Gazzaniga,"£ 20,000","£ 1,040,000","£ 1,040,000",K,28,Argentina,Tottenham,Premier League,2020-2021
+25,Matt Doherty,"£ 10,000","£ 520,000","£ 520,000",D,28,Ireland,Tottenham,Premier League,2020-2021
+26,Joe Rodon,"£ 9,615","£ 500,000","£ 500,000",D,22,Wales,Tottenham,Premier League,2020-2021
+27,Carlos Vinícius,"£ 7,500","£ 390,000","£ 390,000",F,25,Brazil,Tottenham,Premier League,2020-2021
+28,Alfie Whiteman,"£ 2,500","£ 130,000","£ 130,000",K,22,England,Tottenham,Premier League,2020-2021
+0,Charlie Austin,"£ 70,000","£ 3,640,000","£ 3,640,000",F,31,England,West Bromwich,Premier League,2020-2021
+1,Kieran Gibbs,"£ 55,000","£ 2,860,000","£ 2,860,000",D,31,England,West Bromwich,Premier League,2020-2021
+2,Jake Livermore,"£ 46,000","£ 2,392,000","£ 2,392,000",M,30,England,West Bromwich,Premier League,2020-2021
+3,Robert Snodgrass,"£ 40,000","£ 2,080,000","£ 2,080,000",F,33,Scotland,West Bromwich,Premier League,2020-2021
+4,Branislav Ivanovic,"£ 38,462","£ 2,000,000","£ 2,000,000",D,36,Serbia,West Bromwich,Premier League,2020-2021
+5,Ainsley Maitland-Niles,"£ 35,000","£ 1,820,000","£ 1,820,000",M,23,England,West Bromwich,Premier League,2020-2021
+6,Sam Johnstone,"£ 32,500","£ 1,690,000","£ 1,690,000",K,27,England,West Bromwich,Premier League,2020-2021
+7,Hal Robson-Kanu,"£ 30,000","£ 1,560,000","£ 1,560,000",F,31,Wales,West Bromwich,Premier League,2020-2021
+8,Okay Yokuslu,"£ 29,615","£ 1,540,000","£ 1,540,000",M,26,Turkey,West Bromwich,Premier League,2020-2021
+9,Ahmed Hegazy,"£ 26,500","£ 1,378,000","£ 1,378,000",D,29,Egypt,West Bromwich,Premier League,2020-2021
+10,Kamil Grosicki,"£ 25,000","£ 1,300,000","£ 1,300,000",F,32,Poland,West Bromwich,Premier League,2020-2021
+11,Mbaye Diagne,"£ 22,692","£ 1,180,000","£ 1,180,000",F,29,Senegal,West Bromwich,Premier League,2020-2021
+12,Kenneth Zohore,"£ 22,500","£ 1,170,000","£ 1,170,000",F,27,Denmark,West Bromwich,Premier League,2020-2021
+13,Cédric Kipré,"£ 22,500","£ 1,170,000","£ 1,170,000",D,23,France,West Bromwich,Premier League,2020-2021
+14,Grady Diangana,"£ 20,350","£ 1,058,200","£ 1,058,200",F,22,England,West Bromwich,Premier League,2020-2021
+15,Matt Phillips,"£ 20,000","£ 1,040,000","£ 1,040,000",F,29,Scotland,West Bromwich,Premier League,2020-2021
+16,Karlan Grant,"£ 20,000","£ 1,040,000","£ 1,040,000",F,23,England,West Bromwich,Premier League,2020-2021
+17,Darnell Furlong,"£ 18,500","£ 962,000","£ 962,000",D,24,England,West Bromwich,Premier League,2020-2021
+18,Semi Ajayi,"£ 16,500","£ 858,000","£ 858,000",D,26,Nigeria,West Bromwich,Premier League,2020-2021
+19,Filip Krovinovic,"£ 15,000","£ 780,000","£ 780,000",F,25,Croatia,West Bromwich,Premier League,2020-2021
+20,Lee Peltier,"£ 13,500","£ 702,000","£ 702,000",D,33,England,West Bromwich,Premier League,2020-2021
+21,Kyle Bartley,"£ 13,500","£ 702,000","£ 702,000",D,29,England,West Bromwich,Premier League,2020-2021
+22,Romaine Sawyers,"£ 12,500","£ 650,000","£ 650,000",M,28,St. Kitts & Nevis,West Bromwich,Premier League,2020-2021
+23,Conor Townsend,"£ 11,500","£ 598,000","£ 598,000",D,27,England,West Bromwich,Premier League,2020-2021
+24,Rekeem Harper,"£ 10,000","£ 520,000","£ 520,000",M,20,England,West Bromwich,Premier League,2020-2021
+25,Sam Field,"£ 8,000","£ 416,000","£ 416,000",M,22,England,West Bromwich,Premier League,2020-2021
+26,Callum Robinson,"£ 7,692","£ 400,000","£ 400,000",F,25,Ireland,West Bromwich,Premier League,2020-2021
+27,Matheus Pereira,"£ 6,000","£ 312,000","£ 312,000",F,24,Brazil,West Bromwich,Premier League,2020-2021
+28,Jonathan Bond,"£ 5,500","£ 286,000","£ 286,000",K,27,England,West Bromwich,Premier League,2020-2021
+29,Conor Gallagher,"£ 5,000","£ 260,000","£ 260,000",M,20,England,West Bromwich,Premier League,2020-2021
+30,David Button,"£ 4,385","£ 228,000","£ 228,000",K,31,England,West Bromwich,Premier League,2020-2021
+31,Andy Lonergan,"£ 4,038","£ 210,000","£ 210,000",K,37,England,West Bromwich,Premier League,2020-2021
+32,Dara O'Shea,"£ 4,000","£ 208,000","£ 208,000",D,21,Ireland,West Bromwich,Premier League,2020-2021
+33,Kyle Edwards,"£ 1,500","£ 78,000","£ 78,000",F,22,England,West Bromwich,Premier League,2020-2021
+0,Andriy Yarmolenko,"£ 115,000","£ 5,980,000","£ 5,980,000",F,30,Ukraine,West Ham,Premier League,2020-2021
+1,Pablo Fornals,"£ 80,000","£ 4,160,000","£ 4,160,000",M,24,Spain,West Ham,Premier League,2020-2021
+2,Sébastien Haller,"£ 75,000","£ 3,900,000","£ 3,900,000",F,26,France,West Ham,Premier League,2020-2021
+3,Jesse Lingard,"£ 75,000","£ 3,900,000","£ 3,900,000",F,28,England,West Ham,Premier League,2020-2021
+4,Angelo Ogbonna,"£ 70,000","£ 3,640,000","£ 3,640,000",D,32,Italy,West Ham,Premier League,2020-2021
+5,Michail Antonio,"£ 70,000","£ 3,640,000","£ 3,640,000",F,30,England,West Ham,Premier League,2020-2021
+6,Manuel Lanzini,"£ 70,000","£ 3,640,000","£ 3,640,000",F,27,Argentina,West Ham,Premier League,2020-2021
+7,Issa Diop,"£ 66,923","£ 3,480,000","£ 3,480,000",D,23,France,West Ham,Premier League,2020-2021
+8,Lukasz Fabianski,"£ 65,000","£ 3,380,000","£ 3,380,000",K,35,Poland,West Ham,Premier League,2020-2021
+9,Jarrod Bowen,"£ 55,000","£ 2,860,000","£ 2,860,000",F,23,England,West Ham,Premier League,2020-2021
+10,Aaron Cresswell,"£ 50,000","£ 2,600,000","£ 2,600,000",D,30,England,West Ham,Premier League,2020-2021
+11,Mark Noble,"£ 50,000","£ 2,600,000","£ 2,600,000",M,33,England,West Ham,Premier League,2020-2021
+12,Tomas Soucek,"£ 45,000","£ 2,340,000","£ 2,340,000",M,25,Czech Republic,West Ham,Premier League,2020-2021
+13,Craig Dawson,"£ 42,500","£ 2,210,000","£ 2,210,000",D,30,England,West Ham,Premier League,2020-2021
+14,Arthur Masuaku,"£ 40,000","£ 2,080,000","£ 2,080,000",D,26,Democratic Republic of the Congo,West Ham,Premier League,2020-2021
+15,Fabián Balbuena,"£ 40,000","£ 2,080,000","£ 2,080,000",D,29,Paraguay,West Ham,Premier League,2020-2021
+16,Robert Snodgrass,"£ 40,000","£ 2,080,000","£ 2,080,000",F,33,Scotland,West Ham,Premier League,2020-2021
+17,Ryan Fredericks,"£ 40,000","£ 2,080,000","£ 2,080,000",D,28,England,West Ham,Premier League,2020-2021
+18,Darren Randolph,"£ 37,500","£ 1,950,000","£ 1,950,000",K,33,Ireland,West Ham,Premier League,2020-2021
+19,Vladimir Coufal,"£ 35,000","£ 1,820,000","£ 1,820,000",D,28,Czech Republic,West Ham,Premier League,2020-2021
+20,Saïd Benrahma,"£ 20,000","£ 1,040,000","£ 1,040,000",F,25,Algeria,West Ham,Premier League,2020-2021
+21,Frederik Alves,"£ 15,385","£ 800,000","£ 800,000",D,21,Denmark,West Ham,Premier League,2020-2021
+22,David Martin,"£ 8,000","£ 416,000","£ 416,000",K,34,England,West Ham,Premier League,2020-2021
+23,Declan Rice,"£ 3,077","£ 160,000","£ 160,000",M,21,England,West Ham,Premier League,2020-2021
+24,Ben Johnson,"£ 1,800","£ 93,600","£ 93,600",D,20,England,West Ham,Premier League,2020-2021
+0,João Moutinho,"£ 100,000","£ 5,200,000","£ 5,200,000",M,34,Portugal,Wolverhampton,Premier League,2020-2021
+1,Rui Patrício,"£ 100,000","£ 5,200,000","£ 5,200,000",K,32,Portugal,Wolverhampton,Premier League,2020-2021
+2,Nélson Semedo,"£ 92,500","£ 4,810,000","£ 4,810,000",D,26,Portugal,Wolverhampton,Premier League,2020-2021
+3,Leander Dendoncker,"£ 90,000","£ 4,680,000","£ 4,680,000",M,25,Belgium,Wolverhampton,Premier League,2020-2021
+4,Fábio Silva,"£ 80,000","£ 4,160,000","£ 4,160,000",F,18,Portugal,Wolverhampton,Premier League,2020-2021
+5,Daniel Podence,"£ 60,000","£ 3,120,000","£ 3,120,000",F,25,Portugal,Wolverhampton,Premier League,2020-2021
+6,Conor Coady,"£ 55,000","£ 2,860,000","£ 2,860,000",D,27,England,Wolverhampton,Premier League,2020-2021
+7,Willy Boly,"£ 50,000","£ 2,600,000","£ 2,600,000",D,29,France,Wolverhampton,Premier League,2020-2021
+8,Pedro Neto,"£ 50,000","£ 2,600,000","£ 2,600,000",F,20,Portugal,Wolverhampton,Premier League,2020-2021
+9,Rúben Neves,"£ 50,000","£ 2,600,000","£ 2,600,000",M,23,Portugal,Wolverhampton,Premier League,2020-2021
+10,Willian José,"£ 49,808","£ 2,590,000","£ 2,590,000",F,29,Brazil,Wolverhampton,Premier League,2020-2021
+11,Adama Traoré,"£ 43,077","£ 2,240,000","£ 2,240,000",F,24,Spain,Wolverhampton,Premier League,2020-2021
+12,Raúl Jiménez,"£ 41,154","£ 2,140,000","£ 2,140,000",F,29,Mexico,Wolverhampton,Premier League,2020-2021
+13,Jonny Otto,"£ 36,673","£ 1,907,000","£ 1,907,000",D,26,Spain,Wolverhampton,Premier League,2020-2021
+14,Marçal,"£ 35,000","£ 1,820,000","£ 1,820,000",D,31,Brazil,Wolverhampton,Premier League,2020-2021
+15,Romain Saïss,"£ 21,923","£ 1,140,000","£ 1,140,000",D,30,Morocco,Wolverhampton,Premier League,2020-2021
+16,Max Kilman,"£ 15,000","£ 780,000","£ 780,000",D,23,England,Wolverhampton,Premier League,2020-2021
+17,Roderick Miranda,"£ 12,500","£ 650,000","£ 650,000",D,29,Portugal,Wolverhampton,Premier League,2020-2021
+18,Ki-Jana Hoever,"£ 7,500","£ 390,000","£ 390,000",D,18,Netherlands,Wolverhampton,Premier League,2020-2021
+19,John Ruddy,"£ 5,769","£ 300,000","£ 300,000",K,33,England,Wolverhampton,Premier League,2020-2021
+20,Oskar Buur,"£ 5,000","£ 260,000","£ 260,000",D,22,Denmark,Wolverhampton,Premier League,2020-2021
+21,Rayan Aït Nouri,"£ 4,500","£ 234,000","£ 234,000",D,19,France,Wolverhampton,Premier League,2020-2021
+22,Vitinha,"£ 1,900","£ 98,800","£ 98,800",F,20,Portugal,Wolverhampton,Premier League,2020-2021
+23,Owen Otasowie,"£ 1,500","£ 78,000","£ 78,000",M,20,United States,Wolverhampton,Premier League,2020-2021
+24,Morgan Gibbs-White,"£ 1,500","£ 78,000","£ 78,000",M,21,England,Wolverhampton,Premier League,2020-2021
+25,Luke Matheson,"£ 1,500","£ 78,000","£ 78,000",D,18,England,Wolverhampton,Premier League,2020-2021
