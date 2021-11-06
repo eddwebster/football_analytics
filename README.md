@@ -84,6 +84,7 @@ For more information about this repository and the author, I am available throug
             <li><a href="#tutorials-python">Python</a></li>
             <li><a href="#tutorials-r">R</a></li>
             <li><a href="#tutorials-tableau">Tableau</a></li>
+            <li><a href="#tutorials-powerbi">Power BI</a></li>
             <li><a href="#tutorials-sql">SQL</a></li>
             <li><a href="#tutorials-excel">Excel</a></li>
             <li><a href="#tutorials-powerpoint">PowerPoint</a></li>
@@ -549,11 +550,15 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
      +    [Ravi Mistry](https://public.tableau.com/profile/scribblr.42)
      +    [Rob Carroll](https://public.tableau.com/profile/the.video.analyst)
      +    [Rob Suddaby](https://public.tableau.com/profile/rob.suddaby)
-     +    [Sathish Prasad V.T](https://public.tableau.com/profile/sathish.prasad.v.t) -  see his Canadian Premier LEague post-match reports [[link](https://twitter.com/SathishPrasadVT/status/1410966402102489091)]
+     +    [Sathish Prasad V.T](https://public.tableau.com/profile/sathish.prasad.v.t) -  see his Canadian Premier League post-match reports [[link](https://twitter.com/SathishPrasadVT/status/1410966402102489091)]
      +    [Sancho Quinn](https://public.tableau.com/profile/sancho.quinn)
      +    [Sushruta Nandy](https://public.tableau.com/profile/sushruta)
      +    [Tom Worville](https://public.tableau.com/profile/tom.worville#!/)
 
+<h4 id="tutorials-powerbi"> PowerBI</h4>
+
+*    [Futbol AnalysR](https://www.youtube.com/c/FutbolAnalysR/videos) by [Josh Trewin](https://twitter.com/joshtrewin7) - for PowerBI tutorials. Check out his website [[link](https://www.futbolanalysr.com/)]
+*    [PowerBI for Sports](https://www.youtube.com/channel/UC2H3CC6nVOLnxmniTPlSLog) by {Roberto D'Onofrio Rondón](https://twitter.com/robertodono)
 
 <h4 id="tutorials-sql"> SQL</h4>
 
@@ -566,7 +571,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 
 <h4 id="tutorials-powerpoint"> PowerPoint</h4>
 
-*    [@maramperninety](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f).
+*    [Maram AlBaharna](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f).
 
 
 <h3 id="libraries"> :classical_building: Libaries</h3>
@@ -648,8 +653,9 @@ StatsBomb  JSON file and get a CSV file back (you need to create a free account 
 Resources to aid data visualisation:
 
 *    [Matplotlib for Football](https://sharmaabhishekk.github.io/mpl-footy/) - gallery for Typical Football Plots created using matplotlib by [Abhishek Sharma](https://twitter.com/abhisheksh_98). See his Twitter thread [[link](https://twitter.com/abhisheksh_98/status/1420633486013079556)] and GitHub repository [[link](https://github.com/sharmaabhishekk/mpl-footy)];
-*    [`Viz-Templates`](https://github.com/mckayjohns/Viz-Templates) by [McKay Johns]()
+*    [`Viz-Templates`](https://github.com/mckayjohns/Viz-Templates) by [McKay Johns](https://twitter.com/mckayjohns)
 *    [Club crests](https://drive.google.com/drive/folders/1R22tOjU-gjJ3QDzwUZ8JlXGjtO4O_XaJ) available to download, put together by [Ninad Barbadikar](https://twitter.com/NinadB_06);
+*    URLs of images of all first team players from the Premier League website by [Alfred](https://twitter.com/CallmeAlfredo) - see [CSV](https://github.com/aappiah17/Football-Analytics/blob/main/epl_player_image.csv) 
 *    [Team colour codes](https://teamcolorcodes.com/), for the HEX, RGB, and HSL colours of top flight football teams; and
 *    [Pitch templates](https://www.dropbox.com/sh/y4gg8koaedi659r/AACBw3rEIbnLp7Zi91SUtwaFa?dl=0), put together by [Tony Bambrick](https://twitter.com/TonyBambrick) (see tweet [[link](https://twitter.com/TonyBambrick/status/1382314456131198976)]);
 *    [Peter McKeever](https://twitter.com/petermckeever)'s ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)]; 
@@ -731,6 +737,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Football Philosophy](http://footballphilosophy.org/) by Joost van der Leij;
 *    [Football Science](https://www.footballscience.net/) by Michael C. Rumpf;
 *    [Football Whispers](https://www.footballwhispers.com/);
+*    [Futbol AnalysR](https://www.futbolanalysr.com/) by [Josh Trewin](https://twitter.com/futbolanalysr);
 *    [The Futebolist](https://medium.com/@thefutebolist) by [Ashwin Raman](https://twitter.com/AshwinRaman_);
 *    [Get Goalside!](https://getgoalside.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/);
@@ -768,7 +775,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [The Significant Game](https://www.thesignificantgame.com/portfolio/) by [Lars Maurath](https://twitter.com/thesignigame);
 *    [Soccermatics Medium blog](https://www.soccermetrics.net/blog) by [David Sumpter](https://www.soccermetrics.net/blog);
 *    [soccerNurds](https://soccernurds.com/blog/);
-*    [space space space](https://spacespacespaceletter.com/);
+*    [space space space](https://spacespacespaceletter.com/) by [John Muller](https://twitter.com/johnspacemuller);
 *    [StatDNA](https://web.archive.org/web/20110707064735/https:/blog.statdna.com/) (last updated 01/06/2011 before Arsenal bought the company);
 *    [StatsBomb](https://statsbomb.com/articles/);
 *    [Stats Perform](https://www.statsperform.com/resources/);
@@ -990,13 +997,14 @@ The following use Amazon UK links were available.
 <h5 id="custom-playlists"> Custom Playlists Curated by Myself</h5>
 
 The following is a series of playlists that that I have collated originally for my own personal viewing but they may be useful to you:
-*    [All Sports Analytics](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo) - a huge playlist of around 800 video that includes anything at all to do with Sports Analytics and Data Science. Any video found related to the topic is here;
-*    [Football-specific Data Science lectures and seminars](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y) - presentations and seminars from conferences;
-*    [Football-specific Tableau tutorials](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl);
-*    [Football-specific Machine Learning](https://www.youtube.com/playlist?list=PL38nJNjpNpH9qHDsDLgmUow2onH0KJgFF);
-*    [Football-specific Data Viz](https://www.youtube.com/playlist?list=PL38nJNjpNpH-ortstT_BUSPXFFh7wSSuH);
-*    [Tracking data](https://www.youtube.com/playlist?list=PL38nJNjpNpH-UX0YVNu7oN5gAWQc2hq8F) - all videos related to the topic of Tracking data include presentations and tutorials;
-*    [Expected Goals](https://www.youtube.com/playlist?list=PL38nJNjpNpH_VPRZJrkaPZOJfyuIaZHUY)
+*    [All Sports Analytics](https://www.youtube.com/watch?v=lLcXH_4rwr4&list=PL38nJNjpNpH9OSeTgnnVeKkzHsQUJDb70&ab_channel=FourFourTwo) - a huge playlist of around 800 video that includes anything at all to do with Sports Analytics and Data Science. Any video found related to the topic is here
+*    [Football-specific Data Science lectures and seminars](https://www.youtube.com/playlist?list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y) - presentations and seminars from conferences including StatsBomb, Opta, Sloan, and more
+*    [Football-specific Tableau tutorials](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl)
+*    [Football-specific Power BI tutorials](https://www.youtube.com/playlist?list=PL38nJNjpNpH-fH7qSj8Bb76OLAKZ5pNPj)
+*    [Football-specific Machine Learning](https://www.youtube.com/playlist?list=PL38nJNjpNpH9qHDsDLgmUow2onH0KJgFF)
+*    [Football-specific Data Viz](https://www.youtube.com/playlist?list=PL38nJNjpNpH-ortstT_BUSPXFFh7wSSuH)
+*    [Tracking data](https://www.youtube.com/playlist?list=PL38nJNjpNpH-UX0YVNu7oN5gAWQc2hq8F) - all videos related to the topic of Tracking data include presentations and tutorials
+*    [Expected Goals](https://www.youtube.com/playlist?list=PL38nJNjpNpH_VPRZJrkaPZOJfyuIaZHUY) - all videos on the topic of Expected Goals
 
 <h5 id="public-playlists"> Public Playlists</h5>
 
@@ -1026,7 +1034,9 @@ Playlists created by others
      +    [Machine Learning Topics](https://www.youtube.com/playlist?list=PL10a1_q15HwrR-v2Ts6WFzlelwncnMVpj)
      +    [#shorts](https://www.youtube.com/playlist?list=PL10a1_q15HwoRhDET9R2ob2sPIWiPFILo)
      +    [Soccer Visualizations](https://www.youtube.com/playlist?list=PL10a1_q15HwqVEcnqt3tXs1bgvawjsQNW)
-*    [StatsBomb Innovation in Football Conference. Oct 11 2019](https://www.youtube.com/playlist?list=PLH0l8DRfBxg51jMm5hGwTouPGIOWld2cF)
+*    [StatsBomb Playlists](https://www.youtube.com/channel/UCmZ2ArreL9muPvH49Gaw0Bw)
+     +    [StatsBomb Conference 2021](https://www.youtube.com/watch?v=QzDMpCagJ0Q&list=PLH0l8DRfBxg4WVa5iNjvzzWG3Qe5aatPK)
+     +    [StatsBomb Innovation in Football Conference. Oct 11 2019](https://www.youtube.com/playlist?list=PLH0l8DRfBxg51jMm5hGwTouPGIOWld2cF)
 *    [UTSPAN Seminar Series 2020](https://www.youtube.com/playlist?list=PLIXwytm8nvjylfElCs2JUn_WgsyyqICtn) by UTSPAN
 *    [2020 Google Sports Analytics Meetup](https://www.youtube.com/playlist?list=PLN61gcz35HB7enamPi8bG4bFJNsBPYW27) by Alok Pattani for Google Sports Analytics
 *    [Carnegie Mellon Sports Analytics Conference](https://www.youtube.com/playlist?list=PLGamdDdd5qYgRHZuaoiMvuzjdotLu9uqk)
@@ -1038,21 +1048,24 @@ Playlists created by others
 
 <h4 id="youtube-channels"> YouTube Channels</h4>
 
-*    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Javier Fernández](https://twitter.com/JaviOnData), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Pascal Bauer](https://twitter.com/pascal_bauer), and [Fran Peralta](https://twitter.com/PeraltaFran23);
-*    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg) - for Python and Data Science tutorials;
-*    [Barça Innovation Hub](https://www.youtube.com/channel/UC58nLq78KZGqxfSNFNRCgsQ) (English and Spanish);
-*    [Mark Glickman](https://www.youtube.com/channel/UC-gtC2WYRAr_4eYRIUb4ovg) – for NESSIS talks, uploaded to his personal channel. Old talks are available on his [Metacafe channel](https://www.metacafe.com/channels/Mark%20Glickman/). See the official website [[link](http://www.nessis.org/)];
-*    [42 Analytics](https://www.youtube.com/user/42analytics) – for SSAC conferences;
-*    [CMU Statistics](https://www.youtube.com/channel/UCu8Pv6IJsbQdGzRlZ5OipUg);
-*    [StatsBomb](https://www.youtube.com/channel/UCmZ2ArreL9muPvH49Gaw0Bw);
-*    [Opta](https://www.youtube.com/user/optasports) - including Opta Pro Forum talks;
-*    [STATS Insights](https://www.youtube.com/user/BloombergSports);
-*    [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ);
-*    [Football Whispers](https://www.youtube.com/channel/UCKrQ1kewgRUbrwl_LcqJ6pQ);
-*    [Planeta Data Fútbol](https://www.youtube.com/channel/UCpIqAVOpOWt-8Sk4KvosxFg) (en español) con [Jesús Lagos](https://twitter.com/Vdot_Spain) y [Miguel Ángel García](https://twitter.com/miguelangaro);
-*    [Football Player Ratings](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA) by [Lars Magnus Hvattum](https://twitter.com/FLSimulator);
-*    [The Coaches’ Voice](https://www.youtube.com/channel/UCuR-ZdVJtF3muYhYUQ-he-Q); and
-*    [Ninad Barbadikar](https://twitter.com/ninadb_06)'s YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)].
+*    [42 Analytics](https://www.youtube.com/user/42analytics) – for SSAC conferences
+*    [Barça Innovation Hub](https://www.youtube.com/channel/UC58nLq78KZGqxfSNFNRCgsQ) (English and Spanish)
+*    [The Coaches’ Voice](https://www.youtube.com/channel/UCuR-ZdVJtF3muYhYUQ-he-Q)
+*    [Mark Glickman](https://www.youtube.com/channel/UC-gtC2WYRAr_4eYRIUb4ovg) – for NESSIS talks, uploaded to his personal channel. Old talks are available on his [Metacafe channel](https://www.metacafe.com/channels/Mark%20Glickman/). See the official website [[link](http://www.nessis.org/)]
+*    [CMU Statistics](https://www.youtube.com/channel/UCu8Pv6IJsbQdGzRlZ5OipUg)
+*    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Javier Fernández](https://twitter.com/JaviOnData), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Pascal Bauer](https://twitter.com/pascal_bauer), and [Fran Peralta](https://twitter.com/PeraltaFran23)
+*    [Football Player Ratings](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA) by [Lars Magnus Hvattum](https://twitter.com/FLSimulator)
+*    [Football Whispers](https://www.youtube.com/channel/UCKrQ1kewgRUbrwl_LcqJ6pQ)
+*    [Futbol AnalysR](https://www.youtube.com/c/FutbolAnalysR/videos) by [Josh Trewin](https://twitter.com/joshtrewin7) - for PowerBI tutorials
+*    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg)'s YouTube channel - for Python and Data Science tutorials
+*    [Ninad Barbadikar](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)'s YouTube channel - for Tableau tutorials
+*    [Opta](https://www.youtube.com/user/optasports) - including Opta Pro Forum talks
+*    [Planeta Data Fútbol](https://www.youtube.com/channel/UCpIqAVOpOWt-8Sk4KvosxFg) (en español) con [Jesús Lagos](https://twitter.com/Vdot_Spain) y [Miguel Ángel García](https://twitter.com/miguelangaro)
+
+*    [StatsBomb](https://www.youtube.com/channel/UCmZ2ArreL9muPvH49Gaw0Bw) - including StatsBomb Conference talks
+*    [STATS Insights](https://www.youtube.com/user/BloombergSports)
+*    [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ)
+
 
 <h4 id="video-analysis"> Video Analysis</h4>
   
