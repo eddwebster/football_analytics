@@ -299,6 +299,7 @@ Good resources for those new for the use of data in football:
       +    [Football Analytics Glossary](https://footballstatsglossary.home.blog/) by [Ashwin Raman](https://twitter.com/AshwinRaman_) and [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [HANIC Panel "How to get into Sports Analytics & Media + Analytics"](https://www.youtube.com/watch?v=oUVISEJaEMM) with Alison Lukan, Sarah Bailey, Harman Dayal, Asmae Toumi Mike Johnson, Alison Lukan;
 *    [Mikhail Zhilkin: How to hire your first data scientist](https://trainingground.guru/articles/mikhail-zhilkin-how-to-hire-your-first-data-scientist) by [Training Ground Guru](https://trainingground.guru/);
+*    [Gerard Moore on the "challenging but extremely rewarding" life" of a professional football analyst](http://www.twenty3.sport/gerard-moore-interview-football-analyst/) for [Twenty3](https://www.twenty3.sport)
 *    Podcasts:
       +    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU?si=9v83huJIR-GUxAnKRyXLRA) podcast with Mike Lewis - [Getting Your Foot in the Door](https://soundcloud.com/fanalytics/sports-analytics-getting-your-foot-in-the-door) with Sean Steffen
       +    [What is sports analytics?](https://open.spotify.com/episode/3gIkGxJOmKkFRHoGAqRimB?si=6pPOVLfgTjuynfho6b4SPA&dl_branch=1) episode of the [Measureables](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW?si=YAU9RS7sTGSyITF6OhgW9A&dl_branch=1) podcast by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))
@@ -927,6 +928,10 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 
 <h4 id="news-articles"> News Articles</h4>
 
+*    [Professional footballers threaten data firms with GDPR legal action](https://www.bbc.com/news/uk-wales-58873132) (12/10/2021) for [BBC News](https://www.bbc.com/news) by Nick Hartley
+*    [Liverpool director of research hints at seven reasons for quiet summer transfer window](https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-ian-graham-transfer-news-21819783) (11/10/2021) for [Liverpool Echo](https://www.liverpoolecho.co.uk/) by Josh Williams
+*    ['We can make some valuable signings' - Liverpool director of research explains how transfer strategy really works](https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-signings-research-21819815) (11/10/2021) for [Liverpool Echo](https://www.liverpoolecho.co.uk/) by Paul Gorst
+*    [Introducing Manchester United's big new signing: a mathematician](https://www.telegraph.co.uk/football/2021/10/08/introducing-manchester-uniteds-big-new-signing-mathematician/) (08/10/2021) for [The Telegraph](https://www.telegraph.co.uk/) by James Ducker
 *    [England vs Germany will be settled by spreadsheets](https://www.wired.co.uk/article/england-vs-germany-euros) (29/06/2021) for [Wired](https://www.wired.co.uk/) by Amit Katwala;
 *    [Now DeepMind is using AI to transform football](https://www.wired.co.uk/article/deepmind-football-liverpool-ai) (06/05/2021) for [Wired](https://www.wired.co.uk/) by Andrew Powell;
 *    [Kevin De Bruyne uses data analysts to broker £83m Man City contract without agent](https://www.mirror.co.uk/sport/football/news/kevin-de-bruyne-uses-data-23870686) (08/04/2021) by David McDonnell for The Mirror;
@@ -1669,7 +1674,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    Twitter thread by [Jernej Flisar](https://twitter.com/jernejfl) to build an Expected Goals model trained with Logistic Regression on StatsBomb Event data and using the model to predict Liverpool goals from [Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) provided by [Ricardo Tavares](https://twitter.com/rjtavares) ([Last Row View](https://twitter.com/lastrowview)) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) [[link](https://twitter.com/jernejfl/status/1258299564878106624)]. The model uses the [SHAP](https://github.com/slundberg/shap) library for feature interpretation.
 
 
-<h4 id="scraping> Web Scraping Football Data</h4>
+<h4 id="scraping"> Web Scraping Football Data</h4>
 
 <h5 id="scraping-written-pieces"> Written Pieces</h5>
 
