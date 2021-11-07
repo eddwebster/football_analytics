@@ -250,6 +250,46 @@ The contents of this GitHub repository is organised as the following:
     │   ├── twenty-first-group
     │   │ 
     │   ├── understat
+    │   │   │   
+    │   │   ├── raw  
+    │   │   │   │
+    │   │   │   ├── metadata
+    │   │   │   │   ├── bundeliga
+    │   │   │   │   ├── la-liga
+    │   │   │   │   ├── ligue-1
+    │   │   │   │   ├── premier-league
+    │   │   │   │   ├── rfpl
+    │   │   │   │   ├── serie-a
+    │   │   │   │   └── understat_metadata_all_latest.csv
+    │   │   │   │
+    │   │   │   └── shots
+    │   │   │       ├── bundeliga
+    │   │   │       ├── la-liga
+    │   │   │       ├── ligue-1
+    │   │   │       ├── premier-league
+    │   │   │       ├── rfpl
+    │   │   │       ├── serie-a
+    │   │   │       └── understat_shots_all_latest.csv
+    │   │   │   
+    │   │   └── engineered
+    │   │       │
+    │   │       ├── metadata
+    │   │       │   ├── bundeliga
+    │   │       │   ├── la-liga
+    │   │       │   ├── ligue-1
+    │   │       │   ├── premier-league
+    │   │       │   ├── rfpl
+    │   │       │   ├── serie-a
+    │   │       │   └── understat_metadata_all_latest.csv
+    │   │       │
+    │   │       └── shots
+    │   │           ├── bundeliga
+    │   │           ├── la-liga
+    │   │           ├── ligue-1
+    │   │           ├── premier-league
+    │   │           ├── rfpl
+    │   │           ├── serie-a
+    │   │           └── understat_shots_all_latest.csv
     │   │ 
     │   └── wyscout
     │
