@@ -408,7 +408,7 @@ Good resources for those new for the use of data in football:
       +    [Will Spearman's Twitter thread](https://twitter.com/the_spearman/status/1260713785138073604) for free, open-source software libraries for computing and visualising advanced soccer analytics metrics;
       +    [Jan Van Haaren](https://twitter.com/JanVanHaaren)'s [Twitter thread](https://twitter.com/JanVanHaaren/status/1436336286223196201)
       +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]
-      +    [Sancho Quinn](https://twitter.com/SanchoQuinn()'s unrolled Twitter thread for learning more about video/performance analysis [[link](https://threadreaderapp.com/thread/1434543901067595784.html)]
+      +    [Sancho Quinn](https://twitter.com/SanchoQuinn)'s unrolled Twitter thread for learning more about video/performance analysis [[link](https://threadreaderapp.com/thread/1434543901067595784.html)]
       +    [Ninad Barbadikar](https://twitter.com/NinadB_06)'s 'big football analytics' Twitter thread for getting started with football analytics [[link](https://twitter.com/NinadB_06/status/1409817891126452226)]
       +    [McKay John](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)]
       +    [Joe Gallagher](https://twitter.com/joedgallagher)'s Twitter thread for the best resources to get started [[link](https://twitter.com/joedgallagher/status/1399461951386828805)]
@@ -468,7 +468,7 @@ To learn more about the different types of data available, such as Event and Tra
 <h5 id="data-sources-agg"> Aggregated Player/Team Performance data </h5>
 
 *    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio) for [American Soccer Analysis](https://www.americansocceranalysis.com/)
-*    [FBref](https://fbref.com/en/) season-on-season aggregated player performance data provided by [StatsBomb](https://statsbomb.com/). See my [FBref Player Stats Web Scraping](https://github.com/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/FBref%20Player%20Stats%20Web%20Scraping.ipynb) notebook for Python code to scrape FBref data or access saved CSV files in [data subfolder](https://github.com/eddwebster/football_analytics/tree/master/data/fbref;
+*    [FBref](https://fbref.com/en/) season-on-season aggregated player performance data provided by [StatsBomb](https://statsbomb.com/). See my [FBref Player Stats Web Scraping](https://github.com/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/FBref%20Player%20Stats%20Web%20Scraping.ipynb) notebook for Python code to scrape FBref data or access saved CSV files in [data subfolder](https://github.com/eddwebster/football_analytics/tree/master/data/fbref);
      +    This data can also be scraped in the following ways:
            -    Python: Data can be read as a DataFrame using panda's `read_html` function. There is a direct link to this table under Share & Export --> Embed this Table (see the following StackOverflow answer for instructions [[link](https://stackoverflow.com/questions/66517625/attributeerror-nonetype-object-has-no-attribute-text-beautifulshop)]). The data can also be scraped using [Parth Athale](https://twitter.com/ParthAthale)'s [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) scraper, which in turn was written using code from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL), however, this code hasn't worked since around February 2021.
            -    R: [Jason Zivkovic](https://twitter.com/jaseziv) 's [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package (see guide [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)])
@@ -645,17 +645,20 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 
 <h4 id="tutorials-tableau"> Tableau</h4>
 
-For a YouTube playlist of Tableau-football videos and tutorials that I have collated from various sources including the Tableau Football User Group, [Rob Carroll](https://twitter.com/thevideoanalyst), and [Tom Goodall](https://twitter.com/TomG26), see the following [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
+Check out the [Tableau for Sports](https://t.co/f708aHmltt?amp=1) Discord server organised by [Ninad Barbadikar](https://twitter.com/NinadB_06), to interact with a community of Tableau developers
+
+For a YouTube playlist of Tableau-football videos and tutorials that I have collated from various sources including the Tableau Football User Group, [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), and [Ninad Barbadikar](https://twitter.com/NinadB_06), see the following [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
 *    [Tableau Football User Group](https://usergroups.tableau.com/footballtableauusergroup)] - featuring [Eva Murray](https://twitter.com/TriMyData), Oscar Hall, [James Smith](https://twitter.com/sportschord), [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), [Ravi Mistry](https://twitter.com/Scribblr_42),  Adam Cook, Hannah Roberts, [Chris Baker](https://twitter.com/chrisbaker108), Rusty Parker, Ruud van Elk, Johannes Riegger, and Sebastien Coustou;
 *    [Tableau for Sport](https://thevideoanalyst.com/tableau-sport/) by [Rob Carroll](https://twitter.com/thevideoanalyst) - completely free tutorials for using football data in Tableau, including creating shot maps, pass maps, pass matrxces, xG race-chart timelines. See also his YouTube playlist [[link](https://www.youtube.com/playlist?list=PLchE8bhmmIxK94imJ4QZncXrbld_NGoiW)];
-*    [Tom Goodall's Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/). Check out also as an unrolled Twitter thread, how he uses Tableau to create an opposition report for Burton vs. Gillingham on 9th January 2021 [[link](https://threadreaderapp.com/thread/1346186082510110720.html)];
+*    [Tom Goodall](https://twitter.com/TomG26)'s [Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/). Check out also as an unrolled Twitter thread, how he uses Tableau to create an opposition report for Burton vs. Gillingham on 9th January 2021 [[link](https://threadreaderapp.com/thread/1346186082510110720.html)];
 *    [Visually Analysing Direct Set Pieces in Football using StatsBomb Data, R and Tableau](https://www.biztory.com/blog/visually-analysing-direct-set-pieces-in-football-using-statsbomb-data-r-and-tableau) by [James Smith](https://twitter.com/sportschord);
 *    [CJ Mayes](https://cj-mayes.com/)'s Tableau blog, with posts including how to make a [Radial Tournament Bracket](https://cj-mayes.com/2021/02/24/radial-tournament-bracket-2/), [Understat data in Tableau](https://cj-mayes.com/2021/05/07/just-starting-out-with-understat/), and [Player Metrics Pizza plots](https://cj-mayes.com/2021/07/07/player-metrics/);
-*    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06). His tutorials include: [Welcome to the Tableau Tunnel!](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48), [Improving on scatter-plots and building basic bar graphs](https://ninad06.medium.com/tableau-tunnel-2-improving-on-scatter-plots-and-building-basic-bar-graphs-67dd16a2bb35), [Player dashboards](https://ninad06.medium.com/tableau-tunnel-3-player-dashboards-c840e91c7de), [Tableau Tunnel #4 — Making Beeswarm plots](https://ninad06.medium.com/tableau-tunnel-4-making-beeswarm-plots-91b615590c31), [Creating Shot Maps, Pass Maps in Football using FC Python Video Coder for Tableau[(https://www.youtube.com/watch?v=Rpzcb2lWNas&), and [Creating xG Trendlines on Tableau using moving averages](https://www.youtube.com/watch?v=srKAqXex4T4&). Check out his Twitter thread [[link](https://twitter.com/NinadB_06/status/1348738404989558787)] and his YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)];
+*    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06). His tutorials include: [Welcome to the Tableau Tunnel!](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48), [Improving on scatter-plots and building basic bar graphs](https://ninad06.medium.com/tableau-tunnel-2-improving-on-scatter-plots-and-building-basic-bar-graphs-67dd16a2bb35), [Player dashboards](https://ninad06.medium.com/tableau-tunnel-3-player-dashboards-c840e91c7de), [Tableau Tunnel #4 — Making Beeswarm plots](https://ninad06.medium.com/tableau-tunnel-4-making-beeswarm-plots-91b615590c31), [Creating Shot Maps, Pass Maps in Football using FC Python Video Coder for Tableau](https://www.youtube.com/watch?v=Rpzcb2lWNas&), and [Creating xG Trendlines on Tableau using moving averages](https://www.youtube.com/watch?v=srKAqXex4T4&). Check out his Twitter thread [[link](https://twitter.com/NinadB_06/status/1348738404989558787)] and his YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)];
 *    Medium blog posts by [Sagnik Das](https://twitter.com/nandy_sd) - [Tableau Guide #1: Making Shot Maps](https://sagnikdas1.medium.com/tabguide-1-making-shot-maps-1c030f08393e), [Tableau Guide #2: Making Pass Maps](https://sagnikdas1.medium.com/tabguide-2-making-pass-maps-bad2d541b8ed), [Tableau Guide #3: Convex Hulls](https://sagnikdas1.medium.com/tableau-guide-3-convex-hulls-c7edc31a9921), [Tableau Guide #4 : Football Radars](https://sagnikdas1.medium.com/tableau-guide-4-football-radars-8cdac85ba1fc);
 *    Medium blog posts by [Rahul Iyer](https://twitter.com/exceedingxpuns) - [Guide to Creating Passing Networks in Tableau
-](https://raahulbi103.medium.com/guide-to-creating-passing-networks-in-tableau-be8847420297), [Guide to Creating Pass Sonars in Tableau](https://raahulbi103.medium.com/guide-to-creating-pass-sonars-in-tableau-3361801d65aa);
+](https://raahulbi103.medium.com/guide-to-creating-passing-networks-in-tableau-be8847420297), [Guide to Creating Pass Sonars in Tableau](https://raahulbi103.medium.com/guide-to-creating-pass-sonars-in-tableau-3361801d65aa), [Guide to Creating Hexagonal Shot Maps in Tableau](https://raahulbi103.medium.com/guide-to-creating-hexagonal-shot-maps-in-tableau-8293e479c217);
+*    [A Guide to Player Comparison Bar Graphs (And How I Make Them)](https://thefutebolist.wordpress.com/2018/10/19/a-guide-to-player-comparison-bar-graphs-and-how-i-make-them/) by [Ashwin Raman](https://twitter.com/AshwinRaman_)
 *    [Creating a Shop Map](https://jamesvaughan1905.medium.com/creating-a-shot-map-343a03ef5270) by [James Vaughan](https://twitter.com/Advt_played);
 *    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c) by [James Smith](https://twitter.com/sportschord);
 *    [Creating Waffle Charts in Tableau](https://harshkrishna.substack.com/p/creating-waffle-charts-in-tableau?r=ixily&utm_campaign=post&utm_medium=web&utm_source=copy) by [Harsh Krishna](https://twitter.com/ftblhk);
@@ -687,8 +690,10 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 
 <h4 id="tutorials-powerbi"> PowerBI</h4>
 
+For a YouTube playlist of Power BI-football videos and tutorials that I have collated from various sources including [Futbol AnalysR](https://www.youtube.com/c/FutbolAnalysR/videos) and [PowerBI for Sports](https://www.youtube.com/channel/UC2H3CC6nVOLnxmniTPlSLog), see the following [[link](https://www.youtube.com/playlist?list=PL38nJNjpNpH-fH7qSj8Bb76OLAKZ5pNPj)].
+
 *    [Futbol AnalysR](https://www.youtube.com/c/FutbolAnalysR/videos) by [Josh Trewin](https://twitter.com/joshtrewin7) - for PowerBI tutorials. Check out his website [[link](https://www.futbolanalysr.com/)]
-*    [PowerBI for Sports](https://www.youtube.com/channel/UC2H3CC6nVOLnxmniTPlSLog) by {Roberto D'Onofrio Rondón](https://twitter.com/robertodono)
+*    [PowerBI for Sports](https://www.youtube.com/channel/UC2H3CC6nVOLnxmniTPlSLog) by [Roberto D'Onofrio Rondón](https://twitter.com/robertodono)
 
 <h4 id="tutorials-sql"> SQL</h4>
 
@@ -701,8 +706,9 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 
 <h4 id="tutorials-powerpoint"> PowerPoint</h4>
 
-*    [Maram AlBaharna](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f); and
-*    [Luke Griffin]'s pitch graphics - [slides](https://t.co/fpCa4YTIKx?amp=1). Drop him a donation of PayPal if you're using his work [[link](https://paypal.me/LukeGriffin?locale.x=en_GB)]. See original Tweet [[link](https://twitter.com/GriffinFtbl/status/1430904596843536395)].
+*    [Maram AlBaharna](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f);
+*    [Luke Griffin]'s pitch graphics - [slides](https://t.co/fpCa4YTIKx?amp=1). Drop him a donation of PayPal if you're using his work [[link](https://paypal.me/LukeGriffin?locale.x=en_GB)]. See original Tweet [[link](https://twitter.com/GriffinFtbl/status/1430904596843536395)]; and
+*    [Tony Bambrick](https://twitter.com/TonyBambrick)'s short video describing the process of creating an animated tactics board using PowerPoint. See original Tweet [[link](https://twitter.com/tonybambrick/status/1365416321551327234)].
 
 
 <h3 id="libraries"> :classical_building: Libaries</h3>
@@ -1511,7 +1517,7 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
      +    [Ep 87: Mathematics Professor David Sumpter & Trademate CEO Marius Norheim - Using Mathematics in...](https://open.spotify.com/episode/6jYhTHxujga5D9j37uQbLt?si=3gwKy27dRcOgVij5bYpGzA)
 *    [UCN/USF Sport Management - Sports Business Podcast](https://soundcloud.com/user-736114890):
      +    [Kenneth Cortsen talks to Laurie Shaw from Harvard University](https://soundcloud.com/user-736114890/sport-data-analytics-in-football-kenneth-cortsen-talks-to-laurie-shaw-harvard-university) 
-*    [Wharton Business Daily]()https://open.spotify.com/show/6370vjbuyy6VnJ3AMeRmja?si=TjqYnZboTnGR7qfhjjcYAw
+*    [Wharton Business Daily](https://open.spotify.com/show/6370vjbuyy6VnJ3AMeRmja?si=TjqYnZboTnGR7qfhjjcYAw)
      +    [The Edge of Analytics: Live from the MIT Sloan Sports Analytics Conference 2019 Part One](https://open.spotify.com/episode/0wz5qAZem0bu39qKfJsux4?si=-vvd6tvuSyChxmvQEXcHng)
      +    [The Edge of Analytics: Live from the MIT Sloan Sports Analytics Conference 2019 Part Two](https://open.spotify.com/episode/458fxtGKPPVFrqZEeg1Oog?si=PsN4MQogTk-VNwtEtpBYfA)
      +    [The Edge of Analytics: Live from the MIT Sloan Sports Analytics Conference 2019 Part Three](https://open.spotify.com/episode/6TG5oQb4BQcRvKAyHCu6JV?si=rKYl-SYfQHOcFidjh1gRNA)
@@ -1815,8 +1821,19 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [How to Build a Football Dataset with Web Scraping](https://www.kdnuggets.com/2020/11/build-football-dataset-web-scraping.html) by Otávio Simões Silveira
                         
 <h5 id="scraping-videos"> Videos</h5>
-*    [How to scrape Understat for football data in Python with requests and BeautifulSoup](https://www.youtube.com/watch?v=IsR5FrjNmro) by McKay Johns
-*    [How to scrape SPORTS STATS websites with Python](https://www.youtube.com/watch?v=SEQjNEawceo&ab_channel=JohnWatsonRooney)  by John Watson Rooney
+
+*    [How to scrape Understat for football data in Python with requests and BeautifulSoup](https://www.youtube.com/watch?v=IsR5FrjNmro) by [McKay Johns](https://twitter.com/mckayjohns)
+*    [How to scrape SPORTS STATS websites with Python](https://www.youtube.com/watch?v=SEQjNEawceo&ab_channel=JohnWatsonRooney)  by [John Watson Rooney](https://twitter.com/jhnwr)
+
+<h5 id="scraping-libraries"> Libraries</h5>
+
+*    [`ScraperFC`](https://github.com/oseymour/ScraperFC) - a Python package to scrape data from FBRef, Understat and FiveThirtyEight by [Owen Seymour](https://twitter.com/owen_seymour);
+*    [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) - Python library to scrape StatsBomb data via FBref by [Parthe Athale](https://twitter.com/ParthAthale), which in turn was updated from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL);
+*    [`tmscrape`](https://github.com/znstrider/tmscrape) - a Python TransferMarkt webscraper by [danzn1](https://twitter.com/danzn1);
+*    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) - a Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats);
+*    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) - a R package to allow users to extract various world football results and player statistics data from FBref and valuations and transfer data from TransferMarkt.com by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide on how to use this package [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)]);
+*    [`understat`](https://github.com/amosbastian/understat) - a Python webscraper by [Amos Bastian](https://github.com/amosbastian); and
+*    [`understatr`](https://github.com/ewenme/understatr) - a R package to scrape data from Understat.
 
 <h4 id="tracking-data"> Tracking Data</h4>
 
@@ -1894,7 +1911,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Predicting Football Results Using Python and the Dixon and Coles Model](http://www.pena.lt/y/2021/06/24/predicting-football-results-using-python-and-dixon-and-coles/) by Martin Eastwood;
 *    [Dixon Coles and xG: together at last](https://www.statsandsnakeoil.com/2018/06/22/dixon-coles-and-xg-together-at-last/) by Ben Torvaney
 *    [Dixon Coles](https://mathematicalfootballpredictions.com/dixon-coles/) by Mathematical Football Predictions;
-*    [https://philipwinchester.github.io/dixon-coles-model/](https://philipwinchester.github.io/dixon-coles-model/) by Philip Winchester; and
+*    [Dixon Coles Model](https://philipwinchester.github.io/dixon-coles-model/) by Philip Winchester; and
 *    [Predicting Football Results With Statistical Modelling: Dixon-Coles and Time-Weighting](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling-dixon-coles-and-time-weighting/) by David Sheehan.
 
 <h4 id="player-comparison-and-similarity-analysis"> Player Similarity and Style Analysis</h4>
