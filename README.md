@@ -225,7 +225,34 @@ The contents of this GitHub repository is organised as the following:
     │   │   └── Unification of Aggregated Seasonal Football Datasets.ipynb
     │   │
     │   ├── 5_data_analysis_and_projects
-    │   │
+    │   │   │   
+    │   │   ├── player_similarity_and_clustering
+    │   │   │   └── PCA and K-Means Clustering of 'Piqué-like' Defenders.ipynb 
+    │   │   │
+    │   │   ├──tracking_data
+    │   │   │   │   
+    │   │   │   ├── metrica_sports
+    │   │   │   │   └── Metrica Tracking Data EDA.ipynb
+    │   │   │   │   
+    │   │   │   └── signality
+    │   │   │       ├── Signality Tracking Data Engineering.ipynb
+    │   │   │       └── Signality Tracking Data EDA.ipynb
+    │   │   │ 
+    │   │   └──xg_modeling
+    │   │   │   │   
+    │   │   │   ├── shots_dataset
+    │   │   │   │   │   
+    │   │   │   │   ├── chance_quality_modelling
+    │   │   │   │   │   ├── 1) Logistic Regression Expected Goals Model.ipynb
+    │   │   │   │   │   ├── 2) XGBoost Expected Goals Model.ipynb
+    │   │   │   │   │   └── 3) CatBoost Expected Goals Model.ipynb
+    │   │   │   │   │   
+    │   │   │   │   └── metrica-sports
+    │   │   │   │       └── Metrica Sports.ipynb
+    │   │   │   │   
+    │   │   │   └── wyscout_statsbomb_datasets
+    │   │   │       └── 1) Expected Goals Modeling using StatsBomb and Wyscout Event Data - Creation of the Shot Model from StatsBomb and Wyscout Eventm.ipynb
+    │   │   │ 
     │   └── 6_data_visualisation
     │
     │
@@ -592,11 +619,12 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 <h4 id="tutorials-excel"> Excel</h4>
 
 *    [Marius Fischer](https://twitter.com/Gegenpressing91)'s Patreon [[link](https://www.patreon.com/Gegenpressing91)]
-*    [Guide to Creating Action Heat Maps in Microsoft Excel](https://raahulbi103.medium.com/guide-to-creating-action-heat-maps-in-microsoft-excel-18b19f0c9d02) by Rahul Iyer
+*    [Guide to Creating Action Heat Maps in Microsoft Excel](https://raahulbi103.medium.com/guide-to-creating-action-heat-maps-in-microsoft-excel-18b19f0c9d02) by [Rahul Iyer](https://twitter.com/exceedingxpuns)
 
 <h4 id="tutorials-powerpoint"> PowerPoint</h4>
 
-*    [Maram AlBaharna](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f).
+*    [Maram AlBaharna](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f); and
+*    [Luke Griffin]'s pitch graphics - [slides](https://t.co/fpCa4YTIKx?amp=1). Drop him a donation of PayPal if you're using his work [[link](https://paypal.me/LukeGriffin?locale.x=en_GB)]. See original Tweet [[link](https://twitter.com/GriffinFtbl/status/1430904596843536395)].
 
 
 <h3 id="libraries"> :classical_building: Libaries</h3>
@@ -683,10 +711,12 @@ Resources to aid data visualisation:
 *    [Matplotlib for Football](https://sharmaabhishekk.github.io/mpl-footy/) - gallery for Typical Football Plots created using matplotlib by [Abhishek Sharma](https://twitter.com/abhisheksh_98). See his Twitter thread [[link](https://twitter.com/abhisheksh_98/status/1420633486013079556)] and GitHub repository [[link](https://github.com/sharmaabhishekk/mpl-footy)];
 *    [`Viz-Templates`](https://github.com/mckayjohns/Viz-Templates) by [McKay Johns](https://twitter.com/mckayjohns)
 *    [Club crests](https://drive.google.com/drive/folders/1R22tOjU-gjJ3QDzwUZ8JlXGjtO4O_XaJ) available to download, put together by [Ninad Barbadikar](https://twitter.com/NinadB_06);
+*    [PL 21-22 player images](https://drive.google.com/drive/folders/1W7hbfbIQImDG3pNazLFymLbg9i2ZS3oi) by [Karan Popli](https://twitter.com/KP031);
 *    [StatsBomb media pack](https://statsbomb.com/media-pack/)
 *    URLs of images of all first team players from the Premier League website by [Alfred](https://twitter.com/CallmeAlfredo) - see [CSV](https://github.com/aappiah17/Football-Analytics/blob/main/epl_player_image.csv) 
 *    [Team colour codes](https://teamcolorcodes.com/), for the HEX, RGB, and HSL colours of top flight football teams; and
 *    [Pitch templates](https://www.dropbox.com/sh/y4gg8koaedi659r/AACBw3rEIbnLp7Zi91SUtwaFa?dl=0), put together by [Tony Bambrick](https://twitter.com/TonyBambrick) (see tweet [[link](https://twitter.com/TonyBambrick/status/1382314456131198976)]);
+*    [Luke Griffin]'s pitch graphics - [slides](https://t.co/fpCa4YTIKx?amp=1). Drop him a donation of PayPal if you're using his work [[link](https://paypal.me/LukeGriffin?locale.x=en_GB)]. See original Tweet [[link](https://twitter.com/GriffinFtbl/status/1430904596843536395)];
 *    [Peter McKeever](https://twitter.com/petermckeever)'s ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)]; 
 *    [John Burn-Murdoch](https://twitter.com/jburnmurdoch)'s [Data visualisation is about words](https://www.youtube.com/watch?v=uoFN3nxeMco) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w); and
 *    [Peter McKeever](https://twitter.com/petermckeever)'s Twitter thread about data viz [[link](https://threadreaderapp.com/thread/1405233770375036931.html)].
