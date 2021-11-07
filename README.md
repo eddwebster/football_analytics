@@ -198,20 +198,36 @@ The contents of this GitHub repository is organised as the following:
     │
     ├── notebooks
     │   ├── 1_data_scraping
-            ├── [Capology Player Salary Web Scraping.ipynb](https://github.com/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/Capology%20Player%20Salary%20Web%20Scraping.ipynb)
-            ├── 
-            ├── 
+    │   │   ├── Capology Player Salary Web Scraping.ipynb
+    │   │   ├── FBref Player Stats Web Scraping.ipynb
+    │   │   └── TransferMarkt Player Bio and Status Web Scraping.ipynb   
     │   │
     │   ├── 2_data_parsing
+    │   │   ├── ELO Team Ratings Data Parsing.ipynb
+    │   │   ├── StatsBomb Data Parsing.ipynb
+    │   │   └── Wyscout Data Parsing.ipynb   
     │   │
     │   ├── 3_data_engineering
+    │   │   ├── Capology Player Salary Data Engineering.ipynb
+    │   │   ├── Centre Circle Opta CPL Data Engineering.ipynb
+    │   │   ├── FBref Player Stats Data Engineering.ipynb
+    │   │   ├── Opta #mcfcanalytics PL 2011-2012.ipynb
+    │   │   ├── StatsBomb Data Engineering.ipynb
+    │   │   ├── StrataBet Data Engineering.ipynb
+    │   │   ├── The Guardian Player Recorded Transfer Fees Data Engineering.ipynb
+    │   │   ├── TransferMarkt Historical Market Value Data Engineering.ipynb
+    │   │   ├── TransferMarkt Player Bio and Status Data Engineering.ipynb
+    │   │   ├── TransferMarkt Player Recorded Transfer Fees Data Engineering.ipynb
+    │   │   ├── Understat Data Engineering.ipynb
+    │   │   └── Wyscout Data Engineering.ipynb
     │   │
-    │   ├── 4_machine_learning
+    │   ├── 4_data_unification
+    │   │   └── Unification of Aggregated Seasonal Football Datasets.ipynb
     │   │
     │   ├── 5_data_analysis_and_projects
     │   │
-    │   ├── 6_data_visualisation
-    │   │
+    │   └── 6_data_visualisation
+    │
     │
     ├── research
     │
