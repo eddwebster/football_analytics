@@ -937,6 +937,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [LukeBornn.com](http://www.lukebornn.com/) by [Luke Bornn](https://twitter.com/LukeBornn);
 *    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by [Nils Mackay](https://twitter.com/NilsMackay);
 *    [Mackinaw Stats](https://mackayanalytics.nl/) by [Mackinaw Stats](https://twitter.com/mackinawstats);
+*    [Maram AlBaharna](https://twitter.com/maramperninety)'s [Medium blog](https://maramperninety.medium.com/);
 *    [Mark's Notebook (Substack)](https://marksnotebook.substack.com/) and [Mark's Notebook (Ghost)](https://marks-notebook.ghost.io/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [Mixed kNuts](https://mixedknuts.wordpress.com/) by [Ted Knutson](https://twitter.com/mixedknuts?lang=en) including post pre-StatsBomb blog;
 *    [MRKT Insights](https://mrktinsights.com/index.php/blog/) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally [Jay Socik](https://twitter.com/Blades_analytic);
@@ -950,11 +951,11 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Penal.lt/y](http://pena.lt/y/) by [Martin Eastwood](https://twitter.com/penaltyblog);
 *    [Piotr Wawrzynów – Football Analysis](https://wawrzynow.wordpress.com/) by [Piotr Wawrzynów](https://twitter.com/pwawrzynow);
 *    [Proform AFC](https://proformanalytics.wordpress.com/) by [Proform Analytics](https://twitter.com/ProformAFC) ([Mladen Sormaz](https://twitter.com/Mladen_Sormaz) and [Dan Nichol](https://twitter.com/D4N__));
-*    [Ravi Mistry's Medium blog](https://scribblr42.medium.com/);
+*    [Ravi Mistry](https://twitter.com/Scribblr_42)'s [Medium blog](https://scribblr42.medium.com/);
 *    [robert-hickman.eu](https://www.robert-hickman.eu/);
 *    [R by R(yo)](https://ryo-n7.github.io/) by [Ryo Nakagawara](https://twitter.com/R_by_Ryo);
 *    [SaddlersStats](https://www.saddlersstats.co.uk/);
-*    [Sam Gregory's Medium blog](https://medium.com/@GregorydSam);
+*    [Sam Gregory](https://twitter.com/GregorydSam)'s [Medium blog](https://medium.com/@GregorydSam);
 *    [SciSports](https://www.scisports.com/);
 *    [Sergi's Blog](https://www.sergilehkyi.com/es/) by [Sergi_Lehkyi](https://twitter.com/sergi_lehkyi);
 *    [The Significant Game](https://www.thesignificantgame.com/portfolio/) by [Lars Maurath](https://twitter.com/thesignigame);
