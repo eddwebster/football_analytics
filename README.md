@@ -649,7 +649,7 @@ Check out the [Tableau for Sports](https://t.co/f708aHmltt?amp=1) Discord server
 
 For a YouTube playlist of Tableau-football videos and tutorials that I have collated from various sources including the Tableau Football User Group, [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), and [Ninad Barbadikar](https://twitter.com/NinadB_06), see the following [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
-*    [Tableau Football User Group](https://usergroups.tableau.com/footballtableauusergroup)] - featuring [Eva Murray](https://twitter.com/TriMyData), Oscar Hall, [James Smith](https://twitter.com/sportschord), [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), [Ravi Mistry](https://twitter.com/Scribblr_42),  Adam Cook, Hannah Roberts, [Chris Baker](https://twitter.com/chrisbaker108), Rusty Parker, Ruud van Elk, Johannes Riegger, and Sebastien Coustou;
+*    [Tableau Football User Group](https://usergroups.tableau.com/footballtableauusergroup) - featuring [Eva Murray](https://twitter.com/TriMyData), Oscar Hall, [James Smith](https://twitter.com/sportschord), [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), [Ravi Mistry](https://twitter.com/Scribblr_42),  Adam Cook, Hannah Roberts, [Chris Baker](https://twitter.com/chrisbaker108), Rusty Parker, Ruud van Elk, Johannes Riegger, and Sebastien Coustou;
 *    [Tableau for Sport](https://thevideoanalyst.com/tableau-sport/) by [Rob Carroll](https://twitter.com/thevideoanalyst) - completely free tutorials for using football data in Tableau, including creating shot maps, pass maps, pass matrxces, xG race-chart timelines. See also his YouTube playlist [[link](https://www.youtube.com/playlist?list=PLchE8bhmmIxK94imJ4QZncXrbld_NGoiW)];
 *    [Tom Goodall](https://twitter.com/TomG26)'s [Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/). Check out also as an unrolled Twitter thread, how he uses Tableau to create an opposition report for Burton vs. Gillingham on 9th January 2021 [[link](https://threadreaderapp.com/thread/1346186082510110720.html)];
 *    [Visually Analysing Direct Set Pieces in Football using StatsBomb Data, R and Tableau](https://www.biztory.com/blog/visually-analysing-direct-set-pieces-in-football-using-statsbomb-data-r-and-tableau) by [James Smith](https://twitter.com/sportschord);
@@ -1590,6 +1590,8 @@ The following includes non-football competitions.
 
 <h3 id="jobs"> :briefcase: Jobs</h3>
 
+For live job postings tracked by the community, check the Jobs channel of the [Football in Numbers](https://discord.gg/WFdRWHK7HG) Discord server
+
 *    [The Video Analyst](https://thevideoanalyst.com/jobs/) - [Rob Carroll](https://twitter.com/thevideoanalyst) posts many of the jobs going in football on his own website. Make sure to also follow him on Twitter ([@thevideoanalyst](https://twitter.com/thevideoanalyst));
 *    Job sites:
      +    [The Football Scouts](https://www.thefootballscouts.com/live-jobs) - looks really good!
@@ -1620,7 +1622,7 @@ The following includes non-football competitions.
 
 <h3 id="discord-slack-groups"> Discord/Slack groups</h3>
 
-*    [Football in Numbers](https://discord.gg/WFdRWHK7HG) Discord server organised by [McKay Johns](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbF9HSi1vUkxXdDJIV2NUczFBQlhYNW1VdlJ0Z3xBQ3Jtc0trZWtUdUJnYzRsVE1TNVl0am9KWlRaZEIwMzFZb0xvRGtLaUwtSFdaZXVMYl9fTk42Vy0wZVlRdk5uY3Q1d09RamZqaDJpeHVnMGhwM2dZX0RlMUxwbm9lRC16ZkpMOW01SXRaQVRibjhlWllpZDhPZw&q=https%3A%2F%2Ftwitter.com%2Fmckayjohns);
+*    [Football in Numbers](https://discord.gg/WFdRWHK7HG) Discord server organised by [McKay Johns](https://twitter.com/mckayjohns);
 *    [Uppsala Mathematical Modelling of Football Slack group](http://mathematicalm-fhj6138.slack.com) organised by [Novosom Salvador](https://twitter.com/novosomsalvador);
 *    [Tableau for Sports](https://t.co/f708aHmltt?amp=1) Discord server organised by [Ninad Barbadikar](https://twitter.com/NinadB_06);
 *    [Football Analysts](https://discord.com/invite/w7HKMrWD5z) Discord server organised by [Carlon Carpenter](https://twitter.com/CarlonCarpenter); and
