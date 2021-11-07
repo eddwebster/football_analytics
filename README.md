@@ -235,6 +235,8 @@ The contents of this GitHub repository is organised as the following:
     │   │ 
     │   ├── reference
     │   │ 
+    │   ├── sb
+    │   │ 
     │   ├── shots
     │   │ 
     │   ├── stats-perform
@@ -252,10 +254,24 @@ The contents of this GitHub repository is organised as the following:
     │   └── wyscout
     │
     ├── documentation
+    │   ├── centre-circle
+    │   ├── metrica-sports
+    │   ├── opta
+    │   ├── sb
+    │   ├── shots
+    │   ├── stratabet
+    │   └── wyscout
     │
     ├── gif
+    │   └── fig
     │
     ├── img
+    │   ├── club_badges
+    │   ├── eddwebster
+    │   ├── fig
+    │   ├── logos
+    │   ├── pitches
+    │   └── vizpiration
     │
     ├── notebooks
     │   │    
@@ -318,6 +334,8 @@ The contents of this GitHub repository is organised as the following:
     │   └── 6_data_visualisation
     │
     ├── research
+    │   ├── papers
+    │   └── slides
     │
     ├── scripts
     │
