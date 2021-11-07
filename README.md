@@ -189,6 +189,67 @@ The contents of this GitHub repository is organised as the following:
     ├── dashboards
     │
     ├── data
+    │   │ 
+    │   ├── capology
+    │   │   │   
+    │   │   ├── raw  
+    │   │   │   ├── bundeliga
+    │   │   │   ├── la-liga
+    │   │   │   ├── ligue-1
+    │   │   │   ├── mls
+    │   │   │   ├── premier-league
+    │   │   │   ├── serie-a
+    │   │   │   └── capology_all_latest.csv
+    │   │   │   
+    │   │   └── engineered
+    │   │       ├── capology_all_latest.csv
+    │   │       ├── capology_big5_latest.csv
+    │   │       └── capology_big5_mls_latest.csv
+    │   │ 
+    │   ├── elo
+    │   │   │   
+    │   │   ├── raw  
+    │   │   │   ├── ratings_by_date
+    │   │   │   └── ratings_by_team
+    │   │   │   
+    │   │   └── engineered
+    │   │       │ 
+    │   │       ├── ratings_by_date
+    │   │       │   └── elo_team_rating_per_year_big5_latest.csv
+    │   │       │ 
+    │   │       └── ratings_by_team
+    │   │           ├── elo_team_rating_per_year_all_latest.csv
+    │   │           └── elo_team_rating_per_year_big5_latest.csv  
+    │   │ 
+    │   ├── export
+    │   │ 
+    │   ├── fbref
+    │   │ 
+    │   ├── fifa
+    │   │ 
+    │   ├── guardian
+    │   │ 
+    │   ├── metrica-sports
+    │   │ 
+    │   ├── opta
+    │   │ 
+    │   ├── reference
+    │   │ 
+    │   ├── shots
+    │   │ 
+    │   ├── stats-perform
+    │   │ 
+    │   ├── stratabet
+    │   │ 
+    │   ├── tm
+    │   │ 
+    │   ├── touchline-analytics
+    │   │ 
+    │   ├── twenty-first-group
+    │   │ 
+    │   ├── understat
+    │   │ 
+    │   └── wyscout
     │
     ├── documentation
     │
@@ -197,6 +258,7 @@ The contents of this GitHub repository is organised as the following:
     ├── img
     │
     ├── notebooks
+    │   │    
     │   ├── 1_data_scraping
     │   │   ├── Capology Player Salary Web Scraping.ipynb
     │   │   ├── FBref Player Stats Web Scraping.ipynb
@@ -254,7 +316,6 @@ The contents of this GitHub repository is organised as the following:
     │   │   │       └── 1) Expected Goals Modeling using StatsBomb and Wyscout Event Data - Creation of the Shot Model from StatsBomb and Wyscout Eventm.ipynb
     │   │   │ 
     │   └── 6_data_visualisation
-    │
     │
     ├── research
     │
