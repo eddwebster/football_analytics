@@ -323,8 +323,7 @@ The contents of this GitHub repository is organised as the following:
     │
     ├── spreadsheets
     │
-    ├── video
-    │ 
+    └── video 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
