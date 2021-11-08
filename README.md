@@ -306,12 +306,57 @@ The contents of this GitHub repository is organised as the following:
     │   └── fig
     │
     ├── img
+    │   │  
     │   ├── club_badges
+    │   │  
     │   ├── eddwebster
+    │   │  
     │   ├── fig
+    │   │  
     │   ├── logos
+    │   │  
     │   ├── pitches
+    │   │  
     │   └── vizpiration
+    │       ├── age_profile_charts
+    │       ├── average_position_formation_charts
+    │       ├── bar_charts
+    │       ├── bumpy_chaarts
+    │       ├── carry_maps
+    │       ├── connected_dot_charts
+    │       ├── crossing_maps
+    │       ├── dashboards
+    │       ├── diamond_charts
+    │       ├── distribution_plots
+    │       ├── expected_goals_diagrams
+    │       ├── games_played_charts
+    │       ├── goalkeeper_shots_Faced_maps
+    │       ├── heat_maps
+    │       ├── injury_list_charts
+    │       ├── league_tables
+    │       ├── line_charts
+    │       ├── minutes_share_charts
+    │       ├── miscellaneous
+    │       ├── pass_maps
+    │       ├── passing_networks
+    │       ├── pizza_charts
+    │       ├── player_possessions_charts
+    │       ├── player_profiles
+    │       ├── player_tables
+    │       ├── possession_share_maps
+    │       ├── prediction_tables
+    │       ├── race_charts
+    │       ├── radars
+    │       ├── scattergrams
+    │       ├── shot_maps
+    │       ├── squad_churn_charts
+    │       ├── squad_depth_charts
+    │       ├── summary_stats
+    │       ├── touch_maps
+    │       ├── tree_diagrams
+    │       ├── ven_diagrams
+    │       ├── voronoi_diagrams
+    │       └──  waffle_charts
     │
     ├── notebooks
     │   │    
@@ -1146,6 +1191,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [How computer analysts took over at Britain's top football clubs](https://www.theguardian.com/football/2014/mar/09/premier-league-football-clubs-computer-analysts-managers-data-winning) (09/03/2014) by Tim Lewis for The Observer;
 *    [How data analysis helps football clubs make better signings](https://www.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8) (01/11/2018) by 
 John Burn-Murdoch for The FT;
+*    [What does 'Expected Goals' mean? Welcome to the new Opta stat you will be hearing a lot about this season](https://www.irishmirror.ie/sport/soccer/soccer-news/what-expected-goals-mean-welcome-10978476) (12/08/2017) by Mirror Football for The Irish Mirror;
 *    [A football revolution](https://www.ft.com/content/9471db52-97bb-11e0-9c37-00144feab49a) (17/07/2011) in The FT [pay wall]; and
 *    [A working life: The quantitative analyst](https://www.theguardian.com/money/2011/jun/11/working-life-quantitative-analyst) (11/06/2011) by [Graham Snowdon](https://twitter.com/gsnowdon) for The Guardian.
 
