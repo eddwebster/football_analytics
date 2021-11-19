@@ -138,6 +138,7 @@ For more information about this repository and the author, I am available throug
             <li><a href="#radars">Radars</a></li>
             <li><a href="#recruitment-analysis">Recruitment Analysis</a></li>
             <li><a href="#player-valuation">Player Valuation Modeling</a></li>
+            <li><a href="#relative-league-strength">Quantifying Relative League Strength</a></li>
             <li><a href="#game-win-probability-modeling">Game Win Probability Modeling</a></li>
             <li><a href="#goalkeeper-analysis">Goalkeeper Analysis</a></li>
           </ul>
@@ -2060,6 +2061,18 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
      +    [Sheffield Wednesday Recruitment Plan for the 21/22 season](https://www.yumpu.com/en/document/view/65772154/swfc-recruitment-plan-2122) by [Owls Analytics](https://twitter.com/AnalyticsOwls) (see tweet [[link](https://twitter.com/AnalyticsOwls/status/1416080185628233732)]
      +    [Celtic F.C. Opposition Report](https://www.linkedin.com/posts/liam-bailey-252760152_celtic-fc-data-report-ugcPost-6859822891979153408-kryT) by [Liam Bailey](https://twitter.com/BarcaByNumbers)
 
+
+<h4 id="relative-league-strength"> Relative League Strength</h4>
+
+*    [FiveThirtyEight](https://fivethirtyeight.com/)'s [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
+*    [Global Football Rankings](https://www.globalfootballrankings.com/) by [Ken Ackerson](https://twitter.com/pearapps) (Pear Apps), powered by [FiveThirtyEight](https://fivethirtyeight.com/)'s [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
+- https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/
+*    [Ben Torvaney](https://twitter.com/Torvaney)'s Opta Pro Forum talk Counting Across Borders, which uses hierarchical models to predict how single stats translate between leagues [[link](https://www.statsperform.com/resource/counting-across-borders/)]. For slides using Waybackmachine: [[link](http://web.archive.org/web/20200624070725/https://www.optasportspro.com/app/uploads/2019/01/Ben-Torvaney.pdf)]
+*    [Tony El Habr](https://twitter.com/TonyElHabr)'s [Soccer league Strength](https://tonyelhabr.netlify.app/post/soccer-league-strength/) post (see also [[link](https://www.r-bloggers.com/2021/06/quantifying-relative-soccer-league-strength/)]
+*    [Aditya Kothari](https://twitter.com/thecomeonman) (The Come On Man) uses differences in VAEP values of players who transferred between different leagues [[link](https://thecomeonman.github.io/PredictingTransferSuccesses/)]
+*    Tweets by [AI Abucus](https://twitter.com/aiabacus) [[link](https://twitter.com/AiAbacus/status/1423316771092717575)] and [[link](https://twitter.com/AiAbacus/status/1445735429962149888)]. They use a simple Dickson-Coles method focusing on historic results going back 15 years to build an order of hierarchy amongst teams in leagues that might have never played each other.
+*    [Which is the most physically demanding league?](https://trainingground.guru/articles/which-is-the-most-physically-demanding-league) by [Training Ground Guru](https://trainingground.guru/)
+*    [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)'s StatsBomb 2021 talk [Practical tools for ‘Bridging the gap](https://www.youtube.com/watch?v=GvyHGNMuX7o) (see @ 20m42s)
 
 <h4 id="player-valuation"> Player Valuation Modeling</h4>
 
