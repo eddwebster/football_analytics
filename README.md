@@ -2066,6 +2066,8 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 
 *    [FiveThirtyEight](https://fivethirtyeight.com/)'s [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
 *    [Global Football Rankings](https://www.globalfootballrankings.com/) by [Ken Ackerson](https://twitter.com/pearapps) (Pear Apps), powered by [FiveThirtyEight](https://fivethirtyeight.com/)'s [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
+*    [Football Elo Club Ratings](http://clubelo.com/System) by [ClubElo](http://clubelo.com/)
+*    [Glicko Rating System](https://en.m.wikipedia.org/wiki/Glicko_rating_system) by [Mark Glickman](https://twitter.com/glicko)
 *    [Ben Torvaney](https://twitter.com/Torvaney)'s Opta Pro Forum talk Counting Across Borders, which uses hierarchical models to predict how single stats translate between leagues [[link](https://www.statsperform.com/resource/counting-across-borders/)]. For slides using Waybackmachine: [[link](http://web.archive.org/web/20200624070725/https://www.optasportspro.com/app/uploads/2019/01/Ben-Torvaney.pdf)]
 *    [Tony El Habr](https://twitter.com/TonyElHabr)'s [Soccer league Strength](https://tonyelhabr.netlify.app/post/soccer-league-strength/) post (see also [[link](https://www.r-bloggers.com/2021/06/quantifying-relative-soccer-league-strength/)]
 *    [Aditya Kothari](https://twitter.com/thecomeonman) (The Come On Man) uses differences in VAEP values of players who transferred between different leagues [[link](https://thecomeonman.github.io/PredictingTransferSuccesses/)]
