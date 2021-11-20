@@ -2006,9 +2006,34 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h4 id="player-comparison-and-similarity-analysis"> Player Similarity and Style Analysis</h4>
 
-*    [Paul Power: How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM);
-*    [Using Machine Learning To Find Players In Similar Roles In Scotland](https://www.modernfitba.com/blogs/2021/2/13/using-machine-learning-to-find-players-in-similar-roles-in-scotland) by Matt Rhein; and
-*    [`PCA_Player_Finder`](https://github.com/parth1902/PCA_Player_Finder) by [Parth Athale](https://twitter.com/ParthAthale).
+<h5 id="player-comparison-and-similarity-analysis-written-pieces"> Written Pieces</h5>
+
+*    [The Seven Styles of Soccer](https://spacespacespaceletter.com/the-seven-styles-of-soccer/) by [John Muller](https://twitter.com/johnspacemuller)
+*    [You Down With t-SNE?](https://www.americansocceranalysis.com/home/2018/11/26/tsne) by [Eliot McKinley](https://twitter.com/etmckinley) and [Cheuk Hei Ho](https://twitter.com/Tacticsplatform) for [American Soccer Analysis](https://www.americansocceranalysis.com/)
+*    [Tweet to Clustering European Teams by Behaviors](https://twitter.com/Tacticsplatform/status/1056342025770094592) by [Cheuk Hei Ho](https://twitter.com/Tacticsplatform)
+*    [Defining Player Roles: How Every Player Contributes to Goals](https://www.americansocceranalysis.com/home/2020/8/3/defining-roles-how-every-player-contributes-to-goals) by [ Michael Imburgio]() for [American Soccer Analysis](https://www.americansocceranalysis.com/)
+*    [The Relentless, the Chaotic, and the Bus Conductors](https://autogol.substack.com/p/coaching-clusters) by [James McMahon](https://twitter.com/jamesmcmcmahon)
+*    [The Bargain Bin Bielsa Machine](https://autogol.substack.com/p/coaching-clusters) by [James McMahon](https://twitter.com/jamesmcmcmahon)
+*    [Using Machine Learning To Find Players In Similar Roles In Scotland](https://www.modernfitba.com/blogs/2021/2/13/using-machine-learning-to-find-players-in-similar-roles-in-scotland) by Matt Rhein
+*    [Comparing Players: Clustering and Style of Play](https://www.americansocceranalysis.com/home/2020/3/3/clustering) by American Soccer Analysis
+*    [Clustering Playing Stles in the Modern Day Fullback](https://www.statsperform.com/resource/clustering-playing-styles-in-the-modern-day-full-back/) by [Mark Carey](https://twitter.com/MarkCarey93) and [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)
+*    [Finding a replacement for Gerard Pique using Machine Learning](https://barcauniversal.com/finding-a-replacement-for-gerard-pique-using-machine-learning/) by Malhar B.
+
+<h5 id="player-comparison-and-similarity-analysis-tutorials"> Tutorials</h5>
+
+*    [Paul Power: How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM)
+
+<h5 id="player-comparison-and-similarity-analysis-tutorials"> Tutorials</h5>
+
+*    Grouping Soccer Players with Similar Skillsets in FIFA 20 by [Jaemin Lee](https://twitter.com/ImportData1)
+     +    [Part 1: K-Means Clustering](https://towardsdatascience.com/grouping-soccer-players-with-similar-skillsets-in-fifa-20-part-1-k-means-clustering-c4a845db78bc) - [Video](https://www.youtube.com/watch?v=ENWhKh8RkaU)
+     +    [Part 2: Hierarchical Clustering](https://towardsdatascience.com/grouping-soccer-players-with-similar-skillsets-in-fifa-20-part-2-hierarchical-clustering-839705f6d37d) - [Video](https://www.youtube.com/watch?v=wjlNySHpK9w)
+     +    [Part 3: DBSCAN](https://towardsdatascience.com/grouping-soccer-players-with-similar-skillsets-in-fifa-20-part-3-dbscan-b23389a08cc7) - [Video](https://www.youtube.com/watch?v=r3qDEoi6RmI)
+*    [Clustering Football Players by Using FIFA 19 Data](https://www.linkedin.com/pulse/clustering-football-players-using-fifa-19-data-o%C4%9Fuz-can-yurteri/) by [Oğuz Can Yurteri](https://twitter.com/oguzyurteri)
+
+<h5 id="player-comparison-and-similarity-analysis-github-repos"> GitHub Repositories</h5>
+
+*    [`PCA_Player_Finder`](https://github.com/parth1902/PCA_Player_Finder) by [Parth Athale](https://twitter.com/ParthAthale)
 
 <h4 id="rl-for-football-simulation"> Reinforcement Learning for Football Simulation</h4>
 
