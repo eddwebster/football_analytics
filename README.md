@@ -2087,19 +2087,56 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
      +    [Celtic F.C. Opposition Report](https://www.linkedin.com/posts/liam-bailey-252760152_celtic-fc-data-report-ugcPost-6859822891979153408-kryT) by [Liam Bailey](https://twitter.com/BarcaByNumbers)
 
 
-<h4 id="relative-league-strength"> Relative League Strength</h4>
+<h4 id="relative-league-strength"> Quantifying Relative Club and League Strength</h4>
 
-*    [FiveThirtyEight](https://fivethirtyeight.com/)'s [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
-*    [Global Football Rankings](https://www.globalfootballrankings.com/) by [Ken Ackerson](https://twitter.com/pearapps) (Pear Apps), powered by [FiveThirtyEight](https://fivethirtyeight.com/)'s [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
-*    [Football Elo Club Ratings](http://clubelo.com/System) by [ClubElo](http://clubelo.com/)
+<h5 id="player-valuation-models"> Models</h5>
+
+<h6 id="player-valuation-models-financial"> Financial</h6>
+
 *    [TransferMarkt](https://www.transfermarkt.co.uk) values of leagues - [Europe](https://www.transfermarkt.co.uk/wettbewerbe/europa), [Asia](https://www.transfermarkt.co.uk/wettbewerbe/asien)
+*    [Deloitte Football Money League (DFML)](https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html)
+
+<h6 id="player-valuation-models-historical-match-results"> Historical Match Results</h6>
+
+*    [FiveThirtyEight](https://fivethirtyeight.com/)
+     +    [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
+     +    [FiveThirtyEight](https://fivethirtyeight.com/)'s [Club Soccer Predictions](https://projects.fivethirtyeight.com/soccer-predictions/)
+     +    [`soccer-spi`](https://github.com/fivethirtyeight/data/tree/master/soccer-spi) GitHub repo
+*    [Global Football Rankings](https://www.globalfootballrankings.com/) by [Ken Ackerson](https://twitter.com/pearapps) (Pear Apps), powered by [FiveThirtyEight](https://fivethirtyeight.com/)'s [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
+*    [UEFA Club Coefficients](https://www.uefa.com/nationalassociations/uefarankings/club/#/yr/2022) (official rankings). See also on the European Club Association (ECA) [[link](https://www.ecaeurope.com/uefa-rankings-access-list/club-ranking/?page=1&years=5)]
+*    [UEFA European Cup Football Results and Qualification](https://kassiesa.net/uefa/index.html) by Bert Kassies
+*    [World Football Elo Ratings](https://www.eloratings.net/)
+*    [Club Elo Ratings](http://clubelo.com/) - [Methodology](http://clubelo.com/System)
 *    [Glicko Rating System](https://en.m.wikipedia.org/wiki/Glicko_rating_system) by [Mark Glickman](https://twitter.com/glicko)
+*    [Euro Club Index](https://www.euroclubindex.com/) - [Methodology](https://www.euroclubindex.com/methodology/)
+*    [World Football / Soccer Clubs Ranking](https://footballdatabase.com/ranking/world/1) by [FootballDatabase](https://footballdatabase.com/)
+*    [the KA Club Rating](https://www.kickalgor.com/club-rating/) - [What are the KA Ratings?](https://www.kickalgor.com/the-ka-logs/) and [Procedure](https://www.kickalgor.com/club-rating/the-ka-football-club-global-rating-2020/the-ka-football-club-global-rating-2020-procedure/)
+
+<h6 id="player-valuation-models-historical-statistical-player-performance"> Historical Statistical Player Performance</h6>
+
 *    [Ben Torvaney](https://twitter.com/Torvaney)'s 2018 Opta Pro Forum talk 'Counting Across Borders' [[link](https://www.statsperform.com/resource/counting-across-borders/)]. For slides, see Ben's blog post [[link](https://www.statsandsnakeoil.com/2018/08/10/optapro-forum-2018-slides/)] or by from the Stats Perform blog using Waybackmachine [[link](http://web.archive.org/web/20200624070725/https://www.optasportspro.com/app/uploads/2019/01/Ben-Torvaney.pdf)] and for Ben's original submission, see [[link](http://web.archive.org/web/20200628090307/https://www.optasportspro.com/app/uploads/2019/01/38-counting-across-borders-a-unified-model-for-the-effect-of-league-and-age-on-player-output.pdf)]
 *    [Tony El Habr](https://twitter.com/TonyElHabr)'s [Soccer league Strength](https://tonyelhabr.netlify.app/post/soccer-league-strength/) post (see also [[link](https://www.r-bloggers.com/2021/06/quantifying-relative-soccer-league-strength/)]
 *    [Aditya Kothari](https://twitter.com/thecomeonman) (The Come On Man) uses differences in VAEP values of players who transferred between different leagues [[link](https://thecomeonman.github.io/PredictingTransferSuccesses/)]
-*    Tweets by [AI Abucus](https://twitter.com/aiabacus) [[link](https://twitter.com/AiAbacus/status/1423316771092717575)] and [[link](https://twitter.com/AiAbacus/status/1445735429962149888)]. They use a simple Dickson-Coles method focusing on historic results going back 15 years to build an order of hierarchy amongst teams in leagues that might have never played each other.
+
+<h5 id="player-valuation-articles"> Articles</h5>
+
 *    [Which is the most physically demanding league?](https://trainingground.guru/articles/which-is-the-most-physically-demanding-league) by [Training Ground Guru](https://trainingground.guru/)
+*    [Soccer Power Index explained](https://www.espn.com/soccer/news/story/_/id/1873765) by ESPN staff
+*    [Examining FiveThirtyEight’s Soccer Power Index Ratings](https://joshyazman.github.io/spi-ratings-analysis/)
+*    [Man Utd, Barcelona, Liverpool: Data analysts rank the top 30 clubs in world football](https://www.givemesport.com/1748251-man-utd-barcelona-liverpool-data-analysts-rank-the-top-30-clubs-in-world-football) by Kobe Tong
+
+<h5 id="player-valuation-papers"> Papers</h5>
+
+*    [Ranking soccer teams on the basis of their current strength: A comparison of maximum likelihood approaches](https://journals.sagepub.com/doi/full/10.1177/1471082X18817650) by Christophe Ley, Tom Van de Wiele, and Hans Van Eetvelde.
+
+<h5 id="player-valuation-videos"> Videos</h5>
+
 *    [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)'s StatsBomb 2021 talk [Practical tools for ‘Bridging the gap](https://www.youtube.com/watch?v=GvyHGNMuX7o) (see @ 20m42s)
+
+<h5 id="player-valuation-miscellaneous"> Miscellaneous</h5>
+
+*    Tweets by [AI Abucus](https://twitter.com/aiabacus) [[link](https://twitter.com/AiAbacus/status/1423316771092717575)] and [[link](https://twitter.com/AiAbacus/status/1445735429962149888)]. They use a simple Dickson-Coles method focusing on historic results going back 15 years to build an order of hierarchy amongst teams in leagues that might have never played each other.
+
 
 <h4 id="player-valuation"> Player Valuation Modeling</h4>
 
