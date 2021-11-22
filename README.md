@@ -138,7 +138,7 @@ For more information about this repository and the author, I am available throug
             <li><a href="#radars">Radars</a></li>
             <li><a href="#recruitment-analysis">Recruitment Analysis</a></li>
             <li><a href="#player-valuation">Player Valuation Modeling</a></li>
-            <li><a href="#relative-league-strength">Quantifying Relative League Strength</a></li>
+            <li><a href="#relative-league-strength">Quantifying Relative Club and League Strength</a></li>
             <li><a href="#game-win-probability-modeling">Game Win Probability Modeling</a></li>
             <li><a href="#goalkeeper-analysis">Goalkeeper Analysis</a></li>
           </ul>
