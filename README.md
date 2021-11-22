@@ -2103,6 +2103,7 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
      +    [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
      +    [Club Soccer Predictions](https://projects.fivethirtyeight.com/soccer-predictions/) - [How Our Club Soccer Predictions Work](https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/)
      +    [`soccer-spi`](https://github.com/fivethirtyeight/data/tree/master/soccer-spi) GitHub repo
+*    [Stats Perform](https://www.statsperform.com/)’s Power Rankings (no access but the occasional The Analyst article) - [October 2021 update](https://theanalyst.com/eu/2021/10/the-biggest-changes-in-stats-performs-power-rankings/)
 *    [Global Football Rankings](https://www.globalfootballrankings.com/) by [Ken Ackerson](https://twitter.com/pearapps) (Pear Apps), powered by [FiveThirtyEight](https://fivethirtyeight.com/)'s [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
 *    [UEFA Club Coefficients](https://www.uefa.com/nationalassociations/uefarankings/club/#/yr/2022) (official rankings). See also on the European Club Association (ECA) [[link](https://www.ecaeurope.com/uefa-rankings-access-list/club-ranking/?page=1&years=5)]
 *    [UEFA European Cup Football Results and Qualification](https://kassiesa.net/uefa/index.html) by Bert Kassies
