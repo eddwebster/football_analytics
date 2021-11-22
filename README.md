@@ -2127,6 +2127,7 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 
 <h5 id="player-valuation-papers"> Papers</h5>
 
+*    [PlayeRank: data-driven performance evaluation and player ranking in soccer via a machine learning approach](https://arxiv.org/pdf/1802.04987.pdf) by [Luca Pappalardo](https://twitter.com/lucpappalard?), Paolo Cintia, Paolo Ferragina, Emanuele Massucco, Dino Pedreschi, Fosca Giannotti.
 *    [Ranking soccer teams on the basis of their current strength: A comparison of maximum likelihood approaches](https://journals.sagepub.com/doi/full/10.1177/1471082X18817650) by Christophe Ley, Tom Van de Wiele, and Hans Van Eetvelde.
 
 <h5 id="player-valuation-videos"> Videos</h5>
