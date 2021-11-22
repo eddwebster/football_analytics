@@ -1996,13 +1996,14 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h4 id="dixon-coles"> Dixon Coles Modeling</h4>
 
-*    [Modelling Association Football Scores and Inefficiencies in the Football Betting Market](http://web.math.ku.dk/~rolf/teaching/thesis/DixonColes.pdf) (1997) by Mark Dixon and Stuart Coles;
-*    [Analysis of football prediction methods](https://www.amazon.co.uk/Analysis-football-prediction-methods-Brojanigo/dp/3659443182/ref=sr_1_3?dchild=1&keywords=Analysis+of+Football+Prediction+Methods&qid=1624624179&sr=8-3) by William Brojanigo;
-*    [Predicting Football Results Using Python and the Dixon and Coles Model](http://www.pena.lt/y/2021/06/24/predicting-football-results-using-python-and-dixon-and-coles/) by Martin Eastwood;
+*    [Modelling Association Football Scores and Inefficiencies in the Football Betting Market](http://web.math.ku.dk/~rolf/teaching/thesis/DixonColes.pdf) (1997) by Mark Dixon and Stuart Coles
+*    [Analysis of football prediction methods](https://www.amazon.co.uk/Analysis-football-prediction-methods-Brojanigo/dp/3659443182/ref=sr_1_3?dchild=1&keywords=Analysis+of+Football+Prediction+Methods&qid=1624624179&sr=8-3) by William Brojanigo
+*    [Predicting Football Results Using Python and the Dixon and Coles Model](http://www.pena.lt/y/2021/06/24/predicting-football-results-using-python-and-dixon-and-coles/) by Martin Eastwood
 *    [Dixon Coles and xG: together at last](https://www.statsandsnakeoil.com/2018/06/22/dixon-coles-and-xg-together-at-last/) by Ben Torvaney
-*    [Dixon Coles](https://mathematicalfootballpredictions.com/dixon-coles/) by Mathematical Football Predictions;
-*    [Dixon Coles Model](https://philipwinchester.github.io/dixon-coles-model/) by Philip Winchester; and
-*    [Predicting Football Results With Statistical Modelling: Dixon-Coles and Time-Weighting](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling-dixon-coles-and-time-weighting/) by David Sheehan.
+*    [A generic Dixon-Coles model for estimating team strengths](https://torvaney.github.io/regista/reference/dixoncoles_ext.html) by Ben Torvaney
+*    [Dixon Coles](https://mathematicalfootballpredictions.com/dixon-coles/) by Mathematical Football Predictions
+*    [Dixon Coles Model](https://philipwinchester.github.io/dixon-coles-model/) by Philip Winchester
+*    [Predicting Football Results With Statistical Modelling: Dixon-Coles and Time-Weighting](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling-dixon-coles-and-time-weighting/) by David Sheehan
 
 <h4 id="player-comparison-and-similarity-analysis"> Player Similarity and Style Analysis</h4>
 
@@ -2100,7 +2101,7 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 
 *    [FiveThirtyEight](https://fivethirtyeight.com/)
      +    [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
-     +    [FiveThirtyEight](https://fivethirtyeight.com/)'s [Club Soccer Predictions](https://projects.fivethirtyeight.com/soccer-predictions/)
+     +    [Club Soccer Predictions](https://projects.fivethirtyeight.com/soccer-predictions/) - [How Our Club Soccer Predictions Work](https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/)
      +    [`soccer-spi`](https://github.com/fivethirtyeight/data/tree/master/soccer-spi) GitHub repo
 *    [Global Football Rankings](https://www.globalfootballrankings.com/) by [Ken Ackerson](https://twitter.com/pearapps) (Pear Apps), powered by [FiveThirtyEight](https://fivethirtyeight.com/)'s [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
 *    [UEFA Club Coefficients](https://www.uefa.com/nationalassociations/uefarankings/club/#/yr/2022) (official rankings). See also on the European Club Association (ECA) [[link](https://www.ecaeurope.com/uefa-rankings-access-list/club-ranking/?page=1&years=5)]
