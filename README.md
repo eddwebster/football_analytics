@@ -1988,11 +1988,14 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer (V1)](https://arxiv.org/pdf/1802.07127v1) by Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis; and
 *    [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer (V2)](https://arxiv.org/pdf/1802.07127v2) by Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis.
 
-<h5 id="pv-frameworks-g+"> Goals Added (g+) </h5>
+<h5 id="pv-frameworks-g+"> Goals Added (g+)</h5>
 
 *    [Goals Added: Introducing a New Way to Measure Soccer](https://www.americansocceranalysis.com/home/2020/4/22/37ucr0d5urxxtryn2cfhzormdziphq) by John Muller for American Soccer Analysis;
 *    [The future of possession value models](https://www.youtube.com/watch?v=GEp0TJoramM) with [David Sumpter](https://twitter.com/Soccermatics), [Catherine Pfaff](https://twitter.com/PfaffCatherine), [Matthias Kullowatz](https://twitter.com/MattyAnselmo) and [Jernej Flisar](https://twitter.com/jernejfl) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). The Goals Added (g+) model is focussed on in minutes 9-45 of the lecture.
 
+<h5 id="pv-frameworks-obv"> On-Ball Value (OBV)</h5>
+
+*    [Introducing On-Ball Value (OBV)](https://statsbomb.com/2021/09/introducing-on-ball-value-obv/)
 
 <h4 id="dixon-coles"> Dixon Coles Modeling</h4>
 
