@@ -2205,7 +2205,7 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 <h6 id="actics-pressing-articles"> Articles</h6>
 
 *    [What is Ball-Oriented Defending: How to defend, press and actively win the ball feat. Rangnick, Klopp & Nagelsmann](https://onenil.medium.com/what-is-ball-oriented-defending-how-to-defend-press-and-actively-win-the-ball-feat-2cf0daaad0)
-*    [Pressing, counterpressing, and counterattacking](https://spielverlagerung.com/2017/03/05/pressing-counterpressing-and-counterattacking/)
+*    [Pressing, counterpressing, and counterattacking](https://spielverlagerung.com/2017/03/05/pressing-counterpressing-and-counterattacking/) by [Adin Osmanbašić](https://twitter.com/AdinOsmanbasic). Also available at the following [[link](https://www.martiperarnau.com/pressing-counterpressing-and-counterattacking/)]
 
 <h6 id="tactics-pressing-videos"> Videos</h6>
 
@@ -2216,7 +2216,7 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 <h6 id="tactics-counter-pressing-articles"> Articles</h6>
 
 *    [Counterpressing variations](https://spielverlagerung.com/2014/07/07/counterpressing-variations/)
-*    [Pressing, counterpressing, and counterattacking](https://spielverlagerung.com/2017/03/05/pressing-counterpressing-and-counterattacking/)
+*    [Pressing, counterpressing, and counterattacking](https://spielverlagerung.com/2017/03/05/pressing-counterpressing-and-counterattacking/) by [Adin Osmanbašić](https://twitter.com/AdinOsmanbasic). Also available at the following [[link](https://www.martiperarnau.com/pressing-counterpressing-and-counterattacking/)]
 *    [The Question: is the counter-counter more crucial than the counterattack?](https://www.theguardian.com/sport/blog/2014/oct/01/the-question-counter-counter-important-counterattack) by [Jonathan Wilson](https://twitter.com/jonawils)
 
 <h6 id="tactics-counter-pressing-papers"> Papers</h6>
