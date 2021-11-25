@@ -139,6 +139,7 @@ For more information about this repository and the author, I am available throug
             <li><a href="#recruitment-analysis">Recruitment Analysis</a></li>
             <li><a href="#player-valuation">Player Valuation Modeling</a></li>
             <li><a href="#relative-league-strength">Quantifying Relative Club and League Strength</a></li>
+            <li><a href="#tactics">Tactics</a></li>
             <li><a href="#game-win-probability-modeling">Game Win Probability Modeling</a></li>
             <li><a href="#goalkeeper-analysis">Goalkeeper Analysis</a></li>
           </ul>
@@ -2093,14 +2094,14 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 
 <h4 id="relative-league-strength"> Quantifying Relative Club and League Strength</h4>
 
-<h5 id="player-valuation-models"> Models</h5>
+<h5 id="relative-league-strength-models"> Models</h5>
 
-<h6 id="player-valuation-models-financial"> Financial</h6>
+<h6 id="relative-league-strength-models-financial"> Financial</h6>
 
 *    [TransferMarkt](https://www.transfermarkt.co.uk) values of leagues - [Europe](https://www.transfermarkt.co.uk/wettbewerbe/europa), [Asia](https://www.transfermarkt.co.uk/wettbewerbe/asien)
 *    [Deloitte Football Money League (DFML)](https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html)
 
-<h6 id="player-valuation-models-historical-match-results"> Historical Match Results</h6>
+<h6 id="relative-league-strength-models-historical-match-results"> Historical Match Results</h6>
 
 *    [FiveThirtyEight](https://fivethirtyeight.com/)
      +    [Global Club Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
@@ -2117,31 +2118,108 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 *    [World Football / Soccer Clubs Ranking](https://footballdatabase.com/ranking/world/1) by [FootballDatabase](https://footballdatabase.com/)
 *    [the KA Club Rating](https://www.kickalgor.com/club-rating/) - [What are the KA Ratings?](https://www.kickalgor.com/the-ka-logs/) and [Procedure](https://www.kickalgor.com/club-rating/the-ka-football-club-global-rating-2020/the-ka-football-club-global-rating-2020-procedure/)
 
-<h6 id="player-valuation-models-historical-statistical-player-performance"> Historical Statistical Player Performance</h6>
+<h6 id="relative-league-strength-models-historical-statistical-player-performance"> Historical Statistical Player Performance</h6>
 
 *    [Ben Torvaney](https://twitter.com/Torvaney)'s 2018 Opta Pro Forum talk 'Counting Across Borders' [[link](https://www.statsperform.com/resource/counting-across-borders/)]. For slides, see Ben's blog post [[link](https://www.statsandsnakeoil.com/2018/08/10/optapro-forum-2018-slides/)] or by from the Stats Perform blog using Waybackmachine [[link](http://web.archive.org/web/20200624070725/https://www.optasportspro.com/app/uploads/2019/01/Ben-Torvaney.pdf)] and for Ben's original submission, see [[link](http://web.archive.org/web/20200628090307/https://www.optasportspro.com/app/uploads/2019/01/38-counting-across-borders-a-unified-model-for-the-effect-of-league-and-age-on-player-output.pdf)]
 *    [Tony El Habr](https://twitter.com/TonyElHabr)'s [Soccer league Strength](https://tonyelhabr.netlify.app/post/soccer-league-strength/) post (see also [[link](https://www.r-bloggers.com/2021/06/quantifying-relative-soccer-league-strength/)]
 *    [Aditya Kothari](https://twitter.com/thecomeonman) (The Come On Man) uses differences in VAEP values of players who transferred between different leagues [[link](https://thecomeonman.github.io/PredictingTransferSuccesses/)]
 
-<h5 id="player-valuation-articles"> Articles</h5>
+<h5 id="relative-league-strength-articles"> Articles</h5>
 
 *    [Which is the most physically demanding league?](https://trainingground.guru/articles/which-is-the-most-physically-demanding-league) by [Training Ground Guru](https://trainingground.guru/)
 *    [Soccer Power Index explained](https://www.espn.com/soccer/news/story/_/id/1873765) by ESPN staff
 *    [Examining FiveThirtyEight’s Soccer Power Index Ratings](https://joshyazman.github.io/spi-ratings-analysis/)
 *    [Man Utd, Barcelona, Liverpool: Data analysts rank the top 30 clubs in world football](https://www.givemesport.com/1748251-man-utd-barcelona-liverpool-data-analysts-rank-the-top-30-clubs-in-world-football) by Kobe Tong
 
-<h5 id="player-valuation-papers"> Papers</h5>
+<h5 id="relative-league-strength-papers"> Papers</h5>
 
 *    [PlayeRank: data-driven performance evaluation and player ranking in soccer via a machine learning approach](https://arxiv.org/pdf/1802.04987.pdf) by [Luca Pappalardo](https://twitter.com/lucpappalard?), Paolo Cintia, Paolo Ferragina, Emanuele Massucco, Dino Pedreschi, Fosca Giannotti.
 *    [Ranking soccer teams on the basis of their current strength: A comparison of maximum likelihood approaches](https://journals.sagepub.com/doi/full/10.1177/1471082X18817650) by Christophe Ley, Tom Van de Wiele, and Hans Van Eetvelde.
 
-<h5 id="player-valuation-videos"> Videos</h5>
+<h5 id="relative-league-strength-videos"> Videos</h5>
 
 *    [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)'s StatsBomb 2021 talk [Practical tools for ‘Bridging the gap](https://www.youtube.com/watch?v=GvyHGNMuX7o) (see @ 20m42s)
 
-<h5 id="player-valuation-miscellaneous"> Miscellaneous</h5>
+<h5 id="relative-league-strength-miscellaneous"> Miscellaneous</h5>
 
 *    Tweets by [AI Abucus](https://twitter.com/aiabacus) [[link](https://twitter.com/AiAbacus/status/1423316771092717575)] and [[link](https://twitter.com/AiAbacus/status/1445735429962149888)]. They use a simple Dickson-Coles method focusing on historic results going back 15 years to build an order of hierarchy amongst teams in leagues that might have never played each other.
+
+
+<h4 id="tactics"> Tactics</h4>
+
+<h5 id="tactics-counter-attacking"> Counter Attacking</h5>
+  
+<h6 id="actics-counter-attacking-articles"> Articles</h6>
+
+*    [On the anatomy of a counter-attack](https://statsbomb.com/2017/07/on-the-anatomy-of-a-counter-attack/) by Will Morgan. Also available at the following [[link](https://2plus2equals11.com/category/counter-attacking/)]
+*    [Spotlight on: counter-attacks](https://thebootroom.thefa.com/resources/coaching/spotlight-on-counter-attacks) by The FA
+*    [Evolution of Counterattacking](https://spielverlagerung.com/2020/04/01/the-evolution-of-counterattacking/) by [Adin Osmanbašić](https://twitter.com/AdinOsmanbasic)
+*    [The Various Forms of Restdefences Part 2: Counterattacking](https://spielverlagerung.com/2021/10/15/the-various-forms-of-restdefences-part-2-counterattacking/)
+*    [Counter- or Gegenpressing](https://spielverlagerung.com/2014/10/07/counter-or-gegenpressing/)
+*    [Pressing, counterpressing, and counterattacking](https://spielverlagerung.com/2017/03/05/pressing-counterpressing-and-counterattacking/) by [Adin Osmanbašić](https://twitter.com/AdinOsmanbasic). Also available at the following [[link](https://www.martiperarnau.com/pressing-counterpressing-and-counterattacking/)]
+*    [Tactical Analysis: Defending Against the Counter Attack](https://footballdna.co.uk/features/tactical-analysis-defending-against-the-counter-attack/)
+*    [Stats Perform Playing Styles - An Introduction](https://www.statsperform.com/resource/stats-playing-styles-introduction/) - see the 'Counter Attack' subsection
+*    [Analysis: Leicester City Counter Attack](https://playerdevelopmentproject.com/video-analysis-leicester-city-fc-counter-attack/)
+*    [The Importance of Counter-Attacking in Football](https://totalfootballanalysis.com/training-analysis/counter-attacking-coaching-training-tactical-analysis-statistics) by Max Bergmann
+*    [Premier League Club Stats - Goals From Counter Attack](https://www.premierleague.com/stats/top/clubs/goal_fastbreak)
+*    [InStat Sport Facebook post on counter attacking](https://www.facebook.com/InStatSport/posts/instat-sport-calculates-a-unique-counter-attack-statistics-we-consider-counter-a/1359328934104734/)
+
+<h6 id="actics-counter-attacking-papers"> Papers</h6>
+
+*    [Quantifying the Value of Transitions in Soccer via Spatiotemporal Trajectory Clustering](https://www.semanticscholar.org/paper/Quantifying-the-Value-of-Transitions-in-Soccer-via-Hobbs-Power/01bdc98b7260ce99189ca7a4100a13626312575b) by Jennifer Hobbs, Paul Power, Long Sha, Hector Ruiz, Patrick Lucey
+*    [Evaluating Football Player Actions During Counterattacks](https://link.springer.com/chapter/10.1007/978-3-030-91608-4_36)
+*    [Counter attack detection with machine learning
+from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/6505088)
+
+<h6 id="actics-counter-attacking-videos"> Videos</h6>
+
+*    [Why More Teams Should Counter-Attack | By The Numbers](https://www.youtube.com/watch?v=YtdkzOwYRPk) by Tifo
+*    [Carlos Carvalhal • Fast attacks: counter-attacking to organised possession • CV Academy Session](https://www.youtube.com/watch?v=67mdkW1ZI9w)
+*    [Dean Wright • Norwich City under-15; Counter-attacking • CV Academy coaching course](https://www.youtube.com/watch?v=dY3vLQ42cwQ)
+*    [Sit deep and play on the counter-attack | Football tactics | Nike Academy](https://www.youtube.com/watch?v=Vspb9qShoQc)
+*    [How to hit a team on the counter-attack | Soccer drill | Tactics | Nike Academy](https://www.youtube.com/watch?v=moakTu2cHrs)
+*    [Tactics Explained: Tottenham's counter-attack](https://www.youtube.com/watch?v=r8rg7QX5Rp8)
+*    [Fast As Lightning Counter-attacks | Premier League | Salah, Aguero, Martial](https://www.youtube.com/watch?v=eUEYcQTR5sk)
+*    [Top 10 Counter-Attacking Goals 2020/21 so far – Haaland, Gnabry & More](https://www.youtube.com/watch?v=mMmcdyN2Q_c) by Bundesliga
+*    [Top 10 Counter-Attacking Goals - 2015/16](https://www.youtube.com/watch?v=HT_zGbzvYSc) by Bundesliga
+*    [Top 10 counter attack goals - including Lionel Messi v Arsenal](https://www.youtube.com/watch?v=HT_zGbzvYSc)
+
+<h6 id="actics-counter-attacking-podcasts"> Podcasts</h6>
+
+*    [Taktikpodden #45: Adin Osmanbasic about counterattacking and why Ronaldo is a gambling winger](https://open.spotify.com/episode/16TdH2iGcArPaOPiJ0dmdo)
+
+<h5 id="tactics-pressing"> Pressing</h5>
+  
+<h6 id="actics-pressing-articles"> Articles</h6>
+
+*    [What is Ball-Oriented Defending: How to defend, press and actively win the ball feat. Rangnick, Klopp & Nagelsmann](https://onenil.medium.com/what-is-ball-oriented-defending-how-to-defend-press-and-actively-win-the-ball-feat-2cf0daaad0)
+*    [Pressing, counterpressing, and counterattacking](https://spielverlagerung.com/2017/03/05/pressing-counterpressing-and-counterattacking/)
+
+<h6 id="actics-pressing-papers"> Papers</h6>
+
+*    
+
+<h6 id="actics-pressing-videos"> Videos</h6>
+
+*    [What are pressing traps and pressing triggers?](https://www.youtube.com/watch?v=KMQWMccF83U)
+
+<h5 id="tactics-counter-pressing"> Counter Pressing</h5>
+  
+<h6 id="actics-counter-pressing-articles"> Articles</h6>
+
+*    [Counterpressing variations](https://spielverlagerung.com/2014/07/07/counterpressing-variations/)
+*    [Pressing, counterpressing, and counterattacking](https://spielverlagerung.com/2017/03/05/pressing-counterpressing-and-counterattacking/)
+*    [The Question: is the counter-counter more crucial than the counterattack?](https://www.theguardian.com/sport/blog/2014/oct/01/the-question-counter-counter-important-counterattack) by [Jonathan Wilson](https://twitter.com/jonawils)
+
+<h6 id="actics-counter-pressing-papers"> Papers</h6>
+
+*    [Data-driven detection of counterpressing in professional football](https://link.springer.com/content/pdf/10.1007/s10618-021-00763-7.pdf) [2021] by Pascal Bauer and Gabriel Anzer.
+
+<h6 id="actics-counter-pressing-videos"> Videos</h6>
+
+*    [What is Gegenpressing?](https://www.youtube.com/watch?v=5QRWryN3okY)
+*    [What is Counter- or Gegenpressing?](https://spielverlagerung.com/2018/09/02/video-what-is-counter-or-gegenpressing/) by [Adin Osmanbašić](https://twitter.com/AdinOsmanbasic)
+*    [Talk by Jesse Marsch Presentation](https://www.youtube.com/watch?v=c6BOWjn59j8)
 
 
 <h4 id="player-valuation"> Player Valuation Modeling</h4>
