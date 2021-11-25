@@ -142,7 +142,7 @@ For more information about this repository and the author, I am available throug
             <li><a href="tactics">Tactics</a></li>
               <ul>
                 <li><a href="#tactics-counter-attacking">Counter Attacking</a></li>
-                <li><a href="#tactics-pressing">Pressingg</a></li>
+                <li><a href="#tactics-pressing">Pressing</a></li>
                 <li><a href="#tactics-counter-pressing">Counter Pressing</a></li>
               </ul>
             <li><a href="#game-win-probability-modeling">Game Win Probability Modeling</a></li>
@@ -2154,7 +2154,7 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 
 <h5 id="tactics-counter-attacking"> Counter Attacking</h5>
   
-<h6 id="actics-counter-attacking-articles"> Articles</h6>
+<h6 id="tactics-counter-attacking-articles"> Articles</h6>
 
 *    [On the anatomy of a counter-attack](https://statsbomb.com/2017/07/on-the-anatomy-of-a-counter-attack/) by Will Morgan. Also available at the following [[link](https://2plus2equals11.com/category/counter-attacking/)]
 *    [Spotlight on: counter-attacks](https://thebootroom.thefa.com/resources/coaching/spotlight-on-counter-attacks) by The FA
@@ -2169,14 +2169,14 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 *    [Premier League Club Stats - Goals From Counter Attack](https://www.premierleague.com/stats/top/clubs/goal_fastbreak)
 *    [InStat Sport Facebook post on counter attacking](https://www.facebook.com/InStatSport/posts/instat-sport-calculates-a-unique-counter-attack-statistics-we-consider-counter-a/1359328934104734/)
 
-<h6 id="actics-counter-attacking-papers"> Papers</h6>
+<h6 id="tactics-counter-attacking-papers"> Papers</h6>
 
 *    [Quantifying the Value of Transitions in Soccer via Spatiotemporal Trajectory Clustering](https://www.semanticscholar.org/paper/Quantifying-the-Value-of-Transitions-in-Soccer-via-Hobbs-Power/01bdc98b7260ce99189ca7a4100a13626312575b) by Jennifer Hobbs, Paul Power, Long Sha, Hector Ruiz, Patrick Lucey
 *    [Evaluating Football Player Actions During Counterattacks](https://link.springer.com/chapter/10.1007/978-3-030-91608-4_36)
 *    [Counter attack detection with machine learning
 from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/6505088)
 
-<h6 id="actics-counter-attacking-videos"> Videos</h6>
+<h6 id="tactics-counter-attacking-videos"> Videos</h6>
 
 *    [Why More Teams Should Counter-Attack | By The Numbers](https://www.youtube.com/watch?v=YtdkzOwYRPk) by Tifo
 *    [Carlos Carvalhal • Fast attacks: counter-attacking to organised possession • CV Academy Session](https://www.youtube.com/watch?v=67mdkW1ZI9w)
@@ -2184,10 +2184,17 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 *    [Sit deep and play on the counter-attack | Football tactics | Nike Academy](https://www.youtube.com/watch?v=Vspb9qShoQc)
 *    [How to hit a team on the counter-attack | Soccer drill | Tactics | Nike Academy](https://www.youtube.com/watch?v=moakTu2cHrs)
 *    [Tactics Explained: Tottenham's counter-attack](https://www.youtube.com/watch?v=r8rg7QX5Rp8)
+*    [How To Score The Perfect Counter-attack Goal?](https://www.youtube.com/watch?v=QIBTrNOS5yM) by Bundesliga
+*    [Course - Counter Attacking Masterclass - Part 1 (HD)](https://www.youtube.com/watch?v=KMYigXjWqTE)
+*    [Course - Counter Attacking Masterclass - Part 2 (HD)](https://www.youtube.com/watch?v=GRl1MG023L8)
+*    [Wenger's tips: Counter-attacking](https://www.youtube.com/watch?v=ii6LoohXwzg)
 *    [Fast As Lightning Counter-attacks | Premier League | Salah, Aguero, Martial](https://www.youtube.com/watch?v=eUEYcQTR5sk)
+*    [Top 10 Counter Attack Goals RB Leipzig - Werner & Co. with Superfast Transitions](https://www.youtube.com/watch?v=ChGXq8Eml30) by Bundesliga
 *    [Top 10 Counter-Attacking Goals 2020/21 so far – Haaland, Gnabry & More](https://www.youtube.com/watch?v=mMmcdyN2Q_c) by Bundesliga
+*    [Alcacer, Reus & Co. - Top 10 Counter-Attack Goals 2018/19 So Far](https://www.youtube.com/watch?v=pAHFIU3QnxI) by Bundesliga
 *    [Top 10 Counter-Attacking Goals - 2015/16](https://www.youtube.com/watch?v=HT_zGbzvYSc) by Bundesliga
 *    [Top 10 counter attack goals - including Lionel Messi v Arsenal](https://www.youtube.com/watch?v=HT_zGbzvYSc)
+*    [The best counter-attacking team in Europe according to Pep Guardiola | Oh My Goal](https://www.youtube.com/watch?v=3USJseqRjGQ)
 
 <h6 id="actics-counter-attacking-podcasts"> Podcasts</h6>
 
@@ -2200,27 +2207,23 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 *    [What is Ball-Oriented Defending: How to defend, press and actively win the ball feat. Rangnick, Klopp & Nagelsmann](https://onenil.medium.com/what-is-ball-oriented-defending-how-to-defend-press-and-actively-win-the-ball-feat-2cf0daaad0)
 *    [Pressing, counterpressing, and counterattacking](https://spielverlagerung.com/2017/03/05/pressing-counterpressing-and-counterattacking/)
 
-<h6 id="actics-pressing-papers"> Papers</h6>
-
-*    
-
-<h6 id="actics-pressing-videos"> Videos</h6>
+<h6 id="tactics-pressing-videos"> Videos</h6>
 
 *    [What are pressing traps and pressing triggers?](https://www.youtube.com/watch?v=KMQWMccF83U)
 
 <h5 id="tactics-counter-pressing"> Counter Pressing</h5>
   
-<h6 id="actics-counter-pressing-articles"> Articles</h6>
+<h6 id="tactics-counter-pressing-articles"> Articles</h6>
 
 *    [Counterpressing variations](https://spielverlagerung.com/2014/07/07/counterpressing-variations/)
 *    [Pressing, counterpressing, and counterattacking](https://spielverlagerung.com/2017/03/05/pressing-counterpressing-and-counterattacking/)
 *    [The Question: is the counter-counter more crucial than the counterattack?](https://www.theguardian.com/sport/blog/2014/oct/01/the-question-counter-counter-important-counterattack) by [Jonathan Wilson](https://twitter.com/jonawils)
 
-<h6 id="actics-counter-pressing-papers"> Papers</h6>
+<h6 id="tactics-counter-pressing-papers"> Papers</h6>
 
 *    [Data-driven detection of counterpressing in professional football](https://link.springer.com/content/pdf/10.1007/s10618-021-00763-7.pdf) [2021] by Pascal Bauer and Gabriel Anzer.
 
-<h6 id="actics-counter-pressing-videos"> Videos</h6>
+<h6 id="tactics-counter-pressing-videos"> Videos</h6>
 
 *    [What is Gegenpressing?](https://www.youtube.com/watch?v=5QRWryN3okY)
 *    [What is Counter- or Gegenpressing?](https://spielverlagerung.com/2018/09/02/video-what-is-counter-or-gegenpressing/) by [Adin Osmanbašić](https://twitter.com/AdinOsmanbasic)
