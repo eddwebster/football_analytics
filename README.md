@@ -139,7 +139,12 @@ For more information about this repository and the author, I am available throug
             <li><a href="#recruitment-analysis">Recruitment Analysis</a></li>
             <li><a href="#player-valuation">Player Valuation Modeling</a></li>
             <li><a href="#relative-league-strength">Quantifying Relative Club and League Strength</a></li>
-            <li><a href="#tactics">Tactics</a></li>
+            <li><a href="tactics">Tactics</a></li>
+              <ul>
+                <li><a href="#tactics-counter-attacking">Counter Attacking</a></li>
+                <li><a href="#tactics-pressing">Pressingg</a></li>
+                <li><a href="#tactics-counter-pressing">Counter Pressing</a></li>
+              </ul>
             <li><a href="#game-win-probability-modeling">Game Win Probability Modeling</a></li>
             <li><a href="#goalkeeper-analysis">Goalkeeper Analysis</a></li>
           </ul>
