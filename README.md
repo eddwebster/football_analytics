@@ -2153,7 +2153,8 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
   
 <h6 id="tactics-counter-attacking-articles"> Articles</h6>
 
-*    [On the anatomy of a counter-attack](https://statsbomb.com/2017/07/on-the-anatomy-of-a-counter-attack/) by Will Morgan. Also available at the following [[link](https://2plus2equals11.com/category/counter-attacking/)]
+*    [On the anatomy of a counter-attack](https://statsbomb.com/2017/07/on-the-anatomy-of-a-counter-attack/) by [Will Morgan](https://twitter.com/willtgm). Also available at the following [[link](https://2plus2equals11.com/category/counter-attacking/)]
+*    [Quantifying Player Contribution to Counter Attacks](https://www.statsperform.com/resource/quantifying-player-contribution-to-counter-attacks/) by [Laurynas Raudonius](https://twitter.com/el_raudonius). See his poster [[link](https://o7dkx1gd2bwwexip1qwjpplu-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Opta-Forum-Poster-3.pdf)]
 *    [Spotlight on: counter-attacks](https://thebootroom.thefa.com/resources/coaching/spotlight-on-counter-attacks) by The FA
 *    [Evolution of Counterattacking](https://spielverlagerung.com/2020/04/01/the-evolution-of-counterattacking/) by [Adin Osmanbašić](https://twitter.com/AdinOsmanbasic)
 *    [The Various Forms of Restdefences Part 2: Counterattacking](https://spielverlagerung.com/2021/10/15/the-various-forms-of-restdefences-part-2-counterattacking/)
