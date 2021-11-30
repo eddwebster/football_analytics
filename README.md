@@ -2254,6 +2254,8 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 
 *    [A Bayesian Approach to In-Game Win Probability](https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability) by Jesse Davies, Pieter Robberechts, and Jan Van Haaren for DTAI Sports Analytics Lab. See paper [[link](https://dl.acm.org/doi/10.1145/3447548.3467194)]
 *    [Who Will Win It? An In-game Win Probability Model for Football](https://dtai.cs.kuleuven.be/events/MLSA19/papers/robberechts_MLSA19.pdf) by Pieter Robberechts, Jan Van Haaren, and Jesse Davies for DTAI Sports Analytics Lab 
+*    [Explaining Live Win Probability (LWP)](https://theanalyst.com/eu/2021/11/live-win-probability/) by [Jonny Whitmore](https://twitter.com/JonnyWhitmore14) for [The Analyst](https://theanalyst.com)
+*    [Opta's Live Win Probability Model on Amazon Prime Video](https://www.statsperform.com/news/explained-what-is-win-probability-and-how-does-it-work/) by [Alex Jennings](https://twitter.com/ajennings1998) for [Stats Perform](https://www.statsperform.com/)
 *    [We Have a New Win Probability Model](https://www.americansocceranalysis.com/home/2021/7/16/we-have-a-new-win-probability-model) by Tyler Richardett for American Soccer Analysis
 *    [Explained: What is ‘win probability’ and how does it work?](https://www.fourfourtwo.com/features/premier-league-what-win-probability-graphic-how-does-it-work-amazon-prime-opta-stats-perform) by Alex Jennings for FourFourTwo
 *    [Win probability Wiki](https://en.wikipedia.org/wiki/Win_probability)
