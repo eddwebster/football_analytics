@@ -2011,7 +2011,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Dixon Coles Model](https://philipwinchester.github.io/dixon-coles-model/) by Philip Winchester
 *    [Predicting Football Results With Statistical Modelling: Dixon-Coles and Time-Weighting](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling-dixon-coles-and-time-weighting/) by David Sheehan
 
-<h4 id="player-comparison-and-similarity-analysis"> Player Similarity and Style Analysis</h4>
+<h4 id="player-similarity-and-style-analysis"> Player Similarity and Style Analysis</h4>
 
 <h5 id="player-comparison-and-similarity-analysis-written-pieces"> Written Pieces</h5>
 
