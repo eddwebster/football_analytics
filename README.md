@@ -1,4 +1,4 @@
-<h1 align="center"> Football Analytics </h1>
+<h1 id="top" align="center"> Football Analytics </h1>
 <h3 align="center"> A space for football analytics projects by <a href="https://twitter.com/eddwebster">Edd Webster</a>, including a curated list of publicly available resources published by the football analytics community.</h3>  
 
 </br>
@@ -2298,3 +2298,5 @@ This GitHub repository and resources list will be a constant work in progress so
 *    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html);
 *    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) Github repo; and
 *    [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository by [Matias Singers](https://twitter.com/matiassingers) used to restyle this README.
+
+<a href="#top">Back to the Top</a>
