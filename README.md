@@ -633,7 +633,7 @@ Also see [Mark Wilkin](https://twitter.com/biscuitchaser)'s Twitter thread [[lin
 *    [`FootballData`](https://github.com/jokecamp/FootballData) - "A hodgepodge of JSON and CSV Football data"
 *    [`footballcsv`](https://footballcsv.github.io/) - Historical soccer results in CSV format;
 *    [football.db](http://openfootball.github.io/) - A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets);
-*    [Football Geek](https://www.footballgeek.io/) by Dinesh Vatvani (site now on hiatus);
+*    [Football Geek](https://www.footballgeek.io/) by [Dinesh Vatvani](https://www.footballgeek.io/) (site now on hiatus);
 *    [Football xG](https://footballxg.com/);
 *    [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) by Joe Kampschmidt;
 *    [My Football Facts](http://www.myfootballfacts.com/);
