@@ -1139,17 +1139,18 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 <h4 id="newsletters"> Newsletters</h4>
 
 *    [21st Club](https://www.21stclub.com/insight/);
-*    [Absolute Unit](https://absoluteunit.substack.com/);
-*    [Get Goalside!](https://getgoalside.substack.com/);
+*    [BiscuitchaserFC](https://biscuitchaserfc.substack.com/) by [Mark Wilkins](https://twitter.com/biscuitchaser)
+*    [Absolute Unit](https://absoluteunit.substack.com/) by [Tiotal Football](https://twitter.com/TiotalFootball);
+*    [Get Goalside!](https://getgoalside.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [geom_mark](http://geommark.space/);
 *    [GriffinFtbl](https://griffinftbl.substack.com/) by [Luke Griffin](https://twitter.com/GriffinFtbl);
 *    [Grace on Football](https://onfootball.substack.com/) by [Grace Robertson](https://twitter.com/graceonfootball);
 *    [KPMG Football Benchmark Newsletter](https://www.footballbenchmark.com/home) - go to the home page and click on 'Registration' in the top-right corner;
 *    [Looks Good on Paper](https://looksgoodonpaper.substack.com/) by [Felix Pate](https://twitter.com/lgopfelix);
 *    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent);
-*    [No Grass in the Clouds](https://nograssintheclouds.substack.com/);
+*    [No Grass in the Clouds](https://nograssintheclouds.substack.com/) by [Ryan O'Hanlon](https://twitter.com/rwohan);
 *    [Soccer Analytics Newsletter](https://socceranalytics.substack.com/);
-*    [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller); and
+*    [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller) (this newsletter has now finished but catch John's work as a Senior Writer for The Athletic [[link](https://theathletic.com/author/john-muller/)]; and
 *    [Stats Perform](https://www.statsperform.com/).
 
 <h4 id="news-articles"> News Articles</h4>
