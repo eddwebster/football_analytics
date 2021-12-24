@@ -133,6 +133,7 @@ For more information about this repository and the author, I am available throug
             <li><a href="#pv-frameworks">Possession Value (PV) Frameworks</a></li>
             <li><a href="#dixon-coles">Dixon Coles Modeling</a></li>
             <li><a href="#player-similarity-and-style-analysis">Player Similarity and Style Analysis</a></li>
+            <li><a href="#team-playing-style-analysis">Team Playing Style Analysis</a></li>
             <li><a href="#rl-for-football-simulation">Reinforcement Learning for Football Simulation</a></li>
             <li><a href="#set-pieces">Set Pieces</a></li>
             <li><a href="#radars">Radars</a></li>
@@ -2055,6 +2056,44 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Google Research Football](https://www.youtube.com/watch?v=esQvSg2qeS0) by Piotr Stanczyk;
 *    [Google's AI Plays Football…For Science!](https://www.youtube.com/watch?v=Uk9p4Kk98_g) by Two Minute Papers
 
+<h4 id="team-playing-style-analysis"> Team Playing Style Analysis</h4>
+
+<h5 id="team-playing-style-analysis-written-pieces"> Written Pieces</h5>
+
+<h6 id="team-playing-style-analysis-written-pieces-papers"> Papers</h6>
+
+*    [Identifying Play Styles of Football Players Based on Match Event Data](https://thesis.eur.nl/pub/56926/Master-thesis-Mark-Riezebos.pdf) (2021) by Mark Riezebos
+*    [Soccer Analytics Meets Artificial Intelligence: Learning Value and Style from Soccer Event Stream Data](https://tomdecroos.github.io/reports/thesis_tomdecroos.pdf) (2020) by [Tom Decroos](https://twitter.com/TomDecroos)
+*    [SoccerMix: Representing Soccer Actions with Mixture Models](https://tomdecroos.github.io/reports/ecml_2020.pdf) (2020) by [Tom Decroos](https://twitter.com/TomDecroos), [Maaike Van Roy](https://twitter.com/MaaikeVanRoy), and [Jesse Davis](https://twitter.com/jessejdavis1)
+*    [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer](https://tomdecroos.github.io/reports/kdd19_tomd.pdf) (2019) by [Tom Decroos](https://twitter.com/TomDecroos), [Lotte Bransen](https://twitter.com/LotteBransen), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
+*    [Player Vectors: Characterizing Soccer Players’ Playing Style from Match Event Streams](https://tomdecroos.github.io/reports/ecml19_tomd.pdf) (2019) by [Tom Decroos](https://twitter.com/TomDecroos) and [Jesse Davis](https://twitter.com/jessejdavis1) (discussed in the DeepMind blog: \Advancing sports analytics through AI research [[link](https://deepmind.com/blog/article/advancing-sports-analytics-through-ai)])
+*    [Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data](https://lirias.kuleuven.be/retrieve/510838) (2018) by [Tom Decroos](https://twitter.com/TomDecroos), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
+*    [Distinguishing Between Roles of Football Players in Play-by-play Match Event Data](https://www.researchgate.net/publication/327687908_Distinguishing_Between_Roles_of_Football_Players_in_Play-by-play_Match_Event_Data) by Bart Aalbers and [Jan Van Haaren](https://twitter.com/JanVanHaaren)
+*    [Analysis of association football playing styles: An innovative method to cluster networks](https://journals.sagepub.com/doi/full/10.1177/1471082X18808628) (2018) by Jacopo Diquigiovanni and Bruno Scrapa
+*    [Predicting Soccer Highlights from Spatio-Temporal Match Event Streams](https://lirias.kuleuven.be/retrieve/415729) (2017) by [Tom Decroos](https://twitter.com/TomDecroos), Vladimir Dzyuba, [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
+*    [Game style in soccer: what is it and can we quantify it?](https://www.researchgate.net/publication/301204271_Game_style_in_soccer_What_is_it_and_can_we_quantify_it) by Adam Hewitt, Grace Greenham, and Kevin Norton
+
+<h6 id="team-playing-style-analysis-written-pieces-blogs"> Blogs</h6>
+
+*    [Stats Perform Playing Styles - An Introduction](https://www.statsperform.com/resource/stats-playing-styles-introduction/)
+*    [How Does the Context of the Game Impact the Style of Play in Football Teams?](https://barcainnovationhub.com/how-does-the-context-of-the-game-impact-the-style-of-play-in-football-teams/) by Carlos Lago Peñas for [Barça Innovation Hub](https://barcainnovationhub.com/)
+*    [Comparing Players: Clustering and Style of Play](https://www.americansocceranalysis.com/home/2020/3/3/clustering) by [Sam Goldberg](https://twitter.com/SamGoldberg1882)
+*    [Player Roles: How to find the right type of player for your team?](https://www.scisports.com/player-roles-how-to-find-the-right-type-of-player-for-your-team/) by SciSports
+*    [SciSports 22 Player Roles](https://support.scisports.com/en/articles/4732885-what-are-the-22-player-roles)
+*    [Clustering Playing Styles in the Modern Day Full-Back](https://www.statsperform.com/resource/clustering-playing-styles-in-the-modern-day-full-back/) by [Mark Carey](https://twitter.com/MarkCarey93) and [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)
+
+<h5 id="team-playing-style-analysis-videos"> Videos</h5>
+
+*    [Learning Value and Style from Soccer Event Stream Data](https://www.youtube.com/watch?v=YXsG455zYKc) by [Tom Decroos](https://twitter.com/TomDecroos), as part of the Sports Analytics Lab at Harvard University and American Statistical Association Section on Statistics in Sports seminar series
+*    [Presentation at SIGKDD 2019 | Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://www.youtube.com/watch?v=UtG9FNEcdKI) by [Tom Decroos](https://twitter.com/TomDecroos)
+*    [Making Offensive Play Predictable](https://vimeo.com/534338154)by [Paul Power](https://twitter.com/counterattack9) for the Opta Pro Forum 2021
+*    [How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM) by [Paul Power](https://twitter.com/counterattack9) for Training Ground Guru
+*    [Measuring Style of Play in Football Using Statistics and Machine Learning](https://www.youtube.com/watch?v=TxKYrbxwKbM) by Xiaoyi Ji (Sia)
+
+<h5 id="team-playing-style-analysis-github-repos"> GitHub Repositories</h5>
+
+*    [`socceraction`](https://github.com/ML-KULeuven/socceraction)
+
 <h4 id="set-pieces"> Set Pieces</h4>
 
 Section created after seeing the following tweets and threads by [Ashwin Raman](https://twitter.com/AshwinRaman_) ([[link](https://twitter.com/AshwinRaman_/status/1398291162520195073)]) and [Stuart Reid](https://twitter.com/From_The_Wing) ([[link](https://twitter.com/From_The_Wing/status/1397236830517530629)])
@@ -2088,7 +2127,9 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 
 <h4 id="recruitment-analysis"> Recruitment Analysis</h4>
 
+*    [Gerard Moore uses the Event Lab to analyse centre-backs for recruitment](https://www.twenty3.sport/gerard-moore-analyst-twenty3-event-lab-recruitment/) by [Gerard Moore](https://twitter.com/GedMoor) for [Twenty3](https://www.twenty3.sport/)
 *    [Using StatsBomb IQ For Player Recruitment: Centre Backs](https://statsbomb.com/2021/06/using-statsbomb-iq-for-player-recruitment-centre-backs/) by [StatsBomb](https://statsbomb.com/) (05/06/2021)
+*    [Recruitment & Analysis at Melborne City: Optimising Key Processes using Data and Technology](https://www.statsperform.com/resource/recruitment-analysis-at-melbourne-city-optimising-key-processes-using-data-and-technology/) by [Andy Cooper](https://twitter.com/andycoops83) for [Stats Perform](https://www.statsperform.com/)
 *    Season Analysis & Summer Recruitment pieces
      +    [Blackburn Rovers Season Analysis & Summer 2020 Recruitment](https://www.yumpu.com/en/document/read/65654151/blackburn-rovers-season-analysis-recruitment-2021) by [Andy Watson](https://twitter.com/andywatsonsport) (see tweet [[link](https://twitter.com/andywatsonsport/status/1396750915600896000)]
      +    [Motherwell  Summer 2021 Recruitment Plan](https://www.yumpu.com/en/document/view/65752786/motherwell-fc-summer-2021-recruitment) by [Greg Marshall](https://mobile.twitter.com/gregthewellfan) (see tweet [[link](https://mobile.twitter.com/gregthewellfan/status/1412059735516401664)]
