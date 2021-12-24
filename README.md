@@ -672,7 +672,7 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    [smarterscout](https://smarterscout.com/)
 *    [Sportlogiq](https://sportlogiq.com/en/)
 *    [Sport radar](https://www.sportradar.com/)
-*    [STATS PERFORM](https://www.statsperform.com/)
+*    [Stats Peform](https://www.statsperform.com/)
 *    [StatsBomb](https://statsbomb.com/data/)
 *    [StrataBet](http://www.stratagem.co/) (now defunct)
 *    [TransferMarket](https://www.transfermarkt.com/)
@@ -825,7 +825,7 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`soccermix`](https://github.com/ML-KULeuven/soccermix) - a soft clustering technique based on mixture models that decomposes event stream data into a number of prototypical actions of a specific type, location, and direction by Tom Deccoos and ML-KULeuven;
 *    [`soccer_xg`](https://github.com/ML-KULeuven/soccer_xg) - a Python package for training and analyzing expected goals (xG) models in football;
 *    [`soccerplots`](https://github.com/Slothfulwave612/soccerplots) -  a Python package that can be used for making visualizations for football analytics by [Anmol Durgapal](https://twitter.com/slothfulwave612);
-*    [`sync.soccer`](https://github.com/huffyhenry/sync.soccer) - a Python package to synchronise football datasets, so that an event in one dataset is matched to the corresponding event or snapshot in the other by Marek Kwiatkowski. This repository contains an implementation that aligns Opta's (now STATS Perform's) F24 feeds to ChyronHego's Tracab files. More formats may be added in the future. See the following blog post for methodology [[link](https://kwiatkowski.io/sync.soccer)];
+*    [`sync.soccer`](https://github.com/huffyhenry/sync.soccer) - a Python package to synchronise football datasets, so that an event in one dataset is matched to the corresponding event or snapshot in the other by [Marek Kwiatkowski](https://twitter.com/statlurker). This repository contains an implementation that aligns Opta's (now Stat Perform) F24 feeds to ChyronHego's Tracab files. More formats may be added in the future. See the following blog post for methodology [[link](https://kwiatkowski.io/sync.soccer)];
 *    [`tmscrape`](https://github.com/znstrider/tmscrape) - a Python TransferMarkt webscraper by [danzn1](https://twitter.com/danzn1);
 *    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) - a Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats);
 *    [`understat`](https://github.com/amosbastian/understat) - a Python webscraper by [Amos Bastian](https://github.com/amosbastian).
@@ -1260,7 +1260,7 @@ Playlists created by others
      +    [Course; mathematical modelling of football](https://www.youtube.com/playlist?list=PLedeYskZY0vBOdQ6Uc9eZjZ2-nz1JT3R7)
      +    [Coaching: what players, coaches and scouts need to know about data in football](https://www.youtube.com/playlist?list=PLedeYskZY0vDhjRecf90T57poCPZ4j8cB)
 *    [The Analytics (formally Opta) Playlists](https://www.youtube.com/c/TheAnalystOpta/playlists)
-     +    [Stats Performing Playing Styles](https://www.youtube.com/playlist?list=PL9Az6mi38hv_MgIQ_R__bFQPL7V8GlI1z)
+     +    [Stats Perform Playing Styles](https://www.youtube.com/playlist?list=PL9Az6mi38hv_MgIQ_R__bFQPL7V8GlI1z)
      +    [Opta Data Dives](https://www.youtube.com/playlist?list=PL9Az6mi38hv-_IMDJ0HBua9DskGzEEhQn)
      +    [Beyond Heatmaps, Match Experiences](https://www.youtube.com/playlist?list=PL9Az6mi38hv_4kXlGh1YzUkygV3n8GxgM)
      +    [Opta advanced analytics](https://www.youtube.com/playlist?list=PL9Az6mi38hv__afKnHR1AKjpcDIw_0qqT)
@@ -2075,7 +2075,8 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h6 id="team-playing-style-analysis-written-pieces-blogs"> Blogs</h6>
 
-*    [Stats Perform Playing Styles - An Introduction](https://www.statsperform.com/resource/stats-playing-styles-introduction/)
+*    [Stats Perform Playing Styles - An Introduction](https://www.statsperform.com/resource/stats-playing-styles-introduction/) by [Andy Cooper](https://twitter.com/andycoops83) for [Stats Perform](https://www.statsperform.com/resource/introducing-role-discovery-generating-data-driven-roles-in-elite-professional-football/)
+*    [Introducing Role Discovery: Generating Data-Driven Roles in Elite Professional Football](https://www.statsperform.com/resource/introducing-role-discovery-generating-data-driven-roles-in-elite-professional-football/)
 *    [How Does the Context of the Game Impact the Style of Play in Football Teams?](https://barcainnovationhub.com/how-does-the-context-of-the-game-impact-the-style-of-play-in-football-teams/) by Carlos Lago Peñas for [Barça Innovation Hub](https://barcainnovationhub.com/)
 *    [Comparing Players: Clustering and Style of Play](https://www.americansocceranalysis.com/home/2020/3/3/clustering) by [Sam Goldberg](https://twitter.com/SamGoldberg1882)
 *    [Player Roles: How to find the right type of player for your team?](https://www.scisports.com/player-roles-how-to-find-the-right-type-of-player-for-your-team/) by SciSports
@@ -2089,6 +2090,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Making Offensive Play Predictable](https://vimeo.com/534338154) by [Paul Power](https://twitter.com/counterattack9) for the Opta Pro Forum 2021
 *    [How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM) by [Paul Power](https://twitter.com/counterattack9) for Training Ground Guru
 *    [Measuring Style of Play in Football Using Statistics and Machine Learning](https://www.youtube.com/watch?v=TxKYrbxwKbM) by Xiaoyi Ji (Sia)
+*    [Stats Perform Playing Styles playlist](https://www.youtube.com/playlist?list=PL9Az6mi38hv_MgIQ_R__bFQPL7V8GlI1z)
 
 <h5 id="team-playing-style-analysis-github-repos"> GitHub Repositories</h5>
 
