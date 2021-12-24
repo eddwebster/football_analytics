@@ -2030,7 +2030,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Clustering Playing Stles in the Modern Day Fullback](https://www.statsperform.com/resource/clustering-playing-styles-in-the-modern-day-full-back/) by [Mark Carey](https://twitter.com/MarkCarey93) and [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)
 *    [Finding a replacement for Gerard Pique using Machine Learning](https://barcauniversal.com/finding-a-replacement-for-gerard-pique-using-machine-learning/) by Malhar B.
 
-<h5 id="player-comparison-and-similarity-analysis-tutorials"> Tutorials</h5>
+<h5 id="player-comparison-and-similarity-analysis-videos"> Videos</h5>
 
 *    [Paul Power: How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM)
 
@@ -2066,7 +2066,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Soccer Analytics Meets Artificial Intelligence: Learning Value and Style from Soccer Event Stream Data](https://tomdecroos.github.io/reports/thesis_tomdecroos.pdf) (2020) by [Tom Decroos](https://twitter.com/TomDecroos)
 *    [SoccerMix: Representing Soccer Actions with Mixture Models](https://tomdecroos.github.io/reports/ecml_2020.pdf) (2020) by [Tom Decroos](https://twitter.com/TomDecroos), [Maaike Van Roy](https://twitter.com/MaaikeVanRoy), and [Jesse Davis](https://twitter.com/jessejdavis1)
 *    [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer](https://tomdecroos.github.io/reports/kdd19_tomd.pdf) (2019) by [Tom Decroos](https://twitter.com/TomDecroos), [Lotte Bransen](https://twitter.com/LotteBransen), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
-*    [Player Vectors: Characterizing Soccer Players’ Playing Style from Match Event Streams](https://tomdecroos.github.io/reports/ecml19_tomd.pdf) (2019) by [Tom Decroos](https://twitter.com/TomDecroos) and [Jesse Davis](https://twitter.com/jessejdavis1) (discussed in the DeepMind blog: \Advancing sports analytics through AI research [[link](https://deepmind.com/blog/article/advancing-sports-analytics-through-ai)])
+*    [Player Vectors: Characterizing Soccer Players’ Playing Style from Match Event Streams](https://tomdecroos.github.io/reports/ecml19_tomd.pdf) (2019) by [Tom Decroos](https://twitter.com/TomDecroos) and [Jesse Davis](https://twitter.com/jessejdavis1) (discussed in the DeepMind blog: [Advancing sports analytics through AI research](https://deepmind.com/blog/article/advancing-sports-analytics-through-ai))
 *    [Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data](https://lirias.kuleuven.be/retrieve/510838) (2018) by [Tom Decroos](https://twitter.com/TomDecroos), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
 *    [Distinguishing Between Roles of Football Players in Play-by-play Match Event Data](https://www.researchgate.net/publication/327687908_Distinguishing_Between_Roles_of_Football_Players_in_Play-by-play_Match_Event_Data) by Bart Aalbers and [Jan Van Haaren](https://twitter.com/JanVanHaaren)
 *    [Analysis of association football playing styles: An innovative method to cluster networks](https://journals.sagepub.com/doi/full/10.1177/1471082X18808628) (2018) by Jacopo Diquigiovanni and Bruno Scrapa
@@ -2086,7 +2086,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 *    [Learning Value and Style from Soccer Event Stream Data](https://www.youtube.com/watch?v=YXsG455zYKc) by [Tom Decroos](https://twitter.com/TomDecroos), as part of the Sports Analytics Lab at Harvard University and American Statistical Association Section on Statistics in Sports seminar series
 *    [Presentation at SIGKDD 2019 | Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://www.youtube.com/watch?v=UtG9FNEcdKI) by [Tom Decroos](https://twitter.com/TomDecroos)
-*    [Making Offensive Play Predictable](https://vimeo.com/534338154)by [Paul Power](https://twitter.com/counterattack9) for the Opta Pro Forum 2021
+*    [Making Offensive Play Predictable](https://vimeo.com/534338154) by [Paul Power](https://twitter.com/counterattack9) for the Opta Pro Forum 2021
 *    [How to properly compare players](https://www.youtube.com/watch?v=lRg0BCLeitM) by [Paul Power](https://twitter.com/counterattack9) for Training Ground Guru
 *    [Measuring Style of Play in Football Using Statistics and Machine Learning](https://www.youtube.com/watch?v=TxKYrbxwKbM) by Xiaoyi Ji (Sia)
 
