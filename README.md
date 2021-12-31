@@ -301,7 +301,7 @@ The contents of this GitHub repository is organised as the following:
     │   │ 
     │   └── wyscout
     │
-    ├── documentation
+    ├── docs
     │   ├── centre-circle
     │   ├── metrica-sports
     │   ├── opta
