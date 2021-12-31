@@ -1,0 +1,166 @@
+﻿.halfAvailableWidth
+{
+	float:left;	
+	text-align: left;
+	display: inline;
+	margin: 5px 0px;
+	width: 50%;
+	vertical-align: top;
+}
+
+.thirdAvailableWidth
+{
+	float:left;	
+	text-align: left;
+	display: inline;
+	margin: 5px 0px;
+	width: 33%;
+	vertical-align: top;
+}
+
+.halfLeft
+{
+	width:50%;
+}
+
+.halfRight
+{
+	width:50%;
+	float:right;
+}
+
+.halfLeft .scfSectionBorderAsFieldSet,
+.halfRight .scfSectionBorderAsFieldSet
+{
+	margin : 0px;
+	padding:0px;	
+	border-width:0px ;
+}
+
+.halfLeft .scfEmailGeneralPanel,
+.halfLeft .scfMultipleLineGeneralPanel,
+.halfLeft .scfSingleLineGeneralPanel,
+.halfLeft .scfPasswordGeneralPanel,
+.halfLeft .scfNumberGeneralPanel,
+.halfLeft .scfDateGeneralPanel,
+.halfLeft .scfRadioButtonListGeneralPanel,
+.halfLeft .scfCheckBoxListGeneralPanel,
+.halfLeft .scfFileUploadGeneralPanel,
+.halfLeft .scfDateSelectorGeneralPanel,
+
+.halfRight .scfEmailGeneralPanel,
+.halfRight .scfMultipleLineGeneralPanel,
+.halfRight .scfSingleLineGeneralPanel,
+.halfRight .scfPasswordGeneralPanel,
+.halfRight .scfNumberGeneralPanel,
+.halfRight .scfDateGeneralPanel,
+.halfRight .scfRadioButtonListGeneralPanel,
+.halfRight .scfCheckBoxListGeneralPanel,
+.halfRight .scfFileUploadGeneralPanel,
+.halfRight .scfDateSelectorGeneralPanel
+{
+	margin: 0px;
+	width: 80%;
+	display: block;
+	float:left;
+	margin-bottom:10px;
+}
+
+
+.halfLeft .scfDropListBorder,
+.halfLeft .scfEmailBorder,
+.halfLeft .scfMultipleLineTextBorder,
+.halfLeft .scfSingleLineTextBorder,
+.halfLeft .scfPasswordBorder,
+.halfLeft .scfNumberBorder,
+.halfLeft .scfDateBorder,
+.halfLeft .scfRadioButtonListBorder,
+.halfLeft .scfListBoxBorder,
+.halfLeft .scfCheckBoxListBorder,
+.halfLeft .scfFileUploadBorder,
+.halfRight .scfDropListBorder,
+.halfRight .scfEmailBorder,
+.halfRight .scfMultipleLineTextBorder,
+.halfRight .scfSingleLineTextBorder,
+.halfRight .scfPasswordBorder,
+.halfRight .scfNumberBorder,
+.halfRight .scfDateBorder,
+.halfRight .scfRadioButtonListBorder,
+.halfRight .scfListBoxBorder,
+.halfRight .scfCheckBoxListBorder,
+.halfRight .scfFileUploadBorder
+{
+	text-align: left;
+	display: block;
+	margin: 0px;
+	width: 100%;
+	vertical-align: top;
+}
+
+.halfLeft .scfDropListLabel,
+.halfLeft .scfEmailLabel,
+.halfLeft .scfMultipleLineTextLabel,
+.halfLeft .scfSingleLineTextLabel,
+.halfLeft .scfPasswordLabel,
+.halfLeft .scfNumberLabel,
+.halfLeft .scfDateLabel,
+.halfLeft .scfRadioButtonListLabel,
+.halfLeft .scfCheckBoxListLabel,
+.halfLeft .scfListBoxLabel,
+.halfLeft .scfFileUploadLabel,
+.halfLeft .scfDateSelectorLabel,
+.halfRight .scfDropListLabel,
+.halfRight .scfEmailLabel,
+.halfRight .scfMultipleLineTextLabel,
+.halfRight .scfSingleLineTextLabel,
+.halfRight .scfPasswordLabel,
+.halfRight .scfNumberLabel,
+.halfRight .scfDateLabel,
+.halfRight .scfRadioButtonListLabel,
+.halfRight .scfCheckBoxListLabel,
+.halfRight .scfListBoxLabel,
+.halfRight .scfFileUploadLabel,
+.halfRight .scfDateSelectorLabel
+{
+	padding-bottom : 0px;
+}
+
+
+
+.halfLeft .scfValidator,
+.halfRight .scfValidator
+{
+	margin: 0px;
+	display:block;
+	font-size :0.8em;
+	position:absolute;
+}
+
+.halfLeft .scfValidatorRequired,
+.halfLeft .scfRequired,
+.halfRight .scfValidatorRequired,
+.halfRight .scfRequired
+{
+	float:left;
+}
+/*
+     FILE ARCHIVED ON 17:28:07 Aug 17, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:26 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.01
+  CDXLines.iter: 28.941 (3)
+  LoadShardBlock: 49.847 (3)
+  RedisCDXSource: 0.842
+  load_resource: 90.466
+  captures_list: 83.767
+  exclusion.robots.policy: 0.14
+  PetaboxLoader3.resolve: 24.31
+  PetaboxLoader3.datanode: 84.58 (4)
+  exclusion.robots: 0.15
+*/

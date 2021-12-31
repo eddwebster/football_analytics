@@ -1,0 +1,39 @@
+
+.h2swf{
+	line-height: 0px !important;
+	padding: 0px !important;
+	margin-bottom: 0px !important;
+}
+h2.white-60.h2swf{
+	margin-bottom: 5px !important;
+}
+span.h2swf-alternate {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 0;
+	height: 0;
+	overflow: hidden;
+	display: none;
+}
+/*
+     FILE ARCHIVED ON 18:29:45 Aug 23, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:25 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.013
+  LoadShardBlock: 113.792 (3)
+  RedisCDXSource: 9.017
+  PetaboxLoader3.resolve: 72.571
+  CDXLines.iter: 21.201 (3)
+  exclusion.robots: 0.216
+  load_resource: 104.16
+  PetaboxLoader3.datanode: 120.98 (4)
+  captures_list: 149.754
+  exclusion.robots.policy: 0.202
+*/

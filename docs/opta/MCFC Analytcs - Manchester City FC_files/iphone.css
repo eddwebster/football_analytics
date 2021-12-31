@@ -1,0 +1,104 @@
+
+html, body{
+	background-image: none !important;
+}
+body{
+	background:url(/web/20120823182842im_/http://www.mcfc.co.uk/images/bg-device.jpg) no-repeat fixed center top #233444 !important;
+}
+.h2swf{
+	line-height: auto !important;
+	padding: 0px !important;
+	margin-bottom: 0px !important;
+}
+span.h2swf-alternate {
+	line-height: 0.8em !important;
+	position: relative !important;
+	left: 0;
+	top: 0;
+	display: block !important;
+	height: auto !important;
+	width: auto !important;
+	padding: 0px;
+	margin: 0;
+	border-bottom: none;
+	overflow:hidden;
+}
+#content-main-feature span.h2swf-alternate {
+	background:transparent url(/web/20120823182842im_/http://www.mcfc.co.uk/css/images/opacity70.png) top left repeat;
+	padding:15px 0 5px 15px !important;
+	margin-bottom: 0;
+	line-height: 1em !important;
+}
+#content-main-feature .cmf-copy {
+	background: url(/web/20120823182842im_/http://www.mcfc.co.uk/css/images/opacity70.png) top left repeat;
+	padding:0 15px 15px 15px;
+	width:235px;
+	position: relative;
+	top: 0px;
+}
+#news.article span.h2swf-alternate{
+	background: none;
+	padding-left: 5px;
+}
+.jqmHeader span.h2swf-alternate,
+#fans.lottery #content-main-feature span.h2swf-alternate{
+	background: none;
+}
+.promo span.h2swf-alternate{
+	background: url(/web/20120823182842im_/http://www.mcfc.co.uk/css/images/opacity70.png) top left repeat;
+	padding: 10px 0 10px 15px;
+}
+.fans span.h2swf-alternate{
+	padding: 10px 0 10px 0px;
+}
+.offer .promo-body-detail span.h2swf-alternate{
+	background: none;
+	font-size: 1em;
+	line-height: 0.8em;
+	color: #FFF;
+	padding: 0 0 0 15px;
+	margin-bottom: 5px;
+}
+.player .promo-body-detail span.h2swf-alternate{
+	line-height: 1.2em !important;
+	display: block;
+	margin-bottom: -1px;
+	background:transparent url(/web/20120823182842im_/http://www.mcfc.co.uk/css/images/opacity70.png) top left repeat;
+	color:#FFFFFF;
+	font-size:24px;
+	font-weight:bold;
+	line-height:22px;
+	padding:5px 0 5px 10px;
+}
+.shop .module-body-detail span.h2swf-alternate,
+.shop .promo-body-detail span.h2swf-alternate{
+	line-height: 1em !important;
+	padding: 10px !important;
+	display: block;
+	margin-bottom: -5px;
+}
+#fans.lottery #content-main-feature span.h2swf-alternate{
+	padding-left: 0;
+	line-height: 1em;
+}
+
+/*
+     FILE ARCHIVED ON 18:28:42 Aug 23, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:30:21 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 114.764
+  exclusion.robots: 0.159
+  exclusion.robots.policy: 0.145
+  RedisCDXSource: 2.819
+  esindex: 0.011
+  LoadShardBlock: 80.939 (3)
+  PetaboxLoader3.datanode: 44.898 (4)
+  CDXLines.iter: 24.107 (3)
+  load_resource: 25.051
+*/

@@ -1,0 +1,311 @@
+/* Form */
+.scfForm
+{
+}
+
+/* Form Title*/
+.scfTitleBorder
+{
+    color: #000000;
+}
+
+/* Form Introduction*/
+.scfIntroBorder
+{
+}
+
+/* Form Footer*/
+.scfFooterBorder
+{
+}
+
+/* Submit Button*/
+.scfSubmitButtonBorder
+{
+}
+
+.scfSubmitButton
+{
+}
+
+/* Validation */
+.scfError, .scfValidationSummary
+{
+    color: red;
+}
+
+.scfValidator
+{
+}
+
+.scfRequired
+{
+    color: #000000;
+}
+
+/* Forms section*/
+.scfSectionBorderAsFieldSet
+{
+    border-top-color: #000000;
+}
+
+.scfSectionLegend
+{
+    color: #000000;
+}
+
+.scfSectionBorder
+{
+}
+
+.scfSectionContent
+{
+}
+
+
+.scfSectionUsefulInfo
+{
+}
+
+/* Form fields */
+/* Checkbox */
+.scfCheckboxBorder
+{
+}
+
+.scfCheckbox
+{
+}
+
+.scfCheckboxUsefulInfo
+{
+    color: silver;
+}
+/* DropList */
+.scfDropListBorder
+{
+}
+
+.scfDropListLabel
+{
+}
+
+.scfDropList
+{
+}
+
+.scfDropListUsefulInfo
+{
+    color: silver;
+}
+/* Email */
+.scfEmailBorder
+{
+}
+
+.scfEmailLabel
+{
+}
+
+.scfEmailTextBox
+{
+}
+
+.scfEmailUsefulInfo
+{
+    color: silver;
+}
+/* Label */
+.scfLabel
+{
+}
+/* Multiple-Line Text */
+.scfMultipleLineTextBorder
+{
+}
+
+.scfMultipleLineTextBox
+{
+}
+
+.scfMultipleLineTextLabel
+{
+}
+
+.scfMultipleLineTextUsefulInfo
+{
+    color: silver;
+}
+/* Password */
+.scfPasswordBorder
+{
+}
+
+.scfPasswordTextBox
+{
+}
+
+.scfPasswordLabel
+{
+}
+
+.scfPasswordUsefulInfo
+{
+    color: silver;
+}
+
+/* Single-Line Text */
+.scfSingleLineTextBorder
+{
+}
+
+.scfSingleLineTextBox
+{
+}
+
+.scfSingleLineTextLabel
+{
+}
+
+.scfSingleLineTextUsefulInfo
+{
+    color: silver;
+}
+/* Number */
+.scfNumberBorder
+{
+}
+
+.scfNumberTextBox
+{
+}
+
+.scfNumberLabel
+{
+}
+.scfNumberUsefulInfo
+{
+    color: silver;
+}
+
+/* DateTime */
+.scfDateBorder
+{
+}
+
+.scfDateTextBox
+{
+}
+
+.scfDateLabel
+{
+}
+
+.scfDateUsefulInfo
+{
+    color: silver;
+}
+
+/* Radio Button List */
+.scfRadioButtonListBorder
+{
+}
+
+.scfRadioButtonList
+{
+}
+
+.scfRadioButtonListLabel
+{
+}
+
+.scfRadioButtonListUsefulInfo
+{
+    color: silver;
+}
+
+/* ListBox */
+.scfListBoxBorder
+{
+}
+
+.scfListBox
+{
+}
+
+.scfListBoxLabel
+{
+}
+
+.scfListBoxUsefulInfo
+{
+    color: silver;
+}
+
+/* CheckBoxList */
+.scfCheckBoxListBorder
+{
+}
+
+.scfCheckBoxList
+{
+}
+
+.scfCheckBoxListLabel
+{
+}
+
+.scfCheckBoxListUsefulInfo
+{
+    color: silver;
+}
+
+/* File Upload */
+.scfFileUploadBorder
+{
+}
+
+.scfFileUpload
+{
+}
+
+.scfFileUploadLabel
+{
+}
+
+.scfFileUploadUsefulInfo
+{
+    color: silver;
+}
+
+.scfCreditCardTextUsefulInfo, .scfConfirmPasswordUsefulInfo, .scfDateSelectorUsefulInfo, .scfCaptchaUsefulInfo, .scfTelephoneUsefulInfo, .scfSmsTelephoneUsefulInfo
+{
+    color: silver;
+}
+
+.scfDateSelectorShortLabelDay, .scfDateSelectorShortLabelMonth, .scfDateSelectorShortLabelYear
+{
+    color: #000000;
+}
+
+/*
+     FILE ARCHIVED ON 17:28:23 Aug 17, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:26 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.188
+  load_resource: 49.734
+  PetaboxLoader3.datanode: 40.131 (4)
+  exclusion.robots.policy: 0.174
+  esindex: 0.013
+  PetaboxLoader3.resolve: 34.936
+  RedisCDXSource: 0.77
+  LoadShardBlock: 31.939 (3)
+  CDXLines.iter: 22.436 (3)
+  captures_list: 58.676
+*/

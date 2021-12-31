@@ -1,0 +1,102 @@
+div#citcFormSelect{display:none;}
+div#citcFormContainer
+{
+	font-family:verdana,arial;
+	margin:0px;
+	padding:0px;
+	color:#000000;
+}
+div#citcFormContainer h1{display:none;}
+div#citcFormContainer h2{font-weight:normal;color:#7BB2DB;font-size:14px; }
+div#citcFormContainer h3{font-weight:bold;color:#7BB2DB;font-size:11px;margin:20px 0px 10px 0px;}
+div#citcFormContainer p{color:#000000;}
+div#citcFormContainer fieldset{border:none;}
+div#citcFormContainer .error,
+div#citcFormContainer .field
+{font-size:11px;color:#ff0000;}
+div#citcFormContainer p,
+div#citcFormContainer li,
+div#citcFormContainer label
+{font-size:11px;margin:0px;}
+div#citcFormContainer p{margin:0px 0px 10px 0px;}
+div#citcFormContainer .blue{color:#7BB2DB;}
+div#citcFormContainer .bold{font-weight:bold;}
+div#citcFormContainer p.formSection{margin:20px 0px 10px 0px;font-weight:bold;}
+div#citcFormContainer .clear:after,
+div#citcFormContainer .field:after
+{
+    content: "." !important;
+	display: block !important;
+	visibility: hidden !important;
+	clear: both !important;
+	height: 0 !important;
+	font-size: 0.1em !important;
+	line-height: 0 !important;    
+}
+div#citcFormContainer {width:595px;}
+div#citcFormContainer div#top
+{
+	width:595px;
+	height:190px;
+	background:transparent url(/web/20120823182755im_/http://www.mcfc.co.uk/images/citc-top-image.jpg) no-repeat;
+	text-indent:-10000px;
+}
+div#citcFormContainer div#form,
+div#citcFormContainer div#footer
+{padding:10px 30px 100px;clear:both;}
+div#citcFormContainer label{}
+div#citcFormContainer textarea{width:500px;height:300px;}
+div#citcFormContainer input.text,
+div#citcFormContainer input[type='text']
+{width:200px !important;}
+div#citcFormContainer input
+{margin-right:5px;}
+div#citcFormContainer{clear:both;display:block;}
+div#citcFormContainer div.formField,
+div#citcFormContainer div.formInput
+{color:#000000;float:left;margin-bottom:10px;}
+div#citcFormContainer fieldset.formPart1 div.formField{width:200px;}
+div#citcFormContainer fieldset.formPart2 div.formField{width:120px;}
+div#citcFormContainer a.btn span{color:#ffffff;}
+div#citcFormContainer div.threeImages{width:100%;height:129px;margin:20px 0px 20px 0px;display:block;clear:both;}
+div#citcFormContainer div.threeImages img{margin-right:40px;float:left;}
+div#citcFormContainer div.threeImages img.last{margin-right:0px;}
+div#citcFormContainer div#form ul, div#citcFormContainer div#form ol{padding:0px 0px 0px 10px;margin:0px 0px 10px 10px; }
+div#citcFormContainer div#form li{ margin-bottom:5px;}
+div#citcFormContainer div#form li input { position: relative; }
+div#citcFormContainer div#terms h2,
+div#citcFormContainer div#terms h3
+{color:#000000;}
+div#citcFormContainer div#terms{color:#000000;font-size:10px;background-color:#7BB2DB;padding:10px;}
+div#citcFormContainer div#terms ul,
+div#citcFormContainer div#terms ol
+{padding:0px 0px 0px 10px;margin:0px 0px 0px 10px;}
+div#citcFormContainer div#terms li{color:#000000;margin-bottom:5px;}
+div#citcFormContainer div#terms ol li ul{padding:0px 0px 0px 10px;margin:10px 0px 10px 10px;}
+.noie{background-color:blue;width:100%;color:#ff0000;margin-bottom:10px;}
+.clear{clear:both;}
+#TB_ajaxWindowTitle{font-weight:bold;}
+a#TB_closeWindowButton{font-size:inherit;}
+#TB_ajaxContent { position: relative; }
+
+/*
+     FILE ARCHIVED ON 18:27:55 Aug 23, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:25 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.01
+  CDXLines.iter: 20.501 (3)
+  exclusion.robots: 0.207
+  exclusion.robots.policy: 0.196
+  PetaboxLoader3.resolve: 63.653
+  load_resource: 80.846
+  captures_list: 158.977
+  LoadShardBlock: 120.819 (3)
+  RedisCDXSource: 13.864
+  PetaboxLoader3.datanode: 117.624 (4)
+*/

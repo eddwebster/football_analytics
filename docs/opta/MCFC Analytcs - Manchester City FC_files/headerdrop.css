@@ -1,0 +1,237 @@
+/*
+	headerDrop
+	A drop down header to show and hide just below the body tag
+	Initial styles are generic. Follow on styles are project specific
+
+-----------------------------------------------*/
+.headerDrop{
+	color:#fff;
+	font-size:1em;
+	position:relative;
+	z-index:10000;
+	clear:both;
+	top:8px;
+}
+.headerDropTfixed{
+	position:fixed;
+	bottom:0;
+	top:auto;
+}
+.ie7 .headerDropTfixed{
+	position:relative;
+	bottom:auto;
+	top:8px;
+}
+.headerDrop h2{
+	font-size:1.5em;
+	color:#fff;
+	padding-bottom:16px;
+}
+.headerDrop h1{}
+.headerDrop ul,
+	.headerDrop ul li{
+		padding:0; margin:0;
+		list-style:none;
+		list-style-image:none;
+		color:#fff;
+	}
+.headerDrop-intro a:link{
+	color:#fff;
+	outline:none;
+}
+.headerDrop dt{width:90px;}
+	.headerDrop-intro{
+		position:relative;
+		min-height:40px;
+	}
+	.headerDrop-intro-start{
+		position:relative;
+		top:0 left:0;
+	}
+		.headerDrop-intro-inner{
+			margin:0 auto;
+			position:relative;
+			padding:8px 0;
+			min-height:24px;
+		}
+			.headerDrop-intro-start p{
+				display: -moz-inline-stack;
+				display:inline-block;
+				zoom:1;
+				*display:inline;
+				vertical-align: top;
+				padding:5px 16px 0 8px;
+				margin:0;
+				width:55%;
+				color:#fff;
+			}
+			ul.headerDrop-intro-links{
+				position:absolute;
+				right:0;
+				top:0;
+			}
+				ul.headerDrop-intro-links li{
+					display: block;
+					float:left;
+				}
+					ul.headerDrop-intro-links li a{
+						color:#fff;
+						padding:12px 14px;
+						display:block;
+						height:16px;
+						position:relative;
+						text-decoration:none;
+						outline:none;
+					}
+						ul.headerDrop-intro-links li a span{
+							display:block;
+							width:10px;
+							height:10px;
+							position:absolute;
+							right:7px;
+							top:16px;
+							
+						}
+	.headerDrop-dropDown{
+		position:relative;
+		z-index:1000;
+		width:100%;
+		top:0 !important;
+		left:0;
+		zoom:1;
+		height:0;
+		overflow:hidden;
+	}
+	.no-js .headerDrop-dropDown{
+		position: relative;
+		top:0;
+		height: auto;
+		overflow: visible;
+	}
+		.headerDrop-dropDown-inner{
+			margin:0 auto;
+			padding:30px 0;
+			position:relative;
+		}
+			.headerDrop-dropDown-inner a.button{
+				position:absolute;
+				bottom:32px;
+				right:16px;
+			}
+			.headerDrop-aside{
+				width:27.5%;
+				display: -moz-inline-stack;
+				display:inline-block;
+				zoom:1;
+				*display:inline;
+				vertical-align:top;
+			}
+				.headerDrop-aside p{
+					padding-right:48px;
+				}
+			.headerDrop-content{
+				width:67%;
+				display: -moz-inline-stack;
+				display:inline-block;
+				zoom:1;
+				*display:inline;
+				vertical-align:top;
+				padding-left:3.7%;
+				margin: 16px 0;
+				padding-top: 16px;
+				min-height: 160px;
+			}
+				.headerDrop-content > ul{
+					float:left;
+					width:25%;
+					padding:right:5%;
+				}
+				 	.headerDrop-content > ul li{
+				 		display:block;
+				 	}
+				 		.headerDrop-content > ul li a{
+				 			display:block;
+				 			padding:0 0 16px 0;
+				 			color:#fff;
+				 			text-decoration:none;
+							outline:none;
+				 		}
+
+				 .headerDrop-content-item{
+				 	float:right;
+				 	width:69%;
+				 	padding:0 0 32px 0;
+				 }
+
+
+
+/*
+	Project specific styling
+*/
+	.headerDrop-intro{
+		background: #5cbfeb;
+	}
+			.headerDrop-intro-inner{
+				width:960px;
+			}
+				ul.headerDrop-intro-links{
+					background: url(/web/20120819225900im_/http://www.mcfc.co.uk/images/bg-dropdown-nav.gif) no-repeat right top;
+				}
+
+					ul.headerDrop-intro-links li a{
+						background: url(/web/20120819225900im_/http://www.mcfc.co.uk/images/bg-dropdown-nav.gif) no-repeat left top;
+					}
+					ul.headerDrop-intro-links li a:hover,
+					ul.headerDrop-intro-links li a.activated{
+						background-color:#101A24;
+					}
+						ul.headerDrop-intro-links li a span{
+							background-position:-25px -25px;
+						}
+						ul.headerDrop-intro-links li a.activated span{
+							background-position:0 -25px;
+						}
+	.headerDrop-dropDown{
+		background: url(/web/20120819225900im_/http://www.mcfc.co.uk/images/bg-dropdown.gif) repeat-x #2a2716;
+	}
+		.headerDrop-dropDown-inner{
+			width:960px;
+		}
+			.headerDrop a.highlight{
+				right: 340px;
+				position: absolute;
+				top: 0;
+			}
+				.headerDrop-content > ul li{
+					background: url(/web/20120819225900im_/http://www.mcfc.co.uk/images/bg-dropdown-secnav.gif) no-repeat center bottom;
+					
+				}
+					.headerDrop-content > ul li a{
+						color:#fff;
+						padding:8px 16px;
+					}
+					.headerDrop-content > ul li a:hover,
+					.headerDrop-content > ul li.simpleTabs-on a{
+						color:#3c68c6;
+					}
+/*
+     FILE ARCHIVED ON 22:59:00 Aug 19, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:24 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 150.348
+  exclusion.robots: 0.11
+  exclusion.robots.policy: 0.102
+  RedisCDXSource: 1.585
+  esindex: 0.011
+  LoadShardBlock: 117.004 (3)
+  PetaboxLoader3.datanode: 44.753 (4)
+  CDXLines.iter: 28.058 (3)
+  load_resource: 251.282
+  PetaboxLoader3.resolve: 196.749
+*/

@@ -1,0 +1,75 @@
+.scOMSPollOptionResults
+{
+	width: 100%;
+	padding: 0.5em
+}
+.scOMSPollOptionItemResult 
+{
+	font-size: 0.8em;
+	padding: 0 0.3em 0.3em 0;
+	text-align: left;
+}
+.scOMSPollOptionItemResultValue
+{
+	color: #346183;
+	font-weight: bold;
+}
+.scOMSPollVisualisation 
+{
+	padding-top: 1px;
+	width: 100%;
+	margin-right: 2em;
+}
+.scOMSPollPipe
+{
+	float: left;
+	background-image: url(/web/20120823182851im_/http://www.mcfc.co.uk/~/media/images/OMS Poll/PollPipePart.ashx);
+	background-repeat: repeat-x;
+	width: 90%;
+}
+.scOMSPollPipe IMG 
+{
+	margin-top: 1px;
+	height: 13px;
+}
+.scOMSPollVisualisation IMG 
+{
+	margin-top: 1px;
+	height: 13px;
+}
+.scOMSPollMain
+{
+	text-align:left;
+	padding: 1em;
+}
+.scOMSButtons
+{
+	padding-top: 7px;
+}
+.scOMSCookiesRequired
+{
+	display: none;
+	padding: 2px;
+	color: maroon;	
+}
+/*
+     FILE ARCHIVED ON 18:28:51 Aug 23, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:25 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots.policy: 0.204
+  esindex: 0.016
+  exclusion.robots: 0.221
+  LoadShardBlock: 110.455 (3)
+  CDXLines.iter: 21.137 (3)
+  RedisCDXSource: 2.623
+  captures_list: 139.243
+  PetaboxLoader3.datanode: 71.041 (4)
+  load_resource: 56.221
+  PetaboxLoader3.resolve: 90.885 (2)
+*/

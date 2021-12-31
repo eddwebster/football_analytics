@@ -1,0 +1,934 @@
+#at16lb {
+	background-color: black;
+	display: none;
+	height: 100%;
+	left: 0%;
+	opacity: 0.001;
+	position: absolute;
+	top: 0%;
+	width: 100%;
+	z-index: 1001;
+}
+#at20mc, #at_email, #at16pib, #at16pc, #at16pi, #at_share, #at_complete, #at_success, #at_error {
+	position: static!important;
+}
+#at20mc {
+	left: 0px;
+	position: absolute;
+	top: 0px;
+}
+#at20mc a {
+	color: #3366BB;
+}
+.at15a {
+	border: 0px;
+	height: 0px;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	width: 230px;
+}
+.atnt {
+	height: 24px!important;
+	padding: 6px 0px 0px 0px!important;
+	text-align: center!important;
+}
+.atnt a {
+	color: #3366bb;
+	text-decoration: none;
+}
+.atnt a:hover {
+	text-decoration: underline;
+}
+#at_msg,#at16p label,#at16nms,#at_share .at_item,#at16p,#at15s,#at16p form input,#at16p form textarea {
+	font-family: arial,helvetica,tahoma,verdana,sans-serif!important;
+	font-size: 12px!important;
+	line-height: 1em;
+	outline-style: none;
+	outline-width: 0px;
+}
+#at15s {
+}
+#at15s_head {
+	background: #5cbfeb !important;
+	border-bottom: 1px solid #5cbfeb;
+	cursor: default;
+	padding: 4px;
+	position: relative;
+}
+#at15s_brand,#at16_brand {
+	position: absolute;
+}
+#at15s_brand {
+	right: 4px;
+	top: 4px;
+}
+#at16_brand {
+	cursor: default;
+	right: 30px;
+	top: 5px;
+}
+#at_hover {
+	padding: 4px;
+}
+#at_hover .at_item, 
+#at_share .at_item {
+	float: left!important;
+}
+#at16nms {
+	padding: 4px 5px;
+}
+#at_hover .at_item {
+	margin: 1px;
+	padding: 2px 3px!important;
+	width: 102px!important;
+}
+#at_hover .at_item:hover,#at_hover .at_item.athov {
+	margin: 0px!important;
+}
+#at_hover .at_item:hover,#at_hover .at_item.athov,#at_share .at_item:hover,#at_share .at_item.athov {
+	border: 1px solid #5cbfeb;
+}
+* html #at_hover .at_item {
+	border: 1px solid #fff;
+}
+* html #at_hover .at_item.athov {
+	border: 1px solid #5cbfeb!important;
+	margin: 1px!important;
+}
+#at_email15 {
+	padding-top: 5px;
+}
+.at15e_row {
+	height: 28px;
+}
+.at15e_row label,.at15e_row span {
+	display: block!important;
+	float: left!important;
+	padding-left: 10px!important;
+	width: 60px!important;
+}
+.at15e_row input,.at15e_row textarea {
+	background: #fff!important;
+	border: 1px solid #ccc!important;
+	color: #333!important;
+	display: block!important;
+	float: left!important;
+	font-size: 11px!important;
+	font-weight: normal!important;
+	padding: 0pt!important;
+	width: 150px!important;
+}
+#at_email label,#at_email input,#at_email textarea {
+	font-size: 11px!important;
+}
+.at15t {
+	cursor: pointer;
+	display: block!important;
+	height: 16px!important;
+	line-height: 16px!important;
+	padding-left: 20px!important;
+}
+.addthis_toolbox.addthis_default_style span {
+	line-height: 16px;
+}
+.addthis_default_style .addthis_separator {
+	display: inline;
+	margin: 0px 5px;
+}
+div.atclear {
+	clear: both;
+}
+.addthis_default_style .addthis_separator,.addthis_default_style .at300b,.addthis_default_style .at300m,.addthis_default_style .at300bs {
+	float: left;
+}
+.at300b img {
+	border: 0;
+}
+.addthis_default_style .at300b,.addthis_default_style .at300m {
+	padding: 0px 2px;
+}
+.at300b,.at300m,.at300bs {
+	cursor: pointer;
+}
+.at300bs {
+	background: url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/r07/widget00.png) no-repeat left;
+	display: block;
+	height: 16px;
+	line-height: 16px!important;
+	overflow: hidden;
+	width: 16px;
+}
+.at300bs.at15t_expanded,.at300bs.at15t_compact {
+	background: url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/t00/logo1414.gif) no-repeat left;
+	margin-right: 4px;
+}
+.at15t_more, .at15t_more_2 {
+	background-position: 0px 100px;
+}
+.at15t_more_1,.at15t_more_3 {
+	background: url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/t00/logo1010.gif) no-repeat left;
+	margin-left: 3px;
+}
+.at15t_000 {
+	background-position: 0px -0px;
+}
+.at15t_aim {
+	background-position: 0px -16px;
+}
+.at15t_ask {
+	background-position: 0px -32px;
+}
+.at15t_backflip {
+	background-position: 0px -48px;
+}
+.at15t_ballhype {
+	background-position: 0px -64px;
+}
+.at15t_bebo {
+	background-position: 0px -80px;
+}
+.at15t_blogger {
+	background-position: 0px -96px;
+}
+.at15t_blogmarks {
+	background-position: 0px -112px;
+}
+.at15t_buzz {
+	background-position: 0px -128px;
+}
+.at15t_delicious {
+	background-position: 0px -144px;
+}
+.at15t_digg {
+	background-position: 0px -160px;
+}
+.at15t_diigo {
+	background-position: 0px -176px;
+}
+.at15t_email {
+	background-position: 0px -192px;
+}
+.at15t_facebook {
+	background-position: 0px -208px;
+}
+.at15t_fark {
+	background-position: 0px -224px;
+}
+.at15t_faves {
+	background-position: 0px -240px;
+}
+.at15t_favorites {
+	background-position: 0px -256px;
+}
+.at15t_friendfeed {
+	background-position: 0px -272px;
+}
+.at15t_friendster {
+	background-position: 0px -288px;
+}
+.at15t_google {
+	background-position: 0px -304px;
+}
+.at15t_hatena {
+	background-position: 0px -320px;
+}
+.at15t_hi5 {
+	background-position: 0px -336px;
+}
+.at15t_kaboodle {
+	background-position: 0px -352px;
+}
+.at15t_kirtsy {
+	background-position: 0px -368px;
+}
+.at15t_linkagogo {
+	background-position: 0px -384px;
+}
+.at15t_linkedin {
+	background-position: 0px -400px;
+}
+.at15t_live {
+	background-position: 0px -416px;
+}
+.at15t_meneame {
+	background-position: 0px -432px;
+}
+.at15t_misterwong {
+	background-position: 0px -448px;
+}
+.at15t_mixx {
+	background-position: 0px -464px;
+}
+.at15t_multiply {
+	background-position: 0px -480px;
+}
+.at15t_myaol {
+	background-position: 0px -496px;
+}
+.at15t_myspace {
+	background-position: 0px -512px;
+}
+.at15t_netvibes {
+	background-position: 0px -528px;
+}
+.at15t_netvouz {
+	background-position: 0px -544px;
+}
+.at15t_newsvine {
+	background-position: 0px -560px;
+}
+.at15t_nujij {
+	background-position: 0px -576px;
+}
+.at15t_orkut {
+	background-position: 0px -592px;
+}
+.at15t_plaxo {
+	background-position: 0px -608px;
+}
+.at15t_print {
+	background-position: 0px -624px;
+}
+.at15t_propeller {
+	background-position: 0px -640px;
+}
+.at15t_reddit {
+	background-position: 0px -656px;
+}
+.at15t_segnalo {
+	background-position: 0px -672px;
+}
+.at15t_simpy {
+	background-position: 0px -688px;
+}
+.at15t_slashdot {
+	background-position: 0px -704px;
+}
+.at15t_spurl {
+	background-position: 0px -720px;
+}
+.at15t_stumbleupon {
+	background-position: 0px -736px;
+}
+.at15t_stylehive {
+	background-position: 0px -752px;
+}
+.at15t_tailrank {
+	background-position: 0px -768px;
+}
+.at15t_technorati {
+	background-position: 0px -784px;
+}
+.at15t_thisnext {
+	background-position: 0px -800px;
+}
+.at15t_tumblr {
+	background-position: 0px -816px;
+}
+.at15t_twitter {
+	background-position: 0px -832px;
+}
+.at15t_typepad {
+	background-position: 0px -848px;
+}
+.at15t_wordpress {
+	background-position: 0px -864px;
+}
+.at15t_yahoobkm {
+	background-position: 0px -880px;
+}
+.at15t_yardbarker {
+	background-position: 0px -896px;
+}
+.at15t_netscape {
+	background-position: 0px -640px;
+}
+#at16clb {
+	font-family: "verdana bold", verdana, arial, sans-serif;
+	font-size: 16pt;
+}
+#at_share .at_item {
+	border: 1px solid #ffffff;
+	margin-right: 2px;
+	padding: 4px;
+	width: 123px !important;
+}
+#at16pm {
+	
+	height: 360px;
+	position: static;
+	text-align: left;
+	width: 298px;
+}
+#at16pcc {
+	color: #4c4c4c;
+	font-size: 10px!important;
+	left: 0px;
+	margin: 0 auto;
+	overflow: visible;
+	padding: 0px;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: 10000001;
+}
+* html #at16pcc {
+	position: absolute;
+}
+#at16abifc {
+	border: 0;
+	height: 335px;
+	left: 10px;
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 10px;
+	width: 492px;
+}
+#at16abifc iframe {
+	border: 0;
+	height: 360px;
+	left: -10px;
+	position: absolute;
+	top: -10px;
+	width: 516px;
+}
+* html div#at16abifc.atiemode2 {
+	height: 354px;
+	width: 482px;
+}
+* html #at16abifc iframe {
+	height: 348px;
+	left: -10px;
+	overflow: hidden;
+	top: -10px;
+}
+#at16p {
+	background: url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/t00/atbkg.png);
+	color: #5e5e5e;
+	font-family: arial,helvetica,tahoma,verdana,sans-serif;
+	font-size: 12px;
+	left: 50%;
+	margin: 0 auto;
+	margin-left: -155px;
+	margin-top: -185px;
+	padding: 10px;
+	position: absolute;
+	top: 50%;
+	width: 300px;
+	z-index: 10000001;
+}
+#at_share {
+	margin: 0;
+	padding: 0;
+}
+#at16ps {
+	height: 284px;
+	overflow-y: scroll;
+	padding: 5px;
+}
+a#at16pit {
+	background: url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/t00/tab00.gif) no-repeat;
+	color: #3366bb;
+	display: block;
+	height: 20px;
+	line-height: 19px;
+	margin-right: -17px;
+	overflow: hidden;
+	position: absolute;
+	right: 10px;
+	text-align: center;
+	top: 37px;
+	width: 16px;
+}
+#at16pi {
+	background: #5cbfeb !important;
+	border: 1px solid #ccc;
+	border-bottom: 0;
+	text-align: left;
+}
+#at16pi a {
+	color: #3366bb;
+	text-decoration: none;
+}
+#at16pi a:hover {
+	text-decoration: underline;
+}
+#at16pt {
+	background:#5cbfeb !important; 
+	height: 13px;
+	padding: 5px 10px;
+	position: relative;
+}
+#at16pt h4, #at16pt a {
+	font-weight: bold;
+}
+#at16pt h4 {
+	color: #FFF !important;
+	cursor: default;
+	display: block !important;
+	font-size: 18px !important;
+	font-weight: bold !important;
+	padding: 0 0 5px 0 !important;
+}
+#at16pt a {
+	color: #223344 !important;
+	position: absolute;
+	right: 10px;
+	text-decoration: none;
+	top: 5px;
+}
+#at16pc form {
+	margin: 0;
+}
+#at16pc form label {
+	display: block;
+	float: none;
+	font-size: 11px;
+	font-weight: bold;
+	padding-bottom: 4px;
+	text-align: left;
+}
+#at16pc form label span {
+	color: #4c4c4c;
+	display: inline;
+	font-weight: normal;
+}
+#at_email form .abif {
+	width: 272px !important;
+}
+#at_email textarea {
+	height: 55px !important;
+	word-wrap: break-word;
+}
+* html #at_email textarea {
+	height: 42px !important;
+}
+*:first-child+html #at_email textarea {
+	height: 42px !important;
+}
+#at_email form input,#at_email form textarea {
+	background: #fff;
+	border: 1px solid #bbb;
+	color: #333;
+	font-family: arial,helvetica,tahoma,verdana,sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	line-height: 1.4em;
+	margin: 0px;
+	margin-bottom: 8px;
+	padding: 3px;
+	width: 272px;
+}
+#at_email form .atfxmode2 {
+	width: 279px;
+}
+#at16pc form .at_ent {
+	color: #333!important;
+}
+#at16pc form textarea {
+	height: 48px;
+}
+#at16pc form input:focus,#at16pc form textarea:focus {
+	background: #fffff0;
+	color: #333;
+}
+#at16p .atbtn {
+	background: #fff;
+	border: 1px solid #b5b5b5;
+	color: #333;
+	cursor: pointer;
+	font-size: 11px !important;
+	font-weight: bold;
+	margin: 0 2px !important;
+	padding: 2px 4px;
+	width: 60px;
+}
+#at16p .atbtn:hover {
+	border-color: #444;
+	color: #06c;
+}
+#at_email #ateml {
+	color: #999;
+	font-size: 10px;
+	text-align: right;
+}
+#at16pc {
+	color: #4c4c4c;
+	font-size: 11px;
+	height: 323px;
+	text-align: left;
+}
+#at_email {
+	padding: 5px 10px;
+}
+#at16pc .tmsg {
+	padding: 4px 2px;
+	text-align: right;
+}
+#at16ps {
+}
+#at16psf {
+	background: #5cbfeb url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/t00/atf02.gif) no-repeat center center !important;
+	border-bottom: 1px solid #ccc;
+	height: 20px;
+	padding: 4px 10px;
+	position: relative;
+	text-align: center;
+}
+* html #at16psf input {
+	padding: 0;
+}
+#at16psf input {
+	background: #fff;
+	border: none;
+	color: #666;
+	font-family: arial,helvetica,tahoma,verdana,sans-serif;
+	font-size: 12px;
+	margin: 2px 0 0;
+	outline-style: none;
+	outline-width: 0px;
+	padding: 2px 0 0;
+	width: 220px;
+}
+#at16pcc .at_error {
+	background: #f26d7d;
+	border-bottom: 1px solid #df5666;
+	color: #fff;
+	padding: 5px 10px;
+}
+#at16pcc #at_success {
+	background: #d0fbda;
+	border-bottom: 1px solid #a8e7b7;
+	color: #4c4c4c;
+	padding: 5px 10px;
+}
+#at16pf {
+	background: #5cbfeb !important;
+	border-top: 1px solid #5cbfeb;
+	height: 12px;
+	position: relative;
+}
+#at16pf a {
+	
+	color: #223344 !important;
+	background: #5cbfeb !important;
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-size: 10px;
+	margin: 0;
+	outline: none;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	text-decoration: none;
+}
+#at16pf a:hover {
+	text-decoration: underline;
+}
+#at16pf a#at-whatsthis {
+	left: 10px;
+	width: 60px;
+}
+#at16pf a#at-privacy {
+	left: 90px;
+	width: 39px;
+}
+#at_complete {
+	color: #47731d;
+	font-size: 13pt;
+	height: 208px!important;
+	padding-top: 130px;
+	text-align: center;
+	width: 472px;
+}
+#at_s_msg {
+	margin-bottom: 10px;
+}
+#at16pf a#at-logo {
+	background: url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/t00/logo88.gif) no-repeat left;
+	padding-left: 10px;
+	right: 10px;
+}
+.at_baa {
+	display: block;
+	outline: none;
+	overflow: hidden;
+}
+#at15s #at16pf a {
+	top: 1px;
+}
+#at16pc form #at_send {
+	width: 80px !important;
+}
+#at_feed {
+	display: none;
+	height: 300px;
+	padding: 10px;
+}
+#at_feed span {
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+#at_feed div {
+	float: left!important;
+	height: 26px!important;
+	line-height: 26px!important;
+	margin-right: 68px;
+	width: 102px!important;
+}
+#at_feed div.at_litem {
+	margin-right: 0px;
+}
+#at_feed a {
+	height: 17px;
+	line-height: 17px;
+	margin: 10px 0px;
+}
+.fbtn {
+	background: url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/r05/feed00.gif) no-repeat;
+	cursor: pointer;
+	float: left;
+	text-indent: -9000px;
+	width: 102px;
+}
+.fbtn.bloglines {
+	background-position: 0 0;
+	height: 20px !important;
+	line-height: 20px !important;
+	margin-top: 8px !important;
+	width: 94px;
+}
+.fbtn.yahoo {
+	background-position: 0 -20px;
+}
+.fbtn.newsgator,.fbtn.newsgator-on {
+	background-position: 0 -37px;
+}
+.fbtn.technorati {
+	background-position: 0 -71px;
+}
+.fbtn.netvibes {
+	background-position: 0 -88px;
+}
+.fbtn.pageflakes {
+	background-position: 0 -141px;
+}
+.fbtn.feedreader {
+	background-position: 0 -172px;
+}
+.fbtn.newsisfree {
+	background-position: 0 -207px;
+}
+.fbtn.google {
+	background-position: 0 -54px;
+	width: 104px;
+}
+.fbtn.winlive {
+	background-position: 0 -105px;
+	height: 19px !important;
+	line-height: 19px;
+	margin-top: 9px !important;
+	width: 100px;
+}
+.fbtn.mymsn {
+	background-position: 0 -158px;
+	height: 14px !important;
+	line-height: 14px !important;
+	margin-top: 12px !important;
+	width: 71px;
+}
+.fbtn.aol {
+	background-position: 0 -189px;
+	height: 18px !important;
+	line-height: 18px !important;
+	width: 92px;
+}
+#at16pp {
+	color: #4c4c4c;
+	font-size: 11px;
+	position: absolute;
+	right: 12px;
+	top: 12px;
+}
+#at16pp label {
+	font-size: 11px !important;
+}
+#at16ppc {
+	padding: 10px;
+	width: 179px;
+}
+#at16pph {
+	padding: 5px 0 10px 0;
+}
+#at16pph select {
+	margin: 5px 0 8px 0;
+}
+#at16pp .atinp {
+	width: 156px;
+}
+html>body #at16pp .atinp {
+	width: 176px;
+}
+#at16ppb {
+	background: #fff;
+	border: 1px solid #ccc;
+	height: 274px;
+}
+#at16ep {
+	height: 16px;
+	padding: 8px;
+}
+#at16ep a {
+	display: block;
+	font-size: 12px;
+	height: 16px;
+	line-height: 16px;
+	margin-bottom: 8px;
+	padding-left: 22px;
+}
+#at16ep a.at_gmail {
+	background: url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/t00/gmail.gif) no-repeat left;
+}
+#at16ep a.at_hotmail {
+	background: url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/t00/hotmail.gif) no-repeat left;
+}
+#at16ep a.at_yahoo {
+	background: url(//web.archive.org/web/20120823182909im_/http://s7.addthis.com/static/t00/yahoo.gif) no-repeat left;
+}
+#at16ppf p#atsb {
+	font-size: 10px;
+	padding-top: 20px;
+}
+#at16abr {
+	margin-top: 10px;
+}
+#at16abr input {
+	margin: 0;
+	margin-right: 5px;
+	padding: 0;
+}
+#at16ppso {
+	display: none;
+	margin-top: 2px;
+	text-align: right;
+}
+#at16ppa {
+	background: #fff;
+	border: 1px solid #ccc;
+	height: 228px;
+	overflow: auto;
+	width: 178px;
+}
+#at16ppa a {
+	display: block;
+	font-size: 12px!important;
+	padding: 4px 8px;
+	white-space: nowrap;
+}
+#at16eatdr {
+	background: #fff;
+	border-top: 0px;
+	left: 21px;
+	max-height: 110px;
+	overflow: auto;
+	position: absolute;
+	top: 129px;
+	width: 277px;
+	z-index: 500;
+}
+* html #at_email #at16eatdr {
+	top: 115px!important;
+	width: 272px!important;
+}
+*:first-child+html #at_email #at16eatdr {
+	top: 115px!important;
+	width: 272px!important;
+}
+html>body #at_email form #at16eatdr.abif {
+	top: 137px;
+	width: 278px!important;
+}
+#at16eatdr a {
+	border-bottom: 1px dotted #eee;
+	display: block;
+	overflow: hidden;
+	padding: 4px 8px;
+}
+#at16eatdr a:hover, #at16eatdr a.hover {
+	background: #e0eefa;
+	color: #333;
+	text-decoration: none;
+}
+#at_promo {
+	display: none;
+	font-size: 12px;
+}
+#at_promo button {
+	background: #ee6a44;
+	border-bottom: 1px solid #d4522c;
+	border-left: 1px solid #ffa389;
+	border-right: 1px solid #d4522c;
+	border-top: 1px solid #ffa389;
+	color: #fff;
+}
+#at_promo .at-promo-content {
+	margin-top: 12px;
+}
+#at_promo .at-promo-btn {
+	padding-top: 10px;
+}
+#at_promo .at-promo-top {
+	background: url(/web/20120823182909im_/http://www.mcfc.co.uk/css/images/60x60_atn_logo.jpg) no-repeat 0 0;
+	padding: 10px 0 5px 70px;
+}
+#at_promo h4 {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0 0 4px;
+}
+#at_promo h4 sup {
+	color: #ee6a44;
+	font-size: 11px;
+}
+#at_promo span {
+	display: block;
+}
+#at_promo .at-promo-btm {
+	background: url(/web/20120823182909im_/http://www.mcfc.co.uk/images/60x60_at_firefox_toolbar.jpg) no-repeat 0 0;
+	padding: 6px 0 0 70px;
+}
+.atie6ifh {
+	display: block;
+	filter: alpha(opacity=0);
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+ul.sharing-list {
+    display:none;
+}
+
+/*
+     FILE ARCHIVED ON 18:29:09 Aug 23, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:25 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 112.911 (3)
+  captures_list: 145.445
+  load_resource: 197.503
+  exclusion.robots: 0.136
+  exclusion.robots.policy: 0.126
+  PetaboxLoader3.datanode: 143.464 (4)
+  esindex: 0.012
+  RedisCDXSource: 1.604
+  CDXLines.iter: 26.243 (3)
+  PetaboxLoader3.resolve: 30.147
+*/

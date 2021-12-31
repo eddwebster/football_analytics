@@ -1,0 +1,384 @@
+
+.scfForm input, 
+.scfForm select, 
+.scfForm textarea
+{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.scfForm textarea {
+    resize: none;
+}
+
+/* Form */
+.scfForm
+{
+    height: 100%;
+    width: 100%;
+    text-align: left;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    line-height: 1.4em;
+}
+
+/* Form Title*/
+.scfTitleBorder
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #000000;
+    font-family: Arial,Tahoma,Helvetica,sans-serif;
+    font-size: 1.8em;
+    line-height: 1.1em;
+    margin: 5px 0pt;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Form Introduction*/
+.scfIntroBorder
+{
+}
+
+/* Form Footer*/
+.scfFooterBorder
+{
+}
+
+/* Submit Button*/
+.scfSubmitButtonBorder
+{
+}
+
+.scfSubmitButton
+{
+}
+
+/* Error */
+.scfError
+{
+}
+
+/* Validation */
+.scfValidationSummary
+{
+    margin-left : 20px;
+}
+
+.scfValidatorRequired, .scfRequired
+{
+    margin: 0px 0px;
+    float: right;
+}
+
+.scfValidator
+{
+    margin: 0px;
+    display: block;
+    float: left;
+}
+
+/* Forms section*/
+.scfSectionBorderAsFieldSet
+{
+    padding: 0 px 15px 15px 15px;
+    border: 0px;
+    border-top: solid 2px;
+    margin: 0px 30px;
+}
+
+.scfSectionLegend
+{
+    padding: 7px 13px 8px 13px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.scfSectionBorder
+{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+.scfSectionContent
+{
+    width: 100%;
+    float: left;
+}
+
+.scfSectionUsefulInfo
+{
+    width: 100%; /*padding: 5px 0px 0px 20px;*/
+    vertical-align: top;
+    display: inline;
+}
+
+/* Form fields */
+/* Checkbox */
+
+.scfCheckboxBorder
+{
+    clear: left;
+    text-align: left;
+    display: block;
+    margin: 5px 0px;
+    width: 100%;
+}
+
+.scfCheckbox
+{
+    width: 90%;
+    display: block;
+    padding: 0px 0px;
+    margin: 0px;
+}
+
+.scfCheckboxUsefulInfo
+{
+    font-size: 0.9em;
+    display: block;
+    width: 90%;
+    padding: 0px 3px;
+}
+
+/* Label */
+.scfLabel
+{
+    width: 100%;
+    display: block;
+}
+
+.scfListBox, .scfDropList
+{
+    width: 100%;
+    margin: 0px;
+}
+
+.scfListBoxGeneralPanel, .scfDropListGeneralPanel
+{
+    width: 60%;
+    display: block;
+    float: left;
+}
+
+.scfMultipleLineTextBox
+{
+    width: 100%;
+    margin: 0px;
+}
+
+
+.scfDropListBorder, .scfEmailBorder, .scfMultipleLineTextBorder, .scfSingleLineTextBorder, .scfPasswordBorder, .scfNumberBorder, .scfDateBorder, .scfRadioButtonListBorder, .scfListBoxBorder, .scfCheckBoxListBorder, .scfFileUploadBorder, .scfDateSelectorBorder, .scfCreditCardBorder, .scfConfirmPasswordBorder, .scfCaptchaBorder, .scfTelephoneBorder, .scfSmsTelephoneBorder
+{
+    clear: left;
+    text-align: left;
+    display: block;
+    margin: 5px 0px;
+    width: 100%;
+    vertical-align: top;
+}
+
+.scfEmailTextBox, .scfSingleLineTextBox, .scfPasswordTextBox, .scfNumberTextBox, .scfDateTextBox, .scfRadioButtonList, .scfListBox, .scfCheckBoxList, .scfFileUpload, .scfCreditCardTextBox, .scfCreditCardType, .scfConfirmPasswordTextBox, .scfTelephoneTextBox, .scfSmsTelephoneTextBox
+{
+    width: 100%;
+    margin: 0px;
+}
+
+.scfDropListLabel, .scfEmailLabel, .scfMultipleLineTextLabel, .scfSingleLineTextLabel, .scfPasswordLabel, .scfNumberLabel, .scfDateLabel, .scfRadioButtonListLabel, .scfCheckBoxListLabel, .scfListBoxLabel, .scfFileUploadLabel, .scfDateSelectorLabel, .scfCreditCardLabel, .scfConfirmPasswordLabel, .scfCaptchaLabel, .scfTelephoneLabel, .scfSmsTelephoneLabel
+{
+    padding: 3px 0px;
+    width: 30%;
+    display: block;
+    float: left;
+}
+
+.scfEmailGeneralPanel, .scfMultipleLineGeneralPanel, .scfSingleLineGeneralPanel, .scfPasswordGeneralPanel, .scfNumberGeneralPanel, .scfDateGeneralPanel, .scfRadioButtonListGeneralPanel, .scfCheckBoxListGeneralPanel, .scfFileUploadGeneralPanel, .scfDateSelectorGeneralPanel, .scfCreditCardGeneralPanel, .scfConfirmPasswordGeneralPanel, .scfCaptchaGeneralPanel, .scfTelephoneGeneralPanel, .scfSmsTelephoneGeneralPanel
+{
+    /*margin: 0px 3px;*/
+    padding: 0px 2px 0px 0px;
+    width: 60%;
+    display: block;
+    float: left;
+}
+
+.scfDropListUsefulInfo, .scfEmailUsefulInfo, .scfMultipleLineTextUsefulInfo, .scfSingleLineTextUsefulInfo, .scfPasswordUsefulInfo, .scfNumberUsefulInfo, .scfDateUsefulInfo, .scfRadioButtonListUsefulInfo, .scfListBoxUsefulInfo, .scfCheckBoxListUsefulInfo, .scfFileUploadUsefulInfo, .scfDateSelectorUsefulInfo, .scfCreditCardTextUsefulInfo, .scfConfirmPasswordUsefulInfo, .scfCaptchaUsefulInfo, .scfTelephoneUsefulInfo, .scfSmsTelephoneUsefulInfo
+{
+    padding-left: 3px;
+    font-size: 0.9em;
+    width: 100%;
+    display: block;
+    float: left;
+}
+
+.scfDateSelectorDay, .scfDateSelectorMonth, .scfDateSelectorYear
+{
+    width: 33%;
+    margin: 0px;
+}
+
+.scfDateSelectorLabel
+{
+    margin-top: 7px;
+}
+
+.scfDateSelectorShortLabelDay, .scfDateSelectorShortLabelMonth, .scfDateSelectorShortLabelYear
+{
+    padding: 0px 0px 1px 0px;
+    margin: 0px;
+    display: block;
+    float: left;
+    font-size: xx-small;
+    line-height: 10px;
+    width: 33%;
+}
+
+ul
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.scfCreditCardType
+{
+    width: 100%;
+}
+
+.scfCaptchaLabelText
+{
+    width: 180px;
+}
+
+.scfCaptcha img
+{
+    border: 1px solid black;
+}
+
+.scfCaptchaTextBox
+{
+    width: 100%;
+}
+.scfCaptchStrongTextPanel
+{
+    width: 180px;
+    display: block;
+    float: left;
+}
+
+.scfCaptchaLimitGeneralPanel
+{
+    width: 215px;
+}
+
+.scfCaptchaLimitGeneralPanel .scfRequired, .scfCaptchaLimitGeneralPanel .scfValidatorRequired
+{
+    float: right;
+}
+
+.scfCaptchaGeneralPanel embed
+{
+    position: absolute;
+    z-index: -10;
+}
+
+.scfCaptchaGeneralPanel td br
+{
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+
+.scfCaptchaGeneralPanel td input
+{
+    margin-left: 20px;
+}
+
+.scfCaptchaGeneralPanel table
+{
+    margin-top: 30px;
+}
+
+.scfShortDate
+{
+    clear: left;
+    text-align: left;
+    display: block;
+    margin: 5px 0px;
+    vertical-align: top;
+    width: 60%;
+}
+
+.scfShortText
+{
+    margin: 0px;
+    float: right;
+    width: 40%;
+}
+
+.scfShortDate .scfDateSelectorLabel
+{
+    width: 50%;
+    margin-top: 0px;
+}
+
+.scfShortDate .scfDateSelectorGeneralPanel
+{
+    width: 46%;
+}
+
+.scfShortDate .scfDateSelectorDay, .scfShortDate .scfDateSelectorShortLabelDay, .scfShortDate .scfDateSelectorShortLabelMonth, .scfShortDate .scfDateSelectorShortLabelYear
+{
+    display: none;
+}
+
+.scfShortDate .scfDateSelectorShortLabelMonth, .scfShortDate .scfDateSelectorShortLabelYear, .scfShortDate .scfDateSelectorMonth, .scfShortDate .scfDateSelectorYear
+{
+    width: 49%;
+}
+
+.scfShortText .scfSingleLineTextLabel
+{
+    width: 15%;
+}
+
+.scfShortText .scfSingleLineGeneralPanel
+{
+    width: 60%;
+}
+
+.scfShortText .scfSingleLineTextUsefulInfo
+{
+}
+
+.scfShortText .scfSingleLineTextBox
+{
+    width: 100%;
+    margin: 0px;
+}
+
+.scWfmPassword
+{
+    behavior: url(/web/20120817172810im_/http://www.mcfc.co.uk/sitecore%20modules/shell/Web%20Forms%20for%20Marketers/themes/autocomplete.htc)
+}
+/*
+     FILE ARCHIVED ON 17:28:10 Aug 17, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:26 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.013
+  CDXLines.iter: 25.324 (3)
+  exclusion.robots: 0.175
+  PetaboxLoader3.resolve: 136.086 (3)
+  PetaboxLoader3.datanode: 153.927 (4)
+  captures_list: 434.073
+  LoadShardBlock: 395.267 (3)
+  exclusion.robots.policy: 0.161
+  RedisCDXSource: 9.195
+  load_resource: 85.88
+*/
