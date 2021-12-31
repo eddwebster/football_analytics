@@ -825,7 +825,8 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [Luke Griffin]'s pitch graphics - [slides](https://t.co/fpCa4YTIKx?amp=1). Drop him a donation of PayPal if you're using his work [[link](https://paypal.me/LukeGriffin?locale.x=en_GB)]. See original Tweet [[link](https://twitter.com/GriffinFtbl/status/1430904596843536395)]; and
 *    [Tony Bambrick](https://twitter.com/TonyBambrick)'s short video describing the process of creating an animated tactics board using PowerPoint. See original Tweet [[link](https://twitter.com/tonybambrick/status/1365416321551327234)].
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="libraries"> :classical_building: Libaries</h3>
 
