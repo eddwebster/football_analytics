@@ -1,0 +1,395 @@
+
+#theclub .article{
+	width: 510px;
+	float: left;
+}
+#theclub .aside{
+	width: 250px;
+	float: right;
+}
+#theclub #content-main h3.white-24{ margin: 4px 0 2px 0 !important;}
+#theclub .content-area h3.white-24{ margin: 3px 0 1px 0 !important;}
+#theclub h4.info-quote{ 
+	font-size: 24px;
+	line-height: 26px;
+	color: #5cbfeb; 
+}
+#theclub h4{ 
+	color: #FFF; 
+	margin-bottom: 6px;
+}
+#theclub h4.address	{ margin-bottom: 10px;}
+#theclub h4.contact	{ color: #5cbfeb;}
+#theclub .summary-box h4 { margin-bottom: 12px;}
+#theclub .summary-box h4.contact{ margin-top: 15px;}
+#theclub h5{ 
+	color: #FFF; 
+	margin-bottom: 2px;
+}
+#theclub h5.table-title{
+	float: left;
+	clear: both;
+	width: 100%; 
+	color: #5cbfeb;
+	padding-top: 17px;
+	margin-bottom: 5px;
+}
+#theclub h5.top			{ padding-top: 0;}
+#theclub .summary-box h5{ font-weight: bold; }
+#theclub p{ 
+	color: #FFF; 
+	font-size: 1.3em; 
+	line-height:1.2; 
+	margin-bottom: 20px;
+}
+#theclub p.contact-title{ color: #5cbfeb;}
+#theclub .article p 	{ margin-right: 15px;}
+#theclub .aside p 		{ margin-right: 15px;}
+#theclub .aside .promo {
+	margin: 0 0 20px 0;
+}
+#theclub .promo .promo-detail p {
+	color:#5cbfeb;
+	font-size:11px;
+	margin: 2px 0 0 0;
+}
+#theclub #content-main p.intro{ 
+	width: 510px;
+	margin: 15px 15px 20px 0;
+}
+#theclub #content-main .article p.intro{ 
+	margin:0 15px 20px 0px;
+}
+#theclub p.note{
+	color: #5cbfeb;
+	font-size: 11px;
+}
+#theclub p.pdf{
+	background: url(/web/20120717104018im_/http://www.mcfc.co.uk/css/images/icon-pdf.gif) top left no-repeat;
+	padding-left: 35px;
+}
+#theclub.info p.pdf{
+	float: right;
+	width: 230px;
+}
+a{ 
+	color: #5cbfeb; 
+	font-size: 1.3em;
+}
+a:hover{ color: #FFF;}
+#theclub p a	{ font-size: 1em!important;}
+#theclub a.btn	{ color: #FFF !important;}
+#theclub .article,
+#theclub .aside{ 
+	margin-top: 12px;
+}
+#theclub .summary-box-first{ margin-top: -1px;}
+#theclub .summary-box{
+	width: 770px;
+	margin: 12px 15px 0px 0px;
+	display: inline;
+}
+#theclub .summary-box-wide{ 
+	float: left; 
+	width: 505px; 
+}
+#theclub .summary-box img{ 
+	float: left; 
+	margin-right: 15px;
+}
+#theclub .summary-box-content	{ float: left;}
+#theclub .summary-box-content ul{
+	margin-bottom:15px;
+}
+#theclub .summary-box-content ul li{ 
+	color: #FFF;
+	background: url(/web/20120717104018im_/http://www.mcfc.co.uk/css/images/li-bullet-square.gif) 0px 9px no-repeat; 
+	padding-left: 15px; 
+	margin-bottom: 2px;
+}
+#theclub .summary-box-content p { margin-bottom: 15px !important;}
+#theclub .summary-box-content a { margin-top: 0;}
+#theclub .summary-box-aside{ 
+	float: left; 
+	width: 235px; 
+	margin-left: 15px;
+}
+#theclub.citc .content-main-gutter{
+	padding-bottom: 0px;
+	clear: both;
+}
+#theclub .content-main-list-wrapper,
+#theclub .content-main-sidebar{ 
+	margin-top: 10px;
+}
+#theclub ul.content-list { 
+	border-top:1px solid #3C4E5F;
+	margin-bottom: 0;
+	padding-bottom: 15px;
+}
+#theclub .content-main-links{
+	clear: both;
+	float: none;
+	width: 100%;
+	margin-bottom:15px; 
+	padding: 4px 0 3px 0;
+}
+#theclub ul.bullet-square { 
+	margin-bottom: 15px;
+}
+#theclub.info #content-main .article h3,
+#theclub.info #content-main .aside h3{ margin-bottom: 12px !important;}
+#theclub.info #content-main .article{
+	width: 510px;
+	float: right;
+}
+#theclub.info #content-main .aside{
+	width: 250px;
+	float: left;
+}
+#theclub.info .profile-detail{
+	float: left;
+	width: 240px;
+	display: inline;
+	margin-top: 15px;
+}
+#theclub.info .profile-detail h4{ margin-top: 5px; }
+#theclub.info .profile-detail h5{ margin-bottom: 20px;}
+#theclub.info .profile-list{
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 515px;
+	float: left;
+	display: inline;
+}
+#theclub.info .profile-list ul{
+	float: left;
+	width: 250px;
+}
+#theclub.info .profile-list ul li	{ margin-bottom: 10px;}
+#theclub.info .profile-list ul li h5{ padding-left: 5px;}
+#theclub.info .profile-list ul.last{
+	width: 240px;
+	float: right;
+}
+#theclub.info .profile-list ul li a{
+	display: block;
+	color: #5cbfeb;
+	padding-left: 5px;
+}
+#theclub.info .profile-list ul li a.active,
+#theclub.info .profile-list ul li a:hover{
+	background: #223344;
+}
+#theclub.history .article .summary-box,
+#theclub.info .content-area .article .summary-box { 
+	width: 510px; 
+	margin-left: 0;
+	margin-right: 0px;
+}
+#theclub.history .aside{
+	width: 245px;
+	float: right;
+}
+col.col-contact 	{ width:40%;}
+col.col-tel   		{ width:15%;}
+col.col-fax	  		{ width:15%;}
+col.col-email 		{ width:30%;}
+col.col-contact td  { padding-left: 10px;}
+table{ 
+	border: 0px;
+	clear: both;
+	float: left;
+	font-size: 1.3em;
+	overflow: hidden;
+	width: 100%;
+}
+table th{
+	color: #101a24;
+	background-color: #3a7895;
+	border-bottom: 1px solid #101a24; 
+	padding-left: 5px;
+}
+table td{
+	line-height: 1.2;
+	background-color: #223344;
+	border-right: 0;
+	border-bottom: 1px solid #101a24; 
+	color: #FFF;
+	vertical-align: middle;
+	padding: 3px 0 3px 5px;
+}
+#theclub table.entry-info td 	{ padding: 2px 0 2px 5px;}
+#theclub table.entry-info td.c1,
+#theclub table.entry-info td.c2{ 
+	width: 50%; 
+	color: #FFF;
+}
+#theclub table.entry-info td.c2{ 
+	text-align: right; 
+	padding-left: 0px;
+	padding-right: 5px;
+}
+#theclub table.entry-info td span{ font-size: 11px;}
+.fitness table{
+	float: none;
+	margin-bottom: 25px;
+}
+.fitness table td.full{ 
+	border-bottom: none;
+	padding: 5px 0 3px 5px;
+	font-weight: bold;
+}
+.fitness table td.c1{ 
+	width: 75%; 
+	padding: 0 0 5px 5px;
+}
+.fitness table td.c2{ 
+	width: 25%; 
+	padding: 0 0 5px 0; 
+	color: #5cbfeb; 
+	vertical-align: top;
+}
+.fitness table.membership{ 
+	width: 770px;
+	margin-bottom: 15px;
+}
+.fitness table.membership td.c1,
+.fitness table.membership td.c2,
+.fitness table.membership td.c3{ 
+	width: 33%; 
+	padding: 3px 0 3px 5px;
+}
+.fitness table.membership td.c2{ font-size: 11px;}
+.fitness table.membership td.c3{ 
+	text-align: right; 
+	padding-left: 0px;
+	padding-right: 5px;
+}
+.fitness .membership-download{
+	clear: both;
+	float: left;
+	width: 770px;
+	border-top:1px solid #3C4E5F; 
+	padding-bottom: 25px;
+}
+.fitness #plattlane-map {
+	width:500px;
+	height:450px;
+}
+#theclub .summary-box-content h4.contact{
+	float: left;
+	clear: both;
+	margin-top: 15px;
+}
+#theclub table.prices td.c1{ width: 75%; }
+#theclub table.prices td.c2{ width: 25%; }
+#theclub.visiting-stadium .article, 
+#theclub.visiting-stadium .aside{
+	margin-top: 10px;
+}
+#theclub.visiting-stadium .article{
+	width: 519px;
+	border-right: 1px solid #223344;
+}
+#theclub.visiting-stadium .aside{
+	padding-left: 10px;
+	width: 240px;
+}
+#theclub.visiting-stadium .aside .address{
+	margin-bottom: 20px;
+}
+.visiting-stadium .aside .underline,
+.visiting-stadium .aside .download-map,
+.visiting-stadium .aside .download-carparkingmap{
+	float: left;
+	width: 230px;
+	border-bottom:1px solid #223344;
+	padding:0 0 30px 0;
+	margin-bottom:15px;
+}
+.visiting-stadium .aside .download-carparkingmap{ 
+	border-bottom: none; 
+}
+#theclub.visiting-stadium .aside p{ 
+	margin-bottom: 15px;
+}
+#theclub.visiting-stadium .aside p.postcode{
+	color: #5cbfeb;
+	margin-bottom: 5px;
+}
+#theclub.visiting-stadium .aside input.postcode-input{ 
+	margin-bottom: 15px;
+}
+.visiting-stadium #stadium-map {
+	width:510px;
+	height:450px;
+}
+.visiting-stadium #finding-us {
+	width: 510px;
+	margin:20px 0 0 0;
+	min-height:200px;
+}
+.visiting-stadium .tabs {
+	border-bottom:2px solid #5cbfeb;
+}
+.visiting-stadium .panel {
+	padding:10px 0 !important;
+	color:#fff;
+}
+.visiting-stadium .panel select {
+	margin:5px 0 !important;
+}
+#map-directions table {
+	background-color:transparent !important;
+	border:0 !important;
+}
+#map-directions table tr td {
+	border-color:#223344 !important;
+	color:#fff;
+	font-size:11px !important;
+}
+#map-directions table tr td a {
+	color:#fff;
+}
+.ui-widget-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.ui-icon { display: block; text-indent: -99999px; overflow: hidden; background-repeat: no-repeat; }
+.ui-state-disabled { cursor: default !important; }
+.ui-helper-hidden { display: none; }
+.ui-helper-hidden-accessible { position: absolute; left: -99999999px; }
+.ui-helper-reset { margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none; }
+.ui-helper-clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.ui-helper-clearfix { display: inline-block; }
+* html .ui-helper-clearfix { height:1%; }
+.ui-helper-clearfix { display:block; }
+.ui-helper-zfix { width: 100%; height: 100%; top: 0; left: 0; position: absolute; opacity: 0; filter:Alpha(Opacity=0); }
+.ui-tabs .ui-tabs-nav { list-style: none; position: relative; padding:0; }
+.ui-tabs .ui-tabs-nav li { position: relative; float: left; border-bottom-width: 0 !important; margin: 0 5px 0 0; padding: 0; }
+.ui-tabs .ui-tabs-nav li a { float: left; text-decoration: none; padding: .5em 1em; background:#3a7895 url('/web/20120717104018im_/http://www.mcfc.co.uk/css/images/bg-tabs-inactive.gif') left bottom repeat-x; color:#fff; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected { border-bottom-width: 0; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a { background:#5cbfeb; color:#000; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a { cursor: text; }
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer; } 
+.ui-tabs .ui-tabs-panel { display: block; border-width: 0; background: none; }
+.ui-tabs .ui-tabs-hide { display: none !important; }
+/*
+     FILE ARCHIVED ON 10:40:18 Jul 17, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:46 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.222
+  load_resource: 81.345
+  captures_list: 221.061
+  CDXLines.iter: 23.573 (3)
+  RedisCDXSource: 8.993
+  exclusion.robots.policy: 0.206
+  PetaboxLoader3.datanode: 172.13 (4)
+  LoadShardBlock: 184.035 (3)
+  esindex: 0.013
+  PetaboxLoader3.resolve: 56.144 (2)
+*/

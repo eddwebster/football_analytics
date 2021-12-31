@@ -1,0 +1,147 @@
+#content-main-feature .post-video-play {
+	background:url("/web/20120817225344im_/http://www.mcfc.co.uk/images/opacity70.png") repeat scroll left top transparent;
+	height:450px;
+	left:0;
+	position:absolute;
+	top:0;
+	width:265px;
+	z-index: 200;
+}
+.barcontainer
+{
+    position:absolute;
+    top:260px;
+}
+a.sharer{
+    width:22px;
+    height:21px;
+    margin:auto 4px auto auto;
+    display:block;
+    float:right;
+}
+a.sharer.last{
+    margin:auto 8px auto auto;
+}
+a.facebook{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/low_face.gif) center left no-repeat;
+}
+a.tweet{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/low_tweet.gif) center left no-repeat;
+}
+a.mail{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/low_mail.gif) center left no-repeat;
+}
+a.google{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/low_google.gif) center left no-repeat;
+}
+*+ html a.google{display:none;}
+* html a.google{display:none;}
+.sharer.share{
+    width:39px !important;
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/low_share.gif) center left no-repeat;
+}
+a.facebook:hover{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/high_face.gif) center left no-repeat;
+}
+a.tweet:hover{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/high_tweet.gif) center left no-repeat;
+}
+a.mail:hover{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/high_mail.gif) center left no-repeat;
+}
+a.share:hover{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/high_share.gif) center left no-repeat;
+}
+.article-social-links a.facebook:hover, #mini-tab-add-this a.facebook:hover{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/dark_face.gif) center left no-repeat;
+}
+.article-social-links a.tweet:hover, #mini-tab-add-this a.tweet:hover{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/dark_tweet.gif) center left no-repeat;
+}
+.article-social-links a.mail:hover, #mini-tab-add-this a.mail:hover{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/dark_mail.gif) center left no-repeat;
+}
+.article-social-links a.share:hover, #mini-tab-add-this a.share:hover{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/dark_share.gif) center left no-repeat;
+}
+.article-social-links a.google:hover, #mini-tab-add-this a.google:hover{
+	background: url(/web/20120817225344im_/http://www.mcfc.co.uk/images/sharing/dark_google.gif) center left no-repeat;
+}
+#content-main-feature .likebar {
+    border-bottom:1px solid #766D69;
+    border-top:1px solid #766D69;
+    color:#FFFFFF;
+    font-size:1.8em;
+    margin:0 15px;
+    padding:8px 0 3px;
+    position:relative;
+}
+.sharebar
+{
+    margin-top:20px;
+    float:left;
+    width:140px;
+}
+.barcontainer p{
+	color: #FFF;
+	line-height: 16px;
+	margin-bottom: 20px;
+}
+#content-main-feature a#replay-video{
+    display:block;
+    height:32px;
+    width:182px;
+    margin-top:15px;
+    bottom:5px;
+    left:15px;
+    position:absolute;
+    overflow:hidden;
+    text-indent:-90000px;
+	background:url(/web/20120817225344im_/http://www.mcfc.co.uk/images/replay_video.png) 0 -38px no-repeat;
+}
+#like-on-highlights
+{
+    float:right;
+    width:200px;
+    position:absolute;
+    right:15px;
+    bottom:15px;
+}
+.hiddencontent
+{
+    display:none;
+    visibility:hidden;
+    height:0px;
+}
+.nobackground
+{
+    background:none !important;
+}
+.addthis_button_google_plusone #___plusone_0{
+		  filter: alpha(opacity=00);
+		  -moz-opacity: 0.0;
+		  -khtml-opacity: 0.0;
+		  opacity: 0.0;
+}
+
+/*
+     FILE ARCHIVED ON 22:53:44 Aug 17, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:45 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 82.028
+  exclusion.robots: 0.079
+  exclusion.robots.policy: 0.072
+  RedisCDXSource: 1.896
+  esindex: 0.009
+  LoadShardBlock: 58.829 (3)
+  PetaboxLoader3.datanode: 144.002 (4)
+  CDXLines.iter: 17.968 (3)
+  load_resource: 175.954
+  PetaboxLoader3.resolve: 51.458
+*/

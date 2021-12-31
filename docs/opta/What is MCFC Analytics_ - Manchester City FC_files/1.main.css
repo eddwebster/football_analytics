@@ -1,0 +1,3277 @@
+
+	
+html{color:#000;background:#FFF;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+}
+fieldset,
+img{border:0;}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
+li{list-style:none;}
+caption,th{text-align:left;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+q:before,q:after{content:'';}
+abbr,acronym {border:0;font-variant:normal;}
+sup {vertical-align:text-top;}
+sub {vertical-align:text-bottom;}
+input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}
+input,textarea,select{font-size:100%;}
+legend{color:#000;}
+table 	{ font-size:100%;}
+strong		{ font-weight: bold;}
+ 
+a 	{outline:none;}
+a:active {outline:none;}
+input[type=submit] {outline-width:0;}
+input { vertical-align:middle; }
+fieldset {
+  border: solid 0 transparent;
+}
+a img {
+	border: 0;
+}
+.clear{clear:both;}
+.hidden{display:none;}
+.floatleft{float:left;}
+.floatright{float:right;}
+	
+body{
+	font: 62.5%/1.5 Arial, Helvetica, sans-serif;
+}
+html>body{
+	font-size: 10px;
+}
+p{ font-size: 1.3em; line-height: 16px;}
+p.smallest{ font-size: 1.1em;}
+html{
+	background-color: #223344;
+}
+body{
+	color: #FFF;
+	background-position: center top;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+}
+body.basic{
+	background: #223344;
+}
+h1,h2,h3 { color:#FFF;}
+h3, h4, h5, h6 { color: #5cbfeb;}
+h1{ 
+	font-size: 1em; 
+	line-height: 0px; 
+} 
+h2.white-60,
+h2.white-60-opaque,
+h2.blue-60{
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 60px;
+	line-height: 52px;
+	color: #FFF;
+	padding: 17px 0px 7px 0px;
+	margin-bottom: 5px;
+}
+h2.white-60-opaque{
+	padding: 15px 0px 5px 15px !important;
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/opacity70.png) top left repeat;
+}
+h2.white-60-opaque.h2swf{
+	padding: 0px !important;
+}
+h2.blue-60{
+	color: #5cbfeb;
+}
+h3.lotto-numbers{
+	font-size: ;
+	color: #FFF;
+	font-weight: bold;
+	letter-spacing: 20px;
+}
+h2.white-40{
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 36px;
+	padding: 8px 0 14px 0;
+}
+h3.white-40{
+	color: #FFF;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 36px;
+	padding: 1px 0px 6px 6px;
+}
+h2.white-50-opaque,
+h2.white-50{
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 42px;
+	padding: 8px 0 14px 0;
+}
+h2.white-50-opaque{
+	padding: 15px 0px 5px 15px !important;
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/opacity70.png) top left repeat;
+}
+h2.white-50-opaque.h2swf{
+	padding: 0px !important;
+}
+h3.white-24{
+	color: #FFF;
+	font-size: 24px;
+	line-height: 26px;
+	font-weight: bold;
+	padding-bottom: 6px;
+}
+h3.white-24.h2swf{ padding-bottom: 5px;}
+.article blockquote p.quote{
+	color: #5cbfeb;
+	font-size: 24px;
+	line-height: 26px;
+	font-weight: bold;
+	padding: 5px 0 5px 0;
+}
+.article blockquote p.h2swf{
+	padding: 0;
+}
+.fans h4{
+	color: #FFF;
+	font-size: 18px; 
+	line-height: 20px;
+	padding-bottom: 5px;
+}
+h3.promo-title{
+	color: #FFF;
+	font-size: 24px;
+	line-height: 22px;
+	font-weight: bold;
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/opacity70.png) top left repeat;
+	padding: 5px 0px 5px 10px;
+	margin-bottom: 1px !important;
+}
+.offer h3.white-36,
+.offer h3.blue-36{
+	color: #FFF;
+	font-size: 36px;
+	line-height: 34px;
+	font-weight: bold;
+	padding-left: 10px;
+}
+.offer h3.blue-36{ color: #5cbfeb; }
+h3{ 
+	font-size: 2.4em; 
+	font-weight: normal;
+	line-height: 1.2em;
+}
+h3.underline{
+	border-bottom:2px solid #5cbfeb;
+	line-height: 1.4;
+	margin-bottom: 15px;
+	padding:0 0 2px 0; 
+}
+h3.results-returned { padding-bottom: 4px;}
+.tag h3{
+	font-size: 3.5em !important;
+	line-height: 0;
+}
+h3.heavy{ font-weight: bold;}
+h3.button-container .button-wrapper{ font-size: 1em;}
+h3.error{
+	border-bottom-color: #ffbe00 !important;
+	color: #ffbe00;
+}
+h4{
+	color: #3a7895;
+	font-size: 1.8em; 
+	font-weight: normal;
+	letter-spacing: -0.5px;
+	line-height: 1.11em;
+	
+}
+h4.underline{
+	border-bottom: 2px solid #5cbfeb;
+	padding:0 0 8px 0; 
+}
+h4.heavy	{ font-weight: bold;}
+h5 { 
+	font-size: 1.3em; 
+	font-weight: bold;
+	line-height: 1.1em;
+}
+h5 span{ font-weight: normal;}
+h5 a{
+	color: #FFF;
+	font-size: 1em;
+}
+h6 { 
+	font-size: 1.1em; 
+	font-weight: normal;
+	line-height: 1.4em; 
+}
+ul li{ 
+	font-size: 1.3em;
+}
+ul li a{ 
+	font-size: 1em; 
+	font-weight: normal;
+}
+ul li p{
+	font-size: 1em;
+}
+ul li h4{
+	font-size: 1.38em; 
+}
+ul li h5{
+	font-size: 1em;
+}
+ul li li{
+	font-size: 1em;
+}
+#nav {position:relative; z-index:200;}
+#nav ul li a { 
+	font-size: 1.076em;  
+	font-weight: bold;
+}
+#nav-secondary li a { font-weight: bold;}
+form label	{ font-size: 1.3em; line-height: 1.4em; color: #000;} 
+ul li label { font-size: 1em;}
+form select,
+form input	{ font-size: 1.3em; line-height: 1.4em; color: #000;} 
+form label a 	{ font-size: 1em;}	
+form label span { font-size: 0.85em;} 
+form em.required { 
+	font-size: 1.6em; 
+	line-height: 0;
+}
+.feedback{
+	font-weight: bold;
+	color: #b07b05;
+}
+form .feedback	{ 
+	
+	font-size: 1.1em; 
+	line-height: 1.1em;
+}
+.formArea {
+	clear: both;
+}
+	.formArea p {
+		color: #fff;
+	}
+.scfDropListBorder, 
+.scfEmailBorder, 
+.scfMultipleLineTextBorder, 
+.scfSingleLineTextBorder, 
+.scfPasswordBorder, 
+.scfNumberBorder, 
+.scfDateBorder, 
+.scfRadioButtonListBorder, 
+.scfRadioButtonList,
+.scfListBoxBorder, 
+.scfCheckBoxListBorder, 
+.scfFileUploadBorder, 
+.scfDateSelectorBorder, 
+.scfCreditCardBorder, 
+.scfConfirmPasswordBorder, 
+.scfCaptchaBorder {
+	margin: 0 0 5px !important;
+	zoom: 1;
+}
+.scfSectionContent:after, 
+.scfDropListBorder:after, 
+.scfEmailBorder:after, 
+.scfMultipleLineTextBorder:after, 
+.scfSingleLineTextBorder:after, 
+.scfPasswordBorder:after, 
+.scfNumberBorder:after, 
+.scfDateBorder:after, 
+.scfRadioButtonListBorder:after, 
+.scfRadioButtonList:after,
+.scfListBoxBorder:after, 
+.scfCheckBoxListBorder:after, 
+.scfFileUploadBorder:after, 
+.scfDateSelectorBorder:after, 
+.scfCreditCardBorder:after, 
+.scfConfirmPasswordBorder:after, 
+.scfCaptchaBorder:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+.scfForm, 
+.scfForm p, 
+.scfForm .scfTitleBorder, 
+.scfForm label,
+.scfForm legend {
+	color: #fff;
+	font-family: Arial,Helvetica, "Nimbus Sans L" , "Free Sans" ,Sans-Serif !important;
+}
+.scfForm p {
+		color: #fff; 
+		line-height: 16px;
+		margin-bottom: 20px;
+}
+.scfForm .scfValidatorRequired, 
+.scfForm .scfRequired {
+	color: #ff0000;
+	float: left;
+	font-size: 1.8em;
+	font-weight: bold;
+	padding: 0 0 0 3px;
+}
+.scfForm label {
+	margin-right: 2%;
+	width: 40%;
+}
+	
+	.scfEmailGeneralPanel, .scfMultipleLineGeneralPanel, .scfSingleLineGeneralPanel, .scfPasswordGeneralPanel, .scfNumberGeneralPanel, .scfDateGeneralPanel, .scfRadioButtonListGeneralPanel, .scfCheckBoxListGeneralPanel, .scfFileUploadGeneralPanel, .scfDateSelectorGeneralPanel, .scfCreditCardGeneralPanel, .scfConfirmPasswordGeneralPanel, .scfCaptchaGeneralPanel, .scfTelephoneGeneralPanel, .scfSmsTelephoneGeneralPanel,
+	.scfListBoxGeneralPanel, .scfDropListGeneralPanel
+	{
+		width: 55% !important;
+	}
+	.scfEmailGeneralPanel, .scfMultipleLineGeneralPanel, .scfSingleLineGeneralPanel, .scfPasswordGeneralPanel, .scfNumberGeneralPanel, .scfDateGeneralPanel, .scfRadioButtonListGeneralPanel, .scfCheckBoxListGeneralPanel, .scfFileUploadGeneralPanel, .scfDateSelectorGeneralPanel, .scfCreditCardGeneralPanel, .scfConfirmPasswordGeneralPanel, .scfCaptchaGeneralPanel, .scfTelephoneGeneralPanel, .scfSmsTelephoneGeneralPanel,
+	.scfListBoxGeneralPanel, .scfDropListGeneralPanel
+	{
+		width: 50% !important;
+		float:left;
+	}
+	
+	.scfRadioButtonList,
+	.scfCheckBoxList {
+		float:left;
+	}
+	.scfRadioButtonList li,
+	.scfCheckBoxList li
+	{
+		padding: 0 5px 10px 9px;
+	}
+		.scfCheckBoxList input,
+		.scfRadioButtonList input 
+		{
+			margin-right: 5px;
+		}
+		.scfCheckBoxList label,
+		.scfRadioButtonList label
+		{
+			color: #ffffff;
+		}
+	.scfRadioButtonList li {
+		display: inline;
+		float: left;
+		white-space: nowrap;
+	}
+	.halfAvailableWidth .scfRadioButtonList li {
+		display: block;
+		float: none;
+		white-space: normal;
+	}
+	.scfRadioButtonList li * {
+		white-space: nowrap;
+	}
+	.halfAvailableWidth .scfRadioButtonList li * {
+		white-space: normal;
+	}
+	.scfRadioButtonList li input {
+		vertical-align: -1px;
+	}
+	.scfRadioButtonList li label {
+		margin: 0;
+		
+	}
+	
+	.surveyTextBoxes{height:50px;}
+	
+	.surveyFields{position:relative;}
+	
+	.surveyFields div.scfSectionContent{
+		margin-top:40px;
+		position:relative;
+	}
+	
+	.surveyFields li
+	{
+		width:60px;
+		position:relative !important;
+		white-space: normal;
+	}
+	
+	
+	
+	.surveyFields li input
+	{
+		width:60px;
+		text-align:center;
+	}
+	
+	.surveyFields div.ignoreHide label{
+		display:table;
+		text-align:center;
+		top:-40px;
+		left:0px !important;
+		position:absolute;
+		width:60px;
+		display:inline-block;
+		white-space: normal;
+		font-size:85%;
+	}
+	
+	* html .surveyFields li,
+	* html .surveyFields li input,
+	* html .surveyFields div.ignoreHide label {
+		w\idth: 55px; 
+	  }
+	
+	.surveyFields li label{
+		display:none;
+	}
+	
+	.scfForm .scfDropListLabel, .scfForm .scfEmailLabel, .scfForm .scfMultipleLineTextLabel, .scfForm .scfSingleLineTextLabel, .scfForm .scfPasswordLabel, .scdForm .scfNumberLabel, .scfForm .scfDateLabel, .scfForm .scfRadioButtonListLabel, .scfForm .scfCheckBoxListLabel, .scfForm .scfListBoxLabel, .scfForm .scfFileUploadLabel, .scfForm .scfDateSelectorLabel, .scfForm .scfCreditCardLabel, .scfForm .scfConfirmPasswordLabel, .scfForm .scfCaptchaLabel, .scfForm .scfTelephoneLabel, .scfForm .scfSmsTelephoneLabel
+	{
+		font-size: 1.3em;
+		line-height: 1.4em;
+		margin-right: 2%;
+		width: 43%;
+		float:left;
+	}
+	
+	.scfListBox option { padding: 3px 5px; }
+.halfAvailableWidth {
+	zoom: 1;
+}
+span.scfRadioButtonListUsefulInfo {
+	color: #ffa800;
+	padding: 5px 0 5px;
+}
+.scfSectionBorderAsFieldSet {
+	border-top: none !important;
+	margin: 0 !important;
+}
+.scfSectionBorderAsFieldSet legend {
+	font-size: 2.3em;
+	font-style: italic;
+	font-weight: bold;
+	margin-left: 0 !important;
+	padding-left: 0 !important;
+	text-align: left;
+	display:none;
+}
+.scfSectionContent {
+	padding: 5px 0 20px;
+	zoom: 1;
+}
+.scfSectionContent div:after {
+	content: ".";
+	display: block;
+	visibility: hidden;
+	clear: both;
+	height: 0;
+	font-size: 0.1em;
+	line-height: 0;
+}
+.scfValidatorRequired {
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/images/sprites.png) no-repeat -100px -50px;
+	display: block;
+	height: 23px;
+	text-indent: -99999px;
+	width: 23px;
+}
+.scfMultipleLineTextUsefulInfo {
+	color: #b2bb1e !important;
+}
+.scfCheckBoxList li {
+	list-style: none !important;
+	margin-left: 0 !important;
+	width:100%;
+}
+.scfListBox, .scfDropList {
+	margin-left: 0 !important;
+	width:100%;
+}
+.scfValidationSummary ul {
+	padding-bottom: 20px;
+}
+	.scfValidationSummary ul li {
+		padding-bottom: 10px;
+	}
+	
+	.scfSubmitButtonBorder{
+	    clear:both;
+	}
+table th,
+table td,
+table td a{ font-size: 1em;} 
+a { 
+	font-size: 1.3em;
+	color: #5cbfeb; 
+	text-decoration: none; 
+	outline: none; 
+}
+a:hover{ 
+	color: #FFF;
+}
+p a{ 
+	font-size: 1em; 
+	font-weight: normal;
+}
+#nav a:link,
+#nav a:visited,
+#nav a:hover,
+#nav a:active{ color: #FFF;}
+#nav h2{
+	position:absolute;
+	text-indent:-9999px;	
+}
+#nav-secondary a:link,
+#nav-secondary a:visited, 
+#nav-secondary a:hover, 
+#nav-secondary a:active{ color: #FFF;}
+h3.button-container a.btn { 
+	
+	font-size: 0.514em; 
+	line-height: 1em;
+}
+.landing ul li a{ color: #5cbfeb;}
+.landing ul li a:hover{ color: #FFF;}
+.content-main-links a,
+.content-main-links ul li{ 
+	font-size: 1.8em; 
+	line-height: 1.4em;
+}
+.content-main-links ul li a { font-size: 1em ;}	
+a.arrow { font-size: 1.1em;}
+a.back,
+a.next,
+a.arrow,
+a.down{
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/arrow-left.gif) 0px 4px no-repeat;
+	padding:0 0 0 13px;
+	color: #5cbfeb;
+	display: inline-block;
+}
+a.arrow,
+a.next{
+	background-image: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/arrow-right.gif);
+}
+a.down{
+	background-image: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/arrow-down.gif);
+}
+a.back:hover,
+a.next:hover,
+a.arrow:hover{ 
+	color: #FFF;
+	background-position: 0px -37px;
+}
+.content-row-title a.next{
+	background-position: 0px 3px;
+}
+.content-row-title a.next:hover{ background-position: 0px -38px;}
+.content-main-links a.next,
+.content-main-links a.back{ background-position: 0px 7px; }
+.content-main-links a.down{ background-position: 0px 9px; }
+.content-main-links a.next:hover,
+.content-main-links a.back:hover{ background-position: 0px -34px;}
+.content-main-links a.down:hover{ background-position: 0px -34px;}
+.pagination a.next { 
+	background-position: 100% 7px; 
+	padding: 0 15px 0 0;
+}
+.pagination a.next:hover{ 
+	background-position: 100% -34px;
+}
+.pagination li{
+	color: #5cbfeb; 
+}
+.pagination li.active {
+	color: #FFF;
+}
+.pagination li a{ 
+	color: #5cbfeb !important; 
+	font-size:1em !important;
+}
+.pagination li a:hover,
+.pagination li.active a { color: #FFF !important;}
+a.close,
+a.open{
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/arrow-up.gif) 100% 6px no-repeat;
+	padding:0 15px 0 0;
+	color: #5cbfeb;
+	display: inline-block;
+}
+a.open{
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/arrow-down.gif) 100% 7px no-repeat;
+}
+a.open:hover,
+a.close:hover{ 
+	color: #FFF;
+	background-position: 100% -36px;
+}
+a.close:hover{ 
+	color: #FFF;
+	background-position: 100% -37px;
+}
+body p{
+	color: #333;
+}
+body td p {
+	color: #333;
+}
+p.note{
+	color: #5cbfeb;
+	font-size: 11px;
+}
+.underline{ border-bottom:2px solid #5cbfeb;}
+#container{
+	margin: 0px auto;
+	width: 960px;
+	position:relative;
+}
+.basic #container{
+	margin: 10px;
+	width: auto;
+	position:relative;
+}
+#content {
+	float: left;
+	overflow: hidden;
+	width: 960px;
+	padding-bottom: 45px;
+}
+#content-full{
+	background: #101a24 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/content-full-bottom-corners.gif) bottom left no-repeat;
+	float: left;
+	width: 960px;
+}
+#nav-secondary{
+	float: left;
+	width: 159px;
+}
+#content-wrapper{
+	float: right;
+	width: 800px;
+}
+#content-main,
+#content-main-promo,
+#content-supp,
+#content-poll{
+	float: left;
+	width: 800px;
+}
+#content-poll label,
+#content-poll p{
+	color:#ffffff;
+	font-size:1.2em;
+}
+#content-poll input{
+	margin-top:-5px;
+}
+#content-poll input.button,
+#content-poll .scOMSPollOptionItem{
+	margin-top:5px;
+}
+#content-poll div.scOMSPollOptionItem{
+	font-size:1em;
+}
+#module_poll{margin:15px;}
+#content-secondary{
+	float: right;
+	width: 159px;
+}
+#content-main,
+#content-main-promo,
+#content-supp,
+#content-poll {
+	clear: both;
+	background: #101a24 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/content-main-bottom-corners.gif) bottom left no-repeat;
+}
+.scOMSPollOptionItemResult 
+{
+	font-size: 1.2em !important;
+}
+#content-poll{
+	margin-top: 1px;
+	width:159px;
+}
+#content-supp,
+#content-wrapper .content-poll{
+	margin-top: 15px;
+	width:100%;
+}
+#content-main-promo{
+	margin-bottom: 0;
+}
+.content-area{
+	margin-top: 15px;
+	float: left;
+	width: 800px;
+	clear: both;
+	background: #101a24 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/content-main-bottom-corners.gif) bottom left no-repeat;
+}
+.content-area .content-area-gutter{
+	width:770px;
+	display: inline; 
+	float: left;
+	margin: 15px 0px 0px 15px;
+	padding-bottom: 0px;
+}
+#fixtures #content-main-feature { margin-bottom: 15px;}
+.category #content-main,.landing #content-main{ margin-top: 15px;}
+.content-full-gutter,
+.content-main-gutter{
+	display: inline; 
+	float: left;
+	margin: 15px 0px 0px 15px;
+	padding-bottom: 25px;
+}
+.content-full-gutter{ width: 930px; }
+.content-main-gutter{ width: 770px; }
+#content-main-promo .content-main-gutter{
+	padding-bottom: 15px;
+}
+.no-bottom-padding
+{
+	padding-bottom:0px;
+}
+.content-main-list-wrapper,
+.content-main-article,
+.page .article {
+	width: 510px;
+	float: left;
+}
+	.article p { 
+		color: #fff; 
+		line-height: 16px;
+		margin-bottom: 20px;
+	}
+.content-main-sidebar,
+.page .aside{
+	width: 250px;
+	float: right;
+}
+.content-main-sidebar .promo,
+.aside .promo { 
+	margin: 0 0 15px 0;
+}
+.content-main-links { 
+	overflow: hidden;
+	float: left;
+	padding: 4px 0 3px 0;
+	margin-bottom: -10px;
+	width: 100%;
+	position: relative;
+}
+*+ html .content-main-links {margin-bottom:0;}
+#content-secondary{
+	
+	background: #101a24 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/content-secondary-top-right.png) 0 0 no-repeat;
+	margin-left: 1px;
+	padding-bottom: 5px;
+	float: right;
+}
+#content-wrapper.no-feature{
+	border-top: 4px solid #5cbfeb;
+}
+#content-main-feature{
+	float: left;
+	width: 800px;
+	border-bottom: 4px solid #5cbfeb;
+	overflow: hidden;
+	position: relative;
+}
+#content-full-feature{
+	border-bottom: 0px;
+	width: 960px;
+	float: left;
+	margin-bottom: 15px;
+}
+#content-main-feature img{ 
+	float: left;
+}
+    .carousel-viewLink { 
+        background: url(/web/20120817225832im_/http://www.mcfc.co.uk/images/trans.gif);
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 800px;
+        height: 450px;
+        z-index: 100;
+        text-align: left;
+        text-indent: -9999px;
+    }
+    
+#content-main-feature .cmf-inner{
+	position: absolute;
+	top: 38px;
+	left: 0px;
+	width: 375px;
+}
+#content-main-feature .cmf-inner h2{
+	float: none;
+	margin: 0;
+	padding: 0;
+}
+        
+#content-main-feature .cmf-copy{
+	float:none;
+	width: 235px;
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/opacity70.png) top left repeat;
+	
+	padding: 2px 15px 15px 15px;
+	overflow: hidden;
+}
+#content-main-feature .cmf-copy p{ color: #FFF; line-height: 16px; margin-top:5px; margin-bottom: -3px;}
+#content-main-feature .cmf-copy p.description { line-height:18px; font-size:18px; padding-bottom:10px;}
+#content-main-feature .cmf-copy p.highlight	{ color: #ffa800; margin-top: 0; padding: 5px 0 0 0;}
+#content-main-feature .cmf-copy p.date 		{ color: #5cbfeb; margin-top: 0; padding: 0 0 0px 0;}
+#content-main-feature .cmf-copy p.category	{ color: #5cbfeb; margin-top: 5px; padding: 0; margin-bottom: 0;}
+#content-main-feature .cmf-copy p.rss-icon  { margin-top: 10px; }
+#content-main-feature .cmf-copy p.rss-icon a{ position: relative; left: 10px; top: 5px;}
+#content-main-feature .cmf-copy a.btn{ margin-top: 15px; margin-bottom: 0px;}
+#content-main-feature .cmf-copy a.cta{ 
+	display: block; 
+	margin-top: 15px; 
+	height: 26px;
+	overflow: hidden;
+	text-indent: -90000px;
+}
+#content-main-feature .cmf-copy a#play-video{
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/cta-play-video.png) 0 0 no-repeat;
+}
+#content-main-feature .cmf-copy a#play-playlist{
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/cta-play-playlist.png) 0 0 no-repeat;
+}
+#content-main-feature .cmf-copy a#see-gallery{
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/cta-see-gallery.png) 0 0 no-repeat;
+}
+                #content-main-feature:hover .cmf-copy a#play-playlist,
+             #content-main-feature:hover .cmf-copy a#play-video,
+            #content-main-feature:hover .cmf-copy a#see-gallery {
+	background-position: 0px -26px;
+}
+.post-video-play h2
+{
+    margin-top:15px !important;
+    margin-left:15px !important;
+}
+#content-main-feature a#replay-video:hover{
+	background-position: 0px 0px;
+}
+            #content-main-feature .cmf-copy em{ color: #ffa800;}
+#content-main-feature .cmf-footer { 
+	float: left; 
+	width: 100%; 
+	clear: both; 
+	border-top: 1px solid #63675b;
+	margin-top: 5px;
+}
+#content-main-feature .cmf-footer a.btn{ margin-top: 10px;}
+#content-main-feature .map-container { width:800px; height:450px; }
+#header{
+	clear: both;
+	width: 960px;
+}
+h1#header-logo{
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/logo-manchester-city.png) 0px 0px no-repeat;
+	float: left;
+	height: 74px;
+	margin-top: 10px;
+	overflow: hidden; 
+	text-indent: -9000px;
+	width: 411px;
+}
+h1#header-logo #logo-print{display: none;}
+h1#header-logo a{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+#header-search {
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/bg-header-search.png) bottom left no-repeat;
+	width:185px;
+	height:39px;
+	float:right;
+}
+#header-search form,
+#header-search fieldset, {
+	margin:0;
+	padding:0;
+}
+#header-search form {
+	float:left;
+}
+#header-search #searchterm {
+	border:0;
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/bg-header-search-field.png) 0 0 no-repeat scroll;
+	width:140px;
+	height:18px;
+	line-height:1em;
+	padding:3px 17px 0px 8px !important;
+	margin:9px 0 0 10px;
+}
+#header-search #searchterm.blur {
+	color:#999999;
+}
+#header-search #searchLabel,
+#header-search #searchSubmit {
+	display:none; 
+}
+#header-basket {
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/bg-header-basket.png) bottom left no-repeat;
+	width:158px;
+	height:39px;
+	float:right;
+}
+#header-account {
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/bg-header-account.png) bottom left no-repeat;
+	width:185px;
+	height:39px;
+	float:right;
+}
+    #header-account .header-tab {
+        position: relative;
+    }
+    #header-account .headerTabPoints {
+        position: absolute;
+        top: 14px;
+        right: 10px;
+    }
+    #header-account-name {
+        display: block;
+        height: 16px;
+        overflow: hidden;
+        position: absolute;
+        top: 0; left: 0px;
+        width: 168px;
+    }
+        #header-account-name span {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 500px;
+        }
+        #header-account .headerTabPoints span {
+	        position:absolute;
+	        display: block; 
+	        top: auto; 
+	        left: -10000px; 
+	        width: 1px; 
+	        height: 1px;             
+}
+#header .expand-on-hover:hover {
+	height:59px;
+}
+#header .header-tab {
+	margin:5px 0 0 9px;
+	font-size:13px;
+	line-height:14px;
+}
+#header .header-tab .blue-swap {
+	color:#5cbfeb;
+}
+#header .header-tab .show-on-hover {
+	display:none;
+}
+#header .header-tab a {
+	font-size:13px;
+	color:#5cbfeb;
+}
+#header .header-tab a:hover { 
+	color:#FFFFFF;
+}
+#header .header-tab .blue-arrow {
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/arrow-header.gif) center left no-repeat;
+	padding-left:12px;
+	margin-top:5px;
+}
+#header .expand-on-hover:hover .header-tab .blue-swap {
+	color:#FFFFFF;
+}
+#header .expand-on-hover:hover .header-tab .show-on-hover {
+	display:block;
+}
+#header-makehome {
+    font-weight: bold;
+    position: absolute;
+    top: 39px; right: 0;
+    width: 178px;
+}
+    #header-makehome a {
+        background: url(/web/20120817225832im_/http://www.mcfc.co.uk/images/button-arrow-right.gif) no-repeat 0 5px;
+        display: block;
+        color: #fff;
+        padding-left: 12px;
+    }
+#nav,
+#nav-secondary	{ font-weight: bold;}
+#nav-secondary ul li { font-weight: normal;}
+#nav{
+	clear: both;
+	float: left;
+	margin-top: 12px;
+	width: 960px;
+}
+ul#nav-main{
+	display: block;
+	float: left;
+	list-style-type: none;
+	width: 100%;
+	padding-bottom:12px;
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/nav-shadow.png) bottom left no-repeat;
+	position: relative;
+}
+	#nav-main li.nav-main-item{
+	float: left;
+		display: block;
+		padding: 0 19px 0 9px;
+		height:28px;
+}
+	#nav-main li.nav-main-item:nth-child(12),
+	#nav-main li.nav-main-item:nth-child(13){display:none;}
+	#nav-main li.nav-main-item.last{ margin-right: 0px;}
+		#nav-main li.nav-main-item a{
+			display: block;
+			padding-bottom: 2px;
+}
+		#nav-main li.nav-main-item:hover a{
+			border-bottom: 4px solid #2d455f;
+}
+		#nav-main li.active a,
+		#nav-main li.active:hover a{ 
+			border-bottom: 4px solid #5cbfeb;
+		}
+			#nav-main .nav-main-expandable {
+				position:absolute;
+				top:20px;
+				padding:20px 0 0 0;
+				left:0;
+				width:960px;
+				overflow-x:hidden;
+				z-index:10;
+				display:none;
+				opacity: 0.9;
+				-moz-opacity: 0.9;
+				filter:alpha(opacity=90);
+			}
+			.ie6 #nav-main .nav-main-expandable,
+			.ie7 #nav-main .nav-main-expandable,
+			.ie8 #nav-main .nav-main-expandable{
+				top:28px;
+				padding:0 0 0 0;
+			}
+			#nav-main li.nav-main-item:hover .nav-main-expandable{
+				display:block;
+			}
+			
+			#nav-main .nav-main-expandableTmobile{
+				visibility:visible;
+				display:none;
+				opacity: 0.95;
+				-moz-opacity: 0.95;
+				filter:alpha(opacity=95);
+			}
+			.ie6 #nav-main .nav-main-expandable,
+			.ie7 #nav-main .nav-main-expandable,
+			.ie8 #nav-main .nav-main-expandable{
+				filter:alpha(opacity=95);
+				visibility:visible;
+				display:none;
+			}
+			.ie6 #nav-main li.nav-main-item:hover .nav-main-expandable,
+			.ie7 #nav-main li.nav-main-item:hover .nav-main-expandable,
+			.ie8 #nav-main li.nav-main-item:hover .nav-main-expandable{
+				filter:alpha(opacity=95);
+				visibility:visible;
+	display: block;
+}
+			#nav-main .nav-main-item:nth-child(2) .nav-main-expandable{
+			}
+				#nav-main .nav-main-expandable ul{
+				}
+		#nav-main .nav-main-expandable ul.nav-main-columns{
+					background:#101c26;
+					display:block;
+					width:980px;
+					border-left: 4px solid #5cbfeb;
+					float:left;
+					position:relative;
+		}
+		.ie7 #nav-main .nav-main-expandable ul.nav-main-columns,
+		.ie6 #nav-main .nav-main-expandable ul.nav-main-columns{
+			padding-bottom:20px;
+		}
+			#nav-main .nav-main-expandable ul li{
+			}
+			#nav-main .nav-main-expandable ul li.nav-main-column{
+				width: 20.6%;
+				padding: 0 2%;
+				float:left;
+				border-left:1px solid #353f47;
+			}
+			#nav-main .nav-main-expandable ul li.nav-main-column:first-child{
+				border:none;
+			}
+				#nav-main .nav-main-expandable li.nav-main-column{
+					margin:24px 0;
+				}
+					#nav-main .nav-main-expandable ul li.nav-main-column ul li{
+							padding:5px 0;
+					}
+					#nav-main .nav-main-expandable ul li.nav-main-column ul li:first-child{
+						padding-top:0;
+					}
+						#nav-main .nav-main-expandable ul li.nav-main-column a{
+							border: none;
+							font-size:0.9em;
+							color:#fff;
+						}
+						#nav-main .nav-main-expandable ul li.nav-main-column a:hover{
+								color:#5cbfeb;
+						}
+						#nav-main .nav-main-expandable ul li.nav-main-column h3{
+								color: white;
+								font-size: 1.4em;
+								font-weight: bold;
+								padding: 0 0 10px 0;
+						}
+						.nav-main-column img{
+							height:auto;
+							max-width:100%;
+						}
+						.ie8 .nav-main-column img{
+							height:112px;
+						}
+					.nav-main-column .promo{
+						width:100%;
+					}
+					.nav-main-column .promo h3.promo-title{
+						top:10px;
+					}
+			
+		
+		
+ul#nav-secondary{
+	margin: -1px 1px 0 0;
+	width: 159px;
+}
+ul#nav-secondary li{
+	float: left;
+	margin-top: 1px;
+}
+ul#nav-secondary li,
+ul#nav-secondary li ul li{
+	display: inline; 
+}
+ul#nav-secondary li a,
+ul#nav-secondary ul li a{ 
+	display: block;
+	width: 149px;
+}
+ul#nav-secondary li a 	{ padding: 10px 0 0px 10px; min-height: 28px; height: auto !important; height: 28px;}
+ul#nav-secondary ul li	{ margin-top: 0px; width: 100%;}
+ul#nav-secondary ul li a{ padding: 1px 0 1px 10px; min-height: 0px; height: auto;}
+ul#nav-secondary li.active {
+	display: block; 
+	float: left; 
+	overflow: hidden;
+}
+ul#nav-secondary li.active ul {
+	display: block;
+	float: left;
+	background: #3a7895 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/corner-bottom-left-304153.png) bottom left no-repeat;
+	padding-top: 10px; 
+	padding-bottom: 10px;
+	width: 100%;
+}
+ul#nav-secondary li.active ul li.active{ 
+	display: inline; 
+	padding-bottom: 0;
+}
+.nav-paging{
+	text-align: center;
+	display: block;
+	width: 100%;
+	clear:both;
+	padding:8px 0;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+	.nav-paging li{
+		width: 9px;
+		height: 9px;
+		display: inline-block;
+		overflow: hidden;
+		margin: 0 3px;
+		zoom: 1;
+		*display:inline;
+		overflow: hidden;
+	}
+		.nav-paging li a{
+			display:block;
+			background: url(/web/20120817225832im_/http://www.mcfc.co.uk/images/gallery-sprites.png) no-repeat 0 -397px;
+			text-indent:-9999px;
+		}
+		.nav-paging li a:hover,
+		.nav-paging li.currentPage a{
+			background-position: 0 -406px;
+		}
+#content ul#nav-secondary li.active a,
+#content ul#nav-secondary li.active a:hover{ 
+	background-color: #5cbfeb;
+	color: #101a24;
+}
+#content ul#nav-secondary li.active ul li a{ 
+	background: #3a7895; 
+	color: #FFF;
+}
+#content ul#nav-secondary li.active ul li a:hover{ 
+	background: #3a7895; 
+	color: #101a24; 
+}
+#content ul#nav-secondary li.active ul li.active a,
+#content ul#nav-secondary li.active ul li.active a:hover { color: #101a24;}
+ul#nav-secondary li.first-top-left-corner a{ 
+	float: left;
+	background: #101a24 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/corner-top-left-3a5268.png) top left no-repeat; 
+	color: #FFF;
+}
+ul#nav-secondary li.first-top-left-corner.active a{
+	background: #5cbfeb url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/corner-top-left-3a5268.png) top left no-repeat;
+}
+ul#nav-secondary li.first-top-left-corner a:hover{ 
+	background: #3a7895 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/corner-top-left-3a5268.png) top left no-repeat; 
+	color: #FFF;
+}
+ul#nav-secondary li.top-left-corner a{ 
+	background: #101a24 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/corner-top-left-304153.png) top left no-repeat; 
+	color: #FFF;
+}
+ul#nav-secondary li.top-left-corner a:hover{ 
+	background: #3a7895 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/corner-top-left-304153.png) top left no-repeat; 
+	color: #FFF;
+}
+ul#nav-secondary li.bottom-left-corner a{ 
+	background: #101a24 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/corner-bottom-left-304153.png) bottom left no-repeat;
+	color: #FFF;
+}
+ul#nav-secondary li.bottom-left-corner.active a{ 
+	background: #101a24 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/corner-bottom-left-304153.png) bottom left no-repeat;
+	color: #FFF;
+}
+ul#nav-secondary li.bottom-left-corner a:hover{ 
+	background: #3a7895 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/corner-bottom-left-304153.png) bottom left no-repeat; 
+	color: #FFF;
+}
+ul#nav-secondary li a{ 
+	background-color: #101a24;
+	background-image: none; 
+	color: #FFF;
+}
+ul#nav-secondary li a:hover{ 
+	background-color: #3a7895;
+	background-image: none;  
+	color: #FFF;
+}
+.statictabs ul { border-bottom: 4px solid #5cbfeb; width: 100%; overflow: hidden;}
+.statictabs ul li { background: #3a7895; padding: 5px 10px 5px 10px; width: auto; float: left; margin-right: 4px 4px 0 0; font-size: 18px;}
+.statictabs ul li a {
+    color: #fff;
+}
+    .statictabs li.statictabs-selected { 
+        background: #5cbfeb;
+        color: #101A24;
+    }
+    .statictabs li.statictabs-selected a { color: #101A24; }
+    .statictabs li:hover {background: #ffa800;}
+.statictabsSml ul { border-bottom: 4px solid #5cbfeb; width: 100%; overflow: hidden;}
+.statictabsSml ul li { width: auto; float: left; display:block; margin-right: 3px; margin-bottom:-1px;}
+*+ html .statictabsSml ul li{margin-bottom:-2px;}
+.statictabsSml ul li a {
+    color: #fff; font-size: 0.95em;
+	padding: 2px 8px; 
+	background: #3a7895;
+	display:block;
+	margin-top:6px;
+}
+    .statictabsSml li.statictabs-selected { 
+        background: #5cbfeb;
+        color: #101A24;
+		margin-bottom:-1px;
+    }
+    .statictabsSml li.statictabs-selected a { 
+		color: #fff; font-size: 1.2em;
+		padding: 4px 10px 0px; 
+		background:#5cbfeb;
+		margin-top:0;
+	}
+    .statictabsSml ul li a:hover {background: #ffa800;}
+	.statictabsSml li.statictabs-selected a:hover {background: #5cbfeb;}
+	
+#footer{
+	float: left;
+	clear: both;
+	width: 960px;
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/footer-shadow.png) top left no-repeat;
+	padding:32px 0 10px 0;
+	
+}
+#footer ul#footer-sponsor{
+	margin:0px 0px 5px 0px;
+	display: block;
+	padding:0 0 4px 0;
+	text-align:center;
+	width:100%;
+}
+#footer ul{
+	width: auto;
+	clear:both;
+}
+#footer ul li{
+	display: block;
+	float: left;
+	width: auto;
+	padding-right: 10px;
+}
+#footer ul li a,
+#footer ul li a.btn,
+#footer ul li a.btn:hover{
+	font-size: 11px;
+	color: #4f8daa !important;
+}
+#footer ul li a:hover{
+	color: #FFF !important;
+}
+#footer ul li.language-select{
+	padding-right: 0;
+}
+#footer ul li.language-select a.btn{
+	width: auto;
+}
+#footer #footer-print{
+	display: none;
+}
+#footer ul#footer-sponsor li{
+	display: inline;
+	float: none;
+	margin-right:12px;
+}
+#footer ul#footer-sponsor li.last{
+	margin-right: 0;
+}
+#footer ul#copyright,
+#footer ul#footLinks{
+	float:right;
+}
+#footer ul#footLinks{
+    margin-top:24px;
+}
+#footer ul#copyright
+{
+	margin-top:10px;    
+}
+input.btn{ font-size: 1.3em;}
+a.btn { 
+	display: block; 
+	position: relative; 
+	padding: 5px; 
+	float: left; 
+	color: #fff; 
+	text-decoration: none; 
+	cursor: pointer;
+}
+a.btn * { 
+	font-style: normal; 
+	background-image: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-corners-14222f.png); 
+	background-repeat: no-repeat; 
+	display: block; 
+	position: relative; 
+}
+a.btn i { 
+	background-position: top left; 
+	position: absolute; 
+	margin-bottom: -5px; 
+	top: 0; 
+	left: 0; 
+	width: 5px; 
+	height: 5px; 
+}
+a.btn span { 
+	line-height: 14px; 
+	background-position: bottom left; 
+	left: -5px; 
+	padding: 0 0 7px 10px; 
+	margin-bottom: -5px; 
+}
+a.btn span i { 
+	background-position: bottom right; 
+	margin-bottom: 0; 
+	position: absolute; 
+	left: 100%; 
+	width: 10px; 
+	height: 100%; 
+	top: 0; 
+}
+a.btn span span { 
+	background-position: top right; 
+	position: absolute; 
+	right: -10px; 
+	margin-left: 10px; 
+	top: -5px; 
+	height: 0; 
+}
+a.btn:link,
+a.btn:visited { background:#408daf;}
+a.btn:hover	  { background:#196a8d;}
+a.btn:active  { background:#408daf;}
+a.btn[class] 		{ background:#408daf url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-blue-gradient.gif) top left repeat-x;}
+a.btn[class]:hover	{ background:#408daf url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-blue-gradient.gif) bottom left repeat-x;}
+a.btn.arw span { padding-right: 18px;}
+a.btn.arw span em{ 
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-arrow-right.gif) center right no-repeat !important; 
+	position: absolute; 
+	right: -3px; 
+	top:2px; 
+	height: 9px;
+	width: 8px; 
+	padding: 0 6px 0 0;
+}
+a.highlight.arw span em{ 
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-yellow-arrow-right.gif) center right no-repeat !important; 
+	position: absolute; 
+	right: -3px; 
+	top:3px; 
+	height: 9px; 
+	width: 8px; 
+	padding: 0 6px 0 0;
+}
+a.btn.arw-back span { padding-left: 24px;}
+a.btn.arw-back span em { 
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-arrow-left.gif) center right no-repeat !important; 
+	position: absolute; 
+	left: -12px; 
+	top:2px; 
+	height: 9px; 
+	width: 8px; 
+	padding: 0 6px 0 12px;
+}
+a.btn.print span { padding-right: 25px;}
+a.btn.print span em{ 
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-icon-print.gif) center right no-repeat; 
+	position: absolute; 
+	right: -3px; 
+	top: 0px; 
+	height: 13px; 
+	width: 20px; 
+	padding: 0 6px 0 0;
+}
+a.btn.calendar span { padding-right: 20px;}
+a.btn.calendar span em{ 
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-icon-calendar.gif) center right no-repeat; 
+	position: absolute; 
+	right: -3px; 
+	top: -2px; 
+	height: 17px; 
+	width: 16px; 
+	padding: 0 6px 0 0;
+}
+a.btn.disabled{ background: #999999;}
+a.highlight *  { background-image: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-yellow-corners-1c2732.png); background-repeat: no-repeat; }
+a.highlightBlueCorner *  { background-image: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-yellow-corners-1c2732-bluecorner.png); background-repeat: no-repeat; }
+a.highlight:link,
+a.highlight:visited {  background:#c38000;}
+a.highlight:hover	{  background:#dd9200 ;color: #FFF;}
+a.highlight:active  {  background:#c38000;}
+a.highlight[class] { background:#c38000 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-highlight-gradient.gif) top left repeat-x;}
+a.highlight[class]:hover { background:#dd9200 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-highlight-gradient.gif) bottom left repeat-x;}
+#footer a.btn[class] * { 
+	background-image: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-blue-corners-223344.png); 
+	background-repeat: no-repeat; 
+}
+#footer a.btn,
+#footer a.btn:hover	  { background:#1c252e;}
+#footer a.btn.arw span{ padding-right: 18px;}
+#footer a.btn.arw span em	{ 
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-arrow-right-footer.gif) center right no-repeat !important; 
+	position: absolute; 
+	right: -3px; 
+	top:2px; 
+	height: 9px; 
+	width: 8px; 
+	padding: 0 6px 0 0;
+}
+#footer a.btn strong.arabic{
+	background: none;
+	position: relative;
+	left: 0;
+	top: -2px;
+	float: left;
+	font-weight: normal;
+	padding: 0 10px 0 0;
+	margin: 0;
+	display: inline;
+	font-family:Tahoma,Arial,sans-serif;
+}
+a.download span { padding-right: 20px;}
+a.download span em{ 
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-icon-download.gif) center right no-repeat; 
+	position: absolute; 
+	right: 0px; 
+	top: -1px; 
+	height: 17px; 
+	width: 16px; 
+	padding: 0 6px 0 0;
+}
+a.highlight.download span { padding-right: 20px;}
+a.highlight.download span em{ 
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-icon-download-highlight.gif) center right no-repeat; 
+	position: absolute; 
+	right: 0px; 
+	top: -1px; 
+	height: 17px; 
+	width: 16px; 
+	padding: 0 6px 0 0;
+}
+.sign-in .btn[class] *,
+.field-indent .btn[class] * { background-image: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-corners-e8f2f6.png); background-repeat: no-repeat; }
+.search-bar .btn[class] * 	 { background-image: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-corners-6ac6ee.png); background-repeat: no-repeat; }
+#shop.confirmation .order-details .btn[class] * { background-image: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-corners-fff.png); background-repeat: no-repeat; }
+.search-bar a.btn span { padding-bottom: 5px;}
+h3.button-container{
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+h3.button-container .btn,
+h3.button-container a.next { 
+	position: absolute; 
+	right: 0px; 
+	top: 0px;
+}
+h3.button-container a.next{
+	font-size: 13px;
+	font-weight: bold;
+}
+h3.button-container span.h3-inner{ 
+	float: left;
+	display: block;
+	width: 70%;
+}
+h3.button-container .button-wrapper{
+	color: #FFF;
+	float: right;
+	width: 25%;
+	padding-bottom: 0px;
+	height: 25px;
+}
+div.button-container{
+	width: 770px;
+	float: left;
+	position: relative;
+	overflow: hidden;
+	border-bottom:3px solid #5cbfeb;
+	line-height:1.4;
+	margin-bottom:15px;
+	padding: 0;
+}
+div.button-container .btn{ 
+	position: relative; 
+	float: right;
+	margin-bottom: 10px;
+}
+#content-full table  { width: 770px;}
+.content-main-sidebar .promo table{
+	width: 250px !important;
+}
+.league-table table{ 
+	border: 0px;
+	clear: both;
+	float: left;
+	font-size: 1.3em;
+	overflow: hidden;
+	width: 100%;
+}
+.league-table table td{
+	background-color: #223344;
+	border-right: 0;
+	border-bottom: 1px solid #101a24; 
+	color: #FFF;
+	vertical-align: middle;
+	padding: 3px 0 3px 0;
+}
+.league-table td a{
+	color: #FFF;
+}
+.league-table table tr.mcfc td{
+	background-color: #ffa800;
+	color: #101a24 !important;
+}
+.title-bar{
+	background: #3a7895 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/bg-title-bar-gradient.jpg) bottom left repeat-x;
+	clear: both;
+	float: left;
+	overflow: hidden;
+	padding: 12px 0 10px 0;
+	width: 100%;
+	position: relative;
+}
+.title-bar h3{
+	margin-left: 9px;
+	color: #FFF;
+	font-weight: bold;
+	padding: 0;
+}
+.title-bar p.updated{
+	position: absolute;
+	bottom: 11px;
+	right: 15px;
+	color: #FFF;
+}
+.search-bar{
+	float: left;
+	width: 100%;
+	overflow: hidden;
+	background: #5cbfeb;
+	padding:7px 0 5px 0;
+}
+.search-bar fieldset{
+	margin-left: 15px;
+}
+.search-bar input{ 
+	height: 1.4em;
+}
+.search-bar input,
+.search-bar select{
+	width: auto;
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.search-bar p{
+	display: block;
+	font-size: 1.3em;
+	font-weight: bold;
+	float: left;
+	padding-top: 1px;
+}
+ul.content-list{
+	border-top: 1px solid #3c4e5f;
+	clear: both;
+	float: left;
+	margin-bottom:15px;
+	width: 100%;
+}
+ul.content-list li{
+	border-bottom: 1px solid #3c4e5f;
+	float: left;
+	overflow: hidden;
+	width: 100%;
+}
+ul.content-list li img{ float: left;}
+ul.content-list li .cl-main{
+	float: left;
+	min-height: 82px;
+	width: 293px;
+	padding-left: 56px;
+	overflow: hidden;
+}
+ul.content-list li .cl-main img{
+	position: relative;
+	left: -56px;
+	margin: 10px -46px 0 10px;
+	padding: 0;
+}
+ul.content-list li.shop a{
+	padding-bottom: 10px;
+}
+ul.content-list li.shop img{
+	float: left;
+	margin: 10px 10px 0px 10px;
+}
+ul.content-list li.shop .cl-main img{
+	position: relative;
+	left: -56px;
+	margin: 10px -46px 0 10px;
+	padding: 0;
+}
+ul.content-tabs{
+	display:block;
+	background:#3a7895;
+	border-bottom:4px solid #5bafdf;
+}
+	ul.content-tabs li{
+		width:50%;
+		display: block;
+		float:left;
+	}
+		ul.content-tabs li a,
+		ul.content-tabs li span{
+			display:block;
+			text-align:center;
+			padding:5px 0 4px 0;
+			color:#fff;
+			font-weight:bold;
+		}
+		ul.content-tabs li a:hover,
+		ul.content-tabs li.simpleTabs-on a,
+		ul.content-tabs li span{
+			background:#5bafdf;
+		}
+ul.content-list li.podcast .cl-main{ width: 260px;}
+ul.content-list li a{
+	background: #101a24;
+	display: block;
+	float: left;
+	height: 100%;
+	width: 100%;
+	-webkit-transition: all 0.3s ease-out;  
+	 -moz-transition: all 0.3s ease-out;  
+	  -ms-transition: all 0.3s ease-out;  
+	   -o-transition: all 0.3s ease-out;  
+		  transition: all 0.3s ease-out; 
+}
+ul.content-list li a:hover{ background: #2a3949; }
+ul.content-list li a span{ display: block;}
+ul.content-list li a span.rating{ 
+	display: inline; 
+	margin: 0; 
+	position: relative; 
+	left: 10px; 
+	top: 0; 
+}
+ul.content-list li a span.rating img{ 
+	position: static; 
+	float: none; 
+	margin: 0; 
+}
+ul.content-list li .cl-main .span-h5{
+	color: #FFF;
+	font-size: 1em;
+	line-height: 1.1;
+	font-weight: bold;
+	padding-top: 10px;
+}
+ul.content-list li .cl-main .price{
+	padding-top: 2px;
+}
+ul.content-list li .cl-main span{
+	color: #5cbfeb;
+	font-size: 0.85em; 
+}
+ul.content-list li .cl-main .span-h5 span.pre-sale{
+	color: #FFF;
+	font-size: 1em; 
+	text-decoration: line-through;
+	display: inline;
+	font-weight: normal;
+}
+.product-price span.pre-sale, span.pre-sale {
+	text-decoration: line-through;
+	display: inline;
+	font-weight: normal;
+}
+span.pre-sale 
+{
+	float:left;
+	padding-right:4px;
+}
+ul.content-list .cl-icon{
+	text-indent: -1000px;
+}
+ul.content-list .article .cl-main{
+	
+}
+ul.content-list .podcast img.icon-download{
+	float: right;
+	margin-right: 15px;
+	margin-top: 15px;
+}
+ul.link-list{
+	margin-bottom: 20px;
+}
+.content-main-links .display-filter,
+.content-main-links .side-link{
+	float: left;
+	width: 55%;
+	padding-bottom: 2px;
+}
+.content-main-links .display-filter label{
+	font-size: 1.8em;
+	color: #FFF;
+	margin-right: 13px;
+	float: left;
+}
+.content-main-links .display-filter select{
+	float: left;
+	font-size: 1.3em;
+	margin-top: 2px;
+}
+.content-main-links .display-filter input.ifjs-hide{
+	margin-top: 2px;
+	float: left;
+	margin-left: 5px;
+	display: inline;
+}
+.content-main-links .pagination{ 
+	float: left;
+	width: auto;
+}
+#shop .pagination{
+	float: right;
+}
+ul.pagination li { width: auto; float: left; padding: 0px 5px 2px 5px;} 
+ul.pagination li.back-divider { border-right: 1px dotted #434d56; padding-right: 10px; margin-right: 5px;}
+ul.pagination li.next-divider { border-left: 1px dotted #434d56; padding-left: 10px; margin-left: 5px;}
+ol{
+	margin-bottom: 20px;
+}
+ol li{
+	list-style-type: decimal;
+	list-style-position: inside;
+	color: #5cbfeb;
+	font-size: 1.1em;
+}
+ul.bullet li{ 
+	color: #333;
+	background: #fff url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/li-bullet.gif) center left no-repeat; 
+	padding-left: 15px; 
+	margin-bottom: 2px;
+}
+ul.bullet-icon li{
+	padding-left: 44px;
+	min-height: 35px;
+	margin-bottom: 10px;
+}
+ul.bullet-icon li a{
+	color: #5cbfeb;
+}
+ul.bullet-icon li a:hover{
+	color: #FFF;
+}
+ul.bullet-square li{ 
+	color: #FFF;
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/li-bullet-square.gif) 0px 9px no-repeat; 
+	padding-left: 15px; 
+	margin-bottom: 2px;
+}
+ul.bullet-arrow li{
+	background: none;
+}
+ul.bullet-arrow li a{
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/arrow-right.gif) 0px 3px  no-repeat;
+	padding-left: 14px;
+}
+ul.bullet-arrow a:hover{
+	background-position: 0px -38px;
+}
+.promo-row{
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+}
+.promo-row.last{
+	margin-bottom: 0px;
+}
+.promo { 
+	width: 250px; 
+	float: left; 
+	margin-right: 10px; 
+	display: inline; 
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/promo-bottom-corners.gif) bottom left no-repeat;
+	padding-bottom: 5px;
+	position: relative;
+}
+.promo-row .promo-last { margin-right: 0px !important;}
+.promo img{ float: left;}
+.htmlPromo .promo-body {
+    background: #234;
+}
+.htmlPromo .promo-body iframe {
+    border: none;
+    width: 100%;
+    display: block;
+}
+.promo .promo-body a{
+	display: block;
+	overflow: hidden;
+	height: 141px;
+	width: 250px;
+}
+.rss .promo-body a,
+.promo .promo-body a,
+.promo-footer a,
+.promo-detail a{ 
+	position: static;
+	border: none;
+	height: auto;
+}
+.promo .promo-footer,
+.promo .promo-detail{
+	border-top: 3px solid #5cbfeb;
+	width: 100%;
+	clear: both;
+	background:#223344;
+	padding: 5px 0 3px 0;
+	overflow: hidden;
+}
+.promo .promo-detail{
+	min-height:  50px;
+	height: auto !important;
+	height: 50px;
+}
+.promo .promo-footer a{
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/homepage-footer-arrow.gif) no-repeat scroll 0px 7px;
+	color:#5cbfeb !important;
+	display:inline-block;
+	font-weight:bold;
+	margin-left:10px;
+	padding:2px 0 0 13px;
+}
+.promo .promo-footer a:hover{
+	color: #FFF !important;
+	background-position: 0px -34px;
+}
+.promo .promo-footer input{
+	margin:0 0 2px 8px;
+    padding: 3px;
+	float:left;
+	width:130px;
+}
+.promo .promo-footer a.btn{
+	float:right;
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/button-blue-gradient.gif) repeat-x scroll left top #408DAF ;
+    color: #fff !important;
+    display: block;
+    font-weight: normal;
+    margin-right:8px;    
+	padding: 5px;
+	position:relative;
+}
+.promo .promo-detail a{ font-weight: bold; line-height: 15px; color: #FFF;}
+.promo .promo-detail a:hover{ color: #5cbfeb;}
+.promo .promo-detail p{ font-size: 11px; color: #5cbfeb;}
+.promo .promo-detail .promo-detail-copy{ float: left; width: 180px; padding-left: 10px;}
+.promo .promo-detail img.icon{ 
+	float:right; 
+	margin-right: 10px; 
+	margin-top: -5px; 
+	position: relative; 
+	top: 10px;
+}
+.rss .promo-body{
+	width: 250px;
+	float: left;
+	background:#223344;
+}
+.rss .promo-body a{
+	float: left;
+	width:  auto !important;
+}
+.rss .promo-body img{
+	float: left;
+	padding: 7px 0 5px 7px;
+}
+.rss .promo-body p{
+	color: #FFF;
+	float: left;
+	padding: 12px 0 0 10px;
+}
+.rss .promo-body p a{
+	display: inline;
+}
+.promo .promo-header	{ width: 250px; overflow: hidden; background: #3a7895 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/promo-header.gif) bottom left repeat-x;}
+.promo .promo-header h3	{ float: left; width: 55%; font-size: 13px; font-weight: bold; color: #FFF; padding: 8px 0 6px 10px;}
+.promo .promo-header h3.location{ float: right; width: auto; padding: 0; padding: 8px 10px 6px 0px; color: #101a24;}
+.promo h3.promo-title{
+	position: absolute;
+	top: 34px;
+	left: 0px;
+	width: 160px;
+}
+div.feature-detail {
+	width:200px;
+}
+.league-table .promo-header h3{ width: 80%;}
+.league-table .promo-footer { position: relative;}
+.league-table .promo-footer img,
+#content-modules .content-modules-column .module .module-footer img{
+	position: absolute;
+	right: 5px;
+	top: 6px;
+}
+.promo-footer-error{
+	color:#ffbe00 !important;
+	display:none;
+	bottom:34px;
+	left:0;
+	background:#48849F;
+	position:absolute;
+	width:234px;
+	padding:8px;
+	font-weight:bold;
+}
+.league-table table td,
+.league-table table th{ font-weight: bold; color: #FFF;}
+.league-table table th{ background: #223344; border-bottom: 1px solid #101a24; padding: 10px 0 5px 0;}
+.league-table table tr.last td{ border-bottom: 1px solid #223344;}
+.league-table table .c1{ padding-left: 10px; text-align: center;}
+.league-table table .c2{ padding-left: 10px; text-align: left;}
+.league-table table .c3,
+.league-table table .c4,
+.league-table table .c5{ text-align: center;}
+.shop .promo-body,
+.emailCapture .promo-body,
+.player .promo-body { 
+	position: relative;
+	width: 250px;
+}
+.emailCapture{
+	padding-bottom:0;
+}
+.shop .promo-body-detail,
+.emailCapture .promo-body-detail,
+.offer .promo-body-detail{
+	position: absolute;
+	top: 20px;
+	left: 0px;
+	width: 110px;
+}
+.promo .promo-body-detail h3{
+	position: static;
+}
+.offer .promo-body-detail h3.h2swf{
+	margin-bottom: -3px !important;
+}
+.promo .promo-body-detail span{
+	position: relative;
+	top: -4px;
+	font-size: 18px;
+	letter-spacing: 1px;
+	color: #5cbfeb;
+	background-image:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/opacity70.png);
+	background-repeat: repeat;
+	background-position: top left;
+	padding: 0px 5px 6px 5px;
+}
+.player .promo-body-detail{
+	position: absolute;
+	top: 34px;
+	left: 0px;
+	width: 110px;
+}
+.player .promo-body-detail span{
+	display: block;
+	top: -1px; 
+	font-size: 18px;
+	color: #101a24;
+	background:#ffa800;
+	margin: 0 0 -10px 0;
+	padding: 0px 5px 0px 8px;
+}
+.offer .promo-body{ position: relative;}
+.offer .promo-body-detail{ width: 250px;}
+.promo .team-logo{
+	width: 250px;
+	height: 141px;
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/promo-bg-grass.jpg) top left no-repeat;
+}
+.promo .team-logo img{
+	margin: 10px 0 0 64px;
+}
+.summary-box{
+	width: 505px; 
+	float: left;
+	display: inline;
+	overflow: hidden; 
+	border-bottom:1px solid #3C4E5F;
+	padding-bottom: 15px;
+	margin: 12px 15px 0px 15px;
+}
+.summary-box-first{
+	margin-top: 22px;
+}
+.summary-box-last{
+	border-bottom: none; 
+	padding-bottom: 25px;
+}
+.summary-box h4 {
+	color:#FFFFFF;
+	margin:0 0 12px 0px;
+	width:100%;
+}
+.summary-box h5{
+	font-weight: normal;
+}
+.summary-box img{ float: left; }
+.summary-box .summary-box-content{
+	width: 305px;
+	float: right;
+}
+.summary-box .summary-box-content p{
+	color: #FFF;
+	line-height: 16px;
+}
+.summary-box .summary-box-content a{
+	margin-top: 5px;
+}
+.summary-box .summary-box-content a.download{
+	margin-top: 47px;
+}
+.page h3.white-24{
+	margin-bottom: 13px !important;
+}
+.page h4{
+	color: #FFF;
+	margin-bottom: 15px;
+}
+.page#terms h4{
+	margin-bottom: 5px;
+}
+.page h4.contact{
+	color: #5cbfeb;
+	padding-bottom: 0;
+}
+.page h4.contact span{
+	font-size: 13px;
+}
+.page h5{
+	color: #FFF;
+	margin-bottom: 2px;
+}
+.page h5.table-title,
+.page .player-stats h5{
+	color: #5cbfeb;
+	margin-bottom: 5px;
+}
+.page p{
+	color: #FFF;
+	margin-bottom: 15px;
+}
+.page p.contact-email{
+	margin-top: -15px;
+}
+.page a{
+	color: #5cbfeb;
+}
+.page a:hover{
+	color: #FFF;
+}
+.page a.btn{
+	color: #FFF;
+}
+.page table{ 
+	border: 0px;
+	clear: both;
+	float: left;
+	font-size: 1.3em;
+	overflow: hidden;
+	width: 100%;
+}
+.page table td{
+	line-height: 1.2;
+	background-color: #223344;
+	border-right: 0;
+	border-bottom: 1px solid #101a24; 
+	color: #FFF;
+	vertical-align: middle;
+	padding: 3px 0 3px 5px;
+}
+.page table{ 
+	width: 770px;
+	margin-bottom: 15px;
+}
+.page table td{
+	vertical-align: top;
+}
+.page table td p{
+	font-size: 1em;
+	margin-bottom: 5px;
+}
+.page table.ticket-prices td.c1,
+.page table.ticket-prices td.c2,
+.page table.ticket-prices td.c3{ 
+	width: 33%; 
+	padding: 3px 0 3px 5px;
+}
+.page table.ticket-prices td.c2{ 
+	font-size: 11px;
+	color: #5cbfeb;
+}
+.page table.ticket-prices td.c3{ 
+	text-align: right; 
+	padding-left: 0px;
+	padding-right: 5px;
+}
+.page .article p{
+	width: 500px;
+	float: left;
+	overflow: hidden;
+	clear: both;
+}
+.page .article p.note{
+	font-size: 1.3em;
+	color: #5cbfeb;
+}
+.page .article em.note{
+	color: #5cbfeb;
+	font-size: 11px;
+	position: relative;
+	top: -0.2em;
+}
+.page .article ul{
+	clear: both;
+	margin-bottom: 20px;
+}
+.hybrid .content-main-list-wrapper h3 {
+    color: #FFFFFF;
+    font-size: 1.8em;
+    font-weight: normal;
+    letter-spacing: -0.5px;
+    line-height: 21px;
+    margin-bottom: 20px;    
+}
+.page .profile-detail{
+	float: left;
+	width: 240px;
+	display: inline;
+	margin-top: 15px;
+}
+.page .profile-detail h4{ 
+	margin: 5px 0 5px 0 !important; 
+}
+.page .profile-detail h5{ margin-bottom: 20px;}
+.page .profile-list{
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 515px;
+	float: left;
+	display: inline;
+}
+.page .profile-list ul{
+	float: left;
+	width: 250px;
+}
+.page .profile-list ul li	{ margin-bottom: 10px;}
+.page .profile-list ul li h5{ padding-left: 5px;}
+.page .profile-list ul.last{
+	width: 240px;
+	float: right;
+}
+.page .profile-list ul li a{
+	display: block;
+	color: #5cbfeb;
+	padding-left: 5px;
+}
+.page .profile-list ul li a.active,
+.page .profile-list ul li a:hover{
+	background: #223344;
+}
+.page .content-main-links{
+	clear: both;
+	float: none;
+	width: 100%;
+	margin-bottom:15px; 
+	padding: 4px 0 3px 0;
+}
+.page .aside .promo p{
+	margin-bottom: 0px;
+}
+.article-related h4,
+.article-tags h4,
+.content-poll h4
+{
+	color: #FFF;
+	padding: 22px 0 11px 0px;
+	margin: 0;
+}
+.content-poll h4{	padding: 0px 0 11px 0px;}
+.article-tags h4{
+	border-bottom:1px solid #3C4E5F;
+}
+.article-related{
+	width: 510px;
+	margin-left: 15px;
+	display: inline; 
+	float: left;
+	padding-bottom: 4px;
+}
+.article-tags{
+	width: 265px;
+	float:right;
+}
+.article-tags h4{
+	margin-right: 15px;
+}
+.article-tags ul{
+	margin: 15px 0 0 0px;
+}
+.article-tags ul li{
+	float: left;
+	width: auto;
+	font-size: 11px;
+	font-weight: bold;
+	margin: 0 5px 10px 0;
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/article-tag-left.gif) center left no-repeat;
+	padding-left: 10px;
+}
+.article-tags ul li a{
+	
+	display: block;
+	background:#5cbfeb url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/article-tag-right.gif) center right no-repeat;
+	color: #101a24;
+	padding: 3px 8px 2px 5px;
+}
+.article-tags ul li a:hover{
+	color: #FFF;
+}
+#rhs-mini-tabs {
+	position:absolute;
+	right:-30px;
+	top:136px;
+}
+#mini-tab-add-this {
+	background:url("/web/20120817225832im_/http://www.mcfc.co.uk/images/sharing/right_tabs_bg.gif") repeat scroll 0 0 transparent;
+	height:78px;
+	line-height:25px;
+	padding-top:5px;
+	width: 30px;
+}
+#hygiene h3.white-40{
+	margin-top: 7px;
+}
+#hygiene .article,
+#hygiene .aside {
+	margin-top: 52px;
+}
+#hygiene .article p {
+	margin-bottom: 10px;
+}
+#hygiene .article h4{
+	margin: 0px 0 6px 0;	
+}
+#hygiene ul.divided-list li{
+	width: 100%;
+	float: left;
+	border-top: 1px solid #223344;
+}
+#hygiene ul.divided-list li h3{
+	margin: 13px 0 0px 0;
+}
+#hygiene ul.divided-list li h4{
+	margin: 19px 0 6px 0;
+}
+#hygiene ul.divided-list li li{
+	border-top: none;
+}
+.faq h3,
+.faq h4{
+	color: #5cbfeb;
+}
+.faq h3.underline{
+	float: left;
+	width: 100%;
+	clear: both;
+	color: #FFF;
+	margin-top: 15px;
+}
+ul.seasoncard-faq li{
+	float: left;
+	width: 100%;
+	clear: both;
+	padding: 15px 0 15px 0;
+	border-bottom: 1px solid #3c4e5f;
+}
+ul.seasoncard-faq .faq-answer{
+	clear: both;
+	margin: 15px 0 15px 0;
+}
+ul.seasoncard-faq .faq-answer p{
+	color: #FFF;
+}
+ul.seasoncard-faq li ul.bullet{
+	padding-top: 15px;
+}
+ul.seasoncard-faq li ul.bullet li{
+	background: none;
+	color: #FFF;
+	padding: 0 0 0 5px;
+	margin-left: 20px;
+	list-style-type: disc;
+	border-bottom: none;
+}
+.faq h4{
+	width: auto;
+	float: left;
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/arrow-down.gif) 100% 7px no-repeat;
+	padding:0 20px 0 0;
+	color: #5cbfeb;
+	display: inline-block;
+}
+.faq h4.close{
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/arrow-up.gif) 100% 6px no-repeat;
+	
+}
+	
+.jqmWindow {
+	display: none;
+	position: fixed;
+	top: 17%;
+	left: 50%;    
+	margin-left: -354px;    
+	background-color: transparent;
+	width:700px;
+	background:#304153;
+}
+.jqmOverlay { background-color: #000; }
+.jqmWindow iframe {
+	border: 1px solid black;
+	width: 800px;
+	height:580px;
+	background:#223344;
+}
+.jqmWindow .jqmHeader{
+	padding:30px 26px; min-height:70px;
+	background: #599fc0 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/jqmHeader-gradient.jpg) top left repeat-x;
+}
+.jqmWindow .close {
+	position:absolute;
+	top:10px;
+	left:666px;    
+	display:block;
+	width:22px;
+	height:22px;
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/homepage-language_selection-close.png) 0px 3px no-repeat;    
+}
+.jqmWindow .close:hover{
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/homepage-language_selection-close.png) 0px 3px no-repeat;  
+}
+.jqmWindow .close span{
+	display: none;
+}
+.jqmWindow .jqmBody{
+	background: #304153;
+}
+.jqmWindow  .jqmBodyTgeneric{
+    background:none;
+    padding:29px;
+}
+.jqmBodyTgeneric p{
+	color:#fff;   
+}
+.jqmWindow h2 {
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 36px;
+	padding: 0;
+}
+#language_selection, #site_selection {
+	width:700px;
+	height:466px;
+}
+#language_selection .jqmBody, #site_selection .jqmBody {
+	background:#304153 url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/homepage-language_selection.gif) 0 0 no-repeat;
+	height: 350px;
+}
+#language_selection .ls-english {
+	float:left;
+	display:block;
+	width:137px;
+	height:43px;
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/homepage-language_selection-english.png) 0px 3px no-repeat;
+}
+#language_selection .ls-arabic {
+	float:right;
+	display:block;
+	width:95px;
+	height:43px;   
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/homepage-language_selection-arabic.png) 0 0 no-repeat;
+}
+#language_selection .lang-select, #site_selection .site-select {
+	position:absolute;
+	top:260px;
+	left:188px;
+	width:280px;
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/homepage-language_selection-slash.png) 0px 0px no-repeat;
+}
+#language_selection .ls-english span,
+#language_selection .ls-arabic span {
+	display:none;
+}
+#site_selection .site-select {
+	font-size: 2.0em;
+}
+#site_selection .ss-uk 
+{
+	float:left;
+	display:block;
+	width:50px;
+	height:43px;
+	margin-left:105px;
+}
+#site_selection .ss-us 
+{
+	float:right;
+	display:block;
+	width:95px;
+	height:43px;
+}
+ul.menu {
+	padding-bottom:10px;
+}
+ul.menu li{ 
+	color: #FFF;
+	padding-left: 0px; 
+	margin-bottom: 2px;
+	font-style:italic;
+}
+.flashpage p {
+color:#FFFFFF;
+font-size:1.3em;
+line-height:1.2;
+margin-bottom:20px;
+}
+#iosPopup {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1000;
+}
+    #iosPopup a {
+        display: block;
+    }
+    #iosPopup img {
+        display: block;
+        width: 100%;
+    }
+    #iosPopup-skip {
+        display: block;
+        position: absolute;
+        padding: 3%;
+        top: 0;
+        left: 0;
+        text-align: right;
+        width: 94%;
+    }
+        #iosPopup-skip img {
+            display: inline;
+            width: 15%;
+        }
+		
+	
+	
+	
+.mod-overArchNav{
+	background: #132330;
+	height:26px;
+}
+	.mod-overArchNav h2{
+		position: absolute;
+		text-indent: -9999px;
+	}
+	.mod-overArchNav-content{
+		margin: 0px auto;
+		width: 960px;
+		position: relative;
+	}
+		.mod-overArchNav-content ul{float:left;}
+			.mod-overArchNav-content li{
+				display:block;
+				float:left;
+				width:auto;
+				padding:3px 0;
+			}
+			.mod-overArchNav-content li a{
+				font-size: 0.8em;
+				font-weight: bold;
+				padding: 0 12px;
+				color: #fff;
+				border-left: 1px solid #515a63;
+			}
+			.mod-overArchNav-content li a:hover,
+			.mod-overArchNav-content li a.mod-overArchNav-active{
+				color:#5CBFEB
+			}
+			.mod-overArchNav-content li:first-child a{
+				border:none;
+			}
+		.mod-overArchNav-content ul.cp-socialLinks{
+			float:right;
+		}
+			
+			.mod-overArchNav-content ul.cp-socialLinks li a{
+				border:none;
+				padding-left:0;
+			}
+.mod-newsPager{
+	position:relative;
+	height:256px;
+}
+	#content-modules .content-modules-column .mod-newsPager .module-body{
+		height:173px !important;
+	}
+		.mod-newsPager h3{
+			background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/content-list-icon-article.png) no-repeat 257px 10px;
+		}
+		.mod-newsPagerTvideo h3{
+			background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/content-list-icon-video.png) no-repeat 257px 10px;
+		}
+		.mod-newsPager ul.content-list{
+			overflow:hidden;
+			width:100%;
+			position:relative;
+			border-top:none;
+		}
+		.no-js .mod-newsPager ul.content-list{
+			overflow:auto;
+			height:174px;
+		}
+		.mod-newsPager ul.content-list li{
+			height:57px;
+		}
+		.mod-newsPager ul.content-list li a{
+			background:#223344;
+			padding:0 8px 0 0;
+			-webkit-transition: all 0.3s ease-in-out;
+			-moz-transition: all 0.3s ease-in-out;
+			-ms-transition: all 0.3s ease-in-out;
+			-o-transition: all 0.3s ease-in-out;
+			transition: all 0.3s ease-in-out; 
+		}
+		.mod-newsPager ul.content-list li a:hover{
+			background:#101A24;
+		}
+		.mod-newsPager ul.content-list img{
+			margin-right:8px;
+		}
+			.mod-newsPager .mod-tabNews-content-img{
+				margin-right:8px;
+				float:left;
+				position:relative;
+			}
+				.mod-newsPager .mod-tabNews-content-index{
+					width:21px;
+					height:27px;
+					z-index:2;
+					color:#fff;
+					font-weight:bold;
+					padding:5px 0px 0 11px;
+					font-size:1.2em;
+					position:absolute;
+					opacity: 0.8;
+					-moz-opacity: 0.8;
+					filter:alpha(opacity=80);
+					top: 4px;
+					left: 4px;
+					background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/content-list-icon-blank.png) no-repeat;
+					-webkit-transition: all 0.3s ease-in-out;
+					-moz-transition: all 0.3s ease-in-out;
+					-ms-transition: all 0.3s ease-in-out;
+					-o-transition: all 0.3s ease-in-out;
+					transition: all 0.3s ease-in-out; 
+				}
+			.mod-newsPager ul.content-list li a:hover .mod-tabNews-content-index{
+				opacity: 1;
+				-moz-opacity: 1;
+				filter:alpha(opacity=100);
+			}
+		.mod-newsPager ul.content-list li h4{
+			color:#fff;
+			font-size:1em;
+			font-weight:bold;
+			padding:5px 0 5px 117px;
+		}
+		.mod-newsPager .module-footer{
+			height:20px;
+		}
+	
+.mod-search-recommended{
+	padding:0 0 8px 0;
+	
+	
+}
+	.mod-search-recommended h4{
+		color:#fff;
+		padding:0 0 19px 0;
+		height:25px;
+		margin:0;
+		
+	}
+	.mod-search-recommended ul.content-list{
+	}
+		.mod-search-recommended ul.content-list li a{
+			background:#2a3949;
+		}
+		.mod-search-recommended ul.content-list li a:hover{
+			background:#215b7a;
+		}	
+.mod-splash{
+	min-height:100%;
+	*height:100%;
+	position:fixed;
+	left:0; top:0;
+	z-index:1000;
+	width:100%;
+	visibility:hidden;
+}
+.no-js .mod-splash{
+	visibility:visible;
+}
+* html .mod-splash{
+	position:absolute;
+}
+	.mod-splash-bg{
+		background:#223344;
+		min-height:100%;
+		width:100%;
+		*height:100%;
+		position:fixed;
+		left:0; top:0;
+		  filter: alpha(opacity=80);
+		  -moz-opacity: 0.8;
+		  -khtml-opacity: 0.8;
+		  opacity: 0.8;
+	}
+	* html .mod-splash-bg{
+		position:absolute;
+	}
+	.mod-splash-content{
+		width:800px;
+		height:450px;
+		margin:0 auto;
+		top:83px;
+		position:relative;
+		background:#223344;
+	}
+		.mod-splash-content h1{
+			line-height:1;
+		}
+		.mod-splash-content h1,
+		.mod-splash-content h2,
+		.mod-splash-content h3,
+		.mod-splash-content h4,
+		.mod-splash-content h5,
+		.mod-splash-content h6,
+		.mod-splash-content p{ padding:4px 16px;}
+		.mod-splash-content p{
+			color:#fff;
+		}
+		a.mod-splash-content-close{
+			display:block;
+			position:absolute;
+			right:0;
+			color:#fff;
+			top:-32px;
+			width:150px;
+			padding:5px 24px 5px;
+			background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/dialog-close.png) no-repeat right 8px;
+		}
+		a.mod-splash-content-close:hover{
+			text-decoration:underline;
+		}
+		* html .mod-splash-content-close{
+			background-image:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/dialog-close.gif);
+		}
+		.mod-splash-content #rhs-mini-tabs{
+			top:0px;
+		}
+		.mod-splash-content #mini-tab-add-this{
+			height:102px;
+			background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/sharing/right_tabs_bg_4.gif) no-repeat;
+		}
+		*+ html .mod-splash-content #mini-tab-add-this{
+			height:83px;
+			background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/sharing/right_tabs_bg.gif) no-repeat;
+		}
+		* html .mod-splash-content #mini-tab-add-this{
+			height:83px;
+			background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/sharing/right_tabs_bg.gif) no-repeat;
+		}
+		.mod-splash-content a.sharer{
+			margin: 0 4px 4px 4px;
+		}
+		.mod-splash-content .h2swf{
+			padding:6px 0 0 15px !important;
+		}
+		.mod-splash-content-return{
+			position:absolute;
+			bottom:-35px;
+			right:0;
+			height:30px;
+			color:#fff;
+			font-size:1.6em !important;
+			font-weight:bold;
+			background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/btn-splash-bottom-repeat.gif) repeat-x !important;
+		}
+		.mod-splash-content-returnAnchor{
+			position:absolute;
+			display:block;
+			z-index:1002;
+			bottom:-35px;
+			right:0;
+			height:36px;
+			width:300px;
+			color:#fff;
+			font-size:1.8em;
+			font-weight:bold;
+			text-indent:-9999px;
+			background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/trans.gif) no-repeat;
+		}
+	
+.mod-tabNews{
+	background:#223344;
+	padding-bottom:0;
+	height:358px;
+}
+	.simpleTabs-contentWrap{
+		width:100%;
+		overflow:hidden;
+	}
+	
+		
+	.simpleTabs-contentscroll{
+		width:100%;
+	}
+	
+	.mod-tabNews-content{
+		min-height:326px;
+		width:100%;
+		position:absolute;
+		top:33px;
+		left:0;
+		overflow:hidden;
+	}
+		.mod-tabNews-content ul.content-list{
+			border-top:none;
+			margin-bottom:0;
+			border-bottom: 4px solid #5BAFDF;
+			height:290px;
+			overflow:hidden;
+		}
+		.no-js .mod-tabNews-content ul.content-list{
+			overflow:auto;
+		}
+			.mod-tabNews-content ul.content-list li{
+				height:96px;
+				display:none;
+			}
+			.no-js .mod-tabNews-content ul.content-list li{
+				display:block;
+			}
+			.mod-tabNews-content ul.content-list li:last-child{
+					border-bottom:none;
+				}
+				.mod-tabNews-content ul.content-list li a{
+					padding:16px 0;
+					background:#223344;
+				}
+				.mod-tabNews-content ul.content-list li a:hover{
+					background:#274154;
+				}
+					.mod-tabNews .mod-tabNews-content-img{
+						margin-right:8px;
+						float:left;
+						position:relative;
+					}
+						.mod-tabNews .mod-tabNews-content-index{
+							width:21px;
+							height:27px;
+							z-index:2;
+							color:#fff;
+							font-weight:bold;
+							padding:5px 0px 0 11px;
+							font-size:1.2em;
+							position:absolute;
+							opacity: 0.8;
+							-moz-opacity: 0.8;
+							filter:alpha(opacity=80);
+							top: 4px;
+							left: 4px;
+							background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/content-list-icon-blank.png) no-repeat;
+							-webkit-transition: all 0.3s ease-in-out;
+							-moz-transition: all 0.3s ease-in-out;
+							-ms-transition: all 0.3s ease-in-out;
+							-o-transition: all 0.3s ease-in-out;
+							transition: all 0.3s ease-in-out; 
+						}
+					.mod-tabNews ul.content-list li a:hover .mod-tabNews-content-index{
+						opacity: 1;
+						-moz-opacity: 1;
+						filter:alpha(opacity=100);
+					}
+					.article .mod-tabNews .mod-tabNews-content h4{
+						font-size:1em;
+						color:#fff;
+						font-weight:bold;
+						padding:0 0 8px 122px;
+						margin:0;
+					}
+					.mod-tabNews-content p{
+					}
+					.mod-tabNews-content-time{
+						color:#5cbfeb;
+						font-size:0.7em;
+						margin-left:122px;
+					}
+	
+			.mod-tabNews-content ul.nav-paging{
+				position:relative;
+				background:#223344;
+			}
+.mod-tabNewsTnoTabs{}
+	.mod-tabNewsTnoTabs .mod-tabNews-content{
+		width:100%;
+	}
+		.mod-tabNewsTnoTabs ul.content-tabs li{
+			width:100%;
+		}
+	
+		
+.cp-confirmationForm input{
+    float:left;
+    border: 1px solid #FFFFFF;
+    float: left;
+    margin-top: 1px;
+    padding: 3px;
+    width: 200px;
+    margin-right:8px;
+}
+.cp-confirmationForm{
+    padding: 4px 4px 4px 0;
+}
+.cp-loading {
+    background: url(/web/20120817225832im_/http://www.mcfc.co.uk/images/loader-small-blue.gif) no-repeat 5px 0;
+    padding-left: 25px;
+}
+.cp-loadingTdark{
+    background: url(/web/20120817225832im_/http://www.mcfc.co.uk/images/loader-white.gif) no-repeat center 0;
+	width:100%;
+	height:40px;
+	text-align: left;
+ 	text-indent: -9999px;
+}
+.cp-loadingTblue{
+    background: url(/web/20120817225832im_/http://www.mcfc.co.uk/images/loader-blue-dark.gif) no-repeat center 0;
+    height: 30px;
+	margin: 0 auto;
+	top:30%;
+	position: relative;
+}
+	
+.promoTtwitterWidget{
+	
+	background:none;
+	width:265px;
+	position:relative;
+}
+.promoTtwitterWidget .tr-widget{
+	background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/bg-tweet-widget-top.gif) no-repeat top left #233444;
+	padding:16px 0 0 0;
+}
+	.promoTtwitterWidget .tr-stream{
+		background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/bg-tweet-widget-bottom.gif) no-repeat bottom left #233444;
+		padding-left:10px; 
+		padding-bottom:40px;
+	}
+		.promoTtwitterWidget #tr-title{
+			background:url(/web/20120817225832im_/http://www.mcfc.co.uk/images/icon-twitterLogo.gif) no-repeat;
+			font-weight:bold; display:;
+			padding:0 8px 16px 30px;
+			border-bottom:3px solid #fff;
+			font-size:1.3em;
+			margin-bottom:16px;
+		}
+		.promoTtwitterWidget .tr-stream-wrapper{
+			font-size:1.2em;
+			overflow: auto;
+			height: 400px;
+			padding-bottom: 50px;
+		}
+			.promoTtwitterWidget .tr-stream-wrapper .tr-tweet{
+				border-bottom:1px solid #294151;
+				margin:0 8px 20px 0;
+				padding-bottom:8px;
+                min-height: 48px;
+			}
+			.promoTtwitterWidget .tr-stream-wrapper .tr-end{
+				margin-left:80px;
+			}
+				.promoTtwitterWidget .tr-stream-wrapper .tr-avatar{
+					margin-top:4px;
+					float:left;
+				}
+				.promoTtwitterWidget .tr-stream-wrapper .tr-body{
+					margin-left: 57px;
+					display: block;
+					line-height:1.2;
+					margin-top:-3px;
+					word-wrap:break-word;
+					padding-right:8px;
+				}
+				.promoTtwitterWidget .tr-stream-wrapper .tr-body .rt{
+						float: left;
+						margin: 2px 6px 0 0;
+					}
+					.promoTtwitterWidget .tr-stream-wrapper .tr-body a{
+						font-size:1.1em;
+					}
+					
+					.promoTtwitterWidget .tr-stream-wrapper .tr-author{
+						font-size:1em;
+					}
+					.promoTtwitterWidget .tr-stream-wrapper .tr-meta{
+						margin:6px 0 0 -58px;	
+						font-size:0.8em;
+						clear: left;
+						padding-top: 6px;
+					}
+		.promoTtwitterWidget a.tr-follow{
+			background: url(/web/20120817225832im_/http://www.mcfc.co.uk/css/images/homepage-footer-arrow.gif) no-repeat scroll 0px 7px;
+			color: #5CBFEB !important;
+			display:block;
+			font-weight: bold;
+			padding: 2px 0 0 13px;
+			position:absolute;
+			bottom: 9px;
+			right: 10px;
+		}
+		.promoTtwitterWidget a.tr-follow:hover{
+			color: #FFF !important;
+			background-position: 0px -34px;
+		}
+		.promoTtwitterWidget .tr-streammeta{
+			display:none;
+		}
+            .promoTtwitterWidget .tr-intent
+            {
+                margin-left: 5px;
+            }
+            .promoTtwitterWidget .tr-intent img
+            {
+                vertical-align: bottom;
+                margin-right: 2px;
+                border-width: 0;
+                display: inline;
+            }
+	
+.jspContainer
+{
+	overflow: hidden;
+	position: relative;
+}
+.jspPane
+{
+	position: absolute;
+	padding:0 !important;
+}
+.jspVerticalBar
+{
+	position: absolute;
+	top: 0;
+	right: 2px;
+	width: 16px;
+	height: 100%;
+	-webkit-border-radius:  4px;
+	-moz-border-radius:  4px;
+	border-radius:  4px;
+	width:6px;
+	overflow:visible;
+}
+.jspHorizontalBar
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 16px;
+	background: red;
+}
+.promoTtwitterWidget .jspHorizontalBar{display:none;}
+.jspVerticalBar *,
+.jspHorizontalBar *
+{
+	margin: 0;
+	padding: 0;
+}
+.jspCap
+{
+	display: none;
+}
+.jspHorizontalBar .jspCap
+{
+	float: left;
+}
+.jspTrack
+{
+	background: #101A24;
+	position: relative;
+	width: 3px;
+	-webkit-border-radius:  2px;
+	-moz-border-radius:  2px;
+	border-radius:  2px;
+	overflow:visible;
+}
+.jspDrag
+{
+	background: #fff;
+	position: relative;
+	top: 0;
+	left: -1px;
+	cursor: pointer;
+	width:9px;
+	margin:0 -2px;
+	-webkit-border-radius:  4px;
+	-moz-border-radius:  4px;
+	border-radius:  4px;
+}
+.jspHorizontalBar .jspTrack,
+.jspHorizontalBar .jspDrag
+{
+	float: left;
+	height: 100%;
+}
+.jspArrow
+{
+	background: #50506d;
+	text-indent: -20000px;
+	display: block;
+	cursor: pointer;
+}
+.jspArrow.jspDisabled
+{
+	cursor: default;
+	background: #80808d;
+}
+.jspVerticalBar .jspArrow
+{
+	height: 16px;
+}
+.jspHorizontalBar .jspArrow
+{
+	width: 16px;
+	float: left;
+	height: 100%;
+}
+.jspVerticalBar .jspArrow:focus
+{
+	outline: none;
+}
+.jspCorner
+{
+	background: #eeeef4;
+	float: left;
+	height: 100%;
+}
+* html .jspCorner
+{
+	margin: 0 -3px 0 0;
+}
+		
+	
+ 
+.cc, .clearfix { zoom: 1; } .cc:after, .clearfix:after {content: ".";display: block;height: 0;clear: both;visibility: hidden; font-size:0;}
+.ir { display:block; text-indent:-999em; overflow:hidden; background-repeat: no-repeat; }
+.clear-simple{
+	overflow: hidden;
+	width: 100%;
+}
+.hidden{
+	position:absolute;
+	left:-10000px;
+	top:auto;
+	width:1px; 
+	height:1px;
+	overflow:hidden;
+}
+.hidden-indent{
+	text-indent: -1000px; 
+}
+.vis-hidden{
+	visibility: hidden;
+}
+.replace {
+	position: relative; 
+	overflow: hidden;
+}
+.replace em,
+.replace a{
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+}
+.phark-replace { 
+	overflow: hidden; 
+	background-repeat: no-repeat;
+	text-indent: -9000px;
+}
+	
+.phark-replace a { 
+	display: block; 
+	width: 100%; 
+	height: 100%;
+}
+#skipnav {
+	position: absolute;
+	top: -9000px;
+	left: 0;
+}
+#skipnav li {
+	width: 300px;
+}
+#skipnav a {
+	position: absolute;
+	top: 0;
+	padding: 10px;
+}
+#skipnav a:active, 
+#skipnav a:focus {
+	top: 9000px;
+}
+.ico {
+	background: url(/web/20120817225832im_/http://www.mcfc.co.uk/images/sprites.png) no-repeat left top;
+    display: -moz-inline-stack;
+    display:inline-block;
+    zoom:1;
+    *display:inline;
+    vertical-align: top;
+    height: 15px;
+    line-height: 15px;
+    text-align: left;
+    width: 15px;
+}
+.ie6 .ico { background-image: url(/web/20120817225832im_/http://www.mcfc.co.uk/images/sprites.png); }
+a.ico, a.ico span { cursor: pointer; }
+.ico-fbBlue {
+    background-position: 0 2px;
+}
+.ico-twBlue {
+    background-position: -20px 2px;
+}
+/*
+     FILE ARCHIVED ON 22:58:32 Aug 17, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:29:45 Dec 07, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.datanode: 137.638 (4)
+  exclusion.robots.policy: 0.178
+  RedisCDXSource: 1.701
+  PetaboxLoader3.resolve: 65.922
+  exclusion.robots: 0.193
+  captures_list: 101.898
+  load_resource: 441.358
+  LoadShardBlock: 70.949 (3)
+  CDXLines.iter: 24.255 (3)
+  esindex: 0.015
+*/
