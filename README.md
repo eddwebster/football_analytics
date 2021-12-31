@@ -542,13 +542,14 @@ To learn more about the different types of data available, such as Event and Tra
 *    [Understat](https://understat.com/) shooting and meta data including xG values for the 'Big 5' European leagues and Russian Premier League
      +    This data can be scraped in the following ways:
            -    Python: 
+                *    [`ScraperFC`](https://github.com/oseymour/ScraperFC) by [Owen Seymour](https://twitter.com/owen_seymour)
                 *    [`understat`](https://github.com/amosbastian/understat) by Amos Bastian (see the following for docs [[link](https://understat.readthedocs.io/en/latest/)])
                 *    [`scraping-understat-dataset`](https://github.com/douglasbc/scraping-understat-dataset) by [Douglas](https://twitter.com/douglasantifa)
            -    R: [`understatr`](https://github.com/ewenme/understatr) package or [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)]).
      +    This data also also regularly made available by the following contributers
            -    [Abrar](https://www.kaggle.com/abrarhossainhimself/) via Kaggle - see [[link](https://www.kaggle.com/abrarhossainhimself/understat-data-for-teams-players-2014-present)]
            -    [Sagnik Das](https://twitter.com/nandy_sd), using code created by both him and [Mark Wilkins](https://twitter.com/biscuitchaser) - see [[link](https://twitter.com/NdyStats/status/1382295913452826628)] for shot data, [[link](https://twitter.com/NdyStats/status/1382255794180165632?s=20)] for meta data, and Mark's Tweet [[link](https://twitter.com/biscuitchaser/status/1294608904647839744)])
-*    [WhoScored?](https://www.whoscored.com/) Event data (provided by Opta) for the 'Big 5' European leagues since the 09/10 season. Note, this data is very difficult to scrape and not permitted to be publicly distributed, but it can be done (how do you think those up-to-date pass maps are made?).
+*    [WhoScored?](https://www.whoscored.com/) Event data (provided by Opta) for the 'Big 5' European leagues since the 09/10 season, which can be scraped using [`ScraperFC`](https://github.com/oseymour/ScraperFC) by [Owen Seymour](https://twitter.com/owen_seymour) 
 *    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7)
 
 <h5 id="data-sources-tracking"> Tracking data </h5>
@@ -563,7 +564,10 @@ To learn more about the different types of data available, such as Event and Tra
 *    [DAVIES](https://samgoldberg1882.shinyapps.io/ShinyAlph/) estimated player evaluation data by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio) for [American Soccer Analysis](https://www.americansocceranalysis.com/)
 *    [FBref](https://fbref.com/en/) season-on-season aggregated player performance data provided by [StatsBomb](https://statsbomb.com/). See my [FBref Player Stats Web Scraping](https://github.com/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/FBref%20Player%20Stats%20Web%20Scraping.ipynb) notebook for Python code to scrape FBref data or access saved CSV files in [data subfolder](https://github.com/eddwebster/football_analytics/tree/master/data/fbref);
      +    This data can also be scraped in the following ways:
-           -    Python: Data can be read as a DataFrame using panda's `read_html` function. There is a direct link to this table under Share & Export --> Embed this Table (see the following StackOverflow answer for instructions [[link](https://stackoverflow.com/questions/66517625/attributeerror-nonetype-object-has-no-attribute-text-beautifulshop)]). The data can also be scraped using [Parth Athale](https://twitter.com/ParthAthale)'s [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) scraper, which in turn was written using code from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL), however, this code hasn't worked since around February 2021.
+           -    Python: 
+                *    Data can be read as a DataFrame using panda's `read_html` function. There is a direct link to this table under Share & Export --> Embed this Table (see the following StackOverflow answer for instructions [[link](https://stackoverflow.com/questions/66517625/attributeerror-nonetype-object-has-no-attribute-text-beautifulshop)])
+                *    [`ScraperFC`](https://github.com/oseymour/ScraperFC) by [Owen Seymour](https://twitter.com/owen_seymour)
+                *    [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) by [Parth Athale](https://twitter.com/ParthAthale), ich in turn was written using code from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL), however, this code hasn't worked since around February 2021.
            -    R: [Jason Zivkovic](https://twitter.com/jaseziv) 's [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package (see guide [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)])
            -    Google Sheets: see [Rob Carroll](https://twitter.com/thevideoanalyst)'s YouTube tutorial [[link](https://www.youtube.com/watch?v=8AJWR-YtpHQ)]. 
      +    Every FBref metric for every 2020-21 'Big 5' European league player by [Ronan](https://twitter.com/ronanmann), see [[link](https://docs.google.com/spreadsheets/d/1lQgIDcxsHT1m_IayMldmiHVOt4ICbX-ys8Mh9rggPHM/edit?usp=sharing)]], [[link](https://drive.google.com/file/d/13to6pS8DGwDQs579oSMrW80xO_V6OPPd/view)] and [[Tweet](https://twitter.com/ronanmann/status/1408504415690969089)]. A 'tidied' version have been made by [goaltergeist](https://twitter.com/goaltergeist), see [[link](https://www.kaggle.com/goaltergeist/tidy-fbref-2021-player-data-credit-ronanmann)]
@@ -816,29 +820,28 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`PCA_Player_Finder`](https://github.com/parth1902/PCA_Player_Finder) by [Parth Athale](https://twitter.com/ParthAthale);
 *    [`PySport`](https://opensource.pysport.org/) including [`PySport Soccer`](https://opensource.pysport.org/?sports=Soccer) - collection of open-source sport packages including many of those mentioned in this section, by [Koen Vossen](https://twitter.com/mr_le_fox);
 *    [`PyWaffle`](https://github.com/petermckeeverPerform/PyWaffle) - an open source, MIT-licensed Python package for plotting waffle charts by Peter McKeever;
-*    [`ScraperFC`](https://github.com/oseymour/ScraperFC) - a Python package to scrape data from FBRef, Understat and FiveThirtyEight by [Owen Seymour](https://twitter.com/owen_seymour);
-*    [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) - Python library to scrape StatsBomb data via FBref by [Parthe Athale](https://twitter.com/ParthAthale), which in turn was updated from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL);
-*    [`statsbombapi`](https://github.com/Torvaney/statsbombapi) - a Python API wrapper and dataclasses for Statsbomb data;
+*    [`ScraperFC`](https://github.com/oseymour/ScraperFC) - a Python package by [Owen Seymour](https://twitter.com/owen_seymour) to scrape FiveThirtyEight data, aggregated [StatsBomb](https://statsbomb.com/) data from [FBref](https://fbref.com/en/), [Understat](https://understat.com/) shooting and player meta data including values for xG, xA, xGChain, xGBuildup, player salary data from [Capology](https://www.capology.com/), and [WhoScored?](https://www.whoscored.com/) [Opta](https://www.statsperform.com/opta/) Event provided by [StatsPerform](https://www.statsperform.com/); 
+*    [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) - Python library to scrape aggregated [StatsBomb](https://statsbomb.com/) data via [FBref](https://fbref.com/en/) by [Parthe Athale](https://twitter.com/ParthAthale), which in turn was updated from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL);
+*    [`statsbombapi`](https://github.com/Torvaney/statsbombapi) - a Python API wrapper and dataclasses for [StatsBomb](https://statsbomb.com/) data;
 *    [`statsbombpy`](https://github.com/statsbomb/statsbombpy) - a Python library written by Francisco Goitia to access StatsBomb data;
-*    [`statsbomb-parser`](https://github.com/imrankhan17/statsbomb-parser) - Python library to convert StatsBomb's JSON data into easy-to-use CSV format;
+*    [`statsbomb-parser`](https://github.com/imrankhan17/statsbomb-parser) - Python library to convert [StatsBomb](https://statsbomb.com/)'s JSON data into easy-to-use CSV format;
 *    [`socceraction`](https://github.com/ML-KULeuven/socceraction) - a Python library for valuing the individual actions performed by soccer players. Includes an Expected Threat (xT) implementation by [Tom Decroos](https://twitter.com/TomDecroos) et. al.;
 *    [`soccermix`](https://github.com/ML-KULeuven/soccermix) - a soft clustering technique based on mixture models that decomposes event stream data into a number of prototypical actions of a specific type, location, and direction by Tom Deccoos and ML-KULeuven;
 *    [`soccer_xg`](https://github.com/ML-KULeuven/soccer_xg) - a Python package for training and analyzing expected goals (xG) models in football;
 *    [`soccerplots`](https://github.com/Slothfulwave612/soccerplots) -  a Python package that can be used for making visualizations for football analytics by [Anmol Durgapal](https://twitter.com/slothfulwave612);
-*    [`sync.soccer`](https://github.com/huffyhenry/sync.soccer) - a Python package to synchronise football datasets, so that an event in one dataset is matched to the corresponding event or snapshot in the other by [Marek Kwiatkowski](https://twitter.com/statlurker). This repository contains an implementation that aligns Opta's (now Stat Perform) F24 feeds to ChyronHego's Tracab files. More formats may be added in the future. See the following blog post for methodology [[link](https://kwiatkowski.io/sync.soccer)];
-*    [`tmscrape`](https://github.com/znstrider/tmscrape) - a Python TransferMarkt webscraper by [danzn1](https://twitter.com/danzn1);
-*    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) - a Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats);
-*    [`understat`](https://github.com/amosbastian/understat) - a Python webscraper by [Amos Bastian](https://github.com/amosbastian).
+*    [`sync.soccer`](https://github.com/huffyhenry/sync.soccer) - a Python package to synchronise football datasets, so that an event in one dataset is matched to the corresponding event or snapshot in the other by [Marek Kwiatkowski](https://twitter.com/statlurker). This repository contains an implementation that aligns Opta's (now Stat Perform) F24 feeds to [ChyronHego](https://chyronhego.com/)'s Tracab files. More formats may be added in the future. See the following blog post for methodology [[link](https://kwiatkowski.io/sync.soccer)];
+*    [`tmscrape`](https://github.com/znstrider/tmscrape) - a Python [TransferMarkt](https://www.transfermarkt.co.uk/) webscraper by [danzn1](https://twitter.com/danzn1);
+*    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) - a Python [TransferMarkt](https://www.transfermarkt.co.uk/) webscraper by [FCrSTATS](https://twitter.com/FC_rstats);
+*    [`understat`](https://github.com/amosbastian/understat) - a Python webscraper by [Amos Bastian](https://github.com/amosbastian) to scrape [Understat](https://understat.com/) shooting and player meta data.
 
 #### R
 *    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) - a soccer visualisation library in R from [Ben Torvaney](https://twitter.com/Torvaney);
-*    [`ggshakeR`](https://github.com/abhiamishra/ggshakeR) - an analysis and visualisation R package that works with publicly available soccer data by [
-Abhishek Mishra](https://twitter.com/MishraAbhiA);
+*    [`ggshakeR`](https://github.com/abhiamishra/ggshakeR) - an analysis and visualisation R package that works with publicly available soccer data by [Abhishek Mishra](https://twitter.com/MishraAbhiA);
 *    [`soccerAnimate`](https://github.com/Dato-Futbol/soccerAnimate) - an R package to create 2D animations of soccer tracking data;
 *    [`soccermatics`](https://github.com/JoGall/soccermatics) - an R package for the visualisation and analysis of soccer tracking and event data by [Joe Gallagher](https://twitter.com/joedgallagher);
 *    [soccer_ggplots](https://github.com/Ryo-N7/soccer_ggplots) by [Ryo Nakagawara](https://twitter.com/R_by_Ryo);
-*    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) - a R package to allow users to extract various world football results and player statistics data from FBref and valuations and transfer data from TransferMarkt.com by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide on how to use this package [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)]); and
-*    [`understatr`](https://github.com/ewenme/understatr) - a R package to scrape data from Understat.
+*    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) - a R package to scrape aggregated [StatsBomb](https://statsbomb.com/) data via [FBref](https://fbref.com/en/) and valuations and transfer data from [TransferMarkt](https://www.transfermarkt.com/) by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide on how to use this package [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)]); and
+*    [`understatr`](https://github.com/ewenme/understatr) - a R package to scrape [Understat](https://understat.com/) shooting and player meta data.
 
 <h3 id="github-repos"> GitHub Repositories</h3>
 
@@ -1033,19 +1036,62 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 
 <h4 id="papers"> :page_with_curl: Papers</h4>
 
+Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html) and [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html). Props to him for reading a paper a day.
+
+The papers included in this list have been 
+
 The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
 
 <h5 id="2021"> 2021</h5>
   
-
-*    [Analyzing Learned Markov Decision Processes using Model Checking for Providing Tactical Advice in Professional Soccer](https://drive.google.com/file/d/1PURSuMmgLGgnydEO7EiGR-WEtLtrKYVb/view) (2021) by Maaike Van Roy, Wen-Chi Yang, Luc De Raedt and Jesse Davis;
+*    [6MapNet: Representing Soccer Players from Tracking Data]() by a Triplet Network. Hyunsung Kim, Jihun Kim, Dongwook Chung, Jonghyun Lee, Jinsung Yoon and Sang-Ki Ko. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
 *    [A Bayesian Approach to In-Game Win Probability in Soccer](https://dl.acm.org/doi/10.1145/3447548.3467194) (2021) by Pieter Robberechts, Jan Van Haaren, and Jesse Davis. See the accompanying blog [[link](https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability)];
+*    [A Career in Football: What Is Behind an Outstanding Market Value?]() by Balázs Ács and László Toka. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
+*    [A Copula-Based Hidden Markov Model for Classification of Tactics in Football]() by Marius Oetting. New England Symposium on Statistics in Sports. October 2021.
+*    [A Framework for the Fine-Grained Evaluation of the Instantaneous Expected Value of Soccer Possessions]() by Javier Fernández, Luke Bornn and Daniel Cervone. Machine Learning. May 2021.
+*    [A Goal Scoring Probability Model for Shots Based on Synchronized Positional and Event Data in Football (Soccer)]() by Gabriel Anzer and Pascal Bauer. Frontiers in Sports and Active Living. March 2021.
+*    [A Physics Based Measurement of Defensive Contributions]() by Aditya Kothari. Stats Perform Pro Forum. March 2021.
+*    [A Poisson Betting Model with a Kelly Criterion Element for European Soccer]() by Kushal Shah, James Hyman and Dominic Samangy. Proceedings of the 2021 MIT Sloan Sports Analytics Conference. April 2021.
+*    [A Risk-Reward Assessment of Passing Decisions: Comparison Between Positional Roles Using Tracking Data from Professional Men’s Soccer]() by Floris Goes, Edgar Schwarz, Marije Elferink-Gemser, Koen Lemmink and Michel Brink. Science and Medicine in Football. June 2021.
+*    [Analyzing Learned Markov Decision Processes using Model Checking for Providing Tactical Advice in Professional Soccer](https://drive.google.com/file/d/1PURSuMmgLGgnydEO7EiGR-WEtLtrKYVb/view) (2021) by Maaike Van Roy, Wen-Chi Yang, Luc De Raedt and Jesse Davis;
+*    [Anatomy of Receiving and Turning with the Ball]() by Soumyajit Bose and Manas Saraswat. StatsBomb Conference. October 2021.
+*    [Camera Calibration and Player Localization in SoccerNet-v2 and Investigation of Their Representations for Action Spotting]() by Anthony Cioppa, Adrien Deliege, Floriane Magera, Silvio Giancola, Olivier Barnich, Bernard Ghanem and Marc Van Droogenbroeck. CVPR 2021 International Workshop on Computer Vision in Sports (CVsports 2021). June 2021.
+*    [Combining Machine Learning and Human Experts to Predict Match Outcomes in Football: A Baseline Model]() by Ryan Beal, Stuart Middleton, Timothy Norman, Sarvapali Ramchurn. Proceedings of the AAAI Conference on Artificial Intelligence. February 2021.
+*    [Data-Driven Detection of Counterpressing in Professional Football]() by Pascal Bauer and Gabriel Anzer. Data Mining and Knowledge Discovery - Special Issue on Sports Analytics. July 2021.
+*    [Determining the Phases of Play Using Graph Neural Network Embeddings]() by Juan Camilo Campos. StatsBomb Conference. October 2021.
+*    [Enriching Event Data: A Semi-Supervised Augmentation Approach Using Location Information]() by Debangan Dey, Rahul Ghosal and Atanu Mitra. Stats Perform Pro Forum. March 2021.
+*    [Estimating the Change in Soccer… Home Advantage During the COVID-19 Pandemic]() by Luke Benz and Mike Lopez. New England Symposium on Statistics in Sports. October 2021.
 *    [Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning](https://arxiv.org/pdf/2101.05388.pdf) (2021) by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg). See the [`nayra`](https://github.com/DonsetPG/narya) library for code.
+*    [Extended Model for Expected Threat in Soccer]() by Jirka Poropudas. New England Symposium on Statistics in Sports. October 2021.
+*    [From Motor Control to Team Play in Simulated Humanoid Football]() by Siqi Liu, Guy Lever, Zhe Wang, Josh Merel, Ali Eslami, Daniel Hennes, Wojciech Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan Tracey, Karl Tuyls, Thore Graepel and Nicolas Heess. arXiv. May 2021.
+*    [How Soccer Scouts Identify Talented Players]() by Tom Bergkamp, Wouter Frencken, Susan Niessen, Rob Meijer and Ruud den Hartigh. European Journal of Sport Science. April 2021.
+*    [Identifying and Evaluating Strategies for Successfully Penetrating a High Opposition Press from Short Goal Kicks, Played Inside the Box, to Move the Ball into the Opposition Half]() by Vignesh Jayanth. Stats Perform Pro Forum. March 2021.
+*    [Identifying and Evaluating the Efficiency of Each Player During the Pressing Phase Against an Opponent’s Controlled Build-Up Play]() by Caterina De Bacco. Stats Perform Pro Forum. March 2021.
+*    [Inferring the Strategy of Offensive and Defensive Play in Soccer with Inverse Reinforcement Learning]() by Pegah Rahimian and László Toka. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
+*    [Learning Football Body-Orientation as a Matter of Classification](https://drive.google.com/file/d/1YvKHzLliA04tZR2sp_TtFJWIVYI65cmb/view) (2021) by Adrià Arbués-Sangüesa, Adrián Martín, Paulino Granero, Coloma Ballester and Gloria Haro;
 *    [Leaving Goals on the Pitch: Evaluating Decision Making in Soccer]() (2021) by Maaike Van Roy, Pieter Robberechts, Wen-Chi Yang, Luc De Raedt, and Jesse Davis. See the accompanying blog post [[link](https://dtai.cs.kuleuven.be/sports/ssac21/)] and research poster [[link](https://dtai.cs.kuleuven.be/sports/ssac21/MaaikeVanRoyLeavingGoalsRPposter.pdf)]; 
-*    [Learning Football Body-Orientation as a Matter of Classification](https://drive.google.com/file/d/1YvKHzLliA04tZR2sp_TtFJWIVYI65cmb/view)(2021) by Adrià Arbués-Sangüesa, Adrián Martín, Paulino Granero, Coloma Ballester and Gloria Haro;
-*    [Making Offensive Play Predictable Using a GCN to Understand Defensive Performance in Socce](https://o7dkx1gd2bwwexip1qwjpplu-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/1617733444_PaulPowerOffensivePlaySoccerRPpaper-1.pdf) (2021) by Paul Power, Michael Stöckl, and Thomas Seidel for Opta Pro Forum 2021. See the accomanpying talk on Vimeo [[link](https://player.vimeo.com/video/534338154)];
-*    [“Why Would I Trust Your Numbers?” On the Explainability of Expected Values in Soccer](https://drive.google.com/file/d/1AHYBmTGBOyoKbVN8ACebqZfYnQXzW-En/view) (2021) by Jan Van Haaren
-*    [Women's football analyzed: interpretable expected goals models for women](https://drive.google.com/file/d/1Plg2mGJixgdrN2BsuOocuwuAt9a5VS5G/view) (2021) by Lotte Bransen and Jesse Davis
+*    [Making Offensive Play Predictable - Using a Graph Convolutional Network to Understand Defensive Performance in Soccer](https://o7dkx1gd2bwwexip1qwjpplu-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/1617733444_PaulPowerOffensivePlaySoccerRPpaper-1.pdf) (2021) by Paul Power, Michael Stöckl, and Thomas Seidel for Opta Pro Forum 2021. See the accomanpying talk on Vimeo [[link](https://player.vimeo.com/video/534338154)];
+*    [Measuring the Effectiveness of Pressing in Soccer]() by Simon Merckx, Pieter Robberechts, Yannick Euvrard and Jesse Davis. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
+*    [Modelling Team Performance in Soccer Using Tactical Features Derived from Position Tracking Data]() by Floris Goes, Matthias Kempe, Jan van Norel and Koen Lemmink. IMA Journal of Management Mathematics. April 2021.
+*    [Optimally Disrupting Opponent Build-Ups]() by Maaike Van Roy, Pieter Robberechts and Jesse Davis. StatsBomb Conference. October 2021.
+*    [Optimising Long-Term Outcomes using Real-World Fluent Objectives: An Application to Football]() by Ryan Beal, Georgios Chalkiadakis, Timothy Norman and Sarvapali Ramchurn. Proceedings of the International Conference on Autonomous Agents and Multiagent Systems. May 2021.
+*    [Pace and Power: Removing Unconscious Bias from Soccer Broadcasts]() by Sam Gregory. New England Symposium on Statistics in Sports. October 2021.
+*    [Player Masks: Encoding Soccer Decision-Making Tendencies]() by Devin Pleuler. New England Symposium on Statistics in Sports. October 2021.
+*    [Potential Penetrative Pass (P3)]() by Hadi Sotudeh. StatsBomb Conference. October 2021.
+*    [Predicting Player Transfers in the Small World of Football]() by Roland Kovács and László Toka. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
+*    [Predictive Value of Off-Target Shots in Soccer]() by Ethan Baron. New England Symposium on Statistics in Sports. October 2021.
+*    [Quantifying League-Independent Scoring Ability in Soccer]() by Daniel Daly-Grafstein. New England Symposium on Statistics in Sports. October 2021.
+*    [Similarity of Football Players Using Passing Sequences]() by Alberto Barbosa, Pedro Ribeiro and Inês Dutra. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
+*    [SoccerNet-v2: A Dataset and Benchmarks for Holistic Understanding of Broadcast Soccer Videos]() by Adrien Deliege, Anthony Cioppa, Silvio Giancola, Meisam Seikavandi, Jacob Dueholm, Kamal Nasrollahi, Bernard Ghanem, Thomas Moeslund and Marc Van Droogenbroeck. CVPR 2021 International Workshop on Computer Vision in Sports (CVsports 2021). June 2021.
+*    [Temporally-Aware Feature Pooling for Action Spotting in Soccer Broadcasts]() by Silvio Giancola and Bernard Ghanem. CVPR 2021 International Workshop on Computer Vision in Sports (CVsports 2021). June 2021.
+*    [The Interpretable Representation of Football Player Roles Based on Passing/Receiving Patterns]() by Arsalan Sattari, Ulf Johansson, Erik Wilderoth, Jasmin Jakupovic and Peter Larsson-Green. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
+*    [The Origins of Goals in the German Bundesliga]() by Pascal Bauer, Gabriel Anzer and Ulf Brefeld. Journal of Sports Sciences. July 2021.
+*    [The Quest for the Right Pass: Quantifying Players’ Decision Making]() by Borja Burriel and Javier Buldú. StatsBomb Conference. October 2021.
+*    [The Statistics of Spin in Soccer]() by Jackson Weaver. New England Symposium on Statistics in Sports by October 2021.
+*    [Volatility and Calculation of Risk-Adjusted Return in Football Scouting]() by Ola Lidmark Eriksson. Stats Perform Pro Forum. March 2021.
+*    [What Happened Next? Using Deep Learning to Value Defensive Actions in Football Event-Data]() by Charbel Merhej, Ryan Beal, Sarvapali Ramchurn and Tim Matthews;
+*    [“Why Would I Trust Your Numbers?” On the Explainability of Expected Values in Soccer](https://drive.google.com/file/d/1AHYBmTGBOyoKbVN8ACebqZfYnQXzW-En/view) (2021) by Jan Van Haaren; and
+*    [Women's football analyzed: interpretable expected goals models for women](https://drive.google.com/file/d/1Plg2mGJixgdrN2BsuOocuwuAt9a5VS5G/view) (2021) by Lotte Bransen and Jesse Davis.
 
 <h5 id="2020"> 2020</h5>
   
