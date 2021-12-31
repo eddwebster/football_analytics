@@ -1046,20 +1046,19 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
   
 *    [6MapNet: Representing Soccer Players from Tracking Data a Triplet Network](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_kim.pdf) (2021) by Hyunsung Kim, Jihun Kim, Dongwook Chung, Jonghyun Lee, Jinsung Yoon and Sang-Ki Ko;
 *    [A Bayesian Approach to In-Game Win Probability in Soccer](https://dl.acm.org/doi/10.1145/3447548.3467194) (2021) by Pieter Robberechts, Jan Van Haaren, and Jesse Davis. See the accompanying blog [[link](https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability)];
-*    [A Career in Football: What Is Behind an Outstanding Market Value?](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_acs.pdf) by Balázs Ács and László Toka. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
+*    [A Career in Football: What Is Behind an Outstanding Market Value?](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_acs.pdf) by Balázs Ács and László Toka;
 *    [A Copula-Based Hidden Markov Model for Classification of Tactics in Football](https://arxiv.org/pdf/2002.01193.pdf) by Marius Oetting. See accompanying NESSIS talk [[link](https://www.youtube.com/watch?v=X2m40JSS2M0)];
-*    [A Framework for the Fine-Grained Evaluation of the Instantaneous Expected Value of Soccer Possessions]() by Javier Fernández, Luke Bornn and Daniel Cervone. Machine Learning. May 2021.
-*    [A Goal Scoring Probability Model for Shots Based on Synchronized Positional and Event Data in Football (Soccer)]() by Gabriel Anzer and Pascal Bauer. Frontiers in Sports and Active Living. March 2021.
-*    [A Physics Based Measurement of Defensive Contributions]() by Aditya Kothari. Stats Perform Pro Forum. March 2021.
-*    [A Poisson Betting Model with a Kelly Criterion Element for European Soccer]() by Kushal Shah, James Hyman and Dominic Samangy. Proceedings of the 2021 MIT Sloan Sports Analytics Conference. April 2021.
-*    [A Risk-Reward Assessment of Passing Decisions: Comparison Between Positional Roles Using Tracking Data from Professional Men’s Soccer]() by Floris Goes, Edgar Schwarz, Marije Elferink-Gemser, Koen Lemmink and Michel Brink. Science and Medicine in Football. June 2021.
+*    [A Framework for the Fine-Grained Evaluation of the Instantaneous Expected Value of Soccer Possessions](https://link.springer.com/article/10.1007%2Fs10994-021-05989-6) by Javier Fernández, Luke Bornn and Daniel Cervone;
+*    [A Goal Scoring Probability Model for Shots Based on Synchronized Positional and Event Data in Football (Soccer)](https://www.frontiersin.org/articles/10.3389/fspor.2021.624475/full) by Gabriel Anzer and Pascal Bauer;
+*    [A Physics Based Measurement of Defensive Contributions](https://vimeo.com/533973203) by Aditya Kothari;
+*    [A Poisson Betting Model with a Kelly Criterion Element for European Soccer](https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/607a445eee46ee3ac33595d3_KushalShah-PoissonBetting-RPpaper.pdf) by Kushal Shah, James Hyman and Dominic Samangy;
+*    [A Risk-Reward Assessment of Passing Decisions: Comparison Between Positional Roles Using Tracking Data from Professional Men’s Soccer](https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/607a445eee46ee3ac33595d3_KushalShah-PoissonBetting-RPpaper.pdf) by Floris Goes, Edgar Schwarz, Marije Elferink-Gemser, Koen Lemmink and Michel Brink;
 *    [Analyzing Learned Markov Decision Processes using Model Checking for Providing Tactical Advice in Professional Soccer](https://drive.google.com/file/d/1PURSuMmgLGgnydEO7EiGR-WEtLtrKYVb/view) (2021) by Maaike Van Roy, Wen-Chi Yang, Luc De Raedt and Jesse Davis;
-*    [Anatomy of Receiving and Turning with the Ball]() by Soumyajit Bose and Manas Saraswat. StatsBomb Conference. October 2021.
-*    [Camera Calibration and Player Localization in SoccerNet-v2 and Investigation of Their Representations for Action Spotting]() by Anthony Cioppa, Adrien Deliege, Floriane Magera, Silvio Giancola, Olivier Barnich, Bernard Ghanem and Marc Van Droogenbroeck. CVPR 2021 International Workshop on Computer Vision in Sports (CVsports 2021). June 2021.
-*    [Combining Machine Learning and Human Experts to Predict Match Outcomes in Football: A Baseline Model]() by Ryan Beal, Stuart Middleton, Timothy Norman, Sarvapali Ramchurn. Proceedings of the AAAI Conference on Artificial Intelligence. February 2021.
-*    [Data-Driven Detection of Counterpressing in Professional Football]() by Pascal Bauer and Gabriel Anzer. Data Mining and Knowledge Discovery - Special Issue on Sports Analytics. July 2021.
-*    [Determining the Phases of Play Using Graph Neural Network Embeddings]() by Juan Camilo Campos. StatsBomb Conference. October 2021.
-*    [Enriching Event Data: A Semi-Supervised Augmentation Approach Using Location Information]() by Debangan Dey, Rahul Ghosal and Atanu Mitra. Stats Perform Pro Forum. March 2021.
+*    [Anatomy of Receiving and Turning with the Ball](http://statsbomb.com/wp-content/uploads/2021/11/Anatomy-of-Receiving-and-Turning-with-the-Ball.pdf) by Soumyajit Bose and Manas Saraswat;
+*    [Camera Calibration and Player Localization in SoccerNet-v2 and Investigation of Their Representations for Action Spotting](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Cioppa_Camera_Calibration_and_Player_Localization_in_SoccerNet-v2_and_Investigation_of_CVPRW_2021_paper.pdf) by Anthony Cioppa, Adrien Deliege, Floriane Magera, Silvio Giancola, Olivier Barnich, Bernard Ghanem and Marc Van Droogenbroeck;
+*    [Combining Machine Learning and Human Experts to Predict Match Outcomes in Football: A Baseline Model](https://arxiv.org/abs/2012.04380) by Ryan Beal, Stuart Middleton, Timothy Norman, Sarvapali Ramchurn;
+*    [Data-Driven Detection of Counterpressing in Professional Football](https://link.springer.com/article/10.1007/s10618-021-00763-7) by Pascal Bauer and Gabriel Anzer;
+*    [Determining the Phases of Play Using Graph Neural Network Embeddings](http://statsbomb.com/wp-content/uploads/2021/11/Juan-Camilo-Campos.pdf) by Juan Camilo Campos;
 *    [Estimating the Change in Soccer… Home Advantage During the COVID-19 Pandemic]() by Luke Benz and Mike Lopez. New England Symposium on Statistics in Sports. October 2021.
 *    [Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning](https://arxiv.org/pdf/2101.05388.pdf) (2021) by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg). See the [`nayra`](https://github.com/DonsetPG/narya) library for code.
 *    [Extended Model for Expected Threat in Soccer]() by Jirka Poropudas. New England Symposium on Statistics in Sports. October 2021.
@@ -1375,12 +1374,12 @@ Playlists created by others
 *    [Why Do Clubs Need to Embrace Analytics to Stay Competitive?](https://www.youtube.com/watch?v=kWBpxxxxLWQ) with Vosse de Boode, David Sumpter, Adrien Tarascon and Javier Fernández for Barca Innovation Hub;
 *    [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0) with Lotte Bransen and Jan Van Haaren for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w);
 *    [Routine Inspection: Measuring Playbooks for Corner Kicks](https://www.youtube.com/watch?v=yfPC1O_g-I8) by Laurie Shaw and Sudarshan 'Suds' Gopaladsikan;
+*    [Enriching Event Data: A Semi-Supervised Augmentation Approach Using Location Information](https://vimeo.com/548347946) by Debangan Dey, Rahul Ghosal and Atanu Mitra;
 *    [Tactical Insight Through Team Personas](https://www.youtube.com/watch?v=lQifhUGsDYY) by David Perdomo Meza and Daniel Girela. See accompanying blog post [[link](https://www.twenty3.sport/tactical-insight-through-team-personas-an-optapro-presentation/)];
 *    [Training Ground Guru webinairs](https://traininggroundguru.vhx.tv/products)
 *    [Christmas Lectures 2019: How to Get Lucky](https://youtu.be/_q4DrUHKC0Q?t=1666) with Hannah Fry. Small segment with [Tim Waskett](https://twitter.com/StoneBakedGames) @ 27mins;
 *    [I’m in a Wide Open Space: Creating Opportunities at Set Pieces](https://www.youtube.com/watch?v=F_C5V9bykAg) by Dan Barnett;
 *    [Long or Short? How the New Short Goal Kick Rule Is Impacting Football](https://www.youtube.com/watch?v=tKwLjkjtecA) by Tom Worville;
-
 *    [Identifying and Evaluating Strategies to Break down a Low Block Defence](https://vimeo.com/404694721/21fa93ada1) by Vignesh Jayanth. See accompanying blog post [[link](https://medium.com/@VigneshJayanth1/a-case-study-of-identifying-low-blocks-and-strategies-in-football-with-fc-nordsj%C3%A6lland-294ff655fd3)];
 *    [Seeing in to the Future: Modelling Football Player Movements](https://www.youtube.com/watch?v=iD-EE4nUbwI) by David Sumpter;
 *    [Learning Value and Style from Soccer Event Stream Data](https://www.youtube.com/watch?v=YXsG455zYKc) by Tom Decroo;
