@@ -183,7 +183,8 @@ The following open-source [Python](https://www.python.org/) libraries listed bel
 *    [XGBoost](https://xgboost.readthedocs.io/en/latest/); and
 *    [SHAP](https://github.com/slundberg/shap).
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -441,7 +442,8 @@ The contents of this GitHub repository is organised as the following:
     │
     └── video 
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -456,6 +458,9 @@ Nearly all code in this repository is in Jupyter notebooks, organised in the fol
 3.    [Data Engineering](https://github.com/eddwebster/football_analytics/tree/master/notebooks/3_data_engineering);
 4.    [Data Unification](https://github.com/eddwebster/football_analytics/tree/master/notebooks/4_data_unification); and
 5.    [Data Analysis](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects) - projects include working with [Tracking data](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/tracking_data), constructing [VAEP models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/vaep) (as introduced by SciSports), building [xG models](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/xg_modeling) using [Logistic Regression](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/5_data_analysis_and_projects/xg_modeling/shots_dataset/chance_quality_modelling/1%29%20Logistic%20Regression%20Expected%20Goals%20Model.ipynb), Random Forests and Gradient Booested Decision Tree algorithms such as [XGBoost](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/5_data_analysis_and_projects/xg_modeling/shots_dataset/chance_quality_modelling/2%29%20XGBoost%20Expected%20Goals%20Model.ipynb) and [CatBoost](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/5_data_analysis_and_projects/xg_modeling/shots_dataset/chance_quality_modelling/3%29%20CatBoost%20Expected%20Goals%20Model.ipynb), and analysing [player similarity](https://github.com/eddwebster/football_analytics/tree/master/notebooks/5_data_analysis_and_projects/player_similarity_and_clustering) using PCA and K-Means clustering).
+
+<a href="#table-of-contents">Back to Contents</a>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -473,7 +478,8 @@ Example Tableau dashboards:
 *    [StrataBet Chance creation](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterStrataBetChanceAnalysisandDashboards/StrataBetChanceShotMapDashboard); and
 *    [Opta #mcfcanalytics](https://public.tableau.com/app/profile/edd.webster/viz/EddWebsterOptaMCFCAnalyticsPL1112AnalysisandDashboards/OptaPlayerDemographicsDashboard) (see [#mcfcanalytics](https://twitter.com/search?q=%23mcfcanalytics)).
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -530,7 +536,8 @@ Good resources for those new for the use of data in football:
 *    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0);
 *    [Some of the useful resources in Football Analytics](https://footytistics.com/2020-12-19-useful-resources-football-analytics/) by [@VenkyReddevil](https://twitter.com/VenkyReddevil);
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="data"> :floppy_disk: Data </h2>
 
@@ -721,7 +728,8 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    [SICO](https://www.sicostats.com/)
 *    [Wise](http://app.wise4sports.com/home/)
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="tutorials"> :student: Tutorials</h3>
 
@@ -855,6 +863,9 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) - a R package to scrape aggregated [StatsBomb](https://statsbomb.com/) data via [FBref](https://fbref.com/en/) and valuations and transfer data from [TransferMarkt](https://www.transfermarkt.com/) by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide on how to use this package [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)]); and
 *    [`understatr`](https://github.com/ewenme/understatr) - a R package to scrape [Understat](https://understat.com/) shooting and player meta data.
 
+<a href="#table-of-contents">Back to Contents</a>
+
+
 <h3 id="github-repos"> GitHub Repositories</h3>
 
 <h4 id="python"> Python</h4>
@@ -894,7 +905,8 @@ StatsBomb  JSON file and get a CSV file back (you need to create a free account 
 *    [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library/) by [Lars Maurath](https://twitter.com/thesignigame); and
 *    [Tracking Tagger](http://tracking-tagger.herokuapp.com/tracking_tagger) by [@danzn1](https://twitter.com/danzn1). See GitHub repo [[[link](https://github.com/znstrider/tracking_tagger)].
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="data-visualisation-resources-and-tools"> :bar_chart: Data Visualisation Resources and Tools</h3>
 
@@ -913,7 +925,8 @@ Resources to aid data visualisation:
 *    [John Burn-Murdoch](https://twitter.com/jburnmurdoch)'s [Data visualisation is about words](https://www.youtube.com/watch?v=uoFN3nxeMco) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w); and
 *    [Peter McKeever](https://twitter.com/petermckeever)'s Twitter thread about data viz [[link](https://threadreaderapp.com/thread/1405233770375036931.html)].
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="written-pieces"> :black_nib: Written Pieces</h3>
 
@@ -1435,7 +1448,8 @@ Playlists created by others
 *    [Jeff Stelling xG rant](https://facebook.com/SoccerAM/videos/1740454985978128/); and
 *    [Craig Burley xG rant](https://www.youtube.com/watch?v=JBWKGij9Y5A).
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="podcasts"> :loud_sound: Podcasts</h3>
 
@@ -1686,7 +1700,8 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 *    [View From The Byline](https://open.spotify.com/show/5CNA9arsI2RZvOF32k19Av?si=mkJf-XeeTR6rh7IKCpFqgQ)
      +    [Football analytics, life at The Athletic and Fantasy Football with Tom Worville](https://open.spotify.com/episode/6Sozmea5HVr3fULk3SNFa2?si=AQB9fbVPR-29TVS7zaM6xw)
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="notable-figures-and-twitter-accounts"> :man_technologist: Notable Figures and Twitter Accounts</h3>
 
@@ -1727,7 +1742,8 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 *    [Sports Analytics World Series](https://www.analyticsinsport.com/); and
 *    [Sportdata & Performance Forum](https://www.sportdataperformance.com/).
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="competitions"> Competitions</h3>
 
@@ -1738,7 +1754,8 @@ The following includes non-football competitions.
 *    [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football) - October 2020; and
 *    [Liverpool Analytics Challenge](https://soccermatics.medium.com/entries-for-the-liverpool-analytics-challenge-807f5eee12fd) (Football) - May 2020. Challenge used [Last Row Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) kindly provided by [Ricardo Tavares](https://twitter.com/rjtavares). Full a full list of entries, see David Sumpter's Medium post [[link](https://soccermatics.medium.com/entries-for-the-liverpool-analytics-challenge-807f5eee12fd)], featuring the three eventual winners - Surya Kocherlakota, Theophane Gregoir and Paul Garnier's, and Gabin Rolland (discussed on [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) [[link](https://www.youtube.com/watch?v=AFm3JNPu9Jw)]).
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="courses"> Courses</h3>
 
@@ -1789,7 +1806,8 @@ For live job postings tracked by the community, check the Jobs channel of the [F
 *    [Football Analysts](https://discord.com/invite/w7HKMrWD5z) Discord server organised by [Carlon Carpenter](https://twitter.com/CarlonCarpenter); and
 *    [Scouted Football](https://discord.com/invite/r3zkYU33) Discord server.
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="key-concepts"> :key: Key Concepts</h3>
 
@@ -2387,7 +2405,8 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
      +    [Turning Theory Into Practice: Paul Riley Meets Swedish National Goalkeeping Coach Maths Elfvendal](https://statsbomb.com/2018/12/turning-theory-into-practice-paul-riley-meets-swedish-national-goalkeeping-coach-maths-elfvendal/) (04/12/2018) 
      +    [The Unique (and Not so Unique) Challenges of Goalkeeping in Women's Soccer](https://statsbomb.com/2018/11/the-unique-and-not-so-unique-challenges-of-goalkeeping-in-womens-soccer/) (16/11/2018)
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h3 id="miscellaneous"> :grey_question: Miscellaneous</h3>
 
@@ -2398,7 +2417,8 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h2 id="contributing"> Contributing</h2>
 
@@ -2406,7 +2426,8 @@ This GitHub repository and resources list will be a constant work in progress so
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+<a href="#table-of-contents">Back to Contents</a>
+
 
 <h2 id="acknowledgements"> Acknowledgements</h2>
 
