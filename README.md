@@ -1036,7 +1036,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 
 <h4 id="papers"> :page_with_curl: Papers</h4>
 
-Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html) and [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html). Props to him for reading a paper a day.
+Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html) and [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html). Props to him for reading a paper a week and helping improve this section of this GitHub repo.
 
 The papers included in this list have been 
 
@@ -1044,10 +1044,10 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 
 <h5 id="2021"> 2021</h5>
   
-*    [6MapNet: Representing Soccer Players from Tracking Data]() by a Triplet Network. Hyunsung Kim, Jihun Kim, Dongwook Chung, Jonghyun Lee, Jinsung Yoon and Sang-Ki Ko. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
+*    [6MapNet: Representing Soccer Players from Tracking Data a Triplet Network](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_kim.pdf) (2021) by Hyunsung Kim, Jihun Kim, Dongwook Chung, Jonghyun Lee, Jinsung Yoon and Sang-Ki Ko;
 *    [A Bayesian Approach to In-Game Win Probability in Soccer](https://dl.acm.org/doi/10.1145/3447548.3467194) (2021) by Pieter Robberechts, Jan Van Haaren, and Jesse Davis. See the accompanying blog [[link](https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability)];
-*    [A Career in Football: What Is Behind an Outstanding Market Value?]() by Balázs Ács and László Toka. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
-*    [A Copula-Based Hidden Markov Model for Classification of Tactics in Football]() by Marius Oetting. New England Symposium on Statistics in Sports. October 2021.
+*    [A Career in Football: What Is Behind an Outstanding Market Value?](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_acs.pdf) by Balázs Ács and László Toka. ECML/PKDD 2021 Workshop on Machine Learning and Data Mining for Sports Analytics (MLSA 2021). September 2021.
+*    [A Copula-Based Hidden Markov Model for Classification of Tactics in Football](https://arxiv.org/pdf/2002.01193.pdf) by Marius Oetting. See accompanying NESSIS talk [[link](https://www.youtube.com/watch?v=X2m40JSS2M0)];
 *    [A Framework for the Fine-Grained Evaluation of the Instantaneous Expected Value of Soccer Possessions]() by Javier Fernández, Luke Bornn and Daniel Cervone. Machine Learning. May 2021.
 *    [A Goal Scoring Probability Model for Shots Based on Synchronized Positional and Event Data in Football (Soccer)]() by Gabriel Anzer and Pascal Bauer. Frontiers in Sports and Active Living. March 2021.
 *    [A Physics Based Measurement of Defensive Contributions]() by Aditya Kothari. Stats Perform Pro Forum. March 2021.
