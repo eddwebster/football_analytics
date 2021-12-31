@@ -421,8 +421,11 @@ The contents of this GitHub repository is organised as the following:
     │   │   │   │   └── metrica-sports
     │   │   │   │       └── Metrica Sports.ipynb
     │   │   │   │   
-    │   │   │   └── wyscout_statsbomb_datasets
-    │   │   │       └── 1) Expected Goals Modeling using StatsBomb and Wyscout Event Data - Creation of the Shot Model from StatsBomb and Wyscout Eventm.ipynb
+    │   │   │   ├── statsbomb_dataset
+    │   │   │   │   └── Introduction to Building Expected Goals Models Using StatsBomb 360 Data.ipynb
+    │   │   │   │   
+    │   │   │   └── opta_dataset
+    │   │   │       └── Training of an Expected Goals Model Using Opta Event Data.ipynb
     │   │   │ 
     │   └── 6_data_visualisation
     │
