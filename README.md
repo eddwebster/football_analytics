@@ -925,7 +925,10 @@ StatsBomb  JSON file and get a CSV file back (you need to create a free account 
 *    [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library/) by [Lars Maurath](https://twitter.com/thesignigame); and
 *    [Tracking Tagger](http://tracking-tagger.herokuapp.com/tracking_tagger) by [@danzn1](https://twitter.com/danzn1). See GitHub repo [[[link](https://github.com/znstrider/tracking_tagger)].
 
+
 <a href="#table-of-contents">Back to Contents</a>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
 
 <h3 id="data-visualisation-resources-and-tools"> :bar_chart: Data Visualisation Resources and Tools</h3>
