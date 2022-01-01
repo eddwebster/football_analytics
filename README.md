@@ -538,6 +538,8 @@ Good resources for those new for the use of data in football:
 
 <a href="#table-of-contents">Back to Contents</a>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+
 
 <h3 id="data"> :floppy_disk: Data </h2>
 
