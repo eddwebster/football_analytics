@@ -1319,7 +1319,11 @@ The following use Amazon UK links were available.
 
 *    [Scouted Football Handbook](https://sfhandbook.com/)
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+
+<a href="#table-of-contents">Back to Contents</a>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+
 
 <h3 id="video"> :vhs: Video</h3>
 
@@ -1471,7 +1475,11 @@ Playlists created by others
 *    [Jeff Stelling xG rant](https://facebook.com/SoccerAM/videos/1740454985978128/); and
 *    [Craig Burley xG rant](https://www.youtube.com/watch?v=JBWKGij9Y5A).
 
+
 <a href="#table-of-contents">Back to Contents</a>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+
 
 
 <h3 id="podcasts"> :loud_sound: Podcasts</h3>
@@ -1742,7 +1750,11 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 *    [Football data Analysts spreadsheet](https://docs.google.com/spreadsheets/d/1wjMVOpupmcF4hEG7PO4lY6l2mKsldGsnkyAULQwyAp8/) by [Dan Altman](https://twitter.com/NYAsports) (few years old now but lists the OGs of football analytics); and
 *    [Introduction to Soccer Analytics – The Guys I Follow](https://mixedknuts.wordpress.com/2013/04/30/introduction-to-soccer-analytics-the-guys-i-follow/) by Ted Knutson (a old, 2013 bio of the guys that started the football analytics movement. Now out-of-date, but great if you want to know who helped influence football analytics).
 
-<li><a href="#table-of-contents">Back to Contents</a></li>
+
+<a href="#table-of-contents">Back to Contents</a>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+
 
 <h3 id="events-and-conferences"> :spiral_calendar: Events and Conferences</h3>
 
@@ -2465,9 +2477,10 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 *    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf).
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 <a href="#table-of-contents">Back to Contents</a>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <h2 id="contributing"> Contributing</h2>
@@ -2475,9 +2488,10 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 This GitHub repository and resources list will be a constant work in progress so if you can think of any resources that I've missed, feel free to create a pull request or send me a message @ edd.j.webster@gmail.com or [@eddwebster](https://www.twitter.com/eddwebster).
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 <a href="#table-of-contents">Back to Contents</a>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <h2 id="acknowledgements"> Acknowledgements</h2>
