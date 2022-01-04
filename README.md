@@ -2424,7 +2424,8 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 
 <h5 id="player-valuation-models"> Models</h5>
 
-*    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio);
+*    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio)
+*    [TransferRoom Expected Transfer Value (xTV) Webinar](https://www.transferroom.com/xtv-webinar) - webinar by Daniel Blades of TransferRoom, providing insight into the workings of xTV, a metric created by TransferRoom to enable a data-led measure of a player’s value in the transfer market. The webinar covers: What is xTV? How is it calculated? Does it differ from other valuation methods? How does xTV benchmark players? What is the reliability of xTV? How does xTV help clubs and agents? What are some real-life examples of xTV?
 
 <h5 id="player-valuation-data"> Data</h5>
 
