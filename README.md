@@ -243,7 +243,12 @@ The contents of this GitHub repository is organised as the following:
     │   ├── metrica-sports
     │   │ 
     │   ├── opta
-    │   │ 
+    │   │   │   
+    │   │   └── raw  
+    │   │       │
+    │   │       ├── premier-league
+    │   │       └── serie-a
+    │   │
     │   ├── reference
     │   │ 
     │   ├── sb
