@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: ScraperFC
+Version: 1.10.0
+Summary: Package for scraping soccer data from a variety of sources.
+Home-page: https://github.com/oseymour/ScraperFC
+Author: Owen Seymour
+Author-email: osmour043@gmail.com
+License: UNKNOWN
+Description: This is ScraperFC, a Python package that I hope will give more people access to soccer stats. It's still very much a work in progress and I'm currently a full-time grad student so progress may be slow. I am trying to chip away at it though, so please, reach out with any problems you encounter or features you want to see added!
+        
+        To install ScraperFC, run ```pip install ScraperFC``` from the command line.
+        
+        Data can be scraped from the following sources:
+        * [FBRef](https://fbref.com/en/)
+        * [Understat](https://understat.com/)
+        * [FiveThirtyEight](https://projects.fivethirtyeight.com/soccer-predictions/)
+        * [WhoScored](https://www.whoscored.com/)
+        
+        For usage examples, look at Examples.ipynb in the code directory.
+        
+        All data used in the data viz examples is available at https://drive.google.com/drive/folders/1LhW3wcG5uoAAHcgPHRcJYmIQaMY9GlRI?usp=sharing.
+        
+        I'd love to hear your feedback, bugs you find, or recommendations! You can reach me via email at osmour043@gmail.com or my Twitter handle is [@owen_seymour](https://twitter.com/owen_seymour).
+Keywords: soccer,football,Premier League,Serie A,La Liga,Bundesliga,Ligue 1,web scraping,data
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
