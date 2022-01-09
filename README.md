@@ -515,8 +515,8 @@ Good resources for those new for the use of data in football:
            -    [Where to Watch: Sports Analytics Conference Video Archives](https://brendankent.com/2020/09/17/where-to-watch-sports-analytics-conference-video-archives/)
            -    [How to Start a Sports Analytics Club](https://brendankent.com/2020/09/28/how-to-start-a-sports-analytics-club/)
       +    [Tom Worville](https://twitter.com/Worville)'s [Twitter thread](https://twitter.com/Worville/status/1275732993819250688)
-      +    [Will Spearman's Twitter thread](https://twitter.com/the_spearman/status/1260713785138073604) for free, open-source software libraries for computing and visualising advanced soccer analytics metrics;
-      +    [Jan Van Haaren](https://twitter.com/JanVanHaaren)'s [Twitter thread](https://twitter.com/JanVanHaaren/status/1436336286223196201)
+      +    [Will Spearman's Twitter thread](https://twitter.com/the_spearman/status/1260713785138073604) 
+      +    [Jan Van Haaren](https://twitter.com/JanVanHaaren)'s [Twitter thread](https://twitter.com/JanVanHaaren/status/1436336286223196201) for free, open-source software libraries for computing and visualising advanced soccer analytics metrics
       +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]
       +    [Sancho Quinn](https://twitter.com/SanchoQuinn)'s unrolled Twitter thread for learning more about video/performance analysis [[link](https://threadreaderapp.com/thread/1434543901067595784.html)]
       +    [Ninad Barbadikar](https://twitter.com/NinadB_06)'s 'big football analytics' Twitter thread for getting started with football analytics [[link](https://twitter.com/NinadB_06/status/1409817891126452226)]
