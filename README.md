@@ -1404,7 +1404,6 @@ Playlists created by others
 *    [Ninad Barbadikar](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)'s YouTube channel - for Tableau tutorials
 *    [Opta](https://www.youtube.com/user/optasports) - including Opta Pro Forum talks
 *    [Planeta Data Fútbol](https://www.youtube.com/channel/UCpIqAVOpOWt-8Sk4KvosxFg) (en español) con [Jesús Lagos](https://twitter.com/Vdot_Spain) y [Miguel Ángel García](https://twitter.com/miguelangaro)
-
 *    [StatsBomb](https://www.youtube.com/channel/UCmZ2ArreL9muPvH49Gaw0Bw) - including StatsBomb Conference talks
 *    [STATS Insights](https://www.youtube.com/user/BloombergSports)
 *    [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ)
