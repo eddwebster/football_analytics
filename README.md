@@ -1412,7 +1412,9 @@ Playlists created by others
 
 <h4 id="video-analysis"> Video Analysis</h4>
   
-*    Over 150 video analysis videos by [Carlon Carpenter](https://twitter.com/C_Carpenter14) - see Google Drive [[link](https://t.co/mH9BKFnG6g?amp=1)].
+*    [Carlon Carpenter](https://twitter.com/C_Carpenter14)'s Google Drive [[link](https://drive.google.com/drive/folders/1o2OQchaACXzpoN2TfZsSZpraRAvm0ZFO] of football analytics videos, featuring: [Individual Concepts](https://drive.google.com/drive/folders/1gVzOHn2vEWgZWUlWji64At3EI88stH2J?usp=sharing), [General Football Tactics](https://drive.google.com/drive/folders/1F81jkd02eimDqhThCURrPB_O-nfOFGHW?usp=sharing), specific clips for [Men's football](https://drive.google.com/drive/folders/1f_UBFTWMJS-Oab_I00tlUrp6yOQWAeTW?usp=sharing) and [Women's football](https://drive.google.com/drive/folders/1ZxAthcB_IKSxywPv4aJs7uc5tPm_fJn2?usp=sharing), [Tactical Camera Footage](https://drive.google.com/drive/folders/1wSRTdIogB-dUnpoyJHrOV_adR1yDLvkf?usp=sharing), and [Training Sessions](https://drive.google.com/drive/folders/1PUjtGALts4dixqUJmKtAIYBNhkVF-kzx?usp=sharing).
+*    [Carlon Carpenter](https://twitter.com/C_Carpenter14)'s Google Drive [[link](https://drive.google.com/drive/folders/1MuKaVeM2HIz6pzlsYi0PHjH_pN6G2IMp)] of performance analysis videos, featuring: [Analysis Sample Reports and Writing](https://drive.google.com/drive/folders/1UUsVJkFI_7rVT020gydQ5pFcpBXq39TF?usp=sharing) and [Sportscode Materials](https://drive.google.com/drive/folders/1FXzrm-hqopTt-tBtfR-UqZUJoR6qI0sd?usp=sharing).
+*    [Coaching Video Content](https://drive.google.com/drive/folders/1E10wZmiqIM9qYyWFz9F9JDl-m2Zye2Rb) by [Michael Loftman](https://twitter.com/michael_loftman)
 
 <h4 id="webinars-and-lectures"> Webinars and Lectures</h4>
 
