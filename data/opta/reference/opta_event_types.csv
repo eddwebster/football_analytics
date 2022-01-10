@@ -1,0 +1,78 @@
+﻿No.,eventTypeName,eventTypeId,Description
+1,Pass,1,"Any pass attempted from one player to another – free kicks, corners, throw ins, goal kicks and goal assists"
+2,Offside Pass,2,Attempted pass made to a player who is in an offside position
+3,Take On,3,Attempted dribble past an opponent (excluding when qualifier 211 is present as this is ‘overrun’ and is not always a duel event)
+4,Foul,4,This event is shown when a foul is committed resulting in a free kick
+5,Out,5,Shown each time the ball goes out of play for a throw-in or goal kick
+6,Corner Awarded,6,Ball goes out of play for a corner kick
+7,Tackle,7,"Tackle = dispossesses an opponent of the ball - Outcome 1 = win & retain possession or out of play, 0 = win tackle but not possession"
+8,Interception,8,When a player intercepts any pass event between opposition players and prevents the ball reaching its target. Cannot be a clearance.
+9,Turnover,9,Unforced error / loss of possession - i.e. bad control of ball – NO LONGER USED (Replaced with Unsuccessful Touch + Overrun)
+10,Save,10,Goalkeeper event; saving a shot on goal. Can also be an outfield player event with qualifier 94 for blocked shot
+11,Claim,11,Goalkeeper event; catching a crossed ball
+12,Clearance,12,Player under pressure hits the ball clear of the defensive zone or/and out of play
+13,Miss,13,Any shot on goal which goes wide or over the goal
+14,Post,14,Whenever the ball hits the frame of the goal
+15,Saved Shot,15,Shot saved - this event is for the player who made the shot. Qualifier 82 can be added for blocked shot.
+16,Goal,16,All goals
+17,Card,17,"Bookings; will have red, yellow or 2nd yellow qualifier plus a reason"
+18,Player Off,18,Player is substituted off
+19,Player on,19,Player comes on as a substitute
+20,Player retired,20,Player is forced to leave the pitch due to injury and the team have no substitutions left
+21,Player returns,21,Player comes back on the pitch
+22,Player becomes goalkeeper,22,When an outfield player has to replace the goalkeeper
+23,Goalkeeper becomes player,23,If goalkeeper becomes an outfield player
+24,Condition change,24,Change in playing conditions
+25,Official change,25,Referee or linesman is replaced
+26,,,
+27,Start delay,27,Used when there is a stoppage in play such as a player injury
+28,End delay,28,Used when the stoppage ends and play resumes
+29,,,
+30,End,30,End of a match period
+31,,,
+32,Start,32,Start of a match period
+33,,,
+34,Team setp up,34,"Team line up; qualifiers 30, 44, 59, 130, 131 will show player line up and formation"
+35,Player changed position,35,Player moved to a different position but the team formation remained the same
+36,Player changed Jersey number,36,"Player is forced to change jersey number, qualifier will show the new number"
+37,Collection End,37,Event 30 signals end of half. This signals end of the match and thus data collection.
+38,Temp_Goal,38,Goal has occurred but it is pending additional detail qualifiers from Opta. Will change to event 16.
+39,Temp_Attempt,39,Shot on goal has occurred but is pending additional detail qualifiers from Opta. Will change to event 15.
+40,Formation change,40,Team alters its formation
+41,Punch,41,Goalkeeper event; ball is punched clear
+42,Good skill,42,A player shows a good piece of skill on the ball Ð such as a step over or turn on the ball Ð NO LONGER USED
+43,Deleted event,43,Event has been deleted Ð the event will remain as it was originally with the same ID but will be resent with the type altered to 43.
+44,Aerial,44,Aerial duel Ð 50/50 when the ball is in the air Ð outcome will represent whether the duel was won or lost
+45,Challenge,45,When a player fails to win the ball as an opponent successfully dribbles past them
+46,,,
+47,Rescinded card,47,This can occur post match if the referee rescinds a card he has awarded
+48,,,
+49,Ball recovery,49,Team wins the possession of the ball and successfully keeps possession for at least two passes or an attacking play
+50,Dispossessed,50,Player is successfully tackled and loses possession of the ball
+51,Error,51,Mistake by player losing the ball. Leads to a shot or goals as described with qualifier 169 or 170
+52,Keeper pick-up,52,Goalkeeper event; picks up the ball
+53,Cross not claimed,53,Goalkeeper event; cross not successfully caught
+54,Smother,54,Goalkeeper event; comes out and covers the ball in the box winning possession
+55,Offside provoked,55,Awarded to last defender when an offside decision is given against an attacker
+56,Shield ball opp,56,Defender uses his body to shield the ball from an opponent as it rolls out of play
+57,Foul throw-in,57,A throw-in not taken correctly resulting in the throw being awarded to the opposing team
+58,Penalty faced ,58,Goalkeeper event; penalty by opposition team
+59,Keeper Sweeper,59,When keeper comes off his line and/or out of his box to clear the ball
+60,Chance missed,60,Used when a player does not actually make a shot on goal but was in a good position to score and on`ly just missed receiving a pass
+61,Ball touch,61,Used when a player makes a bad touch on the ball and loses possession. Outcome 1 Ð ball simply hit the player unintentionally. Outcome 0 Ð Player unsuccessfully controlled the ball.
+62,,,
+63,Temp_Save,63,An event indicating a save has occurred but without full details. Event 10 will follow shortly afterwards with full details.
+64,Resume,64,Match resumes on a new date after being abandoned mid game.
+65,Contentious referee decision,65,Any major talking point or error made by the referee Ð decision will be assigned to the relevant team
+66,Possession Data,66,Possession event will appear every 5 mins
+67,50/50,67,New duel - 2 players running for a loose ball - GERMAN ONLY. Outcome 1 or 0.
+68,Referee Drop Ball,68,Delay - ref stops - this to event given to both teams on restart. No Outcome
+69,Failed to Block,69,New duel (put through-Q266 is the winning duel event). Attempt to block a shot or pass - challenge lost
+70,Injury Time Announcement,70,Injury Time awarded by Referee
+71,Coach Setup,71,"Coach Type; 1,2,18,30,32,54,57,58,59"
+72,Caught Offside,72,New event to just show player who is offside instead of offside pass event
+73,Other Ball Contact,73,"This is an automated extra event for DFL. It comes with a tackle or an interception and indicates if the player who made the tackle/interception retained the ball after this action or if the tackle/interception was a single ball touch (other ball contact with type “interception”, type “Defensive Clearance” or type “ TackleRetainedBall)."
+74,Blocked Pass,74,Similar to interception but player already very close to ball
+75,Delayed Start,75,Match start delayed
+76,Early end,76,The match has had an early end
+77,Player Off Pitch,77,Event indicating that a player is now off the pitch
