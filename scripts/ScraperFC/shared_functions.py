@@ -47,7 +47,24 @@ def check_season(year, league, source):
             'Argentina Liga Profesional': 2016,
             'EFL Championship': 2014,
             'EFL1': 2019,
-            'EFL2': 2019
+            'EFL2': 2019,
+            'Liga Nos': 2017,
+            'Eredivisie': 2014,
+            'Russian Premier League': 2014, 
+            'Brasileirao': 2013,
+            'MLS': 2013,
+            'Super Lig': 2015, 
+            'Jupiler Pro League': 2021, 
+            'Bundesliga II': 2016,
+            'Champions League': 2010,
+            'Europa League': 2013,
+            'FA Cup': 2013,
+            'League Cup': 2013,
+            'World Cup': 2014,
+            'European Championship': 2012,
+            'AFCON': 2021
+            
+            
         },
         'Capology': {
             'Bundesliga': 2014,

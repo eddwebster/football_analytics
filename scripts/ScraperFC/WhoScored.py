@@ -53,7 +53,22 @@ class WhoScored():
             'Argentina Liga Profesional': 'https://www.whoscored.com/Regions/11/Tournaments/68/Argentina-Liga-Profesional',
             'EFL Championship': 'https://www.whoscored.com/Regions/252/Tournaments/7/England-Championship',
             'EFL1': 'https://www.whoscored.com/Regions/252/Tournaments/8/England-League-One',
-            'EFL2': 'https://www.whoscored.com/Regions/252/Tournaments/9/England-League-Two'
+            'EFL2': 'https://www.whoscored.com/Regions/252/Tournaments/9/England-League-Two',
+            'Liga Nos': 'https://www.whoscored.com/Regions/177/Tournaments/21/Portugal-Liga-NOS',
+            'Eredivisie': 'https://www.whoscored.com/Regions/155/Tournaments/13/Netherlands-Eredivisie',
+            'Russian Premier League': 'https://www.whoscored.com/Regions/182/Tournaments/77/Russia-Premier-League',
+            'Brasileirao': 'https://www.whoscored.com/Regions/31/Tournaments/95/Brazil-Brasileir%C3%A3o',
+            'MLS': 'https://www.whoscored.com/Regions/233/Tournaments/85/USA-Major-League-Soccer',
+            'Super Lig': 'https://www.whoscored.com/Regions/225/Tournaments/17/Turkey-Super-Lig',
+            'Jupiler Pro League': 'https://www.whoscored.com/Regions/22/Tournaments/18/Belgium-Jupiler-Pro-League',
+            'Bundesliga II': 'https://www.whoscored.com/Regions/81/Tournaments/6/Germany-Bundesliga-II',
+            'Champions League': 'https://www.whoscored.com/Regions/250/Tournaments/12/Europe-Champions-League',
+            'Europa League': 'https://www.whoscored.com/Regions/250/Tournaments/30/Europe-Europa-League',
+            'FA Cup': 'https://www.whoscored.com/Regions/252/Tournaments/29/England-League-Cup',
+            'League Cup': 'https://www.whoscored.com/Regions/252/Tournaments/29/England-League-Cup',
+            'World Cup': 'https://www.whoscored.com/Regions/247/Tournaments/36/International-FIFA-World-Cup',
+            'European Championship': 'https://www.whoscored.com/Regions/247/Tournaments/124/International-European-Championship',
+            'AFCON': 'https://www.whoscored.com/Regions/247/Tournaments/104/International-Africa-Cup-of-Nations'
         }
         
         if league == 'Argentina Liga Profesional' and year in [2016,2021]:
