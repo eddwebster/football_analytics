@@ -505,6 +505,9 @@ Good resources for those new for the use of data in football:
       +    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) and [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam)
       +    [Soccer Analytics 101](https://web.archive.org/web/20201101011408/https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus)
       +    [Football Reference 101 — Finding your way through a gold mine](https://ninad06.medium.com/football-reference-101-finding-your-way-through-a-gold-mine-40fdb29b30a2) by [Ninad Barbadikar](https://twitter.com/NinadB_06)
+      +    [Mikhail Zhilkin: How to hire your first data scientist](https://trainingground.guru/articles/mikhail-zhilkin-how-to-hire-your-first-data-scientist) by [Training Ground Guru](https://trainingground.guru/);
+      +    [Gerard Moore on the "challenging but extremely rewarding" life" of a professional football analyst](http://www.twenty3.sport/gerard-moore-interview-football-analyst/) for [Twenty3](https://www.twenty3.sport)
+      +    [How to get into football analysis](https://medium.com/@jkregista.6/how-to-get-into-football-analysis-cada6cf1ce76) by [La Notice](https://twitter.com/la_notice_)
 *    Twitter threads:
       +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Sports Analytics 101 unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1407719595696398338.html)]:
            -    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/)
@@ -524,6 +527,7 @@ Good resources for those new for the use of data in football:
       +    [Joe Gallagher](https://twitter.com/joedgallagher)'s Twitter thread for the best resources to get started [[link](https://twitter.com/joedgallagher/status/1399461951386828805)]
       +    [Sam Goldberg](https://twitter.com/SamGoldberg1882)'s Twitter thread for "lessons American Soccer Analysis wish we knew prior to working in sports analytics." [[link](https://twitter.com/SamGoldberg1882/status/1417111138865664003)]
       +    [Mathew Barlowe](https://twitter.com/matthew_barlowe)'s Twitter thread for "how to get into the sports analytics industry" [[link](https://twitter.com/matthew_barlowe/status/1420598697486913540)]
+      +    [Aaron Moniz](https://twitter.com/amonizfootball)'s Tweet and responses [[link](https://twitter.com/amonizfootball/status/1480244012770639875)]
 *    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) videos:
       +    [How to become a football data scientist](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds Gopaladesikan](https://twitter.com/suds_g), [Fran Peralta](https://twitter.com/PeraltaFran23), and [David Sumpter](https://twitter.com/Soccermatics)
       +    [Tools for getting started in football analytics.](https://www.youtube.com/watch?v=moFkcpsIKz4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Pascal Bauer](https://twitter.com/pascal_bauer), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g) and [Fran Peralta](https://twitter.com/PeraltaFran23)
@@ -533,8 +537,6 @@ Good resources for those new for the use of data in football:
       +    [Stat Glossary](https://thefutebolist.wordpress.com/stat-glossary/) by [Ashwin Raman](https://twitter.com/AshwinRaman_);
       +    [Football Analytics Glossary](https://footballstatsglossary.home.blog/) by [Ashwin Raman](https://twitter.com/AshwinRaman_) and [Mark Thompson](https://twitter.com/EveryTeam_Mark);
 *    [HANIC Panel "How to get into Sports Analytics & Media + Analytics"](https://www.youtube.com/watch?v=oUVISEJaEMM) with Alison Lukan, Sarah Bailey, Harman Dayal, Asmae Toumi Mike Johnson, Alison Lukan;
-*    [Mikhail Zhilkin: How to hire your first data scientist](https://trainingground.guru/articles/mikhail-zhilkin-how-to-hire-your-first-data-scientist) by [Training Ground Guru](https://trainingground.guru/);
-*    [Gerard Moore on the "challenging but extremely rewarding" life" of a professional football analyst](http://www.twenty3.sport/gerard-moore-interview-football-analyst/) for [Twenty3](https://www.twenty3.sport)
 *    Podcasts:
       +    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU?si=9v83huJIR-GUxAnKRyXLRA) podcast with Mike Lewis - [Getting Your Foot in the Door](https://soundcloud.com/fanalytics/sports-analytics-getting-your-foot-in-the-door) with Sean Steffen
       +    [What is sports analytics?](https://open.spotify.com/episode/3gIkGxJOmKkFRHoGAqRimB?si=6pPOVLfgTjuynfho6b4SPA&dl_branch=1) episode of the [Measureables](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW?si=YAU9RS7sTGSyITF6OhgW9A&dl_branch=1) podcast by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))
