@@ -943,9 +943,10 @@ StatsBomb  JSON file and get a CSV file back (you need to create a free account 
 
 Resources to aid data visualisation:
 
-*    [Matplotlib for Football](https://sharmaabhishekk.github.io/mpl-footy/) - gallery for Typical Football Plots created using matplotlib by [Abhishek Sharma](https://twitter.com/abhisheksh_98). See his Twitter thread [[link](https://twitter.com/abhisheksh_98/status/1420633486013079556)] and GitHub repository [[link](https://github.com/sharmaabhishekk/mpl-footy)];
+*    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c) by [James Smith](https://twitter.com/sportschord). Download his pitch and goal templates [here](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c)]
 *    [`Viz-Templates`](https://github.com/mckayjohns/Viz-Templates) by [McKay Johns](https://twitter.com/mckayjohns)
-*    [Club crests](https://drive.google.com/drive/folders/1R22tOjU-gjJ3QDzwUZ8JlXGjtO4O_XaJ) available to download, put together by [Ninad Barbadikar](https://twitter.com/NinadB_06);
+*    For club badges for the 'Big 5' European leagues and English leagues, see the [`club_badges`](https://github.com/eddwebster/football_analytics/tree/master/img/club_badges) subfolder of this GitHub repository. See also the [Club crests](https://drive.google.com/drive/folders/1R22tOjU-gjJ3QDzwUZ8JlXGjtO4O_XaJ) put together by [Ninad Barbadikar](https://twitter.com/NinadB_06) that is available for download.
+*    [Matplotlib for Football](https://sharmaabhishekk.github.io/mpl-footy/) - gallery for Typical Football Plots created using matplotlib by [Abhishek Sharma](https://twitter.com/abhisheksh_98). See his Twitter thread [[link](https://twitter.com/abhisheksh_98/status/1420633486013079556)] and GitHub repository [[link](https://github.com/sharmaabhishekk/mpl-footy)];
 *    [PL 21-22 player images](https://drive.google.com/drive/folders/1W7hbfbIQImDG3pNazLFymLbg9i2ZS3oi) by [Karan Popli](https://twitter.com/KP031);
 *    [StatsBomb media pack](https://statsbomb.com/media-pack/)
 *    URLs of images of all first team players from the Premier League website by [Alfred](https://twitter.com/CallmeAlfredo) - see [CSV](https://github.com/aappiah17/Football-Analytics/blob/main/epl_player_image.csv) 
