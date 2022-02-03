@@ -1021,6 +1021,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Bosemessi GitHub blog](https://bosemessi.github.io/) by [Soumyajit Bose](https://twitter.com/Soumyaj15209314);
 *    [Brendan Kent](https://brendankent.com/). Check out his [Sports Analytics 101 series](https://brendankent.com/sports-analytics-101/);
 *    [Carey Analytics](https://careyanalytics.wordpress.com/) by [Mark Carey](https://twitter.com/MarkCarey93);
+*    [Crab Stats](https://www.crabstats.xyz/) by [Scott Willis](https://twitter.com/oh_that_crab)
 *    [Danny Page's Medium blog](https://medium.com/@dannypage);
 *    [Dato Fútbol](https://www.datofutbol.cl/) by [Dato Fútbol](https://twitter.com/DatoFutbol_cl) ([Ismael Gómez Schmidt](https://twitter.com/ismaelgomezs));
 *    [DeepxG](https://deepxg.com/) by [Thom Lawrence](https://twitter.com/lemonwatcher) (last updated 29/11/2017);
