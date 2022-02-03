@@ -836,7 +836,7 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 <h4 id="tutorials-powerpoint"> PowerPoint</h4>
 
 *    [Maram AlBaharna](https://twitter.com/maramperninety)'s Medium post - [Yes, Powerpoint: xG Trend Line](https://maramperninety.medium.com/yes-powerpoint-e0e1fc6bbd3f);
-*    [Luke Griffin]'s pitch graphics - [slides](https://t.co/fpCa4YTIKx?amp=1). Drop him a donation of PayPal if you're using his work [[link](https://paypal.me/LukeGriffin?locale.x=en_GB)]. See original Tweet [[link](https://twitter.com/GriffinFtbl/status/1430904596843536395)]; and
+*    [Luke Griffin](https://twitter.com/GriffinFtbl)'s pitch graphics - [slides](https://t.co/fpCa4YTIKx?amp=1). Drop him a donation of PayPal if you're using his work [[link](https://paypal.me/LukeGriffin?locale.x=en_GB)]. See original Tweet [[link](https://twitter.com/GriffinFtbl/status/1430904596843536395)]; and
 *    [Tony Bambrick](https://twitter.com/TonyBambrick)'s short video describing the process of creating an animated tactics board using PowerPoint. See original Tweet [[link](https://twitter.com/tonybambrick/status/1365416321551327234)].
 
 
