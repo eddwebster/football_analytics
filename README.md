@@ -1014,6 +1014,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Alex Rathke](http://alexrathke.net/) by [Alex Rathke](https://twitter.com/AlexRathke);
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/);
 *    [Analyse Football](https://analysefootball.com/) by [Ravi Ramineni](https://twitter.com/analyseFooty) (last updated 06//04/2015);
+*    [The Analyst](https://www.theanalyst.com/eu/) by Stats Perform;
 *    [Analytics FC](https://attackingcentreback.wordpress.com/);
 *    [Attacking Center-back](https://attackingcentreback.wordpress.com/) by [JP Quinn](https://twitter.com/AttackingCB);
 *    [Barça Innovation Hub](https://barcainnovationhub.com/category/blog/);
@@ -1051,6 +1052,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Karun Singh](https://karun.in/blog/) by [Karun Singh](https://twitter.com/karun1710);
 *    [kubamichalczyk.github.io](https://kubamichalczyk.github.io/) by [Kuba Michalczyk](https://twitter.com/kubamichalczyk)
 *    [kwiatkowski.io](https://www.kwiatkowski.io/) by [Marek Kwiatkowski](https://twitter.com/statlurker);
+*    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant](https://twitter.com/Ciaran_Grant));
 *    [lufcdata](https://www.lufcdata.com/) by [@LUFCDATA](https://twitter.com/LUFCDATA);
 *    [LukeBornn.com](http://www.lukebornn.com/) by [Luke Bornn](https://twitter.com/LukeBornn);
 *    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by [Nils Mackay](https://twitter.com/NilsMackay);
@@ -1085,21 +1087,20 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [Stats Perform](https://www.statsperform.com/resources/);
 *    [Stats and snakeoil](http://www.statsandsnakeoil.com/) by [Ben Torvaney](https://twitter.com/Torvaney);
 *    [Tiago Estêvão's Medium blog](https://tiagoestv.medium.com/) by [Tiago Estêvão](https://twitter.com/tiagoestv);
-*    [The Analyst](https://www.theanalyst.com/eu/) by Stats Perform;
-*    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant](https://twitter.com/Ciaran_Grant));
+*    [Tony ElHabr's blog](tonyelhabr.rbind.io) by [Tony ElHabr](https://twitter.com/TonyElHabr);
 *    [The Power of Goals](https://thepowerofgoals.blogspot.com/);
 *    [Training Ground Guru](https://trainingground.guru/). Check out their accompanying podcast [[link](https://open.spotify.com/show/1Kn9l6LifZ2AWmZri9XWHn)];
 *    [Tom Worville's Medium blog](https://medium.com/@worville) by Tom Worville (last updated 14/08/2017). Tom now writes for The Athletic [[link](https://theathletic.co.uk/author/tom-worville/)];
 *    [winningwithanalytics.com](https://winningwithanalytics.com/) by [Bill Gerrard](https://twitter.com/bill_gerrard_);
 *    [Wooly Jumpers for Goal Posts](https://winningwithanalytics.com/) by [The Woolster](https://twitter.com/The_Woolster);
-*    [Worville Analysis](https://worvilleanalysis.wordpress.com/) by Tom Worville ; 
+*    [Worville Analysis](https://worvilleanalysis.wordpress.com/) by [Tom Worville](https://twitter.com/Worville); 
 *    [Wyscout](https://blog.wyscout.com/);
 *    [xG per Shot](https://xgpershot.wordpress.com/) by [Parthe Athale](https://twitter.com/ParthAthale); and
 *    [Zonal Marking](http://www.zonalmarking.net/). by Michael Cox. Michael now writes for The Athletic [[link](https://theathletic.com/author/michael-cox/)].
 
 <h4 id="papers"> :page_with_curl: Papers</h4>
 
-Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html) and [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html). Props to him for reading a paper a week and helping improve this section of this GitHub repo.
+Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html) and [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html). Props to him for reading a paper a week and making his thoughts publicly available!
 
 The papers included in this list have been 
 
