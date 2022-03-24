@@ -661,7 +661,7 @@ Also see [Mark Wilkin](https://twitter.com/biscuitchaser)'s Twitter thread [[lin
 *    [Awesome Football](https://github.com/planetopendata/awesome-football): A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets;
 *    [Data Hub Football data](https://datahub.io/collections/football);
 *    [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10) - 25k+ matches, players & teams attributes for European Professional Football
-*    [FIFA 15-21 player rating data](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset) scraped from [SoFIFA](https://sofifa.com/) by Stefano Leone;
+*    [FIFA 15-22 player rating data](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset) scraped from [SoFIFA](https://sofifa.com/) by [Stefano Leone](https://www.kaggle.com/stefanoleone992);
 *    [FIFA 18 Player Ratings](https://public.tableau.com/s/sites/default/files/media/fifa18_clean.csv) - 17k+ players, 70+ attributes extracted from FIFA 18, provided by [sofifa](https://sofifa.com)
 *    [`FootballData`](https://github.com/jokecamp/FootballData) - "A hodgepodge of JSON and CSV Football data"
 *    [`footballcsv`](https://footballcsv.github.io/) - Historical soccer results in CSV format;
