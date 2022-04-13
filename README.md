@@ -7,10 +7,12 @@
   <a href="https://github.com/eddwebster/football_analytics"><img src="img/shot_map_header.png" alt="Edd Webster Football Analytics"></a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=eddwebster.football_analytics)
-![](https://img.shields.io/github/stars/eddwebster/football_analytics?style=plastic)
-![](https://img.shields.io/github/last-commit/eddwebster/football_analytics?style=plastic)
-![](https://img.shields.io/github/repo-size/eddwebster/football_analytics?style=plastic)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.football_analytics)
+![GitHub Stars](https://img.shields.io/github/stars/eddwebster/football_analytics?style=plastic)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/eddwebster/football_analytics?style=plastic)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/eddwebster/football_analytics.svg)
+![GitHub Repository Size](https://img.shields.io/github/repo-size/eddwebster/football_analytics?style=plastic)
+[![Licence](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/eddwebster/football_analytics/master/LICENSE)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -27,6 +29,8 @@ I recently rewrote this README to include links not only to my own work, but als
 Credits to the [`Soccer Analytics Handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), [`Awesome Soccer Analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html), [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html) and [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) Github repo, which were all used to plug gaps in the list once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this README.
 
 If you like the repo, please feel free to give it a :star:  (top right). Cheers!
+
+For an Excel spreadsheet version of this README to keep track of the parts you have already read/worked on, see the following Google Sheets spreadsheet kindly put together by [Melanie Loeper](https://twitter.com/mel_loeper) [link](https://docs.google.com/spreadsheets/d/1FKk0uvKMHPFZ2p3D42f4ZqQD6Si3LIZOf2Y5mo0k4as/edit?usp=sharing).
 
 For more information about this repository and the author, I am available through all the following channels:
 
@@ -2516,7 +2520,8 @@ This GitHub repository and resources list will be a constant work in progress so
 *    [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto);
 *    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html);
 *    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html);
-*    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) Github repo; and
-*    [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository by [Matias Singers](https://twitter.com/matiassingers) used to restyle this README.
+*    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) Github repo;
+*    [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository by [Matias Singers](https://twitter.com/matiassingers) used to restyle this README; and
+*    Excel spreadsheet version of this README by [Melanie Loeper](https://twitter.com/mel_loeper) [link](https://docs.google.com/spreadsheets/d/1FKk0uvKMHPFZ2p3D42f4ZqQD6Si3LIZOf2Y5mo0k4as/edit?usp=sharing).
 
 <a href="#top">Back to the Top</a>
