@@ -520,6 +520,7 @@ Good resources for those new for the use of data in football:
       +    [How to get a job in Sports Analysis...](https://www.linkedin.com/pulse/how-get-job-sports-analysis-chris-gill/?trackingId=fSdnL9E2A9MbptVN6yZ4kg%3D%3D) by [Chris Gill](https://twitter.com/chrisgill_UK)
       +    [7 Easy Steps to Get Started in Football Data & Analytics](https://jobsinfootball.com/blog/7-steps-to-get-started-in-football-data-analytics/) by [Jobs in Football](https://twitter.com/jobsinfootball)
       +    [11 tips to get started in the Football industry](https://jobsinfootball.com/blog/11-tips-to-get-started-in-the-football-industry/) by [Jobs in Football](https://twitter.com/jobsinfootball)
+      +    [A Friendly Introduction to FPL Analytics](https://alpscode.com/blog/intro-to-fpl-analytics/) by [Sertalp B. Çay](https://twitter.com/sertalpbilal)
 *    Twitter threads:
       +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Sports Analytics 101 unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1407719595696398338.html)]:
            -    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/)
