@@ -524,7 +524,8 @@ Good resources for those new for the use of data in football:
       +    [A Friendly Introduction to FPL Analytics](https://alpscode.com/blog/intro-to-fpl-analytics/) by [Sertalp B. Çay](https://twitter.com/sertalpbilal)
 *    GitHub repositories:
       +    [`Soccer Analytics Handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
-      +    [`Awesome Soccer Analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), 
+      +    [`Awesome Soccer Analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto)
+      +    [`awesome-football-analytics`](https://github.com/diegopastor/awesome-football-analytics) by [Diego Pastor](https://twitter.com/dxvgx)
       +    [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) by [Jan Van Haaren](https://twitter.com/janvanhaaren)
 *    Twitter threads:
       +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Sports Analytics 101 unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1407719595696398338.html)]:
