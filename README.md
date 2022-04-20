@@ -514,6 +514,7 @@ Good resources for those new for the use of data in football:
       +    [Football Reference 101 — Finding your way through a gold mine](https://ninad06.medium.com/football-reference-101-finding-your-way-through-a-gold-mine-40fdb29b30a2) by [Ninad Barbadikar](https://twitter.com/NinadB_06)
       +    [Mikhail Zhilkin: How to hire your first data scientist](https://trainingground.guru/articles/mikhail-zhilkin-how-to-hire-your-first-data-scientist) by [Training Ground Guru](https://trainingground.guru/);
       +    [Gerard Moore on the "challenging but extremely rewarding" life" of a professional football analyst](http://www.twenty3.sport/gerard-moore-interview-football-analyst/) for [Twenty3](https://www.twenty3.sport)
+      +    [How to get started in data and the football industry](https://henshawanalysis.medium.com/how-to-get-started-in-data-and-the-football-industry-50d974e84bef) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
       +    [How to get into football analysis](https://medium.com/@jkregista.6/how-to-get-into-football-analysis-cada6cf1ce76) by [La Notice](https://twitter.com/la_notice_)
       +    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
       +    [How to get a job in Sports Analysis...](https://www.linkedin.com/pulse/how-get-job-sports-analysis-chris-gill/?trackingId=fSdnL9E2A9MbptVN6yZ4kg%3D%3D) by [Chris Gill](https://twitter.com/chrisgill_UK)
