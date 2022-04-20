@@ -2553,7 +2553,7 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
 
 *    Articles:
       +    [How to get started in data and the football industry](https://henshawanalysis.medium.com/how-to-get-started-in-data-and-the-football-industry-50d974e84bef) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
-*    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
+      +    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
 *    Social Media:
       +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
 
