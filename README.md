@@ -22,8 +22,6 @@
 
 <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="225px"></a>
 
-Please note, all the code and analysis produced in this repository is mine and/or credited to the publicly produced code, data, and/or libraries used, and is in no way related to the work and analysis I produce for my employers.
-
 The README of this repository is a concise list of learning resources, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This will be a constant work in progress so if you can think of any resources that I've missed, or you yourself have created something that you believe should be added and is currently not available, please feel free to create a pull request or send me a message.
 
 Credits to the [`Soccer Analytics Handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), [`Awesome Soccer Analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html), [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html) and [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) Github repo, which were all used to plug gaps in the list once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this README.
@@ -34,6 +32,7 @@ For an Excel spreadsheet version of this README to keep track of the parts you h
 
 For more information about this repository and the author, I am available through all the following channels:
 
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://eddwebster.com/downloads/EddWebsterCV.pdf)
 [![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edd.j.webster@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
