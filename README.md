@@ -156,6 +156,7 @@ For more information about this repository and the author, I am available throug
         <li><a href="#miscellaneous">Miscellaneous</a></li>
       </ul>
     </li>
+    <li><a href="#citations">Citations</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -2544,6 +2545,20 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<h2 id="citations"> Citations</h2>
+
+Thanks to all those that have kindly wrote about or promoted this GitHub repository. See:
+
+*    Articles:
+      +    [How to get started in data and the football industry](https://henshawanalysis.medium.com/how-to-get-started-in-data-and-the-football-industry-50d974e84bef) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
+*    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
+*    Social Media:
+      +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
+
+
+<a href="#table-of-contents">Back to Contents</a>
 
 
 <h2 id="contributing"> Contributing</h2>
