@@ -1072,21 +1072,22 @@ For a Twitter thread of the football analytics blogs from 2009 an earlier, see t
 *    [Football Crunching](https://medium.com/football-crunching) by [Ricardo Tavares](https://twitter.com/rjtavares);
 *    [Football Data Science](http://business-analytic.co.uk/blog/home-page/) by [Dr. Garry Gelade](https://twitter.com/GarryGelade);
 *    [Football Philosophy](http://footballphilosophy.org/) by Joost van der Leij;
-*    [Football Science](https://www.footballscience.net/) by Michael C. Rumpf;
-*    [Football Whispers](https://www.footballwhispers.com/);
-*    [Futbol AnalysR](https://www.futbolanalysr.com/) by [Josh Trewin](https://twitter.com/futbolanalysr);
-*    [The Futebolist](https://medium.com/@thefutebolist) by [Ashwin Raman](https://twitter.com/AshwinRaman_);
-*    [Get Goalside!](https://getgoalside.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
-*    [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/);
-*    [Hockey Graphs](https://hockey-graphs.com/);
-*    [Hudl](https://www.hudl.com/blog/);
+*    [Football Science](https://www.footballscience.net/) by Michael C. Rumpf
+*    [Football Whispers](https://www.footballwhispers.com/)
+*    [Futbol AnalysR](https://www.futbolanalysr.com/) by [Josh Trewin](https://twitter.com/futbolanalysr)
+*    [The Futebolist](https://medium.com/@thefutebolist) by [Ashwin Raman](https://twitter.com/AshwinRaman_)
+*    [Get Goalside!](https://getgoalside.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark)
+*    [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/)
+*    [Liam Henshaw](https://twitter.com/HenshawAnalysis)'s [Medium blog](https://henshawanalysis.medium.com/)
+*    [Hockey Graphs](https://hockey-graphs.com/)
+*    [Hudl](https://www.hudl.com/blog/)
 *    [James W Grayson](https://jameswgrayson.wordpress.com/) by [James W Grayson](https://twitter.com/JamesWGrayson);
 *    [Jan Van Haaren](https://janvanhaaren.be/) by [Jan Van Haaren](https://twitter.com/janvanhaaren);
 *    [jogall.github.io](https://jogall.github.io/) by [Joe Gallagher](https://twitter.com/joedgallagher);
 *    [Karun Singh](https://karun.in/blog/) by [Karun Singh](https://twitter.com/karun1710);
 *    [kubamichalczyk.github.io](https://kubamichalczyk.github.io/) by [Kuba Michalczyk](https://twitter.com/kubamichalczyk)
 *    [kwiatkowski.io](https://www.kwiatkowski.io/) by [Marek Kwiatkowski](https://twitter.com/statlurker);
-*    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant](https://twitter.com/Ciaran_Grant));
+*    [The Last Man Analytics](https://thelastmananalytics.home.blog/) by [The Last Man Anayltics](https://twitter.com/tlmanalytics) ([Ciaran Grant](https://twitter.com/Ciaran_Grant))
 *    [lufcdata](https://www.lufcdata.com/) by [@LUFCDATA](https://twitter.com/LUFCDATA);
 *    [LukeBornn.com](http://www.lukebornn.com/) by [Luke Bornn](https://twitter.com/LukeBornn);
 *    [Mackay Analytics](https://www.northyardanalytics.com/blog/) by [Nils Mackay](https://twitter.com/NilsMackay);
