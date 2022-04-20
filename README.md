@@ -497,6 +497,7 @@ Example Tableau dashboards:
 
 
 <h3 id="getting-started"> :bookmark_tabs: Getting Started with Football Analytics</h3>
+
 Good resources for those new for the use of data in football:
 
 *    Articles and blog posts:
@@ -521,7 +522,7 @@ Good resources for those new for the use of data in football:
       +    [7 Easy Steps to Get Started in Football Data & Analytics](https://jobsinfootball.com/blog/7-steps-to-get-started-in-football-data-analytics/) by [Jobs in Football](https://twitter.com/jobsinfootball)
       +    [11 tips to get started in the Football industry](https://jobsinfootball.com/blog/11-tips-to-get-started-in-the-football-industry/) by [Jobs in Football](https://twitter.com/jobsinfootball)
       +    [A Friendly Introduction to FPL Analytics](https://alpscode.com/blog/intro-to-fpl-analytics/) by [Sertalp B. Çay](https://twitter.com/sertalpbilal)
-*     GitHub repositories:
+*    GitHub repositories:
       +    [`Soccer Analytics Handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
       +    [`Awesome Soccer Analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), 
       +    [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) by [Jan Van Haaren](https://twitter.com/janvanhaaren)
