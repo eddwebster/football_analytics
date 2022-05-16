@@ -2553,10 +2553,11 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
 
 *    Articles:
       +    [How to get started in data and the football industry](https://henshawanalysis.medium.com/how-to-get-started-in-data-and-the-football-industry-50d974e84bef) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
+      +    [SportsViz Sunday](https://twitter.com/search?q=%23SportsVizSunday) [Weekly Round-up 01.16.2022](https://www.sportsvizsunday.com/post/weekly-round-up-01-16-2022) by [CJ Mayes](https://twitter.com/_CJMayes)
       +    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
 *    Social Media:
       +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
-      +    The following [Tweet](https://twitter.com/Worville/status/1420413426564800515) by [Tom Worville](https://twitter.com/Worville). Check out his [Twitter thread](https://twitter.com/Worville/status/1275732993819250688) on getting started in football analtics
+      +    The following [Tweet](https://twitter.com/Worville/status/1420413426564800515) by [Tom Worville](https://twitter.com/Worville). Check out his [Twitter thread](https://twitter.com/Worville/status/1275732993819250688) on getting started in football analytics
 
 
 <a href="#table-of-contents">Back to Contents</a>
