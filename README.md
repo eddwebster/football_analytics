@@ -2563,6 +2563,9 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
 <a href="#table-of-contents">Back to Contents</a>
 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 <h2 id="contributing"> Contributing</h2>
 
 This GitHub repository and resources list will be a constant work in progress so if you can think of any resources that I've missed, feel free to create a pull request or send me a message @ edd.j.webster@gmail.com or [@eddwebster](https://www.twitter.com/eddwebster).
