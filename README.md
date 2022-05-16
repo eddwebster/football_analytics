@@ -2556,6 +2556,7 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
       +    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
 *    Social Media:
       +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
+      +    The following [Tweet](https://twitter.com/Worville/status/1420413426564800515) by [Tom Worville](https://twitter.com/Worville). Check out his [Twitter thread](https://twitter.com/Worville/status/1275732993819250688) on getting started in football analtics
 
 
 <a href="#table-of-contents">Back to Contents</a>
