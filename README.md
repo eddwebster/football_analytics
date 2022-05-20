@@ -1,7 +1,3 @@
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3eer806ippht6pvejl3" alt="trackgit-views" />
-</a>
-
 <h1 id="top" align="center"> Football Analytics </h1>
 <h3 align="center"> A space for football analytics projects by <a href="https://twitter.com/eddwebster">Edd Webster</a>, including a curated list of publicly available resources published by the football analytics community.</h3>  
 
@@ -17,6 +13,9 @@
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/eddwebster/football_analytics.svg)
 ![GitHub Repository Size](https://img.shields.io/github/repo-size/eddwebster/football_analytics?style=plastic)
 [![Licence](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/eddwebster/football_analytics/master/LICENSE)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3eer806ippht6pvejl3" alt="trackgit-views" />
+</a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
