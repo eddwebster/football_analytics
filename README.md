@@ -8,14 +8,15 @@
 </p>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.football_analytics)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3eer806ippht6pvejl3" alt="trackgit-views" />
+</a>
 ![GitHub Stars](https://img.shields.io/github/stars/eddwebster/football_analytics?style=plastic)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/eddwebster/football_analytics?style=plastic)
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/eddwebster/football_analytics.svg)
 ![GitHub Repository Size](https://img.shields.io/github/repo-size/eddwebster/football_analytics?style=plastic)
 [![Licence](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/eddwebster/football_analytics/master/LICENSE)
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3eer806ippht6pvejl3" alt="trackgit-views" />
-</a>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
