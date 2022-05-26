@@ -1286,22 +1286,23 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 
 <h4 id="newsletters"> Newsletters</h4>
 
-*    [21st Club](https://www.21stclub.com/insight/);
-*    [Absolute Unit](https://absoluteunit.substack.com/) by [Tiotal Football](https://twitter.com/TiotalFootball);
+*    [21st Club](https://www.21stclub.com/insight/)
+*    [Absolute Unit](https://absoluteunit.substack.com/) by [Tiotal Football](https://twitter.com/TiotalFootball)
+*    [Analytics FC](https://analyticsfc.us7.list-manage.com/subscribe?u=a17410fd2f9011c23ddf03f64&id=018afa05d0)
 *    [BiscuitchaserFC](https://biscuitchaserfc.substack.com/) by [Mark Wilkins](https://twitter.com/biscuitchaser)
 *    [The Chatalytics Newsletter](https://www.getrevue.co/profile/chatalyticspod) by [The Chatalytics Podcast](https://twitter.com/ChatalyticsPod)
-*    [Get Goalside!](https://getgoalside.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark);
-*    [geom_mark](http://geommark.space/);
-*    [GriffinFtbl](https://griffinftbl.substack.com/) by [Luke Griffin](https://twitter.com/GriffinFtbl);
+*    [Get Goalside!](https://getgoalside.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark)
+*    [geom_mark](http://geommark.space/)
+*    [GriffinFtbl](https://griffinftbl.substack.com/) by [Luke Griffin](https://twitter.com/GriffinFtbl)
 *    [Grace on Football](https://onfootball.substack.com/) by [Grace Robertson](https://twitter.com/graceonfootball)
 *    [From An Engineer Sight](https://fromanengineersight.substack.com/) by [Benoit Pimpaud](https://twitter.com/Ben8t)
-*    [KPMG Football Benchmark Newsletter](https://www.footballbenchmark.com/home) - go to the home page and click on 'Registration' in the top-right corner;
-*    [Looks Good on Paper](https://looksgoodonpaper.substack.com/) by [Felix Pate](https://twitter.com/lgopfelix);
-*    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent);
-*    [No Grass in the Clouds](https://nograssintheclouds.substack.com/) by [Ryan O'Hanlon](https://twitter.com/rwohan);
-*    [Soccer Analytics Newsletter](https://socceranalytics.substack.com/);
-*    [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller) (this newsletter has now finished but catch John's work as a Senior Writer for The Athletic [[link](https://theathletic.com/author/john-muller/)]; and
-*    [Stats Perform](https://www.statsperform.com/).
+*    [KPMG Football Benchmark Newsletter](https://www.footballbenchmark.com/home) - go to the home page and click on 'Registration' in the top-right corner
+*    [Looks Good on Paper](https://looksgoodonpaper.substack.com/) by [Felix Pate](https://twitter.com/lgopfelix)
+*    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent)
+*    [No Grass in the Clouds](https://nograssintheclouds.substack.com/) by [Ryan O'Hanlon](https://twitter.com/rwohan)
+*    [Soccer Analytics Newsletter](https://socceranalytics.substack.com/)
+*    [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller) (this newsletter has now finished but catch John's work as a Senior Writer for The Athletic [[link](https://theathletic.com/author/john-muller/)]
+*    [Stats Perform](https://www.statsperform.com/)
 
 <h4 id="news-articles"> News Articles</h4>
 
