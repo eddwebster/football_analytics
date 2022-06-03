@@ -2563,6 +2563,7 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
 *    Social Media:
       +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
       +    The following [Tweet](https://twitter.com/Worville/status/1420413426564800515) by [Tom Worville](https://twitter.com/Worville). Check out his [Twitter thread](https://twitter.com/Worville/status/1275732993819250688) on getting started in football analytics
+      +    [Moneyball - Section Football Analytics](https://forum.playitusa.com/viewtopic.php?p=4005731#p4005727) by [AlbertoRiccardi](https://twitter.com/ARiccardi13)
 
 
 <a href="#table-of-contents">Back to Contents</a>
