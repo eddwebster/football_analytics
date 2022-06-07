@@ -2576,6 +2576,67 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
 
 This GitHub repository and resources list will be a constant work in progress so if you can think of any resources that I've missed, feel free to create a pull request or send me a message @ edd.j.webster@gmail.com or [@eddwebster](https://www.twitter.com/eddwebster).
 
+If you're new to creating a pull request, please follow these steps (based on [this](https://scikit-learn.org/stable/developers/contributing.html#contributing-code))
+
+1. Create an account on GitHub if you do not already have one.
+
+2. Fork the project repository: click on the ‘Fork’ button near the top of the page. This creates a copy of the code under your account on the GitHub user account. For more details on how to fork a repository see [this guide](https://help.github.com/articles/fork-a-repo/).
+
+3. Clone your fork of the football_analytics repo from your GitHub account to your local disk:
+
+   ```bash
+   git clone https://github.com/<github username>/football_analytics.git
+   cd football_analytics
+   ```
+
+4. Create environment with:  
+   `$ python3 -m venv my_env` or `$ python -m venv my_env`
+   or with conda:  
+   `$ conda create -n my_env python=3`
+
+5. Activate the environment:  
+   `$ source my_env/bin/activate`  
+   or with conda:  
+   `$ conda activate my_env`
+
+6. Add the upstream remote. This saves a reference to the main hyperopt repository, which you can use to keep your repository synchronised with the latest changes:
+
+    `$ git remote add upstream https://github.com/eddwebster/footbal_analytics.git`
+
+    You should now have a copy of the football analytics repository, and your git repository properly configured. The next steps now describe the process of modifying code and submitting a pull request:
+
+7. Synchronize your master branch with the upstream master branch:
+
+    ```bash
+    git checkout master
+    git pull upstream master
+    ```
+
+8. Create a feature branch to hold your development changes:
+
+    `$ git checkout -b my_change`
+
+    and start making changes. Always use a feature branch. It’s good practice to never work on the master branch!
+
+9. Then, once you commit ensure that git hooks are activated (Pycharm for example has the option to omit them). This can be done using [pre-commit](https://pre-commit.com/), as follows:
+
+    ```bash
+    pre-commit install
+    ```
+    
+10. Develop the feature on your feature branch on your computer, using Git to do the version control. When you’re done editing, add changed files using git add and then git commit:
+
+    ```bash
+    git add modified_files
+    git commit -m "my first football_analyitcs commit"
+    ```
+
+12. Record your changes in Git, then push the changes to your GitHub account with:
+
+    ```bash
+    git push -u origin my_change
+    ```
+
 
 <a href="#table-of-contents">Back to Contents</a>
 
