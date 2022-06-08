@@ -2564,7 +2564,9 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
       +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
       +    The following [Tweet](https://twitter.com/Worville/status/1420413426564800515) by [Tom Worville](https://twitter.com/Worville). Check out his [Twitter thread](https://twitter.com/Worville/status/1275732993819250688) on getting started in football analytics
       +    [Moneyball - Section Football Analytics](https://forum.playitusa.com/viewtopic.php?p=4005731#p4005727) by [AlbertoRiccardi](https://twitter.com/ARiccardi13)
-
+*    GitHub Repositories:
+      +    https://github.com/learnuidev/footy-analytics/tree/fe793f88e3a1a16a2a06bf1e12ed90f4e2869726
+      +    https://github.com/BinhHong/Attacking-wingbacks-in-top-5-leagues-in-Europe/blob/d2897a439aef9655c884ad68a25c579434b12e15/README.md
 
 <a href="#table-of-contents">Back to Contents</a>
 
