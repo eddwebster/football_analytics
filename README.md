@@ -608,7 +608,9 @@ For a quick primer of the free football data resources available, see the follow
      +    This data also also regularly made available by the following contributers
            -    [Abrar](https://www.kaggle.com/abrarhossainhimself/) via Kaggle - see [[link](https://www.kaggle.com/abrarhossainhimself/understat-data-for-teams-players-2014-present)]
            -    [Sagnik Das](https://twitter.com/nandy_sd), using code created by both him and [Mark Wilkins](https://twitter.com/biscuitchaser) - see [[link](https://twitter.com/NdyStats/status/1382295913452826628)] for shot data, [[link](https://twitter.com/NdyStats/status/1382255794180165632?s=20)] for meta data, and Mark's Tweet [[link](https://twitter.com/biscuitchaser/status/1294608904647839744)])
-*    Opta Event data (available through [WhoScored?](https://www.whoscored.com/)) for twenty leagues, including the 'Big 5' European leagues, going back since the 09/10 season. Data can be scraped using the [`ScraperFC`](https://github.com/oseymour/ScraperFC) library by [Owen Seymour](https://twitter.com/owen_seymour) 
+*    Opta Event data (available through [WhoScored?](https://www.whoscored.com/)) for twenty leagues, including the 'Big 5' European leagues, going back since the 09/10 season. This data can can be scraped using:
+           - [`ScraperFC`](https://github.com/oseymour/ScraperFC) library by [Owen Seymour](https://twitter.com/owen_seymour)
+           - The method in the following blog post by [Karol Działowski](https://github.com/karlosos/) - [Football Data Visualizations - Passing Networks](https://www.dzialowski.eu/football-data-visualisations/). This blog post on how to create passing networks from first principles, using Opta Event data acquired from WhoScored, with the subsequent data visualised using matplotlib. 
 *    [Wyscout](https://wyscout.com/) Event data for the 17/18 season for the 'Big 5' European leagues, Euro 2016 Chanpionship, and 2018 World Cup made available by [Luca Pappalardo](https://twitter.com/lucpappalard?), Alessio Rossi, and Paolo Cintia. See their paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7)
 
 <h5 id="data-sources-tracking"> Tracking data </h5>
@@ -794,6 +796,7 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    [McKay Johns YouTube channel](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg);
 *    [soccer_analytics GitHub repo](https://github.com/CleKraus/soccer_analytics) by CleKraus - a Python project that facilitates the starting point for analytics 
 *    [Python for Fantasy Football series](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/) by [Fantasy Futopia](https://twitter.com/FantasyFutopia) ([Thomas Whelan](https://twitter.com/tom_whelan)). This series covers the basics of working with data in Python, working with APIs and parsing StatsBomb JSON data, scraping data using Beautifulsoup and Selenium, and Machine Learning with scikit-learn and XGBoost,  See GitHub repo for all code [[link](https://github.com/twhelan22/python-for-fantasy-football)];
+*    [Football Data Visualizations - Passing Networks](https://www.dzialowski.eu/football-data-visualisations/) by [Karol Działowski](https://github.com/karlosos/) - a great blog post on how to create passing networks from first principles, using Opta Event data acquired from WhoScored. This data is then visualised using matplotlib. 
 *    [Tech how-to: build your own Expected Goals model](https://www.scisports.com/tech-how-to-build-your-own-expected-goals-model/) by [Jan Van Haaren](https://twitter.com/JanVanHaaren) and [SciSports](https://twitter.com/SciSportsNL). See the Bitbucket repository for all code [[link](https://bitbucket.org/scisports/ssda-how-to-expected-goals/src)]; and
 *    [`Football-Analytics-With-Python`](https://github.com/Slothfulwave612/Football-Analytics-With-Python) by [Anmol Durgapal](https://twitter.com/slothfulwave612).
 
@@ -2122,6 +2125,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 <h5 id="scraping-written-pieces"> Written Pieces</h5>
 
 *    [Scraping Premier League Football Data with Python](https://fcpython.com/scraping/scraping-premier-league-football-data-python) by [FC Python](https://twitter.com/FC_Python)
+*    [Football Data Visualizations - Passing Networks](https://www.dzialowski.eu/football-data-visualisations/) by [Karol Działowski](https://github.com/karlosos/) -  a great blog post on how to create passing networks from first principles, specifically to webscraping, how to get Opta Event data from WhoScored. The second part of the blog shows how to create a passing network from this data using matplotlib. 
 *    [Python for Fantasy Football – Getting and Cleaning Data](http://www.fantasyfutopia.com/python-for-fantasy-football-getting-and-cleaning-data/) by [Fantasy Futopia](https://twitter.com/FantasyFutopia)
 *    [Intro to {polite} Web Scraping of Soccer Data with R!](https://ryo-n7.github.io/2020-05-14-webscrape-soccer-data-with-R/) by [Ryo Nakagawara](https://twitter.com/R_by_Ryo)
 *    [Web Scraping Advanced Football Statistics](https://towardsdatascience.com/web-scraping-advanced-football-statistics-11cace1d863a) by [Sergi Lehkyi](https://twitter.com/sergi_lehkyi)
