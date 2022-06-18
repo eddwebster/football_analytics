@@ -138,6 +138,13 @@ For more information about this repository and the author, I am available throug
             <li><a href="#tracking-data">Tracking Data</a></li>
             <li><a href="#pitch-control-modeling">Pitch Control Modeling</a></li>
             <li><a href="#pv-frameworks">Possession Value (PV) Frameworks</a></li>
+              <ul>
+                <li><a href="#pv-frameworks-general">General</a></li>
+                <li><a href="#pv-frameworks-xt">Expected Threat (xT)</a></li>
+                <li><a href="#pv-frameworks-vaep">Valuing Actions by Estimating Probabilities (VAEP)</a></li>
+                <li><a href="#pv-frameworks-g+ral">Goals Added (g+)</a></li>
+                <li><a href="#pv-frameworks-obv">On-Ball Value (OBV)</a></li>
+              </ul>
             <li><a href="#dixon-coles">Dixon Coles Modeling</a></li>
             <li><a href="#player-similarity-and-style-analysis">Player Similarity and Style Analysis</a></li>
             <li><a href="#team-playing-style-analysis">Team Playing Style Analysis</a></li>
