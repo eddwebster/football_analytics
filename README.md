@@ -2196,12 +2196,34 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h4 id="passing-networks"> Passing Networks</h4>
 
+<h5 id="passing-networks-written-pieces"> Written Pieces</h5>
+
+<h6 id="passing-networks-written-pieces-blogs"> Blogs</h6>
+
 *    [How each Premier League team pass](https://theathletic.com/3346644/2022/06/07/premier-league-pass-networks/) by [John Muller](https://twitter.com/johnspacemuller) for [The Athletic](https://theathletic.com/)
-*    [Serio Llana](https://twitter.com/SergioMinuto90)'s step-by-step guide for creating Passing Networks [[link](https://www.youtube.com/watch?v=JZ6Jc-cvKX8)]
+*    [Interactive Passing Networks](https://karun.in/blog/interactive-passing-networks.html) by [Karun Singh](https://twitter.com/karun1710)
+*    [Explaining xGChain Passing Networks](https://statsbomb.com/articles/soccer/explaining-xgchain-passing-networks/) by [Ted Knutson](https://twitter.com/mixedknuts)
+
+<h6 id="passing-networks-written-pieces-papers"> Papers</h6>
+
+*    [Using Network Science to Quantify the Identifiability of Football Teams](https://www.statsperform.com/resource/using-network-science-to-quantify-the-identifiability-of-football-teams/) by Javier M. Buldú, David Garrido
+*    [The role of passing network indicators in modeling football outcomes: an application using Bayesian hierarchical models](https://link.springer.com/article/10.1007/s10182-021-00411-x) by Riccardo Ievoli, Aldo Gardini & Lucio Palazzo
+
+<h6 id="passing-networks-written-pieces-tutorials"> Tutorials</h6>
+
 *    [Football Data Visualizations - Passing Networks](https://www.dzialowski.eu/football-data-visualisations/) by [Karol Działowski](https://github.com/karlosos/) - a great blog post on how to create passing networks from first principles, using Opta Event data acquired from WhoScored. This data is then visualised using matplotlib
-*    [`passing-networks-in-python`](https://github.com/Friends-of-Tracking-Data-FoTD/passing-networks-in-python) - repository for building customizable passing networks with matplotlib for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). The code is prepared to use both eventing (StatsBomb) and tracking data (Metrica Sports)
+*    [Football passing networks using R](https://www.datofutbol.cl/passing-networks-r/) by [Dato Fútbol](https://twitter.com/DatoFutbol_cl) ([Ismael Gómez Schmidt](https://twitter.com/ismaelgomezs))
+*    [How to Render 3D Football Pass Network](https://towardsdatascience.com/how-to-render-3d-football-pass-networks-bf889f5ab1b0) by Daniel Linke
+*    [Plotting a passing network on a football pitch](https://www.linkedin.com/pulse/plotting-passing-network-football-pitch-alberto-rodr%C3%ADguez-mart%C3%ADn/) by [Alberto Rodríguez Martín](https://twitter.com/albertormweb)
 *    Medium blog post by [Rahul Iyer](https://twitter.com/exceedingxpuns) - [Guide to Creating Passing Networks in Tableau
 ](https://raahulbi103.medium.com/guide-to-creating-passing-networks-in-tableau-be8847420297)
+
+<h5 id="passing-networks-written-pieces"> Videos</h5>
+
+*    [How to Create Football Pass Networks in Python](https://www.youtube.com/watch?v=fPcY9dbOMGM) by [McKay Johns](https://twitter.com/mckayjohns)
+*    [Creating passing networks with Barcelona data scientist](https://www.youtube.com/watch?v=JZ6Jc-cvKX8) by [Serio Llana](https://twitter.com/SergioMinuto90), to build customizable passing networks with matplotlib for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). The code is prepared to use both eventing (StatsBomb) and tracking data (Metrica Sports). See the corresponding GitHub repository - [`passing-networks-in-python`](https://github.com/Friends-of-Tracking-Data-FoTD/passing-networks-in-python) 
+*    [Introduction to Soccer Pass Network Analysis with Python](https://www.youtube.com/watch?v=FHEaI6oRYQM) 
+
 
 <h4 id="pv-frameworks"> Possession Value (PV) Frameworks</h4>
 
