@@ -137,6 +137,7 @@ For more information about this repository and the author, I am available throug
             <li><a href="#scraping">Web Scraping Football Data</a></li>
             <li><a href="#tracking-data">Tracking Data</a></li>
             <li><a href="#pitch-control-modeling">Pitch Control Modeling</a></li>
+            <li><a href="#passing-networks">Passing Networks</a></li>
             <li><a href="#pv-frameworks">Possession Value (PV) Frameworks</a></li>
               <ul>
                 <li><a href="#pv-frameworks-general">General</a></li>
@@ -2192,6 +2193,15 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 *    [The Football Fanalytics Podacst](https://open.spotify.com/show/6JwWRPMaHfGicFBtl7nI3V?si=IwQ00tyTRPaBcW-0XLwS4w&nd=1) with [Mark Carey](https://twitter.com/MarkCarey93) and [Ryan Bailey](https://twitter.com/ryanbailey57):
      +    [Episode 32 - A Closer Look into "Pitch Control"](https://open.spotify.com/episode/5td42LjG7HQZ1uUSZOmj1Y?si=QIrAkt5VSnadVcuWOa8bLA)
+
+<h4 id="passing-networks"> Passing Networks</h4>
+
+*    [How each Premier League team pass](https://theathletic.com/3346644/2022/06/07/premier-league-pass-networks/) by [John Muller](https://twitter.com/johnspacemuller) for [The Athletic](https://theathletic.com/)
+*    [Serio Llana](https://twitter.com/SergioMinuto90)'s step-by-step guide for creating Passing Networks [[link](https://www.youtube.com/watch?v=JZ6Jc-cvKX8)]
+*    [Football Data Visualizations - Passing Networks](https://www.dzialowski.eu/football-data-visualisations/) by [Karol Działowski](https://github.com/karlosos/) - a great blog post on how to create passing networks from first principles, using Opta Event data acquired from WhoScored. This data is then visualised using matplotlib
+*    [`passing-networks-in-python`](https://github.com/Friends-of-Tracking-Data-FoTD/passing-networks-in-python) - repository for building customizable passing networks with matplotlib for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). The code is prepared to use both eventing (StatsBomb) and tracking data (Metrica Sports)
+*    Medium blog post by [Rahul Iyer](https://twitter.com/exceedingxpuns) - [Guide to Creating Passing Networks in Tableau
+](https://raahulbi103.medium.com/guide-to-creating-passing-networks-in-tableau-be8847420297)
 
 <h4 id="pv-frameworks"> Possession Value (PV) Frameworks</h4>
 
