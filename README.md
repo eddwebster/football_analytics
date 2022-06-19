@@ -2222,7 +2222,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Explaining Expected Threat](https://soccermatics.medium.com/explaining-expected-threat-cbc775d97935) by [David Sumpter](https://twitter.com/Soccermatics)
 *    [Football's New Stat - What is Expected Threat?](https://www.youtube.com/watch?v=RwVLUH4BFfA) by Tifo
 *    [How to Calculate Expected Threat (xT) in Python](https://www.youtube.com/watch?v=cMVzNQ6nytU) by [McKay Johns](https://twitter.com/mckayjohns). See the corresponding GitHub repository [[link](https://github.com/mckayjohns/xT)] and Jupyter notebook [[link](https://github.com/mckayjohns/xT/blob/main/xT%20Tutorial.ipynb)]
-  *    [Implementing Expected Threat (xT) in Julia(https://sharmaabhishekk.github.io/projects/xt-derivation-julia) by [Abhishek Sharma](https://twitter.com/abhisheksh_98)
+  *    [Implementing Expected Threat (xT) in Julia](https://sharmaabhishekk.github.io/projects/xt-derivation-julia) by [Abhishek Sharma](https://twitter.com/abhisheksh_98)
 
 <h5 id="pv-frameworks-vaep"> Valuing Actions by Estimating Probabilities (VAEP) </h5>
 
