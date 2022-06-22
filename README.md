@@ -2212,6 +2212,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 <h6 id="passing-networks-written-pieces-tutorials"> Tutorials</h6>
 
 *    [Football Data Visualizations - Passing Networks](https://www.dzialowski.eu/football-data-visualisations/) by [Karol Działowski](https://github.com/karlosos/) - a great blog post on how to create passing networks from first principles, using Opta Event data acquired from WhoScored. This data is then visualised using matplotlib
+*    [Creating a Passmap in Python](https://sharmaabhishekk.github.io/projects/passmap) by [Abhishek Sharma](https://twitter.com/abhisheksh_98)
 *    [Football passing networks using R](https://www.datofutbol.cl/passing-networks-r/) by [Dato Fútbol](https://twitter.com/DatoFutbol_cl) ([Ismael Gómez Schmidt](https://twitter.com/ismaelgomezs))
 *    [How to Render 3D Football Pass Network](https://towardsdatascience.com/how-to-render-3d-football-pass-networks-bf889f5ab1b0) by Daniel Linke
 *    [Plotting a passing network on a football pitch](https://www.linkedin.com/pulse/plotting-passing-network-football-pitch-alberto-rodr%C3%ADguez-mart%C3%ADn/) by [Alberto Rodríguez Martín](https://twitter.com/albertormweb)
