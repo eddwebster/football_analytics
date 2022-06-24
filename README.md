@@ -2225,6 +2225,10 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Creating passing networks with Barcelona data scientist](https://www.youtube.com/watch?v=JZ6Jc-cvKX8) by [Serio Llana](https://twitter.com/SergioMinuto90), to build customizable passing networks with matplotlib for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). The code is prepared to use both eventing (StatsBomb) and tracking data (Metrica Sports). See the corresponding GitHub repository - [`passing-networks-in-python`](https://github.com/Friends-of-Tracking-Data-FoTD/passing-networks-in-python) 
 *    [Introduction to Soccer Pass Network Analysis with Python](https://www.youtube.com/watch?v=FHEaI6oRYQM) 
 
+<h5 id="passing-networks-tweets"> Tweets</h5>
+
+*    [Premier League Passing Networks](https://twitter.com/johnspacemuller/status/1534123449328754690/photo/1) by [John Muller](https://twitter.com/johnspacemuller) for [The Athletic](https://theathletic.com/)
+*    [Pass network EPL 2019/20](https://twitter.com/Tacticsplatform/status/1193184947189747712) by [Cheuk Hei Ho](https://twitter.com/Tacticsplatform)
 
 <h4 id="pv-frameworks"> Possession Value (PV) Frameworks</h4>
 
