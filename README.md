@@ -1153,6 +1153,7 @@ For a Twitter thread of the football analytics blogs from 2009 an earlier, see t
 *    [Wooly Jumpers for Goal Posts](https://winningwithanalytics.com/) by [The Woolster](https://twitter.com/The_Woolster);
 *    [Worville Analysis](https://worvilleanalysis.wordpress.com/) by [Tom Worville](https://twitter.com/Worville); 
 *    [Wyscout](https://blog.wyscout.com/);
+*    [x+football](https://xandfootball.substack.com/) by [Niklas Hemmer](https://twitter.com/NiklasHemmer)
 *    [xG per Shot](https://xgpershot.wordpress.com/) by [Parthe Athale](https://twitter.com/ParthAthale); and
 *    [Zonal Marking](http://www.zonalmarking.net/). by Michael Cox. Michael now writes for The Athletic [[link](https://theathletic.com/author/michael-cox/)].
 
@@ -2286,8 +2287,9 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [The Seven Styles of Soccer](https://spacespacespaceletter.com/the-seven-styles-of-soccer/) by [John Muller](https://twitter.com/johnspacemuller)
 *    [You Down With t-SNE?](https://www.americansocceranalysis.com/home/2018/11/26/tsne) by [Eliot McKinley](https://twitter.com/etmckinley) and [Cheuk Hei Ho](https://twitter.com/Tacticsplatform) for [American Soccer Analysis](https://www.americansocceranalysis.com/)
 *    [Tweet to Clustering European Teams by Behaviors](https://twitter.com/Tacticsplatform/status/1056342025770094592) by [Cheuk Hei Ho](https://twitter.com/Tacticsplatform)
-*    [Defining Player Roles: How Every Player Contributes to Goals](https://www.americansocceranalysis.com/home/2020/8/3/defining-roles-how-every-player-contributes-to-goals) by [ Michael Imburgio]() for [American Soccer Analysis](https://www.americansocceranalysis.com/)
+*    [Defining Player Roles: How Every Player Contributes to Goals](https://www.americansocceranalysis.com/home/2020/8/3/defining-roles-how-every-player-contributes-to-goals) by [Michael Imburgio](https://twitter.com/mimburgio) for [American Soccer Analysis](https://www.americansocceranalysis.com/)
 *    [The Relentless, the Chaotic, and the Bus Conductors](https://autogol.substack.com/p/coaching-clusters) by [James McMahon](https://twitter.com/jamesmcmcmahon)
+*    [Similar Player Tool](https://xandfootball.substack.com/p/similarplayer) by [Niklas Hemmer](https://twitter.com/NiklasHemmer)
 *    [The Bargain Bin Bielsa Machine](https://autogol.substack.com/p/coaching-clusters) by [James McMahon](https://twitter.com/jamesmcmcmahon)
 *    [Using Machine Learning To Find Players In Similar Roles In Scotland](https://www.modernfitba.com/blogs/2021/2/13/using-machine-learning-to-find-players-in-similar-roles-in-scotland) by Matt Rhein
 *    [Comparing Players: Clustering and Style of Play](https://www.americansocceranalysis.com/home/2020/3/3/clustering) by American Soccer Analysis
@@ -2613,6 +2615,7 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
       +    [How to get started in data and the football industry](https://henshawanalysis.medium.com/how-to-get-started-in-data-and-the-football-industry-50d974e84bef) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
       +    [SportsViz Sunday](https://twitter.com/search?q=%23SportsVizSunday) [Weekly Round-up 01.16.2022](https://www.sportsvizsunday.com/post/weekly-round-up-01-16-2022) by [CJ Mayes](https://twitter.com/_CJMayes)
       +    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
+      +    [Similar Player Tool](https://xandfootball.substack.com/p/similarplayer) by [Niklas Hemmer](https://twitter.com/NiklasHemmer)
 *    Social Media:
       +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
       +    The following [Tweet](https://twitter.com/Worville/status/1420413426564800515) by [Tom Worville](https://twitter.com/Worville). Check out his [Twitter thread](https://twitter.com/Worville/status/1275732993819250688) on getting started in football analytics
