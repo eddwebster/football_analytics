@@ -170,6 +170,7 @@ For more information about this repository and the author, I am available throug
     </li>
     <li><a href="#citations">Citations</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#star-tracker">Star Tracker</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -2710,6 +2711,15 @@ If you're new to creating a pull request, please follow these steps (based on [t
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<h2 id="star-tracker"> Star Historyr</h2>
+
+Star history for the <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository.
+
+
+<a href="#table-of-contents">Back to Contents</a>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="acknowledgements"> Acknowledgements</h2>
 
