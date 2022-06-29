@@ -2715,6 +2715,8 @@ If you're new to creating a pull request, please follow these steps (based on [t
 
 Star history for the <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository.
 
+[![Football Analytics GitHub Stars History](https://api.star-history.com/svg?repos=eddwebster/football_analytics&type=Date)](https://star-history.com/#eddwebster/football_analytics&Date)
+
 
 <a href="#table-of-contents">Back to Contents</a>
 
