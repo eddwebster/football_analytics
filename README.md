@@ -1,4 +1,4 @@
-<h1 id="top" align="center"> Football Analytics </h1>
+<h1 id="top" align="center"> Edd Webster Football Analytics </h1>
 <h3 align="center"> A space for football analytics projects by <a href="https://twitter.com/eddwebster">Edd Webster</a>, including a curated list of publicly available resources published by the football analytics community.</h3>  
 
 </br>
