@@ -771,7 +771,6 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 
 <h5 id="video-performance-analysis"> Videos / Performances Analysis</h5>
 
-*    [Analytics FC](http://analyticsfc.co.uk/)
 *    [dataFootball](https://www.bdatafutbol.com/)
 *    [ERIC Sports](http://www.ericsports.net/)
 *    [Futbolytics](https://futbolytics.cl/)
@@ -784,6 +783,10 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    [SICO](https://www.sicostats.com/)
 *    [Wise](http://app.wise4sports.com/home/)
 
+
+<h5 id="consultancy"> Consultancy / Service Providers</h5>
+
+*    [Analytics FC](http://analyticsfc.co.uk/)
 
 <a href="#table-of-contents">Back to Contents</a>
 
@@ -1071,7 +1074,7 @@ For a Twitter thread of the football analytics blogs from 2009 an earlier, see t
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/);
 *    [Analyse Football](https://analysefootball.com/) by [Ravi Ramineni](https://twitter.com/analyseFooty) (last updated 06//04/2015);
 *    [The Analyst](https://www.theanalyst.com/eu/) by Stats Perform;
-*    [Analytics FC](https://attackingcentreback.wordpress.com/);
+*    [Analytics FC](https://analyticsfc.co.uk/). For the blog, see [[link](https://analyticsfc.co.uk/blog/)];
 *    [Attacking Center-back](https://attackingcentreback.wordpress.com/) by [JP Quinn](https://twitter.com/AttackingCB);
 *    [Barça Innovation Hub](https://barcainnovationhub.com/category/blog/)
 *    [Benoit Pimpaud](https://twitter.com/Ben8t)'s [Medium blog](https://medium.pimpaudben.fr/)
