@@ -2717,7 +2717,7 @@ If you're new to creating a pull request, please follow these steps (based on [t
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2 id="star-tracker"> Star Historyr</h2>
+<h2 id="star-tracker"> Star History</h2>
 
 Star history for the <a href="https://github.com/eddwebster/football_analytics" target="_blank">`football_analytics`</a> repository.
 
