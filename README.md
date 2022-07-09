@@ -2620,6 +2620,7 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
 *    Articles:
       +    [How to get started in data and the football industry](https://henshawanalysis.medium.com/how-to-get-started-in-data-and-the-football-industry-50d974e84bef) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
       +    [SportsViz Sunday](https://twitter.com/search?q=%23SportsVizSunday) [Weekly Round-up 01.16.2022](https://www.sportsvizsunday.com/post/weekly-round-up-01-16-2022) by [CJ Mayes](https://twitter.com/_CJMayes)
+      +    [Want to Learn Football Analytics?](https://medium.com/@irfanalghani11/want-to-learn-football-analytics-24cae325a30a) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
       +    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
       +    [Similar Player Tool](https://xandfootball.substack.com/p/similarplayer) by [Niklas Hemmer](https://twitter.com/NiklasHemmer)
 *    Social Media:
