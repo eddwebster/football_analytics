@@ -2610,9 +2610,11 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 *    [Modelling the transfer prices of football players](http://arno.uvt.nl/show.cgi?fid=144559) by Ivo Hendriks
 *    [A study of Prediction models for football player valuations by quantifying statistical and economic attributes for the global transfer market](https://www.researchgate.net/publication/336786013_A_study_of_Prediction_models_for_football_player_valuations_by_quantifying_statistical_and_economic_attributes_for_the_global_transfer_market) by Dibyanshu Patnaik, Harsh Praharaj, Kartikeya Prakash, and Krishna Samdani
 
-<h6 id="player-valuation-written-pieces-notebooks"> Jupter/R Markdown Notebooks</h6>
+<h6 id="player-valuation-written-pieces-code"> Code/Notebooks</h6>
 
 *    [A Modelling Analysis of Transfer Fees from the 2019/20 Premier League Season](https://bookdown.org/callumlittler3/a_modelling_analysis_of_transfer_fees_from_the_201920_premier_le/TransferFee.html) by Callum Littler
+*    [`football_scout_ml`](https://github.com/jtattersall09403/football_scout_ml/tree/main/R) R scripts by Jack Tattersall- [01_load_data.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/01_load_data.R), [02_train_xgboost.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/02_train_xgboost.R), [03_xgboost_predict.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/03_xgboost_predict.R), [randomforest.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/randomforest.R). See the accompanying Medium post: [Using machine learning to identify high-value football transfer targets](https://towardsdatascience.com/using-machine-learning-to-identify-high-value-football-transfer-targets-d4151a7ffcac)
+*    [`PlayerValueEstimator`](https://github.com/burakarslan/DSbootcamp-Project2/blob/main/Project2_PlayerValueEstimator.ipynb) by Burak Arslan. See the accompanying GitHub repo [[link](https://github.com/burakarslan/DSbootcamp-Project2/) and Medium Blog: [Is It Possible to Predict Football Players’ Value](https://levelup.gitconnected.com/is-it-possible-to-predict-football-players-value-617eafe8669b)
 
 <h6 id="player-valuation-written-pieces-slides"> Slides</h6>
 
@@ -2650,7 +2652,9 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 *    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) [TransferMarkt](https://www.transfermarkt.com/) webscraper by [FCrSTATS](https://twitter.com/FC_rstats)
 *    [`tmscrape`]([https://github.com/FCrSTATS/tyrone_mings](https://github.com/znstrider/tmscrape)) [TransferMarkt.de](https://www.transfermarktde/) webscraper by [znstrider](https://twitter.com/danzn1)
 *    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) that include [TransferMarkt](https://www.transfermarkt.com/) webscraping (see guide [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)])
+*    [`football_scout_ml`](https://github.com/jtattersall09403/football_scout_ml) - a repo that uses machine learning to identify high-value targets in the football transfer market by James Tattersall. See the accompanying Medium Post [[link](https://towardsdatascience.com/using-machine-learning-to-identify-high-value-football-transfer-targets-d4151a7ffcac)]
 *    [Predicting Football Player Transfer Values](https://github.com/sanjitva/Predicting-Football-Player-Transfer-Values) by Sanjit Varma
+*    [`DSbootcamp-Project2`](https://github.com/burakarslan/DSbootcamp-Project2/) by Burak Arslan. See the accompanying Medium Blog: [Is It Possible to Predict Football Players’ Value](https://levelup.gitconnected.com/is-it-possible-to-predict-football-players-value-617eafe8669b)
 
 <h5 id="player-valuation-miscellaneous"> Miscellaneous</h5>
 
