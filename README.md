@@ -2543,7 +2543,7 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 
 *    [What is Gegenpressing?](https://www.youtube.com/watch?v=5QRWryN3okY)
 *    [What is Counter- or Gegenpressing?](https://spielverlagerung.com/2018/09/02/video-what-is-counter-or-gegenpressing/) by [Adin Osmanbašić](https://twitter.com/AdinOsmanbasic)
-*    [Talk by Jesse Marsch Presentation](https://www.youtube.com/watch?v=c6BOWjn59j8)
+*    [Talk by Jesse Marsch](https://www.youtube.com/watch?v=c6BOWjn59j8)
 
 
 <h4 id="player-valuation"> Player Valuation Modeling</h4>
@@ -2556,7 +2556,7 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 
 <h5 id="player-valuation-example-models"> Example Methodologies</h5>
 
-*    [TransferMarkt](https://www.transfermarkt.com/): [Transfermarkt Market Value explained - How is it determined?](https://www.transfermarkt.co.in/transfermarkt-market-value-explained-how-is-it-determined-/view/news/385100). See also the paper [Beyond crowd judgments: Data-driven estimation of market value in association football](https://www.sciencedirect.com/science/article/pii/S0377221717304332) by 
+*    [TransferMarkt](https://www.transfermarkt.com/): [Transfermarkt Market Value explained - How is it determined?](https://www.transfermarkt.co.in/transfermarkt-market-value-explained-how-is-it-determined-/view/news/385100). See also the paper [Beyond crowd judgments: Data-driven estimation of market value in association football](https://www.researchgate.net/publication/316871189_Beyond_Crowd_Judgments_Data-Driven_Estimation_of_Market_Value_in_Association_Football) by Oliver Müller, Alexander Simons, and Markus Weinmann
 *    [Football Benchmark by KPMG](https://www.footballbenchmark.com/home): [KPMG Methodology and limitations of published information](https://footballbenchmark.com/methodology/player_valuation)
 *    [SciSports](https://support.scisports.com/en/): [SciSports’ transfer fee prediction model](https://support.scisports.com/en/articles/5649345-scisports-transfer-fee-prediction-model)
 *    [CIES Football Observatory](https://football-observatory.com/): [Scientific evaluation of the transfer value of football players]([https://www.football-observatory.com/IMG/sites/mr/mr53/en/](https://www.football-observatory.com/IMG/pdf/mr53en.pdf)) by Drs Raffaele Poli, Loïc Ravenel and Roger Besson
@@ -2595,12 +2595,12 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 
 <h6 id="player-valuation-written-pieces-papers"> Papers</h6>
 
-*    [Beyond crowd judgments: Data-driven estimation of market value in association football](https://www.researchgate.net/publication/316871189_Beyond_Crowd_Judgments_Data-Driven_Estimation_of_Market_Value_in_Association_Football)
-*    [Football Player’s Performance and Market Value](https://dtai.cs.kuleuven.be/events/MLSA15/papers/mlsa15_submission_8.pdf) by Miao He1, Ricardo Cachucho, and Arno Knobbe
-*    [Data-driven estimation of market value in association football](https://repub.eur.nl/pub/120757/Repub_120757_O-A.pdf) by O Müller
+*    [Beyond crowd judgments: Data-driven estimation of market value in association football](https://www.researchgate.net/publication/316871189_Beyond_Crowd_Judgments_Data-Driven_Estimation_of_Market_Value_in_Association_Football) by Oliver Müller, Alexander Simons, and Markus Weinmann
+*    [Football Player’s Performance and Market Value](https://dtai.cs.kuleuven.be/events/MLSA15/papers/mlsa15_submission_8.pdf) by Miao He, Ricardo Cachucho, and Arno Knobbe
 *    [A novel machine learning method for estimating football players’ value in the transfer market](https://link.springer.com/article/10.1007/s00500-020-05319-3) by Iman Behravan andSeyed Mohammad Razavi 
 *    [Predicting player transfers in the small world of football](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_kovacs.pdf) by Roland Kovas and Laszlo Toka
 *    [Predicting Market Value of Football Players using Machine Learning Algorithms](https://www.researchgate.net/publication/347439782_Predicting_Market_Value_of_Football_Players_using_Machine_Learning_Algorithms) by Sidharrth Mahadevan
+*    [Estimating transfer fees of professional footballers using advanced performance metrics and machine learning](https://www.sciencedirect.com/science/article/pii/S0377221722005082) by Ian G.McHale, and Benjamin olmes
 *    [Predict the Value of Football Players Using FIFA Video Game Data and Machine Learning Techniques](https://ieeexplore.ieee.org/document/9721908) by Mustafa A. Al-Asadi and Sakir Tasdemır 
 *    [Econometric Approach to Assessing the Transfer Fees and Values of Professional Football Players](https://www.mdpi.com/2227-7099/10/1/4/pdf?version=1641910565) by Raffaele Poli, Roger Besson, and Loïc Ravenel
 *    [Identification of Factors Determining Market Value of the Most Valuable Football Players](https://www.researchgate.net/publication/308647882_Identification_of_Factors_Determining_Market_Value_of_the_Most_Valuable_Football_Players) by Sebastian Majewski
@@ -2613,8 +2613,8 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 <h6 id="player-valuation-written-pieces-code"> Code/Notebooks</h6>
 
 *    [A Modelling Analysis of Transfer Fees from the 2019/20 Premier League Season](https://bookdown.org/callumlittler3/a_modelling_analysis_of_transfer_fees_from_the_201920_premier_le/TransferFee.html) by Callum Littler
-*    [`football_scout_ml`](https://github.com/jtattersall09403/football_scout_ml/tree/main/R) R scripts by Jack Tattersall- [01_load_data.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/01_load_data.R), [02_train_xgboost.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/02_train_xgboost.R), [03_xgboost_predict.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/03_xgboost_predict.R), [randomforest.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/randomforest.R). See the accompanying Medium post: [Using machine learning to identify high-value football transfer targets](https://towardsdatascience.com/using-machine-learning-to-identify-high-value-football-transfer-targets-d4151a7ffcac)
-*    [`PlayerValueEstimator`](https://github.com/burakarslan/DSbootcamp-Project2/blob/main/Project2_PlayerValueEstimator.ipynb) by Burak Arslan. See the accompanying GitHub repo [[link](https://github.com/burakarslan/DSbootcamp-Project2/) and Medium Blog: [Is It Possible to Predict Football Players’ Value](https://levelup.gitconnected.com/is-it-possible-to-predict-football-players-value-617eafe8669b)
+*    [`football_scout_ml`](https://github.com/jtattersall09403/football_scout_ml/tree/main/R) R scripts by Jack Tattersall - [01_load_data.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/01_load_data.R), [02_train_xgboost.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/02_train_xgboost.R), [03_xgboost_predict.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/03_xgboost_predict.R), [randomforest.R](https://github.com/jtattersall09403/football_scout_ml/blob/main/R/randomforest.R). See the accompanying Medium post: [Using machine learning to identify high-value football transfer targets](https://towardsdatascience.com/using-machine-learning-to-identify-high-value-football-transfer-targets-d4151a7ffcac)
+*    [`PlayerValueEstimator`](https://github.com/burakarslan/DSbootcamp-Project2/blob/main/Project2_PlayerValueEstimator.ipynb) by Burak Arslan. See the accompanying GitHub repo [[link](https://github.com/burakarslan/DSbootcamp-Project2/)] and Medium Blog: [Is It Possible to Predict Football Players’ Value](https://levelup.gitconnected.com/is-it-possible-to-predict-football-players-value-617eafe8669b)
 
 <h6 id="player-valuation-written-pieces-slides"> Slides</h6>
 
@@ -2636,7 +2636,7 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
            -    Python: [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb) for code with minor fixes to enable code to run).
            -    R: [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)])
      +    An extract of player data for 2010-2021 for the 'Big 5' European leagues has been made available by [John Muller](https://twitter.com/johnspacemuller), see [[link](https://docs.google.com/spreadsheets/d/1E8Vi4P1kl9P23uCLpYOWWY7caaQh3OZmWVD6nbSSH7Q/edit)]
-*    Soccerway (transfer values): https://uk.soccerway.com/players
+*    [Soccerway (transfer values)](https://uk.soccerway.com/players)
 
 <h6 id="player-valuation-data-transfers"> Recorded Transfers</h6>
 
@@ -2655,6 +2655,7 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 *    [`football_scout_ml`](https://github.com/jtattersall09403/football_scout_ml) - a repo that uses machine learning to identify high-value targets in the football transfer market by James Tattersall. See the accompanying Medium Post [[link](https://towardsdatascience.com/using-machine-learning-to-identify-high-value-football-transfer-targets-d4151a7ffcac)]
 *    [Predicting Football Player Transfer Values](https://github.com/sanjitva/Predicting-Football-Player-Transfer-Values) by Sanjit Varma
 *    [`DSbootcamp-Project2`](https://github.com/burakarslan/DSbootcamp-Project2/) by Burak Arslan. See the accompanying Medium Blog: [Is It Possible to Predict Football Players’ Value](https://levelup.gitconnected.com/is-it-possible-to-predict-football-players-value-617eafe8669b)
+*    [`Football_Transfers`](https://github.com/siddarthkrishna10/Football_Transfers) by . GitHub repo for understanding trends in football transfers through an attempt to build a prediction model to predict the market value of players using Python
 
 <h5 id="player-valuation-miscellaneous"> Miscellaneous</h5>
 
