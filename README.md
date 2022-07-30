@@ -2548,25 +2548,76 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 
 <h4 id="player-valuation"> Player Valuation Modeling</h4>
 
-<h5 id="player-valuation-models"> Models</h5>
+<h5 id="player-valuation-example-models"> Example Models</h5>
 
 *    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio)
 *    [TransferRoom Expected Transfer Value (xTV) Webinar](https://www.transferroom.com/xtv-webinar) - webinar by Daniel Blades of TransferRoom, providing insight into the workings of xTV, a metric created by TransferRoom to enable a data-led measure of a player’s value in the transfer market. The webinar covers: What is xTV? How is it calculated? Does it differ from other valuation methods? How does xTV benchmark players? What is the reliability of xTV? How does xTV help clubs and agents? What are some real-life examples of xTV?
 
-<h5 id="player-valuation-data"> Data</h5>
 
-*    [Capology](https://www.capology.com/) - a sports salaries platform [requires an expensive licence, 7 day free trials available];
-*    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data;
-*    [The Price of Football Master Spreadsheet](https://t.co/c1DYrIB14C?amp=1) - data from the finance/business aspect of football by [Kieran Maguire](https://twitter.com/KieranMaguire);
-*    [spotrac](https://www.spotrac.com/epl/) - player contracts, salaries, and transfer information for the Premier League, MLS, and NWSL;
+<h5 id="player-valuation-example-models"> Example Methodologies</h5>
+
+*    [TransferMarkt](https://www.transfermarkt.com/): [Transfermarkt Market Value explained - How is it determined?](https://www.transfermarkt.co.in/transfermarkt-market-value-explained-how-is-it-determined-/view/news/385100). See also the paper [Beyond crowd judgments: Data-driven estimation of market value in association football](https://www.sciencedirect.com/science/article/pii/S0377221717304332) by 
+*    [Football Benchmark by KPMG](https://www.footballbenchmark.com/home): [KPMG Methodology and limitations of published information](https://footballbenchmark.com/methodology/player_valuation)
+*    [CIES Football Observatory](https://football-observatory.com/): [Scientific evaluation of the transfer value of football players](https://www.football-observatory.com/IMG/sites/mr/mr53/en/) by Drs Raffaele Poli, Loïc Ravenel and Roger Besson
+*    https://www.sportskeeda.com/football/transfer-values-calculation-explained
+*    https://www.thetransferlist.co.uk/uefa-market-value-calculator/
+
+<h5 id="player-valuation-written-pieces"> Written Pieces Regarding the Topic of Player Valuation</h5>
+
+<h6 id="player-valuation-written-pieces-articles"> Articles</h6>
+
+*    [The Wisdom of the Crowd: Soccer takes the player valuations posted on the website Transfermarkt extremely seriously. It has never really stopped to ask where they come from](https://www.nytimes.com/2021/08/12/sports/soccer/soccer-football-transfermarkt.html) by [Rory Smith](https://twitter.com/RorySmith) for [The New York Times](https://www.nytimes.com/)
+*    [Soccer’s Confounding Calculation: What’s a Player Worth?](https://www.nytimes.com/2017/06/22/sports/soccer/premier-league-transfers.html) by [Rory Smith](https://twitter.com/RorySmith) for [The New York Times](https://www.nytimes.com/) 
+*    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio)
+*    [Transfer window analysed: Less spent, young players targeted and free agents have defined key moves](https://theathletic.com/2802812/2021/09/02/transfer-window-analysed-less-spent-young-players-targeted-and-free-agents-have-defined-key-moves/) by [Tom Worville](https://twitter.com/Worville)
+
+<h6 id="player-valuation-written-pieces-blogs"> Blogs</h6>
+
+*    http://eightyfivepoints.blogspot.com/2019/05/from-sessegnon-to-sanchez-how-to.html by Laurie Shaw
+*    http://eightyfivepoints.blogspot.com/p/blog-page.html by Laurie Shaw
+*    https://twitter.com/etmckinley/status/1131171851969925125
+*    https://www.stevenmarcscott.com/analyzing-markets
+*    https://www.stevenmarcscott.com/player-values-over-time
+*    http://roensholt-stats.com/2021-09-18-Superliga-Transfers/. GitHub: GitHub - C-Roensholt/SuperligaTransferAnalysis: This is a project analysing the transfer windows in the Danish Superliga from 2010 to 2021
+*    https://www.footballtransfers.com/en/transfer-news/2021/03/fifa-considering-using-ai-technology-to-calculate-transfer-fees
+
+<h6 id="player-valuation-written-pieces-papers"> Papers</h6>
+
+*    https://dtai.cs.kuleuven.be/events/MLSA15/papers/mlsa15_submission_8.pdf
+*    [Beyond crowd judgments: Data-driven estimation of market value in association football](https://www.researchgate.net/publication/316871189_Beyond_Crowd_Judgments_Data-Driven_Estimation_of_Market_Value_in_Association_Football)
+*    Valuation of Football Players: https://core.ac.uk/download/pdf/52071837.pdf
+*    A novel machine learning method for estimating football players’ value in the transfer market:https://link.springer.com/article/10.1007/s00500-020-05319-3
+*    Data-driven estimation of market value in association football: https://repub.eur.nl/pub/120757/Repub_120757_O-A.pdf
+*    Predicting Market Value of Football Players using Machine Learning Algorithms: https://www.researchgate.net/publication/347439782_Predicting_Market_Value_of_Football_Players_using_Machine_Learning_Algorithms
+
+<h5 id="player-valuation-data"> Financial Data</h5>
+
+<h6 id="player-valuation-data-values"> Player Values</h6>
+
+*    [Capology](https://www.capology.com/) - a sports salaries platform
+*    [KPMG Football Benchmark](https://footballbenchmark.com/home) player valuation data
+*    [spotrac](https://www.spotrac.com/epl/) - player contracts, salaries, and transfer information for the Premier League, MLS, and NWSL
 *    [TransferMarket](https://www.transfermarkt.com/) player bio and fiscal data
      +    This data can be scraped in the following ways:
            -    Python: [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) webscraper by [FCrSTATS](https://twitter.com/FC_rstats) (I've currently submitted a pull request to fix issues with this library to scrape bio-status data, see my [TransferMarkt scraping notebook](https://nbviewer.jupyter.org/github/eddwebster/football_analytics/blob/master/notebooks/1_data_scraping/TransferMarkt%20Web%20Scraping.ipynb) for code with minor fixes to enable code to run).
            -    R: [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) package by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)])
      +    An extract of player data for 2010-2021 for the 'Big 5' European leagues has been made available by [John Muller](https://twitter.com/johnspacemuller), see [[link](https://docs.google.com/spreadsheets/d/1E8Vi4P1kl9P23uCLpYOWWY7caaQh3OZmWVD6nbSSH7Q/edit)]
-*    Transfers data:
-     +    [`transfers`](https://github.com/ewenme/transfers) GitHub repo for European football clubs' player transfers from 1992/93-2020/21 (as per TransferMarkt) by [ewenme](https://github.com/ewenme)
-     +    [Player Transfer Data](https://gist.github.com/Worville/c4149ece45a75928a404d316151ba0fe) collated by [Tom Worville](https://twitter.com/Worville) (see Tweet [[link](https://twitter.com/Worville/status/1420035521988993034)]
+*    Soccerway (transfer values): https://uk.soccerway.com/players
+
+<h6 id="player-valuation-data-transfers"> Recorded Transfers</h6>
+
+*    [`transfers`](https://github.com/ewenme/transfers) GitHub repo for European football clubs' player transfers from 1992/93-2020/21 (as per TransferMarkt) by [ewenme](https://github.com/ewenme)
+*    [Player Transfer Data](https://gist.github.com/Worville/c4149ece45a75928a404d316151ba0fe) collated by [Tom Worville](https://twitter.com/Worville) (see Tweet [[link](https://twitter.com/Worville/status/1420035521988993034)]
+
+<h6 id="player-valuation-data-others"> Other</h6>
+
+*    [The Price of Football Master Spreadsheet](https://t.co/c1DYrIB14C?amp=1) - data from the finance/business aspect of football by [Kieran Maguire](https://twitter.com/KieranMaguire)
+
+<h5 id="player-valuation-packages"> Relevant Packages/Repos</h5>
+
+*    GitHub - FCrSTATS/tyrone_mings
+*    GitHub - znstrider/tmscrape: scrapers for transfermarkt.de
+*    SuperligaTransferAnalysis/scrape_transfermarkt.py at main · C-Roensholt/SuperligaTransferAnalysis
 
 
 <h4 id="game-win-probability-modeling"> Game Win Probability Modeling</h4>
