@@ -165,7 +165,6 @@ For more information about this repository and the author, I am available throug
             <li><a href="#goalkeeper-analysis">Goalkeeper Analysis</a></li>
           </ul>
         </li>
-        <li><a href="#miscellaneous">Miscellaneous</a></li>
       </ul>
     </li>
     <li><a href="#citations">Citations</a></li>
@@ -2690,20 +2689,6 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 <a href="#table-of-contents">Back to Contents</a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
-
-
-<h3 id="miscellaneous"> :grey_question: Miscellaneous</h3>
-
-*    [Association of Sports Analytics Professionals](https://www.sportsanalyticsprofessionals.com/);
-*    [FIFA EPTS (Electronic Performance and Tracking Systems)](https://football-technology.fifa.com/en/media-tiles/epts/);
-*    [opensport (Google Group)](https://groups.google.com/forum/#!forum/opensport); and
-*    [Technical Report - 2018 FIFA World Cup](https://img.fifa.com/image/upload/evdvpfdkueqrdlbbrrus.pdf).
-
-
-<a href="#table-of-contents">Back to Contents</a>
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <h2 id="citations"> Citations</h2>
