@@ -2703,17 +2703,19 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
       +    [Similar Player Tool](https://xandfootball.substack.com/p/similarplayer) by [Niklas Hemmer](https://twitter.com/NiklasHemmer)
 *    Social Media:
       +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
+      +    The following [LinkedIn post](https://www.linkedin.com/posts/hadisotudeh_football-github-datasets-activity-6960611122760531969-naeV/) by [Hadi Sotudeh](https://twitter.com/sarehang)
       +    The following [Tweet](https://twitter.com/Worville/status/1420413426564800515) by [Tom Worville](https://twitter.com/Worville). Check out his [Twitter thread](https://twitter.com/Worville/status/1275732993819250688) on getting started in football analytics
-      +    https://twitter.com/JanVanHaaren/status/1409612884196331521
-      +    https://twitter.com/joedgallagher/status/1399461951386828805
-      +    https://twitter.com/sarehang/status/1467550601378766855
-      +    https://twitter.com/NinadB_06/status/1409826319798464523
-      +    https://twitter.com/imkeller_5/status/1506314816432091139
-      +    https://twitter.com/TheDevilsDNA/status/1430384339171233797
-      +    https://twitter.com/sixtwofourtwo/status/1382442380071174145
-      +    https://twitter.com/Panda_9097/status/1382408387443318788
-*    Blogs:
-      +    [Moneyball - Section Football Analytics](https://forum.playitusa.com/viewtopic.php?p=4005731#p4005727) by [AlbertoRiccardi](https://twitter.com/ARiccardi13)
+      +    The following [Tweet](https://twitter.com/JanVanHaaren/status/1409612884196331521) by [Jan Van Haaren](https://twitter.com/JanVanHaaren)
+      +    The following [Tweet](https://twitter.com/joedgallagher/status/1399461951386828805 by [Joe Gallagher](https://twitter.com/joedgallagher)
+      +    The following [Tweet](https://twitter.com/sarehang/status/1467550601378766855) by [Hadi Sotudeh](https://twitter.com/sarehang)
+      +    The following [Tweet](https://twitter.com/NinadB_06/status/1409826319798464523) by [Ninad Barbadikar](https://twitter.com/NinadB_06)
+      +    The following [Tweet](https://twitter.com/imkeller_5/status/1506314816432091139) by [Tim Keller](https://twitter.com/imkeller_5)
+      +    The following [Tweet](https://twitter.com/TheDevilsDNA/status/1430384339171233797) by [The Devil's DNA](https://twitter.com/TheDevilsDNA)
+      +    The following [Tweet](https://twitter.com/sixtwofourtwo/status/1382442380071174145) by [Brian McDonnell](https://twitter.com/sixtwofourtwo)
+      +    The following [Tweet](https://twitter.com/Panda_9097/status/1382408387443318788) by [Panda_9097](https://twitter.com/Panda_9097)
+*    Blogs/Reddit:
+      +    [Moneyball - Section Football Analytics](https://forum.playitusa.com/viewtopic.php?p=4005731#p4005727) by [Alberto Riccardi](https://twitter.com/ARiccardi13)
+      +    [Pra quem gosta de análise de dados no futebol](https://www.reddit.com/r/futebol/comments/re0n1r/pra_quem_gosta_de_an%C3%A1lise_de_dados_no_futebol/) by Wagner Andrade
 *    GitHub Repositories:
       +    https://github.com/learnuidev/footy-analytics/tree/fe793f88e3a1a16a2a06bf1e12ed90f4e2869726
       +    https://github.com/BinhHong/Attacking-wingbacks-in-top-5-leagues-in-Europe/blob/d2897a439aef9655c884ad68a25c579434b12e15/README.md
