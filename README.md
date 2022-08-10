@@ -533,6 +533,7 @@ Good resources for those new for the use of data in football:
       +    [How to get started in data and the football industry](https://henshawanalysis.medium.com/how-to-get-started-in-data-and-the-football-industry-50d974e84bef) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
       +    [How to get into football analysis](https://medium.com/@jkregista.6/how-to-get-into-football-analysis-cada6cf1ce76) by [La Notice](https://twitter.com/la_notice_)
       +    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
+      +    [Want to Learn Football Analytics?](https://medium.com/@irfanalghani11/want-to-learn-football-analytics-24cae325a30a) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
       +    [How to get a job in Sports Analysis...](https://www.linkedin.com/pulse/how-get-job-sports-analysis-chris-gill/?trackingId=fSdnL9E2A9MbptVN6yZ4kg%3D%3D) by [Chris Gill](https://twitter.com/chrisgill_UK)
       +    [7 Easy Steps to Get Started in Football Data & Analytics](https://jobsinfootball.com/blog/7-steps-to-get-started-in-football-data-analytics/) by [Jobs in Football](https://twitter.com/jobsinfootball)
       +    [11 tips to get started in the Football industry](https://jobsinfootball.com/blog/11-tips-to-get-started-in-the-football-industry/) by [Jobs in Football](https://twitter.com/jobsinfootball)
@@ -566,6 +567,9 @@ Good resources for those new for the use of data in football:
            -    [Preparing for a technical interview for a Data Science position](https://threadreaderapp.com/thread/1508453394536620040.html)
       +    [Mathew Barlowe](https://twitter.com/matthew_barlowe)'s Twitter thread for "how to get into the sports analytics industry" [[link](https://twitter.com/matthew_barlowe/status/1420598697486913540)]
       +    [Aaron Moniz](https://twitter.com/amonizfootball)'s Tweet and responses [[link](https://twitter.com/amonizfootball/status/1480244012770639875)]
+*    LinkedIn Posts:
+      +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
+      +    The following [LinkedIn post](https://www.linkedin.com/posts/hadisotudeh_football-github-datasets-activity-6960611122760531969-naeV/) by [Hadi Sotudeh](https://twitter.com/sarehang)
 *    Videos:
       +    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) videos:
            -    [How to become a football data scientist](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds Gopaladesikan](https://twitter.com/suds_g), [Fran Peralta](https://twitter.com/PeraltaFran23), and [David Sumpter](https://twitter.com/Soccermatics)
@@ -2706,7 +2710,7 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
       +    The following [LinkedIn post](https://www.linkedin.com/posts/hadisotudeh_football-github-datasets-activity-6960611122760531969-naeV/) by [Hadi Sotudeh](https://twitter.com/sarehang)
       +    The following [Tweet](https://twitter.com/Worville/status/1420413426564800515) by [Tom Worville](https://twitter.com/Worville). Check out his [Twitter thread](https://twitter.com/Worville/status/1275732993819250688) on getting started in football analytics
       +    The following [Tweet](https://twitter.com/JanVanHaaren/status/1409612884196331521) by [Jan Van Haaren](https://twitter.com/JanVanHaaren)
-      +    The following [Tweet](https://twitter.com/joedgallagher/status/1399461951386828805 by [Joe Gallagher](https://twitter.com/joedgallagher)
+      +    The following [Tweet](https://twitter.com/joedgallagher/status/1399461951386828805) by [Joe Gallagher](https://twitter.com/joedgallagher)
       +    The following [Tweet](https://twitter.com/sarehang/status/1467550601378766855) by [Hadi Sotudeh](https://twitter.com/sarehang)
       +    The following [Tweet](https://twitter.com/NinadB_06/status/1409826319798464523) by [Ninad Barbadikar](https://twitter.com/NinadB_06)
       +    The following [Tweet](https://twitter.com/imkeller_5/status/1506314816432091139) by [Tim Keller](https://twitter.com/imkeller_5)
