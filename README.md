@@ -1919,6 +1919,7 @@ For live job postings tracked by the community, check the Jobs channel of the [F
      +    [Opta](https://www.optasports.com/about/work-for-opta/)
      +    [Stats Perform Job Opportunities](https://www.optasports.com/about/work-for-stats-perform/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
      +    [Wyscout](https://wyscout.com/careers/#job-openings) and careers@wyscout.com
+     *    [SkillCorner](https://www.welcometothejungle.com/en/companies/skillcorner/jobs)
      +    [Hudl](https://www.hudl.com/jobs#jobs)
      +    [Metrica Sports](https://apply.workable.com/metrica-sports/)
      +    [Second Spectrum](https://www.secondspectrum.com/careers/opportunities.html)
