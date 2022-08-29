@@ -2710,6 +2710,7 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
 *    Social Media:
       +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
       +    The following [LinkedIn post](https://www.linkedin.com/posts/hadisotudeh_football-github-datasets-activity-6960611122760531969-naeV/) by [Hadi Sotudeh](https://twitter.com/sarehang)
+      +    The following [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6966868164563337216/) and [Kaggle post](https://www.kaggle.com/discussions/getting-started/347325) by [Ekrem Bayar](https://twitter.com/ekrembayar_)
       +    The following [Tweet](https://twitter.com/Worville/status/1420413426564800515) by [Tom Worville](https://twitter.com/Worville). Check out his [Twitter thread](https://twitter.com/Worville/status/1275732993819250688) on getting started in football analytics
       +    The following [Tweet](https://twitter.com/JanVanHaaren/status/1409612884196331521) by [Jan Van Haaren](https://twitter.com/JanVanHaaren)
       +    The following [Tweet](https://twitter.com/joedgallagher/status/1399461951386828805) by [Joe Gallagher](https://twitter.com/joedgallagher)
