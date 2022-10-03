@@ -1382,7 +1382,7 @@ John Burn-Murdoch for The FT;
 
 See the [Sports Analytics Reading List](https://brendankent.com/2021/06/15/sports-analytics-reading-list/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent)), as part of his [Sports Analytics 101](https://brendankent.com/sports-analytics-101/) series
 
-The following use Amazon UK links were available.
+The following use Amazon UK links where available.
 
 *    [Moneyball: The Art of Winning an Unfair Game](https://www.amazon.co.uk/Moneyball-Art-Winning-Unfair-Game/) by Michael Lewis;
 *    [The Numbers Game](https://www.amazon.co.uk/Numbers-Game-Everything-About-Football/) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6);
@@ -1393,6 +1393,7 @@ The following use Amazon UK links were available.
 *    [Mathletics: How Gamblers, Managers, and Sports Enthusiasts Use Mathematics in Baseball, Basketball, and Football](https://www.amazon.co.uk/Mathletics-Gamblers-Enthusiasts-Mathematics-Basketball/) by Wayne Winston;
 *    [Data Analytics in Football](https://www.amazon.co.uk/Data-Analytics-Football-Daniel-Memmert/) by [Daniel Memmert](https://twitter.com/DMemmert) and Dominik Raabe;
 *    [Changing the Conversation](https://www.amazon.co.uk/Changing-Conversation-Presents-Collection-Boardrooms/) series by 21st Club;
+*    [Expected Goals: The story of how data conquered football and changed the game forever](https://www.amazon.co.uk/Expected-Goals-conquered-football-changed/dp/0008484031) by [Rory Smith](https://twitter.com/RorySmith)
 *    [Football Decoded: Using Match Analysis & Context to Interpret the Demands](https://www.amazon.co.uk/FOOTBALL-DECODED-Analysis-Context-Interpret/dp/B08P28B2R5/ref=sr_1_1?dchild=1&keywords=football+decoded&qid=1606734039&sr=8-1) by [Paul Bradley](https://twitter.com/ContextIsKing9);
 *    [Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers](https://www.amazon.co.uk/Sports-Analytics-Coaches-Managers-Decision/) by [Ben Alamar](https://twitter.com/bencalamar);
 *    [Outside the Box](https://www.amazon.co.uk/Outside-Box-Statistical-Journey-Football/) by [Duncan Alexander](https://twitter.com/oilysailor);
@@ -1582,7 +1583,7 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 
 *    [All Stats Aren't We](https://open.spotify.com/show/22eR0UCjDdVXY2JTtjD3OI?si=kt_lY1m2QKukOvKvmWpsPA) with [Jon Mackenzie](https://twitter.com/Jon_Mackenzie) and [Josh Hobbs](https://twitter.com/JoshAHobbs) (Leeds United Podcast)
 *    [American Soccer Analysis](https://www.americansocceranalysis.com/podcasts);
-*    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/) - originally with [Tom Worville](https://twitter.com/Worville) and [Sam Gregory](https://twitter.com/GregorydSam) and recently restarted by [Jon MacKenzie](https://twitter.com/Jon_Mackenzie);
+*    [Analytics FC Podcast](https://analyticsfc.co.uk/podcast/) - originally with [Tom Worville](https://twitter.com/Worville) and [Sam Gregory](https://twitter.com/GregorydSam), next with [Jon MacKenzie](https://twitter.com/Jon_Mackenzie), and now with [Alex Stewart](https://twitter.com/AFHStewart);
 *    [Big Data Sports](https://open.spotify.com/show/3Kv1yl0tCt1JDpD0AxtxZ7) (en español) con [Marcelo Gantman](https://twitter.com/marcelogantman) y Agustin Mario Gimenez;
 *    [Chatalytics Podcast](https://open.spotify.com/show/4yK02UzLUG4YeGhO8h9Ufh) by [The Chatalytics Podcast](https://twitter.com/ChatalyticsPod)
 *    [Corridor of Uncertainty FPL Podcast](https://open.spotify.com/show/0ZqJqvdhIOt68An6uOilR5?si=VEFOpsZwTeWhcOct6rncrw) by [Simon](https://twitter.com/analytic_fpl) and [Jamie](https://twitter.com/wee_rogue);
@@ -1599,6 +1600,7 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 *    [Measurables Podcast](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW) by [Brendan Kent](https://twitter.com/brendankent);
 *    [MRKT Insights](https://open.spotify.com/show/3q32QkmAXwth5VJwU8uzWt?si=8_vyLb6WQd2wTJt5MxdBoA) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally  [Jay Socik](https://twitter.com/Blades_analytic);
 *    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with [Ron Yurko](https://twitter.com/Stat_Ron);
+*    [A Podcast About Tactics](https://open.spotify.com/show/6IvAaBltRU28GG4MYvPCuz?si=eeb0880dc8e64ae3) by [Jon Mackenzie](https://twitter.com/Jon_Mackenzie)
 *    [The Price of Football Podcast](https://open.spotify.com/show/7c7ltYVwnicbVz0uYTXAW5?si=RKAejr9oQTu6xpJQc4QscQ) with [Kieran Maguire](https://twitter.com/KieranMaguire) and [Kevin Hunter Day](https://twitter.com/KevinHunterDay). Check out the [The Price of Football](https://www.amazon.co.uk/Price-Football-SECOND-Understanding-Finance/dp/1788213262/ref=sr_1_1?dchild=1&keywords=the+price+of+football&qid=1622504446&sr=8-1) book by [Kieran Maguire](https://twitter.com/KieranMaguire).
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=M6xgCGtdTjiy0wEl1e2CJw);
 *    [smarterscout: The Why in Analytics](https://open.spotify.com/show/2QP4KXajJ5xOfW1ny78nAf?si=NQAf_4XtSFeQXAZi1bbupQ) by Dan Altman;
