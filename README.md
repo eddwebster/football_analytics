@@ -6,7 +6,7 @@
 </br>
 
 <p align="center"> 
-  <a href="https://github.com/eddwebster/football_analytics"><img src="img/edd_webster/edd_webster_analytics_logo_black_nobg.png" width="35%", alt="Edd Webster Analytics"></a>
+  <a href="https://github.com/eddwebster/football_analytics"><img src="edd_webster_analytics_logo_black_nobg_1280_640.png" width="75%", alt="Edd Webster Analytics"></a>
 </p>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.football_analytics)
