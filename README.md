@@ -222,35 +222,8 @@ The contents of this GitHub repository is organised as the following:
     ├── data
     │   │ 
     │   ├── capology
-    │   │   │   
-    │   │   ├── raw  
-    │   │   │   ├── bundeliga
-    │   │   │   ├── la-liga
-    │   │   │   ├── ligue-1
-    │   │   │   ├── mls
-    │   │   │   ├── premier-league
-    │   │   │   ├── serie-a
-    │   │   │   └── capology_all_latest.csv
-    │   │   │   
-    │   │   └── engineered
-    │   │       ├── capology_all_latest.csv
-    │   │       ├── capology_big5_latest.csv
-    │   │       └── capology_big5_mls_latest.csv
     │   │ 
     │   ├── elo
-    │   │   │   
-    │   │   ├── raw  
-    │   │   │   ├── ratings_by_date
-    │   │   │   └── ratings_by_team
-    │   │   │   
-    │   │   └── engineered
-    │   │       │ 
-    │   │       ├── ratings_by_date
-    │   │       │   └── elo_team_rating_per_year_big5_latest.csv
-    │   │       │ 
-    │   │       └── ratings_by_team
-    │   │           ├── elo_team_rating_per_year_all_latest.csv
-    │   │           └── elo_team_rating_per_year_big5_latest.csv  
     │   │ 
     │   ├── export
     │   │ 
@@ -263,11 +236,6 @@ The contents of this GitHub repository is organised as the following:
     │   ├── metrica-sports
     │   │ 
     │   ├── opta
-    │   │   │   
-    │   │   └── raw  
-    │   │       │
-    │   │       ├── premier-league
-    │   │       └── serie-a
     │   │
     │   ├── reference
     │   │ 
@@ -286,46 +254,6 @@ The contents of this GitHub repository is organised as the following:
     │   ├── twenty-first-group
     │   │ 
     │   ├── understat
-    │   │   │   
-    │   │   ├── raw  
-    │   │   │   │
-    │   │   │   ├── metadata
-    │   │   │   │   ├── bundeliga
-    │   │   │   │   ├── la-liga
-    │   │   │   │   ├── ligue-1
-    │   │   │   │   ├── premier-league
-    │   │   │   │   ├── rfpl
-    │   │   │   │   ├── serie-a
-    │   │   │   │   └── understat_metadata_all_latest.csv
-    │   │   │   │
-    │   │   │   └── shots
-    │   │   │       ├── bundeliga
-    │   │   │       ├── la-liga
-    │   │   │       ├── ligue-1
-    │   │   │       ├── premier-league
-    │   │   │       ├── rfpl
-    │   │   │       ├── serie-a
-    │   │   │       └── understat_shots_all_latest.csv
-    │   │   │   
-    │   │   └── engineered
-    │   │       │
-    │   │       ├── metadata
-    │   │       │   ├── bundeliga
-    │   │       │   ├── la-liga
-    │   │       │   ├── ligue-1
-    │   │       │   ├── premier-league
-    │   │       │   ├── rfpl
-    │   │       │   ├── serie-a
-    │   │       │   └── understat_metadata_all_latest.csv
-    │   │       │
-    │   │       └── shots
-    │   │           ├── bundeliga
-    │   │           ├── la-liga
-    │   │           ├── ligue-1
-    │   │           ├── premier-league
-    │   │           ├── rfpl
-    │   │           ├── serie-a
-    │   │           └── understat_shots_all_latest.csv
     │   │ 
     │   └── wyscout
     │
@@ -354,45 +282,6 @@ The contents of this GitHub repository is organised as the following:
     │   ├── pitches
     │   │  
     │   └── vizpiration
-    │       ├── age_profile_charts
-    │       ├── average_position_formation_charts
-    │       ├── bar_charts
-    │       ├── bumpy_chaarts
-    │       ├── carry_maps
-    │       ├── connected_dot_charts
-    │       ├── crossing_maps
-    │       ├── dashboards
-    │       ├── diamond_charts
-    │       ├── distribution_plots
-    │       ├── expected_goals_diagrams
-    │       ├── games_played_charts
-    │       ├── goalkeeper_shots_Faced_maps
-    │       ├── heat_maps
-    │       ├── injury_list_charts
-    │       ├── league_tables
-    │       ├── line_charts
-    │       ├── minutes_share_charts
-    │       ├── miscellaneous
-    │       ├── pass_maps
-    │       ├── passing_networks
-    │       ├── pizza_charts
-    │       ├── player_possessions_charts
-    │       ├── player_profiles
-    │       ├── player_tables
-    │       ├── possession_share_maps
-    │       ├── prediction_tables
-    │       ├── race_charts
-    │       ├── radars
-    │       ├── scattergrams
-    │       ├── shot_maps
-    │       ├── squad_churn_charts
-    │       ├── squad_depth_charts
-    │       ├── summary_stats
-    │       ├── touch_maps
-    │       ├── tree_diagrams
-    │       ├── ven_diagrams
-    │       ├── voronoi_diagrams
-    │       └──  waffle_charts
     │
     ├── notebooks
     │   │    
@@ -2728,7 +2617,12 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
       +    The following [Tweet](https://twitter.com/Panda_9097/status/1382408387443318788) by [Panda_9097](https://twitter.com/Panda_9097)
 *    Blogs/Reddit:
       +    [Moneyball - Section Football Analytics](https://forum.playitusa.com/viewtopic.php?p=4005731#p4005727) by [Alberto Riccardi](https://twitter.com/ARiccardi13)
-      +    [Pra quem gosta de análise de dados no futebol](https://www.reddit.com/r/futebol/comments/re0n1r/pra_quem_gosta_de_an%C3%A1lise_de_dados_no_futebol/) by Wagner Andrade
+      +    [Pra quem gosta de análise de dados no futebol](https://www.reddit.com/r/futebol/comments/re0n1r/pra_quem_gosta_de_an%C3%A1lise_de_dados_no_futebol/) by [Wagner Andrade](https://www.reddit.com/user/wagnerandrade/)
+      +    [datasets on football or sports in general](https://www.reddit.com/r/datasets/comments/xyv0va/datasets_on_football_or_sports_in_general/) by [nichtgefunden](https://www.reddit.com/user/nichtgefunden/)
+      +    [Ask Anything Thread](https://www.reddit.com/r/FootballDataAnalysis/comments/xf4ucc/ask_anything_thread/) by [MatchAnalyst](https://www.reddit.com/user/MatchAnalyst/)
+      +    [How do the top 5 leagues in Europe differ in overall style?](https://www.reddit.com/r/soccer/comments/tfjehg/how_do_the_top_5_leagues_in_europe_differ_in/) 
+      +    [New York City FC vs New York Red Bulls Data Analysis Report](https://www.reddit.com/r/FootballDataAnalysis/comments/xhldnl/new_york_city_fc_vs_new_york_red_bulls_data/) by [MatchAnalyst](https://www.reddit.com/user/MatchAnalyst/)
+      +    [Weekly Open Thread - General Discussion](https://www.reddit.com/r/realmadrid/comments/pedln2/comment/haxrulb/) by [messimisses](https://www.reddit.com/user/messimisses/)
 *    GitHub Repositories:
       +    https://github.com/learnuidev/footy-analytics/tree/fe793f88e3a1a16a2a06bf1e12ed90f4e2869726
       +    https://github.com/BinhHong/Attacking-wingbacks-in-top-5-leagues-in-Europe/blob/d2897a439aef9655c884ad68a25c579434b12e15/README.md
