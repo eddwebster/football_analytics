@@ -292,7 +292,7 @@ The contents of this GitHub repository is organised as the following:
     │   │
     │   ├── 2_data_parsing
     │   │   ├── ELO Team Ratings Data Parsing.ipynb
-    │   │   ├── StatsBomb Data Parsing.ipynb
+    │   │   ├── [StatsBomb](https://statsbomb.com/)Data Parsing.ipynb
     │   │   └── Wyscout Data Parsing.ipynb   
     │   │
     │   ├── 3_data_engineering
@@ -300,7 +300,7 @@ The contents of this GitHub repository is organised as the following:
     │   │   ├── Centre Circle Opta CPL Data Engineering.ipynb
     │   │   ├── FBref Player Stats Data Engineering.ipynb
     │   │   ├── Opta #mcfcanalytics PL 2011-2012.ipynb
-    │   │   ├── StatsBomb Data Engineering.ipynb
+    │   │   ├── [StatsBomb](https://statsbomb.com/)Data Engineering.ipynb
     │   │   ├── StrataBet Data Engineering.ipynb
     │   │   ├── The Guardian Player Recorded Transfer Fees Data Engineering.ipynb
     │   │   ├── TransferMarkt Historical Market Value Data Engineering.ipynb
@@ -339,7 +339,7 @@ The contents of this GitHub repository is organised as the following:
     │   │   │   │       └── Metrica Sports.ipynb
     │   │   │   │   
     │   │   │   ├── statsbomb_dataset
-    │   │   │   │   └── Introduction to Building Expected Goals Models Using StatsBomb 360 Data.ipynb
+    │   │   │   │   └── Introduction to Building Expected Goals Models Using [StatsBomb](https://statsbomb.com/)360 Data.ipynb
     │   │   │   │   
     │   │   │   └── opta_dataset
     │   │   │       └── Training of an Expected Goals Model Using Opta Event Data.ipynb
@@ -407,9 +407,9 @@ Example Tableau dashboards:
 Good resources for those new for the use of data in football:
 
 *    Articles and blog posts:
-      +    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by [David Sumpter](https://twitter.com/Soccermatics) for Barca Innovation Hub;
+      +    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by [David Sumpter](https://twitter.com/Soccermatics) for [Barça Innovation Hub](https://barcainnovationhub.com/);
       +    [Getting Into Scouting](https://griffinftbl.substack.com/p/getting-into-scouting) by [Luke Griffin](https://twitter.com/GriffinFtbl)
-      +    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by Rob Carroll
+      +    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by[Rob Carroll](https://twitter.com/thevideoanalyst)
       +    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller) - check out his Newsletter [space space space](https://spacespacespaceletter.com/author/johnmuller/)
       +    [Introduction to Analytics in...Soccer](http://sportsanalytics.sa.utoronto.ca/2015/02/20/introduction-to-analytics-in-soccer/) by [Valentin Stolbunov](https://twitter.com/vstolbunov)
       +    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) and [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam)
@@ -703,7 +703,7 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    DataViz, Python, and matplotlib tutorials by Peter McKeever [[link](http://petermckeever.com/)] - his website is currently in redevelopment, with many of the old tutorials not currently available (28/02/2021). Check out his revamped [How to Draw a Football Pitch](http://petermckeever.com/2020/10/how-to-draw-a-football-pitch/) tutorial;
 *    [McKay Johns YouTube channel](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg);
 *    [soccer_analytics GitHub repo](https://github.com/CleKraus/soccer_analytics) by CleKraus - a Python project that facilitates the starting point for analytics 
-*    [Python for Fantasy Football series](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/) by [Fantasy Futopia](https://twitter.com/FantasyFutopia) ([Thomas Whelan](https://twitter.com/tom_whelan)). This series covers the basics of working with data in Python, working with APIs and parsing StatsBomb JSON data, scraping data using Beautifulsoup and Selenium, and Machine Learning with scikit-learn and XGBoost,  See GitHub repo for all code [[link](https://github.com/twhelan22/python-for-fantasy-football)];
+*    [Python for Fantasy Football series](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/) by [Fantasy Futopia](https://twitter.com/FantasyFutopia) ([Thomas Whelan](https://twitter.com/tom_whelan)). This series covers the basics of working with data in Python, working with APIs and parsing [StatsBomb](https://statsbomb.com/)JSON data, scraping data using Beautifulsoup and Selenium, and Machine Learning with scikit-learn and XGBoost,  See GitHub repo for all code [[link](https://github.com/twhelan22/python-for-fantasy-football)];
 *    [Learn how to make visualisations in Python's matplotlib with football (soccer) data](https://www.sonofacorner.com/tag/tutorials/) by [Son of a Corner](https://twitter.com/sonofacorner). If you appreciate their work, consider supporting them by joining their membership program [[link](https://www.sonofacorner.com/membership-post/)]
 *    [Football Data Visualizations - Passing Networks](https://www.dzialowski.eu/football-data-visualisations/) by [Karol Działowski](https://github.com/karlosos/) - a great blog post on how to create passing networks from first principles, using Opta Event data acquired from WhoScored. This data is then visualised using matplotlib. 
 *    [Tech how-to: build your own Expected Goals model](https://www.scisports.com/tech-how-to-build-your-own-expected-goals-model/) by [Jan Van Haaren](https://twitter.com/JanVanHaaren) and [SciSports](https://twitter.com/SciSportsNL). See the Bitbucket repository for all code [[link](https://bitbucket.org/scisports/ssda-how-to-expected-goals/src)]; and
@@ -712,8 +712,8 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 <h4 id="tutorials-r"> R</h4>
 
 *    [FCrSTATS](https://github.com/FCrSTATS) tutorials [[link](http://fcrstats.com/tutorials.html)];
-*    [Mark Wilkins](https://twitter.com/biscuitchaser)'s [BiscuitChaserFC](https://biscuitchaserfc.blogspot.com/) blog. See his Twitter thread of R tutorials [[link](https://twitter.com/biscuitchaser/status/1275726269058093057)]. Tutorials include: [Shot Maps In R With StatsBomb Data](https://biscuitchaserfc.substack.com/p/shot-maps-in-r-with-statsbomb-data), [Getting Started with StatsBomb Data in R](https://biscuitchaserfc.substack.com/p/getting-started-with-statsbomb-data), [Understat Meta/Shot Data](https://biscuitchaserfc.substack.com/p/understat-metashot-data), [FBref - Pressures](https://biscuitchaserfc.substack.com/p/fbref-pressures);
-*    [Sudarshan 'Suds' Golaladesikan](https://twitter.com/suds_g)'s R series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Getting Started with R + StatsBomb | Analyzing Squad Rotation & Clustering Passes](https://www.youtube.com/watch?v=ilIIjqfstfQ) and creating interactive shot maps - [Part 1/3)](https://www.youtube.com/watch?v=-a4NC65x_qQ), [Part 2/3](https://www.youtube.com/watch?v=yWXD7xi1f30), (I believe no part 3 currently). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR)]; and
+*    [Mark Wilkins](https://twitter.com/biscuitchaser)'s [BiscuitChaserFC](https://biscuitchaserfc.blogspot.com/) blog. See his Twitter thread of R tutorials [[link](https://twitter.com/biscuitchaser/status/1275726269058093057)]. Tutorials include: [Shot Maps In R With [StatsBomb](https://statsbomb.com/)Data](https://biscuitchaserfc.substack.com/p/shot-maps-in-r-with-statsbomb-data), [Getting Started with [StatsBomb](https://statsbomb.com/)Data in R](https://biscuitchaserfc.substack.com/p/getting-started-with-statsbomb-data), [Understat Meta/Shot Data](https://biscuitchaserfc.substack.com/p/understat-metashot-data), [FBref - Pressures](https://biscuitchaserfc.substack.com/p/fbref-pressures);
+*    [Sudarshan 'Suds' Golaladesikan](https://twitter.com/suds_g)'s R series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Getting Started with R + [StatsBomb](https://statsbomb.com/)| Analyzing Squad Rotation & Clustering Passes](https://www.youtube.com/watch?v=ilIIjqfstfQ) and creating interactive shot maps - [Part 1/3)](https://www.youtube.com/watch?v=-a4NC65x_qQ), [Part 2/3](https://www.youtube.com/watch?v=yWXD7xi1f30), (I believe no part 3 currently). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR)]; and
 *    [Creating a pass flow graph in R](https://www.youtube.com/watch?v=uOE2_UIRniE) by [Abhishek Mishra](https://twitter.com/MishraAbhiA).
 
 <h4 id="tutorials-tableau"> Tableau</h4>
@@ -725,7 +725,7 @@ For a YouTube playlist of Tableau-football videos and tutorials that I have coll
 *    [Tableau Football User Group](https://usergroups.tableau.com/footballtableauusergroup) - featuring [Eva Murray](https://twitter.com/TriMyData), Oscar Hall, [James Smith](https://twitter.com/sportschord), [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), [Ravi Mistry](https://twitter.com/Scribblr_42),  Adam Cook, Hannah Roberts, [Chris Baker](https://twitter.com/chrisbaker108), Rusty Parker, Ruud van Elk, Johannes Riegger, and Sebastien Coustou;
 *    [Tableau for Sport](https://thevideoanalyst.com/tableau-sport/) by [Rob Carroll](https://twitter.com/thevideoanalyst) - completely free tutorials for using football data in Tableau, including creating shot maps, pass maps, pass matrxces, xG race-chart timelines. See also his YouTube playlist [[link](https://www.youtube.com/playlist?list=PLchE8bhmmIxK94imJ4QZncXrbld_NGoiW)];
 *    [Tom Goodall](https://twitter.com/TomG26)'s [Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/). Check out also as an unrolled Twitter thread, how he uses Tableau to create an opposition report for Burton vs. Gillingham on 9th January 2021 [[link](https://threadreaderapp.com/thread/1346186082510110720.html)];
-*    [Visually Analysing Direct Set Pieces in Football using StatsBomb Data, R and Tableau](https://www.biztory.com/blog/visually-analysing-direct-set-pieces-in-football-using-statsbomb-data-r-and-tableau) by [James Smith](https://twitter.com/sportschord);
+*    [Visually Analysing Direct Set Pieces in Football using [StatsBomb](https://statsbomb.com/)Data, R and Tableau](https://www.biztory.com/blog/visually-analysing-direct-set-pieces-in-football-using-statsbomb-data-r-and-tableau) by [James Smith](https://twitter.com/sportschord);
 *    [CJ Mayes](https://cj-mayes.com/)'s Tableau blog, with posts including how to make a [Radial Tournament Bracket](https://cj-mayes.com/2021/02/24/radial-tournament-bracket-2/), [Understat data in Tableau](https://cj-mayes.com/2021/05/07/just-starting-out-with-understat/), and [Player Metrics Pizza plots](https://cj-mayes.com/2021/07/07/player-metrics/);
 *    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06). His tutorials include: [Welcome to the Tableau Tunnel!](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48), [Improving on scatter-plots and building basic bar graphs](https://ninad06.medium.com/tableau-tunnel-2-improving-on-scatter-plots-and-building-basic-bar-graphs-67dd16a2bb35), [Player dashboards](https://ninad06.medium.com/tableau-tunnel-3-player-dashboards-c840e91c7de), [Tableau Tunnel #4 — Making Beeswarm plots](https://ninad06.medium.com/tableau-tunnel-4-making-beeswarm-plots-91b615590c31), [Creating Shot Maps, Pass Maps in Football using FC Python Video Coder for Tableau](https://www.youtube.com/watch?v=Rpzcb2lWNas&), and [Creating xG Trendlines on Tableau using moving averages](https://www.youtube.com/watch?v=srKAqXex4T4&). Check out his Twitter thread [[link](https://twitter.com/NinadB_06/status/1348738404989558787)] and his YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)];
 *    Medium blog posts by [Sagnik Das](https://twitter.com/nandy_sd) - [Tableau Guide #1: Making Shot Maps](https://sagnikdas1.medium.com/tabguide-1-making-shot-maps-1c030f08393e), [Tableau Guide #2: Making Pass Maps](https://sagnikdas1.medium.com/tabguide-2-making-pass-maps-bad2d541b8ed), [Tableau Guide #3: Convex Hulls](https://sagnikdas1.medium.com/tableau-guide-3-convex-hulls-c7edc31a9921), [Tableau Guide #4 : Football Radars](https://sagnikdas1.medium.com/tableau-guide-4-football-radars-8cdac85ba1fc);
@@ -796,7 +796,7 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`Football Packing`](https://github.com/samirak93/Football-packing) - a Python package to calculate packing rate for a given pass in football by Samira Kumar. This is a variation of the metric created by Impect;
 *    [`kloppy`](https://github.com/PySport/kloppy) - a Python package providing (de)serializers for soccer tracking- and event data, standardized data models, filters, and transformers designed to make working with different tracking- and event data like a breeze. See the YouTube tutorial [[link](https://www.youtube.com/watch?v=JQbxpzNvGO8)];
 *    [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer) - a Python library for visualising soccer event data by [Tom Decroos](https://twitter.com/TomDecroos);
-*    [`mplsoccer`](https://github.com/andrewRowlinson/mplsoccer) - a Python library for drawing soccer/football pitches in Matplotlib and loading StatsBomb open-data by [Andrew Rowlinson](https://twitter.com/numberstorm);
+*    [`mplsoccer`](https://github.com/andrewRowlinson/mplsoccer) - a Python library for drawing soccer/football pitches in Matplotlib and loading [StatsBomb](https://statsbomb.com/)open-data by [Andrew Rowlinson](https://twitter.com/numberstorm);
 *    [`nayra`](https://github.com/DonsetPG/narya) - API that allows you track soccer player from camera inputs, and evaluate them with an Expected Discounted Goal (EDG) Agent. See the [Evaluating Soccer Player](https://arxiv.org/pdf/2101.05388.pdf) paper by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg);
 *    [`northpitch`](https://github.com/devinpleuler/northpitch) - a Python football plotting library that sits on top of Matplotlib by [Devin Pleuler](https://twitter.com/devinpleuler);
 *    [`PCA_Player_Finder`](https://github.com/parth1902/PCA_Player_Finder) by [Parth Athale](https://twitter.com/ParthAthale);
@@ -805,7 +805,7 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`ScraperFC`](https://github.com/oseymour/ScraperFC) - a Python package by [Owen Seymour](https://twitter.com/owen_seymour) to scrape FiveThirtyEight data, aggregated [StatsBomb](https://statsbomb.com/) data from [FBref](https://fbref.com/en/), [Understat](https://understat.com/) shooting and player meta data including values for xG, xA, xGChain, xGBuildup, player salary data from [Capology](https://www.capology.com/), and [WhoScored?](https://www.whoscored.com/) [Opta](https://www.statsperform.com/opta/) Event provided by [StatsPerform](https://www.statsperform.com/); 
 *    [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) - Python library to scrape aggregated [StatsBomb](https://statsbomb.com/) data via [FBref](https://fbref.com/en/) by [Parthe Athale](https://twitter.com/ParthAthale), which in turn was updated from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL);
 *    [`statsbombapi`](https://github.com/Torvaney/statsbombapi) - a Python API wrapper and dataclasses for [StatsBomb](https://statsbomb.com/) data;
-*    [`statsbombpy`](https://github.com/statsbomb/statsbombpy) - a Python library written by Francisco Goitia to access StatsBomb data;
+*    [`statsbombpy`](https://github.com/statsbomb/statsbombpy) - a Python library written by Francisco Goitia to access [StatsBomb](https://statsbomb.com/)data;
 *    [`statsbomb-parser`](https://github.com/imrankhan17/statsbomb-parser) - Python library to convert [StatsBomb](https://statsbomb.com/)'s JSON data into easy-to-use CSV format;
 *    [`socceraction`](https://github.com/ML-KULeuven/socceraction) - a Python library for valuing the individual actions performed by soccer players. Includes an Expected Threat (xT) implementation by [Tom Decroos](https://twitter.com/TomDecroos) et. al.;
 *    [`soccermix`](https://github.com/ML-KULeuven/soccermix) - a soft clustering technique based on mixture models that decomposes event stream data into a number of prototypical actions of a specific type, location, and direction by Tom Deccoos and ML-KULeuven;
@@ -859,7 +859,7 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 <h4 id="r"> R</h4>
 
 *    [StatsBomb R Guide 2.0](https://statsbomb.com/wp-content/uploads/2021/11/Working-with-R.pdf) by [Euan Dewar](https://twitter.com/EuanDeware)
-*    [`FoundationsInR`](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR) by [Sudarshan Golaladesikan](https://twitter.com/suds_g) - getting started with R using the StatsBomb dataset.
+*    [`FoundationsInR`](https://github.com/Friends-of-Tracking-Data-FoTD/FoundationsInR) by [Sudarshan Golaladesikan](https://twitter.com/suds_g) - getting started with R using the [StatsBomb](https://statsbomb.com/)dataset.
 
 
 <a href="#table-of-contents">Back to Contents</a>
@@ -874,8 +874,8 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [Player Finishing Overview](https://harshkrishna.shinyapps.io/PlayerFinishingOverview/) by [Harsh Krishna](https://twitter.com/veryharshtakes), an app that generates a dashboard of visualisations that can be useful in getting an overview of a football player's finishing ability. See the accompanying Twitter thread [[link](https://twitter.com/veryharshtakes/status/1498287517216690180)]
 *    [Player Replacement Shortlist Generator](https://macro-football.shinyapps.io/similarity/) by [Hugh Klein](https://twitter.com/macro_football). See the accompanying Twitter thread [[link](https://twitter.com/macro_football/status/1477665193551220736)]
 *    [Pizza Vizz App](http://pizza.vizzapp.co) by [Johnny Vizz](https://twitter.com/JohnnyVizz). See the accompanying blog post [[link](https://www.patreon.com/posts/what-is-vizz-app-55796322?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare)] and Twitter thread [[link](https://twitter.com/JohnnyVizz/status/1457352569517391874)] to access the Vizz App (subscription only)
-*    [Statsbomb-Json-Parse](https://gallery.alteryx.com/#!app/Statsbomb-Json-Parse/6074ad450462d70960925e72) by [Rob Carroll](https://twitter.com/thevideoanalyst). A small app that lets you input a StatsBomb  JSON file and get a CSV file back (you need to create a free account to run it. For a video explainer, see the following [[link](https://www.youtube.com/watch?v=miM21I-oTf0)]
-*    [Scouting Tool](https://player-scout-tool.herokuapp.com/) by [Renzo Cammi](https://twitter.com/cammi_renzo) - a scouting tool created with Streamlit from StatsBomb data via FBref, that lets you filter players stats from the 'Big 5' European Leagues 
+*    [Statsbomb-Json-Parse](https://gallery.alteryx.com/#!app/Statsbomb-Json-Parse/6074ad450462d70960925e72) by [Rob Carroll](https://twitter.com/thevideoanalyst). A small app that lets you input a [StatsBomb](https://statsbomb.com/) JSON file and get a CSV file back (you need to create a free account to run it. For a video explainer, see the following [[link](https://www.youtube.com/watch?v=miM21I-oTf0)]
+*    [Scouting Tool](https://player-scout-tool.herokuapp.com/) by [Renzo Cammi](https://twitter.com/cammi_renzo) - a scouting tool created with Streamlit from [StatsBomb](https://statsbomb.com/)data via FBref, that lets you filter players stats from the 'Big 5' European Leagues 
 *    [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library/) by [Lars Maurath](https://twitter.com/thesignigame)
 *    [Tracking Tagger](http://tracking-tagger.herokuapp.com/tracking_tagger) by [@danzn1](https://twitter.com/danzn1). See GitHub repo [[[link](https://github.com/znstrider/tracking_tagger)]
 *    [Twelve Football](https://twelve.football/)
@@ -919,15 +919,15 @@ Resources to aid data visualisation:
   
 Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/GregorydSam)'s [Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e) piece and [Tom Worville](https://twitter.com/Worville)'s [“What’s the best Football Analytics piece you’ve ever read?”](https://medium.com/@worville/whats-the-best-football-analytics-piece-you-ve-ever-read-815c0bf50ccf), both articles now a few years old. This section is very subjective so if I've missed anything obvious, apologies.
 
-*    [Assessing	The	Performance	of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen);
+*    [Assessing The	Performance of Premier League Goalscorers](https://opta.kota.co.uk/news-analysis/assessing-the-performance-of-premier-league-goalscorers/) by [Sam Green](https://twitter.com/aSamGreen);
 *    [Counting Across Borders](https://www.statsperform.com/resource/counting-across-borders/) by [Ben Torvaney](https://twitter.com/Torvaney);
 *    [Is Soccer Wrong About Long Shots?](https://fivethirtyeight.com/features/is-soccer-wrong-about-long-shots/) by [John Muller](https://twitter.com/johnspacemuller);
-*    [Where Goals Come From](https://www.americansocceranalysis.com/home/2021/7/10/where-goals-come-from) by Jamon Moore and Carlon Carpenter;
+*    [Where Goals Come From](https://www.americansocceranalysis.com/home/2021/7/10/where-goals-come-from) by Jamon Moore and [Carlon Carpenter](https://twitter.com/CarlonCarpenter);
 *    [Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
 *    [The DePO Models: Bringing Moneyball to Professional Soccer](https://www.americansocceranalysis.com/home/2020/10/26/the-depo-models-bringing-moneyball-to-professional-soccer) by [Sam Goldberg](https://twitter.com/SamGoldberg1882) and [Mike Imburgio](https://twitter.com/mimburgio);
 *    [Using Data to Analyse Team Formations](https://eightyfivepoints.blogspot.com/2019/11/using-data-to-analyse-team-formations.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
 *    [Structure in football: putting formations into context](https://eightyfivepoints.blogspot.com/2020/12/structure-in-football-putting.html) by [Laurie Shaw](https://twitter.com/EightyFivePoint);
-*    [Inside Arsenal’s Attack: In-Depth Analysis Of Arteta’s Problems & Possible Solutions](https://worldfootballindex.com/2021/01/arsenal-attack-in-depth-analysis-arteta-tactics-problems-solutions/) by Ashwin Raman;
+*    [Inside Arsenal’s Attack: In-Depth Analysis Of Arteta’s Problems & Possible Solutions](https://worldfootballindex.com/2021/01/arsenal-attack-in-depth-analysis-arteta-tactics-problems-solutions/) by [Ashwin Raman](https://twitter.com/AshwinRaman_);
 *    [Premier League Projections and New Expected Goals](https://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals) by [Michael Caley](https://twitter.com/MC_of_A);
 *    [Introducing Passing Combinations](https://wawrzynow.wordpress.com/2021/01/06/introducing-passing-combinations/) by [Piotr Wawrzynów](https://twitter.com/pwawrzynow);
 *    [Pass Footedness in the Premier League](https://statsbomb.com/2019/04/pass-footedness-in-the-premier-league/) by [James Yorke](https://twitter.com/jair1970);
@@ -939,7 +939,7 @@ Many of these blog posts are recommended in [Sam Gregory](https://twitter.com/Gr
 *    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller);
 *    [Valuing On-the-Ball Actions in Soccer: A Critical Comparison of xT and VAEP](https://dtai.cs.kuleuven.be/sports/blog/valuing-on-the-ball-actions-in-soccer-a-critical-comparison-of-xt-and-vaep) by [Jesse Davis](https://twitter.com/jessejdavis1), [Tom Decroos](https://twitter.com/TomDecroos), [Pieter Robberechts](https://twitter.com/p_robberechts), [Maaike Van Roy](https://twitter.com/MaaikeVanRoy);
 *    [Game of Throw-Ins](https://www.americansocceranalysis.com/home/2018/11/27/game-of-throw-ins) by [Eliot McKinley](https://twitter.com/etmckinley);
-*    [Expected Threat](https://karun.in/blog/expected-threat.html) by [Karun Singh](https://twitter.com/karun1710). Check out also as an unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1361695899131387909.html)] Karun's Twitter thread for the many resources out there around this topic, including: [Episode 19 of The Football Fanalytics Podcast](https://open.spotify.com/episode/0HvcNPxg8Ux6zJB2nGp3VK?si=AOkxcH3KTue4jeEIA6kpWw&nd=1), Karun's StatsBomb conference presentation [[link](https://www.youtube.com/watch?v=mE3sUVCIwfA)] and slides [[link](https://docs.google.com/presentation/d/1tu603CdONhI17AZTrd3mdf1UAf7k-rHwwCLSU_tCx6g/edit#slide=id.p)], [Rob Hickman](https://twitter.com/robwhickman)'s StatsBomb conference presentation where he extended xT to take defensive risk into account [[link](https://twitter.com/robwhickman)], [Last Row View](https://twitter.com/lastrowview) ([Ricardo Tavares](https://twitter.com/rjtavares))'s blog post for evaluating off-the-ball player movements by combining xT and tracking data, and Karun's xT values as a 12x8 grid to download as a JSON file [[link](https://t.co/IoZdCa2BbX?amp=1)];
+*    [Expected Threat](https://karun.in/blog/expected-threat.html) by [Karun Singh](https://twitter.com/karun1710). Check out also as an unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1361695899131387909.html)] Karun's Twitter thread for the many resources out there around this topic, including: [Episode 19 of The Football Fanalytics Podcast](https://open.spotify.com/episode/0HvcNPxg8Ux6zJB2nGp3VK?si=AOkxcH3KTue4jeEIA6kpWw&nd=1), Karun's [StatsBomb](https://statsbomb.com/)conference presentation [[link](https://www.youtube.com/watch?v=mE3sUVCIwfA)] and slides [[link](https://docs.google.com/presentation/d/1tu603CdONhI17AZTrd3mdf1UAf7k-rHwwCLSU_tCx6g/edit#slide=id.p)], [Rob Hickman](https://twitter.com/robwhickman)'s [StatsBomb](https://statsbomb.com/)conference presentation where he extended xT to take defensive risk into account [[link](https://twitter.com/robwhickman)], [Last Row View](https://twitter.com/lastrowview) ([Ricardo Tavares](https://twitter.com/rjtavares))'s blog post for evaluating off-the-ball player movements by combining xT and tracking data, and Karun's xT values as a 12x8 grid to download as a JSON file [[link](https://t.co/IoZdCa2BbX?amp=1)];
 *    [Lionel Messi’s ten stages of greatness](https://theathletic.co.uk/1880554/2020/08/07/lionel-messi-barcelona-la-liga-champions-league/) by Michael Cox and [Tom Worville](https://twitter.com/Worville);
 *    [Passing Out at the Back](https://www.statsperform.com/resource/passing-out-at-the-back/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM);
 *    [The 10 Commandments of Football Analytics](https://theathletic.co.uk/1692489/2020/03/23/the-10-commandments-of-football-analytics/) by [Tom Worville](https://twitter.com/Worville);
@@ -984,7 +984,7 @@ For a Twitter thread of the football analytics blogs from 2009 an earlier, see t
 *    [davidfombella.github.io](https://davidfombella.github.io/) by [David Fombella](https://twitter.com/bigdatasport/)
 *    [DeepxG](https://deepxg.com/) by [Thom Lawrence](https://twitter.com/lemonwatcher) (last updated 29/11/2017);
 *    [Differentgame](https://differentgame.wordpress.com/) by [Paul Riley](https://twitter.com/footballfactman);
-*    [DTAI Sports Analytics Lab](https://dtai.cs.kuleuven.be/sports/blog) by KU Leuven, featuring posts from Jesse Davis, Pieter Robberechts, Maaike Van Roy, Lotte Bransen, Jan Van Haaren,  Tom Decroos, and more;
+*    [DTAI Sports Analytics Lab](https://dtai.cs.kuleuven.be/sports/blog) by KU Leuven, featuring posts from Jesse Davis, Pieter Robberechts, Maaike Van Roy, Lotte Bransen, [Jan Van Haaren](https://twitter.com/JanVanHaaren),  Tom Decroos, and more;
 *    [The Economics of Sport](http://www.sportseconomics.org/);
 *    [EddWebster.com](https://www.eddwebster.com/) by [Edd Webster](https://twitter.com/eddwebster)
 *    [EFL Numbers](https://eflnumbers.wordpress.com/) by [EFL Numbers](https://twitter.com/eflnumbers);
@@ -1069,7 +1069,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 <h5 id="2021"> 2021</h5>
   
 *    [6MapNet: Representing Soccer Players from Tracking Data a Triplet Network](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_kim.pdf) (2021) by Hyunsung Kim, Jihun Kim, Dongwook Chung, Jonghyun Lee, Jinsung Yoon and Sang-Ki Ko;
-*    [A Bayesian Approach to In-Game Win Probability in Soccer](https://dl.acm.org/doi/10.1145/3447548.3467194) (2021) by Pieter Robberechts, Jan Van Haaren, and Jesse Davis. See the accompanying blog [[link](https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability)];
+*    [A Bayesian Approach to In-Game Win Probability in Soccer](https://dl.acm.org/doi/10.1145/3447548.3467194) (2021) by Pieter Robberechts,[Jan Van Haaren](https://twitter.com/JanVanHaaren), and Jesse Davis. See the accompanying blog [[link](https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability)];
 *    [A Career in Football: What Is Behind an Outstanding Market Value?](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_acs.pdf) (2021) by Balázs Ács and László Toka;
 *    [A Copula-Based Hidden Markov Model for Classification of Tactics in Football](https://arxiv.org/pdf/2002.01193.pdf) (2021) by Marius Oetting. See accompanying NESSIS talk [[link](https://www.youtube.com/watch?v=X2m40JSS2M0)];
 *    [A Framework for the Fine-Grained Evaluation of the Instantaneous Expected Value of Soccer Possessions](https://link.springer.com/article/10.1007%2Fs10994-021-05989-6) (2021) by Javier Fernández, Luke Bornn and Daniel Cervone;
@@ -1104,8 +1104,8 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [The Origins of Goals in the German Bundesliga](https://www.tandfonline.com/doi/abs/10.1080/02640414.2021.1943981) (2021) by Pascal Bauer, Gabriel Anzer and Ulf Brefeld;
 *    [The Quest for the Right Pass: Quantifying Players’ Decision Making](http://statsbomb.com/wp-content/uploads/2021/11/Javier-M-Buldu.pdf) (2021) by Borja Burriel and Javier Buldú;
 *    [What Happened Next? Using Deep Learning to Value Defensive Actions in Football Event-Data](https://arxiv.org/abs/2106.01786) (2021) by Charbel Merhej, Ryan Beal, Sarvapali Ramchurn and Tim Matthews;
-*    [“Why Would I Trust Your Numbers?” On the Explainability of Expected Values in Soccer](https://drive.google.com/file/d/1AHYBmTGBOyoKbVN8ACebqZfYnQXzW-En/view) (2021) by Jan Van Haaren; and
-*    [Women's football analyzed: interpretable expected goals models for women](https://drive.google.com/file/d/1Plg2mGJixgdrN2BsuOocuwuAt9a5VS5G/view) (2021) by Lotte Bransen and Jesse Davis.
+*    [“Why Would I Trust Your Numbers?” On the Explainability of Expected Values in Soccer](https://drive.google.com/file/d/1AHYBmTGBOyoKbVN8ACebqZfYnQXzW-En/view) (2021) by[Jan Van Haaren](https://twitter.com/JanVanHaaren); and
+*    [Women's football analyzed: interpretable expected goals models for women](https://drive.google.com/file/d/1Plg2mGJixgdrN2BsuOocuwuAt9a5VS5G/view) (2021) by[Lotte Bransen](https://twitter.com/LotteBransen)and Jesse Davis.
 
 <h5 id="2020"> 2020</h5>
   
@@ -1120,7 +1120,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [Interpretable Prediction of Goals in Soccer](https://tomdecroos.github.io/reports/interpret_vaep.pdf) (2020) by Tom Decroos and Jesse Davis;
 *    [Inverse Reinforcement Learning for Team Sports: Valuing Actions and Players](https://www.ijcai.org/Proceedings/2020/0464.pdf) (2020) by Yudong Luo, Oliver Schulte and Pascal Poupart. See the code [[link](https://github.com/miyunluo/IRL-icehockey)];
 *    [Learning the Value of Teamwork to Form Efficient Teams](https://aaai.org/ojs/index.php/AAAI/article/view/6192/6048) (2020) by Ryan Beal, Narayan Changder, Timothy Norman, Sarvapali Ramchurn;
-*    [Player Chemistry: Striving for a Perfectly Balanced Soccer Team](https://arxiv.org/abs/2003.01712) (2020) by [Lotte Bransen](https://twitter.com/LotteBransen). See the accompanying [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) video tutorials [[link](https://github.com/SciSports-Labs/fot-valuing-actions)] and chapter 4 of the Barca Innovation Hub Football Analytics 2021 publication, titled: 'How does context affect player performance in football?' by Lotte Bransen, Pieter Robberechts, Jesse Davis, Tom Decroos, and Jan Van Haaren [[link](https://sportstomorrow.fcbarcelona.com/wp-content/uploads/2020/11/Barca_Innovation_Hub_FOOTBALL_ANALYTICS_2021.pdf)];
+*    [Player Chemistry: Striving for a Perfectly Balanced Soccer Team](https://arxiv.org/abs/2003.01712) (2020) by [Lotte Bransen](https://twitter.com/LotteBransen). See the accompanying [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) video tutorials [[link](https://github.com/SciSports-Labs/fot-valuing-actions)] and chapter 4 of the [Barça Innovation Hub](https://barcainnovationhub.com/) Football Analytics 2021 publication, titled: 'How does context affect player performance in football?' by Lotte Bransen, Pieter Robberechts, Jesse Davis, Tom Decroos, and[Jan Van Haaren](https://twitter.com/JanVanHaaren) [[link](https://sportstomorrow.fcbarcelona.com/wp-content/uploads/2020/11/Barca_Innovation_Hub_FOOTBALL_ANALYTICS_2021.pdf)];
 *    [Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf) (2020) by [Sam Gregory](https://twitter.com/GregorydSam);
 *    [The Right Place at the Right Time: Advanced Off-Ball Metrics for Exploiting an Opponent’s Spatial Weakenesses in Soccer](https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/5f6a69841d1ac99fa3a71a41_Llana_The-right-place-at-the-right-time.pdf) (2020) by Sergio Llana, Pau Madrero and Javier Fernández;
 *    [Optimising Game Tactics for Football](https://arxiv.org/abs/2003.10294) (2020) by Ryan Beal, Georgios Chalkiadakis, Timothy Norman and Sarvapali Ramchurn;
@@ -1234,7 +1234,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [Premier League club Manchester City hire astrophysicists](https://en.as.com/en/2021/03/24/opinion/1616586679_570100.html) (24/03/2021) by Alfredo Relaño for AS;
 *    [Manchester City will have astrophysicists in their ranks](https://www.marca.com/en/football/premier-league/2021/03/23/6059e09622601da60e8b459c.html) in Marca;
 *    [It IS rocket science! Manchester City hire astrophysicists to their data analysis team in bid to move Premier League leaders further ahead of their rivals](https://www.dailymail.co.uk/sport/football/article-9390675/It-rocket-science-Manchester-City-hire-multiple-astrophysicists-zoom-ahead-rivals.html) by Jack Gaughan (22/03/2021) for The Daily Mail;
-*    [Liverpool sign up for StatsBomb 360: Ted Knutson explains why this stats revolution will change the game](https://www.skysports.com/football/news/11669/12248621/liverpool-sign-up-for-statsbomb-360-ted-knutson-explains-why-this-stats-revolution-will-change-the-game) (18/03/2021) by Adam Bate for Sky Sports News;
+*    [Liverpool sign up for [StatsBomb](https://statsbomb.com/)360: Ted Knutson explains why this stats revolution will change the game](https://www.skysports.com/football/news/11669/12248621/liverpool-sign-up-for-statsbomb-360-ted-knutson-explains-why-this-stats-revolution-will-change-the-game) (18/03/2021) by Adam Bate for Sky Sports News;
 *    [Data experts are becoming football's best signings](https://www.bbc.co.uk/news/business-56164159) (05/03/2021) by Justin Harper for BBC News;
 *    [How a Celtic blogger nurtured by Brendan Rodgers is now lifting Leicester City](https://www.thetimes.co.uk/article/how-a-celtic-blogger-nurtured-by-brendan-rodgers-is-now-lifting-leicester-city-9hhchpnfp) (27/02/2021) by Tom Roddy for The Times;
 *    [17-Year-Old Man Lands Dream Job Of Getting Paid To Watch Football All Day](https://www.sportbible.com/football/news-17-year-old-man-lands-dream-job-of-getting-paid-to-watch-football-20210204) by Adnan Riaz for Sport Bible;
@@ -1377,7 +1377,7 @@ Playlists created by others
 *    [Opta](https://www.youtube.com/user/optasports) - including Opta Pro Forum talks
 *    [Planeta Data Fútbol](https://www.youtube.com/channel/UCpIqAVOpOWt-8Sk4KvosxFg) (en español) con [Jesús Lagos](https://twitter.com/Vdot_Spain) y [Miguel Ángel García](https://twitter.com/miguelangaro)
 *    [SciSports](https://www.youtube.com/channel/UCSmxSgF__OMi55BQ_0-2Gig)
-*    [StatsBomb](https://www.youtube.com/channel/UCmZ2ArreL9muPvH49Gaw0Bw) - including StatsBomb Conference talks
+*    [StatsBomb](https://www.youtube.com/channel/UCmZ2ArreL9muPvH49Gaw0Bw) - including [StatsBomb](https://statsbomb.com/)Conference talks
 *    [STATS Insights](https://www.youtube.com/user/BloombergSports)
 *    [Tifo Football](https://www.youtube.com/channel/UCGYYNGmyhZ_kwBF_lqqXdAQ)
 
@@ -1391,7 +1391,7 @@ Playlists created by others
 <h4 id="webinars-and-lectures"> Webinars and Lectures</h4>
 
 *    Laurie Shaw's Metrica Sports Tracking data series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Introduction](https://www.youtube.com/watch?v=8TrleFklEsE), [Measuring Physical Performance](https://www.youtube.com/watch?v=VX3T-4lB2o0), [Pitch Control modelling](https://www.youtube.com/watch?v=5X1cSehLg6s), and [Valuing Actions](https://www.youtube.com/watch?v=KXSLKwADXKI). See the following for code [[link](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)];
-*    Lotte Bransen and Jan Van Haaren's 'Valuating Actions in Football' series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0), [Valuing Actions in Football 1: From Wyscout Data to Rating Players](https://www.youtube.com/watch?v=0ol_eLLEQ64), [Valuing Actions in Football 2: Generating Features](https://www.youtube.com/watch?v=Ep9wXQgAFaE&t=42s), [Valuing Actions in Football 3: Training Machine Learning Models](https://www.youtube.com/watch?v=WlORqYIb-Gg), and [Valuing Actions in Football 4: Analyzing Models and Results](https://www.youtube.com/watch?v=w9G0z3eGCj8). See the following for code [[link](https://github.com/SciSports-Labs/fot-valuing-actions)];
+*   [Lotte Bransen](https://twitter.com/LotteBransen)and[Jan Van Haaren](https://twitter.com/JanVanHaaren)'s 'Valuating Actions in Football' series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0), [Valuing Actions in Football 1: From Wyscout Data to Rating Players](https://www.youtube.com/watch?v=0ol_eLLEQ64), [Valuing Actions in Football 2: Generating Features](https://www.youtube.com/watch?v=Ep9wXQgAFaE&t=42s), [Valuing Actions in Football 3: Training Machine Learning Models](https://www.youtube.com/watch?v=WlORqYIb-Gg), and [Valuing Actions in Football 4: Analyzing Models and Results](https://www.youtube.com/watch?v=w9G0z3eGCj8). See the following for code [[link](https://github.com/SciSports-Labs/fot-valuing-actions)];
 *    David Sumpter's Expected Goals webinars for #FoT - [How to Build An Expected Goals Model 1: Data and Model](https://www.youtube.com/watch?v=bpjLyFyLlXs), [How to Build An Expected Goals Model 2: Statistical fitting](https://www.youtube.com/watch?v=wHOgINJ5g54), and [The Ultimate Guide to Expected Goals](https://www.youtube.com/watch?v=310_eW0hUqQ). See the following for code [3xGModel](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/3xGModel.py), [4LinearRegression](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/4LinearRegression.py), [5xGModelFit.py](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/5xGModelFit.py), and [6MeasuresOfFit](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython/blob/master/6MeasuresOfFit.py);
 *    [Peter McKeever](https://twitter.com/petermckeever)'s ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)];
 *    StatsPerform AI in Sport series - [Overview](https://vimeo.com/473259469/3d56393c68), [AI in Basketball](https://protect-eu.mimecast.com/s/tJ6yC1j9vF6oL09UywAM0?domain=cvent.com), [AI In Soccer](https://vimeo.com/515977363/be3de09fc1), and [AI in Tennis]();
@@ -1399,8 +1399,8 @@ Playlists created by others
 *    [Google Research Football](https://www.youtube.com/watch?v=esQvSg2qeS0) by [Piotr Stanczyk](https://twitter.com/pwawrzynow);
 *    [Will Spearman](https://twitter.com/the_spearman)'s masterclass in [Pitch Control](https://www.youtube.com/watch?v=X9PrwPyolyU&list=PL38nJNjpNpH-l59NupDBW7oG7CmWBgp7Y) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w);
 *    [How Tracking Data is Used in Football and What are the Future Challenges](https://www.youtube.com/watch?v=kHTq9cwdkGA) with [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Will Spearman](https://twitter.com/the_spearman) and [David Sumpter](https://twitter.com/Soccermatics) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w);
-*    [Why Do Clubs Need to Embrace Analytics to Stay Competitive?](https://www.youtube.com/watch?v=kWBpxxxxLWQ) with Vosse de Boode, David Sumpter, Adrien Tarascon and Javier Fernández for Barca Innovation Hub;
-*    [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0) with Lotte Bransen and Jan Van Haaren for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w);
+*    [Why Do Clubs Need to Embrace Analytics to Stay Competitive?](https://www.youtube.com/watch?v=kWBpxxxxLWQ) with Vosse de Boode, David Sumpter, Adrien Tarascon and Javier Fernández for [Barça Innovation Hub](https://barcainnovationhub.com/);
+*    [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0) with[Lotte Bransen](https://twitter.com/LotteBransen)and[Jan Van Haaren](https://twitter.com/JanVanHaaren) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w);
 *    [Routine Inspection: Measuring Playbooks for Corner Kicks](https://www.youtube.com/watch?v=yfPC1O_g-I8) by Laurie Shaw and Sudarshan 'Suds' Gopaladsikan;
 *    [A Physics Based Measurement of Defensive Contributions](https://vimeo.com/533973203) (2021) by Aditya Kothari;
 *    [Enriching Event Data: A Semi-Supervised Augmentation Approach Using Location Information](https://vimeo.com/548347946) by Debangan Dey, Rahul Ghosal and Atanu Mitra;
@@ -1429,7 +1429,7 @@ Playlists created by others
 *    [How Hammarby create the mathematically perfect pressing game](https://www.youtube.com/watch?v=s6bpn3Uox7M) by David Sumpter
 *    [Hudl Presents: Performance Analysis in 2020](https://www.hudl.com/elite/events/performance-analysis-2020/watch)
 *    [Self-Supervised Representations for Tracking Data](https://player.vimeo.com/video/398489039) by Karun Singh;
-*    [An American Analyst in London](https://www.youtube.com/watch?v=LA9-V6_ZIUg) at SSAC 2019 with StatsBomb CEO [Ted Knutson](https://twitter.com/mixedknuts) and Houston Rockets GM Daryl Morey;
+*    [An American Analyst in London](https://www.youtube.com/watch?v=LA9-V6_ZIUg) at SSAC 2019 with [StatsBomb](https://statsbomb.com/)CEO [Ted Knutson](https://twitter.com/mixedknuts) and Houston Rockets GM Daryl Morey;
 *    [Beyond the Baseline](https://www.youtube.com/watch?v=o9IjocHyBLE) by Marek Kwiatkowski;
 *    [Some Things Aren't Shots](https://www.youtube.com/watch?v=5j-Ij5_3Cs8) by Thom Lawrence;
 *    [Beyond Save Percentage](https://www.youtube.com/watch?v=V9_20e2ut14&t=1s) by [Derrick Yam](https://twitter.com/YAMiAM9)
@@ -1898,7 +1898,7 @@ For a playlist of Expected Goals related videos available on YouTube, see the fo
      +    [How to Build An Expected Goals Model 1: Data and Model](https://www.youtube.com/watch?v=bpjLyFyLlXs);
      +    [How to Build An Expected Goals Model 2: Statistical fitting](https://www.youtube.com/watch?v=wHOgINJ5g54); and
      +    [The Ultimate Guide to Expected Goals](https://www.youtube.com/watch?v=310_eW0hUqQ).
-*    ["Is Our Model Learning What We Think It Is?" Estimating the xG Impact of Actions in Football](https://www.youtube.com/watch?v=i7Ra4Qv4_m4) by [Tom Decroos](https://twitter.com/TomDecroos) from the 2019 StatsBomb Innovation in Football Conference;
+*    ["Is Our Model Learning What We Think It Is?" Estimating the xG Impact of Actions in Football](https://www.youtube.com/watch?v=i7Ra4Qv4_m4) by [Tom Decroos](https://twitter.com/TomDecroos) from the 2019 [StatsBomb](https://statsbomb.com/)Innovation in Football Conference;
 *   [Statsbomb Data Launch - Beyond Naive xG](https://www.youtube.com/watch?v=_AYY9XlWEB0) by [Ted Knutson](https://twitter.com/mixedknuts).
 
 <h5 id="xg-modeling-tutorials"> Tutorials</h5>
@@ -1966,7 +1966,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
      +    [xCommentary](https://statsbomb.com/2016/10/xcommentary/)
 *    [Anatomy of a Shot](https://deepxg.com/2015/10/21/anatomy-of-a-shot/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
 *    [Modern Fitba](https://www.modernfitba.com/)'s Expected Goal Guides [Part 1](https://www.modernfitba.com/blogs/2018/6/26/modern-fitbas-expected-goal-guide-part-1) and [Part 2](https://www.modernfitba.com/blogs/2018/6/26/modern-fitbas-expected-goal-guide-part-2) by [Christian Wulff](https://twitter.com/ahellofabeating);
-*    [How StatsBomb Data Helps Measure Counter-Pressing](https://statsbomb.com/2018/05/how-statsbomb-data-helps-measure-counter-pressing/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM);
+*    [How [StatsBomb](https://statsbomb.com/)Data Helps Measure Counter-Pressing](https://statsbomb.com/2018/05/how-statsbomb-data-helps-measure-counter-pressing/) by [Will Gürpinar-Morgan](https://twitter.com/WillTGM);
 *    [A Shooting Model – An Exp(G)lanation and Application](https://differentgame.wordpress.com/2014/05/19/a-shooting-model-an-expglanation-and-application/) by [Paul Riley](https://twitter.com/footballfactman);
 *    [Introducing xGChain and xGBuildup](https://statsbomb.com/2018/08/introducing-xgchain-and-xgbuildup/) by [Thom Lawrence](https://twitter.com/lemonwatcher);
 *    [Introduction Expected Goals on Target (xGoT)](https://www.statsperform.com/resource/introducing-expected-goals-on-target-xgot/) by [Jonny Whitmore](https://twitter.com/JonnyWhitmore14);
@@ -2031,7 +2031,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 <h5 id="xg-modeling-tweets"> Tweets</h5>
 
 *    The benefits of including fake data in an Expected Goals model [[link](https://twitter.com/Soccermatics/status/1260598182624575490)]; and
-*    Twitter thread by [Jernej Flisar](https://twitter.com/jernejfl) to build an Expected Goals model trained with Logistic Regression on StatsBomb Event data and using the model to predict Liverpool goals from [Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) provided by [Ricardo Tavares](https://twitter.com/rjtavares) ([Last Row View](https://twitter.com/lastrowview)) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) [[link](https://twitter.com/jernejfl/status/1258299564878106624)]. The model uses the [SHAP](https://github.com/slundberg/shap) library for feature interpretation.
+*    Twitter thread by [Jernej Flisar](https://twitter.com/jernejfl) to build an Expected Goals model trained with Logistic Regression on [StatsBomb](https://statsbomb.com/)Event data and using the model to predict Liverpool goals from [Tracking-like data](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) provided by [Ricardo Tavares](https://twitter.com/rjtavares) ([Last Row View](https://twitter.com/lastrowview)) for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) [[link](https://twitter.com/jernejfl/status/1258299564878106624)]. The model uses the [SHAP](https://github.com/slundberg/shap) library for feature interpretation.
 
 
 <h4 id="scraping"> Web Scraping Football Data</h4>
@@ -2054,7 +2054,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 <h5 id="scraping-libraries"> Libraries</h5>
 
 *    [`ScraperFC`](https://github.com/oseymour/ScraperFC) - a Python package to scrape data from FBRef, Understat and FiveThirtyEight by [Owen Seymour](https://twitter.com/owen_seymour);
-*    [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) - Python library to scrape StatsBomb data via FBref by [Parthe Athale](https://twitter.com/ParthAthale), which in turn was updated from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL);
+*    [`Scrape-FBref-data`](https://github.com/parth1902/Scrape-FBref-data) - Python library to scrape [StatsBomb](https://statsbomb.com/)data via FBref by [Parthe Athale](https://twitter.com/ParthAthale), which in turn was updated from [Christopher Martin](https://github.com/chmartin)'s [repository](https://github.com/chmartin/FBref_EPL);
 *    [`tmscrape`](https://github.com/znstrider/tmscrape) - a Python TransferMarkt webscraper by [danzn1](https://twitter.com/danzn1);
 *    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) - a Python TransferMarkt webscraper by [FCrSTATS](https://twitter.com/FC_rstats);
 *    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) - a R package to allow users to extract various world football results and player statistics data from FBref and valuations and transfer data from TransferMarkt.com by [Jason Zivkovic](https://twitter.com/jaseziv) (see guide on how to use this package [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)]);
@@ -2151,7 +2151,7 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h5 id="pv-frameworks-xt"> Expected Threat (xT)</h5>
 
-*    [Introducing Expected Threat (xT)](https://karun.in/blog/expected-threat.html) by [Karun Singh](https://twitter.com/karun1710). Check out also as an unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1361695899131387909.html)] Karun's Twitter thread for the many resources out there around this topic, including: [Episode 19 of The Football Fanalytics Podcast](https://open.spotify.com/episode/0HvcNPxg8Ux6zJB2nGp3VK?si=AOkxcH3KTue4jeEIA6kpWw&nd=1), Karun's StatsBomb conference presentation [[link](https://www.youtube.com/watch?v=mE3sUVCIwfA)] and slides [[link](https://docs.google.com/presentation/d/1tu603CdONhI17AZTrd3mdf1UAf7k-rHwwCLSU_tCx6g/edit#slide=id.p)], [Rob Hickman](https://twitter.com/robwhickman)'s StatsBomb conference presentation where he extended xT to take defensive risk into account [[link](https://twitter.com/robwhickman)], [Last Row View](https://twitter.com/lastrowview) ([Ricardo Tavares](https://twitter.com/rjtavares))'s blog post for evaluating off-the-ball player movements by combining xT and tracking data, and Karun's xT values as a 12x8 grid to download as a JSON file [[link](https://t.co/IoZdCa2BbX?amp=1)].
+*    [Introducing Expected Threat (xT)](https://karun.in/blog/expected-threat.html) by [Karun Singh](https://twitter.com/karun1710). Check out also as an unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1361695899131387909.html)] Karun's Twitter thread for the many resources out there around this topic, including: [Episode 19 of The Football Fanalytics Podcast](https://open.spotify.com/episode/0HvcNPxg8Ux6zJB2nGp3VK?si=AOkxcH3KTue4jeEIA6kpWw&nd=1), Karun's [StatsBomb](https://statsbomb.com/)conference presentation [[link](https://www.youtube.com/watch?v=mE3sUVCIwfA)] and slides [[link](https://docs.google.com/presentation/d/1tu603CdONhI17AZTrd3mdf1UAf7k-rHwwCLSU_tCx6g/edit#slide=id.p)], [Rob Hickman](https://twitter.com/robwhickman)'s [StatsBomb](https://statsbomb.com/)conference presentation where he extended xT to take defensive risk into account [[link](https://twitter.com/robwhickman)], [Last Row View](https://twitter.com/lastrowview) ([Ricardo Tavares](https://twitter.com/rjtavares))'s blog post for evaluating off-the-ball player movements by combining xT and tracking data, and Karun's xT values as a 12x8 grid to download as a JSON file [[link](https://t.co/IoZdCa2BbX?amp=1)].
 *    [Introducing ‘expected threat’ (or xT), the new metric on the block](https://theathletic.com/2751525/2021/08/06/introducing-expected-threat-or-xt-the-new-metric-on-the-block/) by [Tom Worville](https://twitter.com/Worville)
 *    [Explaining Expected Threat](https://soccermatics.medium.com/explaining-expected-threat-cbc775d97935) by [David Sumpter](https://twitter.com/Soccermatics)
 *    [Football's New Stat - What is Expected Threat?](https://www.youtube.com/watch?v=RwVLUH4BFfA) by Tifo
@@ -2160,10 +2160,10 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 
 <h5 id="pv-frameworks-vaep"> Valuing Actions by Estimating Probabilities (VAEP) </h5>
 
-*    Lotte Bransen and Jan Van Haaren's 'Valuing Actions in Football' series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0), [Valuing Actions in Football 1: From Wyscout Data to Rating Players](https://www.youtube.com/watch?v=0ol_eLLEQ64), [Valuing Actions in Football 2: Generating Features](https://www.youtube.com/watch?v=Ep9wXQgAFaE&t=42s), [Valuing Actions in Football 3: Training Machine Learning Models](https://www.youtube.com/watch?v=WlORqYIb-Gg), and [Valuing Actions in Football 4: Analyzing Models and Results](https://www.youtube.com/watch?v=w9G0z3eGCj8). See the following for code [[link](https://github.com/SciSports-Labs/fot-valuing-actions)];
-*    [STARSS: A Spatio-Temporal Action Rating System for Soccer](https://lirias.kuleuven.be/retrieve/465691) by Tom Decroos, Jan Van Haaren, Vladimir Dzyuba, Jesse Davis;
-*    [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer (V1)](https://arxiv.org/pdf/1802.07127v1) by Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis; and
-*    [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer (V2)](https://arxiv.org/pdf/1802.07127v2) by Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis.
+*   [Lotte Bransen](https://twitter.com/LotteBransen)and[Jan Van Haaren](https://twitter.com/JanVanHaaren)'s 'Valuing Actions in Football' series for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) - [Valuing Actions in Football: Introduction](https://www.youtube.com/watch?v=xyyZLs_N1F0), [Valuing Actions in Football 1: From Wyscout Data to Rating Players](https://www.youtube.com/watch?v=0ol_eLLEQ64), [Valuing Actions in Football 2: Generating Features](https://www.youtube.com/watch?v=Ep9wXQgAFaE&t=42s), [Valuing Actions in Football 3: Training Machine Learning Models](https://www.youtube.com/watch?v=WlORqYIb-Gg), and [Valuing Actions in Football 4: Analyzing Models and Results](https://www.youtube.com/watch?v=w9G0z3eGCj8). See the following for code [[link](https://github.com/SciSports-Labs/fot-valuing-actions)];
+*    [STARSS: A Spatio-Temporal Action Rating System for Soccer](https://lirias.kuleuven.be/retrieve/465691) by Tom Decroos,[Jan Van Haaren](https://twitter.com/JanVanHaaren), Vladimir Dzyuba, Jesse Davis;
+*    [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer (V1)](https://arxiv.org/pdf/1802.07127v1) by Tom Decroos, Lotte Bransen,[Jan Van Haaren](https://twitter.com/JanVanHaaren), Jesse Davis; and
+*    [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer (V2)](https://arxiv.org/pdf/1802.07127v2) by Tom Decroos, Lotte Bransen,[Jan Van Haaren](https://twitter.com/JanVanHaaren), Jesse Davis.
 
 <h5 id="pv-frameworks-g+"> Goals Added (g+)</h5>
 
@@ -2284,11 +2284,11 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 <h4 id="radars"> Radars</h4>
 
 *    [StatsBomb](https://statsbomb.com/) radar articles. For all articles, see the following: [[link](https://statsbomb.com/tag/radars/)]
-     +    [Understanding StatsBomb Radars](https://statsbomb.com/2021/07/understanding-statsbomb-radars/) by StatsBomb (16/07/2021)
+     +    [Understanding [StatsBomb](https://statsbomb.com/)Radars](https://statsbomb.com/2021/07/understanding-statsbomb-radars/) by [StatsBomb](https://statsbomb.com/)(16/07/2021)
      +    [New Team, Same Numbers: How Transfers Do (And Don't) Change Player Output](https://statsbomb.com/2019/03/new-team-same-numbers-how-transfers-do-and-dont-change-player-output/) by Tim Keech (06/03/2019)
      +    [Introducing Goalkeeper Radars](https://statsbomb.com/2018/12/introducing-goalkeeper-radars/) by Ted Knutson (11/12/2018)
      +    [Radar Wars](https://statsbomb.com/2018/09/radar-wars/)
-     +    [New Data, New StatsBomb Radars](https://statsbomb.com/2018/08/new-data-new-statsbomb-radars/) by Ted Knutson (03/08/2018)
+     +    [New Data, New [StatsBomb](https://statsbomb.com/)Radars](https://statsbomb.com/2018/08/new-data-new-statsbomb-radars/) by Ted Knutson (03/08/2018)
      +    [Revisiting Radars](https://statsbomb.com/2017/05/revisiting-radars/) by Ted Knutson (18/05/2017)
      +    [Understanding Football Radars For Mugs and Muggles](https://statsbomb.com/2016/04/understand-football-radars-for-mugs-and-muggles/) by Ted Knutson (25/04/2016)
 *    [Radar Wars - CASSIS Presentation Summer 2018](https://www.youtube.com/watch?v=iN-QqnbrDYA)
@@ -2301,7 +2301,7 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 <h4 id="recruitment-analysis"> Recruitment Analysis</h4>
 
 *    [Gerard Moore uses the Event Lab to analyse centre-backs for recruitment](https://www.twenty3.sport/gerard-moore-analyst-twenty3-event-lab-recruitment/) by [Gerard Moore](https://twitter.com/GedMoor) for [Twenty3](https://www.twenty3.sport/)
-*    [Using StatsBomb IQ For Player Recruitment: Centre Backs](https://statsbomb.com/2021/06/using-statsbomb-iq-for-player-recruitment-centre-backs/) by [StatsBomb](https://statsbomb.com/) (05/06/2021)
+*    [Using [StatsBomb](https://statsbomb.com/)IQ For Player Recruitment: Centre Backs](https://statsbomb.com/2021/06/using-statsbomb-iq-for-player-recruitment-centre-backs/) by [StatsBomb](https://statsbomb.com/) (05/06/2021)
 *    [Recruitment & Analysis at Melborne City: Optimising Key Processes using Data and Technology](https://www.statsperform.com/resource/recruitment-analysis-at-melbourne-city-optimising-key-processes-using-data-and-technology/) by [Andy Cooper](https://twitter.com/andycoops83) for [Stats Perform](https://www.statsperform.com/)
 *    Season Analysis & Summer Recruitment pieces
      +    [Blackburn Rovers Season Analysis & Summer 2020 Recruitment](https://www.yumpu.com/en/document/read/65654151/blackburn-rovers-season-analysis-recruitment-2021) by [Andy Watson](https://twitter.com/andywatsonsport) (see tweet [[link](https://twitter.com/andywatsonsport/status/1396750915600896000)]
@@ -2357,7 +2357,7 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 
 <h5 id="relative-league-strength-videos"> Videos</h5>
 
-*    [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)'s StatsBomb 2021 talk [Practical tools for ‘Bridging the gap](https://www.youtube.com/watch?v=GvyHGNMuX7o) (see @ 20m42s)
+*    [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)'s [StatsBomb](https://statsbomb.com/)2021 talk [Practical tools for ‘Bridging the gap](https://www.youtube.com/watch?v=GvyHGNMuX7o) (see @ 20m42s)
 
 <h5 id="relative-league-strength-miscellaneous"> Miscellaneous</h5>
 
@@ -2563,8 +2563,8 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 
 <h4 id="game-win-probability-modeling"> Game Win Probability Modeling</h4>
 
-*    [A Bayesian Approach to In-Game Win Probability](https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability) by Jesse Davies, Pieter Robberechts, and Jan Van Haaren for DTAI Sports Analytics Lab. See paper [[link](https://dl.acm.org/doi/10.1145/3447548.3467194)]
-*    [Who Will Win It? An In-game Win Probability Model for Football](https://dtai.cs.kuleuven.be/events/MLSA19/papers/robberechts_MLSA19.pdf) by Pieter Robberechts, Jan Van Haaren, and Jesse Davies for DTAI Sports Analytics Lab 
+*    [A Bayesian Approach to In-Game Win Probability](https://dtai.cs.kuleuven.be/sports/blog/a-bayesian-approach-to-in-game-win-probability) by Jesse Davies, Pieter Robberechts, and[Jan Van Haaren](https://twitter.com/JanVanHaaren) for DTAI Sports Analytics Lab. See paper [[link](https://dl.acm.org/doi/10.1145/3447548.3467194)]
+*    [Who Will Win It? An In-game Win Probability Model for Football](https://dtai.cs.kuleuven.be/events/MLSA19/papers/robberechts_MLSA19.pdf) by Pieter Robberechts,[Jan Van Haaren](https://twitter.com/JanVanHaaren), and Jesse Davies for DTAI Sports Analytics Lab 
 *    [Explaining Live Win Probability (LWP)](https://theanalyst.com/eu/2021/11/live-win-probability/) by [Jonny Whitmore](https://twitter.com/JonnyWhitmore14) for [The Analyst](https://theanalyst.com)
 *    [Opta's Live Win Probability Model on Amazon Prime Video](https://www.statsperform.com/news/explained-what-is-win-probability-and-how-does-it-work/) by [Alex Jennings](https://twitter.com/ajennings1998) for [Stats Perform](https://www.statsperform.com/)
 *    [We Have a New Win Probability Model](https://www.americansocceranalysis.com/home/2021/7/16/we-have-a-new-win-probability-model) by Tyler Richardett for American Soccer Analysis
