@@ -1062,9 +1062,7 @@ For a Twitter thread of the football analytics blogs from 2009 an earlier, see t
 
 <h4 id="papers"> :page_with_curl: Papers</h4>
 
-Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html) and [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html). Props to him for reading a paper a week and making his thoughts publicly available!
-
-The papers included in this list have been 
+Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html) and [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html). All credit to him for reading a paper a week and making his reviews publicly available.
 
 The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
 
