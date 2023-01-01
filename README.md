@@ -100,9 +100,24 @@ For more information about this repository and the author, I am available throug
             <li><a href="#tutorials-powerpoint">PowerPoint</a></li>
           </ul>
         <li><a href="#libraries">Libraries</a></li>
+          <ul>
+            <li><a href="#libraries-python">Python</a></li>
+            <li><a href="#libraries-r">R</a></li>
+          </ul>
         <li><a href="#github-repos">GitHub Repositories</a></li>
+          <ul>
+            <li><a href="#github-repos-python">Python</a></li>
+            <li><a href="#github-repos-r">R</a></li>
+            <li><a href="#github-repos-other-languages">Tableau</a></li>
+            <li><a href="#github-repos-no-language-specified">No Language Specified</a></li>
+          </ul>
         <li><a href="#apps">Apps</a></li>
         <li><a href="#data-visualisation-resources-and-tools">Data Visualisation Resources and Tools</a></li>
+          <ul>
+            <li><a href="#data-visualisation-resources-and-tools-tutorials">Tutorials</a></li>
+            <li><a href="#data-visualisation-resources-and-tools-repos-and-libraries">Repos and Libraries</a></li>
+            <li><a href="#data-visualisation-resources-and-tools-resources"></a>Resources</li>
+          </ul>
         <li>
           <a href="#written-pieces">Written Pieces</a></li>
           <ul>
@@ -812,7 +827,8 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 
 <h3 id="libraries"> :classical_building: Libaries</h3>
 
-#### Python
+<h4 id="libraries-python"> Python</h4>
+
 *    [`codeball`](https://github.com/metrica-sports/codeball/) by [Metrica Sports](https://twitter.com/MetricaSports) - data driven tactical and video analysis of soccer games
 *    [`Football Packing`](https://github.com/samirak93/Football-packing) - a Python package to calculate packing rate for a given pass in football by Samira Kumar. This is a variation of the metric created by Impect
 *    [`kloppy`](https://github.com/PySport/kloppy) - a package for standardising tracking and event data by [Koen Vossen](https://twitter.com/mr_le_fox) and [Jan Van Haaren](https://twitter.com/JanVanHaaren). See the YouTube tutorial [[link](https://www.youtube.com/watch?v=JQbxpzNvGO8)]
@@ -837,7 +853,8 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`Tyrone Mings`](https://github.com/FCrSTATS/tyrone_mings) by [FCrSTATS](https://twitter.com/FC_rstats) - a Python [TransferMarkt](https://www.transfermarkt.co.uk/) webscraper 
 *    [`understat`](https://github.com/amosbastian/understat) by [Amos Bastian](https://github.com/amosbastian) - a asynchronous Python package for webscraper for [Understat](https://understat.com/) shooting and player meta data.
 
-#### R
+<h4 id="libraries-r"> R</h4>
+
 *    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) by [Ben Torvaney](https://twitter.com/Torvaney) - a soccer visualisation library in R
 *    [`ggshakeR`](https://github.com/abhiamishra/ggshakeR) by [Abhishek Mishra](https://twitter.com/MishraAbhiA) - an analysis and visualisation R package that works with publicly available soccer data. See the following documentation [[link](https://ggshaker.github.io/)]
 *    [`StatsBombR`](https://github.com/statsbomb/StatsBombR) - an R package to easily stream  [StatsBomb](https://statsbomb.com/) data from the API using your log in credentials or from the Open Data GitHub repository cost free into R
@@ -854,7 +871,8 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 
 <h3 id="github-repos"> GitHub Repositories</h3>
 
-#### Python
+<h4 id="github-repos-python"> Python</h4>
+
 *    [`Action-Density`](https://github.com/etmckinley/Action-Density) by [Eliot McKinley](https://twitter.com/etmckinley) - create action density plots from StatsBomb event data
 *    [`analytics-handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler) - getting started with soccer analytics
 *    [`applied-examples`](https://github.com/devinpleuler/applied-examples) by [Devin Pleuler](https://twitter.com/devinpleuler) - applied soccer analytics
@@ -987,7 +1005,8 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`...`](...) by []()
 
 
-#### R
+<h4 id="github-repos-R">R</h4>
+
 *    [`asa-shiny-app`](https://github.com/American-Soccer-Analysis/asa-shiny-appr) by [American Soccer Analysis](https://twitter.com/AnalysisEvolved) - American Soccer Analysis interactive application, built with Shiny. See the Shiny App at the following [[link](https://app.americansocceranalysis.com/)]
 *    [`betScrapeR`](https://github.com/dashee87/betScrapeR) by [David Sheehan](https://github.com/dashee87) - R package to scrape live sports betting odds
 *    [`Decomposition-of-Expected-Goal-Models`](https://github.com/mcavs/Decomposition-of-Expected-Goal-Models) by [Mustafa Çavuş](https://twitter.com/mustafa__cavus) - repository consists the supplemental materials of the paper: "Decomposition of Expected Goal Models: Aggregated SHAP Values for Analyzing Scoring Potential of Player/Team]"
@@ -1024,13 +1043,15 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`xThreatR`](https://github.com/gkrhines/xThreatR) by [Grant Rhines](https://github.com/gkrhines) - an implementation of Karun Singh's Expected Threat with R
 
 
-#### Other languages
+<h4 id="github-repos-other-languages"> Other Languages</h4>
+
 *    [`fotmob`](https://github.com/bgrnwd/fotmob) by [Brian Greenwood](https://github.com/bgrnwd) - a JS/TS wrapper around the unofficial FotMob API
 *    [`mobfot`](https://github.com/bgrnwd/mobfot) by [Brian Greenwood](https://github.com/bgrnwd) - a Python wrapper around the unofficial FotMob API
 *    [`football_manager_api`](https://github.com/whyjay17/football_manager_api) by [YJ Kim](https://github.com/whyjay17) - an unofficial API for Player Data in Football Manager
 
 
-#### None language specific
+<h4 id="github-repos-no-language-specified"> No Language Specified</h4>
+
 *    [`awesome-soccer-analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto) - a curated list of awesome resources related to Soccer Analytics
 *    [`awesome-football-analytics`](https://github.com/diegopastor/awesome-football-analytics) by [Diego Pastor](https://twitter.com/dxvgx) - a curated list of football analytics awesome resources, articles, books and more
 *    [`coordinateFC`](https://github.com/FCrSTATS/SBpitch) by [FC rSTATS](https://twitter.com/FC_rstats) - a shot at coordinating open source football analytics builders to work towards common standards with interoperability as the goal
