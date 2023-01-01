@@ -884,7 +884,7 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`baller2vec`](https://github.com/airalcorn2/baller2vec) by [Michael A. Alcorn](https://github.com/airalcorn2) - a multi-entity Transformer for multi-agent spatiotemporal modeling
 *    [`betdaq`](https://github.com/rozzac90/betdaq) by [Rory Cole](https://github.com/rozzac90) - Python wrapper for Betdaq API
 *    [`BirdsPyView`](https://github.com/rjtavares/BirdsPyView) by [Ricardo Tavares](https://twitter.com/rjtavares) - a streamlit app to convert images to top-down view and get coordinates of objects, built for football data collection
-*    [`chord-uefa-ec`](https://github.com/guyabel/chord-uefa-ec) by []() - visualising bilateral links between Euro squads and players clubs. See the accompanying blog post [[link](https://guyabel.com/post/uefa-ec-chord-diagram/)]
+*    [`chord-uefa-ec`](https://github.com/guyabel/chord-uefa-ec) by [Guy Abel](https://twitter.com/guyabelguyabel) - visualising bilateral links between Euro squads and players clubs. See the accompanying blog post [[link](https://guyabel.com/post/uefa-ec-chord-diagram/)]
 *    [`CodaBonito`](https://github.com/thecomeonman/CodaBonito) by [Aditya Kothari](https://twitter.com/thecomeonman) (The Come On Man) - functions to aid football / soccer analysis
 *    [`corner_stats`](https://github.com/hesussavas/corners_stats) by [Andrey Hesussavas](https://github.com/hesussavas) - statistical project on soccer's corners
 *    [`d3-soccer`](https://github.com/probberechts/d3-soccer) by [Pieter Robberechts](https://twitter.com/p_robberechts) - a D3 plugin for visualizing event stream soccer data
@@ -1000,9 +1000,6 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`wingback`](https://github.com/Torvaney/wingback) by [Ben Torvaney](https://twitter.com/Torvaney) - backtesting team-strength models
 *    [`wyscout-soccer-match-event-dataset`](https://github.com/koenvo/wyscout-soccer-match-event-dataset) by [Koen Vossen](https://twitter.com/mr_le_fox) - repository contains the Wyscout data described in the 'A public data set of spatio-temporal match events in soccer competitions' paper, but processed to the regular Wyscout form. In this form it can be loaded by libraries like [`kloppy`](https://github.com/PySport/kloppy)
 *    [`youtube-videos`](https://github.com/mckayjohns/youtube-videos) by [McKay Johns](https://twitter.com/mckayjohns) - code used in his YouTube Videos [[link](https://www.youtube.com/c/mckayjohns)]
-*    [`...`](...) by []()
-*    [`...`](...) by []()
-*    [`...`](...) by []()
 
 
 <h4 id="github-repos-R">R</h4>
@@ -1650,7 +1647,7 @@ Playlists created by others
 *    [Routine Inspection: Measuring Playbooks for Corner Kicks](https://www.youtube.com/watch?v=yfPC1O_g-I8) by Laurie Shaw and Sudarshan 'Suds' Gopaladsikan
 *    [A Physics Based Measurement of Defensive Contributions](https://vimeo.com/533973203) (2021) by Aditya Kothari
 *    [Enriching Event Data: A Semi-Supervised Augmentation Approach Using Location Information](https://vimeo.com/548347946) by Debangan Dey, Rahul Ghosal and Atanu Mitra
-*    [Estimating the Change in Soccer… Home Advantage During the COVID-19 Pandemic]() by Luke Benz and Mike Lopez
+*    [Estimating the Change in Soccer… Home Advantage During the COVID-19 Pandemic](https://www.researchgate.net/publication/348079029_Estimating_the_change_in_soccer's_home_advantage_during_the_Covid-19_pandemic_using_bivariate_Poisson_regression) by Luke Benz and Mike Lopez
 *    [Identifying and Evaluating Strategies for Successfully Penetrating a High Opposition Press from Short Goal Kicks, Played Inside the Box, to Move the Ball into the Opposition Half](https://vimeo.com/534032255) by Vignesh Jayanth
 *    [Pace and Power: Removing Unconscious Bias from Soccer Broadcasts](https://www.youtube.com/watch?v=PVE5_qANJCE) by Sam Gregory
 *    [Player Masks: Encoding Soccer Decision-Making Tendencies](https://www.youtube.com/watch?v=lZM5mQAFmZ4) by Devin Pleuler
