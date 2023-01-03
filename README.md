@@ -36,7 +36,7 @@ If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
 For an Excel spreadsheet version of this README to keep track of the parts you have already read/worked on, see the following Google Sheets spreadsheet kindly put together by [Melanie Loeper](https://twitter.com/mel_loeper) [[link](https://docs.google.com/spreadsheets/d/1FKk0uvKMHPFZ2p3D42f4ZqQD6Si3LIZOf2Y5mo0k4as/edit?usp=sharing)].
 
-For more information about this repository and the author, see the following article on Training Ground Guru [[link](https://trainingground.guru/articles/edd-webster-from-man-city-to-lego)] and [CV](https://eddwebster.com/downloads/EddWebsterCV.pdf. I am also available through all the following channels:
+For more information about this repository and the author, see the following article on [Training Ground Guru](https://trainingground.guru/) [[link](https://trainingground.guru/articles/edd-webster-from-man-city-to-lego)] and [CV](https://eddwebster.com/downloads/EddWebsterCV.pdf). I am also available through all the following channels:
 
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://eddwebster.com/downloads/EddWebsterCV.pdf)
 [![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.eddwebster.com/)
@@ -849,6 +849,8 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 
 <h3 id="github-repos"> GitHub Repositories</h3>
 
+The following GitHub repositories are either repos that I have found and recommend or are publicly available analytics work in the subject of football with at least 5 stars on GitHub (at the time of writing).
+
 <h4 id="github-repos-python"> Python</h4>
 
 *    [`Action-Density`](https://github.com/etmckinley/Action-Density) by [Eliot McKinley](https://twitter.com/etmckinley) - create action density plots from StatsBomb event data
@@ -856,7 +858,7 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`applied-examples`](https://github.com/devinpleuler/applied-examples) by [Devin Pleuler](https://twitter.com/devinpleuler) - applied soccer analytics
 *    [`ASA-Win-Probability-Model`](https://github.com/sharmaabhishekk/ASA-Win-Probability-Model) by [Abhishek Sharma](https://twitter.com/abhisheksh_98) - implementing ASA's Win Probability Model
 *    [`balaban`](https://github.com/anenglishgoat/balaban) by [Will Thompson](https://twitter.com/AnEnglishGoat) - a small Python package for estimating & plotting Bayesian hierarchical models for player-level football data
-*    [`Big-Data-Cup-2021`](https://github.com/bigdatacup/Big-Data-Cup-2021) by [Big Data Cup](https://github.com/bigdatacup) - Big Data Cup 2022: Powered by Stathletes. See the competition webpage [[link](https://www.stathletes.com/big-data-cup/)]
+*    [`Big-Data-Cup-2021`](https://github.com/bigdatacup/Big-Data-Cup-2021) by [Big Data Cup](https://github.com/bigdatacup) - Big Data Cup 2022: Powered by Stathletes (Hockey but lots of good tracking data analysis). See the competition webpage [[link](https://www.stathletes.com/big-data-cup/)]
 *    [`AIrsenal`](https://github.com/alan-turing-institute/AIrsenal) by the [Alan Turing Institute](https://twitter.com/turinginst) - AIrsenal is a package for using Machine learning to pick a Fantasy Premier League team.
 *    [`awesome-football`](https://github.com/openfootball/awesome-football) by [openfootball](https://github.com/openfootball) - a collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 *    [`baller2vec`](https://github.com/airalcorn2/baller2vec) by [Michael A. Alcorn](https://github.com/airalcorn2) - a multi-entity Transformer for multi-agent spatiotemporal modeling
@@ -865,6 +867,7 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`chord-uefa-ec`](https://github.com/guyabel/chord-uefa-ec) by [Guy Abel](https://twitter.com/guyabelguyabel) - visualising bilateral links between Euro squads and players clubs. See the accompanying blog post [[link](https://guyabel.com/post/uefa-ec-chord-diagram/)]
 *    [`CodaBonito`](https://github.com/thecomeonman/CodaBonito) by [Aditya Kothari](https://twitter.com/thecomeonman) (The Come On Man) - functions to aid football / soccer analysis
 *    [`corner_stats`](https://github.com/hesussavas/corners_stats) by [Andrey Hesussavas](https://github.com/hesussavas) - statistical project on soccer's corners
+*    [`DataVizTutorial`](https://github.com/shreyas7kha/DataVizTutorial) by [@shreyas7kha](https://github.com/shreyas7kha) - a tutorial on how to make dashboards using matplotlib using data from FBref and Understat
 *    [`d3-soccer`](https://github.com/probberechts/d3-soccer) by [Pieter Robberechts](https://twitter.com/p_robberechts) - a D3 plugin for visualizing event stream soccer data
 *    [`elm-soccer-tracker`](https://github.com/Torvaney/elm-soccer-tracker) by [Ben Torvaney](https://twitter.com/Torvaney) - track xy coordinates of events on a soccer pitch
 *    [`expected_goals_deep_dive`](https://github.com/andrewsimplebet/expected_goals_deep_dive) by [Andrew Puopolo](https://twitter.com/andrew_puopolo)
@@ -872,6 +875,7 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`Fantasy-Premier-League`](https://github.com/vaastav/Fantasy-Premier-League) by [Vaastav Anand](https://twitter.com/vaastav05) - creates a .csv file of all players in the English Player League with their respective team and total fantasy points
 *    [`FantasyPremierLeague.py`](https://github.com/spinach/FantasyPremierLeague.py) by [Guy Daher](https://twitter.com/guydaher) - football statistics for your mini leagues
 *    [`FBref_EPL`](https://github.com/chmartin/FBref_EPL) by [Christopher Martin](https://github.com/chmartin) - scrape player and team data from FBref (not updated since the switch from StatsBomb to StatsPerform data)
+*    [`FC-Python-Tutorials`](https://github.com/dosanjos44/FC-Python-Tutorials) by Jamie Dos Anjos ([FC Python](https://twitter.com/FC_Python)) - Collection of tutorials and resources from [FC Python](https://fcpython.com/)
 *    [`fifa-FUT-Data`](https://github.com/kafagy/fifa-FUT-Data) by [Ali Kafagy](https://github.com/kafagy) - web-scraping script that writes the data of all players from FutHead and FutBin to a CSV file or a DB
 *    [`fifa-world-cup-2022-prediction`](https://github.com/ifrankandrade/fifa-world-cup-2022-prediction) by [Frank Andrade](https://github.com/ifrankandrade)
 *    [`Friends-of-Tracking-Data-FoTD`](https://github.com/Friends-of-Tracking-Data-FoTD)
@@ -891,12 +895,15 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`Football_Prediction_Project`](https://github.com/mhaythornthwaite/Football_Prediction_Project) by [Matt Haythornthwaite](https://github.com/mhaythornthwaite) - project that will pull past game data from api-football, and use these statistics to predict the outcome of future premier league matches through machine learning
 *    [`football-predictor`](https://github.com/AndrewCarterUK/football-predictor) by [Andrew Carter](https://twitter.com/AndrewCarterUK) - using a Deep Neural Network (DNN) to predict the results of Premier League Football Matches. See the accompanying article [A Beginners Guide to Beating the Bookmakers with TensorFlow](https://andrew.carterlunn.co.uk/programming/2018/02/20/beating-the-bookmakers-with-tensorflow.html)
 *    [`football-tracking-data-from-TV-broadcast`](https://github.com/JooZef315/football-tracking-data-from-TV-broadcast) by [Mohamed Yousssef](https://github.com/JooZef315) - get football tracking data from TV broadcast using yoloV5
+*    [`Football-Visualisations`](https://github.com/casualfantasyfootballer/Football-Visualisations) by [casualfantasyfootballer](https://twitter.com/casualfantasypl) - Rrpository for program files used to produced football analysis visualisations
 *    [`fot-valuing-actions`](https://github.com/soccer-analytics-research/fot-valuing-actions) by [Jan Van Haaren](https://twitter.com/JanVanHaaren) and [Lotte Bransen](https://twitter.com/LotteBransen) - presentations and tutorials that demonstrate how to value on-the-ball actions in football, as featured on Friends of Tracking
 *    [`fpl`](https://github.com/amosbastian/fpl) by [Amos Bastian](https://twitter.com/amosbastian) - an asynchronous Python wrapper for the Fantasy Premier League API
+*    [`fpl-ai`](https://github.com/saheedniyi02/fpl-ai) by [Saheed Ayanniyi](https://twitter.com/saheedniyi_02) - a machine learning system that predicts FPL points of players
 *    [`FPLbot`](https://github.com/amosbastian/FPLbot) by [Amos Bastian](https://twitter.com/amosbastian) - a bot made for /r/FantasyPL
 *    [`FPL-Optimization-Tools`](https://github.com/sertalpbilal/FPL-Optimization-Tools) by [Sertalp B. Çay](https://twitter.com/sertalpbilal) - a collection of 
 *    [`fpl-optimiser`](https://github.com/Torvaney/fpl-optimiser) by [Ben Torvaney](https://twitter.com/Torvaney) - optimise FPL squads
 *    [`friends-of-tracking-viz-lecture`](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture) by [Peter McKeever](https://twitter.com/petermckeever) - repo to hold pdfs, notebooks, and data for the ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)
+*    [`FutbolAnalysis`](https://github.com/egudino20/FutbolAnalysis) by [Enrique Gudino De Grote](https://twitter.com/egudi_analysis) -  code [Enrique](https://twitter.com/egudi_analysis) uses to create his visuals
 *    [`google-football-pytorch`](https://github.com/TianhongDai/google-football-pytorch) by [Tianhong Dai](https://github.com/TianhongDai) - a PyTorch implementation of [`Google Research Football`](https://github.com/google-research/football)
 *    [`Google Research Football`](https://github.com/google-research/football) - an RL environment based on open-source game Gameplay Football, created by the Google Brain team for research purposes
 *    [`how-to-expected-goals`](https://github.com/JanVanHaaren/how-to-expected-goals) by [@danzn1](https://twitter.com/danzn1) by [Jan Van Haaren](https://twitter.com/JanVanHaaren) and [SciSports](https://twitter.com/SciSportsNL) - repository for a how-to on training an expected-goals model for football. See the accompany article: '[Tech how-to: build your own Expected Goals model](https://www.scisports.com/tech-how-to-build-your-own-expected-goals-model/)' abd Bitbucket repository [[link](https://bitbucket.org/scisports/ssda-how-to-expected-goals/src)]
@@ -904,7 +911,8 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`itscalledsoccer`](https://github.com/American-Soccer-Analysis/itscalledsoccer) by [American Soccer Analysis](https://twitter.com/AnalysisEvolved) - Python package that wraps the ASA API
 *    [`LaurieOnTracking`](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking) by [Laurie Shaw](https://twitter.com/EightyFivePoint) - Python code for working with Metrica tracking data
 *    [`Last-Row`](https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row) by [Ricardo Tavares](https://twitter.com/rjtavares) - Last Row tracking data and code
-*    [`matplotlib-tutorials`](https://github.com/TomDecroos/matplotsoccer) by [Son of a Corner](https://twitter.com/sonofacorner) - the Jupyter notebooks behind the [Son of a Corner](https://twitter.com/sonofacorner) matplotlib tutorials
+*    [`LearningFromThePros`](https://github.com/MattWear21/LearningFromThePros) by [Matt Wear](https://twitter.com/mattcanary21) - learning From the Pros: Extracting Professional Goalkeeper Technique from Broadcast Footage
+*    [`matplotlib-tutorials`](https://github.com/TomDecroos/matplotsoccer) by [Son of a Corner](https://twitter.com/sonofacorner) - the Jupyter notebooks behind the [Son of a Corner](https://twitter.com/sonofacorner) matplotlib tutorials [[link](https://www.sonofacorner.com/tag/tutorials/)]
 *    [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer) by [Tom Decroos](https://twitter.com/tomdecroos) - package to visualize soccer data
 *    [`MainZone`](https://github.com/AsianFootballAnalysisZone/MainZone) by [Asian Football Analysis Zone](https://twitter.com/AFA_Zone) ([Ben Griffis](https://twitter.com/BeGriffis)) - standalone code, follow-along tutorials for analysis of Asian football
 *    [`Mathematical-Modelling-of-Football-Assignments`](https://github.com/christiangilson/Mathematical-Modelling-of-Football-Assignments) by [Christian Gilson](https://twitter.com/gils89) - contains code and content output for assignments for the Uppsala University Mathematical Modelling of Football course.
@@ -917,6 +925,7 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 *    [`mpl-footy`](https://github.com/sharmaabhishekk/mpl-footy) by [Abhishek Sharma](https://twitter.com/abhisheksh_98) - gallery for typical football plots created using matplotlib. See the following website [[link](https://sharmaabhishekk.github.io/mpl-footy/)]
 *    [`octopy`](https://github.com/octosport/octopy) by [Octosport](https://twitter.com/octosport_io) - Python implementation of various soccer/football analytics methods such as Poisson goals prediction, Shin method, machine learning prediction. This is a companion python module for Octosport Medium blog [[link](https://octosport.medium.com/)]
 *    [`Optical_Player_Tracking_System_For_Soccer`](https://github.com/npranav10/Optical_Player_Tracking_System_For_Soccer) by [Pranav Nagarajan](https://twitter.com/npranav10) - a new and non-invasive method of tracking players in a soccer match
+*    [`outliers-football`](https://github.com/andrewRowlinson/outliers-football) by [Andrew Rowlinson](https://twitter.com/numberstorm) - identify young outliers in football
 *    [`Pass-Flow`](https://github.com/opengoalapp/Pass-Flow) - create animated flow velocity fields using passing data by Open Goal App
 *    [`passmaps`](https://github.com/sharmaabhishekk/passmaps) by [Abhishek Sharma](https://twitter.com/abhisheksh_98) - creating simple passmaps using Statsbomb's data
 *    [`passing-networks-in-python`](https://github.com/Friends-of-Tracking-Data-FoTD/passing-networks-in-python) by [Sergio Llana](https://twitter.com/sergiominuto90) - repository for building customisable passing networks with matplotlib, as featured on [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). The code is prepared to use both eventing (StatsBomb) and tracking data (Metrica Sports)
@@ -932,23 +941,30 @@ repository for the '[Player Chemistry: Striving for a Perfectly Balanced Soccer 
 *    [`PlayerDetection`](https://github.com/KananVyas/PlayerDetection) by [Kanan Vyas](https://twitter.com/KananVyas2) - player detection and ball detection in football matches using image processing(opencv)
 *    [`predict-soccer-ball-location`](https://github.com/anaramirli/predict-soccer-ball-location) by [Anar Amirli](https://github.com/anaramirli) - "Predicting Ball Location From Optical Tracking Data" - contains data analysis, model development and testing
 *    [`Predicting-Football-Player-Transfer-Values`](https://github.com/sanjitva/Predicting-Football-Player-Transfer-Values) by [Sanjit Varma ](https://twitter.com/sanjitva) - predicting how well players' on-field performance metrics can be used to predict their transfer values
+*    [`premier_league`](https://github.com/mattmurray/premier_league) by [Matt Murray](https://github.com/mattmurray) - data and regressions on Premier League teams from 2000-01 through to 2016-17
+*    [`PyFootballPitch`](https://github.com/znstrider/PyFootballPitch) by [@danzn1](https://twitter.com/danzn1) - functions to draw a football pitch in various available styles for matplotlib and bokeh
+*    [`pysoccer`](https://github.com/playerank/pysoccer) by [PlayeRank Sports Analytics](https://github.com/playerank) - Pysoccer offers a standardized data model designed to make data-driven soccer analytics easy. See the following documentation [[link](https://pysoccer.readthedocs.io/en/latest/)]
 *    [`python-for-fantasy-football`](https://github.com/twhelan22/python-for-fantasy-football) by [Fantasy Futopia](https://twitter.com/FantasyFutopia) ([Thomas Whelan](https://twitter.com/tom_whelan)) - supplementary materials for the [Python for Fantasy Football](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/) blog series
 *    [`quick-starter`](https://github.com/openfootball/quick-starter) by [openfootball](https://github.com/openfootball) - football.db quick starter datafile templates for [`worldcup.db`](https://github.com/openfootball/worldcup), [`euro.db`](https://github.com/openfootball/euro), [`england.db`](https://github.com/footballcsv/england), etc. - build your own football.db with the sportdb command line tool tutorials and recipes to use optimization for winning Fantasy Premier League
-*    [`research`](https://github.com/devinpleuler/research) by [Devin Pleuler](https://twitter.com/devinpleuler) -
+*    [`research`](https://github.com/devinpleuler/research) by [Devin Pleuler](https://twitter.com/devinpleuler) - see the [Reframing Post-Shot xG](https://github.com/devinpleuler/research/blob/master/reframing-post-shot-xg.md) markdown post
 *    [`rl-bot-football`](https://github.com/ChintanTrivedi/rl-bot-football) by [Chintan Trivedi](https://twitter.com/deepgamingai) - an RL agent for the Google Football environment
 *    [`scraper-whoscored`](https://github.com/joseramon-arias/scraper-whoscored) by [Ramis Lao](https://twitter.com/ramis_lao) - WhoScored Scraper
 *    [`scraping-understat-dataset`](https://github.com/douglasbc/scraping-understat-dataset) by [Douglas](https://twitter.com/douglasantifa)) - a repository with scraping code and soccer dataset from understat.com
-*    [`soccer_analytics`](https://github.com/CleKraus/soccer_analytics) by [Kraus Clemens](https://twitter.com/CleKraus) - a Python project that facilitates the starting point for analytics 
-*    [`soccer-analytics-handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler) - getting started with soccer analytics
-*    [`soccerapi`](https://github.com/S1M0N38/soccerapi) by [S1M0N38](https://github.com/S1M0N38) -  an unambitious soccer odds scraper
-*    [`SoccerNet-v3`](https://github.com/SoccerNet/SoccerNet-v3) by [SoccerNet](https://github.com/SoccerNet) - repository contains a generic dataloader for the SoccerNet-v3 annotations and data. It allows to load the images in any chosen resolution, and parses the json annotation files to retrieve the bounding boxes, lines and correspondences between bounding boxes in a ready-to-use format
-*    [`soccermix`](https://github.com/ML-KULeuven/soccermix) - a soft clustering technique based on mixture models that decomposes event stream data into a number of prototypical actions of a specific type, location, and direction by Tom Deccoos and ML-KULeuven
-*    [`sportsipy`](https://github.com/roclark/sportsipy) by [Robert Clark](https://github.com/roclark) - a free sports API written for python
-*    [`SportsBook`](https://github.com/Pringleman83/SportsBook) by [David Bristoll](https://github.com/Pringleman83) - a sports data scraping and analysis tool
+*    [`Scrape-Whoscored-Event-Data`](https://github.com/Ali-Hasan-Khan/Scrape-Whoscored-Event-Data) by [Ali Hasan Khan](https://twitter.com/rockingAli5) - get match event data from whoscored.com
+*    [`Skillcorner_Opendata_Match_Analysis`](https://github.com/znstrider/Skillcorner_Opendata_Match_Analysis) by [@danzn1](https://twitter.com/danzn1) - overview into resources for analyzing the games, working with the data and showcasing applications of the broadcast tracking data
 *    [`sn-calibration`](https://github.com/SoccerNet/sn-calibration) by [SoccerNet](https://github.com/SoccerNet) - repository containing all necessary codes to get started on the SoccerNet Camera Calibration challenge. This repository also contains benchmark methods
 *    [`sn-reid`](https://github.com/SoccerNet/sn-reid) by [SoccerNet](https://github.com/SoccerNet) - repository containing all necessary codes to get started on the SoccerNet Re-Identification challenge. This repository also contains benchmark methods
 *    [`sn-spotting`](https://github.com/SoccerNet/sn-spotting) by [SoccerNet](https://github.com/SoccerNet) - fepository containing all necessary codes to get started on the SoccerNet Action Spotting challenge. This repository also contains several benchmark methods
 *    [`sn-tracking`](https://github.com/SoccerNet/sn-tracking) by [SoccerNet](https://github.com/SoccerNet) - repository containing all necessary codes to get started on the SoccerNet Tracking challenge. This repository also contains benchmark methods to get started
+*    [`soccer_analytics`](https://github.com/CleKraus/soccer_analytics) by [Kraus Clemens](https://twitter.com/CleKraus) - a Python project that facilitates the starting point for analytics 
+*    [`soccer-analytics-handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler) - getting started with soccer analytics
+*    [`Soccer-Analyses`](https://github.com/griffisben/Soccer-Analyses) by [Ben Griffis](https://twitter.com/BeGriffis) - code to create football analytics visuals
+*    [`soccerapi`](https://github.com/S1M0N38/soccerapi) by [S1M0N38](https://github.com/S1M0N38) - an unambitious soccer odds scraper
+*    [`soccercpd`](https://github.com/pientist/soccercpd) by [Hyunsung Kim](https://github.com/pientist) - source Code for "SoccerCPD: Formation and Role Change-Point Detection in Soccer Matches Using Spatiotemporal Tracking Data"
+*    [`SoccerNet-v3`](https://github.com/SoccerNet/SoccerNet-v3) by [SoccerNet](https://github.com/SoccerNet) - repository contains a generic dataloader for the SoccerNet-v3 annotations and data. It allows to load the images in any chosen resolution, and parses the json annotation files to retrieve the bounding boxes, lines and correspondences between bounding boxes in a ready-to-use format
+*    [`soccermix`](https://github.com/ML-KULeuven/soccermix) - a soft clustering technique based on mixture models that decomposes event stream data into a number of prototypical actions of a specific type, location, and direction by Tom Deccoos and ML-KULeuven
+*    [`sportsipy`](https://github.com/roclark/sportsipy) by [Robert Clark](https://github.com/roclark) - a free sports API written for python
+*    [`SportsBook`](https://github.com/Pringleman83/SportsBook) by [David Bristoll](https://github.com/Pringleman83) - a sports data scraping and analysis tool
 *    [`sportsdataverse-py`](https://github.com/sportsdataverse/sportsdataverse-py) by [SportsDataverse](https://twitter.com/sportsdataverse) - SportsDataverse Python package
 *    [`sport`](https://github.com/SkalskiP/sport) by [Piotr Skalski](https://twitter.com/skalskip92) - examples of computer vision usage in sports
 lucpappalard) - a data-driven framework that offers a principled multi-dimensional and role-aware evaluation of the performance of soccer players
@@ -956,17 +972,18 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`soccerstan`](https://github.com/Torvaney/soccerstan) by [Ben Torvaney](https://twitter.com/Torvaney) - reproduction of football models in Stan
 *    [`SoFIFA`](https://github.com/DiogoDantas/SoFIFA) by [Diogo Dantas(https://github.com/DiogoDantas) - a SoFIFA webcrawler and Machine Learning prediction
 *    [`soccerdata`](https://github.com/llimllib/soccerdata) by [Bill Mill](https://github.com/llimllib) - a collection of soccer results
+*    [`Soccer-Players-Tracking`](https://github.com/TroddenSpade/Soccer-Players-Tracking) by [Parsa Samadnejad](https://twitter.com/troddenspade) - classifying and tracking players of a soccer exhibition based on recorded videos with different points of view
 *    [`SoccerTrack`](https://github.com/AtomScott/SoccerTrack) by [Atom Scott](https://twitter.com/atomjamesscott) - a dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
-*    [`Soccer-Analyses`](https://github.com/griffisben/Soccer-Analyses) by [Ben Griffis](https://twitter.com/BeGriffis) - code to create football analytics visuals
 *    [`soc-viz-of-the-week`](https://github.com/sonofacorner/soc-viz-of-the-week) by [Son of a Corner](https://twitter.com/sonofacorner) - viz of the week
 *    [`socplot`](https://github.com/statsbomb/socplot) by [StatsBomb](https://twitter.com/StatsBomb) - a Python package that helps you visualize StatsBomb football data
-*    [`statsbombapi`](https://github.com/Torvaney/statsbombapi) by [Ben Torvaney](https://twitter.com/Torvaney) - an extendable Statsbomb API wrapper for data-pipelines
-*    [`statsbombpy`](https://github.com/statsbomb/statsbombpy) by [StatsBomb](https://twitter.com/StatsBomb) - a Python package to easily stream StatsBomb data into Python using your log in credentials for the API or free data from our GitHub page. API access is for paying customers only
-*    [`themepy`](https://github.com/petermckeeverPerform/themepy) by [Peter McKeever](https://twitter.com/petermckeever) - an open source theme selector for matplotlib
 *    [`Soccermatics`](https://github.com/soccermatics/Soccermatics) by [David Sumpter](https://twitter.com/Soccermatics) - repo dedicated for people getting started with Python using the concepts derived from the book Soccermatics
 *    [`SoccermaticsForPython`](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython) - a template for creating a course with readthedocs.
 *    [`soccer_analytics`](https://github.com/CleKraus/soccer_analytics) by [Kraus Clemens](https://twitter.com/CleKraus) - a Python project trying to facilitate and being a starting point for analytics projects in soccer including EDA of Event data, goal kick analysis, passing analysis, xG modelling, and an introduction to Tracking data
 *    [`socceraction`](https://github.com/ML-KULeuven/socceraction) by [ML-KULeuven](https://github.com/ML-KULeuven) - convert soccer event stream data to SPADL and value player actions using VAEP or xT
+*    [`statsbombapi`](https://github.com/Torvaney/statsbombapi) by [Ben Torvaney](https://twitter.com/Torvaney) - an extendable Statsbomb API wrapper for data-pipelines
+*    [`statsbomb-messi`](https://github.com/BenjaminLarrousse/statsbomb-messi) by [Benjamin Larrousse](https://twitter.com/BLarrousse) - deep dive into Statsbomb's Messi data biography
+*    [`statsbombpy`](https://github.com/statsbomb/statsbombpy) by [StatsBomb](https://twitter.com/StatsBomb) - a Python package to easily stream StatsBomb data into Python using your log in credentials for the API or free data from our GitHub page. API access is for paying customers only
+*    [`themepy`](https://github.com/petermckeeverPerform/themepy) by [Peter McKeever](https://twitter.com/petermckeever) - an open source theme selector for matplotlib
 *    [`tracking_tagger`](https://github.com/znstrider/tracking_tagger) by [@danzn1](https://twitter.com/danzn1). See app [[[link](http://tracking-tagger.herokuapp.com/tracking_tagger)]
 *    [`transfermarkt-datasets`](https://github.com/dcaribou/transfermarkt-datasets) by [David Cereijo](https://github.com/dcaribou) - extract, prepare and publish Transfermarkt datasets from the[`transfermarkt-scraper`](https://github.com/dcaribou/transfermarkt-scraper). See the following documentation [[link](https://transfermarkt-datasets.fly.dev/)]
 *    [`transfermarkt-scraper`](https://github.com/dcaribou/transfermarkt-scraper) by [David Cereijo](https://github.com/dcaribou) - collects data from TransferMarkt. See the following documentation [[link](https://transfermarkt-datasets.fly.dev/)]
@@ -974,8 +991,12 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`xGils`](https://github.com/christiangilson/xGils) by [Christian Gilson](https://twitter.com/gils89) - xGils package by [Christian Gilson](https://twitter.com/gils89)
 *    [`understat-db`](https://github.com/Torvaney/understat-db) by [Ben Torvaney](https://twitter.com/Torvaney) - a project to scrape data from [Understat](https://understat.com/) and store it in a Postgres database
 *    [`Valuing actions in football`](https://github.com/SciSports-Labs/fot-valuing-actions) by [Lotte Bransen](https://twitter.com/LotteBransen) and [Jan Van Haaren](https://twitter.com/JanVanHaaren) of [SciSports](https://www.scisports.com/)
+*    [`wc-explorer-dash`](https://github.com/hkhare42/wc-explorer-dash) by [@hkhare42](https://github.com/hkhare42) - Dash app visualizing StatsBomb's FIFA World Cup 2018 data
+*    [`weighted_voronoi`](https://github.com/emunozto/weighted_voronoi) by [Erika Munoz](https://github.com/emunozto) - weighted Voronoi for soccer
 *    [`Whoscored`](https://github.com/brianlan/Whoscored) by [Brian Lan](https://github.com/brianlan) - scrape data from whoscored.com and draw insights from data
+*    [`whoscoredscraper`](https://github.com/canggihpw/whoscoredscraper) by [Canggih Puspo Wibowo](https://github.com/canggihpw) - Python modules to scrape football data from WhoScored
 *    [`wingback`](https://github.com/Torvaney/wingback) by [Ben Torvaney](https://twitter.com/Torvaney) - backtesting team-strength models
+*    [`wyscoutapi`](https://github.com/Torvaney/wingback) by [Ben Torvaney](https://twitter.com/Torvaney) - an API client for the Wyscout API (v2 & v3) for Python
 *    [`wyscout-soccer-match-event-dataset`](https://github.com/koenvo/wyscout-soccer-match-event-dataset) by [Koen Vossen](https://twitter.com/mr_le_fox) - repository contains the Wyscout data described in the 'A public data set of spatio-temporal match events in soccer competitions' paper, but processed to the regular Wyscout form. In this form it can be loaded by libraries like [`kloppy`](https://github.com/PySport/kloppy)
 *    [`youtube-videos`](https://github.com/mckayjohns/youtube-videos) by [McKay Johns](https://twitter.com/mckayjohns) - code used in his YouTube Videos [[link](https://www.youtube.com/c/mckayjohns)]
 
@@ -985,7 +1006,9 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`asa-shiny-app`](https://github.com/American-Soccer-Analysis/asa-shiny-appr) by [American Soccer Analysis](https://twitter.com/AnalysisEvolved) - American Soccer Analysis interactive application, built with Shiny. See the Shiny App at the following [[link](https://app.americansocceranalysis.com/)]
 *    [`betScrapeR`](https://github.com/dashee87/betScrapeR) by [David Sheehan](https://github.com/dashee87) - R package to scrape live sports betting odds
 *    [`Decomposition-of-Expected-Goal-Models`](https://github.com/mcavs/Decomposition-of-Expected-Goal-Models) by [Mustafa Çavuş](https://twitter.com/mustafa__cavus) - repository consists the supplemental materials of the paper: "Decomposition of Expected Goal Models: Aggregated SHAP Values for Analyzing Scoring Potential of Player/Team]"
+*    [`eLPAR-soccer`](https://github.com/kpelechrinis/eLPAR-soccer) by [Konstantinos Pelechrinis](https://twitter.com/kpelechrinis) - respository that includes all the code and data used for developing the expected league points above replacement for soccer as described in "Positional Value in Soccer: Expected League Points Added..."
 *    [`EPVDemo`](https://github.com/dcervone/EPVDemo) by [Dan Cervone](https://twitter.com/dcervone0) - demo of NBA Expected Possession Value model
+*    [`english-premier-league-datasets-for-10-seasons`](https://github.com/tara-nguyen/english-premier-league-datasets-for-10-seasons) by [Tara Nguyen](https://github.com/tara-nguyen) - clean datasets for 10 seasons of the English Premier League, including league tables, match stats, and head-to-head performances
 *    [`engsoccerdata`](https://github.com/jalapic/engsoccerdata) by [James Curley](https://twitter.com/jalapic/) - English and European soccer results 1871-2022
 *    [`Expected-Goals-Model`](https://github.com/KubaMichalczyk/Expected-Goals-Model) by [Kuba Michalczyk](https://twitter.com/KubaMichalczyk) - example Expected Goals (xG) model
 *    [`footBayes`](https://github.com/LeoEgidi/footBayes) by [Leonardo Egidi](https://github.com/LeoEgidi) - an R package for many football models
@@ -996,16 +1019,20 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`fcscrapR`](https://github.com/ryurko/fcscrapR) by [Ron Yurko](https://twitter.com/Stat_Ron) - package to scrape soccer commentary and statistics from ESPN
 *    [`fplscrapR`](https://github.com/wiscostret/fplscrapR) by [Rasmus Christensen](https://github.com/wiscostret) - a package that enables those interested in Fantasy Premier League to perform detailed data analysis of the game, using the FPL's JSON API. The fplscrapR functions help R users collect and parse data from the Official Fantasy Premier League website
 *    [`goalmodel`](https://github.com/opisthokonta/goalmodel) by [Jonas](https://twitter.com/opisthokonta) - package that lets you build prediction models for the number of goals scored in sport games
+*    [`moneyline-team-strengths`](https://github.com/Torvaney/moneyline-team-strengths) by [Ben Torvaney](https://twitter.com/Torvaney) - code, analysis, and data for estimating team strengths from odds data
 *    [`PassSonar`](https://github.com/etmckinley/PassSonar) by [Eliot McKinley](https://twitter.com/etmckinley) - example code to produce PassSonars from event data
 *    [`passing-networks`](https://github.com/Dato-Futbol/passing-networks) by [Dato Fútbol](https://twitter.com/DatoFutbol_cl) ([Ismael Gómez Schmidt](https://twitter.com/ismaelgomezs)) - a couple of functions to create customized passing networks with event data by Statsbomb and tracking data by Metrica Sport
 *    [`PlayerFinishingOverviewShiny`](https://github.com/harshkrishna17/PlayerFinishingOverviewShiny) by [Harsh Krishna](https://twitter.com/veryharshtakes) - a Shiny app that creates xG based finishing reports for soccer players using data from Understat. See the Shiny App at the following [[link](https://harshkrishna.shinyapps.io/PlayerFinishingOverview/)]
 *    [`regista`](https://github.com/Torvaney/regista) by [Ben Torvaney](https://twitter.com/Torvaney) - an R package for soccer modelling
 *    [`rfutbin`](https://github.com/danielredondo/rfutbin) by [Daniel Redondo Sánchez](https://twitter.com/dredondosanchez) - package to get prices, stats and more information for FIFA Ultimate Team players in Futbin
+*    [`Rteta`](https://github.com/RobWHickman/Rteta) by [Robert Hickman](https://github.com/RobWHickman) - public analytics toolbox in R
 *    [`sports_viz`](https://github.com/tonyelhabr/sports_viz) by [Tony ElHabr](https://twitter.com/TonyElHabr) - #rstats code and plots for visualisations that Tony posts on Twitter
 *    [`soccerAnimate`](https://github.com/Dato-Futbol/soccerAnimate) by [Dato Fútbol](https://twitter.com/DatoFutbol_cl) ([Ismael Gómez Schmidt](https://twitter.com/ismaelgomezs)) - R package to create 2D animations of soccer tracking data
-*    [`soccer-analytics-library`](https://github.com/larsmaurath/soccer-analytics-library) by [Lars Maurath](https://twitter.com/thesignigame) - a collection of soccer analytics research. See the Shiny App at the following [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/) 
+*    [`soccer-analytics-library`](https://github.com/larsmaurath/soccer-analytics-library) by [Lars Maurath](https://twitter.com/thesignigame) - a collection of soccer analytics research. See the Shiny App at the following [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)
+*    [`soccercolleagues`](https://github.com/matt-dray/soccercolleagues) by [Matt Dray](https://twitter.com/mattdray) - find footballers' common team mates. See the following documentation [[link](https://matt-dray.github.io/soccercolleagues/)]
 *    [`soccermatics`](https://github.com/JoGall/soccermatics) by [Joe Gallagher](https://twitter.com/joedgallagher) - tools for visualisation and analysis of soccer tracking and event data
 *    [soccer_ggplots](https://github.com/Ryo-N7/soccer_ggplots) by [Ryo Nakagawara](https://twitter.com/R_by_Ryo) - soccer/football analytics blog posts & data viz from the World Cup, Premier League, Copa America, and beyond. Using ggplot2, ggsoccer, & more
+*    [`SportsAnalytics`](https://github.com/cran-task-views/SportsAnalytics) by [CRAN Task Views](https://github.com/cran-task-views) and maintained by Benjamin Baumer, Quang Nguyen, and Gregory Matthews - a list of packages useful for sports analytics
 *    [`sportyR`](https://github.com/sportsdataverse/sportyR) by [Saiem Gilani](https://twitter.com/SaiemGilani) - package for drawing regulation playing surfaces for several sports
 *    [`SBpitch`](https://github.com/FCrSTATS/SBpitch) by [FC rSTATS](https://twitter.com/FC_rstats) - create a pitch plot ready for Statsbomb data
 *    [`statsbomb-bayesian-shooting`](https://github.com/huffyhenry/statsbomb-bayesian-shooting) by [Marek Kwiatkowski](https://twitter.com/statlurker) - Bayesian estimation of the finishing skill of football players
@@ -1023,6 +1050,9 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`fotmob`](https://github.com/bgrnwd/fotmob) by [Brian Greenwood](https://github.com/bgrnwd) - a JS/TS wrapper around the unofficial FotMob API
 *    [`mobfot`](https://github.com/bgrnwd/mobfot) by [Brian Greenwood](https://github.com/bgrnwd) - a Python wrapper around the unofficial FotMob API
 *    [`football_manager_api`](https://github.com/whyjay17/football_manager_api) by [YJ Kim](https://github.com/whyjay17) - an unofficial API for Player Data in Football Manager
+*    [`random_stuff`](https://github.com/sharmaabhishekk/random_stuff) by [Abhishek Sharma](https://twitter.com/abhisheksh_98) - a place to store and share random projects/snippets of code/vizzes by [Abhishek Sharma](https://twitter.com/abhisheksh_98)
+*    [`Statball`](https://github.com/somdeep/Statball) by [Somdeep Dey](https://github.com/somdeep) - football soccer stats analyser from top 5 european leagues with data obtained by web scraping from FBref and Statsbomb
+*    [`soccer_ha_covid2`](https://github.com/lbenz730/soccer_ha_covid) by [Luke Benz](https://twitter.com/recspecs730) - repository that contains the data and code used in a manuscript "Estimating the change in soccer's home advantage during the Covid-19 pandemic using bivariate Poisson regression", by Luke Benz and Michael Lopez
 
 
 <h4 id="github-repos-no-language-specified"> No Language Specified</h4>
@@ -1079,7 +1109,7 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library/) by [Lars Maurath](https://twitter.com/thesignigame)
 *    [Tracking Tagger](http://tracking-tagger.herokuapp.com/tracking_tagger) by [@danzn1](https://twitter.com/danzn1). See GitHub repo [[[link](https://github.com/znstrider/tracking_tagger)]
 *    [Twelve Football](https://twelve.football/)
-*    [YouTubeCoder](https://fcpythonvideocoder.netlify.app/) Event video tagging by [FC Python](https://twitter.com/fc_python)
+*    [YouTubeCoder](https://fcpythonvideocoder.netlify.app/) Event video tagging Jamie Dos Anjos ([FC Python](https://twitter.com/FC_Python))
 
 
 <a href="#table-of-contents">Back to Contents</a>
