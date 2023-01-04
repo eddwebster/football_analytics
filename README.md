@@ -1309,9 +1309,94 @@ For a Twitter thread of the football analytics blogs from 2009 an earlier, see t
 
 <h4 id="papers"> :page_with_curl: Papers</h4>
 
-Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Soccer Analytics 2021 Review](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html) and [Soccer Analytics 2020 Review](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html). All credit to him for reading a paper a week and making his reviews publicly available.
+Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Jan Van Haaren](https://twitter.com/janvanhaaren)'s Soccer Analytics Reviews ([2020](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), [2021](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html), [2022](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2022.html)). All credit to him for reading a paper a week and making his reviews publicly available and give his reviews a read through if you haven't already done so!
 
 The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
+
+See the following webpages of conference papers per year (where available):
+*    [Opta] (see talks [[link](https://gist.github.com/Torvaney/4a2aaa8ab34be50cc9293ed1a44d927e)])
+     +    [2021](https://www.statsperform.com/resource/presentations-announced-for-the-2021-pro-forum/)
+     +    [2022](https://www.statsperform.com/resource/presentations-announced-for-the-2022-pro-forum/)
+*    [MIT Sloan Sports Analytics Conference](https://www.sloansportsconference.com/)
+     +    [2014](https://www.sloansportsconference.com/conference/2014-conference#research-papers)
+     +    [2015](https://www.sloansportsconference.com/conference/2015-conference#research-papers)
+     +    [2016](https://www.sloansportsconference.com/conference/2016-conference#research-papers)
+     +    [2017](https://www.sloansportsconference.com/conference/2017-conference#research-papers)
+     +    [2018](https://www.sloansportsconference.com/conference/2018-conference#research-papers)
+     +    [2019](https://www.sloansportsconference.com/conference/2019-conference#research-papers)
+     +    [2020](https://www.sloansportsconference.com/conference/2020-conference#research-papers)
+     +    [2021](https://www.sloansportsconference.com/conference/2021-conference#research-papers)
+     +    [2022](https://www.sloansportsconference.com/conference/2022-conference#research-papers)
+*    [Machine Learning and Data Mining for Sports Analytics](https://dtai.cs.kuleuven.be/events/MLSA22/)
+     +    [2015](https://dtai.cs.kuleuven.be/events/MLSA15/schedule.php)
+     +    [2016](https://dtai.cs.kuleuven.be/events/MLSA16/schedule.php)
+     +    [2017](https://dtai.cs.kuleuven.be/events/MLSA17/schedule.php)
+     +    [2018](https://dtai.cs.kuleuven.be/events/MLSA18/schedule.php)
+     +    [2019](https://dtai.cs.kuleuven.be/events/MLSA19/schedule.php)
+     +    [2020](https://dtai.cs.kuleuven.be/events/MLSA20/schedule.php)
+     +    [2021](https://dtai.cs.kuleuven.be/events/MLSA21/schedule.php)
+     +    [2022](https://dtai.cs.kuleuven.be/events/MLSA22/schedule.php)
+*    [NESSIS](https://www.nessis.org/)
+     +    [2007](https://www.nessis.org/nessis07.html)
+     +    [2009](https://www.nessis.org/nessis09.html)
+     +    [2011](https://www.nessis.org/nessis11.html)
+     +    [2013](https://www.nessis.org/nessis13.html)
+     +    [2015](https://www.nessis.org/nessis15.html)
+     +    [2017](https://www.nessis.org/nessis17.html)
+     +    [2019](https://www.nessis.org/nessis19.html)
+     +    [2021](https://www.nessis.org/nessis21.html)
+*    [StatsBomb](https://statsbomb.com/)
+     +    [2019](https://statsbomb.com/news/statsbomb-conference-research-papers-1/)
+     +    [2021](https://statsbomb.com/news/statsbomb-conference-2021-research-papers/)
+     +    [2022](https://statsbomb.com/articles/soccer/statsbomb-conference-2022-research-papers/)
+
+
+<h5 id="2022"> 2022</h5>
+
+*    [A study of Prediction models for football player valuations by quantifying statistical and economic attributes for the global transfer market](https://www.researchgate.net/publication/336786013_A_study_of_Prediction_models_for_football_player_valuations_by_quantifying_statistical_and_economic_attributes_for_the_global_transfer_market) by Dibyanshu Patnaik, Harsh Praharaj, Kartikeya Prakash, and Krishna Samdani
+*    [Analyzing Passing Sequences for the Prediction of Goal-Scoring Opportunities](https://www.researchgate.net/publication/7570067_Analysis_of_passing_sequences_shots_and_goals_in_soccer) (2022) by Conor McCarthy, Panagiotis Tampakis, Marco Chiarandini, Morten Bredsgaard Randers, Stefan Jänicke and Arthur Zimek
+*    [Automated Detection of Complex Tactical Patterns in Football—Using Machine Learning Techniques to Identify Tactical Behavior](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/124679) (2022) by Pascal Bauer
+*    [Automatic Event Detection in Football Using Tracking Data](https://www.researchgate.net/publication/363324413_Automatic_event_detection_in_football_using_tracking_data) (2022) by Ferran Vidal-Codina, Nicolas Evans, Bahaeddine El Fakir and Johsan Billingham
+*    [A framework for the analytical and visual interpretation of complex spatiotemporal dynamics in soccer](https://www.tdx.cat/handle/10803/673529) (2022) by Javier Fernández
+*    [Estimating transfer fees of professional footballers using advanced performance metrics and machine learning](https://www.sciencedirect.com/science/article/pii/S0377221722005082) (2022) by Ian G.McHale, and Benjamin Holmes
+*    [A New Performance Metric For Player Evaluation Based On Causality](https://statsbomb.com/wp-content/uploads/2022/09/Alessandro-Crechin-A-New-Performance-Metric-For-Player-Evaluation-Based-On-Causality.pdf) (2022) by Alessandro Cecchin
+*    [Beyond action valuation: A deep reinforcement learning framework for optimizing player decisions in soccer](https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/6228f9a5ee15fc553c2452f6_Beyond%20Action%20Valuation%203.pdf) (2022) by Pegah Rahimian, Jan Van Haaren, Togzhan Abzhanova and Laszlo Toka
+*    [Contextual Expected Threat (xT) using Spatial Event Data](https://statsbomb.com/wp-content/uploads/2022/09/Gregory-Everett-et-al-%E2%80%93-Contextual-Expected-Threat-xT-using-Spatial-Event-Data.pdf) (2022) by Greg Everett, Ryan Beal, Tim Matthews, Tim Norman, Gopal Ramchurn 
+*    [Contextualised High-Intensity Running Profiles of Elite Football Players with Reference to General and Specialised Tactical Roles](https://www.researchgate.net/publication/360494871_Contextualised_high-intensity_running_profiles_of_elite_football_players_with_reference_to_general_and_specialised_tactical_roles) (2022) by Wonwoo Ju, Dominic Doran, Richard Hawkins, Mark Evans, Andy Laws and Paul Bradley
+*    [Controlling Ball Progression in Soccer](https://arxiv.org/abs/2210.16474) (2022) by Catherine Pfaff, Emily Hunter, Haozhi Hong, Daniel Forestell, Ari Fialkov, Zoey Drassinower and Timothy Chan
+*    [Detection of tactical patterns using semi-supervised graph neural networks](https://www.researchgate.net/publication/359079429_Detection_of_tactical_patterns_using_semi-supervised_graph_neural_networks) (2022) by Gabriel Anzer, Pascal Bauer, Ulf Brefeld, Dennis Faßmeyer
+*    [The Determinants of Football Transfer Market Value: An Age of Financial Restraint](https://warwick.ac.uk/fac/soc/economics/current/modules/ec331/raeprojects/0907288-ec331-a2.pdf) by Thomas Preston
+*    [Econometric Approach to Assessing the Transfer Fees and Values of Professional Football Players](https://www.mdpi.com/2227-7099/10/1/4/pdf?version=1641910565) by Raffaele Poli, Roger Besson, and Loïc Ravenel
+*    [“Estimated Player Impact” (EPI) Quantifying The Effects Of Individual Players On Football Actions Using Hierarchical Statistical Models](https://statsbomb.com/wp-content/uploads/2022/09/Tahmeed-Tureen-and-Sigrid-Olthof-%E2%80%93-Estimated-Player-Impact-EPI-Quantifying-The-Effects-Of-Individual-Players-On-Football-Actions-Using-Hierarchical-Statistical-Models.pdf) (2022) by Tahmeed Tureen and Sigrid Olthof
+*    [Evaluation of Creating Scoring Opportunities for Teammates in Soccer via Trajectory Prediction](https://dtai.cs.kuleuven.be/events/MLSA22/papers/MLSA22_paper_3803.pdf) (2022) by Masakiyo Teranishi, Kazushi Tsutsui, Kazuya Takeda and Keisuke Fujii
+*    [Evaluating Sports Analytics Models: Challenges, Approaches, and Lessons Learned](https://ceur-ws.org/Vol-3169/paper1.pdf) (2022) by Jesse Davis, Lotte Bransen, Laurens Devos, Wannes Meert, Pieter Robberechts, Jan Van Haaren and Maaike Van Roy
+*    [Expected passes](https://link.springer.com/article/10.1007/s10618-021-00810-3) (2022) by Gabriel Anzer and Pascal Bauer
+*    [Generalized Action-based Ball Recovery Model using 360° data](https://statsbomb.com/wp-content/uploads/2022/09/Ricardo-Furbino-And-Hugo-Rios-Neto-Generalized-Action-based-Ball-Recovery-Model-using-360%C2%B0-data.pdf) (2022) by Ricardo Furbino And Hugo Rios-Neto
+*    [Identification of Factors Determining Market Value of the Most Valuable Football Players](https://www.researchgate.net/publication/308647882_Identification_of_Factors_Determining_Market_Value_of_the_Most_Valuable_Football_Players) by Sebastian Majewski
+*    [Is it worth the effort? Understanding and contextualizing physical metrics in soccer](https://www.researchgate.net/publication/359757067_Is_it_worth_the_effort_Understanding_and_contextualizing_physical_metrics_in_soccer) (2022) by Sergio Llana, Borja Burriel, Pau Madrero, Javier Fernández
+*    [Let’s Penetrate the Defense: A Machine Learning Model for Prediction and Valuation of Penetrative Passes](https://dtai.cs.kuleuven.be/events/MLSA22/papers/MLSA22_paper_6278.pdf) (2022) by Pegah Rahimian, Dayana Grayce da Silva Guerra Gomes, Fanni Berkovics and Laszlo Toka
+*    [Looking Beyond the Past: Analyzing the Intrinsic Playing Style of Soccer Teams](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1025.pdf) (2022) by Jeroen Clijmans, Maaike Van Roy and Jesse Davis
+*    [A Machine Learning Ensembling Approachm to Predicting Transfer Values](https://blog.metu.edu.tr/ttemizel/files/2022/03/Player_Valuation_accepted.pdf) by Ayse Elvan Aydemir, Tugba Taskaya Temizel, and Alptekin Temizel
+*    [Machine Learning for Understanding and Predicting Injuries in Football](https://www.researchgate.net/publication/361150554_Machine_Learning_for_Understanding_and_Predicting_Injuries_in_Football) (2022) by Aritra Majumdar, Rashid Bakirov, Dan Hodges, Suzanne Scott and Tim Rees
+*    [Modelling the transfer prices of football players](http://arno.uvt.nl/show.cgi?fid=144559) by Ivo Hendriks
+*    [Multiagent off-screen behavior prediction in football](https://www.nature.com/articles/s41598-022-12547-0) (2022) by Shayegan Omidshafiei, Daniel Hennes, Marta Garnelo, Zhe Wang, Adria Recasens, Eugene Tarassov, Yi Yang, Romuald Elie, Jerome T. Connor, Paul Muller, Natalie Mackraz, Kris Cao, Pol Moreno, Pablo Sprechmann, Demis Hassabis, Ian Graham, William Spearman, Nicolas Heess & Karl Tuyls
+*    [Predicting Market Value of Football Players using Machine Learning Algorithms](https://www.researchgate.net/publication/347439782_Predicting_Market_Value_of_Football_Players_using_Machine_Learning_Algorithms) (2022) by Sidharrth Mahadevan
+*    [Predict the Value of Football Players Using FIFA Video Game Data and Machine Learning Techniques](https://ieeexplore.ieee.org/document/9721908) by Mustafa A. Al-Asadi and Sakir Tasdemır 
+*    [Predicting Market Value of Soccer Players Using Linear Modeling Techniques](https://www.stat.berkeley.edu/~aldous/Research/Ugrad/Yuan_He.pdf) by Yuan He
+*    [Reinforcement Learning For Football Player Decision Making Analysis](https://statsbomb.com/wp-content/uploads/2022/09/Michael-Pulis-and-Josef-Bajada-%E2%80%93-Reinforcement-Learning-For-Football-Player-Decision-Making-Analysis-1.pdf) (2022) by Michael Pulis and Josef Bajada
+*    [Seq2Event: Learning the Language of Soccer Using Transformer-based Match Event Prediction.](https://www.researchgate.net/publication/362689801_Seq2Event_Learning_the_Language_of_Soccer_Using_Transformer-based_Match_Event_Prediction) (2022) by Ian Simpson, Ryan Beal, Duncan Locke and Tim Norman
+*    [Shot Analysis in Different Levels of German Football Using Expected Goals](https://dtai.cs.kuleuven.be/events/MLSA22/papers/MLSA22_paper_5416.pdf) (2022) by Laurynas Raudonius and Thomas Seidl
+*    [SoccerCPD: Formation and Role Change-Point Detection in Soccer Matches Using Spatiotemporal Tracking Data](https://www.researchgate.net/publication/361481427_SoccerCPD_Formation_and_Role_Change-Point_Detection_in_Soccer_Matches_Using_Spatiotemporal_Tracking_Data) (2022) by Hyunsung Kim, Bit Kim, Dongwook Chung, Jinsung Yoon and Sang-Ki Ko
+*    [Team-Builder: Toward More Effective Lineup Selection in Soccer](https://www.researchgate.net/publication/363626804_Team-Builder_Toward_More_Effective_Lineup_Selection_in_Soccer) (2022) by Anqi Cao, Ji Lan, Xiao Xie, Hongyu Chen, Xiaolong Zhang, Hui Zhang and Yingcai Wu
+*    [Temporal Match Analysis and Recommending Substitutions in Live Soccer Games](https://ieeexplore.ieee.org/document/9885265) (2022) by Yuval Berman, Sajib Mistry, Joby Mathew and Aneesh Krishna
+*    [Towards Expected Counter - Using Comprehensible Features to Predict Counterattacks](https://dtai.cs.kuleuven.be/events/MLSA22/papers/MLSA22_paper_5592.pdf) (2022) by Henrik Rolf Biermann, Franz-Georg Wieland, Jens Timmer, Daniel Memmert and Ashwin Phatak
+*    [Transfer Portal: Accurately Forecasting the Impact of a Player Transfer in Soccer](https://arxiv.org/abs/2201.11533) (2022) by Daniel Dinsdale and Joe Gallagher
+*    [The use of player tracking data to analyze defensive play in professional soccer - A scoping review](https://www.researchgate.net/publication/358360460_The_use_of_player_tracking_data_to_analyze_defensive_play_in_professional_soccer_-_A_scoping_review) (2022) by Leander Forcher, Stefan Altmann, Leon Forcher, Darko Jekauc, and Matthias Kempe
+*    [un-xPass Measuring Soccer Player’s Creativity](https://statsbomb.com/wp-content/uploads/2022/09/Pieter-Robberechts-et-al-un-xPass-Measuring-Soccer-Players-Creativity.pdf) (2022) by Pieter Robberechts, Maaike Van Roy and Jesse Davis
+*    [The influence of tactical and match context on player movement in football](https://www.researchgate.net/publication/359071883_The_influence_of_tactical_and_match_context_on_player_movement_in_football) (2022) by Sam Gregory, Sam Robertson, Robert Aughey and Grant Duthie
+*    [Qualitative Team Formation Analysis in Football: A Case Study of the 2018 FIFA World Cup](https://www.researchgate.net/publication/361868874_Qualitative_Team_Formation_Analysis_in_Football_A_Case_Study_of_the_2018_FIFA_World_Cup) (2022) by Jasper Beernaerts, Bernard De Baets, Matthieu Lenoir and Nico Van de Weghe
+
+
 
 <h5 id="2021"> 2021</h5>
   
@@ -1321,6 +1406,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [A Copula-Based Hidden Markov Model for Classification of Tactics in Football](https://arxiv.org/pdf/2002.01193.pdf) (2021) by Marius Oetting. See accompanying NESSIS talk [[link](https://www.youtube.com/watch?v=X2m40JSS2M0)]
 *    [A Framework for the Fine-Grained Evaluation of the Instantaneous Expected Value of Soccer Possessions](https://link.springer.com/article/10.1007%2Fs10994-021-05989-6) (2021) by Javier Fernández, Luke Bornn and Daniel Cervone
 *    [A Goal Scoring Probability Model for Shots Based on Synchronized Positional and Event Data in Football (Soccer)](https://www.frontiersin.org/articles/10.3389/fspor.2021.624475/full) (2021) by Gabriel Anzer and Pascal Bauer
+*    [A novel machine learning method for estimating football players’ value in the transfer market](https://link.springer.com/article/10.1007/s00500-020-05319-3) by Iman Behravan and Seyed Mohammad Razavi 
 *    [A Poisson Betting Model with a Kelly Criterion Element for European Soccer](https://global-uploads.webflow.com/5f1af76ed86d6771ad48324b/607a445eee46ee3ac33595d3_KushalShah-PoissonBetting-RPpaper.pdf) (2021) by Kushal Shah, James Hyman and Dominic Samangy
 *    [A Risk-Reward Assessment of Passing Decisions: Comparison Between Positional Roles Using Tracking Data from Professional Men’s Soccer](https://www.tandfonline.com/doi/full/10.1080/24733938.2021.1944660) (2021) by Floris Goes, Edgar Schwarz, Marije Elferink-Gemser, Koen Lemmink and Michel Brink
 *    [Analyzing Learned Markov Decision Processes using Model Checking for Providing Tactical Advice in Professional Soccer](https://drive.google.com/file/d/1PURSuMmgLGgnydEO7EiGR-WEtLtrKYVb/view) (2021) by Maaike Van Roy, Wen-Chi Yang, Luc De Raedt and Jesse Davis
@@ -1329,6 +1415,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
 *    [Combining Machine Learning and Human Experts to Predict Match Outcomes in Football: A Baseline Model](https://arxiv.org/abs/2012.04380) (2021) by Ryan Beal, Stuart Middleton, Timothy Norman, Sarvapali Ramchurn
 *    [Data-Driven Detection of Counterpressing in Professional Football](https://link.springer.com/article/10.1007/s10618-021-00763-7) (2021) by Pascal Bauer and Gabriel Anzer
 *    [Determining the Phases of Play Using Graph Neural Network Embeddings](http://statsbomb.com/wp-content/uploads/2021/11/Juan-Camilo-Campos.pdf) (2021) by Juan Camilo Campos
+*    [Econometric Approach to Assessing the Transfer Fees and Values of Professional Football Players](https://www.researchgate.net/publication/357295862_Econometric_Approach_to_Assessing_the_Transfer_Fees_and_Values_of_Professional_Football_Players/link/61c58d36e669ee0f5c5e4332/download) (2022) by Raffaele Poli, Roger Besson, and Loïc Ravenel
 *    [Evaluating Soccer Player: from Live Camera to Deep Reinforcement Learning](https://arxiv.org/pdf/2101.05388.pdf) (2021) by Paul Garnier and [Théophane Gregoir](https://twitter.com/_TheoGreg). See the [`nayra`](https://github.com/DonsetPG/narya) library for code.
 *    [Extended Model for Expected Threat in Soccer](https://www.youtube.com/watch?v=q_OEfiCsnuo) by Jirka Poropudas
 *    [From Motor Control to Team Play in Simulated Humanoid Football](https://arxiv.org/abs/2105.12196) (2021) by Siqi Liu, Guy Lever, Zhe Wang, Josh Merel, Ali Eslami, Daniel Hennes, Wojciech Czarnecki, Yuval Tassa, Shayegan Omidshafiei, Abbas Abdolmaleki, Noah Siegel, Leonard Hasenclever, Luke Marris, Saran Tunyasuvunakool, Francis Song, Markus Wulfmeier, Paul Muller, Tuomas Haarnoja, Brendan Tracey, Karl Tuyls, Thore Graepel and Nicolas Heess
@@ -1404,6 +1491,7 @@ The following Shiny App from Lars Maurath is a great tool for looking up publica
   
 *    [Beyond crowd judgments: Data-driven estimation of market value in association football](https://www.researchgate.net/publication/316871189_Beyond_Crowd_Judgments_Data-Driven_Estimation_of_Market_Value_in_Association_Football) by [Oliver Müller](https://twitter.com/mueller_oli), Alexander Simons, and Markus Weinmann
 *    [Data-Driven	Ghosting	using	Deep	Imitation	Learning](http://www.yisongyue.com/publications/ssac2017_ghosting.pdf) (2017) by [Hoang	M. Le](https://twitter.com/HoangMinhLe),	Peter	Carr,	Yisong	Yue,	and	[Patrick	Lucey](https://twitter.com/patricklucey)
+*    [Football Player’s Performance and Market Value](https://dtai.cs.kuleuven.be/events/MLSA15/papers/mlsa15_submission_8.pdf) by Miao He, Ricardo Cachucho, and Arno Knobbe
 *    [“The Leicester City Fairytale?”: Utilizing New Soccer Analytics Tools to Compare Performance in the 15/16 & 16/17 EPL Seasons (2017)](https://userpages.umbc.edu/~nroy/courses/fall2018/cmisr/papers/soccer_analytics.pdf) by Hector Ruiz, Paul Power, Xinyu Wei, and Patrick Lucey
 *    [Physics-Based	Modeling	of Pass	Probabilities	in	Soccer](https://www.researchgate.net/publication/315166647_Physics-Based_Modeling_of_Pass_Probabilities_in_Soccer) (2017) by [Will Spearman](https://twitter.com/the_spearman), Austin Basye, Greg Dick, Ryan Hotovy, and Paul Pop
 *    [Valuing passes in football using ball event data](https://thesis.eur.nl/pub/41346/Bransen.pdf) (2017) by Lotte Bransen
@@ -2767,10 +2855,10 @@ from log files of RoboCup simulation](https://ieeexplore.ieee.org/document/65050
 
 *    [Beyond crowd judgments: Data-driven estimation of market value in association football](https://www.researchgate.net/publication/316871189_Beyond_Crowd_Judgments_Data-Driven_Estimation_of_Market_Value_in_Association_Football) by Oliver Müller, Alexander Simons, and Markus Weinmann
 *    [Football Player’s Performance and Market Value](https://dtai.cs.kuleuven.be/events/MLSA15/papers/mlsa15_submission_8.pdf) by Miao He, Ricardo Cachucho, and Arno Knobbe
-*    [A novel machine learning method for estimating football players’ value in the transfer market](https://link.springer.com/article/10.1007/s00500-020-05319-3) by Iman Behravan andSeyed Mohammad Razavi 
+*    [A novel machine learning method for estimating football players’ value in the transfer market](https://link.springer.com/article/10.1007/s00500-020-05319-3) by Iman Behravan and Seyed Mohammad Razavi 
 *    [Predicting player transfers in the small world of football](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_kovacs.pdf) by Roland Kovas and Laszlo Toka
 *    [Predicting Market Value of Football Players using Machine Learning Algorithms](https://www.researchgate.net/publication/347439782_Predicting_Market_Value_of_Football_Players_using_Machine_Learning_Algorithms) by Sidharrth Mahadevan
-*    [Estimating transfer fees of professional footballers using advanced performance metrics and machine learning](https://www.sciencedirect.com/science/article/pii/S0377221722005082) by Ian G.McHale, and Benjamin olmes
+*    [Estimating transfer fees of professional footballers using advanced performance metrics and machine learning](https://www.sciencedirect.com/science/article/pii/S0377221722005082) by Ian G.McHale, and Benjamin Holmes
 *    [Predict the Value of Football Players Using FIFA Video Game Data and Machine Learning Techniques](https://ieeexplore.ieee.org/document/9721908) by Mustafa A. Al-Asadi and Sakir Tasdemır 
 *    [Econometric Approach to Assessing the Transfer Fees and Values of Professional Football Players](https://www.mdpi.com/2227-7099/10/1/4/pdf?version=1641910565) by Raffaele Poli, Roger Besson, and Loïc Ravenel
 *    [Identification of Factors Determining Market Value of the Most Valuable Football Players](https://www.researchgate.net/publication/308647882_Identification_of_Factors_Determining_Market_Value_of_the_Most_Valuable_Football_Players) by Sebastian Majewski
