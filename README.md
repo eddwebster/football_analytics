@@ -713,6 +713,8 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 <h5 id="consultancy"> Consultancy / Service Providers</h5>
 
 *    [Analytics FC](http://analyticsfc.co.uk/)
+*    [SciSports](https://www.scisports.com/)
+*    [Twenty First Group](https://www.twentyfirstgroup.com/)
 
 <a href="#table-of-contents">Back to Contents</a>
 
@@ -749,6 +751,9 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
 *    [Football Data Visualizations - Passing Networks](https://www.dzialowski.eu/football-data-visualisations/) by [Karol Działowski](https://github.com/karlosos/) - a great blog post on how to create passing networks from first principles, using Opta Event data acquired from WhoScored. This data is then visualised using matplotlib. 
 *    [Tech how-to: build your own Expected Goals model](https://www.scisports.com/tech-how-to-build-your-own-expected-goals-model/) by [Jan Van Haaren](https://twitter.com/JanVanHaaren) and [SciSports](https://twitter.com/SciSportsNL). See the Bitbucket repository and GitHub for all code [[Bitbucket](https://bitbucket.org/scisports/ssda-how-to-expected-goals/src)] and [[GitHub](https://github.com/JanVanHaaren/how-to-expected-goals)]
 *    [`Football-Analytics-With-Python`](https://github.com/Slothfulwave612/Football-Analytics-With-Python) by [Anmol Durgapal](https://twitter.com/slothfulwave612)
+*    [Training Ground Guru](https://trainingground.guru/) Python Masterclasses:
+     +    [Introduction To Python Masterclass](https://traininggroundguru.vhx.tv/products/python-masterclass) Jamie Dos Anjos ([FC Python](https://twitter.com/FC_Python))
+     +    [Python Match Analysis Masterclass](https://traininggroundguru.vhx.tv/products/python-match-analysis-masterclass) Jamie Dos Anjos ([FC Python](https://twitter.com/FC_Python))
 
 <h4 id="tutorials-r"> R</h4>
 
@@ -764,12 +769,27 @@ Check out the [Tableau for Sports](https://t.co/f708aHmltt?amp=1) Discord server
 
 For a YouTube playlist of Tableau-football videos and tutorials that I have collated from various sources including the Tableau Football User Group, [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), and [Ninad Barbadikar](https://twitter.com/NinadB_06), see the following [[link](https://www.youtube.com/watch?v=Rx7FWugmBC4&list=PL38nJNjpNpH__B0QzZ3BA0B3AxGzt0FAl&ab_channel=TableauSoftware)].
 
-*    [Tableau Football User Group](https://usergroups.tableau.com/footballtableauusergroup) - featuring [Eva Murray](https://twitter.com/TriMyData), Oscar Hall, [James Smith](https://twitter.com/sportschord), [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), [Ravi Mistry](https://twitter.com/Scribblr_42),  Adam Cook, Hannah Roberts, [Chris Baker](https://twitter.com/chrisbaker108), Rusty Parker, Ruud van Elk, Johannes Riegger, and Sebastien Coustou
+*    [Tableau Football User Group](https://usergroups.tableau.com/footballtableauusergroup) - featuring [Eva Murray](https://twitter.com/TriMyData), Oscar Hall, [James Smith](https://twitter.com/sportschord), [Rob Carroll](https://twitter.com/thevideoanalyst), [Tom Goodall](https://twitter.com/TomG26), [Ravi Mistry](https://twitter.com/Scribblr_42),  Adam Cook, Hannah Roberts, [Chris Baker](https://twitter.com/chrisbaker108), Rusty Parker, Ruud van Elk, Johannes Riegger, and Sébastien Coustou
+     +    [March 2020, part 1](https://www.youtube.com/watch?v=Rx7FWugmBC4)
+     +    [March 2020, part 2](https://www.youtube.com/watch?v=Hy0tHU7yYHs) with [Tom Goodall](https://twitter.com/TomG26)
+     +    [May 2020](https://www.youtube.com/watch?v=7TbGdBvaK48)
+     +    [July 2020](https://www.youtube.com/watch?v=gqgU1ett9ak)
+     +    [December 2020](https://www.youtube.com/watch?v=9hDVZBzgvGI)
+     +    [Match 2021](https://www.youtube.com/watch?v=HJgOPu6NW6o)
+     +    [September 2021](https://www.youtube.com/watch?v=uZK4BTry9-k)
+     +    [November 2022](https://www.youtube.com/watch?v=x0-UR5TNO4s) with Sébastien Coustou
 *    [Tableau for Sport](https://thevideoanalyst.com/tableau-sport/) by [Rob Carroll](https://twitter.com/thevideoanalyst) - completely free tutorials for using football data in Tableau, including creating shot maps, pass maps, pass matrxces, xG race-chart timelines. See also his YouTube playlist [[link](https://www.youtube.com/playlist?list=PLchE8bhmmIxK94imJ4QZncXrbld_NGoiW)]
 *    [Tom Goodall](https://twitter.com/TomG26)'s [Tactics, Training & Tableau: Football Tableau User Group](https://www.youtube.com/watch?v=Hy0tHU7yYHs&t=1702s). Check out his Football Tableau training courses [[link](https://www.touchlineanalytics.co.uk/). Check out also as an unrolled Twitter thread, how he uses Tableau to create an opposition report for Burton vs. Gillingham on 9th January 2021 [[link](https://threadreaderapp.com/thread/1346186082510110720.html)]
+*    [Training Ground Guru Tableau Masterclass](https://traininggroundguru.vhx.tv/products/tableau-masterclass) by [Tom Goodall](https://twitter.com/TomG26)
 *    [Visually Analysing Direct Set Pieces in Football using [StatsBomb](https://statsbomb.com/)Data, R and Tableau](https://www.biztory.com/blog/visually-analysing-direct-set-pieces-in-football-using-statsbomb-data-r-and-tableau) by [James Smith](https://twitter.com/sportschord)
 *    [CJ Mayes](https://cj-mayes.com/)'s Tableau blog, with posts including how to make a [Radial Tournament Bracket](https://cj-mayes.com/2021/02/24/radial-tournament-bracket-2/), [Understat data in Tableau](https://cj-mayes.com/2021/05/07/just-starting-out-with-understat/), and [Player Metrics Pizza plots](https://cj-mayes.com/2021/07/07/player-metrics/)
-*    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06). His tutorials include: [Welcome to the Tableau Tunnel!](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48), [Improving on scatter-plots and building basic bar graphs](https://ninad06.medium.com/tableau-tunnel-2-improving-on-scatter-plots-and-building-basic-bar-graphs-67dd16a2bb35), [Player dashboards](https://ninad06.medium.com/tableau-tunnel-3-player-dashboards-c840e91c7de), [Tableau Tunnel #4 — Making Beeswarm plots](https://ninad06.medium.com/tableau-tunnel-4-making-beeswarm-plots-91b615590c31), [Creating Shot Maps, Pass Maps in Football using FC Python Video Coder for Tableau](https://www.youtube.com/watch?v=Rpzcb2lWNas&), and [Creating xG Trendlines on Tableau using moving averages](https://www.youtube.com/watch?v=srKAqXex4T4&). Check out his Twitter thread [[link](https://twitter.com/NinadB_06/status/1348738404989558787)] and his YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)]
+*    [Tableau Tunnel series](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48) by [Ninad Barbadikar](https://twitter.com/ninadb_06). Check out his Twitter thread [[link](https://twitter.com/NinadB_06/status/1348738404989558787)] and his YouTube channel [[link](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)]:
+     +    [Welcome to the Tableau Tunnel!](https://ninad06.medium.com/welcome-to-thetableau-tunnel-4cd6f564ab48)
+     +    [Improving on scatter-plots and building basic bar graphs](https://ninad06.medium.com/tableau-tunnel-2-improving-on-scatter-plots-and-building-basic-bar-graphs-67dd16a2bb35)
+     +    [Player dashboards](https://ninad06.medium.com/tableau-tunnel-3-player-dashboards-c840e91c7de)
+     +    [Tableau Tunnel #4 — Making Beeswarm plots](https://ninad06.medium.com/tableau-tunnel-4-making-beeswarm-plots-91b615590c31)
+     +    [Creating Shot Maps, Pass Maps in Football using FC Python Video Coder for Tableau](https://www.youtube.com/watch?v=Rpzcb2lWNas&)
+     +    [Creating xG Trendlines on Tableau using moving averages](https://www.youtube.com/watch?v=srKAqXex4T4&)
 *    Medium blog posts by [Sagnik Das](https://twitter.com/nandy_sd) - [Tableau Guide #1: Making Shot Maps](https://sagnikdas1.medium.com/tabguide-1-making-shot-maps-1c030f08393e), [Tableau Guide #2: Making Pass Maps](https://sagnikdas1.medium.com/tabguide-2-making-pass-maps-bad2d541b8ed), [Tableau Guide #3: Convex Hulls](https://sagnikdas1.medium.com/tableau-guide-3-convex-hulls-c7edc31a9921), [Tableau Guide #4 : Football Radars](https://sagnikdas1.medium.com/tableau-guide-4-football-radars-8cdac85ba1fc)
 *    Medium blog posts by [Rahul Iyer](https://twitter.com/exceedingxpuns) - [Guide to Creating Passing Networks in Tableau
 ](https://raahulbi103.medium.com/guide-to-creating-passing-networks-in-tableau-be8847420297), [Guide to Creating Pass Sonars in Tableau](https://raahulbi103.medium.com/guide-to-creating-pass-sonars-in-tableau-3361801d65aa), [Guide to Creating Hexagonal Shot Maps in Tableau](https://raahulbi103.medium.com/guide-to-creating-hexagonal-shot-maps-in-tableau-8293e479c217)
@@ -787,9 +807,11 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 
 *    [Futbol AnalysR](https://www.youtube.com/c/FutbolAnalysR/videos) by [Josh Trewin](https://twitter.com/joshtrewin7) - for PowerBI tutorials. Check out his website [[link](https://www.futbolanalysr.com/)]
 *    [PowerBI for Sports](https://www.youtube.com/channel/UC2H3CC6nVOLnxmniTPlSLog) by [Roberto D'Onofrio Rondón](https://twitter.com/robertodono)
+*    [Training Ground Guru PowerBI Masterclass](https://traininggroundguru.vhx.tv/products/power-bi-masterclass) by [Harriet Eastham](https://twitter.com/HarrietEastham)
 
 <h4 id="tutorials-sql"> SQL</h4>
 
+*    [Training Ground Guru SQLMasterclass](https://traininggroundguru.vhx.tv/products/sql-masterclass) by [Edd Webster](https://twitter.com/eddwebster)
 *   [SQL for Sport - Online Course](https://thevideoanalyst.com/product/sql-for-sport-online-course/) by [Rob Carroll](https://twitter.com/thevideoanalyst)
 
 <h4 id="tutorials-excel"> Excel</h4>
@@ -1128,6 +1150,8 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 Resources to aid data visualisation:
 
 #### Vizpiration
+Check out the [`vizpiration`](https://github.com/eddwebster/football_analytics/tree/master/img/vizpiration/) subfolder in the [`img`](https://github.com/eddwebster/football_analytics/tree/master/img/) folder, for examples of visualisations created by analysts in the community.
+
 *    [Son of a Corner](https://www.sonofacorner.com/tag/tutorials/)'s [Viz of the week](https://www.sonofacorner.com/tag/viz-of-the-week/). See the following GitHub repo [[link](https://github.com/sonofacorner/soc-viz-of-the-week)] for code to create these visuals
 
 #### Tutorials
@@ -1140,27 +1164,25 @@ Resources to aid data visualisation:
      +    [Beautiful Tables in matplotlib](https://www.sonofacorner.com/beautiful-tables/)
 *    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c) by [James Smith](https://twitter.com/sportschord). Download his pitch and goal templates [here](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c)
 *    [Peter McKeever](https://twitter.com/petermckeever)'s ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)] 
+*    [Football Data Visualizations - Passing Networks](https://www.dzialowski.eu/football-data-visualisations/) by [Karol Działowski](https://github.com/karlosos/) - a great blog post on how to create passing networks from first principles, using Opta Event data acquired from WhoScored. This data is then visualised using matplotlib. 
 *    [John Burn-Murdoch](https://twitter.com/jburnmurdoch)'s [Data visualisation is about words](https://www.youtube.com/watch?v=uoFN3nxeMco) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)
-*    [Peter McKeever](https://twitter.com/petermckeever)'s Twitter thread about data viz [[link](https://threadreaderapp.com/thread/1405233770375036931.html)].
-
 
 #### Repos and libraries
 *    [`ggsoccer`](https://github.com/Torvaney/ggsoccer) by [Ben Torvaney](https://twitter.com/Torvaney) - a soccer visualisation library in R
 *    [`ggshakeR`](https://github.com/abhiamishra/ggshakeR) by [Abhishek Mishra](https://twitter.com/MishraAbhiA) - an analysis and visualisation R package that works with publicly available soccer data. See the following documentation [[link](https://ggshaker.github.io/)]
 *    [`football-graphs`](https://github.com/rodmoioliveira/football-graphs) by [Rodolfo Mói](https://twitter.com/rodmoi) - Graphs and passing networks in football
 *    [`football-logos`](https://github.com/luukhopman/football-logos) by [Luuk Hopman](https://github.com/luukhopman) - all logos of teams in the top 20 European leagues. Season 2022/2023
-*    [`PyWaffle`](https://github.com/petermckeeverPerform/PyWaffle) - an open source, MIT-licensed Python package for plotting waffle charts by Peter McKeever
 *    [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer) - a Python library for visualising soccer event data by [Tom Decroos](https://twitter.com/TomDecroos)
 *    [`mplsoccer`](https://github.com/andrewRowlinson/mplsoccer) - a Python library for plotting football pitches in matplotlib by [Andrew Rowlinson](https://twitter.com/numberstorm)
 *    [`matplotlib-tutorials`](https://github.com/TomDecroos/matplotsoccer) by [Son of a Corner](https://twitter.com/sonofacorner) - the Jupyter notebooks behind the [Son of a Corner](https://twitter.com/sonofacorner) matplotlib tutorials
 *    [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer) by [Tom Decroos](https://twitter.com/tomdecroos) - package to visualize soccer data
 *    [`monderian-soccer-art`](https://github.com/devinpleuler/mondrian-soccer-art) by [Devin Pleuler](https://twitter.com/devinpleuler) - Python notebook for procedurally generating Mondrian-style soccer fields
 *    [`mpl-footy`](https://github.com/sharmaabhishekk/mpl-footy) by [Abhishek Sharma](https://twitter.com/abhisheksh_98) - gallery for typical football plots created using 
-*    [`soc-viz-of-the-week`](https://github.com/sonofacorner/soc-viz-of-the-week) by [Son of a Corner](https://twitter.com/sonofacorner) - viz of the week
+*    [`soc-viz-of-the-week`](https://github.com/sonofacorner/soc-viz-of-the-week) by [Son of a Corner](https://twitter.com/sonofacorner) - viz of the week repository
+*    [`PyWaffle`](https://github.com/petermckeeverPerform/PyWaffle) - an open source, MIT-licensed Python package for plotting waffle charts by Peter McKeever
 *    [`plottable`](https://github.com/znstrider/plottable) by [@danzn1](https://twitter.com/danzn1) - most pretty & lovely tables with matplotlib
 *    [`soccerplots`](https://github.com/Slothfulwave612/soccerplots) -  a Python package that can be used for making visualisations for football analytics by [Anmol Durgapal](https://twitter.com/slothfulwave612). Now part of the [`mplsoccer`](https://github.com/andrewRowlinson/mplsoccer) package
 *    [`youtube-videos`](https://github.com/mckayjohns/youtube-videos) by [McKay Johns](https://twitter.com/mckayjohns) - code used in his YouTube Videos [[link](https://www.youtube.com/c/mckayjohns)]
-
 
 #### Resources
 *    For club badges for the 'Big 5' European leagues and English leagues, see the [`club_badges`](https://github.com/eddwebster/football_analytics/tree/master/img/club_badges) subfolder of this GitHub repository. See also the [Club crests](https://drive.google.com/drive/folders/1R22tOjU-gjJ3QDzwUZ8JlXGjtO4O_XaJ) put together by [Ninad Barbadikar](https://twitter.com/NinadB_06) that is available for download.
@@ -1171,6 +1193,10 @@ Resources to aid data visualisation:
 *    [Team colour codes](https://teamcolorcodes.com/), for the HEX, RGB, and HSL colours of top flight football teams
 *    [Pitch templates](https://www.dropbox.com/sh/y4gg8koaedi659r/AACBw3rEIbnLp7Zi91SUtwaFa?dl=0), put together by [Tony Bambrick](https://twitter.com/TonyBambrick) (see tweet [[link](https://twitter.com/TonyBambrick/status/1382314456131198976)])
 *    [Luke Griffin](https://twitter.com/GriffinFtbl)'s pitch graphics - [slides](https://t.co/fpCa4YTIKx?amp=1). Drop him a donation of PayPal if you're using his work [[link](https://paypal.me/LukeGriffin?locale.x=en_GB)]. See original Tweet [[link](https://twitter.com/GriffinFtbl/status/1430904596843536395)]
+
+#### Tweets
+*    [Peter McKeever](https://twitter.com/petermckeever)'s Twitter thread about data viz [[link](https://threadreaderapp.com/thread/1405233770375036931.html)].
+
 
 <a href="#table-of-contents">Back to Contents</a>
 
@@ -1758,7 +1784,7 @@ Playlists created by others
 *    [How Hammarby create the mathematically perfect pressing game](https://www.youtube.com/watch?v=s6bpn3Uox7M) by David Sumpter
 *    [Hudl Presents: Performance Analysis in 2020](https://www.hudl.com/elite/events/performance-analysis-2020/watch)
 *    [Self-Supervised Representations for Tracking Data](https://player.vimeo.com/video/398489039) by Karun Singh
-*    [An American Analyst in London](https://www.youtube.com/watch?v=LA9-V6_ZIUg) at SSAC 2019 with [StatsBomb](https://statsbomb.com/)CEO [Ted Knutson](https://twitter.com/mixedknuts) and Houston Rockets GM Daryl Morey
+*    [An American Analyst in London](https://www.youtube.com/watch?v=LA9-V6_ZIUg) at SSAC 2019 with [StatsBomb](https://statsbomb.com) CEO [Ted Knutson](https://twitter.com/mixedknuts) and Houston Rockets GM Daryl Morey
 *    [Beyond the Baseline](https://www.youtube.com/watch?v=o9IjocHyBLE) by Marek Kwiatkowski
 *    [Some Things Aren't Shots](https://www.youtube.com/watch?v=5j-Ij5_3Cs8) by Thom Lawrence
 *    [Beyond Save Percentage](https://www.youtube.com/watch?v=V9_20e2ut14&t=1s) by [Derrick Yam](https://twitter.com/YAMiAM9)
@@ -2124,10 +2150,10 @@ The following includes non-football competitions.
 *    [Training Ground Guru](https://trainingground.guru/) Masterclasses:
      +    [SQL Masterclass](https://traininggroundguru.vhx.tv/products/sql-masterclass) by [Edd Webster](https://twitter.com/eddwebster)
      +    Python webinars:
-          - [Introduction To Python Masterclass](https://traininggroundguru.vhx.tv/products/python-masterclass) Jamie Dos Anjos ([FC Python](https://twitter.com/FC_Python))
-          -  [Python Match Analysis Masterclass](https://traininggroundguru.vhx.tv/products/python-match-analysis-masterclass) Jamie Dos Anjos ([FC Python](https://twitter.com/FC_Python))
+          -    [Introduction To Python Masterclass](https://traininggroundguru.vhx.tv/products/python-masterclass) Jamie Dos Anjos ([FC Python](https://twitter.com/FC_Python))
+          -    [Python Match Analysis Masterclass](https://traininggroundguru.vhx.tv/products/python-match-analysis-masterclass) Jamie Dos Anjos ([FC Python](https://twitter.com/FC_Python))
      +    [Tableau Masterclass](https://traininggroundguru.vhx.tv/products/tableau-masterclass) by [Tom Goodall](https://twitter.com/tomg26)
-     +    [Power BI Masterclass](https://traininggroundguru.vhx.tv/products/power-bi-masterclass) by [Harriet Eastham](https://twitter.com/HarrietEastham)
+     +    [PowerBI Masterclass](https://traininggroundguru.vhx.tv/products/power-bi-masterclass) by [Harriet Eastham](https://twitter.com/HarrietEastham)
      +    Big Data webinars:
           -    [2020](https://traininggroundguru.vhx.tv/products/big-data) featuring Paul Neilson, Alex Kleyn, Arjav Trivedi, Geir Jordet, Ed Sulley, Austin Fuller, Paul Power, and Devin Pleuler
           -    [2021](https://traininggroundguru.vhx.tv/products/big-data-2021) featuring Mikkel Keldmann, James Young, Jan Van Haaren, David Perdomo, Jens Melvang, Luke Bornn, and Pedro Pereira
@@ -2151,9 +2177,10 @@ The following includes non-football competitions.
 
 For live job postings tracked by the community, check the Jobs channel of the [Football in Numbers](https://discord.gg/WFdRWHK7HG) Discord server
 
+*    [Association of Professional Football Analysis](https://apfa.io/jobs/)
 *    [The Video Analyst](https://thevideoanalyst.com/jobs/) - [Rob Carroll](https://twitter.com/thevideoanalyst) posts many of the jobs going in football on his own website. Make sure to also follow him on Twitter ([@thevideoanalyst](https://twitter.com/thevideoanalyst))
 *    Job sites:
-     +    [The Football Scouts](https://www.thefootballscouts.com/live-jobs) - looks really good!
+     +    [The Football Scouts](https://www.thefootballscouts.com/live-jobs)
      +    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/)
      +    [Sports Jobs UK](https://www.sportsjobsuk.com/jobs)
      +    [Training Ground Guru Job Board](https://trainingground.guru/submit-a-job)
