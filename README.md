@@ -263,7 +263,6 @@ The contents of this GitHub repository is organised as follows:
     │   └── fig
     │
     ├── img
-    │   │  
     │   ├── club_badges
     │   ├── eddwebster
     │   ├── fig
@@ -734,12 +733,19 @@ All documentation saved locally in the [documentation](https://github.com/eddweb
      +    [Luca Pappalardo](https://twitter.com/lucpappalard?) and Paolo Cintia's step-by-step guide to exploring the Wyscout Event data - [Video 1](https://www.youtube.com/watch?v=ZXEHPKmx410) and [Video 2](https://www.youtube.com/watch?v=TCyahs5HRMM). See their paper [A public data set of spatio-temporal match events in soccer competitions](https://www.nature.com/articles/s41597-019-0247-7).
 *    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler). See tutorial notebooks (also available in Google Colab): [1. Data Extraction & Transformation](https://github.com/devinpleuler/analytics-handbook/blob/master/notebooks/data_extraction_and_transformation.ipynb), [2. Linear Regression](https://github.com/devinpleuler/analytics-handbook/blob/master/notebooks/linear_regression.ipynb), [3. Logistic Regression](https://github.com/devinpleuler/analytics-handbook/blob/master/notebooks/logistic_regression.ipynb), [4. Clustering](https://github.com/devinpleuler/analytics-handbook/blob/master/notebooks/clustering.ipynb), [5. Database Population & Querying](https://github.com/devinpleuler/analytics-handbook/blob/master/notebooks/database_population_and_querying.ipynb), [7. Data Visualization](https://github.com/devinpleuler/analytics-handbook/blob/master/notebooks/data_visualization.ipynb), [8. Non-Negative Matrix](https://github.com/devinpleuler/analytics-handbook/blob/master/notebooks/non_neg_matrix_factorization.ipynb), [9. Pitch Dominance](https://github.com/devinpleuler/analytics-handbook/blob/master/notebooks/pitch_dominance.ipynb), [10. Convolutional Neural Networks](https://github.com/devinpleuler/analytics-handbook/blob/master/notebooks/nn_pass_difficulty.ipynb)
 *    [FC Python](https://twitter.com/fc_python)'s Python tutorials [[link](https://fcpython.com/)]
-*    [Son of a Corner](https://www.sonofacorner.com/tag/tutorials/)'s matplotlib and Python tutorials [[link](https://www.sonofacorner.com/tag/tutorials/)]. If you like their work, consider supporting by signing up as a member [[link](https://www.sonofacorner.com/signup/)]
 *    DataViz, Python, and matplotlib tutorials by Peter McKeever [[link](http://petermckeever.com/)] - his website is currently in redevelopment, with many of the old tutorials not currently available (28/02/2021). Check out his revamped [How to Draw a Football Pitch](http://petermckeever.com/2020/10/how-to-draw-a-football-pitch/) tutorial
 *    [McKay Johns YouTube channel](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg)
 *    [`soccer_analytics`](https://github.com/CleKraus/soccer_analytics) by [Kraus Clemens](https://twitter.com/CleKraus) - a Python project that facilitates the starting point for analytics 
 *    [Python for Fantasy Football series](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/) by [Fantasy Futopia](https://twitter.com/FantasyFutopia) ([Thomas Whelan](https://twitter.com/tom_whelan)). This series covers the basics of working with data in Python, working with APIs and parsing [StatsBomb](https://statsbomb.com/)JSON data, scraping data using Beautifulsoup and Selenium, and Machine Learning with scikit-learn and XGBoost,  See GitHub repo for all code [[link](https://github.com/twhelan22/python-for-fantasy-football)]
-*    [Learn how to make visualisations in Python's matplotlib with football (soccer) data](https://www.sonofacorner.com/tag/tutorials/) by [Son of a Corner](https://twitter.com/sonofacorner). If you appreciate their work, consider supporting them by joining their membership program [[link](https://www.sonofacorner.com/membership-post/)]
+*    [Son of a Corner](https://www.sonofacorner.com/tag/tutorials/)'s matplotlib and Python tutorials [[link](https://www.sonofacorner.com/tag/tutorials/)]. If you like their work, consider supporting by signing up as a member [[link](https://www.sonofacorner.com/signup/)]. 
+     +    [xG Rolling Charts- a matplotlib tutorial](https://www.sonofacorner.com/xg-rolling-plots/)
+     +    [Effective Bar Charts- a matplotlib tutorial](https://www.sonofacorner.com/effective-bar-charts-a-matplotlib-tutorial/)
+     +    [Tiled Shot Maps- a matplotlib tutorial](https://www.sonofacorner.com/shot-maps-a-matplotlib-tutorial/)
+     +    [Figuring Figures Out, Part 1- a matplotlib tutorial](https://www.sonofacorner.com/figuring-figures-out-a-matplotlib-tutorial/)
+     +    [Figuring Figures Out, Part 2- a matplotlib tutorial](https://www.sonofacorner.com/figuring-figures-out/)
+     +    [Beautiful Tables - a matplotlib tutorial](https://www.sonofacorner.com/beautiful-tables/)
+     +    [An Intro to Web Scraping Efficiently - a Python tutorial](https://www.sonofacorner.com/intro-scraping-python/)
+     +    [An Introduction to Monte Carlo Simulation - a Python Tutorial](https://www.sonofacorner.com/an-introduction-to-monte-carlo/)
 *    [Football Data Visualizations - Passing Networks](https://www.dzialowski.eu/football-data-visualisations/) by [Karol Działowski](https://github.com/karlosos/) - a great blog post on how to create passing networks from first principles, using Opta Event data acquired from WhoScored. This data is then visualised using matplotlib. 
 *    [Tech how-to: build your own Expected Goals model](https://www.scisports.com/tech-how-to-build-your-own-expected-goals-model/) by [Jan Van Haaren](https://twitter.com/JanVanHaaren) and [SciSports](https://twitter.com/SciSportsNL). See the Bitbucket repository and GitHub for all code [[Bitbucket](https://bitbucket.org/scisports/ssda-how-to-expected-goals/src)] and [[GitHub](https://github.com/JanVanHaaren/how-to-expected-goals)]
 *    [`Football-Analytics-With-Python`](https://github.com/Slothfulwave612/Football-Analytics-With-Python) by [Anmol Durgapal](https://twitter.com/slothfulwave612)
@@ -1121,7 +1127,17 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 
 Resources to aid data visualisation:
 
+#### Vizpiration
+*    [Son of a Corner](https://www.sonofacorner.com/tag/tutorials/)'s [Viz of the week](https://www.sonofacorner.com/tag/viz-of-the-week/). See the following GitHub repo [[link](https://github.com/sonofacorner/soc-viz-of-the-week)] for code to create these visuals
+
 #### Tutorials
+*    [Son of a Corner](https://www.sonofacorner.com/tag/tutorials/)'s matplotlib and Python tutorials [[link](https://www.sonofacorner.com/tag/tutorials/)]. Tutorials include:
+     +    [xG Rolling Charts](https://www.sonofacorner.com/xg-rolling-plots/)
+     +    [Effective Bar Charts](https://www.sonofacorner.com/effective-bar-charts-a-matplotlib-tutorial/)
+     +    [Tiled Shot Maps](https://www.sonofacorner.com/shot-maps-a-matplotlib-tutorial/)
+     +    [Figuring Figures Out, Part 1](https://www.sonofacorner.com/figuring-figures-out-a-matplotlib-tutorial/)
+     +    [Figuring Figures Out, Part 2](https://www.sonofacorner.com/figuring-figures-out/)
+     +    [Beautiful Tables in matplotlib](https://www.sonofacorner.com/beautiful-tables/)
 *    [How to create Football Pitches/Goals as Backgrounds in Tableau](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c) by [James Smith](https://twitter.com/sportschord). Download his pitch and goal templates [here](https://medium.com/analytics-vidhya/how-to-create-football-pitches-goals-as-backgrounds-in-tableau-7b1a7800ae1c)
 *    [Peter McKeever](https://twitter.com/petermckeever)'s ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w). See the following for code [[link](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture)] 
 *    [John Burn-Murdoch](https://twitter.com/jburnmurdoch)'s [Data visualisation is about words](https://www.youtube.com/watch?v=uoFN3nxeMco) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)
@@ -1309,51 +1325,23 @@ For a Twitter thread of the football analytics blogs from 2009 an earlier, see t
 
 <h4 id="papers"> :page_with_curl: Papers</h4>
 
+See the following subfolder of this GitHub repo for PDF copies of the papers listed below [[link](https://github.com/eddwebster/football_analytics/tree/master/research/papers)].
+
 Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Jan Van Haaren](https://twitter.com/janvanhaaren)'s Soccer Analytics Reviews ([2020](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), [2021](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html), [2022](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2022.html)). All credit to him for reading a paper a week and making his reviews publicly available and give his reviews a read through if you haven't already done so!
 
 The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
 
 See the following webpages of conference papers per year (where available):
-*    [Opta] (see talks [[link](https://gist.github.com/Torvaney/4a2aaa8ab34be50cc9293ed1a44d927e)])
-     +    [2021](https://www.statsperform.com/resource/presentations-announced-for-the-2021-pro-forum/)
-     +    [2022](https://www.statsperform.com/resource/presentations-announced-for-the-2022-pro-forum/)
-*    [MIT Sloan Sports Analytics Conference](https://www.sloansportsconference.com/)
-     +    [2014](https://www.sloansportsconference.com/conference/2014-conference#research-papers)
-     +    [2015](https://www.sloansportsconference.com/conference/2015-conference#research-papers)
-     +    [2016](https://www.sloansportsconference.com/conference/2016-conference#research-papers)
-     +    [2017](https://www.sloansportsconference.com/conference/2017-conference#research-papers)
-     +    [2018](https://www.sloansportsconference.com/conference/2018-conference#research-papers)
-     +    [2019](https://www.sloansportsconference.com/conference/2019-conference#research-papers)
-     +    [2020](https://www.sloansportsconference.com/conference/2020-conference#research-papers)
-     +    [2021](https://www.sloansportsconference.com/conference/2021-conference#research-papers)
-     +    [2022](https://www.sloansportsconference.com/conference/2022-conference#research-papers)
-*    [Machine Learning and Data Mining for Sports Analytics](https://dtai.cs.kuleuven.be/events/MLSA22/)
-     +    [2015](https://dtai.cs.kuleuven.be/events/MLSA15/schedule.php)
-     +    [2016](https://dtai.cs.kuleuven.be/events/MLSA16/schedule.php)
-     +    [2017](https://dtai.cs.kuleuven.be/events/MLSA17/schedule.php)
-     +    [2018](https://dtai.cs.kuleuven.be/events/MLSA18/schedule.php)
-     +    [2019](https://dtai.cs.kuleuven.be/events/MLSA19/schedule.php)
-     +    [2020](https://dtai.cs.kuleuven.be/events/MLSA20/schedule.php)
-     +    [2021](https://dtai.cs.kuleuven.be/events/MLSA21/schedule.php)
-     +    [2022](https://dtai.cs.kuleuven.be/events/MLSA22/schedule.php)
-*    [NESSIS](https://www.nessis.org/)
-     +    [2007](https://www.nessis.org/nessis07.html)
-     +    [2009](https://www.nessis.org/nessis09.html)
-     +    [2011](https://www.nessis.org/nessis11.html)
-     +    [2013](https://www.nessis.org/nessis13.html)
-     +    [2015](https://www.nessis.org/nessis15.html)
-     +    [2017](https://www.nessis.org/nessis17.html)
-     +    [2019](https://www.nessis.org/nessis19.html)
-     +    [2021](https://www.nessis.org/nessis21.html)
-*    [StatsBomb](https://statsbomb.com/)
-     +    [2019](https://statsbomb.com/news/statsbomb-conference-research-papers-1/)
-     +    [2021](https://statsbomb.com/news/statsbomb-conference-2021-research-papers/)
-     +    [2022](https://statsbomb.com/articles/soccer/statsbomb-conference-2022-research-papers/)
+*    [Opta](https://www.statsperform.com/) (see talks [[link](https://gist.github.com/Torvaney/4a2aaa8ab34be50cc9293ed1a44d927e)]) - [2021](https://www.statsperform.com/resource/presentations-announced-for-the-2021-pro-forum/), [2022](https://www.statsperform.com/resource/presentations-announced-for-the-2022-pro-forum/)
+*    [MIT Sloan Sports Analytics Conference](https://www.sloansportsconference.com/) - [2014](https://www.sloansportsconference.com/conference/2014-conference#research-papers), [2015](https://www.sloansportsconference.com/conference/2015-conference#research-papers), [2016](https://www.sloansportsconference.com/conference/2016-conference#research-papers), [2017](https://www.sloansportsconference.com/conference/2017-conference#research-papers), [2018](https://www.sloansportsconference.com/conference/2018-conference#research-papers), [2019](https://www.sloansportsconference.com/conference/2019-conference#research-papers), [2020](https://www.sloansportsconference.com/conference/2020-conference#research-paper), [2021](https://www.sloansportsconference.com/conference/2021-conference#research-papers), [2022](https://www.sloansportsconference.com/conference/2022-conference#research-papers)
+*    [Machine Learning and Data Mining for Sports Analytics](https://dtai.cs.kuleuven.be/events/MLSA22/) - [2015](https://dtai.cs.kuleuven.be/events/MLSA15/schedule.php), [2016](https://dtai.cs.kuleuven.be/events/MLSA16/schedule.php), [2017](https://dtai.cs.kuleuven.be/events/MLSA17/schedule.php), [2018](https://dtai.cs.kuleuven.be/events/MLSA18/schedule.php), [2019](https://dtai.cs.kuleuven.be/events/MLSA19/schedule.php), [2020](https://dtai.cs.kuleuven.be/events/MLSA20/schedule.php), [2021](https://dtai.cs.kuleuven.be/events/MLSA21/schedule.php), [2022](https://dtai.cs.kuleuven.be/events/MLSA22/schedule.php)
+*    [NESSIS](https://www.nessis.org/) - [2007](https://www.nessis.org/nessis07.html), [2009](https://www.nessis.org/nessis09.html), [2011](https://www.nessis.org/nessis11.html), [2013](https://www.nessis.org/nessis13.html), [2015](https://www.nessis.org/nessis15.html), [2017](https://www.nessis.org/nessis17.html), [2019](https://www.nessis.org/nessis19.html), [2021](https://www.nessis.org/nessis21.html)
+*    [StatsBomb](https://statsbomb.com/) - [2019](https://statsbomb.com/news/statsbomb-conference-research-papers-1/), [2021](https://statsbomb.com/news/statsbomb-conference-2021-research-papers/), [2022](https://statsbomb.com/articles/soccer/statsbomb-conference-2022-research-papers/)
 
 
 <h5 id="2022"> 2022</h5>
 
-*    [A study of Prediction models for football player valuations by quantifying statistical and economic attributes for the global transfer market](https://www.researchgate.net/publication/336786013_A_study_of_Prediction_models_for_football_player_valuations_by_quantifying_statistical_and_economic_attributes_for_the_global_transfer_market) by Dibyanshu Patnaik, Harsh Praharaj, Kartikeya Prakash, and Krishna Samdani
+*    [A study of Prediction models for football player valuations by quantifying statistical and economic attributes for the global transfer market](https://www.researchgate.net/publication/336786013_A_study_of_Prediction_models_for_football_player_valuations_by_quantifying_statistical_and_economic_attributes_for_the_global_transfer_market) (2022) by Dibyanshu Patnaik, Harsh Praharaj, Kartikeya Prakash, and Krishna Samdani
 *    [Analyzing Passing Sequences for the Prediction of Goal-Scoring Opportunities](https://www.researchgate.net/publication/7570067_Analysis_of_passing_sequences_shots_and_goals_in_soccer) (2022) by Conor McCarthy, Panagiotis Tampakis, Marco Chiarandini, Morten Bredsgaard Randers, Stefan Jänicke and Arthur Zimek
 *    [Automated Detection of Complex Tactical Patterns in Football—Using Machine Learning Techniques to Identify Tactical Behavior](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/124679) (2022) by Pascal Bauer
 *    [Automatic Event Detection in Football Using Tracking Data](https://www.researchgate.net/publication/363324413_Automatic_event_detection_in_football_using_tracking_data) (2022) by Ferran Vidal-Codina, Nicolas Evans, Bahaeddine El Fakir and Johsan Billingham
@@ -1373,17 +1361,20 @@ See the following webpages of conference papers per year (where available):
 *    [Expected passes](https://link.springer.com/article/10.1007/s10618-021-00810-3) (2022) by Gabriel Anzer and Pascal Bauer
 *    [Generalized Action-based Ball Recovery Model using 360° data](https://statsbomb.com/wp-content/uploads/2022/09/Ricardo-Furbino-And-Hugo-Rios-Neto-Generalized-Action-based-Ball-Recovery-Model-using-360%C2%B0-data.pdf) (2022) by Ricardo Furbino And Hugo Rios-Neto
 *    [Identification of Factors Determining Market Value of the Most Valuable Football Players](https://www.researchgate.net/publication/308647882_Identification_of_Factors_Determining_Market_Value_of_the_Most_Valuable_Football_Players) by Sebastian Majewski
+*    [The influence of tactical and match context on player movement in football](https://www.researchgate.net/publication/359071883_The_influence_of_tactical_and_match_context_on_player_movement_in_football) (2022) by Sam Gregory, Sam Robertson, Robert Aughey and Grant Duthie
+
 *    [Is it worth the effort? Understanding and contextualizing physical metrics in soccer](https://www.researchgate.net/publication/359757067_Is_it_worth_the_effort_Understanding_and_contextualizing_physical_metrics_in_soccer) (2022) by Sergio Llana, Borja Burriel, Pau Madrero, Javier Fernández
 *    [Let’s Penetrate the Defense: A Machine Learning Model for Prediction and Valuation of Penetrative Passes](https://dtai.cs.kuleuven.be/events/MLSA22/papers/MLSA22_paper_6278.pdf) (2022) by Pegah Rahimian, Dayana Grayce da Silva Guerra Gomes, Fanni Berkovics and Laszlo Toka
 *    [Looking Beyond the Past: Analyzing the Intrinsic Playing Style of Soccer Teams](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1025.pdf) (2022) by Jeroen Clijmans, Maaike Van Roy and Jesse Davis
 *    [A Machine Learning Ensembling Approachm to Predicting Transfer Values](https://blog.metu.edu.tr/ttemizel/files/2022/03/Player_Valuation_accepted.pdf) by Ayse Elvan Aydemir, Tugba Taskaya Temizel, and Alptekin Temizel
 *    [Machine Learning for Understanding and Predicting Injuries in Football](https://www.researchgate.net/publication/361150554_Machine_Learning_for_Understanding_and_Predicting_Injuries_in_Football) (2022) by Aritra Majumdar, Rashid Bakirov, Dan Hodges, Suzanne Scott and Tim Rees
 *    [Modelling the transfer prices of football players](http://arno.uvt.nl/show.cgi?fid=144559) by Ivo Hendriks
-*    [Multiagent off-screen behavior prediction in football](https://www.nature.com/articles/s41598-022-12547-0) (2022) by Shayegan Omidshafiei, Daniel Hennes, Marta Garnelo, Zhe Wang, Adria Recasens, Eugene Tarassov, Yi Yang, Romuald Elie, Jerome T. Connor, Paul Muller, Natalie Mackraz, Kris Cao, Pol Moreno, Pablo Sprechmann, Demis Hassabis, Ian Graham, William Spearman, Nicolas Heess & Karl Tuyls
+*    [Multiagent off-screen behavior prediction in football](https://www.nature.com/articles/s41598-022-12547-0) (2022) by Shayegan Omidshafiei, Daniel Hennes, Marta Garnelo, Zhe Wang, Adria Recasens, Eugene Tarassov, Yi Yang, Romuald Elie, Jerome T. Connor, Paul Muller, Natalie Mackraz, Kris Cao, Pol Moreno, Pablo Sprechmann, Demis Hassabis, Ian Graham, William Spearman, Nicolas Heess, and Karl Tuyls
 *    [Predicting Market Value of Football Players using Machine Learning Algorithms](https://www.researchgate.net/publication/347439782_Predicting_Market_Value_of_Football_Players_using_Machine_Learning_Algorithms) (2022) by Sidharrth Mahadevan
 *    [Predict the Value of Football Players Using FIFA Video Game Data and Machine Learning Techniques](https://ieeexplore.ieee.org/document/9721908) by Mustafa A. Al-Asadi and Sakir Tasdemır 
 *    [Predicting Market Value of Soccer Players Using Linear Modeling Techniques](https://www.stat.berkeley.edu/~aldous/Research/Ugrad/Yuan_He.pdf) by Yuan He
 *    [Reinforcement Learning For Football Player Decision Making Analysis](https://statsbomb.com/wp-content/uploads/2022/09/Michael-Pulis-and-Josef-Bajada-%E2%80%93-Reinforcement-Learning-For-Football-Player-Decision-Making-Analysis-1.pdf) (2022) by Michael Pulis and Josef Bajada
+*    [Qualitative Team Formation Analysis in Football: A Case Study of the 2018 FIFA World Cup](https://www.researchgate.net/publication/361868874_Qualitative_Team_Formation_Analysis_in_Football_A_Case_Study_of_the_2018_FIFA_World_Cup) (2022) by Jasper Beernaerts, Bernard De Baets, Matthieu Lenoir and Nico Van de Weghe
 *    [Seq2Event: Learning the Language of Soccer Using Transformer-based Match Event Prediction.](https://www.researchgate.net/publication/362689801_Seq2Event_Learning_the_Language_of_Soccer_Using_Transformer-based_Match_Event_Prediction) (2022) by Ian Simpson, Ryan Beal, Duncan Locke and Tim Norman
 *    [Shot Analysis in Different Levels of German Football Using Expected Goals](https://dtai.cs.kuleuven.be/events/MLSA22/papers/MLSA22_paper_5416.pdf) (2022) by Laurynas Raudonius and Thomas Seidl
 *    [SoccerCPD: Formation and Role Change-Point Detection in Soccer Matches Using Spatiotemporal Tracking Data](https://www.researchgate.net/publication/361481427_SoccerCPD_Formation_and_Role_Change-Point_Detection_in_Soccer_Matches_Using_Spatiotemporal_Tracking_Data) (2022) by Hyunsung Kim, Bit Kim, Dongwook Chung, Jinsung Yoon and Sang-Ki Ko
@@ -1393,9 +1384,6 @@ See the following webpages of conference papers per year (where available):
 *    [Transfer Portal: Accurately Forecasting the Impact of a Player Transfer in Soccer](https://arxiv.org/abs/2201.11533) (2022) by Daniel Dinsdale and Joe Gallagher
 *    [The use of player tracking data to analyze defensive play in professional soccer - A scoping review](https://www.researchgate.net/publication/358360460_The_use_of_player_tracking_data_to_analyze_defensive_play_in_professional_soccer_-_A_scoping_review) (2022) by Leander Forcher, Stefan Altmann, Leon Forcher, Darko Jekauc, and Matthias Kempe
 *    [un-xPass Measuring Soccer Player’s Creativity](https://statsbomb.com/wp-content/uploads/2022/09/Pieter-Robberechts-et-al-un-xPass-Measuring-Soccer-Players-Creativity.pdf) (2022) by Pieter Robberechts, Maaike Van Roy and Jesse Davis
-*    [The influence of tactical and match context on player movement in football](https://www.researchgate.net/publication/359071883_The_influence_of_tactical_and_match_context_on_player_movement_in_football) (2022) by Sam Gregory, Sam Robertson, Robert Aughey and Grant Duthie
-*    [Qualitative Team Formation Analysis in Football: A Case Study of the 2018 FIFA World Cup](https://www.researchgate.net/publication/361868874_Qualitative_Team_Formation_Analysis_in_Football_A_Case_Study_of_the_2018_FIFA_World_Cup) (2022) by Jasper Beernaerts, Bernard De Baets, Matthieu Lenoir and Nico Van de Weghe
-
 
 
 <h5 id="2021"> 2021</h5>
@@ -1477,7 +1465,7 @@ See the following webpages of conference papers per year (where available):
 *    [Modelling the Collective Movement of Football Players](http://uu.diva-portal.org/smash/get/diva2:1365788/FULLTEXT01.pdf) (2019) by [Fran Peralta](https://twitter.com/PeraltaFran23)
 *    [Player Vectors: Characterizing Soccer Players’ Playing Style from Match Event Streams](https://tomdecroos.github.io/reports/ecml19_tomd.pdf) (2019) by [Tom Decroos](https://twitter.com/TomDecroos) and [Jesse Davis](https://twitter.com/jessejdavis1).
   
-<h4 id="2018"> 2018</h4>
+<h5 id="2018"> 2018</h5>
   
 *    [Beyond Expected Goals](https://www.researchgate.net/profile/William_Spearman/publication/327139841_Beyond_Expected_Goals/links/5b7c3023a6fdcc5f8b5932f7/Beyond-Expected-Goals.pdf) (2018) by [Will Spearman](https://twitter.com/the_spearman)
 *    [Chance involvement in goal scoring in football](https://link.springer.com/article/10.1007%2Fs12662-018-0518-z#citeas) (2018) by Martin Lames
@@ -1549,6 +1537,7 @@ See the following webpages of conference papers per year (where available):
 *    [Looks Good on Paper](https://looksgoodonpaper.substack.com/) by [Felix Pate](https://twitter.com/lgopfelix)
 *    [Measureables](https://www.measurablespod.com/newsletter) by [Brendan Kent](https://twitter.com/brendankent)
 *    [No Grass in the Clouds](https://nograssintheclouds.substack.com/) by [Ryan O'Hanlon](https://twitter.com/rwohan)
+*    [Post Script Pod](https://postscriptpod.substack.com/) by [Tiotal Football](https://twitter.com/TiotalFootball) and [John Muller](https://twitter.com/johnspacemuller)
 *    [Soccer Analytics Newsletter](https://socceranalytics.substack.com/)
 *    [space space space](https://spacespacespaceletter.com/author/johnmuller/) by [John Muller](https://twitter.com/johnspacemuller) (this newsletter has now finished but catch John's work as a Senior Writer for The Athletic [[link](https://theathletic.com/author/john-muller/)]
 *    [Stats Perform](https://www.statsperform.com/)
@@ -1569,7 +1558,7 @@ See the following webpages of conference papers per year (where available):
 *    [Premier League club Manchester City hire astrophysicists](https://en.as.com/en/2021/03/24/opinion/1616586679_570100.html) (24/03/2021) by Alfredo Relaño for AS
 *    [Manchester City will have astrophysicists in their ranks](https://www.marca.com/en/football/premier-league/2021/03/23/6059e09622601da60e8b459c.html) in Marca
 *    [It IS rocket science! Manchester City hire astrophysicists to their data analysis team in bid to move Premier League leaders further ahead of their rivals](https://www.dailymail.co.uk/sport/football/article-9390675/It-rocket-science-Manchester-City-hire-multiple-astrophysicists-zoom-ahead-rivals.html) by Jack Gaughan (22/03/2021) for The Daily Mail
-*    [Liverpool sign up for [StatsBomb](https://statsbomb.com/)360: Ted Knutson explains why this stats revolution will change the game](https://www.skysports.com/football/news/11669/12248621/liverpool-sign-up-for-statsbomb-360-ted-knutson-explains-why-this-stats-revolution-will-change-the-game) (18/03/2021) by Adam Bate for Sky Sports News
+*    [Liverpool sign up for [StatsBomb](https://statsbomb.com/) 360: Ted Knutson explains why this stats revolution will change the game](https://www.skysports.com/football/news/11669/12248621/liverpool-sign-up-for-statsbomb-360-ted-knutson-explains-why-this-stats-revolution-will-change-the-game) (18/03/2021) by Adam Bate for Sky Sports News
 *    [Data experts are becoming football's best signings](https://www.bbc.co.uk/news/business-56164159) (05/03/2021) by Justin Harper for BBC News
 *    [How a Celtic blogger nurtured by Brendan Rodgers is now lifting Leicester City](https://www.thetimes.co.uk/article/how-a-celtic-blogger-nurtured-by-brendan-rodgers-is-now-lifting-leicester-city-9hhchpnfp) (27/02/2021) by Tom Roddy for The Times
 *    [17-Year-Old Man Lands Dream Job Of Getting Paid To Watch Football All Day](https://www.sportbible.com/football/news-17-year-old-man-lands-dream-job-of-getting-paid-to-watch-football-20210204) by Adnan Riaz for Sport Bible
@@ -1822,7 +1811,7 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 *    [Expected Value](https://open.spotify.com/show/5xFeWbaaLFepY5n73SfWwr)
 *    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU) with [Mike Lewis](https://twitter.com/FanalyticsMike)
 *    [First Time Finish Podcast](https://open.spotify.com/show/0qYuP8igBfNgTVvgmNvEgP) with Tom Underhill, Bence Bocsak, and [Ninad Barbadikar](https://twitter.com/ninadb_06)
-*    [The Football Fanalytics Podacst](https://open.spotify.com/show/6JwWRPMaHfGicFBtl7nI3V?si=IwQ00tyTRPaBcW-0XLwS4w&nd=1)
+*    [The Football Fanalytics Podcast](https://open.spotify.com/show/6JwWRPMaHfGicFBtl7nI3V?si=IwQ00tyTRPaBcW-0XLwS4w&nd=1)
 *    [Football Today](https://open.spotify.com/show/1WRaXZgVlksph0IjsTNBaG?si=0zyUX59sTKqCRnq92SEylQ&nd=1)
 *    [Laptop Gurus](https://open.spotify.com/show/3sPI2CtmRJeaShdqNjrGRH?si=1NRk7exnRWaNbqbDO0B72w)
 *    [Looks Good on Paper podcast](https://open.spotify.com/show/7iJoF537QKPgDgQe7bblV2?si=QwiAfM2ZS0-Z4M74RESiKQ&nd=1) by [Felix Pate](https://twitter.com/lgopfelix)
@@ -1830,6 +1819,7 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 *    [MRKT Insights](https://open.spotify.com/show/3q32QkmAXwth5VJwU8uzWt?si=8_vyLb6WQd2wTJt5MxdBoA) with [Tim Keech](https://twitter.com/SBunching), [Ram Srinivas](https://twitter.com/rramesss), [Matt Lawrence](https://twitter.com/PannasNutmegs), [Kevin Elphick](https://twitter.com/SwansAnalytics), and [Andy McGregor](https://twitter.com/elpivoteftbl). Formally  [Jay Socik](https://twitter.com/Blades_analytic)
 *    [Open Source Sports](https://open.spotify.com/show/3vTtH2JJXbjrzOtEfjrqc4?si=HqpAZAmRTkGFwurl965thA) with [Ron Yurko](https://twitter.com/Stat_Ron)
 *    [A Podcast About Tactics](https://open.spotify.com/show/6IvAaBltRU28GG4MYvPCuz?si=eeb0880dc8e64ae3) by [Jon Mackenzie](https://twitter.com/Jon_Mackenzie)
+*    [Post Script Podcast](https://open.spotify.com/show/6VSsG74juPVvwEdUmMYXp2) by [Tiotal Football](https://twitter.com/TiotalFootball) and [John Muller](https://twitter.com/johnspacemuller)
 *    [The Price of Football Podcast](https://open.spotify.com/show/7c7ltYVwnicbVz0uYTXAW5?si=RKAejr9oQTu6xpJQc4QscQ) with [Kieran Maguire](https://twitter.com/KieranMaguire) and [Kevin Hunter Day](https://twitter.com/KevinHunterDay). Check out the [The Price of Football](https://www.amazon.co.uk/Price-Football-SECOND-Understanding-Finance/dp/1788213262/ref=sr_1_1?dchild=1&keywords=the+price+of+football&qid=1622504446&sr=8-1) book by [Kieran Maguire](https://twitter.com/KieranMaguire).
 *    [The Scouted Football Podcast](https://open.spotify.com/show/4qYVKC8RlHCJrwrRCx0w6H?si=M6xgCGtdTjiy0wEl1e2CJw)
 *    [smarterscout: The Why in Analytics](https://open.spotify.com/show/2QP4KXajJ5xOfW1ny78nAf?si=NQAf_4XtSFeQXAZi1bbupQ) by Dan Altman
