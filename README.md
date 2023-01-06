@@ -2695,11 +2695,46 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 *    [Using [StatsBomb](https://statsbomb.com/)IQ For Player Recruitment: Centre Backs](https://statsbomb.com/2021/06/using-statsbomb-iq-for-player-recruitment-centre-backs/) by [StatsBomb](https://statsbomb.com/) (05/06/2021)
 *    [Recruitment & Analysis at Melborne City: Optimising Key Processes using Data and Technology](https://www.statsperform.com/resource/recruitment-analysis-at-melbourne-city-optimising-key-processes-using-data-and-technology/) by [Andy Cooper](https://twitter.com/andycoops83) for [Stats Perform](https://www.statsperform.com/)
 *    Season Analysis & Summer Recruitment pieces
-     +    [Blackburn Rovers Season Analysis & Summer 2020 Recruitment](https://www.yumpu.com/en/document/read/65654151/blackburn-rovers-season-analysis-recruitment-2021) by [Andy Watson](https://twitter.com/andywatsonsport) (see tweet [[link](https://twitter.com/andywatsonsport/status/1396750915600896000)]
-     +    [Motherwell  Summer 2021 Recruitment Plan](https://www.yumpu.com/en/document/view/65752786/motherwell-fc-summer-2021-recruitment) by [Greg Marshall](https://mobile.twitter.com/gregthewellfan) (see tweet [[link](https://mobile.twitter.com/gregthewellfan/status/1412059735516401664)]
-     +    [Nottingham Forest Recruitment Plan Summer 2021](https://www.yumpu.com/en/document/read/65744237/nottingham-forest-recruitment-plan-summer-2021) by [Liam Henshaw](https://twitter.com/HenshawAnalysis) (see tweet [[link](https://twitter.com/HenshawAnalysis/status/1410138535026327555)]
-     +    [Sheffield Wednesday Recruitment Plan for the 21/22 season](https://www.yumpu.com/en/document/view/65772154/swfc-recruitment-plan-2122) by [Owls Analytics](https://twitter.com/AnalyticsOwls) (see tweet [[link](https://twitter.com/AnalyticsOwls/status/1416080185628233732)]
-     +    [Celtic F.C. Opposition Report](https://www.linkedin.com/posts/liam-bailey-252760152_celtic-fc-data-report-ugcPost-6859822891979153408-kryT) by [Liam Bailey](https://twitter.com/BarcaByNumbers)
+     +    20/21:
+          -    [Blackburn Rovers Season Analysis & Summer 2020 Recruitment](https://www.yumpu.com/en/document/read/65654151/blackburn-rovers-season-analysis-recruitment-2021) by [Andy Watson](https://twitter.com/andywatsonsport) (see tweet [[link](https://twitter.com/andywatsonsport/status/1396750915600896000)]
+     +    21/22:
+          -    [Motherwell  Summer 2021 Recruitment Plan](https://www.yumpu.com/en/document/view/65752786/motherwell-fc-summer-2021-recruitment) by [Greg Marshall](https://mobile.twitter.com/gregthewellfan) (see tweet [[link](https://mobile.twitter.com/gregthewellfan/status/1412059735516401664)]
+          -    [Nottingham Forest Recruitment Plan Summer 2021](https://www.yumpu.com/en/document/read/65744237/nottingham-forest-recruitment-plan-summer-2021) by [Liam Henshaw](https://twitter.com/HenshawAnalysis) (see tweet [[link](https://twitter.com/HenshawAnalysis/status/1410138535026327555)]
+          -    [Sheffield Wednesday Recruitment Plan for the 21/22 season](https://www.yumpu.com/en/document/view/65772154/swfc-recruitment-plan-2122) by [Owls Analytics](https://twitter.com/AnalyticsOwls) (see tweet [[link](https://twitter.com/AnalyticsOwls/status/1416080185628233732)]
+          -    [Celtic F.C. Opposition Report](https://www.linkedin.com/posts/liam-bailey-252760152_celtic-fc-data-report-ugcPost-6859822891979153408-kryT) by [Liam Bailey](https://www.linkedin.com/in/liam-bailey-252760152)
+     +    22/23 (see the following Twitter thread by [Blues Breakdown](https://twitter.com/blues_breakdown) for 19 summer recruitment plans for 11 clubs [[link](https://twitter.com/i/events/1530134712215384066)]):
+          -    [LUFC Squad and Recruitment Analysis Summer 2020](https://www.yumpu.com/en/document/read/67002591/lufc-squad-and-recruitment-analysis-summer-2022) by [Kris Hilliam](https://twitter.com/FootyAnalyKris)
+          -    Transfer Targets for Huddersfield Town by [HTAFC STATTO](https://twitter.com/HTAFC_STATTO)
+               +    [5 right wing back options for Huddersfield Town to sign](https://htafcstatto.co.uk/News-Articles/Transfers/Right-Wing-Back-Signings) by []()
+               +    [5 left wingers for Huddersfield Town to consider](https://htafcstatto.co.uk/News-Articles/Transfers/5-Left-Wingers-For-Huddersfield-To-Consider) by []()
+          -    [Luton Town full-back analysis and possible targets](https://www.oakroadhatter.com/post/ltfc-full-back-analysis) by [Oak Road Hatter](https://twitter.com/OakRoadHatter)
+          -    [Rochdale Summer Recruitment Plan 2022](https://issuu.com/rochdalefanpage/docs/b85431c0-f56c-4c9e-9374-8ee0839f7fa1) by [ROCHDALE AFC FAN PAGE](https://twitter.com/RochdaleFan)
+          -    [Wolves Recruitment Plan - Summer 2022](https://www.yumpu.com/en/document/read/66987598/wolves-recruitment-plan-2022-2) by [Dan
+ Butler](https://twitter.com/dbutleranalysis)
+          -    [Queens Park Rangers 2022 Summer Recruitment Plan](https://www.behance.net/gallery/145857863/Queens-Park-Rangers-2022-Summer-Recruitment-Plan) by [Tom Ward](https://twitter.com/WardTom7)
+          -    [Swindon Town Recruitment Plan Summer 2022](https://www.yumpu.com/en/document/read/66977721/summer-recruitment-plan) by [Tyler](https://twitter.com/tylerontherun)
+          -    West Ham United Recruitment Plan, Summer 2022 by [Knees up Mother Brown (KUMB).com](https://twitter.com/kumbdotcom)
+               *     [Part 1 - The Defence](https://www.kumb.com/article.php?id=44341)
+               *     [Part 1 - The Midfield](https://www.kumb.com/article.php?id=44343)
+          -    [Sunderland AFC Data Driven Recruitment Plan 22/23](https://www.yumpu.com/en/document/read/66989950/safc-data-driven-recruitment-plan) by [SAFC Data Analytics](https://twitter.com/SAFC_Analysis)
+          -    [Ipswich town Recruitment List - 22/23](https://www.yumpu.com/en/document/read/66992913/ipswich-town-recruitment-list-22-23-luke-penning) by [Luke Penning](https://twitter.com/LukePenning_)
+          -    [West Bromwich Albion Data Recruitment Plan Summer 2022](https://www.yumpu.com/en/document/read/66987599/west-bromwich-albion-data-recruitment-plan) by [Albion Analytics](https://twitter.com/AnalyticsWba)
+          -    [Watford’s Recruitment Plan 2022/23](https://aaronbennis10.wordpress.com/2022/06/09/watfords-recruitment-plan-2022-23-a-detailed-analysis/) by [Aaron Bennis](https://twitter.com/aaron_bennis10)
+          -    [Nottingham Forest Summer Cruitment Plan 2022](https://www.yumpu.com/en/document/read/66978363/nottingham-forest-summer-recruitment-plan-2022) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
+          -    [Notts County: Recruitment Plan](https://issuu.com/tomhwilliams23/docs/notts_county_recruitment_plan) by [Tom Williams](https://twitter.com/tomhwilliams23)
+          -    [Ipswich Town 2021/22 Season Overview & 2022/23 Recruitment Plan](https://www.yumpu.com/en/document/read/66976580/ipswich-town-21-22-season-overview-22-23-recruitment-plan) by [ITFC Analytics](https://twitter.com/ITFCAnalytics)
+          -    [Ipswich Town 2022/23 Recruitment Proposal](https://www.yumpu.com/en/document/read/66962606/ipswich-town-2022-23-recruitment-proposal) by [Thomas Lane](https://twitter.com/Thomas_Lane11)
+          -    [Swansea City Summer 2022 Recruitment Plan](https://medium.com/@ForeseeaBall/swansea-city-summer-2022-recruitment-plan-e9c34486f12c) by [ForeseeaBall](https://twitter.com/ForeseeaBall)
+          -    [SWFC Recruitment Plan 22/23](https://www.yumpu.com/en/document/read/66962147/swfc-recruitment-plan-22-23) by [Owls Analytics](https://twitter.com/AnalyticsOwls)
+          -    [Sunderland AFC: The future of the first-team squad](https://dbscouting.substack.com/p/sunderland-afc-the-future-of-the) by [Daniel Burrell](https://twitter.com/DanielBurrell_)
+          -    [Middlesbrough summer recruitment plan 22/23](https://issuu.com/louorns/docs/photos_to_pdf_may_31_2022_5.19_pm) by [Luke](https://twitter.com/louorns)
+          -    BWFC Summer Transfer Targets by [BWFC Analysis](https://twitter.com/analysis_bwfc)
+               +    [Goalkeepers](https://bwfcanalysis.wordpress.com/2022/04/14/summer-transfer-targets-goalkeepers/)
+               +    [Centre Back](https://bwfcanalysis.wordpress.com/2022/04/24/summer-transfer-targets-centre-backs/)
+               +    [LB/LWBs](https://bwfcanalysis.wordpress.com/2022/05/01/bwfc-summer-transfer-targets-lb-lwbs/)
+               +    [RB/RWB](https://bwfcanalysis.wordpress.com/2022/05/05/bwfc-summer-transfer-targets-rb-rwbs/)
+               +    [CM](https://bwfcanalysis.wordpress.com/2022/05/30/bwfc-summer-transfer-targets-cms/)
+               +    [CAM](https://bwfcanalysis.wordpress.com/2022/06/06/bwfc-summer-transfer-targets-cams/)
 
 
 <h4 id="relative-league-strength"> Quantifying Relative Club and League Strength</h4>
