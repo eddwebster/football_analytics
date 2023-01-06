@@ -387,13 +387,15 @@ Example Tableau dashboards:
 <h2 id="resources"> :bookmark_tabs: Resources</h2>
 
 
-<h3 id="other-resources-guides"> :bookmark_tabs: Other Football Analytics Resources Guides</h3>
+<h3 id="other-resources-guides"> :bookmark: Other Football Analytics Resources Guides</h3>
 
-Credit to the following resources that were all used to plug gaps in this resources guide once it was published
-*    [`analytics-handbook`](https://github.com/devinpleuler/analytics-handbook) GitHub repo by [Devin Pleuler](https://twitter.com/devinpleuler) Github repo - a GitHub repo for getting started in soccer analytics
+Credit to the following resources that were all used to plug gaps in this resources guide once it was published:
+
+*    [`analytics-handbook`](https://github.com/devinpleuler/analytics-handbook) GitHub repo by [Devin Pleuler](https://twitter.com/devinpleuler)- a GitHub repo for getting started in soccer analytics
 *    [`awesome-football`](https://github.com/openfootball/awesome-football) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - a collection of awesome football datasets
-*    [`Awesome Soccer Analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) GitHub repo by [Matias Mascioto](https://twitter.com/matiasmascioto)
-*    [`guideR`](https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=627465558) by [Dom Samangy](https://twitter.com/dsamangy), a Google spreadsheet with 200+ R resources, 100+ python tutorials, 30+ packages, 25+ accounts to follow, 10 cheatsheets, and several free books & blogs. GitHub repo [[link](https://github.com/DomSamangy/Sports_Analytics_Guide)]
+*    [`awesome-football-analytics`](https://github.com/diegopastor/awesome-football-analytics) by [Diego Pastor](https://twitter.com/dxvgx)
+*    [`awesome-soccer-analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto)
+*    [`guideR`](https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=627465558) by [Dom Samangy](https://twitter.com/dsamangy) - a Google spreadsheet with 200+ R resources, 100+ Python tutorials, 30+ packages, 25+ accounts to follow, 10 cheatsheets, and several free books & blogs. GitHub repo [[link](https://github.com/DomSamangy/Sports_Analytics_Guide)]
 *    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s Soccer Analytics Reviews:
      +    [2020](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html)
      +    [2021](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html)
@@ -401,85 +403,82 @@ Credit to the following resources that were all used to plug gaps in this resour
 *    [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) Github repo by [Jan Van Haaren](https://twitter.com/janvanhaaren)
 
 
-<h3 id="getting-started"> :bookmark_tabs: Getting Started with Football Analytics</h3>
+<h3 id="getting-started"> :runner: Getting Started with Football Analytics</h3>
 
 Good resources for those new for the use of data in football:
 
 *    Articles and blog posts:
-      +    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by [David Sumpter](https://twitter.com/Soccermatics) for [Barça Innovation Hub](https://barcainnovationhub.com/)
-      +    [Getting Into Scouting](https://griffinftbl.substack.com/p/getting-into-scouting) by [Luke Griffin](https://twitter.com/GriffinFtbl)
-      +    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by [Rob Carroll](https://twitter.com/thevideoanalyst)
-      +    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller) - check out his Newsletter [space space space](https://spacespacespaceletter.com/author/johnmuller/)
-      +    [Introduction to Analytics in...Soccer](http://sportsanalytics.sa.utoronto.ca/2015/02/20/introduction-to-analytics-in-soccer/) by [Valentin Stolbunov](https://twitter.com/vstolbunov)
-      +    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) and [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam)
-      +    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s Soccer Analytics Reviews:
-          -    [2020](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html)
-          -    [2021](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html)
-          -    [2022](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2022.html)
-      +    [Soccer Analytics 101](https://web.archive.org/web/20201101011408/https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus) (using Web Archive)
-      +    A Career in Football Analytics blog posts by [Benoit Pimpaud](https://twitter.com/Ben8t). Check out his Substack newsletter [From An Engineer Sight](https://fromanengineersight.substack.com/). See also the accompanying Twitter thread by [Jan Van Haaren](https://twitter.com/JanVanHaaren) that discusses these posts [[link](https://twitter.com/JanVanHaaren/status/1511003282868781063)]
-           -    [Part 1 — A Career in Football Analytics, The What](https://medium.pimpaudben.fr/part-1-a-career-in-football-analytics-the-what-91c888b3dcd2)
-           -    [Part 2 — A Career in Football Analytics, The How](https://medium.pimpaudben.fr/part-2-a-career-in-football-analytics-the-how-ae8b5eca38ce)
-           -    [Part 3 — A Career in Football Analytics, The Reality](https://medium.pimpaudben.fr/part-3-a-career-in-football-analytics-the-reality-ccd0812ef3bf)
-      +    [Football Reference 101 — Finding your way through a gold mine](https://ninad06.medium.com/football-reference-101-finding-your-way-through-a-gold-mine-40fdb29b30a2) by [Ninad Barbadikar](https://twitter.com/NinadB_06)
-      +    [Mikhail Zhilkin: How to hire your first data scientist](https://trainingground.guru/articles/mikhail-zhilkin-how-to-hire-your-first-data-scientist) by [Training Ground Guru](https://trainingground.guru/)
-      +    [Gerard Moore on the "challenging but extremely rewarding" life" of a professional football analyst](http://www.twenty3.sport/gerard-moore-interview-football-analyst/) for [Twenty3](https://www.twenty3.sport)
-      +    [How to get started in data and the football industry](https://henshawanalysis.medium.com/how-to-get-started-in-data-and-the-football-industry-50d974e84bef) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
-      +    [How to get into football analysis](https://medium.com/@jkregista.6/how-to-get-into-football-analysis-cada6cf1ce76) by [La Notice](https://twitter.com/la_notice_)
-      +    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
-      +    [Want to Learn Football Analytics?](https://medium.com/@irfanalghani11/want-to-learn-football-analytics-24cae325a30a) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
-      +    [How to get a job in Sports Analysis...](https://www.linkedin.com/pulse/how-get-job-sports-analysis-chris-gill/?trackingId=fSdnL9E2A9MbptVN6yZ4kg%3D%3D) by [Chris Gill](https://twitter.com/chrisgill_UK)
-      +    [7 Easy Steps to Get Started in Football Data & Analytics](https://jobsinfootball.com/blog/7-steps-to-get-started-in-football-data-analytics/) by [Jobs in Football](https://twitter.com/jobsinfootball)
-      +    [11 tips to get started in the Football industry](https://jobsinfootball.com/blog/11-tips-to-get-started-in-the-football-industry/) by [Jobs in Football](https://twitter.com/jobsinfootball)
-      +    [A Friendly Introduction to FPL Analytics](https://alpscode.com/blog/intro-to-fpl-analytics/) by [Sertalp B. Çay](https://twitter.com/sertalpbilal)
+     +    [What do you need to learn to work in football analytics?](https://barcainnovationhub.com/what-do-you-need-to-learn-to-work-in-football-analytics/) by [David Sumpter](https://twitter.com/Soccermatics) for [Barça Innovation Hub](https://barcainnovationhub.com/)
+     +    [Getting Into Scouting](https://griffinftbl.substack.com/p/getting-into-scouting) by [Luke Griffin](https://twitter.com/GriffinFtbl)
+     +    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by [Rob Carroll](https://twitter.com/thevideoanalyst)
+     +    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller) - check out his Newsletter [space space space](https://spacespacespaceletter.com/author/johnmuller/)
+     +    [Introduction to Analytics in...Soccer](http://sportsanalytics.sa.utoronto.ca/2015/02/20/introduction-to-analytics-in-soccer/) by [Valentin Stolbunov](https://twitter.com/vstolbunov)
+     +    [Getting into Sports Analytics](https://medium.com/@GregorydSam/getting-into-sports-analytics-ddf0e90c4cce) and [Getting into Sports Analytics 2.0](https://medium.com/@GregorydSam/getting-into-sports-analytics-2-0-129dfb87f5be) by [Sam Gregory](https://twitter.com/GregorydSam)
+     +    [Sports Analytics Advice](https://linktr.ee/sportsanalyticsbooks) by [Jan Van Haaren](https://linktr.ee/sportsanalyticsadvice)
+     +    [Some of the useful resources in Football Analytics](https://footytistics.com/)
+     +    [Soccer Analytics 101](https://web.archive.org/web/20201101011408/https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus) (using Web Archive)
+     +    A Career in Football Analytics blog posts by [Benoit Pimpaud](https://twitter.com/Ben8t). Check out his Substack newsletter [From An Engineer Sight](https://fromanengineersight.substack.com/). See also the accompanying Twitter thread by [Jan Van Haaren](https://twitter.com/JanVanHaaren) that discusses these posts [[link](https://twitter.com/JanVanHaaren/status/1511003282868781063)]
+          -    [Part 1 — A Career in Football Analytics, The What](https://medium.pimpaudben.fr/part-1-a-career-in-football-analytics-the-what-91c888b3dcd2)
+          -    [Part 2 — A Career in Football Analytics, The How](https://medium.pimpaudben.fr/part-2-a-career-in-football-analytics-the-how-ae8b5eca38ce)
+          -    [Part 3 — A Career in Football Analytics, The Reality](https://medium.pimpaudben.fr/part-3-a-career-in-football-analytics-the-reality-ccd0812ef3bf)
+     +    [Football Reference 101 — Finding your way through a gold mine](https://ninad06.medium.com/football-reference-101-finding-your-way-through-a-gold-mine-40fdb29b30a2) by [Ninad Barbadikar](https://twitter.com/NinadB_06)
+     +    [Mikhail Zhilkin: How to hire your first data scientist](https://trainingground.guru/articles/mikhail-zhilkin-how-to-hire-your-first-data-scientist) by [Training Ground Guru](https://trainingground.guru/)
+     +    [Gerard Moore on the "challenging but extremely rewarding" life" of a professional football analyst](http://www.twenty3.sport/gerard-moore-interview-football-analyst/) for [Twenty3](https://www.twenty3.sport)
+     +    [How to get started in data and the football industry](https://henshawanalysis.medium.com/how-to-get-started-in-data-and-the-football-industry-50d974e84bef) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
+     +    [How to get into football analysis](https://medium.com/@jkregista.6/how-to-get-into-football-analysis-cada6cf1ce76) by [La Notice](https://twitter.com/la_notice_)
+     +    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
+     +    [Want to Learn Football Analytics?](https://medium.com/@irfanalghani11/want-to-learn-football-analytics-24cae325a30a) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
+     +    [How to get a job in Sports Analysis...](https://www.linkedin.com/pulse/how-get-job-sports-analysis-chris-gill/?trackingId=fSdnL9E2A9MbptVN6yZ4kg%3D%3D) by [Chris Gill](https://twitter.com/chrisgill_UK)
+     +    [7 Easy Steps to Get Started in Football Data & Analytics](https://jobsinfootball.com/blog/7-steps-to-get-started-in-football-data-analytics/) by [Jobs in Football](https://twitter.com/jobsinfootball)
+     +    [11 tips to get started in the Football industry](https://jobsinfootball.com/blog/11-tips-to-get-started-in-the-football-industry/) by [Jobs in Football](https://twitter.com/jobsinfootball)
+     +    [A Friendly Introduction to FPL Analytics](https://alpscode.com/blog/intro-to-fpl-analytics/) by [Sertalp B. Çay](https://twitter.com/sertalpbilal)
 *    GitHub repositories:
-      +    [`soccer-analytics-handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
-      +    [`awesome-soccer-analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto)
-      +    [`awesome-football-analytics`](https://github.com/diegopastor/awesome-football-analytics) by [Diego Pastor](https://twitter.com/dxvgx)
-      +    [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) by [Jan Van Haaren](https://twitter.com/janvanhaaren)
+     +    [`soccer-analytics-handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
+     +    [`awesome-football-analytics`](https://github.com/diegopastor/awesome-football-analytics) by [Diego Pastor](https://twitter.com/dxvgx)
+     +    [`awesome-soccer-analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto)
+     +    [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) by [Jan Van Haaren](https://twitter.com/janvanhaaren)
 *    Twitter threads:
-      +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Sports Analytics 101 unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1407719595696398338.html)]:
-           -    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/)
-           -    [Languages and Tools to Learn for Sports Analytics](https://brendankent.com/2020/12/16/languages-and-tools-to-learn-for-sports-analytics/)
-           -    [Coding for Sports Analytics: Resources to Get Started](https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-started/)
-           -    [Sports Analytics Reading List](https://brendankent.com/2021/06/15/sports-analytics-reading-list/)
-           -    [Free Sports Data Sources](https://brendankent.com/2021/03/09/free-sports-data-sources/)
-           -    [Where to Watch: Sports Analytics Conference Video Archives](https://brendankent.com/2020/09/17/where-to-watch-sports-analytics-conference-video-archives/)
-           -    [How to Start a Sports Analytics Club](https://brendankent.com/2020/09/28/how-to-start-a-sports-analytics-club/)
-      +    [Tom Worville](https://twitter.com/Worville)'s [Twitter thread](https://twitter.com/Worville/status/1275732993819250688)
-      +    [Will Spearman's Twitter thread](https://twitter.com/the_spearman/status/1260713785138073604) 
-      +    [Jan Van Haaren](https://twitter.com/JanVanHaaren)'s [Twitter thread](https://twitter.com/JanVanHaaren/status/1436336286223196201) for free, open-source software libraries for computing and visualising advanced soccer analytics metrics
-      +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]
-      +    [Sancho Quinn](https://twitter.com/SanchoQuinn)'s unrolled Twitter thread for learning more about video/performance analysis [[link](https://threadreaderapp.com/thread/1434543901067595784.html)]
-      +    [Ninad Barbadikar](https://twitter.com/NinadB_06)'s 'big football analytics' Twitter thread for getting started with football analytics [[link](https://twitter.com/NinadB_06/status/1409817891126452226)]
-      +    [McKay Johns](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)]
-      +    [Joe Gallagher](https://twitter.com/joedgallagher)'s Twitter thread for the best resources to get started [[link](https://twitter.com/joedgallagher/status/1399461951386828805)]
-      +    [Sam Goldberg](https://twitter.com/SamGoldberg1882)'s Twitter thread for "lessons American Soccer Analysis wish we knew prior to working in sports analytics." [[link](https://twitter.com/SamGoldberg1882/status/1417111138865664003)]
-      +    [Floris Goes-Smit](https://twitter.com/MeasurablesPod)'s Tweet's:
-           -    [Becoming a Data Scientist in Football](https://threadreaderapp.com/thread/1508453394536620040.html)
-           -    [Floris' personal journey of becoming a Data Scientist in the football industry](https://threadreaderapp.com/thread/1508453394536620040.html)
-           -    [Preparing for a technical interview for a Data Science position](https://threadreaderapp.com/thread/1508453394536620040.html)
-      +    [Mathew Barlowe](https://twitter.com/matthew_barlowe)'s Twitter thread for "how to get into the sports analytics industry" [[link](https://twitter.com/matthew_barlowe/status/1420598697486913540)]
-      +    [Aaron Moniz](https://twitter.com/amonizfootball)'s Tweet and responses [[link](https://twitter.com/amonizfootball/status/1480244012770639875)]
+     +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Sports Analytics 101 unrolled Twitter thread [[link](https://threadreaderapp.com/thread/1407719595696398338.html)]:
+          -    [Sports Analytics 101](https://brendankent.com/sports-analytics-101/)
+          -    [Languages and Tools to Learn for Sports Analytics](https://brendankent.com/2020/12/16/languages-and-tools-to-learn-for-sports-analytics/)
+          -    [Coding for Sports Analytics: Resources to Get Started](https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-started/)
+          -    [Sports Analytics Reading List](https://brendankent.com/2021/06/15/sports-analytics-reading-list/)
+          -    [Free Sports Data Sources](https://brendankent.com/2021/03/09/free-sports-data-sources/)
+          -    [Where to Watch: Sports Analytics Conference Video Archives](https://brendankent.com/2020/09/17/where-to-watch-sports-analytics-conference-video-archives/)
+          -    [How to Start a Sports Analytics Club](https://brendankent.com/2020/09/28/how-to-start-a-sports-analytics-club/)
+     +    [Tom Worville](https://twitter.com/Worville)'s [Twitter thread](https://twitter.com/Worville/status/1275732993819250688)
+     +    [Will Spearman's Twitter thread](https://twitter.com/the_spearman/status/1260713785138073604) 
+     +    [Jan Van Haaren](https://twitter.com/JanVanHaaren)'s [Twitter thread](https://twitter.com/JanVanHaaren/status/1436336286223196201) for free, open-source software libraries for computing and visualising advanced soccer analytics metrics
+     +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]
+     +    [Sancho Quinn](https://twitter.com/SanchoQuinn)'s unrolled Twitter thread for learning more about video/performance analysis [[link](https://threadreaderapp.com/thread/1434543901067595784.html)]
+     +    [Ninad Barbadikar](https://twitter.com/NinadB_06)'s 'big football analytics' Twitter thread for getting started with football analytics [[link](https://twitter.com/NinadB_06/status/1409817891126452226)]
+     +    [McKay Johns](https://twitter.com/mckayjohns)'s Twitter threads for the best resources in football analytics [[link](https://twitter.com/mckayjohns/status/1369147457536335878)] and [[link](https://twitter.com/mckayjohns/status/1382405468585295873)]
+     +    [Joe Gallagher](https://twitter.com/joedgallagher)'s Twitter thread for the best resources to get started [[link](https://twitter.com/joedgallagher/status/1399461951386828805)]
+     +    [Sam Goldberg](https://twitter.com/SamGoldberg1882)'s Twitter thread for "lessons American Soccer Analysis wish we knew prior to working in sports analytics." [[link](https://twitter.com/SamGoldberg1882/status/1417111138865664003)]
+     +    [Floris Goes-Smit](https://twitter.com/MeasurablesPod)'s Tweet's:
+          -    [Becoming a Data Scientist in Football](https://threadreaderapp.com/thread/1508453394536620040.html)
+          -    [Floris' personal journey of becoming a Data Scientist in the football industry](https://threadreaderapp.com/thread/1508453394536620040.html)
+          -    [Preparing for a technical interview for a Data Science position](https://threadreaderapp.com/thread/1508453394536620040.html)
+     +    [Mathew Barlowe](https://twitter.com/matthew_barlowe)'s Twitter thread for "how to get into the sports analytics industry" [[link](https://twitter.com/matthew_barlowe/status/1420598697486913540)]
+     +    [Aaron Moniz](https://twitter.com/amonizfootball)'s Tweet and responses [[link](https://twitter.com/amonizfootball/status/1480244012770639875)]
 *    LinkedIn Posts:
-      +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
-      +    The following [LinkedIn post](https://www.linkedin.com/posts/hadisotudeh_football-github-datasets-activity-6960611122760531969-naeV/) by [Hadi Sotudeh](https://twitter.com/sarehang)
+     +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
+     +    The following [LinkedIn post](https://www.linkedin.com/posts/hadisotudeh_football-github-datasets-activity-6960611122760531969-naeV/) by [Hadi Sotudeh](https://twitter.com/sarehang)
 *    Videos:
-      +    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) videos:
-           -    [How to become a football data scientist](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds Gopaladesikan](https://twitter.com/suds_g), [Fran Peralta](https://twitter.com/PeraltaFran23), and [David Sumpter](https://twitter.com/Soccermatics)
-           -    [Tools for getting started in football analytics.](https://www.youtube.com/watch?v=moFkcpsIKz4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Pascal Bauer](https://twitter.com/pascal_bauer), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g) and [Fran Peralta](https://twitter.com/PeraltaFran23)
-           -    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), [Hannah Roberts](https://twitter.com/riptideltd), [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby)
-      +    [HANIC Panel "How to get into Sports Analytics & Media + Analytics"](https://www.youtube.com/watch?v=oUVISEJaEMM) with Alison Lukan, Sarah Bailey, Harman Dayal, [Asmae Toumi](https://twitter.com/asmae_toumi), and Mike Johnson
-      +    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0)
-      +    [Chris Gill](https://twitter.com/chrisgill_UK)'s [Sports Analysis YouTube Channel](https://www.youtube.com/channel/UCb60z8UyQJOFnXcDLmME-0A/videos), including videos for [Writing the perfect CV](https://www.youtube.com/watch?v=_UrZUhwkAfg), [How to get a job in sports analysis](https://www.youtube.com/watch?v=3GohwDmM0aY), [LinkedIn tips](https://www.youtube.com/watch?v=TeLpkPG7Oxo), amoungst other videos added regularly
+     +    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) videos:
+          -    [How to become a football data scientist](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds Gopaladesikan](https://twitter.com/suds_g), [Fran Peralta](https://twitter.com/PeraltaFran23), and [David Sumpter](https://twitter.com/Soccermatics)
+          -    [Tools for getting started in football analytics.](https://www.youtube.com/watch?v=moFkcpsIKz4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Laurie Shaw](https://twitter.com/EightyFivePoint), [Pascal Bauer](https://twitter.com/pascal_bauer), [Sudarshan 'Suds' Gopaladesikan](https://twitter.com/suds_g) and [Fran Peralta](https://twitter.com/PeraltaFran23)
+          -    [What do data analysts and data scientists do at a football club?](https://www.youtube.com/watch?v=GLcGf-8oqO4) talk for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) with [David Sumpter](https://twitter.com/Soccermatics), [Ashwin Raman](https://twitter.com/AshwinRaman_), [Hannah Roberts](https://twitter.com/riptideltd), [Sam Gregory](https://twitter.com/GregorydSam), and [Rob Suddaby](https://twitter.com/robsuddaby)
+     +    [HANIC Panel "How to get into Sports Analytics & Media + Analytics"](https://www.youtube.com/watch?v=oUVISEJaEMM) with Alison Lukan, Sarah Bailey, Harman Dayal, [Asmae Toumi](https://twitter.com/asmae_toumi), and Mike Johnson
+     +    [Careers in Sports Analytics](https://www.youtube.com/watch?v=0Y46KjeVsD0)
+     +    [Chris Gill](https://twitter.com/chrisgill_UK)'s [Sports Analysis YouTube Channel](https://www.youtube.com/channel/UCb60z8UyQJOFnXcDLmME-0A/videos), including videos for [Writing the perfect CV](https://www.youtube.com/watch?v=_UrZUhwkAfg), [How to get a job in sports analysis](https://www.youtube.com/watch?v=3GohwDmM0aY), [LinkedIn tips](https://www.youtube.com/watch?v=TeLpkPG7Oxo), amoungst other videos added regularly
 *    Glossaries:
-      +    [The Athletic’s football analytics glossary: explaining xG, PPDA, field tilt and how to use them](https://theathletic.com/2730755/2021/07/28/the-athletics-football-analytics-glossary-explaining-xg-ppda-field-tilt-and-how-to-use-them/) by [Mark Carey](https://twitter.com/MarkCarey93) and [Tom Worville](https://twitter.com/Worville) (requires subscription)
-      +    [Stat Glossary](https://thefutebolist.wordpress.com/stat-glossary/) by [Ashwin Raman](https://twitter.com/AshwinRaman_)
-      +    [Football Analytics Glossary](https://footballstatsglossary.home.blog/) by [Ashwin Raman](https://twitter.com/AshwinRaman_) and [Mark Thompson](https://twitter.com/EveryTeam_Mark)
+     +    [The Athletic’s football analytics glossary: explaining xG, PPDA, field tilt and how to use them](https://theathletic.com/2730755/2021/07/28/the-athletics-football-analytics-glossary-explaining-xg-ppda-field-tilt-and-how-to-use-them/) by [Mark Carey](https://twitter.com/MarkCarey93) and [Tom Worville](https://twitter.com/Worville) (requires subscription)
+     +    [Stat Glossary](https://thefutebolist.wordpress.com/stat-glossary/) by [Ashwin Raman](https://twitter.com/AshwinRaman_)
+     +    [Football Analytics Glossary](https://footballstatsglossary.home.blog/) by [Ashwin Raman](https://twitter.com/AshwinRaman_) and [Mark Thompson](https://twitter.com/EveryTeam_Mark)
 *    Podcasts:
-      +    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU?si=9v83huJIR-GUxAnKRyXLRA) podcast with Mike Lewis - [Getting Your Foot in the Door](https://soundcloud.com/fanalytics/sports-analytics-getting-your-foot-in-the-door) with Sean Steffen
-      +    [What is sports analytics?](https://open.spotify.com/episode/3gIkGxJOmKkFRHoGAqRimB?si=6pPOVLfgTjuynfho6b4SPA&dl_branch=1) episode of the [Measureables](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW?si=YAU9RS7sTGSyITF6OhgW9A&dl_branch=1) podcast by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))
-*    [Some of the useful resources in Football Analytics](https://footytistics.com/2020-12-19-useful-resources-football-analytics/) by [@VenkyReddevil](https://twitter.com/VenkyReddevil)
+     +    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU?si=9v83huJIR-GUxAnKRyXLRA) podcast with Mike Lewis - [Getting Your Foot in the Door](https://soundcloud.com/fanalytics/sports-analytics-getting-your-foot-in-the-door) with Sean Steffen
+     +    [What is sports analytics?](https://open.spotify.com/episode/3gIkGxJOmKkFRHoGAqRimB?si=6pPOVLfgTjuynfho6b4SPA&dl_branch=1) episode of the [Measureables](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW?si=YAU9RS7sTGSyITF6OhgW9A&dl_branch=1) podcast by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))
 
 
 <a href="#table-of-contents">Back to Contents</a>
@@ -652,7 +651,7 @@ See [Mark Wilkin](https://twitter.com/biscuitchaser)'s Twitter thread for more a
 | [`footballcsv`](https://footballcsv.github.io/) | Historical soccer results in CSV format | [Link](https://footballcsv.github.io/) |
 | [football.db](http://openfootball.github.io/) | A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets) | [Link](http://openfootball.github.io/) | A free and open public domain football database & schema for use in any (programming) language (e.g. uses plain datasets) |
 | [Football xG](https://footballxg.com/) |  | [Link](https://footballxg.com/) |
-| [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) by Joe Kampschmidt |  | [Libk](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) |
+| [Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) by [Joe Kampschmid](https://twitter.com/jokecamp) |  | [Link](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) |
 | [My Football Facts](http://www.myfootballfacts.com/) |  | [Link](http://www.myfootballfacts.com/) |
 | [Physio Room](http://physioroom.com/) |  | [Link](http://physioroom.com/) |
 | [PlusMinusData](https://github.com/fmatano/PlusMinusData) | play by play data from espn.com | [Link](https://github.com/fmatano/PlusMinusData)  |
@@ -1110,9 +1109,10 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`FIFAWorldCup`](https://github.com/pratapvardhan/FIFAWorldCup) by [S Anand](https://github.com/sanand0) - FIFA World Cup data includes teams data, squad formations, clubs dominance
 *    [`fifadata`](https://github.com/sanand0/fifadata) by [Pratap Vardhan](https://twitter.com/PratapVardhan) - FIFA data
 *    [`football-data-collection`](https://github.com/hugomathien/football-data-collection) by [Hugo Mathien](https://github.com/hugomathien) - web scraper used to create Kaggle European Soccer database [[link](https://www.kaggle.com/datasets/hugomathien/soccer)]
-*    [`FootballData`](https://github.com/jokecamp/FootballData) by [Joe K](https://twitter.com/jokecamp)
+*    [`FootballData`](https://github.com/jokecamp/FootballData) by [Joe Kampschmid](https://twitter.com/jokecamp)
 *    [`football-logos`](https://github.com/luukhopman/football-logos) by [Luuk Hopman](https://github.com/luukhopman) - all logos of teams in the top 20 European leagues. Season 2022/2023
 *    [`football-graphs`](https://github.com/rodmoioliveira/football-graphs) by [Rodolfo Mói](https://twitter.com/rodmoi) - Graphs and passing networks in football
+*    [`guideR`](https://github.com/DomSamangy/Sports_Analytics_Guide) by [Dom Samangy](https://twitter.com/dsamangy) - repository for the Google spreadsheet with 200+ R resources, 100+ Python tutorials, 30+ packages, 25+ accounts to follow, 10 cheatsheets, and several free books & blogs. Google spreadsheet [[link](https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=627465558)]
 *    [`italy`](https://github.com/openfootball/italy) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - free open public domain football data (football.db) for Italy / Europe - Serie A etc.
 *    [`international_results`](https://github.com/martj42/international_results) by [Mart Jürisoo](https://github.com/martj42) - 44,353 results of international football matches starting from the very first official match in 1872 up to 2022
 *    [`league-starter`](https://github.com/openfootball/league-starter) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - football.db league quick starter sample - start your own leagues & cups
@@ -1634,7 +1634,9 @@ John Burn-Murdoch for The FT
 
 The list of books below include are not only for football but for sports analytics in general.
 
-See the [Sports Analytics Reading List](https://brendankent.com/2021/06/15/sports-analytics-reading-list/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent)), as part of his [Sports Analytics 101](https://brendankent.com/sports-analytics-101/) series.
+See the following reading lists for book recommendations from other sports data scientists:
+*    [Sports Analytics Reading List](https://brendankent.com/2021/06/15/sports-analytics-reading-list/) by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent)), as part of his [Sports Analytics 101](https://brendankent.com/sports-analytics-101/) series
+*    [Sports Analytics Books](https://linktr.ee/sportsanalyticsbooks) by [Jan Van Haaren](https://twitter.com/JanVanHaaren)
 
 The following use Amazon UK links where available and are not affiliate links.
 
