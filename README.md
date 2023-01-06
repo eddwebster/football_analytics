@@ -30,8 +30,6 @@
 
 The README of this repository is a concise resources guide of learning materials, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the football analytics community. This will be a constant work in progress so if you can think of any resources that I've missed, or you yourself have created something that you believe should be added and is currently not available, please feel free to create a pull request or send me a message.
 
-Credits to the [`Soccer Analytics Handbook`](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler), [`Awesome Soccer Analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto), and [Jan Van Haaren](https://twitter.com/janvanhaaren)'s Soccer Analytics Reviews ([2020](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html), [2021](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html), [2022](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2022.html)) and [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) Github repo, which were all used to plug gaps in the resources guide once it was published. Credit also to [Matias Singers](https://twitter.com/matiassingers) for his [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository used to restyle this README.
-
 If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
 For an Excel spreadsheet version of this README to keep track of the parts you have already read/worked on, see the following Google Sheets spreadsheet kindly put together by [Melanie Loeper](https://twitter.com/mel_loeper) [[link](https://docs.google.com/spreadsheets/d/1FKk0uvKMHPFZ2p3D42f4ZqQD6Si3LIZOf2Y5mo0k4as/edit?usp=sharing)].
@@ -66,8 +64,9 @@ For more information about this repository and the author, see the following art
     <li><a href="#notebooks">Notebooks</a></li>
     <li><a href="#data-visualisation-and-tableau-dashboards">Data Visualisation and Tableau</a></li>
     <li>
-      <a href="#Resources">Resources</a>
+      <a href="#resources">Resources</a>
       <ul>
+        <li><a href="#other-resources-guides">Other Resources Guides</a></li>
         <li><a href="#getting-started">Getting Started with Football Analytics</a></li>
         <li><a href="#data">Data</a></li>
           <ul>
@@ -388,6 +387,20 @@ Example Tableau dashboards:
 <h2 id="resources"> :bookmark_tabs: Resources</h2>
 
 
+<h3 id="other-resources-guides"> :bookmark_tabs: Other Football Analytics Resources Guides</h3>
+
+Credit to the following resources that were all used to plug gaps in this resources guide once it was published
+*    [`analytics-handbook`](https://github.com/devinpleuler/analytics-handbook) GitHub repo by [Devin Pleuler](https://twitter.com/devinpleuler) Github repo - a GitHub repo for getting started in soccer analytics
+*    [`awesome-football`](https://github.com/openfootball/awesome-football) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - a collection of awesome football datasets
+*    [`Awesome Soccer Analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) GitHub repo by [Matias Mascioto](https://twitter.com/matiasmascioto)
+*    [`guideR`](https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=627465558) by [Dom Samangy](https://twitter.com/dsamangy), a Google spreadsheet with 200+ R resources, 100+ python tutorials, 30+ packages, 25+ accounts to follow, 10 cheatsheets, and several free books & blogs. GitHub repo [[link](https://github.com/DomSamangy/Sports_Analytics_Guide)]
+*    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s Soccer Analytics Reviews:
+     +    [2020](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2020.html)
+     +    [2021](https://janvanhaaren.be/2021/12/30/soccer-analytics-review-2021.html)
+     +    [2022](https://janvanhaaren.be/2020/12/30/soccer-analytics-review-2022.html)
+*    [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) Github repo by [Jan Van Haaren](https://twitter.com/janvanhaaren)
+
+
 <h3 id="getting-started"> :bookmark_tabs: Getting Started with Football Analytics</h3>
 
 Good resources for those new for the use of data in football:
@@ -630,7 +643,7 @@ See [Mark Wilkin](https://twitter.com/biscuitchaser)'s Twitter thread for more a
 
 | Name  | Comments | Source  / method(s) to get the data |
 | ----- | -------- | ----------------------------- |
-| [Awesome Football](https://github.com/planetopendata/awesome-football) | A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets | [GitHub repo](https://github.com/planetopendata/awesome-football)  |
+| [`awesome-football`](https://github.com/openfootball/awesome-football) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) | A collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets | [GitHub repo](https://github.com/planetopendata/awesome-football)  |
 | [Data Hub Football data](https://datahub.io/collections/football) |  | [Link](https://datahub.io/collections/football) |
 | [European Soccer Database](https://www.kaggle.com/hugomathien/soccer/version/10) | 25k+ matches, players & teams attributes for European Professional Football | [Link](https://www.kaggle.com/hugomathien/soccer/version/10) |
 | [FIFA 15-22 player rating data](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset) | Scraped from [SoFIFA](https://sofifa.com/) by [Stefano Leone](https://www.kaggle.com/stefanoleone992) | [Link](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset) |
@@ -888,7 +901,7 @@ The following GitHub repositories are either repos that I have found and recomme
 *    [`balaban`](https://github.com/anenglishgoat/balaban) by [Will Thompson](https://twitter.com/AnEnglishGoat) - a small Python package for estimating & plotting Bayesian hierarchical models for player-level football data
 *    [`Big-Data-Cup-2021`](https://github.com/bigdatacup/Big-Data-Cup-2021) by [Big Data Cup](https://github.com/bigdatacup) - Big Data Cup 2022: Powered by Stathletes (Hockey but lots of good tracking data analysis). See the competition webpage [[link](https://www.stathletes.com/big-data-cup/)]
 *    [`AIrsenal`](https://github.com/alan-turing-institute/AIrsenal) by the [Alan Turing Institute](https://twitter.com/turinginst) - AIrsenal is a package for using Machine learning to pick a Fantasy Premier League team.
-*    [`awesome-football`](https://github.com/openfootball/awesome-football) by [openfootball](https://github.com/openfootball) - a collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
+*    [`awesome-football`](https://github.com/openfootball/awesome-football) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - a collection of awesome football (national teams, clubs, match schedules, players, stadiums, etc.) datasets
 *    [`baller2vec`](https://github.com/airalcorn2/baller2vec) by [Michael A. Alcorn](https://github.com/airalcorn2) - a multi-entity Transformer for multi-agent spatiotemporal modeling
 *    [`betdaq`](https://github.com/rozzac90/betdaq) by [Rory Cole](https://github.com/rozzac90) - Python wrapper for Betdaq API
 *    [`BirdsPyView`](https://github.com/rjtavares/BirdsPyView) by [Ricardo Tavares](https://twitter.com/rjtavares) - a streamlit app to convert images to top-down view and get coordinates of objects, built for football data collection
@@ -908,7 +921,7 @@ The following GitHub repositories are either repos that I have found and recomme
 *    [`fifa-world-cup-2022-prediction`](https://github.com/ifrankandrade/fifa-world-cup-2022-prediction) by [Frank Andrade](https://github.com/ifrankandrade)
 *    [`Friends-of-Tracking-Data-FoTD`](https://github.com/Friends-of-Tracking-Data-FoTD)
 *    [`footballcsv`](https://footballcsv.github.io/) - Historical soccer results in CSV format
-*    [`football.json`](https://github.com/openfootball/football.json) by [openfootball](https://github.com/openfootball) - free open public domain football data in JSON including English Premier League, Bundesliga, Primera División, Serie A and more
+*    [`football.json`](https://github.com/openfootball/football.json) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - free open public domain football data in JSON including English Premier League, Bundesliga, Primera División, Serie A and more
 *    [`Football-Analytics`](https://github.com/danielazevedo/Football-Analytics) by [Daniel Azevedo](https://twitter.com/drgazevedo) - repository that explores some concepts of football analytics using event data and tracking data from different sources
 *    [`Football-Analytics-With-Python`](https://github.com/Slothfulwave612/Football-Analytics-With-Python) by [Anmol Durgapal](https://twitter.com/slothfulwave612)
 *    [`football-crunching`](https://github.com/rjtavares/football-crunching) by [Ricardo Tavares](https://twitter.com/rjtavares). Accompanying Medium posts [[link](https://medium.com/football-crunching)] - analysis and datasets about football (soccer)
@@ -973,7 +986,7 @@ repository for the '[Player Chemistry: Striving for a Perfectly Balanced Soccer 
 *    [`PyFootballPitch`](https://github.com/znstrider/PyFootballPitch) by [@danzn1](https://twitter.com/danzn1) - functions to draw a football pitch in various available styles for matplotlib and bokeh
 *    [`pysoccer`](https://github.com/playerank/pysoccer) by [PlayeRank Sports Analytics](https://github.com/playerank) - Pysoccer offers a standardized data model designed to make data-driven soccer analytics easy. See the following documentation [[link](https://pysoccer.readthedocs.io/en/latest/)]
 *    [`python-for-fantasy-football`](https://github.com/twhelan22/python-for-fantasy-football) by [Fantasy Futopia](https://twitter.com/FantasyFutopia) ([Thomas Whelan](https://twitter.com/tom_whelan)) - supplementary materials for the [Python for Fantasy Football](http://www.fantasyfutopia.com/python-for-fantasy-football-introduction/) blog series
-*    [`quick-starter`](https://github.com/openfootball/quick-starter) by [openfootball](https://github.com/openfootball) - football.db quick starter datafile templates for [`worldcup.db`](https://github.com/openfootball/worldcup), [`euro.db`](https://github.com/openfootball/euro), [`england.db`](https://github.com/footballcsv/england), etc. - build your own football.db with the sportdb command line tool tutorials and recipes to use optimization for winning Fantasy Premier League
+*    [`quick-starter`](https://github.com/openfootball/quick-starter) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - football.db quick starter datafile templates for [`worldcup.db`](https://github.com/openfootball/worldcup), [`euro.db`](https://github.com/openfootball/euro), [`england.db`](https://github.com/footballcsv/england), etc. - build your own football.db with the sportdb command line tool tutorials and recipes to use optimization for winning Fantasy Premier League
 *    [`research`](https://github.com/devinpleuler/research) by [Devin Pleuler](https://twitter.com/devinpleuler) - see the [Reframing Post-Shot xG](https://github.com/devinpleuler/research/blob/master/reframing-post-shot-xg.md) markdown post
 *    [`rl-bot-football`](https://github.com/ChintanTrivedi/rl-bot-football) by [Chintan Trivedi](https://twitter.com/deepgamingai) - an RL agent for the Google Football environment
 *    [`scraper-whoscored`](https://github.com/joseramon-arias/scraper-whoscored) by [Ramis Lao](https://twitter.com/ramis_lao) - WhoScored Scraper
@@ -1088,35 +1101,35 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`awesome-soccer-analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto) - a curated list of awesome resources related to Soccer Analytics
 *    [`awesome-football-analytics`](https://github.com/diegopastor/awesome-football-analytics) by [Diego Pastor](https://twitter.com/dxvgx) - a curated list of football analytics awesome resources, articles, books and more
 *    [`coordinateFC`](https://github.com/FCrSTATS/SBpitch) by [FC rSTATS](https://twitter.com/FC_rstats) - a shot at coordinating open source football analytics builders to work towards common standards with interoperability as the goal
-*    [`deutschland`](https://github.com/footballcsv/deutschland) by [openfootball](https://github.com/openfootball) - football data for Deutschland (Germany) incl. Bundesliga, 2. Bundesliga, etc.
+*    [`deutschland`](https://github.com/footballcsv/deutschland) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - football data for Deutschland (Germany) incl. Bundesliga, 2. Bundesliga, etc.
 *    [`epl-fantasy-geek`](https://github.com/jokecamp/epl-fantasy-geek) - English Premier League 2017-18 Fantasy stats
-*    [`england`](https://github.com/footballcsv/england) by [openfootball](https://github.com/openfootball) - football data for England (and Wales) incl. English Premier League, The Football League (Championship, League One, League Two), Football Conference etc.
-*    [`espana`](https://github.com/footballcsv/espana) by [openfootball](https://github.com/openfootball) - football data for España (Spain) incl. Primera División (La Liga), Segunda División etc.
-*    [`euro`](https://github.com/openfootball/euro) by [openfootball](https://github.com/openfootball) - free open public domain football data (euro.db) for Euro 2008, Euro 2012, Euro 2016, Euro 2020 (2021), etc.
-*    [`europe-champions-league`](https://github.com/footballcsv/europe-champions-league) by [openfootball](https://github.com/openfootball) - football data for European Champions League (incl. European Cup / European Champion Clubs' Cup)
+*    [`england`](https://github.com/footballcsv/england) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - football data for England (and Wales) incl. English Premier League, The Football League (Championship, League One, League Two), Football Conference etc.
+*    [`espana`](https://github.com/footballcsv/espana) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - football data for España (Spain) incl. Primera División (La Liga), Segunda División etc.
+*    [`euro`](https://github.com/openfootball/euro) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - free open public domain football data (euro.db) for Euro 2008, Euro 2012, Euro 2016, Euro 2020 (2021), etc.
+*    [`europe-champions-league`](https://github.com/footballcsv/europe-champions-league) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - football data for European Champions League (incl. European Cup / European Champion Clubs' Cup)
 *    [`FIFAWorldCup`](https://github.com/pratapvardhan/FIFAWorldCup) by [S Anand](https://github.com/sanand0) - FIFA World Cup data includes teams data, squad formations, clubs dominance
 *    [`fifadata`](https://github.com/sanand0/fifadata) by [Pratap Vardhan](https://twitter.com/PratapVardhan) - FIFA data
 *    [`football-data-collection`](https://github.com/hugomathien/football-data-collection) by [Hugo Mathien](https://github.com/hugomathien) - web scraper used to create Kaggle European Soccer database [[link](https://www.kaggle.com/datasets/hugomathien/soccer)]
 *    [`FootballData`](https://github.com/jokecamp/FootballData) by [Joe K](https://twitter.com/jokecamp)
 *    [`football-logos`](https://github.com/luukhopman/football-logos) by [Luuk Hopman](https://github.com/luukhopman) - all logos of teams in the top 20 European leagues. Season 2022/2023
 *    [`football-graphs`](https://github.com/rodmoioliveira/football-graphs) by [Rodolfo Mói](https://twitter.com/rodmoi) - Graphs and passing networks in football
-*    [`italy`](https://github.com/openfootball/italy) by [openfootball](https://github.com/openfootball) - free open public domain football data (football.db) for Italy / Europe - Serie A etc.
+*    [`italy`](https://github.com/openfootball/italy) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - free open public domain football data (football.db) for Italy / Europe - Serie A etc.
 *    [`international_results`](https://github.com/martj42/international_results) by [Mart Jürisoo](https://github.com/martj42) - 44,353 results of international football matches starting from the very first official match in 1872 up to 2022
-*    [`league-starter`](https://github.com/openfootball/league-starter) by [openfootball](https://github.com/openfootball) - football.db league quick starter sample - start your own leagues & cups
+*    [`league-starter`](https://github.com/openfootball/league-starter) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - football.db league quick starter sample - start your own leagues & cups
 *    [`livesoccertv-parser`](https://github.com/pablopunk/livesoccertv-parser) by [Pablo Varela](https://twitter.com/pablopunk) - parse soccer games data from https://livesoccertv.com
 *    [`opendata`](https://github.com/SkillCorner/opendata) by [SkillCorner](https://twitter.com/SkillCorner)
 *    [`open-fpl`](https://github.com/bapairaew/open-fpl) by [Narudom Techaval](https://github.com/bapairaew) - ppen-source Fantasy Premier League tools
-*    [`players`](https://github.com/openfootball/players) by [openfootball](https://github.com/openfootball) - free open public domain football data (football.db) for players (goalkeepers, defenders, midfielders, forwards)
+*    [`players`](https://github.com/openfootball/players) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - free open public domain football data (football.db) for players (goalkeepers, defenders, midfielders, forwards)
 *    [`pinnacleapi-documentation`](https://github.com/pinnacleapi/pinnacleapi-documentation) by [Pinnacle](https://twitter.com/Pinnacle) - Pinnacle API Documentation
 *    [`sample-data`](https://github.com/metrica-sports/sample-data) by [Metrica Sports](https://twitter.com/MetricaSports)
 *    [`shot-plotter`](https://github.com/nguyenank/shot-plotter) by [An Nguyen](https://twitter.com/nguyenank_) - web application for plotting events on a sport's playing area with a single click, while keeping track of any other details. Supports download and upload of .csv files
-*    [`stadiums`](https://github.com/openfootball/stadiums) by [openfootball](https://github.com/openfootball) - free open public domain football stadium data
+*    [`stadiums`](https://github.com/openfootball/stadiums) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - free open public domain football stadium data
 *    [`soccer`](https://github.com/octonion/soccer) by [Christopher D. Long](https://twitter.com/octonion) - soccer analytics datasets
 *    [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) by [Jan Van Haaren](https://twitter.com/janvanhaaren)
 *    [`Sports_Data_Reference`](https://github.com/meysubb/Sports_Data_Reference) by [Meyappan Subbaiah](https://twitter.com/msubbaiah1)
 *    [`Stats_in_Sports_2021`](https://github.com/zbinney/Stats_in_Sports_2021) by [Zachary Binney](https://twitter.com/binney_z) - materials for the Statistics in Sports class for first-year undergrads
 *    [`theFPLkiwi`](https://github.com/theFPLkiwi/theFPLkiwi) by [The FPL Kiwi](https://twitter.com/theFPLkiwi) - Kiwi shared stats/resources
-*    [`worldcup.json`](https://github.com/openfootball/worldcup.json) by [openfootball](https://github.com/openfootball) - free open public domain football data for the world cups in JSON incl. Qatar 2022, Russia 2018 and more 
+*    [`worldcup.json`](https://github.com/openfootball/worldcup.json) by [football.db](https://github.com/openfootball) ([Gerald Bauer](https://github.com/geraldb)) - free open public domain football data for the world cups in JSON incl. Qatar 2022, Russia 2018 and more 
 *    [`worldcup`](https://github.com/jfjelstul/worldcup) by [https://twitter.com/joshfjelstul](https://github.com/jfjelstul/worldcup) - a comprehensive database on the FIFA World Cup
 
 
