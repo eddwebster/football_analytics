@@ -405,7 +405,7 @@ Credit to the following resources that were all used to plug gaps in this resour
 <a href="#table-of-contents">Back to Contents</a>
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
 
 <h3 id="getting-started"> :runner: Getting Started with Football Analytics</h3>
@@ -949,6 +949,7 @@ The following GitHub repositories are either repos that I have found and recomme
 *    [`fpl-optimiser`](https://github.com/Torvaney/fpl-optimiser) by [Ben Torvaney](https://twitter.com/Torvaney) - optimise FPL squads
 *    [`friends-of-tracking-viz-lecture`](https://github.com/petermckeeverPerform/friends-of-tracking-viz-lecture) by [Peter McKeever](https://twitter.com/petermckeever) - repo to hold pdfs, notebooks, and data for the ['Good practice in data visualisation'](https://www.youtube.com/watch?v=md0pdsWtq_o) webinar for [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w)
 *    [`FutbolAnalysis`](https://github.com/egudino20/FutbolAnalysis) by [Enrique Gudino De Grote](https://twitter.com/egudi_analysis) -  code [Enrique](https://twitter.com/egudi_analysis) uses to create his visuals
+*    [`Get-Goalside-newsletter-public-code`](https://github.com/mrkthmpsn/Get-Goalside-newsletter-public-code) by [Mark THompson](https://twitter.com/tweetsbymarkt) -  code relating to [Get Goalside](https://www.getgoalsideanalytics.com/) newsletter posts
 *    [`google-football-pytorch`](https://github.com/TianhongDai/google-football-pytorch) by [Tianhong Dai](https://github.com/TianhongDai) - a PyTorch implementation of [`Google Research Football`](https://github.com/google-research/football)
 *    [`Google Research Football`](https://github.com/google-research/football) - an RL environment based on open-source game Gameplay Football, created by the Google Brain team for research purposes
 *    [`how-to-expected-goals`](https://github.com/JanVanHaaren/how-to-expected-goals) by [Jan Van Haaren](https://twitter.com/JanVanHaaren) and [SciSports](https://twitter.com/SciSportsNL) - repository for a how-to on training an expected-goals model for football. See the accompany article: '[Tech how-to: build your own Expected Goals model](https://www.scisports.com/tech-how-to-build-your-own-expected-goals-model/)' abd Bitbucket repository [[link](https://bitbucket.org/scisports/ssda-how-to-expected-goals/src)]
@@ -1308,7 +1309,7 @@ For a Twitter thread of the football analytics blogs from 2009 an earlier, see t
 *    [Football Whispers](https://www.footballwhispers.com/)
 *    [Futbol AnalysR](https://www.futbolanalysr.com/) by [Josh Trewin](https://twitter.com/futbolanalysr)
 *    [The Futebolist](https://medium.com/@thefutebolist) by [Ashwin Raman](https://twitter.com/AshwinRaman_)
-*    [Get Goalside!](https://getgoalside.substack.com/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark)
+*    [Get Goalside!](https://www.getgoalsideanalytics.com/) by [Mark Thompson](https://twitter.com/tweetsbymarkt)
 *    [The Harvard Sports Analysis Collective](http://harvardsportsanalysis.org/topics/soccer/)
 *    [Liam Henshaw](https://twitter.com/HenshawAnalysis)'s [Medium blog](https://henshawanalysis.medium.com/)
 *    [Hockey Graphs](https://hockey-graphs.com/)
@@ -1406,7 +1407,6 @@ See the following webpages of conference papers per year (where available):
 *    [Generalized Action-based Ball Recovery Model using 360° data](https://statsbomb.com/wp-content/uploads/2022/09/Ricardo-Furbino-And-Hugo-Rios-Neto-Generalized-Action-based-Ball-Recovery-Model-using-360%C2%B0-data.pdf) (2022) by Ricardo Furbino And Hugo Rios-Neto
 *    [Identification of Factors Determining Market Value of the Most Valuable Football Players](https://www.researchgate.net/publication/308647882_Identification_of_Factors_Determining_Market_Value_of_the_Most_Valuable_Football_Players) by Sebastian Majewski
 *    [The influence of tactical and match context on player movement in football](https://www.researchgate.net/publication/359071883_The_influence_of_tactical_and_match_context_on_player_movement_in_football) (2022) by Sam Gregory, Sam Robertson, Robert Aughey and Grant Duthie
-
 *    [Is it worth the effort? Understanding and contextualizing physical metrics in soccer](https://www.researchgate.net/publication/359757067_Is_it_worth_the_effort_Understanding_and_contextualizing_physical_metrics_in_soccer) (2022) by Sergio Llana, Borja Burriel, Pau Madrero, Javier Fernández
 *    [Let’s Penetrate the Defense: A Machine Learning Model for Prediction and Valuation of Penetrative Passes](https://dtai.cs.kuleuven.be/events/MLSA22/papers/MLSA22_paper_6278.pdf) (2022) by Pegah Rahimian, Dayana Grayce da Silva Guerra Gomes, Fanni Berkovics and Laszlo Toka
 *    [Looking Beyond the Past: Analyzing the Intrinsic Playing Style of Soccer Teams](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1025.pdf) (2022) by Jeroen Clijmans, Maaike Van Roy and Jesse Davis
@@ -2254,7 +2254,7 @@ Focus on some of the key topics in football analytics. Most of the following res
 <h4 id="history-of-football-analytics"> History of Football Analytics</h4>
 
 *    [Charles Reep Wiki](https://en.wikipedia.org/wiki/Charles_Reep)
-*    [Analytics is older than you think: (re)introducing Charles Reep](https://getgoalside.substack.com/p/analytics-is-older-than-you-think) by [Mark Thompson](https://twitter.com/EveryTeam_Mark) for his newsletter [Get Goalside!](https://getgoalside.substack.com/)
+*    [Analytics is older than you think: (re)introducing Charles Reep](https://www.getgoalsideanalytics.com/p/36315087.analytics-is-older-than-you-think) by [Mark Thompson](https://twitter.com/tweetsbymarkt)) for his newsletter [Get Goalside!](https://www.getgoalsideanalytics.com/)
 *    [The evolution of football data](https://www.twenty3.sport/the-evolution-of-football-data/) by [Mark Thompson](https://twitter.com/EveryTeam_Mark)
 *    [Goal Scoring in Association Football: Charles Reep](https://keithlyons.wordpress.com/2011/02/28/goal-scoring-in-association-football-charles-reep/) by Keith Lyons
 *    [The Charles Reep and Bernard Benjamin Paper 50 Years On (1)](https://keithlyons.me/2018/09/14/the-charles-reep-and-bernard-benjamin-paper-50-years-on-1/) by Keith Lyons
