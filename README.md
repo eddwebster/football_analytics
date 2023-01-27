@@ -852,6 +852,8 @@ For a YouTube playlist of Power BI-football videos and tutorials that I have col
 
 GitHub libraries that are considered to be 'Top rated' are those with 50 or more stars (at the time of writing) and have been indicated with a star emoji (⭐).
 
+For a full list of Football Analytics GitHub repositories and libraries, see the following list on GitHub [[link](https://github.com/stars/eddwebster/lists/football-analytics)].
+
 <h4 id="libraries-python"> Python</h4>
 
 *    [`codeball`](https://github.com/metrica-sports/codeball/) by [Metrica Sports](https://twitter.com/MetricaSports) - data driven tactical and video analysis of soccer games
@@ -898,8 +900,9 @@ GitHub libraries that are considered to be 'Top rated' are those with 50 or more
 
 The following GitHub repositories are either repos that I have found and recommend or are publicly available analytics work in the subject of football with at least 5 stars on GitHub (at the time of writing).
 
-GitHub repositories that are considered to be 'Top rated' are those with 50 or more stars (again, at the time of writing) and have been indicated with a star emoji (⭐).
+GitHub repositories that are considered to be 'Top Rated' are those with 50 or more stars (again, at the time of writing) and have been indicated with a star emoji (⭐).
 
+For a full list of Football Analytics GitHub repositories and libraries, see the following list on GitHub [[link](https://github.com/stars/eddwebster/lists/football-analytics)].
 
 <h4 id="github-repos-python"> Python</h4>
 
