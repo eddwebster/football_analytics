@@ -39,10 +39,13 @@ For more information about this repository and the author, see the following art
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://eddwebster.com/downloads/EddWebsterCV.pdf)
 [![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edd.j.webster@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
+[![Mastadon Badge](https://img.shields.io/badge/Mastadon-6364FF?style=flat&logo=mastadon&logoColor=white)](https://mastodon.skrimmage.com/@eddwebster)
 [![About.me Badge](https://img.shields.io/badge/About.me-00A98F?style=flat&logo=about.me&logoColor=white)](https://about.me/eddwebster/)
+[![Linktree Badge](https://img.shields.io/badge/Linktree-43E660?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/eddwebster)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eddwebster)
+[![Substack Badge](https://img.shields.io/badge/Substack-FF681A?style=flat&logo=substack&logoColor=white)](https://eddwebster.substack.com/)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eddwebster)
 [![Coder Rank Badge](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
@@ -322,9 +325,6 @@ The contents of this GitHub repository is organised as follows:
     │   │   │   │   │   
     │   │   │   │   └── metrica-sports
     │   │   │   │       └── Metrica Sports.ipynb
-    │   │   │   │   
-    │   │   │   ├── statsbomb_dataset
-    │   │   │   │   └── Introduction to Building Expected Goals Models Using StatsBomb 360 Data.ipynb
     │   │   │   │   
     │   │   │   └── opta_dataset
     │   │   │       └── Training of an Expected Goals Model Using Opta Event Data.ipynb
