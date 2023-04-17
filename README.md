@@ -569,10 +569,14 @@ The main providers of this data are SkillCorner and Sportlogiq.
 | Name  | Comments | Source  / method(s) to get the data |
 | ----- | -------- | ----------------------------- |
 | [Elo club rankings](http://clubelo.com/) | Elo ratings for club football based on past results to allow for estimation of each club's strength, allowing predictions for the future. | Data available through: <ul><li>[API](http://clubelo.com/API)</li><li>[`soccerdata`](https://github.com/probberechts/soccerdata) library by [Pieter Robberechts](https://twitter.com/p_robberechts)</li></ul> |
+| [Euro Club Index](https://www.euroclubindex.com/) | Ranking of the football teams in the highest division of all European countries, that shows their relative playing strengths at a given point in time, and the development of playing strengths in time. To see more about the methodology used to calculate these rankings, see the following page [[link](https://www.euroclubindex.com/methodology/)]  | [Link](https://www.euroclubindex.com/) |
+| [FiveThirtyEight Club Ranking](https://projects.fivethirtyeight.com/global-club-soccer-rankings/) | Global Club Soccer Rankings. How 637 international club teams compare by Soccer Power Index | 
+Acquiring the data: <ul><li>[`club-rankings`](https://github.com/tonyelhabr/club-rankings) by [Tony ElHabr](https://twitter.com/TonyElHabr) - historical daily [Opta Power Rankings](https://theanalyst.com/eu/2023/04/who-are-the-best-football-team-in-the-world-opta-power-rankings/) and [FiveThirtyEight Global Club Soccer Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)</li><li>[Webpage](https://data.fivethirtyeight.com/)</li><li>[CSV](https://projects.fivethirtyeight.com/soccer-api/club/spi_matches.csv)</li><li>[GitHub repo](https://github.com/fivethirtyeight/data/tree/master/soccer-spi)</li></ul> |
+| [Opta Power Rankings](https://theanalyst.com/eu/2023/04/who-are-the-best-football-team-in-the-world-opta-power-rankings/) | Opta Power Rankings | 
+Acquiring the data: <ul><li>[`club-rankings`](https://github.com/tonyelhabr/club-rankings) by [Tony ElHabr](https://twitter.com/TonyElHabr) - historical daily [Opta Power Rankings](https://theanalyst.com/eu/2023/04/who-are-the-best-football-team-in-the-world-opta-power-rankings/) and [FiveThirtyEight Global Club Soccer Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)</li> |
 | [UEFA Club Coefficients](https://www.uefa.com/nationalassociations/uefarankings/club/#/yr/2023) | UEFA club coefficient rankings based on the results of all European clubs in UEFA club competition. | Data available through: <ul><li>[UEFA website](https://www.uefa.com/nationalassociations/uefarankings/club/#/yr/2023)</li><li>[TransferMarkt](https://www.transfermarkt.co.uk/statistik/klubrangliste)</li></ul> |
 | [World Football / Soccer Clubs Ranking](https://footballdatabase.com/ranking/world/1) | Club ranking website | [Link](https://footballdatabase.com/ranking/world/1) |
-| [Euro Club Index](https://www.euroclubindex.com/) | Ranking of the football teams in the highest division of all European countries, that shows their relative playing strengths at a given point in time, and the development of playing strengths in time. To see more about the methodology used to calculate these rankings, see the following page [[link](https://www.euroclubindex.com/methodology/)]  | [Link](https://www.euroclubindex.com/) |
-| [FiveThirtyEight Club Ranking](https://projects.fivethirtyeight.com/global-club-soccer-rankings/) | Global Club Soccer Rankings. How 637 international club teams compare by Soccer Power Index | <ul><li>[Webpage](https://data.fivethirtyeight.com/)</li><li>[CSV](https://projects.fivethirtyeight.com/soccer-api/club/spi_matches.csv)</li><li>[GitHub repo](https://github.com/fivethirtyeight/data/tree/master/soccer-spi)</li></ul> |
+
 
 
 <br>
@@ -875,8 +879,8 @@ For a full list of Football Analytics GitHub repositories and libraries, see the
 *    [`soccer_xg`](https://github.com/ML-KULeuven/soccer_xg) ⭐ by [ML KU Leuven](https://github.com/ML-KULeuven)- a Python package for training and analyzing expected goals (xG) models in football
 *    [`soccerdata`](https://github.com/probberechts/soccerdata) ⭐ - scrape soccer data from Club Elo, ESPN, FBref, FiveThirtyEight, Football-Data.co.uk, SoFIFA and WhoScored by [Pieter Robberechts](https://twitter.com/p_robberechts)
 *    [`soccerplots`](https://github.com/Slothfulwave612/soccerplots) ⭐ - a Python package that can be used for making visualisations for football analytics by [Anmol Durgapal](https://twitter.com/slothfulwave612). Now part of the [`mplsoccer`](https://github.com/andrewRowlinson/mplsoccer) package
-*    [`sync.soccer`](https://github.com/huffyhenry/sync.soccer) ⭐ by [Marek Kwiatkowski](https://twitter.com/statlurker) - a Python package to synchronise football datasets, so that an event in one dataset is matched to the corresponding event or snapshot in the other. This repository contains an implementation that aligns Opta's (now Stat Perform) F24 feeds to [ChyronHego](https://chyronhego.com/)'s Tracab files. See the following blog post for methodology [[link](https://kwiatkowski.io/sync.soccer)]
-*    [`tmscrape`](https://github.com/znstrider/tmscrape) - a Python [TransferMarkt](https://www.transfermarkt.co.uk/) webscraper by [danzn1](https://twitter.com/danzn1)
+*    [`sync.soccer`](https://github.com/huffyhenry/sync.soccer) ⭐ by [Marek Kwiatkowski](https://twitter.com/statlurker) - a Python package to synchronise football datasets, so that an event in one dataset is matched to the corresponding event or snapshot in the other. This repository contains an implementation that aligns Opta's (now Stat Perform) F24 feeds to [ChyronHego](https://chyronhego.com/)'s Tracab files. See the following blog post for methodology [[link](https://kwiatkowski.io/sync.soccer)
+*    [`tmscrape`](https://github.com/znstrider/tmscrape) by [danzn1](https://twitter.com/danzn1) - a Python [TransferMarkt](https://www.transfermarkt.co.uk/) webscraper 
 *    [`tyrone_mings`](https://github.com/FCrSTATS/tyrone_mings) ⭐ by [FCrSTATS](https://twitter.com/FC_rstats) - a Python [TransferMarkt](https://www.transfermarkt.co.uk/) webscraper 
 *    [`understat`](https://github.com/amosbastian/understat) ⭐ by [Amos Bastian](https://github.com/amosbastian) - a asynchronous Python package for webscraper for [Understat](https://understat.com/) shooting and player meta data.
 
@@ -1061,6 +1065,7 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 
 *    [`asa-shiny-app`](https://github.com/American-Soccer-Analysis/asa-shiny-appr) by [American Soccer Analysis](https://twitter.com/AnalysisEvolved) - American Soccer Analysis interactive application, built with Shiny. See the Shiny App at the following [[link](https://app.americansocceranalysis.com/)]
 *    [`betScrapeR`](https://github.com/dashee87/betScrapeR) ⭐ by [David Sheehan](https://github.com/dashee87) - R package to scrape live sports betting odds
+*    [`club-rankings`](https://github.com/tonyelhabr/club-rankings) by [Tony ElHabr](https://twitter.com/TonyElHabr) - historical daily [Opta Power Rankings](https://theanalyst.com/eu/2023/04/who-are-the-best-football-team-in-the-world-opta-power-rankings/) and [FiveThirtyEight Global Club Soccer Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
 *    [`Decomposition-of-Expected-Goal-Models`](https://github.com/mcavs/Decomposition-of-Expected-Goal-Models) by [Mustafa Çavuş](https://twitter.com/mustafa__cavus) - repository consists the supplemental materials of the paper: "Decomposition of Expected Goal Models: Aggregated SHAP Values for Analyzing Scoring Potential of Player/Team]"
 *    [`eLPAR-soccer`](https://github.com/kpelechrinis/eLPAR-soccer) by [Konstantinos Pelechrinis](https://twitter.com/kpelechrinis) - respository that includes all the code and data used for developing the expected league points above replacement for soccer as described in "Positional Value in Soccer: Expected League Points Added..."
 *    [`EPVDemo`](https://github.com/dcervone/EPVDemo) by [Dan Cervone](https://twitter.com/dcervone0) - demo of NBA Expected Possession Value model
@@ -2799,6 +2804,11 @@ Section created after seeing the following tweets and threads by [Ashwin Raman](
 <h5 id="relative-league-strength-videos"> Videos</h5>
 
 *    [Mladen Sormaz](https://twitter.com/Mladen_Sormaz)'s [StatsBomb](https://statsbomb.com/)2021 talk [Practical tools for ‘Bridging the gap](https://www.youtube.com/watch?v=GvyHGNMuX7o) (see @ 20m42s)
+
+<h5 id="relative-league-strength-data"> Data</h5>
+
+*    [`club-rankings`](https://github.com/tonyelhabr/club-rankings) by [Tony ElHabr](https://twitter.com/TonyElHabr) - historical daily [Opta Power Rankings](https://theanalyst.com/eu/2023/04/who-are-the-best-football-team-in-the-world-opta-power-rankings/) and [FiveThirtyEight Global Club Soccer Rankings](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/)
+
 
 <h5 id="relative-league-strength-miscellaneous"> Miscellaneous</h5>
 
