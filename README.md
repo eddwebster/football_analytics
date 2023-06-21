@@ -463,7 +463,12 @@ Good resources for those new for the use of data in football:
      +    [Aaron Moniz](https://twitter.com/amonizfootball)'s Tweet and responses [[link](https://twitter.com/amonizfootball/status/1480244012770639875)]
 *    LinkedIn Posts:
      +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
-     +    The following [LinkedIn post](https://www.linkedin.com/posts/hadisotudeh_football-github-datasets-activity-6960611122760531969-naeV/) by [Hadi Sotudeh](https://twitter.com/sarehang)
+     +    The following LinkedIn posts by [Hadi Sotudeh](https://twitter.com/sarehang):
+          -    [How to start in football analytics](https://www.linkedin.com/posts/hadisotudeh_football-github-datasets-activity-6960611122760531969-naeV/)
+          -    [“Soccer Analytics” course summaries (2022)](https://www.linkedin.com/posts/hadisotudeh_eth-uefa-euro-activity-6940579849644212225-lTMf/)
+          -    [“Soccer Analytics” course summaries (2023)](https://www.linkedin.com/posts/hadisotudeh_students-projects-matchanalysis-activity-7074738585316257793-I8wB/)
+          -    [How to get a #job in football analytics](https://www.linkedin.com/posts/hadisotudeh_football-job-linkedin-activity-6963152537088602113-qz0R/)
+          -    [Other questions about job opportunities](https://www.linkedin.com/posts/hadisotudeh_job-footballanalytics-workpermit-activity-6965676165449535488-u4O3/)
 *    Videos:
      +    [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) videos:
           -    [How to become a football data scientist](https://www.youtube.com/watch?v=9J8CwOtjOiw) with Pascal Bauer, [Javier Fernández](https://twitter.com/JaviOnData), [Sudarshan 'Suds Gopaladesikan](https://twitter.com/suds_g), [Fran Peralta](https://twitter.com/PeraltaFran23), and [David Sumpter](https://twitter.com/Soccermatics)
@@ -1755,6 +1760,7 @@ Playlists created by others
 *    [Football Player Ratings](https://www.youtube.com/channel/UC64jAkIQX-hD3pSnnOmr2MA) by [Lars Magnus Hvattum](https://twitter.com/FLSimulator)
 *    [Football Whispers](https://www.youtube.com/channel/UCKrQ1kewgRUbrwl_LcqJ6pQ)
 *    [Futbol AnalysR](https://www.youtube.com/c/FutbolAnalysR/videos) by [Josh Trewin](https://twitter.com/joshtrewin7) - for PowerBI tutorials
+*    [Hadi Sotudeh](https://www.youtube.com/@hadisotudeh) by [Hadi Sotudeh](https://twitter.com/hadisotudeh)
 *    [Mark Glickman](https://www.youtube.com/channel/UC-gtC2WYRAr_4eYRIUb4ovg) – for NESSIS talks, uploaded to his personal channel. Old talks are available on his [Metacafe channel](https://www.metacafe.com/channels/Mark%20Glickman/). See the official website [[link](http://www.nessis.org/)]
 *    [McKay Johns](https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg)'s YouTube channel - for Python and Data Science tutorials
 *    [Ninad Barbadikar](https://www.youtube.com/channel/UCggSBYROL0h_B2sGoEEPvWA)'s YouTube channel - for Tableau tutorials
