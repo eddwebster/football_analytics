@@ -2413,7 +2413,7 @@ The list of clubs is quite UK-centric. I would like to add more clubs but it tak
 
 <h4 id="jobs-betting-companies"> Other Website Lists</h4>
 
-*    [The Ultimate List of Football Job Sites]([https://www.smartodds.co.uk/Careers/Vacancies](https://analyisport.com/complete-list-of-football-job-websites/)) by [analyisport](https://analyisport.com/)
+*    [The Ultimate List of Football Job Sites](https://www.smartodds.co.uk/Careers/Vacancies](https://analyisport.com/complete-list-of-football-job-websites/) by [analyisport](https://analyisport.com/)
 
 
 
