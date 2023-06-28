@@ -2251,7 +2251,7 @@ The list of clubs is quite UK-centric. I would like to add more clubs but it tak
 *    [Hull City](https://www.wearehullcity.co.uk/club/careers/)
 *    [Ipswich Town](https://www.itfc.co.uk/club/jobs/)
 *    [Leeds United](https://www.leedsunited.com/club/careers)
-*    [Leicester City](https://www.lcfc.com/club/careers/vacancies?lang=en)
+*    [Leicester City](https://www.lcfc.com/club/careers/vacancies?lang=en). See also the [LCFC Analysis Twitter account](https://twitter.com/LCFC_Analysis)
 *    [Middlesbrough](https://mfc.co.uk/careers/)
 *    [Millwall](https://www.millwallfc.co.uk/club/currentvacancies/)
 *    [Norwich City](https://careers.canaries.co.uk/)
@@ -2270,11 +2270,59 @@ The list of clubs is quite UK-centric. I would like to add more clubs but it tak
 
 <h5 id="jobs-clubs-league-one"> League One</h5>
 
-TBA
+*    [Barnsley](https://www.barnsleyfc.co.uk/club/vacancies/)
+*    [Blackpool](https://www.blackpoolfc.co.uk/club/current-vacancies/)
+*    [Bolton Wanderers](https://www.bwfc.co.uk/club/vacancies/)
+*    [Bristol Rovers](https://www.bristolrovers.co.uk/club/careers/)
+*    [Burton Albion](https://www.burtonalbionfc.co.uk/club/vacancies/)
+*    [Cambridge United](https://www.cambridgeunited.com/news/vacancies/)
+*    [Carlisle United](https://www.carlisleunited.co.uk/club/job-vacancies/)
+*    [Charlton Athletic](https://www.charltonafc.com/vacancies)
+*    Cheltenham Town
+*    [Derby County](https://www.dcfc.co.uk/page/jobsandcareers)
+*    [Cheltenham Town](https://www.exetercityfc.co.uk/club/vacancies/)
+*    [Fleetwood Town](https://www.fleetwoodtownfc.com/club-ftfc/vacancies/)
+*    [Leyton Orient](https://www.leytonorient.com/club/vacancies)
+*    [Lincoln City](https://www.weareimps.com/club/recruitment/)
+*    [Northampton Town](https://www.ntfc.co.uk/club/vacancies/)
+*    [Oxford United](https://www.oufc.co.uk/contact-us/vacancies-page/)
+*    [Peterborough United](https://www.theposh.com/club/club-information/job-vacancies)
+*    [Port Vale](https://www.port-vale.co.uk/vacancies/)
+*    [Portsmouth](https://www.portsmouthfc.co.uk/who-we-are/work-for-us/)
+*    [Reading](https://www.readingfc.co.uk/club/vacancies/)
+*    [Shrewsbury Town](https://www.foundationstfc.co.uk/our-careers/)
+*    [Stevenage](https://stevenagefcfoundation.com/vacancies/)
+*    [Wigan Athletic](https://wiganathletic.com/club-information/employment/)
+*    [Wycombe Wanderers](https://www.wwfc.com/club/jobs-and-careers/)
+
 
 <h4 id="jobs-clubs-league-two"> League Two</h4>
 
-TBA
+*    Accrington Stanley
+*    [AFC Wimbledon](https://www.afcwimbledon.co.uk/news/2023/may/club-vacancies/)
+*    Barrow
+*    [Bradford City](https://www.bradfordcityafc.com/club/careers/)
+*    [Colchester United](https://www.cu-fc.com/jobs/)
+*    [Crawley Town](https://www.crawleytownfc.com/club/Vacancies/)
+*    [Crewe Alexandra](https://www.crewealex.net/club/vacancies/)
+*    [Doncaster Rovers](https://www.doncasterroversfc.co.uk/club/club-vacancies/)
+*    [Forest Green Rovers](https://jobs.ecotricity.co.uk/vacancies/vacancy-search-results.aspx)
+*    [Gillingham](https://www.gillinghamfootballclub.com/club/jobs-at-priestfield/)
+*    [Grimsby Town](https://gtfc.co.uk/category/vacancies/)
+*    [Harrogate Town](https://www.harrogatetownafc.com/club2/vacancies/)
+*    [Mansfield Town](https://www.mansfieldtown.net/news/2012/november/vacancies-at-the-stags/)
+*    [Milton Keynes Dons](https://www.stadiummk.com/careers/)
+*    [Morecambe](https://www.morecambefc.com/club/current-vacancies/)
+*    [Newport County](https://www.newport-county.co.uk/vacancies/)
+*    [Notts County](https://www.nottscountyfc.co.uk/club/job-vacancies/)
+*    [Salford City](https://salfordcityfc.co.uk/category/job-opportunities/)
+*    [Stockport County](https://www.stockportcounty.com/job-vacancies-at-stockport-county/)
+*    [Sutton United](https://www.suttonunited.net/about/vacancies/)
+*    [Swindon Town](https://www.swindontownfc.co.uk/club/careers/)
+*    [Tranmere Rovers](https://www.tranmererovers.co.uk/club/job-vacancies/)
+*    [Walsall](https://www.saddlers.co.uk/club/job-vacancies/)
+*    [Wrexham](https://www.wrexhamafc.co.uk/vacancies/)
+
 
 <h5 id="jobs-clubs-scottish-premier-league"> Scottish Premier League</h5>
 
@@ -2295,8 +2343,8 @@ TBA
 <h4 id="jobs-analytics-companies"> Analytics Companies and Consultancies</h4>
 
 *    [driblab](https://www.driblab.com/category/careers/)
-*    [Genius Sports](https://www.geniussports.com/careers) and [link](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123)
-*    [Gracenote](https://www.gracenote.com/company/careers/) and [link](https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville)
+*    [Genius Sports](https://www.geniussports.com/careers) and [[link](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123)]
+*    [Gracenote](https://www.gracenote.com/company/careers/) and [[link](https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville)]
 *    [Football Radar](https://www.footballradar.com/careers/)
 *    [Global Sports](https://www.globalsportsjobs.com/jobs)
 *    [Hudl](https://www.hudl.com/jobs#jobs)
@@ -2307,7 +2355,7 @@ TBA
 *    [SkillCorner](https://www.welcometothejungle.com/en/companies/skillcorner/jobs)
 *    [SRC FTBL](https://www.srcftbl.com/)
 *    [Statsbomb](https://statsbomb.com/careers/)
-*    [Stats Perform](https://www.optasports.com/about/work-for-stats-perform/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
+*    [Stats Perform](https://www.optasports.com/about/work-for-stats-perform/) and [[link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)]
 *    [Sportec Solutions](https://sportecsolutions.recruitee.com/)
 *    [Prospect Sporting Insights](https://prospectsportinginsights.co.uk/careers/)
 *    [TwentyFirst Group](https://www.twentyfirstgroup.com/contact/careers/)
