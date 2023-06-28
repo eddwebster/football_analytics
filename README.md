@@ -2210,37 +2210,163 @@ The following includes non-football competitions.
 
 <h3 id="jobs"> :briefcase: Jobs</h3>
 
-For live job postings tracked by the community, check the Jobs channel of the [Football in Numbers](https://discord.gg/WFdRWHK7HG) Discord server
+For live job postings tracked by the community, check the Jobs channel of the [Football in Numbers](https://discord.gg/WFdRWHK7HG) Discord server.
+
+<h4 id="jobs-clubs"> Clubs</h4>
+
+The list of clubs is quite UK-centric. I would like to add more clubs but it takes a bit of time.
+
+<h5 id="jobs-clubs-premier-league"> Premier League</h5>
+
+*    [Arsenal](https://careers.arsenal.com/)
+*    [Aston Villa](https://careers.avfc.co.uk/)
+*    [Bournemouth](https://www.afcb.co.uk/careers/)
+*    [Brentford](https://www.brentfordfc.com/en/careers)
+*    [Brighton & Hove Albion](https://www.brightonandhovealbion.com/club/club/careers)
+*    [Burnley](https://www.burnleyfootballclub.com/more/more-club/vacancies)
+*    [Chelsea](https://www.chelseafc.com/en/careers)
+*    [Crystal Palace](https://www.cpfc.co.uk/information/vacancies/)
+*    [Everton](https://www.evertonfc.com/club/careers/vacancies)
+*    [Fulham](https://careers.fulhamfc.com/)
+*    [Liverpool](https://jobsearch.liverpoolfc.com/)
+*    [Luton Town](https://careers.lutontown.co.uk/)
+*    [Manchester City](https://www.cityfootballgroup.com/careers/). See also the [City Football Insights Twitter account](https://twitter.com/CFG_Insights)
+*    [Manchester United](https://www.manutd.com/en/club/jobs)
+*    [Newcastle United](https://www.nufc.co.uk/club/jobs/)
+*    [Nottingham Forest](https://www.nottinghamforest.co.uk/club-information/jobs-at-forest/)
+*    [Sheffield United](https://www.sufc.co.uk/club/vacancies/)
+*    [Tottenham Hotspur](https://www.tottenhamhotspur.com/the-club/careers/)
+*    [West Ham United](https://www.careers.whufc.com/)
+*    [Wolverhampton Wanderers](https://www.wolves.co.uk/club/vacancies/)
+
+
+<h5 id="jobs-clubs-championship"> Championship</h5>
+
+*    [Birmingham City](https://www.bcfc.com/more/club/vacancies)
+*    [Blackburn Rovers](https://www.rovers.co.uk/club/job-vacancies/)
+*    [Bristol City](https://www.bcfc.co.uk/robins-foundation/come-and-work-with-us/)
+*    [Cardiff City](https://www.cardiffcityfc.co.uk/club/club-vacancies)
+*    [Coventry City](https://www.ccfc.co.uk/club/vacancies/)
+*    [Huddersfield Town](https://www.htafc.com/club/careers/)
+*    [Hull City](https://www.wearehullcity.co.uk/club/careers/)
+*    [Ipswich Town](https://www.itfc.co.uk/club/jobs/)
+*    [Leeds United](https://www.leedsunited.com/club/careers)
+*    [Leicester City](https://www.lcfc.com/club/careers/vacancies?lang=en)
+*    [Middlesbrough](https://mfc.co.uk/careers/)
+*    [Millwall](https://www.millwallfc.co.uk/club/currentvacancies/)
+*    [Norwich City](https://careers.canaries.co.uk/)
+*    [Plymouth Argyle](https://www.pafc.co.uk/club/recruitment)
+*    [Preston North End](https://www.pnefc.net/pnecet/vacancies/)
+*    [Queens Park Rangers](https://www.qpr.co.uk/club/vacancies/)
+*    [Rotherham United](https://www.themillers.co.uk/club/vacancies/)
+*    [Sheffield Wednesday](https://www.swfc.co.uk/club/swfc-vacancies/)
+*    [Southampton](https://www.southamptonfc.com/en/job-opportunities)
+*    [Stoke City](https://www.stokecityfc.com/category/job-vacancies/)
+*    [Sunderland](https://www.safc.com/club/jobs)
+*    [Swansea City](https://www.swanseacity.com/vacancies)
+*    [Watford](https://www.watfordfc.com/club/careers)
+*    [West Bromwich Albion](https://www.wba.co.uk/club/vacancies)
+
+
+<h5 id="jobs-clubs-league-one"> League One</h5>
+
+TBA
+
+<h4 id="jobs-clubs-league-two"> League Two</h4>
+
+TBA
+
+<h5 id="jobs-clubs-scottish-premier-league"> Scottish Premier League</h5>
+
+*    [Aberdeen](https://www.afc.co.uk/club/about-us/careersafc/)
+*    [Celtic](https://www.celticfc.com/club/jobs-at-celtic/)
+*    [Dundee](https://dundeefc.co.uk/news/)
+*    [Heart of Midlothian](https://www.heartsfc.co.uk/more/key-links/careers)
+*    [Hiberian](https://www.hibernianfc.co.uk/our-club/vacancies)
+*    [Kilmarnock](https://kilmarnockfc.co.uk/vacancies/)
+*    [Livingston](https://livingstonfc.co.uk/tag/job-opportunity/)
+*    [Motherwell](https://www.motherwellfc.co.uk/club/vacancies/)
+*    [Rangers](https://www.rangers.co.uk/recruitment/2fPLXh9hw0yEWy1nCH5FD1)
+*    [Ross County](https://www.rosscountyfootballclub.co.uk/vacancies)
+*    [St. Johnstone](https://www.perthstjohnstonefc.co.uk/news/article/1213)
+*    [St. Mirren](https://www.stmirren.com/all-news/4782-vacancies-at-st-mirren-football-club)
+
+
+<h4 id="jobs-analytics-companies"> Analytics Companies and Consultancies</h4>
+
+*    [driblab](https://www.driblab.com/category/careers/)
+*    [Genius Sports](https://www.geniussports.com/careers) and [link](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123)
+*    [Gracenote](https://www.gracenote.com/company/careers/) and [link](https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville)
+*    [Football Radar](https://www.footballradar.com/careers/)
+*    [Global Sports](https://www.globalsportsjobs.com/jobs)
+*    [Hudl](https://www.hudl.com/jobs#jobs)
+*    [Metrica Sports](https://apply.workable.com/metrica-sports/)
+*    [Opta](https://www.optasports.com/about/work-for-opta/)
+*    [Second Spectrum](https://www.secondspectrum.com/careers/opportunities.html)
+*    [SciSports](https://www.scisports.com/jobs/)
+*    [SkillCorner](https://www.welcometothejungle.com/en/companies/skillcorner/jobs)
+*    [SRC FTBL](https://www.srcftbl.com/)
+*    [Statsbomb](https://statsbomb.com/careers/)
+*    [Stats Perform](https://www.optasports.com/about/work-for-stats-perform/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
+*    [Sportec Solutions](https://sportecsolutions.recruitee.com/)
+*    [Prospect Sporting Insights](https://prospectsportinginsights.co.uk/careers/)
+*    [TwentyFirst Group](https://www.twentyfirstgroup.com/contact/careers/)
+*    [Wyscout](https://wyscout.com/careers/#job-openings) and careers@wyscout.com
+*    [Zelus Analytics](https://zelusanalytics.com/#work-with-us-section)
+
+
+<h4 id="jobs-associations-and-organisations"> Associations and Organisations</h4>
+
+*    [English Football League](https://www.efl.com/-more/jobs/)
+*    [EFL Trust](https://www.efltrust.com/job-vacancies/)
+*    [The FA](https://careers.thefa.com/jobs/)
+*    [FIFA](https://jobs.fifa.com/)
+*    [Football Association of Ireland](https://www.fai.ie/careers.php)
+*    [Football Association of Wales](https://faw.cymru/vacancies/)
+*    [Irish Football Association](https://www.irishfa.com/irish-football-association/about-the-ifa/jobs)
+*    [MLS Careers](https://jobs.mlssoccer.com/)
+*    [The Premier League](https://premierleague.pinpointhq.com/)
+*    [Scottish FA](https://www.scottishfa.co.uk/scottish-fa/organisation/working-at-the-scottish-fa/vacancies/)
+*    [Sport Scotland](https://sportscotland.org.uk/jobs/)
+*    [UEFA](https://www.uefa.com/insideuefa/careers/job-opportunities/)
+*    [UK Sport](https://www.uksport.gov.uk/jobs?q=football&sort=r)
+
+
+<h4 id="jobs-betting-companies"> Betting Companiess</h4>
+
+*    [Smart Odds](https://www.smartodds.co.uk/Careers/Vacancies)
+
+
+<h4 id="jobs-media"> Media</h4>
+
+*    [BBC](https://careers.bbc.co.uk/)
+*    [Channel 4](https://careers.channel4.com/)
+*    [DAZN](https://careers.dazn.com/jobs/)
+*    [Discovery Sports](https://discoverysports.com/page/careers-3)
+*    [ITV Sport](https://careers.itv.com/teams/media-entertainment/itv-sport)
+*    [Sky Sports](https://careers.sky.com/ourteams/sky-sports/)
+
+
+<h4 id="jobs-job-boards"> Job Boards</h4>
 
 *    [Association of Professional Football Analysis](https://apfa.io/jobs/)
-*    [The Video Analyst](https://thevideoanalyst.com/jobs/) - [Rob Carroll](https://twitter.com/thevideoanalyst) posts many of the jobs going in football on his own website. Make sure to also follow him on Twitter ([@thevideoanalyst](https://twitter.com/thevideoanalyst))
-*    Job sites:
-     +    [The Football Scouts](https://www.thefootballscouts.com/live-jobs)
-     +    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/)
-     +    [Sports Jobs UK](https://www.sportsjobsuk.com/jobs)
-     +    [Training Ground Guru Job Board](https://trainingground.guru/submit-a-job)
-*    Data companies:
-     +    [Statsbomb](https://statsbomb.com/careers/)
-     +    [Opta](https://www.optasports.com/about/work-for-opta/)
-     +    [Stats Perform Job Opportunities](https://www.optasports.com/about/work-for-stats-perform/) and [link](https://performacademy.csod.com/ux/ats/careersite/3/home?c=performacademy)
-     +    [Wyscout](https://wyscout.com/careers/#job-openings) and careers@wyscout.com
-     *    [SkillCorner](https://www.welcometothejungle.com/en/companies/skillcorner/jobs)
-     +    [Hudl](https://www.hudl.com/jobs#jobs)
-     +    [Metrica Sports](https://apply.workable.com/metrica-sports/)
-     +    [Second Spectrum](https://www.secondspectrum.com/careers/opportunities.html)
-     +    [SciSports](https://www.scisports.com/jobs/)
-     +    [Gracenote](https://www.gracenote.com/company/careers/) and [link](https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville)
-     +    [Genius Sports](https://www.geniussports.com/careers) and [link](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123)
-*    Clubs (this list could become quite long but I've included the ones I've got round to seeing, so far:
-     +    [City Football Group](https://www.cityfootballgroup.com/careers/football/). See also the [City Football Insights Twitter account](https://twitter.com/CFG_Insights)
-     +    [Arsenal](https://www.arsenaljobs.com/)
-*    Consultancies:
-     +    [TwentyFirst Group](https://www.twentyfirstgroup.com/contact/careers/) (formally 21st Club)
-*    Betting companies:
-     +    [Smart Odds](https://www.smartodds.co.uk/Careers/Vacancies)
-*    Others / to sort:
-     +    [Global Sports](https://www.globalsportsjobs.com/jobs)
-     +    [Football Radar](https://www.footballradar.com/careers/)
+*    [Freelance Football Opps](https://freelancefootballopps.com/)
+*    [Football Careers](https://www.footballcareers.com/)
+*    [The Football Scouts](https://www.thefootballscouts.com/live-jobs)
+*    [FutbolJobs](https://futboljobs.com/en/search-football-jobs/)
+*    [Global Sports](https://www.globalsportsjobs.com/)
+*    [Jobs4Football](https://jobs4football.com/)
+*    [JobsInFootball](https://jobsinfootball.com/)
+*    [Sports Jobs UK](https://www.sportsjobsuk.com/jobs)
+*    [Teamworkonline](https://www.teamworkonline.com/)
+*    [Training Ground Guru Job Board](https://trainingground.guru/submit-a-job). See also the [Training Ground Guru Twitter account](https://twitter.com/ground_guru)
+*    [Women in Football](https://www.womeninfootball.co.uk/jobs-and-courses/)
+
+
+<h4 id="jobs-betting-companies"> Other Website Lists</h4>
+
+*    [The Ultimate List of Football Job Sites]([https://www.smartodds.co.uk/Careers/Vacancies](https://analyisport.com/complete-list-of-football-job-websites/)) by [analyisport](https://analyisport.com/)
+
 
 
 <a href="#table-of-contents">Back to Contents</a>
