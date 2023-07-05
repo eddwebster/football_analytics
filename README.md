@@ -2346,6 +2346,7 @@ The list of clubs is quite UK-centric. I would like to add more clubs but it tak
 *    [Genius Sports](https://www.geniussports.com/careers) and [[link](https://geniussports.gr8people.com/index.gp?method=cappportal.showPortalSearch&sysLayoutID=123)]
 *    [Gracenote](https://www.gracenote.com/company/careers/) and [[link](https://careers.nielsen.com/en-us/?s=&post_type=openings&regions=na&locations=ca-emeryville&teams=&types=&schedules=&orderby=&order=&North+America=na&ame=&asia-pacific=&europe=&greater-china=&india=&latam=&na=ca-emeryville)]
 *    [Football Radar](https://www.footballradar.com/careers/)
+*    [Gemini Sports Analytics](https://geminisports.co/career/)
 *    [Global Sports](https://www.globalsportsjobs.com/jobs)
 *    [Hudl](https://www.hudl.com/jobs#jobs)
 *    [Metrica Sports](https://apply.workable.com/metrica-sports/)
