@@ -32,8 +32,6 @@ The README of this repository is a concise resources guide of learning materials
 
 If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
-For an Excel spreadsheet version of this README to keep track of the parts you have already read/worked on, see the following Google Sheets spreadsheet kindly put together by [Melanie Loeper](https://twitter.com/mel_loeper) [[link](https://docs.google.com/spreadsheets/d/1FKk0uvKMHPFZ2p3D42f4ZqQD6Si3LIZOf2Y5mo0k4as/edit?usp=sharing)].
-
 For more information about this repository and the author, see the following:
 
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://eddwebster.com/downloads/EddWebsterCV.pdf)
