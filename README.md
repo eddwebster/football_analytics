@@ -163,6 +163,7 @@ For more information about this repository and the author, see the following:
             <li><a href="#dixon-coles">Dixon Coles Modeling</a></li>
             <li><a href="#player-similarity-and-style-analysis">Player Similarity and Style Analysis</a></li>
             <li><a href="#team-playing-style-analysis">Team Playing Style Analysis</a></li>
+            <li><a href="#player-rating-modelling">Player Rating</a></li>
             <li><a href="#rl-for-football-simulation">Reinforcement Learning for Football Simulation</a></li>
             <li><a href="#set-pieces">Set Pieces</a></li>
             <li><a href="#radars">Radars</a></li>
@@ -2811,6 +2812,37 @@ For a collated list of Expected Goals literature collated by [Keith Lyons](https
 *    [Karol Kurach (Google Brain) "Google Research Football: Learning to Play Football with Deep RL](https://www.youtube.com/watch?v=lsN5y2frNig)
 *    [Google Research Football](https://www.youtube.com/watch?v=esQvSg2qeS0) by Piotr Stanczyk
 *    [Google's AI Plays Football…For Science!](https://www.youtube.com/watch?v=Uk9p4Kk98_g) by Two Minute Papers
+
+
+<h4 id="player-rating-modelling"> Player Rating Modelling</h4>
+
+<h5 id="player-rating-modelling-written-pieces"> Written Pieces</h5>
+
+*    [WhoScored Ratings Explained](https://www.whoscored.com/Explanations)
+*    [Introducing Opta Player Ratings: Premier League Star Players in 2022-23](https://theanalyst.com/eu/2023/07/introducing-opta-player-ratings-premier-league-star-players-in-2022-23/)
+*    [Ten for exceptional: Flashscore introduces football player ratings into our stats universe](https://www.flashscore.com/news/ten-for-exceptional-flashscore-introduces-football-player-ratings-into-our-stats-universe/0jG6lQhn/)
+*    [Henshaw Analysis player ratings — methodology, discussion & examples](https://henshawanalysis.medium.com/henshaw-analysis-player-ratings-methodology-discussion-examples-555351393b9a) by [Liam Henshaw](https://twitter.com/henshawanalysis)
+*    [AW Role Scouting System: The Launch](https://andywatsonsport.wordpress.com/2022/02/02/aw-role-scouting-system-the-launch/) by [Andy Watson](https://twitter.com/andywatsonsport). See video [[link](https://www.youtube.com/watch?v=bdrKLsGrZX4&feature=youtu.be&ab_channel=AndrewWatson)]
+
+<h5 id="player-rating-modelling-podcasts"> Podcasts</h5>
+
+*    [How is data actually used to scout players? | Tifo Football Podcast Special](https://www.youtube.com/watch?v=Nm7kc72QVfg&ab_channel=TifoIRL) with [Dan Pelchen](https://au.linkedin.com/in/dan-pelchen-7b78a674)
+*    [Tifo Talks: The role tactics play in data analysis](https://open.spotify.com/episode/0iks6K3Bl0FK2F9raFNKeM) with [Dan Pelchen](https://au.linkedin.com/in/dan-pelchen-7b78a674)
+
+
+<h5 id="player-rating-modelling-github"> Github Repos</h5>
+
+*   [`Football-Player-Rating-Predictions`](https://github.com/asquare14/Football-Player-Rating-Predictions)
+*   [`Player-Rating-Project`](https://github.com/EmilDanielsson/Player-Rating-Project)
+*   [`whoscored`](https://github.com/junhwanjang/whoscored)
+
+<h5 id="player-rating-modelling-companies"> Companies</h5>
+
+*    [Traits Insights]([https://www.youtube.com/watch?v=Nm7kc72QVfg&ab_channel=TifoIRL](https://www.traitsinsights.com/))
+
+
+
+
 
 <h4 id="team-playing-style-analysis"> Team Playing Style Analysis</h4>
 
