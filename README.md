@@ -1892,8 +1892,9 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 *    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA)
 *    [Training Ground Guru](https://open.spotify.com/show/1Kn9l6LifZ2AWmZri9XWHn)
 *    [Three At The Back](https://open.spotify.com/show/4NbunP2podS7hIPD2BVlYF?si=OFwVjOucQP6LWZmnGmGqjg) by Opta Pro
+*    [Winning with Data](https://open.spotify.com/show/06XLp6E2zjLUQdq2dSpaBh?si=b22c099b327d4318) by [Gemini Sports Analytics](https://geminisports.co/)
 *    [xPodcast](https://modernfitba.podomatic.com/) by [Modern Fitba](https://www.modernfitba.com/) (Scottish football)
-*    [Zonal Marking](https://open.spotify.com/show/1o2ZogNQQmPKCntcdKnXPT) with [Michael Cox](https://twitter.com/Zonal_Marking), [Tom Worville](https://twitter.com/Worville) and [Ali Maxwell](https://twitter.com/AliMaxwell_).
+*    [Zonal Marking](https://open.spotify.com/show/1o2ZogNQQmPKCntcdKnXPT) with [Michael Cox](https://twitter.com/Zonal_Marking), [Mark Carey](https://twitter.com/MarkCarey93) and [Ali Maxwell](https://twitter.com/AliMaxwell). Previously [Tom Worville](https://twitter.com/Worville) 
 
 <h4 id="notable-episodes"> Notable Episodes (including non-football-data-specific podcasts)</h4>
 
