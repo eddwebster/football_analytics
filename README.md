@@ -28,7 +28,7 @@
 
 <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="225px"></a>
 
-The README of this repository is a concise resources guide of learning materials, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the open source football analytics community. This GitHub repository and resources list is always a work in progress, with new resources added semi-regularly. If you feel there's any resource(s) that I've missed, please feel free to create a pull request or send me a message on the links above and I'll get back to you as quick as I can!
+The README of this repository is a concise resources guide of learning materials, data sources, libraries, papers, blogs, , etc., created by all those that have made contributions to the open source football analytics community. This GitHub repository and resources list is always a work in progress, with new resources added semi-regularly. If you feel there's any resource(s) that I've missed, please feel free to create a pull request or send me a message on the links above and I'll get back to you as quick as I can!
 
 If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
@@ -136,7 +136,7 @@ For more information about this repository and the author, see the following:
             <li><a href="#match-highlights">Match Highlights</a></li>
             <li><a href="#video-other">Other</a></li>
           </ul>
-        <li><a href="#podcasts">Podcasts</a></li>
+        <li><a href="#">Podcasts</a></li>
         <li><a href="#notable-figures-and-twitter-accounts">Notable Figures and Twitter Accounts</a></li>
         <li><a href="#events-and-conferences">Events and Conferences</a></li>
         <li><a href="#competitions">Competitions</a></li>
@@ -1892,6 +1892,7 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 *    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA)
 *    [Training Ground Guru](https://open.spotify.com/show/1Kn9l6LifZ2AWmZri9XWHn)
 *    [Three At The Back](https://open.spotify.com/show/4NbunP2podS7hIPD2BVlYF?si=OFwVjOucQP6LWZmnGmGqjg) by Opta Pro
+*    [Unofficial Partner Podcast](https://open.spotify.com/show/1phpJUEoz50ae7hYjhsosN?si=82fb2015613042f3)
 *    [Winning with Data](https://open.spotify.com/show/06XLp6E2zjLUQdq2dSpaBh?si=b22c099b327d4318) by [Gemini Sports Analytics](https://geminisports.co/)
 *    [xPodcast](https://modernfitba.podomatic.com/) by [Modern Fitba](https://www.modernfitba.com/) (Scottish football)
 *    [Zonal Marking](https://open.spotify.com/show/1o2ZogNQQmPKCntcdKnXPT) with [Michael Cox](https://twitter.com/Zonal_Marking), [Mark Carey](https://twitter.com/MarkCarey93) and [Ali Maxwell](https://twitter.com/AliMaxwell). Previously [Tom Worville](https://twitter.com/Worville) 
