@@ -18,6 +18,7 @@
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/eddwebster/football_analytics.svg)
 ![GitHub Repository Size](https://img.shields.io/github/repo-size/eddwebster/football_analytics?style=plastic)
 [![Licence](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/eddwebster/football_analytics/master/LICENSE)
+[![Kofi Badge](https://img.shields.io/badge/Kofi-0077B5?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/eddwebster)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -28,7 +29,7 @@
 
 <a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="225px"></a>
 
-The README of this repository is a concise resources guide of learning materials, data sources, libraries, papers, blogs, podcasts, etc., created by all those that have made contributions to the open source football analytics community. This GitHub repository and resources list is always a work in progress, with new resources added semi-regularly. If you feel there's any resource(s) that I've missed, please feel free to create a pull request or send me a message on the links above and I'll get back to you as quick as I can!
+The README of this repository is a concise resources guide of learning materials, data sources, libraries, papers, blogs, , etc., created by all those that have made contributions to the open source football analytics community. This GitHub repository and resources list is always a work in progress, with new resources added semi-regularly. If you feel there's any resource(s) that I've missed, please feel free to create a pull request or send me a message on the links above and I'll get back to you as quick as I can!
 
 If you like the repo, please feel free to give it a :star:  (top right). Cheers!
 
@@ -43,6 +44,7 @@ For more information about this repository and the author, see the following:
 [![Linktree Badge](https://img.shields.io/badge/Linktree-43E660?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/eddwebster)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
+[![Kofi Badge](https://img.shields.io/badge/Kofi-0077B5?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/eddwebster)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -136,7 +138,7 @@ For more information about this repository and the author, see the following:
             <li><a href="#match-highlights">Match Highlights</a></li>
             <li><a href="#video-other">Other</a></li>
           </ul>
-        <li><a href="#podcasts">Podcasts</a></li>
+        <li><a href="#">Podcasts</a></li>
         <li><a href="#notable-figures-and-twitter-accounts">Notable Figures and Twitter Accounts</a></li>
         <li><a href="#events-and-conferences">Events and Conferences</a></li>
         <li><a href="#competitions">Competitions</a></li>
@@ -480,6 +482,7 @@ Good resources for those new for the use of data in football:
      +    [The Athletic’s football analytics glossary: explaining xG, PPDA, field tilt and how to use them](https://theathletic.com/2730755/2021/07/28/the-athletics-football-analytics-glossary-explaining-xg-ppda-field-tilt-and-how-to-use-them/) by [Mark Carey](https://twitter.com/MarkCarey93) and [Tom Worville](https://twitter.com/Worville) (requires subscription)
      +    [Stat Glossary](https://thefutebolist.wordpress.com/stat-glossary/) by [Ashwin Raman](https://twitter.com/AshwinRaman_)
      +    [Football Analytics Glossary](https://footballstatsglossary.home.blog/) by [Ashwin Raman](https://twitter.com/AshwinRaman_) and [Mark Thompson](https://twitter.com/EveryTeam_Mark)
+     +    [Expected goals, expected assists, pressures, carries, high turnovers and more | Advanced stats explained](https://www.skysports.com/football/news/11095/12829539/expected-goals-expected-assists-pressures-carries-high-turnovers-and-more-advanced-stats-explained) by [Sky Sports Football](https://www.skysports.com/football/)
 *    Podcasts:
      +    [Fanalytics](https://open.spotify.com/show/3G3LWoSWZdHW4Gg6igjIHU?si=9v83huJIR-GUxAnKRyXLRA) podcast with Mike Lewis - [Getting Your Foot in the Door](https://soundcloud.com/fanalytics/sports-analytics-getting-your-foot-in-the-door) with Sean Steffen
      +    [What is sports analytics?](https://open.spotify.com/episode/3gIkGxJOmKkFRHoGAqRimB?si=6pPOVLfgTjuynfho6b4SPA&dl_branch=1) episode of the [Measureables](https://open.spotify.com/show/1B2KCrfMM6sDfNICsyVDlW?si=YAU9RS7sTGSyITF6OhgW9A&dl_branch=1) podcast by [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))
@@ -1891,6 +1894,7 @@ Below I've tried to include both the Sports/Football Analytics and then notable 
 *    [Tifo Podcast](https://open.spotify.com/show/06QIGhqK31Qw1UvfHzRIDA?si=eJzpmtMeSPWUDP9fQ-5pqA)
 *    [Training Ground Guru](https://open.spotify.com/show/1Kn9l6LifZ2AWmZri9XWHn)
 *    [Three At The Back](https://open.spotify.com/show/4NbunP2podS7hIPD2BVlYF?si=OFwVjOucQP6LWZmnGmGqjg) by Opta Pro
+*    [Unofficial Partner Podcast](https://open.spotify.com/show/1phpJUEoz50ae7hYjhsosN?si=82fb2015613042f3)
 *    [Winning with Data](https://open.spotify.com/show/06XLp6E2zjLUQdq2dSpaBh?si=b22c099b327d4318) by [Gemini Sports Analytics](https://geminisports.co/)
 *    [xPodcast](https://modernfitba.podomatic.com/) by [Modern Fitba](https://www.modernfitba.com/) (Scottish football)
 *    [Zonal Marking](https://open.spotify.com/show/1o2ZogNQQmPKCntcdKnXPT) with [Michael Cox](https://twitter.com/Zonal_Marking), [Mark Carey](https://twitter.com/MarkCarey93) and [Ali Maxwell](https://twitter.com/AliMaxwell). Previously [Tom Worville](https://twitter.com/Worville) 
