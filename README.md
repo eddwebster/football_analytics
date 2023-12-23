@@ -75,7 +75,7 @@ For more information about this repository and the author, see the following:
         <li><a href="#getting-started">🏃 Getting Started with Football Analytics</a></li>
         <li><a href="#data">💾 Data</a></li>
           <ul>
-            <li><a href="#data-sources">ℹ️ Data Sources</a></li>
+            <li><a href="#data-sources">Data Sources</a></li>
               <ul>
                 <li><a href="#data-sources-event">Event data</a></li>
                 <li><a href="#data-sources-tracking">Tracking data</a></li>
@@ -90,8 +90,8 @@ For more information about this repository and the author, see the following:
                 <li><a href="#data-sources-reference">Reference data</a></li>
                 <li><a href="#data-sources-miscellaneous">Miscellaneous data</a></li>
               </ul>
-            <li><a href="#data-documentation">📄 Documentation</a></li>
-            <li><a href="#data-companies">💼 Data Companies and Types</a></li>
+            <li><a href="#data-documentation">Documentation</a></li>
+            <li><a href="#data-companies">Data Companies and Types</a></li>
           </ul>
         <li><a href="#tutorials">🧑‍🎓 Tutorials</a></li>
           <ul>
@@ -349,17 +349,17 @@ The contents of this GitHub repository is organised as follows:
     ├── 📂 scripts/ ➡️ store of libraries and Python and open source code 📙🛠
     │
     ├── 📂 notebooks/ ➡️ Jupyter notebooks for exploration and visualisation
-    │   ├── 📂 1_data_scraping/          # notenooks with code to acquire data via webscraping
+    │   ├── 📂 1_data_scraping/          # notebooks with code to acquire data via webscraping
     │   │   ├── Capology Player Salary Web Scraping.ipynb
     │   │   ├── FBref Player Stats Web Scraping.ipynb
     │   │   └── TransferMarkt Player Bio and Status Web Scraping.ipynb   
     │   │
-    │   ├── 📂 2_data_parsing/           # notenooks with code to acquire data via APIs
+    │   ├── 📂 2_data_parsing/           # notebooks with code to acquire data via APIs
     │   │   ├── Elo Team Ratings Data Parsing.ipynb
     │   │   ├── StatsBomb Data Parsing.ipynb
     │   │   └── Wyscout Data Parsing.ipynb   
     │   │
-    │   ├── 📂 3_data_engineering/       # notenooks with code to engineer raw, unprocessed data to processed data
+    │   ├── 📂 3_data_engineering/       # notebooks with code to engineer raw, unprocessed data to processed data
     │   │   ├── Capology Player Salary Data Engineering.ipynb
     │   │   ├── Centre Circle Opta CPL Data Engineering.ipynb
     │   │   ├── FBref Player Stats Data Engineering.ipynb
@@ -372,7 +372,7 @@ The contents of this GitHub repository is organised as follows:
     │   │   ├── Understat Data Engineering.ipynb
     │   │   └── Wyscout Data Engineering.ipynb
     │   │
-    │   ├── 📂 4_data_unification/       # notenooks with code to unify disperate datasets
+    │   ├── 📂 4_data_unification/       # notebooks with code to unify disperate datasets
     │   │   └── Unification of Aggregated Seasonal Football Datasets.ipynb
     │   │
     │   └── 📂 5_data_analysis_and_projects    # notebooks with code for example projects and analysis
