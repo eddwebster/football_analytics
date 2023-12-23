@@ -4,19 +4,19 @@
   <h1 id="top" align="center"> Edd Webster Football Analytics</h1>
   <a href="https://github.com/eddwebster/football_analytics"><img src="img/edd_webster/edd_webster_analytics_logo_black_nobg.png" width="35%", alt="Edd Webster Analytics"></a>
 
-> <h3 align="center">A space for football analytics projects by <a href="https://twitter.com/eddwebster">Edd Webster</a>, including a curated list of publicly available resources published by the football analytics community </h3>
->  <p align="center">
->   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.football_analytics)
->   <a href="https://trackgit.com">
->   <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3eer806ippht6pvejl3" alt="trackgit-views" />
-</a>
->   ![GitHub Stars](https://img.shields.io/github/stars/eddwebster/football_analytics?style=plastic)
->   ![GitHub Last Commit](https://img.shields.io/github/last-commit/eddwebster/football_analytics?style=plastic)
->   ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/eddwebster/football_analytics.svg)
->   ![GitHub Repository Size](https://img.shields.io/github/repo-size/eddwebster/football_analytics?style=plastic)
->   [![Licence](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/eddwebster/football_analytics/master/LICENSE)
->   [![Kofi Badge](https://img.shields.io/badge/Kofi-0077B5?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/eddwebster)
-> </p>
+<h3 align="center">A space for football analytics projects by <a href="https://twitter.com/eddwebster">Edd Webster</a>, including a curated list of publicly available resources published by the football analytics community </h3>
+<p align="center">
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.football_analytics)
+<a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3eer806ippht6pvejl3" alt="trackgit-views" /></a>
+![GitHub Stars](https://img.shields.io/github/stars/eddwebster/football_analytics?style=plastic)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/eddwebster/football_analytics?style=plastic)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/eddwebster/football_analytics.svg)
+![GitHub Repository Size](https://img.shields.io/github/repo-size/eddwebster/football_analytics?style=plastic)
+[![Licence](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/eddwebster/football_analytics/master/LICENSE)
+[![Kofi Badge](https://img.shields.io/badge/Kofi-0077B5?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/eddwebster)
+
+</p>
 
 </div>
 
@@ -96,7 +96,7 @@ For more information about this repository and the author, see the following:
         <li><a href="#tutorials">🧑‍🎓 Tutorials</a></li>
           <ul>
             <li><a href="#tutorials-python">🐍 Python</a></li>
-            <li><a href="#tutorials-r">🇷 R</a></li>
+            <li><a href="#tutorials-r">R</a></li>
             <li><a href="#tutorials-tableau">📊 Tableau</a></li>
             <li><a href="#tutorials-powerbi">📈 Power BI</a></li>
             <li><a href="#tutorials-sql">SQL</a></li>
@@ -106,12 +106,12 @@ For more information about this repository and the author, see the following:
         <li><a href="#libraries">🏛️ Libraries</a></li>
           <ul>
             <li><a href="#libraries-python">🐍 Python</a></li>
-            <li><a href="#libraries-r">🇷 R</a></li>
+            <li><a href="#libraries-r">R</a></li>
           </ul>
         <li><a href="#github-repos">📁 GitHub Repositories</a></li>
           <ul>
             <li><a href="#github-repos-python">🐍 Python</a></li>
-            <li><a href="#github-repos-r">🇷 R</a></li>
+            <li><a href="#github-repos-r">R</a></li>
             <li><a href="#github-repos-other-languages">Other Languages</a></li>
             <li><a href="#github-repos-no-language-specified">No Language Specified</a></li>
           </ul>
@@ -350,10 +350,48 @@ The contents of this GitHub repository is organised as follows:
     │
     ├── 📂 notebooks/ ➡️ Jupyter notebooks for exploration and visualisation
     │   ├── 📂 1_data_scraping/          # notenooks with code to acquire data via webscraping
+    │   │   ├── Capology Player Salary Web Scraping.ipynb
+    │   │   ├── FBref Player Stats Web Scraping.ipynb
+    │   │   └── TransferMarkt Player Bio and Status Web Scraping.ipynb   
+    │   │
     │   ├── 📂 2_data_parsing/           # notenooks with code to acquire data via APIs
+    │   │   ├── Elo Team Ratings Data Parsing.ipynb
+    │   │   ├── StatsBomb Data Parsing.ipynb
+    │   │   └── Wyscout Data Parsing.ipynb   
+    │   │
     │   ├── 📂 3_data_engineering/       # notenooks with code to engineer raw, unprocessed data to processed data
+    │   │   ├── Capology Player Salary Data Engineering.ipynb
+    │   │   ├── Centre Circle Opta CPL Data Engineering.ipynb
+    │   │   ├── FBref Player Stats Data Engineering.ipynb
+    │   │   ├── Opta #mcfcanalytics PL 2011-2012.ipynb
+    │   │   ├── StatsBomb Data Engineering.ipynb
+    │   │   ├── The Guardian Player Recorded Transfer Fees Data Engineering.ipynb
+    │   │   ├── TransferMarkt Historical Market Value Data Engineering.ipynb
+    │   │   ├── TransferMarkt Player Bio and Status Data Engineering.ipynb
+    │   │   ├── TransferMarkt Player Recorded Transfer Fees Data Engineering.ipynb
+    │   │   ├── Understat Data Engineering.ipynb
+    │   │   └── Wyscout Data Engineering.ipynb
+    │   │
     │   ├── 📂 4_data_unification/       # notenooks with code to unify disperate datasets
+    │   │   └── Unification of Aggregated Seasonal Football Datasets.ipynb
+    │   │
     │   └── 📂 5_data_analysis_and_projects    # notebooks with code for example projects and analysis
+    │       ├── 📂 player_similarity_and_clustering
+    │       │   └── PCA and K-Means Clustering of 'Piqué-like' Defenders.ipynb 
+    │       │
+    │       ├── 📂 tracking_data
+    │       │   ├── 📂 metrica_sports
+    │       │   │   └── Metrica Tracking Data EDA.ipynb
+    │       │   └── 📂 signality
+    │       │       ├── Signality Tracking Data Engineering.ipynb
+    │       │       └── Signality Tracking Data EDA.ipynb
+    │       │
+    │       └── 📂 xg_modeling
+    │           ├── 📂 shots_dataset
+    │           │   ├── Logistic Regression Expected Goals Model.ipynb
+    │           │   └── XGBoost Expected Goals Model.ipynb
+    │           └── 📂 opta_dataset
+    │               └── raining of an Expected Goals Model Using Opta Event Data.ipynb
     │
     ├── 📄 README.md ➡️ project description and setup guide for better structure and collaboration 📖🤝
     │
@@ -368,119 +406,6 @@ The contents of this GitHub repository is organised as follows:
     │
     └── 📂 video/ ➡️ store of videos used or generated for analysis 🎥💾
 
-
-    eddwebster/football_analytics
-    .
-    │
-    ├── dashboards
-    │
-    ├── data
-    │   ├── capology
-    │   ├── elo
-    │   ├── export
-    │   ├── fbref
-    │   ├── fifa
-    │   ├── guardian
-    │   ├── metrica-sports
-    │   ├── opta
-    │   ├── reference
-    │   ├── sb
-    │   ├── shots
-    │   ├── stats-perform
-    │   ├── stratabet
-    │   ├── tm
-    │   ├── touchline-analytics
-    │   ├── twenty-first-group
-    │   ├── understat
-    │   └── wyscout
-    │
-    ├── docs
-    │   ├── centre-circle
-    │   ├── metrica-sports
-    │   ├── opta
-    │   ├── sb
-    │   ├── shots
-    │   ├── stratabet
-    │   └── wyscout
-    │
-    ├── gif
-    │   └── fig
-    │
-    ├── img
-    │   ├── club_badges
-    │   ├── eddwebster
-    │   ├── fig
-    │   ├── logos
-    │   ├── pitches
-    │   └── vizpiration
-    │
-    ├── notebooks
-    │   │    
-    │   ├── 1_data_scraping
-    │   │   ├── Capology Player Salary Web Scraping.ipynb
-    │   │   ├── FBref Player Stats Web Scraping.ipynb
-    │   │   └── TransferMarkt Player Bio and Status Web Scraping.ipynb   
-    │   │
-    │   ├── 2_data_parsing
-    │   │   ├── ELO Team Ratings Data Parsing.ipynb
-    │   │   ├── StatsBomb Data Parsing.ipynb
-    │   │   └── Wyscout Data Parsing.ipynb   
-    │   │
-    │   ├── 3_data_engineering
-    │   │   ├── Capology Player Salary Data Engineering.ipynb
-    │   │   ├── Centre Circle Opta CPL Data Engineering.ipynb
-    │   │   ├── FBref Player Stats Data Engineering.ipynb
-    │   │   ├── Opta #mcfcanalytics PL 2011-2012.ipynb
-    │   │   ├── StatsBomb Data Engineering.ipynb
-    │   │   ├── StrataBet Data Engineering.ipynb
-    │   │   ├── The Guardian Player Recorded Transfer Fees Data Engineering.ipynb
-    │   │   ├── TransferMarkt Historical Market Value Data Engineering.ipynb
-    │   │   ├── TransferMarkt Player Bio and Status Data Engineering.ipynb
-    │   │   ├── TransferMarkt Player Recorded Transfer Fees Data Engineering.ipynb
-    │   │   ├── Understat Data Engineering.ipynb
-    │   │   └── Wyscout Data Engineering.ipynb
-    │   │
-    │   ├── 4_data_unification
-    │   │   └── Unification of Aggregated Seasonal Football Datasets.ipynb
-    │   │
-    │   ├── 5_data_analysis_and_projects
-    │   │   │   
-    │   │   ├── player_similarity_and_clustering
-    │   │   │   └── PCA and K-Means Clustering of 'Piqué-like' Defenders.ipynb 
-    │   │   │
-    │   │   ├──tracking_data
-    │   │   │   ├── metrica_sports
-    │   │   │   │   └── Metrica Tracking Data EDA.ipynb
-    │   │   │   │   
-    │   │   │   └── signality
-    │   │   │       ├── Signality Tracking Data Engineering.ipynb
-    │   │   │       └── Signality Tracking Data EDA.ipynb
-    │   │   │ 
-    │   │   └──xg_modeling
-    │   │   │   │   
-    │   │   │   ├── shots_dataset
-    │   │   │   │   │   
-    │   │   │   │   ├── chance_quality_modelling
-    │   │   │   │   │   ├── 1) Logistic Regression Expected Goals Model.ipynb
-    │   │   │   │   │   └── 2) XGBoost Expected Goals Model.ipynb
-    │   │   │   │   │   
-    │   │   │   │   └── metrica-sports
-    │   │   │   │       └── Metrica Sports.ipynb
-    │   │   │   │   
-    │   │   │   └── opta_dataset
-    │   │   │       └── Training of an Expected Goals Model Using Opta Event Data.ipynb
-    │   │   │ 
-    │   └── 6_data_visualisation
-    │
-    ├── research
-    │   ├── papers
-    │   └── slides
-    │
-    ├── scripts
-    │
-    ├── spreadsheets
-    │
-    └── video 
 
 <p align="right">
   <a href="#top"><b>🔝 Return </b></a>
