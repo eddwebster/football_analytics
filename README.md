@@ -193,7 +193,7 @@ For more information about this repository and the author, see the following:
     <li><a href="#citations">🗣️ Citations</a></li>
     <li><a href="#contributing">🤝 Contributing</a></li>
     <li><a href="#star-tracker">⭐ Star Tracker</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#acknowledgements">👏 Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -235,7 +235,7 @@ Football analytics Python libraries:
 *    [`tyrone_mings`](https://github.com/FCrSTATS/tyrone_mings) by [FCrSTATS](https://twitter.com/FC_rstats) - a Python [TransferMarkt](https://www.transfermarkt.co.uk/) webscraper 
 
 
-<h4 id="getting-started-r"> R</h3>
+<h4 id="getting-started-r"> ®️ R</h3>
 
 General R data science libraries:
 *    tidyverse
@@ -525,7 +525,6 @@ Good resources for those new for the use of data in football:
           -    [Free Sports Data Sources](https://brendankent.com/2021/03/09/free-sports-data-sources/)
           -    [Where to Watch: Sports Analytics Conference Video Archives](https://brendankent.com/2020/09/17/where-to-watch-sports-analytics-conference-video-archives/)
           -    [How to Start a Sports Analytics Club](https://brendankent.com/2020/09/28/how-to-start-a-sports-analytics-club/)
-     +    [Tom Worville](https://twitter.com/Worville)'s [Twitter thread](https://twitter.com/Worville/status/1275732993819250688)
      +    [Will Spearman's Twitter thread](https://twitter.com/the_spearman/status/1260713785138073604) 
      +    [Jan Van Haaren](https://twitter.com/JanVanHaaren)'s [Twitter thread](https://twitter.com/JanVanHaaren/status/1436336286223196201) for free, open-source software libraries for computing and visualising advanced soccer analytics metrics
      +    [Measureables](https://twitter.com/MeasurablesPod) ([Brendan Kent](https://twitter.com/brendankent))'s Twitter thread for resources for learning to code in the context of sports analytics [[link](https://twitter.com/MeasurablesPod/status/1217499777245622278)]
@@ -573,7 +572,7 @@ Good resources for those new for the use of data in football:
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
 
-<h3 id="data"> :floppy_disk: Data </h2>
+<h3 id="data"> 💾 Data </h2>
 
 
 <h4 id="data-sources"> :information_source: Data Sources </h4>
@@ -3492,7 +3491,7 @@ Star history for the <a href="https://github.com/eddwebster/football_analytics" 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2 id="acknowledgements"> Acknowledgements</h2>
+<h2 id="acknowledgements"> 👏 Acknowledgements</h2>
 
 *    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto)
