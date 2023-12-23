@@ -95,22 +95,22 @@ For more information about this repository and the author, see the following:
           </ul>
         <li><a href="#tutorials">🧑‍🎓 Tutorials</a></li>
           <ul>
-            <li><a href="#tutorials-python">🐍 Python</a></li>
+            <li><a href="#tutorials-python">Python</a></li>
             <li><a href="#tutorials-r">R</a></li>
-            <li><a href="#tutorials-tableau">📊 Tableau</a></li>
-            <li><a href="#tutorials-powerbi">📈 Power BI</a></li>
+            <li><a href="#tutorials-tableau">Tableau</a></li>
+            <li><a href="#tutorials-powerbi">Power BI</a></li>
             <li><a href="#tutorials-sql">SQL</a></li>
             <li><a href="#tutorials-excel">Excel</a></li>
             <li><a href="#tutorials-powerpoint">PowerPoint</a></li>
           </ul>
         <li><a href="#libraries">🏛️ Libraries</a></li>
           <ul>
-            <li><a href="#libraries-python">🐍 Python</a></li>
+            <li><a href="#libraries-python">Python</a></li>
             <li><a href="#libraries-r">R</a></li>
           </ul>
         <li><a href="#github-repos">📁 GitHub Repositories</a></li>
           <ul>
-            <li><a href="#github-repos-python">🐍 Python</a></li>
+            <li><a href="#github-repos-python">Python</a></li>
             <li><a href="#github-repos-r">R</a></li>
             <li><a href="#github-repos-other-languages">Other Languages</a></li>
             <li><a href="#github-repos-no-language-specified">No Language Specified</a></li>
@@ -125,12 +125,12 @@ For more information about this repository and the author, see the following:
         <li>
           <a href="#written-pieces">✒️ Written Pieces</a></li>
           <ul>
-            <li><a href="#blogs">✍️ Blogs</a></li>
-            <li><a href="#papers">📃 Papers</a></li>
-            <li><a href="#newsletters">📫 Newsletters</a></li>
-            <li><a href="#news-articles">📰 News Articles</a></li>
-            <li><a href="#books">📚 Books</a></li>
-            <li><a href="#magazines">✉️ Magazines</a></li>
+            <li><a href="#blogs">Blogs</a></li>
+            <li><a href="#papers">Papers</a></li>
+            <li><a href="#newsletters">Newsletters</a></li>
+            <li><a href="#news-articles">News Articles</a></li>
+            <li><a href="#books">Books</a></li>
+            <li><a href="#magazines">Magazines</a></li>
           </ul>
         <li>
           <a href="#video">📼 Video</a></li>
@@ -139,7 +139,7 @@ For more information about this repository and the author, see the following:
             <li><a href="#youtube-channels">YouTube Channels</a></li>
             <li><a href="#video-analysis">Video Analysis</a></li>
             <li><a href="#webinars-and-lectures">Webinars and Lectures</a></li>
-            <li><a href="#ted-talks">🗣️ Ted Talks</a></li>
+            <li><a href="#ted-talks">Ted Talks</a></li>
             <li><a href="#documentaries">Documentaries</a></li>
             <li><a href="#match-highlights">Match Highlights</a></li>
             <li><a href="#video-other">Other</a></li>
