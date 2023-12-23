@@ -3368,6 +3368,7 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
 *    Articles:
       +    [How to get started in data and the football industry](https://henshawanalysis.medium.com/how-to-get-started-in-data-and-the-football-industry-50d974e84bef) by [Liam Henshaw](https://twitter.com/HenshawAnalysis)
       +    [SportsViz Sunday](https://twitter.com/search?q=%23SportsVizSunday) [Weekly Round-up 01.16.2022](https://www.sportsvizsunday.com/post/weekly-round-up-01-16-2022) by [CJ Mayes](https://twitter.com/_CJMayes)
+      +    [Data Science Weekly - Issue 524](https://datascienceweekly.substack.com/p/data-science-weekly-issue-524)
       +    [Want to Learn Football Analytics?](https://medium.com/@irfanalghani11/want-to-learn-football-analytics-24cae325a30a) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
       +    [Getting Started with Football Analytics](https://oddalerts.com/insights/getting-started-football-analytics) by [OddAlerts](https://oddalerts.com/)
       +    [Similar Player Tool](https://xandfootball.substack.com/p/similarplayer) by [Niklas Hemmer](https://twitter.com/NiklasHemmer)
@@ -3375,15 +3376,17 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
       +    [WHERE TO LEARN FOOTBALL ANALYTICS?](https://www.linkedin.com/posts/alghaniirfan_footballanalytics-datascience-machinelearning-activity-6922000959384555521-gyqS) by [Irfan Alghani Khalid](https://www.linkedin.com/in/alghaniirfan/)
       +    The following [LinkedIn post](https://www.linkedin.com/posts/hadisotudeh_football-github-datasets-activity-6960611122760531969-naeV/) by [Hadi Sotudeh](https://twitter.com/sarehang)
       +    The following [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6966868164563337216/) and [Kaggle post](https://www.kaggle.com/discussions/getting-started/347325) by [Ekrem Bayar](https://twitter.com/ekrembayar_)
-      +    The following [Tweet](https://twitter.com/Worville/status/1420413426564800515) by [Tom Worville](https://twitter.com/Worville). Check out his [Twitter thread](https://twitter.com/Worville/status/1275732993819250688) on getting started in football analytics
       +    The following [Tweet](https://twitter.com/JanVanHaaren/status/1409612884196331521) by [Jan Van Haaren](https://twitter.com/JanVanHaaren)
       +    The following [Tweet](https://twitter.com/joedgallagher/status/1399461951386828805) by [Joe Gallagher](https://twitter.com/joedgallagher)
       +    The following [Tweet](https://twitter.com/sarehang/status/1467550601378766855) by [Hadi Sotudeh](https://twitter.com/sarehang)
       +    The following [Tweet](https://twitter.com/NinadB_06/status/1409826319798464523) by [Ninad Barbadikar](https://twitter.com/NinadB_06)
-      +    The following [Tweet](https://twitter.com/imkeller_5/status/1506314816432091139) by [Tim Keller](https://twitter.com/imkeller_5)
       +    The following [Tweet](https://twitter.com/TheDevilsDNA/status/1430384339171233797) by [The Devil's DNA](https://twitter.com/TheDevilsDNA)
       +    The following [Tweet](https://twitter.com/sixtwofourtwo/status/1382442380071174145) by [Brian McDonnell](https://twitter.com/sixtwofourtwo)
-      +    The following [Tweet](https://twitter.com/Panda_9097/status/1382408387443318788) by [Panda_9097](https://twitter.com/Panda_9097)
+      +    The following [Tweet](https://twitter.com/AlienPawi/status/1558794982617763841) by [Pawel Kapuscinski](https://twitter.com/AlienPawi)
+      +    The following [Tweet](https://twitter.com/DSamangy/status/1646196641396043777) by [Dom Samangy](https://twitter.com/DSamangy)
+      +    The following [Tweet](https://twitter.com/unravelsports/status/1643639413501485059) by [Joris Bekkers](https://twitter.com/unravelsports)
+      +    The following [Tweet](https://twitter.com/KirkDBorne/status/1717381165198512252) by [Kirk Borne](https://twitter.com/KirkDBorne)
+      +    The following [Tweet](https://twitter.com/RosanaFerrero/status/1689879332544503808) by [Rosana Ferrero](https://twitter.com/RosanaFerrero)
 *    Blogs/Reddit:
       +    [Moneyball - Section Football Analytics](https://forum.playitusa.com/viewtopic.php?p=4005731#p4005727) by [Alberto Riccardi](https://twitter.com/ARiccardi13)
       +    [Pra quem gosta de análise de dados no futebol](https://www.reddit.com/r/futebol/comments/re0n1r/pra_quem_gosta_de_an%C3%A1lise_de_dados_no_futebol/) by [Wagner Andrade](https://www.reddit.com/user/wagnerandrade/)
@@ -3392,6 +3395,8 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
       +    [How do the top 5 leagues in Europe differ in overall style?](https://www.reddit.com/r/soccer/comments/tfjehg/how_do_the_top_5_leagues_in_europe_differ_in/) 
       +    [New York City FC vs New York Red Bulls Data Analysis Report](https://www.reddit.com/r/FootballDataAnalysis/comments/xhldnl/new_york_city_fc_vs_new_york_red_bulls_data/) by [MatchAnalyst](https://www.reddit.com/user/MatchAnalyst/)
       +    [Weekly Open Thread - General Discussion](https://www.reddit.com/r/realmadrid/comments/pedln2/comment/haxrulb/) by [messimisses](https://www.reddit.com/user/messimisses/)
+*    Videos:
+      +    [Los MEJORES RECURSOS para aprender del ANALISIS DE DATOS EN FUTBOL en un SOLO LUGAR](https://www.youtube.com/watch?v=AZto4rfJQuQ) by [Lanus Stats](https://twitter.com/LanusStats/)
 *    GitHub Repositories:
       +    https://github.com/learnuidev/footy-analytics/tree/fe793f88e3a1a16a2a06bf1e12ed90f4e2869726
       +    https://github.com/BinhHong/Attacking-wingbacks-in-top-5-leagues-in-Europe/blob/d2897a439aef9655c884ad68a25c579434b12e15/README.md
