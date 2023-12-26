@@ -58,13 +58,7 @@ For more information about this repository and the author, see the following:
   <ol>
     <li><a href="#about-the-repository-and-author">👋 About This Repository and Author</a></li>
     <li><a href="#table-of-contents">📍 Table of Contents</a></li>
-    <li>
-      <a href="#getting-started"> 🚀 Getting Started</a>
-       <ul>
-         <li><a href="#getting-started-dependencies">✅ Dependencies</a></li>
-         <li><a href="#getting-started-installation">💻 Installation</a></li>
-       </ul> 
-    </li>
+    <li><a href="#getting-started"> 🚀 Getting Started</a></li>
     <li><a href="#repository-structure">🌵 Repository Structure</a></li>
     <li><a href="#code">📚 Source Code and Notebooks</a></li>
     <li><a href="#data-visualisation-and-tableau-dashboards">📈 Data Visualisation and Tableau</a></li>
@@ -246,42 +240,6 @@ Football analytics R libraries:
 *    [`StatsBombR`](https://github.com/statsbomb/StatsBombR) - an R package to easily stream  [StatsBomb](https://statsbomb.com/) data from the API using your log in credentials or from the Open Data GitHub repository cost free into R
 *    [`soccermatics`](https://github.com/JoGall/soccermatics) by [Joe Gallagher](https://twitter.com/joedgallagher) - an R package for the visualisation and analysis of soccer tracking and event data
 *    [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) by [Jason Zivkovic](https://twitter.com/jaseziv) - a R package for extracting world football (soccer) data from [FBref](https://fbref.com/en/), [TransferMarkt](https://www.transfermarkt.com/), Understat and fotmob (see guide on how to use this package [[link](https://www.dontblamethedata.com/blog/extract-data-using-worldfootballr/)])
-
-
-<h3 id="getting-started-github-repository"> 💻 Installation</h3>
-
-1. Set up a virtual environment [[link](https://docs.python.org/3/library/venv.html)]
-
-2. In your terminal, navigate to your new project, and initialise Git
-   ```shell
-   git init
-   ```
-
-3. Clone the `football_analytics` repository:
-   ```shell
-   git clone https://github.com/eddwebster/football_analytics/football_analytics.git && cd football_analytics
-   ```
-
-4. Install the necessary packages using `pip` and the pre-commit hooks:
-   ```shell
-   pip install -r requirements.txt
-   pre-commit install
-   ```
-   or use the `make` command:
-   ```shell
-   make requirements
-   ```
-
-5. Stage all your project files, and make your first commit
-   ```shell
-   git add .
-   git commit -m "Initial commit"
-   ```
-
-
-<p align="right">
-  <a href="#top"><b>🔝 Return </b></a>
-</p>
 
 
 <p align="right">
