@@ -259,7 +259,7 @@ The contents of this GitHub repository is organised as follows:
     │
     ├── 📂 dashboards/ ➡️ store of Tableau dashboards used for analysis 📊🔍
     │
-    ├── 📂 data/ ➡️ central repository for raw, interim and processed data extracts (phase 1 before moving to AWS) 💾🔍
+    ├── 📂 data/ ➡️ a selection of raw and processed data extracts by various providers 💾🔍
     │   ├── 📂 capology
     │   ├── 📂 davies
     │   ├── 📂 elo
