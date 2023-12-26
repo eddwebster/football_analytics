@@ -358,10 +358,6 @@ The contents of this GitHub repository is organised as follows:
     │   ├── 📂 papers/                   # published academic papers and literature
     │   └── 📂 slides/                   # PowerPoint slides for published research
     │
-    ├── 📄 requirements.txt ➡️ list of dependencies required for the environment setup 📦🔧
-    │
-    ├── 📄 setup.py ➡️ setup Python file for this project 🐍🔧
-    │
     └── 📂 video/ ➡️ store of videos used or generated for analysis 🎥💾
 
 
@@ -451,7 +447,7 @@ Good resources for those new for the use of data in football:
      +    [You Want to be a Performance Analyst?](https://thevideoanalyst.com/want-performance-analyst/) by [Rob Carroll](https://twitter.com/thevideoanalyst)
      +    [An Introduction to Soccer Analytics](https://spacespacespaceletter.com/an-introduction-to-soccer-analytics/) by [John Muller](https://twitter.com/johnspacemuller)
      +    [Introduction to Analytics in...Soccer](http://sportsanalytics.sa.utoronto.ca/2015/02/20/introduction-to-analytics-in-soccer/) by [Valentin Stolbunov](https://twitter.com/vstolbunov)
-     +    [Sports Analytics Advice]((https://linktr.ee/sportsanalyticsadvice) by [Jan Van Haaren](https://twitter.com/JanVanHaaren)
+     +    [Sports Analytics Advice](https://linktr.ee/sportsanalyticsadvice) by [Jan Van Haaren](https://twitter.com/JanVanHaaren)
      +    [Some of the useful resources in Football Analytics](https://footytistics.com/)
      +    [Soccer Analytics 101](https://web.archive.org/web/20201101011408/https://www.mlssoccer.com/soccer-analytics-guide/2020/soccer-analytics-101) by [Kevin Minkus](https://twitter.com/kevinminkus) (using Web Archive)
      +    A Career in Football Analytics blog posts by [Benoit Pimpaud](https://twitter.com/Ben8t). Check out his Substack newsletter [From An Engineer Sight](https://fromanengineersight.substack.com/). See also the accompanying Twitter thread by [Jan Van Haaren](https://twitter.com/JanVanHaaren) that discusses these posts [[link](https://twitter.com/JanVanHaaren/status/1511003282868781063)]
