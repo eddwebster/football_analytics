@@ -1,0 +1,96 @@
+[tool.poetry]
+name = "soccerdata"
+version = "1.5.2"
+description = "A collection of wrappers over soccer data from various websites / APIs."
+authors = ["Pieter Robberechts <pieter.robberechts@kuleuven.be>"]
+license = "Apache-2.0"
+readme = 'README.rst'
+homepage = "https://github.com/probberechts/soccerdata"
+repository = "https://github.com/probberechts/soccerdata"
+keywords = ["soccer", "football", "soccer data", "web scraping", "soccer analytics"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+pandas = "^2.0.0, !=2.1.0"
+requests = "^2.23"
+unicode = "^2.7"
+lxml = "^4.6"
+Unidecode = "^1.2.0"
+rich = "^13.0.0"
+PySocks = "^1.7.1"
+html5lib = "^1.1"
+undetected-chromedriver = "^3.5.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.3"
+mypy = "^1.0"
+pylint = "^3.0.0"
+pytest-deadfixtures = "^2.2.1"
+unify = "^0.5"
+black = "^23.0.0"
+Sphinx = "^7.0.0"
+sphinx-autobuild = "^2021.3.14"
+furo = "^2023.0.0"
+coverage = {version = "^7.0", extras = ["toml"]}
+pre-commit = "^3.0.0"
+flake8 = "^6.0.0"
+flake8-bugbear = "^23.0.0"
+flake8-docstrings = "^1.6.0"
+flake8-rst-docstrings = "^0.3.0"
+pep8-naming = "^0.13.2"
+darglint = "^1.8.1"
+pre-commit-hooks = "^4.3.0"
+Pygments = "^2.13.0"
+time-machine = "^2.8.2"
+pytest-mock = "^3.10.0"
+bumpversion = "^0.6.0"
+nbsphinx = "^0.9.0"
+
+[tool.isort]
+profile = "black"
+src_paths = ["soccerdata", "tests"]
+balanced_wrapping = true
+default_section = "THIRDPARTY"
+include_trailing_comma = true
+known_first_party = ["soccerdata", "tests"]
+line_length = 79
+multi_line_output = 3
+
+[tool.black]
+line-length = 99
+target-version = ['py38']
+skip-string-normalization = 1
+include = '\.pyi?$'
+
+[tool.coverage.paths]
+source = ["soccerdata", "*/site-packages"]
+
+[tool.coverage.run]
+branch = true
+source = ["soccerdata"]
+
+[tool.coverage.report]
+show_missing = true
+ignore_errors = true
+
+[tool.mypy]
+ignore_missing_imports = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+no_implicit_optional = true
+check_untyped_defs = true
+show_error_codes = true
+warn_unused_ignores = true
+
+[[tool.mypy.overrides]]
+module = ["tests.*"]
+disallow_untyped_defs = false
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

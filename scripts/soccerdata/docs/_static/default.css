@@ -1,0 +1,44 @@
+.toctree-l1 a:active,
+.toctree-l1 a:hover {
+  background-color: #676767;
+}
+
+.sidebar-logo {
+  max-width: 100%;
+}
+
+.sidebar-drawer {
+  width: calc(50% - 25em);
+  min-width: 22em;
+}
+
+.sidebar-drawer .sidebar-container {
+  width: 23em;
+}
+
+li.toctree-l2 {
+  font-size: 80%;
+}
+
+@media (max-width: 67em) {
+  .sidebar-drawer {
+    width: 22em;
+    left: -22em;
+  }
+  .sidebar-drawer .sidebar-container {
+    width: 22em;
+  }
+  li.toctree-l2 {
+    font-size: 75%;
+  }
+}
+
+/* autosummary table text */
+article .align-center,
+article .align-default {
+  text-align: left;
+}
+
+dt {
+  font-weight: bold !important;
+}
