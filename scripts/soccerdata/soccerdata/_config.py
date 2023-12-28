@@ -143,7 +143,7 @@ LEAGUE_DICT = {
         "SoFIFA": "French Ligue 1 (1)",
         "WhoScored": "France - Ligue 1",
         "season_start": "Aug",
-        "season_end": "May",
+        "season_end": "May"
     },
     "INT-World Cup": {
         "FBref": "FIFA World Cup",
@@ -161,10 +161,10 @@ LEAGUE_DICT = {
         "season_end": "May"
     },
     "ENG-Championship": {
-        "ClubElo": "ENG_1",
+        "ClubElo": "ENG_2",
         "MatchHistory": "E1",
         "SoFIFA": "English Championship (1)",
-        "FBref": "Championship",
+        "FBref": "EFL Championship",
         "ESPN": "eng.2",
         "FiveThirtyEight": "championship",
         "WhoScored": "England - Championship",
