@@ -423,10 +423,10 @@ Credit to the following resources that were all used to plug gaps in this resour
 *    [`awesome-soccer-analytics`](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto)
 *    [`guideR`](https://docs.google.com/spreadsheets/d/16Xvhl7fCKEs1JTr-VXPZDmctO2gq4TcmuNmAhoHQQs0/edit#gid=627465558) by [Dom Samangy](https://twitter.com/dsamangy) - a Google spreadsheet with 200+ R resources, 100+ Python tutorials, 30+ packages, 25+ accounts to follow, 10 cheatsheets, and several free books & blogs. GitHub repo [[link](https://github.com/DomSamangy/Sports_Analytics_Guide)]
 *    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s Soccer Analytics Reviews:
-     +    [2020](https://janvanhaaren.be/posts/soccer-analytics-review-2020.html)
-     +    [2021](https://janvanhaaren.be/posts/soccer-analytics-review-2021.html)
-     +    [2022](https://janvanhaaren.be/posts/soccer-analytics-review-2022.html)
-     +    [2023](https://janvanhaaren.be/posts/soccer-analytics-review-2023.html)
+     +    [2020](https://janvanhaaren.be/posts/soccer-analytics-review-2020/)
+     +    [2021](https://janvanhaaren.be/posts/soccer-analytics-review-2021/)
+     +    [2022](https://janvanhaaren.be/posts/soccer-analytics-review-2022/)
+     +    [2023](https://janvanhaaren.be/posts/soccer-analytics-review-2023/)
 *    [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) Github repo by [Jan Van Haaren](https://twitter.com/janvanhaaren)
 
 <p align="right">
@@ -1434,7 +1434,7 @@ For a Twitter thread of the football analytics blogs from 2009 an earlier, see t
 
 See the following subfolder of this GitHub repo for PDF copies of the papers listed below [[link](https://github.com/eddwebster/football_analytics/tree/master/research/papers)].
 
-Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Jan Van Haaren](https://twitter.com/janvanhaaren)'s Soccer Analytics Reviews ([2020](https://janvanhaaren.be/posts/soccer-analytics-review-2020.html)), [2021](https://janvanhaaren.be/posts/soccer-analytics-review-2021.html)), [2022](https://janvanhaaren.be/posts/soccer-analytics-review-2022.html))), and [2023](https://janvanhaaren.be/posts/soccer-analytics-review-2023.html)). All credit to him for reading a paper a week and making his reviews publicly available and give his reviews a read through if you haven't already done so!
+Many of the papers included in this list have been included after reading [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [Jan Van Haaren](https://twitter.com/janvanhaaren)'s Soccer Analytics Reviews ([2020]https://janvanhaaren.be/posts/soccer-analytics-review-2020/)), [2021](https://janvanhaaren.be/posts/soccer-analytics-review-2021/)), [2022](https://janvanhaaren.be/posts/soccer-analytics-review-2022/))), and [2023](https://janvanhaaren.be/posts/soccer-analytics-review-2023/)). All credit to him for reading a paper a week and making his reviews publicly available and give his reviews a read through if you haven't already done so!
 
 The following Shiny App from Lars Maurath is a great tool for looking up publications [[link](https://larsmaurath.shinyapps.io/soccer-analytics-library/)].
 
@@ -3456,10 +3456,10 @@ Star history for the <a href="https://github.com/eddwebster/football_analytics" 
 *    [Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook) by [Devin Pleuler](https://twitter.com/devinpleuler)
 *    [Awesome Soccer Analytics](https://github.com/matiasmascioto/awesome-soccer-analytics) by [Matias Mascioto](https://twitter.com/matiasmascioto)
 *    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s Soccer Analytics Reviews:
-     +    [2020](https://janvanhaaren.be/posts/soccer-analytics-review-2020.html)
-     +    [2021](https://janvanhaaren.be/posts/soccer-analytics-review-2021.html)
-     +    [2022](https://janvanhaaren.be/posts/soccer-analytics-review-2022.html)
-     +    [2023](https://janvanhaaren.be/posts/soccer-analytics-review-2023.html)
+     +    [2020](https://janvanhaaren.be/posts/soccer-analytics-review-2020/)
+     +    [2021](https://janvanhaaren.be/posts/soccer-analytics-review-2021/)
+     +    [2022](https://janvanhaaren.be/posts/soccer-analytics-review-2022/)
+     +    [2023](https://janvanhaaren.be/posts/soccer-analytics-review-2023/)
 *    [Jan Van Haaren](https://twitter.com/janvanhaaren)'s [`soccer-analytics-resources`](https://github.com/JanVanHaaren/soccer-analytics-resources) Github repo
 *    [`awesome-readme`](https://github.com/matiassingers/awesome-readme) repository by [Matias Singers](https://twitter.com/matiassingers) used to restyle this README
 *    Excel spreadsheet version of this README by [Melanie Loeper](https://twitter.com/mel_loeper) [link](https://docs.google.com/spreadsheets/d/1FKk0uvKMHPFZ2p3D42f4ZqQD6Si3LIZOf2Y5mo0k4as/edit?usp=sharing).
