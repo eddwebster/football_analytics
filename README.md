@@ -14,7 +14,6 @@
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/eddwebster/football_analytics.svg)
 ![GitHub Repository Size](https://img.shields.io/github/repo-size/eddwebster/football_analytics?style=plastic)
 [![Licence](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/eddwebster/football_analytics/master/LICENSE)
-[![Kofi Badge](https://img.shields.io/badge/Kofi-0077B5?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/eddwebster)
 
 </p>
 
@@ -44,7 +43,6 @@ For more information about this repository and the author, see the following:
 [![Linktree Badge](https://img.shields.io/badge/Linktree-43E660?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/eddwebster)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
-[![Kofi Badge](https://img.shields.io/badge/Kofi-0077B5?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/eddwebster)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
