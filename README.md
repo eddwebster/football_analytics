@@ -37,7 +37,7 @@ For more information about this repository and the author, see the following:
 
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://eddwebster.com/downloads/EddWebsterCV.pdf)
 [![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.eddwebster.com/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edd.j.webster@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eddwebsteranalytics@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
 [![Mastadon Badge](https://img.shields.io/badge/Mastadon-6364FF?style=flat&logo=mastadon&logoColor=white)](https://mastodon.skrimmage.com/@eddwebster)
@@ -3366,7 +3366,7 @@ Thanks to all those that have kindly wrote about or promoted this GitHub reposit
 
 <h2 id="contributing"> 🤝 Contributing</h2>
 
-This GitHub repository and resources list is always a work in progress, with new resources added semi-regularly. If you feel there's any resource(s) that I've missed, I'm always open to contributions! Please feel free to create a pull request or send me a message @ edd.j.webster@gmail.com or [@eddwebster](https://www.twitter.com/eddwebster) and I'll get back to you as quick as I can!
+This GitHub repository and resources list is always a work in progress, with new resources added semi-regularly. If you feel there's any resource(s) that I've missed, I'm always open to contributions! Please feel free to create a pull request or send me a message @ edd.webster.analytics@gmail.com or [@eddwebster](https://www.twitter.com/eddwebster) and I'll get back to you as quick as I can!
 
 If you're new to creating a pull request, please follow these steps (based on [this](https://scikit-learn.org/stable/developers/contributing.html#contributing-code))
 
