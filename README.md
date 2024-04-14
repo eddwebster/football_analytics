@@ -37,7 +37,6 @@ For more information about this repository and the author, see the following:
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eddwebsteranalytics@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddwebster)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
-[![Mastadon Badge](https://img.shields.io/badge/Mastadon-6364FF?style=flat&logo=mastadon&logoColor=white)](https://mastodon.skrimmage.com/@eddwebster)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-43E660?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/eddwebster)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eddwebster)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/profile/edd.webster)
