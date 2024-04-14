@@ -26,8 +26,6 @@
 <!-- ABOUT THE REPOSITORY AND AUTHOR -->
 <h2 id="about-the-repository-and-author"> 👋 About This Repository and Author</h2>
 
-<a href="https://www.twitter.com/eddwebster"><img src="img/fifa21eddwebsterbanner.png" alt="Edd Webster" align="right" height="225px"></a>
-
 The README of this repository is a resources guide of learning materials, data sources, libraries, papers, blogs, , etc., created by all those that have made contributions to the open source football analytics community. This GitHub repository and resources list is always a work in progress, with new resources added semi-regularly. If you feel there's any resource(s) that I have missed, please feel free to create a pull request or send me a message on the links above and I'll get back to you as quick as I can!
 
 If you like the repo, please feel free to give it a ⭐ (top right). Cheers!
