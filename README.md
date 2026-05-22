@@ -1166,7 +1166,7 @@ Check out the [`vizpiration`](https://github.com/eddwebster/football_analytics/t
 
 #### Tutorials
 *    [Son of a Corner](https://www.sonofacorner.com/tag/tutorials/)'s matplotlib and Python tutorials [[link](https://www.sonofacorner.com/tag/tutorials/)]. Tutorials include:
-* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+* [TutorialSearch](https://tutorialsearch.io/browse/data-science/alteryx-analytics) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
      +    [xG Rolling Charts](https://www.sonofacorner.com/xg-rolling-plots/)
      +    [Effective Bar Charts](https://www.sonofacorner.com/effective-bar-charts-a-matplotlib-tutorial/)
      +    [Tiled Shot Maps](https://www.sonofacorner.com/shot-maps-a-matplotlib-tutorial/)
