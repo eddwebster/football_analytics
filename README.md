@@ -1065,6 +1065,11 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [`soccercolleagues`](https://github.com/matt-dray/soccercolleagues) by [Matt Dray](https://twitter.com/mattdray) - find footballers' common team mates. See the following documentation [[link](https://matt-dray.github.io/soccercolleagues/)]
 *    [`soccermatics`](https://github.com/JoGall/soccermatics) by [Joe Gallagher](https://twitter.com/joedgallagher) - tools for visualisation and analysis of soccer tracking and event data
 *    [soccer_ggplots](https://github.com/Ryo-N7/soccer_ggplots) ⭐ by [Ryo Nakagawara](https://twitter.com/R_by_Ryo) - soccer/football analytics blog posts & data viz from the World Cup, Premier League, Copa America, and beyond. Using ggplot2, ggsoccer, & more
+
+*    [World Cup 2026 Player Data](https://github.com/risingtransfers/world-cup-2026-data) — All 48 squads (1,363 players) with per-90 stats and AI player similarity examples. CC BY 4.0.
+
+
+
 *    [`SportsAnalytics`](https://github.com/cran-task-views/SportsAnalytics) by [CRAN Task Views](https://github.com/cran-task-views) and maintained by Benjamin Baumer, Quang Nguyen, and Gregory Matthews - a list of packages useful for sports analytics
 *    [`sportyR`](https://github.com/sportsdataverse/sportyR) ⭐ by [Saiem Gilani](https://twitter.com/SaiemGilani) - package for drawing regulation playing surfaces for several sports
 *    [`SBpitch`](https://github.com/FCrSTATS/SBpitch) by [FC rSTATS](https://twitter.com/FC_rstats) - create a pitch plot ready for Statsbomb data
