@@ -588,6 +588,7 @@ The main providers of this data are SkillCorner and Sportlogiq.
 | ----- | -------- | ----------------------------- |
 | [BetExplorer](https://www.betexplorer.com/) | odds data | [Link](https://www.betexplorer.com/) |
 | [FiveThirtyEight Soccer Predictions database](https://projects.fivethirtyeight.com/soccer-predictions/) | football prediction data | [Link](https://projects.fivethirtyeight.com/soccer-predictions/) |
+| [Probaball](https://probaball.online/) | free, open data-science forecast of the 2026 FIFA World Cup — blends Elo (from ~50k internationals), de-vigged bookmaker odds, and expert picks (40/40/20), Monte Carlo of the tournament, daily-updated, publishes its Ranked Probability Score / calibration | [Link](https://probaball.online/) |
 | [Football-Data.co.uk](https://www.football-data.co.uk/) | free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles | [Link](https://www.football-data.co.uk/) |
 | [International football results from 1872 to 2020](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) | an up-to-date dataset of over 40,000 international football results by [Mart Jürisoo](https://github.com/martj42) | [Link](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) |
 
