@@ -2405,6 +2405,7 @@ The list of clubs is quite UK-centric. I would like to add more clubs but it tak
 *    [Teamworkonline](https://www.teamworkonline.com/)
 *    [Training Ground Guru Job Board](https://trainingground.guru/submit-a-job). See also the [Training Ground Guru Twitter account](https://twitter.com/ground_guru)
 *    [Women in Football](https://www.womeninfootball.co.uk/jobs-and-courses/)
+*    [ParlayJobs](https://www.parlayjobs.com/)
 
 
 <h4 id="jobs-betting-companies"> Other Website Lists</h4>
