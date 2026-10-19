@@ -1377,6 +1377,10 @@ See the following webpages of conference papers per year (where available):
 *    [StatsBomb](https://statsbomb.com/) - [2019](https://statsbomb.com/news/statsbomb-conference-research-papers-1/), [2021](https://statsbomb.com/news/statsbomb-conference-2021-research-papers/), [2022](https://statsbomb.com/articles/soccer/statsbomb-conference-2022-research-papers/)
 
 
+<h5 id="2026"> 2026</h5>
+
+*    [Football Beliefs, Tested: Pre-registered, Multi-population Evaluation of Tactical Decision Rules with Placebo-based Selection Checks](https://github.com/ranausmanai/count-and-strike/blob/main/paper/Football_Beliefs_Tested_White_Paper.pdf) (2026) by Rana Muhammad Usman. Tests 20 coaching beliefs and ~9,400 tactical rules on StatsBomb 360 and open tracking data. See the accompanying GitHub repository [[link](https://github.com/ranausmanai/count-and-strike)]
+
 <h5 id="2022"> 2022</h5>
 
 *    [A study of Prediction models for football player valuations by quantifying statistical and economic attributes for the global transfer market](https://www.researchgate.net/publication/336786013_A_study_of_Prediction_models_for_football_player_valuations_by_quantifying_statistical_and_economic_attributes_for_the_global_transfer_market) (2022) by Dibyanshu Patnaik, Harsh Praharaj, Kartikeya Prakash, and Krishna Samdani
