@@ -590,6 +590,7 @@ The main providers of this data are SkillCorner and Sportlogiq.
 | [FiveThirtyEight Soccer Predictions database](https://projects.fivethirtyeight.com/soccer-predictions/) | football prediction data | [Link](https://projects.fivethirtyeight.com/soccer-predictions/) |
 | [Football-Data.co.uk](https://www.football-data.co.uk/) | free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles | [Link](https://www.football-data.co.uk/) |
 | [International football results from 1872 to 2020](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) | an up-to-date dataset of over 40,000 international football results by [Mart Jürisoo](https://github.com/martj42) | [Link](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) |
+| [Footalytics Settled Predictions](https://github.com/footalytics/footalytics-data) | Public scored AI 1X2 CSV (free, no signup, CC BY 4.0). Pre-kickoff picks graded after the match; daily auto-update. Live board: https://footalytics.farvor.com/accuracy | [GitHub](https://github.com/footalytics/footalytics-data) / [CSV](https://footalytics.farvor.com/api/public/accuracy/settled.csv) |
 
 
 <br>
