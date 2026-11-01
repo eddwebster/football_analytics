@@ -1296,6 +1296,7 @@ For a Twitter thread of the football analytics blogs from 2009 an earlier, see t
 *    [FC Python](https://fcpython.com/category/blog) by Jamie Dos Anjos ([FC Python](https://twitter.com/FC_Python))
 *    [FiveThirtyEight Sports](https://fivethirtyeight.com/sports/)
 *    [Football Crunching](https://medium.com/football-crunching) by [Ricardo Tavares](https://twitter.com/rjtavares)
+*    [Football Edge Lab](https://footballedgelab.com/) - probabilistic forecasts, public model evaluation, and original research on luck, weather, and fixture congestion with downloadable results
 *    [Football Data Science](http://business-analytic.co.uk/blog/home-page/) by [Dr. Garry Gelade](https://twitter.com/GarryGelade)
 *    [Football Philosophy](http://footballphilosophy.org/) by Joost van der Leij
 *    [Football Science](https://www.footballscience.net/) by Michael C. Rumpf
