@@ -588,6 +588,7 @@ The main providers of this data are SkillCorner and Sportlogiq.
 | ----- | -------- | ----------------------------- |
 | [BetExplorer](https://www.betexplorer.com/) | odds data | [Link](https://www.betexplorer.com/) |
 | [FiveThirtyEight Soccer Predictions database](https://projects.fivethirtyeight.com/soccer-predictions/) | football prediction data | [Link](https://projects.fivethirtyeight.com/soccer-predictions/) |
+| [Football Analytics open data](https://github.com/serayd61/football-predictions-open-data) | pre-match 1X2 probabilities and goal expectations of a Dixon-Coles model for every settled match in 17 competitions since June 2026, with final scores; CSV, refreshed daily, CC BY 4.0 | [GitHub repo](https://github.com/serayd61/football-predictions-open-data) |
 | [Football-Data.co.uk](https://www.football-data.co.uk/) | free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles | [Link](https://www.football-data.co.uk/) |
 | [International football results from 1872 to 2020](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) | an up-to-date dataset of over 40,000 international football results by [Mart Jürisoo](https://github.com/martj42) | [Link](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) |
 
