@@ -636,6 +636,7 @@ See [Mark Wilkin](https://twitter.com/biscuitchaser)'s Twitter thread for more a
 | [Tableau data resources](https://public.tableau.com/en-us/s/resources?qt-overview_resources=1#qt-overview_resources) | including sports data | [Link](https://public.tableau.com/en-us/s/resources?qt-overview_resources=1#qt-overview_resources) |
 | [Transfer League](http://www.transferleague.co.uk) |  | [Link](http://www.transferleague.co.uk)  |
 | [Twelve Football](https://twelve.football/) |  | [Link](https://twelve.football/) |
+| [vereinsweg.de](https://www.vereinsweg.de/daten/) | Season-by-season histories of 129 German clubs (league tier, position, titles) and recorded matches; JSON and CSV per club (ODbL / CC BY-SA 4.0) | [Link](https://www.vereinsweg.de/daten/) |
 | [wosostats](https://github.com/amj2012/wosostats) | Women's soccer data from around the world | [Link](https://github.com/amj2012/wosostats) |
 
 
