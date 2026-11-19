@@ -1145,6 +1145,7 @@ lucpappalard) - a data-driven framework that offers a principled multi-dimension
 *    [Soccer Analytics Library](https://larsmaurath.shinyapps.io/soccer-analytics-library/) by [Lars Maurath](https://twitter.com/thesignigame)
 *    [Tracking Tagger](http://tracking-tagger.herokuapp.com/tracking_tagger) by [@danzn1](https://twitter.com/danzn1). See GitHub repo [[[link](https://github.com/znstrider/tracking_tagger)]
 *    [Twelve Football](https://twelve.football/)
+*    [Footalytics](https://footalytics.farvor.com) by Footalytics Team - an AI football prediction platform that publishes every match prediction before kickoff and grades it afterward; win/draw/loss probabilities, confidence tiers and team ratings for the top leagues, with the full [accuracy ledger](https://footalytics.farvor.com/accuracy) publicly viewable and exported as CSV
 *    [YouTubeCoder](https://fcpythonvideocoder.netlify.app/) Event video tagging Jamie Dos Anjos ([FC Python](https://twitter.com/FC_Python))
 
 
