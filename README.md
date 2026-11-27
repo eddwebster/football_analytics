@@ -566,6 +566,7 @@ The main providers of this data are SkillCorner and Sportlogiq.
 | [smarterscout](https://smarterscout.com/) | Scouting and player rating information platform for evaluating the performance of football players around the world. The platform was developed by [Dan Altman](https://twitter.com/smarterscout/status/1247494405688352768) at North Yard Analytics to assess players' contributions to winning, their playing style, and their skill level. **Note**: this is a subscription service. | [Link](https://smarterscout.com/) |
 | [SofaScore](https://www.sofascore.com/) | Live scores, lineups, standings, heatmaps, and basic teams, coaches and player data | [Link](https://www.sofascore.com/) |
 | [Soccerway](https://uk.soccerway.com/) | Match sheet data | [Link](https://uk.soccerway.com/) |
+| [SportStatsAPI](https://sportstatsapi.com/) | REST API with fixtures, results, live scores, standings and goal events for football leagues and cups worldwide, down to regional leagues (also other sports). Free API key: 100 requests a day, current season, non-commercial use with a credit link | [API docs](https://sportstatsapi.com/docs/) |
 
 
 <br>
